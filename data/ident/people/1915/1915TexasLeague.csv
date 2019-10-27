@@ -1,15 +1,15 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
 minoraverages/1916Reach,1915,Texas League,arbogast,B01384,Abrogast,,0,Beaumont,,,10,,
 minoraverages/1916Reach,1915,Texas League,arbogast,F20776,Abrogast,,0,Beaumont,,,,,c9
-boxscores/1915/1915-DMN,1915,Texas League,aiken@ump,P9327966,Aiken,,,#umpire,19150408,19150425,,,
-boxscores/1915/1915-DMN,1915,Texas League,akers,P5381769,Akers,,,Fort Worth,19150410,19150416,2,2,p2
-boxscores/1915/1915-DMN,1915,Texas League,aiken@ump,P2256377,Akin,,,#umpire,19150414,19150421,,,
+boxscores/1915/1915-DMN,1915,Texas League,aiken@ump,P9327966,Aiken,,,#umpire,19150408,19150430,,,
+boxscores/1915/1915-DMN,1915,Texas League,akers,P5381769,Akers,,,Fort Worth,19150410,19150426,3,3,p3
+boxscores/1915/1915-DMN,1915,Texas League,aiken@ump,P2256377,Akin,,,#umpire,19150414,19150501,,,
 boxscores/1915/1915-DMN,1915,Texas League,allen-hou,P0757569,Allen,S.,,Houston,19150412,19150416,5,0,c5
 boxscores/1915/1915-DMN,1915,Texas League,allen-gal,P1005603,Allen,R.,,Galveston,19150420,19150425,2,2,p2
 boxscores/1915/1915-DMN,1915,Texas League,allen-hou,P3532180,Allen,F.,,Houston,19150417,19150425,3,0,c3
-boxscores/1915/1915-DMN,1915,Texas League,allen-sa,P6225098,Allen,,,San Antonio,19150409,19150425,8,0,"of8,lf1,cf7"
-boxscores/1915/1915-DMN,1915,Texas League,allen-hou,P9008352,Allen,,,Houston,19150408,19150422,4,0,c4
-boxscores/1915/1915-DMN,1915,Texas League,allen-gal,P9835107,Allen,,,Galveston,19150412,19150419,3,3,p3
+boxscores/1915/1915-DMN,1915,Texas League,allen-sa,P6225098,Allen,,,San Antonio,19150409,19150501,13,0,"of11,lf2,cf9"
+boxscores/1915/1915-DMN,1915,Texas League,allen-hou,P9008352,Allen,,,Houston,19150408,19150501,10,0,c10
+boxscores/1915/1915-DMN,1915,Texas League,allen-gal,P9835107,Allen,,,Galveston,19150412,19150501,5,5,p5
 boxscores/1915/1915-DMN,1915,Texas League,allen-sa,P9872964,Allen,L.,,San Antonio,19150417,19150420,4,0,"of4,cf4"
 minoraverages/1916Reach,1915,Texas League,allen-hou,B00948,Allen,,0,Houston,,,92,,
 minoraverages/1916Reach,1915,Texas League,allen-sa,B01162,Allen,L.,0,San Antonio,,,20,,
@@ -28,10 +28,11 @@ minoraverages/Wright,1915,Texas League,allen-gal,P10455,Allen,Roy,0,Galveston,,,
 boxscores/1915/1915-DMN,1915,Texas League,allen-gal,P2159727,Allen [GAL],,,Galveston,19150416,19150416,1,1,p1
 boxscores/1915/1915-DMN,1915,Texas League,allen-hou,P4186372,Allen [HOU],,,Houston,19150411,19150411,1,0,c1
 boxscores/1915/1915-DMN,1915,Texas League,allen-sa,P1648950,Allen [SA],,,San Antonio,19150411,19150411,1,0,"of1,cf1"
+boxscores/1915/1915-DMN,1915,Texas League,anderson@ump,P1580336,Anderson,,,#umpire,19150430,19150501,,,
 minoraverages/Wright,1915,Texas League,arbogast,B01288,Arbogast,Parker,0,Beaumont,,,10,,
 minoraverages/Wright,1915,Texas League,arbogast,F21427,Arbogast,Parker,0,Beaumont,,,,,c
 boxscores/1915/1915-DMN,1915,Texas League,arnold@ump,P4935990,Arnold,,,#umpire,19150408,19150415,,,
-boxscores/1915/1915-DMN,1915,Texas League,ashton,P9368699,Ashton,,,Waco,19150418,19150421,2,2,p2
+boxscores/1915/1915-DMN,1915,Texas League,ashton,P9368699,Ashton,,,Waco,19150418,19150430,4,4,p4
 minoraverages/1916Reach,1915,Texas League,ashton,B00794,Ashton,,0,Fort Worth,,,25,,
 minoraverages/1916Reach,1915,Texas League,ashton,F20240,Ashton,,0,Fort Worth,,,,,p25
 minoraverages/1916Reach,1915,Texas League,ashton,P10266,Ashton,,0,Fort Worth,,,,25,
@@ -44,7 +45,7 @@ minoraverages/Wright,1915,Texas League,ashton,F21879,Ashton,Jack,T,,,,,,p25
 minoraverages/Wright,1915,Texas League,ashton,P10516,Ashton,Jack,1,Waco,,,,,
 minoraverages/Wright,1915,Texas League,ashton,P10516,Ashton,Jack,2,Fort Worth,,,,,
 minoraverages/Wright,1915,Texas League,ashton,P10516,Ashton,Jack,T,,,,,25,
-boxscores/1915/1915-DMN,1915,Texas League,atz,P1140066,Atz,,,Fort Worth,19150408,19150424,14,0,2b14
+boxscores/1915/1915-DMN,1915,Texas League,atz,P1140066,Atz,,,Fort Worth,19150408,19150501,20,0,2b20
 minoraverages/1916Reach,1915,Texas League,atz,B00255,Atz,,0,Fort Worth,,,156,,
 minoraverages/1916Reach,1915,Texas League,atz,F20962,Atz,,0,Fort Worth,,,,,2b156
 minoraverages/Wright,1915,Texas League,atz,B00403,Atz,Jake,0,Fort Worth,,,156,,
@@ -52,29 +53,29 @@ minoraverages/Wright,1915,Texas League,atz,F20463,Atz,Jake,0,Fort Worth,,,,,2b15
 minoraverages/Wright,1915,Texas League,atz,M90047,Atz,Jake,,Fort Worth,,,,,
 minoraverages/emilbb,1915,Texas League,atz,M90897,Atz,Jake,,Fort Worth,,,,,
 boxscores/1915/1915-DMN,1915,Texas League,baerwald@ump,P5824856,Baerwald,,,#umpire,19150416,19150416,,,
-boxscores/1915/1915-DMN,1915,Texas League,baerwald,P8199737,Baerwald,,,Galveston,19150417,19150425,7,0,"of7,lf7"
+boxscores/1915/1915-DMN,1915,Texas League,baerwald,P8199737,Baerwald,,,Galveston,19150417,19150501,13,0,"of13,lf13"
 minoraverages/1916Reach,1915,Texas League,baerwald,B00638,Baerwald,,0,Galveston,,,121,,
 minoraverages/1916Reach,1915,Texas League,baerwald,F21840,Baerwald,,0,Galveston,,,,,lf84
 minoraverages/Wright,1915,Texas League,baerwald,B01359,Baerwald,Rudy,0,Galveston,,,121,,
 minoraverages/Wright,1915,Texas League,baerwald,F21502,Baerwald,Rudy,0,Galveston,,,,,of121
-boxscores/1915/1915-DMN,1915,Texas League,baggan,P2570686,Baggan,,,San Antonio,19150408,19150425,16,0,"of16,rf16"
+boxscores/1915/1915-DMN,1915,Texas League,baggan,P2570686,Baggan,,,San Antonio,19150408,19150501,22,0,"of22,rf22"
 minoraverages/1916Reach,1915,Texas League,baggan,F21553,Baggan,,0,San Antonio,,,,,rf24
 minoraverages/1916Reach,1915,Texas League,baggan,F21854,Baggan,,0,San Antonio,,,,,lf127
 minoraverages/Wright,1915,Texas League,baggan,B00229,Baggan,John,0,San Antonio,,,151,,
 minoraverages/Wright,1915,Texas League,baggan,F20265,Baggan,John,0,San Antonio,,,,,of151
-boxscores/1915/1915-DMN,1915,Texas League,balenti,P0045405,Balenti,,,San Antonio,19150408,19150425,16,0,ss16
+boxscores/1915/1915-DMN,1915,Texas League,balenti,P0045405,Balenti,,,San Antonio,19150408,19150501,22,0,ss22
 minoraverages/1916Reach,1915,Texas League,balenti,B00488,Balenti,,0,San Antonio,,,148,,
 minoraverages/1916Reach,1915,Texas League,balenti,F21356,Balenti,,0,San Antonio,,,,,ss148
 minoraverages/Wright,1915,Texas League,balenti,B00207,Balenti,Mike,0,San Antonio,,,148,,
 minoraverages/Wright,1915,Texas League,balenti,F20233,Balenti,Mike,0,San Antonio,,,,,ss148
-boxscores/1915/1915-DMN,1915,Texas League,barfoot,P4117636,Barfoot,,,Galveston,19150408,19150425,5,5,p5
+boxscores/1915/1915-DMN,1915,Texas League,barfoot,P4117636,Barfoot,,,Galveston,19150408,19150428,6,6,p6
 minoraverages/1916Reach,1915,Texas League,barfoot,B01108,Barfoot,,0,Galveston,,,41,,
 minoraverages/1916Reach,1915,Texas League,barfoot,F20211,Barfoot,,0,Galveston,,,,,p37
 minoraverages/1916Reach,1915,Texas League,barfoot,P10290,Barfoot,,0,Galveston,,,,36,
 minoraverages/Wright,1915,Texas League,barfoot,B01392,Barfoot,Clyde,0,Galveston,,,41,,
 minoraverages/Wright,1915,Texas League,barfoot,F21553,Barfoot,Clyde,0,Galveston,,,,,p36
 minoraverages/Wright,1915,Texas League,barfoot,P10464,Barfoot,Clyde,0,Galveston,,,,36,
-boxscores/1915/1915-DMN,1915,Texas League,barr,P9347045,Barr,,,San Antonio,19150408,19150423,14,0,"of14,lf12,cf2"
+boxscores/1915/1915-DMN,1915,Texas League,barr,P9347045,Barr,,,San Antonio,19150408,19150430,19,1,"p1,of18,lf16,cf2"
 minoraverages/1916Reach,1915,Texas League,barr,B00232,Barr,,0,Shreveport,,,142,,
 minoraverages/1916Reach,1915,Texas League,barr,F21045,Barr,,0,Shreveport,,,,,2b17
 minoraverages/1916Reach,1915,Texas League,barr,F21149,Barr,,0,Shreveport,,,,,3b8
@@ -92,7 +93,7 @@ minoraverages/Wright,1915,Texas League,barr,F21646,Barr,Hyder,1,San Antonio,,,,,
 minoraverages/Wright,1915,Texas League,barr,F21646,Barr,Hyder,2,Shreveport,,,,,2b
 minoraverages/Wright,1915,Texas League,barr,F21646,Barr,Hyder,T,,,,,,2b17
 minoraverages/1916Reach,1915,Texas League,baerwald,F21577,Bearwald,,0,Galveston,,,,,rf37
-boxscores/1915/1915-DMN,1915,Texas League,becker,P5621474,Becker,,,Shreveport,19150408,19150425,15,0,"of15,cf4,rf11"
+boxscores/1915/1915-DMN,1915,Texas League,becker,P5621474,Becker,,,Shreveport,19150408,19150501,21,0,"of21,cf10,rf11"
 minoraverages/1916Reach,1915,Texas League,becker,B00381,Becker,,0,Shreveport,,,132,,
 minoraverages/1916Reach,1915,Texas League,becker,F21566,Becker,,0,Shreveport,,,,,rf81
 minoraverages/1916Reach,1915,Texas League,becker,F21651,Becker,,0,Shreveport,,,,,cf50
@@ -109,13 +110,13 @@ minoraverages/1916Reach,1915,Texas League,burch,F20375,Birch,,0,San Antonio,,,,,
 minoraverages/1916Reach,1915,Texas League,burch,F20807,Birch,,0,San Antonio,,,,,1b12
 minoraverages/1916Reach,1915,Texas League,burch,F21130,Birch,,0,San Antonio,,,,,3b6
 minoraverages/Wright,1915,Texas League,burch,P10121,Birch,,0,San Antonio,,,,6,
-boxscores/1915/1915-DMN,1915,Texas League,bobo,P1514369,Bobo,,,Beaumont,19150408,19150421,13,0,"c5,ss7"
+boxscores/1915/1915-DMN,1915,Texas League,bobo,P1514369,Bobo,,,Beaumont,19150408,19150501,18,0,"c9,ss7,of1,rf1"
 minoraverages/1916Reach,1915,Texas League,bobo,B00450,Bobo,,0,Beaumont,,,124,,
 minoraverages/1916Reach,1915,Texas League,bobo,F21324,Bobo,,0,Beaumont,,,,,ss11
 minoraverages/Wright,1915,Texas League,bobo,B01197,Bobo,Chester,0,Beaumont,,,124,,
 minoraverages/Wright,1915,Texas League,bobo,F21335,Bobo,Chester,0,Beaumont,,,,,ss11
 minoraverages/1916Reach,1915,Texas League,toland,F20737,Boland,,0,Waco,,,,,c71
-boxscores/1915/1915-DMN,1915,Texas League,bono,P5662659,Bono,,,Dallas,19150418,19150424,2,2,p2
+boxscores/1915/1915-DMN,1915,Texas League,bono,P5662659,Bono,,,Dallas,19150418,19150429,3,3,p3
 minoraverages/1916Reach,1915,Texas League,bono,B01466,Bono,,0,Dallas,,,27,,
 minoraverages/1916Reach,1915,Texas League,bono,F20401,Bono,,0,Dallas,,,,,p27
 minoraverages/1916Reach,1915,Texas League,bono,P10373,Bono,,0,Dallas,,,,27,
@@ -126,14 +127,14 @@ minoraverages/1916Reach,1915,Texas League,bowden,F22012,Bouden,,0,San Antonio,,,
 minoraverages/1916Reach,1915,Texas League,bowden,B01234,Bowden,,0,San Antonio,,,7,,
 minoraverages/Wright,1915,Texas League,bowden,B00362,Bowden,Timmon,0,San Antonio,,,7,,
 minoraverages/Wright,1915,Texas League,bowden,F20425,Bowden,Timmon,0,San Antonio,,,,,of
-boxscores/1915/1915-DMN,1915,Texas League,brady,P1602151,Brady,,,Dallas,19150410,19150420,5,5,p5
+boxscores/1915/1915-DMN,1915,Texas League,brady,P1602151,Brady,,,Dallas,19150410,19150501,7,7,p7
 minoraverages/1916Reach,1915,Texas League,brady,B01376,Brady,,0,Dallas,,,98,,
 minoraverages/1916Reach,1915,Texas League,brady,F20449,Brady,,0,Dallas,,,,,p40
 minoraverages/1916Reach,1915,Texas League,brady,P10137,Brady,,0,Dallas,,,,40,
 minoraverages/Wright,1915,Texas League,brady,B00667,Brady,Neal,0,Dallas,,,40,,
 minoraverages/Wright,1915,Texas League,brady,F20768,Brady,Neal,0,Dallas,,,,,p40
 minoraverages/Wright,1915,Texas League,brady,P10192,Brady,Neal,0,Dallas,,,,40,
-boxscores/1915/1915-DMN,1915,Texas League,brant,P5288886,Brant,,,Beaumont,19150409,19150424,6,6,p6
+boxscores/1915/1915-DMN,1915,Texas League,brant,P5288886,Brant,,,Beaumont,19150409,19150428,7,7,p7
 minoraverages/1916Reach,1915,Texas League,brant,B01086,Brant,,0,Beaumont,,,37,,
 minoraverages/1916Reach,1915,Texas League,brant,F20417,Brant,,0,Beaumont,,,,,p37
 minoraverages/1916Reach,1915,Texas League,brant,P10312,Brant,,0,Beaumont,,,,38,
@@ -152,14 +153,14 @@ minoraverages/1916Reach,1915,Texas League,browning,P10399,Browning,,0,San Antoni
 minoraverages/Wright,1915,Texas League,browning,B00356,Browning,Frank,0,San Antonio,,,13,,
 minoraverages/Wright,1915,Texas League,browning,F20417,Browning,Frank,0,San Antonio,,,,,p12
 minoraverages/Wright,1915,Texas League,browning,P10100,Browning,Frank,0,San Antonio,,,,12,
-boxscores/1915/1915-DMN,1915,Texas League,brownlow,P5683471,Brownlow,,,Dallas,19150408,19150424,14,0,3b14
+boxscores/1915/1915-DMN,1915,Texas League,brownlow,P5683471,Brownlow,,,Dallas,19150408,19150501,20,0,3b20
 minoraverages/1916Reach,1915,Texas League,brownlow,B00822,Brownlow,,0,Dallas,,,146,,
 minoraverages/1916Reach,1915,Texas League,brownlow,F21174,Brownlow,,0,Dallas,,,,,3b87
 minoraverages/1916Reach,1915,Texas League,brownlow,F21293,Brownlow,,0,Dallas,,,,,ss57
 minoraverages/Wright,1915,Texas League,brownlow,B00609,Brownlow,Ben,0,Dallas,,,146,,
 minoraverages/Wright,1915,Texas League,brownlow,F20699,Brownlow,Ben,0,Dallas,,,,,3b87
 minoraverages/Wright,1915,Texas League,brownlow,F20700,Brownlow,Ben,0,Dallas,,,,,ss57
-boxscores/1915/1915-DMN,1915,Texas League,burch,P0449906,Burch,,,San Antonio,19150408,19150425,14,0,c14
+boxscores/1915/1915-DMN,1915,Texas League,burch,P0449906,Burch,,,San Antonio,19150408,19150501,18,0,c18
 minoraverages/1916Reach,1915,Texas League,burch,F20594,Burch,,0,San Antonio,,,,,c97
 minoraverages/1916Reach,1915,Texas League,burch,P10588,Burch,,0,San Antonio,,,,6,
 minoraverages/Wright,1915,Texas League,burch,B00255,Burch,John,0,San Antonio,,,121,,
@@ -177,7 +178,7 @@ minoraverages/1916Reach,1915,Texas League,carroll,F21207,Carroll,,0,Shreveport,,
 minoraverages/Wright,1915,Texas League,carroll,B01010,Carroll,Dorsey,0,Shreveport,,,34,,
 minoraverages/Wright,1915,Texas League,carroll,F21130,Carroll,Dorsey,0,Shreveport,,,,,3b27
 minoraverages/Wright,1915,Texas League,carroll,F21149,Carroll,Dorsey,0,Shreveport,,,,,of12
-boxscores/1915/1915-DMN,1915,Texas League,carson,P0276197,Carson,,,Beaumont,19150408,19150425,14,0,c14
+boxscores/1915/1915-DMN,1915,Texas League,carson,P0276197,Carson,,,Beaumont,19150408,19150428,17,0,c16
 boxscores/1915/1915-DMN,1915,Texas League,carson@ump,P6552412,Carson,,,#umpire,19150418,19150418,,,
 minoraverages/1916Reach,1915,Texas League,carson,F20700,Carson,,0,Galveston,,,,,c57
 minoraverages/Wright,1915,Texas League,carson,B01368,Carson,Tom,0,Galveston,,,,,
@@ -193,25 +194,26 @@ boxscores/1915/1915-DMN,1915,Texas League,chellette,P2024484,Chelette,,,Shrevepo
 minoraverages/Wright,1915,Texas League,chellette,B01086,Chelette,Hank,0,Shreveport,,,15,,
 minoraverages/Wright,1915,Texas League,chellette,F21210,Chelette,Hank,0,Shreveport,,,,,p15
 minoraverages/Wright,1915,Texas League,chellette,P10373,Chelette,Hank,0,Shreveport,,,,15,
-boxscores/1915/1915-DMN,1915,Texas League,chellette,P5048720,Chellette,,,Shreveport,19150420,19150420,1,1,p1
+boxscores/1915/1915-DMN,1915,Texas League,chellette,P5048720,Chellette,,,Shreveport,19150420,19150430,3,3,p3
 minoraverages/1916Reach,1915,Texas League,chellette,B01415,Chellette,,0,Shreveport,,,15,,
 minoraverages/1916Reach,1915,Texas League,chellette,F20474,Chellette,,0,Shreveport,,,,,p15
 minoraverages/1916Reach,1915,Texas League,chellette,P10441,Chellette,,0,Shreveport,,,,15,
 boxscores/1915/1915-DMN,1915,Texas League,clapp,P0498438,Clapp,,,Shreveport,19150408,19150418,8,0,"of7,lf1,cf6"
 boxscores/1915/1915-DMN,1915,Texas League,clark,P0746289,Clark,W.,,Beaumont,19150419,19150419,1,0,"of1,lf1"
-boxscores/1915/1915-DMN,1915,Texas League,clark,P2416364,Clark,,,Beaumont,19150408,19150425,17,0,"of17,lf17"
+boxscores/1915/1915-DMN,1915,Texas League,clark,P2416364,Clark,,,Beaumont,19150408,19150501,22,0,"of22,lf22"
 minoraverages/1916Reach,1915,Texas League,clarke,B00229,Clark,N.,0,Houston,,,65,,
 minoraverages/1916Reach,1915,Texas League,clark,B00726,Clark,,0,Beaumont,,,126,,
 minoraverages/1916Reach,1915,Texas League,clarke,F20699,Clark,N.,0,Houston,,,,,c56
 minoraverages/1916Reach,1915,Texas League,clark,F21833,Clark,,0,Beaumont,,,,,lf126
 minoraverages/Wright,1915,Texas League,clark,B01162,Clark,James,0,Beaumont,,,126,,
 minoraverages/Wright,1915,Texas League,clark,F21308,Clark,James,0,Beaumont,,,,,of126
+boxscores/1915/1915-DMN,1915,Texas League,clark,P7288625,Clarke,,,Beaumont,19150429,19150429,1,0,"of1,lf1"
 minoraverages/Wright,1915,Texas League,clarke,B00806,Clarke,Jay,0,Houston,,,65,,
 minoraverages/Wright,1915,Texas League,clarke,F20908,Clarke,Jay,0,Houston,,,,,c56
 minoraverages/1916Reach,1915,Texas League,cochran,B00037,Cochran,,0,Houston,,,2,,
 minoraverages/Wright,1915,Texas League,cochran,B00887,Cochran,Charles,0,Houston,,,12,,
 minoraverages/Wright,1915,Texas League,cochran,F20997,Cochran,Charles,0,Houston,,,,,of
-boxscores/1915/1915-DMN,1915,Texas League,conwell,P4547490,Conwell,,,Waco,19150408,19150423,10,0,"2b2,ss1"
+boxscores/1915/1915-DMN,1915,Texas League,conwell,P4547490,Conwell,,,Waco,19150408,19150501,12,0,"2b2,ss1,of2,cf1,rf1"
 minoraverages/1916Reach,1915,Texas League,conwell,B00210,Conwell,,0,Waco,,,122,,
 minoraverages/1916Reach,1915,Texas League,conwell,F20956,Conwell,,0,Waco,,,,,2b53
 minoraverages/1916Reach,1915,Texas League,conwell,F21076,Conwell,,0,Waco,,,,,3b42
@@ -220,11 +222,11 @@ minoraverages/Wright,1915,Texas League,conwell,B00092,Conwell,Ed,0,Waco,,,122,,
 minoraverages/Wright,1915,Texas League,conwell,F20095,Conwell,Ed,0,Waco,,,,,2b53
 minoraverages/Wright,1915,Texas League,conwell,F20102,Conwell,Ed,0,Waco,,,,,3b42
 minoraverages/Wright,1915,Texas League,conwell,F20115,Conwell,Ed,0,Waco,,,,,ss13
-boxscores/1915/1915-DMN,1915,Texas League,cooke,P7408907,Cook,,,Beaumont,19150419,19150419,1,0,1b1
+boxscores/1915/1915-DMN,1915,Texas League,cooke,P7408907,Cook,,,Beaumont,19150419,19150427,2,0,1b2
 minoraverages/1916Reach,1915,Texas League,cooke,B00442,Cook,,0,Beaumont,,,141,,
 minoraverages/1916Reach,1915,Texas League,cooke,F20878,Cook,,0,Beaumont,,,,,1b122
 minoraverages/1916Reach,1915,Texas League,cooke,F21427,Cook,,0,Beaumont,,,,,rf17
-boxscores/1915/1915-DMN,1915,Texas League,cooke,P2042544,Cooke,,,Beaumont,19150408,19150425,17,0,1b17
+boxscores/1915/1915-DMN,1915,Texas League,cooke,P2042544,Cooke,,,Beaumont,19150408,19150501,22,0,1b22
 minoraverages/Wright,1915,Texas League,cooke,B01119,Cooke,Ty,0,Beaumont,,,141,,
 minoraverages/Wright,1915,Texas League,cooke,F21241,Cooke,Ty,0,Beaumont,,,,,1b122
 minoraverages/Wright,1915,Texas League,cooke,F21255,Cooke,Ty,0,Beaumont,,,,,of17
@@ -241,7 +243,7 @@ minoraverages/Wright,1915,Texas League,coyle,F20072,Coyle,Norm,0,Waco,,,,,of116
 minoraverages/1916Reach,1915,Texas League,crable,B01321,Crabbel,,0,Shreveport,,,14,,
 minoraverages/1916Reach,1915,Texas League,crable,F20080,Crabbie,,0,Shreveport,,,,,p13
 boxscores/1915/1915-DMN,1915,Texas League,crable,P1365641,Crabble,,,San Antonio,19150409,19150409,1,1,p1
-boxscores/1915/1915-DMN,1915,Texas League,crable,P9092801,Crabble,,,Shreveport,19150421,19150425,2,2,p2
+boxscores/1915/1915-DMN,1915,Texas League,crable,P9092801,Crabble,,,Shreveport,19150421,19150428,3,3,p3
 minoraverages/1916Reach,1915,Texas League,crable,P10336,Crabble,,0,Shreveport,,,,13,
 minoraverages/Wright,1915,Texas League,crable,B01682,Crable,George,1,San Antonio,,,,,
 minoraverages/Wright,1915,Texas League,crable,B01682,Crable,George,2,Shreveport,,,,,
@@ -252,25 +254,25 @@ minoraverages/Wright,1915,Texas League,crable,F21904,Crable,George,T,,,,,,p13
 minoraverages/Wright,1915,Texas League,crable,P10534,Crable,George,1,San Antonio,,,,,
 minoraverages/Wright,1915,Texas League,crable,P10534,Crable,George,2,Shreveport,,,,,
 minoraverages/Wright,1915,Texas League,crable,P10534,Crable,George,T,,,,,13,
-boxscores/1915/1915-DMN,1915,Texas League,crichlow,P2375017,Crichlow,,,Waco,19150408,19150425,15,0,"of15,cf15"
+boxscores/1915/1915-DMN,1915,Texas League,crichlow,P2375017,Crichlow,,,Waco,19150408,19150501,19,0,"of19,cf19"
 minoraverages/1916Reach,1915,Texas League,crichlow,B00174,Crichlow,,0,Waco,,,148,,
 minoraverages/1916Reach,1915,Texas League,crichlow,F21646,Crichlow,,0,Waco,,,,,cf34
 minoraverages/1916Reach,1915,Texas League,crichlow,F21865,Crichlow,,0,Waco,,,,,lf114
 minoraverages/Wright,1915,Texas League,crichlow,B00059,Crichlow,George,0,Waco,,,148,,
 minoraverages/Wright,1915,Texas League,crichlow,F20051,Crichlow,George,0,Waco,,,,,of148
-boxscores/1915/1915-DMN,1915,Texas League,criss,P8457144,Criss,,,Houston,19150409,19150425,9,5,p5
+boxscores/1915/1915-DMN,1915,Texas League,criss,P8457144,Criss,,,Houston,19150409,19150428,12,5,"p5,1b1"
 minoraverages/1916Reach,1915,Texas League,criss,B00045,Criss,,0,Houston,,,63,,
 minoraverages/1916Reach,1915,Texas League,criss,F20298,Criss,,0,Houston,,,,,p32
 minoraverages/1916Reach,1915,Texas League,criss,P10056,Criss,,0,Houston,,,,28,
 minoraverages/Wright,1915,Texas League,criss,B00811,Criss,Dode,0,Houston,,,63,,
 minoraverages/Wright,1915,Texas League,criss,F20919,Criss,Dode,0,Houston,,,,,p29
 minoraverages/Wright,1915,Texas League,criss,P10266,Criss,Dode,0,Houston,,,,29,
-boxscores/1915/1915-DMN,1915,Texas League,crittenden,P3714723,Crittenden,,,Fort Worth,19150410,19150410,1,0,c1
+boxscores/1915/1915-DMN,1915,Texas League,crittenden,P3714723,Crittenden,,,Fort Worth,19150410,19150501,4,0,c3
 minoraverages/1916Reach,1915,Texas League,crittenden,B01509,Crittenden,,0,Fort Worth,,,13,,
 minoraverages/1916Reach,1915,Texas League,crittenden,F20745,Crittenden,,0,Fort Worth,,,,,c10
 minoraverages/Wright,1915,Texas League,crittenden,B00544,Crittendon,Richard,0,Fort Worth,,,13,,
 minoraverages/Wright,1915,Texas League,crittenden,F20620,Crittendon,Richard,0,Fort Worth,,,,,c10
-boxscores/1915/1915-DMN,1915,Texas League,crouch,P0105977,Crouch,,,Dallas,19150408,19150424,14,0,"of14,lf14"
+boxscores/1915/1915-DMN,1915,Texas League,crouch,P0105977,Crouch,,,Dallas,19150408,19150501,20,0,"of20,lf20"
 minoraverages/1916Reach,1915,Texas League,crouch,B00182,Crouch,,0,Dallas,,,152,,
 minoraverages/1916Reach,1915,Texas League,crouch,F21528,Crouch,,0,Dallas,,,,,rf17
 minoraverages/1916Reach,1915,Texas League,crouch,F21879,Crouch,,0,Dallas,,,,,lf135
@@ -289,14 +291,14 @@ minoraverages/Wright,1915,Texas League,crumm,F21898,Crumm,Cal,T,,,,,,p22
 minoraverages/Wright,1915,Texas League,crumm,P10542,Crumm,Cal,1,San Antonio,,,,,
 minoraverages/Wright,1915,Texas League,crumm,P10542,Crumm,Cal,2,Shreveport,,,,,
 minoraverages/Wright,1915,Texas League,crumm,P10542,Crumm,Cal,T,,,,,22,
-boxscores/1915/1915-DMN,1915,Texas League,davenport,P6213969,Davenport,,,San Antonio,19150409,19150419,4,4,p4
+boxscores/1915/1915-DMN,1915,Texas League,davenport,P6213969,Davenport,,,San Antonio,19150409,19150429,6,6,p6
 minoraverages/1916Reach,1915,Texas League,davenport,B01551,Davenport,,0,San Antonio,,,7,,
 minoraverages/1916Reach,1915,Texas League,davenport,F20038,Davenport,,0,San Antonio,,,,,p7
 minoraverages/1916Reach,1915,Texas League,davenport,P10070,Davenport,,0,San Antonio,,,,7,
 minoraverages/Wright,1915,Texas League,davenport,B00370,Davenport,Ben,0,San Antonio,,,7,,
 minoraverages/Wright,1915,Texas League,davenport,F20430,Davenport,Ben,0,San Antonio,,,,,p7
 minoraverages/Wright,1915,Texas League,davenport,P10113,Davenport,Ben,0,San Antonio,,,,7,
-boxscores/1915/1915-DMN,1915,Texas League,davis,P2020651,Davis,,,Houston,19150408,19150425,17,0,"of17,rf17"
+boxscores/1915/1915-DMN,1915,Texas League,davis,P2020651,Davis,,,Houston,19150408,19150501,23,0,"of23,rf23"
 boxscores/1915/1915-DMN,1915,Texas League,davis-w,P7799018,Davis,,,Fort Worth,19150410,19150414,3,0,3b1
 minoraverages/1916Reach,1915,Texas League,davis,B01143,Davis,,0,Houston,,,74,,
 minoraverages/1916Reach,1915,Texas League,davis,F21822,Davis,,0,Houston,,,,,lf8
@@ -306,7 +308,7 @@ minoraverages/Wright,1915,Texas League,davis,B01595,Davis,Gerald,T,,,,74,,
 minoraverages/Wright,1915,Texas League,davis,F21811,Davis,Gerald,1,Houston,,,,,of
 minoraverages/Wright,1915,Texas League,davis,F21811,Davis,Gerald,2,Shreveport,,,,,of
 minoraverages/Wright,1915,Texas League,davis,F21811,Davis,Gerald,T,,,,,,of
-boxscores/1915/1915-DMN,1915,Texas League,dilger,P5939374,Dilger,,,Galveston,19150409,19150425,8,0,c7
+boxscores/1915/1915-DMN,1915,Texas League,dilger,P5939374,Dilger,,,Galveston,19150409,19150501,13,0,c11
 minoraverages/1916Reach,1915,Texas League,dilger,B01313,Dilger,,0,Beaumont,,,76,,
 minoraverages/1916Reach,1915,Texas League,dilger,F20620,Dilger,,0,Beaumont,,,,,c70
 minoraverages/Wright,1915,Texas League,dilger,B01181,Dilger,Fred,0,Beaumont,,,,,
@@ -320,7 +322,7 @@ minoraverages/Wright,1915,Texas League,dilger,F21806,Dilger,Fred,T,,,,,,c70
 boxscores/1915/1915-DMN,1915,Texas League,dodd-hou,P0756031,Dodd,Oran,,Houston,19150420,19150420,1,0,c1
 boxscores/1915/1915-DMN,1915,Texas League,dodd-bea,P1094328,Dodd,Ona,,Beaumont,19150420,19150421,2,0,2b2
 boxscores/1915/1915-DMN,1915,Texas League,dodd-hou,P6484591,Dodd,,,Houston,19150418,19150419,2,0,c2
-boxscores/1915/1915-DMN,1915,Texas League,dodd-bea,P8066490,Dodd,,,Beaumont,19150408,19150425,16,0,2b16
+boxscores/1915/1915-DMN,1915,Texas League,dodd-bea,P8066490,Dodd,,,Beaumont,19150408,19150501,22,0,2b22
 boxscores/1915/1915-DMN,1915,Texas League,dodd-hou,P8382639,Dodd,O.U.,,Houston,19150421,19150421,1,0,c1
 minoraverages/1916Reach,1915,Texas League,dodd-bea,B00319,Dodd,,0,Beaumont,,,142,,
 minoraverages/1916Reach,1915,Texas League,dodd-hou,B01032,Dodd,O. U.,0,Houston,,,31,,
@@ -333,12 +335,13 @@ minoraverages/Wright,1915,Texas League,dodd-bea,B01124,Dodd,Ona,0,Beaumont,,,142
 minoraverages/Wright,1915,Texas League,dodd-hou,F20981,Dodd,Oran,0,Houston,,,,,of12
 minoraverages/Wright,1915,Texas League,dodd-bea,F21264,Dodd,Ona,0,Beaumont,,,,,2b139
 minoraverages/1916Reach,1915,Texas League,donalds,B01300,Donald,,0,Waco,,,40,,
-boxscores/1915/1915-DMN,1915,Texas League,donalds,P3749139,Donalds,,,Waco,19150411,19150423,4,4,p4
+boxscores/1915/1915-DMN,1915,Texas League,donalds,P3749139,Donalds,,,Waco,19150411,19150428,5,5,p5
 minoraverages/1916Reach,1915,Texas League,donalds,F20115,Donalds,,0,Waco,,,,,p40
 minoraverages/1916Reach,1915,Texas League,donalds,P10184,Donalds,,0,Waco,,,,39,
 minoraverages/Wright,1915,Texas League,donalds,B00149,Donalds,Eddie,0,Waco,,,40,,
 minoraverages/Wright,1915,Texas League,donalds,F20166,Donalds,Eddie,0,Waco,,,,,p39
 minoraverages/Wright,1915,Texas League,donalds,P10024,Donalds,Eddie,0,Waco,,,,39,
+boxscores/1915/1915-DMN,1915,Texas League,drennan,P9342644,Drennan,,,Waco,19150426,19150430,5,0,"of4,cf4"
 minoraverages/1916Reach,1915,Texas League,duffy,F20131,Duffey,,0,Shreveport,,,,,p14
 minoraverages/1916Reach,1915,Texas League,duffy,B00553,Duffy,,0,Shreveport,,,16,,
 minoraverages/1916Reach,1915,Texas League,duffy,P10019,Duffy,,0,Shreveport,,,,14,
@@ -349,14 +352,14 @@ minoraverages/1916Reach,1915,Texas League,dunckel,B00502,Dunckel,,0,San Antonio,
 minoraverages/1916Reach,1915,Texas League,dunckel,F20792,Dunckel,,0,San Antonio,,,,,1b70
 minoraverages/Wright,1915,Texas League,dunckel,B00182,Dunckel,Earl,0,San Antonio,,,70,,
 minoraverages/Wright,1915,Texas League,dunckel,F20206,Dunckel,Earl,0,San Antonio,,,,,1b70
-boxscores/1915/1915-DMN,1915,Texas League,dunn,P6084746,Dunn,,,Dallas,19150408,19150424,3,0,c2
+boxscores/1915/1915-DMN,1915,Texas League,dunn,P6084746,Dunn,,,Dallas,19150408,19150501,9,0,c8
 minoraverages/1916Reach,1915,Texas League,dunn,B00957,Dunn,,0,Dallas,,,110,,
 minoraverages/1916Reach,1915,Texas League,dunn,F20636,Dunn,,0,Dallas,,,,,c109
 minoraverages/Wright,1915,Texas League,dunn,B00646,Dunn,Joe,0,Dallas,,,110,,
 minoraverages/Wright,1915,Texas League,dunn,F20745,Dunn,Joe,0,Dallas,,,,,c109
 minoraverages/Wright,1915,Texas League,dunn,M90052,Dunn,Joe,,Dallas,,,,,
 minoraverages/emilbb,1915,Texas League,dunn,M90909,Dunn,Joe,,Dallas,,,,,
-boxscores/1915/1915-DMN,1915,Texas League,durkin,P6442979,Durkin,,,Shreveport,19150408,19150425,15,0,ss15
+boxscores/1915/1915-DMN,1915,Texas League,durkin,P6442979,Durkin,,,Shreveport,19150408,19150501,20,0,ss20
 minoraverages/1916Reach,1915,Texas League,durkin,B00904,Durkin,,0,Houston,,,129,,
 minoraverages/1916Reach,1915,Texas League,durkin,F21196,Durkin,,0,Houston,,,,,3b67
 minoraverages/1916Reach,1915,Texas League,durkin,F21381,Durkin,,0,Houston,,,,,ss48
@@ -374,7 +377,7 @@ minoraverages/Wright,1915,Texas League,durkin,F21695,Durkin,James,1,Houston,,,,,
 minoraverages/Wright,1915,Texas League,durkin,F21695,Durkin,James,2,Shreveport,,,,,of
 minoraverages/Wright,1915,Texas League,durkin,F21695,Durkin,James,T,,,,,,of10
 boxscores/1915/1915-DMN,1915,Texas League,durr,P1853980,Durr,,,Beaumont,19150411,19150413,2,0,"c2,of1,lf1"
-boxscores/1915/1915-DMN,1915,Texas League,edmondson,P6471067,Edmondson,,,Houston,19150413,19150425,3,3,p3
+boxscores/1915/1915-DMN,1915,Texas League,edmondson,P6471067,Edmondson,,,Houston,19150413,19150429,4,4,p4
 minoraverages/1916Reach,1915,Texas League,edmondson,B01250,Edmondson,,0,Houston,,,42,,
 minoraverages/Wright,1915,Texas League,edmondson,B00840,Edmondson,Roger,0,Houston,,,42,,
 minoraverages/Wright,1915,Texas League,edmondson,F20956,Edmondson,Roger,0,Houston,,,,,p34
@@ -383,7 +386,7 @@ minoraverages/1916Reach,1915,Texas League,edmondson,P10357,Edmonston,,0,Houston,
 minoraverages/1916Reach,1915,Texas League,elwert,F21068,Elvert,,0,Galveston,,,,,3b32
 minoraverages/Wright,1915,Texas League,elwert,B01321,Elwert,William,0,Galveston,,,32,,
 minoraverages/Wright,1915,Texas League,elwert,F21475,Elwert,William,0,Galveston,,,,,3b32
-boxscores/1915/1915-DMN,1915,Texas League,ens,P8768411,Ens,,,Dallas,19150408,19150424,14,0,"1b2,ss12"
+boxscores/1915/1915-DMN,1915,Texas League,ens,P8768411,Ens,,,Dallas,19150408,19150501,20,0,"1b2,ss18"
 minoraverages/1916Reach,1915,Texas League,ens,B00672,Ens,,0,Dallas,,,107,,
 minoraverages/1916Reach,1915,Texas League,ens,F20784,Ens,,0,Dallas,,,,,1b13
 minoraverages/1916Reach,1915,Texas League,ens,F21013,Ens,,0,Dallas,,,,,2b9
@@ -394,7 +397,7 @@ minoraverages/Wright,1915,Texas League,ens,F20685,Ens,Jewel,0,Dallas,,,,,1b13
 boxscores/1915/1915-DMN,1915,Texas League,eunich,P9168081,Eunich,,,Dallas,19150408,19150412,3,0,ss2
 minoraverages/1916Reach,1915,Texas League,elwert,B00324,Evert,,0,Galveston,,,32,,
 minoraverages/1916Reach,1915,Texas League,fleharty,P10202,Felartz,,0,Fort Worth,,,,8,
-boxscores/1915/1915-DMN,1915,Texas League,fentress,P6338525,Fentress,,,Fort Worth,19150408,19150418,4,3,"p3,of1,cf1"
+boxscores/1915/1915-DMN,1915,Texas League,fentress,P6338525,Fentress,,,Fort Worth,19150408,19150428,6,4,"p4,of1,cf1"
 minoraverages/1916Reach,1915,Texas League,fentress,B00806,Fentress,,0,Fort Worth,,,42,,
 minoraverages/1916Reach,1915,Texas League,fentress,F20350,Fentress,,0,Fort Worth,,,,,p37
 minoraverages/1916Reach,1915,Texas League,fentress,P10121,Fentress,,0,Fort Worth,,,,37,
@@ -404,11 +407,11 @@ minoraverages/Wright,1915,Texas League,fentress,P10145,Fentress,Roy,0,Fort Worth
 minoraverages/1916Reach,1915,Texas League,fisher,B00544,Fisher,,0,Beaumont,,,12,,
 minoraverages/Wright,1915,Texas League,fisher,B01275,Fisher,J. G.,0,Beaumont,,,12,,
 minoraverages/Wright,1915,Texas League,fisher,F21416,Fisher,J. G.,0,Beaumont,,,,,of
-boxscores/1915/1915-DMN,1915,Texas League,fleharty,P1474546,Fleharty,,,Fort Worth,19150411,19150424,3,3,p3
+boxscores/1915/1915-DMN,1915,Texas League,fleharty,P1474546,Fleharty,,,Fort Worth,19150411,19150501,5,5,p5
 minoraverages/Wright,1915,Texas League,fleharty,P10550,Fleharty,Earl,1,Fort Worth,,,,,
 minoraverages/Wright,1915,Texas League,fleharty,P10550,Fleharty,Earl,2,Shreveport,,,,,
 minoraverages/Wright,1915,Texas League,fleharty,P10550,Fleharty,Earl,T,,,,,8,
-boxscores/1915/1915-DMN,1915,Texas League,frantz,P6552074,Frantz,,,Dallas,19150409,19150424,13,2,"p2,1b11"
+boxscores/1915/1915-DMN,1915,Texas League,frantz,P6552074,Frantz,,,Dallas,19150409,19150501,19,2,"p2,1b17"
 minoraverages/1916Reach,1915,Texas League,frantz,B00771,Frantz,,0,Beaumont,,,110,,
 minoraverages/1916Reach,1915,Texas League,frantz,F20526,Frantz,,0,Beaumont,,,,,p10
 minoraverages/1916Reach,1915,Texas League,frantz,F20841,Frantz,,0,Beaumont,,,,,1b87
@@ -425,12 +428,12 @@ minoraverages/Wright,1915,Texas League,frantz,F21747,Frantz,Walter,T,,,,,,p10
 minoraverages/Wright,1915,Texas League,frantz,P10569,Frantz,Walter,1,Dallas,,,,,
 minoraverages/Wright,1915,Texas League,frantz,P10569,Frantz,Walter,2,Beaumont,,,,,
 minoraverages/Wright,1915,Texas League,frantz,P10569,Frantz,Walter,T,,,,,10,
-boxscores/1915/1915-DMN,1915,Texas League,frierson,P5611740,Frierson,,,Houston,19150408,19150425,13,0,"of12,cf12"
+boxscores/1915/1915-DMN,1915,Texas League,frierson,P5611740,Frierson,,,Houston,19150408,19150501,19,0,"of18,cf18"
 minoraverages/1916Reach,1915,Texas League,frierson,B00362,Frierson,,0,Houston,,,134,,
 minoraverages/1916Reach,1915,Texas League,frierson,F21752,Frierson,,0,Houston,,,,,cf130
 minoraverages/Wright,1915,Texas League,frierson,B00771,Frierson,John,0,Houston,,,134,,
 minoraverages/Wright,1915,Texas League,frierson,F20878,Frierson,John,0,Houston,,,,,of130
-boxscores/1915/1915-DMN,1915,Texas League,fuller,P5379104,Fuller,,,Shreveport,19150408,19150423,11,0,"of10,lf10"
+boxscores/1915/1915-DMN,1915,Texas League,fuller,P5379104,Fuller,,,Shreveport,19150408,19150501,14,0,"of11,lf11"
 minoraverages/1916Reach,1915,Texas League,fuller,B01029,Fuller,,0,Shreveport,,,17,,
 minoraverages/1916Reach,1915,Texas League,fuller,F21898,Fuller,,0,Shreveport,,,,,lf12
 minoraverages/Wright,1915,Texas League,fuller,B01064,Fuller,W.,0,Shreveport,,,17,,
@@ -445,7 +448,7 @@ minoraverages/Wright,1915,Texas League,garvin,F21232,Garvin,Lee,0,Shreveport,,,,
 minoraverages/Wright,1915,Texas League,garvin,M90071,Garvin,Lee,,Shreveport,,,,,
 minoraverages/emilbb,1915,Texas League,garvin,M90923,Garvin,Lee,,Shreveport,,,,,
 minoraverages/1916Reach,1915,Texas League,glenn,F20046,Glen,,0,Houston,,,,,p9
-boxscores/1915/1915-DMN,1915,Texas League,glenn,P1322952,Glenn,,,Houston,19150410,19150420,4,4,p4
+boxscores/1915/1915-DMN,1915,Texas League,glenn,P1322952,Glenn,,,Houston,19150410,19150430,6,6,p6
 minoraverages/1916Reach,1915,Texas League,glenn,B01170,Glenn,,0,Houston,,,9,,
 minoraverages/1916Reach,1915,Texas League,glenn,P10503,Glenn,,0,Houston,,,,9,
 minoraverages/Wright,1915,Texas League,glenn,B00904,Glenn,David,0,Houston,,,9,,
@@ -456,7 +459,7 @@ minoraverages/1916Reach,1915,Texas League,goulait,P10348,Goulait,,0,Dallas,,,,26
 minoraverages/Wright,1915,Texas League,goulait,B00680,Goulait,Harry,0,Dallas,,,34,,
 minoraverages/Wright,1915,Texas League,goulait,F20784,Goulait,Harry,0,Dallas,,,,,p26
 minoraverages/Wright,1915,Texas League,goulait,P10215,Goulait,Harry,0,Dallas,,,,26,
-boxscores/1915/1915-DMN,1915,Texas League,grubb,P6462848,Grubb,,,Waco,19150408,19150425,15,0,3b15
+boxscores/1915/1915-DMN,1915,Texas League,grubb,P6462848,Grubb,,,Waco,19150408,19150501,21,0,3b21
 minoraverages/1916Reach,1915,Texas League,grubb,B00879,Grubb,,0,Waco,,,128,,
 minoraverages/1916Reach,1915,Texas League,grubb,F21084,Grubb,,0,Waco,,,,,3b122
 minoraverages/Wright,1915,Texas League,grubb,B00045,Grubb,Harvey,0,Waco,,,128,,
@@ -466,7 +469,7 @@ minoraverages/1916Reach,1915,Texas League,handiboe,F21667,Handiboe,,0,San Antoni
 minoraverages/Wright,1915,Texas League,handiboe,B00286,Handiboe,Willie,0,San Antonio,,,32,,
 minoraverages/Wright,1915,Texas League,handiboe,F20342,Handiboe,Willie,0,San Antonio,,,,,of32
 boxscores/1915/1915-DMN,1915,Texas League,harben@ump,P5555814,Harben,,,#umpire,19150417,19150417,,,
-boxscores/1915/1915-DMN,1915,Texas League,harben,P9637383,Harben,,,Galveston,19150412,19150425,5,5,p5
+boxscores/1915/1915-DMN,1915,Texas League,harben,P9637383,Harben,,,Galveston,19150412,19150430,7,7,p7
 minoraverages/1916Reach,1915,Texas League,harben,B01368,Harben,,0,Fort Worth,,,40,,
 minoraverages/1916Reach,1915,Texas League,harben,F20014,Harben,,0,Fort Worth,,,,,p41
 minoraverages/1916Reach,1915,Texas League,harben,P10289,Harben,,0,Fort Worth,,,,40,
@@ -494,7 +497,7 @@ minoraverages/Wright,1915,Texas League,harding,F20391,Harding,Charlie,0,San Anto
 minoraverages/Wright,1915,Texas League,harding,P10097,Harding,Charlie,0,San Antonio,,,,18,
 minoraverages/Wright,1915,Texas League,hardy,M90018,Hardy,Ellis,,Waco,,,,,
 minoraverages/emilbb,1915,Texas League,hardy,M90862,Hardy,Ellis,,Waco,,,,,
-boxscores/1915/1915-DMN,1915,Texas League,harper-fw,P8940213,Harper,,,Fort Worth,19150408,19150424,14,0,"2b1,of14,cf14"
+boxscores/1915/1915-DMN,1915,Texas League,harper-fw,P8940213,Harper,,,Fort Worth,19150408,19150501,20,0,"2b1,of20,cf20"
 minoraverages/1916Reach,1915,Texas League,harper-fw,B00101,Harper,,0,Fort Worth,,,156,,
 minoraverages/1916Reach,1915,Texas League,harper-sa,B00609,Harper,,0,San Antonio,,,49,,
 minoraverages/1916Reach,1915,Texas League,harper-sa,F21638,Harper,,0,San Antonio,,,,,rf8
@@ -504,28 +507,30 @@ minoraverages/Wright,1915,Texas League,harper-sa,B00232,Harper,Harry,0,San Anton
 minoraverages/Wright,1915,Texas League,harper-fw,B00434,Harper,George,0,Fort Worth,,,156,,
 minoraverages/Wright,1915,Texas League,harper-sa,F20279,Harper,Harry,0,San Antonio,,,,,of37
 minoraverages/Wright,1915,Texas League,harper-fw,F20496,Harper,George,0,Fort Worth,,,,,of154
-boxscores/1915/1915-DMN,1915,Texas League,harrah,P6320809,Harrah,,,Fort Worth,19150412,19150420,3,3,p3
+boxscores/1915/1915-DMN,1915,Texas League,harrah,P6320809,Harrah,,,Fort Worth,19150412,19150429,5,5,p5
 minoraverages/1916Reach,1915,Texas League,harrah,B01444,Harrah,,0,Fort Worth,,,41,,
 minoraverages/1916Reach,1915,Texas League,harrah,F20425,Harrah,,0,Fort Worth,,,,,p41
 minoraverages/1916Reach,1915,Texas League,harrah,P10455,Harrah,,0,Fort Worth,,,,41,
 minoraverages/Wright,1915,Texas League,harrah,B00528,Harrah,Orville,0,Fort Worth,,,41,,
 minoraverages/Wright,1915,Texas League,harrah,F20604,Harrah,Orville,0,Fort Worth,,,,,p41
 minoraverages/Wright,1915,Texas League,harrah,P10176,Harrah,Orville,0,Fort Worth,,,,41,
-boxscores/1915/1915-DMN,1915,Texas League,harrison,P9600443,Harrison,,,Dallas,19150410,19150424,10,0,"1b1,of8,rf8"
+boxscores/1915/1915-DMN,1915,Texas League,harrison,P9600443,Harrison,,,Dallas,19150410,19150501,16,0,"1b1,of14,rf14"
 minoraverages/1916Reach,1915,Texas League,harrison,B00865,Harrison,,0,Dallas,,,151,,
 minoraverages/1916Reach,1915,Texas League,harrison,F21469,Harrison,,0,Dallas,,,,,rf131
 minoraverages/1916Reach,1915,Texas League,harrison,F21973,Harrison,,0,Dallas,,,,,lf19
 minoraverages/Wright,1915,Texas League,harrison,B00638,Harrison,E.,0,Dallas,,,151,,
 minoraverages/Wright,1915,Texas League,harrison,F20737,Harrison,E.,0,Dallas,,,,,of150
-boxscores/1915/1915-DMN,1915,Texas League,hauenstein,P6501010,Hauenstein,,,San Antonio,19150415,19150423,3,0,c3
+boxscores/1915/1915-DMN,1915,Texas League,hauenstein,P3464676,Hauen'n,,,San Antonio,19150428,19150428,1,0,c1
+boxscores/1915/1915-DMN,1915,Texas League,hauenstein,P5113495,Hauens'n,,,San Antonio,19150430,19150430,1,0,c1
+boxscores/1915/1915-DMN,1915,Texas League,hauenstein,P6501010,Hauenstein,,,San Antonio,19150415,19150427,4,0,c4
 minoraverages/1916Reach,1915,Texas League,hauenstein,B01010,Hauenstein,,0,San Antonio,,,43,,
 minoraverages/1916Reach,1915,Texas League,hauenstein,F20612,Hauenstein,,0,San Antonio,,,,,c37
 minoraverages/Wright,1915,Texas League,hauenstein,B00278,Hauenstein,Elson,0,San Antonio,,,43,,
 minoraverages/Wright,1915,Texas League,hauenstein,F20334,Hauenstein,Elson,0,San Antonio,,,,,c37
 boxscores/1915/1915-DMN,1915,Texas League,hauenstein,P1886116,Haverson,,,San Antonio,19150419,19150419,1,0,c1
-boxscores/1915/1915-DMN,1915,Texas League,hayes@ump,P7201648,Hayes,,,#umpire,19150408,19150424,,,
+boxscores/1915/1915-DMN,1915,Texas League,hayes@ump,P7201648,Hayes,,,#umpire,19150408,19150501,,,
 boxscores/1915/1915-DMN,1915,Texas League,hayes@ump,P9222059,Hays,,,#umpire,19150412,19150413,,,
-boxscores/1915/1915-DMN,1915,Texas League,hendrix,P1991889,Hendricks,,,Shreveport,19150410,19150423,2,2,p2
+boxscores/1915/1915-DMN,1915,Texas League,hendrix,P1991889,Hendricks,,,Shreveport,19150410,19150501,5,5,p5
 boxscores/1915/1915-DMN,1915,Texas League,hendrix,P1836648,Hendrix,,,Shreveport,19150414,19150418,2,2,p2
 minoraverages/1916Reach,1915,Texas League,hendrix,F20190,Hendrix,,0,Fort Worth,,,,,p32
 minoraverages/1916Reach,1915,Texas League,hendrix,P10478,Hendrix,,0,Fort Worth,,,,32,
@@ -538,7 +543,7 @@ minoraverages/Wright,1915,Texas League,hendrix,F21854,Hendrix,R.,T,,,,,,p32
 minoraverages/Wright,1915,Texas League,hendrix,P10527,Hendrix,R.,1,Fort Worth,,,,,
 minoraverages/Wright,1915,Texas League,hendrix,P10527,Hendrix,R.,2,Shreveport,,,,,
 minoraverages/Wright,1915,Texas League,hendrix,P10527,Hendrix,R.,T,,,,,30,
-boxscores/1915/1915-DMN,1915,Texas League,hickey,P4955883,Hickey,,,Waco,19150408,19150425,15,0,"of15,lf15"
+boxscores/1915/1915-DMN,1915,Texas League,hickey,P4955883,Hickey,,,Waco,19150408,19150501,21,0,"of21,lf21"
 minoraverages/1916Reach,1915,Texas League,hickey,B00898,Hickey,,0,Waco,,,26,,
 minoraverages/1916Reach,1915,Texas League,hickey,F21948,Hickey,,0,Waco,,,,,lf26
 minoraverages/Wright,1915,Texas League,hickey,B00174,Hickey,John,0,Waco,,,26,,
@@ -561,7 +566,7 @@ minoraverages/1916Reach,1915,Texas League,hill,P10081,Hill,,0,Waco,,,,30,
 minoraverages/Wright,1915,Texas League,hill,B00158,Hill,Cliff,0,Waco,,,34,,
 minoraverages/Wright,1915,Texas League,hill,F20177,Hill,Cliff,0,Waco,,,,,p30
 minoraverages/Wright,1915,Texas League,hill,P10035,Hill,Cliff,0,Waco,,,,30,
-boxscores/1915/1915-DMN,1915,Texas League,hille,P6813026,Hille,,,Houston,19150408,19150425,17,0,ss17
+boxscores/1915/1915-DMN,1915,Texas League,hille,P6813026,Hille,,,Houston,19150408,19150501,23,0,ss23
 minoraverages/1916Reach,1915,Texas League,hille,B00985,Hille,,0,Fort Worth,,,147,,
 minoraverages/1916Reach,1915,Texas League,hille,F21125,Hille,,0,Fort Worth,,,,,3b100
 minoraverages/1916Reach,1915,Texas League,hille,F21241,Hille,,0,Fort Worth,,,,,ss47
@@ -580,14 +585,14 @@ minoraverages/Wright,1915,Texas League,hille,F21614,Hille,William,2,Galveston,,,
 minoraverages/Wright,1915,Texas League,hille,F21614,Hille,William,3,Fort Worth,,,,,ss
 minoraverages/Wright,1915,Texas League,hille,F21614,Hille,William,T,,,,,,ss47
 minoraverages/1916Reach,1915,Texas League,ponder,B01523,Hoffer,,0,San Antonio,,,24,,
-boxscores/1915/1915-DMN,1915,Texas League,hornsby,P1335771,Hornsby,,,Shreveport,19150408,19150417,3,3,p3
+boxscores/1915/1915-DMN,1915,Texas League,hornsby,P1335771,Hornsby,,,Shreveport,19150408,19150501,5,5,p5
 minoraverages/1916Reach,1915,Texas League,hornsby,F20153,Hornsby,,0,Shreveport,,,,,p12
 minoraverages/1916Reach,1915,Texas League,hornsby,P10534,Hornsby,,0,Shreveport,,,,12,
 minoraverages/Wright,1915,Texas League,hornsby,B01093,Hornsby,Everett,0,Shreveport,,,12,,
 minoraverages/Wright,1915,Texas League,hornsby,F21229,Hornsby,Everett,0,Shreveport,,,,,p12
 minoraverages/Wright,1915,Texas League,hornsby,P10385,Hornsby,Everett,0,Shreveport,,,,12,
 boxscores/1915/1915-DMN,1915,Texas League,howard,P6513913,Howard,,,Houston,19150409,19150413,5,0,"of5,cf5"
-boxscores/1915/1915-DMN,1915,Texas League,howard,P9034116,Howard,,,Beaumont,19150415,19150425,12,0,"of12,cf1,rf12"
+boxscores/1915/1915-DMN,1915,Texas League,howard,P9034116,Howard,,,Beaumont,19150415,19150501,18,0,"of18,cf1,rf18"
 boxscores/1915/1915-DMN,1915,Texas League,howard-dal,P9751546,Howard,,,Dallas,19150409,19150409,1,0,
 minoraverages/1916Reach,1915,Texas League,howard,B00760,Howard,,0,Beaumont,,,126,,
 minoraverages/1916Reach,1915,Texas League,howard,F21450,Howard,,0,Beaumont,,,,,rf87
@@ -601,22 +606,22 @@ minoraverages/Wright,1915,Texas League,howard,F21319,Howard,Ernie,0,Beaumont,,,,
 minoraverages/Wright,1915,Texas League,howard,F21718,Howard,Ernie,1,Houston,,,,,of
 minoraverages/Wright,1915,Texas League,howard,F21718,Howard,Ernie,2,Beaumont,,,,,of
 minoraverages/Wright,1915,Texas League,howard,F21718,Howard,Ernie,T,,,,,,of126
-boxscores/1915/1915-DMN,1915,Texas League,hunter,P7938121,Hunter,,,Fort Worth,19150408,19150424,14,0,1b14
+boxscores/1915/1915-DMN,1915,Texas League,hunter,P7938121,Hunter,,,Fort Worth,19150408,19150501,20,0,1b20
 minoraverages/1916Reach,1915,Texas League,hunter,B00125,Hunter,,0,Fort Worth,,,150,,
 minoraverages/1916Reach,1915,Texas League,hunter,F20864,Hunter,,0,Fort Worth,,,,,1b150
 minoraverages/Wright,1915,Texas League,hunter,B00397,Hunter,Fred,0,Fort Worth,,,150,,
 minoraverages/Wright,1915,Texas League,hunter,F20458,Hunter,Fred,0,Fort Worth,,,,,1b150
-boxscores/1915/1915-DMN,1915,Texas League,james,P8761470,James,,,Waco,19150408,19150425,15,0,"of15,rf15"
+boxscores/1915/1915-DMN,1915,Texas League,james,P8761470,James,,,Waco,19150408,19150501,21,0,"of21,rf21"
 minoraverages/1916Reach,1915,Texas League,james,B00068,James,,0,Waco,,,141,,
 minoraverages/1916Reach,1915,Texas League,james,F21442,James,,0,Waco,,,,,rf141
 minoraverages/Wright,1915,Texas League,james,B00068,James,Bert,0,Waco,,,141,,
 minoraverages/Wright,1915,Texas League,james,F20067,James,Bert,0,Waco,,,,,of141
-boxscores/1915/1915-DMN,1915,Texas League,johnson,P0991766,Johnson,,,Galveston,19150408,19150425,15,0,"of15,lf1,cf14"
+boxscores/1915/1915-DMN,1915,Texas League,johnson,P0991766,Johnson,,,Galveston,19150408,19150501,21,0,"of21,lf1,cf20"
 minoraverages/1916Reach,1915,Texas League,johnson,B00515,Johnson,,0,Galveston,,,133,,
 minoraverages/1916Reach,1915,Texas League,johnson,F21680,Johnson,,0,Galveston,,,,,cf133
 minoraverages/Wright,1915,Texas League,johnson,B01345,Johnson,William,0,Galveston,,,133,,
 minoraverages/Wright,1915,Texas League,johnson,F21491,Johnson,William,0,Galveston,,,,,of133
-boxscores/1915/1915-DMN,1915,Texas League,jordan,P8181525,Jordan,,,Galveston,19150408,19150425,9,0,c8
+boxscores/1915/1915-DMN,1915,Texas League,jordan,P8181525,Jordan,,,Galveston,19150408,19150501,13,0,c11
 minoraverages/1916Reach,1915,Texas League,jordan,B00854,Jordan,,0,Fort Worth,,,86,,
 minoraverages/1916Reach,1915,Texas League,jordan,F20713,Jordan,,0,Fort Worth,,,,,c78
 minoraverages/Wright,1915,Texas League,jordan,B01572,Jordan,Tim,1,Fort Worth,,,,,
@@ -625,27 +630,27 @@ minoraverages/Wright,1915,Texas League,jordan,B01572,Jordan,Tim,T,,,,86,,
 minoraverages/Wright,1915,Texas League,jordan,F21794,Jordan,Tim,1,Fort Worth,,,,,c
 minoraverages/Wright,1915,Texas League,jordan,F21794,Jordan,Tim,2,Galveston,,,,,c
 minoraverages/Wright,1915,Texas League,jordan,F21794,Jordan,Tim,T,,,,,,c78
-boxscores/1915/1915-DMN,1915,Texas League,jost,P9222207,Jost,,,Beaumont,19150410,19150425,5,5,p5
+boxscores/1915/1915-DMN,1915,Texas League,jost,P9222207,Jost,,,Beaumont,19150410,19150427,6,6,p6
 minoraverages/1916Reach,1915,Texas League,jost,B01291,Jost,,0,Beaumont,,,39,,
 minoraverages/1916Reach,1915,Texas League,jost,F20316,Jost,,0,Beaumont,,,,,p39
 minoraverages/1916Reach,1915,Texas League,jost,P10385,Jost,,0,Beaumont,,,,38,
 minoraverages/Wright,1915,Texas League,jost,B01227,Jost,Ollie,0,Beaumont,,,39,,
 minoraverages/Wright,1915,Texas League,jost,F21362,Jost,Ollie,0,Beaumont,,,,,p38
 minoraverages/Wright,1915,Texas League,jost,P10410,Jost,Ollie,0,Beaumont,,,,38,
-boxscores/1915/1915-DMN,1915,Texas League,kellerman,P0224912,Kellerman,,,Dallas,19150408,19150424,14,0,2b14
+boxscores/1915/1915-DMN,1915,Texas League,kellerman,P0224912,Kellerman,,,Dallas,19150408,19150501,20,0,2b20
 minoraverages/1916Reach,1915,Texas League,kellerman,B00912,Kellerman,,0,Dallas,,,151,,
 minoraverages/1916Reach,1915,Texas League,kellerman,F21000,Kellerman,,0,Dallas,,,,,2b143
 minoraverages/1916Reach,1915,Texas League,kellerman,F21403,Kellerman,,0,Dallas,,,,,ss8
 minoraverages/Wright,1915,Texas League,kellerman,B00589,Kellerman,Gus,0,Dallas,,,151,,
 minoraverages/Wright,1915,Texas League,kellerman,F20661,Kellerman,Gus,0,Dallas,,,,,2b143
-boxscores/1915/1915-DMN,1915,Texas League,kerr,P6831143,Kerr,,,Fort Worth,19150412,19150412,1,1,p1
+boxscores/1915/1915-DMN,1915,Texas League,kerr,P6831143,Kerr,,,Fort Worth,19150412,19150430,2,2,p2
 minoraverages/1916Reach,1915,Texas League,kerr,B00577,Kerr,,0,Fort Worth,,,62,,
 minoraverages/1916Reach,1915,Texas League,kerr,F20279,Kerr,,0,Fort Worth,,,,,p42
 minoraverages/1916Reach,1915,Texas League,kerr,P10035,Kerr,,0,Fort Worth,,,,38,
 minoraverages/Wright,1915,Texas League,kerr,B00491,Kerr,Dickie,0,Fort Worth,,,62,,
 minoraverages/Wright,1915,Texas League,kerr,F20571,Kerr,Dickie,0,Fort Worth,,,,,p38
 minoraverages/Wright,1915,Texas League,kerr,P10137,Kerr,Dickie,0,Fort Worth,,,,38,
-boxscores/1915/1915-DMN,1915,Texas League,knaupp,P4568589,Knaupp,,,San Antonio,19150408,19150425,10,0,2b7
+boxscores/1915/1915-DMN,1915,Texas League,knaupp,P4568589,Knaupp,,,San Antonio,19150408,19150501,16,0,"2b12,of1,cf1"
 minoraverages/1916Reach,1915,Texas League,knaupp,B00343,Knaupp,,0,Shreveport,,,128,,
 minoraverages/1916Reach,1915,Texas League,knaupp,F20970,Knaupp,,0,Shreveport,,,,,2b123
 minoraverages/Wright,1915,Texas League,knaupp,B00920,Knaupp,Chick,0,Shreveport,,,,,
@@ -656,7 +661,7 @@ minoraverages/Wright,1915,Texas League,knaupp,F21013,Knaupp,Chick,0,Shreveport,,
 minoraverages/Wright,1915,Texas League,knaupp,F21705,Knaupp,Chick,1,San Antonio,,,,,2b
 minoraverages/Wright,1915,Texas League,knaupp,F21705,Knaupp,Chick,2,Shreveport,,,,,2b
 minoraverages/Wright,1915,Texas League,knaupp,F21705,Knaupp,Chick,T,,,,,,2b123
-boxscores/1915/1915-DMN,1915,Texas League,kneaves,P2257216,Kneaves,,,Fort Worth,19150408,19150424,14,0,"3b14,ss1"
+boxscores/1915/1915-DMN,1915,Texas League,kneaves,P2257216,Kneaves,,,Fort Worth,19150408,19150428,17,0,"3b16,ss1"
 minoraverages/1916Reach,1915,Texas League,kneaves,B00811,Kneaves,,0,Shreveport,,,132,,
 minoraverages/1916Reach,1915,Texas League,kneaves,F21229,Kneaves,,0,Shreveport,,,,,3b16
 minoraverages/1916Reach,1915,Texas League,kneaves,F21319,Kneaves,,0,Shreveport,,,,,ss116
@@ -671,11 +676,12 @@ minoraverages/Wright,1915,Texas League,kneaves,F21651,Kneaves,Joe,T,,,,,,ss116
 minoraverages/Wright,1915,Texas League,kneaves,F21667,Kneaves,Joe,1,Beaumont,,,,,3b
 minoraverages/Wright,1915,Texas League,kneaves,F21667,Kneaves,Joe,2,Shreveport,,,,,3b
 minoraverages/Wright,1915,Texas League,kneaves,F21667,Kneaves,Joe,T,,,,,,3b16
-boxscores/1915/1915-DMN,1915,Texas League,laval,P9504710,Laval,,,Shreveport,19150420,19150425,4,0,"of4,rf4"
+boxscores/1915/1915-DMN,1915,Texas League,laval,P9504710,Laval,,,Shreveport,19150420,19150501,10,0,"of10,rf10"
 minoraverages/1916Reach,1915,Texas League,laval,B01227,Laval,,0,Shreveport,,,22,,
 minoraverages/1916Reach,1915,Texas League,laval,F21544,Laval,,0,Shreveport,,,,,rf22
 minoraverages/Wright,1915,Texas League,laval,B01055,Laval,John,0,Shreveport,,,22,,
 minoraverages/Wright,1915,Texas League,laval,F21182,Laval,John,0,Shreveport,,,,,of22
+boxscores/1915/1915-DMN,1915,Texas League,lee,P7748009,Lee,,,Fort Worth,19150426,19150501,6,0,"2b1,3b4,of1,cf1"
 minoraverages/1916Reach,1915,Texas League,lee,B00936,Lee,,0,Fort Worth,,,110,,
 minoraverages/1916Reach,1915,Texas League,lee,F21210,Lee,,0,Fort Worth,,,,,3b57
 minoraverages/1916Reach,1915,Texas League,lee,F21623,Lee,,0,Fort Worth,,,,,rf11
@@ -683,13 +689,13 @@ minoraverages/1916Reach,1915,Texas League,lee,F21936,Lee,,0,Fort Worth,,,,,lf37
 minoraverages/Wright,1915,Texas League,lee,B00475,Lee,Al,0,Fort Worth,,,110,,
 minoraverages/Wright,1915,Texas League,lee,F20539,Lee,Al,0,Fort Worth,,,,,3b57
 minoraverages/Wright,1915,Texas League,lee,F20547,Lee,Al,0,Fort Worth,,,,,of48
-boxscores/1915/1915-DMN,1915,Texas League,leidy,P2045877,Leidy,,,San Antonio,19150415,19150415,1,0,
+boxscores/1915/1915-DMN,1915,Texas League,leidy,P2045877,Leidy,,,San Antonio,19150415,19150428,2,0,"of1,cf1"
 minoraverages/1916Reach,1915,Texas League,leidy,B01242,Leidy,,0,San Antonio,,,18,,
 minoraverages/Wright,1915,Texas League,leidy,B00343,Leidy,George,0,San Antonio,,,18,,
 minoraverages/Wright,1915,Texas League,leidy,F20401,Leidy,George,0,San Antonio,,,,,of
 minoraverages/Wright,1915,Texas League,leidy,M90026,Leidy,George,,San Antonio,,,,,
 minoraverages/emilbb,1915,Texas League,leidy,M90870,Leidy,George,,San Antonio,,,,,
-boxscores/1915/1915-DMN,1915,Texas League,lemon,P8025775,Lemon,,,Houston,19150414,19150420,4,0,
+boxscores/1915/1915-DMN,1915,Texas League,lemon,P8025775,Lemon,,,Houston,19150414,19150427,6,0,
 minoraverages/1916Reach,1915,Texas League,lemon,F21397,Lemon,,0,Houston,,,,,ss22
 minoraverages/1916Reach,1915,Texas League,lemon,F21515,Lemon,,0,Houston,,,,,rf26
 minoraverages/Wright,1915,Texas League,lemon,B00822,Lemon,Lee,0,Houston,,,54,,
@@ -703,25 +709,25 @@ minoraverages/Wright,1915,Texas League,leverette,B01032,Leverette,Horace,0,Shrev
 minoraverages/Wright,1915,Texas League,leverette,F21163,Leverette,Horace,0,Shreveport,,,,,p24
 minoraverages/Wright,1915,Texas League,leverette,P10361,Leverette,Horace,0,Shreveport,,,,24,
 minoraverages/1916Reach,1915,Texas League,leidy,F21590,Liedy,,0,San Antonio,,,,,rf7
-boxscores/1915/1915-DMN,1915,Texas League,love,P8238100,Love,,,San Antonio,19150409,19150425,12,0,"2b9,of2,lf2"
+boxscores/1915/1915-DMN,1915,Texas League,love,P8238100,Love,,,San Antonio,19150409,19150501,18,0,"2b10,of7,lf3,cf4"
 minoraverages/1916Reach,1915,Texas League,love,B00196,Love,,0,San Antonio,,,146,,
 minoraverages/1916Reach,1915,Texas League,love,F21059,Love,,0,San Antonio,,,,,2b82
 minoraverages/1916Reach,1915,Texas League,love,F21695,Love,,0,San Antonio,,,,,cf61
 minoraverages/Wright,1915,Texas League,love,B00196,Love,Jack,0,San Antonio,,,148,,
 minoraverages/Wright,1915,Texas League,love,F20211,Love,Jack,0,San Antonio,,,,,2b82
 minoraverages/Wright,1915,Texas League,love,F20222,Love,Jack,0,San Antonio,,,,,of61
-boxscores/1915/1915-DMN,1915,Texas League,madden,P7599808,Madden,,,Galveston,19150408,19150425,15,0,"of15,rf15"
+boxscores/1915/1915-DMN,1915,Texas League,madden,P7599808,Madden,,,Galveston,19150408,19150501,21,0,"of21,rf21"
 minoraverages/1916Reach,1915,Texas League,madden,B00084,Madden,,0,Galveston,,,134,,
 minoraverages/1916Reach,1915,Texas League,madden,F21491,Madden,,0,Galveston,,,,,rf93
 minoraverages/1916Reach,1915,Texas League,madden,F21887,Madden,,0,Galveston,,,,,lf41
 minoraverages/Wright,1915,Texas League,madden,B01337,Madden,Gene,0,Galveston,,,134,,
 minoraverages/Wright,1915,Texas League,madden,F21488,Madden,Gene,0,Galveston,,,,,of134
-boxscores/1915/1915-DMN,1915,Texas League,malmquist,P2114379,Malmquist,,,Waco,19150408,19150425,15,0,2b15
+boxscores/1915/1915-DMN,1915,Texas League,malmquist,P2114379,Malmquist,,,Waco,19150408,19150501,21,0,2b21
 minoraverages/1916Reach,1915,Texas League,malmquist,B00695,Malmquist,,0,Waco,,,119,,
 minoraverages/1916Reach,1915,Texas League,malmquist,F20924,Malmquist,,0,Waco,,,,,2b107
 minoraverages/Wright,1915,Texas League,malmquist,B00021,Malmquist,Walter,0,Waco,,,119,,
 minoraverages/Wright,1915,Texas League,malmquist,F20023,Malquist,Walter,0,Waco,,,,,2b107
-boxscores/1915/1915-DMN,1915,Texas League,markle,P7245130,Markle,,,Waco,19150409,19150421,6,6,p6
+boxscores/1915/1915-DMN,1915,Texas League,markle,P7245130,Markle,,,Waco,19150409,19150501,8,8,p8
 minoraverages/1916Reach,1915,Texas League,markle,B01337,Markle,,0,Waco,,,45,,
 minoraverages/1916Reach,1915,Texas League,markle,F20552,Markle,,0,Waco,,,,,p45
 minoraverages/1916Reach,1915,Texas League,markle,P10113,Markle,,0,Waco,,,,45,
@@ -729,7 +735,7 @@ minoraverages/Wright,1915,Texas League,markle,B00125,Markle,Cliff,0,Waco,,,45,,
 minoraverages/Wright,1915,Texas League,markle,F20144,Markle,Cliff,0,Waco,,,,,p45
 minoraverages/Wright,1915,Texas League,markle,P10019,Markle,Cliff,0,Waco,,,,45,
 boxscores/1915/1915-DMN,1915,Texas League,martina@ump,P3967714,Martina,,,#umpire,19150417,19150417,,,
-boxscores/1915/1915-DMN,1915,Texas League,martina,P5540075,Martina,,,Beaumont,19150408,19150423,7,7,p7
+boxscores/1915/1915-DMN,1915,Texas League,martina,P5540075,Martina,,,Beaumont,19150408,19150501,9,9,p9
 minoraverages/1916Reach,1915,Texas League,martina,F20128,Martina,,0,Beaumont,,,,,p52
 minoraverages/1916Reach,1915,Texas League,martina,P10277,Martina,,0,Beaumont,,,,52,
 minoraverages/Wright,1915,Texas League,martina,B01216,Martina,Joe,0,Beaumont,,,55,,
@@ -738,20 +744,20 @@ minoraverages/Wright,1915,Texas League,martina,P10399,Martina,Joe,0,Beaumont,,,,
 minoraverages/1916Reach,1915,Texas League,martina,B01359,Martins,,0,Beaumont,,,55,,
 minoraverages/1916Reach,1915,Texas League,mowry,B00705,Mawry,,0,Houston,,,137,,
 boxscores/1915/1915-DMN,1915,Texas League,mcbee,P9539131,McBee,,,Beaumont,19150420,19150420,1,0,ss1
-boxscores/1915/1915-DMN,1915,Texas League,mccafferty@ump,P7270330,McCafferty,,,#umpire,19150425,19150425,,,
-boxscores/1915/1915-DMN,1915,Texas League,mccafferty,P8368450,McCafferty,,,San Antonio,19150415,19150424,4,4,p4
-boxscores/1915/1915-DMN,1915,Texas League,mcchesney,P1179154,McChesney,,,Fort Worth,19150408,19150424,14,0,"of14,lf14"
+boxscores/1915/1915-DMN,1915,Texas League,mccafferty@ump,P7270330,McCafferty,,,#umpire,19150425,19150429,,,
+boxscores/1915/1915-DMN,1915,Texas League,mccafferty,P8368450,McCafferty,,,San Antonio,19150415,19150428,5,5,p5
+boxscores/1915/1915-DMN,1915,Texas League,mcchesney,P1179154,McChesney,,,Fort Worth,19150408,19150501,20,0,"of20,lf20"
 minoraverages/1916Reach,1915,Texas League,mcchesney,B00651,McChesney,,0,Fort Worth,,,100,,
 minoraverages/1916Reach,1915,Texas League,mcchesney,F21920,McChesney,,0,Fort Worth,,,,,lf97
 minoraverages/Wright,1915,Texas League,mcchesney,B00450,McChesney,Harry,0,Fort Worth,,,100,,
 minoraverages/Wright,1915,Texas League,mcchesney,F20518,McChesney,Harry,0,Fort Worth,,,,,of97
-boxscores/1915/1915-DMN,1915,Texas League,mcculler,P1083021,McCuller,,,Shreveport,19150411,19150423,4,4,p4
-boxscores/1915/1915-DMN,1915,Texas League,mcdonald,P6166582,McDonald,,,Houston,19150408,19150425,17,0,3b17
+boxscores/1915/1915-DMN,1915,Texas League,mcculler,P1083021,McCuller,,,Shreveport,19150411,19150430,6,6,p6
+boxscores/1915/1915-DMN,1915,Texas League,mcdonald,P6166582,McDonald,,,Houston,19150408,19150501,23,0,3b23
 minoraverages/1916Reach,1915,Texas League,mcdonald,B00293,McDonald,,0,Houston,,,134,,
 minoraverages/1916Reach,1915,Texas League,mcdonald,F21158,McDonald,,0,Houston,,,,,3b134
 minoraverages/Wright,1915,Texas League,mcdonald,B00752,McDonald,Joe,0,Houston,,,134,,
 minoraverages/Wright,1915,Texas League,mcdonald,F20855,McDonald,Joe,0,Houston,,,,,3b134
-boxscores/1915/1915-DMN,1915,Texas League,mcelveen,P2462661,McElveen,,,Shreveport,19150408,19150425,14,0,"1b1,3b13"
+boxscores/1915/1915-DMN,1915,Texas League,mcelveen,P2462661,McElveen,,,Shreveport,19150408,19150501,20,0,"1b1,3b19"
 minoraverages/Wright,1915,Texas League,mcelveen,B00948,McElveen,P. M.,0,Shreveport,,,111,,
 minoraverages/Wright,1915,Texas League,mcelveen,F21037,McElveen,P. M.,0,Shreveport,,,,,3b64
 minoraverages/Wright,1915,Texas League,mcelveen,F21045,McElveen,P. M.,0,Shreveport,,,,,2b22
@@ -763,13 +769,13 @@ minoraverages/1916Reach,1915,Texas League,mcelveen,F20943,McElween,,0,Shreveport
 minoraverages/1916Reach,1915,Texas League,mcelveen,F21182,McElween,,0,Shreveport,,,,,3b64
 minoraverages/1916Reach,1915,Texas League,mcelveen,F21370,McElween,,0,Shreveport,,,,,ss8
 minoraverages/1916Reach,1915,Texas League,mcelveen,F21434,McElween,,0,Shreveport,,,,,rf13
-boxscores/1915/1915-DMN,1915,Texas League,mcgee,P4463936,McGee,,,Beaumont,19150415,19150425,11,0,ss11
+boxscores/1915/1915-DMN,1915,Texas League,mcgee,P4463936,McGee,,,Beaumont,19150415,19150501,17,0,ss17
 minoraverages/1916Reach,1915,Texas League,mcgee,B01392,McGee,,0,Beaumont,,,18,,
 minoraverages/1916Reach,1915,Texas League,mcgee,F21264,McGee,,0,Beaumont,,,,,ss18
 minoraverages/Wright,1915,Texas League,mcgee,B01269,McGee,William,0,Beaumont,,,18,,
 minoraverages/Wright,1915,Texas League,mcgee,F21403,McGee,William,0,Beaumont,,,,,ss18
 boxscores/1915/1915-DMN,1915,Texas League,mcgill,P5613046,McGill,,,San Antonio,19150408,19150416,4,0,"of2,lf2"
-boxscores/1915/1915-DMN,1915,Texas League,mcivor,P5385177,McIver,,,Fort Worth,19150408,19150424,14,0,"of14,rf14"
+boxscores/1915/1915-DMN,1915,Texas League,mcivor,P5385177,McIver,,,Fort Worth,19150408,19150501,20,0,"of20,rf20"
 minoraverages/1916Reach,1915,Texas League,mcivor,B00469,McIver,,0,Fort Worth,,,152,,
 minoraverages/1916Reach,1915,Texas League,mcivor,F20908,McIver,,0,Fort Worth,,,,,1b6
 minoraverages/1916Reach,1915,Texas League,mcivor,F21531,McIver,,0,Fort Worth,,,,,rf127
@@ -784,10 +790,10 @@ minoraverages/Wright,1915,Texas League,mcleod,F21174,McLeod,D. H.,0,Shreveport,,
 minoraverages/Wright,1915,Texas League,mcleod,P10357,McLeod,D. H.,0,Shreveport,,,,21,
 minoraverages/1916Reach,1915,Texas League,mcmahon,B00356,McMahan,,0,Beaumont,,,146,,
 minoraverages/1916Reach,1915,Texas League,mcmahon,F21101,McMahan,,0,Beaumont,,,,,3b144
-boxscores/1915/1915-DMN,1915,Texas League,mcmahon,P1202562,McMahon,,,Beaumont,19150408,19150425,18,0,3b18
+boxscores/1915/1915-DMN,1915,Texas League,mcmahon,P1202562,McMahon,,,Beaumont,19150408,19150501,24,0,3b24
 minoraverages/Wright,1915,Texas League,mcmahon,B01143,McMahon,Boyd,0,Beaumont,,,146,,
 minoraverages/Wright,1915,Texas League,mcmahon,F21286,McMahon,Boyd,0,Beaumont,,,,,3b144
-boxscores/1915/1915-DMN,1915,Texas League,mcmurray,P6048067,McMurray,,,Fort Worth,19150408,19150424,14,0,c14
+boxscores/1915/1915-DMN,1915,Texas League,mcmurray,P6048067,McMurray,,,Fort Worth,19150408,19150430,18,0,c18
 minoraverages/1916Reach,1915,Texas League,mcmurray,B01093,McMurray,,0,Fort Worth,,,88,,
 minoraverages/1916Reach,1915,Texas League,mcmurray,F20673,McMurray,,0,Fort Worth,,,,,c84
 minoraverages/Wright,1915,Texas League,mcmurray,B00469,McMurray,Hugh,0,Fort Worth,,,88,,
@@ -796,9 +802,9 @@ minoraverages/1916Reach,1915,Texas League,meek,B00021,Meek,,0,San Antonio,,,25,,
 minoraverages/1916Reach,1915,Texas League,meek,F20604,Meek,,0,San Antonio,,,,,c23
 minoraverages/Wright,1915,Texas League,meek,B00308,Meek,Herman,0,San Antonio,,,25,,
 minoraverages/Wright,1915,Texas League,meek,F20369,Meek,Herman,0,San Antonio,,,,,c23
-boxscores/1915/1915-DMN,1915,Texas League,miller@ump,P6710619,Miller,,,#umpire,19150408,19150425,,,
+boxscores/1915/1915-DMN,1915,Texas League,miller@ump,P6710619,Miller,,,#umpire,19150408,19150501,,,
 boxscores/1915/1915-DMN,1915,Texas League,moore@ump,P8227416,Moore,,,#umpire,19150418,19150418,,,
-boxscores/1915/1915-DMN,1915,Texas League,moore,P8998457,Moore,,,Galveston,19150411,19150421,5,5,p5
+boxscores/1915/1915-DMN,1915,Texas League,moore,P8998457,Moore,,,Galveston,19150411,19150429,7,7,p7
 minoraverages/1916Reach,1915,Texas League,moore,B00117,Moore,,0,Galveston,,,47,,
 minoraverages/1916Reach,1915,Texas League,moore,F20102,Moore,,0,Galveston,,,,,p39
 minoraverages/1916Reach,1915,Texas League,moore,P10159,Moore,,0,Galveston,,,,39,
@@ -808,12 +814,12 @@ minoraverages/Wright,1915,Texas League,moore,P10441,Moore,Gene,0,Galveston,,,,39
 minoraverages/1916Reach,1915,Texas League,morgan,F20505,Morgan,,0,Dallas,,,,,p8
 minoraverages/1916Reach,1915,Texas League,morgan,P10542,Morgan,,0,Dallas,,,,8,
 minoraverages/Wright,1915,Texas League,morgan,P10253,Morgan,Harry,0,Dallas,,,,8,
-boxscores/1915/1915-DMN,1915,Texas League,mowry,P7862098,Mowry,,,Houston,19150408,19150425,17,0,"of17,lf17"
+boxscores/1915/1915-DMN,1915,Texas League,mowry,P7862098,Mowry,,,Houston,19150408,19150501,23,0,"of23,lf23"
 minoraverages/1916Reach,1915,Texas League,mowry,F21904,Mowry,,0,Houston,,,,,lf137
 minoraverages/Wright,1915,Texas League,mowry,B00760,Mowry,Joe,0,Houston,,,137,,
 minoraverages/Wright,1915,Texas League,mowry,F20864,Mowry,Joe,0,Houston,,,,,of137
 boxscores/1915/1915-DMN,1915,Texas League,mullins,P8381877,Mullens,,,Dallas,19150409,19150409,1,1,p1
-boxscores/1915/1915-DMN,1915,Texas League,mullins,P9439673,Mullins,,,Dallas,19150413,19150421,4,3,p3
+boxscores/1915/1915-DMN,1915,Texas League,mullins,P9439673,Mullins,,,Dallas,19150413,19150428,5,4,p4
 minoraverages/1916Reach,1915,Texas League,mullins,B00667,Mullins,,0,San Antonio,,,47,,
 minoraverages/1916Reach,1915,Texas League,mullins,F20496,Mullins,,0,San Antonio,,,,,p41
 minoraverages/1916Reach,1915,Texas League,mullins,P10145,Mullins,,0,San Antonio,,,,41,
@@ -826,7 +832,7 @@ minoraverages/Wright,1915,Texas League,mullins,F21833,Mullins,Ovid,T,,,,,,p41
 minoraverages/Wright,1915,Texas League,mullins,P10493,Mullins,Ovid,1,Dallas,,,,,
 minoraverages/Wright,1915,Texas League,mullins,P10493,Mullins,Ovid,2,San Antonio,,,,,
 minoraverages/Wright,1915,Texas League,mullins,P10493,Mullins,Ovid,T,,,,,41,
-boxscores/1915/1915-DMN,1915,Texas League,munsell,P2453726,Munsell,,,San Antonio,19150408,19150425,5,5,p5
+boxscores/1915/1915-DMN,1915,Texas League,munsell,P2453726,Munsell,,,San Antonio,19150408,19150501,7,7,p7
 minoraverages/1916Reach,1915,Texas League,munsell,B00752,Munsell,,0,San Antonio,,,49,,
 minoraverages/1916Reach,1915,Texas League,munsell,F20222,Munsell,,0,San Antonio,,,,,p49
 minoraverages/1916Reach,1915,Texas League,munsell,P10024,Munsell,,0,San Antonio,,,,46,
@@ -837,12 +843,13 @@ minoraverages/1916Reach,1915,Texas League,murphy,B00335,Murphey,,0,Shreveport,,,
 minoraverages/1916Reach,1915,Texas League,murphy,F21705,Murphey,,0,Shreveport,,,,,cf57
 minoraverages/Wright,1915,Texas League,murphy,B00961,Murphy,Howard,0,Shreveport,,,57,,
 minoraverages/Wright,1915,Texas League,murphy,F21084,Murphy,Howard,0,Shreveport,,,,,of57
+boxscores/1915/1915-DMN,1915,Texas League,nance,P9347864,Nance,,,Fort Worth,19150426,19150501,3,0,
 minoraverages/1916Reach,1915,Texas League,nance,B00623,Nance,,0,Fort Worth,,,11,,
 minoraverages/Wright,1915,Texas League,nance,B00566,Nance,William,0,Fort Worth,,,11,,
 minoraverages/Wright,1915,Texas League,nance,F20648,Nance,William,0,Fort Worth,,,,,of
 minoraverages/Wright,1915,Texas League,nance,M90039,Nance,William,,Fort Worth,,,,,
 minoraverages/emilbb,1915,Texas League,nance,M90881,Nance,"William ""Doc""",,Fort Worth,,,,,
-boxscores/1915/1915-DMN,1915,Texas League,napier,P3306419,Napier,,,Houston,19150408,19150421,4,4,p4
+boxscores/1915/1915-DMN,1915,Texas League,napier,P3306419,Napier,,,Houston,19150408,19150501,6,6,p6
 minoraverages/1916Reach,1915,Texas League,napier,B01041,Napier,,0,Houston,,,36,,
 minoraverages/1916Reach,1915,Texas League,napier,F20303,Napier,,0,Houston,,,,,p34
 minoraverages/1916Reach,1915,Texas League,napier,P10486,Napier,,0,Houston,,,,32,
@@ -854,20 +861,20 @@ minoraverages/1916Reach,1915,Texas League,naylor,F20430,Naylor,,0,Houston,,,,,p9
 minoraverages/1916Reach,1915,Texas League,naylor,P10527,Naylor,,0,Houston,,,,9,
 minoraverages/Wright,1915,Texas League,naylor,B00898,Naylor,Rollie,0,Houston,,,9,,
 minoraverages/Wright,1915,Texas League,naylor,P10312,Naylor,Rollie,0,Houston,,,,9,
-boxscores/1915/1915-DMN,1915,Texas League,newnam,P3782522,Newnam,,,Houston,19150408,19150425,17,0,1b17
+boxscores/1915/1915-DMN,1915,Texas League,newnam,P3782522,Newnam,,,Houston,19150408,19150501,23,0,1b23
 minoraverages/1916Reach,1915,Texas League,newnam,B00278,Newnam,,0,Houston,,,143,,
 minoraverages/1916Reach,1915,Texas League,newnam,F20855,Newnam,,0,Houston,,,,,1b143
 minoraverages/Wright,1915,Texas League,newnam,B00726,Newnam,Pat,0,Houston,,,143,,
 minoraverages/Wright,1915,Texas League,newnam,F20829,Newnam,Pat,0,Houston,,,,,1b143
 minoraverages/Wright,1915,Texas League,newnam,M90060,Newnam,Pat,,Houston,,,,,
 minoraverages/emilbb,1915,Texas League,newnam,M90914,Newnam,Pat,,Houston,,,,,
-boxscores/1915/1915-DMN,1915,Texas League,newton,P7086737,Newton,,,Shreveport,19150413,19150425,10,0,"of9,lf4,cf5"
+boxscores/1915/1915-DMN,1915,Texas League,newton,P7086737,Newton,,,Shreveport,19150413,19150501,16,0,"ss1,of14,lf9,cf5"
 boxscores/1915/1915-DMN,1915,Texas League,nicholson,P8397003,Nicholson,,,San Antonio,19150412,19150421,6,0,"of4,cf4"
 minoraverages/1916Reach,1915,Texas League,nicholson,B01064,Nicholson,,0,San Antonio,,,6,,
 minoraverages/1916Reach,1915,Texas League,nicholson,F21771,Nicholson,,0,San Antonio,,,,,cf5
 minoraverages/Wright,1915,Texas League,nicholson,B00381,Nicholson,Fred,0,San Antonio,,,6,,
 minoraverages/Wright,1915,Texas League,nicholson,F20449,Nicholson,Fred,0,San Antonio,,,,,of
-boxscores/1915/1915-DMN,1915,Texas League,nixon,P7020043,Nixon,,,Beaumont,19150408,19150425,18,0,"of18,cf18"
+boxscores/1915/1915-DMN,1915,Texas League,nixon,P7020043,Nixon,,,Beaumont,19150408,19150501,24,0,"of24,cf24"
 minoraverages/1916Reach,1915,Texas League,nixon,B00158,Nixon,,0,Beaumont,,,127,,
 minoraverages/1916Reach,1915,Texas League,nixon,F21760,Nixon,,0,Beaumont,,,,,cf127
 minoraverages/Wright,1915,Texas League,nixon,B01156,Nixon,Al,0,Beaumont,,,127,,
@@ -882,11 +889,11 @@ boxscores/1915/1915-DMN,1915,Texas League,oconnell,P6764160,O'Connell,,,Beaumont
 minoraverages/Wright,1915,Texas League,odell,B00210,O'Dell,Al,0,San Antonio,,,145,,
 minoraverages/Wright,1915,Texas League,odell,F20240,O'Dell,Al,0,San Antonio,,,,,3b135
 minoraverages/Wright,1915,Texas League,odell,F20254,O'Dell,Al,0,San Antonio,,,,,1b10
-boxscores/1915/1915-DMN,1915,Texas League,odell,P1843950,Odell,,,San Antonio,19150408,19150425,16,0,3b16
+boxscores/1915/1915-DMN,1915,Texas League,odell,P1843950,Odell,,,San Antonio,19150408,19150501,22,0,3b22
 minoraverages/1916Reach,1915,Texas League,odell,B00887,Odell,,0,San Antonio,,,145,,
 minoraverages/1916Reach,1915,Texas League,odell,F20893,Odell,,0,San Antonio,,,,,1b10
 minoraverages/1916Reach,1915,Texas League,odell,F21092,Odell,,0,San Antonio,,,,,3b135
-boxscores/1915/1915-DMN,1915,Texas League,ogle,P5757813,Ogle,,,Waco,19150408,19150418,5,5,p5
+boxscores/1915/1915-DMN,1915,Texas League,ogle,P5757813,Ogle,,,Waco,19150408,19150429,6,6,p6
 minoraverages/1916Reach,1915,Texas League,ogle,B01514,Ogle,,0,Waco,,,42,,
 minoraverages/1916Reach,1915,Texas League,ogle,F20189,Ogle,,0,Waco,,,,,p42
 minoraverages/1916Reach,1915,Texas League,ogle,P10215,Ogle,,0,Waco,,,,42,
@@ -895,7 +902,7 @@ minoraverages/Wright,1915,Texas League,ogle,F20153,Ogle,Hatton,0,Waco,,,,,p42
 minoraverages/Wright,1915,Texas League,ogle,P10056,Ogle,Hatton,0,Waco,,,,42,
 boxscores/1915/1915-DMN,1915,Texas League,ogle,P2877192,Ogles,,,Waco,19150425,19150425,1,1,p1
 minoraverages/1916Reach,1915,Texas League,baggan,B00427,Paggan,,0,San Antonio,,,151,,
-boxscores/1915/1915-DMN,1915,Texas League,wright@ump,P2388720,Pat Wright,,,#umpire,19150423,19150423,,,
+boxscores/1915/1915-DMN,1915,Texas League,wright@ump,P2388720,Pat Wright,,,#umpire,19150423,19150429,,,
 minoraverages/1916Reach,1915,Texas League,ponder,F20539,Ponder,,0,San Antonio,,,,,p24
 minoraverages/Wright,1915,Texas League,ponder,B00319,Ponder,Elmer,0,San Antonio,,,24,,
 minoraverages/Wright,1915,Texas League,ponder,F20375,Ponder,Elmer,0,San Antonio,,,,,p24
@@ -903,14 +910,14 @@ minoraverages/Wright,1915,Texas League,ponder,P10081,Ponder,Elmer,0,San Antonio,
 minoraverages/1916Reach,1915,Texas League,ponder,P10192,Pounder,,0,San Antonio,,,,24,
 boxscores/1915/1915-DMN,1915,Texas League,pursell,P9162869,Pursell,,,Waco,19150408,19150414,2,2,p2
 boxscores/1915/1915-DMN,1915,Texas League,querry,P5206556,Querry,,,Houston,19150420,19150420,1,0,c1
-boxscores/1915/1915-DMN,1915,Texas League,redford,P3533977,Redford,,,Fort Worth,19150410,19150421,3,3,p3
+boxscores/1915/1915-DMN,1915,Texas League,redford,P3533977,Redford,,,Fort Worth,19150410,19150501,5,5,p5
 minoraverages/1916Reach,1915,Texas League,redford,B01489,Redford,,0,Fort Worth,,,45,,
 minoraverages/1916Reach,1915,Texas League,redford,F20547,Redford,,0,Fort Worth,,,,,p44
 minoraverages/1916Reach,1915,Texas League,redford,P10361,Redford,,0,Fort Worth,,,,46,
 minoraverages/Wright,1915,Texas League,redford,B00502,Redford,Fritz,0,Fort Worth,,,46,,
 minoraverages/Wright,1915,Texas League,redford,F20583,Redford,Fritz,0,Fort Worth,,,,,p46
 minoraverages/Wright,1915,Texas League,redford,P10168,Redford,Fritz,0,Fort Worth,,,,46,
-boxscores/1915/1915-DMN,1915,Texas League,reilly,P5297055,Reilly,,,Waco,19150408,19150425,12,0,c12
+boxscores/1915/1915-DMN,1915,Texas League,reilly,P5297055,Reilly,,,Waco,19150408,19150501,18,0,c18
 minoraverages/Wright,1915,Texas League,reilly,B00117,Reilly,Emmett,0,Waco,,,71,,
 minoraverages/Wright,1915,Texas League,reilly,F20131,Reilly,Emmett,0,Waco,,,,,c61
 minoraverages/1916Reach,1915,Texas League,renfer,B01007,Renfer,,0,Dallas,,,18,,
@@ -932,18 +939,18 @@ minoraverages/1916Reach,1915,Texas League,robinson,F21488,Robinson,,0,Beaumont,,
 minoraverages/Wright,1915,Texas League,robinson,B01203,Robinson,George,0,Beaumont,,,60,,
 minoraverages/Wright,1915,Texas League,robinson,F21343,Robinson,George,0,Beaumont,,,,,of53
 minoraverages/1916Reach,1915,Texas League,rollings,F21037,Rolling,,0,Shreveport,,,,,2b38
-boxscores/1915/1915-DMN,1915,Texas League,rollings,P2009952,Rollings,,,Shreveport,19150408,19150425,15,0,2b15
+boxscores/1915/1915-DMN,1915,Texas League,rollings,P2009952,Rollings,,,Shreveport,19150408,19150501,21,0,2b21
 minoraverages/1916Reach,1915,Texas League,rollings,B00475,Rollings,,0,Shreveport,,,38,,
 minoraverages/Wright,1915,Texas League,rollings,B01007,Rollings,R. C.,0,Shreveport,,,38,,
 minoraverages/Wright,1915,Texas League,rollings,F21125,Rollings,R. C.,0,Shreveport,,,,,2b38
-boxscores/1915/1915-DMN,1915,Texas League,rose,P1642733,Rose,,,Houston,19150412,19150422,3,3,p3
+boxscores/1915/1915-DMN,1915,Texas League,rose,P1642733,Rose,,,Houston,19150412,19150430,5,5,p5
 minoraverages/1916Reach,1915,Texas League,rose,B01197,Rose,,0,Houston,,,41,,
 minoraverages/1916Reach,1915,Texas League,rose,F20463,Rose,,0,Houston,,,,,p40
 minoraverages/1916Reach,1915,Texas League,rose,P10253,Rose,,0,Houston,,,,29,
 minoraverages/Wright,1915,Texas League,rose,B00854,Rose,Chuck,0,Houston,,,41,,
 minoraverages/Wright,1915,Texas League,rose,F20962,Rose,Chuck,0,Houston,,,,,p29
 minoraverages/Wright,1915,Texas League,rose,P10277,Rose,Chuck,0,Houston,,,,29,
-boxscores/1915/1915-DMN,1915,Texas League,sage,P9441294,Sage,,,Waco,19150408,19150420,5,5,p5
+boxscores/1915/1915-DMN,1915,Texas League,sage,P9441294,Sage,,,Waco,19150408,19150426,6,6,p6
 minoraverages/1916Reach,1915,Texas League,sage,B01345,Sage,,0,Waco,,,35,,
 minoraverages/1916Reach,1915,Texas League,sage,F20342,Sage,,0,Waco,,,,,p35
 minoraverages/1916Reach,1915,Texas League,sage,P10176,Sage,,0,Waco,,,,34,
@@ -951,10 +958,10 @@ minoraverages/Wright,1915,Texas League,sage,B00163,Sage,George,0,Waco,,,34,,
 minoraverages/Wright,1915,Texas League,sage,F20189,Sage,George,0,Waco,,,,,p34
 minoraverages/Wright,1915,Texas League,sage,P10043,Sage,George,0,Waco,,,,34,
 boxscores/1915/1915-DMN,1915,Texas League,schraeder,P4297419,Schneider,,,Shreveport,19150418,19150418,1,0,1b1
-boxscores/1915/1915-DMN,1915,Texas League,schraeder,P6248802,Schrader,,,Shreveport,19150408,19150423,9,0,1b9
+boxscores/1915/1915-DMN,1915,Texas League,schraeder,P6248802,Schrader,,,Shreveport,19150408,19150501,13,0,1b13
 minoraverages/1916Reach,1915,Texas League,schraeder,B00264,Schrader,,0,Shreveport,,,147,,
 minoraverages/1916Reach,1915,Texas League,schraeder,F20832,Schrader,,0,Shreveport,,,,,1b146
-boxscores/1915/1915-DMN,1915,Texas League,schraeder,P7685959,Schraeder,,,Shreveport,19150410,19150425,3,0,1b3
+boxscores/1915/1915-DMN,1915,Texas League,schraeder,P7685959,Schraeder,,,Shreveport,19150410,19150429,5,0,1b5
 minoraverages/Wright,1915,Texas League,schraeder,B00912,Schraeder,Gus,0,Shreveport,,,147,,
 minoraverages/Wright,1915,Texas League,schraeder,F21000,Schraeder,Gus,0,Shreveport,,,,,1b146
 boxscores/1915/1915-DMN,1915,Texas League,schraeder,P8763093,Schroeder,,,Shreveport,19150420,19150421,2,0,"1b1,3b1"
@@ -968,13 +975,13 @@ minoraverages/Wright,1915,Texas League,schwind,F21278,Schwind,Art,0,Beaumont,,,,
 minoraverages/Wright,1915,Texas League,schwind,F21752,Schwind,Art,1,Dallas,,,,,ss
 minoraverages/Wright,1915,Texas League,schwind,F21752,Schwind,Art,2,Beaumont,,,,,ss
 minoraverages/Wright,1915,Texas League,schwind,F21752,Schwind,Art,T,,,,,,ss103
-boxscores/1915/1915-DMN,1915,Texas League,seitz,P1790179,Seitz,,,Houston,19150408,19150425,17,0,2b17
+boxscores/1915/1915-DMN,1915,Texas League,seitz,P1790179,Seitz,,,Houston,19150408,19150501,23,0,2b23
 minoraverages/1916Reach,1915,Texas League,seitz,B00403,Seitz,,0,Houston,,,145,,
 minoraverages/1916Reach,1915,Texas League,seitz,F20919,Seitz,,0,Houston,,,,,2b145
 minoraverages/Wright,1915,Texas League,seitz,B00739,Seitz,Charles,0,Houston,,,145,,
 minoraverages/Wright,1915,Texas League,seitz,F20832,Seitz,Charles,0,Houston,,,,,2b145
 boxscores/1915/1915-DMN,1915,Texas League,sentell,P5593578,Sentall,,,Galveston,19150416,19150416,1,0,
-boxscores/1915/1915-DMN,1915,Texas League,sentell,P9608430,Sentell,,,Galveston,19150408,19150425,5,0,"ss1,of1,rf1"
+boxscores/1915/1915-DMN,1915,Texas League,sentell,P9608430,Sentell,,,Galveston,19150408,19150430,8,0,"ss4,of1,rf1"
 minoraverages/1916Reach,1915,Texas League,sentell,B00092,Sentell,,0,Galveston,,,64,,
 minoraverages/1916Reach,1915,Texas League,sentell,F20981,Sentell,,0,Galveston,,,,,2b26
 minoraverages/1916Reach,1915,Texas League,sentell,F21232,Sentell,,0,Galveston,,,,,ss27
@@ -983,7 +990,7 @@ minoraverages/Wright,1915,Texas League,sentell,F21528,Sentell,Paul,0,Galveston,,
 minoraverages/Wright,1915,Texas League,sentell,F21531,Sentell,Paul,0,Galveston,,,,,2b26
 minoraverages/Wright,1915,Texas League,sentell,M90107,Sentell,Paul,,Galveston,,,,,
 minoraverages/emilbb,1915,Texas League,sentell,M90951,Sentell,Paul,,Galveston,,,,,
-boxscores/1915/1915-DMN,1915,Texas League,sewell,P7034785,Sewell,,,Dallas,19150408,19150421,5,5,p5
+boxscores/1915/1915-DMN,1915,Texas League,sewell,P7034785,Sewell,,,Dallas,19150408,19150430,6,6,p6
 minoraverages/1916Reach,1915,Texas League,sewell,B01119,Sewell,,0,Galveston,,,18,,
 minoraverages/1916Reach,1915,Texas League,sewell,F20254,Sewell,,0,Dallas,,,,,p18
 minoraverages/1916Reach,1915,Texas League,sewell,P10493,Sewell,,0,Dallas,,,,20,
@@ -996,13 +1003,14 @@ minoraverages/1916Reach,1915,Texas League,shaw,F21806,Shaw,,0,Houston,,,,,cf10
 minoraverages/Wright,1915,Texas League,shaw,B00783,Shaw,Ben,0,Houston,,,71,,
 minoraverages/Wright,1915,Texas League,shaw,F20886,Shaw,Ben,0,Houston,,,,,of71
 boxscores/1915/1915-DMN,1915,Texas League,showers,P8319818,Showers,,,Beaumont,19150410,19150411,2,0,
+boxscores/1915/1915-DMN,1915,Texas League,sloan,P5681362,Sloan,,,Dallas,19150427,19150427,1,1,p1
 minoraverages/1916Reach,1915,Texas League,sloan,B01477,Sloan,,0,Dallas,,,27,,
 minoraverages/1916Reach,1915,Texas League,sloan,F20458,Sloan,,0,Dallas,,,,,p36
 minoraverages/1916Reach,1915,Texas League,sloan,P10062,Sloan,,0,Dallas,,,,36,
 minoraverages/Wright,1915,Texas League,sloan,B00672,Sloan,Tod,0,Dallas,,,37,,
 minoraverages/Wright,1915,Texas League,sloan,F20776,Sloan,Tod,0,Dallas,,,,,p36
 minoraverages/Wright,1915,Texas League,sloan,P10202,Sloan,Tod,0,Dallas,,,,36,
-boxscores/1915/1915-DMN,1915,Texas League,smith-gal,P7142236,Smith,,,Galveston,19150408,19150425,15,0,3b15
+boxscores/1915/1915-DMN,1915,Texas League,smith-gal,P7142236,Smith,,,Galveston,19150408,19150501,21,0,3b21
 minoraverages/1916Reach,1915,Texas League,smith-shr,B00163,Smith,S.,0,Shreveport,,,85,,
 minoraverages/1916Reach,1915,Texas League,smith-gal,B00370,Smith,T.,0,Galveston,,,132,,
 minoraverages/1916Reach,1915,Texas League,smith-shr,F20571,Smith,S.,0,Shreveport,,,,,c74
@@ -1015,7 +1023,8 @@ minoraverages/Wright,1915,Texas League,smith-gal,F21450,Smith,Tony,0,Galveston,,
 minoraverages/Wright,1915,Texas League,smith-gal,F21469,Smith,Tony,0,Galveston,,,,,3b70
 minoraverages/Wright,1915,Texas League,smith-shr,M90083,Smith,Syd,,Shreveport,,,,,
 minoraverages/emilbb,1915,Texas League,smith-shr,M90938,Smith,Syd,,Shreveport,,,,,
-boxscores/1915/1915-DMN,1915,Texas League,snedecor,P6501649,Snedecor,,,San Antonio,19150408,19150425,16,0,1b16
+boxscores/1915/1915-DMN,1915,Texas League,snedecor,P7786243,Snedecar,,,San Antonio,19150428,19150428,2,0,1b2
+boxscores/1915/1915-DMN,1915,Texas League,snedecor,P6501649,Snedecor,,,San Antonio,19150408,19150501,20,0,1b20
 minoraverages/1916Reach,1915,Texas League,snedecor,B00416,Snedecor,,0,Dallas,,,146,,
 minoraverages/1916Reach,1915,Texas League,snedecor,F20886,Snedecor,,0,Dallas,,,,,1b146
 minoraverages/Wright,1915,Texas League,snedecor,B00577,Snedecor,Palmer,0,Dallas,,,,,
@@ -1026,6 +1035,8 @@ minoraverages/Wright,1915,Texas League,snedecor,F20657,Snedecor,Palmer,0,Dallas,
 minoraverages/Wright,1915,Texas League,snedecor,F21623,Snedecor,Palmer,1,San Antonio,,,,,1b
 minoraverages/Wright,1915,Texas League,snedecor,F21623,Snedecor,Palmer,2,Dallas,,,,,1b
 minoraverages/Wright,1915,Texas League,snedecor,F21623,Snedecor,Palmer,T,,,,,,1b146
+boxscores/1915/1915-DMN,1915,Texas League,sommers,P8045565,Sommers,,,Galveston,19150501,19150501,1,0,ss1
+boxscores/1915/1915-DMN,1915,Texas League,speer,P6734046,Speer,,,Beaumont,19150430,19150430,1,1,p1
 boxscores/1915/1915-DMN,1915,Texas League,speer,P7379282,Speer,,,Fort Worth,19150409,19150414,2,2,p2
 minoraverages/1916Reach,1915,Texas League,speer,B01402,Speer,,0,Shreveport,,,23,,
 minoraverages/1916Reach,1915,Texas League,speer,F20072,Speer,,0,Shreveport,,,,,p18
@@ -1039,31 +1050,31 @@ minoraverages/Wright,1915,Texas League,speer,F21887,Speer,Richard,T,,,,,,p18
 minoraverages/Wright,1915,Texas League,speer,P10575,Speer,Richard,1,Beaumont,,,,,
 minoraverages/Wright,1915,Texas League,speer,P10575,Speer,Richard,2,Shreveport,,,,,
 minoraverages/Wright,1915,Texas League,speer,P10575,Speer,Richard,T,,,,,18,
-boxscores/1915/1915-DMN,1915,Texas League,stephens,P2148479,Stephens,,,Dallas,19150413,19150421,7,0,c7
+boxscores/1915/1915-DMN,1915,Texas League,stephens,P2148479,Stephens,,,Dallas,19150413,19150501,8,0,c8
 minoraverages/1916Reach,1915,Texas League,stephens,B00739,Stephens,,0,Dallas,,,63,,
 minoraverages/1916Reach,1915,Texas League,stephens,F20721,Stephens,,0,Dallas,,,,,c57
 minoraverages/Wright,1915,Texas League,stephens,B00651,Stephens,Jim,0,Dallas,,,63,,
 minoraverages/Wright,1915,Texas League,stephens,F20759,Stephens,Jim,0,Dallas,,,,,c57
 boxscores/1915/1915-DMN,1915,Texas League,stephens,P9986781,Stevens,,,Dallas,19150416,19150416,1,0,c1
 boxscores/1915/1915-DMN,1915,Texas League,stewart-gal,P9305569,Stewart,,,Galveston,19150411,19150411,1,0,ss1
-boxscores/1915/1915-DMN,1915,Texas League,stewart,P9558216,Stewart,,,San Antonio,19150415,19150423,3,3,p3
+boxscores/1915/1915-DMN,1915,Texas League,stewart,P9558216,Stewart,,,San Antonio,19150415,19150430,6,6,p6
 minoraverages/1916Reach,1915,Texas League,stewart,B01181,Stewart,,0,San Antonio,,,28,,
 minoraverages/1916Reach,1915,Texas League,stewart,P10244,Stewart,,0,San Antonio,,,,28,
 minoraverages/Wright,1915,Texas League,stewart,B00293,Stewart,Harry,0,San Antonio,,,28,,
 minoraverages/Wright,1915,Texas League,stewart,F20350,Stewart,Harry,0,San Antonio,,,,,p28
 minoraverages/Wright,1915,Texas League,stewart,P10070,Stewart,Harry,0,San Antonio,,,,28,
-boxscores/1915/1915-DMN,1915,Texas League,storch,P6341960,Storch,,,Dallas,19150408,19150424,14,0,"of14,cf14"
+boxscores/1915/1915-DMN,1915,Texas League,storch,P6341960,Storch,,,Dallas,19150408,19150501,20,0,"of20,cf20"
 minoraverages/1916Reach,1915,Texas League,storch,B00589,Storch,,0,Dallas,,,152,,
 minoraverages/1916Reach,1915,Texas League,storch,F21794,Storch,,0,Dallas,,,,,cf153
 minoraverages/Wright,1915,Texas League,storch,B00614,Storch,Harry,0,Dallas,,,152,,
 minoraverages/Wright,1915,Texas League,storch,F20713,Storch,Harry,0,Dallas,,,,,of152
-boxscores/1915/1915-DMN,1915,Texas League,stow,P9930400,Stow,,,Fort Worth,19150408,19150424,14,0,ss14
+boxscores/1915/1915-DMN,1915,Texas League,stow,P9930400,Stow,,,Fort Worth,19150408,19150501,20,0,ss20
 minoraverages/Wright,1915,Texas League,stow,B00416,Stow,Bobby,0,Fort Worth,,,155,,
 minoraverages/Wright,1915,Texas League,stow,F20474,Stow,Bobby,0,Fort Worth,,,,,ss155
 minoraverages/1916Reach,1915,Texas League,stow,B00130,Stowe,,0,Fort Worth,,,155,,
 minoraverages/1916Reach,1915,Texas League,stow,F21278,Stowe,,0,Fort Worth,,,,,ss155
 boxscores/1915/1915-DMN,1915,Texas League,stewart-gal,P1767226,Stuart,,,Galveston,19150408,19150417,4,0,ss2
-boxscores/1915/1915-DMN,1915,Texas League,summers,P5650051,Summers,,,Galveston,19150412,19150425,12,0,"3b1,ss12"
+boxscores/1915/1915-DMN,1915,Texas League,summers,P5650051,Summers,,,Galveston,19150412,19150428,15,0,"3b1,ss15"
 minoraverages/1916Reach,1915,Texas League,summers,B00961,Summers,,0,Houston,,,124,,
 minoraverages/1916Reach,1915,Texas League,summers,F21362,Summers,,0,Houston,,,,,ss123
 minoraverages/Wright,1915,Texas League,summers,B00747,Summers,Eddie,0,Houston,,,,,
@@ -1083,26 +1094,27 @@ minoraverages/Wright,1915,Texas League,swann,F21381,Swann,Ducky,0,Beaumont,,,,,p
 minoraverages/Wright,1915,Texas League,swann,M90094,Swann,Ducky,,Beaumont,,,,,
 minoraverages/Wright,1915,Texas League,swann,P10429,Swann,Ducky,0,Beaumont,,,,22,
 minoraverages/emilbb,1915,Texas League,swann,M90946,Swann,Ducky,,Beaumont,,,,,
-boxscores/1915/1915-DMN,1915,Texas League,taff,P0318976,Taff,,,Beaumont,19150410,19150425,5,5,p5
+boxscores/1915/1915-DMN,1915,Texas League,taff,P0318976,Taff,,,Beaumont,19150410,19150429,6,6,p6
 minoraverages/1916Reach,1915,Texas League,taff,B01490,Taff,,0,Beaumont,,,20,,
 minoraverages/1916Reach,1915,Texas League,taff,F20388,Taff,,0,Beaumont,,,,,p20
 minoraverages/1916Reach,1915,Texas League,taff,P10464,Taff,,0,Fort Worth,,,,21,
 minoraverages/Wright,1915,Texas League,taff,B01250,Taff,John,0,Beaumont,,,20,,
 minoraverages/Wright,1915,Texas League,taff,F21397,Taff,John,0,Beaumont,,,,,p20
 minoraverages/Wright,1915,Texas League,taff,P10432,Taff,John,0,Beaumont,,,,20,
-boxscores/1915/1915-DMN,1915,Texas League,tanner,P1562518,Tanner,,,Waco,19150408,19150425,14,0,ss14
+boxscores/1915/1915-DMN,1915,Texas League,tanner,P1562518,Tanner,,,Waco,19150408,19150501,20,0,ss20
 minoraverages/1916Reach,1915,Texas League,tanner,B00207,Tanner,,0,Waco,,,140,,
 minoraverages/1916Reach,1915,Texas League,tanner,F21255,Tanner,,0,Waco,,,,,ss133
 minoraverages/1916Reach,1915,Texas League,tanner,F21811,Tanner,,0,Waco,,,,,lf7
 minoraverages/Wright,1915,Texas League,tanner,B00037,Tanner,Archie,0,Waco,,,140,,
 minoraverages/Wright,1915,Texas League,tanner,F20038,Tanner,Archie,0,Waco,,,,,ss133
 boxscores/1915/1915-DMN,1915,Texas League,tanner,P3240271,Tannery,,,Waco,19150423,19150423,1,0,ss1
-boxscores/1915/1915-DMN,1915,Texas League,tarleton,P8525888,Tarleton,,,Galveston,19150408,19150425,15,0,1b15
+boxscores/1915/1915-DMN,1915,Texas League,tarleton,P8525888,Tarleton,,,Galveston,19150408,19150428,18,0,1b18
 minoraverages/Wright,1915,Texas League,tarleton,B01291,Tarleton,Bob,0,Galveston,,,133,,
 minoraverages/Wright,1915,Texas League,tarleton,F21434,Tarleton,Bob,0,Galveston,,,,,1b133
+boxscores/1915/1915-DMN,1915,Texas League,tarleton,P0854587,Tarlton,,,Galveston,19150429,19150501,3,0,1b3
 minoraverages/1916Reach,1915,Texas League,tarleton,B00680,Tarlton,,0,Galveston,,,133,,
 minoraverages/1916Reach,1915,Texas League,tarleton,F20829,Tarlton,,0,Galveston,,,,,1b133
-boxscores/1915/1915-DMN,1915,Texas League,toland,P1216184,Toland,,,Shreveport,19150408,19150425,15,0,c15
+boxscores/1915/1915-DMN,1915,Texas League,toland,P1216184,Toland,,,Shreveport,19150408,19150501,21,0,c21
 minoraverages/1916Reach,1915,Texas League,toland,B01078,Toland,,0,Waco,,,85,,
 minoraverages/Wright,1915,Texas League,toland,B00101,Toland,Thomas,0,Waco,,,85,,
 minoraverages/Wright,1915,Texas League,toland,F20128,Toland,Thomas,0,Waco,,,,,c71
@@ -1118,7 +1130,7 @@ minoraverages/Wright,1915,Texas League,tullos,F21760,Tullos,Les,T,,,,,,3b89
 minoraverages/Wright,1915,Texas League,tullos,F21771,Tullos,Les,1,Dallas,,,,,2b
 minoraverages/Wright,1915,Texas League,tullos,F21771,Tullos,Les,2,San Antonio,,,,,2b
 minoraverages/Wright,1915,Texas League,tullos,F21771,Tullos,Les,T,,,,,,2b14
-boxscores/1915/1915-DMN,1915,Texas League,veazey,P7863460,Veasey,,,Galveston,19150413,19150419,4,4,p4
+boxscores/1915/1915-DMN,1915,Texas League,veazey,P7863460,Veasey,,,Galveston,19150413,19150429,5,5,p5
 minoraverages/1916Reach,1915,Texas League,veazey,F20095,Veasey,,0,Beaumont,,,,,p33
 minoraverages/1916Reach,1915,Texas League,veazey,P10320,Veasey,,0,Beaumont,,,,34,
 minoraverages/Wright,1915,Texas League,veazey,P10503,Veasey,Charles,1,Galveston,,,,,
@@ -1141,14 +1153,14 @@ minoraverages/1916Reach,1915,Texas League,walters,B00059,Walters,,0,Waco,,,108,,
 minoraverages/1916Reach,1915,Texas League,walters,F20583,Walters,,0,Waco,,,,,c105
 minoraverages/Wright,1915,Texas League,walters,B00084,Walters,Al,0,Waco,,,108,,
 minoraverages/Wright,1915,Texas League,walters,F20080,Walters,Al,0,Waco,,,,,c84
-boxscores/1915/1915-DMN,1915,Texas League,ware,P9127651,Ware,,,Houston,19150410,19150420,4,4,p4
+boxscores/1915/1915-DMN,1915,Texas League,ware,P9127651,Ware,,,Houston,19150410,19150430,6,6,p6
 minoraverages/1916Reach,1915,Texas League,ware,B01288,Ware,,0,Houston,,,34,,
 minoraverages/1916Reach,1915,Texas League,ware,F20067,Ware,,0,Houston,,,,,p35
 minoraverages/1916Reach,1915,Texas League,ware,P10304,Ware,,0,Houston,,,,34,
 minoraverages/Wright,1915,Texas League,ware,B00833,Ware,Andy,0,Houston,,,53,,
 minoraverages/Wright,1915,Texas League,ware,F20943,Ware,Andy,0,Houston,,,,,p34
 minoraverages/Wright,1915,Texas League,ware,P10290,Ware,Andy,0,Houston,,,,34,
-boxscores/1915/1915-DMN,1915,Texas League,watson,P4306387,Watson,,,Galveston,19150408,19150425,15,0,2b15
+boxscores/1915/1915-DMN,1915,Texas League,watson,P4306387,Watson,,,Galveston,19150408,19150501,21,0,2b21
 minoraverages/1916Reach,1915,Texas League,watson,B00149,Watson,,0,Galveston,,,118,,
 minoraverages/1916Reach,1915,Texas League,watson,F21021,Watson,,0,Galveston,,,,,2b109
 minoraverages/Wright,1915,Texas League,watson,B01300,Watson,Jules,0,Galveston,,,118,,
@@ -1169,9 +1181,9 @@ minoraverages/Wright,1915,Texas League,wilson,B01428,Wilson,Tom,0,Galveston,,,12
 minoraverages/Wright,1915,Texas League,wilson,F21589,Wilson,Tom,0,Galveston,,,,,c12
 minoraverages/Wright,1915,Texas League,wohleben,B00013,Wohleben,Fred,0,Waco,,,148,,
 minoraverages/Wright,1915,Texas League,wohleben,F20014,Wohleben,Fred,0,Waco,,,,,1b148
-boxscores/1915/1915-DMN,1915,Texas League,wohleben,P7634318,Wohlleben,,,Waco,19150408,19150425,10,0,1b10
+boxscores/1915/1915-DMN,1915,Texas League,wohleben,P7634318,Wohlleben,,,Waco,19150408,19150501,16,0,1b16
 minoraverages/1916Reach,1915,Texas League,wohleben,B00286,Wohlleben,,0,Waco,,,148,,
 minoraverages/1916Reach,1915,Texas League,wohleben,F20810,Wohlleben,,0,Waco,,,,,1b148
 boxscores/1915/1915-DMN,1915,Texas League,wohleben,P8443932,Wohllenben,,,Waco,19150410,19150415,5,0,1b5
-boxscores/1915/1915-DMN,1915,Texas League,wright@ump,P1552043,Wright,,,#umpire,19150408,19150425,,,
-boxscores/1915/1915-DMN,1915,Texas League,yardley,P5772328,Yardley,,,Waco,19150420,19150420,1,0,"of1,lf1"
+boxscores/1915/1915-DMN,1915,Texas League,wright@ump,P1552043,Wright,,,#umpire,19150408,19150430,,,
+boxscores/1915/1915-DMN,1915,Texas League,yardley,P5772328,Yardley,,,Waco,19150420,19150501,2,0,"of1,lf1"

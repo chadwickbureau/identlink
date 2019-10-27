@@ -1,48 +1,63 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,anderson,P3549888,Anderson,,,Texas & Pacific,19150410,19150410,1,0,2b1
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,appleby,P1228083,Appleby,,,Texas & Pacific,19150410,19150417,2,0,"of2,rf2"
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,ables,P7292963,Ables,,,Texas Power & Light,19150501,19150501,1,1,"p1,ss1"
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,anderson-tp,P3549888,Anderson,,,Texas & Pacific,19150410,19150410,1,0,2b1
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,anderson.c-tpl,P9137415,Anderson,C.,,Texas Power & Light,19150501,19150501,1,0,"of1,lf1"
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,anderson.w-tpl,P9714075,Anderson,W.,,Texas Power & Light,19150501,19150501,1,0,"of1,cf1"
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,appleby,P1228083,Appleby,,,Texas & Pacific,19150410,19150501,3,0,"of3,rf3"
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,barnes-mag,P1177391,Barnes,,,Magnolia,19150501,19150501,1,0,3b1
 boxscores/1915/1915-DMN,1915,Dallas Commercial League,barnes-mag,P2010468,Barnes,G.,,Magnolia,19150417,19150417,1,0,3b1
 boxscores/1915/1915-DMN,1915,Dallas Commercial League,barnes-sge,P5391014,Barnes,R.,,Southwest General Electric,19150417,19150417,1,1,p1
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,barnes-sge,P6885670,Barnes,,,Southwest General Electric,19150501,19150501,1,1,p1
 boxscores/1915/1915-DMN,1915,Dallas Commercial League,battle,P5874466,Battle,,,Texas & Pacific,19150410,19150417,2,0,"1b1,ss1"
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,bradley,P2814035,Braley,,,Magnolia,19150410,19150417,2,0,"of2,cf2"
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,bridges,P7931604,Bridges,,,Magnolia,19150410,19150417,2,0,"of2,rf2"
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,curtis,P0593509,Curtis,,,Southwest General Electric,19150417,19150417,1,0,2b1
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,dawkins@ump,P9838415,Dawkins,,,#umpire,19150410,19150417,,,
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,battle,P7835893,Battles,,,Texas & Pacific,19150501,19150501,1,0,2b1
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,bradley,P2814035,Braley,,,Magnolia,19150410,19150501,3,0,"of3,cf3"
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,bridges,P7931604,Bridges,,,Magnolia,19150410,19150501,3,0,"of3,rf3"
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,curtis,P0593509,Curtis,,,Southwest General Electric,19150417,19150501,2,0,2b2
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,dawkins@ump,P9838415,Dawkins,,,#umpire,19150410,19150501,,,
 boxscores/1915/1915-DMN,1915,Dallas Commercial League,fitzpatrick,P1297319,Fitz-rick,,,Magnolia,19150410,19150410,1,0,2b1
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,fitzpatrick,P9081503,Fitzpatrick,,,Magnolia,19150417,19150417,1,0,2b1
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,fitzpatrick,P9081503,Fitzpatrick,,,Magnolia,19150417,19150501,2,0,2b2
 boxscores/1915/1915-DMN,1915,Dallas Commercial League,florence,P9556564,Florence,,,Texas & Pacific,19150410,19150417,2,2,p2
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,green,P5272119,Green,,,Texas & Pacific,19150410,19150417,2,0,c2
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,green,P5272119,Green,,,Texas & Pacific,19150410,19150501,3,0,"c2,ss1"
 boxscores/1915/1915-DMN,1915,Dallas Commercial League,harris,P5190695,Harris,,,Post Office,19150417,19150417,1,0,2b1
 boxscores/1915/1915-DMN,1915,Dallas Commercial League,hawkins,P5830089,Hawkes,,,Texas & Pacific,19150417,19150417,1,0,2b1
 boxscores/1915/1915-DMN,1915,Dallas Commercial League,hawkins,P3575995,Hawkins,,,Texas & Pacific,19150410,19150410,1,0,ss1
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,houghton,P6312119,Houghton,,,Southwest General Electric,19150417,19150417,1,0,"of1,cf1"
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,hunter,P6737153,Hunter,,,Southwest General Electric,19150417,19150417,1,0,c1
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,houghton,P6312119,Houghton,,,Southwest General Electric,19150417,19150501,2,0,"of2,cf2"
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,hunter,P6737153,Hunter,,,Southwest General Electric,19150417,19150501,2,0,"c1,1b1"
 boxscores/1915/1915-DMN,1915,Dallas Commercial League,jack,P6779703,Jack,,,Post Office,19150417,19150417,1,0,1b1
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,kennedy,P8620522,Kennedy,,,Texas Power & Light,19150501,19150501,1,0,1b1
 boxscores/1915/1915-DMN,1915,Dallas Commercial League,lattimore,P1179343,Lattimore,,,Post Office,19150417,19150417,1,1,"p1,3b1"
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,lewis.m,P0586410,Lewis,M.,,Southwest General Electric,19150417,19150417,1,0,ss1
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,lewis.j,P3518887,Lewis,J.,,Southwest General Electric,19150417,19150417,1,0,3b1
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,lewis.m,P0586410,Lewis,M.,,Southwest General Electric,19150417,19150501,2,0,ss2
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,lewis.j,P3518887,Lewis,J.,,Southwest General Electric,19150417,19150501,2,0,"c1,3b1"
 boxscores/1915/1915-DMN,1915,Dallas Commercial League,lindemood,P6155065,Lindemood,,,#umpire,19150417,19150417,,,
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,mccammon,P0640959,McCammon,,,Magnolia,19150410,19150417,2,0,ss2
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,meek,P6282376,Meek,,,Texas & Pacific,19150417,19150417,1,0,1b1
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,mitchell,P8012294,Mitchell,,,Magnolia,19150410,19150417,2,2,p2
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,nobles,P2354564,Noble,,,Magnolia,19150417,19150417,1,0,"of1,lf1"
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,lindemood,P2297383,Lindenmood,,,#umpire,19150501,19150501,,,
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,mccammon,P0640959,McCammon,,,Magnolia,19150410,19150501,3,0,ss3
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,meek,P6282376,Meek,,,Texas & Pacific,19150417,19150501,2,0,1b2
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,mitchell,P8012294,Mitchell,,,Magnolia,19150410,19150501,3,3,p3
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,nobles,P2354564,Noble,,,Magnolia,19150417,19150501,2,0,"of2,lf2"
 boxscores/1915/1915-DMN,1915,Dallas Commercial League,nobles,P4384951,Nobles,,,Magnolia,19150410,19150410,1,0,"of1,lf1"
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,oliver,P8910455,Oliver,,,Texas & Pacific,19150410,19150417,2,0,"of2,cf2"
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,orr,P7216025,Orr,,,Texas & Pacific,19150410,19150417,2,0,"of2,lf2"
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,oliver,P8910455,Oliver,,,Texas & Pacific,19150410,19150501,3,0,"of3,cf3"
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,orr-tpl,P7007759,Orr,,,Texas Power & Light,19150501,19150501,1,0,"2b1,of1,rf1"
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,orr-txp,P7216025,Orr,,,Texas & Pacific,19150410,19150501,3,0,"of3,lf3"
 boxscores/1915/1915-DMN,1915,Dallas Commercial League,page,P5852027,Page,,,Post Office,19150417,19150417,1,0,c1
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,preston,P3646343,Preston,,,Texas Power & Light,19150501,19150501,1,0,c1
 boxscores/1915/1915-DMN,1915,Dallas Commercial League,reed,P4145246,Reed,,,Post Office,19150417,19150417,1,0,"of1,cf1"
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,riddell,P4698315,Riddell,,,Southwest General Electric,19150417,19150417,1,0,"of1,rf1"
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,self,P8300080,Self,,,Texas & Pacific,19150410,19150417,2,0,3b2
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,shannon,P5048800,Shannon,,,Southwest General Electric,19150417,19150417,1,0,1b1
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,sinclair,P8180841,Sinclair,,,Magnolia,19150410,19150417,2,0,1b2
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,riddell,P4698315,Riddell,,,Southwest General Electric,19150417,19150501,2,0,"of2,rf2"
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,rogers,P5742360,Rogers,,,Texas & Pacific,19150501,19150501,1,0,c1
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,rucker,P8624946,Rucker,,,Texas & Pacific,19150501,19150501,1,1,p1
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,self,P8300080,Self,,,Texas & Pacific,19150410,19150501,3,0,3b3
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,shannon,P5048800,Shannon,,,Southwest General Electric,19150417,19150501,2,0,"1b1,3b1"
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,sinclair,P8180841,Sinclair,,,Magnolia,19150410,19150501,3,0,1b3
 boxscores/1915/1915-DMN,1915,Dallas Commercial League,smith,P0858371,Smith,,,Post Office,19150417,19150417,1,0,"of1,lf1"
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,stokes,P3222261,Stokes,,,Texas Power & Light,19150501,19150501,1,0,"of1,lf1"
 boxscores/1915/1915-DMN,1915,Dallas Commercial League,taylor,P5270489,Taylor,,,Post Office,19150417,19150417,1,0,"3b1,of1,lf1"
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,tobian,P6106024,Tobian,,,Southwest General Electric,19150417,19150417,1,0,"of1,lf1"
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,tobian,P6106024,Tobian,,,Southwest General Electric,19150417,19150501,2,0,"of2,lf2"
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,tucker,P5581738,Tucker,,,Texas Power & Light,19150501,19150501,1,0,3b1
 boxscores/1915/1915-DMN,1915,Dallas Commercial League,turner,P1087006,Turner,,,Post Office,19150417,19150417,1,0,ss1
 boxscores/1915/1915-DMN,1915,Dallas Commercial League,vance,P7746571,Vance,,,Post Office,19150417,19150417,1,0,"of1,rf1"
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,wallace,P6140141,Wallace,,,Magnolia,19150417,19150417,1,0,"of1,rf1"
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,wallace,P6140141,Wallace,,,Magnolia,19150417,19150501,2,0,"of2,rf2"
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,welch,P2111631,Welch,,,Texas Power & Light,19150501,19150501,1,1,"p1,of1,rf1"
 boxscores/1915/1915-DMN,1915,Dallas Commercial League,williamson,P9783926,Wil'mson,,,Texas & Pacific,19150410,19150410,1,0,2b1
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,wilkerson,P8540754,Wilkerson,,,Magnolia,19150410,19150417,2,0,c2
-boxscores/1915/1915-DMN,1915,Dallas Commercial League,williamson,P8997509,Williamson,,,Texas & Pacific,19150417,19150417,1,0,2b1
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,wilkerson,P8540754,Wilkerson,,,Magnolia,19150410,19150501,3,0,c3
+boxscores/1915/1915-DMN,1915,Dallas Commercial League,williamson,P8997509,Williamson,,,Texas & Pacific,19150417,19150501,2,0,2b1
 boxscores/1915/1915-DMN,1915,Dallas Commercial League,wilson,P7156794,Wilson,,,Post Office,19150417,19150417,1,1,p1
 boxscores/1915/1915-DMN,1915,Dallas Commercial League,young,P3899174,Young,,,Magnolia,19150410,19150417,2,0,"2b1,3b2"
