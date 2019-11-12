@@ -80,14 +80,15 @@ boxscores/1915/1915-HC,1915,Colonial League,buckley@ump,P4344573,Buckley,,,#umpi
 boxscores/1915/1915-HC,1915,Colonial League,buckley@ump,P8839179,Bulkeley,,,#umpire,19150614,19150618,,,
 boxscores/1915/1915-HC,1915,Colonial League,buckley@ump,P1209222,Bulkley,,,#umpire,19150720,19150720,,,
 boxscores/1915/1915-HC,1915,Colonial League,burke,P2500111,Burke,,,Hartford,19150626,19150626,1,0,c1
-boxscores/1915/1915-HC,1915,Colonial League,burns,P8327587,Burnes,,,Pawtucket,19150903,19150903,1,1,p1
+boxscores/1915/1915-HC,1915,Colonial League,burns@p,P5093291,Burnes [p],,,Pawtucket,19150903,19150903,1,1,p1
 boxscores/1915/1915-HC,1915,Colonial League,bangs,P4298664,Burns,,,Brockton,19150706,19150706,1,0,2b1
-boxscores/1915/1915-HC,1915,Colonial League,burns,P7269854,Burns,,,Pawtucket,19150520,19150906,44,5,"p5,1b39"
-minoraverages/1916Reach,1915,Colonial League,burns,B00680,Burns,,0,Pawtucket,,,39,,
-minoraverages/1916Reach,1915,Colonial League,burns,B01242,Burns,,0,Pawtucket,,,5,,
-minoraverages/1916Reach,1915,Colonial League,burns,F20115,Burns,,0,Pawtucket,,,,,1b39
-minoraverages/1916Reach,1915,Colonial League,burns,F21609,Burns,,0,Pawtucket,,,,,p6
-minoraverages/1916Reach,1915,Colonial League,burns,P10373,Burns,,0,Pawtucket,,,,6,
+boxscores/1915/1915-HC,1915,Colonial League,burns@1b,P7269854,Burns,,,Pawtucket,19150520,19150710,39,0,1b39
+minoraverages/1916Reach,1915,Colonial League,burns@1b,B00680,Burns,,0,Pawtucket,,,39,,
+minoraverages/1916Reach,1915,Colonial League,burns@p,B01242,Burns,,0,Pawtucket,,,5,,
+minoraverages/1916Reach,1915,Colonial League,burns@1b,F20115,Burns,,0,Pawtucket,,,,,1b39
+minoraverages/1916Reach,1915,Colonial League,burns@p,F21609,Burns,,0,Pawtucket,,,,,p6
+minoraverages/1916Reach,1915,Colonial League,burns@p,P10373,Burns,,0,Pawtucket,,,,6,
+boxscores/1915/1915-HC,1915,Colonial League,burns@p,P7316198,Burns [p],,,Pawtucket,19150821,19150906,5,5,p5
 boxscores/1915/1915-HC,1915,Colonial League,bush,P3387504,Bush,,,Brockton,19150621,19150621,1,0,ss1
 boxscores/1915/1915-HC,1915,Colonial League,cabrera,P7171331,Cabrera,,,Springfield,19150612,19150710,24,0,ss24
 minoraverages/1916Reach,1915,Colonial League,cabrera,B00021,Cabrera,,0,Springfield,,,24,,
