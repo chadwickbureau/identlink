@@ -1,12 +1,434 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1912,New England League,,M90753,Burkett,Jesse,,Worcester,,,,,
-minoraverages/emilbb,1912,New England League,,M90808,Connaughton,Frank,,New Bedford,,,,,
-minoraverages/emilbb,1912,New England League,,M90824,Cross,Lave,,Haverhill,,,,,
-minoraverages/emilbb,1912,New England League,,M90744,Gray,James,,Lowell,,,,,
-minoraverages/emilbb,1912,New England League,,M90789,Leonard,Frank,,Lynn,,,,,
-minoraverages/emilbb,1912,New England League,,M90777,McGovern,Terry,,Lynn,,,,,
-minoraverages/emilbb,1912,New England League,,M90790,McLane,Jed,,Brockton,,,,,
-minoraverages/emilbb,1912,New England League,,M90835,O'Brien,John H.,,Fall River,,,,,
-minoraverages/emilbb,1912,New England League,,M90766,O'Donnell,John,,Worcester,,,,,
-minoraverages/emilbb,1912,New England League,,M90731,Piper,Louis,,Lawrence,,,,,
-minoraverages/emilbb,1912,New England League,,M90819,Sullivan,Jim,,New Bedford,,,,,
+minoraverages/1913Reach,1912,New England League,anderson,B01300,Anderson,,0,Brockton,,,33,,
+minoraverages/1913Reach,1912,New England League,anderson,F21442,Anderson,,0,Brockton,,,,,p27
+minoraverages/1913Reach,1912,New England League,anderson,P10312,Anderson,,0,Brockton,,,,,
+minoraverages/1913Reach,1912,New England League,arminger,B01337,Arminger,,0,Fall River,,,30,,
+minoraverages/1913Reach,1912,New England League,arminger,F21264,Arminger,,0,Fall River,,,,,p25
+minoraverages/1913Reach,1912,New England League,arminger,P10266,Arminger,,0,Fall River,,,,,
+minoraverages/1913Reach,1912,New England League,aubrey,B00638,Aubrey,,0,Worcester,,,78,,
+minoraverages/1913Reach,1912,New England League,aubrey,F20505,Aubrey,,0,Worcester,,,,,ss76
+minoraverages/1913Reach,1912,New England League,barry-bro,B00092,Barry,,0,Brockton,,,117,,
+minoraverages/1913Reach,1912,New England League,barry-hav,B01359,Barry,P.,0,Haverhill,,,20,,
+minoraverages/1913Reach,1912,New England League,barry-bro,F20051,Barry,,0,Brockton,,,,,1b116
+minoraverages/1913Reach,1912,New England League,barry-hav,F21370,Barry,,0,Haverhill,,,,,p16
+minoraverages/1913Reach,1912,New England League,barry-hav,P10373,Barry,,0,Haverhill,,,,,
+minoraverages/1913Reach,1912,New England League,blum,B01288,Blum,,1,Fall River,,,,,
+minoraverages/1913Reach,1912,New England League,blum,B01288,Blum,,2,Lowell,,,,,
+minoraverages/1913Reach,1912,New England League,blum,B01288,Blum,,T,,,,19,,
+minoraverages/1913Reach,1912,New England League,blum,F21196,Blum,,1,Fall River,,,,,p
+minoraverages/1913Reach,1912,New England League,blum,F21196,Blum,,2,Lowell,,,,,p
+minoraverages/1913Reach,1912,New England League,blum,F21196,Blum,,T,,,,,,p16
+minoraverages/1913Reach,1912,New England League,blum,P10357,Blum,,1,Fall River,,,,,
+minoraverages/1913Reach,1912,New England League,blum,P10357,Blum,,2,Lowell,,,,,
+minoraverages/1913Reach,1912,New England League,blum,P10357,Blum,,T,,,,,,
+minoraverages/1913Reach,1912,New England League,boardman,B00705,Boardman,,0,Brockton,,,125,,
+minoraverages/1913Reach,1912,New England League,boardman,F20303,Boardman,,0,Brockton,,,,,3b125
+minoraverages/1913Reach,1912,New England League,boehling,B00101,Boehling,,0,Worcester,,,27,,
+minoraverages/1913Reach,1912,New England League,boehling,F21356,Boehling,,0,Worcester,,,,,p22
+minoraverages/1913Reach,1912,New England League,boehling,P10113,Boehling,,0,Worcester,,,,,
+minoraverages/1913Reach,1912,New England League,boultes,B00623,Boultes,,0,Lowell,,,128,,
+minoraverages/1913Reach,1912,New England League,boultes,F20350,Boultes,,0,Lowell,,,,,3b128
+minoraverages/1913Reach,1912,New England League,bowcock,B00427,Bowcock,,0,Fall River,,,110,,
+minoraverages/1913Reach,1912,New England League,bowcock,F20189,Bowcock,,0,Fall River,,,,,2b110
+minoraverages/1913Reach,1912,New England League,boyd,B00912,Boyd,,0,Lawrence,,,18,,
+minoraverages/1913Reach,1912,New England League,boyd,F20342,Boyd,,0,Lawrence,,,,,3b17
+minoraverages/1913Reach,1912,New England League,boyle,B00898,Boyle,,0,Fall River,,,16,,
+minoraverages/1913Reach,1912,New England League,boyle,F20014,Boyle,,0,Fall River,,,,,1b16
+minoraverages/1913Reach,1912,New England League,breymaier,B01250,Breymaier,,0,Lawrence,,,73,,
+minoraverages/1913Reach,1912,New England League,breymaier,F21068,Breymaier,,0,Lawrence,,,,,c60
+minoraverages/1913Reach,1912,New England League,briggs,B00229,Briggs,,0,Lawrence,,,126,,
+minoraverages/1913Reach,1912,New England League,briggs,F20636,Briggs,,0,Lawrence,,,,,of125
+minoraverages/1913Reach,1912,New England League,brignolia,B01135,Brignolia,,0,Brockton,,,43,,
+minoraverages/1913Reach,1912,New England League,brignolia,F21210,Brignolia,,0,Brockton,,,,,p28
+minoraverages/1913Reach,1912,New England League,brignolia,P10202,Brignolia,,0,Brockton,,,,,
+minoraverages/1913Reach,1912,New England League,britton,B00999,Britton,,0,Lynn,,,30,,
+minoraverages/1913Reach,1912,New England League,britton,F21434,Britton,,0,Lynn,,,,,p17
+minoraverages/1913Reach,1912,New England League,britton,P10137,Britton,,0,Lynn,,,,,
+minoraverages/1913Reach,1912,New England League,burkett,B00021,Burkett,,0,Worcester,,,28,,
+minoraverages/emilbb,1912,New England League,burkett,M90753,Burkett,Jesse,,Worcester,,,,,
+minoraverages/1913Reach,1912,New England League,bushelman,P10081,Bushelman,,0,Worcester,,,,,
+minoraverages/1913Reach,1912,New England League,butler,B01170,Butler,,1,Fall River,,,,,
+minoraverages/1913Reach,1912,New England League,butler,B01170,Butler,,2,Worcester,,,,,
+minoraverages/1913Reach,1912,New England League,butler,B01170,Butler,,T,,,,15,,
+minoraverages/1913Reach,1912,New England League,campbell,B01108,Campbell,,0,Haverhill,,,118,,
+minoraverages/1913Reach,1912,New England League,campbell,F20206,Campbell,,0,Haverhill,,,,,2b116
+minoraverages/1913Reach,1912,New England League,cargo,B00726,Cargo,,1,Lynn,,,,,
+minoraverages/1913Reach,1912,New England League,cargo,B00726,Cargo,,2,Lawrence,,,,,
+minoraverages/1913Reach,1912,New England League,cargo,B00726,Cargo,,T,,,,120,,
+minoraverages/1913Reach,1912,New England League,cargo,F20482,Cargo,,0,Lynn,,,,,ss78
+minoraverages/1913Reach,1912,New England League,cargo,F20552,Cargo,,0,Lawrence,,,,,of15
+minoraverages/1913Reach,1912,New England League,carlstrom,B00469,Carlstrom,,0,Lawrence,,,117,,
+minoraverages/1913Reach,1912,New England League,carlstrom,F20430,Carlstrom,,0,Lawrence,,,,,ss116
+minoraverages/1913Reach,1912,New England League,carney,B00241,Carney,,0,Haverhill,,,75,,
+minoraverages/1913Reach,1912,New England League,carney,F20128,Carney,,0,Haverhill,,,,,1b75
+minoraverages/1913Reach,1912,New England League,carrigan,B01064,Carrigan,,0,Worcester,,,25,,
+minoraverages/1913Reach,1912,New England League,carrigan,F21037,Carrigan,,1,Worcester,,,,,c
+minoraverages/1913Reach,1912,New England League,carrigan,F21037,Carrigan,,2,Brockton,,,,,c
+minoraverages/1913Reach,1912,New England League,carrigan,F21037,Carrigan,,T,,,,,,c19
+minoraverages/1913Reach,1912,New England League,chase,B00985,Chase,,0,Lawrence,,,98,,
+minoraverages/1913Reach,1912,New England League,chase,F20046,Chase,,0,Lawrence,,,,,1b98
+minoraverages/1913Reach,1912,New England League,clemens,B00059,Clemens,,1,Haverhill,,,,,
+minoraverages/1913Reach,1912,New England League,clemens,B00059,Clemens,,2,Lowell,,,,,
+minoraverages/1913Reach,1912,New England League,clemens,B00059,Clemens,,T,,,,131,,
+minoraverages/1913Reach,1912,New England League,clemens,F20784,Clemens,,1,Haverhill,,,,,of
+minoraverages/1913Reach,1912,New England League,clemens,F20784,Clemens,,2,Lowell,,,,,of
+minoraverages/1913Reach,1912,New England League,clemens,F20784,Clemens,,T,,,,,,of130
+minoraverages/1913Reach,1912,New England League,clements,B00293,Clements,,0,Worcester,,,50,,
+minoraverages/1913Reach,1912,New England League,clements,F20924,Clements,,0,Worcester,,,,,of50
+minoraverages/1913Reach,1912,New England League,collins,B01119,Collins,,0,Lynn,,,15,,
+minoraverages/1913Reach,1912,New England League,collins,F20768,Collins,,0,Lynn,,,,,of15
+minoraverages/1913Reach,1912,New England League,connaughton,B00806,Connaughton,,0,New Bedford,,,113,,
+minoraverages/1913Reach,1912,New England League,connaughton,F20233,Connaughton,,0,New Bedford,,,,,2b110
+minoraverages/emilbb,1912,New England League,connaughton,M90808,Connaughton,Frank,,New Bedford,,,,,
+minoraverages/1913Reach,1912,New England League,cooney,B00887,Cooney,,1,Lowell,,,,,
+minoraverages/1913Reach,1912,New England League,cooney,B00887,Cooney,,2,Haverhill,,,,,
+minoraverages/1913Reach,1912,New England League,cooney,B00887,Cooney,,3,Lynn,,,,,
+minoraverages/1913Reach,1912,New England League,cooney,B00887,Cooney,,T,,,,84,,
+minoraverages/1913Reach,1912,New England League,cooney,F20080,Cooney,,0,Haverhill,,,,,1b15
+minoraverages/1913Reach,1912,New England League,cooney,F20474,Cooney,,1,Lowell,,,,,ss
+minoraverages/1913Reach,1912,New England League,cooney,F20474,Cooney,,2,Lynn,,,,,ss
+minoraverages/1913Reach,1912,New England League,cooney,F20474,Cooney,,T,,,,,,ss41
+minoraverages/1913Reach,1912,New England League,cooney,F20956,Cooney,,0,Haverhill,,,,,of21
+minoraverages/1913Reach,1912,New England League,courtney,B00068,Courtney,,0,Haverhill,,,111,,
+minoraverages/1913Reach,1912,New England League,courtney,F20560,Courtney,,0,Haverhill,,,,,of110
+minoraverages/1913Reach,1912,New England League,cross,B00264,Cross,,0,Haverhill,,,126,,
+minoraverages/1913Reach,1912,New England League,cross,F20287,Cross,,0,Haverhill,,,,,3b126
+minoraverages/emilbb,1912,New England League,cross,M90824,Cross,Lave,,Haverhill,,,,,
+minoraverages/1913Reach,1912,New England League,crum,B00491,Crum,,0,Worcester,,,125,,
+minoraverages/1913Reach,1912,New England League,crum,F20648,Crum,,0,Worcester,,,,,of123
+minoraverages/1913Reach,1912,New England League,daum,B00544,Daum,,0,Lynn,,,82,,
+minoraverages/1913Reach,1912,New England League,daum,F20962,Daum,,0,Lynn,,,,,c69
+minoraverages/1913Reach,1912,New England League,degroff,B00037,DeGroff,,0,Lowell,,,120,,
+minoraverages/1913Reach,1912,New England League,degroff,F20829,DeGroff,,0,Lowell,,,,,of129
+minoraverages/1913Reach,1912,New England League,dee,B00651,Dee,,1,Brockton,,,,,
+minoraverages/1913Reach,1912,New England League,dee,B00651,Dee,,2,Lowell,,,,,
+minoraverages/1913Reach,1912,New England League,dee,B00651,Dee,,T,,,,61,,
+minoraverages/1913Reach,1912,New England League,dee,F20463,Dee,,1,Brockton,,,,,ss
+minoraverages/1913Reach,1912,New England League,dee,F20463,Dee,,2,Lowell,,,,,ss
+minoraverages/1913Reach,1912,New England League,dee,F20463,Dee,,T,,,,,,ss61
+minoraverages/1913Reach,1912,New England League,delaney,B01269,Delaney,,0,New Bedford,,,93,,
+minoraverages/1913Reach,1912,New England League,delaney,F20391,Delaney,,0,New Bedford,,,,,3b31
+minoraverages/1913Reach,1912,New England League,delaney,F21021,Delaney,,0,New Bedford,,,,,c51
+minoraverages/1913Reach,1912,New England League,devine,B01029,Devine,,1,Fall River,,,,,
+minoraverages/1913Reach,1912,New England League,devine,B01029,Devine,,2,New Bedford,,,,,
+minoraverages/1913Reach,1912,New England League,devine,B01029,Devine,,T,,,,45,,
+minoraverages/1913Reach,1912,New England League,devine,F20673,Devine,,1,Fall River,,,,,of
+minoraverages/1913Reach,1912,New England League,devine,F20673,Devine,,2,New Bedford,,,,,of
+minoraverages/1913Reach,1912,New England League,devine,F20673,Devine,,T,,,,,,of38
+minoraverages/1913Reach,1912,New England League,ferrin,B00158,Ferrin,,1,Lowell,,,,,
+minoraverages/1913Reach,1912,New England League,ferrin,B00158,Ferrin,,2,Lynn,,,,,
+minoraverages/1913Reach,1912,New England League,ferrin,B00158,Ferrin,,3,Lawrence,,,,,
+minoraverages/1913Reach,1912,New England League,ferrin,B00158,Ferrin,,4,Fall River,,,,,
+minoraverages/1913Reach,1912,New England League,ferrin,B00158,Ferrin,,T,,,,46,,
+minoraverages/1913Reach,1912,New England League,ferrin,F20807,Ferrin,,1,Lowell,,,,,of
+minoraverages/1913Reach,1912,New England League,ferrin,F20807,Ferrin,,2,Lynn,,,,,of
+minoraverages/1913Reach,1912,New England League,ferrin,F20807,Ferrin,,3,Lawrence,,,,,of
+minoraverages/1913Reach,1912,New England League,ferrin,F20807,Ferrin,,4,Fall River,,,,,of
+minoraverages/1913Reach,1912,New England League,ferrin,F20807,Ferrin,,T,,,,,,of46
+minoraverages/1913Reach,1912,New England League,flaherty,B00680,Flaherty,,0,Worcester,,,125,,
+minoraverages/1913Reach,1912,New England League,flaherty,F20240,Flaherty,,0,Worcester,,,,,2b40
+minoraverages/1913Reach,1912,New England League,flaherty,F20369,Flaherty,,0,Worcester,,,,,3b82
+minoraverages/1913Reach,1912,New England League,fullerton,B01216,Fullerton,,0,Lawrence,,,33,,
+minoraverages/1913Reach,1912,New England League,fullerton,F21427,Fullerton,,0,Lawrence,,,,,p30
+minoraverages/1913Reach,1912,New England League,fullerton,P10184,Fullerton,,0,Lawrence,,,,,
+minoraverages/1913Reach,1912,New England League,gaw,B00718,Gaw,,0,Brockton,,,42,,
+minoraverages/1913Reach,1912,New England League,gaw,F21397,Gaw,,0,Brockton,,,,,p33
+minoraverages/1913Reach,1912,New England League,gaw,P10231,Gaw,,0,Brockton,,,,,
+minoraverages/emilbb,1912,New England League,gray,M90744,Gray,James,,Lowell,,,,,
+minoraverages/1913Reach,1912,New England League,griffith,B00324,Griffith,,0,New Bedford,,,42,,
+minoraverages/1913Reach,1912,New England League,griffith,F21255,Griffith,,0,New Bedford,,,,,p29
+minoraverages/1913Reach,1912,New England League,griffith,P10168,Griffith,,0,New Bedford,,,,,
+minoraverages/1913Reach,1912,New England League,gunning,B00255,Gunning,,0,Worcester,,,16,,
+minoraverages/1913Reach,1912,New England League,gunning,F20131,Gunning,,0,Worcester,,,,,1b16
+minoraverages/1913Reach,1912,New England League,haas,B00854,Haas,,0,Worcester,,,100,,
+minoraverages/1913Reach,1912,New England League,hagan,B01143,Hagan,,1,Lawrence,,,,,
+minoraverages/1913Reach,1912,New England League,hagan,B01143,Hagan,,2,Fall River,,,,,
+minoraverages/1913Reach,1912,New England League,hagan,B01143,Hagan,,T,,,,62,,
+minoraverages/1913Reach,1912,New England League,hagan,F20388,Hagan,,1,Lawrence,,,,,3b
+minoraverages/1913Reach,1912,New England League,hagan,F20388,Hagan,,2,Fall River,,,,,3b
+minoraverages/1913Reach,1912,New England League,hagan,F20388,Hagan,,T,,,,,,3b61
+minoraverages/1913Reach,1912,New England League,hale,B00434,Hale,,0,Worcester,,,19,,
+minoraverages/1913Reach,1912,New England League,hale,F21174,Hale,,0,Worcester,,,,,p17
+minoraverages/1913Reach,1912,New England League,hale,P10244,Hale,,0,Worcester,,,,,
+minoraverages/1913Reach,1912,New England League,halstein,B00045,Halstein,,0,Lowell,,,47,,
+minoraverages/1913Reach,1912,New England League,halstein,F20072,Halstein,,0,Lowell,,,,,1b45
+minoraverages/1913Reach,1912,New England League,hankee,P10385,Hankee,,0,Haverhill,,,,,
+minoraverages/1913Reach,1912,New England League,harrington,B00076,Harrington,,0,Lynn,,,54,,
+minoraverages/1913Reach,1912,New England League,harrington,F21319,Harrington,,0,Lynn,,,,,p37
+minoraverages/1913Reach,1912,New England League,harrington,P10100,Harrington,,0,Lynn,,,,,
+minoraverages/1913Reach,1912,New England League,haas,F20095,Hass,,0,Worcester,,,,,1b95
+minoraverages/1913Reach,1912,New England League,hayden,B01156,Hayden,,0,Fall River,,,59,,
+minoraverages/1913Reach,1912,New England League,hayden,F21084,Hayden,,0,Fall River,,,,,c51
+minoraverages/1913Reach,1912,New England League,hickman,B00163,Hickman,,0,Fall River,,,114,,
+minoraverages/1913Reach,1912,New England League,hickman,F20518,Hickman,,0,Fall River,,,,,ss107
+minoraverages/1913Reach,1912,New England League,hoff,B00920,Hoff,,0,Lawrence,,,35,,
+minoraverages/1913Reach,1912,New England League,hoff,F21232,Hoff,,0,Lawrence,,,,,p21
+minoraverages/1913Reach,1912,New England League,hoff,P10024,Hoff,,0,Lawrence,,,,,
+minoraverages/1913Reach,1912,New England League,hogg,B00589,Hogg,,0,New Bedford,,,20,,
+minoraverages/1913Reach,1912,New England League,hogg,F21308,Hogg,,0,New Bedford,,,,,p19
+minoraverages/1913Reach,1912,New England League,hogg,P10228,Hogg,,0,New Bedford,,,,,
+minoraverages/1913Reach,1912,New England League,howard-bro,B00207,Howard,,0,Brockton,,,116,,
+minoraverages/1913Reach,1912,New England League,howard-law+nb,B00614,Howard,,1,Lawrence,,,,,
+minoraverages/1913Reach,1912,New England League,howard-law+nb,B00614,Howard,,2,New Bedford,,,,,
+minoraverages/1913Reach,1912,New England League,howard-law+nb,B00614,Howard,,T,,,,15,,
+minoraverages/1913Reach,1912,New England League,howard-bro,F20265,Howard,,0,Brockton,,,,,2b58
+minoraverages/1913Reach,1912,New England League,howard-bro,F20855,Howard,,0,Brockton,,,,,of50
+minoraverages/1913Reach,1912,New England League,howard-law+nb,P10304,Howard,,1,Lawrence,,,,,
+minoraverages/1913Reach,1912,New England League,howard-law+nb,P10304,Howard,,2,New Bedford,,,,,
+minoraverages/1913Reach,1912,New England League,howard-law+nb,P10304,Howard,,T,,,,,,
+minoraverages/1913Reach,1912,New England League,jacobs,B00397,Jacobs,,1,Worcester,,,,,
+minoraverages/1913Reach,1912,New England League,jacobs,B00397,Jacobs,,2,Lawrence,,,,,
+minoraverages/1913Reach,1912,New England League,jacobs,B00397,Jacobs,,T,,,,63,,
+minoraverages/1913Reach,1912,New England League,jacobs,F20327,Jacobs,,1,Worcester,,,,,3b
+minoraverages/1913Reach,1912,New England League,jacobs,F20327,Jacobs,,2,Lawrence,,,,,3b
+minoraverages/1913Reach,1912,New England League,jacobs,F20327,Jacobs,,T,,,,,,3b55
+minoraverages/1913Reach,1912,New England League,johnson,B01203,Johnson,,0,Haverhill,,,23,,
+minoraverages/1913Reach,1912,New England League,johnson,F21182,Johnson,,0,Haverhill,,,,,p23
+minoraverages/1913Reach,1912,New England League,johnson,P10320,Johnson,,0,Haverhill,,,,,
+minoraverages/1913Reach,1912,New England League,kauff,B01078,Kauff,,0,Brockton,,,29,,
+minoraverages/1913Reach,1912,New England League,kauff,F20699,Kauff,,0,Brockton,,,,,of28
+minoraverages/1913Reach,1912,New England League,keating,B00961,Keating,,0,Lawrence,,,43,,
+minoraverages/1913Reach,1912,New England League,keating,F21403,Keating,,0,Lawrence,,,,,p34
+minoraverages/1913Reach,1912,New England League,keating,P10043,Keating,,0,Lawrence,,,,,
+minoraverages/1913Reach,1912,New England League,kennedy,B00319,Kennedy,,0,Lawrence,,,106,,
+minoraverages/1913Reach,1912,New England League,kennedy,F20919,Kennedy,,0,Lawrence,,,,,of98
+minoraverages/1913Reach,1912,New England League,kessler,B01007,Kessler,,0,Haverhill,,,33,,
+minoraverages/1913Reach,1912,New England League,kessler,F21324,Kessler,,0,Haverhill,,,,,p29
+minoraverages/1913Reach,1912,New England League,kessler,P10277,Kessler,,0,Haverhill,,,,,
+minoraverages/1913Reach,1912,New England League,kilhullen,B00811,Kilhullen,,1,Worcester,,,,,
+minoraverages/1913Reach,1912,New England League,kilhullen,B00811,Kilhullen,,2,New Bedford,,,,,
+minoraverages/1913Reach,1912,New England League,kilhullen,B00811,Kilhullen,,T,,,,45,,
+minoraverages/1913Reach,1912,New England League,kilhullen,F21059,Kilhullen,,1,Worcester,,,,,c
+minoraverages/1913Reach,1912,New England League,kilhullen,F21059,Kilhullen,,2,New Bedford,,,,,c
+minoraverages/1913Reach,1912,New England League,kilhullen,F21059,Kilhullen,,T,,,,,,c44
+minoraverages/1913Reach,1912,New England League,klett,B00833,Klett,,0,Haverhill,,,27,,
+minoraverages/1913Reach,1912,New England League,klett,F20886,Klett,,0,Haverhill,,,,,of27
+minoraverages/1913Reach,1912,New England League,lavigne,B00370,Lavigne,,0,Lowell,,,86,,
+minoraverages/1913Reach,1912,New England League,lavigne,F21076,Lavigne,,0,Lowell,,,,,c84
+minoraverages/emilbb,1912,New England League,leonard,M90789,Leonard,Frank,,Lynn,,,,,
+minoraverages/1913Reach,1912,New England League,linderbeck,B00286,Linderbeck,,1,Worcester,,,,,
+minoraverages/1913Reach,1912,New England League,linderbeck,B00286,Linderbeck,,2,New Bedford,,,,,
+minoraverages/1913Reach,1912,New England League,linderbeck,B00286,Linderbeck,,T,,,,31,,
+minoraverages/1913Reach,1912,New England League,linderbeck,F20810,Linderbeck,,1,Worcester,,,,,of
+minoraverages/1913Reach,1912,New England League,linderbeck,F20810,Linderbeck,,2,New Bedford,,,,,of
+minoraverages/1913Reach,1912,New England League,linderbeck,F20810,Linderbeck,,T,,,,,,of31
+minoraverages/1913Reach,1912,New England League,logan,B00528,Logan,,0,Lynn,,,127,,
+minoraverages/1913Reach,1912,New England League,logan,F20211,Logan,,0,Lynn,,,,,2b127
+minoraverages/1913Reach,1912,New England League,lonergan,B00308,Lonergan,,0,Lowell,,,48,,
+minoraverages/1913Reach,1912,New England League,lonergan,F20526,Lonergan,,0,Lowell,,,,,ss35
+minoraverages/1913Reach,1912,New England League,long,B01010,Long,,0,Haverhill,,,34,,
+minoraverages/1913Reach,1912,New England League,long,F21381,Long,,0,Haverhill,,,,,p29
+minoraverages/1913Reach,1912,New England League,long,P10192,Long,,0,Haverhill,,,,,
+minoraverages/1913Reach,1912,New England League,luyster,B00125,Luyster,,0,Lawrence,,,125,,
+minoraverages/1913Reach,1912,New England League,luyster,F20864,Luyster,,0,Lawrence,,,,,of121
+minoraverages/1913Reach,1912,New England League,lynch,B01234,Lynch,,0,Lawrence,,,52,,
+minoraverages/1913Reach,1912,New England League,lynch,F20316,Lynch,,0,Lawrence,,,,,3b52
+minoraverages/1913Reach,1912,New England League,magee,B00695,Magee,,0,Lowell,,,124,,
+minoraverages/1913Reach,1912,New England League,magee,F20657,Magee,,0,Lowell,,,,,of124
+minoraverages/1913Reach,1912,New England League,maloney,B00084,Maloney,,0,Brockton,,,41,,
+minoraverages/1913Reach,1912,New England League,maloney,F20612,Maloney,,0,Brockton,,,,,of41
+minoraverages/1913Reach,1912,New England League,maranville,B00343,Maranville,,0,New Bedford,,,122,,
+minoraverages/1913Reach,1912,New England League,maranville,F20417,Maranville,,0,New Bedford,,,,,ss122
+minoraverages/1913Reach,1912,New England League,matthews,B00936,Matthews,,0,Haverhill,,,97,,
+minoraverages/1913Reach,1912,New England League,matthews,F20737,Matthews,,0,Haverhill,,,,,of96
+minoraverages/1913Reach,1912,New England League,maybohm,B00904,Maybohm,,0,Lowell,,,40,,
+minoraverages/1913Reach,1912,New England League,maybohm,F21293,Maybohm,,0,Lowell,,,,,p34
+minoraverages/1913Reach,1912,New England League,maybohm,P10062,Maybohm,,0,Lowell,,,,,
+minoraverages/1913Reach,1912,New England League,mccune,F20970,McCume,,0,Worcester,,,,,c44
+minoraverages/1913Reach,1912,New England League,mccune,B00488,McCune,,0,Worcester,,,70,,
+minoraverages/1913Reach,1912,New England League,mccune,F20425,McCune,,0,Worcester,,,,,ss22
+minoraverages/1913Reach,1912,New England League,mcgamwell,B00174,McGamwell,,1,Haverhill,,,,,
+minoraverages/1913Reach,1912,New England League,mcgamwell,B00174,McGamwell,,2,Lowell,,,,,
+minoraverages/1913Reach,1912,New England League,mcgamwell,B00174,McGamwell,,T,,,,93,,
+minoraverages/1913Reach,1912,New England League,mcgamwell,F20023,McGamwell,,1,Haverhill,,,,,1b
+minoraverages/1913Reach,1912,New England League,mcgamwell,F20023,McGamwell,,2,Lowell,,,,,1b
+minoraverages/1913Reach,1912,New England League,mcgamwell,F20023,McGamwell,,T,,,,,,1b87
+minoraverages/1913Reach,1912,New England League,mcgovern,B00553,McGovern,,0,Lynn,,,89,,
+minoraverages/1913Reach,1912,New England League,mcgovern,F20067,McGovern,,0,Lynn,,,,,1b85
+minoraverages/emilbb,1912,New England League,mcgovern,M90777,McGovern,Terry,,Lynn,,,,,
+minoraverages/1913Reach,1912,New England League,mclane,B00771,McLane,,0,Brockton,,,103,,
+minoraverages/1913Reach,1912,New England League,mclane,F20776,McLane,,0,Brockton,,,,,of99
+minoraverages/emilbb,1912,New England League,mclane,M90790,McLane,Jed,,Brockton,,,,,
+minoraverages/1913Reach,1912,New England League,merrill,B00278,Merrill,,0,Fall River,,,116,,
+minoraverages/1913Reach,1912,New England League,merrill,F20759,Merrill,,0,Fall River,,,,,of102
+minoraverages/1913Reach,1912,New England League,miller,B00879,Miller,,0,Lowell,,,125,,
+minoraverages/1913Reach,1912,New England League,miller,F20102,Miller,,0,Lowell,,,,,1b32
+minoraverages/1913Reach,1912,New England League,miller,F20190,Miller,,0,Lowell,,,,,2b93
+minoraverages/1913Reach,1912,New England League,monahan,B00196,Monahan,,0,Lowell,,,59,,
+minoraverages/1913Reach,1912,New England League,monahan,F21092,Monahan,,0,Lowell,,,,,c46
+minoraverages/1913Reach,1912,New England League,morris,B00739,Morris,,1,Lynn,,,,,
+minoraverages/1913Reach,1912,New England League,morris,B00739,Morris,,2,New Bedford,,,,,
+minoraverages/1913Reach,1912,New England League,morris,B00739,Morris,,T,,,,91,,
+minoraverages/1913Reach,1912,New England League,morris,F20496,Morris,,1,Lynn,,,,,ss
+minoraverages/1913Reach,1912,New England League,morris,F20496,Morris,,2,New Bedford,,,,,ss
+minoraverages/1913Reach,1912,New England League,morris,F20496,Morris,,T,,,,,,ss16
+minoraverages/1913Reach,1912,New England League,morris,F20620,Morris,,1,Lynn,,,,,of
+minoraverages/1913Reach,1912,New England League,morris,F20620,Morris,,2,New Bedford,,,,,of
+minoraverages/1913Reach,1912,New England League,morris,F20620,Morris,,T,,,,,,of66
+minoraverages/1913Reach,1912,New England League,murch,B00442,Murch,,0,Lynn,,,99,,
+minoraverages/1913Reach,1912,New England League,murch,F20298,Murch,,0,Lynn,,,,,3b90
+minoraverages/1913Reach,1912,New England League,ness,B00232,Ness,,0,New Bedford,,,118,,
+minoraverages/1913Reach,1912,New England League,ness,F20038,Ness,,0,New Bedford,,,,,1b117
+minoraverages/1913Reach,1912,New England League,nye,B00416,Nye,,1,Lowell,,,,,
+minoraverages/1913Reach,1912,New England League,nye,B00416,Nye,,2,Haverhill,,,,,
+minoraverages/1913Reach,1912,New England League,nye,B00416,Nye,,3,Worcester,,,,,
+minoraverages/1913Reach,1912,New England League,nye,B00416,Nye,,T,,,,107,,
+minoraverages/1913Reach,1912,New England League,nye,F20222,Nye,,1,Lowell,,,,,2b
+minoraverages/1913Reach,1912,New England League,nye,F20222,Nye,,2,Haverhill,,,,,2b
+minoraverages/1913Reach,1912,New England League,nye,F20222,Nye,,3,Worcester,,,,,2b
+minoraverages/1913Reach,1912,New England League,nye,F20222,Nye,,T,,,,,,2b102
+minoraverages/emilbb,1912,New England League,obrien,M90835,O'Brien,John H.,,Fall River,,,,,
+minoraverages/1913Reach,1912,New England League,oconnell,B00403,O'Connell,,0,New Bedford,,,116,,
+minoraverages/1913Reach,1912,New England League,oconnell,F20841,O'Connell,,0,New Bedford,,,,,of116
+minoraverages/emilbb,1912,New England League,odonnell,M90766,O'Donnell,John,,Worcester,,,,,
+minoraverages/1913Reach,1912,New England League,odowd,B01162,O'Dowd,,0,Brockton,,,50,,
+minoraverages/1913Reach,1912,New England League,odowd,F20166,O'Dowd,,0,Brockton,,,,,2b31
+minoraverages/1913Reach,1912,New England League,odowd,F20539,O'Dowd,,0,Brockton,,,,,ss19
+minoraverages/1913Reach,1912,New England League,orcutt,B00577,Orcutt,,0,Lynn,,,122,,
+minoraverages/1913Reach,1912,New England League,orcutt,F20700,Orcutt,,0,Lynn,,,,,of121
+minoraverages/1913Reach,1912,New England League,pearson,B00117,Pearson,,0,Lawrence,,,49,,
+minoraverages/1913Reach,1912,New England League,pearson,F20908,Pearson,,0,Lawrence,,,,,of15
+minoraverages/1913Reach,1912,New England League,pearson,F21207,Pearson,,0,Lawrence,,,,,p20
+minoraverages/1913Reach,1912,New England League,pearson,P10035,Pearson,,0,Lawrence,,,,,
+minoraverages/1913Reach,1912,New England League,perkins,B01086,Perkins,,0,Haverhill,,,66,,
+minoraverages/1913Reach,1912,New England League,perkins,F21013,Perkins,,0,Haverhill,,,,,c61
+minoraverages/1913Reach,1912,New England League,pfeffer,B01041,Pfeffer,,0,Lowell,,,16,,
+minoraverages/1913Reach,1912,New England League,pfeffer,P10019,Pfeffer,,0,Lowell,,,,,
+minoraverages/1913Reach,1912,New England League,phoenix,B00590,Phoenix,,0,Lawrence,,,114,,
+minoraverages/1913Reach,1912,New England League,phoenix,F20254,Phoenix,,0,Lawrence,,,,,2b112
+minoraverages/emilbb,1912,New England League,piper,M90731,Piper,Louis,,Lawrence,,,,,
+minoraverages/1913Reach,1912,New England League,pratt,B00822,Pratt,,0,Haverhill,,,80,,
+minoraverages/1913Reach,1912,New England League,pratt,F21101,Pratt,,0,Haverhill,,,,,c66
+minoraverages/1913Reach,1912,New England League,pruitt,B00840,Pruitt,,0,New Bedford,,,44,,
+minoraverages/1913Reach,1912,New England League,pruitt,F21335,Pruitt,,0,New Bedford,,,,,p32
+minoraverages/1913Reach,1912,New England League,pruitt,P10176,Pruitt,,0,New Bedford,,,,,
+minoraverages/1913Reach,1912,New England League,reynolds-hav,B00149,Reynolds,,0,Haverhill,,,33,,
+minoraverages/1913Reach,1912,New England League,reynolds-wor,B01227,Reynolds,,0,Worcester,,,40,,
+minoraverages/1913Reach,1912,New England League,reynolds-hav,F20713,Reynolds,,0,Haverhill,,,,,of32
+minoraverages/1913Reach,1912,New England League,reynolds-wor,F21045,Reynolds,,0,Worcester,,,,,c37
+minoraverages/1913Reach,1912,New England League,rising,B00013,Rising,,0,Lowell,,,22,,
+minoraverages/1913Reach,1912,New England League,rising,F20721,Rising,,0,Lowell,,,,,of22
+minoraverages/1913Reach,1912,New England League,robinson,B00752,Robinson,,0,Haverhill,,,25,,
+minoraverages/1913Reach,1912,New England League,robinson,F20792,Robinson,,0,Haverhill,,,,,of25
+minoraverages/1913Reach,1912,New England League,rose,B00760,Rose,,0,Fall River,,,90,,
+minoraverages/1913Reach,1912,New England League,rose,F20153,Rose,,0,Fall River,,,,,1b85
+minoraverages/1913Reach,1912,New England League,rufiange,B00948,Rufiange,,1,New Bedford,,,,,
+minoraverages/1913Reach,1912,New England League,rufiange,B00948,Rufiange,,2,Brockton,,,,,
+minoraverages/1913Reach,1912,New England League,rufiange,B00948,Rufiange,,T,,,,61,,
+minoraverages/1913Reach,1912,New England League,rufiange,F20981,Rufiange,,1,New Bedford,,,,,c
+minoraverages/1913Reach,1912,New England League,rufiange,F20981,Rufiange,,2,Brockton,,,,,c
+minoraverages/1913Reach,1912,New England League,rufiange,F20981,Rufiange,,T,,,,,,c55
+minoraverages/1913Reach,1912,New England League,ryan,B00646,Ryan,,0,Lynn,,,15,,
+minoraverages/1913Reach,1912,New England League,shea,B00672,Shea,,0,Brockton,,,24,,
+minoraverages/1913Reach,1912,New England League,shea,F20935,Shea,,0,Brockton,,,,,of22
+minoraverages/1913Reach,1912,New England League,shorten,B00335,Shorten,,0,Worcester,,,97,,
+minoraverages/1913Reach,1912,New England League,shorten,F20583,Shorten,,0,Worcester,,,,,of96
+minoraverages/1913Reach,1912,New England League,smith-bro,B00475,Smith,,0,Brockton,,,103,,
+minoraverages/1913Reach,1912,New England League,smith-wor,B00957,Smith,,0,Worcester,,,29,,
+minoraverages/1913Reach,1912,New England League,smith-bro,F20594,Smith,,0,Brockton,,,,,of103
+minoraverages/1913Reach,1912,New England League,smith-wor,F21130,Smith,,0,Worcester,,,,,c28
+minoraverages/1913Reach,1912,New England League,spires,B00973,Spires,,0,New Bedford,,,107,,
+minoraverages/1913Reach,1912,New England League,spires,F20375,Spires,,0,New Bedford,,,,,3b90
+minoraverages/1913Reach,1912,New England League,strands,B00667,Strands,,0,Lynn,,,127,,
+minoraverages/1913Reach,1912,New England League,strands,F20401,Strands,,0,Lynn,,,,,ss18
+minoraverages/1913Reach,1912,New England League,strands,F20604,Strands,,0,Lynn,,,,,of103
+minoraverages/1913Reach,1912,New England League,sullivan.h-bro,B00794,Sullivan,H.,0,Brockton,,,36,,
+minoraverages/1913Reach,1912,New England League,sullivan.j-bro,B01055,Sullivan,J.,0,Brockton,,,122,,
+minoraverages/1913Reach,1912,New England League,sullivan-fr,B01345,Sullivan,,0,Fall River,,,26,,
+minoraverages/1913Reach,1912,New England League,sullivan.j-bro,F20177,Sullivan,J.,0,Brockton,,,,,2b17
+minoraverages/1913Reach,1912,New England League,sullivan.h-bro,F20279,Sullivan,H.,0,Brockton,,,,,2b16
+minoraverages/1913Reach,1912,New England League,sullivan.j-bro,F20458,Sullivan,J.,0,Brockton,,,,,ss105
+minoraverages/1913Reach,1912,New England League,sullivan.h-bro,F20943,Sullivan,H.,0,Brockton,,,,,of19
+minoraverages/1913Reach,1912,New England League,sullivan-fr,F21469,Sullivan,,0,Fall River,,,,,p18
+minoraverages/1913Reach,1912,New England League,sullivan-fr,P10289,Sullivan,,0,Fall River,,,,,
+minoraverages/emilbb,1912,New England League,sullivan-nb,M90819,Sullivan,Jim,,New Bedford,,,,,
+minoraverages/1913Reach,1912,New England League,sweatt,B00566,Sweatt,,0,New Bedford,,,122,,
+minoraverages/1913Reach,1912,New England League,sweatt,F20745,Sweatt,,0,New Bedford,,,,,of120
+minoraverages/1913Reach,1912,New England League,swormstedt,B01321,Swormstedt,,0,New Bedford,,,37,,
+minoraverages/1913Reach,1912,New England League,swormstedt,F21362,Swormstedt,,0,New Bedford,,,,,p34
+minoraverages/1913Reach,1912,New England League,swormstedt,P10336,Swormstedt,,0,New Bedford,,,,,
+minoraverages/1913Reach,1912,New England League,tevlin,B01275,Tevlin,,1,Lawrence,,,,,
+minoraverages/1913Reach,1912,New England League,tevlin,B01275,Tevlin,,2,Fall River,,,,,
+minoraverages/1913Reach,1912,New England League,tevlin,B01275,Tevlin,,T,,,,17,,
+minoraverages/1913Reach,1912,New England League,tevlin,F21149,Tevlin,,1,Lawrence,,,,,c
+minoraverages/1913Reach,1912,New England League,tevlin,F21149,Tevlin,,2,Fall River,,,,,c
+minoraverages/1913Reach,1912,New England League,tevlin,F21149,Tevlin,,T,,,,,,c15
+minoraverages/1913Reach,1912,New England League,thackara,B00531,Thackara,,0,Fall River,,,39,,
+minoraverages/1913Reach,1912,New England League,thackara,F21000,Thackara,,0,Fall River,,,,,c36
+minoraverages/1913Reach,1912,New England League,thompson,P10056,Thompson,,0,Brockton,,,,,
+minoraverages/1913Reach,1912,New England League,ulrich,B00130,Ulrich,,0,Lawrence,,,67,,
+minoraverages/1913Reach,1912,New England League,ulrich,F20997,Ulrich,,0,Lawrence,,,,,c61
+minoraverages/1913Reach,1912,New England League,upham,B00356,Upham,,0,Brockton,,,26,,
+minoraverages/1913Reach,1912,New England League,upham,F21163,Upham,,0,Brockton,,,,,p18
+minoraverages/1913Reach,1912,New England League,upham,P10121,Upham,,0,Brockton,,,,,
+minoraverages/1913Reach,1912,New England League,vandyke,B00450,Van Dyke,,0,Worcester,,,31,,
+minoraverages/1913Reach,1912,New England League,vandyke,F21278,Van Dyke,,0,Worcester,,,,,p29
+minoraverages/1913Reach,1912,New England League,vandyke,P10070,Van Dyke,,0,Worcester,,,,,
+minoraverages/1913Reach,1912,New England League,wadleigh,B01032,Wadleigh,,0,Brockton,,,93,,
+minoraverages/1913Reach,1912,New England League,wadleigh,F21125,Wadleigh,,0,Brockton,,,,,c87
+minoraverages/1913Reach,1912,New England League,wallace,B00865,Wallace,,1,Lynn,,,,,
+minoraverages/1913Reach,1912,New England League,wallace,B00865,Wallace,,2,Worcester,,,,,
+minoraverages/1913Reach,1912,New England League,wallace,B00865,Wallace,,T,,,,94,,
+minoraverages/1913Reach,1912,New England League,wallace,F20878,Wallace,,1,Lynn,,,,,of
+minoraverages/1913Reach,1912,New England League,wallace,F20878,Wallace,,2,Worcester,,,,,of
+minoraverages/1913Reach,1912,New England League,wallace,F20878,Wallace,,T,,,,,,of94
+minoraverages/1913Reach,1912,New England League,waller,B01181,Waller,,0,Lynn,,,39,,
+minoraverages/1913Reach,1912,New England League,waller,F21343,Waller,,0,Lynn,,,,,p33
+minoraverages/1913Reach,1912,New England League,waller,P10215,Waller,,0,Lynn,,,,,
+minoraverages/1913Reach,1912,New England League,walsh,B00381,Walsh,,0,Fall River,,,119,,
+minoraverages/1913Reach,1912,New England League,walsh,F20661,Walsh,,0,Fall River,,,,,of119
+minoraverages/1913Reach,1912,New England League,ward,B01093,Ward,,1,Lynn,,,,,
+minoraverages/1913Reach,1912,New England League,ward,B01093,Ward,,2,Worcester,,,,,
+minoraverages/1913Reach,1912,New England League,ward,B01093,Ward,,T,,,,36,,
+minoraverages/1913Reach,1912,New England League,ward,F21416,Ward,,1,Lynn,,,,,p
+minoraverages/1913Reach,1912,New England League,ward,F21416,Ward,,2,Worcester,,,,,p
+minoraverages/1913Reach,1912,New England League,ward,F21416,Ward,,T,,,,,,p29
+minoraverages/1913Reach,1912,New England League,ward,P10290,Ward,,1,Lynn,,,,,
+minoraverages/1913Reach,1912,New England League,ward,P10290,Ward,,2,Worcester,,,,,
+minoraverages/1913Reach,1912,New England League,ward,P10290,Ward,,T,,,,,,
+minoraverages/1913Reach,1912,New England League,weaver,B00747,Weaver,,1,Fall River,,,,,
+minoraverages/1913Reach,1912,New England League,weaver,B00747,Weaver,,2,Worcester,,,,,
+minoraverages/1913Reach,1912,New England League,weaver,B00747,Weaver,,T,,,,88,,
+minoraverages/1913Reach,1912,New England League,weaver,F20547,Weaver,,1,Fall River,,,,,ss
+minoraverages/1913Reach,1912,New England League,weaver,F20547,Weaver,,2,Worcester,,,,,ss
+minoraverages/1913Reach,1912,New England League,weaver,F20547,Weaver,,T,,,,,,ss27
+minoraverages/1913Reach,1912,New England League,weaver,F20571,Weaver,,1,Fall River,,,,,of
+minoraverages/1913Reach,1912,New England League,weaver,F20571,Weaver,,2,Worcester,,,,,of
+minoraverages/1913Reach,1912,New England League,weaver,F20571,Weaver,,T,,,,,,of61
+minoraverages/1913Reach,1912,New England League,weeden,B00515,Weeden,,0,Lynn,,,81,,
+minoraverages/1913Reach,1912,New England League,weeden,F20115,Weeden,,0,Lynn,,,,,1b27
+minoraverages/1913Reach,1912,New England League,weeden,F21117,Weeden,,0,Lynn,,,,,c49
+minoraverages/1913Reach,1912,New England League,white,B01197,White,,0,Haverhill,,,27,,
+minoraverages/1913Reach,1912,New England League,white,F20685,White,,0,Haverhill,,,,,of27
+minoraverages/1913Reach,1912,New England League,wilson-wor,B00182,Wilson,,0,Worcester,,,89,,
+minoraverages/1913Reach,1912,New England League,wilson-lyn,B00210,Wilson,,0,Lynn,,,23,,
+minoraverages/1913Reach,1912,New England League,wilson-nb,B00362,Wilson,,0,New Bedford,,,38,,
+minoraverages/1913Reach,1912,New England League,wilson-fr,B01291,Wilson,,0,Fall River,,,28,,
+minoraverages/1913Reach,1912,New England League,wilson-wor,F20832,Wilson,,0,Worcester,,,,,of49
+minoraverages/1913Reach,1912,New England League,wilson-nb,F20893,Wilson,,0,New Bedford,,,,,of38
+minoraverages/1913Reach,1912,New England League,wilson-fr,F21158,Wilson,,0,Fall River,,,,,p18
+minoraverages/1913Reach,1912,New England League,wilson-wor,F21229,Wilson,,0,Worcester,,,,,p16
+minoraverages/1913Reach,1912,New England League,wilson-wor,P10253,Wilson,,0,Worcester,,,,,
+minoraverages/1913Reach,1912,New England League,wilson-fr,P10361,Wilson,,0,Fall River,,,,,
+minoraverages/1913Reach,1912,New England League,wolfgang,B00609,Wolfgang,,0,Lowell,,,52,,
+minoraverages/1913Reach,1912,New England League,wolfgang,F21241,Wolfgang,,0,Lowell,,,,,p32
+minoraverages/1913Reach,1912,New England League,wolfgang,P10097,Wolfgang,,0,Lowell,,,,,
+minoraverages/1913Reach,1912,New England League,wormwood,B00783,Wormwood,,0,Fall River,,,65,,
+minoraverages/1913Reach,1912,New England League,wormwood,F21286,Wormwood,,0,Fall River,,,,,p28
+minoraverages/1913Reach,1912,New England League,wormwood,P10348,Wormwood,,0,Fall River,,,,,
+minoraverages/1913Reach,1912,New England League,wright,B01124,Wright,,1,Lowell,,,,,
+minoraverages/1913Reach,1912,New England League,wright,B01124,Wright,,2,Fall River,,,,,
+minoraverages/1913Reach,1912,New England League,wright,B01124,Wright,,T,,,,20,,
+minoraverages/1913Reach,1912,New England League,wright,F20144,Wright,,1,Lowell,,,,,1b
+minoraverages/1913Reach,1912,New England League,wright,F20144,Wright,,2,Fall River,,,,,1b
+minoraverages/1913Reach,1912,New England League,wright,F20144,Wright,,T,,,,,,1b17
+minoraverages/1913Reach,1912,New England League,yell,B01242,Yell,,0,Fall River,,,92,,
+minoraverages/1913Reach,1912,New England League,yell,F20334,Yell,,0,Fall River,,,,,3b85
+minoraverages/1913Reach,1912,New England League,young,B00502,Young,,0,Haverhill,,,126,,
+minoraverages/1913Reach,1912,New England League,young,F20449,Young,,0,Haverhill,,,,,ss127
+minoraverages/1913Reach,1912,New England League,yount,P10145,Yount,,1,Lowell,,,,,
+minoraverages/1913Reach,1912,New England League,yount,P10145,Yount,,2,Worcester,,,,,
+minoraverages/1913Reach,1912,New England League,yount,P10145,Yount,,T,,,,,,
+minoraverages/1913Reach,1912,New England League,zeiser,B01313,Zeiser,,0,Lowell,,,36,,
+minoraverages/1913Reach,1912,New England League,zeiser,F21450,Zeiser,,0,Lowell,,,,,p29
+minoraverages/1913Reach,1912,New England League,zeiser,P10159,Zeiser,,0,Lowell,,,,,

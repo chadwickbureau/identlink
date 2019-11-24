@@ -103,7 +103,7 @@ minoraverages/1913Reach,1912,International League,bradley,B00553,Bradley,,0,Toro
 minoraverages/1913Reach,1912,International League,bradley,F20474,Bradley,,0,Toronto,,,,,3b145
 minoraverages/1913Reach,1912,International League,bransfield,B01402,Bransfield,,0,Montreal,,,24,,
 minoraverages/1913Reach,1912,International League,bransfield,F20072,Bransfield,,0,Montreal,,,,,1b24
-minoraverages/emilbb,1912,International League,,M90204,Bransfield,Kitty,,Montreal,,,,,
+minoraverages/emilbb,1912,International League,bransfield,M90204,Bransfield,Kitty,,Montreal,,,,,
 minoraverages/1913Reach,1912,International League,breen,B00920,Breen,,0,Jersey City,,,145,,
 minoraverages/1913Reach,1912,International League,breen,F20334,Breen,,0,Jersey City,,,,,2b145
 minoraverages/1913Reach,1912,International League,bridges,B02253,Bridges,,0,all,,,,,
@@ -214,7 +214,7 @@ minoraverages/1913Reach,1912,International League,donovan,B02019,Donovan,,0,all,
 minoraverages/1913Reach,1912,International League,donovan,F20211,Donovan,,0,all,,,,,1b
 minoraverages/1913Reach,1912,International League,donovan,F23104,Donovan,,0,all,,,,,p
 minoraverages/1913Reach,1912,International League,donovan,P10709,Donovan,,0,all,,,,,
-minoraverages/emilbb,1912,International League,,M90236,Donovan,Wild Bill,,Providence,,,,,
+minoraverages/emilbb,1912,International League,donovan,M90236,Donovan,Wild Bill,,Providence,,,,,
 minoraverages/1913Reach,1912,International League,doscher,B01428,Doscher,,0,Jersey City,,,37,,
 minoraverages/1913Reach,1912,International League,doscher,F22558,Doscher,,0,Jersey City,,,,,p37
 minoraverages/1913Reach,1912,International League,doscher,P10385,Doscher,,0,Jersey City,,,,37,
@@ -228,7 +228,7 @@ minoraverages/1913Reach,1912,International League,duggan,B01384,Duggan,,0,Provid
 minoraverages/1913Reach,1912,International League,duggan,F21196,Duggan,,0,Providence,,,,,cf10
 minoraverages/1913Reach,1912,International League,dunn,B02312,Dunn,,0,all,,,,,
 minoraverages/1913Reach,1912,International League,dunn,F20449,Dunn,,0,all,,,,,2b
-minoraverages/emilbb,1912,International League,,M90164,Dunn,Jack,,Baltimore,,,,,
+minoraverages/emilbb,1912,International League,dunn,M90164,Dunn,Jack,,Baltimore,,,,,
 minoraverages/1913Reach,1912,International League,dygert,B01885,Dygert,,1,Baltimore,,,,,
 minoraverages/1913Reach,1912,International League,dygert,B01885,Dygert,,2,Providence,,,,,
 minoraverages/1913Reach,1912,International League,dygert,B01885,Dygert,,T,,,,17,,
@@ -290,7 +290,7 @@ minoraverages/1913Reach,1912,International League,gandil,B00427,Gandil,,0,Montre
 minoraverages/1913Reach,1912,International League,gandil,F20102,Gandil,,0,Montreal,,,,,1b29
 minoraverages/1913Reach,1912,International League,ganzel,B00021,Ganzel,,0,Rochester,,,11,,
 minoraverages/1913Reach,1912,International League,ganzel,F20189,Ganzel,,0,Rochester,,,,,1b11
-minoraverages/emilbb,1912,International League,,M90141,Ganzel,John,,Rochester,,,,,
+minoraverages/emilbb,1912,International League,ganzel,M90141,Ganzel,John,,Rochester,,,,,
 minoraverages/1913Reach,1912,International League,gaskell,B01663,Gaskell,,0,Newark,,,36,,
 minoraverages/1913Reach,1912,International League,gaskell,F22393,Gaskell,,0,Newark,,,,,p36
 minoraverages/1913Reach,1912,International League,gaskell,P10542,Gaskell,,0,Newark,,,,36,
@@ -391,7 +391,7 @@ minoraverages/1913Reach,1912,International League,keliher,B01625,Keliher,,0,Mont
 minoraverages/1913Reach,1912,International League,keliher,F20177,Keliher,,0,Montreal,,,,,1b16
 minoraverages/1913Reach,1912,International League,kelley,B02591,Kelley,,0,all,,,,,
 minoraverages/1913Reach,1912,International League,kelley,F20254,Kelley,,0,all,,,,,1b
-minoraverages/emilbb,1912,International League,,M90132,Kelley,Joe,,Toronto,,,,,
+minoraverages/emilbb,1912,International League,kelley,M90132,Kelley,Joe,,Toronto,,,,,
 minoraverages/1913Reach,1912,International League,kelly,B01203,Kelly,,1,Newark,,,,,
 minoraverages/1913Reach,1912,International League,kelly,B01203,Kelly,,2,Jersey City,,,,,
 minoraverages/1913Reach,1912,International League,kelly,B01203,Kelly,,T,,,,115,,
@@ -433,7 +433,7 @@ minoraverages/1913Reach,1912,International League,lafitte,F22454,Lafitte,,0,Prov
 minoraverages/1913Reach,1912,International League,lafitte,P10399,Lafitte,,0,Providence,,,,42,
 minoraverages/1913Reach,1912,International League,lake,B02081,Lake,,0,all,,,,,
 minoraverages/1913Reach,1912,International League,lake,F20265,Lake,,0,all,,,,,1b
-minoraverages/emilbb,1912,International League,,M90220,Lake,Frederick,,Providence,,,,,
+minoraverages/emilbb,1912,International League,lake,M90220,Lake,Frederick,,Providence,,,,,
 minoraverages/1913Reach,1912,International League,lathers,B00343,Lathers,,0,Providence,,,138,,
 minoraverages/1913Reach,1912,International League,lathers,F20144,Lathers,,0,Providence,,,,,1b138
 minoraverages/1913Reach,1912,International League,lee,B00646,Lee,,0,Newark,,,53,,
@@ -451,7 +451,7 @@ minoraverages/1913Reach,1912,International League,lush.e,B02070,Lush,E.,0,all,,,
 minoraverages/1913Reach,1912,International League,lush.e,F21771,Lush,,0,all,,,,,rf
 minoraverages/1913Reach,1912,International League,lush-tor,F22517,Lush,,0,Toronto,,,,,p40
 minoraverages/1913Reach,1912,International League,lush-tor,P10097,Lush,,0,Toronto,,,,36,
-minoraverages/emilbb,1912,International League,,M90186,Lush,Billy,,Montreal,,,,,
+minoraverages/emilbb,1912,International League,lush.b,M90186,Lush,Billy,,Montreal,,,,,
 minoraverages/1913Reach,1912,International League,madden,B00531,Madden,,0,Montreal,,,27,,
 minoraverages/1913Reach,1912,International League,madden,F21973,Madden,,0,Montreal,,,,,c27
 minoraverages/1913Reach,1912,International League,mahar,B02588,Mahar,,0,all,,,,,
@@ -527,7 +527,7 @@ minoraverages/1913Reach,1912,International League,mcginley,P10894,McGinley,,0,al
 minoraverages/1913Reach,1912,International League,mcginnity,B01509,McGinnity,,0,Newark,,,39,,
 minoraverages/1913Reach,1912,International League,mcginnity,F22307,McGinnity,,0,Newark,,,,,p39
 minoraverages/1913Reach,1912,International League,mcginnity,P10176,McGinnity,,0,Newark,,,,37,
-minoraverages/emilbb,1912,International League,,M90155,McGinnity,Joe,,Newark,,,,,
+minoraverages/emilbb,1912,International League,mcginnity,M90155,McGinnity,Joe,,Newark,,,,,
 minoraverages/1913Reach,1912,International League,mchale,B01630,McHale,,0,Jersey City,,,45,,
 minoraverages/1913Reach,1912,International League,mchale,F22831,McHale,,0,Jersey City,,,,,p45
 minoraverages/1913Reach,1912,International League,mchale,P10478,McHale,,0,Jersey City,,,,43,
@@ -677,7 +677,7 @@ minoraverages/1913Reach,1912,International League,schlafly,F20023,Schlafly,,0,Je
 minoraverages/1913Reach,1912,International League,schlafly,F20279,Schlafly,,0,Jersey City,,,,,2b10
 minoraverages/1913Reach,1912,International League,schlafly,F21278,Schlafly,,0,Jersey City,,,,,cf13
 minoraverages/1913Reach,1912,International League,schlafly,P11009,Schlafly,,0,all,,,,,
-minoraverages/emilbb,1912,International League,,M90212,Schlafly,"Harry ""Larry""",,Jersey City,,,,,
+minoraverages/emilbb,1912,International League,schlafly,M90212,Schlafly,"Harry ""Larry""",,Jersey City,,,,,
 minoraverages/1913Reach,1912,International League,schmidt-pro,B00149,Schmidt,,0,Providence,,,132,,
 minoraverages/1913Reach,1912,International League,schmidt-bal,B00760,Schmidt,,0,Baltimore,,,151,,
 minoraverages/1913Reach,1912,International League,schmidt-bal,F20046,Schmidt,,0,Baltimore,,,,,1b151
@@ -718,7 +718,7 @@ minoraverages/1913Reach,1912,International League,smith-bal,P10192,Smith,,0,Balt
 minoraverages/1913Reach,1912,International League,smith-mon,P10253,Smith,F.,0,Montreal,,,,32,
 minoraverages/1913Reach,1912,International League,spencer,B01345,Spencer,,0,Rochester,,,85,,
 minoraverages/1913Reach,1912,International League,spencer,F20095,Spencer,,0,Rochester,,,,,1b85
-minoraverages/emilbb,1912,International League,,M90178,Stallings,George,,Buffalo,,,,,
+minoraverages/emilbb,1912,International League,stallings,M90178,Stallings,George,,Buffalo,,,,,
 minoraverages/1913Reach,1912,International League,stark,B01250,Stark,,1,Newark,,,,,
 minoraverages/1913Reach,1912,International League,stark,B01250,Stark,,2,Buffalo,,,,,
 minoraverages/1913Reach,1912,International League,stark,B01250,Stark,,T,,,,78,,
@@ -830,7 +830,7 @@ minoraverages/1913Reach,1912,International League,works,F23112,Works,,0,all,,,,,
 minoraverages/1913Reach,1912,International League,works,P10847,Works,,0,all,,,,,
 minoraverages/1913Reach,1912,International League,yeager,B00695,Yeager,,0,Montreal,,,122,,
 minoraverages/1913Reach,1912,International League,yeager,F20518,Yeager,,0,Montreal,,,,,3b122
-minoraverages/emilbb,1912,International League,,M90193,Yeager,Joe,,Montreal,,,,,
+minoraverages/emilbb,1912,International League,yeager,M90193,Yeager,Joe,,Montreal,,,,,
 minoraverages/1913Reach,1912,International League,young,B02534,Young,,0,all,,,,,
 minoraverages/1913Reach,1912,International League,young,F23161,Young,,0,all,,,,,p
 minoraverages/1913Reach,1912,International League,young,P10839,Young,,0,all,,,,,

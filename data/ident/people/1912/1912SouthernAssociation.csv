@@ -1,10 +1,634 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1912,Southern Association,,M90400,Alperman,"Charles ""Whitey""",,Atlanta,,,,,
-minoraverages/emilbb,1912,Southern Association,,M90363,Bernhardt,Bill,,Memphis,,,,,
-minoraverages/emilbb,1912,Southern Association,,M90374,Dobbs,Johnny,,Montgomery,,,,,
-minoraverages/emilbb,1912,Southern Association,,M90330,Finn,Michael,,Mobile,,,,,
-minoraverages/emilbb,1912,Southern Association,,M90349,Frank,Charley,,New Orleans,,,,,
-minoraverages/emilbb,1912,Southern Association,,M90396,Hemphill,Charles,,Atlanta,,,,,
-minoraverages/emilbb,1912,Southern Association,,M90325,Molesworth,Carlton,,Birmingham,,,,,
-minoraverages/emilbb,1912,Southern Association,,M90358,Schwartz,Bill,,Nashville,,,,,
-minoraverages/emilbb,1912,Southern Association,,M90382,Smith,William A.,,Chattanooga,,,,,
+minoraverages/1913Reach,1912,Southern Association,abstein,B00590,Abstein,,0,Memphis,,,138,,
+minoraverages/1913Reach,1912,Southern Association,abstein,F20067,Abstein,,0,Memphis,,,,,1b138
+minoraverages/1913Reach,1912,Southern Association,adams,B01765,Adams,,0,Montgomery,,,7,,
+minoraverages/1913Reach,1912,Southern Association,adams,F22116,Adams,,0,Montgomery,,,,,p7
+minoraverages/1913Reach,1912,Southern Association,adams,P10575,Adams,,0,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,agler,B00403,Agler,,0,Atlanta,,,75,,
+minoraverages/1913Reach,1912,Southern Association,agler,F20038,Agler,,0,Atlanta,,,,,1b75
+minoraverages/1913Reach,1912,Southern Association,allen,B00887,Allen,,1,Memphis,,,,,
+minoraverages/1913Reach,1912,Southern Association,allen,B00887,Allen,,2,Chattanooga,,,,,
+minoraverages/1913Reach,1912,Southern Association,allen,B00887,Allen,,T,,,,42,,
+minoraverages/1913Reach,1912,Southern Association,allen,F20388,Allen,,1,Memphis,,,,,2b
+minoraverages/1913Reach,1912,Southern Association,allen,F20388,Allen,,2,Chattanooga,,,,,2b
+minoraverages/1913Reach,1912,Southern Association,allen,F20388,Allen,,T,,,,,,2b1
+minoraverages/1913Reach,1912,Southern Association,allen,F21488,Allen,,0,Memphis,,,,,of7
+minoraverages/1913Reach,1912,Southern Association,allen,F21854,Allen,,0,Memphis,,,,,p26
+minoraverages/1913Reach,1912,Southern Association,allen,P10348,Allen,,1,Memphis,,,,,
+minoraverages/1913Reach,1912,Southern Association,allen,P10348,Allen,,2,Chattanooga,,,,,
+minoraverages/1913Reach,1912,Southern Association,allen,P10348,Allen,,T,,,,,,
+minoraverages/1913Reach,1912,Southern Association,allison,F22223,Allison,,0,Montgomery,,,,,p2
+minoraverages/1913Reach,1912,Southern Association,allison,P10464,Allison,,0,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,almeida,B00149,Almeida,,0,Birmingham,,,107,,
+minoraverages/1913Reach,1912,Southern Association,almeida,F20620,Almeida,,0,Birmingham,,,,,3b107
+minoraverages/1913Reach,1912,Southern Association,alperman,B00196,Alperman,,0,Atlanta,,,133,,
+minoraverages/1913Reach,1912,Southern Association,alperman,F20287,Alperman,,0,Atlanta,,,,,2b80
+minoraverages/1913Reach,1912,Southern Association,alperman,F20526,Alperman,,0,Atlanta,,,,,3b45
+minoraverages/1913Reach,1912,Southern Association,alperman,F20878,Alperman,,0,Atlanta,,,,,ss8
+minoraverages/emilbb,1912,Southern Association,alperman,M90400,Alperman,"Charles ""Whitey""",,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,anderson,F22127,Anderson,,0,Nashville,,,,,p5
+minoraverages/1913Reach,1912,Southern Association,anderson,P10709,Anderson,,0,Nashville,,,,,
+minoraverages/1913Reach,1912,Southern Association,angermeir,B00475,Angermeir,,0,New Orleans,,,30,,
+minoraverages/1913Reach,1912,Southern Association,angermeir,F22501,Angermeir,,0,New Orleans,,,,,c27
+minoraverages/1913Reach,1912,Southern Association,atchison,B01250,Atchison,,0,Montgomery,,,30,,
+minoraverages/1913Reach,1912,Southern Association,atchison,F21811,Atchison,,0,Montgomery,,,,,p30
+minoraverages/1913Reach,1912,Southern Association,atchison,P10019,Atchison,,0,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,atkins,B01203,Atkins,,0,Atlanta,,,21,,
+minoraverages/1913Reach,1912,Southern Association,atkins,F21999,Atkins,,0,Atlanta,,,,,p17
+minoraverages/1913Reach,1912,Southern Association,atkins,P10357,Atkins,,0,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,bagby,B00324,Bagby,,0,Montgomery,,,21,,
+minoraverages/1913Reach,1912,Southern Association,bagby,F20673,Bagby,,0,Montgomery,,,,,3b2
+minoraverages/1913Reach,1912,Southern Association,bagby,F21515,Bagby,,0,Montgomery,,,,,of4
+minoraverages/1913Reach,1912,Southern Association,bagby,F21973,Bagby,,0,Montgomery,,,,,p12
+minoraverages/1913Reach,1912,Southern Association,bagby,P10336,Bagby,,0,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,bailey,B00092,Bailey,,0,Atlanta,,,137,,
+minoraverages/1913Reach,1912,Southern Association,bailey,F21158,Bailey,,0,Atlanta,,,,,of137
+minoraverages/1913Reach,1912,Southern Association,bair,B01490,Bair,,0,Nashville,,,30,,
+minoraverages/1913Reach,1912,Southern Association,bair,F21752,Bair,,0,Nashville,,,,,p35
+minoraverages/1913Reach,1912,Southern Association,bair,P10385,Bair,,0,Nashville,,,,,
+minoraverages/1913Reach,1912,Southern Association,balenti,B00182,Balenti,,0,Chattanooga,,,139,,
+minoraverages/1913Reach,1912,Southern Association,balenti,F20560,Balenti,,0,Chattanooga,,,,,3b28
+minoraverages/1913Reach,1912,Southern Association,balenti,F20807,Balenti,,0,Chattanooga,,,,,ss111
+minoraverages/1913Reach,1912,Southern Association,bayless,F20594,Bales,,0,Memphis,,,,,3b26
+minoraverages/1913Reach,1912,Southern Association,daley,F21196,Baley,,0,Nashville,,,,,of23
+minoraverages/1913Reach,1912,Southern Association,barr,B00985,Barr,,1,Chattanooga,,,,,
+minoraverages/1913Reach,1912,Southern Association,barr,B00985,Barr,,2,New Orleans,,,,,
+minoraverages/1913Reach,1912,Southern Association,barr,B00985,Barr,,T,,,,87,,
+minoraverages/1913Reach,1912,Southern Association,barr,F20369,Barr,,1,New Orleans,,,,,2b
+minoraverages/1913Reach,1912,Southern Association,barr,F20369,Barr,,2,Chattanooga,,,,,2b
+minoraverages/1913Reach,1912,Southern Association,barr,F20369,Barr,,T,,,,,,2b5
+minoraverages/1913Reach,1912,Southern Association,barr,F21130,Barr,,1,Chattanooga,,,,,of
+minoraverages/1913Reach,1912,Southern Association,barr,F21130,Barr,,2,New Orleans,,,,,of
+minoraverages/1913Reach,1912,Southern Association,barr,F21130,Barr,,T,,,,,,of75
+minoraverages/1913Reach,1912,Southern Association,bayless,B00013,Bayless,,0,Memphis,,,26,,
+minoraverages/1913Reach,1912,Southern Association,baerwald,B00278,Bearwald,,0,Memphis,,,105,,
+minoraverages/1913Reach,1912,Southern Association,baerwald,F20449,Bearwald,,0,Memphis,,,,,2b3
+minoraverages/1913Reach,1912,Southern Association,baerwald,F21076,Bearwald,,0,Memphis,,,,,of102
+minoraverages/1913Reach,1912,Southern Association,becker,B01234,Becker,,0,Atlanta,,,17,,
+minoraverages/1913Reach,1912,Southern Association,becker,F21948,Becker,,0,Atlanta,,,,,p17
+minoraverages/1913Reach,1912,Southern Association,becker,P10231,Becker,,0,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,berger,B01444,Berger,,0,Mobile,,,37,,
+minoraverages/1913Reach,1912,Southern Association,berger,F21705,Berger,,0,Mobile,,,,,p37
+minoraverages/1913Reach,1912,Southern Association,berger,P10192,Berger,,0,Mobile,,,,,
+minoraverages/1913Reach,1912,Southern Association,berghammer,B01861,Berghammer,,0,Birmingham,,,8,,
+minoraverages/1913Reach,1912,Southern Association,bernhardt,B01551,Bernhardt,,0,Memphis,,,1,,
+minoraverages/1913Reach,1912,Southern Association,bernhardt,F22393,Bernhardt,,0,Memphis,,,,,p1
+minoraverages/emilbb,1912,Southern Association,bernhardt,M90363,Bernhardt,Bill,,Memphis,,,,,
+minoraverages/1913Reach,1912,Southern Association,bills,B00651,Bills,,0,Montgomery,,,65,,
+minoraverages/1913Reach,1912,Southern Association,bills,F20189,Bills,,0,Montgomery,,,,,1b1
+minoraverages/1913Reach,1912,Southern Association,bills,F20463,Bills,,0,Montgomery,,,,,2b2
+minoraverages/1913Reach,1912,Southern Association,bills,F21264,Bills,,0,Montgomery,,,,,of49
+minoraverages/1913Reach,1912,Southern Association,bills,F21806,Bills,,0,Montgomery,,,,,p12
+minoraverages/1913Reach,1912,Southern Association,bills,P10516,Bills,,0,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,biltz,B01119,Biltz,,0,Chattanooga,,,47,,
+minoraverages/1913Reach,1912,Southern Association,biltz,F21182,Biltz,,0,Chattanooga,,,,,of27
+minoraverages/1913Reach,1912,Southern Association,boehling,F22295,Boehling,,0,Chattanooga,,,,,p7
+minoraverages/1913Reach,1912,Southern Association,boehling,P10550,Boehling,,0,Chattanooga,,,,,
+minoraverages/1913Reach,1912,Southern Association,bonner,B01477,Bonner,,1,New Orleans,,,,,
+minoraverages/1913Reach,1912,Southern Association,bonner,B01477,Bonner,,2,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,bonner,B01477,Bonner,,T,,,,18,,
+minoraverages/1913Reach,1912,Southern Association,bonner,F22048,Bonner,,1,New Orleans,,,,,p
+minoraverages/1913Reach,1912,Southern Association,bonner,F22048,Bonner,,2,Montgomery,,,,,p
+minoraverages/1913Reach,1912,Southern Association,bonner,F22048,Bonner,,T,,,,,,p18
+minoraverages/1913Reach,1912,Southern Association,bonner,P10312,Bonner,,1,New Orleans,,,,,
+minoraverages/1913Reach,1912,Southern Association,bonner,P10312,Bonner,,2,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,bonner,P10312,Bonner,,T,,,,,,
+minoraverages/1913Reach,1912,Southern Association,boyd,B01093,Boyd,,0,Birmingham,,,38,,
+minoraverages/1913Reach,1912,Southern Association,boyd,F21822,Boyd,,0,Birmingham,,,,,p38
+minoraverages/1913Reach,1912,Southern Association,boyd,P10062,Boyd,,0,Birmingham,,,,,
+minoraverages/1913Reach,1912,Southern Association,brady,B01275,Brady,,0,Atlanta,,,20,,
+minoraverages/1913Reach,1912,Southern Association,brady,F21747,Brady,,0,Atlanta,,,,,p24
+minoraverages/1913Reach,1912,Southern Association,brady,P10290,Brady,,0,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,brandon,B01696,Brandon,,0,New Orleans,,,2,,
+minoraverages/1913Reach,1912,Southern Association,brandon,F22073,Brandon,,0,New Orleans,,,,,p2
+minoraverages/1913Reach,1912,Southern Association,brandon,P10805,Brandon,,0,New Orleans,,,,,
+minoraverages/1913Reach,1912,Southern Association,brennem,F22647,Brennem,,0,Memphis,,,,,c2
+minoraverages/1913Reach,1912,Southern Association,brewster,B01804,Brewster,,0,New Orleans,,,3,,
+minoraverages/1913Reach,1912,Southern Association,brewster,F20721,Brewster,,0,New Orleans,,,,,3b3
+minoraverages/1913Reach,1912,Southern Association,brown,F22134,Brown,,0,Montgomery,,,,,p4
+minoraverages/1913Reach,1912,Southern Association,brown,P10429,Brown,,0,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,bunting,B00589,Bunting,,1,Chattanooga,,,,,
+minoraverages/1913Reach,1912,Southern Association,bunting,B00589,Bunting,,2,New Orleans,,,,,
+minoraverages/1913Reach,1912,Southern Association,bunting,B00589,Bunting,,T,,,,118,,
+minoraverages/1913Reach,1912,Southern Association,bunting,F20571,Bunting,,1,Chattanooga,,,,,3b
+minoraverages/1913Reach,1912,Southern Association,bunting,F20571,Bunting,,2,New Orleans,,,,,3b
+minoraverages/1913Reach,1912,Southern Association,bunting,F20571,Bunting,,T,,,,,,3b108
+minoraverages/1913Reach,1912,Southern Association,bunting,F21544,Bunting,,0,Chattanooga,,,,,of2
+minoraverages/1913Reach,1912,Southern Association,berghammer,F20425,Burghamer,,0,Birmingham,,,,,2b5
+minoraverages/1913Reach,1912,Southern Association,burleson,F22378,Burleson,,0,Mobile,,,,,p7
+minoraverages/1913Reach,1912,Southern Association,burleson,P10591,Burlison,,0,Mobile,,,,,
+minoraverages/1913Reach,1912,Southern Association,callahan,B00528,Callahan,,1,New Orleans,,,,,
+minoraverages/1913Reach,1912,Southern Association,callahan,B00528,Callahan,,2,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,callahan,B00528,Callahan,,T,,,,132,,
+minoraverages/1913Reach,1912,Southern Association,callahan,F21174,Callahan,,1,New Orleans,,,,,of
+minoraverages/1913Reach,1912,Southern Association,callahan,F21174,Callahan,,2,Atlanta,,,,,of
+minoraverages/1913Reach,1912,Southern Association,callahan,F21174,Callahan,,T,,,,,,of132
+minoraverages/1913Reach,1912,Southern Association,campbell,B00638,Campbell,,0,Mobile,,,45,,
+minoraverages/1913Reach,1912,Southern Association,campbell,F21403,Campbell,,0,Mobile,,,,,of6
+minoraverages/1913Reach,1912,Southern Association,campbell,F21646,Campbell,,0,Mobile,,,,,p30
+minoraverages/1913Reach,1912,Southern Association,campbell,P10121,Campbell,,0,Mobile,,,,,
+minoraverages/1913Reach,1912,Southern Association,carroll,B00705,Carroll,,0,Birmingham,,,85,,
+minoraverages/1913Reach,1912,Southern Association,carroll,F20128,Carroll,,0,Birmingham,,,,,1b2
+minoraverages/1913Reach,1912,Southern Association,carroll,F20482,Carroll,,0,Birmingham,,,,,2b3
+minoraverages/1913Reach,1912,Southern Association,carroll,F20505,Carroll,,0,Birmingham,,,,,3b33
+minoraverages/1913Reach,1912,Southern Association,carroll,F20855,Carroll,,0,Birmingham,,,,,ss10
+minoraverages/1913Reach,1912,Southern Association,carroll,F21335,Carroll,,0,Birmingham,,,,,of38
+minoraverages/1913Reach,1912,Southern Association,case,B01368,Case,,0,Nashville,,,29,,
+minoraverages/1913Reach,1912,Southern Association,case,F21783,Case,,0,Nashville,,,,,p29
+minoraverages/1913Reach,1912,Southern Association,case,P10113,Case,,0,Nashville,,,,,
+minoraverages/1913Reach,1912,Southern Association,cavet,B01135,Cavet,,0,Mobile,,,24,,
+minoraverages/1913Reach,1912,Southern Association,cavet,F21887,Cavet,,0,Mobile,,,,,p24
+minoraverages/1913Reach,1912,Southern Association,cavet,P10081,Cavet,,0,Mobile,,,,,
+minoraverages/1913Reach,1912,Southern Association,chappell,B00553,Chappell,,0,Chattanooga,,,33,,
+minoraverages/1913Reach,1912,Southern Association,chappell,F21840,Chappell,,0,Chattanooga,,,,,p33
+minoraverages/1913Reach,1912,Southern Association,chaput,B01567,Chaput,,0,Birmingham,,,1,,
+minoraverages/1913Reach,1912,Southern Association,clancy,B00362,Clancy,,0,New Orleans,,,86,,
+minoraverages/1913Reach,1912,Southern Association,clancy,F20327,Clancy,,0,New Orleans,,,,,2b76
+minoraverages/1913Reach,1912,Southern Association,clancy,F20919,Clancy,,0,New Orleans,,,,,ss4
+minoraverages/1913Reach,1912,Southern Association,clark,F21397,Clark,,0,Mobile,,,,,of9
+minoraverages/1913Reach,1912,Southern Association,clark,B01625,Clarke,,0,Mobile,,,9,,
+minoraverages/1913Reach,1912,Southern Association,coles,B00356,Coles,,0,Montgomery,,,43,,
+minoraverages/1913Reach,1912,Southern Association,coles,F21362,Coles,,0,Montgomery,,,,,of43
+minoraverages/1913Reach,1912,Southern Association,coombs,B01885,Coombs,,0,Atlanta,,,6,,
+minoraverages/1913Reach,1912,Southern Association,coombs,F22175,Coombs,,0,Atlanta,,,,,p5
+minoraverages/1913Reach,1912,Southern Association,coombs,P10723,Coombs,,0,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,coveleski,F22012,Coveleski,,0,Chattanooga,,,,,p29
+minoraverages/1913Reach,1912,Southern Association,coveleski,B01269,Coveleskie,,0,Chattanooga,,,29,,
+minoraverages/1913Reach,1912,Southern Association,coveleski,P10215,Coveleskie,,0,Chattanooga,,,,,
+minoraverages/1913Reach,1912,Southern Association,cox,B01359,Cox,,0,Memphis,,,12,,
+minoraverages/1913Reach,1912,Southern Association,cox,F21343,Cox,,0,Memphis,,,,,of12
+minoraverages/1913Reach,1912,Southern Association,coyle,B00293,Coyle,,0,Chattanooga,,,135,,
+minoraverages/1913Reach,1912,Southern Association,coyle,F20046,Coyle,,0,Chattanooga,,,,,1b135
+minoraverages/1913Reach,1912,Southern Association,crandall,B00515,Crandall,,0,Memphis,,,136,,
+minoraverages/1913Reach,1912,Southern Association,crandall,F20829,Crandall,,0,Memphis,,,,,ss136
+minoraverages/1913Reach,1912,Southern Association,cruise,B00059,Cruise,,0,Chattanooga,,,13,,
+minoraverages/1913Reach,1912,Southern Association,cruise,F21370,Cruise,,0,Chattanooga,,,,,of13
+minoraverages/1913Reach,1912,Southern Association,cullop,F22251,Cullop,,0,New Orleans,,,,,p5
+minoraverages/1913Reach,1912,Southern Association,cullop,P10478,Cullop,,0,New Orleans,,,,,
+minoraverages/1913Reach,1912,Southern Association,daley,B00021,Daley,,0,Nashville,,,23,,
+minoraverages/1913Reach,1912,Southern Association,danzig,B00646,Danzig,,0,Montgomery,,,101,,
+minoraverages/1913Reach,1912,Southern Association,danzig,F20080,Danzig,,0,Montgomery,,,,,1b79
+minoraverages/1913Reach,1912,Southern Association,danzig,P10486,Danzig,,0,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,dawson,B01078,Dawson,,0,New Orleans,,,21,,
+minoraverages/1913Reach,1912,Southern Association,dawson,F21084,Dawson,,0,New Orleans,,,,,of22
+minoraverages/1913Reach,1912,Southern Association,dell,F20496,Dell,O.,1,Atlanta,,,,,3b
+minoraverages/1913Reach,1912,Southern Association,dell,F20496,Dell,O.,2,Mobile,,,,,3b
+minoraverages/1913Reach,1912,Southern Association,dell,F20496,Dell,O.,T,,,,,,3b67
+minoraverages/1913Reach,1912,Southern Association,demaree,B01402,Demaree,,0,Mobile,,,35,,
+minoraverages/1913Reach,1912,Southern Association,demaree,F21651,Demaree,,0,Mobile,,,,,p35
+minoraverages/1913Reach,1912,Southern Association,demaree,P10024,Demaree,,0,Mobile,,,,,
+minoraverages/1913Reach,1912,Southern Association,dessau,B00045,Dessau,,0,Atlanta,,,14,,
+minoraverages/1913Reach,1912,Southern Association,dessau,F21794,Dessau,,0,Atlanta,,,,,p14
+minoraverages/1913Reach,1912,Southern Association,dessau,P10176,Dessau,,0,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,dilger,B01216,Dilger,,0,Birmingham,,,51,,
+minoraverages/1913Reach,1912,Southern Association,dilger,F22433,Dilger,,0,Birmingham,,,,,c51
+minoraverages/1913Reach,1912,Southern Association,dobbs,B01754,Dobbs,,0,Montgomery,,,7,,
+minoraverages/1913Reach,1912,Southern Association,dobbs,F21442,Dobbs,,0,Montgomery,,,,,of4
+minoraverages/emilbb,1912,Southern Association,dobbs,M90374,Dobbs,Johnny,,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,donohue,B00806,Donohue,,0,Atlanta,,,38,,
+minoraverages/1913Reach,1912,Southern Association,donohue,F22549,Donohue,,0,Atlanta,,,,,c35
+minoraverages/1913Reach,1912,Southern Association,duggan,F22142,Duggan,,0,Mobile,,,,,p5
+minoraverages/1913Reach,1912,Southern Association,duggan,P10606,Duggan,,0,Mobile,,,,,
+minoraverages/1913Reach,1912,Southern Association,dugglesby,F22191,Dugglesby,,0,Atlanta,,,,,p2
+minoraverages/1913Reach,1912,Southern Association,dug,P10746,Dugglesby,,0,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,dunn,B00739,Dunn,,0,Mobile,,,105,,
+minoraverages/1913Reach,1912,Southern Association,dunn,F22563,Dunn,,0,Mobile,,,,,c104
+minoraverages/1913Reach,1912,Southern Association,dygert,B01733,Dygert,,0,New Orleans,,,8,,
+minoraverages/1913Reach,1912,Southern Association,dygert,F22061,Dygert,,0,New Orleans,,,,,p8
+minoraverages/1913Reach,1912,Southern Association,dygert,P10441,Dygert,,0,New Orleans,,,,,
+minoraverages/1913Reach,1912,Southern Association,east,B00771,East,,0,Atlanta,,,40,,
+minoraverages/1913Reach,1912,Southern Association,east,F20342,East,,0,Atlanta,,,,,2b40
+minoraverages/1913Reach,1912,Southern Association,elberfield,B00434,Elberfield,,0,Montgomery,,,78,,
+minoraverages/1913Reach,1912,Southern Association,elberfield,F20759,Elberfield,,0,Montgomery,,,,,ss78
+minoraverages/1913Reach,1912,Southern Association,ellam,B00904,Ellam,,0,Birmingham,,,129,,
+minoraverages/1913Reach,1912,Southern Association,ellam,F20768,Ellam,,0,Birmingham,,,,,ss129
+minoraverages/1913Reach,1912,Southern Association,elliott,B00822,Elliott,,0,Nashville,,,104,,
+minoraverages/1913Reach,1912,Southern Association,elliott,F22517,Elliott,,0,Nashville,,,,,c97
+minoraverages/1913Reach,1912,Southern Association,elwert,B00623,Elwert,,0,Montgomery,,,134,,
+minoraverages/1913Reach,1912,Southern Association,elwert,F20233,Elwert,,0,Montgomery,,,,,2b22
+minoraverages/1913Reach,1912,Southern Association,elwert,F20518,Elwert,,0,Montgomery,,,,,3b110
+minoraverages/1913Reach,1912,Southern Association,evans,B00577,Evans,,0,Chattanooga,,,42,,
+minoraverages/1913Reach,1912,Southern Association,evans,F20583,Evans,,0,Chattanooga,,,,,3b42
+minoraverages/emilbb,1912,Southern Association,finn,M90330,Finn,Michael,,Mobile,,,,,
+minoraverages/1913Reach,1912,Southern Association,fleharty,B01337,Fleharty,,0,Nashville,,,33,,
+minoraverages/1913Reach,1912,Southern Association,fleharty,F21879,Fleharty,,0,Nashville,,,,,p30
+minoraverages/1913Reach,1912,Southern Association,fleharty,P10228,Fleharty,,0,Nashville,,,,,
+minoraverages/1913Reach,1912,Southern Association,foxen,B01415,Foxen,,0,Birmingham,,,28,,
+minoraverages/1913Reach,1912,Southern Association,foxen,F21865,Foxen,,0,Birmingham,,,,,p28
+minoraverages/1913Reach,1912,Southern Association,foxen,P10056,Foxen,,0,Birmingham,,,,,
+minoraverages/emilbb,1912,Southern Association,frank,M90349,Frank,Charley,,New Orleans,,,,,
+minoraverages/1913Reach,1912,Southern Association,fritz,B01722,Fritz,,0,New Orleans,,,4,,
+minoraverages/1913Reach,1912,Southern Association,fritz,F22329,Fritz,,0,New Orleans,,,,,p4
+minoraverages/1913Reach,1912,Southern Association,fritz,P10611,Fritz,,0,New Orleans,,,,,
+minoraverages/1913Reach,1912,Southern Association,furguson,F22004,Furgerson,,0,Memphis,,,,,p38
+minoraverages/1913Reach,1912,Southern Association,furguson,B01242,Furguson,,0,Memphis,,,40,,
+minoraverages/1913Reach,1912,Southern Association,furguson,P10361,Furguson,,0,Memphis,,,,,
+minoraverages/1913Reach,1912,Southern Association,ganley,B00879,Ganley,,0,Atlanta,,,34,,
+minoraverages/1913Reach,1912,Southern Association,ganley,F21210,Ganley,,0,Atlanta,,,,,of33
+minoraverages/1913Reach,1912,Southern Association,gardella,B01156,Gardella,,0,Mobile,,,71,,
+minoraverages/1913Reach,1912,Southern Association,gardella,F20636,Gardella,,0,Mobile,,,,,3b71
+minoraverages/1913Reach,1912,Southern Association,gaston,B00672,Gaston,,0,Chattanooga,,,16,,
+minoraverages/1913Reach,1912,Southern Association,gaston,F20699,Gaston,,0,Chattanooga,,,,,3b6
+minoraverages/1913Reach,1912,Southern Association,gaston,F21475,Gaston,,0,Chattanooga,,,,,of9
+minoraverages/1913Reach,1912,Southern Association,giddo,B01197,Giddo,,0,Chattanooga,,,14,,
+minoraverages/1913Reach,1912,Southern Association,giddo,F22487,Giddo,,0,Chattanooga,,,,,c12
+minoraverages/1913Reach,1912,Southern Association,gipe,B01848,Gipe,,0,Chattanooga,,,8,,
+minoraverages/1913Reach,1912,Southern Association,gipe,F22057,Gipe,,0,New Orleans,,,,,p9
+minoraverages/1913Reach,1912,Southern Association,gipe,P10622,Gipe,,0,New Orleans,,,,,
+minoraverages/1913Reach,1912,Southern Association,klawitter,F22103,Glawitter,,0,New Orleans,,,,,p1
+minoraverages/1913Reach,1912,Southern Association,glenn,B01523,Glenn,,0,Nashville,,,51,,
+minoraverages/1913Reach,1912,Southern Association,glenn,F20177,Glenn,,0,Nashville,,,,,1b7
+minoraverages/1913Reach,1912,Southern Association,glenn,F22605,Glenn,,0,Nashville,,,,,c40
+minoraverages/1913Reach,1912,Southern Association,graham,B00695,Graham,,0,Atlanta,,,69,,
+minoraverages/1913Reach,1912,Southern Association,graham,F21125,Graham,,0,Atlanta,,,,,of10
+minoraverages/1913Reach,1912,Southern Association,graham,F22618,Graham,,0,Atlanta,,,,,c56
+minoraverages/1913Reach,1912,Southern Association,gray,B00961,Gray,,0,Chattanooga,,,42,,
+minoraverages/1913Reach,1912,Southern Association,gray,F21319,Gray,,0,Chattanooga,,,,,of42
+minoraverages/1913Reach,1912,Southern Association,green,F22341,Green,,0,Birmingham,,,,,p4
+minoraverages/1913Reach,1912,Southern Association,green,P10542,Green,,0,Birmingham,,,,,
+minoraverages/1913Reach,1912,Southern Association,gribbins,B00936,Gribbens,,0,Montgomery,,,103,,
+minoraverages/1913Reach,1912,Southern Association,gribbins,F20474,Gribbins,,0,Montgomery,,,,,2b6
+minoraverages/1913Reach,1912,Southern Association,gribbins,F20661,Gribbins,,0,Montgomery,,,,,3b2
+minoraverages/1913Reach,1912,Southern Association,gribbins,F20908,Gribbins,,0,Montgomery,,,,,ss4
+minoraverages/1913Reach,1912,Southern Association,gribbins,F21101,Gribbins,,0,Montgomery,,,,,of17
+minoraverages/1913Reach,1912,Southern Association,gribbins,F22498,Gribbins,,0,Montgomery,,,,,c71
+minoraverages/1913Reach,1912,Southern Association,griffin,F22099,Griffin,,0,New Orleans,,,,,p2
+minoraverages/1913Reach,1912,Southern Association,griffin,P10780,Griffin,,0,New Orleans,,,,,
+minoraverages/1913Reach,1912,Southern Association,grover,B01836,Grover,,0,Chattanooga,,,5,,
+minoraverages/1913Reach,1912,Southern Association,grover,P10767,Grover,,0,Chattanooga,,,,,
+minoraverages/1913Reach,1912,Southern Association,hallahan,B00370,Hallahan,,0,Memphis,,,27,,
+minoraverages/1913Reach,1912,Southern Association,hallahan,F20279,Hallahan,,0,Memphis,,,,,2b27
+minoraverages/1913Reach,1912,Southern Association,hallman,B00125,Hallman,,0,Montgomery,,,21,,
+minoraverages/1913Reach,1912,Southern Association,hallman,F21045,Hallman,,0,Montgomery,,,,,of21
+minoraverages/1913Reach,1912,Southern Association,hamilton,B01857,Hamilton,,0,Chattanooga,,,5,,
+minoraverages/1913Reach,1912,Southern Association,hamilton,F21589,Hamilton,,0,Chattanooga,,,,,of5
+minoraverages/1913Reach,1912,Southern Association,hanna,B00680,Hanna,,0,Chattanooga,,,86,,
+minoraverages/1913Reach,1912,Southern Association,hanna,F20166,Hanna,,0,Chattanooga,,,,,1b4
+minoraverages/1913Reach,1912,Southern Association,hanna,F22626,Hanna,,0,Chattanooga,,,,,c74
+minoraverages/1913Reach,1912,Southern Association,harbison,B00163,Harbison,,0,Atlanta,,,84,,
+minoraverages/1913Reach,1912,Southern Association,harbison,F20841,Harbison,,0,Atlanta,,,,,ss84
+minoraverages/1913Reach,1912,Southern Association,hardgrove,B01466,Hardgrove,,0,Birmingham,,,30,,
+minoraverages/1913Reach,1912,Southern Association,hardgrove,F21718,Hardgrove,,0,Birmingham,,,,,p30
+minoraverages/1913Reach,1912,Southern Association,hardgrove,P10159,Hardgrove,,0,Birmingham,,,,,
+minoraverages/1913Reach,1912,Southern Association,hemphill,B00117,Hemphill,,0,Atlanta,,,79,,
+minoraverages/1913Reach,1912,Southern Association,hemphill,F21278,Hemphill,,0,Atlanta,,,,,of79
+minoraverages/emilbb,1912,Southern Association,hemphill,M90396,Hemphill,Charles,,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,hendryx,B00255,Hendryx,,0,New Orleans,,,125,,
+minoraverages/1913Reach,1912,Southern Association,hendryx,F20350,Hendryx,,0,New Orleans,,,,,2b57
+minoraverages/1913Reach,1912,Southern Association,hendryx,F21000,Hendryx,,0,New Orleans,,,,,of66
+minoraverages/1913Reach,1912,Southern Association,hensling,B00488,Hensling,,0,Nashville,,,11,,
+minoraverages/1913Reach,1912,Southern Association,hensling,F21531,Hensling,,0,Nashville,,,,,of4
+minoraverages/1913Reach,1912,Southern Association,hensling,F22364,Hensling,,0,Montgomery,,,,,p4
+minoraverages/1913Reach,1912,Southern Association,hensling,P10714,Hensling,,0,Nashville,,,,,
+minoraverages/1913Reach,1912,Southern Association,herbert,B01617,Herbert,,0,Montgomery,,,6,,
+minoraverages/1913Reach,1912,Southern Association,herbert,F22214,Herbert,,0,Montgomery,,,,,p6
+minoraverages/1913Reach,1912,Southern Association,herbert,P10640,Herbert,,0,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,hight,B00232,Hight,,0,New Orleans,,,87,,
+minoraverages/1913Reach,1912,Southern Association,hight,F22440,Hight,,0,New Orleans,,,,,c74
+minoraverages/1913Reach,1912,Southern Association,hogue,B01572,Hogue,,0,Atlanta,,,2,,
+minoraverages/1913Reach,1912,Southern Association,hogue,F22188,Hogue,,0,Atlanta,,,,,p2
+minoraverages/1913Reach,1912,Southern Association,hogue,P10738,Hogue,,0,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,hooper,B01779,Hooper,,0,Memphis,,,7,,
+minoraverages/1913Reach,1912,Southern Association,hooper,F22238,Hooper,,0,Memphis,,,,,p7
+minoraverages/1913Reach,1912,Southern Association,hopkins,B00752,Hopkins,,0,Chattanooga,,,67,,
+minoraverages/1913Reach,1912,Southern Association,hopkins,F21232,Hopkins,,0,Chattanooga,,,,,of67
+minoraverages/1913Reach,1912,Southern Association,hooper,P10569,Hopper,,0,Memphis,,,,,
+minoraverages/1913Reach,1912,Southern Association,howard,B01514,Howard,,0,Atlanta,,,11,,
+minoraverages/1913Reach,1912,Southern Association,howard,F20303,Howard,,0,Atlanta,,,,,2b10
+minoraverages/1913Reach,1912,Southern Association,jacobson,B00416,Jacobson,,0,Mobile,,,139,,
+minoraverages/1913Reach,1912,Southern Association,jacobson,F20131,Jacobson,,0,Mobile,,,,,1b2
+minoraverages/1913Reach,1912,Southern Association,jacobson,F21229,Jacobson,,0,Mobile,,,,,of139
+minoraverages/1913Reach,1912,Southern Association,james,B00794,James,,0,Nashville,,,77,,
+minoraverages/1913Reach,1912,Southern Association,james,F21163,James,,0,Nashville,,,,,of71
+minoraverages/1913Reach,1912,Southern Association,johns,B01321,Johns,,1,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,johns,B01321,Johns,,2,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,johns,B01321,Johns,,T,,,,32,,
+minoraverages/1913Reach,1912,Southern Association,johns,F21904,Johns,,0,Atlanta,,,,,p32
+minoraverages/1913Reach,1912,Southern Association,johns,P10266,Johns,,1,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,johns,P10266,Johns,,2,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,johns,P10266,Johns,,T,,,,,,
+minoraverages/1913Reach,1912,Southern Association,johnson-mon,B00084,Johnson,,0,Montgomery,,,64,,
+minoraverages/1913Reach,1912,Southern Association,johnson-atl,B01899,Johnson,,0,Atlanta,,,9,,
+minoraverages/1913Reach,1912,Southern Association,johnson-mon,F20935,Johnson,,0,Montgomery,,,,,of64
+minoraverages/1913Reach,1912,Southern Association,johnson-atl,F22246,Johnson,,0,Atlanta,,,,,p9
+minoraverages/1913Reach,1912,Southern Association,johnson-atl,P10665,Johnson,,0,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,johnston-no,B00130,Johnston,D.,0,New Orleans,,,107,,
+minoraverages/1913Reach,1912,Southern Association,johnston-bir,B00158,Johnston,J.,0,Birmingham,,,135,,
+minoraverages/1913Reach,1912,Southern Association,johnston-no,F20115,Johnston,Doc,0,New Orleans,,,,,1b117
+minoraverages/1913Reach,1912,Southern Association,johnston-bir,F21092,Johnston,J.,0,Birmingham,,,,,of135
+minoraverages/1913Reach,1912,Southern Association,jordon,B01124,Jordon,,0,Chattanooga,,,99,,
+minoraverages/1913Reach,1912,Southern Association,jordon,F20298,Jordon,,0,Chattanooga,,,,,2b99
+minoraverages/1913Reach,1912,Southern Association,kellogg,B01595,Kellogg,,0,Montgomery,,,5,,
+minoraverages/1913Reach,1912,Southern Association,kellogg,F22272,Kellogg,,0,Montgomery,,,,,p6
+minoraverages/1913Reach,1912,Southern Association,kellogg,P10588,Kellogg,,0,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,kerr-mem,B00760,Kerr,A.,0,Memphis,,,138,,
+minoraverages/1913Reach,1912,Southern Association,kerr-atl,B01086,Kerr,J.,0,Atlanta,,,26,,
+minoraverages/1913Reach,1912,Southern Association,kerr-mem,F21037,Kerr,,0,Memphis,,,,,of138
+minoraverages/1913Reach,1912,Southern Association,kerr-atl,F22454,Kerr,J.,0,Atlanta,,,,,c26
+minoraverages/1913Reach,1912,Southern Association,kissinger,B01170,Kissinger,,0,Memphis,,,35,,
+minoraverages/1913Reach,1912,Southern Association,kissinger,F21771,Kissinger,,0,Memphis,,,,,p31
+minoraverages/1913Reach,1912,Southern Association,kissinger,P10304,Kissinger,,0,Memphis,,,,,
+minoraverages/1913Reach,1912,Southern Association,klawitter,P10772,Klawitter,,0,New Orleans,,,,,
+minoraverages/1913Reach,1912,Southern Association,knaupp,B00957,Knaupp,,0,New Orleans,,,135,,
+minoraverages/1913Reach,1912,Southern Association,knaupp,F20832,Knaupp,,0,New Orleans,,,,,ss131
+minoraverages/1913Reach,1912,Southern Association,knaupp,F22660,Knaupp,,0,New Orleans,,,,,c4
+minoraverages/1913Reach,1912,Southern Association,kneaves,B01711,Kneaves,,0,Mobile,,,7,,
+minoraverages/1913Reach,1912,Southern Association,kneaves,F20713,Kneaves,,0,Mobile,,,,,3b7
+minoraverages/1913Reach,1912,Southern Association,lafitt,B01798,Lafitt,,0,New Orleans,,,9,,
+minoraverages/1913Reach,1912,Southern Association,lafitt,F22671,Lafitt,,0,New Orleans,,,,,c9
+minoraverages/1913Reach,1912,Southern Association,lattimore,B00912,Lattimore,,0,Nashville,,,61,,
+minoraverages/1913Reach,1912,Southern Association,lattimore,F20316,Lattimore,,0,Nashville,,,,,2b61
+minoraverages/1913Reach,1912,Southern Association,laudermilk,B01392,Laudermilk,,0,Mobile,,,13,,
+minoraverages/1913Reach,1912,Southern Association,laudermilk,F21623,Laudermilk,,0,Mobile,,,,,p11
+minoraverages/1913Reach,1912,Southern Association,laudermilk,P10654,Laudermilk,,0,Mobile,,,,,
+minoraverages/1913Reach,1912,Southern Association,lemon,B00037,Lemon,,0,Birmingham,,,15,,
+minoraverages/1913Reach,1912,Southern Association,lemon,F22683,Lemon,,1,Birmingham,,,,,c
+minoraverages/1913Reach,1912,Southern Association,lemon,F22683,Lemon,,2,New Orleans,,,,,c
+minoraverages/1913Reach,1912,Southern Association,lemon,F22683,Lemon,,T,,,,,,c9
+minoraverages/1913Reach,1912,Southern Association,lilivelt,B01649,Lilivelt,,1,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,lilivelt,B01649,Lilivelt,,2,Mobile,,,,,
+minoraverages/1913Reach,1912,Southern Association,lilivelt,B01649,Lilivelt,,T,,,,6,,
+minoraverages/1913Reach,1912,Southern Association,lilivelt,F22267,Lilivelt,,0,Montgomery,,,,,p6
+minoraverages/1913Reach,1912,Southern Association,lilivelt,P10503,Lilivelt,,1,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,lilivelt,P10503,Lilivelt,,2,Mobile,,,,,
+minoraverages/1913Reach,1912,Southern Association,lilivelt,P10503,Lilivelt,,T,,,,,,
+minoraverages/1913Reach,1912,Southern Association,lindsay,B00948,Lindsay,,0,Nashville,,,137,,
+minoraverages/1913Reach,1912,Southern Association,lindsay,F20737,Lindsay,,0,Nashville,,,,,ss135
+minoraverages/1913Reach,1912,Southern Association,lively,B01740,Lively,,0,Montgomery,,,8,,
+minoraverages/1913Reach,1912,Southern Association,lively,F20153,Lively,,0,Montgomery,,,,,1b2
+minoraverages/1913Reach,1912,Southern Association,lively,F22307,Lively,,0,Montgomery,,,,,p4
+minoraverages/1913Reach,1912,Southern Association,lively,P10679,Lively,,0,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,long,B00381,Long,,0,Mobile,,,63,,
+minoraverages/1913Reach,1912,Southern Association,long,F21013,Long,,0,Mobile,,,,,of89
+minoraverages/1913Reach,1912,Southern Association,lowry,P10698,Lowry,,0,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,luhrson,F22332,Luhrson,,0,Mobile,,,,,p5
+minoraverages/1913Reach,1912,Southern Association,luhrson,P10826,Luhrson,,0,Mobile,,,,,
+minoraverages/1913Reach,1912,Southern Association,lyons,B01538,Lyons,,0,Atlanta,,,26,,
+minoraverages/1913Reach,1912,Southern Association,lyons,F21286,Lyons,,0,Atlanta,,,,,of28
+minoraverages/1913Reach,1912,Southern Association,maloney,B00840,Maloney,,0,Mobile,,,139,,
+minoraverages/1913Reach,1912,Southern Association,maloney,F21068,Maloney,,0,Mobile,,,,,of139
+minoraverages/1913Reach,1912,Southern Association,manning,B01007,Manning,,0,Montgomery,,,19,,
+minoraverages/1913Reach,1912,Southern Association,manning,F20685,Manning,,0,Montgomery,,,,,3b2
+minoraverages/1913Reach,1912,Southern Association,manning,F20886,Manning,,0,Montgomery,,,,,ss5
+minoraverages/1913Reach,1912,Southern Association,manning,F21566,Manning,,0,Montgomery,,,,,of8
+minoraverages/1913Reach,1912,Southern Association,manning,F22406,Manning,,0,Montgomery,,,,,p4
+minoraverages/1913Reach,1912,Southern Association,manning,P10687,Manning,,0,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,maples,B01787,Maples,,0,New Orleans,,,4,,
+minoraverages/1913Reach,1912,Southern Association,maples,F22085,Maples,,0,New Orleans,,,,,p4
+minoraverages/1913Reach,1912,Southern Association,maples,P10795,Maples,,0,New Orleans,,,,,
+minoraverages/1913Reach,1912,Southern Association,marcan,B00566,Marcan,,0,Birmingham,,,134,,
+minoraverages/1913Reach,1912,Southern Association,marcan,F20211,Marcan,,0,Birmingham,,,,,2b134
+minoraverages/1913Reach,1912,Southern Association,master,F21638,Master,,0,Birmingham,,,,,p1
+minoraverages/1913Reach,1912,Southern Association,master,P10818,Master,,0,Birmingham,,,,,
+minoraverages/1913Reach,1912,Southern Association,mcallister,B00427,McAllister,,0,Montgomery,,,80,,
+minoraverages/1913Reach,1912,Southern Association,mcallister,F22639,McAllister,,0,Montgomery,,,,,c76
+minoraverages/1913Reach,1912,Southern Association,mcbride,B00609,McBride,,0,Birmingham,,,134,,
+minoraverages/1913Reach,1912,Southern Association,mcbride,F20997,McBride,,0,Birmingham,,,,,of134
+minoraverages/1913Reach,1912,Southern Association,mcdonald,B00531,McDonald,,0,Nashville,,,78,,
+minoraverages/1913Reach,1912,Southern Association,mcdonald,F20552,McDonald,,0,Nashville,,,,,3b75
+minoraverages/1913Reach,1912,Southern Association,mcdonald,F21528,McDonald,,0,Nashville,,,,,of3
+minoraverages/1913Reach,1912,Southern Association,mcdonough,B01029,McDonough,,1,Memphis,,,,,
+minoraverages/1913Reach,1912,Southern Association,mcdonough,B01029,McDonough,,2,Chattanooga,,,,,
+minoraverages/1913Reach,1912,Southern Association,mcdonough,B01029,McDonough,,T,,,,11,,
+minoraverages/1913Reach,1912,Southern Association,mcdonough,F22465,McDonough,,1,Chattanooga,,,,,c
+minoraverages/1913Reach,1912,Southern Association,mcdonough,F22465,McDonough,,2,Memphis,,,,,c
+minoraverages/1913Reach,1912,Southern Association,mcdonough,F22465,McDonough,,T,,,,,,c11
+minoraverages/1913Reach,1912,Southern Association,mcelveen,B00718,McElveen,,1,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,mcelveen,B00718,McElveen,,2,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,mcelveen,B00718,McElveen,,T,,,,142,,
+minoraverages/1913Reach,1912,Southern Association,mcelveen,F20547,McElveen,,1,Atlanta,,,,,3b
+minoraverages/1913Reach,1912,Southern Association,mcelveen,F20547,McElveen,,2,Montgomery,,,,,3b
+minoraverages/1913Reach,1912,Southern Association,mcelveen,F20547,McElveen,,T,,,,,,3b110
+minoraverages/1913Reach,1912,Southern Association,mcelveen,F20792,McElveen,,1,Montgomery,,,,,ss
+minoraverages/1913Reach,1912,Southern Association,mcelveen,F20792,McElveen,,2,Atlanta,,,,,ss
+minoraverages/1913Reach,1912,Southern Association,mcelveen,F20792,McElveen,,T,,,,,,ss30
+minoraverages/1913Reach,1912,Southern Association,mcgilvary,B00101,McGilvary,,0,Birmingham,,,137,,
+minoraverages/1913Reach,1912,Southern Association,mcgilvary,F20051,McGilvary,,0,Birmingham,,,,,1b137
+minoraverages/1913Reach,1912,Southern Association,merritt,B00286,Meritt,,0,Memphis,,,37,,
+minoraverages/1913Reach,1912,Southern Association,merritt,F20334,Meritt,,0,Memphis,,,,,2b10
+minoraverages/1913Reach,1912,Southern Association,merritt,F21590,Meritt,,0,Memphis,,,,,of4
+minoraverages/1913Reach,1912,Southern Association,merritt,F21614,Merritt,,0,Memphis,,,,,p11
+minoraverages/1913Reach,1912,Southern Association,merritt,P10070,Merritt,,0,Memphis,,,,,
+minoraverages/1913Reach,1912,Southern Association,messinger,B00442,Messinger,,0,Birmingham,,,120,,
+minoraverages/1913Reach,1912,Southern Association,messinger,F21356,Messinger,,0,Birmingham,,,,,of120
+minoraverages/1913Reach,1912,Southern Association,miller-atl,B01181,Miller,,0,Atlanta,,,10,,
+minoraverages/1913Reach,1912,Southern Association,miller-mon,B01674,Miller,,0,Montgomery,,,6,,
+minoraverages/1913Reach,1912,Southern Association,miller-atl,F22310,Miller,,0,Atlanta,,,,,p9
+minoraverages/1913Reach,1912,Southern Association,miller-mon,F22355,Miller,,0,Montgomery,,,,,p6
+minoraverages/1913Reach,1912,Southern Association,miller-mon,P10455,Miller,,0,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,miller-atl,P10527,Miller,,0,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,mills,B00999,Mills,,0,New Orleans,,,22,,
+minoraverages/1913Reach,1912,Southern Association,mills,F20604,Mills,,0,New Orleans,,,,,3b22
+minoraverages/emilbb,1912,Southern Association,molesworth,M90325,Molesworth,Carlton,,Birmingham,,,,,
+minoraverages/1913Reach,1912,Southern Association,moran,B00469,Moran,,0,Chattanooga,,,125,,
+minoraverages/1913Reach,1912,Southern Association,moran,F21021,Moran,,0,Chattanooga,,,,,of125
+minoraverages/1913Reach,1912,Southern Association,more,B01055,More,,0,Chattanooga,,,43,,
+minoraverages/1913Reach,1912,Southern Association,more,F21553,More,,0,Chattanooga,,,,,of4
+minoraverages/1913Reach,1912,Southern Association,more,F21920,More,,0,Chattanooga,,,,,p32
+minoraverages/1913Reach,1912,Southern Association,more,P10184,More,,0,Chattanooga,,,,,
+minoraverages/1913Reach,1912,Southern Association,moulton,B01108,Moulton,,0,Memphis,,,91,,
+minoraverages/1913Reach,1912,Southern Association,moulton,F20265,Moulton,,0,Memphis,,,,,2b91
+minoraverages/1913Reach,1912,Southern Association,mueller,B01601,Mueller,,0,Mobile,,,3,,
+minoraverages/1913Reach,1912,Southern Association,mueller,F22652,Mueller,,0,Mobile,,,,,c2
+minoraverages/1913Reach,1912,Southern Association,nagelson,F22558,Nagelson,,0,New Orleans,,,,,c18
+minoraverages/1913Reach,1912,Southern Association,nagelson,B01288,Nagleson,,0,New Orleans,,,18,,
+minoraverages/1913Reach,1912,Southern Association,neely,B01428,Neely,,0,Nashville,,,20,,
+minoraverages/1913Reach,1912,Southern Association,neely,F22036,Neely,,0,Nashville,,,,,p20
+minoraverages/1913Reach,1912,Southern Association,neely,P10373,Neely,,0,Nashville,,,,,
+minoraverages/1913Reach,1912,Southern Association,netzel,B01064,Netzel,,0,Memphis,,,108,,
+minoraverages/1913Reach,1912,Southern Association,netzel,F20648,Netzel,,0,Memphis,,,,,3b108
+minoraverages/1913Reach,1912,Southern Association,newton,B00973,Newton,,0,Memphis,,,34,,
+minoraverages/1913Reach,1912,Southern Association,newton,F21833,Newton,,0,Memphis,,,,,p34
+minoraverages/1913Reach,1912,Southern Association,newton,P10320,Newton,,0,Memphis,,,,,
+minoraverages/1913Reach,1912,Southern Association,noyes,B01010,Noyes,,0,Chattanooga,,,86,,
+minoraverages/1913Reach,1912,Southern Association,noyes,F21324,Noyes,,0,Chattanooga,,,,,of33
+minoraverages/1913Reach,1912,Southern Association,noyes,F22574,Noyes,,0,Chattanooga,,,,,c45
+minoraverages/1913Reach,1912,Southern Association,obrien,B00667,O'Brien,,1,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,obrien,B00667,O'Brien,,2,Mobile,,,,,
+minoraverages/1913Reach,1912,Southern Association,obrien,B00667,O'Brien,,T,,,,77,,
+minoraverages/1913Reach,1912,Southern Association,obrien,F20375,O'Brien,,1,Atlanta,,,,,2b
+minoraverages/1913Reach,1912,Southern Association,obrien,F20375,O'Brien,,2,Mobile,,,,,2b
+minoraverages/1913Reach,1912,Southern Association,obrien,F20375,O'Brien,,T,,,,,,2b2
+minoraverages/1913Reach,1912,Southern Association,obrien,F20700,O'Brien,,1,Atlanta,,,,,3b
+minoraverages/1913Reach,1912,Southern Association,obrien,F20700,O'Brien,,2,Montgomery,,,,,3b
+minoraverages/1913Reach,1912,Southern Association,obrien,F20700,O'Brien,,T,,,,,,3b4
+minoraverages/1913Reach,1912,Southern Association,obrien,F20864,O'Brien,,1,Atlanta,,,,,ss
+minoraverages/1913Reach,1912,Southern Association,obrien,F20864,O'Brien,,2,Mobile,,,,,ss
+minoraverages/1913Reach,1912,Southern Association,obrien,F20864,O'Brien,,T,,,,,,ss59
+minoraverages/1913Reach,1912,Southern Association,obrien,F21434,O'Brien,,0,Mobile,,,,,of4
+minoraverages/1913Reach,1912,Southern Association,odell,B00726,O'Dell,,1,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,odell,B00726,O'Dell,,2,Mobile,,,,,
+minoraverages/1913Reach,1912,Southern Association,odell,B00726,O'Dell,,T,,,,122,,
+minoraverages/1913Reach,1912,Southern Association,odell,F20095,O'Dell,,0,Mobile,,,,,1b42
+minoraverages/1913Reach,1912,Southern Association,odell,F20893,O'Dell,,1,Atlanta,,,,,ss
+minoraverages/1913Reach,1912,Southern Association,odell,F20893,O'Dell,,2,Mobile,,,,,ss
+minoraverages/1913Reach,1912,Southern Association,odell,F20893,O'Dell,,T,,,,,,ss2
+minoraverages/1913Reach,1912,Southern Association,odell,F20943,O'Dell,,1,Mobile,,,,,of
+minoraverages/1913Reach,1912,Southern Association,odell,F20943,O'Dell,,2,Atlanta,,,,,of
+minoraverages/1913Reach,1912,Southern Association,odell,F20943,O'Dell,,T,,,,,,of12
+minoraverages/1913Reach,1912,Southern Association,page,B00783,Page,,1,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,page,B00783,Page,,2,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,page,B00783,Page,,T,,,,31,,
+minoraverages/1913Reach,1912,Southern Association,page,F21672,Paige,,1,Chattanooga,,,,,p
+minoraverages/1913Reach,1912,Southern Association,page,F21672,Paige,,2,Montgomery,,,,,p
+minoraverages/1913Reach,1912,Southern Association,page,F21672,Paige,,T,,,,,,p31
+minoraverages/1913Reach,1912,Southern Association,page,P10277,Paige,,1,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,page,P10277,Paige,,2,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,page,P10277,Paige,,T,,,,,,
+minoraverages/1913Reach,1912,Southern Association,parsons,B01489,Parsons,,0,Memphis,,,19,,
+minoraverages/1913Reach,1912,Southern Association,parsons,F21680,Parsons,,0,Memphis,,,,,p19
+minoraverages/1913Reach,1912,Southern Association,parsons,P10137,Parsons,,0,Memphis,,,,,
+minoraverages/1913Reach,1912,Southern Association,paulett,B00833,Paulett,,0,Mobile,,,117,,
+minoraverages/1913Reach,1912,Southern Association,paulett,F20102,Paulett,,0,Mobile,,,,,1b100
+minoraverages/1913Reach,1912,Southern Association,paulett,F21241,Paulett,,0,Mobile,,,,,of17
+minoraverages/1913Reach,1912,Southern Association,perry,B00450,Perry,,0,Nashville,,,133,,
+minoraverages/1913Reach,1912,Southern Association,perry,F20254,Perry,,0,Nashville,,,,,2b71
+minoraverages/1913Reach,1912,Southern Association,perry,F20539,Perry,,0,Nashville,,,,,3b62
+minoraverages/1913Reach,1912,Southern Association,powers,B01580,Powers,,0,Mobile,,,1,,
+minoraverages/1913Reach,1912,Southern Association,powers,F22150,Powers,,0,Mobile,,,,,p1
+minoraverages/1913Reach,1912,Southern Association,powers,P10751,Powers,,0,Mobile,,,,,
+minoraverages/1913Reach,1912,Southern Association,priest,P10839,Preist,,0,Chattanooga,,,,,
+minoraverages/1913Reach,1912,Southern Association,price,B01682,Price,,0,Atlanta,,,6,,
+minoraverages/1913Reach,1912,Southern Association,price,F22209,Price,,0,Atlanta,,,,,p6
+minoraverages/1913Reach,1912,Southern Association,price,P10432,Price,,0,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,priest,B01873,Priest,,0,Chattanooga,,,3,,
+minoraverages/1913Reach,1912,Southern Association,priest,F22386,Priest,,0,Chattanooga,,,,,p3
+minoraverages/1913Reach,1912,Southern Association,prough,B01291,Prough,,0,Birmingham,,,28,,
+minoraverages/1913Reach,1912,Southern Association,prough,F21912,Prough,,0,Birmingham,,,,,p28
+minoraverages/1913Reach,1912,Southern Association,prough,P10168,Prough,,0,Birmingham,,,,,
+minoraverages/1913Reach,1912,Southern Association,radabaugh,B01509,Radabaugh,,0,Montgomery,,,13,,
+minoraverages/1913Reach,1912,Southern Association,radabaugh,P10493,Radabaugh,,0,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,reynolds,B00898,Reynolds,,0,Atlanta,,,30,,
+minoraverages/1913Reach,1912,Southern Association,reynolds,F22596,Reynolds,,0,Atlanta,,,,,c27
+minoraverages/1913Reach,1912,Southern Association,rhoe,B00241,Rhoe,,1,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,rhoe,B00241,Rhoe,,2,New Orleans,,,,,
+minoraverages/1913Reach,1912,Southern Association,rhoe,B00241,Rhoe,,T,,,,111,,
+minoraverages/1913Reach,1912,Southern Association,rhoe,F20072,Rhoe,,1,Mobile,,,,,1b
+minoraverages/1913Reach,1912,Southern Association,rhoe,F20072,Rhoe,,2,New Orleans,,,,,1b
+minoraverages/1913Reach,1912,Southern Association,rhoe,F20072,Rhoe,,T,,,,,,1b66
+minoraverages/1913Reach,1912,Southern Association,rhoe,F20430,Rhoe,,1,Mobile,,,,,2b
+minoraverages/1913Reach,1912,Southern Association,rhoe,F20430,Rhoe,,2,New Orleans,,,,,2b
+minoraverages/1913Reach,1912,Southern Association,rhoe,F20430,Rhoe,,T,,,,,,2b3
+minoraverages/1913Reach,1912,Southern Association,rhoe,F20612,Rhoe,,1,Mobile,,,,,3b
+minoraverages/1913Reach,1912,Southern Association,rhoe,F20612,Rhoe,,2,New Orleans,,,,,3b
+minoraverages/1913Reach,1912,Southern Association,rhoe,F20612,Rhoe,,T,,,,,,3b35
+minoraverages/1913Reach,1912,Southern Association,rowan,B01345,Rowan,,0,Mobile,,,20,,
+minoraverages/1913Reach,1912,Southern Association,rowan,F20144,Rowan,,0,Mobile,,,,,1b2
+minoraverages/1913Reach,1912,Southern Association,rowan,F20956,Rowan,,0,Mobile,,,,,of13
+minoraverages/1913Reach,1912,Southern Association,runser,F21450,Rumser,,0,Chattanooga,,,,,of2
+minoraverages/1913Reach,1912,Southern Association,runser,F20458,Runser,,0,Chattanooga,,,,,2b3
+minoraverages/1913Reach,1912,Southern Association,russell,B01812,Russell,,0,Atlanta,,,2,,
+minoraverages/1913Reach,1912,Southern Association,russell,F22422,Russell,,0,Atlanta,,,,,p2
+minoraverages/1913Reach,1912,Southern Association,russell,P10534,Russell,,0,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,schwartz,B00229,Schwartz,,0,Nashville,,,131,,
+minoraverages/1913Reach,1912,Southern Association,schwartz,F20014,Schwartz,,0,Nashville,,,,,1b131
+minoraverages/emilbb,1912,Southern Association,schwartz,M90358,Schwartz,Bill,,Nashville,,,,,
+minoraverages/1913Reach,1912,Southern Association,schweitzer,B00335,Schweitzer,,0,Memphis,,,136,,
+minoraverages/1913Reach,1912,Southern Association,schweitzer,F20962,Schweitzer,,0,Memphis,,,,,of136
+minoraverages/1913Reach,1912,Southern Association,seabough,B00319,Seabough,,1,Nashville,,,,,
+minoraverages/1913Reach,1912,Southern Association,seabough,B00319,Seabough,,2,Memphis,,,,,
+minoraverages/1913Reach,1912,Southern Association,seabough,B00319,Seabough,,T,,,,74,,
+minoraverages/1913Reach,1912,Southern Association,seabough,F21695,Seabough,,0,Montgomery,,,,,p13
+minoraverages/1913Reach,1912,Southern Association,seabough,F22582,Seabough,,1,Memphis,,,,,c
+minoraverages/1913Reach,1912,Southern Association,seabough,F22582,Seabough,,2,Nashville,,,,,c
+minoraverages/1913Reach,1912,Southern Association,seabough,F22582,Seabough,,T,,,,,,c64
+minoraverages/1913Reach,1912,Southern Association,seitz,B01820,Seitz,,0,Mobile,,,5,,
+minoraverages/1913Reach,1912,Southern Association,seitz,F21416,Seitz,,0,Mobile,,,,,of5
+minoraverages/1913Reach,1912,Southern Association,sentell,B00308,Sentell,,0,Chattanooga,,,65,,
+minoraverages/1913Reach,1912,Southern Association,sentell,F20222,Sentell,,0,Chattanooga,,,,,2b26
+minoraverages/1913Reach,1912,Southern Association,sentell,F20745,Sentell,,0,Chattanooga,,,,,ss28
+minoraverages/1913Reach,1912,Southern Association,sisson,B01706,Sissom,,0,Atlanta,,,6,,
+minoraverages/1913Reach,1912,Southern Association,sisson,F21427,Sisson,,0,Atlanta,,,,,of6
+minoraverages/1913Reach,1912,Southern Association,sitton,B01300,Sitton,,0,Atlanta,,,30,,
+minoraverages/1913Reach,1912,Southern Association,sitton,F21985,Sitton,,0,Atlanta,,,,,p29
+minoraverages/1913Reach,1912,Southern Association,sitton,P10244,Sitton,,0,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,smith-mon,B00068,Smith,H.,0,Montgomery,,,10,,
+minoraverages/1913Reach,1912,Southern Association,smith-bir,B01376,Smith,,0,Birmingham,,,35,,
+minoraverages/1913Reach,1912,Southern Association,smith-mem,B01630,Smith,,0,Memphis,,,3,,
+minoraverages/1913Reach,1912,Southern Association,smith-cha,F21469,Smith,,0,Chattanooga,,,,,of3
+minoraverages/1913Reach,1912,Southern Association,smith-mon,F21502,Smith,,0,Montgomery,,,,,of5
+minoraverages/1913Reach,1912,Southern Association,smith-bir,F21961,Smith,,0,Birmingham,,,,,p35
+minoraverages/1913Reach,1912,Southern Association,smith-mem,F22411,Smith,,0,Memphis,,,,,p3
+minoraverages/1913Reach,1912,Southern Association,smith-bir,P10097,Smith,,0,Birmingham,,,,,
+minoraverages/1913Reach,1912,Southern Association,smith-mem,P10410,Smith,,0,Memphis,,,,,
+minoraverages/emilbb,1912,Southern Association,smith-cha,M90382,Smith,William A.,,Chattanooga,,,,,
+minoraverages/1913Reach,1912,Southern Association,spencer-no,B00343,Spencer,,0,New Orleans,,,138,,
+minoraverages/1913Reach,1912,Southern Association,spencer-mon,B00502,Spencer,,0,Montgomery,,,21,,
+minoraverages/1913Reach,1912,Southern Association,spencer-mon,F20417,Spencer,,0,Montgomery,,,,,2b5
+minoraverages/1913Reach,1912,Southern Association,spencer-mon,F20776,Spencer,,0,Montgomery,,,,,ss14
+minoraverages/1913Reach,1912,Southern Association,spencer-no,F21255,Spencer,,0,New Orleans,,,,,of136
+minoraverages/1913Reach,1912,Southern Association,stanley,B01032,Stanley,,0,New Orleans,,,92,,
+minoraverages/1913Reach,1912,Southern Association,stanley,F20970,Stanley,,0,New Orleans,,,,,of93
+minoraverages/1913Reach,1912,Southern Association,starr,B00614,Starr,,0,Mobile,,,139,,
+minoraverages/1913Reach,1912,Southern Association,starr,F20240,Starr,,0,Mobile,,,,,2b139
+minoraverages/1913Reach,1912,Southern Association,stengel,B00174,Stengel,,0,Montgomery,,,136,,
+minoraverages/1913Reach,1912,Southern Association,stengel,F21149,Stengel,,0,Montgomery,,,,,of136
+minoraverages/1913Reach,1912,Southern Association,storch,B01162,Storch,,0,Nashville,,,75,,
+minoraverages/1913Reach,1912,Southern Association,storch,F20391,Storch,,0,Nashville,,,,,2b3
+minoraverages/1913Reach,1912,Southern Association,storch,F21207,Storch,,0,Nashville,,,,,of70
+minoraverages/1913Reach,1912,Southern Association,summers,B01041,Summers,,0,Nashville,,,23,,
+minoraverages/1913Reach,1912,Southern Association,summers,F21739,Summers,,0,Nashville,,,,,p23
+minoraverages/1913Reach,1912,Southern Association,summers,P10100,Summers,,0,Nashville,,,,,
+minoraverages/1913Reach,1912,Southern Association,swalm,B01658,Swalm,,0,Memphis,,,2,,
+minoraverages/1913Reach,1912,Southern Association,swalm,F21491,Swalm,,0,Memphis,,,,,of2
+minoraverages/1913Reach,1912,Southern Association,swan,B01453,Swan,,0,New Orleans,,,18,,
+minoraverages/1913Reach,1912,Southern Association,swan,F21667,Swan,,0,New Orleans,,,,,p18
+minoraverages/1913Reach,1912,Southern Association,swan,P10202,Swan,,0,New Orleans,,,,,
+minoraverages/1913Reach,1912,Southern Association,swindell,F21898,Swindell,,0,New Orleans,,,,,p30
+minoraverages/1913Reach,1912,Southern Association,swindell,P10253,Swindell,,0,New Orleans,,,,,
+minoraverages/1913Reach,1912,Southern Association,swindell,B01227,Swintell,,0,New Orleans,,,33,,
+minoraverages/1913Reach,1912,Southern Association,sykes,B00747,Sykes,,1,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,sykes,B00747,Sykes,,2,Montgomery,,,,,
+minoraverages/1913Reach,1912,Southern Association,sykes,B00747,Sykes,,T,,,,76,,
+minoraverages/1913Reach,1912,Southern Association,sykes,F20023,Sykes,,1,Atlanta,,,,,1b
+minoraverages/1913Reach,1912,Southern Association,sykes,F20023,Sykes,,2,Montgomery,,,,,1b
+minoraverages/1913Reach,1912,Southern Association,sykes,F20023,Sykes,,T,,,,,,1b67
+minoraverages/1913Reach,1912,Southern Association,tonneman,B00865,Tonneman,,0,Memphis,,,100,,
+minoraverages/1913Reach,1912,Southern Association,tonneman,F20190,Tonneman,,0,Memphis,,,,,1b2
+minoraverages/1913Reach,1912,Southern Association,tonneman,F21381,Tonneman,,0,Memphis,,,,,of16
+minoraverages/1913Reach,1912,Southern Association,tonneman,F22479,Tonneman,,0,Memphis,,,,,c74
+minoraverages/1913Reach,1912,Southern Association,tutweiler,B00210,Tutweiler,,0,Chattanooga,,,54,,
+minoraverages/1913Reach,1912,Southern Association,tutweiler,F20401,Tutweiler,,0,Chattanooga,,,,,2b9
+minoraverages/1913Reach,1912,Southern Association,tutweiler,F20657,Tutweiler,,0,Chattanooga,,,,,3b21
+minoraverages/1913Reach,1912,Southern Association,tutweiler,F21293,Tutweiler,,0,Chattanooga,,,,,of24
+minoraverages/1913Reach,1912,Southern Association,vance,B01431,Vance,,0,Mobile,,,45,,
+minoraverages/1913Reach,1912,Southern Association,vance,F22530,Vance,,0,Mobile,,,,,c42
+minoraverages/1913Reach,1912,Southern Association,vowinkle,F22280,Vowinkle,,0,Chattanooga,,,,,p4
+minoraverages/1913Reach,1912,Southern Association,vowinkle,P10633,Vowinkle,,0,Chattanooga,,,,,
+minoraverages/1913Reach,1912,Southern Association,wagner,B01143,Wagner,,0,New Orleans,,,37,,
+minoraverages/1913Reach,1912,Southern Association,wagner,F21936,Wagner,,0,New Orleans,,,,,p35
+minoraverages/1913Reach,1912,Southern Association,wagner,P10035,Wagner,,0,New Orleans,,,,,
+minoraverages/1913Reach,1912,Southern Association,waldorf,B01546,Waldrof,,0,Atlanta,,,13,,
+minoraverages/1913Reach,1912,Southern Association,waldorf,P10399,Waldrof,,0,Atlanta,,,,,
+minoraverages/1913Reach,1912,Southern Association,waldorf,F21957,Waldroff,,0,Atlanta,,,,,p13
+minoraverages/1913Reach,1912,Southern Association,walker,B00920,Walker,,0,Montgomery,,,31,,
+minoraverages/1913Reach,1912,Southern Association,walker,F21308,Walker,,0,Montgomery,,,,,of31
+minoraverages/1913Reach,1912,Southern Association,walsh,B00811,Walsh,,0,Mobile,,,128,,
+minoraverages/1913Reach,1912,Southern Association,walsh,F20810,Walsh,,0,Mobile,,,,,ss126
+minoraverages/1913Reach,1912,Southern Association,ware,B00854,Ware,,0,Chattanooga,,,17,,
+minoraverages/1913Reach,1912,Southern Association,ware,F21726,Ware,,0,Chattanooga,,,,,p17
+minoraverages/1913Reach,1912,Southern Association,ware,P10289,Ware,,0,Chattanooga,,,,,
+minoraverages/1913Reach,1912,Southern Association,wares,B00264,Wares,,0,Montgomery,,,129,,
+minoraverages/1913Reach,1912,Southern Association,wares,F20206,Wares,,0,Montgomery,,,,,2b116
+minoraverages/1913Reach,1912,Southern Association,wares,F20784,Wares,,0,Montgomery,,,,,ss15
+minoraverages/1913Reach,1912,Southern Association,wasem,B01663,Wasem,,0,Chattanooga,,,8,,
+minoraverages/1913Reach,1912,Southern Association,wasem,F21577,Wasem,,0,Chattanooga,,,,,of8
+minoraverages/1913Reach,1912,Southern Association,weaver,B00544,Weaver,,0,New Orleans,,,22,,
+minoraverages/1913Reach,1912,Southern Association,weaver,F22020,Weaver,,0,New Orleans,,,,,p21
+minoraverages/1913Reach,1912,Southern Association,weaver,P10145,Weavers,,0,New Orleans,,,,,
+minoraverages/1913Reach,1912,Southern Association,welchonce,B00076,Welchonce,,0,Nashville,,,123,,
+minoraverages/1913Reach,1912,Southern Association,welchonce,F20981,Welchonce,,0,Nashville,,,,,of123
+minoraverages/1913Reach,1912,Southern Association,west,B01313,West,,0,Nashville,,,10,,
+minoraverages/1913Reach,1912,Southern Association,west,F21760,West,,0,Nashville,,,,,p10
+minoraverages/1913Reach,1912,Southern Association,west,P10043,West,,0,Nashville,,,,,
+minoraverages/1913Reach,1912,Southern Association,williams,B00207,Williams,,0,Montgomery,,,57,,
+minoraverages/1913Reach,1912,Southern Association,williams,F21059,Williams,,0,Montgomery,,,,,of57
+minoraverages/1913Reach,1912,Southern Association,wills,F22169,Wills,,0,Memphis,,,,,p1
+minoraverages/1913Reach,1912,Southern Association,wills,P10407,Wills,,0,Memphis,,,,,
+minoraverages/1913Reach,1912,Southern Association,wolf,B01384,Wolf,,0,Atlanta,,,23,,
+minoraverages/1913Reach,1912,Southern Association,wolf,F20924,Wolf,,0,Atlanta,,,,,ss3
+minoraverages/1913Reach,1912,Southern Association,wolf,F21609,Wolf,,0,Atlanta,,,,,of9
+minoraverages/1913Reach,1912,Southern Association,yantz,B00491,Yantz,,0,Birmingham,,,91,,
+minoraverages/1913Reach,1912,Southern Association,yantz,F22525,Yantz,,0,Birmingham,,,,,c86
+minoraverages/1913Reach,1912,Southern Association,young,B00397,Young,,0,Nashville,,,126,,
+minoraverages/1913Reach,1912,Southern Association,young,F21117,Young,,0,Nashville,,,,,of126
