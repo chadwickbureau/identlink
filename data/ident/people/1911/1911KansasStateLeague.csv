@@ -1,282 +1,370 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-boxscores/1911/1911-THN,1911,Kansas State League,abbott,P7432593,Abbott,,,Lyons,19110511,19110607,22,0,"1b21,2b1,3b1"
-boxscores/1911/1911-THN,1911,Kansas State League,acock,P3702020,Acock,,,Hutchinson,19110511,19110607,25,0,2b25
+boxscores/1911/1911-THN,1911,Kansas State League,abbott,P7432593,Abbott,,,Lyons,19110511,19110614,29,0,"1b28,2b1,3b1"
+boxscores/1911/1911-THN,1911,Kansas State League,acock,P3702020,Acock,,,Hutchinson,19110511,19110611,29,0,2b29
 boxscores/1911/1911-EKR,1911,Kansas State League,allen,P1516415,Allen,,,Newton,19110606,19110606,1,0,c1
-boxscores/1911/1911-THN,1911,Kansas State League,allen,P3906919,Allen,,,Newton,19110511,19110607,22,0,"c18,1b4"
-boxscores/1911/1911-THN,1911,Kansas State League,annis,P7351811,Annis,,,El Dorado,19110511,19110606,19,0,"2b9,ss10"
+boxscores/1911/1911-THN,1911,Kansas State League,allen,P3906919,Allen,,,Newton,19110511,19110614,28,0,"c24,1b4"
+boxscores/1911/1911-TWB,1911,Kansas State League,allen,P7057770,Allen,,,Newton,19110611,19110611,1,0,c1
+boxscores/1911/1911-THN,1911,Kansas State League,annis,P7351811,Annis,,,El Dorado,19110511,19110611,22,0,"2b9,ss13"
 boxscores/1911/1911-THN,1911,Kansas State League,armstrong,P3174968,Armstrong,,,Newton,19110511,19110521,4,0,1b4
 boxscores/1911/1911-EKR,1911,Kansas State League,bashang,P2467780,Bashand,,,Newton,19110606,19110606,1,0,ss1
-boxscores/1911/1911-THN,1911,Kansas State League,bashang,P1581359,Bashang,,,Newton,19110605,19110607,2,0,ss2
+boxscores/1911/1911-THN,1911,Kansas State League,bashang,P1581359,Bashang,,,Newton,19110605,19110614,6,0,ss5
 boxscores/1911/1911-THN,1911,Kansas State League,bashang,P2166420,Bashange,,,Newton,19110603,19110604,2,0,ss2
+boxscores/1911/1911-TWB,1911,Kansas State League,bashang,P6560384,Bashong,,,Newton,19110611,19110611,1,0,ss1
 boxscores/1911/1911-THN,1911,Kansas State League,bechtold,P4438627,Bechtel,,,Great Bend,19110527,19110527,1,0,3b1
-boxscores/1911/1911-THN,1911,Kansas State League,bechtold,P2135857,Bechtold,,,Great Bend,19110514,19110607,19,0,"3b1,of18,lf18"
+boxscores/1911/1911-THN,1911,Kansas State League,bechtold,P2135857,Bechtold,,,Great Bend,19110514,19110614,26,0,"3b1,of25,lf25"
 boxscores/1911/1911-TWJ,1911,Kansas State League,bechtold,P3417436,Bechtold,,,Great Bend,19110511,19110511,1,0,"of1,lf1"
 boxscores/1911/1911-THN,1911,Kansas State League,bechtold,P5938100,Becktold,,,Great Bend,19110513,19110515,2,0,"of2,lf2"
 boxscores/1911/1911-THN,1911,Kansas State League,bechtold,P8923061,Becktole,,,Great Bend,19110512,19110512,1,0,"of1,lf1"
 boxscores/1911/1911-THN,1911,Kansas State League,benson,P6439899,Benson,,,Larned,19110601,19110607,5,0,"of5,rf5"
 boxscores/1911/1911-EKR,1911,Kansas State League,berte,P5264448,Berte,,,Larned,19110606,19110606,1,0,ss1
-boxscores/1911/1911-THN,1911,Kansas State League,berte,P7654952,Berte,,,Larned,19110511,19110607,19,0,ss18
-boxscores/1911/1911-THN,1911,Kansas State League,block,P6527214,Block,,,Hutchinson,19110511,19110607,25,0,"of25,lf5,cf21"
+boxscores/1911/1911-MDR,1911,Kansas State League,berte,P6615105,Berte,,,Larned,19110610,19110610,1,0,ss1
+boxscores/1911/1911-THN,1911,Kansas State League,berte,P7654952,Berte,,,Larned,19110511,19110614,24,0,ss23
+boxscores/1911/1911-THN,1911,Kansas State League,bashang,P9611063,Bishang,,,Newton,19110609,19110609,1,0,ss1
+boxscores/1911/1911-THN,1911,Kansas State League,block,P6527214,Block,,,Hutchinson,19110511,19110614,32,0,"of32,lf5,cf28"
 boxscores/1911/1911-THN,1911,Kansas State League,boley@ump,P8377229,Boley,,,#umpire,19110523,19110523,,,
-boxscores/1911/1911-THN,1911,Kansas State League,boley,P9671953,Boley,,,Larned,19110519,19110604,7,4,"p4,of2,cf1,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,boley,P9671953,Boley,,,Larned,19110519,19110613,10,7,"p7,of2,cf1,rf1"
 boxscores/1911/1911-THN,1911,Kansas State League,boley,P4937324,Boly,,,Larned,19110512,19110516,2,2,p2
 boxscores/1911/1911-THN,1911,Kansas State League,bumb,P0596876,Bomb,,,Great Bend,19110514,19110514,1,0,1b1
 boxscores/1911/1911-THN,1911,Kansas State League,boone,P2408534,Boone,,,Wellington,19110512,19110517,4,4,p4
-boxscores/1911/1911-THN,1911,Kansas State League,brannon,P3328952,Brannon,,,El Dorado,19110511,19110607,22,0,"3b21,of1,rf1"
-boxscores/1911/1911-THN,1911,Kansas State League,brown-lyo,P6952573,Brown,,,Lyons,19110603,19110604,2,2,p2
+boxscores/1911/1911-THN,1911,Kansas State League,brannon,P3328952,Brannon,,,El Dorado,19110511,19110614,26,0,"3b25,of1,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,brown-lyo,P6952573,Brown,,,Lyons,19110603,19110614,5,5,p5
 boxscores/1911/1911-THN,1911,Kansas State League,brown-hut,P8817099,Brown,,,Hutchinson,19110527,19110527,1,1,p1
-boxscores/1911/1911-THN,1911,Kansas State League,bumb,P4332050,Bumb,,,Great Bend,19110512,19110607,22,0,"c1,1b22"
+boxscores/1911/1911-THN,1911,Kansas State League,bumb,P4332050,Bumb,,,Great Bend,19110512,19110614,29,0,"c1,1b29"
 boxscores/1911/1911-TWJ,1911,Kansas State League,bumb,P1199549,Bumb,,,Great Bend,19110511,19110511,1,0,1b1
 boxscores/1911/1911-EKR,1911,Kansas State League,burson,P0219911,Burson,,,Larned,19110606,19110606,1,0,"of1,rf1"
+boxscores/1911/1911-MDR,1911,Kansas State League,burson,P4791592,Burson,,,Larned,19110610,19110610,1,0,c1
+boxscores/1911/1911-THN,1911,Kansas State League,burson,P9106543,Burson,,,Larned,19110609,19110609,1,0,c1
 boxscores/1911/1911-EKR,1911,Kansas State League,campbell,P3508238,Campbell,,,Larned,19110606,19110606,1,0,3b1
-boxscores/1911/1911-THN,1911,Kansas State League,campbell,P1050486,Campbell,,,Larned,19110517,19110607,15,0,"2b1,3b14"
-boxscores/1911/1911-THN,1911,Kansas State League,campfield,P6154196,Campfield,,,McPherson,19110511,19110607,20,0,c20
+boxscores/1911/1911-MDR,1911,Kansas State League,campbell,P2068847,Campbell,,,Larned,19110610,19110610,1,0,3b1
+boxscores/1911/1911-THN,1911,Kansas State League,campbell,P1050486,Campbell,,,Larned,19110517,19110614,20,0,"2b1,3b19"
+boxscores/1911/1911-MDR,1911,Kansas State League,campfield,P1849677,Campfield,,,McPherson,19110610,19110610,1,0,c1
+boxscores/1911/1911-THN,1911,Kansas State League,campfield,P6154196,Campfield,,,McPherson,19110511,19110614,26,0,c26
 boxscores/1911/1911-TWJ,1911,Kansas State League,campfield,P7435775,Campfield,,,McPherson,19110606,19110606,1,0,c1
-boxscores/1911/1911-THN,1911,Kansas State League,carver-lar,P4157817,Carver,,,Larned,19110605,19110605,1,1,p1
+boxscores/1911/1911-THN,1911,Kansas State League,carver-lar,P4157817,Carver,,,Larned,19110605,19110612,2,2,p2
 boxscores/1911/1911-THN,1911,Kansas State League,carver-lyo,P8560984,Carver,,,Lyons,19110602,19110602,1,1,p1
 boxscores/1911/1911-EKR,1911,Kansas State League,casey,P4942115,Casey,,,Larned,19110606,19110606,1,1,p1
 boxscores/1911/1911-THN,1911,Kansas State League,casey,P7332619,Casey,,,Larned,19110603,19110603,1,1,p1
 boxscores/1911/1911-THN,1911,Kansas State League,chadwick,P8629236,Chadwick,,,Larned,19110511,19110601,16,0,"of16,lf15,cf1"
-boxscores/1911/1911-THN,1911,Kansas State League,chase,P5947801,Chase,,,Lyons,19110511,19110607,22,0,"2b21,3b1"
+boxscores/1911/1911-THN,1911,Kansas State League,chase,P5947801,Chase,,,Lyons,19110511,19110614,29,0,"2b28,3b1"
 boxscores/1911/1911-THN,1911,Kansas State League,chelgood,P0977147,Chelgood,,,Larned,19110514,19110514,1,0,
-boxscores/1911/1911-THN,1911,Kansas State League,chelgood,P9573863,Chellgood,,,Larned,19110512,19110605,16,0,2b16
+boxscores/1911/1911-MDR,1911,Kansas State League,chelgood,P3179776,Chellgood,,,Larned,19110610,19110610,1,0,2b1
+boxscores/1911/1911-THN,1911,Kansas State League,chelgood,P9573863,Chellgood,,,Larned,19110512,19110614,21,0,2b21
 boxscores/1911/1911-EKR,1911,Kansas State League,chelgood,P3885538,Chellgord,,,Larned,19110606,19110606,1,0,2b1
 boxscores/1911/1911-THN,1911,Kansas State League,chelgood,P2063979,Chillgood,,,Larned,19110511,19110511,1,0,2b1
 boxscores/1911/1911-THN,1911,Kansas State League,cisser,P6176012,Cisser,,,Wellington,19110604,19110604,1,0,c1
 boxscores/1911/1911-THN,1911,Kansas State League,clark-ly,P9045218,Clark,,,Lyons,19110511,19110602,17,0,"of17,lf17"
 boxscores/1911/1911-THN,1911,Kansas State League,clarke-wel,P1791285,Clarke,,,Wellington,19110515,19110515,1,0,"of1,cf1"
 boxscores/1911/1911-THN,1911,Kansas State League,clawson,P6127014,Clawson,,,McPherson,19110524,19110524,1,0,
-boxscores/1911/1911-THN,1911,Kansas State League,clawson,P7407410,Clawson,,,Newton,19110526,19110607,4,4,p4
-boxscores/1911/1911-THN,1911,Kansas State League,conners,P7514575,Conner,,,El Dorado,19110517,19110606,5,5,p5
+boxscores/1911/1911-THN,1911,Kansas State League,clawson,P7407410,Clawson,,,Newton,19110526,19110614,7,6,p6
+boxscores/1911/1911-THN,1911,Kansas State League,conners,P7514575,Conner,,,El Dorado,19110517,19110611,7,6,"p6,of1,cf1"
 boxscores/1911/1911-THN,1911,Kansas State League,conners,P9471874,Conners,,,El Dorado,19110513,19110515,2,1,"p1,of1,rf1"
 boxscores/1911/1911-THN,1911,Kansas State League,conners,P7364185,Connor,,,El Dorado,19110602,19110605,2,2,"p2,of1,cf1"
 boxscores/1911/1911-EKR,1911,Kansas State League,craig@ump,P4722672,Craig,,,#umpire,19110606,19110606,,,
 boxscores/1911/1911-THN,1911,Kansas State League,crittenden-lar,P7236998,Crittenden,,,Larned,19110511,19110531,16,0,"c15,2b1,of1,rf1"
-boxscores/1911/1911-THN,1911,Kansas State League,dail,P9448495,Dail,,,Lyons,19110604,19110607,4,0,"of4,lf4"
+boxscores/1911/1911-MDR,1911,Kansas State League,curry,P2790052,Curry,,,Larned,19110610,19110610,1,1,p1
+boxscores/1911/1911-THN,1911,Kansas State League,dail,P9448495,Dail,,,Lyons,19110604,19110614,11,0,"of11,lf8,rf3"
 boxscores/1911/1911-THN,1911,Kansas State League,dillon,P1082392,Dillon,,,Larned,19110603,19110603,1,1,p1
 boxscores/1911/1911-THN,1911,Kansas State League,doane,P1805809,Doane,,,El Dorado,19110515,19110515,1,0,c1
-boxscores/1911/1911-THN,1911,Kansas State League,donovan,P5774296,Donovan,,,Hutchinson,19110511,19110607,16,6,"p6,1b1,of4,lf1,cf1,rf2"
-boxscores/1911/1911-THN,1911,Kansas State League,dressen,P9006633,Dressen,,,Lyons,19110511,19110607,14,6,"p6,1b3,of5,lf1,rf4"
+boxscores/1911/1911-THN,1911,Kansas State League,donovan,P5774296,Donovan,,,Hutchinson,19110511,19110614,22,7,"p7,1b1,of8,lf4,cf1,rf3"
+boxscores/1911/1911-THN,1911,Kansas State League,dressen,P9006633,Dressen,,,Lyons,19110511,19110614,21,6,"p6,1b3,of12,lf4,rf8"
+boxscores/1911/1911-THN,1911,Kansas State League,eckstein,P0932105,Echstein,,,Larned,19110608,19110608,1,0,"of1,cf1"
 boxscores/1911/1911-EKR,1911,Kansas State League,eckstein,P8900996,Eckstein,,,Larned,19110606,19110606,1,0,"of1,cf1"
+boxscores/1911/1911-MDR,1911,Kansas State League,eckstein,P7461605,Eckstein,,,Larned,19110610,19110610,1,0,"of1,cf1"
 boxscores/1911/1911-THN,1911,Kansas State League,eckstein,P2899586,Eckstein,,,Great Bend,19110526,19110527,2,0,"of2,lf1,rf1"
-boxscores/1911/1911-THN,1911,Kansas State League,eckstein,P6443244,Eckstein,,,Larned,19110607,19110607,1,0,"of1,cf1"
+boxscores/1911/1911-THN,1911,Kansas State League,eckstein,P6443244,Eckstein,,,Larned,19110607,19110612,3,0,"of3,cf3"
 boxscores/1911/1911-THN,1911,Kansas State League,eckstein,P9644273,Eckstein,,,Newton,19110514,19110521,5,0,"of5,rf5"
-boxscores/1911/1911-THN,1911,Kansas State League,edmiston,P5620390,Edmiston,,,Hutchinson,19110511,19110607,25,0,"3b6,ss18"
-boxscores/1911/1911-THN,1911,Kansas State League,errett,P2048839,Ehret,,,McPherson,19110520,19110520,1,1,p1
+boxscores/1911/1911-THN,1911,Kansas State League,eckstein,P1946636,Eckstine,,,Larned,19110613,19110614,2,0,"of2,cf1,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,edmiston,P7959156,Edminston,,,Hutchinson,19110610,19110611,2,0,3b2
+boxscores/1911/1911-THN,1911,Kansas State League,edmiston,P5620390,Edmiston,,,Hutchinson,19110511,19110614,30,0,"3b10,ss19"
+boxscores/1911/1911-THN,1911,Kansas State League,errett,P2048839,Ehret,,,McPherson,19110520,19110609,2,2,p2
 boxscores/1911/1911-THN,1911,Kansas State League,eckstein,P2940837,Eksten,,,Newton,19110515,19110515,1,0,"of1,rf1"
 boxscores/1911/1911-THN,1911,Kansas State League,eckstein,P0255715,Eppstein,,,Newton,19110512,19110516,3,0,"of3,rf3"
 boxscores/1911/1911-TWJ,1911,Kansas State League,errett,P5141628,Erret,,,McPherson,19110606,19110606,1,1,p1
-boxscores/1911/1911-THN,1911,Kansas State League,errett,P3654405,Errett,,,McPherson,19110513,19110607,6,6,p6
+boxscores/1911/1911-THN,1911,Kansas State League,errett,P3654405,Errett,,,McPherson,19110513,19110614,8,8,p8
 boxscores/1911/1911-THN,1911,Kansas State League,fairview,P4217043,Fairview,,,Larned,19110515,19110515,1,1,p1
 boxscores/1911/1911-THN,1911,Kansas State League,falkenberg,P7942333,Falkenberg,,,Great Bend,19110519,19110606,15,0,"2b13,3b1,of2,lf1,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,falskin,P1418034,Falskin,,,El Dorado,19110614,19110614,1,0,"of1,lf1"
 boxscores/1911/1911-THN,1911,Kansas State League,ferrell,P3699779,Farrell,,,Newton,19110531,19110602,3,0,1b3
-boxscores/1911/1911-THN,1911,Kansas State League,fedor,P2169500,Fedor,,,Great Bend,19110512,19110607,23,0,ss23
+boxscores/1911/1911-THN,1911,Kansas State League,fedor,P2169500,Fedor,,,Great Bend,19110512,19110614,30,0,ss30
 boxscores/1911/1911-TWJ,1911,Kansas State League,fedor,P8796967,Fedor,,,Great Bend,19110511,19110511,1,0,ss1
 boxscores/1911/1911-THN,1911,Kansas State League,ferrell,P7714631,Ferrell,,,Newton,19110512,19110527,8,0,1b8
 boxscores/1911/1911-THN,1911,Kansas State League,finney,P6714828,Finney,,,Wellington,19110520,19110526,7,0,"of7,lf6,rf1"
 boxscores/1911/1911-THN,1911,Kansas State League,flood,P2462191,Flood,,,Newton,19110512,19110519,6,0,c6
+boxscores/1911/1911-THN,1911,Kansas State League,folsom,P8561468,Folsom,,,Great Bend,19110609,19110610,2,0,"of2,cf1,rf1"
 boxscores/1911/1911-THN,1911,Kansas State League,fox-gb,P0995321,Fox,,,Great Bend,19110514,19110518,2,2,p2
 boxscores/1911/1911-THN,1911,Kansas State League,fox-hut,P9376624,Fox,,,Hutchinson,19110520,19110520,1,1,p1
 boxscores/1911/1911-EKR,1911,Kansas State League,freeman,P8681521,Freeman,,,Newton,19110606,19110606,1,0,"of1,rf1"
-boxscores/1911/1911-THN,1911,Kansas State League,freeman,P1940377,Freeman,,,Newton,19110511,19110607,21,0,"c1,2b2,3b15,of5,rf5"
+boxscores/1911/1911-THN,1911,Kansas State League,freeman,P1940377,Freeman,,,Newton,19110511,19110614,26,0,"c1,2b2,3b15,of10,cf1,rf9"
+boxscores/1911/1911-TWB,1911,Kansas State League,freeman,P3217116,Freeman,,,Newton,19110611,19110611,1,0,"of1,rf1"
 boxscores/1911/1911-THN,1911,Kansas State League,freese,P2059248,Freese,,,Larned,19110601,19110607,6,0,"c4,of2,lf2"
 boxscores/1911/1911-EKR,1911,Kansas State League,freese,P3986287,Freeze,,,Larned,19110606,19110606,1,0,c1
-boxscores/1911/1911-THN,1911,Kansas State League,fuller,P6325076,Fuller,,,El Dorado,19110511,19110607,23,0,"of23,lf16,rf7"
+boxscores/1911/1911-THN,1911,Kansas State League,fuller,P6325076,Fuller,,,El Dorado,19110511,19110610,26,0,"of26,lf19,rf7"
 boxscores/1911/1911-THN,1911,Kansas State League,gardner,P6100626,Gardner,,,McPherson,19110511,19110517,7,0,"of7,lf3,rf4"
-boxscores/1911/1911-THN,1911,Kansas State League,garrett-ed,P0054115,Garrett,,,El Dorado,19110511,19110607,18,0,"c15,of3,cf1,rf3"
+boxscores/1911/1911-THN,1911,Kansas State League,garrett-ed,P0054115,Garrett,,,El Dorado,19110511,19110613,24,0,"c19,of6,lf1,cf1,rf5"
 boxscores/1911/1911-THN,1911,Kansas State League,garrett-hut,P3135516,Garrett,,,Hutchinson,19110524,19110527,4,0,"of4,lf4"
-boxscores/1911/1911-THN,1911,Kansas State League,giffin,P0391894,Giffin,,,Wellington,19110512,19110607,19,7,"p7,1b8,2b2,of2,lf1,cf1"
+boxscores/1911/1911-THN,1911,Kansas State League,giffin,P0391894,Giffin,,,Wellington,19110512,19110612,22,8,"p8,1b10,2b2,of2,lf1,cf1"
+boxscores/1911/1911-THN,1911,Kansas State League,giffin,P6960508,Giffin,,,Wichita,19110613,19110614,2,1,"p1,of1,rf1"
+boxscores/1911/1911-TWB,1911,Kansas State League,giffin,P8237247,Giffin,,,Wichita,19110611,19110611,1,0,1b1
 boxscores/1911/1911-TWJ,1911,Kansas State League,giffin,P9098305,Giffin,,,Wellington,19110511,19110606,2,2,"p2,1b1"
-boxscores/1911/1911-THN,1911,Kansas State League,green,P6451872,Green,,,McPherson,19110511,19110607,19,0,"c1,1b18"
+boxscores/1911/1911-MDR,1911,Kansas State League,green,P7470233,Green,,,McPherson,19110610,19110610,1,0,1b1
+boxscores/1911/1911-THN,1911,Kansas State League,green,P6451872,Green,,,McPherson,19110511,19110614,24,0,"c1,1b23"
 boxscores/1911/1911-TWJ,1911,Kansas State League,green,P3319371,Green,,,McPherson,19110606,19110606,1,0,1b1
 boxscores/1911/1911-THN,1911,Kansas State League,groom@ump,P0876470,Groom,,,#umpire,19110524,19110524,,,
 boxscores/1911/1911-THN,1911,Kansas State League,groom@ump,P3424553,Grooms,,,#umpire,19110511,19110522,,,
 boxscores/1911/1911-THN,1911,Kansas State League,gruesser,P7836630,Gruessen,,,El Dorado,19110531,19110531,1,0,c1
-boxscores/1911/1911-THN,1911,Kansas State League,gruesser,P2743898,Gruesser,,,El Dorado,19110603,19110603,1,0,c1
+boxscores/1911/1911-THN,1911,Kansas State League,gruesser,P2743898,Gruesser,,,El Dorado,19110603,19110608,2,0,c2
 boxscores/1911/1911-THN,1911,Kansas State League,gruesser,P4010325,Grusser,,,El Dorado,19110601,19110601,1,0,c1
 boxscores/1911/1911-THN,1911,Kansas State League,hale,P3715908,Hale,,,El Dorado,19110515,19110515,1,0,c1
-boxscores/1911/1911-THN,1911,Kansas State League,hamlin@ump,P7237931,Hamlin,,,#umpire,19110511,19110607,,,
-boxscores/1911/1911-THN,1911,Kansas State League,harmon,P0645384,Harmon,,,Wellington,19110512,19110605,18,8,"p8,3b1,of11,lf5,cf6"
+boxscores/1911/1911-THN,1911,Kansas State League,hamlin@ump,P7237931,Hamlin,,,#umpire,19110511,19110614,,,
+boxscores/1911/1911-THN,1911,Kansas State League,harmon,P0645384,Harmon,,,Wellington,19110512,19110612,20,10,"p10,3b1,of12,lf5,cf6,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,harmon,P3047278,Harmon,,,Wichita,19110614,19110614,1,0,"of1,rf1"
+boxscores/1911/1911-TWB,1911,Kansas State League,harmon,P4324017,Harmon,,,Wichita,19110611,19110611,1,1,p1
 boxscores/1911/1911-TWJ,1911,Kansas State League,harmon,P9351795,Harmon,,,Wellington,19110511,19110606,2,0,"of1,cf1"
 boxscores/1911/1911-THN,1911,Kansas State League,harmon,P9380129,Harmony,,,Wellington,19110518,19110518,1,0,"of1,lf1"
+boxscores/1911/1911-THN,1911,Kansas State League,harp,P6451406,Harp,,,Wellington,19110612,19110612,1,1,"p1,of1,rf1"
+boxscores/1911/1911-TWB,1911,Kansas State League,harp,P5017335,Harp,,,Wichita,19110611,19110611,1,0,"of1,rf1"
 boxscores/1911/1911-THN,1911,Kansas State League,harriott,P4953391,Harriot,,,Larned,19110514,19110514,1,0,
 boxscores/1911/1911-EKR,1911,Kansas State League,harriott,P7607771,Harriott,,,Larned,19110606,19110606,1,0,1b1
-boxscores/1911/1911-THN,1911,Kansas State League,harriott,P5150019,Harriott,,,Larned,19110511,19110607,20,0,1b20
-boxscores/1911/1911-THN,1911,Kansas State League,harris,P2204760,Harris,,,McPherson,19110514,19110607,17,0,2b16
+boxscores/1911/1911-MDR,1911,Kansas State League,harriott,P6168380,Harriott,,,Larned,19110610,19110610,1,0,1b1
+boxscores/1911/1911-THN,1911,Kansas State League,harriott,P5150019,Harriott,,,Larned,19110511,19110614,25,0,1b25
+boxscores/1911/1911-MDR,1911,Kansas State League,harris,P5810673,Harris,,,McPherson,19110610,19110610,1,0,2b1
+boxscores/1911/1911-THN,1911,Kansas State League,harris,P2204760,Harris,,,McPherson,19110514,19110614,21,0,2b20
 boxscores/1911/1911-TWJ,1911,Kansas State League,harris,P8832227,Harris,,,McPherson,19110606,19110606,1,0,2b1
-boxscores/1911/1911-THN,1911,Kansas State League,harrison,P2276146,Harrison,,,Great Bend,19110515,19110607,6,0,"c4,2b2"
-boxscores/1911/1911-THN,1911,Kansas State League,held,P2099712,Held,,,Wellington,19110512,19110607,20,0,"c1,of20,lf1,cf2,rf17"
+boxscores/1911/1911-THN,1911,Kansas State League,harrison,P2276146,Harrison,,,Great Bend,19110515,19110614,13,0,"c7,2b4,of2,cf1,rf2"
+boxscores/1911/1911-THN,1911,Kansas State League,held,P2099712,Held,,,Wellington,19110512,19110609,22,0,"c1,of22,lf1,cf3,rf18"
 boxscores/1911/1911-TWJ,1911,Kansas State League,held,P8967211,Held,,,Wellington,19110511,19110606,2,0,"of2,rf2"
 boxscores/1911/1911-EKR,1911,Kansas State League,hobson,P3703351,Hobson,,,Larned,19110606,19110606,1,0,2b1
-boxscores/1911/1911-THN,1911,Kansas State League,hobson,P2589983,Hobson,,,Larned,19110511,19110607,11,0,"2b3,3b4,ss2,of2,cf1,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,hobson,P2589983,Hobson,,,Larned,19110511,19110613,15,0,"c1,2b3,3b4,ss2,of5,lf3,cf1,rf1"
 boxscores/1911/1911-THN,1911,Kansas State League,hobson,P4702342,Hodeson,,,Larned,19110515,19110515,1,0,3b1
-boxscores/1911/1911-THN,1911,Kansas State League,house,P7646887,House,,,Hutchinson,19110513,19110606,7,7,p7
-boxscores/1911/1911-THN,1911,Kansas State League,hubbart,P4705035,Hubbart,,,Hutchinson,19110602,19110607,6,0,ss6
-boxscores/1911/1911-THN,1911,Kansas State League,huseman,P7284999,Huseman,,,Larned,19110607,19110607,1,1,p1
-boxscores/1911/1911-THN,1911,Kansas State League,irving,P4041751,Irvin,,,McPherson,19110515,19110604,10,0,"of10,lf6,rf4"
+boxscores/1911/1911-THN,1911,Kansas State League,house,P7646887,House,,,Hutchinson,19110513,19110612,9,9,p9
+boxscores/1911/1911-THN,1911,Kansas State League,hubbart,P7962377,Hubart,,,Hutchinson,19110610,19110610,1,0,ss1
+boxscores/1911/1911-THN,1911,Kansas State League,hubbart,P4705035,Hubbart,,,Hutchinson,19110602,19110614,11,0,ss11
+boxscores/1911/1911-THN,1911,Kansas State League,huseman,P7284999,Huseman,,,Larned,19110607,19110611,2,2,p2
+boxscores/1911/1911-THN,1911,Kansas State League,irving,P4041751,Irvin,,,McPherson,19110515,19110614,12,0,"of12,lf8,rf4"
 boxscores/1911/1911-THN,1911,Kansas State League,irving,P5537310,Irving,,,McPherson,19110511,19110522,5,0,"of5,lf2,rf3"
+boxscores/1911/1911-MDR,1911,Kansas State League,irving,P2969878,Irvon,,,McPherson,19110610,19110610,1,0,"of1,lf1"
 boxscores/1911/1911-TWJ,1911,Kansas State League,irving,P9412963,Irwin,,,McPherson,19110606,19110606,1,0,"of1,lf1"
 boxscores/1911/1911-THN,1911,Kansas State League,jarvis,P6798843,Jarvis,,,Great Bend,19110512,19110516,4,0,"2b2,of2,rf2"
 boxscores/1911/1911-TWJ,1911,Kansas State League,jarvis,P5505254,Jarvis,,,Great Bend,19110511,19110511,1,0,2b1
 boxscores/1911/1911-THN,1911,Kansas State League,jewell,P5356306,Jewel,,,Newton,19110523,19110525,2,0,ss2
 boxscores/1911/1911-EKR,1911,Kansas State League,jewell,P8180726,Jewell,,,Newton,19110606,19110606,1,0,3b1
-boxscores/1911/1911-THN,1911,Kansas State League,jewell,P7067358,Jewell,,,Newton,19110514,19110607,19,0,"c1,3b7,ss12"
+boxscores/1911/1911-THN,1911,Kansas State League,jewell,P7067358,Jewell,,,Newton,19110514,19110614,24,0,"c1,3b12,ss12"
+boxscores/1911/1911-TWB,1911,Kansas State League,jewell,P1045441,Jewell,,,Newton,19110611,19110611,1,0,3b1
+boxscores/1911/1911-THN,1911,Kansas State League,johnson,P0446857,Johnson,,,El Dorado,19110608,19110614,6,1,"p1,of5,lf1,rf4"
 boxscores/1911/1911-THN,1911,Kansas State League,johnston,P3868214,Johnston,,,Hutchinson,19110520,19110523,4,0,3b4
-boxscores/1911/1911-THN,1911,Kansas State League,jones-mcp,P1382158,Jones,,,McPherson,19110511,19110607,22,0,"of22,cf21,rf1"
+boxscores/1911/1911-MDR,1911,Kansas State League,jones-mcp,P2400519,Jones,,,McPherson,19110610,19110610,1,0,"of1,cf1"
+boxscores/1911/1911-THN,1911,Kansas State League,jones-mcp,P1382158,Jones,,,McPherson,19110511,19110614,27,0,"of27,cf26,rf1"
 boxscores/1911/1911-THN,1911,Kansas State League,jones-lyo,P3658356,Jones,,,Lyons,19110511,19110518,8,0,"of8,rf8"
 boxscores/1911/1911-TWJ,1911,Kansas State League,jones-mcp,P8249657,Jones,,,McPherson,19110606,19110606,1,0,"of1,cf1"
 boxscores/1911/1911-THN,1911,Kansas State League,jewell,P6688779,Juel,,,Newton,19110513,19110513,1,0,3b1
 boxscores/1911/1911-THN,1911,Kansas State League,kafora,P2350910,Kafora,,,El Dorado,19110517,19110521,5,0,c5
-boxscores/1911/1911-THN,1911,Kansas State League,keller,P5360325,Kellar,,,El Dorado,19110512,19110526,6,5,"p5,of1,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,karl,P6141933,Karl,,,Wellington,19110610,19110610,1,1,p1
+boxscores/1911/1911-THN,1911,Kansas State League,keller,P5360325,Kellar,,,El Dorado,19110512,19110613,9,8,"p8,of1,rf1"
 boxscores/1911/1911-THN,1911,Kansas State League,keller,P7300169,Keller,,,El Dorado,19110518,19110605,4,4,p4
+boxscores/1911/1911-THN,1911,Kansas State League,kelly,P6922326,Kelly,,,Lyons,19110610,19110612,3,2,p2
 boxscores/1911/1911-THN,1911,Kansas State League,kempton,P5396776,Kempton,,,El Dorado,19110523,19110523,1,0,"of1,rf1"
-boxscores/1911/1911-THN,1911,Kansas State League,kennedy,P5299896,Kennedy,,,El Dorado,19110511,19110607,24,0,1b24
+boxscores/1911/1911-THN,1911,Kansas State League,kennedy,P5299896,Kennedy,,,El Dorado,19110511,19110614,31,0,1b31
 boxscores/1911/1911-THN,1911,Kansas State League,kerr-wel,P6541815,Kerr,,,Wellington,19110513,19110607,12,7,"p7,of4,lf3,cf1"
-boxscores/1911/1911-THN,1911,Kansas State League,killilay,P7972741,Killilay,,,El Dorado,19110511,19110607,24,0,"3b1,of24,cf24"
-boxscores/1911/1911-THN,1911,Kansas State League,kinkelin,P4805441,Kinkelin,,,Great Bend,19110514,19110607,20,0,"of20,lf1,cf20"
+boxscores/1911/1911-THN,1911,Kansas State League,killilay,P7972741,Killilay,,,El Dorado,19110511,19110614,31,0,"3b1,of31,cf31"
+boxscores/1911/1911-THN,1911,Kansas State League,kinkelin,P4805441,Kinkelin,,,Great Bend,19110514,19110614,25,0,"of25,lf1,cf25"
 boxscores/1911/1911-TWJ,1911,Kansas State League,kinkelin,P3706286,Kinkley,,,Great Bend,19110511,19110511,1,0,"of1,cf1"
 boxscores/1911/1911-THN,1911,Kansas State League,kinkelin,P7575004,Kinklin,,,Great Bend,19110512,19110513,2,0,"of2,cf2"
 boxscores/1911/1911-THN,1911,Kansas State League,kinkelin,P2395969,Kinkline,,,Great Bend,19110527,19110527,1,0,"of1,cf1"
-boxscores/1911/1911-THN,1911,Kansas State League,knapp@ump,P4463436,Knapp,,,#umpire,19110512,19110607,,,
+boxscores/1911/1911-THN,1911,Kansas State League,knapp@ump,P4463436,Knapp,,,#umpire,19110512,19110614,,,
+boxscores/1911/1911-TWB,1911,Kansas State League,knapp@ump,P7614287,Knapp,,,#umpire,19110611,19110611,,,
 boxscores/1911/1911-TWJ,1911,Kansas State League,knapp@ump,P3919063,Knapp,,,#umpire,19110511,19110606,,,
-boxscores/1911/1911-THN,1911,Kansas State League,kuhagen,P9304527,Kuhagen,,,Great Bend,19110512,19110604,6,6,p6
+boxscores/1911/1911-THN,1911,Kansas State League,kuhagen@ump,P6137141,Kuhagen,,,#umpire,19110608,19110608,,,
+boxscores/1911/1911-THN,1911,Kansas State League,kuhagen,P9304527,Kuhagen,,,Great Bend,19110512,19110612,7,7,p7
 boxscores/1911/1911-TWJ,1911,Kansas State League,kuhagen,P6616090,Kuhagen,,,Great Bend,19110511,19110511,1,1,p1
-boxscores/1911/1911-THN,1911,Kansas State League,laflambois,P2576093,Laflambois,,,Hutchinson,19110511,19110607,25,3,"p3,3b7,of16,lf11,cf5,rf1"
-boxscores/1911/1911-THN,1911,Kansas State League,lagenour,P3754814,Lagenaur,,,McPherson,19110525,19110604,4,3,p3
+boxscores/1911/1911-THN,1911,Kansas State League,laflambois,P2576093,Laflambois,,,Hutchinson,19110511,19110614,32,3,"p3,2b3,3b9,of20,lf15,cf5,rf1"
+boxscores/1911/1911-MDR,1911,Kansas State League,lagenour,P0594071,Lagenaur,,,McPherson,19110610,19110610,1,0,"of1,lf1"
+boxscores/1911/1911-THN,1911,Kansas State League,lagenour,P3754814,Lagenaur,,,McPherson,19110525,19110612,6,5,p5
 boxscores/1911/1911-THN,1911,Kansas State League,lagenour,P2806796,Lagenour,,,McPherson,19110514,19110522,4,3,p3
 boxscores/1911/1911-TWJ,1911,Kansas State League,lagenour,P0118359,Lagenour,,,McPherson,19110606,19110606,1,1,p1
 boxscores/1911/1911-THN,1911,Kansas State League,lagerman,P5845442,Lagerman,,,Newton,19110512,19110512,1,0,
-boxscores/1911/1911-THN,1911,Kansas State League,lancaster,P2693504,Lancaster,,,Hutchinson,19110511,19110607,15,9,"p9,1b1,of1,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,lancaster,P2693504,Lancaster,,,Hutchinson,19110511,19110613,18,11,"p11,1b2,of1,rf1"
 boxscores/1911/1911-THN,1911,Kansas State League,langley@ump,P8078974,Langley,,,#umpire,19110523,19110523,,,
-boxscores/1911/1911-THN,1911,Kansas State League,langley,P8719041,Langley,,,Lyons,19110511,19110607,10,7,"p7,1b1,of2,lf1,rf1"
-boxscores/1911/1911-THN,1911,Kansas State League,leach-lyo,P1132882,Leach,,,Lyons,19110518,19110606,6,6,p6
+boxscores/1911/1911-THN,1911,Kansas State League,langley,P8719041,Langley,,,Lyons,19110511,19110613,12,9,"p9,1b1,of2,lf1,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,leach-lyo,P1132882,Leach,,,Lyons,19110518,19110612,8,8,p8
 boxscores/1911/1911-THN,1911,Kansas State League,leach-hut,P4393536,Leach,,,Hutchinson,19110511,19110520,6,0,"of6,lf1,rf5"
 boxscores/1911/1911-THN,1911,Kansas State League,leach-hut,P7718089,Leach [Hut],,,Hutchinson,19110512,19110515,2,0,"of2,rf2"
 boxscores/1911/1911-THN,1911,Kansas State League,leach-lyo,P3801406,Leach [Lyo],,,Lyons,19110512,19110515,2,2,p2
-boxscores/1911/1911-THN,1911,Kansas State League,leonard,P7179471,Leonard,,,El Dorado,19110511,19110607,24,0,"2b16,of8,lf4,rf4"
-boxscores/1911/1911-THN,1911,Kansas State League,lewis,P0565895,Lewis,,,Wellington,19110516,19110605,11,4,"p4,1b4,of2,lf1,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,leonard,P7179471,Leonard,,,El Dorado,19110511,19110614,30,0,"2b21,of10,lf5,rf5"
+boxscores/1911/1911-THN,1911,Kansas State League,lewis,P0565895,Lewis,,,Wellington,19110516,19110612,14,5,"p5,1b5,of3,lf1,rf2"
+boxscores/1911/1911-THN,1911,Kansas State League,lewis,P1234381,Lewis,,,Wichita,19110613,19110614,2,1,p1
+boxscores/1911/1911-TWB,1911,Kansas State League,lewis,P5212464,Lewis,,,Wichita,19110611,19110611,1,0,"of1,rf1"
 boxscores/1911/1911-TWJ,1911,Kansas State League,lewis,P7193362,Lewis,,,Wellington,19110606,19110606,1,1,p1
-boxscores/1911/1911-THN,1911,Kansas State League,lisy,P0353956,Lisy,,,Hutchinson,19110512,19110607,23,0,"3b7,of16,lf5,rf11"
+boxscores/1911/1911-THN,1911,Kansas State League,liston,P4737827,Liston,,,El Dorado,19110612,19110612,1,1,p1
+boxscores/1911/1911-THN,1911,Kansas State League,lisy,P0353956,Lisy,,,Hutchinson,19110512,19110614,30,0,"1b1,3b8,of22,lf6,rf17"
 boxscores/1911/1911-THN,1911,Kansas State League,litter,P1495658,Litter,,,Larned,19110517,19110517,1,1,p1
 boxscores/1911/1911-THN,1911,Kansas State League,litter,P3434102,Littler,,,Larned,19110519,19110601,5,1,"p1,ss1,of3,lf1,rf2"
 boxscores/1911/1911-EKR,1911,Kansas State League,love,P5302916,Love,,,Larned,19110606,19110606,1,0,"of1,lf1"
-boxscores/1911/1911-THN,1911,Kansas State League,love,P3860204,Love,,,Larned,19110511,19110607,17,0,"c3,of15,lf3,cf1,rf11"
+boxscores/1911/1911-THN,1911,Kansas State League,love,P3860204,Love,,,Larned,19110511,19110608,18,0,"c4,of15,lf3,cf1,rf11"
 boxscores/1911/1911-THN,1911,Kansas State League,luhrson,P8337244,Luherson,,,Great Bend,19110512,19110512,1,1,p1
-boxscores/1911/1911-THN,1911,Kansas State League,luhrson,P1264983,Luhrson,,,Great Bend,19110515,19110607,9,7,"p7,2b1,of1,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,luhrson,P1264983,Luhrson,,,Great Bend,19110515,19110612,12,10,"p10,2b1,of1,rf1"
 boxscores/1911/1911-TWJ,1911,Kansas State League,luhrson,P8576546,Luhrson,,,Great Bend,19110511,19110511,1,1,p1
 boxscores/1911/1911-THN,1911,Kansas State League,lyons-mcp,P5010742,Lyans,,,McPherson,19110607,19110607,1,0,"of1,rf1"
-boxscores/1911/1911-THN,1911,Kansas State League,lyons-gb,P1972193,Lyons,,,Great Bend,19110512,19110607,19,0,3b19
+boxscores/1911/1911-MDR,1911,Kansas State League,lyons-mcp,P0854538,Lyon,,,McPherson,19110610,19110610,1,0,"of1,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,lyons-gb,P1972193,Lyons,,,Great Bend,19110512,19110608,20,0,3b20
 boxscores/1911/1911-THN,1911,Kansas State League,lyons-ed,P3606175,Lyons,,,El Dorado,19110521,19110524,4,0,"of4,lf4"
-boxscores/1911/1911-THN,1911,Kansas State League,lyons-mcp,P4062724,Lyons,,,McPherson,19110605,19110605,1,0,"of1,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,lyons-mcp,P4062724,Lyons,,,McPherson,19110605,19110614,6,0,"2b1,of5,rf5"
 boxscores/1911/1911-TWJ,1911,Kansas State League,lyons-gb,P8599660,Lyons,,,Great Bend,19110511,19110511,1,0,3b1
+boxscores/1911/1911-THN,1911,Kansas State League,lyons-gb,P2710274,Lyons [GB],,,Great Bend,19110609,19110614,6,0,"2b5,3b1"
 boxscores/1911/1911-THN,1911,Kansas State League,lyons-new,P8069490,Lyons [New],,,Newton,19110603,19110604,2,0,1b2
-boxscores/1911/1911-THN,1911,Kansas State League,maple,P8688955,Maple,,,Great Bend,19110522,19110607,7,7,p7
-boxscores/1911/1911-THN,1911,Kansas State League,matney,P4860676,Matney,,,Larned,19110511,19110527,15,0,"of14,cf14"
-boxscores/1911/1911-THN,1911,Kansas State League,maxey,P5813913,Maxey,,,Lyons,19110520,19110605,11,0,"c1,of11,rf11"
-boxscores/1911/1911-THN,1911,Kansas State League,mcauley,P5494170,McAuley,,,El Dorado,19110511,19110607,21,1,"p1,3b2,ss13,of6,rf6"
-boxscores/1911/1911-THN,1911,Kansas State League,mccray,P1666549,McCray,,,Larned,19110518,19110604,6,6,p6
-boxscores/1911/1911-THN,1911,Kansas State League,mcdonald,P3464037,McDonald,,,Wellington,19110602,19110602,1,1,p1
+boxscores/1911/1911-THN,1911,Kansas State League,maple,P8688955,Maple,,,Great Bend,19110522,19110614,11,10,"p10,of1,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,markle,P8672070,Markle,,,El Dorado,19110612,19110614,3,0,"c2,of2,lf2"
+boxscores/1911/1911-THN,1911,Kansas State League,matney,P4860676,Matney,,,Larned,19110511,19110614,16,0,"of15,cf15"
+boxscores/1911/1911-THN,1911,Kansas State League,maxey,P5813913,Maxey,,,Lyons,19110520,19110614,17,0,"c6,of11,rf11"
+boxscores/1911/1911-THN,1911,Kansas State League,maxey,P1427337,Maxie,,,Lyons,19110611,19110611,1,0,c1
+boxscores/1911/1911-THN,1911,Kansas State League,mcauley,P5494170,McAuley,,,El Dorado,19110511,19110614,28,1,"p1,2b3,3b2,ss18,of6,rf6"
+boxscores/1911/1911-THN,1911,Kansas State League,mccray,P1666549,McCray,,,Larned,19110518,19110613,8,8,p8
+boxscores/1911/1911-THN,1911,Kansas State League,mcdonald,P3464037,McDonald,,,Wellington,19110602,19110612,2,2,p2
+boxscores/1911/1911-THN,1911,Kansas State League,mcnamara,P0888854,McNamara,,,Larned,19110611,19110611,1,0,c1
 boxscores/1911/1911-THN,1911,Kansas State League,meade,P1276154,Mead,,,Wellington,19110531,19110602,2,0,c2
-boxscores/1911/1911-THN,1911,Kansas State League,meade,P0496319,Meade,,,Wellington,19110513,19110607,17,0,"c6,1b3,of8,cf7,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,meade,P0496319,Meade,,,Wellington,19110513,19110610,20,0,"c9,1b3,of8,cf7,rf1"
 boxscores/1911/1911-TWJ,1911,Kansas State League,meade,P7123786,Meade,,,Wellington,19110606,19110606,1,0,c1
-boxscores/1911/1911-THN,1911,Kansas State League,miller,P7640968,Miller,,,Hutchinson,19110511,19110607,19,0,"c14,1b4,of2,cf1,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,miller,P7640968,Miller,,,Hutchinson,19110511,19110614,24,0,"c18,1b4,of3,cf1,rf2"
 boxscores/1911/1911-THN,1911,Kansas State League,misse,P7327409,Miss,,,Lyons,19110603,19110603,1,0,ss1
-boxscores/1911/1911-THN,1911,Kansas State League,misse,P7715574,Misse,,,Lyons,19110511,19110607,21,0,ss21
+boxscores/1911/1911-THN,1911,Kansas State League,misse,P7715574,Misse,,,Lyons,19110511,19110614,28,0,ss28
 boxscores/1911/1911-THN,1911,Kansas State League,moneymaker-wel,P3865691,Moneymaker,,,Wellington,19110512,19110522,10,0,c9
-boxscores/1911/1911-THN,1911,Kansas State League,moneymaker-hut,P5245819,Moneymaker,,,Hutchinson,19110525,19110607,7,0,c6
+boxscores/1911/1911-THN,1911,Kansas State League,moneymaker-hut,P5245819,Moneymaker,,,Hutchinson,19110525,19110613,12,0,"c10,of1,rf1"
 boxscores/1911/1911-TWJ,1911,Kansas State League,moneymaker-wel,P9505222,Moneymaker,,,Wellington,19110511,19110511,1,0,"of1,lf1"
 boxscores/1911/1911-THN,1911,Kansas State League,morgan-ed,P2972398,Morgan,,,El Dorado,19110522,19110522,1,0,c1
 boxscores/1911/1911-TWJ,1911,Kansas State League,morgan-wel,P6765138,Morgan,,,Wellington,19110511,19110511,1,0,c1
-boxscores/1911/1911-THN,1911,Kansas State League,murphy,P5112820,Murphy,,,McPherson,19110511,19110607,22,0,ss22
+boxscores/1911/1911-MDR,1911,Kansas State League,murphy,P8718733,Murphy,,,McPherson,19110610,19110610,1,0,ss1
+boxscores/1911/1911-THN,1911,Kansas State League,murphy,P5112820,Murphy,,,McPherson,19110511,19110614,27,0,ss27
 boxscores/1911/1911-TWJ,1911,Kansas State League,murphy,P1740287,Murphy,,,McPherson,19110606,19110606,1,0,ss1
-boxscores/1911/1911-THN,1911,Kansas State League,nelson,P3920772,Nelson,,,Lyons,19110511,19110607,22,0,c22
-boxscores/1911/1911-THN,1911,Kansas State League,osborne,P0284514,Osborn,,,McPherson,19110604,19110604,1,0,
-boxscores/1911/1911-THN,1911,Kansas State League,osborne,P4094855,Osborne,,,McPherson,19110511,19110607,16,5,"p5,of7,lf3,cf2,rf2"
+boxscores/1911/1911-THN,1911,Kansas State League,nelson,P3920772,Nelson,,,Lyons,19110511,19110610,25,0,c25
+boxscores/1911/1911-THN,1911,Kansas State League,oehler,P8998859,Oehler,,,Great Bend,19110611,19110613,3,0,3b3
+boxscores/1911/1911-THN,1911,Kansas State League,oehler,P1170731,Oheler,,,Great Bend,19110610,19110610,1,0,3b1
+boxscores/1911/1911-THN,1911,Kansas State League,oehler,P5149702,Ohler,,,Great Bend,19110614,19110614,1,0,3b1
+boxscores/1911/1911-THN,1911,Kansas State League,osborne,P0284514,Osborn,,,McPherson,19110604,19110611,2,0,"of1,lf1"
+boxscores/1911/1911-MDR,1911,Kansas State League,osborne,P3089984,Osborne,,,McPherson,19110610,19110610,1,1,p1
+boxscores/1911/1911-THN,1911,Kansas State League,osborne,P4094855,Osborne,,,McPherson,19110511,19110613,18,6,"p6,of8,lf4,cf2,rf2"
 boxscores/1911/1911-TWJ,1911,Kansas State League,osborne,P2801266,Osborne,,,McPherson,19110606,19110606,1,1,"p1,of1,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,osborne,P5087191,Osbourn,,,McPherson,19110612,19110612,1,0,"of1,lf1"
 boxscores/1911/1911-THN,1911,Kansas State League,pavey,P3400776,Pavey,,,Wellington,19110602,19110602,1,0,2b1
+boxscores/1911/1911-THN,1911,Kansas State League,peckham,P4837826,Peckham,,,Wichita,19110613,19110614,2,0,c2
 boxscores/1911/1911-THN,1911,Kansas State League,peckham,P8868648,Peckham,,,McPherson,19110526,19110526,1,0,c1
-boxscores/1911/1911-THN,1911,Kansas State League,peoples,P9909851,Peoples,,,Wellington,19110512,19110607,20,0,"2b18,ss3"
+boxscores/1911/1911-THN,1911,Kansas State League,peoples,P4183969,Peoples,,,Wichita,19110613,19110614,2,0,2b2
+boxscores/1911/1911-THN,1911,Kansas State League,peoples,P9909851,Peoples,,,Wellington,19110512,19110612,23,0,"2b21,ss3,of1,lf1"
+boxscores/1911/1911-TWB,1911,Kansas State League,peoples,P6316356,Peoples,,,Wichita,19110611,19110611,1,0,2b1
 boxscores/1911/1911-TWJ,1911,Kansas State League,peoples,P7221414,Peoples,,,Wellington,19110511,19110606,2,0,2b2
 boxscores/1911/1911-THN,1911,Kansas State League,phillips,P3515144,Phillips,,,Hutchinson,19110512,19110513,2,0,"of1,rf1"
 boxscores/1911/1911-THN,1911,Kansas State League,pinkerton,P9846493,Pinkerton,,,Wellington,19110516,19110526,10,0,"c4,1b6"
+boxscores/1911/1911-TWB,1911,Kansas State League,pittman,P3757703,Pitman,,,Newton,19110611,19110611,1,0,"of1,lf1"
 boxscores/1911/1911-EKR,1911,Kansas State League,pittman,P9050064,Pittman,,,Newton,19110606,19110606,1,0,"of1,lf1"
-boxscores/1911/1911-THN,1911,Kansas State League,pittman,P2308920,Pittman,,,Newton,19110511,19110607,24,0,"of24,lf24"
-boxscores/1911/1911-THN,1911,Kansas State League,plank,P8820608,Plank,,,El Dorado,19110606,19110607,2,0,"2b1,3b1"
+boxscores/1911/1911-THN,1911,Kansas State League,pittman,P2308920,Pittman,,,Newton,19110511,19110614,29,0,"of29,lf29"
+boxscores/1911/1911-THN,1911,Kansas State League,plank,P8820608,Plank,,,El Dorado,19110606,19110610,5,0,"2b1,3b4"
 boxscores/1911/1911-THN,1911,Kansas State League,pouron,P5684487,Poren,,,Wellington,19110513,19110513,1,0,"of1,cf1"
 boxscores/1911/1911-THN,1911,Kansas State League,porrey,P3706864,Porrey,,,McPherson,19110518,19110519,2,0,"of2,rf2"
 boxscores/1911/1911-THN,1911,Kansas State League,pouron,P1062918,Pouron,,,Wellington,19110512,19110512,1,0,"of1,lf1"
 boxscores/1911/1911-TWJ,1911,Kansas State League,pouron,P9769329,Pouron,,,Wellington,19110511,19110511,1,0,"of1,cf1"
 boxscores/1911/1911-EKR,1911,Kansas State League,powell,P9052614,Powell,,,Newton,19110606,19110606,1,0,1b1
-boxscores/1911/1911-THN,1911,Kansas State League,powell,P7939246,Powell,,,Newton,19110605,19110607,2,0,1b2
+boxscores/1911/1911-THN,1911,Kansas State League,powell,P7939246,Powell,,,Newton,19110605,19110614,7,0,1b6
+boxscores/1911/1911-TWB,1911,Kansas State League,powell,P1917329,Powell,,,Newton,19110611,19110611,1,0,1b1
 boxscores/1911/1911-THN,1911,Kansas State League,price-wel,P7840022,Price,,,Wellington,19110531,19110605,4,1,"p1,of3,lf2,rf1"
 boxscores/1911/1911-THN,1911,Kansas State League,price-hut,P9220150,Price,,,Hutchinson,19110522,19110525,2,2,p2
-boxscores/1911/1911-THN,1911,Kansas State League,quigley,P2302741,Quigley,,,Lyons,19110511,19110607,21,0,"2b1,3b20"
-boxscores/1911/1911-THN,1911,Kansas State League,ray,P6381342,Ray,,,#umpire,19110513,19110607,,,
+boxscores/1911/1911-THN,1911,Kansas State League,quigley,P2302741,Quigley,,,Lyons,19110511,19110614,28,0,"2b1,3b27"
+boxscores/1911/1911-MDR,1911,Kansas State League,ray@ump,P4608119,Ray,,,#umpire,19110610,19110610,,,
+boxscores/1911/1911-THN,1911,Kansas State League,ray@ump,P6381342,Ray,,,#umpire,19110513,19110613,,,
+boxscores/1911/1911-THN,1911,Kansas State League,rector,P2208536,Rector,,,Wichita,19110613,19110614,2,0,"1b1,3b1"
 boxscores/1911/1911-THN,1911,Kansas State League,reinbeck,P9825522,Reinbeck,,,McPherson,19110512,19110512,1,0,3b1
 boxscores/1911/1911-EKR,1911,Kansas State League,rettiger,P3128436,Rettiger,,,Larned,19110606,19110606,1,1,p1
 boxscores/1911/1911-THN,1911,Kansas State League,reinbeck,P3504851,Rhubeck,,,McPherson,19110511,19110511,1,0,3b1
-boxscores/1911/1911-THN,1911,Kansas State League,routt,P3757037,Routt,,,McPherson,19110512,19110607,8,8,p8
-boxscores/1911/1911-THN,1911,Kansas State League,reinbeck,P2843705,Runbeck,,,McPherson,19110513,19110604,18,0,"3b13,of5,rf5"
+boxscores/1911/1911-THN,1911,Kansas State League,routt,P3757037,Routt,,,McPherson,19110512,19110611,9,9,p9
+boxscores/1911/1911-THN,1911,Kansas State League,reinbeck,P2843705,Runbeck,,,McPherson,19110513,19110608,19,0,"3b13,of6,rf6"
 boxscores/1911/1911-TWJ,1911,Kansas State League,reinbeck,P1550116,Runbeck,,,McPherson,19110606,19110606,1,0,"of1,rf1"
-boxscores/1911/1911-THN,1911,Kansas State League,salm,P0378263,Salm,,,El Dorado,19110511,19110605,6,6,p6
+boxscores/1911/1911-THN,1911,Kansas State League,saxe,P8764112,Sacks,,,Newton,19110610,19110610,1,1,p1
+boxscores/1911/1911-THN,1911,Kansas State League,salm,P0378263,Salm,,,El Dorado,19110511,19110610,7,7,p7
 boxscores/1911/1911-EKR,1911,Kansas State League,saxe,P9693284,Saxe,,,Newton,19110606,19110606,1,1,p1
-boxscores/1911/1911-THN,1911,Kansas State League,saxe,P8250572,Saxe,,,Newton,19110514,19110605,11,7,"p7,of2,rf2"
+boxscores/1911/1911-THN,1911,Kansas State League,saxe,P8250572,Saxe,,,Newton,19110514,19110608,12,8,"p8,of2,rf2"
+boxscores/1911/1911-TWB,1911,Kansas State League,saxe,P5012719,Saxe,,,Newton,19110611,19110611,1,1,p1
 boxscores/1911/1911-THN,1911,Kansas State League,scarry,P0660930,Scanny,,,Larned,19110517,19110517,1,1,p1
+boxscores/1911/1911-THN,1911,Kansas State League,scarbright,P9640063,Scarbright,,,Larned,19110612,19110612,1,0,"of1,rf1"
 boxscores/1911/1911-THN,1911,Kansas State League,scarry,P9326538,Scarry,,,Larned,19110527,19110604,3,2,p2
-boxscores/1911/1911-THN,1911,Kansas State League,schimoski,P4599405,Schimoski,,,Wellington,19110512,19110607,19,0,"3b3,ss14,of2,cf2"
+boxscores/1911/1911-MDR,1911,Kansas State League,schabinger,P3183493,Schabinger,,,Larned,19110610,19110610,1,0,"of1,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,schabinger,P4188364,Schabinger,,,Larned,19110613,19110613,1,0,"of1,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,scarbright,P2861269,Schabright,,,Larned,19110611,19110611,1,0,"of1,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,schabinger,P4455897,Schambinger,,,Larned,19110608,19110608,1,0,"of1,lf1"
+boxscores/1911/1911-TWB,1911,Kansas State League,schimoski,P4860148,Schimnosky,,,Wichita,19110611,19110611,1,0,"of1,cf1"
+boxscores/1911/1911-THN,1911,Kansas State League,schimoski,P4599405,Schimoski,,,Wellington,19110512,19110612,22,0,"3b3,ss14,of5,cf5"
+boxscores/1911/1911-THN,1911,Kansas State League,schimoski,P4698611,Schimoski,,,Wichita,19110613,19110614,2,0,"of2,cf2"
 boxscores/1911/1911-TWJ,1911,Kansas State League,schimoski,P6891512,Schimoski,,,Wellington,19110511,19110606,2,0,"3b1,ss1"
 boxscores/1911/1911-THN,1911,Kansas State League,schimoski,P2358781,Schimosky,,,Wellington,19110513,19110513,1,0,3b1
+boxscores/1911/1911-THN,1911,Kansas State League,scott,P6563120,Scott,,,Wellington,19110612,19110612,1,0,c1
+boxscores/1911/1911-TWB,1911,Kansas State League,scott,P1264889,Scott,,,Wichita,19110611,19110611,1,0,c1
 boxscores/1911/1911-THN,1911,Kansas State League,simcox,P6476598,Simcox,,,Hutchinson,19110511,19110524,9,0,"c7,1b1"
-boxscores/1911/1911-THN,1911,Kansas State League,sizemore,P1168600,Sizemore,,,El Dorado,19110514,19110607,10,8,"p8,of2,rf2"
-boxscores/1911/1911-THN,1911,Kansas State League,smith-wel,P2442984,Smith,,,Wellington,19110512,19110607,19,0,"3b15,ss3,of1,lf1"
-boxscores/1911/1911-THN,1911,Kansas State League,smith-hut,P3823112,Smith,,,Hutchinson,19110526,19110606,3,3,p3
+boxscores/1911/1911-MDR,1911,Kansas State League,singleton,P8803746,Singleton,,,Larned,19110610,19110610,1,0,"of1,lf1"
+boxscores/1911/1911-THN,1911,Kansas State League,singleton,P5197833,Singleton,,,Larned,19110614,19110614,1,0,"of1,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,sizemore,P1168600,Sizemore,,,El Dorado,19110514,19110614,12,10,"p10,of2,rf2"
+boxscores/1911/1911-THN,1911,Kansas State League,smith-wel,P1952078,Smith,,,Wichita,19110613,19110614,2,0,ss2
+boxscores/1911/1911-THN,1911,Kansas State League,smith-wel,P2442984,Smith,,,Wellington,19110512,19110612,22,0,"3b15,ss6,of1,lf1"
+boxscores/1911/1911-THN,1911,Kansas State League,smith-hut,P3823112,Smith,,,Hutchinson,19110526,19110614,5,5,p5
+boxscores/1911/1911-THN,1911,Kansas State League,smith@ump,P5393783,Smith,,,#umpire,19110608,19110608,,,
+boxscores/1911/1911-THN,1911,Kansas State League,smith-ed,P5832527,Smith,,,El Dorado,19110610,19110610,1,0,c1
+boxscores/1911/1911-TWB,1911,Kansas State League,smith-wel,P5930161,Smith,,,Wichita,19110611,19110611,1,0,ss1
 boxscores/1911/1911-TWJ,1911,Kansas State League,smith-wel,P9070451,Smith,,,Wellington,19110511,19110606,2,0,"3b1,ss1"
+boxscores/1911/1911-THN,1911,Kansas State League,smith-ed,P3976464,Smith [ED],,,El Dorado,19110611,19110611,1,0,"of1,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,smith-hut,P2969233,Smith [Hut],,,Hutchinson,19110611,19110611,1,1,p1
 boxscores/1911/1911-THN,1911,Kansas State League,snyder,P2384970,Snyder,,,Lyons,19110513,19110603,5,5,p5
 boxscores/1911/1911-THN,1911,Kansas State League,saxe,P1952858,Soxe,,,Newton,19110511,19110511,1,1,p1
 boxscores/1911/1911-THN,1911,Kansas State League,speaks,P2229807,Speak,,,Newton,19110601,19110601,1,1,p1
-boxscores/1911/1911-THN,1911,Kansas State League,speaks,P3565204,Speake,,,Newton,19110605,19110605,1,1,p1
+boxscores/1911/1911-THN,1911,Kansas State League,speaks,P3565204,Speake,,,Newton,19110605,19110613,3,3,p3
 boxscores/1911/1911-THN,1911,Kansas State League,speaks,P4220578,Speaks,,,Newton,19110513,19110525,5,5,p5
 boxscores/1911/1911-THN,1911,Kansas State League,stephens,P0058605,Stephens,,,Hutchinson,19110511,19110516,2,0,"3b1,of1,rf1"
 boxscores/1911/1911-THN,1911,Kansas State League,stephens,P5398347,Stevens,,,Hutchinson,19110515,19110519,3,0,"3b1,of1,lf1"
 boxscores/1911/1911-EKR,1911,Kansas State League,stilwell,P2562255,Stillwell,,,Newton,19110606,19110606,1,0,2b1
-boxscores/1911/1911-THN,1911,Kansas State League,stilwell,P1456439,Stillwell,,,Newton,19110511,19110607,24,0,2b24
+boxscores/1911/1911-THN,1911,Kansas State League,stilwell,P1456439,Stillwell,,,Newton,19110511,19110614,29,0,"2b28,of1,rf1"
+boxscores/1911/1911-TWB,1911,Kansas State League,stilwell,P9215726,Stilwell,,,Newton,19110611,19110611,1,0,2b1
 boxscores/1911/1911-THN,1911,Kansas State League,suddeth-lar,P5443655,Suddeth,,,Larned,19110514,19110602,6,5,"p5,of1,cf1"
 boxscores/1911/1911-THN,1911,Kansas State League,suddeth-lar,P6501451,Suddith,,,Larned,19110511,19110511,1,1,p1
 boxscores/1911/1911-THN,1911,Kansas State League,synek,P1759932,Syneck,,,McPherson,19110511,19110525,13,0,"1b4,2b5,of5,lf5"
 boxscores/1911/1911-TWJ,1911,Kansas State League,synek,P8387399,Syneck,,,McPherson,19110606,19110606,1,0,3b1
-boxscores/1911/1911-THN,1911,Kansas State League,synek,P2684025,Synek,,,McPherson,19110519,19110607,9,0,"1b1,2b3,3b4,of1,lf1"
+boxscores/1911/1911-MDR,1911,Kansas State League,synek,P3702386,Synek,,,McPherson,19110610,19110610,1,0,3b1
+boxscores/1911/1911-THN,1911,Kansas State League,synek,P2684025,Synek,,,McPherson,19110519,19110614,14,0,"1b1,2b3,3b9,of1,lf1"
 boxscores/1911/1911-THN,1911,Kansas State League,talbott,P7186636,Talbott,,,#umpire,19110511,19110516,,,
 boxscores/1911/1911-THN,1911,Kansas State League,ferrell,P6430037,Terrell,,,Newton,19110522,19110522,1,0,1b1
 boxscores/1911/1911-THN,1911,Kansas State League,tettler,P4399482,Tettler,,,Larned,19110513,19110513,1,1,p1
+boxscores/1911/1911-THN,1911,Kansas State League,titterington,P9394721,Titterington,,,Larned,19110608,19110608,1,0,"of1,rf1"
 boxscores/1911/1911-THN,1911,Kansas State League,tomlin-gb,P2255327,Tomlin,,,Great Bend,19110512,19110519,8,0,"2b6,of2,lf1,rf1"
 boxscores/1911/1911-THN,1911,Kansas State League,tomlin-new,P5567694,Tomlin,,,Newton,19110522,19110602,9,0,"ss1,of8,rf8"
-boxscores/1911/1911-THN,1911,Kansas State League,tomlin-wel,P9256502,Tomlin,,,Wellington,19110607,19110607,1,0,"of1,lf1"
+boxscores/1911/1911-THN,1911,Kansas State League,tomlin-wel,P9256502,Tomlin,,,Wellington,19110607,19110612,4,0,"2b1,of4,lf4"
+boxscores/1911/1911-THN,1911,Kansas State League,tomlin-wel,P9331292,Tomlin,,,Wichita,19110613,19110614,2,0,"of2,lf2"
+boxscores/1911/1911-TWB,1911,Kansas State League,tomlin-wel,P0608031,Tomlin,,,Wichita,19110611,19110611,1,0,"of1,lf1"
 boxscores/1911/1911-TWJ,1911,Kansas State League,tomlin-gb,P0961738,Tomlin,,,Great Bend,19110511,19110511,1,0,"of1,rf1"
 boxscores/1911/1911-TWJ,1911,Kansas State League,tomlin-wel,P7962913,Tomlin,,,Wellington,19110606,19110606,1,0,"of1,lf1"
 boxscores/1911/1911-THN,1911,Kansas State League,eckstein,P8951027,Uppstein,,,Newton,19110511,19110511,1,0,"of1,rf1"
-boxscores/1911/1911-THN,1911,Kansas State League,wacob,P6493144,Wacob,,,Great Bend,19110512,19110607,21,0,c21
+boxscores/1911/1911-THN,1911,Kansas State League,vance,P2317209,Vance,,,Great Bend,19110608,19110608,1,0,"of1,lf1"
+boxscores/1911/1911-THN,1911,Kansas State League,wacob,P6493144,Wacob,,,Great Bend,19110512,19110612,25,0,c25
 boxscores/1911/1911-TWJ,1911,Kansas State League,wacob,P3120611,Wacob,,,Great Bend,19110511,19110511,1,0,c1
-boxscores/1911/1911-THN,1911,Kansas State League,weaver@ump,P0015841,Weaver,Buck,,#umpire,19110531,19110531,,,
-boxscores/1911/1911-THN,1911,Kansas State League,weaver@ump,P1521308,Weaver,,,#umpire,19110601,19110607,,,
+boxscores/1911/1911-THN,1911,Kansas State League,walsh,P5297941,Walsh,,,Larned,19110614,19110614,1,1,p1
+boxscores/1911/1911-THN,1911,Kansas State League,weaver@ump,P0015841,Weaver,Buck,,#umpire,19110531,19110614,,,
+boxscores/1911/1911-THN,1911,Kansas State League,weaver@ump,P1521308,Weaver,,,#umpire,19110601,19110611,,,
 boxscores/1911/1911-THN,1911,Kansas State League,weber,P7767864,Weber,,,Wellington,19110512,19110512,1,0,1b1
 boxscores/1911/1911-TWJ,1911,Kansas State League,weber,P4395331,Weber,,,Wellington,19110511,19110511,1,0,1b1
+boxscores/1911/1911-THN,1911,Kansas State League,weise,P8557139,Weise,,,Larned,19110612,19110614,3,0,c3
 boxscores/1911/1911-THN,1911,Kansas State League,weise,P9317260,Weise,,,McPherson,19110531,19110604,3,0,"c1,of2,lf2"
-boxscores/1911/1911-THN,1911,Kansas State League,weisner,P8442098,Weisner,,,Lyons,19110511,19110607,22,0,"of22,cf22"
-boxscores/1911/1911-THN,1911,Kansas State League,wells,P6504106,Wells,,,Wellington,19110607,19110607,1,0,3b1
-boxscores/1911/1911-THN,1911,Kansas State League,wheatley,P0626703,Wheatley,,,Great Bend,19110513,19110607,12,10,"p10,of2,cf1,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,weisner,P8442098,Weisner,,,Lyons,19110511,19110614,29,0,"of29,cf29"
+boxscores/1911/1911-THN,1911,Kansas State League,wells,P6504106,Wells,,,Wellington,19110607,19110612,4,0,3b4
+boxscores/1911/1911-THN,1911,Kansas State League,wells,P9573584,Wells,,,Wichita,19110613,19110614,2,0,3b2
+boxscores/1911/1911-TWB,1911,Kansas State League,wells,P3551667,Wells,,,Wichita,19110611,19110611,1,0,3b1
+boxscores/1911/1911-THN,1911,Kansas State League,wheatley,P0626703,Wheatley,,,Great Bend,19110513,19110613,18,12,"p12,of6,cf4,rf4"
 boxscores/1911/1911-EKR,1911,Kansas State League,white,P4950068,White,,,Newton,19110606,19110606,1,0,"of1,cf1"
-boxscores/1911/1911-THN,1911,Kansas State League,white,P7340572,White,,,Newton,19110511,19110607,24,0,"of24,cf24"
+boxscores/1911/1911-THN,1911,Kansas State League,white,P7340572,White,,,Newton,19110511,19110614,29,0,"of29,cf28,rf1"
 boxscores/1911/1911-THN,1911,Kansas State League,weise,P7792524,Wiese,,,McPherson,19110601,19110602,2,0,"of2,lf2"
 boxscores/1911/1911-THN,1911,Kansas State League,williams.l,P4888567,Williams,L.,,Newton,19110515,19110518,2,2,p2
 boxscores/1911/1911-THN,1911,Kansas State League,williams.r,P6598013,Williams,R.,,Newton,19110518,19110518,1,0,3b1
-boxscores/1911/1911-THN,1911,Kansas State League,williams,P9416893,Williams,,,Newton,19110511,19110604,8,3,"p3,ss4,of1,rf1"
+boxscores/1911/1911-THN,1911,Kansas State League,williams,P9416893,Williams,,,Newton,19110511,19110612,11,6,"p6,ss4,of1,rf1"
 boxscores/1911/1911-THN,1911,Kansas State League,williams.l,P7939525,Williams [p],,,Newton,19110512,19110521,2,2,p2
 boxscores/1911/1911-THN,1911,Kansas State League,williams.r,P1461453,Williams [ph],,,Newton,19110521,19110521,1,0,
 boxscores/1911/1911-THN,1911,Kansas State League,williams.r,P5676283,Williams [ss],,,Newton,19110512,19110512,1,0,ss1
-boxscores/1911/1911-THN,1911,Kansas State League,wilson,P4961384,Wilson,,,Great Bend,19110514,19110605,19,0,"1b1,of19,rf19"
+boxscores/1911/1911-THN,1911,Kansas State League,wilson,P4961384,Wilson,,,Great Bend,19110514,19110614,21,0,"1b1,of21,rf21"
 boxscores/1911/1911-THN,1911,Kansas State League,wing@ump,P3994631,Wing,,,#umpire,19110511,19110603,,,
-boxscores/1911/1911-THN,1911,Kansas State League,zink,P3654335,Zink,,,Hutchinson,19110511,19110607,24,1,"p1,1b22"
+boxscores/1911/1911-TWB,1911,Kansas State League,wright,P0089779,Wright,,,Newton,19110611,19110611,1,0,"of1,cf1"
+boxscores/1911/1911-THN,1911,Kansas State League,zink,P3654335,Zink,,,Hutchinson,19110511,19110614,31,1,"p1,1b29"
 boxscores/1911/1911-THN,1911,Kansas State League,harris,P6095352,harris,,,McPherson,19110516,19110516,1,0,2b1
 boxscores/1911/1911-THN,1911,Kansas State League,,P7287062,~Craig,,,#umpire,19110526,19110526,,,
 boxscores/1911/1911-THN,1911,Kansas State League,,P7774768,~Harrison,,,Great Bend,19110606,19110606,1,0,
-boxscores/1911/1911-THN,1911,Kansas State League,,P6768594,,,,#umpire,19110512,19110603,,,
+boxscores/1911/1911-THN,1911,Kansas State League,,P9740117,~Salm,,,El Dorado,19110609,19110609,1,0,
+boxscores/1911/1911-THN,1911,Kansas State League,,P6768594,,,,#umpire,19110512,19110609,,,
