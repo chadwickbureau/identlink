@@ -1,12 +1,325 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1912,Virginia League,,M91524,Busch,Henry,,Petersburg,,,,,
-minoraverages/emilbb,1912,Virginia League,,M91543,Castro,Lou,,Portsmouth,,,,,
-minoraverages/emilbb,1912,Virginia League,,M91581,Gaston,"William ""Dave""",,Danville,,,,,
-minoraverages/emilbb,1912,Virginia League,,M91535,Griffin,Steve,,Richmond,,,,,
-minoraverages/emilbb,1912,Virginia League,,M91562,Grim,John J.,,Newport News,,,,,
-minoraverages/emilbb,1912,Virginia League,,M91570,Hooker,Buck,,Newport News,,,,,
-minoraverages/emilbb,1912,Virginia League,,M91607,Kelly,"James ""King""",,Lynchburg,,,,,
-minoraverages/emilbb,1912,Virginia League,,M91610,MacKinnon,Hugh,,Lynchburg,,,,,
-minoraverages/emilbb,1912,Virginia League,,M91519,Pressley,"William ""Buck""",,Roanoke,,,,,
-minoraverages/emilbb,1912,Virginia League,,M91556,Shaffer,Charles,,Norfolk,,,,,
-minoraverages/emilbb,1912,Virginia League,,M91597,Stockdale,Otis,,Lynchburg,,,,,
+minoraverages/1913Reach,1912,Virginia League,allen,P10312,Allen,,0,Lynchburg,,,,6,
+minoraverages/1913Reach,1912,Virginia League,anthony,B00695,Anthony,,0,Petersburg,,,102,,
+minoraverages/1913Reach,1912,Virginia League,anthony,F20997,Anthony,,0,Petersburg,,,,,of101
+minoraverages/1913Reach,1912,Virginia League,auly,B00973,Auly,,0,Newport News,,,38,,
+minoraverages/1913Reach,1912,Virginia League,auly,F20745,Auly,,0,Newport News,,,,,2b20
+minoraverages/1913Reach,1912,Virginia League,ayers,B01119,Ayers,,0,Richmond,,,44,,
+minoraverages/1913Reach,1912,Virginia League,ayers,F20287,Ayers,,0,Richmond,,,,,p44
+minoraverages/1913Reach,1912,Virginia League,ayers,P10062,Ayers,,0,Richmond,,,,45,
+minoraverages/1913Reach,1912,Virginia League,barnett,B00149,Barnett,,0,Petersburg,,,134,,
+minoraverages/1913Reach,1912,Virginia League,barnett,F20594,Barnett,,0,Petersburg,,,,,1b134
+minoraverages/1913Reach,1912,Virginia League,bates,B00174,Bates,,0,Newport News,,,127,,
+minoraverages/1913Reach,1912,Virginia League,bates,F20864,Bates,,0,Newport News,,,,,3b127
+minoraverages/1913Reach,1912,Virginia League,becker,B00037,Becker,,0,Portsmouth,,,113,,
+minoraverages/1913Reach,1912,Virginia League,becker,F21021,Becker,,0,Portsmouth,,,,,of113
+minoraverages/1913Reach,1912,Virginia League,bigbie,B00760,Bigbie,,0,Norfolk,,,133,,
+minoraverages/1913Reach,1912,Virginia League,bigbie,F20612,Bigbie,,0,Norfolk,,,,,1b132
+minoraverages/1913Reach,1912,Virginia League,blackstone,B00450,Blackstone,,0,Petersburg,,,39,,
+minoraverages/1913Reach,1912,Virginia League,blackstone,F20970,Blackstone,,0,Petersburg,,,,,of39
+minoraverages/1913Reach,1912,Virginia League,bowen,B00623,Bowen,,0,Newport News,,,66,,
+minoraverages/1913Reach,1912,Virginia League,bowen,F20560,Bowen,,0,Newport News,,,,,ss57
+minoraverages/1913Reach,1912,Virginia League,braun,B00196,Braun,,0,Norfolk,,,70,,
+minoraverages/1913Reach,1912,Virginia League,braun,F20334,Braun,,0,Norfolk,,,,,c67
+minoraverages/1913Reach,1912,Virginia League,brennegan,B00840,Brennegan,,0,Petersburg,,,49,,
+minoraverages/1913Reach,1912,Virginia League,brennegan,F20463,Brennegan,,0,Petersburg,,,,,c41
+minoraverages/1913Reach,1912,Virginia League,britton,B00609,Britton,,0,Portsmouth,,,40,,
+minoraverages/1913Reach,1912,Virginia League,britton,F21076,Britton,,0,Portsmouth,,,,,of27
+minoraverages/1913Reach,1912,Virginia League,britton,P10121,Britton,,0,Portsmouth,,,,10,
+minoraverages/1913Reach,1912,Virginia League,brooks,B00210,Brooks,,0,Petersburg,,,29,,
+minoraverages/1913Reach,1912,Virginia League,brooks,F20233,Brooks,,0,Petersburg,,,,,p19
+minoraverages/1913Reach,1912,Virginia League,brooks,P10070,Brooks,,0,Petersburg,,,,19,
+minoraverages/1913Reach,1912,Virginia League,brown,B00822,Brown,,0,Newport News,,,54,,
+minoraverages/1913Reach,1912,Virginia League,brown,F20211,Brown,,0,Newport News,,,,,p43
+minoraverages/1913Reach,1912,Virginia League,brown,P10304,Brown,,0,Newport News,,,,35,
+minoraverages/1913Reach,1912,Virginia League,bruckmiller,B01288,Bruckmiller,,0,Newport News,,,34,,
+minoraverages/1913Reach,1912,Virginia League,bruckmiller,F20298,Bruckmiller,,0,Newport News,,,,,p32
+minoraverages/1913Reach,1912,Virginia League,bruckmiller,P10486,Bruckmiller,,0,Newport News,,,,27,
+minoraverages/1913Reach,1912,Virginia League,burgwald,B00961,Burgwald,,0,Norfolk,,,13,,
+minoraverages/1913Reach,1912,Virginia League,burgwald,F20807,Burgwald,,0,Norfolk,,,,,2b13
+minoraverages/1913Reach,1912,Virginia League,burke,B00117,Burke,,0,Richmond,,,134,,
+minoraverages/1913Reach,1912,Virginia League,burke,F20981,Burke,,0,Richmond,,,,,of134
+minoraverages/1913Reach,1912,Virginia League,burleson,B00667,Burleson,,0,Roanoke,,,32,,
+minoraverages/1913Reach,1912,Virginia League,burleson,F20067,Burleson,,0,Roanoke,,,,,p32
+minoraverages/1913Reach,1912,Virginia League,burleson,P10407,Burleson,,0,Roanoke,,,,33,
+minoraverages/1913Reach,1912,Virginia League,busch,B00158,Busch,,0,Petersburg,,,129,,
+minoraverages/1913Reach,1912,Virginia League,busch,F20496,Busch,,0,Petersburg,,,,,ss129
+minoraverages/emilbb,1912,Virginia League,busch,M91632,Busch,Henry,,Petersburg,,,,,
+minoraverages/1913Reach,1912,Virginia League,bussey,B01041,Bussey,,0,Richmond,,,38,,
+minoraverages/1913Reach,1912,Virginia League,bussey,P10043,Bussey,,0,Richmond,,,,37,
+minoraverages/1913Reach,1912,Virginia League,bussey,F20046,Bussy,,0,Richmond,,,,,p37
+minoraverages/1913Reach,1912,Virginia League,carney,B00680,Carney,,0,Newport News,,,47,,
+minoraverages/1913Reach,1912,Virginia League,carney,F20784,Carney,,0,Newport News,,,,,2b11
+minoraverages/1913Reach,1912,Virginia League,carolan,B00936,Carolan,,0,Petersburg,,,10,,
+minoraverages/1913Reach,1912,Virginia League,carolan,F21207,Carolan,,0,Petersburg,,,,,of10
+minoraverages/1913Reach,1912,Virginia League,carter,B00255,Carter,,0,Richmond,,,68,,
+minoraverages/1913Reach,1912,Virginia League,carter,F21084,Carter,,0,Richmond,,,,,of68
+minoraverages/1913Reach,1912,Virginia League,castro,B00515,Castro,,0,Portsmouth,,,130,,
+minoraverages/1913Reach,1912,Virginia League,castro,F20759,Castro,,0,Portsmouth,,,,,2b130
+minoraverages/emilbb,1912,Virginia League,castro,M91655,Castro,Lou,,Portsmouth,,,,,
+minoraverages/1913Reach,1912,Virginia League,clark,P10429,Clark,,0,Portsmouth,,,,3,
+minoraverages/1913Reach,1912,Virginia League,clunk,B00752,Clunk,,0,Danville,,,28,,
+minoraverages/1913Reach,1912,Virginia League,clunk,F21229,Clunk,,0,Danville,,,,,of28
+minoraverages/1913Reach,1912,Virginia League,clyde,P10184,Clyde,,0,Lynchburg,,,,3,
+minoraverages/1913Reach,1912,Virginia League,coates,B00726,Coates,,0,Newport News,,,33,,
+minoraverages/1913Reach,1912,Virginia League,coates,F21000,Coates,,0,Newport News,,,,,of33
+minoraverages/1913Reach,1912,Virginia League,cooper-roa,B00672,Cooper,,0,Roanoke,,,11,,
+minoraverages/1913Reach,1912,Virginia League,cooper-por,B00948,Cooper,,0,Portsmouth,,,91,,
+minoraverages/1913Reach,1912,Virginia League,cooper-roa,F20327,Cooper,,0,Roanoke,,,,,c11
+minoraverages/1913Reach,1912,Virginia League,cooper-por,F20919,Cooper,,0,Portsmouth,,,,,3b84
+minoraverages/1913Reach,1912,Virginia League,coutts,B00999,Coutts,,0,Roanoke,,,15,,
+minoraverages/1913Reach,1912,Virginia League,coutts,F20956,Coutts,,0,Roanoke,,,,,of15
+minoraverages/1913Reach,1912,Virginia League,creiger,B00854,Creiger,,0,Petersburg,,,45,,
+minoraverages/1913Reach,1912,Virginia League,creiger,F20095,Creiger,,0,Petersburg,,,,,p45
+minoraverages/1913Reach,1912,Virginia League,creiger,P10056,Creiger,,0,Petersburg,,,,44,
+minoraverages/1913Reach,1912,Virginia League,davie,P10336,Davie,,0,Richmond,,,,8,
+minoraverages/1913Reach,1912,Virginia League,dodge,B00092,Dodge,,0,Norfolk,,,122,,
+minoraverages/1913Reach,1912,Virginia League,dodge,F20855,Dodge,,0,Norfolk,,,,,3b64
+minoraverages/1913Reach,1912,Virginia League,dougherty,B00059,Dougherty,,0,Norfolk,,,22,,
+minoraverages/1913Reach,1912,Virginia League,dougherty,F20878,Dougherty,,0,Norfolk,,,,,3b22
+minoraverages/1913Reach,1912,Virginia League,douglas,B00544,Douglas,,0,Portsmouth,,,57,,
+minoraverages/1913Reach,1912,Virginia League,douglas,F20657,Douglas,,0,Portsmouth,,,,,1b57
+minoraverages/1913Reach,1912,Virginia League,ebby,P10228,Ebby,,0,Richmond,,,,2,
+minoraverages/1913Reach,1912,Virginia League,efird,B01143,Efird,,0,Roanoke,,,51,,
+minoraverages/1913Reach,1912,Virginia League,efird,F20189,Efird,,0,Roanoke,,,,,p45
+minoraverages/1913Reach,1912,Virginia League,efird,P10081,Efird,,0,Roanoke,,,,39,
+minoraverages/1913Reach,1912,Virginia League,eichelberger,F21158,Eichberger,,0,Newport News,,,,,of86
+minoraverages/1913Reach,1912,Virginia League,eichelberger,B00577,Eichelberger,,0,Newport News,,,97,,
+minoraverages/1913Reach,1912,Virginia League,evans,B01086,Evans,,0,Newport News,,,62,,
+minoraverages/1913Reach,1912,Virginia League,evans,F20685,Evans,,0,Newport News,,,,,1b50
+minoraverages/1913Reach,1912,Virginia League,finneran,B00985,Finneran,,0,Norfolk,,,60,,
+minoraverages/1913Reach,1912,Virginia League,finneran,F20190,Finneran,,0,Norfolk,,,,,p50
+minoraverages/1913Reach,1912,Virginia League,finneran,P10145,Finneran,,0,Norfolk,,,,36,
+minoraverages/1913Reach,1912,Virginia League,fisher,B01197,Fisher,,0,Roanoke,,,14,,
+minoraverages/1913Reach,1912,Virginia League,fisher,F20350,Fisher,,0,Roanoke,,,,,c14
+minoraverages/1913Reach,1912,Virginia League,flournoy,B00416,Flournoy,,0,Norfolk,,,74,,
+minoraverages/1913Reach,1912,Virginia League,flournoy,F21182,Flournoy,,0,Norfolk,,,,,of74
+minoraverages/1913Reach,1912,Virginia League,foxen,B00865,Foxen,,0,Portsmouth,,,10,,
+minoraverages/1913Reach,1912,Virginia League,foxen,F20014,Foxen,,0,Portsmouth,,,,,p7
+minoraverages/1913Reach,1912,Virginia League,foxen,P10290,Foxen,,0,Portsmouth,,,,7,
+minoraverages/1913Reach,1912,Virginia League,gardin,B01093,Gardin,,0,Roanoke,,,60,,
+minoraverages/1913Reach,1912,Virginia League,gardin,F20144,Gardin,,0,Roanoke,,,,,p46
+minoraverages/1913Reach,1912,Virginia League,gardin,P10097,Gardin,,0,Roanoke,,,,39,
+minoraverages/1913Reach,1912,Virginia League,garman,B00076,Garman,,0,Richmond,,,131,,
+minoraverages/1913Reach,1912,Virginia League,garman,F20661,Garman,,0,Richmond,,,,,1b120
+minoraverages/1913Reach,1912,Virginia League,garvin,B00293,Garvin,,0,Portsmouth,,,131,,
+minoraverages/1913Reach,1912,Virginia League,garvin,F20375,Garvin,,0,Portsmouth,,,,,c131
+minoraverages/1913Reach,1912,Virginia League,gaston-dan,B00232,Gaston,D.,0,Danville,,,47,,
+minoraverages/1913Reach,1912,Virginia League,gaston-nor,B01227,Gaston,S.,0,Norfolk,,,42,,
+minoraverages/1913Reach,1912,Virginia League,gaston-nor,F20153,Gaston,S.,0,Norfolk,,,,,p38
+minoraverages/1913Reach,1912,Virginia League,gaston-dan,F20721,Gaston,D.,0,Danville,,,,,2b46
+minoraverages/1913Reach,1912,Virginia League,gaston-nor,P10361,Gaston,,0,Norfolk,,,,32,
+minoraverages/emilbb,1912,Virginia League,gaston-dan,M91693,Gaston,"William ""Dave""",,Danville,,,,,
+minoraverages/1913Reach,1912,Virginia League,ginn,B00308,Ginn,,0,Roanoke,,,137,,
+minoraverages/1913Reach,1912,Virginia League,ginn,F21196,Ginn,,0,Roanoke,,,,,of137
+minoraverages/1913Reach,1912,Virginia League,gordon,B00887,Gordon,,0,Norfolk,,,57,,
+minoraverages/1913Reach,1912,Virginia League,gordon,F20265,Gordon,,0,Norfolk,,,,,p33
+minoraverages/1913Reach,1912,Virginia League,gordon,P10159,Gordon,,0,Norfolk,,,,27,
+minoraverages/1913Reach,1912,Virginia League,graff,B00397,Graff,,0,Richmond,,,136,,
+minoraverages/1913Reach,1912,Virginia League,graff,F20832,Graff,,0,Richmond,,,,,3b131
+minoraverages/1913Reach,1912,Virginia League,graham,B00442,Graham,,0,Roanoke,,,95,,
+minoraverages/1913Reach,1912,Virginia League,graham,F21059,Graham,,0,Roanoke,,,,,of95
+minoraverages/1913Reach,1912,Virginia League,green,B00084,Green,,0,Roanoke,,,66,,
+minoraverages/1913Reach,1912,Virginia League,green,F21278,Green,,0,Roanoke,,,,,of34
+minoraverages/1913Reach,1912,Virginia League,green,P10266,Green,,0,Roanoke,,,,36,
+minoraverages/1913Reach,1912,Virginia League,griffin.s,B00013,Griffin,S.,0,Richmond,,,136,,
+minoraverages/1913Reach,1912,Virginia League,griffin.h,B01108,Griffin,H.,0,Richmond,,,18,,
+minoraverages/1913Reach,1912,Virginia League,griffin.h,F20023,Griffin,H.,0,Richmond,,,,,p18
+minoraverages/1913Reach,1912,Virginia League,griffin.s,F20713,Griffin,S.,0,Richmond,,,,,2b136
+minoraverages/1913Reach,1912,Virginia League,griffin.h,P10464,Griffin,,0,Richmond,,,,11,
+minoraverages/emilbb,1912,Virginia League,griffin.s,M91641,Griffin,Steve,,Richmond,,,,,
+minoraverages/emilbb,1912,Virginia League,grim,M91678,Grim,John J.,,Newport News,,,,,
+minoraverages/1913Reach,1912,Virginia League,hall,P10357,Hall,,0,Roanoke,,,,5,
+minoraverages/1913Reach,1912,Virginia League,hedgepeth,B00403,Hedgepeth,,0,Petersburg,,,40,,
+minoraverages/1913Reach,1912,Virginia League,hedgepeth,F20128,Hedgepeth,,0,Petersburg,,,,,p28
+minoraverages/1913Reach,1912,Virginia League,hedgepeth,P10168,Hedgepeth,,0,Petersburg,,,,38,
+minoraverages/1913Reach,1912,Virginia League,hinton,B00241,Hinton,,0,Norfolk,,,113,,
+minoraverages/1913Reach,1912,Virginia League,hinton,F20539,Hinton,,0,Norfolk,,,,,ss71
+minoraverages/1913Reach,1912,Virginia League,hudgins,F20699,Hodgins,,0,Portsmouth,,,,,1b34
+minoraverages/1913Reach,1912,Virginia League,holland,B00125,Holland,,0,Roanoke,,,125,,
+minoraverages/1913Reach,1912,Virginia League,holland,F21092,Holland,,0,Roanoke,,,,,of113
+minoraverages/1913Reach,1912,Virginia League,hope,F21293,Hooe,,0,Roanoke,,,,,of17
+minoraverages/1913Reach,1912,Virginia League,hooker,B00651,Hooker,,0,Newport News,,,105,,
+minoraverages/1913Reach,1912,Virginia League,hooker,F20962,Hooker,,0,Newport News,,,,,of105
+minoraverages/emilbb,1912,Virginia League,hooker,M91686,Hooker,Buck,,Newport News,,,,,
+minoraverages/1913Reach,1912,Virginia League,hope,B00904,Hope,,0,Roanoke,,,17,,
+minoraverages/1913Reach,1912,Virginia League,howedell,B00553,Howedel,,0,Petersburg,,,134,,
+minoraverages/1913Reach,1912,Virginia League,howedell,F20841,Howedell,,0,Petersburg,,,,,3b133
+minoraverages/1913Reach,1912,Virginia League,hudgins,B00528,Hudgins,,0,Portsmouth,,,106,,
+minoraverages/1913Reach,1912,Virginia League,hummel,F20768,Hummel,,0,Lynchburg,,,,,2b40
+minoraverages/1913Reach,1912,Virginia League,hummel,B00278,Hummell,,0,Lynchburg,,,40,,
+minoraverages/1913Reach,1912,Virginia League,jobson,P10493,Jobson,,0,Portsmouth,,,,5,
+minoraverages/1913Reach,1912,Virginia League,johnson-lyn,B00646,Johnson,,0,Lynchburg,,,18,,
+minoraverages/1913Reach,1912,Virginia League,johnson-dan,B01029,Johnson,,0,Danville,,,30,,
+minoraverages/1913Reach,1912,Virginia League,johnson-lyn,F21174,Johnson,,0,Lynchburg,,,,,of18
+minoraverages/1913Reach,1912,Virginia League,johnson-dan,F21210,Johnson,,0,Danville,,,,,of30
+minoraverages/1913Reach,1912,Virginia League,keating,B00427,Keating,,0,Portsmouth,,,130,,
+minoraverages/1913Reach,1912,Virginia League,keating,F20547,Keating,,0,Portsmouth,,,,,ss108
+minoraverages/1913Reach,1912,Virginia League,keller,B00319,Keller,,0,Norfolk,,,113,,
+minoraverages/1913Reach,1912,Virginia League,keller,F21149,Keller,,0,Norfolk,,,,,of63
+minoraverages/1913Reach,1912,Virginia League,kelly,B00021,Kelly,,0,Lynchburg,,,15,,
+minoraverages/1913Reach,1912,Virginia League,kelly,F21125,Kelly,,0,Lynchburg,,,,,of15
+minoraverages/emilbb,1912,Virginia League,kelly,M91717,Kelly,"James ""King""",,Lynchburg,,,,,
+minoraverages/1913Reach,1912,Virginia League,kircher,B00335,Kircher,,0,Norfolk,,,114,,
+minoraverages/1913Reach,1912,Virginia League,kircher,F21068,Kircher,,0,Norfolk,,,,,of67
+minoraverages/1913Reach,1912,Virginia League,kneaves,B00469,Kneaves,,0,Roanoke,,,23,,
+minoraverages/1913Reach,1912,Virginia League,kneaves,F20893,Kneaves,,0,Roanoke,,,,,3b23
+minoraverages/1913Reach,1912,Virginia League,krebs,B00502,Krebs,,0,Petersburg,,,41,,
+minoraverages/1913Reach,1912,Virginia League,krebs,F21013,Krebs,,0,Petersburg,,,,,of41
+minoraverages/1913Reach,1912,Virginia League,lafitte,B00434,Lafitte,,0,Roanoke,,,109,,
+minoraverages/1913Reach,1912,Virginia League,lafitte,F20388,Lafitte,,0,Roanoke,,,,,c109
+minoraverages/1913Reach,1912,Virginia League,lake,B00488,Lake,,0,Newport News,,,72,,
+minoraverages/1913Reach,1912,Virginia League,lake,F20458,Lake,,0,Newport News,,,,,c72
+minoraverages/1913Reach,1912,Virginia League,laughlin,B00130,Laughlin,,0,Petersburg,,,93,,
+minoraverages/1913Reach,1912,Virginia League,laughlin,F20391,Laughlin,,0,Petersburg,,,,,c91
+minoraverages/1913Reach,1912,Virginia League,lowman,B00879,Lowman,,0,Danville,,,11,,
+minoraverages/1913Reach,1912,Virginia League,lowman,F20935,Lowman,,0,Danville,,,,,of11
+minoraverages/1913Reach,1912,Virginia League,lucia,B00811,Lucia,,0,Richmond,,,55,,
+minoraverages/1913Reach,1912,Virginia League,lucia,F20369,Lucia,,0,Richmond,,,,,c55
+minoraverages/1913Reach,1912,Virginia League,lusky,B00833,Lusky,,0,Newport News,,,101,,
+minoraverages/1913Reach,1912,Virginia League,lusky,F20417,Lusky,,0,Newport News,,,,,c90
+minoraverages/emilbb,1912,Virginia League,mackinnon,M91725,MacKinnon,Hugh,,Lynchburg,,,,,
+minoraverages/1913Reach,1912,Virginia League,mace,B00783,Mace,,0,Richmond,,,90,,
+minoraverages/1913Reach,1912,Virginia League,mace,F20430,Mace,,0,Richmond,,,,,c90
+minoraverages/1913Reach,1912,Virginia League,manser,B01234,Manser,,0,Portsmouth,,,40,,
+minoraverages/1913Reach,1912,Virginia League,manser,F20177,Manser,,0,Portsmouth,,,,,p22
+minoraverages/1913Reach,1912,Virginia League,manser,P10253,Manser,,0,Portsmouth,,,,22,
+minoraverages/1913Reach,1912,Virginia League,mattis,B00475,Mattis,,0,Newport News,,,118,,
+minoraverages/1913Reach,1912,Virginia League,mattis,F21130,Mattis,,0,Newport News,,,,,of118
+minoraverages/1913Reach,1912,Virginia League,mayberry,B01203,Mayberry,,0,Danville,,,10,,
+minoraverages/1913Reach,1912,Virginia League,mayberry,F20571,Mayberry,,0,Danville,,,,,ss10
+minoraverages/1913Reach,1912,Virginia League,mayer,B01010,Mayer,,0,Portsmouth,,,41,,
+minoraverages/1913Reach,1912,Virginia League,mayer,F20115,Mayer,,0,Portsmouth,,,,,p38
+minoraverages/1913Reach,1912,Virginia League,mayer,P10035,Mayer,,0,Portsmouth,,,,37,
+minoraverages/1913Reach,1912,Virginia League,mccomas,B00739,McComas,,0,Richmond,,,131,,
+minoraverages/1913Reach,1912,Virginia League,mccomas,F20505,McComas,,0,Richmond,,,,,ss129
+minoraverages/1913Reach,1912,Virginia League,mccrary,B01242,McCrary,,0,Norfolk,,,15,,
+minoraverages/1913Reach,1912,Virginia League,mccrary,F20279,McCrary,,0,Norfolk,,,,,p15
+minoraverages/1913Reach,1912,Virginia League,mccrary,P10503,McCrary,,0,Norfolk,,,,16,
+minoraverages/1913Reach,1912,Virginia League,mcdonnell,B01300,McDonnell,,0,Newport News,,,21,,
+minoraverages/1913Reach,1912,Virginia League,mcdonnell,F20700,McDonnell,,0,Newport News,,,,,2b19
+minoraverages/1913Reach,1912,Virginia League,mckenzie,B00614,McKenzie,,0,Portsmouth,,,22,,
+minoraverages/1913Reach,1912,Virginia League,mckenzie,F20316,McKenzie,,0,Portsmouth,,,,,p22
+minoraverages/1913Reach,1912,Virginia League,mckenzie,P10244,McKenzie,,0,Portsmouth,,,,22,
+minoraverages/1913Reach,1912,Virginia League,miller,B01250,Miller,,0,Newport News,,,33,,
+minoraverages/1913Reach,1912,Virginia League,miller,F20303,Miller,,0,Newport News,,,,,p31
+minoraverages/1913Reach,1912,Virginia League,miller,P10385,Miller,H.,0,Newport News,,,,32,
+minoraverages/1913Reach,1912,Virginia League,morganroth,B00920,Morganroth,,0,Petersburg,,,45,,
+minoraverages/1913Reach,1912,Virginia League,morganroth,F20102,Morganroth,,0,Petersburg,,,,,p24
+minoraverages/1913Reach,1912,Virginia League,morganroth,P10176,Morganroth,,0,Petersburg,,,,21,
+minoraverages/1913Reach,1912,Virginia League,morrison,B00381,Morrison,,0,Petersburg,,,128,,
+minoraverages/1913Reach,1912,Virginia League,morrison,F20792,Morrison,,0,Petersburg,,,,,2b59
+minoraverages/1913Reach,1912,Virginia League,morrissey,B01007,Morrissey,,0,Newport News,,,39,,
+minoraverages/1913Reach,1912,Virginia League,morrissey,F20072,Morrissey,,0,Newport News,,,,,p33
+minoraverages/1913Reach,1912,Virginia League,morrissey,P10373,Morrissey,,0,Newport News,,,,33,
+minoraverages/1913Reach,1912,Virginia League,mullaney,B00343,Mullaney,,0,Norfolk,,,24,,
+minoraverages/1913Reach,1912,Virginia League,mullaney,F20924,Mullaney,,0,Norfolk,,,,,of24
+minoraverages/1913Reach,1912,Virginia League,murphy,B00182,Murphy,,0,Petersburg,,,65,,
+minoraverages/1913Reach,1912,Virginia League,murphy,F20552,Murphy,,0,Petersburg,,,,,ss47
+minoraverages/1913Reach,1912,Virginia League,muth,B01275,Muth,,0,Portsmouth,,,19,,
+minoraverages/1913Reach,1912,Virginia League,muth,F20943,Muth,,0,Portsmouth,,,,,of12
+minoraverages/1913Reach,1912,Virginia League,muth,P10542,Muth,,0,Portsmouth,,,,8,
+minoraverages/1913Reach,1912,Virginia League,newton,B00324,Newton,,0,Roanoke,,,137,,
+minoraverages/1913Reach,1912,Virginia League,newton,F20518,Newton,,0,Roanoke,,,,,ss137
+minoraverages/1913Reach,1912,Virginia League,nixon,B00264,Nixon,,0,Portsmouth,,,114,,
+minoraverages/1913Reach,1912,Virginia League,nixon,F21232,Nixon,,0,Portsmouth,,,,,of112
+minoraverages/1913Reach,1912,Virginia League,obrien,P10202,O'Brien,,0,Lynchburg,,,,4,
+minoraverages/1913Reach,1912,Virginia League,oyler,B01156,Oyler,,0,Newport News,,,32,,
+minoraverages/1913Reach,1912,Virginia League,oyler,F20776,Oyler,,0,Newport News,,,,,2b31
+minoraverages/1913Reach,1912,Virginia League,perryman,B01269,Perryman,,0,Richmond,,,25,,
+minoraverages/1913Reach,1912,Virginia League,perryman,F20240,Perryman,,0,Richmond,,,,,p25
+minoraverages/1913Reach,1912,Virginia League,perryman,P10455,Perryman,,0,Richmond,,,,25,
+minoraverages/1913Reach,1912,Virginia League,phelan,B00590,Phelan,,0,Lynchburg,,,21,,
+minoraverages/1913Reach,1912,Virginia League,phelan,F20449,Phelan,,0,Lynchburg,,,,,c21
+minoraverages/1913Reach,1912,Virginia League,plaster,B00718,Plaster,,0,Newport News,,,13,,
+minoraverages/1913Reach,1912,Virginia League,plaster,F20342,Plaster,,0,Newport News,,,,,c13
+minoraverages/1913Reach,1912,Virginia League,pleiss,B00957,Pleiss,,0,Richmond,,,56,,
+minoraverages/1913Reach,1912,Virginia League,pleiss,F21117,Pleiss,,0,Richmond,,,,,of56
+minoraverages/1913Reach,1912,Virginia League,pool,B01078,Pool,,0,Norfolk,,,39,,
+minoraverages/1913Reach,1912,Virginia League,pool,F20254,Pool,,0,Norfolk,,,,,p39
+minoraverages/1913Reach,1912,Virginia League,pool,P10289,Pool,,0,Norfolk,,,,40,
+minoraverages/1913Reach,1912,Virginia League,porter,B01135,Porter,,0,Newport News,,,11,,
+minoraverages/1913Reach,1912,Virginia League,porter,F20648,Porter,,0,Newport News,,,,,1b11
+minoraverages/1913Reach,1912,Virginia League,pressley,B00356,Presley,,0,Roanoke,,,132,,
+minoraverages/emilbb,1912,Virginia League,pressley,M91629,Pressley,"William ""Buck""",,Roanoke,,,,,
+minoraverages/1913Reach,1912,Virginia League,pressley,F20886,Pressly,,0,Roanoke,,,,,3b111
+minoraverages/1913Reach,1912,Virginia League,raley,B00068,Raley,,0,Richmond,,,128,,
+minoraverages/1913Reach,1912,Virginia League,raley,F20620,Raley,,0,Richmond,,,,,1b128
+minoraverages/1913Reach,1912,Virginia League,revelle,B01055,Revelle,,0,Newport News,,,18,,
+minoraverages/1913Reach,1912,Virginia League,revelle,F20051,Revelle,,0,Newport News,,,,,p18
+minoraverages/1913Reach,1912,Virginia League,revelle,P10441,Revelle,,0,Newport News,,,,16,
+minoraverages/1913Reach,1912,Virginia League,rogers-ric,B00286,Rogers,,0,Richmond,,,39,,
+minoraverages/1913Reach,1912,Virginia League,rogers-nn,B00370,Rogers,,0,Newport News,,,94,,
+minoraverages/1913Reach,1912,Virginia League,rogers-ric,F20401,Rogers,,0,Richmond,,,,,c39
+minoraverages/1913Reach,1912,Virginia League,rogers-nn,F20425,Rogers,,0,Newport News,,,,,c35
+minoraverages/1913Reach,1912,Virginia League,roth,P10478,Roth,,0,Lynchburg,,,,6,
+minoraverages/1913Reach,1912,Virginia League,runser,B00898,Runser,,0,Danville,,,30,,
+minoraverages/1913Reach,1912,Virginia League,runser,F20829,Runser,,0,Danville,,,,,3b30
+minoraverages/1913Reach,1912,Virginia League,ryan,P10024,Ryan,,0,Roanoke,,,,6,
+minoraverages/1913Reach,1912,Virginia League,schrader,B00163,Schrader,,0,Danville,,,47,,
+minoraverages/1913Reach,1912,Virginia League,schrader,F20604,Schrader,,0,Danville,,,,,1b47
+minoraverages/1913Reach,1912,Virginia League,sexton,P10516,Sexton,,0,Lynchburg,,,,8,
+minoraverages/emilbb,1912,Virginia League,shaffer,M91664,Shaffer,Charles,,Norfolk,,,,,
+minoraverages/1913Reach,1912,Virginia League,shields,B00589,Shields,,0,Roanoke,,,137,,
+minoraverages/1913Reach,1912,Virginia League,shields,F20737,Shields,,0,Roanoke,,,,,2b137
+minoraverages/1913Reach,1912,Virginia League,simmons,B00207,Simmons,,0,Petersburg,,,117,,
+minoraverages/1913Reach,1912,Virginia League,simmons,F21286,Simmons,,0,Petersburg,,,,,of117
+minoraverages/1913Reach,1912,Virginia League,slaven,B00747,Slaven,,0,Newport News,,,28,,
+minoraverages/1913Reach,1912,Virginia League,slaven,F20810,Slaven,,0,Newport News,,,,,2b17
+minoraverages/1913Reach,1912,Virginia League,spencer,B00101,Spencer,,0,Petersburg,,,105,,
+minoraverages/1913Reach,1912,Virginia League,spencer,F21163,Spencer,,0,Petersburg,,,,,of105
+minoraverages/1913Reach,1912,Virginia League,staub,B00566,Staub,,0,Norfolk,,,71,,
+minoraverages/1913Reach,1912,Virginia League,staub,F21241,Staub,,0,Norfolk,,,,,of72
+minoraverages/1913Reach,1912,Virginia League,stockdale,P10534,Stockdale,,0,Lynchburg,,,,4,
+minoraverages/emilbb,1912,Virginia League,stockdale,M91701,Stockdale,Otis,,Lynchburg,,,,,
+minoraverages/1913Reach,1912,Virginia League,stork,P10527,Stork,,0,Lynchburg,,,,5,
+minoraverages/1913Reach,1912,Virginia League,strain,B00229,Strain,,0,Richmond,,,70,,
+minoraverages/1913Reach,1912,Virginia League,strain,F20206,Strain,,0,Richmond,,,,,p43
+minoraverages/1913Reach,1912,Virginia League,strain,P10113,Strain,,0,Richmond,,,,35,
+minoraverages/1913Reach,1912,Virginia League,tennant,B00794,Tennant,,0,Richmond,,,103,,
+minoraverages/1913Reach,1912,Virginia League,tennant,F21045,Tennant,,0,Richmond,,,,,of103
+minoraverages/1913Reach,1912,Virginia League,thackera,B01170,Thackera,,0,Richmond,,,11,,
+minoraverages/1913Reach,1912,Virginia League,thackera,F20482,Thackera,,0,Richmond,,,,,c11
+minoraverages/1913Reach,1912,Virginia League,thompson,P10215,Thompson,,0,Lynchburg,,,,6,
+minoraverages/1913Reach,1912,Virginia League,titlow,B00638,Titlow,,0,Newport News,,,16,,
+minoraverages/1913Reach,1912,Virginia League,titlow,F20583,Titlow,,0,Newport News,,,,,ss16
+minoraverages/1913Reach,1912,Virginia League,titman,B00531,Titman,,0,Portsmouth,,,102,,
+minoraverages/1913Reach,1912,Virginia League,titman,F21101,Titman,,0,Portsmouth,,,,,of102
+minoraverages/1913Reach,1912,Virginia League,vail,P10019,Vail,,0,Richmond,,,,2,
+minoraverages/1913Reach,1912,Virginia League,vance-roa,B00705,Vance,,0,Roanoke,,,10,,
+minoraverages/1913Reach,1912,Virginia League,vance-pet,B01032,Vance,,0,Petersburg,,,35,,
+minoraverages/1913Reach,1912,Virginia League,vance-pet,F20166,Vance,,0,Petersburg,,,,,p33
+minoraverages/1913Reach,1912,Virginia League,vance-roa,F20474,Vance,,0,Roanoke,,,,,c10
+minoraverages/1913Reach,1912,Virginia League,vance-pet,P10100,Vance,,0,Petersburg,,,,32,
+minoraverages/1913Reach,1912,Virginia League,vickery,F20080,Veckery,,0,Petersburg,,,,,p12
+minoraverages/1913Reach,1912,Virginia League,verbout,B01162,Verbout,,0,Portsmouth,,,40,,
+minoraverages/1913Reach,1912,Virginia League,verbout,F20038,Verbout,,0,Portsmouth,,,,,p36
+minoraverages/1913Reach,1912,Virginia League,verbout,P10137,Verbout,,0,Portsmouth,,,,36,
+minoraverages/1913Reach,1912,Virginia League,vickery,B01124,Vickery,,0,Petersburg,,,12,,
+minoraverages/1913Reach,1912,Virginia League,vickery,P10399,Vickery,,0,Petersburg,,,,12,
+minoraverages/1913Reach,1912,Virginia League,waldron-nor,P10231,Waldron,,0,Norfolk,,,,5,
+minoraverages/1913Reach,1912,Virginia League,waldron-roa,P10348,Waldron,,0,Roanoke,,,,6,
+minoraverages/1913Reach,1912,Virginia League,wallace,B00362,Wallace,,0,Norfolk,,,94,,
+minoraverages/1913Reach,1912,Virginia League,wallace,F21037,Wallace,,0,Norfolk,,,,,of93
+minoraverages/1913Reach,1912,Virginia League,walsh,B01216,Walsh,,0,Newport News,,,30,,
+minoraverages/1913Reach,1912,Virginia League,walsh,P10320,Walsh,,0,Newport News,,,,9,
+minoraverages/1913Reach,1912,Virginia League,walters,B00771,Walters,,0,Norfolk,,,63,,
+minoraverages/1913Reach,1912,Virginia League,walters,F21264,Walters,,0,Norfolk,,,,,of63
+minoraverages/1913Reach,1912,Virginia League,watson,B00045,Watson,,0,Portsmouth,,,79,,
+minoraverages/1913Reach,1912,Virginia League,watson,F21255,Watson,,0,Portsmouth,,,,,of49
+minoraverages/1913Reach,1912,Virginia League,west,P10432,West,,0,Newport News,,,,5,
+minoraverages/1913Reach,1912,Virginia League,wilson,B00806,Wilson,,0,Norfolk,,,31,,
+minoraverages/1913Reach,1912,Virginia League,wilson,F20908,Wilson,,0,Norfolk,,,,,3b106
+minoraverages/1913Reach,1912,Virginia League,winges,P10192,Winges,,0,Lynchburg,,,,4,
+minoraverages/1913Reach,1912,Virginia League,wolfe,B00491,Wolfe,,0,Portsmouth,,,124,,
+minoraverages/1913Reach,1912,Virginia League,wolfe,F20673,Wolfe,,0,Portsmouth,,,,,1b55
+minoraverages/1913Reach,1912,Virginia League,woods-nor,B01181,Woods,,0,Norfolk,,,21,,
+minoraverages/1913Reach,1912,Virginia League,woods-por,B01291,Woods,,0,Portsmouth,,,16,,
+minoraverages/1913Reach,1912,Virginia League,woods-nor,F20131,Woods,,0,Norfolk,,,,,p21
+minoraverages/1913Reach,1912,Virginia League,woods-por,F20222,Woods,,0,Portsmouth,,,,,p16
+minoraverages/1913Reach,1912,Virginia League,woods-por,P10277,Woods,,0,Portsmouth,,,,35,
+minoraverages/1913Reach,1912,Virginia League,woolums,B01064,Woolumns,,0,Lynchburg,,,42,,
+minoraverages/1913Reach,1912,Virginia League,woolums,F20636,Woolums,,0,Lynchburg,,,,,1b36
+minoraverages/1913Reach,1912,Virginia League,yates,P10410,Yates,,0,Petersburg,,,,5,
+minoraverages/1913Reach,1912,Virginia League,zanelli,B00912,Zanelli,,0,Lynchburg,,,38,,
+minoraverages/1913Reach,1912,Virginia League,zanelli,F20526,Zanelli,,0,Lynchburg,,,,,ss22
