@@ -141,6 +141,7 @@ minoraverages/1959TSN,1958,Alabama-Florida League,davis-col,M90026,Davis,R. Bran
 minoraverages/1959TSN,1958,Alabama-Florida League,davis-col,P10772,Davis,,0,Columbus,,,,3,
 minoraverages/1959TSN,1958,Alabama-Florida League,davis-gra,P10963,Davis,,0,Graceville,,,,3,
 minoraverages/emilbb,1958,Alabama-Florida League,,M91467,Davis,Brandy,,Columbus,,,,,
+minoraverages/1959TSN,1958,Alabama-Florida League,,F21488,DeGennaro,,0,Selma,,,,,c10
 minoraverages/1959TSN,1958,Alabama-Florida League,demartini,B00442,DeMartini,Gary,0,Graceville,,,70,,
 minoraverages/1959TSN,1958,Alabama-Florida League,demartini,F21013,DeMartini,,0,Graceville,,,,,of67
 minoraverages/1959TSN,1958,Alabama-Florida League,decker,B00403,Decker,Jack,0,Columbus,,,48,,
@@ -150,7 +151,6 @@ minoraverages/1959TSN,1958,Alabama-Florida League,deer,B00416,Deer,Larry,0,Pensa
 minoraverages/1959TSN,1958,Alabama-Florida League,deer,F22099,Deer,,0,Pensacola,,,,,p44
 minoraverages/1959TSN,1958,Alabama-Florida League,deer,P10202,Deer,,0,Pensacola,,,,44,
 minoraverages/1959TSN,1958,Alabama-Florida League,degennaro,B00427,Degennaro,Anthony,0,Selma,,,15,,
-minoraverages/1959TSN,1958,Alabama-Florida League,degennaro,F21488,Degennaro,,0,Selma,,,,,c10
 minoraverages/1959TSN,1958,Alabama-Florida League,delgado,B00434,Delgado,Robert,0,Selma,,,41,,
 minoraverages/1959TSN,1958,Alabama-Florida League,delgado,F21335,Delgado,,0,Selma,,,,,of37
 minoraverages/1959TSN,1958,Alabama-Florida League,dinkelacker,B00450,Dinkelacker,Timothy,0,Graceville,,,22,,
@@ -176,7 +176,7 @@ minoraverages/1959TSN,1958,Alabama-Florida League,dunn,B00515,Dunn,J. C.,0,Dotha
 minoraverages/1959TSN,1958,Alabama-Florida League,dunn,F20046,Dunn,,0,Dothan,,,,,1b60
 minoraverages/1959TSN,1958,Alabama-Florida League,dunn,F20350,Dunn,,0,Dothan,,,,,2b30
 minoraverages/1959TSN,1958,Alabama-Florida League,dunn,F20855,Dunn,,0,Dothan,,,,,of31
-minoraverages/1959TSN,1958,Alabama-Florida League,dunn,M90047,Dunn,J. C. ,,Dothan,,,,,
+minoraverages/1959TSN,1958,Alabama-Florida League,,M90047,Dunn,J. C.,,Dothan,,,,,
 minoraverages/1959TSN,1958,Alabama-Florida League,dunn,P10847,Dunn,,0,Dothan,,,,2,
 minoraverages/emilbb,1958,Alabama-Florida League,,M91480,Dunn,J. C.,,Dothan,,,,,
 minoraverages/1959TSN,1958,Alabama-Florida League,dupree,B02679,Dupree,Gerald,0,Selma,,,2,,
@@ -209,9 +209,9 @@ minoraverages/1959TSN,1958,Alabama-Florida League,farr,P10277,Farr,,T,,,,,29,
 minoraverages/1959TSN,1958,Alabama-Florida League,farschman,B00577,Farschman,Kenneth,0,Montgomery,,,60,,
 minoraverages/1959TSN,1958,Alabama-Florida League,farschman,F20303,Farschman,,0,Montgomery,,,,,2b60
 minoraverages/1959TSN,1958,Alabama-Florida League,fatzinger,B02320,Fatzinger,Horatio,0,Graceville,,,2,,
-minoraverages/1959TSN,1958,Alabama-Florida League,faucett,B00589,Faucett,Jerry,0,Pensacola,,,16,,
-minoraverages/1959TSN,1958,Alabama-Florida League,faucett,F22191,Faucett,,0,Pensacola,,,,,p16
-minoraverages/1959TSN,1958,Alabama-Florida League,faucett,P10289,Faucett,,0,Pensacola,,,,16,
+minoraverages/1959TSN,1958,Alabama-Florida League,,B00589,Fausett,Jerry,0,Pensacola,,,16,,
+minoraverages/1959TSN,1958,Alabama-Florida League,,F22191,Fausett,,0,Pensacola,,,,,p16
+minoraverages/1959TSN,1958,Alabama-Florida League,,P10289,Fausett,,0,Pensacola,,,,16,
 minoraverages/1959TSN,1958,Alabama-Florida League,feltmann,B00590,Feltmann,Orland,0,Columbus,,,124,,
 minoraverages/1959TSN,1958,Alabama-Florida League,feltmann,F21068,Feltmann,,0,Columbus,,,,,of123
 minoraverages/1959TSN,1958,Alabama-Florida League,ferrell-mon,B00609,Ferrell,George,0,Montgomery,,,15,,
@@ -568,7 +568,7 @@ minoraverages/1959TSN,1958,Alabama-Florida League,schuber,B02145,Schuber,Dorman,
 minoraverages/1959TSN,1958,Alabama-Florida League,schuber,P10805,Schuber,,0,Columbus,,,,4,
 minoraverages/1959TSN,1958,Alabama-Florida League,schultheis,B01580,Schultheis,James,0,Panama City,,,42,,
 minoraverages/1959TSN,1958,Alabama-Florida League,schultheis,F20177,Schultheis,,0,Panama City,,,,,1b42
-minoraverages/1959TSN,1958,Alabama-Florida League,schultz-gra,B01595,Schultz,John,0,Graceville,,,48,,
+minoraverages/1959TSN,1958,Alabama-Florida League,,B01595,Schultz,Marv,0,Graceville,,,48,,
 minoraverages/1959TSN,1958,Alabama-Florida League,schultz-col,B01601,Schultz,Stanley,0,Columbus,,,92,,
 minoraverages/1959TSN,1958,Alabama-Florida League,schultz-col,F20388,Schultz,,0,Columbus,,,,,3b14
 minoraverages/1959TSN,1958,Alabama-Florida League,schultz-gra,F21117,Schultz,,0,Graceville,,,,,of48

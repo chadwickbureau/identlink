@@ -1,8 +1,444 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
+minoraverages/1959TSN,1958,Appalachian League,,B01321,Adair,Jack,0,Bluefield,,,2,,
+minoraverages/1959TSN,1958,Appalachian League,,P10591,Adair,,0,Bluefield,,,,2,
+minoraverages/1959TSN,1958,Appalachian League,,B00013,Alvarez,Demetrio,0,Wytheville,,,24,,
+minoraverages/1959TSN,1958,Appalachian League,,F20893,Alvarez,,0,Wytheville,,,,,c24
+minoraverages/1959TSN,1958,Appalachian League,,B00021,Ambrosino,Vincent,0,Salem,,,26,,
+minoraverages/1959TSN,1958,Appalachian League,,F20792,Ambrosino,,0,Salem,,,,,of19
+minoraverages/1959TSN,1958,Appalachian League,,B01625,Anders,John,0,Salem,,,2,,
+minoraverages/1959TSN,1958,Appalachian League,,B01337,Antwert,,0,Bluefield,,,1,,
+minoraverages/1959TSN,1958,Appalachian League,,B00037,Baker,George,0,Bluefield,,,17,,
+minoraverages/1959TSN,1958,Appalachian League,,F20482,Baker,,0,Bluefield,,,,,ss17
+minoraverages/1959TSN,1958,Appalachian League,,B00045,Balling,Joseph,0,Johnson City,,,30,,
+minoraverages/1959TSN,1958,Appalachian League,,F20265,Balling,,0,Johnson City,,,,,3b24
+minoraverages/1959TSN,1958,Appalachian League,,B01477,Baron,Victor,0,Johnson City,,,5,,
+minoraverages/1959TSN,1958,Appalachian League,,B00059,Baughman,Larry,0,Johnson City,,,22,,
+minoraverages/1959TSN,1958,Appalachian League,,F21021,Baughman,,0,Johnson City,,,,,c21
+minoraverages/1959TSN,1958,Appalachian League,,B01630,Bell,Brian,0,Salem,,,2,,
+minoraverages/1959TSN,1958,Appalachian League,,P10780,Bell,,0,Salem,,,,2,
+minoraverages/1959TSN,1958,Appalachian League,,B00068,Bennett,Charles,0,Johnson City,,,27,,
+minoraverages/1959TSN,1958,Appalachian League,,B00076,Bennett,Dennis,0,Johnson City,,,13,,
+minoraverages/1959TSN,1958,Appalachian League,,F20970,Bennett,C.,0,Johnson City,,,,,c24
+minoraverages/1959TSN,1958,Appalachian League,,F21324,Bennett,D.,0,Johnson City,,,,,p13
+minoraverages/1959TSN,1958,Appalachian League,,P10019,Bennett,D.,0,Johnson City,,,,13,
+minoraverages/1959TSN,1958,Appalachian League,,B00084,Blanton,Dexter,0,Pulaski,,,22,,
+minoraverages/1959TSN,1958,Appalachian League,,F20526,Blanton,,0,Pulaski,,,,,of19
+minoraverages/1959TSN,1958,Appalachian League,,B00092,Blewett,Michael,0,Bluefield,,,43,,
+minoraverages/1959TSN,1958,Appalachian League,,F20449,Blewett,,0,Bluefield,,,,,ss63
+minoraverages/1959TSN,1958,Appalachian League,,P10606,Blewett,,0,Bluefield,,,,1,
+minoraverages/1959TSN,1958,Appalachian League,,B00101,Bolick,Steve,0,Pulaski,,,63,,
+minoraverages/1959TSN,1958,Appalachian League,,F20051,Bolick,,0,Pulaski,,,,,1b23
+minoraverages/1959TSN,1958,Appalachian League,,F20177,Bolick,,0,Pulaski,,,,,2b12
+minoraverages/1959TSN,1958,Appalachian League,,F20316,Bolick,,0,Pulaski,,,,,3b12
+minoraverages/1959TSN,1958,Appalachian League,,F20648,Bolick,,0,Pulaski,,,,,of15
+minoraverages/1959TSN,1958,Appalachian League,,B01345,Bradshaw,Derris,0,Bluefield,,,9,,
+minoraverages/1959TSN,1958,Appalachian League,,B01489,Brakus,Edward,0,Johnson City,,,2,,
+minoraverages/1959TSN,1958,Appalachian League,,P10698,Brakus,,0,Johnson City,,,,2,
+minoraverages/1959TSN,1958,Appalachian League,,B00117,Branson,Donald,0,Wytheville,,,37,,
+minoraverages/1959TSN,1958,Appalachian League,,F20594,Branson,,0,Wytheville,,,,,of36
+minoraverages/1959TSN,1958,Appalachian League,,B00125,Brink,Richard,0,Pulaski,,,26,,
+minoraverages/1959TSN,1958,Appalachian League,,F20298,Brink,,0,Pulaski,,,,,3b26
+minoraverages/1959TSN,1958,Appalachian League,,B00130,Broughton,James,0,Wytheville,,,59,,
+minoraverages/1959TSN,1958,Appalachian League,,F20620,Broughton,,0,Wytheville,,,,,of57
+minoraverages/1959TSN,1958,Appalachian League,,B01649,Bruce,Preston,0,Salem,,,9,,
+minoraverages/1959TSN,1958,Appalachian League,,P10024,Bruce,,0,Salem,,,,8,
+minoraverages/1959TSN,1958,Appalachian League,,B01490,Bubash,Robert,0,Johnson City,,,4,,
+minoraverages/1959TSN,1958,Appalachian League,,P10709,Bubash,,0,Johnson City,,,,4,
+minoraverages/1959TSN,1958,Appalachian League,,B00149,Buntin,William,0,Pulaski,,,54,,
+minoraverages/1959TSN,1958,Appalachian League,,F20855,Buntin,,0,Pulaski,,,,,of15
+minoraverages/1959TSN,1958,Appalachian League,,F20943,Buntin,,0,Pulaski,,,,,c34
+minoraverages/1959TSN,1958,Appalachian League,,B00158,Burr,James,0,Salem,,,12,,
+minoraverages/1959TSN,1958,Appalachian League,,B00163,Butler,Phillip,0,Wytheville,,,29,,
+minoraverages/1959TSN,1958,Appalachian League,,F20832,Butler,,0,Wytheville,,,,,of26
+minoraverages/1959TSN,1958,Appalachian League,,B00174,Byrd,Lawrence,0,Bluefield,,,23,,
+minoraverages/1959TSN,1958,Appalachian League,,B01658,Byrd,,0,Salem,,,2,,
+minoraverages/1959TSN,1958,Appalachian League,,B00182,Caldwell,James,0,Bluefield,,,27,,
+minoraverages/1959TSN,1958,Appalachian League,,F20981,Caldwell,,0,Bluefield,,,,,c21
+minoraverages/1959TSN,1958,Appalachian League,,B00196,Campbell,Nolan,0,Johnson City,,,40,,
+minoraverages/1959TSN,1958,Appalachian League,,B00207,Campbell,William,0,Wytheville,,,13,,
+minoraverages/1959TSN,1958,Appalachian League,,B01572,Campbell,Glenn,0,Pulaski,,,8,,
+minoraverages/1959TSN,1958,Appalachian League,,F20131,Campbell,,0,Wytheville,,,,,2b11
+minoraverages/1959TSN,1958,Appalachian League,,F20745,Campbell,,0,Johnson City,,,,,of10
+minoraverages/1959TSN,1958,Appalachian League,,F20956,Campbell,,0,Johnson City,,,,,c27
+minoraverages/1959TSN,1958,Appalachian League,,B00210,Capelle,Jack,0,Wytheville,,,24,,
+minoraverages/1959TSN,1958,Appalachian League,,F20334,Capelle,,0,Wytheville,,,,,3b14
+minoraverages/1959TSN,1958,Appalachian League,,B00229,Carmo,Robert,0,Johnson City,,,40,,
+minoraverages/1959TSN,1958,Appalachian League,,F20776,Carmo,,0,Johnson City,,,,,of38
+minoraverages/1959TSN,1958,Appalachian League,,B00232,Carver,James,0,Bluefield,,,42,,
+minoraverages/1959TSN,1958,Appalachian League,,F20388,Carver,,0,Bluefield,,,,,3b15
+minoraverages/1959TSN,1958,Appalachian League,,F20908,Carver,,0,Bluefield,,,,,c17
+minoraverages/1959TSN,1958,Appalachian League,,B00241,Casteen,Adrian,0,Johnson City,,,10,,
+minoraverages/1959TSN,1958,Appalachian League,,B00255,Casteen,Danny,0,Johnson City,,,58,,
+minoraverages/1959TSN,1958,Appalachian League,,F20685,Casteen,D.,0,Johnson City,,,,,of56
+minoraverages/1959TSN,1958,Appalachian League,,B00264,Cater,Danny,0,Johnson City,,,68,,
+minoraverages/1959TSN,1958,Appalachian League,,F20430,Cater,,0,Johnson City,,,,,ss63
+minoraverages/1959TSN,1958,Appalachian League,,B00278,Clanton,Bobby,0,Wytheville,,,13,,
+minoraverages/1959TSN,1958,Appalachian League,,P10035,Clanton,,0,Wytheville,,,,9,
+minoraverages/1959TSN,1958,Appalachian League,,B00286,Clifton,Edward,0,Salem,,,56,,
+minoraverages/1959TSN,1958,Appalachian League,,F20189,Clifton,,0,Salem,,,,,2b46
+minoraverages/1959TSN,1958,Appalachian League,,B00293,Coimbre,Francisco,0,Salem,,,55,,
+minoraverages/1959TSN,1958,Appalachian League,,F20518,Coimbre,,0,Salem,,,,,of55
+minoraverages/1959TSN,1958,Appalachian League,,B00308,Combs,Daniel,0,Pulaski,,,35,,
+minoraverages/1959TSN,1958,Appalachian League,,F20095,Combs,,0,Pulaski,,,,,1b30
+minoraverages/1959TSN,1958,Appalachian League,,P10751,Combs,,0,Pulaski,,,,1,
+minoraverages/1959TSN,1958,Appalachian League,,B00319,Connell,William,0,Wytheville,,,38,,
+minoraverages/1959TSN,1958,Appalachian League,,F20115,Connell,,0,Wytheville,,,,,1b10
+minoraverages/1959TSN,1958,Appalachian League,,F20560,Connell,,0,Wytheville,,,,,of18
+minoraverages/1959TSN,1958,Appalachian League,,B00324,Cowan,William,0,Pulaski,,,22,,
+minoraverages/1959TSN,1958,Appalachian League,,F21000,Cowan,,0,Pulaski,,,,,c12
+minoraverages/1959TSN,1958,Appalachian League,,P10767,Cowan,,0,Pulaski,,,,2,
+minoraverages/1959TSN,1958,Appalachian League,,B00335,Crane,Louis,0,Pulaski,,,11,,
+minoraverages/1959TSN,1958,Appalachian League,,F21101,Crane,,0,Pulaski,,,,,p11
+minoraverages/1959TSN,1958,Appalachian League,,P10043,Crane,,0,Pulaski,,,,11,
+minoraverages/1959TSN,1958,Appalachian League,,B01359,Cross,Robert,0,Bluefield,,,3,,
+minoraverages/1959TSN,1958,Appalachian League,,B01663,Cuda,Frank,0,Salem,,,7,,
+minoraverages/1959TSN,1958,Appalachian League,,B01674,Daniels,Robert,0,Salem,,,7,,
+minoraverages/1959TSN,1958,Appalachian League,,P10056,Daniels,,0,Salem,,,,7,
+minoraverages/1959TSN,1958,Appalachian League,,B01682,Davis,Oscar,0,Salem,,,1,,
+minoraverages/1959TSN,1958,Appalachian League,,B01754,Davis,Louis,0,Wytheville,,,2,,
+minoraverages/1959TSN,1958,Appalachian League,,P10795,Davis,,0,Salem,,,,1,
+minoraverages/1959TSN,1958,Appalachian League,,P10847,Davis,,0,Wytheville,,,,2,
+minoraverages/1959TSN,1958,Appalachian League,,B00343,DeSarbo,Richard,0,Bluefield,,,24,,
+minoraverages/1959TSN,1958,Appalachian League,,F20375,DeSarbo,,0,Bluefield,,,,,3b11
+minoraverages/1959TSN,1958,Appalachian League,,B01368,Dominy,Clinton,0,Bluefield,,,4,,
+minoraverages/1959TSN,1958,Appalachian League,,P10062,Dominy,,0,Bluefield,,,,4,
+minoraverages/1959TSN,1958,Appalachian League,,M90039,Dorton,M. Lamar (Larry),,Salem,,,,,
 minoraverages/emilbb,1958,Appalachian League,,M91607,Dorton,Larry,,Salem,,,,,
+minoraverages/1959TSN,1958,Appalachian League,,B00356,Doyle,Raymond,0,Johnson City,,,24,,
+minoraverages/1959TSN,1958,Appalachian League,,F20254,Doyle,,0,Johnson City,,,,,3b15
+minoraverages/1959TSN,1958,Appalachian League,,B01765,Drennan,Ronald,0,Wytheville,,,4,,
+minoraverages/1959TSN,1958,Appalachian League,,P10070,Drennan,,0,Wytheville,,,,4,
+minoraverages/1959TSN,1958,Appalachian League,,B00362,Duff,Herbert,0,Bluefield,,,13,,
+minoraverages/1959TSN,1958,Appalachian League,,F21335,Duff,,0,Bluefield,,,,,p13
+minoraverages/1959TSN,1958,Appalachian League,,P10081,Duff,,0,Bluefield,,,,13,
+minoraverages/1959TSN,1958,Appalachian League,,B01376,Durden,Charles,0,Bluefield,,,9,,
+minoraverages/1959TSN,1958,Appalachian League,,P10097,Durden,,0,Bluefield,,,,9,
+minoraverages/1959TSN,1958,Appalachian League,,B00370,Edwards,Curtis,0,Bluefield,,,62,,
+minoraverages/1959TSN,1958,Appalachian League,,F20391,Edwards,,0,Bluefield,,,,,3b12
+minoraverages/1959TSN,1958,Appalachian League,,F20583,Edwards,,0,Bluefield,,,,,of39
+minoraverages/1959TSN,1958,Appalachian League,,B01779,Ellis,Rudolph,0,Wytheville,,,3,,
+minoraverages/1959TSN,1958,Appalachian League,,P10852,Ellis,,0,Wytheville,,,,3,
+minoraverages/1959TSN,1958,Appalachian League,,B00381,Funge,Robert,0,Wytheville,,,16,,
+minoraverages/1959TSN,1958,Appalachian League,,F21059,Funge,,0,Wytheville,,,,,p16
+minoraverages/1959TSN,1958,Appalachian League,,P10100,Funge,,0,Wytheville,,,,16,
+minoraverages/1959TSN,1958,Appalachian League,,B00397,Gardner,Arthur,0,Pulaski,,,60,,
+minoraverages/1959TSN,1958,Appalachian League,,F20369,Gardner,,0,Pulaski,,,,,3b34
+minoraverages/1959TSN,1958,Appalachian League,,F20699,Gardner,,0,Pulaski,,,,,of25
+minoraverages/1959TSN,1958,Appalachian League,,B00403,Garr,Donald,0,Bluefield,,,18,,
+minoraverages/1959TSN,1958,Appalachian League,,F21255,Garr,,0,Bluefield,,,,,p16
+minoraverages/1959TSN,1958,Appalachian League,,P10113,Garr,,0,Bluefield,,,,16,
+minoraverages/1959TSN,1958,Appalachian League,,B00416,Garrett,Russell,0,Bluefield,,,12,,
+minoraverages/1959TSN,1958,Appalachian League,,B01580,Garrett,Chester,0,Pulaski,,,6,,
+minoraverages/1959TSN,1958,Appalachian League,,F20539,Garrett,,0,Bluefield,,,,,of11
+minoraverages/1959TSN,1958,Appalachian League,,P10772,Garrett,,0,Pulaski,,,,2,
+minoraverages/1959TSN,1958,Appalachian League,,B00427,Gore,A. Jennings,0,Johnson City,,,29,,
+minoraverages/1959TSN,1958,Appalachian League,,F20700,Gore,,0,Johnson City,,,,,of20
+minoraverages/1959TSN,1958,Appalachian League,,B01787,Guevara,Joaquin,0,Wytheville,,,8,,
+minoraverages/1959TSN,1958,Appalachian League,,P10121,Guevara,,0,Wytheville,,,,8,
+minoraverages/1959TSN,1958,Appalachian League,,B00434,Guy,James,0,Wytheville,,,21,,
+minoraverages/1959TSN,1958,Appalachian League,,B01595,Haessly,Richard,1,Salem,,,1,,
+minoraverages/1959TSN,1958,Appalachian League,,B01595,Haessly,Richard,2,Pulaski,,,2,,
+minoraverages/1959TSN,1958,Appalachian League,,B01595,Haessly,Richard,T,,,,3,,
+minoraverages/1959TSN,1958,Appalachian League,,P10805,Haessly,,0,Salem,,,,1,
+minoraverages/1959TSN,1958,Appalachian League,,B00442,Haines,Richard,0,Johnson City,,,15,,
+minoraverages/1959TSN,1958,Appalachian League,,B00450,Haines,Robert,0,Johnson City,,,25,,
+minoraverages/1959TSN,1958,Appalachian League,,F20547,Haines,Robt.,0,Johnson City,,,,,of14
+minoraverages/1959TSN,1958,Appalachian League,,F20661,Haines,Rich.,0,Johnson City,,,,,of14
+minoraverages/1959TSN,1958,Appalachian League,,B01798,Haniak,Frank,0,Wytheville,,,5,,
+minoraverages/1959TSN,1958,Appalachian League,,B00469,Hartoin,William,0,Salem,,,12,,
+minoraverages/1959TSN,1958,Appalachian League,,F21319,Hartoin,,0,Salem,,,,,p12
+minoraverages/1959TSN,1958,Appalachian League,,P10137,Hartoin,,0,Salem,,,,12,
+minoraverages/1959TSN,1958,Appalachian League,,B01696,Haskins,Edward,0,Salem,,,7,,
+minoraverages/1959TSN,1958,Appalachian League,,B00475,Haun,Walter,0,Bluefield,,,21,,
+minoraverages/1959TSN,1958,Appalachian League,,F21416,Haun,,0,Bluefield,,,,,p20
+minoraverages/1959TSN,1958,Appalachian League,,P10145,Haun,,0,Bluefield,,,,20,
+minoraverages/1959TSN,1958,Appalachian League,,B01509,Hawley,,0,Johnson City,,,1,,
+minoraverages/1959TSN,1958,Appalachian League,,B00488,Hellmer,Robert,0,Johnson City,,,13,,
+minoraverages/1959TSN,1958,Appalachian League,,F21125,Hellmer,,0,Johnson City,,,,,p12
+minoraverages/1959TSN,1958,Appalachian League,,P10159,Hellmer,,0,Johnson City,,,,12,
+minoraverages/1959TSN,1958,Appalachian League,,B00491,Hendrix,Phillip,0,Bluefield,,,32,,
+minoraverages/1959TSN,1958,Appalachian League,,F20080,Hendrix,,0,Bluefield,,,,,1b25
+minoraverages/1959TSN,1958,Appalachian League,,B00502,Henning,Douglas,0,Wytheville,,,19,,
+minoraverages/1959TSN,1958,Appalachian League,,F20919,Henning,,0,Wytheville,,,,,c18
+minoraverages/1959TSN,1958,Appalachian League,,B00515,Hicks,Hadley,0,Pulaski,,,59,,
+minoraverages/1959TSN,1958,Appalachian League,,F20673,Hicks,,0,Pulaski,,,,,of58
+minoraverages/1959TSN,1958,Appalachian League,,B01804,Hill,Terry,0,Wytheville,,,3,,
+minoraverages/1959TSN,1958,Appalachian League,,P10860,Hill,,0,Wytheville,,,,3,
 minoraverages/emilbb,1958,Appalachian League,,M91632,Hofman,Fred,,Bluefield,,,,,
+minoraverages/1959TSN,1958,Appalachian League,,M90060,Hofmann,Fred,,Bluefield,19580728,,,,
+minoraverages/1959TSN,1958,Appalachian League,,B00528,Hofmeister,William,0,Johnson City,,,16,,
+minoraverages/1959TSN,1958,Appalachian League,,F21117,Hofmeister,,0,Johnson City,,,,,p16
+minoraverages/1959TSN,1958,Appalachian League,,P10168,Hofmeister,,0,Johnson City,,,,16,
+minoraverages/1959TSN,1958,Appalachian League,,B00531,Hooper,Alfred,0,Wytheville,,,46,,
+minoraverages/1959TSN,1958,Appalachian League,,M90071,Hooper,Robert,,Bluefield,19580804,,,,
 minoraverages/emilbb,1958,Appalachian League,,M91641,Hooper,Bob,,Bluefield,,,,,
+minoraverages/1959TSN,1958,Appalachian League,,F20810,Hopper,,0,Wytheville,,,,,of33
+minoraverages/1959TSN,1958,Appalachian League,,B00544,Hunt,Richard,0,Bluefield,,,24,,
+minoraverages/1959TSN,1958,Appalachian League,,F21229,Hunt,,0,Bluefield,,,,,p11
+minoraverages/1959TSN,1958,Appalachian League,,P10176,Hunt,,0,Bluefield,,,,11,
+minoraverages/1959TSN,1958,Appalachian League,,B01514,Hurlbert,William,0,Johnson City,,,3,,
+minoraverages/1959TSN,1958,Appalachian League,,P10714,Hurlbert,,0,Johnson City,,,,3,
+minoraverages/1959TSN,1958,Appalachian League,,B00553,Irvine,Rodger,0,Salem,,,17,,
+minoraverages/1959TSN,1958,Appalachian League,,F21149,Irvine,,0,Salem,,,,,p17
+minoraverages/1959TSN,1958,Appalachian League,,P10184,Irvine,,0,Salem,,,,17,
+minoraverages/1959TSN,1958,Appalachian League,,B01812,Jennings,James,0,Wytheville,,,4,,
+minoraverages/1959TSN,1958,Appalachian League,,B00566,Johnson,Gary D.,0,Pulaski,,,70,,
+minoraverages/1959TSN,1958,Appalachian League,,B00577,Johnson,Phillip,0,Bluefield,,,12,,
+minoraverages/1959TSN,1958,Appalachian League,,B00589,Johnson,Walter,0,Wytheville,,,20,,
+minoraverages/1959TSN,1958,Appalachian League,,F20233,Johnson,,0,Bluefield,,,,,2b11
+minoraverages/1959TSN,1958,Appalachian League,,F20463,Johnson,,0,Pulaski,,,,,ss64
+minoraverages/1959TSN,1958,Appalachian League,,F20604,Johnson,,0,Wytheville,,,,,of18
+minoraverages/1959TSN,1958,Appalachian League,,B00590,Jones,Thomas L.,0,Pulaski,,,19,,
+minoraverages/1959TSN,1958,Appalachian League,,F21343,Jones,,0,Pulaski,,,,,p13
+minoraverages/1959TSN,1958,Appalachian League,,P10192,Jones,,0,Pulaski,,,,13,
+minoraverages/1959TSN,1958,Appalachian League,,B00609,Keller,Larry,0,Johnson City,,,52,,
+minoraverages/1959TSN,1958,Appalachian League,,F20841,Keller,,0,Johnson City,,,,,of45
+minoraverages/1959TSN,1958,Appalachian League,,B00614,Kerick,Anthony,0,Bluefield,,,15,,
+minoraverages/1959TSN,1958,Appalachian League,,F21130,Kerick,,0,Bluefield,,,,,p12
+minoraverages/1959TSN,1958,Appalachian League,,P10202,Kerick,,0,Bluefield,,,,12,
+minoraverages/1959TSN,1958,Appalachian League,,B00623,Kerrigan,John,0,Johnson City,,,13,,
+minoraverages/1959TSN,1958,Appalachian League,,F21068,Kerrigan,,0,Johnson City,,,,,p13
+minoraverages/1959TSN,1958,Appalachian League,,P10215,Kerrigan,,0,Johnson City,,,,13,
+minoraverages/1959TSN,1958,Appalachian League,,B01820,Ketcham,Wayne,0,Wytheville,,,8,,
+minoraverages/1959TSN,1958,Appalachian League,,B00638,King,Earnest,0,Pulaski,,,60,,
+minoraverages/1959TSN,1958,Appalachian League,,F20713,King,,0,Pulaski,,,,,of57
+minoraverages/1959TSN,1958,Appalachian League,,B00646,Klukososki,Thomas  ,0,Johnson City,,,10,,
+minoraverages/1959TSN,1958,Appalachian League,,F21293,Klukososki,,0,Johnson City,,,,,p10
+minoraverages/1959TSN,1958,Appalachian League,,P10228,Klukososki,,0,Johnson City,,,,10,
+minoraverages/1959TSN,1958,Appalachian League,,B00651,Kruthoffer,Robert,0,Wytheville,,,16,,
+minoraverages/1959TSN,1958,Appalachian League,,F21427,Kruthoffer,,0,Wytheville,,,,,p16
+minoraverages/1959TSN,1958,Appalachian League,,P10231,Kruthoffer,,0,Wytheville,,,,16,
+minoraverages/1959TSN,1958,Appalachian League,,B00667,Kuehl,Duane,0,Wytheville,,,14,,
+minoraverages/1959TSN,1958,Appalachian League,,F20072,Kuehl,,0,Wytheville,,,,,1b11
+minoraverages/1959TSN,1958,Appalachian League,,B01523,Kummer,Gerald,0,Johnson City,,,5,,
+minoraverages/1959TSN,1958,Appalachian League,,P10723,Kummer,,0,Johnson City,,,,5,
+minoraverages/1959TSN,1958,Appalachian League,,M90026,Kurowski,George (Whitey),,Wytheville,,,,,
 minoraverages/emilbb,1958,Appalachian League,,M91597,Kurowski,Whitey,,Wytheville,,,,,
+minoraverages/1959TSN,1958,Appalachian League,,B00672,Lalley,James,0,Johnson City,,,12,,
+minoraverages/1959TSN,1958,Appalachian League,,F20144,Lalley,,0,Johnson City,,,,,2b10
+minoraverages/1959TSN,1958,Appalachian League,,B00680,Lawrence,Thomas,0,Johnson City,,,11,,
+minoraverages/1959TSN,1958,Appalachian League,,F21084,Lawrence,,0,Johnson City,,,,,p11
+minoraverages/1959TSN,1958,Appalachian League,,P10244,Lawrence,,0,Johnson City,,,,11,
+minoraverages/1959TSN,1958,Appalachian League,,B00695,Leonard,Charles,0,Salem,,,67,,
+minoraverages/1959TSN,1958,Appalachian League,,F20014,Leonard,,0,Salem,,,,,1b67
+minoraverages/1959TSN,1958,Appalachian League,,B00705,Liptak,Andrew,0,Salem,,,15,,
+minoraverages/1959TSN,1958,Appalachian League,,F21196,Liptak,,0,Salem,,,,,p14
+minoraverages/1959TSN,1958,Appalachian League,,P10253,Liptak,,0,Salem,,,,14,
+minoraverages/1959TSN,1958,Appalachian League,,B01538,Littleton,Donald,0,Johnson City,,,6,,
+minoraverages/1959TSN,1958,Appalachian League,,P10266,Littleton,,0,Johnson City,,,,6,
+minoraverages/1959TSN,1958,Appalachian League,,B01601,Lott,George,0,Pulaski,,,1,,
+minoraverages/1959TSN,1958,Appalachian League,,B00718,Luckring,James,0,Pulaski,,,19,,
+minoraverages/1959TSN,1958,Appalachian League,,F21381,Luckring,,0,Pulaski,,,,,p18
+minoraverages/1959TSN,1958,Appalachian League,,P10277,Luckring,,0,Pulaski,,,,18,
+minoraverages/1959TSN,1958,Appalachian League,,B00726,Luketich,Leroy,0,Salem,,,27,,
+minoraverages/1959TSN,1958,Appalachian League,,F20924,Luketich,,0,Salem,,,,,c24
+minoraverages/1959TSN,1958,Appalachian League,,P10818,Luketich,,0,Salem,,,,1,
+minoraverages/1959TSN,1958,Appalachian League,,M90052,Lutz,Bernard,,Bluefield,,,,,
 minoraverages/emilbb,1958,Appalachian League,,M91629,Lutz,Barney,,Bluefield,,,,,
+minoraverages/1959TSN,1958,Appalachian League,,M90018,Lyons,Edmund,,Johnson City,,,,,
 minoraverages/emilbb,1958,Appalachian League,,M91581,Lyons,Eddie,,Johnson City,,,,,
+minoraverages/1959TSN,1958,Appalachian League,,B01706,Mack,Howard,0,Salem,,,1,,
+minoraverages/1959TSN,1958,Appalachian League,,B01836,Marble,Clarence,0,Wytheville,,,6,,
+minoraverages/1959TSN,1958,Appalachian League,,P10289,Marble,,0,Wytheville,,,,6,
+minoraverages/1959TSN,1958,Appalachian League,,B00739,Marcum,Ronald,0,Bluefield,,,23,,
+minoraverages/1959TSN,1958,Appalachian League,,F21397,Marcum,,0,Bluefield,,,,,p23
+minoraverages/1959TSN,1958,Appalachian League,,P10290,Marcum,,0,Bluefield,,,,23,
+minoraverages/1959TSN,1958,Appalachian League,,B00747,Martin,Augustus,0,Bluefield,,,56,,
+minoraverages/1959TSN,1958,Appalachian League,,F20571,Martin,,0,Bluefield,,,,,of56
+minoraverages/1959TSN,1958,Appalachian League,,M90047,Martin,Hershel,,Pulaski,,,,,
 minoraverages/emilbb,1958,Appalachian League,,M91610,Martin,Hershel,,Pulaski,,,,,
+minoraverages/1959TSN,1958,Appalachian League,,B00752,McBean,Alvin,0,Salem,,,24,,
+minoraverages/1959TSN,1958,Appalachian League,,F21158,McBean,,0,Salem,,,,,p22
+minoraverages/1959TSN,1958,Appalachian League,,P10304,McBean,,0,Salem,,,,22,
+minoraverages/1959TSN,1958,Appalachian League,,B00760,McFarlane,Jesus,0,Salem,,,68,,
+minoraverages/1959TSN,1958,Appalachian League,,F20206,McFarlane,,0,Salem,,,,,2b18
+minoraverages/1959TSN,1958,Appalachian League,,F20997,McFarlane,,0,Salem,,,,,c48
+minoraverages/1959TSN,1958,Appalachian League,,B00771,McGee,Wayne,0,Pulaski,,,30,,
+minoraverages/1959TSN,1958,Appalachian League,,F20067,McGee,,0,Pulaski,,,,,1b11
+minoraverages/1959TSN,1958,Appalachian League,,F21278,McGee,,0,Pulaski,,,,,p14
+minoraverages/1959TSN,1958,Appalachian League,,P10312,McGee,,0,Pulaski,,,,14,
+minoraverages/1959TSN,1958,Appalachian League,,B00783,McMillan,Rex,0,Salem,,,31,,
+minoraverages/1959TSN,1958,Appalachian League,,F20612,McMillan,,0,Salem,,,,,of30
+minoraverages/1959TSN,1958,Appalachian League,,B00794,Menefee,Richard,0,Pulaski,,,19,,
+minoraverages/1959TSN,1958,Appalachian League,,F21362,Menefee,,0,Pulaski,,,,,p19
+minoraverages/1959TSN,1958,Appalachian League,,P10320,Menefee,,0,Pulaski,,,,19,
+minoraverages/1959TSN,1958,Appalachian League,,B00806,Meningall,Albert,0,Johnson City,,,56,,
+minoraverages/1959TSN,1958,Appalachian League,,F20038,Meningall,,0,Johnson City,,,,,1b53
+minoraverages/1959TSN,1958,Appalachian League,,B00811,Merritt,Jack,0,Pulaski,,,14,,
+minoraverages/1959TSN,1958,Appalachian League,,F21370,Merritt,,0,Pulaski,,,,,p12
+minoraverages/1959TSN,1958,Appalachian League,,P10336,Merritt,,0,Pulaski,,,,12,
+minoraverages/1959TSN,1958,Appalachian League,,B00822,Minor,Willie,0,Wytheville,,,46,,
+minoraverages/1959TSN,1958,Appalachian League,,F20552,Minor,,0,Wytheville,,,,,of43
+minoraverages/1959TSN,1958,Appalachian League,,B01848,Minshew,Lamar,0,Wytheville,,,4,,
+minoraverages/1959TSN,1958,Appalachian League,,B01384,Misner,Kenneth,0,Bluefield,,,2,,
+minoraverages/1959TSN,1958,Appalachian League,,P10611,Misner,,0,Bluefield,,,,2,
+minoraverages/1959TSN,1958,Appalachian League,,B00833,Moncion,Anerio,0,Salem,,,18,,
+minoraverages/1959TSN,1958,Appalachian League,,B01857,Mooneyham,Jack,0,Wytheville,,,4,,
+minoraverages/1959TSN,1958,Appalachian League,,P10348,Mooneyham,,0,Wytheville,,,,4,
+minoraverages/1959TSN,1958,Appalachian League,,B01392,Moore,James H.,0,Bluefield,,,3,,
+minoraverages/1959TSN,1958,Appalachian League,,P10622,Moore,,0,Bluefield,,,,2,
+minoraverages/1959TSN,1958,Appalachian League,,B00840,Narum,Leslie,0,Bluefield,,,19,,
+minoraverages/1959TSN,1958,Appalachian League,,F21356,Narum,,0,Bluefield,,,,,p15
+minoraverages/1959TSN,1958,Appalachian League,,P10357,Narum,,0,Bluefield,,,,15,
+minoraverages/1959TSN,1958,Appalachian League,,B00854,Nauert,Jerry,0,Pulaski,,,46,,
+minoraverages/1959TSN,1958,Appalachian League,,F20935,Nauert,,0,Pulaski,,,,,c28
+minoraverages/1959TSN,1958,Appalachian League,,B00865,Nebinger,Richard,0,Bluefield,,,48,,
+minoraverages/1959TSN,1958,Appalachian League,,F20222,Nebinger,,0,Bluefield,,,,,2b37
+minoraverages/1959TSN,1958,Appalachian League,,B00879,Nickisch,Leon,0,Wytheville,,,15,,
+minoraverages/1959TSN,1958,Appalachian League,,F21092,Nickisch,,0,Wytheville,,,,,p14
+minoraverages/1959TSN,1958,Appalachian League,,P10361,Nickisch,,0,Wytheville,,,,14,
+minoraverages/1959TSN,1958,Appalachian League,,B01861,Pankey,Michael,0,Wytheville,,,8,,
+minoraverages/1959TSN,1958,Appalachian League,,P10373,Pankey,,0,Wytheville,,,,8,
+minoraverages/1959TSN,1958,Appalachian League,,B01402,Papa,John,0,Bluefield,,,8,,
+minoraverages/1959TSN,1958,Appalachian League,,P10385,Papa,,0,Bluefield,,,,8,
+minoraverages/1959TSN,1958,Appalachian League,,B01415,Paul,Gary  ,0,Bluefield,,,1,,
+minoraverages/1959TSN,1958,Appalachian League,,P10633,Paul,,0,Bluefield,,,,1,
+minoraverages/1959TSN,1958,Appalachian League,,B00887,Paulino,Antonio,0,Wytheville,,,30,,
+minoraverages/1959TSN,1958,Appalachian League,,F20458,Paulino,,0,Wytheville,,,,,ss28
+minoraverages/1959TSN,1958,Appalachian League,,B00898,Pearson,Arthur,0,Wytheville,,,11,,
+minoraverages/1959TSN,1958,Appalachian League,,F21207,Pearson,,0,Wytheville,,,,,p11
+minoraverages/1959TSN,1958,Appalachian League,,P10399,Pearson,,0,Wytheville,,,,11,
+minoraverages/1959TSN,1958,Appalachian League,,B01711,Perez,Eduardo,0,Salem,,,2,,
+minoraverages/1959TSN,1958,Appalachian League,,B00904,Phagan,Fred,0,Bluefield,,,13,,
+minoraverages/1959TSN,1958,Appalachian League,,F20768,Phagan,,0,Bluefield,,,,,of13
+minoraverages/1959TSN,1958,Appalachian League,,B01722,Pollock,Harry,0,Salem,,,7,,
+minoraverages/1959TSN,1958,Appalachian League,,P10407,Pollock,,0,Salem,,,,7,
+minoraverages/1959TSN,1958,Appalachian League,,B01873,Porter,Earl,0,Wytheville,,,7,,
+minoraverages/1959TSN,1958,Appalachian League,,P10410,Porter,,0,Wytheville,,,,7,
+minoraverages/1959TSN,1958,Appalachian League,,B00912,Pregenzer,John,0,Salem,,,14,,
+minoraverages/1959TSN,1958,Appalachian League,,F21045,Pregenzer,,0,Salem,,,,,p14
+minoraverages/1959TSN,1958,Appalachian League,,P10429,Pregenzer,,0,Salem,,,,14,
+minoraverages/1959TSN,1958,Appalachian League,,B00920,Priddy,Robert,0,Salem,,,71,,
+minoraverages/1959TSN,1958,Appalachian League,,F20350,Priddy,,0,Salem,,,,,3b46
+minoraverages/1959TSN,1958,Appalachian League,,F20505,Priddy,,0,Salem,,,,,ss12
+minoraverages/1959TSN,1958,Appalachian League,,F20807,Priddy,,0,Salem,,,,,of14
+minoraverages/1959TSN,1958,Appalachian League,,B01885,Rapado,Jorge,0,Wytheville,,,5,,
+minoraverages/1959TSN,1958,Appalachian League,,P10432,Rapado,,0,Wytheville,,,,4,
+minoraverages/1959TSN,1958,Appalachian League,,B00936,Rasmussen,Harold,0,Pulaski,,,23,,
+minoraverages/1959TSN,1958,Appalachian League,,F20759,Rasmussen,,0,Pulaski,,,,,of11
+minoraverages/1959TSN,1958,Appalachian League,,F20886,Rasmussen,,0,Pulaski,,,,,c11
+minoraverages/1959TSN,1958,Appalachian League,,B00948,Reimer,Gerald,0,Johnson City,,,51,,
+minoraverages/1959TSN,1958,Appalachian League,,F20737,Reimer,,0,Johnson City,,,,,of40
+minoraverages/1959TSN,1958,Appalachian League,,B00957,Reittinger,David,0,Wytheville,,,14,,
+minoraverages/1959TSN,1958,Appalachian League,,F21163,Reittinger,,0,Wytheville,,,,,p14
+minoraverages/1959TSN,1958,Appalachian League,,P10441,Reittinger,,0,Wytheville,,,,14,
+minoraverages/1959TSN,1958,Appalachian League,,B01428,Rhyner,Rolland,0,Bluefield,,,8,,
+minoraverages/1959TSN,1958,Appalachian League,,P10455,Rhyner,,0,Bluefield,,,,8,
+minoraverages/1959TSN,1958,Appalachian League,,B00961,Robinson,Lindsey,0,Johnson City,,,16,,
+minoraverages/1959TSN,1958,Appalachian League,,F20878,Robinson,,0,Johnson City,,,,,c15
+minoraverages/1959TSN,1958,Appalachian League,,B01431,Rumohr,John,0,Bluefield,,,2,,
+minoraverages/1959TSN,1958,Appalachian League,,P10640,Rumohr,,0,Bluefield,,,,1,
+minoraverages/1959TSN,1958,Appalachian League,,B00973,Russell,James W.,0,Bluefield,,,25,,
+minoraverages/1959TSN,1958,Appalachian League,,F21013,Russell,,0,Bluefield,,,,,c24
+minoraverages/1959TSN,1958,Appalachian League,,B01733,Russo,Frank,0,Salem,,,1,,
+minoraverages/1959TSN,1958,Appalachian League,,P10826,Russo,,0,Salem,,,,1,
+minoraverages/1959TSN,1958,Appalachian League,,B00985,Ruth,Ronald,0,Johnson City,,,16,,
+minoraverages/1959TSN,1958,Appalachian League,,F21308,Ruth,,0,Johnson City,,,,,p16
+minoraverages/1959TSN,1958,Appalachian League,,P10464,Ruth,,0,Johnson City,,,,16,
+minoraverages/1959TSN,1958,Appalachian League,,B00999,Saba,Ramon,0,Salem,,,16,,
+minoraverages/1959TSN,1958,Appalachian League,,F21286,Saba,,0,Salem,,,,,p15
+minoraverages/1959TSN,1958,Appalachian League,,P10478,Saba,,0,Salem,,,,15,
+minoraverages/1959TSN,1958,Appalachian League,,B01740,Salinas ,Hilario,0,Salem,,,2,,
+minoraverages/1959TSN,1958,Appalachian League,,B01007,Satalich,James,0,Bluefield,,,56,,
+minoraverages/1959TSN,1958,Appalachian League,,F20829,Satalich,,0,Bluefield,,,,,of39
+minoraverages/1959TSN,1958,Appalachian League,,P10654,Satalich,,0,Bluefield,,,,1,
+minoraverages/1959TSN,1958,Appalachian League,,B01010,Schnellbaecher,William,0,Wytheville,,,42,,
+minoraverages/1959TSN,1958,Appalachian League,,F20342,Schnellbaecher,,0,Wytheville,,,,,3b39
+minoraverages/1959TSN,1958,Appalachian League,,B01546,Schuman,Robert,0,Johnson City,,,1,,
+minoraverages/1959TSN,1958,Appalachian League,,P10738,Schuman,,0,Johnson City,,,,1,
+minoraverages/1959TSN,1958,Appalachian League,,B01029,Seidleck,Eugene,0,Wytheville,,,19,,
+minoraverages/1959TSN,1958,Appalachian League,,F20864,Seidleck,,0,Wytheville,,,,,c18
+minoraverages/1959TSN,1958,Appalachian League,,B01032,Short,John,0,Bluefield,,,42,,
+minoraverages/1959TSN,1958,Appalachian League,,B01041,Short,Joseph,0,Johnson City,,,15,,
+minoraverages/1959TSN,1958,Appalachian League,,F20102,Short,,0,Bluefield,,,,,1b39
+minoraverages/1959TSN,1958,Appalachian League,,F21264,Short,,0,Johnson City,,,,,p14
+minoraverages/1959TSN,1958,Appalachian League,,P10486,Short,,0,Johnson City,,,,14,
+minoraverages/1959TSN,1958,Appalachian League,,B01055,Siford,George,0,Wytheville,,,28,,
+minoraverages/1959TSN,1958,Appalachian League,,F20211,Siford,,0,Wytheville,,,,,2b13
+minoraverages/1959TSN,1958,Appalachian League,,F20474,Siford,,0,Wytheville,,,,,ss15
+minoraverages/1959TSN,1958,Appalachian League,,B01064,Smith,Norman,1,Salem,,,16,,
+minoraverages/1959TSN,1958,Appalachian League,,B01064,Smith,Norman,2,Bluefield,,,11,,
+minoraverages/1959TSN,1958,Appalachian League,,B01064,Smith,Norman,T,,,,27,,
+minoraverages/1959TSN,1958,Appalachian League,,B01551,Smith,Richard M.,0,Johnson City,,,6,,
+minoraverages/1959TSN,1958,Appalachian League,,F20240,Smith,,1,Salem,,,,,2b
+minoraverages/1959TSN,1958,Appalachian League,,F20240,Smith,,2,Bluefield,,,,,2b
+minoraverages/1959TSN,1958,Appalachian League,,F20240,Smith,,T,,,,,,2b11
+minoraverages/1959TSN,1958,Appalachian League,,F20303,Smith,,1,Salem,,,,,3b
+minoraverages/1959TSN,1958,Appalachian League,,F20303,Smith,,2,Bluefield,,,,,3b
+minoraverages/1959TSN,1958,Appalachian League,,F20303,Smith,,T,,,,,,3b10
+minoraverages/1959TSN,1958,Appalachian League,,P10493,Smith,,0,Johnson City,,,,6,
+minoraverages/1959TSN,1958,Appalachian League,,B01444,Sosnowski,Richard,0,Bluefield,,,4,,
+minoraverages/1959TSN,1958,Appalachian League,,P10503,Sosnowski,,0,Bluefield,,,,4,
+minoraverages/1959TSN,1958,Appalachian League,,B01078,Spring,Ronald,0,Salem,,,15,,
+minoraverages/1959TSN,1958,Appalachian League,,F21241,Spring,,0,Salem,,,,,p15
+minoraverages/1959TSN,1958,Appalachian League,,P10516,Spring,,0,Salem,,,,15,
+minoraverages/1959TSN,1958,Appalachian League,,B01086,Stafford,Harold,0,Pulaski,,,66,,
+minoraverages/1959TSN,1958,Appalachian League,,F20153,Stafford,,0,Pulaski,,,,,2b53
+minoraverages/1959TSN,1958,Appalachian League,,F20417,Stafford,,0,Pulaski,,,,,ss12
+minoraverages/1959TSN,1958,Appalachian League,,B01093,Stansell,Charles,0,Bluefield,,,46,,
+minoraverages/1959TSN,1958,Appalachian League,,F20962,Stansell,,0,Bluefield,,,,,c34
+minoraverages/1959TSN,1958,Appalachian League,,P10665,Stansell,,0,Bluefield,,,,1,
+minoraverages/1959TSN,1958,Appalachian League,,B01453,Steenhuis,Willis,0,Bluefield,,,4,,
+minoraverages/1959TSN,1958,Appalachian League,,P10679,Steenhuis,,0,Bluefield,,,,2,
+minoraverages/1959TSN,1958,Appalachian League,,B01108,Steevens,Morris,0,Pulaski,,,44,,
+minoraverages/1959TSN,1958,Appalachian League,,F20784,Steevens,,0,Pulaski,,,,,of24
+minoraverages/1959TSN,1958,Appalachian League,,F21210,Steevens,,0,Pulaski,,,,,p16
+minoraverages/1959TSN,1958,Appalachian League,,P10527,Steevens,,0,Pulaski,,,,16,
+minoraverages/1959TSN,1958,Appalachian League,,B01119,Stolzer,Robert,0,Wytheville,,,54,,
+minoraverages/1959TSN,1958,Appalachian League,,F20023,Stolzer,,0,Wytheville,,,,,1b51
+minoraverages/1959TSN,1958,Appalachian League,,B01124,Suarez,Arnoldo,0,Wytheville,,,17,,
+minoraverages/1959TSN,1958,Appalachian League,,F20401,Suarez,,0,Wytheville,,,,,ss17
+minoraverages/1959TSN,1958,Appalachian League,,B01135,Sznajder,William,0,Salem,,,63,,
+minoraverages/1959TSN,1958,Appalachian League,,F20636,Sznajder,,0,Salem,,,,,of60
+minoraverages/1959TSN,1958,Appalachian League,,P10839,Sznajder,,0,Salem,,,,1,
+minoraverages/1959TSN,1958,Appalachian League,,B01143,Tanner,Frank,0,Pulaski,,,13,,
+minoraverages/1959TSN,1958,Appalachian League,,F21037,Tanner,,0,Pulaski,,,,,c10
+minoraverages/1959TSN,1958,Appalachian League,,B01156,Taylor,Gerald,0,Salem,,,16,,
+minoraverages/1959TSN,1958,Appalachian League,,F20287,Taylor,,0,Salem,,,,,3b11
+minoraverages/1959TSN,1958,Appalachian League,,B01162,Telleria,Emiliano,0,Salem,,,61,,
+minoraverages/1959TSN,1958,Appalachian League,,F20425,Telleria,,0,Salem,,,,,ss60
+minoraverages/1959TSN,1958,Appalachian League,,B01170,Tessier,Warren,0,Johnson City,,,10,,
+minoraverages/1959TSN,1958,Appalachian League,,B01899,Tolar,Billy,0,Wytheville,,,1,,
+minoraverages/1959TSN,1958,Appalachian League,,P10871,Tolar,,0,Wytheville,,,,1,
+minoraverages/1959TSN,1958,Appalachian League,,B01181,Torczon,Eugene,0,Salem,,,54,,
+minoraverages/1959TSN,1958,Appalachian League,,F20657,Torczon,,0,Salem,,,,,of52
+minoraverages/1959TSN,1958,Appalachian League,,B01197,Trollinger,Walter,0,Salem,,,16,,
+minoraverages/1959TSN,1958,Appalachian League,,F21076,Trollinger,,0,Salem,,,,,p13
+minoraverages/1959TSN,1958,Appalachian League,,P10534,Trollinger,,0,Salem,,,,13,
+minoraverages/1959TSN,1958,Appalachian League,,B01617,Voss,Thomas,0,Pulaski,,,1,,
+minoraverages/1959TSN,1958,Appalachian League,,B01203,Wade,Benny,0,Wytheville,,,23,,
+minoraverages/1959TSN,1958,Appalachian League,,F20496,Wade,,0,Wytheville,,,,,ss14
+minoraverages/1959TSN,1958,Appalachian League,,B01216,Ward,Donald,0,Wytheville,,,17,,
+minoraverages/1959TSN,1958,Appalachian League,,F20279,Ward,,0,Wytheville,,,,,3b13
+minoraverages/1959TSN,1958,Appalachian League,,B01227,Warner,Jack,0,Pulaski,,,10,,
+minoraverages/1959TSN,1958,Appalachian League,,F21232,Warner,,0,Pulaski,,,,,p10
+minoraverages/1959TSN,1958,Appalachian League,,P10542,Warner,,0,Pulaski,,,,10,
+minoraverages/1959TSN,1958,Appalachian League,,B01234,Watts,Harry,0,Wytheville,,,32,,
+minoraverages/1959TSN,1958,Appalachian League,,F20190,Watts,,0,Wytheville,,,,,2b30
+minoraverages/1959TSN,1958,Appalachian League,,B01905,Weiss,John,0,Wytheville,,,9,,
+minoraverages/1959TSN,1958,Appalachian League,,P10550,Weiss,,0,Wytheville,,,,9,
+minoraverages/1959TSN,1958,Appalachian League,,B01242,Wescott,Deyerle,0,Bluefield,,,22,,
+minoraverages/1959TSN,1958,Appalachian League,,F20128,Wescott,,0,Bluefield,,,,,1b16
+minoraverages/1959TSN,1958,Appalachian League,,B01466,Weston,Charles,0,Bluefield,,,3,,
+minoraverages/1959TSN,1958,Appalachian League,,B01250,Williams,George,0,Johnson City,,,60,,
+minoraverages/1959TSN,1958,Appalachian League,,B01567,Williams,John,0,Johnson City,,,2,,
+minoraverages/1959TSN,1958,Appalachian League,,F20166,Williams,,0,Johnson City,,,,,2b58
+minoraverages/1959TSN,1958,Appalachian League,,P10746,Williams,,0,Johnson City,,,,2,
+minoraverages/1959TSN,1958,Appalachian League,,B01918,Willmann,John,0,Wytheville,,,3,,
+minoraverages/1959TSN,1958,Appalachian League,,B01269,Wilson,Donald E.,0,Johnson City,,,11,,
+minoraverages/1959TSN,1958,Appalachian League,,B01275,Wilson,George C.,0,Johnson City,,,47,,
+minoraverages/1959TSN,1958,Appalachian League,,F20327,Wilson,G.,0,Johnson City,,,,,3b44
+minoraverages/1959TSN,1958,Appalachian League,,F21174,Wilson,D.,0,Johnson City,,,,,p11
+minoraverages/1959TSN,1958,Appalachian League,,P10569,Wilson,D.,0,Johnson City,,,,11,
+minoraverages/1959TSN,1958,Appalachian League,,B01288,Wittmer,David,0,Pulaski,,,11,,
+minoraverages/1959TSN,1958,Appalachian League,,F21182,Wittmer,,0,Pulaski,,,,,p11
+minoraverages/1959TSN,1958,Appalachian League,,P10575,Wittmer,,0,Pulaski,,,,11,
+minoraverages/1959TSN,1958,Appalachian League,,B01291,Woods,Thomas,0,Salem,,,13,,
+minoraverages/1959TSN,1958,Appalachian League,,F21403,Woods,,0,Salem,,,,,p12
+minoraverages/1959TSN,1958,Appalachian League,,P10588,Woods,,0,Salem,,,,12,
+minoraverages/1959TSN,1958,Appalachian League,,B01926,Wooten,Jerry,0,Wytheville,,,2,,
+minoraverages/1959TSN,1958,Appalachian League,,B01300,Worden,Edward,0,Johnson City,,,30,,
+minoraverages/1959TSN,1958,Appalachian League,,F20046,Worden,,0,Johnson City,,,,,1b26
+minoraverages/1959TSN,1958,Appalachian League,,B01313,Youngdahl,Raynor,0,Bluefield,,,44,,
+minoraverages/1959TSN,1958,Appalachian League,,F20721,Youngdahl,,0,Bluefield,,,,,of44
+minoraverages/1959TSN,1958,Appalachian League,,P10687,Youngdahl,,0,Bluefield,,,,1,

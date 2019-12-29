@@ -1,12 +1,790 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
+minoraverages/1959TSN,1958,Texas League,,B02464,Abernathie,William,0,Houston,,,2,,
+minoraverages/1959TSN,1958,Texas League,,P11067,Abernathie,,0,Houston,,,,2,
+minoraverages/1959TSN,1958,Texas League,,B00013,Ackeret,James,1,Victoria,,,40,,
+minoraverages/1959TSN,1958,Texas League,,B00013,Ackeret,James,2,Austin,,,23,,
+minoraverages/1959TSN,1958,Texas League,,B00013,Ackeret,James,T,,,,63,,
+minoraverages/1959TSN,1958,Texas League,,F20560,Ackeret,,1,Victoria,,,,,3b
+minoraverages/1959TSN,1958,Texas League,,F20560,Ackeret,,2,Austin,,,,,3b
+minoraverages/1959TSN,1958,Texas League,,F20560,Ackeret,,T,,,,,,3b52
+minoraverages/1959TSN,1958,Texas League,,B00021,Adams,Herbert,0,Houston,,,128,,
+minoraverages/1959TSN,1958,Texas League,,F21092,Adams,,0,Houston,,,,,cf103
+minoraverages/1959TSN,1958,Texas League,,B00037,Aldridge,Roger,0,San Antonio,,,27,,
+minoraverages/1959TSN,1958,Texas League,,F22355,Aldridge,,0,San Antonio,,,,,p21
+minoraverages/1959TSN,1958,Texas League,,P10019,Aldridge,,0,San Antonio,,,,21,
+minoraverages/1959TSN,1958,Texas League,,F22501,Andersen,,0,Corpus Christi,,,,,p21
+minoraverages/1959TSN,1958,Texas League,,P10024,Andersen,,0,Corpus Christi,,,,21,
+minoraverages/1959TSN,1958,Texas League,,B00045,Anderson,Kenneth,0,Corpus Christi,,,21,,
+minoraverages/1959TSN,1958,Texas League,,B00059,Anderson,Robert,0,Fort Worth,,,21,,
+minoraverages/1959TSN,1958,Texas League,,F21840,Anderson,,0,Fort Worth,,,,,p20
+minoraverages/1959TSN,1958,Texas League,,P10035,Anderson,,0,Fort Worth,,,,20,
+minoraverages/1959TSN,1958,Texas League,,B00068,Archer,James,0,San Antonio,,,39,,
+minoraverages/1959TSN,1958,Texas League,,F22134,Archer,,0,San Antonio,,,,,p39
+minoraverages/1959TSN,1958,Texas League,,P10043,Archer,,0,San Antonio,,,,39,
+minoraverages/1959TSN,1958,Texas League,,B02709,Atkins,Arnold,0,Victoria,,,2,,
+minoraverages/1959TSN,1958,Texas League,,P11279,Atkins,,0,Victoria,,,,2,
+minoraverages/1959TSN,1958,Texas League,,P10847,Augustino,,0,Austin,,,,1,
+minoraverages/1959TSN,1958,Texas League,,B02159,Augustoni,William,0,Austin,,,1,,
+minoraverages/1959TSN,1958,Texas League,,B00076,Ayers,Dolson,0,Tulsa,,,121,,
+minoraverages/1959TSN,1958,Texas League,,F20401,Ayers,,0,Tulsa,,,,,2b36
+minoraverages/1959TSN,1958,Texas League,,F20552,Ayers,,0,Tulsa,,,,,3b67
+minoraverages/1959TSN,1958,Texas League,,F20841,Ayers,,0,Tulsa,,,,,ss16
+minoraverages/1959TSN,1958,Texas League,,B00084,Baczewski,Frederick,0,Houston,,,56,,
+minoraverages/1959TSN,1958,Texas League,,P10056,Baczewski,,0,Houston,,,,55,
+minoraverages/1959TSN,1958,Texas League,,B00092,Baich,Daniel,0,San Antonio,,,12,,
+minoraverages/1959TSN,1958,Texas League,,B00101,Baldwin,Frank,1,Victoria,,,22,,
+minoraverages/1959TSN,1958,Texas League,,B00101,Baldwin,Frank,2,San Antonio,,,42,,
+minoraverages/1959TSN,1958,Texas League,,B00101,Baldwin,Frank,T,,,,64,,
+minoraverages/1959TSN,1958,Texas League,,F21577,Baldwin,,1,Victoria,,,,,c
+minoraverages/1959TSN,1958,Texas League,,F21577,Baldwin,,2,San Antonio,,,,,c
+minoraverages/1959TSN,1958,Texas League,,F21577,Baldwin,,T,,,,,,c46
+minoraverages/1959TSN,1958,Texas League,,B00117,Baliga,Joseph,0,Victoria,,,33,,
+minoraverages/1959TSN,1958,Texas League,,F22127,Baliga,,0,Victoria,,,,,p25
+minoraverages/1959TSN,1958,Texas League,,P10062,Baliga,,0,Victoria,,,,25,
+minoraverages/1959TSN,1958,Texas League,,B00125,Baro,Alberto,1,San Antonio,,,25,,
+minoraverages/1959TSN,1958,Texas League,,B00125,Baro,Alberto,2,Houston,,,113,,
+minoraverages/1959TSN,1958,Texas League,,B00125,Baro,Alberto,T,,,,138,,
+minoraverages/1959TSN,1958,Texas League,,F20935,Baro,,1,Houston,,,,,lf
+minoraverages/1959TSN,1958,Texas League,,F20935,Baro,,2,San Antonio,,,,,lf
+minoraverages/1959TSN,1958,Texas League,,F20935,Baro,,T,,,,,,lf100
+minoraverages/1959TSN,1958,Texas League,,F21232,Baro,,1,Houston,,,,,cf
+minoraverages/1959TSN,1958,Texas League,,F21232,Baro,,2,San Antonio,,,,,cf
+minoraverages/1959TSN,1958,Texas League,,F21232,Baro,,T,,,,,,cf17
+minoraverages/1959TSN,1958,Texas League,,B00130,Bell,William,0,San Antonio,,,10,,
+minoraverages/1959TSN,1958,Texas League,,P10070,Bell,,0,San Antonio,,,,8,
+minoraverages/1959TSN,1958,Texas League,,B00149,Bellino,Raymond,0,Fort Worth,,,151,,
+minoraverages/1959TSN,1958,Texas League,,F20685,Bellino,,0,Fort Worth,,,,,ss150
+minoraverages/1959TSN,1958,Texas League,,B00158,Benedict,O. Hoyt,0,Victoria,,,47,,
+minoraverages/1959TSN,1958,Texas League,,F22393,Benedict,,0,Victoria,,,,,p47
+minoraverages/1959TSN,1958,Texas League,,P10081,Benedict,,0,Victoria,,,,47,
+minoraverages/1959TSN,1958,Texas League,,B00163,Beringer,Carroll,0,Victoria,,,21,,
+minoraverages/1959TSN,1958,Texas League,,F21822,Beringer,,0,Victoria,,,,,p21
+minoraverages/1959TSN,1958,Texas League,,P10097,Berlinger,,0,Victoria,,,,21,
+minoraverages/1959TSN,1958,Texas League,,B00174,Bertell,Richard,0,Fort Worth,,,20,,
+minoraverages/1959TSN,1958,Texas League,,F21705,Bertell,,0,Fort Worth,,,,,c19
+minoraverages/1959TSN,1958,Texas League,,B00182,Biebel,Donald,0,Fort Worth,,,31,,
+minoraverages/1959TSN,1958,Texas League,,F21651,Biebel,,0,Fort Worth,,,,,c25
+minoraverages/1959TSN,1958,Texas League,,B02640,Bornmann,Thomas,0,Tulsa,,,8,,
+minoraverages/1959TSN,1958,Texas League,,B00196,Bossard,Belasco,1,Dallas,,,6,,
+minoraverages/1959TSN,1958,Texas League,,B00196,Bossard,Belasco,2,Corpus Christi,,,116,,
+minoraverages/1959TSN,1958,Texas League,,B00196,Bossard,Belasco,T,,,,122,,
+minoraverages/1959TSN,1958,Texas League,,F20604,Bossard,,1,Dallas,,,,,3b
+minoraverages/1959TSN,1958,Texas League,,F20604,Bossard,,2,Corpus Christi,,,,,3b
+minoraverages/1959TSN,1958,Texas League,,F20604,Bossard,,T,,,,,,3b109
+minoraverages/1959TSN,1958,Texas League,,B00207,Bottler,Ronald,1,Dallas,,,8,,
+minoraverages/1959TSN,1958,Texas League,,B00207,Bottler,Ronald,2,Victoria,,,8,,
+minoraverages/1959TSN,1958,Texas League,,B00207,Bottler,Ronald,3,Austin,,,55,,
+minoraverages/1959TSN,1958,Texas League,,B00207,Bottler,Ronald,T,,,,71,,
+minoraverages/1959TSN,1958,Texas League,,F21695,Bottler,,1,Dallas,,,,,c
+minoraverages/1959TSN,1958,Texas League,,F21695,Bottler,,2,Victoria,,,,,c
+minoraverages/1959TSN,1958,Texas League,,F21695,Bottler,,3,Austin,,,,,c
+minoraverages/1959TSN,1958,Texas League,,F21695,Bottler,,T,,,,,,c63
+minoraverages/1959TSN,1958,Texas League,,B00210,Bowers,Thomas,0,Corpus Christi,,,10,,
+minoraverages/1959TSN,1958,Texas League,,F22012,Bowers,,0,Corpus Christi,,,,,p10
+minoraverages/1959TSN,1958,Texas League,,P10100,Bowers,,0,Corpus Christi,,,,10,
+minoraverages/1959TSN,1958,Texas League,,B00229,Bowland,Arthur,0,Dallas,,,87,,
+minoraverages/1959TSN,1958,Texas League,,F21566,Bowland,,0,Dallas,,,,,c68
+minoraverages/1959TSN,1958,Texas League,,B00232,Bowman,Billy Joe,0,Houston,,,40,,
+minoraverages/1959TSN,1958,Texas League,,F22498,Bowman,,0,Houston,,,,,p37
+minoraverages/1959TSN,1958,Texas League,,P10113,Bowman,,0,Houston,,,,37,
+minoraverages/1959TSN,1958,Texas League,,B00241,Boyd,Bobby,0,Victoria,,,11,,
+minoraverages/1959TSN,1958,Texas League,,B02385,Briggs,John,0,Fort Worth,,,3,,
+minoraverages/1959TSN,1958,Texas League,,P11014,Briggs,,0,Fort Worth,,,,3,
+minoraverages/1959TSN,1958,Texas League,,B00255,Brill,Garland,0,Tulsa,,,23,,
+minoraverages/1959TSN,1958,Texas League,,F22517,Brill,,0,Tulsa,,,,,p23
+minoraverages/1959TSN,1958,Texas League,,P10137,Brill,,0,Tulsa,,,,23,
+minoraverages/1959TSN,1958,Texas League,,B00264,Brown,Donald E.,0,Houston,,,46,,
+minoraverages/1959TSN,1958,Texas League,,B00278,Brown,Winston,0,Austin,,,46,,
+minoraverages/1959TSN,1958,Texas League,,B02588,Brown,John M.,0,San Antonio,,,5,,
+minoraverages/1959TSN,1958,Texas League,,F21207,Brown,,0,Houston,,,,,cf42
+minoraverages/1959TSN,1958,Texas League,,F22057,Brown,,0,Austin,,,,,p33
+minoraverages/1959TSN,1958,Texas League,,P10121,Brown,,0,Austin,,,,33,
+minoraverages/1959TSN,1958,Texas League,,P11177,Brown,,0,San Antonio,,,,5,
+minoraverages/1959TSN,1958,Texas League,,B00286,Buchanan,Gerald,0,Dallas,,,14,,
+minoraverages/1959TSN,1958,Texas League,,F21936,Buchanan,,0,Dallas,,,,,p14
+minoraverages/1959TSN,1958,Texas League,,P10145,Buchanan,,0,Dallas,,,,14,
+minoraverages/1959TSN,1958,Texas League,,B02654,Burk,Mack,0,Tulsa,,,8,,
+minoraverages/1959TSN,1958,Texas League,,B00293,Burr,Bob,0,Corpus Christi,,,48,,
+minoraverages/1959TSN,1958,Texas League,,F20014,Burr,,0,Corpus Christi,,,,,1b46
+minoraverages/1959TSN,1958,Texas League,,B00308,Burton,Ellis,0,Houston,,,147,,
+minoraverages/1959TSN,1958,Texas League,,F20430,Burton,,0,Houston,,,,,2b25
+minoraverages/1959TSN,1958,Texas League,,F21434,Burton,,0,Houston,,,,,rf114
+minoraverages/1959TSN,1958,Texas League,,P11072,Byfuss,,0,Houston,,,,3,
+minoraverages/1959TSN,1958,Texas League,,B02478,Byuss,Harold,0,Houston,,,3,,
+minoraverages/1959TSN,1958,Texas League,,B02714,Caesar,Albert,0,Victoria,,,9,,
+minoraverages/1959TSN,1958,Texas League,,B00319,Caffery,Robert,0,San Antonio,,,148,,
+minoraverages/1959TSN,1958,Texas League,,F20038,Caffery,,0,San Antonio,,,,,1b54
+minoraverages/1959TSN,1958,Texas League,,F20350,Caffery,,0,San Antonio,,,,,2b90
+minoraverages/1959TSN,1958,Texas League,,B00324,Camp,Norman,0,Tulsa,,,42,,
+minoraverages/1959TSN,1958,Texas League,,F22223,Camp,,0,Tulsa,,,,,p42
+minoraverages/1959TSN,1958,Texas League,,P10159,Camp,,0,Tulsa,,,,42,
+minoraverages/1959TSN,1958,Texas League,,B00335,Carmel,Leon,0,Houston,,,53,,
+minoraverages/1959TSN,1958,Texas League,,F20046,Carmel,,0,Houston,,,,,1b47
+minoraverages/1959TSN,1958,Texas League,,B00343,Caro,Jack,1,Fort Worth,,,1,,
+minoraverages/1959TSN,1958,Texas League,,B00343,Caro,Jack,2,Austin,,,17,,
+minoraverages/1959TSN,1958,Texas League,,B00343,Caro,Jack,3,Dallas,,,95,,
+minoraverages/1959TSN,1958,Texas League,,B00343,Caro,Jack,T,,,,113,,
+minoraverages/1959TSN,1958,Texas League,,F20737,Caro,,1,Fort Worth,,,,,ss
+minoraverages/1959TSN,1958,Texas League,,F20737,Caro,,2,Austin,,,,,ss
+minoraverages/1959TSN,1958,Texas League,,F20737,Caro,,3,Dallas,,,,,ss
+minoraverages/1959TSN,1958,Texas League,,F20737,Caro,,T,,,,,,ss105
+minoraverages/1959TSN,1958,Texas League,,B00356,Castillo,Carlos,0,San Antonio,,,105,,
+minoraverages/1959TSN,1958,Texas League,,F20369,Castillo,,0,San Antonio,,,,,2b62
+minoraverages/1959TSN,1958,Texas League,,F21427,Castillo,,0,San Antonio,,,,,rf32
+minoraverages/1959TSN,1958,Texas League,,B02486,Choate,Donald,0,Houston,,,9,,
+minoraverages/1959TSN,1958,Texas League,,P10168,Choate,,0,Houston,,,,9,
+minoraverages/1959TSN,1958,Texas League,,B00362,Clark,Alfred,0,San Antonio,,,13,,
+minoraverages/1959TSN,1958,Texas League,,B00370,Clark,Michael,0,Austin,,,50,,
+minoraverages/1959TSN,1958,Texas League,,F22332,Clark,,0,Austin,,,,,p50
+minoraverages/1959TSN,1958,Texas League,,P10176,Clark,,0,Austin,,,,50,
+minoraverages/1959TSN,1958,Texas League,,B00381,Coen,Michael,0,San Antonio,,,14,,
+minoraverages/1959TSN,1958,Texas League,,F21912,Coen,,0,San Antonio,,,,,p15
+minoraverages/1959TSN,1958,Texas League,,P10184,Coen,,0,San Antonio,,,,15,
+minoraverages/1959TSN,1958,Texas League,,B00397,Cohen,Harvey,0,San Antonio,,,45,,
+minoraverages/1959TSN,1958,Texas League,,F22295,Cohen,,0,San Antonio,,,,,p45
+minoraverages/1959TSN,1958,Texas League,,P10192,Cohen,,0,San Antonio,,,,45,
+minoraverages/1959TSN,1958,Texas League,,B00403,Conde,Ramon,1,Tulsa,,,83,,
+minoraverages/1959TSN,1958,Texas League,,B00403,Conde,Ramon,2,Victoria,,,37,,
+minoraverages/1959TSN,1958,Texas League,,B00403,Conde,Ramon,T,,,,120,,
+minoraverages/1959TSN,1958,Texas League,,F20526,Conde,,0,Tulsa,,,,,3b79
+minoraverages/1959TSN,1958,Texas League,,F20673,Conde,,0,Victoria,,,,,ss37
+minoraverages/1959TSN,1958,Texas League,,B00416,Coogan,Dale,0,Victoria,,,47,,
+minoraverages/1959TSN,1958,Texas League,,F20072,Coogan,,0,Victoria,,,,,1b36
+minoraverages/1959TSN,1958,Texas League,,B00427,Crable,Glen,0,Houston,,,39,,
+minoraverages/1959TSN,1958,Texas League,,F22329,Crable,,0,Houston,,,,,p28
+minoraverages/1959TSN,1958,Texas League,,P10202,Crable,,0,Houston,,,,28,
+minoraverages/1959TSN,1958,Texas League,,B02168,Cummings,Wayne,0,Austin,,,1,,
+minoraverages/1959TSN,1958,Texas League,,B00434,Czekaj,Richard,0,Houston,,,32,,
+minoraverages/1959TSN,1958,Texas League,,F21646,Czekaj,,0,Houston,,,,,c32
+minoraverages/1959TSN,1958,Texas League,,B00442,Czerniakowski,Edward,0,Houston,,,60,,
+minoraverages/1959TSN,1958,Texas League,,F21718,Czerniakowski,,0,Houston,,,,,c59
+minoraverages/1959TSN,1958,Texas League,,B00450,Dabek,Raymond,0,Houston,,,81,,
+minoraverages/1959TSN,1958,Texas League,,F21680,Dabek,,0,Houston,,,,,c63
+minoraverages/1959TSN,1958,Texas League,,B02253,Daehn,Nelson,0,Corpus Christi,,,2,,
+minoraverages/1959TSN,1958,Texas League,,B00469,Darden,William,1,Fort Worth,,,31,,
+minoraverages/1959TSN,1958,Texas League,,B00469,Darden,William,2,Dallas,,,33,,
+minoraverages/1959TSN,1958,Texas League,,B00469,Darden,William,T,,,,64,,
+minoraverages/1959TSN,1958,Texas League,,F22574,Darden,,1,Fort Worth,,,,,p
+minoraverages/1959TSN,1958,Texas League,,F22574,Darden,,2,Dallas,,,,,p
+minoraverages/1959TSN,1958,Texas League,,F22574,Darden,,T,,,,,,p64
+minoraverages/1959TSN,1958,Texas League,,P10215,Darden,,1,Fort Worth,,,,31,
+minoraverages/1959TSN,1958,Texas League,,P10215,Darden,,2,Dallas,,,,33,
+minoraverages/1959TSN,1958,Texas League,,P10215,Darden,,T,,,,,64,
+minoraverages/1959TSN,1958,Texas League,,B00475,Davidson,William,0,Victoria,,,41,,
+minoraverages/1959TSN,1958,Texas League,,F20342,Davidson,,0,Victoria,,,,,2b41
+minoraverages/1959TSN,1958,Texas League,,B00488,Davis,James K.,0,Tulsa,,,24,,
+minoraverages/1959TSN,1958,Texas League,,B00491,Davis,Lorenzo,0,Fort Worth,,,82,,
+minoraverages/1959TSN,1958,Texas League,,B00502,Davis,H. Thomas,0,Victoria,,,122,,
+minoraverages/1959TSN,1958,Texas League,,F20051,Davis,,0,Fort Worth,,,,,1b16
+minoraverages/1959TSN,1958,Texas League,,F20547,Davis,,0,Fort Worth,,,,,3b16
+minoraverages/1959TSN,1958,Texas League,,F20956,Davis,,0,Victoria,,,,,lf67
+minoraverages/1959TSN,1958,Texas League,,F21037,Davis,,0,Tulsa,,,,,lf20
+minoraverages/1959TSN,1958,Texas League,,F21117,Davis,,0,Victoria,,,,,cf23
+minoraverages/1959TSN,1958,Texas League,,F21286,Davis,,0,Victoria,,,,,rf26
+minoraverages/1959TSN,1958,Texas League,,F21324,Davis,,0,Fort Worth,,,,,rf21
+minoraverages/1959TSN,1958,Texas League,,P11023,Davis,,0,Fort Worth,,,,1,
+minoraverages/1959TSN,1958,Texas League,,B00515,DeBenedetti,Reno,0,San Antonio,,,133,,
+minoraverages/1959TSN,1958,Texas League,,F20539,DeBenedetti,,0,San Antonio,,,,,3b118
+minoraverages/1959TSN,1958,Texas League,,B00528,Derucki,Walter,0,Dallas,,,108,,
+minoraverages/1959TSN,1958,Texas League,,F20496,Derucki,,0,Dallas,,,,,3b104
+minoraverages/1959TSN,1958,Texas League,,B00531,Donohue,James,0,Houston,,,19,,
+minoraverages/1959TSN,1958,Texas League,,F22238,Donohue,,0,Houston,,,,,p19
+minoraverages/1959TSN,1958,Texas League,,P10228,Donohue,,0,Houston,,,,19,
+minoraverages/1959TSN,1958,Texas League,,B00544,Dorsey,Calvin,0,Corpus Christi,,,19,,
+minoraverages/1959TSN,1958,Texas League,,B00553,Drilling,Richard,0,San Antonio,,,35,,
+minoraverages/1959TSN,1958,Texas League,,F22440,Drilling,,0,San Antonio,,,,,p35
+minoraverages/1959TSN,1958,Texas League,,P10231,Drilling,,0,San Antonio,,,,35,
+minoraverages/1959TSN,1958,Texas League,,B00566,Duffy,Richard,0,Victoria,,,11,,
+minoraverages/1959TSN,1958,Texas League,,F21973,Duffy,,0,Victoria,,,,,p11
+minoraverages/1959TSN,1958,Texas League,,P10244,Duffy,,0,Victoria,,,,11,
+minoraverages/1959TSN,1958,Texas League,,B00577,Duhem,Joseph,1,San Antonio,,,104,,
+minoraverages/1959TSN,1958,Texas League,,B00577,Duhem,Joseph,2,Victoria,,,35,,
+minoraverages/1959TSN,1958,Texas League,,B00577,Duhem,Joseph,T,,,,139,,
+minoraverages/1959TSN,1958,Texas League,,F20177,Duhem,,1,San Antonio,,,,,1b
+minoraverages/1959TSN,1958,Texas League,,F20177,Duhem,,2,Victoria,,,,,1b
+minoraverages/1959TSN,1958,Texas League,,F20177,Duhem,,T,,,,,,1b21
+minoraverages/1959TSN,1958,Texas League,,F21013,Duhem,,1,San Antonio,,,,,lf
+minoraverages/1959TSN,1958,Texas League,,F21013,Duhem,,2,Victoria,,,,,lf
+minoraverages/1959TSN,1958,Texas League,,F21013,Duhem,,T,,,,,,lf59
+minoraverages/1959TSN,1958,Texas League,,F21182,Duhem,,1,San Antonio,,,,,cf
+minoraverages/1959TSN,1958,Texas League,,F21182,Duhem,,2,Victoria,,,,,cf
+minoraverages/1959TSN,1958,Texas League,,F21182,Duhem,,T,,,,,,cf33
+minoraverages/1959TSN,1958,Texas League,,F21293,Duhem,,1,San Antonio,,,,,rf
+minoraverages/1959TSN,1958,Texas League,,F21293,Duhem,,2,Victoria,,,,,rf
+minoraverages/1959TSN,1958,Texas League,,F21293,Duhem,,T,,,,,,rf26
+minoraverages/1959TSN,1958,Texas League,,P11287,Duhem,,0,Victoria,,,,1,
+minoraverages/1959TSN,1958,Texas League,,B00589,Dunham,Arthur,0,Dallas,,,130,,
+minoraverages/1959TSN,1958,Texas League,,F21381,Dunham,,0,Dallas,,,,,rf124
+minoraverages/1959TSN,1958,Texas League,,B02399,Dunn,James,0,Fort Worth,,,5,,
+minoraverages/1959TSN,1958,Texas League,,P11038,Dunn,,0,Fort Worth,,,,5,
+minoraverages/1959TSN,1958,Texas League,,B00590,Edmunds,Arthur,0,Fort Worth,,,29,,
+minoraverages/1959TSN,1958,Texas League,,F21865,Edmunds,,0,Fort Worth,,,,,p29
+minoraverages/1959TSN,1958,Texas League,,P10253,Edmunds,,0,Fort Worth,,,,29,
+minoraverages/1959TSN,1958,Texas League,,B00609,Ehrke,Robert,0,Dallas,,,13,,
+minoraverages/1959TSN,1958,Texas League,,F21948,Ehrke,,0,Dallas,,,,,p13
+minoraverages/1959TSN,1958,Texas League,,P10266,Ehrke,,0,Dallas,,,,13,
+minoraverages/1959TSN,1958,Texas League,,B00614,Ellsworth,Richard,0,Fort Worth,,,17,,
+minoraverages/1959TSN,1958,Texas League,,F22525,Ellsworth,,0,Fort Worth,,,,,p17
+minoraverages/1959TSN,1958,Texas League,,P10277,Ellsworth,,0,Fort Worth,,,,17,
+minoraverages/1959TSN,1958,Texas League,,B00623,Erickson,Donald,0,Tulsa,,,72,,
+minoraverages/1959TSN,1958,Texas League,,F22214,Erickson,,0,Tulsa,,,,,p72
+minoraverages/1959TSN,1958,Texas League,,P10289,Erickson,,0,Tulsa,,,,72,
+minoraverages/1959TSN,1958,Texas League,,B00638,Ernaga,Frank,0,Fort Worth,,,124,,
+minoraverages/1959TSN,1958,Texas League,,F20886,Ernaga,,0,Fort Worth,,,,,lf120
+minoraverages/1959TSN,1958,Texas League,,B00646,Fanning,W. James,1,Fort Worth,,,20,,
+minoraverages/1959TSN,1958,Texas League,,B00646,Fanning,W. James,2,Tulsa,,,42,,
+minoraverages/1959TSN,1958,Texas League,,B00646,Fanning,W. James,T,,,,62,,
+minoraverages/1959TSN,1958,Texas League,,F21623,Fanning,,1,Fort Worth,,,,,c
+minoraverages/1959TSN,1958,Texas League,,F21623,Fanning,,2,Tulsa,,,,,c
+minoraverages/1959TSN,1958,Texas League,,F21623,Fanning,,T,,,,,,c57
+minoraverages/1959TSN,1958,Texas League,,M90107,Fanning,W. James,,Tulsa,19580720,,,,
 minoraverages/emilbb,1958,Texas League,,M90579,Fanning,Jim,,Tulsa,,,,,
+minoraverages/1959TSN,1958,Texas League,,B00651,Faucett,John,0,Victoria,,,24,,
+minoraverages/1959TSN,1958,Texas League,,F21760,Faucett,,0,Victoria,,,,,c16
+minoraverages/1959TSN,1958,Texas League,,B00667,Fisher,Edward,0,Corpus Christi,,,23,,
+minoraverages/1959TSN,1958,Texas League,,B00672,Fisher,Harry,0,Tulsa,,,123,,
+minoraverages/1959TSN,1958,Texas League,,F21450,Fisher,,0,Tulsa,,,,,rf96
+minoraverages/1959TSN,1958,Texas League,,F22246,Fisher,,0,Corpus Christi,,,,,p22
+minoraverages/1959TSN,1958,Texas League,,P10290,Fisher,,0,Corpus Christi,,,,22,
+minoraverages/1959TSN,1958,Texas League,,P11233,Fisher,,0,Tulsa,,,,7,
+minoraverages/1959TSN,1958,Texas League,,B00680,Fodge,Eugene,0,Fort Worth,,,18,,
+minoraverages/1959TSN,1958,Texas League,,F22251,Fodge,,0,Fort Worth,,,,,p14
+minoraverages/1959TSN,1958,Texas League,,P10304,Fodge,,0,Fort Worth,,,,14,
+minoraverages/1959TSN,1958,Texas League,,B00695,Fowler,Charles,0,Corpus Christi,,,30,,
+minoraverages/1959TSN,1958,Texas League,,F22307,Fowler,,0,Corpus Christi,,,,,p28
+minoraverages/1959TSN,1958,Texas League,,P10312,Fowler,,0,Corpus Christi,,,,28,
+minoraverages/1959TSN,1958,Texas League,,B00705,Fox,Terrence,0,Austin,,,21,,
+minoraverages/1959TSN,1958,Texas League,,F22386,Fox,,0,Austin,,,,,p21
+minoraverages/1959TSN,1958,Texas League,,P10320,Fox,,0,Austin,,,,21,
+minoraverages/1959TSN,1958,Texas League,,B00718,Franco,William,0,Corpus Christi,,,35,,
+minoraverages/1959TSN,1958,Texas League,,F21783,Franco,,0,Corpus Christi,,,,,p35
+minoraverages/1959TSN,1958,Texas League,,P10336,Franco,,0,Corpus Christi,,,,35,
+minoraverages/1959TSN,1958,Texas League,,B00726,Freeman,Hershell,0,Fort Worth,,,26,,
+minoraverages/1959TSN,1958,Texas League,,F21887,Freeman,,0,Fort Worth,,,,,p24
+minoraverages/1959TSN,1958,Texas League,,P10348,Freeman,,0,Fort Worth,,,,24,
+minoraverages/1959TSN,1958,Texas League,,B02266,Froats,William,0,Corpus Christi,,,1,,
+minoraverages/1959TSN,1958,Texas League,,P10925,Froats,,0,Corpus Christi,,,,1,
+minoraverages/1959TSN,1958,Texas League,,B00739,Funk,Frank,0,Corpus Christi,,,50,,
+minoraverages/1959TSN,1958,Texas League,,F22341,Funk,,0,Corpus Christi,,,,,p45
+minoraverages/1959TSN,1958,Texas League,,P10357,Funk,,0,Corpus Christi,,,,48,
+minoraverages/1959TSN,1958,Texas League,,B00747,Gabler,William,0,Fort Worth,,,127,,
+minoraverages/1959TSN,1958,Texas League,,F20131,Gabler,,0,Fort Worth,,,,,1b127
+minoraverages/1959TSN,1958,Texas League,,B00752,Garcia,David,0,Houston,,,19,,
+minoraverages/1959TSN,1958,Texas League,,B02493,Garcia,William,0,Houston,,,4,,
+minoraverages/1959TSN,1958,Texas League,,F20807,Garcia,D.,0,Houston,,,,,ss17
+minoraverages/1959TSN,1958,Texas League,,P11080,Garcia,W.,0,Houston,,,,4,
+minoraverages/1959TSN,1958,Texas League,,B02591,Gaspar,Miguel,0,San Antonio,,,1,,
+minoraverages/1959TSN,1958,Texas League,,B00760,Geho,Melvin,1,Victoria,,,5,,
+minoraverages/1959TSN,1958,Texas League,,B00760,Geho,Melvin,2,Corpus Christi,,,139,,
+minoraverages/1959TSN,1958,Texas League,,B00760,Geho,Melvin,T,,,,144,,
+minoraverages/1959TSN,1958,Texas League,,F20745,Geho,,1,Victoria,,,,,ss
+minoraverages/1959TSN,1958,Texas League,,F20745,Geho,,2,Corpus Christi,,,,,ss
+minoraverages/1959TSN,1958,Texas League,,F20745,Geho,,T,,,,,,ss141
+minoraverages/1959TSN,1958,Texas League,,B00771,Gerard,David,0,Fort Worth,,,34,,
+minoraverages/1959TSN,1958,Texas League,,F22364,Gerard,,0,Fort Worth,,,,,p34
+minoraverages/1959TSN,1958,Texas League,,P10361,Gerard,,0,Fort Worth,,,,34,
+minoraverages/1959TSN,1958,Texas League,,B00783,Getter,Richard,0,Dallas,,,136,,
+minoraverages/1959TSN,1958,Texas League,,F20981,Getter,,0,Dallas,,,,,lf104
+minoraverages/1959TSN,1958,Texas League,,F21174,Getter,,0,Dallas,,,,,cf16
+minoraverages/1959TSN,1958,Texas League,,F21362,Getter,,0,Dallas,,,,,rf14
+minoraverages/1959TSN,1958,Texas League,,B02606,Getz,William,0,San Antonio,,,2,,
+minoraverages/1959TSN,1958,Texas League,,P11189,Getz,,0,San Antonio,,,,2,
+minoraverages/1959TSN,1958,Texas League,,B02176,Gilmore,William,0,Austin,,,2,,
+minoraverages/1959TSN,1958,Texas League,,B02407,Goetz,John,0,Fort Worth,,,5,,
+minoraverages/1959TSN,1958,Texas League,,P11046,Goetz,,0,Fort Worth,,,,5,
+minoraverages/1959TSN,1958,Texas League,,B00794,Golden,James,0,Tulsa,,,64,,
+minoraverages/1959TSN,1958,Texas League,,F21806,Golden,,0,Tulsa,,,,,p52
+minoraverages/1959TSN,1958,Texas League,,P10373,Golden,,0,Tulsa,,,,51,
+minoraverages/1959TSN,1958,Texas League,,B00806,Gonder,Jesse,0,San Antonio,,,51,,
+minoraverages/1959TSN,1958,Texas League,,F21491,Gonder,,0,San Antonio,,,,,rf22
+minoraverages/1959TSN,1958,Texas League,,F21771,Gonder,,0,San Antonio,,,,,c27
+minoraverages/1959TSN,1958,Texas League,,B00811,Gonzales,Waldo,0,Houston,,,104,,
+minoraverages/1959TSN,1958,Texas League,,F20784,Gonzales,,0,Houston,,,,,ss104
+minoraverages/1959TSN,1958,Texas League,,B02184,Grabowski,Richard,0,Austin,,,1,,
+minoraverages/1959TSN,1958,Texas League,,P10852,Grabowski,,0,Austin,,,,1,
+minoraverages/1959TSN,1958,Texas League,,B00822,Graham,Thomas,0,Austin,,,10,,
+minoraverages/1959TSN,1958,Texas League,,F22454,Graham,,0,Austin,,,,,p10
+minoraverages/1959TSN,1958,Texas League,,P10385,Graham,,0,Austin,,,,10,
+minoraverages/1959TSN,1958,Texas League,,B02503,Green,Charles,0,Houston,,,3,,
+minoraverages/1959TSN,1958,Texas League,,B00833,Greenwood,Robert,0,Tulsa,,,36,,
+minoraverages/1959TSN,1958,Texas League,,F22103,Greenwood,,0,Tulsa,,,,,p36
+minoraverages/1959TSN,1958,Texas League,,P10399,Greenwood,,0,Tulsa,,,,36,
+minoraverages/1959TSN,1958,Texas League,,B00840,Guettler,Kenneth,0,Dallas,,,17,,
+minoraverages/1959TSN,1958,Texas League,,F21370,Guettler,,0,Dallas,,,,,rf12
+minoraverages/1959TSN,1958,Texas League,,B00854,Hairston,Samuel,0,San Antonio,,,74,,
+minoraverages/1959TSN,1958,Texas League,,F21553,Hairston,,0,San Antonio,,,,,c67
+minoraverages/1959TSN,1958,Texas League,,B00865,Hannah,Jack,0,Austin,,,11,,
+minoraverages/1959TSN,1958,Texas League,,F22582,Hannah,,0,Austin,,,,,p11
+minoraverages/1959TSN,1958,Texas League,,P10860,Hannah,,0,Austin,,,,11,
+minoraverages/1959TSN,1958,Texas League,,B00879,Harkness,Thomas,0,Victoria,,,70,,
+minoraverages/1959TSN,1958,Texas League,,F20144,Harkness,,0,Victoria,,,,,1b70
+minoraverages/1959TSN,1958,Texas League,,B00887,Harrington,Charles,0,Tulsa,,,123,,
+minoraverages/1959TSN,1958,Texas League,,F21149,Harrington,,0,Tulsa,,,,,cf115
+minoraverages/1959TSN,1958,Texas League,,B02723,Harrist,Earl,0,Victoria,,,1,,
+minoraverages/1959TSN,1958,Texas League,,P11298,Harrist,,0,Victoria,,,,1,
+minoraverages/1959TSN,1958,Texas League,,B00898,Hatton,Grady,0,San Antonio,,,102,,
+minoraverages/1959TSN,1958,Texas League,,F20254,Hatton,,0,San Antonio,,,,,2b10
+minoraverages/1959TSN,1958,Texas League,,F20594,Hatton,,0,San Antonio,,,,,3b54
+minoraverages/1959TSN,1958,Texas League,,F20776,Hatton,,0,San Antonio,,,,,ss16
+minoraverages/1959TSN,1958,Texas League,,M90083,Hatton,Grady,,San Antonio,,,,,
+minoraverages/1959TSN,1958,Texas League,,P11190,Hatton,,0,San Antonio,,,,5,
 minoraverages/emilbb,1958,Texas League,,M90554,Hatton,Grady,,San Antonio,,,,,
+minoraverages/1959TSN,1958,Texas League,,B00904,Hendrickson,Dale,0,Austin,,,35,,
+minoraverages/1959TSN,1958,Texas League,,F22406,Hendrickson,,0,Austin,,,,,p35
+minoraverages/1959TSN,1958,Texas League,,P10407,Hendrickson,,0,Austin,,,,35,
+minoraverages/1959TSN,1958,Texas League,,B02277,Hernandez,Rudolph,0,Corpus Christi,,,9,,
+minoraverages/1959TSN,1958,Texas League,,P10410,Hernandez,,0,Corpus Christi,,,,8,
+minoraverages/1959TSN,1958,Texas League,,B00912,Herrscher,Richard,0,Austin,,,145,,
+minoraverages/1959TSN,1958,Texas League,,F20721,Herrscher,,0,Austin,,,,,ss144
+minoraverages/1959TSN,1958,Texas League,,B00920,Hollmig,Stanley,0,San Antonio,,,32,,
+minoraverages/1959TSN,1958,Texas League,,F20189,Holmig,,0,San Antonio,,,,,1b30
+minoraverages/1959TSN,1958,Texas League,,B00936,Hoskins,David,0,Dallas,,,62,,
+minoraverages/1959TSN,1958,Texas League,,F22530,Hoskins,,0,Dallas,,,,,p32
+minoraverages/1959TSN,1958,Texas League,,P10429,Hoskins,,0,Dallas,,,,31,
+minoraverages/1959TSN,1958,Texas League,,B02611,Host,Eugene,0,San Antonio,,,6,,
+minoraverages/1959TSN,1958,Texas League,,P11206,Host,,0,San Antonio,,,,6,
+minoraverages/1959TSN,1958,Texas League,,B00948,Hunsinger,Earl,0,Fort Worth,,,10,,
+minoraverages/1959TSN,1958,Texas League,,F22563,Hunsinger,,0,Tulsa,,,,,p10
+minoraverages/1959TSN,1958,Texas League,,P10432,Hunsinger,,0,Tulsa,,,,10,
+minoraverages/1959TSN,1958,Texas League,,B00957,Hunt,Robert,0,Tulsa,,,11,,
+minoraverages/1959TSN,1958,Texas League,,B00961,Jacobs,Robert,0,Austin,,,143,,
+minoraverages/1959TSN,1958,Texas League,,F20334,Jacobs,,0,Austin,,,,,2b139
+minoraverages/1959TSN,1958,Texas League,,B00973,James,Charles,0,Houston,,,153,,
+minoraverages/1959TSN,1958,Texas League,,F20919,James,,0,Houston,,,,,lf148
+minoraverages/1959TSN,1958,Texas League,,B00985,Jenney,Lloyd,0,Houston,,,57,,
+minoraverages/1959TSN,1958,Texas League,,F20080,Jenney,,0,Houston,,,,,1b40
+minoraverages/1959TSN,1958,Texas League,,F21667,Jenney,,0,Houston,,,,,c12
+minoraverages/1959TSN,1958,Texas League,,B02516,Jennings,Charles,0,Houston,,,4,,
+minoraverages/1959TSN,1958,Texas League,,B00999,Johnson,Benjamin,0,Fort Worth,,,46,,
+minoraverages/1959TSN,1958,Texas League,,B01007,Johnson,Richard A.,0,Fort Worth,,,48,,
+minoraverages/1959TSN,1958,Texas League,,F20924,Johnson,R.,0,Fort Worth,,,,,lf22
+minoraverages/1959TSN,1958,Texas League,,F21343,Johnson,R.,0,Fort Worth,,,,,rf18
+minoraverages/1959TSN,1958,Texas League,,F22116,Johnson,B.,0,Fort Worth,,,,,p44
+minoraverages/1959TSN,1958,Texas League,,P10441,Johnson,B.,0,Fort Worth,,,,44,
+minoraverages/1959TSN,1958,Texas League,,B01010,Jones,J. W.,0,Victoria,,,118,,
+minoraverages/1959TSN,1958,Texas League,,B02336,Jones,John R.,0,Dallas,,,1,,
+minoraverages/1959TSN,1958,Texas League,,F21544,Jones,,0,Victoria,,,,,c110
+minoraverages/1959TSN,1958,Texas League,,B01029,Kanehl,Roderick,0,Dallas,,,133,,
+minoraverages/1959TSN,1958,Texas League,,F20303,Kanehl,,0,Dallas,,,,,2b24
+minoraverages/1959TSN,1958,Texas League,,F20864,Kanehl,,0,Dallas,,,,,ss25
+minoraverages/1959TSN,1958,Texas League,,F21229,Kanehl,,0,Dallas,,,,,cf70
+minoraverages/1959TSN,1958,Texas League,,P10974,Kanehl,,0,Dallas,,,,2,
+minoraverages/1959TSN,1958,Texas League,,B01032,Keister,Harry,0,Tulsa,,,153,,
+minoraverages/1959TSN,1958,Texas League,,F20240,Keister,,0,Tulsa,,,,,1b12
+minoraverages/1959TSN,1958,Texas League,,F20962,Keister,,0,Tulsa,,,,,lf70
+minoraverages/1959TSN,1958,Texas League,,F21397,Keister,,0,Tulsa,,,,,rf86
+minoraverages/1959TSN,1958,Texas League,,B02622,Kellner,Walter,0,San Antonio,,,8,,
+minoraverages/1959TSN,1958,Texas League,,P11211,Kellner,,0,San Antonio,,,,8,
+minoraverages/1959TSN,1958,Texas League,,B01041,Kennedy,John,0,Tulsa,,,110,,
+minoraverages/1959TSN,1958,Texas League,,F20449,Kennedy,,0,Tulsa,,,,,2b18
+minoraverages/1959TSN,1958,Texas League,,F20636,Kennedy,,0,Tulsa,,,,,3b15
+minoraverages/1959TSN,1958,Texas League,,F20829,Kennedy,,0,Tulsa,,,,,ss70
+minoraverages/1959TSN,1958,Texas League,,B01055,Kindall,Gerald,0,Fort Worth,,,143,,
+minoraverages/1959TSN,1958,Texas League,,F20316,Kindall,,0,Fort Worth,,,,,2b141
+minoraverages/1959TSN,1958,Texas League,,B01064,King,Charles,0,Fort Worth,,,150,,
+minoraverages/1959TSN,1958,Texas League,,F21101,King,,0,Fort Worth,,,,,cf150
+minoraverages/1959TSN,1958,Texas League,,B02410,Kitsos,Christopher,0,Fort Worth,,,3,,
+minoraverages/1959TSN,1958,Texas League,,B01078,Klein,Louis,0,Fort Worth,,,38,,
+minoraverages/1959TSN,1958,Texas League,,M90018,Klein,Louis,,Fort Worth,,,,,
 minoraverages/emilbb,1958,Texas League,,M90484,Klein,Lou,,Fort Worth,,,,,
+minoraverages/1959TSN,1958,Texas League,,B01086,Kotrany,Joseph,0,Dallas,,,39,,
+minoraverages/1959TSN,1958,Texas League,,F22085,Kotrany,,0,Dallas,,,,,p37
+minoraverages/1959TSN,1958,Texas League,,P10455,Kotrany,,0,Dallas,,,,37,
+minoraverages/1959TSN,1958,Texas League,,B01093,Kuhn,Kenneth,0,Dallas,,,30,,
+minoraverages/1959TSN,1958,Texas League,,F20768,Kuhn,,0,Dallas,,,,,ss29
+minoraverages/1959TSN,1958,Texas League,,B01108,Lammers,Walter,0,San Antonio,,,75,,
+minoraverages/1959TSN,1958,Texas League,,F20759,Lammers,,0,San Antonio,,,,,ss75
+minoraverages/1959TSN,1958,Texas League,,B01119,Lemish,Gaylord,1,Austin,,,18,,
+minoraverages/1959TSN,1958,Texas League,,B01119,Lemish,Gaylord,2,Dallas,,,16,,
+minoraverages/1959TSN,1958,Texas League,,B01119,Lemish,Gaylord,T,,,,34,,
+minoraverages/1959TSN,1958,Texas League,,F22272,Lemish,,1,Austin,,,,,p
+minoraverages/1959TSN,1958,Texas League,,F22272,Lemish,,2,Dallas,,,,,p
+minoraverages/1959TSN,1958,Texas League,,F22272,Lemish,,T,,,,,,p34
+minoraverages/1959TSN,1958,Texas League,,P10464,Lemish,,1,Austin,,,,18,
+minoraverages/1959TSN,1958,Texas League,,P10464,Lemish,,2,Dallas,,,,16,
+minoraverages/1959TSN,1958,Texas League,,P10464,Lemish,,T,,,,,34,
+minoraverages/1959TSN,1958,Texas League,,B01124,Leppert,Donald,0,Austin,,,85,,
+minoraverages/1959TSN,1958,Texas League,,F21726,Leppert,,0,Austin,,,,,c70
+minoraverages/1959TSN,1958,Texas League,,B01135,LiPetri,Michael,0,Tulsa,,,19,,
+minoraverages/1959TSN,1958,Texas League,,F21898,LiPetri,,0,Tulsa,,,,,p19
+minoraverages/1959TSN,1958,Texas League,,P10478,LiPetri,,0,Tulsa,,,,19,
+minoraverages/1959TSN,1958,Texas League,,B01143,Little,Keith,0,Dallas,,,138,,
+minoraverages/1959TSN,1958,Texas League,,F20067,Little,,0,Dallas,,,,,1b132
+minoraverages/1959TSN,1958,Texas League,,B01156,Logan,Edward,0,Tulsa,,,121,,
+minoraverages/1959TSN,1958,Texas League,,F21059,Logan,,0,Tulsa,,,,,lf80
+minoraverages/1959TSN,1958,Texas League,,F21255,Logan,,0,Tulsa,,,,,cf37
+minoraverages/1959TSN,1958,Texas League,,B01162,Lowrey,Harry,0,Austin,,,46,,
+minoraverages/1959TSN,1958,Texas League,,F20878,Lowrey,,0,Austin,,,,,lf21
+minoraverages/1959TSN,1958,Texas League,,M90047,Lowrey,Harry (Peanuts),,Austin,,,,,
 minoraverages/emilbb,1958,Texas League,,M90511,Lowrey,Peanuts,,Austin,,,,,
+minoraverages/1959TSN,1958,Texas League,,B01170,Luebke,Richard,0,San Antonio,,,49,,
+minoraverages/1959TSN,1958,Texas League,,F22073,Luebke,,0,San Antonio,,,,,p49
+minoraverages/1959TSN,1958,Texas League,,P10486,Luebke,,0,San Antonio,,,,49,
+minoraverages/1959TSN,1958,Texas League,,B01181,Lutz,Michael,0,Corpus Christi,,,152,,
+minoraverages/1959TSN,1958,Texas League,,F21488,Lutz,,0,Corpus Christi,,,,,rf152
+minoraverages/1959TSN,1958,Texas League,,B01197,Mackinson,John,0,Tulsa,,,10,,
+minoraverages/1959TSN,1958,Texas League,,F22020,Mackinson,,0,Tulsa,,,,,p10
+minoraverages/1959TSN,1958,Texas League,,P11254,Mackinson,,0,Tulsa,,,,10,
+minoraverages/1959TSN,1958,Texas League,,B01203,Macko,Joseph,0,Fort Worth,,,137,,
+minoraverages/1959TSN,1958,Texas League,,F20265,Macko,,0,Fort Worth,,,,,2b10
+minoraverages/1959TSN,1958,Texas League,,F20505,Macko,,0,Fort Worth,,,,,3b121
+minoraverages/1959TSN,1958,Texas League,,B01216,Maibauer,Richard,0,Corpus Christi,,,36,,
+minoraverages/1959TSN,1958,Texas League,,F22191,Maibauer,,0,Corpus Christi,,,,,p35
+minoraverages/1959TSN,1958,Texas League,,P10503,Maibauer,,0,Corpus Christi,,,,35,
+minoraverages/1959TSN,1958,Texas League,,B01227,Mangan,James,0,San Antonio,,,43,,
+minoraverages/1959TSN,1958,Texas League,,F21589,Mangan,,0,San Antonio,,,,,c39
+minoraverages/1959TSN,1958,Texas League,,B01234,Maranda,Georges,0,Austin,,,35,,
+minoraverages/1959TSN,1958,Texas League,,F22310,Maranda,,0,Austin,,,,,p35
+minoraverages/1959TSN,1958,Texas League,,P10516,Maranda,,0,Austin,,,,35,
+minoraverages/1959TSN,1958,Texas League,,B01242,Marsh,Fred,0,Austin,,,100,,
+minoraverages/1959TSN,1958,Texas League,,F20417,Marsh,,0,Austin,,,,,2b17
+minoraverages/1959TSN,1958,Texas League,,F20474,Marsh,,0,Austin,,,,,3b74
+minoraverages/1959TSN,1958,Texas League,,B01250,Martin,Fred,0,Dallas,,,47,,
+minoraverages/1959TSN,1958,Texas League,,B02665,Martin,John L.,0,Tulsa,,,1,,
+minoraverages/1959TSN,1958,Texas League,,F22150,Martin,,0,Dallas,,,,,p47
+minoraverages/1959TSN,1958,Texas League,,M90071,Martin,Frederick,,Dallas,19580703,,,,
+minoraverages/1959TSN,1958,Texas League,,P10527,Martin,,0,Dallas,,,,47,
 minoraverages/emilbb,1958,Texas League,,M90540,Martin,Fred,,Dallas,,,,,
+minoraverages/1959TSN,1958,Texas League,,B01269,Mason,Gerald,0,Austin,,,123,,
+minoraverages/1959TSN,1958,Texas League,,F21502,Mason,,0,Austin,,,,,rf97
+minoraverages/1959TSN,1958,Texas League,,B01275,Mauriello,Ralph,0,Victoria,,,19,,
+minoraverages/1959TSN,1958,Texas League,,F22422,Mauriello,,0,Victoria,,,,,p19
+minoraverages/1959TSN,1958,Texas League,,P10534,Mauriello,,0,Victoria,,,,19,
+minoraverages/1959TSN,1958,Texas League,,B01288,Maye,A. Lee,0,Austin,,,128,,
+minoraverages/1959TSN,1958,Texas League,,F21196,Maye,,0,Austin,,,,,cf121
+minoraverages/1959TSN,1958,Texas League,,B01291,McAlister,Fred,0,Houston,,,63,,
+minoraverages/1959TSN,1958,Texas League,,F20458,McAlister,,0,Houston,,,,,2b11
+minoraverages/1959TSN,1958,Texas League,,F20713,McAlister,,0,Houston,,,,,ss33
+minoraverages/1959TSN,1958,Texas League,,P11095,McDaniel,,0,Houston,,,,6,
+minoraverages/1959TSN,1958,Texas League,,B02527,McDonald,M. Von,0,Houston,,,6,,
+minoraverages/1959TSN,1958,Texas League,,B01300,McGhee,Robert,0,Dallas,,,31,,
+minoraverages/1959TSN,1958,Texas League,,F21794,McGhee,,0,Dallas,,,,,p31
+minoraverages/1959TSN,1958,Texas League,,P10493,McGhee,,0,Dallas,,,,31,
+minoraverages/1959TSN,1958,Texas League,,B02429,McKee,Robert,0,Fort Worth,,,4,,
+minoraverages/1959TSN,1958,Texas League,,B01313,McKnight,James,0,Houston,,,149,,
+minoraverages/1959TSN,1958,Texas League,,F20583,McKnight,,0,Houston,,,,,3b141
+minoraverages/1959TSN,1958,Texas League,,F20832,McKnight,,0,Houston,,,,,ss12
+minoraverages/1959TSN,1958,Texas League,,B02738,McMinn,Glenn,0,Victoria,,,2,,
+minoraverages/1959TSN,1958,Texas League,,P11240,McMinn,,0,Tulsa,,,,2,
+minoraverages/1959TSN,1958,Texas League,,B01321,Means,Richard,0,Corpus Christi,,,104,,
+minoraverages/1959TSN,1958,Texas League,,F20153,Means,,0,Corpus Christi,,,,,1b59
+minoraverages/1959TSN,1958,Texas League,,F21076,Means,,0,Corpus Christi,,,,,cf43
+minoraverages/1959TSN,1958,Texas League,,B01337,Merritt,Lloyd,0,Houston,,,52,,
+minoraverages/1959TSN,1958,Texas League,,F22479,Merritt,,0,Houston,,,,,p52
+minoraverages/1959TSN,1958,Texas League,,P10542,Merritt,,0,Houston,,,,52,
+minoraverages/1959TSN,1958,Texas League,,B01345,Michalec,James,0,San Antonio,,,13,,
+minoraverages/1959TSN,1958,Texas League,,F21957,Michalec,,0,San Antonio,,,,,p13
+minoraverages/1959TSN,1958,Texas League,,P11222,Michalec,,0,San Antonio,,,,13,
+minoraverages/1959TSN,1958,Texas League,,B01359,Mickens,Glenn,0,Victoria,,,27,,
+minoraverages/1959TSN,1958,Texas League,,F22433,Mickens,,0,Victoria,,,,,p25
+minoraverages/1959TSN,1958,Texas League,,P10550,Mickens,,0,Victoria,,,,25,
+minoraverages/1959TSN,1958,Texas League,,B01368,Miles,Donald,0,Victoria,,,102,,
+minoraverages/1959TSN,1958,Texas League,,F20893,Miles,,0,Victoria,,,,,lf78
+minoraverages/1959TSN,1958,Texas League,,F21264,Miles,,0,Victoria,,,,,cf22
+minoraverages/1959TSN,1958,Texas League,,B01376,Miller,James,0,Corpus Christi,,,149,,
+minoraverages/1959TSN,1958,Texas League,,B01384,Miller,Robert,0,Houston,,,27,,
+minoraverages/1959TSN,1958,Texas League,,F20943,Miller,,0,Corpus Christi,,,,,lf132
+minoraverages/1959TSN,1958,Texas League,,F21278,Miller,,0,Corpus Christi,,,,,cf14
+minoraverages/1959TSN,1958,Texas League,,F22378,Miller,,0,Houston,,,,,p27
+minoraverages/1959TSN,1958,Texas League,,P10569,Miller,,0,Houston,,,,27,
+minoraverages/1959TSN,1958,Texas League,,B02679,Milo,Robert,0,Tulsa,,,2,,
+minoraverages/1959TSN,1958,Texas League,,P11265,Milo,,0,Tulsa,,,,2,
+minoraverages/1959TSN,1958,Texas League,,B02192,Misley,Philip,0,Austin,,,5,,
+minoraverages/1959TSN,1958,Texas League,,P10871,Misley,,0,Austin,,,,4,
+minoraverages/1959TSN,1958,Texas League,,F21125,Moitoza,,0,San Antonio,,,,,cf35
+minoraverages/1959TSN,1958,Texas League,,B01392,Moltoza,Donald,0,San Antonio,,,35,,
+minoraverages/1959TSN,1958,Texas League,,B01402,Moreno,Henrey,0,San Antonio,,,129,,
+minoraverages/1959TSN,1958,Texas League,,F21158,Moreno,,0,San Antonio,,,,,cf44
+minoraverages/1959TSN,1958,Texas League,,F21469,Moreno,,0,San Antonio,,,,,rf70
+minoraverages/1959TSN,1958,Texas League,,B01415,Morgan,Thomas,0,Tulsa,,,48,,
+minoraverages/1959TSN,1958,Texas League,,F20298,Morgan,,0,Tulsa,,,,,2b40
+minoraverages/1959TSN,1958,Texas League,,B02202,Moss,William,0,Austin,,,3,,
+minoraverages/1959TSN,1958,Texas League,,B01428,Mossor,Earl,1,Tulsa,,,7,,
+minoraverages/1959TSN,1958,Texas League,,B01428,Mossor,Earl,2,Dallas,,,22,,
+minoraverages/1959TSN,1958,Texas League,,B01428,Mossor,Earl,T,,,,29,,
+minoraverages/1959TSN,1958,Texas League,,F22048,Mossor,,1,Tulsa,,,,,p
+minoraverages/1959TSN,1958,Texas League,,F22048,Mossor,,2,Dallas,,,,,p
+minoraverages/1959TSN,1958,Texas League,,F22048,Mossor,,T,,,,,,p29
+minoraverages/1959TSN,1958,Texas League,,P10575,Mossor,,1,Tulsa,,,,7,
+minoraverages/1959TSN,1958,Texas League,,P10575,Mossor,,2,Dallas,,,,22,
+minoraverages/1959TSN,1958,Texas League,,P10575,Mossor,,T,,,,,29,
+minoraverages/1959TSN,1958,Texas League,,B01431,Moton,George,0,Houston,,,18,,
+minoraverages/1959TSN,1958,Texas League,,F21879,Moton,,0,Houston,,,,,p18
+minoraverages/1959TSN,1958,Texas League,,P10588,Moton,,0,Houston,,,,18,
+minoraverages/1959TSN,1958,Texas League,,B01444,Mrozinski,Ronald,0,Tulsa,,,44,,
+minoraverages/1959TSN,1958,Texas League,,F22267,Mrozinski,,0,Tulsa,,,,,p42
+minoraverages/1959TSN,1958,Texas League,,P10591,Mrozinski,,0,Tulsa,,,,43,
+minoraverages/1959TSN,1958,Texas League,,B01453,Munger,George,0,San Antonio,,,10,,
+minoraverages/1959TSN,1958,Texas League,,F22036,Munger,,0,San Antonio,,,,,p10
+minoraverages/1959TSN,1958,Texas League,,P10606,Munger,,0,San Antonio,,,,10,
+minoraverages/1959TSN,1958,Texas League,,B01466,Murray,Frank,0,Dallas,,,137,,
+minoraverages/1959TSN,1958,Texas League,,B01477,Murray,Raymond,0,Corpus Christi,,,93,,
+minoraverages/1959TSN,1958,Texas League,,F20279,Murray,,0,Dallas,,,,,2b128
+minoraverages/1959TSN,1958,Texas League,,F21614,Murray,,0,Corpus Christi,,,,,c69
+minoraverages/1959TSN,1958,Texas League,,M90039,Murray,Raymond,,Corpus Christi,,,,,
 minoraverages/emilbb,1958,Texas League,,M90506,Murray,Ray,,Corpus Christi,,,,,
+minoraverages/1959TSN,1958,Texas League,,B01489,Nelson,Gerald,0,Austin,,,34,,
+minoraverages/1959TSN,1958,Texas League,,B01490,Nelson,Melvin,0,Houston,,,12,,
+minoraverages/1959TSN,1958,Texas League,,B01509,Nelson,Robert,0,Dallas,,,51,,
+minoraverages/1959TSN,1958,Texas League,,F20222,Nelson,,0,Dallas,,,,,1b17
+minoraverages/1959TSN,1958,Texas League,,F21045,Nelson,,0,Dallas,,,,,lf15
+minoraverages/1959TSN,1958,Texas League,,F22175,Nelson,,0,Austin,,,,,p34
+minoraverages/1959TSN,1958,Texas League,,P10611,Nelson,,0,Austin,,,,34,
+minoraverages/1959TSN,1958,Texas League,,P10622,Nelson,,0,Houston,,,,8,
+minoraverages/1959TSN,1958,Texas League,,B02687,Niarhos,Constantine,0,Tulsa,,,1,,
+minoraverages/1959TSN,1958,Texas League,,B01514,Nichols,Dolan,0,Fort Worth,,,15,,
+minoraverages/1959TSN,1958,Texas League,,F21811,Nichols,,0,Fort Worth,,,,,p15
+minoraverages/1959TSN,1958,Texas League,,P10633,Nichols,,0,Fort Worth,,,,15,
+minoraverages/1959TSN,1958,Texas League,,B01523,Nicolosi,Christopher,0,Victoria,,,39,,
+minoraverages/1959TSN,1958,Texas League,,F22188,Nicolosi,,0,Victoria,,,,,p34
+minoraverages/1959TSN,1958,Texas League,,P10640,Nicolosi,,0,Victoria,,,,34,
+minoraverages/1959TSN,1958,Texas League,,B01538,Norris,Allen,0,Victoria,,,108,,
+minoraverages/1959TSN,1958,Texas League,,F20023,Norris,,0,Victoria,,,,,1b23
+minoraverages/1959TSN,1958,Texas League,,F20620,Norris,,0,Victoria,,,,,3b75
+minoraverages/1959TSN,1958,Texas League,,F20855,Norris,,0,Victoria,,,,,ss11
+minoraverages/1959TSN,1958,Texas League,,B01546,Novak,Lawrence,0,Victoria,,,46,,
+minoraverages/1959TSN,1958,Texas League,,F21416,Novak,,0,Victoria,,,,,rf38
+minoraverages/1959TSN,1958,Texas League,,B01551,Nunn,Howard,0,Houston,,,35,,
+minoraverages/1959TSN,1958,Texas League,,F22099,Nunn,,0,Houston,,,,,p35
+minoraverages/1959TSN,1958,Texas League,,P10654,Nunn,,0,Houston,,,,35,
+minoraverages/1959TSN,1958,Texas League,,B01572,O'Donnell,John,0,Austin,,,35,,
+minoraverages/1959TSN,1958,Texas League,,F21833,O'Donnell,,0,Austin,,,,,p30
+minoraverages/1959TSN,1958,Texas League,,P10665,O'Donnell,,0,Austin,,,,30,
+minoraverages/1959TSN,1958,Texas League,,B02348,O'Neil,Walter,0,Dallas,,,1,,
+minoraverages/1959TSN,1958,Texas League,,B01567,Oden,W. Eugene,0,Dallas,,,24,,
+minoraverages/1959TSN,1958,Texas League,,F20518,Oden,,0,Dallas,,,,,3b20
+minoraverages/1959TSN,1958,Texas League,,B02215,Olivo,Federico,0,Austin,,,1,,
+minoraverages/1959TSN,1958,Texas League,,P10883,Olivo,,0,Austin,,,,1,
+minoraverages/1959TSN,1958,Texas League,,B01580,Osorio,Alberto,0,San Antonio,,,22,,
+minoraverages/1959TSN,1958,Texas League,,F21854,Osorio,,0,San Antonio,,,,,p17
+minoraverages/1959TSN,1958,Texas League,,P10679,Osorio,,0,San Antonio,,,,17,
+minoraverages/1959TSN,1958,Texas League,,B01595,Padilla,Jose,0,San Antonio,,,75,,
+minoraverages/1959TSN,1958,Texas League,,F20792,Padilla,,0,San Antonio,,,,,ss75
+minoraverages/1959TSN,1958,Texas League,,B02534,Palmieri,Ernest,0,Houston,,,7,,
+minoraverages/1959TSN,1958,Texas League,,P11102,Palmieri,,0,Houston,,,,7,
+minoraverages/1959TSN,1958,Texas League,,B02289,Papai,Alfred,0,Corpus Christi,,,5,,
+minoraverages/1959TSN,1958,Texas League,,P10930,Papai,,0,Corpus Christi,,,,5,
+minoraverages/1959TSN,1958,Texas League,,B01601,Parsons,William,0,Victoria,,,141,,
+minoraverages/1959TSN,1958,Texas League,,F21084,Parsons,,0,Victoria,,,,,cf89
+minoraverages/1959TSN,1958,Texas League,,F21475,Parsons,,0,Victoria,,,,,rf48
+minoraverages/1959TSN,1958,Texas League,,B01617,Peeples,Nathaniel,0,Austin,,,140,,
+minoraverages/1959TSN,1958,Texas League,,F20997,Peeples,,0,Austin,,,,,lf55
+minoraverages/1959TSN,1958,Texas League,,F21241,Peeples,,0,Austin,,,,,cf36
+minoraverages/1959TSN,1958,Texas League,,F21515,Peeples,,0,Austin,,,,,rf53
+minoraverages/1959TSN,1958,Texas League,,B01625,Peete,James,0,Dallas,,,13,,
+minoraverages/1959TSN,1958,Texas League,,F22558,Peete,,0,Dallas,,,,,p13
+minoraverages/1959TSN,1958,Texas League,,P10687,Peete,,0,Dallas,,,,13,
+minoraverages/1959TSN,1958,Texas League,,B01630,Perkowski,Harry,0,Fort Worth,,,51,,
+minoraverages/1959TSN,1958,Texas League,,F22142,Perkowski,,0,Fort Worth,,,,,p43
+minoraverages/1959TSN,1958,Texas League,,P10698,Perkowski,,0,Fort Worth,,,,43,
+minoraverages/1959TSN,1958,Texas League,,B02432,Perranoski,Ronald,0,Fort Worth,,,2,,
+minoraverages/1959TSN,1958,Texas League,,P11051,Perranoski,,0,Fort Worth,,,,2,
+minoraverages/1959TSN,1958,Texas League,,B01649,Peterson,James,0,Victoria,,,13,,
+minoraverages/1959TSN,1958,Texas League,,F21985,Peterson,,0,Victoria,,,,,p11
+minoraverages/1959TSN,1958,Texas League,,P10709,Peterson,,0,Victoria,,,,11,
+minoraverages/1959TSN,1958,Texas League,,B01658,Pfeiffer,John,0,Victoria,,,137,,
+minoraverages/1959TSN,1958,Texas League,,F20648,Pfeiffer,,0,Victoria,,,,,3b16
+minoraverages/1959TSN,1958,Texas League,,F20700,Pfeiffer,,0,Victoria,,,,,ss116
+minoraverages/1959TSN,1958,Texas League,,B01663,Picciano,Robert,0,Fort Worth,,,17,,
+minoraverages/1959TSN,1958,Texas League,,B02357,Pinckard,William,0,Dallas,,,2,,
+minoraverages/1959TSN,1958,Texas League,,B01674,Powis,Carl,1,Victoria,,,49,,
+minoraverages/1959TSN,1958,Texas League,,B01674,Powis,Carl,2,Dallas,,,65,,
+minoraverages/1959TSN,1958,Texas League,,B01674,Powis,Carl,T,,,,114,,
+minoraverages/1959TSN,1958,Texas League,,F20908,Powis,,1,Victoria,,,,,lf
+minoraverages/1959TSN,1958,Texas League,,F20908,Powis,,2,Dallas,,,,,lf
+minoraverages/1959TSN,1958,Texas League,,F20908,Powis,,T,,,,,,lf41
+minoraverages/1959TSN,1958,Texas League,,F21210,Powis,,1,Victoria,,,,,cf
+minoraverages/1959TSN,1958,Texas League,,F21210,Powis,,2,Dallas,,,,,cf
+minoraverages/1959TSN,1958,Texas League,,F21210,Powis,,T,,,,,,cf44
+minoraverages/1959TSN,1958,Texas League,,F21319,Powis,,1,Victoria,,,,,rf
+minoraverages/1959TSN,1958,Texas League,,F21319,Powis,,2,Dallas,,,,,rf
+minoraverages/1959TSN,1958,Texas League,,F21319,Powis,,T,,,,,,rf22
+minoraverages/1959TSN,1958,Texas League,,B01682,Rac,Russell,0,Houston,,,120,,
+minoraverages/1959TSN,1958,Texas League,,F20095,Rac,,0,Houston,,,,,1b50
+minoraverages/1959TSN,1958,Texas League,,F20327,Rac,,0,Houston,,,,,2b28
+minoraverages/1959TSN,1958,Texas League,,F20657,Rac,,0,Houston,,,,,3b13
+minoraverages/1959TSN,1958,Texas League,,F21335,Rac,,0,Houston,,,,,rf21
+minoraverages/1959TSN,1958,Texas League,,F22465,Raczewski,,0,Houston,,,,,p55
+minoraverages/1959TSN,1958,Texas League,,B01696,Rambone,Paul,1,Austin,,,74,,
+minoraverages/1959TSN,1958,Texas League,,B01696,Rambone,Paul,2,Dallas,,,51,,
+minoraverages/1959TSN,1958,Texas League,,B01696,Rambone,Paul,T,,,,125,,
+minoraverages/1959TSN,1958,Texas League,,F20425,Rambone,,1,Austin,,,,,2b
+minoraverages/1959TSN,1958,Texas League,,F20425,Rambone,,2,Dallas,,,,,2b
+minoraverages/1959TSN,1958,Texas League,,F20425,Rambone,,T,,,,,,2b20
+minoraverages/1959TSN,1958,Texas League,,F20463,Rambone,,1,Austin,,,,,3b
+minoraverages/1959TSN,1958,Texas League,,F20463,Rambone,,2,Dallas,,,,,3b
+minoraverages/1959TSN,1958,Texas League,,F20463,Rambone,,T,,,,,,3b82
+minoraverages/1959TSN,1958,Texas League,,B02228,Ramirez,Carlos,0,Austin,,,7,,
+minoraverages/1959TSN,1958,Texas League,,B01706,Rand,Robert,0,Dallas,,,95,,
+minoraverages/1959TSN,1958,Texas League,,F21752,Rand,,0,Dallas,,,,,c89
+minoraverages/1959TSN,1958,Texas League,,B01711,Rice,James,0,Corpus Christi,,,152,,
+minoraverages/1959TSN,1958,Texas League,,F20375,Rice,,0,Corpus Christi,,,,,2b152
+minoraverages/1959TSN,1958,Texas League,,B01722,Richardson,Edward,0,Victoria,,,131,,
+minoraverages/1959TSN,1958,Texas League,,B02542,Richardson,Gordon,0,Houston,,,2,,
+minoraverages/1959TSN,1958,Texas League,,F20388,Richardson,,0,Victoria,,,,,2b110
+minoraverages/1959TSN,1958,Texas League,,F20571,Richardson,,0,Victoria,,,,,3b18
+minoraverages/1959TSN,1958,Texas League,,P11115,Richardson,,0,Houston,,,,2,
+minoraverages/1959TSN,1958,Texas League,,B02290,Risinger,Tony,0,Corpus Christi,,,7,,
+minoraverages/1959TSN,1958,Texas League,,P10949,Risinger,,0,Corpus Christi,,,,9,
+minoraverages/1959TSN,1958,Texas League,,B01733,Rivich,Robert,0,Fort Worth,,,19,,
+minoraverages/1959TSN,1958,Texas League,,F21638,Rivich,,0,Fort Worth,,,,,c17
+minoraverages/1959TSN,1958,Texas League,,B01740,Roberts,David,0,Austin,,,148,,
+minoraverages/1959TSN,1958,Texas League,,B01754,Roberts,Neill,1,Corpus Christi,,,15,,
+minoraverages/1959TSN,1958,Texas League,,B01754,Roberts,Neill,2,Victoria,,,13,,
+minoraverages/1959TSN,1958,Texas League,,B01754,Roberts,Neill,T,,,,28,,
+minoraverages/1959TSN,1958,Texas League,,F20115,Roberts,,0,Austin,,,,,1b146
+minoraverages/1959TSN,1958,Texas League,,F22280,Roberts,,1,Corpus Christi,,,,,p
+minoraverages/1959TSN,1958,Texas League,,F22280,Roberts,,2,Victoria,,,,,p
+minoraverages/1959TSN,1958,Texas League,,F22280,Roberts,,T,,,,,,p27
+minoraverages/1959TSN,1958,Texas League,,P10714,Roberts,,1,Corpus Christi,,,,15,
+minoraverages/1959TSN,1958,Texas League,,P10714,Roberts,,2,Victoria,,,,12,
+minoraverages/1959TSN,1958,Texas League,,P10714,Roberts,,T,,,,,27,
+minoraverages/1959TSN,1958,Texas League,,B01765,Robertson,Donald,0,Fort Worth,,,34,,
+minoraverages/1959TSN,1958,Texas League,,F21403,Robertson,,0,Fort Worth,,,,,rf34
+minoraverages/1959TSN,1958,Texas League,,M90110,Rochelli,Louis,,Victoria,,,,,
 minoraverages/emilbb,1958,Texas League,,M90587,Rochelli,Lou,,Victoria,,,,,
+minoraverages/1959TSN,1958,Texas League,,B01779,Rodin,Eric,0,Corpus Christi,,,146,,
+minoraverages/1959TSN,1958,Texas League,,F20166,Rodin,,0,Corpus Christi,,,,,1b15
+minoraverages/1959TSN,1958,Texas League,,F20970,Rodin,,0,Corpus Christi,,,,,lf11
+minoraverages/1959TSN,1958,Texas League,,F21163,Rodin,,0,Corpus Christi,,,,,cf120
+minoraverages/1959TSN,1958,Texas League,,P10958,Rodin,,0,Corpus Christi,,,,2,
+minoraverages/1959TSN,1958,Texas League,,B01787,Russell,Donald,0,Victoria,,,24,,
+minoraverages/1959TSN,1958,Texas League,,B02550,Russell,Kelton,0,Houston,,,4,,
+minoraverages/1959TSN,1958,Texas League,,F20661,Russell,,0,Victoria,,,,,3b17
+minoraverages/1959TSN,1958,Texas League,,P11128,Russell,K.,0,Houston,,,,4,
+minoraverages/1959TSN,1958,Texas League,,B02361,Sadler,Ernest,0,Dallas,,,1,,
+minoraverages/1959TSN,1958,Texas League,,P10982,Sadler,,0,Dallas,,,,1,
+minoraverages/1959TSN,1958,Texas League,,B01798,Santiago,Jose,0,San Antonio,,,15,,
+minoraverages/1959TSN,1958,Texas League,,F21920,Santiago,,0,San Antonio,,,,,p14
+minoraverages/1959TSN,1958,Texas League,,P10723,Santiago,,0,San Antonio,,,,14,
+minoraverages/1959TSN,1958,Texas League,,B02746,Scarpa,Leo,0,Victoria,,,3,,
+minoraverages/1959TSN,1958,Texas League,,P11303,Scarpa,,0,Victoria,,,,2,
+minoraverages/1959TSN,1958,Texas League,,M90060,Schepps,George,,Dallas,19580701,,,,
 minoraverages/emilbb,1958,Texas League,,M90533,Schepps,George,,Dallas,,,,,
+minoraverages/1959TSN,1958,Texas League,,B01804,Schultz,Donald,0,San Antonio,,,30,,
+minoraverages/1959TSN,1958,Texas League,,F21904,Schultz,,0,San Antonio,,,,,p29
+minoraverages/1959TSN,1958,Texas League,,P10738,Schultz,,0,San Antonio,,,,29,
+minoraverages/1959TSN,1958,Texas League,,B01812,Senties,Juan,0,Corpus Christi,,,14,,
+minoraverages/1959TSN,1958,Texas League,,B01820,Shannon,Walter,0,Houston,,,113,,
+minoraverages/1959TSN,1958,Texas League,,F20287,Shannon,,0,Houston,,,,,2b108
+minoraverages/1959TSN,1958,Texas League,,B02441,Shaw,Allen,0,Fort Worth,,,1,,
+minoraverages/1959TSN,1958,Texas League,,B01836,Sheets,Eugene,0,San Antonio,,,44,,
+minoraverages/1959TSN,1958,Texas League,,F20211,Sheets,,0,San Antonio,,,,,1b11
+minoraverages/1959TSN,1958,Texas League,,F21528,Sheets,,0,San Antonio,,,,,rf29
+minoraverages/1959TSN,1958,Texas League,,F21590,Sholin,,0,Tulsa,,,,,c81
+minoraverages/1959TSN,1958,Texas League,,B01848,Shollin,Thomas,0,Tulsa,,,93,,
+minoraverages/1959TSN,1958,Texas League,,B02751,Shosty,Robert,0,Victoria,,,7,,
+minoraverages/1959TSN,1958,Texas League,,B01857,Sinovic,Richard,0,Austin,,,135,,
+minoraverages/1959TSN,1958,Texas League,,F20233,Sinovic,,0,Austin,,,,,1b13
+minoraverages/1959TSN,1958,Texas League,,F21000,Sinovic,,0,Austin,,,,,lf87
+minoraverages/1959TSN,1958,Texas League,,F21308,Sinovic,,0,Austin,,,,,rf24
+minoraverages/1959TSN,1958,Texas League,,P10894,Sinovic,,0,Austin,,,,5,
+minoraverages/1959TSN,1958,Texas League,,B01861,Snyder,James,0,Tulsa,,,70,,
+minoraverages/1959TSN,1958,Texas League,,F20391,Snyder,,0,Tulsa,,,,,2b67
+minoraverages/1959TSN,1958,Texas League,,B01873,Solis,Marcelino,0,Fort Worth,,,20,,
+minoraverages/1959TSN,1958,Texas League,,F22061,Solis,,0,Fort Worth,,,,,p20
+minoraverages/1959TSN,1958,Texas League,,P10746,Solis,,0,Fort Worth,,,,20,
+minoraverages/1959TSN,1958,Texas League,,B01885,Solt,James,0,Austin,,,41,,
+minoraverages/1959TSN,1958,Texas League,,F21739,Solt,,0,Austin,,,,,c38
+minoraverages/1959TSN,1958,Texas League,,B01899,Sovde,Richard,0,Corpus Christi,,,37,,
+minoraverages/1959TSN,1958,Texas League,,F22549,Sovde,,0,Corpus Christi,,,,,p37
+minoraverages/1959TSN,1958,Texas League,,P10751,Sovde,,0,Corpus Christi,,,,37,
+minoraverages/1959TSN,1958,Texas League,,B02304,Spicuzza,John,0,Corpus Christi,,,5,,
+minoraverages/1959TSN,1958,Texas League,,B02569,Spooner,Karl,0,Houston,,,2,,
+minoraverages/1959TSN,1958,Texas League,,P11131,Spooner,,0,Houston,,,,2,
+minoraverages/1959TSN,1958,Texas League,,B01926,St. John,Thomas,0,San Antonio,,,58,,
+minoraverages/1959TSN,1958,Texas League,,F21068,St. John,,0,San Antonio,,,,,cf42
+minoraverages/1959TSN,1958,Texas League,,B01905,Stankey,Lawrence,1,Victoria,,,29,,
+minoraverages/1959TSN,1958,Texas League,,B01905,Stankey,Lawrence,2,San Antonio,,,39,,
+minoraverages/1959TSN,1958,Texas League,,B01905,Stankey,Lawrence,T,,,,68,,
+minoraverages/1959TSN,1958,Texas League,,F20128,Stankey,,1,Victoria,,,,,1b
+minoraverages/1959TSN,1958,Texas League,,F20128,Stankey,,2,San Antonio,,,,,1b
+minoraverages/1959TSN,1958,Texas League,,F20128,Stankey,,T,,,,,,1b64
+minoraverages/1959TSN,1958,Texas League,,B02455,Stenhouse,David,0,Fort Worth,,,6,,
+minoraverages/1959TSN,1958,Texas League,,P10767,Stenhouse,,0,Fort Worth,,,,6,
+minoraverages/1959TSN,1958,Texas League,,B01918,Stieglitz,Albert,0,Corpus Christi,,,107,,
+minoraverages/1959TSN,1958,Texas League,,F21672,Stieglitz,,0,Corpus Christi,,,,,c93
+minoraverages/1959TSN,1958,Texas League,,B01939,Stoico,Robert,0,Austin,,,14,,
+minoraverages/1959TSN,1958,Texas League,,F22411,Stoico,,0,Austin,,,,,p15
+minoraverages/1959TSN,1958,Texas League,,P10901,Stoico,,0,Austin,,,,15,
+minoraverages/1959TSN,1958,Texas League,,B01947,Suplizio,Samuel,1,Victoria,,,16,,
+minoraverages/1959TSN,1958,Texas League,,B01947,Suplizio,Samuel,2,Dallas,,,44,,
+minoraverages/1959TSN,1958,Texas League,,B01947,Suplizio,Samuel,T,,,,60,,
+minoraverages/1959TSN,1958,Texas League,,F21130,Suplizio,,1,Victoria,,,,,cf
+minoraverages/1959TSN,1958,Texas League,,F21130,Suplizio,,2,Dallas,,,,,cf
+minoraverages/1959TSN,1958,Texas League,,F21130,Suplizio,,T,,,,,,cf48
+minoraverages/1959TSN,1958,Texas League,,B02767,Templeton,Charles,0,Victoria,,,5,,
+minoraverages/1959TSN,1958,Texas League,,P11316,Templeton,,0,Victoria,,,,5,
+minoraverages/1959TSN,1958,Texas League,,B01952,Thacker,Morris,0,Fort Worth,,,88,,
+minoraverages/1959TSN,1958,Texas League,,F21609,Thacker,,0,Fort Worth,,,,,c87
+minoraverages/1959TSN,1958,Texas League,,B02575,Thiem,Theodore,0,Houston,,,9,,
+minoraverages/1959TSN,1958,Texas League,,P10772,Thiem,,0,Houston,,,,9,
+minoraverages/1959TSN,1958,Texas League,,B01960,Thollander,Robert,0,San Antonio,,,14,,
+minoraverages/1959TSN,1958,Texas League,,F21999,Thollander,,0,San Antonio,,,,,p11
+minoraverages/1959TSN,1958,Texas League,,P10780,Thollander,,0,San Antonio,,,,11,
+minoraverages/1959TSN,1958,Texas League,,B01971,Thorpe,R. Benjamin,0,Houston,,,16,,
+minoraverages/1959TSN,1958,Texas League,,F21356,Thorpe,,0,Houston,,,,,rf15
+minoraverages/1959TSN,1958,Texas League,,B02312,Tosheff,William,0,Corpus Christi,,,4,,
+minoraverages/1959TSN,1958,Texas League,,P10963,Tosheff,,0,Corpus Christi,,,,2,
+minoraverages/1959TSN,1958,Texas League,,B01983,Toth,Paul,0,Houston,,,13,,
+minoraverages/1959TSN,1958,Texas League,,F21961,Toth,,0,Houston,,,,,p13
+minoraverages/1959TSN,1958,Texas League,,P11144,Toth,,0,Houston,,,,13,
+minoraverages/1959TSN,1958,Texas League,,B01994,Tremel,William,0,Victoria,,,49,,
+minoraverages/1959TSN,1958,Texas League,,F22169,Tremel,,0,Victoria,,,,,p49
+minoraverages/1959TSN,1958,Texas League,,P10795,Tremel,,0,Victoria,,,,49,
+minoraverages/1959TSN,1958,Texas League,,B02008,Tugerson,James,0,Dallas,,,43,,
+minoraverages/1959TSN,1958,Texas League,,F22209,Tugerson,,0,Dallas,,,,,p34
+minoraverages/1959TSN,1958,Texas League,,P10805,Tugerson,,0,Dallas,,,,34,
+minoraverages/1959TSN,1958,Texas League,,B02019,Turk,John,0,Tulsa,,,34,,
+minoraverages/1959TSN,1958,Texas League,,F21531,Turk,,0,Tulsa,,,,,c30
+minoraverages/1959TSN,1958,Texas League,,B02024,Van Noy,Jay,0,Corpus Christi,,,80,,
+minoraverages/1959TSN,1958,Texas League,,F20190,Van Noy,,0,Corpus Christi,,,,,1b42
+minoraverages/1959TSN,1958,Texas League,,F20612,Van Noy,,0,Corpus Christi,,,,,3b19
+minoraverages/1959TSN,1958,Texas League,,B02772,Vargas,Roberto,0,Victoria,,,4,,
+minoraverages/1959TSN,1958,Texas League,,P11327,Vargas,,0,Victoria,,,,3,
+minoraverages/1959TSN,1958,Texas League,,B02035,Walker,Harry,0,Houston,,,45,,
+minoraverages/1959TSN,1958,Texas League,,F20206,Walker,,0,Houston,,,,,1b19
+minoraverages/1959TSN,1958,Texas League,,M90026,Walker,Harry (The Hat),,Houston,,,,,
+minoraverages/1959TSN,1958,Texas League,,P11153,Walker,,0,Houston,,,,3,
 minoraverages/emilbb,1958,Texas League,,M90492,Walker,Harry,,Houston,,,,,
+minoraverages/1959TSN,1958,Texas League,,B02780,Walz,Robert,0,Victoria,,,9,,
+minoraverages/1959TSN,1958,Texas League,,P10818,Walz,,0,Victoria,,,,7,
+minoraverages/1959TSN,1958,Texas League,,B02795,Warnitsky,Michael,0,Victoria,,,6,,
+minoraverages/1959TSN,1958,Texas League,,P11166,Warnitsky,,0,Houston,,,,6,
+minoraverages/1959TSN,1958,Texas League,,B02633,Weatherly,Roy,0,San Antonio,,,2,,
+minoraverages/1959TSN,1958,Texas League,,B02231,Wedin,Robert,0,Austin,,,8,,
+minoraverages/1959TSN,1958,Texas League,,P10917,Wedin,,0,Austin,,,,8,
+minoraverages/1959TSN,1958,Texas League,,B02373,Wegerek,David,0,Dallas,,,4,,
+minoraverages/1959TSN,1958,Texas League,,P10996,Wegerek,,0,Dallas,,,,4,
+minoraverages/1959TSN,1958,Texas League,,B02043,Wehmeyer,George,0,Corpus Christi,,,11,,
+minoraverages/1959TSN,1958,Texas League,,F20810,Wehmeyer,,0,Corpus Christi,,,,,ss11
+minoraverages/1959TSN,1958,Texas League,,B02244,Wehner,Frank,0,Austin,,,7,,
+minoraverages/1959TSN,1958,Texas League,,B02320,Wells,William,0,Corpus Christi,,,5,,
+minoraverages/1959TSN,1958,Texas League,,B02805,White,Frank,0,Victoria,,,5,,
+minoraverages/1959TSN,1958,Texas League,,P11334,White,,0,Victoria,,,,5,
+minoraverages/1959TSN,1958,Texas League,,B02056,Widmar,Albert,0,Tulsa,,,11,,
+minoraverages/1959TSN,1958,Texas League,,F22487,Widmar,,0,Tulsa,,,,,p11
+minoraverages/1959TSN,1958,Texas League,,M90094,Widmar,Albert,,Tulsa,,,,,
+minoraverages/1959TSN,1958,Texas League,,P10826,Widmar,,0,Tulsa,,,,11,
 minoraverages/emilbb,1958,Texas League,,M90565,Widmar,Al,,Tulsa,,,,,
+minoraverages/1959TSN,1958,Texas League,,B02698,Wiley,Ronald,0,Tulsa,,,7,,
+minoraverages/1959TSN,1958,Texas League,,B02062,Wilhelm,Charles,0,Corpus Christi,,,34,,
+minoraverages/1959TSN,1958,Texas League,,F20482,Wilhelm,,0,Corpus Christi,,,,,3b322
+minoraverages/1959TSN,1958,Texas League,,B02070,Wilkinson,Jack,0,Corpus Christi,,,12,,
+minoraverages/1959TSN,1958,Texas League,,B02081,Will,Robert,0,Fort Worth,,,82,,
+minoraverages/1959TSN,1958,Texas League,,F21442,Will,,0,Fort Worth,,,,,rf81
+minoraverages/1959TSN,1958,Texas League,,B02097,Williams,David,0,Dallas,,,16,,
+minoraverages/1959TSN,1958,Texas League,,B02100,Williams,Don Q.,0,Victoria,,,19,,
+minoraverages/1959TSN,1958,Texas League,,B02113,Williams,Leonard,0,Fort Worth,,,12,,
+minoraverages/1959TSN,1958,Texas League,,B02121,Williams,Marvin,0,Tulsa,,,144,,
+minoraverages/1959TSN,1958,Texas League,,F20102,Williams,,0,Tulsa,,,,,1b144
+minoraverages/1959TSN,1958,Texas League,,F21021,Williams,,0,Fort Worth,,,,,lf12
+minoraverages/1959TSN,1958,Texas League,,F21747,Williams,,0,Victoria,,,,,c18
+minoraverages/1959TSN,1958,Texas League,,M90052,Williams,David,,Dallas,,,,,
+minoraverages/1959TSN,1958,Texas League,,P11009,Williams,,0,Dallas,,,,1,
 minoraverages/emilbb,1958,Texas League,,M90522,Williams,David,,Dallas,,,,,
+minoraverages/1959TSN,1958,Texas League,,B02137,Winkles,Robert,0,Tulsa,,,64,,
+minoraverages/1959TSN,1958,Texas League,,F20699,Winkles,,0,Tulsa,,,,,ss64
+minoraverages/1959TSN,1958,Texas League,,B02145,Wooten,Derald,0,Victoria,,,11,,
+minoraverages/1959TSN,1958,Texas League,,F22004,Wooten,,0,Victoria,,,,,p11
+minoraverages/1959TSN,1958,Texas League,,P10839,Wooten,,0,Victoria,,,,11,
