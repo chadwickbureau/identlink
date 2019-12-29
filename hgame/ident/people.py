@@ -15,6 +15,13 @@ def extract_with_source(path, source, **kwargs):
         return pd.DataFrame()
 
 
+def collect_from_palmer(path):
+    """Collect playing records from Palmer rosters.
+    """
+    print("Collecting items from Palmer dataset.")
+    return extract_with_source(path/"playing_individual.csv",
+                               "palmer")
+
 def collect_from_averages(path):
     """Collect playing and managing performance records from
     minoraverages repository.
@@ -119,10 +126,13 @@ def extract_sources():
         path_splits=pathlib.Path("../retrosplits"),
         path_retro=pathlib.Path("../retrosheet")
     )
+    palmer = [
+        collect_from_palmer(pathlib.Path("../palmer/minors/data/processed"))
+    ]
     avglist = collect_from_averages(pathlib.Path("../minoraverages"))
     boxlist = collect_from_boxscores(pathlib.Path("../boxscores"))
     print("Concatenating files...")
-    return pd.concat(retrolist + avglist + boxlist,
+    return pd.concat(retrolist + palmer + avglist + boxlist,
                      sort=False, ignore_index=True)
 
 
