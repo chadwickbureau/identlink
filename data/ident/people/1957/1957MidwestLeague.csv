@@ -1,8 +1,8 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
 minoraverages/1958TSN,1957,Midwest League,,B00013,Abraham,Paul,0,Kokomo,,,117,,
 minoraverages/1958TSN,1957,Midwest League,,F20177,Abraham,,0,Kokomo,,,,,2b117
-minoraverages/1958TSN,1957,Midwest League,,M90026,Ackerman,Carl,,Kokomo,19570508,19570513,,,
-minoraverages/1958TSN,1957,Midwest League,,M90047,Ackerman,Carl,,Kokomo,19570523,19570530,,,
+minoraverages/1958TSN,1957,Midwest League,,M90026,Ackerman,Carl,,Kokomo,19570508,,,,
+minoraverages/1958TSN,1957,Midwest League,,M90047,Ackerman,Carl,,Kokomo,19570523,,,,
 minoraverages/1958TSN,1957,Midwest League,,B00021,Aguillard,Raymond,0,Paris,,,18,,
 minoraverages/1958TSN,1957,Midwest League,,F21117,Aguillard,,0,Paris,,,,,of18
 minoraverages/1958TSN,1957,Midwest League,,B00037,Alomar,Rafael,0,Clinton,,,16,,
@@ -506,7 +506,7 @@ minoraverages/1958TSN,1957,Midwest League,,F21695,Reimer,,0,Clinton,,,,,p27
 minoraverages/1958TSN,1957,Midwest League,,P10575,Reimer,,0,Clinton,,,,27,
 minoraverages/1958TSN,1957,Midwest League,,B02818,Reinertson,Oliver,0,Mattoon,,,8,,
 minoraverages/1958TSN,1957,Midwest League,,M90018,Reiser,Harold (Pete),,Kokomo,,,,,
-minoraverages/1958TSN,1957,Midwest League,,M90039,Reiser,Harold (Pete),,Kokomo,19570514,19570522,,,
+minoraverages/1958TSN,1957,Midwest League,,M90039,Reiser,Harold (Pete),,Kokomo,19570514,,,,
 minoraverages/1958TSN,1957,Midwest League,,M90052,Reiser,Harold (Pete),,Kokomo,19570601,,,,
 minoraverages/emilbb,1957,Midwest League,,M92158,Reiser,Pete,,Kokomo,,,,,
 minoraverages/1958TSN,1957,Midwest League,,B02826,Reiss,Ralph,0,Mattoon,,,3,,

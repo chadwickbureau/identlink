@@ -1,11 +1,733 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
+minoraverages/1958TSN,1957,American Association,,B00013,Agosta,Thomas,1,Indianapolis,,,11,,
+minoraverages/1958TSN,1957,American Association,,B00013,Agosta,Thomas,2,Louisville,,,19,,
+minoraverages/1958TSN,1957,American Association,,B00013,Agosta,Thomas,T,,,,30,,
+minoraverages/1958TSN,1957,American Association,,F20298,Agosta,,1,Indianapolis,,,,,2b
+minoraverages/1958TSN,1957,American Association,,F20298,Agosta,,2,Louisville,,,,,2b
+minoraverages/1958TSN,1957,American Association,,F20298,Agosta,,T,,,,,,2b27
+minoraverages/1958TSN,1957,American Association,,B00021,Alou,Felipe,0,Minneapolis,,,24,,
+minoraverages/1958TSN,1957,American Association,,F21076,Alou,,0,Minneapolis,,,,,of22
+minoraverages/1958TSN,1957,American Association,,B00037,Alusik,George,0,Charleston,,,35,,
+minoraverages/1958TSN,1957,American Association,,F20924,Alusik,,0,Charleston,,,,,of27
+minoraverages/1958TSN,1957,American Association,,B00045,Atkins,Arnold,1,Indianapolis,,,3,,
+minoraverages/1958TSN,1957,American Association,,B00045,Atkins,Arnold,2,Louisville,,,22,,
+minoraverages/1958TSN,1957,American Association,,B00045,Atkins,Arnold,T,,,,25,,
+minoraverages/1958TSN,1957,American Association,,F21879,Atkins,,1,Indianapolis,,,,,p
+minoraverages/1958TSN,1957,American Association,,F21879,Atkins,,2,Louisville,,,,,p
+minoraverages/1958TSN,1957,American Association,,F21879,Atkins,,T,,,,,,p25
+minoraverages/1958TSN,1957,American Association,,P10019,Atkins,,1,Indianapolis,,,,3,
+minoraverages/1958TSN,1957,American Association,,P10019,Atkins,,2,Louisville,,,,22,
+minoraverages/1958TSN,1957,American Association,,P10019,Atkins,,T,,,,,25,
+minoraverages/1958TSN,1957,American Association,,B00059,Atwell,Maurice,0,Wichita,,,11,,
+minoraverages/1958TSN,1957,American Association,,F21528,Atwell,,0,Wichita,,,,,c11
+minoraverages/1958TSN,1957,American Association,,B00068,Barmes,Bruce,0,Omaha,,,35,,
+minoraverages/1958TSN,1957,American Association,,F20713,Barmes,,0,Omaha,,,,,of32
+minoraverages/1958TSN,1957,American Association,,B00076,Barnes,Frank,0,Omaha,,,34,,
+minoraverages/1958TSN,1957,American Association,,F22188,Barnes,,0,Omaha,,,,,p31
+minoraverages/1958TSN,1957,American Association,,P10024,Barnes,,0,Omaha,,,,31,
+minoraverages/1958TSN,1957,American Association,,B00084,Baro,Alberto,0,Omaha,,,22,,
+minoraverages/1958TSN,1957,American Association,,F21068,Baro,,0,Omaha,,,,,of18
+minoraverages/1958TSN,1957,American Association,,B00092,Bartirome,Anthony,0,Louisville,,,10,,
+minoraverages/1958TSN,1957,American Association,,F20023,Bartirome,,0,Louisville,,,,,1b10
+minoraverages/1958TSN,1957,American Association,,B00101,Beard,C. Theodore,0,Indianapolis,,,96,,
+minoraverages/1958TSN,1957,American Association,,F21149,Beard,,0,Indianapolis,,,,,of96
+minoraverages/1958TSN,1957,American Association,,B00117,Bearden,H. Eugene,0,Minneapolis,,,42,,
+minoraverages/1958TSN,1957,American Association,,F22012,Bearden,,0,Minneapolis,,,,,p34
+minoraverages/1958TSN,1957,American Association,,P10035,Bearden,,0,Minneapolis,,,,34,
+minoraverages/1958TSN,1957,American Association,,B00125,Bella,John,0,Denver,,,76,,
+minoraverages/1958TSN,1957,American Association,,F20807,Bella,,0,Denver,,,,,of68
+minoraverages/1958TSN,1957,American Association,,B00130,Benedict,David,1,Louisville,,,29,,
+minoraverages/1958TSN,1957,American Association,,B00130,Benedict,David,2,Omaha,,,6,,
+minoraverages/1958TSN,1957,American Association,,B00130,Benedict,David,T,,,,35,,
+minoraverages/1958TSN,1957,American Association,,F22238,Benedict,,1,Louisville,,,,,p
+minoraverages/1958TSN,1957,American Association,,F22238,Benedict,,2,Omaha,,,,,p
+minoraverages/1958TSN,1957,American Association,,F22238,Benedict,,T,,,,,,p35
+minoraverages/1958TSN,1957,American Association,,P10043,Benedict,,1,Louisville,,,,29,
+minoraverages/1958TSN,1957,American Association,,P10043,Benedict,,2,Omaha,,,,6,
+minoraverages/1958TSN,1957,American Association,,P10043,Benedict,,T,,,,,35,
+minoraverages/1958TSN,1957,American Association,,B00149,Bernard,Pablo,0,Indianapolis,,,19,,
+minoraverages/1958TSN,1957,American Association,,F20539,Bernard,,0,Indianapolis,,,,,3b13
+minoraverages/1958TSN,1957,American Association,,B02290,Bicknell,Charles,0,Indianapolis,,,9,,
+minoraverages/1958TSN,1957,American Association,,P11009,Bicknell,,0,Indianapolis,,,,9,
+minoraverages/1958TSN,1957,American Association,,B00158,Black,William,0,Charleston,,,13,,
+minoraverages/1958TSN,1957,American Association,,F22246,Black,,0,Charleston,,,,,p13
+minoraverages/1958TSN,1957,American Association,,P10056,Black,,0,Charleston,,,,13,
+minoraverages/1958TSN,1957,American Association,,B00163,Blanchard,John,0,Denver,,,117,,
+minoraverages/1958TSN,1957,American Association,,F20981,Blanchard,,0,Denver,,,,,of21
+minoraverages/1958TSN,1957,American Association,,F21362,Blanchard,,0,Denver,,,,,c88
+minoraverages/1958TSN,1957,American Association,,B00174,Blyzka,Michael,0,Minneapolis,,,22,,
+minoraverages/1958TSN,1957,American Association,,F21672,Blyzka,,0,Minneapolis,,,,,p22
+minoraverages/1958TSN,1957,American Association,,P10062,Blyzka,,0,Minneapolis,,,,22,
+minoraverages/1958TSN,1957,American Association,,B02357,Bornman,Thomas,0,Louisville,,,5,,
+minoraverages/1958TSN,1957,American Association,,B00182,Bowman,Roger,1,Minneapolis,,,5,,
+minoraverages/1958TSN,1957,American Association,,B00182,Bowman,Roger,2,Louisville,,,10,,
+minoraverages/1958TSN,1957,American Association,,B00182,Bowman,Roger,T,,,,15,,
+minoraverages/1958TSN,1957,American Association,,F22341,Bowman,,1,Minneapolis,,,,,p
+minoraverages/1958TSN,1957,American Association,,F22341,Bowman,,2,Louisville,,,,,p
+minoraverages/1958TSN,1957,American Association,,F22341,Bowman,,T,,,,,,p15
+minoraverages/1958TSN,1957,American Association,,P10070,Bowman,,1,Minneapolis,,,,5,
+minoraverages/1958TSN,1957,American Association,,P10070,Bowman,,2,Louisville,,,,10,
+minoraverages/1958TSN,1957,American Association,,P10070,Bowman,,T,,,,,15,
+minoraverages/1958TSN,1957,American Association,,B00196,Boyer,Cloyd,0,Indianapolis,,,33,,
+minoraverages/1958TSN,1957,American Association,,F21999,Boyer,,0,Indianapolis,,,,,p26
+minoraverages/1958TSN,1957,American Association,,P10081,Boyer,,0,Indianapolis,,,,26,
+minoraverages/1958TSN,1957,American Association,,B00207,Bressoud,Edward,0,Minneapolis,,,81,,
+minoraverages/1958TSN,1957,American Association,,F20547,Bressoud,,0,Minneapolis,,,,,ss81
+minoraverages/1958TSN,1957,American Association,,B00210,Brickell,Fritz,0,Denver,,,152,,
+minoraverages/1958TSN,1957,American Association,,F20583,Brickell,,0,Denver,,,,,ss151
+minoraverages/1958TSN,1957,American Association,,B00229,Brown,Ralph,0,Louisville,,,100,,
+minoraverages/1958TSN,1957,American Association,,B00232,Brown,Richard,0,Omaha,,,46,,
+minoraverages/1958TSN,1957,American Association,,F21286,Brown,,0,Louisville,,,,,of93
+minoraverages/1958TSN,1957,American Association,,F21381,Brown,,0,Omaha,,,,,c45
+minoraverages/1958TSN,1957,American Association,,B00241,Browning,Wade,0,Louisville,,,10,,
+minoraverages/1958TSN,1957,American Association,,P11046,Browning,,0,Louisville,,,,6,
+minoraverages/1958TSN,1957,American Association,,B02493,Burbrink,Nelson,0,Omaha,,,3,,
+minoraverages/1958TSN,1957,American Association,,B00255,Burnside,Peter,0,Minneapolis,,,21,,
+minoraverages/1958TSN,1957,American Association,,F22116,Burnside,,0,Minneapolis,,,,,p20
+minoraverages/1958TSN,1957,American Association,,P10097,Burnside,,0,Minneapolis,,,,20,
+minoraverages/1958TSN,1957,American Association,,B02168,Byrd,Harry,0,Charleston,,,6,,
+minoraverages/1958TSN,1957,American Association,,P10100,Byrd,,0,Charleston,,,,6,
+minoraverages/1958TSN,1957,American Association,,B02569,Cade,W. Edward,0,St. Paul,,,6,,
+minoraverages/1958TSN,1957,American Association,,P10113,Cade,,0,St. Paul,,,,6,
+minoraverages/1958TSN,1957,American Association,,B02698,Carter,Ross,0,Wichita,,,2,,
+minoraverages/1958TSN,1957,American Association,,P11279,Carter,,0,Wichita,,,,2,
+minoraverages/1958TSN,1957,American Association,,B00264,Castleman,Foster,0,Minneapolis,,,48,,
+minoraverages/1958TSN,1957,American Association,,F20189,Castleman,,0,Minneapolis,,,,,2b10
+minoraverages/1958TSN,1957,American Association,,F20620,Castleman,,0,Minneapolis,,,,,ss24
+minoraverages/1958TSN,1957,American Association,,B02709,Cave,Paul,0,Wichita,,,4,,
+minoraverages/1958TSN,1957,American Association,,P11287,Cave,,0,Wichita,,,,4,
+minoraverages/1958TSN,1957,American Association,,B00278,Cepeda,Orlando,0,Minneapolis,,,151,,
+minoraverages/1958TSN,1957,American Association,,F20102,Cepeda,,0,Minneapolis,,,,,1b139
+minoraverages/1958TSN,1957,American Association,,B00286,Cheney,Thomas,0,Omaha,,,27,,
+minoraverages/1958TSN,1957,American Association,,F21811,Cheney,,0,Omaha,,,,,p25
+minoraverages/1958TSN,1957,American Association,,P10121,Cheney,,0,Omaha,,,,25,
+minoraverages/1958TSN,1957,American Association,,B00293,Chrisley,B. O'Neil,0,Indianapolis,,,114,,
+minoraverages/1958TSN,1957,American Association,,F20482,Chrisley,,0,Indianapolis,,,,,3b15
+minoraverages/1958TSN,1957,American Association,,F21255,Chrisley,,0,Indianapolis,,,,,of95
+minoraverages/1958TSN,1957,American Association,,B00308,Clark,Melvin,0,Charleston,,,115,,
+minoraverages/1958TSN,1957,American Association,,B02575,Clark,James,0,St. Paul,,,5,,
+minoraverages/1958TSN,1957,American Association,,F20878,Clark,,0,Charleston,,,,,of97
+minoraverages/1958TSN,1957,American Association,,B00319,Clarke,Vibert,0,Minneapolis,,,23,,
+minoraverages/1958TSN,1957,American Association,,F21623,Clarke,,0,Minneapolis,,,,,p21
+minoraverages/1958TSN,1957,American Association,,P10137,Clarke,,0,Minneapolis,,,,21,
+minoraverages/1958TSN,1957,American Association,,M90060,Cohen,Andrew,,Indianapolis,,,,,
 minoraverages/emilbb,1957,American Association,,M90178,Cohen,Andy,,Indianapolis,,,,,
+minoraverages/1958TSN,1957,American Association,,B00324,Cole,Richard,0,Wichita,,,52,,
+minoraverages/1958TSN,1957,American Association,,F20505,Cole,,0,Wichita,,,,,3b11
+minoraverages/1958TSN,1957,American Association,,F20700,Cole,,0,Wichita,,,,,ss21
+minoraverages/1958TSN,1957,American Association,,B00335,Command,James,0,Omaha,,,88,,
+minoraverages/1958TSN,1957,American Association,,F21434,Command,,0,Omaha,,,,,c72
+minoraverages/1958TSN,1957,American Association,,B00343,Constable,James,0,Minneapolis,,,10,,
+minoraverages/1958TSN,1957,American Association,,F22272,Constable,,0,Minneapolis,,,,,p10
+minoraverages/1958TSN,1957,American Association,,P10145,Constable,,0,Minneapolis,,,,10,
+minoraverages/1958TSN,1957,American Association,,B00356,Corwin,Elmer,1,Minneapolis,,,11,,
+minoraverages/1958TSN,1957,American Association,,B00356,Corwin,Elmer,2,Louisville,,,15,,
+minoraverages/1958TSN,1957,American Association,,B00356,Corwin,Elmer,T,,,,26,,
+minoraverages/1958TSN,1957,American Association,,F21920,Corwin,,1,Minneapolis,,,,,p
+minoraverages/1958TSN,1957,American Association,,F21920,Corwin,,2,Louisville,,,,,p
+minoraverages/1958TSN,1957,American Association,,F21920,Corwin,,T,,,,,,p22
+minoraverages/1958TSN,1957,American Association,,P10159,Corwin,,1,Minneapolis,,,,7,
+minoraverages/1958TSN,1957,American Association,,P10159,Corwin,,2,Louisville,,,,15,
+minoraverages/1958TSN,1957,American Association,,P10159,Corwin,,T,,,,,22,
+minoraverages/1958TSN,1957,American Association,,B00362,Covington,J. Wesley,0,Wichita,,,32,,
+minoraverages/1958TSN,1957,American Association,,F20721,Covington,,0,Wichita,,,,,of32
+minoraverages/1958TSN,1957,American Association,,B00370,Curry,Lacey,0,St. Paul,,,41,,
+minoraverages/1958TSN,1957,American Association,,F20240,Curry,,0,St. Paul,,,,,2b41
+minoraverages/1958TSN,1957,American Association,,B00381,Curtis,Alpheus,0,Louisville,,,26,,
+minoraverages/1958TSN,1957,American Association,,F22020,Curtis,,0,Louisville,,,,,p26
+minoraverages/1958TSN,1957,American Association,,P10168,Curtis,,0,Louisville,,,,26,
+minoraverages/1958TSN,1957,American Association,,B02304,Dahlke,Jerome,0,Indianapolis,,,3,,
+minoraverages/1958TSN,1957,American Association,,P11014,Dahlke,,0,Indianapolis,,,,3,
+minoraverages/1958TSN,1957,American Association,,B00397,Daniel,Charles,0,Charleston,,,46,,
+minoraverages/1958TSN,1957,American Association,,F21957,Daniel,,0,Charleston,,,,,p37
+minoraverages/1958TSN,1957,American Association,,P10176,Daniel,,0,Charleston,,,,37,
+minoraverages/1958TSN,1957,American Association,,B00403,Davenport,James,0,Minneapolis,,,148,,
+minoraverages/1958TSN,1957,American Association,,F20401,Davenport,,0,Minneapolis,,,,,3b147
+minoraverages/1958TSN,1957,American Association,,B00416,Davidson,Crawford,0,St. Paul,,,20,,
+minoraverages/1958TSN,1957,American Association,,F20768,Davidson,,0,St. Paul,,,,,of20
+minoraverages/1958TSN,1957,American Association,,B00427,Davis,James,0,Minneapolis,,,21,,
+minoraverages/1958TSN,1957,American Association,,F22378,Davis,,0,Minneapolis,,,,,p21
+minoraverages/1958TSN,1957,American Association,,M90039,Davis,John (Red),,Minneapolis,,,,,
+minoraverages/1958TSN,1957,American Association,,P10184,Davis,,0,Minneapolis,,,,21,
 minoraverages/emilbb,1957,American Association,,M90141,Davis,"John ""Red""",,Minneapolis,,,,,
+minoraverages/1958TSN,1957,American Association,,B00450,DePalo,James,0,Denver,,,34,,
+minoraverages/1958TSN,1957,American Association,,F21961,DePalo,,0,Denver,,,,,p34
+minoraverages/1958TSN,1957,American Association,,P10192,DePalo,,0,Denver,,,,34,
+minoraverages/1958TSN,1957,American Association,,B00434,Delsing,James,0,Indianapolis,,,139,,
+minoraverages/1958TSN,1957,American Association,,F20886,Delsing,,0,Indianapolis,,,,,of129
+minoraverages/1958TSN,1957,American Association,,B00442,Demeter,Donald,0,St. Paul,,,134,,
+minoraverages/1958TSN,1957,American Association,,F20832,Demeter,,0,St. Paul,,,,,of130
+minoraverages/1958TSN,1957,American Association,,B02714,DiPrima,Frank,0,Wichita,,,9,,
+minoraverages/1958TSN,1957,American Association,,B00475,DiTusa,D. Richard,0,Indianapolis,,,45,,
+minoraverages/1958TSN,1957,American Association,,F20908,DiTusa,,0,Indianapolis,,,,,of30
+minoraverages/1958TSN,1957,American Association,,B00469,Diering,Charles,0,Omaha,,,78,,
+minoraverages/1958TSN,1957,American Association,,F20810,Diering,,0,Omaha,,,,,of64
+minoraverages/1958TSN,1957,American Association,,B00488,Dixon,Sherwin,0,Omaha,,,133,,
+minoraverages/1958TSN,1957,American Association,,F20265,Dixon,,0,Omaha,,,,,2b88
+minoraverages/1958TSN,1957,American Association,,F20699,Dixon,,0,Omaha,,,,,ss36
+minoraverages/1958TSN,1957,American Association,,B00502,Donnelly,Edward,0,Denver,,,26,,
+minoraverages/1958TSN,1957,American Association,,F21705,Donnelly,,0,Denver,,,,,p25
+minoraverages/1958TSN,1957,American Association,,P10202,Donnelly,,0,Denver,,,,25,
+minoraverages/1958TSN,1957,American Association,,B00515,Donovan,Lawrence,0,Charleston,,,14,,
+minoraverages/1958TSN,1957,American Association,,F21783,Donovan,,0,Charleston,,,,,p14
+minoraverages/1958TSN,1957,American Association,,P10901,Donovan,,0,Charleston,,,,14,
+minoraverages/1958TSN,1957,American Association,,B00491,DuFour,William,0,Indianapolis,,,40,,
+minoraverages/1958TSN,1957,American Association,,F22061,DuFour,,0,Indianapolis,,,,,p40
+minoraverages/1958TSN,1957,American Association,,P10215,DuFour,,0,Indianapolis,,,,40,
+minoraverages/1958TSN,1957,American Association,,B00528,Dunham,Arthur,0,Louisville,,,150,,
+minoraverages/1958TSN,1957,American Association,,F20935,Dunham,,0,Louisville,,,,,of148
+minoraverages/1958TSN,1957,American Association,,B00531,Duren,Rinold,0,Denver,,,18,,
+minoraverages/1958TSN,1957,American Association,,F22310,Duren,,0,Denver,,,,,p18
+minoraverages/1958TSN,1957,American Association,,P10228,Duren,,0,Denver,,,,18,
+minoraverages/1958TSN,1957,American Association,,B00544,Durnbaugh,Robert,0,Omaha,,,70,,
+minoraverages/1958TSN,1957,American Association,,F20648,Durnbaugh,,0,Omaha,,,,,ss66
+minoraverages/1958TSN,1957,American Association,,B00553,Eggert,Donald,0,Louisville,,,95,,
+minoraverages/1958TSN,1957,American Association,,F20474,Eggert,,0,Louisville,,,,,3b47
+minoraverages/1958TSN,1957,American Association,,F21335,Eggert,,0,Louisville,,,,,of43
+minoraverages/1958TSN,1957,American Association,,B02361,Erickson,Donald,0,Louisville,,,5,,
+minoraverages/1958TSN,1957,American Association,,P11051,Erickson,,0,Louisville,,,,5,
+minoraverages/1958TSN,1957,American Association,,B00566,Facchini,Albert,0,Charleston,,,86,,
+minoraverages/1958TSN,1957,American Association,,F20594,Facchini,,0,Charleston,,,,,ss70
+minoraverages/1958TSN,1957,American Association,,F20784,Facchini,,0,Charleston,,,,,of12
+minoraverages/1958TSN,1957,American Association,,B02373,Fisher,Harry,0,Louisville,,,9,,
+minoraverages/1958TSN,1957,American Association,,P11067,Fisher,,0,Louisville,,,,7,
+minoraverages/1958TSN,1957,American Association,,B00577,Flanigan,Thomas,0,Indianapolis,,,50,,
+minoraverages/1958TSN,1957,American Association,,F22048,Flanigan,,0,Indianapolis,,,,,p50
+minoraverages/1958TSN,1957,American Association,,P10231,Flanigan,,0,Indianapolis,,,,50,
+minoraverages/1958TSN,1957,American Association,,B00589,Flowers,Bennett,0,Denver,,,25,,
+minoraverages/1958TSN,1957,American Association,,F21887,Flowers,,0,Denver,,,,,p24
+minoraverages/1958TSN,1957,American Association,,P10244,Flowers,,0,Denver,,,,24,
+minoraverages/1958TSN,1957,American Association,,B02588,Forizs,John,0,St. Paul,,,2,,
+minoraverages/1958TSN,1957,American Association,,P11189,Forizs,,0,St. Paul,,,,2,
+minoraverages/1958TSN,1957,American Association,,B00590,Freeman,Mark,0,Denver,,,24,,
+minoraverages/1958TSN,1957,American Association,,F22209,Freeman,,0,Denver,,,,,p24
+minoraverages/1958TSN,1957,American Association,,P10253,Freeman,,0,Denver,,,,24,
+minoraverages/1958TSN,1957,American Association,,B00609,Fridley,James,0,Denver,,,25,,
+minoraverages/1958TSN,1957,American Association,,F21308,Fridley,,0,Denver,,,,,of21
+minoraverages/1958TSN,1957,American Association,,B02385,Froats,William,0,Louisville,,,3,,
+minoraverages/1958TSN,1957,American Association,,P11072,Froats,,0,Louisville,,,,3,
+minoraverages/1958TSN,1957,American Association,,B00614,Gabler,John,0,Denver,,,43,,
+minoraverages/1958TSN,1957,American Association,,F22169,Gabler,,0,Denver,,,,,p35
+minoraverages/1958TSN,1957,American Association,,P10266,Gabler,,0,Denver,,,,35,
+minoraverages/1958TSN,1957,American Association,,B00623,Garcia,Vinicio,0,Indianapolis,,,153,,
+minoraverages/1958TSN,1957,American Association,,F20233,Garcia,,0,Indianapolis,,,,,2b153
+minoraverages/1958TSN,1957,American Association,,B02231,Gebhard,John,0,Denver,,,5,,
+minoraverages/1958TSN,1957,American Association,,P10963,Gebhard,,0,Denver,,,,4,
+minoraverages/1958TSN,1957,American Association,,B00638,Geiger,Gary,0,Omaha,,,20,,
+minoraverages/1958TSN,1957,American Association,,F20745,Geiger,,0,Omaha,,,,,of16
+minoraverages/1958TSN,1957,American Association,,B02503,Gentry,Richard,0,Omaha,,,2,,
+minoraverages/1958TSN,1957,American Association,,M90018,Geraghty,Benjamin,,Wichita,,,,,
 minoraverages/emilbb,1957,American Association,,M90129,Geraghty,Ben,,Wichita,,,,,
+minoraverages/1958TSN,1957,American Association,,B00646,Gibson,Robert,0,Omaha,,,12,,
+minoraverages/1958TSN,1957,American Association,,F22364,Gibson,,0,Omaha,,,,,p10
+minoraverages/1958TSN,1957,American Association,,P10277,Gibson,,0,Omaha,,,,10,
+minoraverages/1958TSN,1957,American Association,,B00651,Gladstone,Granville,0,St. Paul,,,83,,
+minoraverages/1958TSN,1957,American Association,,F21182,Gladstone,,0,St. Paul,,,,,of77
+minoraverages/1958TSN,1957,American Association,,B00667,Glenn,John,0,St. Paul,,,141,,
+minoraverages/1958TSN,1957,American Association,,F21163,Glenn,,0,St. Paul,,,,,of141
+minoraverages/1958TSN,1957,American Association,,B00672,Gorbous,Glen,0,Omaha,,,97,,
+minoraverages/1958TSN,1957,American Association,,F20919,Gorbous,,0,Omaha,,,,,of78
+minoraverages/1958TSN,1957,American Association,,P11128,Gorbous,,0,Omaha,,,,2,
+minoraverages/1958TSN,1957,American Association,,B00680,Gorin,Charles,0,Wichita,,,32,,
+minoraverages/1958TSN,1957,American Association,,F22223,Gorin,,0,Wichita,,,,,p27
+minoraverages/1958TSN,1957,American Association,,P10289,Gorin,,0,Wichita,,,,27,
+minoraverages/1958TSN,1957,American Association,,B02399,Graham,Donald,0,Louisville,,,1,,
+minoraverages/1958TSN,1957,American Association,,P11080,Graham,,0,Louisville,,,,1,
+minoraverages/1958TSN,1957,American Association,,B00695,Grate,Donald,0,Minneapolis,,,150,,
+minoraverages/1958TSN,1957,American Association,,F20956,Grate,,0,Minneapolis,,,,,of145
+minoraverages/1958TSN,1957,American Association,,B00705,Gray,Richard,0,St. Paul,,,153,,
+minoraverages/1958TSN,1957,American Association,,F20391,Gray,,0,St. Paul,,,,,3b152
+minoraverages/1958TSN,1957,American Association,,B00718,Griffin,Donald,0,Charleston,,,90,,
+minoraverages/1958TSN,1957,American Association,,F21502,Griffin,,0,Charleston,,,,,c91
+minoraverages/1958TSN,1957,American Association,,M90083,Griffin,G. Donald,,Charleston,19570703,,,,
 minoraverages/emilbb,1957,American Association,,M90193,Griffin,Don,,Charleston,,,,,
+minoraverages/1958TSN,1957,American Association,,B00726,Guettler,Kenneth,0,Wichita,,,29,,
+minoraverages/1958TSN,1957,American Association,,F20776,Guettler,,0,Wichita,,,,,of23
+minoraverages/1958TSN,1957,American Association,,B00739,Guzman,Juan,0,Wichita,,,13,,
+minoraverages/1958TSN,1957,American Association,,B00747,Hairston,Samuel,0,Indianapolis,,,89,,
+minoraverages/1958TSN,1957,American Association,,F21370,Hairston,,0,Indianapolis,,,,,c75
+minoraverages/1958TSN,1957,American Association,,B00752,Hanebrink,Harry,0,Wichita,,,136,,
+minoraverages/1958TSN,1957,American Association,,F20350,Hanebrink,,0,Wichita,,,,,3b134
+minoraverages/1958TSN,1957,American Association,,B00760,Hanlon,Richard,0,St. Paul,,,23,,
+minoraverages/1958TSN,1957,American Association,,F21614,Hanlon,,0,St. Paul,,,,,p19
+minoraverages/1958TSN,1957,American Association,,P10290,Hanlon,,0,St. Paul,,,,19,
+minoraverages/1958TSN,1957,American Association,,B00771,Harrington,William,0,Charleston,,,20,,
+minoraverages/1958TSN,1957,American Association,,F21718,Harrington,,0,Charleston,,,,,p20
+minoraverages/1958TSN,1957,American Association,,P10304,Harrington,,0,Charleston,,,,20,
+minoraverages/1958TSN,1957,American Association,,B00783,Hartsfield,Robert M.,0,Wichita,,,78,,
+minoraverages/1958TSN,1957,American Association,,F20855,Hartsfield,,0,Wichita,,,,,of52
+minoraverages/1958TSN,1957,American Association,,B00794,Hassell,Eugene,0,Denver,,,85,,
+minoraverages/1958TSN,1957,American Association,,F20342,Hassell,,0,Denver,,,,,2b18
+minoraverages/1958TSN,1957,American Association,,F20369,Hassell,,0,Denver,,,,,3b32
+minoraverages/1958TSN,1957,American Association,,B00806,Hawes,Roy,1,Charleston,,,13,,
+minoraverages/1958TSN,1957,American Association,,B00806,Hawes,Roy,2,Wichita,,,50,,
+minoraverages/1958TSN,1957,American Association,,B00806,Hawes,Roy,T,,,,63,,
+minoraverages/1958TSN,1957,American Association,,F20166,Hawes,,1,Charleston,,,,,1b
+minoraverages/1958TSN,1957,American Association,,F20166,Hawes,,2,Wichita,,,,,1b
+minoraverages/1958TSN,1957,American Association,,F20166,Hawes,,T,,,,,,1b19
+minoraverages/1958TSN,1957,American Association,,F21229,Hawes,,1,Charleston,,,,,of
+minoraverages/1958TSN,1957,American Association,,F21229,Hawes,,2,Wichita,,,,,of
+minoraverages/1958TSN,1957,American Association,,F21229,Hawes,,T,,,,,,of34
+minoraverages/1958TSN,1957,American Association,,B00811,Hazle,Robert,0,Wichita,,,92,,
+minoraverages/1958TSN,1957,American Association,,F20893,Hazle,,0,Wichita,,,,,of82
+minoraverages/1958TSN,1957,American Association,,B00822,Held,Woodson,0,Denver,,,16,,
+minoraverages/1958TSN,1957,American Association,,F21125,Held,,0,Denver,,,,,of13
+minoraverages/1958TSN,1957,American Association,,B02723,Henry,Ronald,0,Wichita,,,1,,
+minoraverages/1958TSN,1957,American Association,,B00833,Hersh,Earl,0,Wichita,,,153,,
+minoraverages/1958TSN,1957,American Association,,F20115,Hersh,,0,Wichita,,,,,1b133
+minoraverages/1958TSN,1957,American Association,,F21324,Hersh,,0,Wichita,,,,,of16
+minoraverages/1958TSN,1957,American Association,,B00840,Hicks,Clarence,0,Charleston,,,137,,
+minoraverages/1958TSN,1957,American Association,,F20014,Hicks,,0,Charleston,,,,,1b22
+minoraverages/1958TSN,1957,American Association,,F20518,Hicks,,0,Charleston,,,,,3b24
+minoraverages/1958TSN,1957,American Association,,F20604,Hicks,,0,Charleston,,,,,ss76
+minoraverages/1958TSN,1957,American Association,,B00854,Hilyer,Kenneth,1,Omaha,,,26,,
+minoraverages/1958TSN,1957,American Association,,B00854,Hilyer,Kenneth,2,Louisville,,,24,,
+minoraverages/1958TSN,1957,American Association,,B00854,Hilyer,Kenneth,T,,,,50,,
+minoraverages/1958TSN,1957,American Association,,F20327,Hilyer,,1,Omaha,,,,,2b
+minoraverages/1958TSN,1957,American Association,,F20327,Hilyer,,2,Louisville,,,,,2b
+minoraverages/1958TSN,1957,American Association,,F20327,Hilyer,,T,,,,,,2b44
+minoraverages/1958TSN,1957,American Association,,B02591,Hoffman,Robert,0,St. Paul,,,6,,
+minoraverages/1958TSN,1957,American Association,,P11190,Hoffman,,0,St. Paul,,,,6,
+minoraverages/1958TSN,1957,American Association,,B00865,Hofman,Robert,0,Minneapolis,,,61,,
+minoraverages/1958TSN,1957,American Association,,F20095,Hofman,,0,Minneapolis,,,,,1b19
+minoraverages/1958TSN,1957,American Association,,F21531,Hofman,,0,Minneapolis,,,,,c27
+minoraverages/1958TSN,1957,American Association,,B00879,Holton,E. Raymond,0,Wichita,,,63,,
+minoraverages/1958TSN,1957,American Association,,F21278,Holton,,0,Wichita,,,,,of12
+minoraverages/1958TSN,1957,American Association,,F21397,Holton,,0,Wichita,,,,,c41
+minoraverages/1958TSN,1957,American Association,,B00887,Hoskins,David,0,Louisville,,,45,,
+minoraverages/1958TSN,1957,American Association,,F22295,Hoskins,,0,Louisville,,,,,p40
+minoraverages/1958TSN,1957,American Association,,P10312,Hoskins,,0,Louisville,,,,40,
+minoraverages/1958TSN,1957,American Association,,B02244,Host,Eugene,0,Denver,,,8,,
+minoraverages/1958TSN,1957,American Association,,P10320,Host,,0,Denver,,,,8,
+minoraverages/1958TSN,1957,American Association,,M90026,Houk,Ralph,,Denver,,,,,
 minoraverages/emilbb,1957,American Association,,M90132,Houk,Ralph,,Denver,,,,,
+minoraverages/1958TSN,1957,American Association,,B02312,Howard,Roger,0,Indianapolis,,,6,,
+minoraverages/1958TSN,1957,American Association,,P11023,Howard,,0,Indianapolis,,,,6,
+minoraverages/1958TSN,1957,American Association,,B00898,Howell,Homer,0,St. Paul,,,94,,
+minoraverages/1958TSN,1957,American Association,,F21544,Howell,,0,St. Paul,,,,,c81
+minoraverages/1958TSN,1957,American Association,,B02606,Hribar,Louis,0,St. Paul,,,4,,
+minoraverages/1958TSN,1957,American Association,,P11206,Hribar,,0,St. Paul,,,,4,
+minoraverages/1958TSN,1957,American Association,,B00904,Hutson,Eulas,0,St. Paul,,,68,,
+minoraverages/1958TSN,1957,American Association,,F21059,Hutson,,0,St. Paul,,,,,of49
+minoraverages/1958TSN,1957,American Association,,B00912,Jackson,Ronald,0,Indianapolis,,,143,,
+minoraverages/1958TSN,1957,American Association,,F20131,Jackson,,0,Indianapolis,,,,,1b143
+minoraverages/1958TSN,1957,American Association,,B00920,Jay,Joseph,0,Wichita,,,42,,
+minoraverages/1958TSN,1957,American Association,,F22134,Jay,,0,Wichita,,,,,p34
+minoraverages/1958TSN,1957,American Association,,P10336,Jay,,0,Wichita,,,,34,
+minoraverages/1958TSN,1957,American Association,,B00936,Jenkins,Wilburn,0,Minneapolis,,,33,,
+minoraverages/1958TSN,1957,American Association,,B02611,Jenkins,Robert,0,St. Paul,,,3,,
+minoraverages/1958TSN,1957,American Association,,F21427,Jenkins,,0,Minneapolis,,,,,c27
+minoraverages/1958TSN,1957,American Association,,B00948,Jones,Gordon,0,Minneapolis,,,33,,
+minoraverages/1958TSN,1957,American Association,,B00957,Jones,Rex,0,Louisville,,,35,,
+minoraverages/1958TSN,1957,American Association,,F21865,Jones,,0,Minneapolis,,,,,p33
+minoraverages/1958TSN,1957,American Association,,F22267,Jones,,0,Louisville,,,,,p35
+minoraverages/1958TSN,1957,American Association,,P10348,Jones,G.,0,Minneapolis,,,,33,
+minoraverages/1958TSN,1957,American Association,,P10357,Jones,R.,0,Louisville,,,,35,
+minoraverages/1958TSN,1957,American Association,,B00961,Joyner,Everette,0,Wichita,,,20,,
+minoraverages/1958TSN,1957,American Association,,F21207,Joyner,,0,Wichita,,,,,of16
+minoraverages/1958TSN,1957,American Association,,B00973,June,Mitchell,0,Louisville,,,19,,
+minoraverages/1958TSN,1957,American Association,,F20759,June,,0,Louisville,,,,,of16
+minoraverages/1958TSN,1957,American Association,,M90052,Keane,John,,Omaha,,,,,
 minoraverages/emilbb,1957,American Association,,M90164,Keane,Johnny,,Omaha,,,,,
+minoraverages/1958TSN,1957,American Association,,B00985,Keister,Harry,0,Omaha,,,24,,
+minoraverages/1958TSN,1957,American Association,,F21000,Keister,,0,Omaha,,,,,of20
+minoraverages/1958TSN,1957,American Association,,B02253,Kellner,Walter,0,Denver,,,5,,
+minoraverages/1958TSN,1957,American Association,,P10974,Kellner,,0,Denver,,,,5,
+minoraverages/1958TSN,1957,American Association,,B02320,Kennedy,Robert,0,Indianapolis,,,3,,
+minoraverages/1958TSN,1957,American Association,,B00999,King,James,0,Omaha,,,116,,
+minoraverages/1958TSN,1957,American Association,,B02738,King,Charles,0,Wichita,,,4,,
+minoraverages/1958TSN,1957,American Association,,F21021,King,,0,Omaha,,,,,of112
+minoraverages/1958TSN,1957,American Association,,B02622,Kohorst,Elmer,0,St. Paul,,,5,,
+minoraverages/1958TSN,1957,American Association,,B01007,Koppe,Joseph,0,Wichita,,,130,,
+minoraverages/1958TSN,1957,American Association,,F20612,Koppe,,0,Wichita,,,,,ss122
+minoraverages/1958TSN,1957,American Association,,B01010,Kucab,John,0,Denver,,,39,,
+minoraverages/1958TSN,1957,American Association,,F21680,Kucab,,0,Denver,,,,,p39
+minoraverages/1958TSN,1957,American Association,,P10361,Kucab,,0,Denver,,,,39,
+minoraverages/1958TSN,1957,American Association,,B02516,Kutyna,Marion,0,Omaha,,,6,,
+minoraverages/1958TSN,1957,American Association,,P11131,Kutyna,,0,Omaha,,,,5,
+minoraverages/1958TSN,1957,American Association,,B02527,Lains,Joseph,0,Omaha,,,3,,
+minoraverages/1958TSN,1957,American Association,,P11144,Lains,,0,Omaha,,,,3,
+minoraverages/1958TSN,1957,American Association,,B01029,Lajoie,William,0,St. Paul,,,64,,
+minoraverages/1958TSN,1957,American Association,,F21210,Lajoie,,0,St. Paul,,,,,of64
+minoraverages/1958TSN,1957,American Association,,B01032,Landis,James,0,Indianapolis,,,37,,
+minoraverages/1958TSN,1957,American Association,,F21241,Landis,,0,Indianapolis,,,,,of35
+minoraverages/1958TSN,1957,American Association,,B01041,Larker,Norman,0,St. Paul,,,146,,
+minoraverages/1958TSN,1957,American Association,,F20144,Larker,,0,St. Paul,,,,,1b145
+minoraverages/1958TSN,1957,American Association,,B02266,Lasorda,Thomas,0,Denver,,,7,,
+minoraverages/1958TSN,1957,American Association,,P10982,Lasorda,,0,Denver,,,,6,
+minoraverages/1958TSN,1957,American Association,,B01055,Lassetter,Donald,0,Omaha,,,144,,
+minoraverages/1958TSN,1957,American Association,,F20128,Lassetter,,0,Omaha,,,,,1b10
+minoraverages/1958TSN,1957,American Association,,F21158,Lassetter,,0,Omaha,,,,,of123
+minoraverages/1958TSN,1957,American Association,,B01064,Latman,A. Barry,0,Indianapolis,,,36,,
+minoraverages/1958TSN,1957,American Association,,F22214,Latman,,0,Indianapolis,,,,,p34
+minoraverages/1958TSN,1957,American Association,,P10373,Latman,,0,Indianapolis,,,,34,
+minoraverages/1958TSN,1957,American Association,,B01078,Lau,Charles,0,Charleston,,,70,,
+minoraverages/1958TSN,1957,American Association,,F21553,Lau,,0,Charleston,,,,,c64
+minoraverages/1958TSN,1957,American Association,,B02176,Lee,Donald,0,Charleston,,,6,,
+minoraverages/1958TSN,1957,American Association,,P10917,Lee,,0,Charleston,,,,6,
+minoraverages/1958TSN,1957,American Association,,B02184,Lewis,Joseph,0,Charleston,,,6,,
+minoraverages/1958TSN,1957,American Association,,P10925,Lewis,,0,Charleston,,,,6,
+minoraverages/1958TSN,1957,American Association,,B02277,Lewright,Cleophus,0,Denver,,,2,,
+minoraverages/1958TSN,1957,American Association,,P10996,Lewright,,0,Denver,,,,2,
+minoraverages/1958TSN,1957,American Association,,B01086,Liddle,Donald,0,Omaha,,,39,,
+minoraverages/1958TSN,1957,American Association,,F22057,Liddle,,0,Omaha,,,,,p36
+minoraverages/1958TSN,1957,American Association,,P10385,Liddle,,0,Omaha,,,,36,
+minoraverages/1958TSN,1957,American Association,,B01093,Lillis,Robert,0,St. Paul,,,154,,
+minoraverages/1958TSN,1957,American Association,,F20552,Lillis,,0,St. Paul,,,,,ss154
+minoraverages/1958TSN,1957,American Association,,B01108,Limmer,Louis,0,Omaha,,,140,,
+minoraverages/1958TSN,1957,American Association,,F20051,Limmer,,0,Omaha,,,,,1b139
+minoraverages/1958TSN,1957,American Association,,B01119,Linker,Boyd,0,Omaha,,,36,,
+minoraverages/1958TSN,1957,American Association,,F21695,Linker,,0,Omaha,,,,,p35
+minoraverages/1958TSN,1957,American Association,,P10399,Linker,,0,Omaha,,,,35,
+minoraverages/1958TSN,1957,American Association,,B01124,Mabe,Robert,0,Omaha,,,39,,
+minoraverages/1958TSN,1957,American Association,,F21936,Mabe,,0,Omaha,,,,,p38
+minoraverages/1958TSN,1957,American Association,,P10407,Mabe,,0,Omaha,,,,38,
+minoraverages/1958TSN,1957,American Association,,B02534,Mackinson,John,0,Omaha,,,4,,
+minoraverages/1958TSN,1957,American Association,,P11153,Mackinson,,0,Omaha,,,,4,
+minoraverages/1958TSN,1957,American Association,,B01135,Macko,Joseph,0,Louisville,,,61,,
+minoraverages/1958TSN,1957,American Association,,F20463,Macko,,0,Louisville,,,,,3b43
+minoraverages/1958TSN,1957,American Association,,F21101,Macko,,0,Louisville,,,,,of12
+minoraverages/1958TSN,1957,American Association,,M90047,Macon,Max,,St. Paul,,,,,
 minoraverages/emilbb,1957,American Association,,M90155,Macon,Max,,St. Paul,,,,,
+minoraverages/1958TSN,1957,American Association,,B01143,Malkmus,Robert,0,Wichita,,,124,,
+minoraverages/1958TSN,1957,American Association,,F20222,Malkmus,,0,Wichita,,,,,2b124
+minoraverages/1958TSN,1957,American Association,,B02407,Mann,David,0,Louisville,,,4,,
+minoraverages/1958TSN,1957,American Association,,B01156,Margoneri,Joseph,0,Minneapolis,,,27,,
+minoraverages/1958TSN,1957,American Association,,F21948,Margoneri,,0,Minneapolis,,,,,p25
+minoraverages/1958TSN,1957,American Association,,P10410,Margoneri,,0,Minneapolis,,,,25,
+minoraverages/1958TSN,1957,American Association,,B01162,Markell,Harry,1,Indianapolis,,,3,,
+minoraverages/1958TSN,1957,American Association,,B01162,Markell,Harry,2,Charleston,,,20,,
+minoraverages/1958TSN,1957,American Association,,B01162,Markell,Harry,T,,,,23,,
+minoraverages/1958TSN,1957,American Association,,F22386,Markell,,1,Indianapolis,,,,,p
+minoraverages/1958TSN,1957,American Association,,F22386,Markell,,2,Charleston,,,,,p
+minoraverages/1958TSN,1957,American Association,,F22386,Markell,,T,,,,,,p21
+minoraverages/1958TSN,1957,American Association,,P10429,Markell,,1,Indianapolis,,,,2,
+minoraverages/1958TSN,1957,American Association,,P10429,Markell,,2,Charleston,,,,19,
+minoraverages/1958TSN,1957,American Association,,P10429,Markell,,T,,,,,21,
+minoraverages/1958TSN,1957,American Association,,B01170,Marsh,Fred,0,Omaha,,,64,,
+minoraverages/1958TSN,1957,American Association,,F20636,Marsh,,0,Omaha,,,,,ss64
+minoraverages/1958TSN,1957,American Association,,B01181,Mateosky,Bernard,0,Charleston,,,24,,
+minoraverages/1958TSN,1957,American Association,,F21232,Mateosky,,0,Charleston,,,,,of23
+minoraverages/1958TSN,1957,American Association,,B02410,Maurer,Raymond,0,Louisville,,,7,,
+minoraverages/1958TSN,1957,American Association,,B02542,Mayer,Edwin,0,Omaha,,,2,,
+minoraverages/1958TSN,1957,American Association,,P11166,Mayer,,0,Omaha,,,,2,
+minoraverages/1958TSN,1957,American Association,,B02550,McClain,Joseph,0,Omaha,,,4,,
+minoraverages/1958TSN,1957,American Association,,P11177,McClain,,0,Omaha,,,,4,
+minoraverages/1958TSN,1957,American Association,,B01197,McCord,Clinton,0,Louisville,,,140,,
+minoraverages/1958TSN,1957,American Association,,F20072,McCord,,0,Louisville,,,,,1b140
+minoraverages/1958TSN,1957,American Association,,B02633,McCormick,Gary,0,St. Paul,,,3,,
+minoraverages/1958TSN,1957,American Association,,P11211,McCormick,,0,St. Paul,,,,3,
+minoraverages/1958TSN,1957,American Association,,B01203,McDevitt,Donald,0,St. Paul,,,13,,
+minoraverages/1958TSN,1957,American Association,,F22355,McDevitt,,0,St. Paul,,,,,p11
+minoraverages/1958TSN,1957,American Association,,P10432,McDevitt,,0,St. Paul,,,,11,
+minoraverages/1958TSN,1957,American Association,,B01216,McDonald,James,0,Indianapolis,,,21,,
+minoraverages/1958TSN,1957,American Association,,F21854,McDonald,,0,Indianapolis,,,,,p20
+minoraverages/1958TSN,1957,American Association,,P10441,McDonald,,0,Indianapolis,,,,20,
+minoraverages/1958TSN,1957,American Association,,B01227,McGhee,W. Edward,0,Charleston,,,30,,
+minoraverages/1958TSN,1957,American Association,,F21293,McGhee,,0,Charleston,,,,,of26
+minoraverages/1958TSN,1957,American Association,,B01234,McHugh,Edward,0,Wichita,,,16,,
+minoraverages/1958TSN,1957,American Association,,B01242,McMahan,Jack,0,Denver,,,47,,
+minoraverages/1958TSN,1957,American Association,,F21739,McMahan,,0,Denver,,,,,p47
+minoraverages/1958TSN,1957,American Association,,P10455,McMahan,,0,Denver,,,,47,
+minoraverages/1958TSN,1957,American Association,,B01250,McMahon,Donald,0,Wichita,,,21,,
+minoraverages/1958TSN,1957,American Association,,F22150,McMahon,,0,Wichita,,,,,p21
+minoraverages/1958TSN,1957,American Association,,P10464,McMahon,,0,Wichita,,,,21,
+minoraverages/1958TSN,1957,American Association,,B01269,McMinn,Glenn,0,St. Paul,,,10,,
+minoraverages/1958TSN,1957,American Association,,F21794,McMinn,,0,St. Paul,,,,,p10
+minoraverages/1958TSN,1957,American Association,,P10478,McMinn,,0,St. Paul,,,,10,
+minoraverages/1958TSN,1957,American Association,,B02336,Means,Richard,0,Indianapolis,,,2,,
+minoraverages/1958TSN,1957,American Association,,B01275,Mele,Sabath,0,Indianapolis,,,122,,
+minoraverages/1958TSN,1957,American Association,,F21092,Mele,,0,Indianapolis,,,,,of95
+minoraverages/1958TSN,1957,American Association,,M90107,Meyer,L. D. (Dutch),,Louisville,,,,,
 minoraverages/emilbb,1957,American Association,,M90212,Meyer,Dutch,,Louisville,,,,,
+minoraverages/1958TSN,1957,American Association,,B02640,Mickens,Glenn,0,St. Paul,,,3,,
+minoraverages/1958TSN,1957,American Association,,P11222,Mickens,,0,St. Paul,,,,3,
+minoraverages/1958TSN,1957,American Association,,B02478,Miller,Stuart,0,Minneapolis,,,7,,
+minoraverages/1958TSN,1957,American Association,,P10486,Miller,,0,Minneapolis,,,,7,
+minoraverages/1958TSN,1957,American Association,,B01288,Milliken,Robert,0,St. Paul,,,32,,
+minoraverages/1958TSN,1957,American Association,,F21638,Milliken,,0,St. Paul,,,,,p32
+minoraverages/1958TSN,1957,American Association,,P10493,Milliken,,0,St. Paul,,,,32,
+minoraverages/1958TSN,1957,American Association,,B02192,Mitchell,William,0,Charleston,,,2,,
+minoraverages/1958TSN,1957,American Association,,P10930,Mitchell,,0,Charleston,,,,2,
+minoraverages/1958TSN,1957,American Association,,B01291,Moford,Herbert,1,Omaha,,,23,,
+minoraverages/1958TSN,1957,American Association,,B01291,Moford,Herbert,2,Charleston,,,14,,
+minoraverages/1958TSN,1957,American Association,,B01291,Moford,Herbert,T,,,,37,,
+minoraverages/1958TSN,1957,American Association,,F21589,Moford,,1,Omaha,,,,,p
+minoraverages/1958TSN,1957,American Association,,F21589,Moford,,2,Charleston,,,,,p
+minoraverages/1958TSN,1957,American Association,,F21589,Moford,,T,,,,,,p37
+minoraverages/1958TSN,1957,American Association,,P10503,Moford,,1,Omaha,,,,23,
+minoraverages/1958TSN,1957,American Association,,P10503,Moford,,2,Charleston,,,,13,
+minoraverages/1958TSN,1957,American Association,,P10503,Moford,,T,,,,,37,
+minoraverages/1958TSN,1957,American Association,,B01300,Monroe,Zack,0,Denver,,,40,,
+minoraverages/1958TSN,1957,American Association,,F21904,Monroe,,0,Denver,,,,,p36
+minoraverages/1958TSN,1957,American Association,,P10516,Monroe,,0,Denver,,,,36,
+minoraverages/1958TSN,1957,American Association,,B01313,Moore,Clarence,0,Louisville,,,141,,
+minoraverages/1958TSN,1957,American Association,,F20526,Moore,,0,Louisville,,,,,3b49
+minoraverages/1958TSN,1957,American Association,,F20685,Moore,,0,Louisville,,,,,ss90
+minoraverages/1958TSN,1957,American Association,,B01321,Murff,John,0,Wichita,,,26,,
+minoraverages/1958TSN,1957,American Association,,F21577,Murff,,0,Wichita,,,,,p24
+minoraverages/1958TSN,1957,American Association,,P10527,Murff,,0,Wichita,,,,24,
+minoraverages/1958TSN,1957,American Association,,B02429,Murszewski,Marion,0,Louisville,,,5,,
+minoraverages/1958TSN,1957,American Association,,P11095,Murszewski,,0,Louisville,,,,5,
+minoraverages/1958TSN,1957,American Association,,B01337,Napoli,Michael,0,St. Paul,,,20,,
+minoraverages/1958TSN,1957,American Association,,F21356,Napoli,,0,St. Paul,,,,,c19
+minoraverages/1958TSN,1957,American Association,,B01345,Negray,Ronald,0,St. Paul,,,23,,
+minoraverages/1958TSN,1957,American Association,,F22073,Negray,,0,St. Paul,,,,,p22
+minoraverages/1958TSN,1957,American Association,,P10534,Negray,,0,St. Paul,,,,22,
+minoraverages/1958TSN,1957,American Association,,B01359,Nelson,Gerald,0,Wichita,,,17,,
+minoraverages/1958TSN,1957,American Association,,F21667,Nelson,,0,Wichita,,,,,p17
+minoraverages/1958TSN,1957,American Association,,P10542,Nelson,,0,Wichita,,,,17,
+minoraverages/1958TSN,1957,American Association,,B02202,Nicholas,Harry,0,Charleston,,,7,,
+minoraverages/1958TSN,1957,American Association,,P10949,Nicholas,,0,Charleston,,,,7,
+minoraverages/1958TSN,1957,American Association,,B02746,Nichols,Chester,0,Wichita,,,3,,
+minoraverages/1958TSN,1957,American Association,,P11298,Nichols,,0,Wichita,,,,3,
+minoraverages/1958TSN,1957,American Association,,B02654,Nishita,William,0,St. Paul,,,3,,
+minoraverages/1958TSN,1957,American Association,,P11233,Nishita,,0,St. Paul,,,,3,
+minoraverages/1958TSN,1957,American Association,,M90094,Norman,Willis (Bill),,Charleston,19570706,,,,
 minoraverages/emilbb,1957,American Association,,M90204,Norman,Bill,,Charleston,,,,,
+minoraverages/1958TSN,1957,American Association,,B01368,Oldis,Robert,0,Denver,,,85,,
+minoraverages/1958TSN,1957,American Association,,F21403,Oldis,,0,Denver,,,,,c74
+minoraverages/1958TSN,1957,American Association,,B01376,Olson,Herbert,0,St. Paul,,,19,,
+minoraverages/1958TSN,1957,American Association,,B01384,Olson,Karl,0,Charleston,,,28,,
+minoraverages/1958TSN,1957,American Association,,F21013,Olson,,0,Charleston,,,,,of18
+minoraverages/1958TSN,1957,American Association,,F21515,Olson,,0,St. Paul,,,,,c18
+minoraverages/1958TSN,1957,American Association,,B01392,Osborne,Lawrence,0,Charleston,,,31,,
+minoraverages/1958TSN,1957,American Association,,F20153,Osborne,,0,Charleston,,,,,1b24
+minoraverages/1958TSN,1957,American Association,,B01402,Paine,Phillips,0,Wichita,,,42,,
+minoraverages/1958TSN,1957,American Association,,F22280,Paine,,0,Wichita,,,,,p52
+minoraverages/1958TSN,1957,American Association,,P10550,Paine,,0,Wichita,,,,52,
+minoraverages/1958TSN,1957,American Association,,B01415,Papai,Alfred,0,Indianapolis,,,30,,
+minoraverages/1958TSN,1957,American Association,,F22103,Papai,,0,Indianapolis,,,,,p29
+minoraverages/1958TSN,1957,American Association,,P10569,Papai,,0,Indianapolis,,,,29,
+minoraverages/1958TSN,1957,American Association,,B01428,Parks,Jack,0,Louisville,,,103,,
+minoraverages/1958TSN,1957,American Association,,F21469,Parks,,0,Louisville,,,,,c89
+minoraverages/1958TSN,1957,American Association,,B01431,Parsons,Wilson,0,Denver,,,16,,
+minoraverages/1958TSN,1957,American Association,,F21771,Parsons,,0,Denver,,,,,p16
+minoraverages/1958TSN,1957,American Association,,P10575,Parsons,,0,Denver,,,,16,
+minoraverages/1958TSN,1957,American Association,,B01444,Paula,Carlos,0,Minneapolis,,,104,,
+minoraverages/1958TSN,1957,American Association,,F21319,Paula,,0,Minneapolis,,,,,of79
+minoraverages/1958TSN,1957,American Association,,B01453,Phillips,H. Edward,0,Louisville,,,140,,
+minoraverages/1958TSN,1957,American Association,,B01466,Phillips,Howard D.,0,Charleston,,,151,,
+minoraverages/1958TSN,1957,American Association,,F20211,Phillips,,0,Charleston,,,,,2b150
+minoraverages/1958TSN,1957,American Association,,F20962,Phillips,,0,Louisville,,,,,of139
+minoraverages/1958TSN,1957,American Association,,B01477,Pisoni,James,0,Denver,,,74,,
+minoraverages/1958TSN,1957,American Association,,F21174,Pisoni,,0,Denver,,,,,of73
+minoraverages/1958TSN,1957,American Association,,B01489,Pizarro,Juan,0,Wichita,,,10,,
+minoraverages/1958TSN,1957,American Association,,P10588,Pizarro,,0,Wichita,,,,5,
+minoraverages/1958TSN,1957,American Association,,B01490,Pless,Rance,1,Omaha,,,51,,
+minoraverages/1958TSN,1957,American Association,,B01490,Pless,Rance,2,Denver,,,70,,
+minoraverages/1958TSN,1957,American Association,,B01490,Pless,Rance,T,,,,121,,
+minoraverages/1958TSN,1957,American Association,,F20038,Pless,,1,Omaha,,,,,1b
+minoraverages/1958TSN,1957,American Association,,F20038,Pless,,2,Denver,,,,,1b
+minoraverages/1958TSN,1957,American Association,,F20038,Pless,,T,,,,,,1b10
+minoraverages/1958TSN,1957,American Association,,F20375,Pless,,1,Omaha,,,,,3b
+minoraverages/1958TSN,1957,American Association,,F20375,Pless,,2,Denver,,,,,3b
+minoraverages/1958TSN,1957,American Association,,F20375,Pless,,T,,,,,,3b108
+minoraverages/1958TSN,1957,American Association,,B01509,Ponce,Anthony,0,Indianapolis,,,43,,
+minoraverages/1958TSN,1957,American Association,,F21609,Ponce,,0,Indianapolis,,,,,p32
+minoraverages/1958TSN,1957,American Association,,P10591,Ponce,,0,Indianapolis,,,,32,
+minoraverages/1958TSN,1957,American Association,,B01514,Prescott,George,0,Minneapolis,,,54,,
+minoraverages/1958TSN,1957,American Association,,F21264,Prescott,,0,Minneapolis,,,,,of54
+minoraverages/1958TSN,1957,American Association,,B01523,Presko,Joseph,0,Charleston,,,49,,
+minoraverages/1958TSN,1957,American Association,,F21590,Presko,,0,Charleston,,,,,p48
+minoraverages/1958TSN,1957,American Association,,P10606,Presko,,0,Charleston,,,,48,
+minoraverages/1958TSN,1957,American Association,,B01538,Proctor,James,0,Charleston,,,32,,
+minoraverages/1958TSN,1957,American Association,,F22329,Proctor,,0,Charleston,,,,,p31
+minoraverages/1958TSN,1957,American Association,,P10611,Proctor,,0,Charleston,,,,31,
+minoraverages/1958TSN,1957,American Association,,B01546,Prohovich,Donald,0,Indianapolis,,,98,,
+minoraverages/1958TSN,1957,American Association,,F20430,Prohovich,,0,Indianapolis,,,,,3b67
+minoraverages/1958TSN,1957,American Association,,F20661,Prohovich,,0,Indianapolis,,,,,ss29
+minoraverages/1958TSN,1957,American Association,,B01551,Queen,William,0,Omaha,,,62,,
+minoraverages/1958TSN,1957,American Association,,F21442,Queen,,0,Omaha,,,,,c53
+minoraverages/1958TSN,1957,American Association,,B01567,Rapp,Earl,0,Louisville,,,17,,
+minoraverages/1958TSN,1957,American Association,,B01572,Rapp,Vernon,0,Louisville,,,77,,
+minoraverages/1958TSN,1957,American Association,,F21343,Rapp,E.,0,Louisville,,,,,of13
+minoraverages/1958TSN,1957,American Association,,F21450,Rapp,V.,0,Louisville,,,,,c68
+minoraverages/1958TSN,1957,American Association,,B01580,Rehm,Victor,0,Wichita,,,22,,
+minoraverages/1958TSN,1957,American Association,,F22307,Rehm,,0,Wichita,,,,,p22
+minoraverages/1958TSN,1957,American Association,,P10622,Rehm,,0,Wichita,,,,22,
+minoraverages/1958TSN,1957,American Association,,B01595,Ridzik,Stephen,0,Minneapolis,,,24,,
+minoraverages/1958TSN,1957,American Association,,F21898,Ridzik,,0,Minneapolis,,,,,p21
+minoraverages/1958TSN,1957,American Association,,P10633,Ridzik,,0,Minneapolis,,,,21,
+minoraverages/1958TSN,1957,American Association,,B01601,Ries,Robert,0,Omaha,,,17,,
+minoraverages/1958TSN,1957,American Association,,F20496,Ries,,0,Omaha,,,,,3b11
+minoraverages/1958TSN,1957,American Association,,B01617,Rippelmeyer,Ray,0,Wichita,,,25,,
+minoraverages/1958TSN,1957,American Association,,F21973,Rippelmeyer,,0,Wichita,,,,,p25
+minoraverages/1958TSN,1957,American Association,,P10640,Rippelmeyer,,0,Wichita,,,,25,
+minoraverages/1958TSN,1957,American Association,,B01625,Risley,George,0,Charleston,,,137,,
+minoraverages/1958TSN,1957,American Association,,F20449,Risley,,0,Charleston,,,,,3b131
+minoraverages/1958TSN,1957,American Association,,B01630,Rivera,Pablo,0,Louisville,,,148,,
+minoraverages/1958TSN,1957,American Association,,F20303,Rivera,,0,Louisville,,,,,2b68
+minoraverages/1958TSN,1957,American Association,,F20458,Rivera,,0,Louisville,,,,,3b13
+minoraverages/1958TSN,1957,American Association,,F20657,Rivera,,0,Louisville,,,,,ss67
+minoraverages/1958TSN,1957,American Association,,B01649,Roarke,Michael,0,Wichita,,,115,,
+minoraverages/1958TSN,1957,American Association,,F21491,Roarke,,0,Wichita,,,,,c108
+minoraverages/1958TSN,1957,American Association,,B01658,Roberts,Curtis,0,Denver,,,147,,
+minoraverages/1958TSN,1957,American Association,,F20287,Roberts,,0,Denver,,,,,2b143
+minoraverages/1958TSN,1957,American Association,,B01663,Rodgers,K. Andre,0,Minneapolis,,,52,,
+minoraverages/1958TSN,1957,American Association,,F20571,Rodgers,,0,Minneapolis,,,,,ss47
+minoraverages/1958TSN,1957,American Association,,B01674,Rodriguez,Fernando,0,Minneapolis,,,66,,
+minoraverages/1958TSN,1957,American Association,,F22036,Rodriguez,,0,Minneapolis,,,,,p66
+minoraverages/1958TSN,1957,American Association,,P10654,Rodriguez,,0,Minneapolis,,,,66,
+minoraverages/1958TSN,1957,American Association,,B01682,Romano,John,0,Indianapolis,,,104,,
+minoraverages/1958TSN,1957,American Association,,F21475,Romano,,0,Indianapolis,,,,,c87
+minoraverages/1958TSN,1957,American Association,,B02348,Rosenbaum,Glen,0,Indianapolis,,,3,,
+minoraverages/1958TSN,1957,American Association,,P11038,Rosenbaum,,0,Indianapolis,,,,2,
+minoraverages/1958TSN,1957,American Association,,B01696,Ross,Robert,0,Wichita,,,33,,
+minoraverages/1958TSN,1957,American Association,,F22332,Ross,,0,Wichita,,,,,p33
+minoraverages/1958TSN,1957,American Association,,P10665,Ross,,0,Wichita,,,,33,
+minoraverages/1958TSN,1957,American Association,,B01706,Rudolph,F. Donald,1,Indianapolis,,,7,,
+minoraverages/1958TSN,1957,American Association,,B01706,Rudolph,F. Donald,2,Louisville,,,35,,
+minoraverages/1958TSN,1957,American Association,,B01706,Rudolph,F. Donald,T,,,,42,,
+minoraverages/1958TSN,1957,American Association,,F21806,Rudolph,,1,Indianapolis,,,,,p
+minoraverages/1958TSN,1957,American Association,,F21806,Rudolph,,2,Louisville,,,,,p
+minoraverages/1958TSN,1957,American Association,,F21806,Rudolph,,T,,,,,,p42
+minoraverages/1958TSN,1957,American Association,,P10679,Rudolph,,1,Indianapolis,,,,7,
+minoraverages/1958TSN,1957,American Association,,P10679,Rudolph,,2,Louisville,,,,35,
+minoraverages/1958TSN,1957,American Association,,P10679,Rudolph,,T,,,,,42,
+minoraverages/1958TSN,1957,American Association,,B01711,Russell,J. Kelton,0,Omaha,,,10,,
+minoraverages/1958TSN,1957,American Association,,F21726,Russell,,0,Omaha,,,,,p10
+minoraverages/1958TSN,1957,American Association,,P10687,Russell,,0,Omaha,,,,10,
+minoraverages/1958TSN,1957,American Association,,B01722,Sanders,Richard,0,Denver,,,96,,
+minoraverages/1958TSN,1957,American Association,,F20388,Sanders,,0,Denver,,,,,3b57
+minoraverages/1958TSN,1957,American Association,,F20943,Sanders,,0,Denver,,,,,of40
+minoraverages/1958TSN,1957,American Association,,B02665,Schassler,Robert,0,St. Paul,,,3,,
+minoraverages/1958TSN,1957,American Association,,P11240,Schassler,,0,St. Paul,,,,3,
+minoraverages/1958TSN,1957,American Association,,B01733,Schmidt,Robert,0,Minneapolis,,,120,,
+minoraverages/1958TSN,1957,American Association,,F21416,Schmidt,,0,Minneapolis,,,,,c117
+minoraverages/1958TSN,1957,American Association,,B01740,Schultz,George,0,Omaha,,,45,,
+minoraverages/1958TSN,1957,American Association,,F21912,Schultz,,0,Omaha,,,,,p44
+minoraverages/1958TSN,1957,American Association,,P10698,Schultz,,0,Omaha,,,,44,
+minoraverages/1958TSN,1957,American Association,,B02679,Scott,Richard,0,St. Paul,,,7,,
+minoraverages/1958TSN,1957,American Association,,P11254,Scott,,0,St. Paul,,,,7,
+minoraverages/1958TSN,1957,American Association,,B02432,Senerchia,Emanuel,0,Louisville,,,4,,
+minoraverages/1958TSN,1957,American Association,,P11102,Senerchia,,0,Louisville,,,,4,
+minoraverages/1958TSN,1957,American Association,,B01754,Shaw,Robert,0,Charleston,,,23,,
+minoraverages/1958TSN,1957,American Association,,F21985,Shaw,,0,Charleston,,,,,p22
+minoraverages/1958TSN,1957,American Association,,P10709,Shaw,,0,Charleston,,,,22,
+minoraverages/1958TSN,1957,American Association,,B01765,Shearer,Ray,0,Wichita,,,138,,
+minoraverages/1958TSN,1957,American Association,,F20841,Shearer,,0,Wichita,,,,,of132
+minoraverages/1958TSN,1957,American Association,,B01779,Sherry,Norman,0,St. Paul,,,60,,
+minoraverages/1958TSN,1957,American Association,,F21488,Sherry,,0,St. Paul,,,,,c57
+minoraverages/1958TSN,1957,American Association,,B01787,Shipley,Joseph,0,Minneapolis,,,18,,
+minoraverages/1958TSN,1957,American Association,,F21646,Shipley,,0,Minneapolis,,,,,p18
+minoraverages/1958TSN,1957,American Association,,P10714,Shipley,,0,Minneapolis,,,,18,
+minoraverages/1958TSN,1957,American Association,,B01798,Siebern,Norman,0,Denver,,,144,,
+minoraverages/1958TSN,1957,American Association,,F21084,Siebern,,0,Denver,,,,,of143
+minoraverages/1958TSN,1957,American Association,,M90071,Skaff,Frank,,Charleston,,,,,
 minoraverages/emilbb,1957,American Association,,M90186,Skaff,Frank,,Charleston,,,,,
+minoraverages/1958TSN,1957,American Association,,B02215,Sleater,Louis,0,Charleston,,,1,,
+minoraverages/1958TSN,1957,American Association,,P10958,Sleater,,0,Charleston,,,,1,
+minoraverages/1958TSN,1957,American Association,,B01804,Small,James,0,Charleston,,,36,,
+minoraverages/1958TSN,1957,American Association,,F21196,Small,,0,Charleston,,,,,of33
+minoraverages/1958TSN,1957,American Association,,B01812,Smith,Milton,0,Omaha,,,145,,
+minoraverages/1958TSN,1957,American Association,,F20334,Smith,,0,Omaha,,,,,2b47
+minoraverages/1958TSN,1957,American Association,,F20425,Smith,,0,Omaha,,,,,3b95
+minoraverages/1958TSN,1957,American Association,,B02441,Snyder,Eugene,0,Louisville,,,7,,
+minoraverages/1958TSN,1957,American Association,,P10723,Snyder,,0,Louisville,,,,7,
+minoraverages/1958TSN,1957,American Association,,B01820,Spears,Jasper,0,St. Paul,,,124,,
+minoraverages/1958TSN,1957,American Association,,F20046,Spears,,0,St. Paul,,,,,1b12
+minoraverages/1958TSN,1957,American Association,,F20316,Spears,,0,St. Paul,,,,,2b88
+minoraverages/1958TSN,1957,American Association,,F20792,Spears,,0,St. Paul,,,,,of10
+minoraverages/1958TSN,1957,American Association,,B01836,Spencer,George,0,Indianapolis,,,68,,
+minoraverages/1958TSN,1957,American Association,,F22251,Spencer,,0,Indianapolis,,,,,p68
+minoraverages/1958TSN,1957,American Association,,P10738,Spencer,,0,Indianapolis,,,,68,
+minoraverages/1958TSN,1957,American Association,,B01848,Stabelfeld,Glen,0,Omaha,,,32,,
+minoraverages/1958TSN,1957,American Association,,F22142,Stabelfeld,,0,Omaha,,,,,p32
+minoraverages/1958TSN,1957,American Association,,P10746,Stabelfeld,,0,Omaha,,,,32,
+minoraverages/1958TSN,1957,American Association,,B01857,Stevens,Edward,0,Charleston,,,105,,
+minoraverages/1958TSN,1957,American Association,,F20080,Stevens,,0,Charleston,,,,,1b102
+minoraverages/1958TSN,1957,American Association,,B01861,Streeter,Gerald,0,Louisville,,,40,,
+minoraverages/1958TSN,1957,American Association,,F20279,Streeter,,0,Louisville,,,,,2b40
+minoraverages/1958TSN,1957,American Association,,B02228,Streuli,Walter,0,Charleston,,,7,,
+minoraverages/1958TSN,1957,American Association,,B01873,Surkont,Matthew,0,Minneapolis,,,28,,
+minoraverages/1958TSN,1957,American Association,,F21566,Surkont,,0,Minneapolis,,,,,p27
+minoraverages/1958TSN,1957,American Association,,P10751,Surkont,,0,Minneapolis,,,,27,
+minoraverages/1958TSN,1957,American Association,,B01885,Szyczewski,Edward,0,Indianapolis,,,13,,
+minoraverages/1958TSN,1957,American Association,,F21747,Szyczewski,,0,Indianapolis,,,,,p11
+minoraverages/1958TSN,1957,American Association,,P10767,Szyczewski,,0,Indianapolis,,,,11,
+minoraverages/1958TSN,1957,American Association,,B01899,Talbot,Robert,0,Wichita,,,70,,
+minoraverages/1958TSN,1957,American Association,,F20970,Talbot,,0,Wichita,,,,,of69
+minoraverages/1958TSN,1957,American Association,,B02486,Tate,Lee,0,Minneapolis,,,8,,
+minoraverages/1958TSN,1957,American Association,,B01905,Taylor,William,0,Minneapolis,,,115,,
+minoraverages/1958TSN,1957,American Association,,F21037,Taylor,,0,Minneapolis,,,,,of110
+minoraverages/1958TSN,1957,American Association,,B02455,Tedesco,Joseph,0,Louisville,,,9,,
+minoraverages/1958TSN,1957,American Association,,B01918,Templeton,Charles,0,St. Paul,,,37,,
+minoraverages/1958TSN,1957,American Association,,F22085,Templeton,,0,St. Paul,,,,,p37
+minoraverages/1958TSN,1957,American Association,,P10772,Templeton,,0,St. Paul,,,,37,
+minoraverages/1958TSN,1957,American Association,,B01926,Terwilliger,Wayne,0,Minneapolis,,,144,,
+minoraverages/1958TSN,1957,American Association,,F20190,Terwilliger,,0,Minneapolis,,,,,2b138
+minoraverages/1958TSN,1957,American Association,,B01939,Thompson,Henry,0,Minneapolis,,,78,,
+minoraverages/1958TSN,1957,American Association,,F20254,Thompson,,0,Minneapolis,,,,,2b13
+minoraverages/1958TSN,1957,American Association,,F21117,Thompson,,0,Minneapolis,,,,,of56
+minoraverages/1958TSN,1957,American Association,,B01947,Thorpe,B. Robert,1,Charleston,,,78,,
+minoraverages/1958TSN,1957,American Association,,B01947,Thorpe,B. Robert,2,Omaha,,,42,,
+minoraverages/1958TSN,1957,American Association,,B01947,Thorpe,B. Robert,T,,,,120,,
+minoraverages/1958TSN,1957,American Association,,F21130,Thorpe,,1,Charleston,,,,,of
+minoraverages/1958TSN,1957,American Association,,F21130,Thorpe,,2,Omaha,,,,,of
+minoraverages/1958TSN,1957,American Association,,F21130,Thorpe,,T,,,,,,of108
+minoraverages/1958TSN,1957,American Association,,B01952,Throneberry,Marvin,0,Denver,,,154,,
+minoraverages/1958TSN,1957,American Association,,F20067,Throneberry,,0,Denver,,,,,1b154
+minoraverages/1958TSN,1957,American Association,,B01960,Tinney,Roy,0,Indianapolis,,,34,,
+minoraverages/1958TSN,1957,American Association,,F22127,Tinney,,0,Indianapolis,,,,,p26
+minoraverages/1958TSN,1957,American Association,,P10780,Tinney,,0,Indianapolis,,,,26,
+minoraverages/1958TSN,1957,American Association,,B01971,Tobin,John,0,Minneapolis,,,42,,
+minoraverages/1958TSN,1957,American Association,,F20864,Tobin,,0,Minneapolis,,,,,of38
+minoraverages/1958TSN,1957,American Association,,B02751,Trowbridge,Robert,0,Wichita,,,3,,
+minoraverages/1958TSN,1957,American Association,,P11303,Trowbridge,,0,Wichita,,,,3,
+minoraverages/1958TSN,1957,American Association,,B01983,Tsitouris,John,0,Charleston,,,31,,
+minoraverages/1958TSN,1957,American Association,,F21833,Tsitouris,,0,Charleston,,,,,p30
+minoraverages/1958TSN,1957,American Association,,P10795,Tsitouris,,0,Charleston,,,,30,
+minoraverages/1958TSN,1957,American Association,,B02767,Uecker,Robert,0,Wichita,,,2,,
+minoraverages/1958TSN,1957,American Association,,B02289,Urban,Jack,0,Denver,,,8,,
+minoraverages/1958TSN,1957,American Association,,P10805,Urban,,0,Denver,,,,7,
+minoraverages/1958TSN,1957,American Association,,B01994,Valdivielso,Joseph,0,Indianapolis,,,130,,
+minoraverages/1958TSN,1957,American Association,,F20560,Valdivielso,,0,Indianapolis,,,,,ss130
+minoraverages/1958TSN,1957,American Association,,B02772,Valentine,Harold,0,Wichita,,,7,,
+minoraverages/1958TSN,1957,American Association,,P11316,Valentine,,0,Wichita,,,,7,
+minoraverages/1958TSN,1957,American Association,,B02008,Veal,Inman,0,Charleston,,,14,,
+minoraverages/1958TSN,1957,American Association,,F20673,Veal,,0,Charleston,,,,,ss14
+minoraverages/1958TSN,1957,American Association,,B02019,Walz,Robert,0,St. Paul,,,23,,
+minoraverages/1958TSN,1957,American Association,,F21752,Walz,,0,St. Paul,,,,,p23
+minoraverages/1958TSN,1957,American Association,,P10818,Walz,,0,St. Paul,,,,23,
+minoraverages/1958TSN,1957,American Association,,B02024,Waters,Melvin,0,St. Paul,,,37,,
+minoraverages/1958TSN,1957,American Association,,F21651,Waters,,0,St. Paul,,,,,p37
+minoraverages/1958TSN,1957,American Association,,P10826,Waters,,0,St. Paul,,,,37,
+minoraverages/1958TSN,1957,American Association,,B02687,Wegner,Robert,0,St. Paul,,,3,,
+minoraverages/1958TSN,1957,American Association,,P11265,Wegner,,0,St. Paul,,,,3,
+minoraverages/1958TSN,1957,American Association,,B02035,Wells,Ronald,0,St. Paul,,,28,,
+minoraverages/1958TSN,1957,American Association,,F22191,Wells,,0,St. Paul,,,,,p20
+minoraverages/1958TSN,1957,American Association,,P10839,Wells,,0,St. Paul,,,,20,
+minoraverages/1958TSN,1957,American Association,,B02043,Wheat,Leroy,0,St. Paul,,,26,,
+minoraverages/1958TSN,1957,American Association,,F21760,Wheat,,0,St. Paul,,,,,p26
+minoraverages/1958TSN,1957,American Association,,P10847,Wheat,,0,St. Paul,,,,26,
+minoraverages/1958TSN,1957,American Association,,B02056,White,Edward P.,0,Minneapolis,,,13,,
+minoraverages/1958TSN,1957,American Association,,B02062,Willey,Carlton,0,Wichita,,,37,,
+minoraverages/1958TSN,1957,American Association,,F21822,Willey,,0,Wichita,,,,,p32
+minoraverages/1958TSN,1957,American Association,,P10852,Willey,,0,Wichita,,,,32,
+minoraverages/1958TSN,1957,American Association,,B02070,Williams,Charles,0,Indianapolis,,,105,,
+minoraverages/1958TSN,1957,American Association,,B02081,Williams,Stanley,0,St. Paul,,,38,,
+minoraverages/1958TSN,1957,American Association,,F20177,Williams,,0,Indianapolis,,,,,1b10
+minoraverages/1958TSN,1957,American Association,,F20417,Williams,,0,Indianapolis,,,,,3b80
+minoraverages/1958TSN,1957,American Association,,F22099,Williams,,0,St. Paul,,,,,p35
+minoraverages/1958TSN,1957,American Association,,P10860,Williams,,0,St. Paul,,,,35,
+minoraverages/1958TSN,1957,American Association,,B02097,Wilson,Archie,0,Charleston,,,121,,
+minoraverages/1958TSN,1957,American Association,,B02100,Wilson,George,0,Denver,,,122,,
+minoraverages/1958TSN,1957,American Association,,B02113,Wilson,William D.,0,Charleston,,,69,,
+minoraverages/1958TSN,1957,American Association,,F20829,Wilson,W.,0,Charleston,,,,,of55
+minoraverages/1958TSN,1957,American Association,,F20997,Wilson ,A.,0,Charleston,,,,,of119
+minoraverages/1958TSN,1957,American Association,,F21045,Wilson ,,0,Denver,,,,,of103
+minoraverages/1958TSN,1957,American Association,,B02464,Wingo,John,0,Louisville,,,3,,
+minoraverages/1958TSN,1957,American Association,,P11115,Wingo,,0,Louisville,,,,3,
+minoraverages/1958TSN,1957,American Association,,B02121,Wojey,Peter,0,Charleston,,,31,,
+minoraverages/1958TSN,1957,American Association,,F22175,Wojey,,0,Charleston,,,,,p31
+minoraverages/1958TSN,1957,American Association,,P10871,Wojey,,0,Charleston,,,,31,
+minoraverages/1958TSN,1957,American Association,,B02137,Woodeshick,Harold,0,Charleston,,,26,,
+minoraverages/1958TSN,1957,American Association,,F22004,Woodeshick,,0,Charleston,,,,,p26
+minoraverages/1958TSN,1957,American Association,,P10883,Woodeshick,,0,Charleston,,,,26,
+minoraverages/1958TSN,1957,American Association,,B02145,Young,Richard,0,St. Paul,,,77,,
+minoraverages/1958TSN,1957,American Association,,F20206,Young,,0,St. Paul,,,,,2b28
+minoraverages/1958TSN,1957,American Association,,F20737,Young,,0,St. Paul,,,,,of20
+minoraverages/1958TSN,1957,American Association,,B02159,Zanni,Dominick,0,Louisville,,,34,,
+minoraverages/1958TSN,1957,American Association,,F21840,Zanni,,0,Louisville,,,,,p34
+minoraverages/1958TSN,1957,American Association,,P10894,Zanni,,0,Louisville,,,,34,

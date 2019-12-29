@@ -1,10 +1,552 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
+minoraverages/1958TSN,1957,Southwestern League,,B01899,Allen,James,0,Pampa,,,2,,
+minoraverages/1958TSN,1957,Southwestern League,,P10958,Allen,,0,Pampa,,,,2,
+minoraverages/1958TSN,1957,Southwestern League,,B00013,Alonso,Reinaldo,1,Clovis,,,10,,
+minoraverages/1958TSN,1957,Southwestern League,,B00013,Alonso,Reinaldo,2,Hobbs,,,4,,
+minoraverages/1958TSN,1957,Southwestern League,,B00013,Alonso,Reinaldo,T,,,,14,,
+minoraverages/1958TSN,1957,Southwestern League,,F21264,Alonso,,1,Clovis,,,,,p
+minoraverages/1958TSN,1957,Southwestern League,,F21264,Alonso,,2,Hobbs,,,,,p
+minoraverages/1958TSN,1957,Southwestern League,,F21264,Alonso,,T,,,,,,p14
+minoraverages/1958TSN,1957,Southwestern League,,P10019,Alonso,,1,Clovis,,,,10,
+minoraverages/1958TSN,1957,Southwestern League,,P10019,Alonso,,2,Hobbs,,,,4,
+minoraverages/1958TSN,1957,Southwestern League,,P10019,Alonso,,T,,,,,14,
+minoraverages/1958TSN,1957,Southwestern League,,B00021,Alvarez,Oswaldo,0,Midland/Lamesa,,,119,,
+minoraverages/1958TSN,1957,Southwestern League,,B00037,Alvarez,Rogelio,0,Clovis,,,48,,
+minoraverages/1958TSN,1957,Southwestern League,,F20080,Alvarez,R.,0,Clovis,,,,,1b48
+minoraverages/1958TSN,1957,Southwestern League,,F20474,Alvarez,O.,0,Midland/Lamesa,,,,,ss115
+minoraverages/1958TSN,1957,Southwestern League,,B00045,Babcock,Richard,0,Carlsbad,,,119,,
+minoraverages/1958TSN,1957,Southwestern League,,F20240,Babcock,,0,Carlsbad,,,,,2b79
+minoraverages/1958TSN,1957,Southwestern League,,F20463,Babcock,,0,Carlsbad,,,,,ss41
+minoraverages/1958TSN,1957,Southwestern League,,B00059,Babiak,Robert,0,Midland/Lamesa,,,76,,
+minoraverages/1958TSN,1957,Southwestern League,,F20768,Babiak,,0,Midland/Lamesa,,,,,of75
+minoraverages/1958TSN,1957,Southwestern League,,B00068,Bailey,James,0,Clovis,,,11,,
+minoraverages/1958TSN,1957,Southwestern League,,F21427,Bailey,,0,Clovis,,,,,p11
+minoraverages/1958TSN,1957,Southwestern League,,P10024,Bailey,,0,Clovis,,,,11,
+minoraverages/1958TSN,1957,Southwestern League,,B01431,Bakas,John,0,Carlsbad,,,2,,
+minoraverages/1958TSN,1957,Southwestern League,,P10569,Bakas,,0,Carlsbad,,,,2,
+minoraverages/1958TSN,1957,Southwestern League,,B00076,Barr,Ronald,0,El Paso,,,14,,
+minoraverages/1958TSN,1957,Southwestern League,,F21278,Barr,,0,El Paso,,,,,p13
+minoraverages/1958TSN,1957,Southwestern League,,P10035,Barr,,0,El Paso,,,,13,
+minoraverages/1958TSN,1957,Southwestern League,,B00084,Barrett,James,0,Plainview,,,40,,
+minoraverages/1958TSN,1957,Southwestern League,,F20072,Barrett,,0,Plainview,,,,,1b40
+minoraverages/1958TSN,1957,Southwestern League,,B00092,Basso,S. James,0,El Paso,,,74,,
+minoraverages/1958TSN,1957,Southwestern League,,F20131,Basso,,0,El Paso,,,,,1b20
+minoraverages/1958TSN,1957,Southwestern League,,F20699,Basso,,0,El Paso,,,,,of54
+minoraverages/1958TSN,1957,Southwestern League,,M90071,Basso,James,,El Paso,,,,,
 minoraverages/emilbb,1957,Southwestern League,,M91120,Basso,James,,El Paso,,,,,
+minoraverages/1958TSN,1957,Southwestern League,,B00101,Baum,James,0,Hobbs,,,12,,
+minoraverages/1958TSN,1957,Southwestern League,,F21045,Baum,,0,Hobbs,,,,,c12
+minoraverages/1958TSN,1957,Southwestern League,,B00117,Bawcom,James,0,Carlsbad,,,100,,
+minoraverages/1958TSN,1957,Southwestern League,,F20334,Bawcom,,0,Carlsbad,,,,,3b85
+minoraverages/1958TSN,1957,Southwestern League,,F20745,Bawcom,,0,Carlsbad,,,,,of16
+minoraverages/1958TSN,1957,Southwestern League,,B01567,Baylis,Henry,0,El Paso,,,8,,
+minoraverages/1958TSN,1957,Southwestern League,,B00125,Beamon,William,0,Plainview,,,16,,
+minoraverages/1958TSN,1957,Southwestern League,,F20661,Beamon,,0,Plainview,,,,,of15
+minoraverages/1958TSN,1957,Southwestern League,,B00130,Beltran,Martin,0,Midland/Lamesa,,,10,,
+minoraverages/1958TSN,1957,Southwestern League,,F21293,Beltran,,0,Midland/Lamesa,,,,,p10
+minoraverages/1958TSN,1957,Southwestern League,,P10043,Beltran,,0,Midland/Lamesa,,,,10,
+minoraverages/1958TSN,1957,Southwestern League,,B00149,Benedict,O. Hoyt,0,Plainview,,,15,,
+minoraverages/1958TSN,1957,Southwestern League,,F21528,Benedict,,0,Plainview,,,,,p12
+minoraverages/1958TSN,1957,Southwestern League,,P10056,Benedict,,0,Plainview,,,,12,
+minoraverages/1958TSN,1957,Southwestern League,,B00158,Bennett,Charles,0,Midland/Lamesa,,,24,,
+minoraverages/1958TSN,1957,Southwestern League,,F21614,Bennett,,0,Midland/Lamesa,,,,,p24
+minoraverages/1958TSN,1957,Southwestern League,,P10062,Bennett,,0,Midland/Lamesa,,,,24,
+minoraverages/1958TSN,1957,Southwestern League,,B00163,Bogan,Charles,0,Carlsbad,,,31,,
+minoraverages/1958TSN,1957,Southwestern League,,F21450,Bogan,,0,Carlsbad,,,,,p24
+minoraverages/1958TSN,1957,Southwestern League,,P10070,Bogan,,0,Carlsbad,,,,24,
+minoraverages/1958TSN,1957,Southwestern League,,M90094,Boland,Arthur,,Plainview,,,,,
+minoraverages/1958TSN,1957,Southwestern League,,B00174,Bowland,Arthur,0,Plainview,,,43,,
+minoraverages/1958TSN,1957,Southwestern League,,F20298,Bowland,,0,Plainview,,,,,3b15
+minoraverages/1958TSN,1957,Southwestern League,,F21130,Bowland,,0,Plainview,,,,,c28
+minoraverages/1958TSN,1957,Southwestern League,,P10883,Bowland,,0,Plainview,,,,1,
 minoraverages/emilbb,1957,Southwestern League,,M91148,Bowland,Arthur,,Plainview,,,,,
+minoraverages/1958TSN,1957,Southwestern League,,B00182,Boyd,Bobby,0,Carlsbad,,,109,,
+minoraverages/1958TSN,1957,Southwestern League,,F21084,Boyd,,0,Carlsbad,,,,,c108
+minoraverages/1958TSN,1957,Southwestern League,,B00196,Braconi,Richard,0,Pampa/San Angelo,,,10,,
+minoraverages/1958TSN,1957,Southwestern League,,F21308,Braconi,,0,Pampa/San Angelo,,,,,p10
+minoraverages/1958TSN,1957,Southwestern League,,P10963,Braconi,,0,Pampa/San Angelo,,,,10,
+minoraverages/1958TSN,1957,Southwestern League,,B01572,Brenek,Dennis,0,El Paso,,,7,,
+minoraverages/1958TSN,1957,Southwestern League,,P10665,Brenek,,0,El Paso,,,,7,
+minoraverages/1958TSN,1957,Southwestern League,,B00207,Brito,Miguel,0,Hobbs,,,49,,
+minoraverages/1958TSN,1957,Southwestern League,,F21163,Brito,,0,Hobbs,,,,,c46
+minoraverages/1958TSN,1957,Southwestern League,,B00210,Brown,Robert,0,Plainview,,,43,,
+minoraverages/1958TSN,1957,Southwestern League,,F20233,Brown,,0,Plainview,,,,,2b14
+minoraverages/1958TSN,1957,Southwestern League,,F20721,Brown,,0,Plainview,,,,,of34
+minoraverages/1958TSN,1957,Southwestern League,,B01722,Burke,Edward,0,Midland,,,1,,
+minoraverages/1958TSN,1957,Southwestern League,,P10839,Burke,,0,Midland,,,,1,
+minoraverages/1958TSN,1957,Southwestern League,,B00229,Burns,Regis,0,Hobbs,,,13,,
+minoraverages/1958TSN,1957,Southwestern League,,F20583,Burns,,0,Hobbs,,,,,of12
+minoraverages/1958TSN,1957,Southwestern League,,B00232,Burris,William,0,Ballinger,,,26,,
+minoraverages/1958TSN,1957,Southwestern League,,F21590,Burris,,0,Ballinger,,,,,p25
+minoraverages/1958TSN,1957,Southwestern League,,P10081,Burris,,0,Ballinger,,,,25,
+minoraverages/1958TSN,1957,Southwestern League,,B00241,Cameron,D. Donald,0,Midland/Lamesa,,,69,,
+minoraverages/1958TSN,1957,Southwestern League,,F20908,Cameron,,0,Midland/Lamesa,,,,,of30
+minoraverages/1958TSN,1957,Southwestern League,,F21343,Cameron,,0,Midland/Lamesa,,,,,p28
+minoraverages/1958TSN,1957,Southwestern League,,P10097,Cameron,,0,Midland/Lamesa,,,,28,
+minoraverages/1958TSN,1957,Southwestern League,,B00255,Cantrell,J. Thomas,0,El Paso,,,69,,
+minoraverages/1958TSN,1957,Southwestern League,,F20864,Cantrell,,0,El Paso,,,,,of57
+minoraverages/1958TSN,1957,Southwestern League,,B01490,Carmichael,Garth,0,Clovis,,,7,,
+minoraverages/1958TSN,1957,Southwestern League,,P10100,Carmichael,,0,Clovis,,,,7,
+minoraverages/1958TSN,1957,Southwestern League,,B00264,Carrillo,Pedro,0,Clovis,,,13,,
+minoraverages/1958TSN,1957,Southwestern League,,F21531,Carrillo,,0,Clovis,,,,,p11
+minoraverages/1958TSN,1957,Southwestern League,,P10113,Carrillo,,0,Clovis,,,,11,
+minoraverages/1958TSN,1957,Southwestern League,,B00278,Coddington,John,0,Carlsbad,,,50,,
+minoraverages/1958TSN,1957,Southwestern League,,F21210,Coddington,,0,Carlsbad,,,,,p22
+minoraverages/1958TSN,1957,Southwestern League,,P10121,Coddington,,0,Carlsbad,,,,22,
+minoraverages/1958TSN,1957,Southwestern League,,B00286,Cofone,Francis,0,Ballinger,,,125,,
+minoraverages/1958TSN,1957,Southwestern League,,F20417,Cofone,,0,Ballinger,,,,,3b11
+minoraverages/1958TSN,1957,Southwestern League,,F20571,Cofone,,0,Ballinger,,,,,ss18
+minoraverages/1958TSN,1957,Southwestern League,,F20784,Cofone,,0,Ballinger,,,,,of105
+minoraverages/1958TSN,1957,Southwestern League,,P10542,Cofone,,0,Ballinger,,,,5,
+minoraverages/1958TSN,1957,Southwestern League,,B01444,Coopman,Walter,0,Carlsbad,,,2,,
+minoraverages/1958TSN,1957,Southwestern League,,B00293,Copeland,Bobby,0,Plainview,,,27,,
+minoraverages/1958TSN,1957,Southwestern League,,F20560,Copeland,,0,Plainview,,,,,ss23
+minoraverages/1958TSN,1957,Southwestern League,,B00308,Cross,Allen,0,Pampa/San Angelo,,,39,,
+minoraverages/1958TSN,1957,Southwestern League,,F20102,Cross,,0,Pampa/San Angelo,,,,,1b31
+minoraverages/1958TSN,1957,Southwestern League,,M90083,Cross,Allen,,Pampa/San Angelo,,,,,
+minoraverages/1958TSN,1957,Southwestern League,,P10974,Cross,,0,Pampa/San Angelo,,,,2,
 minoraverages/emilbb,1957,Southwestern League,,M91136,Cross,Allen,,Pampa/San Angelo,,,,,
+minoraverages/1958TSN,1957,Southwestern League,,B01939,DeHondt,Rene,0,San Angelo,,,4,,
+minoraverages/1958TSN,1957,Southwestern League,,P11009,DeHondt,,0,San Angelo,,,,1,
+minoraverages/1958TSN,1957,Southwestern League,,B00324,DePhillips,Alfred,0,Pampa/San Angelo,,,56,,
+minoraverages/1958TSN,1957,Southwestern League,,F21000,DePhillips,,0,Pampa/San Angelo,,,,,c56
+minoraverages/1958TSN,1957,Southwestern League,,B00335,DeSouza,Carlos,0,Midland/Lamesa,,,116,,
+minoraverages/1958TSN,1957,Southwestern League,,F20153,DeSouza,,0,Midland/Lamesa,,,,,2b114
+minoraverages/1958TSN,1957,Southwestern League,,B00319,Dear,Robert,0,Carlsbad,,,34,,
+minoraverages/1958TSN,1957,Southwestern League,,F21370,Dear,,0,Carlsbad,,,,,p34
+minoraverages/1958TSN,1957,Southwestern League,,P10137,Dear,,0,Carlsbad,,,,34,
+minoraverages/1958TSN,1957,Southwestern League,,B00343,DiCesare,Arthur,0,Plainview,,,12,,
+minoraverages/1958TSN,1957,Southwestern League,,P10894,DiCesare,,0,Plainview,,,,8,
+minoraverages/1958TSN,1957,Southwestern League,,B00356,Dickey,Richard,1,Clovis,,,34,,
+minoraverages/1958TSN,1957,Southwestern League,,B00356,Dickey,Richard,2,Hobbs,,,1,,
+minoraverages/1958TSN,1957,Southwestern League,,B00356,Dickey,Richard,T,,,,35,,
+minoraverages/1958TSN,1957,Southwestern League,,F20970,Dickey,,0,Clovis,,,,,of14
+minoraverages/1958TSN,1957,Southwestern League,,F20981,Dickey,,1,Clovis,,,,,c
+minoraverages/1958TSN,1957,Southwestern League,,F20981,Dickey,,2,Hobbs,,,,,c
+minoraverages/1958TSN,1957,Southwestern League,,F20981,Dickey,,T,,,,,,c18
+minoraverages/1958TSN,1957,Southwestern League,,P10611,Dickey,,0,Clovis,,,,1,
+minoraverages/1958TSN,1957,Southwestern League,,B00362,Diez,Alfred,0,El Paso,,,20,,
+minoraverages/1958TSN,1957,Southwestern League,,F21416,Diez,,0,El Paso,,,,,p18
+minoraverages/1958TSN,1957,Southwestern League,,P10145,Diez,,0,El Paso,,,,18,
+minoraverages/1958TSN,1957,Southwestern League,,B00370,Dobkowski,Paul,0,El Paso,,,77,,
+minoraverages/1958TSN,1957,Southwestern League,,F20206,Dobkowski,,0,El Paso,,,,,2b45
+minoraverages/1958TSN,1957,Southwestern League,,F20552,Dobkowski,,0,El Paso,,,,,ss32
+minoraverages/1958TSN,1957,Southwestern League,,B00381,Douglas,Thomas,0,El Paso,,,34,,
+minoraverages/1958TSN,1957,Southwestern League,,B01804,Douglas,James,0,Plainview,,,1,,
+minoraverages/1958TSN,1957,Southwestern League,,F21362,Douglas,,0,El Paso,,,,,p26
+minoraverages/1958TSN,1957,Southwestern League,,P10159,Douglas,,0,El Paso,,,,26,
+minoraverages/1958TSN,1957,Southwestern League,,P10901,Douglas,,0,Plainview,,,,1,
+minoraverages/1958TSN,1957,Southwestern League,,B00397,Eaves,Jerry,0,Hobbs,,,15,,
+minoraverages/1958TSN,1957,Southwestern League,,B01658,Eaves,Vallie E.,0,Hobbs,,,4,,
+minoraverages/1958TSN,1957,Southwestern League,,F21286,Eaves,J.,0,Hobbs,,,,,p15
+minoraverages/1958TSN,1957,Southwestern League,,P10168,Eaves,J.,0,Hobbs,,,,15,
+minoraverages/1958TSN,1957,Southwestern League,,P10772,Eaves,V.,0,Hobbs,,,,4,
+minoraverages/1958TSN,1957,Southwestern League,,B00403,Enders,William,0,Plainview,,,10,,
+minoraverages/1958TSN,1957,Southwestern League,,B00416,Ernst,Wilbur,0,Hobbs,,,39,,
+minoraverages/1958TSN,1957,Southwestern League,,F21174,Ernst,,0,Hobbs,,,,,p37
+minoraverages/1958TSN,1957,Southwestern League,,P10176,Ernst,,0,Hobbs,,,,37,
+minoraverages/1958TSN,1957,Southwestern League,,B01580,Escalante,Eduardo,0,El Paso,,,6,,
+minoraverages/1958TSN,1957,Southwestern League,,B00427,Exter,David,0,El Paso,,,13,,
+minoraverages/1958TSN,1957,Southwestern League,,F21651,Exter,,0,El Paso,,,,,p10
+minoraverages/1958TSN,1957,Southwestern League,,P10679,Exter,,0,El Paso,,,,10,
+minoraverages/1958TSN,1957,Southwestern League,,B01453,Fausett,Jerry,0,Carlsbad,,,9,,
+minoraverages/1958TSN,1957,Southwestern League,,P10184,Fausett,,0,Carlsbad,,,,9,
+minoraverages/1958TSN,1957,Southwestern League,,B01812,Fesler,Robert,0,Plainview,,,1,,
+minoraverages/1958TSN,1957,Southwestern League,,P10917,Fesler,,0,Plainview,,,,1,
+minoraverages/1958TSN,1957,Southwestern League,,B00434,Fierro,Manuel,0,Hobbs,,,48,,
+minoraverages/1958TSN,1957,Southwestern League,,F21553,Fierro,,0,Hobbs,,,,,p48
+minoraverages/1958TSN,1957,Southwestern League,,P10192,Fierro,,0,Hobbs,,,,48,
+minoraverages/1958TSN,1957,Southwestern League,,B00442,Flores,Robert,0,Pampa/San Angelo,,,63,,
+minoraverages/1958TSN,1957,Southwestern League,,F20023,Flores,,0,Pampa/San Angelo,,,,,1b22
+minoraverages/1958TSN,1957,Southwestern League,,F20636,Flores,,0,Pampa/San Angelo,,,,,of33
+minoraverages/1958TSN,1957,Southwestern League,,F21059,Flores,,0,Pampa/San Angelo,,,,,c10
+minoraverages/1958TSN,1957,Southwestern League,,B00450,Ford,Ervin,0,El Paso,,,72,,
+minoraverages/1958TSN,1957,Southwestern League,,B00469,Ford,Lonnie Joe,0,Plainview,,,10,,
+minoraverages/1958TSN,1957,Southwestern League,,B01509,Ford,Donald,0,Clovis,,,2,,
+minoraverages/1958TSN,1957,Southwestern League,,F20648,Ford,E.,0,El Paso,,,,,of72
+minoraverages/1958TSN,1957,Southwestern League,,P10202,Ford,L.,0,Plainview,,,,7,
+minoraverages/1958TSN,1957,Southwestern League,,P10687,Ford,E.,0,El Paso,,,,1,
+minoraverages/1958TSN,1957,Southwestern League,,B01905,Francis,Henry,0,Pampa,,,7,,
+minoraverages/1958TSN,1957,Southwestern League,,B00475,Fry,Robert,0,Carlsbad,,,14,,
+minoraverages/1958TSN,1957,Southwestern League,,F20430,Fry,,0,Carlsbad,,,,,3b12
+minoraverages/1958TSN,1957,Southwestern League,,B01595,Gahagen,Maurice,0,El Paso,,,3,,
+minoraverages/1958TSN,1957,Southwestern League,,B00488,Gaines,Jonas,0,Carlsbad,,,20,,
+minoraverages/1958TSN,1957,Southwestern League,,F21229,Gaines,,0,Carlsbad,,,,,p20
+minoraverages/1958TSN,1957,Southwestern League,,P10215,Gaines,,0,Carlsbad,,,,20,
+minoraverages/1958TSN,1957,Southwestern League,,B00491,Gazella,Michael,0,El Paso,,,20,,
+minoraverages/1958TSN,1957,Southwestern League,,F21544,Gazella,,0,El Paso,,,,,p18
+minoraverages/1958TSN,1957,Southwestern League,,P10228,Gazella,,0,El Paso,,,,18,
+minoraverages/1958TSN,1957,Southwestern League,,B01820,Giannelli,Raymond,0,Plainview,,,7,,
+minoraverages/1958TSN,1957,Southwestern League,,B01663,Gibson,Welda,0,Hobbs,,,3,,
+minoraverages/1958TSN,1957,Southwestern League,,P10780,Gibson,,0,Hobbs,,,,2,
+minoraverages/1958TSN,1957,Southwestern League,,B00502,Giel,Joseph,0,Ballinger,,,125,,
+minoraverages/1958TSN,1957,Southwestern League,,F20222,Giel,,0,Ballinger,,,,,2b125
+minoraverages/1958TSN,1957,Southwestern League,,P10550,Giel,,0,Ballinger,,,,1,
+minoraverages/1958TSN,1957,Southwestern League,,B01918,Goff,Jasper,0,Pampa,,,8,,
+minoraverages/1958TSN,1957,Southwestern League,,B00515,Gomez,Rafael,0,El Paso,,,31,,
+minoraverages/1958TSN,1957,Southwestern League,,F20265,Gomez,,0,El Paso,,,,,2b30
+minoraverages/1958TSN,1957,Southwestern League,,B00528,Gonder,Jesse,0,Clovis,,,41,,
+minoraverages/1958TSN,1957,Southwestern League,,F21021,Gonder,,0,Clovis,,,,,c33
+minoraverages/1958TSN,1957,Southwestern League,,B01733,Gonzales,Amado,0,Midland,,,9,,
+minoraverages/1958TSN,1957,Southwestern League,,P10847,Gonzales,,0,Midland,,,,6,
+minoraverages/1958TSN,1957,Southwestern League,,B00531,Greer,W. Hayden,0,Ballinger,,,113,,
+minoraverages/1958TSN,1957,Southwestern League,,F20518,Greer,,0,Ballinger,,,,,ss113
+minoraverages/1958TSN,1957,Southwestern League,,B00544,Grimes,Charles,0,Midland/Lamesa,,,117,,
+minoraverages/1958TSN,1957,Southwestern League,,F20832,Grimes,,0,Midland/Lamesa,,,,,of115
+minoraverages/1958TSN,1957,Southwestern League,,B00553,Guzman,Felix,1,Plainview,,,41,,
+minoraverages/1958TSN,1957,Southwestern League,,B00553,Guzman,Felix,2,Pampa/San Angelo,,,29,,
+minoraverages/1958TSN,1957,Southwestern League,,B00553,Guzman,Felix,T,,,,70,,
+minoraverages/1958TSN,1957,Southwestern League,,F20893,Guzman,,1,Plainview,,,,,of
+minoraverages/1958TSN,1957,Southwestern League,,F20893,Guzman,,2,Pampa/San Angelo,,,,,of
+minoraverages/1958TSN,1957,Southwestern League,,F20893,Guzman,,T,,,,,,of66
+minoraverages/1958TSN,1957,Southwestern League,,M90060,Haas,Berthold,,Clovis,,,,,
 minoraverages/emilbb,1957,Southwestern League,,M91112,Haas,Bert,,Clovis,,,,,
+minoraverages/1958TSN,1957,Southwestern League,,B00566,Haddican,Harold,0,Plainview,,,37,,
+minoraverages/1958TSN,1957,Southwestern League,,F20211,Haddican,,0,Plainview,,,,,2b27
+minoraverages/1958TSN,1957,Southwestern League,,F20547,Haddican,,0,Plainview,,,,,ss13
+minoraverages/1958TSN,1957,Southwestern League,,B00577,Hanta,Carlton,0,El Paso,,,41,,
+minoraverages/1958TSN,1957,Southwestern League,,F20482,Hanta,,0,El Paso,,,,,ss41
+minoraverages/1958TSN,1957,Southwestern League,,P10698,Hanta,,0,El Paso,,,,1,
+minoraverages/1958TSN,1957,Southwestern League,,B01926,Harris,Russell,0,Pampa,,,2,,
+minoraverages/1958TSN,1957,Southwestern League,,P10982,Harris,,0,Pampa,,,,2,
+minoraverages/1958TSN,1957,Southwestern League,,B00589,Harrison,Thomas,0,Pampa/San Angelo,,,47,,
+minoraverages/1958TSN,1957,Southwestern League,,F20128,Harrison,,0,Pampa/San Angelo,,,,,1b14
+minoraverages/1958TSN,1957,Southwestern League,,F21319,Harrison,,0,Pampa/San Angelo,,,,,p23
+minoraverages/1958TSN,1957,Southwestern League,,P10231,Harrison,,0,Pampa/San Angelo,,,,23,
+minoraverages/1958TSN,1957,Southwestern League,,B00590,Heidorn,Donald,1,Clovis,,,7,,
+minoraverages/1958TSN,1957,Southwestern League,,B00590,Heidorn,Donald,2,Hobbs,,,25,,
+minoraverages/1958TSN,1957,Southwestern League,,B00590,Heidorn,Donald,T,,,,32,,
+minoraverages/1958TSN,1957,Southwestern League,,F21397,Heidorn,,1,Clovis,,,,,p
+minoraverages/1958TSN,1957,Southwestern League,,F21397,Heidorn,,2,Hobbs,,,,,p
+minoraverages/1958TSN,1957,Southwestern League,,F21397,Heidorn,,T,,,,,,p31
+minoraverages/1958TSN,1957,Southwestern League,,P10244,Heidorn,,1,Clovis,,,,7,
+minoraverages/1958TSN,1957,Southwestern League,,P10244,Heidorn,,2,Hobbs,,,,24,
+minoraverages/1958TSN,1957,Southwestern League,,P10244,Heidorn,,T,,,,,31,
+minoraverages/1958TSN,1957,Southwestern League,,B00609,Heise,James,0,Midland/Lamesa,,,12,,
+minoraverages/1958TSN,1957,Southwestern League,,F21488,Heise,,0,Midland/Lamesa,,,,,p12
+minoraverages/1958TSN,1957,Southwestern League,,P10253,Heise,,0,Midland/Lamesa,,,,12,
+minoraverages/1958TSN,1957,Southwestern League,,B00614,Hensley,Charles,0,Hobbs,,,14,,
+minoraverages/1958TSN,1957,Southwestern League,,F21577,Hensley,,0,Hobbs,,,,,p14
+minoraverages/1958TSN,1957,Southwestern League,,P10266,Hensley,,0,Hobbs,,,,14,
+minoraverages/1958TSN,1957,Southwestern League,,B01740,Herbert,John,0,Midland,,,4,,
+minoraverages/1958TSN,1957,Southwestern League,,P10852,Herbert,,0,Midland,,,,4,
+minoraverages/1958TSN,1957,Southwestern League,,B01466,Herd,Richard,0,Carlsbad,,,7,,
+minoraverages/1958TSN,1957,Southwestern League,,P10575,Herd,,0,Carlsbad,,,,7,
+minoraverages/1958TSN,1957,Southwestern League,,B00623,Hernandez,Humberto,0,El Paso,,,41,,
+minoraverages/1958TSN,1957,Southwestern League,,B00638,Hernandez,Samuel,0,Hobbs,,,121,,
+minoraverages/1958TSN,1957,Southwestern League,,F20303,Hernandez,S.,0,Hobbs,,,,,3b111
+minoraverages/1958TSN,1957,Southwestern League,,F21125,Hernandez,H.,0,El Paso,,,,,c35
+minoraverages/1958TSN,1957,Southwestern League,,B01754,Hert,John,0,Midland,,,3,,
+minoraverages/1958TSN,1957,Southwestern League,,B00646,Hill,Stephen,0,Hobbs,,,110,,
+minoraverages/1958TSN,1957,Southwestern League,,F20166,Hill,,0,Hobbs,,,,,2b10
+minoraverages/1958TSN,1957,Southwestern League,,F20327,Hill,,0,Hobbs,,,,,3b11
+minoraverages/1958TSN,1957,Southwestern League,,B00651,Hogan,Richard,0,Hobbs,,,88,,
+minoraverages/1958TSN,1957,Southwestern League,,F20886,Hogan,,0,Hobbs,,,,,of83
+minoraverages/1958TSN,1957,Southwestern League,,B00667,Hughes,Stanley,1,El Paso,,,4,,
+minoraverages/1958TSN,1957,Southwestern League,,B00667,Hughes,Stanley,2,Pampa/San Angelo,,,64,,
+minoraverages/1958TSN,1957,Southwestern League,,B00667,Hughes,Stanley,T,,,,68,,
+minoraverages/1958TSN,1957,Southwestern League,,F20505,Hughes,,1,El Paso,,,,,ss
+minoraverages/1958TSN,1957,Southwestern League,,F20505,Hughes,,2,Pampa/San Angelo,,,,,ss
+minoraverages/1958TSN,1957,Southwestern League,,F20505,Hughes,,T,,,,,,ss68
+minoraverages/1958TSN,1957,Southwestern League,,B00672,Hutzler,Richard,1,Plainview,,,15,,
+minoraverages/1958TSN,1957,Southwestern League,,B00672,Hutzler,Richard,2,El Paso,,,26,,
+minoraverages/1958TSN,1957,Southwestern League,,B00672,Hutzler,Richard,T,,,,41,,
+minoraverages/1958TSN,1957,Southwestern League,,F21158,Hutzler,,1,Plainview,,,,,c
+minoraverages/1958TSN,1957,Southwestern League,,F21158,Hutzler,,2,El Paso,,,,,c
+minoraverages/1958TSN,1957,Southwestern League,,F21158,Hutzler,,T,,,,,,c41
+minoraverages/1958TSN,1957,Southwestern League,,B01674,Infante,Manuel,0,Hobbs,,,5,,
+minoraverages/1958TSN,1957,Southwestern League,,B00680,Izaguirre,Juan,0,Pampa/San Angelo,,,53,,
+minoraverages/1958TSN,1957,Southwestern League,,F20038,Izaguirre,,0,Pampa/San Angelo,,,,,1b24
+minoraverages/1958TSN,1957,Southwestern League,,F20700,Izaguirre,,0,Pampa/San Angelo,,,,,of23
+minoraverages/1958TSN,1957,Southwestern League,,F21515,Izaguirre,,0,Pampa/San Angelo,,,,,p17
+minoraverages/1958TSN,1957,Southwestern League,,P10277,Izaguirre,,0,Pampa/San Angelo,,,,17,
+minoraverages/1958TSN,1957,Southwestern League,,B00695,Jack,Richard,0,Pampa/San Angelo,,,12,,
+minoraverages/1958TSN,1957,Southwestern League,,P10289,Jack,,0,Pampa/San Angelo,,,,9,
+minoraverages/1958TSN,1957,Southwestern League,,B01514,Jacobs,Gerald,0,Clovis,,,9,,
+minoraverages/1958TSN,1957,Southwestern League,,B01836,Jennings,James,0,Plainview,,,1,,
+minoraverages/1958TSN,1957,Southwestern League,,B01523,Johnston,Gerald,0,Clovis,,,9,,
+minoraverages/1958TSN,1957,Southwestern League,,P10290,Johnston,,0,Clovis,,,,9,
+minoraverages/1958TSN,1957,Southwestern League,,B00705,Jones,Kenneth,0,Ballinger,,,121,,
+minoraverages/1958TSN,1957,Southwestern League,,F21013,Jones,,0,Ballinger,,,,,c121
+minoraverages/1958TSN,1957,Southwestern League,,B01477,Jordan,Thomas,0,Carlsbad,,,3,,
+minoraverages/1958TSN,1957,Southwestern League,,B00718,Juarez,Manuel,0,El Paso,,,19,,
+minoraverages/1958TSN,1957,Southwestern League,,F20350,Juarez,,0,El Paso,,,,,3b18
+minoraverages/1958TSN,1957,Southwestern League,,B00726,Kassay,Douglas,0,Clovis,,,41,,
+minoraverages/1958TSN,1957,Southwestern League,,F20792,Kassay,,0,Clovis,,,,,of41
+minoraverages/1958TSN,1957,Southwestern League,,B01601,Kenaga,James,0,El Paso,,,6,,
+minoraverages/1958TSN,1957,Southwestern League,,P10709,Kenaga,,0,El Paso,,,,6,
+minoraverages/1958TSN,1957,Southwestern League,,B00739,Kiser,Ronald,0,Ballinger,,,125,,
+minoraverages/1958TSN,1957,Southwestern League,,F20014,Kiser,,0,Ballinger,,,,,1b125
+minoraverages/1958TSN,1957,Southwestern League,,B00747,Knapp,Walter,0,Hobbs,,,42,,
+minoraverages/1958TSN,1957,Southwestern League,,F20067,Knapp,,0,Hobbs,,,,,1b41
+minoraverages/1958TSN,1957,Southwestern League,,B00752,Landrum,Jeral,0,Pampa/San Angelo,,,37,,
+minoraverages/1958TSN,1957,Southwestern League,,F20620,Landrum,,0,Pampa/San Angelo,,,,,of34
+minoraverages/1958TSN,1957,Southwestern League,,P11014,Landrum,,0,San Angelo,,,,1,
+minoraverages/1958TSN,1957,Southwestern League,,B00760,Langhamer,Joseph,0,Midland/Lamesa,,,37,,
+minoraverages/1958TSN,1957,Southwestern League,,F20855,Langhamer,,0,Midland/Lamesa,,,,,of10
+minoraverages/1958TSN,1957,Southwestern League,,F21403,Langhamer,,0,Midland/Lamesa,,,,,p20
+minoraverages/1958TSN,1957,Southwestern League,,P10304,Langhamer,,0,Midland/Lamesa,,,,20,
+minoraverages/1958TSN,1957,Southwestern League,,B00771,Lasby,Charles,0,Hobbs,,,17,,
+minoraverages/1958TSN,1957,Southwestern League,,F21037,Lasby,,0,Hobbs,,,,,c14
+minoraverages/1958TSN,1957,Southwestern League,,B00783,Leach,Robert,0,Ballinger,,,58,,
+minoraverages/1958TSN,1957,Southwestern League,,F20594,Leach,,0,Ballinger,,,,,of10
+minoraverages/1958TSN,1957,Southwestern League,,F21434,Leach,,0,Ballinger,,,,,p37
+minoraverages/1958TSN,1957,Southwestern League,,P10312,Leach,,0,Ballinger,,,,37,
+minoraverages/1958TSN,1957,Southwestern League,,B00794,Lippold,Eugene,0,Ballinger,,,34,,
+minoraverages/1958TSN,1957,Southwestern League,,F21356,Lippold,,0,Ballinger,,,,,p32
+minoraverages/1958TSN,1957,Southwestern League,,P10320,Lippold,,0,Ballinger,,,,32,
+minoraverages/1958TSN,1957,Southwestern League,,B01947,Lopez,Rafael,0,San Angelo,,,7,,
+minoraverages/1958TSN,1957,Southwestern League,,P11023,Lopez,,0,San Angelo,,,,7,
+minoraverages/1958TSN,1957,Southwestern League,,B00806,Louden,Louis,0,El Paso,,,24,,
+minoraverages/1958TSN,1957,Southwestern League,,F20997,Louden,,0,El Paso,,,,,c19
+minoraverages/1958TSN,1957,Southwestern League,,B00811,Lowrey,Joseph,1,Pampa/San Angelo,,,22,,
+minoraverages/1958TSN,1957,Southwestern League,,B00811,Lowrey,Joseph,2,Midland/Lamesa,,,5,,
+minoraverages/1958TSN,1957,Southwestern League,,B00811,Lowrey,Joseph,T,,,,27,,
+minoraverages/1958TSN,1957,Southwestern League,,F21638,Lowrey,,1,Pampa/San Angelo,,,,,p
+minoraverages/1958TSN,1957,Southwestern League,,F21638,Lowrey,,2,Midland/Lamesa,,,,,p
+minoraverages/1958TSN,1957,Southwestern League,,F21638,Lowrey,,T,,,,,,p24
+minoraverages/1958TSN,1957,Southwestern League,,P10336,Lowrey,,1,Pampa/San Angelo,,,,20,
+minoraverages/1958TSN,1957,Southwestern League,,P10336,Lowrey,,2,Midland/Lamesa,,,,4,
+minoraverages/1958TSN,1957,Southwestern League,,P10336,Lowrey,,T,,,,,24,
+minoraverages/1958TSN,1957,Southwestern League,,B00822,Maier,Edward,0,Ballinger,,,21,,
+minoraverages/1958TSN,1957,Southwestern League,,F21381,Maier,,0,Ballinger,,,,,p21
+minoraverages/1958TSN,1957,Southwestern League,,P10348,Maier,,0,Ballinger,,,,21,
+minoraverages/1958TSN,1957,Southwestern League,,B01848,Marliani,Lewis,0,Plainview,,,6,,
+minoraverages/1958TSN,1957,Southwestern League,,B00833,Marr,John,0,Midland/Lamesa,,,41,,
+minoraverages/1958TSN,1957,Southwestern League,,F20943,Marr,,0,Midland/Lamesa,,,,,of16
+minoraverages/1958TSN,1957,Southwestern League,,F21101,Marr,,0,Midland/Lamesa,,,,,c25
+minoraverages/1958TSN,1957,Southwestern League,,B00840,Martinez,Roberto,1,Pampa/San Angelo,,,25,,
+minoraverages/1958TSN,1957,Southwestern League,,B00840,Martinez,Roberto,2,Hobbs,,,3,,
+minoraverages/1958TSN,1957,Southwestern League,,B00840,Martinez,Roberto,T,,,,28,,
+minoraverages/1958TSN,1957,Southwestern League,,F21502,Martinez,,1,Pampa/San Angelo,,,,,p
+minoraverages/1958TSN,1957,Southwestern League,,F21502,Martinez,,2,Hobbs,,,,,p
+minoraverages/1958TSN,1957,Southwestern League,,F21502,Martinez,,T,,,,,,p26
+minoraverages/1958TSN,1957,Southwestern League,,P10357,Martinez,,1,Pampa/San Angelo,,,,23,
+minoraverages/1958TSN,1957,Southwestern League,,P10357,Martinez,,2,Hobbs,,,,3,
+minoraverages/1958TSN,1957,Southwestern League,,P10357,Martinez,,T,,,,,26,
+minoraverages/1958TSN,1957,Southwestern League,,B00854,McAvoy,Thomas,0,Midland/Lamesa,,,34,,
+minoraverages/1958TSN,1957,Southwestern League,,F21335,McAvoy,,0,Midland/Lamesa,,,,,p31
+minoraverages/1958TSN,1957,Southwestern League,,P10361,McAvoy,,0,Midland/Lamesa,,,,31,
+minoraverages/1958TSN,1957,Southwestern League,,B00865,McGuire,Martin,0,Midland/Lamesa,,,25,,
+minoraverages/1958TSN,1957,Southwestern League,,F21491,McGuire,,0,Midland/Lamesa,,,,,p21
+minoraverages/1958TSN,1957,Southwestern League,,P10373,McGuire,,0,Midland/Lamesa,,,,21,
+minoraverages/1958TSN,1957,Southwestern League,,B00879,McKay,Edmond,0,Ballinger,,,26,,
+minoraverages/1958TSN,1957,Southwestern League,,F21646,McKay,,0,Ballinger,,,,,p22
+minoraverages/1958TSN,1957,Southwestern League,,P10385,McKay,,0,Ballinger,,,,22,
+minoraverages/1958TSN,1957,Southwestern League,,B00887,McNeal,Rufus,0,El Paso,,,70,,
+minoraverages/1958TSN,1957,Southwestern League,,F20115,McNeal,,0,El Paso,,,,,1b48
+minoraverages/1958TSN,1957,Southwestern League,,F21623,McNeal,,0,El Paso,,,,,p11
+minoraverages/1958TSN,1957,Southwestern League,,P10399,McNeal,,0,El Paso,,,,11,
+minoraverages/1958TSN,1957,Southwestern League,,B00898,McNew,James,0,Pampa/San Angelo,,,40,,
+minoraverages/1958TSN,1957,Southwestern League,,F20878,McNew,,0,Pampa/San Angelo,,,,,of38
+minoraverages/1958TSN,1957,Southwestern League,,B01857,Meekins,Charles,0,Plainview,,,6,,
+minoraverages/1958TSN,1957,Southwestern League,,P10925,Meekins,,0,Plainview,,,,6,
+minoraverages/1958TSN,1957,Southwestern League,,B01538,Mehl,Jack,0,Clovis,,,8,,
+minoraverages/1958TSN,1957,Southwestern League,,P10622,Mehl,,0,Clovis,,,,8,
+minoraverages/1958TSN,1957,Southwestern League,,B01765,Miranda,Mario,0,Midland,,,3,,
+minoraverages/1958TSN,1957,Southwestern League,,B00904,Mitchell,Gary,0,Midland/Lamesa,,,20,,
+minoraverages/1958TSN,1957,Southwestern League,,F21207,Mitchell,,0,Midland/Lamesa,,,,,p13
+minoraverages/1958TSN,1957,Southwestern League,,P10407,Mitchell,,0,Midland/Lamesa,,,,13,
+minoraverages/1958TSN,1957,Southwestern League,,B00912,Moore,Everett,0,Hobbs,,,68,,
+minoraverages/1958TSN,1957,Southwestern League,,B00920,Moore,James,0,Ballinger,,,111,,
+minoraverages/1958TSN,1957,Southwestern League,,F20604,Moore,J.,0,Ballinger,,,,,of111
+minoraverages/1958TSN,1957,Southwestern League,,F20924,Moore,E.,0,Hobbs,,,,,of53
+minoraverages/1958TSN,1957,Southwestern League,,P10795,Moore,E.,0,Hobbs,,,,1,
+minoraverages/1958TSN,1957,Southwestern League,,B00936,Najera,Pedro,0,El Paso,,,22,,
+minoraverages/1958TSN,1957,Southwestern League,,F21241,Najera,,0,El Paso,,,,,p18
+minoraverages/1958TSN,1957,Southwestern League,,P10410,Najera,,0,El Paso,,,,18,
+minoraverages/1958TSN,1957,Southwestern League,,B00948,Niccolai,Roy,0,Carlsbad,,,17,,
+minoraverages/1958TSN,1957,Southwestern League,,F20657,Niccolai,,0,Carlsbad,,,,,of16
+minoraverages/1958TSN,1957,Southwestern League,,P10588,Niccolai,,0,Carlsbad,,,,1,
+minoraverages/1958TSN,1957,Southwestern League,,B01682,Nunez,Esteban,0,Hobbs,,,8,,
+minoraverages/1958TSN,1957,Southwestern League,,P10805,Nunez,,0,Hobbs,,,,5,
+minoraverages/1958TSN,1957,Southwestern League,,B00957,O'Flynn,Howard,0,Plainview,,,43,,
+minoraverages/1958TSN,1957,Southwestern League,,F20612,O'Flynn,,0,Plainview,,,,,of43
+minoraverages/1958TSN,1957,Southwestern League,,B00961,O'Neal,Waymond,0,Midland/Lamesa,,,107,,
+minoraverages/1958TSN,1957,Southwestern League,,F20046,O'Neal,,0,Midland/Lamesa,,,,,1b90
+minoraverages/1958TSN,1957,Southwestern League,,F20391,O'Neal,,0,Midland/Lamesa,,,,,3b18
+minoraverages/1958TSN,1957,Southwestern League,,M90052,O'Neal,Waymond (Hank),,Midland/Lamesa,19570615,,,,
+minoraverages/1958TSN,1957,Southwestern League,,P10860,O'Neal,,0,Midland,,,,1,
 minoraverages/emilbb,1957,Southwestern League,,M91104,O'Neal,Hank,,Midland/Lamesa,,,,,
+minoraverages/1958TSN,1957,Southwestern League,,B00973,O'Neil,Walter,0,Ballinger,,,125,,
+minoraverages/1958TSN,1957,Southwestern League,,F20713,O'Neil,,0,Ballinger,,,,,of125
+minoraverages/1958TSN,1957,Southwestern League,,B01861,Onate,Lorenzo,0,Plainview,,,4,,
+minoraverages/1958TSN,1957,Southwestern League,,P10930,Onate,,0,Plainview,,,,3,
+minoraverages/1958TSN,1957,Southwestern League,,B00985,Pace,Jimmy,0,Carlsbad,,,26,,
+minoraverages/1958TSN,1957,Southwestern League,,F20279,Pace,,0,Carlsbad,,,,,2b22
+minoraverages/1958TSN,1957,Southwestern League,,B00999,Padilla,Jose,0,Clovis,,,46,,
+minoraverages/1958TSN,1957,Southwestern League,,F20526,Padilla,,0,Clovis,,,,,ss45
+minoraverages/1958TSN,1957,Southwestern League,,B01007,Parker,Roy,0,Clovis,,,28,,
+minoraverages/1958TSN,1957,Southwestern League,,F20919,Parker,,0,Clovis,,,,,of28
+minoraverages/1958TSN,1957,Southwestern League,,P10633,Parker,,0,Clovis,,,,1,
+minoraverages/1958TSN,1957,Southwestern League,,B01010,Pascual,Carlos,0,Midland/Lamesa,,,104,,
+minoraverages/1958TSN,1957,Southwestern League,,F20051,Pascual,,0,Midland/Lamesa,,,,,1b27
+minoraverages/1958TSN,1957,Southwestern League,,F20369,Pascual,,0,Midland/Lamesa,,,,,3b68
+minoraverages/1958TSN,1957,Southwestern League,,P10871,Pascual,,0,Midland/Lamesa,,,,3,
+minoraverages/1958TSN,1957,Southwestern League,,B01029,Patchell,Stanley,0,El Paso,,,10,,
+minoraverages/1958TSN,1957,Southwestern League,,P10714,Patchell,,0,El Paso,,,,8,
+minoraverages/1958TSN,1957,Southwestern League,,B01032,Patterson,Raymond,0,Carlsbad,,,117,,
+minoraverages/1958TSN,1957,Southwestern League,,F20841,Patterson,,0,Carlsbad,,,,,of106
+minoraverages/1958TSN,1957,Southwestern League,,F21149,Patterson,,0,Carlsbad,,,,,c13
+minoraverages/1958TSN,1957,Southwestern League,,B01617,Pawelek,Alfred,0,El Paso,,,4,,
+minoraverages/1958TSN,1957,Southwestern League,,P10723,Pawelek,,0,El Paso,,,,3,
+minoraverages/1958TSN,1957,Southwestern League,,B01041,Payte,George,0,Hobbs,,,29,,
+minoraverages/1958TSN,1957,Southwestern League,,F21566,Payte,,0,Hobbs,,,,,p26
+minoraverages/1958TSN,1957,Southwestern League,,P10429,Payte,,0,Hobbs,,,,26,
+minoraverages/1958TSN,1957,Southwestern League,,B01055,Perez,Martin,0,Carlsbad,,,35,,
+minoraverages/1958TSN,1957,Southwestern League,,B01779,Perez,Gilberto,0,Midland,,,4,,
+minoraverages/1958TSN,1957,Southwestern League,,F21232,Perez,M.,0,Carlsbad,,,,,p32
+minoraverages/1958TSN,1957,Southwestern League,,P10432,Perez,,0,Carlsbad,,,,32,
+minoraverages/1958TSN,1957,Southwestern League,,B01064,Phipps,Jodie,0,Carlsbad,,,30,,
+minoraverages/1958TSN,1957,Southwestern League,,F21182,Phipps,,0,Carlsbad,,,,,p27
+minoraverages/1958TSN,1957,Southwestern League,,M90039,Phipps,Jodie,,Carlsbad,,,,,
+minoraverages/1958TSN,1957,Southwestern League,,P10441,Phipps,,0,Carlsbad,,,,27,
 minoraverages/emilbb,1957,Southwestern League,,M91087,Phipps,Jodie,,Carlsbad,,,,,
+minoraverages/1958TSN,1957,Southwestern League,,B01873,Pirro,Joseph,0,Plainview,,,3,,
+minoraverages/1958TSN,1957,Southwestern League,,P10949,Pirro,,0,Plainview,,,,3,
+minoraverages/1958TSN,1957,Southwestern League,,B01078,Platt,Charles,0,Pampa/San Angelo,,,22,,
+minoraverages/1958TSN,1957,Southwestern League,,F20425,Platt,,0,Pampa/San Angelo,,,,,3b22
+minoraverages/1958TSN,1957,Southwestern League,,B01086,Raczynski,Edward,0,Midland/Lamesa,,,108,,
+minoraverages/1958TSN,1957,Southwestern League,,F20935,Raczynski,,0,Midland/Lamesa,,,,,of13
+minoraverages/1958TSN,1957,Southwestern League,,F21117,Raczynski,,0,Midland/Lamesa,,,,,c85
+minoraverages/1958TSN,1957,Southwestern League,,B01093,Rediger,Glenn,0,Carlsbad,,,119,,
+minoraverages/1958TSN,1957,Southwestern League,,F20095,Rediger,,0,Carlsbad,,,,,1b111
+minoraverages/1958TSN,1957,Southwestern League,,B01108,Reed,Eddie,0,Carlsbad,,,101,,
+minoraverages/1958TSN,1957,Southwestern League,,F20685,Reed,,0,Carlsbad,,,,,of97
+minoraverages/1958TSN,1957,Southwestern League,,B01696,Reynolds,Alfredo,0,Hobbs,,,3,,
+minoraverages/1958TSN,1957,Southwestern League,,B01119,Risinger,Don,1,Pampa/San Angelo,,,66,,
+minoraverages/1958TSN,1957,Southwestern League,,B01119,Risinger,Don,2,Carlsbad,,,45,,
+minoraverages/1958TSN,1957,Southwestern League,,B01119,Risinger,Don,T,,,,111,,
+minoraverages/1958TSN,1957,Southwestern League,,F20673,Risinger,,1,Pampa/San Angelo,,,,,of
+minoraverages/1958TSN,1957,Southwestern League,,F20673,Risinger,,2,Carlsbad,,,,,of
+minoraverages/1958TSN,1957,Southwestern League,,F20673,Risinger,,T,,,,,,of111
+minoraverages/1958TSN,1957,Southwestern League,,B01124,Rivero,Lazaro,0,Midland/Lamesa,,,17,,
+minoraverages/1958TSN,1957,Southwestern League,,F21589,Rivero,,0,Midland/Lamesa,,,,,p17
+minoraverages/1958TSN,1957,Southwestern League,,P10455,Rivero,,0,Midland/Lamesa,,,,17,
+minoraverages/1958TSN,1957,Southwestern League,,B01625,Rodriguez,Antonio,0,El Paso,,,1,,
+minoraverages/1958TSN,1957,Southwestern League,,P10738,Rodriguez,,0,El Paso,,,,1,
+minoraverages/1958TSN,1957,Southwestern League,,B01135,Rolston,Dirkes,0,Hobbs,,,33,,
+minoraverages/1958TSN,1957,Southwestern League,,F20177,Rolston,,0,Hobbs,,,,,2b33
+minoraverages/1958TSN,1957,Southwestern League,,B01489,Roper,T. Ronald,0,Carlsbad,,,9,,
+minoraverages/1958TSN,1957,Southwestern League,,P10591,Roper,,0,Carlsbad,,,,6,
+minoraverages/1958TSN,1957,Southwestern League,,B01143,Rosell,Martin,0,Clovis,,,48,,
+minoraverages/1958TSN,1957,Southwestern League,,F20388,Rosell,,0,Clovis,,,,,3b48
+minoraverages/1958TSN,1957,Southwestern League,,B01156,Ruff,Jimmy E.,1,Pampa/San Angelo,,,2,,
+minoraverages/1958TSN,1957,Southwestern League,,B01156,Ruff,Jimmy E.,2,Carlsbad,,,10,,
+minoraverages/1958TSN,1957,Southwestern League,,B01156,Ruff,Jimmy E.,T,,,,12,,
+minoraverages/1958TSN,1957,Southwestern League,,B01630,Russell,James,0,El Paso,,,2,,
+minoraverages/1958TSN,1957,Southwestern League,,P10746,Russell,,0,El Paso,,,,2,
+minoraverages/1958TSN,1957,Southwestern League,,B01546,Sadler,Ernest,0,Clovis,,,3,,
+minoraverages/1958TSN,1957,Southwestern League,,P10640,Sadler,,0,Clovis,,,,3,
+minoraverages/1958TSN,1957,Southwestern League,,B01162,Samples,F. Edwin,1,Plainview,,,11,,
+minoraverages/1958TSN,1957,Southwestern League,,B01162,Samples,F. Edwin,2,Hobbs,,,4,,
+minoraverages/1958TSN,1957,Southwestern League,,B01162,Samples,F. Edwin,T,,,,15,,
+minoraverages/1958TSN,1957,Southwestern League,,F21255,Samples,,1,Plainview,,,,,p
+minoraverages/1958TSN,1957,Southwestern League,,F21255,Samples,,2,Hobbs,,,,,p
+minoraverages/1958TSN,1957,Southwestern League,,F21255,Samples,,T,,,,,,p15
+minoraverages/1958TSN,1957,Southwestern League,,P10464,Samples,,1,Plainview,,,,11,
+minoraverages/1958TSN,1957,Southwestern League,,P10464,Samples,,2,Hobbs,,,,4,
+minoraverages/1958TSN,1957,Southwestern League,,P10464,Samples,,T,,,,,15,
+minoraverages/1958TSN,1957,Southwestern League,,B01170,Schiltz,L. Edward,0,Midland/Lamesa,,,31,,
+minoraverages/1958TSN,1957,Southwestern League,,F21092,Schiltz,,0,Midland/Lamesa,,,,,c19
+minoraverages/1958TSN,1957,Southwestern League,,B01181,Sharp,Irving,1,Clovis,,,48,,
+minoraverages/1958TSN,1957,Southwestern League,,B01181,Sharp,Irving,2,Hobbs,,,79,,
+minoraverages/1958TSN,1957,Southwestern League,,B01181,Sharp,Irving,T,,,,127,,
+minoraverages/1958TSN,1957,Southwestern League,,F20189,Sharp,,1,Clovis,,,,,2b
+minoraverages/1958TSN,1957,Southwestern League,,F20189,Sharp,,2,Hobbs,,,,,2b
+minoraverages/1958TSN,1957,Southwestern League,,F20189,Sharp,,T,,,,,,2b124
+minoraverages/1958TSN,1957,Southwestern League,,B01706,Simmons,Charles,0,Hobbs,,,2,,
+minoraverages/1958TSN,1957,Southwestern League,,P10818,Simmons,,0,Hobbs,,,,2,
+minoraverages/1958TSN,1957,Southwestern League,,B01551,Slencak,Robert,0,Clovis,,,2,,
+minoraverages/1958TSN,1957,Southwestern League,,P10654,Slencak,,0,Clovis,,,,2,
+minoraverages/1958TSN,1957,Southwestern League,,B01197,Smith,Don,0,Pampa/San Angelo,,,12,,
+minoraverages/1958TSN,1957,Southwestern League,,F21076,Smith,,0,Pampa/San Angelo,,,,,c10
+minoraverages/1958TSN,1957,Southwestern League,,B01203,Snodgrass,K. Howard,0,Carlsbad,,,90,,
+minoraverages/1958TSN,1957,Southwestern League,,F20254,Snodgrass,,0,Carlsbad,,,,,2b14
+minoraverages/1958TSN,1957,Southwestern League,,F20496,Snodgrass,,0,Carlsbad,,,,,ss68
+minoraverages/1958TSN,1957,Southwestern League,,P10606,Snodgrass,,0,Carlsbad,,,,1,
+minoraverages/1958TSN,1957,Southwestern League,,B01216,Soler,Gerardo,0,El Paso,,,73,,
+minoraverages/1958TSN,1957,Southwestern League,,F20144,Soler,,0,El Paso,,,,,1b17
+minoraverages/1958TSN,1957,Southwestern League,,F20737,Soler,,0,El Paso,,,,,of57
+minoraverages/1958TSN,1957,Southwestern League,,P10751,Soler,,0,El Paso,,,,2,
+minoraverages/1958TSN,1957,Southwestern League,,B01227,Sorensen,Roy,1,Pampa/San Angelo,,,5,,
+minoraverages/1958TSN,1957,Southwestern League,,B01227,Sorensen,Roy,2,Hobbs,,,26,,
+minoraverages/1958TSN,1957,Southwestern League,,B01227,Sorensen,Roy,T,,,,31,,
+minoraverages/1958TSN,1957,Southwestern League,,F21442,Sorensen,,1,Pampa/San Angelo,,,,,p
+minoraverages/1958TSN,1957,Southwestern League,,F21442,Sorensen,,2,Hobbs,,,,,p
+minoraverages/1958TSN,1957,Southwestern League,,F21442,Sorensen,,T,,,,,,p31
+minoraverages/1958TSN,1957,Southwestern League,,P10478,Sorensen,,1,Pampa/San Angelo,,,,5,
+minoraverages/1958TSN,1957,Southwestern League,,P10478,Sorensen,,2,Hobbs,,,,26,
+minoraverages/1958TSN,1957,Southwestern League,,P10478,Sorensen,,T,,,,,31,
+minoraverages/1958TSN,1957,Southwestern League,,B01234,Spicuzza,John,0,Hobbs,,,125,,
+minoraverages/1958TSN,1957,Southwestern League,,F20810,Spicuzza,,0,Hobbs,,,,,of125
+minoraverages/1958TSN,1957,Southwestern League,,B01242,Stenger,William,0,Ballinger,,,121,,
+minoraverages/1958TSN,1957,Southwestern League,,F20287,Stenger,,0,Ballinger,,,,,3b117
+minoraverages/1958TSN,1957,Southwestern League,,B01250,Stevens,Lowell,0,Carlsbad,,,77,,
+minoraverages/1958TSN,1957,Southwestern League,,F20776,Stevens,,0,Carlsbad,,,,,of71
+minoraverages/1958TSN,1957,Southwestern League,,B01952,Summerlin,Eugene,0,Pampa/San Angelo,,,9,,
+minoraverages/1958TSN,1957,Southwestern League,,P10996,Summerlin,,0,Pampa/San Angelo,,,,8,
+minoraverages/1958TSN,1957,Southwestern League,,B01269,Taylor,Eugene,1,Midland/Lamesa,,,33,,
+minoraverages/1958TSN,1957,Southwestern League,,B01269,Taylor,Eugene,2,Hobbs,,,50,,
+minoraverages/1958TSN,1957,Southwestern League,,B01269,Taylor,Eugene,T,,,,83,,
+minoraverages/1958TSN,1957,Southwestern League,,F20316,Taylor,,1,Midland/Lamesa,,,,,3b
+minoraverages/1958TSN,1957,Southwestern League,,F20316,Taylor,,2,Hobbs,,,,,3b
+minoraverages/1958TSN,1957,Southwestern League,,F20316,Taylor,,T,,,,,,3b33
+minoraverages/1958TSN,1957,Southwestern League,,F21068,Taylor,,1,Midland/Lamesa,,,,,c
+minoraverages/1958TSN,1957,Southwestern League,,F21068,Taylor,,2,Hobbs,,,,,c
+minoraverages/1958TSN,1957,Southwestern League,,F21068,Taylor,,T,,,,,,c49
+minoraverages/1958TSN,1957,Southwestern League,,B01649,Teran,Luis,0,El Paso,,,3,,
+minoraverages/1958TSN,1957,Southwestern League,,P10767,Teran,,0,El Paso,,,,3,
+minoraverages/1958TSN,1957,Southwestern League,,B01885,Thompson,Billy,0,Plainview,,,8,,
+minoraverages/1958TSN,1957,Southwestern League,,P10486,Thompson,,0,Plainview,,,,7,
+minoraverages/1958TSN,1957,Southwestern League,,B01711,Tigerina,Willie,0,Lamesa,,,4,,
+minoraverages/1958TSN,1957,Southwestern League,,B01275,Tirado,Alfonso,0,El Paso,,,41,,
+minoraverages/1958TSN,1957,Southwestern League,,F20342,Tirado,,0,El Paso,,,,,3b41
+minoraverages/1958TSN,1957,Southwestern League,,B01288,Triggs,Alex,0,Pampa/San Angelo,,,15,,
+minoraverages/1958TSN,1957,Southwestern League,,F20956,Triggs,,0,Pampa/San Angelo,,,,,of15
+minoraverages/1958TSN,1957,Southwestern League,,B01291,Tucker,Thurman,0,Hobbs,,,16,,
+minoraverages/1958TSN,1957,Southwestern League,,M90018,Tucker,Thurman,,Hobbs,,,,,
 minoraverages/emilbb,1957,Southwestern League,,M91065,Tucker,Thurman,,Hobbs,,,,,
+minoraverages/1958TSN,1957,Southwestern League,,B01300,Valdespino,Hilario,0,Midland/Lamesa,,,94,,
+minoraverages/1958TSN,1957,Southwestern League,,F20829,Valdespino,,0,Midland/Lamesa,,,,,of94
+minoraverages/1958TSN,1957,Southwestern League,,B01313,Valdez,Felipe,0,Pampa/San Angelo,,,75,,
+minoraverages/1958TSN,1957,Southwestern League,,F20190,Valdez,,0,Pampa/San Angelo,,,,,2b65
+minoraverages/1958TSN,1957,Southwestern League,,F20539,Valdez,,0,Pampa/San Angelo,,,,,ss11
+minoraverages/1958TSN,1957,Southwestern League,,P11038,Valdez,,0,San Angelo,,,,3,
+minoraverages/1958TSN,1957,Southwestern League,,B01321,Valmas,John,0,Midland/Lamesa,,,29,,
+minoraverages/1958TSN,1957,Southwestern League,,F21609,Valmas,,0,Midland/Lamesa,,,,,p16
+minoraverages/1958TSN,1957,Southwestern League,,P10493,Valmas,,0,Midland/Lamesa,,,,16,
+minoraverages/1958TSN,1957,Southwestern League,,B01337,Vick,Joe,0,Ballinger,,,44,,
+minoraverages/1958TSN,1957,Southwestern League,,F20962,Vick,,0,Ballinger,,,,,of44
+minoraverages/1958TSN,1957,Southwestern League,,B01345,Waldrip,James,0,Hobbs,,,40,,
+minoraverages/1958TSN,1957,Southwestern League,,F21469,Waldrip,,0,Hobbs,,,,,p38
+minoraverages/1958TSN,1957,Southwestern League,,P10503,Waldrip,,0,Hobbs,,,,38,
+minoraverages/1958TSN,1957,Southwestern League,,B01359,Walker,Osmond,0,Hobbs,,,112,,
+minoraverages/1958TSN,1957,Southwestern League,,F20759,Walker,,0,Hobbs,,,,,of112
+minoraverages/1958TSN,1957,Southwestern League,,P10826,Walker,,0,Hobbs,,,,9,
+minoraverages/1958TSN,1957,Southwestern League,,M90047,Welaj,John,,Midland/Lamesa,,,,,
 minoraverages/emilbb,1957,Southwestern League,,M91098,Welaj,John,,Midland/Lamesa,,,,,
+minoraverages/1958TSN,1957,Southwestern League,,B01368,Wilcox,Ralph,0,Plainview,,,28,,
+minoraverages/1958TSN,1957,Southwestern League,,F20401,Wilcox,,0,Plainview,,,,,3b28
+minoraverages/1958TSN,1957,Southwestern League,,B01376,Woodard,Glenn,0,Ballinger,,,22,,
+minoraverages/1958TSN,1957,Southwestern League,,F21196,Woodard,,0,Ballinger,,,,,p22
+minoraverages/1958TSN,1957,Southwestern League,,P10516,Woodard,,0,Ballinger,,,,22,
+minoraverages/1958TSN,1957,Southwestern League,,B01384,Woods,Samuel,0,Plainview,,,17,,
+minoraverages/1958TSN,1957,Southwestern League,,F21475,Woods,,0,Plainview,,,,,p14
+minoraverages/1958TSN,1957,Southwestern League,,P10527,Woods,,0,Plainview,,,,14,
+minoraverages/1958TSN,1957,Southwestern League,,B01787,Wyatt,John,0,Midland,,,3,,
+minoraverages/1958TSN,1957,Southwestern League,,B01392,Yanchura,John,1,Pampa/San Angelo,,,39,,
+minoraverages/1958TSN,1957,Southwestern League,,B01392,Yanchura,John,2,Carlsbad,,,11,,
+minoraverages/1958TSN,1957,Southwestern League,,B01392,Yanchura,John,T,,,,50,,
+minoraverages/1958TSN,1957,Southwestern League,,F20375,Yanchura,,0,Pampa/San Angelo,,,,,3b39
+minoraverages/1958TSN,1957,Southwestern League,,F20449,Yanchura,,0,Carlsbad,,,,,ss11
+minoraverages/1958TSN,1957,Southwestern League,,M90026,York,Anthony,,Ballinger,,,,,
 minoraverages/emilbb,1957,Southwestern League,,M91079,York,Tony,,Ballinger,,,,,
+minoraverages/1958TSN,1957,Southwestern League,,B01402,Young,Harry,0,Carlsbad,,,33,,
+minoraverages/1958TSN,1957,Southwestern League,,B01415,Young,John,0,Hobbs,,,121,,
+minoraverages/1958TSN,1957,Southwestern League,,F20458,Young,J.,0,Hobbs,,,,,ss120
+minoraverages/1958TSN,1957,Southwestern League,,F21324,Young,H.,0,Carlsbad,,,,,p25
+minoraverages/1958TSN,1957,Southwestern League,,P10534,Young,H.,0,Carlsbad,,,,25,
+minoraverages/1958TSN,1957,Southwestern League,,B01428,Zayas,Luis,0,Clovis,,,47,,
+minoraverages/1958TSN,1957,Southwestern League,,F20807,Zayas,,0,Clovis,,,,,of44
+minoraverages/1958TSN,1957,Southwestern League,,B01798,Zulueta,Renaldo,0,Midland,,,6,,
