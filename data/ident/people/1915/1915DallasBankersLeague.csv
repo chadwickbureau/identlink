@@ -1,49 +1,54 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-boxscores/1915/1915-DMN,1915,Dallas Bankers League,adams,P4402718,Adams,,,City Nationals,19150410,19150417,2,0,"of2,cf2"
-boxscores/1915/1915-DMN,1915,Dallas Bankers League,alexander,P2220205,Alexander,,,American Exchange,19150410,19150410,1,1,"p1,of1,cf1"
+boxscores/1915/1915-DMN,1915,Dallas Bankers League,adams,P4402718,Adams,,,City Nationals,19150410,19150508,3,0,"of3,cf3"
+boxscores/1915/1915-DMN,1915,Dallas Bankers League,alexander,P2220205,Alexander,,,American Exchange,19150410,19150508,2,2,"p2,of1,cf1"
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,allison,P5504459,Allison,,,American Exchange,19150410,19150410,1,0,1b1
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,anderson,P2862482,Anderson,,,City Nationals,19150410,19150410,1,0,"of1,lf1"
+boxscores/1915/1915-DMN,1915,Dallas Bankers League,,P6621522,Ayers,,,Security,19150508,19150508,1,0,"of1,rf1"
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,ayres,P6977394,Ayres,,,Security,19150417,19150417,1,0,"of1,rf1"
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,barnett,P1012062,Barnett,,,Security,19150410,19150417,2,0,ss2
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,bedford,P6932943,Bedford,,,American Exchange,19150410,19150410,1,0,"of1,lf1"
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,belew,P0373256,Belew,,,American Exchange,19150410,19150410,1,0,c1
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,bender,P4499439,Bender,,,First State,19150410,19150410,1,0,ss1
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,broyles,P2936704,Brayles,,,Security,19150417,19150417,1,0,"of1,lf1"
-boxscores/1915/1915-DMN,1915,Dallas Bankers League,broyles,P1652110,Broyles,,,Security,19150410,19150410,1,0,"of1,lf1"
-boxscores/1915/1915-DMN,1915,Dallas Bankers League,burlew,P4368809,Burlew,,,City Nationals,19150410,19150417,2,0,c2
+boxscores/1915/1915-DMN,1915,Dallas Bankers League,broyles,P1652110,Broyles,,,Security,19150410,19150508,2,0,"of2,lf2"
+boxscores/1915/1915-DMN,1915,Dallas Bankers League,burlew,P4368809,Burlew,,,City Nationals,19150410,19150508,3,0,c3
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,bussye,P3418778,Bussye,,,First State,19150410,19150410,1,0,1b1
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,carlisle,P4571726,Carlisle,,,First State,19150410,19150410,1,0,3b1
+boxscores/1915/1915-DMN,1915,Dallas Bankers League,,P7731239,Compers,,,Security,19150508,19150508,1,0,c1
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,conner,P8584467,Conner,,,Security,19150410,19150410,1,0,"of1,rf1"
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,dailey,P1832407,Dailey,,,First State,19150410,19150410,1,0,2b1
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,darr,P7470625,Darr,,,City Nationals,19150417,19150417,1,0,2b1
-boxscores/1915/1915-DMN,1915,Dallas Bankers League,ferguson,P5452321,Ferguson,,,City Nationals,19150410,19150417,2,2,p2
-boxscores/1915/1915-DMN,1915,Dallas Bankers League,graves,P1221750,Graves,,,Security,19150410,19150417,2,0,3b2
+boxscores/1915/1915-DMN,1915,Dallas Bankers League,ferguson,P5452321,Ferguson,,,City Nationals,19150410,19150508,3,3,p3
+boxscores/1915/1915-DMN,1915,Dallas Bankers League,graves,P1221750,Graves,,,Security,19150410,19150508,3,0,3b3
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,hight,P9043981,Hight,,,American Exchange,19150410,19150410,1,0,"of1,rf1"
-boxscores/1915/1915-DMN,1915,Dallas Bankers League,ikard,P1643193,Ikard,,,Security,19150410,19150417,2,2,p2
-boxscores/1915/1915-DMN,1915,Dallas Bankers League,jack,P6975345,Jack,,,City Nationals,19150410,19150417,2,0,"2b1,ss1"
+boxscores/1915/1915-DMN,1915,Dallas Bankers League,ikard,P1643193,Ikard,,,Security,19150410,19150508,3,3,p3
+boxscores/1915/1915-DMN,1915,Dallas Bankers League,jack,P6975345,Jack,,,City Nationals,19150410,19150508,3,0,"2b1,ss2"
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,kettle-fs,P6536552,Kettle,,,First State,19150410,19150410,1,0,"of1,lf1"
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,kettle-ae,P7997154,Kettle,,,American Exchange,19150410,19150410,1,0,"of1,cf1"
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,lambert,P3988038,Lambert,,,First State,19150410,19150410,1,0,c1
-boxscores/1915/1915-DMN,1915,Dallas Bankers League,lewis,P4895132,Lewis,,,City Nationals,19150410,19150417,2,0,"of2,rf2"
+boxscores/1915/1915-DMN,1915,Dallas Bankers League,lewis,P4895132,Lewis,,,City Nationals,19150410,19150508,3,0,"of3,rf3"
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,mcconnell,P9501075,McConnell,,,City Nationals,19150410,19150417,2,0,"of2,lf1,rf1"
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,morgan@ump,P1574380,Morgan,,,#umpire,19150410,19150410,,,
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,oconnell,P7668334,O'Con'll,,,American Exchange,19150410,19150410,1,0,3b1
-boxscores/1915/1915-DMN,1915,Dallas Bankers League,oldham,P2820333,Oldham,,,City Nationals,19150410,19150417,2,0,"1b1,ss1"
+boxscores/1915/1915-DMN,1915,Dallas Bankers League,oldham,P2820333,Oldham,,,City Nationals,19150410,19150508,3,0,"1b2,ss1"
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,parr,P2297389,Parr,,,City Nationals,19150410,19150410,1,0,2b1
-boxscores/1915/1915-DMN,1915,Dallas Bankers League,payne,P8188597,Payne,,,City Nationals,19150410,19150417,2,0,3b2
-boxscores/1915/1915-DMN,1915,Dallas Bankers League,pollard,P4545453,Pollard,,,First State,19150410,19150410,1,1,p1
+boxscores/1915/1915-DMN,1915,Dallas Bankers League,payne,P8188597,Payne,,,City Nationals,19150410,19150508,3,0,3b3
+boxscores/1915/1915-DMN,1915,Dallas Bankers League,pollard,P4545453,Pollard,,,First State,19150410,19150508,2,2,p2
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,pondrom@ump,P7391015,Pondrom,,,#umpire,19150410,19150417,,,
-boxscores/1915/1915-DMN,1915,Dallas Bankers League,roberts,P9923449,Roberts,,,City Nationals,19150410,19150417,2,0,"of2,lf2"
-boxscores/1915/1915-DMN,1915,Dallas Bankers League,rogers,P4058752,Rogers,,,Security,19150410,19150417,2,0,"of2,cf2"
+boxscores/1915/1915-DMN,1915,Dallas Bankers League,,P3802733,Pondrum,,,#umpire,19150508,19150508,,,
+boxscores/1915/1915-DMN,1915,Dallas Bankers League,roberts,P9923449,Roberts,,,City Nationals,19150410,19150508,3,0,"of3,lf3"
+boxscores/1915/1915-DMN,1915,Dallas Bankers League,rogers,P4058752,Rogers,,,Security,19150410,19150508,3,0,"1b1,of2,cf2"
+boxscores/1915/1915-DMN,1915,Dallas Bankers League,,P5835920,Rugee,,,City Nationals,19150508,19150508,1,0,2b1
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,rugel,P1374487,Rugel,,,City Nationals,19150410,19150410,1,0,1b1
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,simms,P3906594,Simms,,,American Exchange,19150410,19150410,1,1,p1
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,thomas,P9733925,Thomas,,,American Exchange,19150410,19150410,1,0,ss1
-boxscores/1915/1915-DMN,1915,Dallas Bankers League,thompson-sec,P3186310,Thompson,,,Security,19150417,19150417,1,0,c1
+boxscores/1915/1915-DMN,1915,Dallas Bankers League,thompson-sec,P3186310,Thompson,,,Security,19150417,19150508,2,0,"c1,of1,cf1"
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,thompson-ae,P6158063,Thompson [AE],,,American Exchange,19150410,19150410,1,0,2b1
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,thompson-sec,P1462841,Thompson [SEC],,,Security,19150410,19150410,1,0,c1
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,vanwinker,P6724349,Van Winkle,,,Security,19150417,19150417,1,0,1b1
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,vanwinker,P0741443,Vanwinker,,,Security,19150410,19150410,1,0,1b1
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,waggoner,P9641849,Waggoner,,,First State,19150410,19150410,1,0,"of1,rf1"
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,ward,P4993884,Ward,,,Security,19150410,19150410,1,0,2b1
-boxscores/1915/1915-DMN,1915,Dallas Bankers League,wisdom,P9333313,Wisdom,,,Security,19150410,19150417,2,0,"c1,of1,rf1"
+boxscores/1915/1915-DMN,1915,Dallas Bankers League,,P6775758,Webb,,,Security,19150508,19150508,1,0,ss1
+boxscores/1915/1915-DMN,1915,Dallas Bankers League,wisdom,P9333313,Wisdom,,,Security,19150410,19150508,3,0,"c1,2b1,of1,rf1"
 boxscores/1915/1915-DMN,1915,Dallas Bankers League,wright,P3553556,Wright,,,First State,19150410,19150410,1,0,"of1,cf1"

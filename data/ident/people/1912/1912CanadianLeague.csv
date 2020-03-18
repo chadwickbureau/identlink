@@ -2,12 +2,12 @@ source,league.year,league.name,ident,person.ref,person.name.last,person.name.giv
 minoraverages/1913Reach,1912,Canadian League,anderson,B01509,Anderson,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,applegate,B01029,Applegate,,0,Guelph,,,6,,
 minoraverages/1913Reach,1912,Canadian League,applegate,F20023,Applegate,,0,all,,,,,p6
-minoraverages/1913Reach,1912,Canadian League,applegate,P10043,Applegate,,0,Guelph,,,,6,
-minoraverages/emilbb,1912,Canadian League,applegate,M91268,Applegate,Fred,,Guelph,,,,,
-minoraverages/1913Reach,1912,Canadian League,baker,P10407,Baker,,0,Brantford,,,,12,
-minoraverages/1913Reach,1912,Canadian League,ballinger,P10231,Ballinger,,0,Berlin,,,,12,
+minoraverages/1913Reach,1912,Canadian League,applegate,P10043,Applegate,,0,Guelph,,,,6,p
+minoraverages/emilbb,1912,Canadian League,,M91371,Applegate,Fred,,Guelph,,,,,
+minoraverages/1913Reach,1912,Canadian League,baker,P10407,Baker,,0,Brantford,,,,12,p
+minoraverages/1913Reach,1912,Canadian League,ballinger,P10231,Ballinger,,0,Berlin,,,,12,p
 minoraverages/1913Reach,1912,Canadian League,bardy,F20369,Bardy,,0,all,,,,,1b80
-minoraverages/emilbb,1912,Canadian League,barrett,M91221,Barrett,Albert,,London,,,,,
+minoraverages/emilbb,1912,Canadian League,,M91339,Barrett,Albert,,London,,,,,
 minoraverages/1913Reach,1912,Canadian League,barthold,B00182,Barthold,,0,Peterborough,,,69,,
 minoraverages/1913Reach,1912,Canadian League,barthold,B01337,Barthold,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,barthold,F20350,Barthold,,0,all,,,,,1b69
@@ -15,29 +15,30 @@ minoraverages/1913Reach,1912,Canadian League,bartlett,B01428,Bartlett,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,bayer,B01321,Bayer,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,beard,B00783,Beard,,0,Peterborough,,,89,,
 minoraverages/1913Reach,1912,Canadian League,beard,F20560,Beard,,0,all,,,,,of89
-minoraverages/1913Reach,1912,Canadian League,beard,P10192,Beard,,0,Peterborough,,,,10,
-minoraverages/1913Reach,1912,Canadian League,beattie,P10228,Beattie,,0,Brantford,,,,16,
+minoraverages/1913Reach,1912,Canadian League,beard,P10192,Beard,,0,Peterborough,,,,10,p
+minoraverages/1913Reach,1912,Canadian League,beattie,P10228,Beattie,,0,Brantford,,,,16,p
 minoraverages/1913Reach,1912,Canadian League,beatty,B00667,Beatty,,0,Berlin,,,11,,
 minoraverages/1913Reach,1912,Canadian League,beatty,F20334,Beatty,,0,all,,,,,p11
 minoraverages/1913Reach,1912,Canadian League,beckford,B01595,Beckford,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,behan,B00370,Behan,,0,Peterborough,,,57,,
-minoraverages/1913Reach,1912,Canadian League,behan,F21117,Behan,,0,all,,,,,
-minoraverages/1913Reach,1912,Canadian League,behan,P10348,Behan,,0,Guelph,,,,19,
+minoraverages/1913Reach,1912,Canadian League,,F21241,Behan,,0,all,,,,,
+minoraverages/1913Reach,1912,Canadian League,behan,P10348,Behan,,0,Guelph,,,,19,p
 minoraverages/1913Reach,1912,Canadian League,bierbauer,B00196,Bierbauer,,0,London,,,93,,
 minoraverages/1913Reach,1912,Canadian League,bierbauer,F20612,Bierbauer,,0,all,,,,,of93
 minoraverages/1913Reach,1912,Canadian League,blake,B00427,Blake,,0,Ottawa,,,39,,
 minoraverages/1913Reach,1912,Canadian League,blake,F20699,Blake,,0,all,,,,,of39
 minoraverages/1913Reach,1912,Canadian League,blanchard,B01546,Blanchard,,0,,,,,,
-minoraverages/1913Reach,1912,Canadian League,boardman,P10304,Boardman,,0,Guelph,,,,10,
-minoraverages/emilbb,1912,Canadian League,bowerman,M91213,Bowerman,Frank,,London,,,,,
+minoraverages/1913Reach,1912,Canadian League,boardman,P10304,Boardman,,0,Guelph,,,,10,p
+minoraverages/emilbb,1912,Canadian League,,M91326,Bowerman,Frank,,London,,,,,
 minoraverages/1913Reach,1912,Canadian League,boyle,B00623,Boyle,,0,London,,,47,,
+minoraverages/1913Reach,1912,Canadian League,,F21101,Boyle,,0,all,,,,,c47
 minoraverages/1913Reach,1912,Canadian League,bradshaw,B01181,Bradshaw,,0,Berlin,,,16,,
 minoraverages/1913Reach,1912,Canadian League,bradshaw,F20095,Bradshaw,,0,all,,,,,p16
-minoraverages/1913Reach,1912,Canadian League,bradshaw,P10244,Bradshaw,,0,Berlin,,,,16,
+minoraverages/1913Reach,1912,Canadian League,bradshaw,P10244,Bradshaw,,0,Berlin,,,,16,p
 minoraverages/1913Reach,1912,Canadian League,brady,B00434,Brady,,0,Guelph,,,80,,
 minoraverages/1913Reach,1912,Canadian League,bramble,B00961,Bramble,,0,Berlin,,,41,,
 minoraverages/1913Reach,1912,Canadian League,bramble,F20189,Bramble,,0,all,,,,,p41
-minoraverages/1913Reach,1912,Canadian League,bramble,P10081,Bramble,,0,Berlin,,,,24,
+minoraverages/1913Reach,1912,Canadian League,bramble,P10081,Bramble,,0,Berlin,,,,24,p
 minoraverages/1913Reach,1912,Canadian League,brant,B00566,Brant,,0,Peterborough,,,81,,
 minoraverages/1913Reach,1912,Canadian League,brant,F20768,Brant,,0,all,,,,,ss81
 minoraverages/1913Reach,1912,Canadian League,byrnes,F20841,Brynes,,0,all,,,,,3b76
@@ -59,6 +60,7 @@ minoraverages/1913Reach,1912,Canadian League,cameron,F20737,Cameron,,0,all,,,,,s
 minoraverages/1913Reach,1912,Canadian League,campbell,B01384,Campbell,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,campeau,B01368,Campeau,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,carrigan,B00794,Carrigan,,0,Brantford,,,13,,
+minoraverages/1913Reach,1912,Canadian League,,F21130,Carrigan,,0,all,,,,,c13
 minoraverages/1913Reach,1912,Canadian League,champen,B01041,Champen,,0,Ottawa,,,15,,
 minoraverages/1913Reach,1912,Canadian League,champen,F20458,Champene,,0,all,,,,,1b15
 minoraverages/1913Reach,1912,Canadian League,chaput,B01197,Chaput,,0,London,,,3,,
@@ -68,19 +70,19 @@ minoraverages/1913Reach,1912,Canadian League,clark,B00319,Clark,,0,Brantford,,,4
 minoraverages/1913Reach,1912,Canadian League,clark,F20594,Clark,,0,all,,,,,of45
 minoraverages/1913Reach,1912,Canadian League,clement,B01135,Clement,,0,St. Thomas,,,38,,
 minoraverages/1913Reach,1912,Canadian League,clement,F20222,Clement,,0,all,,,,,p39
-minoraverages/1913Reach,1912,Canadian League,clement,P10357,Clements,,0,St. Thomas,,,,30,
+minoraverages/1913Reach,1912,Canadian League,clement,P10357,Clements,,0,St. Thomas,,,,30,p
 minoraverages/1913Reach,1912,Canadian League,cocash,B00475,Cocash,,0,London,,,78,,
 minoraverages/1913Reach,1912,Canadian League,cocash,F20547,Cocash,,0,all,,,,,of78
 minoraverages/1913Reach,1912,Canadian League,collins,B01242,Collins,,0,Brantford,,,4,,
 minoraverages/1913Reach,1912,Canadian League,collins,F20265,Collins,,0,all,,,,,p4
-minoraverages/1913Reach,1912,Canadian League,collins,P10019,Collins,,0,Brantford,,,,4,
-minoraverages/1913Reach,1912,Canadian League,connolly,P10361,Connolly,,0,Brantford,,,,13,
+minoraverages/1913Reach,1912,Canadian League,collins,P10019,Collins,,0,Brantford,,,,4,p
+minoraverages/1913Reach,1912,Canadian League,connolly,P10361,Connolly,,0,Brantford,,,,13,p
 minoraverages/1913Reach,1912,Canadian League,cook,B00589,Cook,,0,Ottawa,,,69,,
 minoraverages/1913Reach,1912,Canadian League,cook,F20919,Cook,,0,all,,,,,2b69
-minoraverages/emilbb,1912,Canadian League,cook,M91185,Cook,Louis,,Ottawa,,,,,
+minoraverages/emilbb,1912,Canadian League,,M91292,Cook,Louis,,Ottawa,,,,,
 minoraverages/1913Reach,1912,Canadian League,coose,B00264,Coose,,0,Brantford,,,51,,
-minoraverages/1913Reach,1912,Canadian League,coose,F21084,Coose,,0,all,,,,,
-minoraverages/1913Reach,1912,Canadian League,coose,P10168,Coose,,0,Brantford,,,,32,
+minoraverages/1913Reach,1912,Canadian League,,F21210,Coose,,0,all,,,,,
+minoraverages/1913Reach,1912,Canadian League,coose,P10168,Coose,,0,Brantford,,,,32,p
 minoraverages/1913Reach,1912,Canadian League,corns,B00130,Corns,,0,Hamilton,,,84,,
 minoraverages/1913Reach,1912,Canadian League,corns,F20496,Corns,,0,all,,,,,of84
 minoraverages/1913Reach,1912,Canadian League,courtney,B00092,Courtney,,0,Brantford,,,71,,
@@ -89,36 +91,38 @@ minoraverages/1913Reach,1912,Canadian League,craven,B00335,Craven,,0,Brantford,,
 minoraverages/1913Reach,1912,Canadian League,craven,F20908,Craven,,0,all,,,,,2b10
 minoraverages/1913Reach,1912,Canadian League,creswel,B01444,Creswell,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,cristall,B00646,Cristall,,0,Hamilton,,,46,,
-minoraverages/1913Reach,1912,Canadian League,cristall,F21092,Cristall,,0,all,,,,,
-minoraverages/1913Reach,1912,Canadian League,cristall,P10320,Cristall,,0,Hamilton,,,,7,
+minoraverages/1913Reach,1912,Canadian League,,F21229,Cristall,,0,all,,,,,
+minoraverages/1913Reach,1912,Canadian League,cristall,P10320,Cristall,,0,Hamilton,,,,7,p
 minoraverages/1913Reach,1912,Canadian League,daniels,B00879,Daniels,,0,Guelph,,,50,,
+minoraverages/1913Reach,1912,Canadian League,,F21125,Daniels,,0,all,,,,,c49
 minoraverages/1913Reach,1912,Canadian League,deneau,B00488,Deneau,,0,Berlin,,,63,,
-minoraverages/1913Reach,1912,Canadian League,deneau,F21076,Deneau,,0,all,,,,,
-minoraverages/1913Reach,1912,Canadian League,deneau,P10455,Deneau,,0,Berlin,,,,9,
-minoraverages/emilbb,1912,Canadian League,deneau,M91245,Deneau,George,,Berlin,,,,,
+minoraverages/1913Reach,1912,Canadian League,,F21207,Deneau,,0,all,,,,,
+minoraverages/1913Reach,1912,Canadian League,deneau,P10455,Deneau,,0,Berlin,,,,9,p
+minoraverages/emilbb,1912,Canadian League,,M91352,Deneau,George,,Berlin,,,,,
 minoraverages/1913Reach,1912,Canadian League,derr,B01124,Derr,,0,Peterborough,,,18,,
 minoraverages/1913Reach,1912,Canadian League,derr,F20316,Derr,,0,all,,,,,p17
-minoraverages/1913Reach,1912,Canadian League,derr,P10441,Derr,,0,Peterborough,,,,18,
+minoraverages/1913Reach,1912,Canadian League,derr,P10441,Derr,,0,Peterborough,,,,18,p
 minoraverages/1913Reach,1912,Canadian League,dinsmore,B00726,Dinsmore,,0,Berlin,,,58,,
 minoraverages/1913Reach,1912,Canadian League,dinsmore,F20482,Dinsmore,,0,all,,,,,of58
 minoraverages/1913Reach,1912,Canadian League,dolan,B00101,Dolan,,0,Ottawa,,,89,,
 minoraverages/1913Reach,1912,Canadian League,dolan,F20375,Dolan,,0,all,,,,,1b89
 minoraverages/1913Reach,1912,Canadian League,donovan,B01007,Donovan,,0,Brantford,,,34,,
 minoraverages/1913Reach,1912,Canadian League,donovan,F20080,Donovan,,0,all,,,,,p34
-minoraverages/1913Reach,1912,Canadian League,donovan,P10062,Donovan,,0,Brantford,,,,30,
+minoraverages/1913Reach,1912,Canadian League,donovan,P10062,Donovan,,0,Brantford,,,,30,p
 minoraverages/1913Reach,1912,Canadian League,draper,B00577,Draper,,0,Ottawa,,,36,,
 minoraverages/1913Reach,1912,Canadian League,draper,F20206,Draper,,0,all,,,,,p36
-minoraverages/1913Reach,1912,Canadian League,draper,P10399,Draper,,0,Ottawa,,,,17,
+minoraverages/1913Reach,1912,Canadian League,draper,P10399,Draper,,0,Ottawa,,,,17,p
 minoraverages/1913Reach,1912,Canadian League,dunn,B00084,Dunn,,0,Guelph,,,73,,
-minoraverages/1913Reach,1912,Canadian League,dunn,F21068,Dunn,,0,all,,,,,
+minoraverages/1913Reach,1912,Canadian League,,F21196,Dunn,,0,all,,,,,
 minoraverages/1913Reach,1912,Canadian League,elcock,B00887,Elcock,,0,Brantford,,,62,,
 minoraverages/1913Reach,1912,Canadian League,elcock,F20943,Elcock,,0,all,,,,,2b62
 minoraverages/1913Reach,1912,Canadian League,erb,B01376,Erb,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,farquahar,B01580,Farquahar,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,fisher,B00286,Fisher,,0,Ottawa,,,80,,
+minoraverages/1913Reach,1912,Canadian League,,F21037,Fisher,,0,all,,,,,c80
 minoraverages/1913Reach,1912,Canadian League,fitzpatrick,B00760,Fitzpatrick,,0,London,,,17,,
 minoraverages/1913Reach,1912,Canadian League,fitzpatrick,F20166,Fitzpatrick,,0,all,,,,,p17
-minoraverages/1913Reach,1912,Canadian League,fitzpatrick,P10432,Fitzpatrick,,0,London,,,,19,
+minoraverages/1913Reach,1912,Canadian League,fitzpatrick,P10432,Fitzpatrick,,0,London,,,,19,p
 minoraverages/1913Reach,1912,Canadian League,forgue,B01010,Forgue,,0,St. Thomas,,,42,,
 minoraverages/1913Reach,1912,Canadian League,forgue,F20784,Forgue,,0,all,,,,,ss41
 minoraverages/1913Reach,1912,Canadian League,fox,B00672,Fox,,0,London,,,62,,
@@ -127,22 +131,23 @@ minoraverages/1913Reach,1912,Canadian League,fryer,B00021,Fryer,,0,Guelph,,,80,,
 minoraverages/1913Reach,1912,Canadian League,fryer,F20636,Fryer,,0,all,,,,,of80
 minoraverages/1913Reach,1912,Canadian League,furrsedon,B01162,Furrsedon,,0,London,,,15,,
 minoraverages/1913Reach,1912,Canadian League,furrsedon,F20190,Furrsedon,,0,all,,,,,p15
-minoraverages/1913Reach,1912,Canadian League,furrsedon,P10410,Furrsedon,,0,London,,,,18,
+minoraverages/1913Reach,1912,Canadian League,furrsedon,P10410,Furrsedon,,0,London,,,,18,p
 minoraverages/1913Reach,1912,Canadian League,garlow,B00149,Garlow,,0,Hamilton,,,26,,
 minoraverages/1913Reach,1912,Canadian League,garlow,F20254,Garlow,,0,all,,,,,p26
-minoraverages/1913Reach,1912,Canadian League,garlow,P10145,Garlow,,0,Hamilton,,,,23,
+minoraverages/1913Reach,1912,Canadian League,garlow,P10145,Garlow,,0,Hamilton,,,,23,p
 minoraverages/1913Reach,1912,Canadian League,gibson,B01402,Gibson,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,gilhooley,B00747,Gilhooley,,0,London,,,48,,
 minoraverages/1913Reach,1912,Canadian League,gilhooley,F20776,Gilhooley,,0,all,,,,,ss48
 minoraverages/1913Reach,1912,Canadian League,graney,B01086,Graney,,0,St. Thomas,,,34,,
 minoraverages/1913Reach,1912,Canadian League,graney,F20657,Graney,,0,all,,,,,
 minoraverages/1913Reach,1912,Canadian League,greenhagh,B01156,Greenhagh,,0,London,,,7,,
+minoraverages/1913Reach,1912,Canadian League,,F21068,Grenhagh,,0,all,,,,,c7
 minoraverages/1913Reach,1912,Canadian League,gurney,B00752,Gurney,,0,St. Thomas,,,80,,
 minoraverages/1913Reach,1912,Canadian League,gurney,F20430,Gurney,,0,all,,,,,1b80
 minoraverages/1913Reach,1912,Canadian League,hadley,B01392,Hadley,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,hanson,B01234,Hanson,,0,Peterborough,,,5,,
 minoraverages/1913Reach,1912,Canadian League,hanson,F20038,Hanson,,0,all,,,,,p5
-minoraverages/1913Reach,1912,Canadian League,hanson,P10202,Hanson,,0,Peterborough,,,,8,
+minoraverages/1913Reach,1912,Canadian League,hanson,P10202,Hanson,,0,Peterborough,,,,8,p
 minoraverages/1913Reach,1912,Canadian League,hartman,B00381,Hartman,,0,Peterborough,,,19,,
 minoraverages/1913Reach,1912,Canadian League,hartman,F20878,Hartman,,0,all,,,,,3b19
 minoraverages/1913Reach,1912,Canadian League,hartwell,B00045,Hartwell,,0,Berlin,,,20,,
@@ -150,17 +155,18 @@ minoraverages/1913Reach,1912,Canadian League,hartwell,F20700,Hartwell,,0,all,,,,
 minoraverages/1913Reach,1912,Canadian League,henderson,B01275,Henderson,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,herbert,B00999,Herbert,,0,Ottawa,,,32,,
 minoraverages/1913Reach,1912,Canadian League,herbert,F20144,Herbert,,0,all,,,,,p32
-minoraverages/1913Reach,1912,Canadian League,herbert,P10113,Herbert,,0,Ottawa,,,,30,
+minoraverages/1913Reach,1912,Canadian League,herbert,P10113,Herbert,,0,Ottawa,,,,30,p
 minoraverages/1913Reach,1912,Canadian League,hessberger,B00898,Hessberger,,0,Berlin,,,89,,
 minoraverages/1913Reach,1912,Canadian League,hessberger,F20417,Hessberger,,0,all,,,,,1b89
 minoraverages/1913Reach,1912,Canadian League,higgins,B01359,Higgins,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,hopper,B00822,Hopper,,0,Ottawa,,,70,,
+minoraverages/1913Reach,1912,Canadian League,,F21092,Hopper,,0,all,,,,,c70
 minoraverages/1913Reach,1912,Canadian League,howick,B00854,Howick,,0,St. Thomas,,,26,,
 minoraverages/1913Reach,1912,Canadian League,howick,F20279,Howick,,0,all,,,,,p25
-minoraverages/1913Reach,1912,Canadian League,howick,P10215,Howick,,0,St. Thomas,,,,21,
+minoraverages/1913Reach,1912,Canadian League,howick,P10215,Howick,,0,St. Thomas,,,,21,p
 minoraverages/1913Reach,1912,Canadian League,hynes,B01203,Hynes,,0,London,,,28,,
 minoraverages/1913Reach,1912,Canadian League,hynes,F20115,Hynes,,0,all,,,,,p52
-minoraverages/1913Reach,1912,Canadian League,hynes,P10056,Hynes,,0,London,,,,28,
+minoraverages/1913Reach,1912,Canadian League,hynes,P10056,Hynes,,0,London,,,,28,p
 minoraverages/1913Reach,1912,Canadian League,isaacs,B00059,Isaacs,,0,Guelph,,,78,,
 minoraverages/1913Reach,1912,Canadian League,isaacs,F20829,Isaacs,,0,all,,,,,3b78
 minoraverages/1913Reach,1912,Canadian League,ivers,B00125,Ivers,,0,Brantford,,,94,,
@@ -168,13 +174,14 @@ minoraverages/1913Reach,1912,Canadian League,ivers,F20401,Ivers,,0,all,,,,,1b94
 minoraverages/1913Reach,1912,Canadian League,jache,B01523,Jache,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,jacobsen,B00362,Jacobsen,,0,Guelph,,,34,,
 minoraverages/1913Reach,1912,Canadian League,jacobsen,F20303,Jacobson,,0,all,,,,,p34
-minoraverages/1913Reach,1912,Canadian League,jacobsen,P10121,Jacobson,,0,St. Thomas,,,,31,
+minoraverages/1913Reach,1912,Canadian League,jacobsen,P10121,Jacobson,,0,St. Thomas,,,,31,p
 minoraverages/1913Reach,1912,Canadian League,kane,B00229,Kane,,0,Brantford,,,74,,
 minoraverages/1913Reach,1912,Canadian League,kane,F20463,Kane,,0,all,,,,,of74
-minoraverages/emilbb,1912,Canadian League,kane,M91199,Kane,Ambrose,,Brantford,,,,,
+minoraverages/emilbb,1912,Canadian League,,M91305,Kane,Ambrose,,Brantford,,,,,
 minoraverages/1913Reach,1912,Canadian League,keenan,B00232,Keenan,,0,Hamilton,,,94,,
 minoraverages/1913Reach,1912,Canadian League,keenan,F20855,Keenan,,0,all,,,,,3b94
 minoraverages/1913Reach,1912,Canadian League,keifel,B00515,Keifel,,0,St. Thomas,,,89,,
+minoraverages/1913Reach,1912,Canadian League,,F21059,Keifel,,0,all,,,,,c89
 minoraverages/1913Reach,1912,Canadian League,kelleher,B01170,Kelleher,,0,London,,,17,,
 minoraverages/1913Reach,1912,Canadian League,kelleher,F20425,Kelleher,,0,all,,,,,1b17
 minoraverages/1913Reach,1912,Canadian League,killian,B01538,Killian,,0,,,,,,
@@ -183,52 +190,55 @@ minoraverages/1913Reach,1912,Canadian League,killilea,F20981,Killilea,,0,all,,,,
 minoraverages/1913Reach,1912,Canadian League,king-st,B00469,King,,0,St. Thomas,,,33,,
 minoraverages/1913Reach,1912,Canadian League,king-unk,B01514,King,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,king-st,F20956,King,,0,all,,,,,2b33
-minoraverages/1913Reach,1912,Canadian League,kogar,P10429,Kogan,,0,Guelph,,,,8,
+minoraverages/1913Reach,1912,Canadian League,kogar,P10429,Kogan,,0,Guelph,,,,8,p
 minoraverages/1913Reach,1912,Canadian League,kogar,B01216,Kogar,,0,Guelph,,,13,,
 minoraverages/1913Reach,1912,Canadian League,kogar,F20131,Kogar,,0,all,,,,,p11
 minoraverages/1913Reach,1912,Canadian League,kopp,B00609,Kopp,,0,St. Thomas,,,84,,
 minoraverages/1913Reach,1912,Canadian League,kopp,F20583,Kopp,,0,all,,,,,of50
 minoraverages/1913Reach,1912,Canadian League,kubat,B00590,Kubat,,0,Ottawa,,,24,,
 minoraverages/1913Reach,1912,Canadian League,kubat,F20014,Kubat,,0,all,,,,,p24
-minoraverages/1913Reach,1912,Canadian League,kubat,P10137,Kubat,,0,Ottawa,,,,21,
+minoraverages/1913Reach,1912,Canadian League,kubat,P10137,Kubat,,0,Ottawa,,,,21,p
 minoraverages/1913Reach,1912,Canadian League,lamond,B00912,Lamond,,0,Brantford,,,76,,
+minoraverages/1913Reach,1912,Canadian League,,F21021,Lamond,,0,all,,,,,c76
 minoraverages/1913Reach,1912,Canadian League,lane,B00833,Lane,,0,Hamilton,,,59,,
 minoraverages/1913Reach,1912,Canadian League,lane,F20449,Lane,,0,all,,,,,1b59
-minoraverages/emilbb,1912,Canadian League,lee,M91200,Lee,"George ""Knotty""",,Hamilton,,,,,
+minoraverages/emilbb,1912,Canadian League,,M91318,Lee,"George ""Knotty""",,Hamilton,,,,,
 minoraverages/1913Reach,1912,Canadian League,leonardson,B01490,Leonardson,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,linderburn,F20970,Lindeburn,,0,all,,,,,2b92
 minoraverages/1913Reach,1912,Canadian League,linderburn,B00638,Linderburn,,0,London,,,92,,
 minoraverages/1913Reach,1912,Canadian League,louden,B00614,Louden,,0,Ottawa,,,68,,
 minoraverages/1913Reach,1912,Canadian League,louden,F20997,Louden,,0,all,,,,,2b68
-minoraverages/1913Reach,1912,Canadian League,macdonald,P10373,MacDonald,,0,London,,,,85,
+minoraverages/1913Reach,1912,Canadian League,macdonald,P10373,MacDonald,,0,London,,,,85,p
 minoraverages/1913Reach,1912,Canadian League,mason,B01431,Mason,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,matteson,B00695,Matteson,,0,Berlin,,,38,,
+minoraverages/1913Reach,1912,Canadian League,,F21076,Matteson,,0,all,,,,,c38
 minoraverages/1913Reach,1912,Canadian League,mcginnity,B01300,McGinnity,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,mcmanus,B01119,McManus,,0,Ottawa,,,18,,
 minoraverages/1913Reach,1912,Canadian League,mcmanus,F20067,McManus,,0,all,,,,,p18
-minoraverages/1913Reach,1912,Canadian League,mcmanus,P10024,McManus,,0,Ottawa,,,,20,
+minoraverages/1913Reach,1912,Canadian League,mcmanus,P10024,McManus,,0,Ottawa,,,,20,p
 minoraverages/1913Reach,1912,Canadian League,miller-ber+bra,B00207,Miller,,1,Berlin,,,,,
 minoraverages/1913Reach,1912,Canadian League,miller-ber+bra,B00207,Miller,,2,Brantford,,,,,
 minoraverages/1913Reach,1912,Canadian League,miller-ber+bra,B00207,Miller,,T,,,,47,,
 minoraverages/1913Reach,1912,Canadian League,miller-unk,B01415,Miller,,0,,,,,,
-minoraverages/1913Reach,1912,Canadian League,miller-ber+bra,F21125,Miller,,0,all,,,,,
+minoraverages/1913Reach,1912,Canadian League,,F21255,Miller,,0,all,,,,,
 minoraverages/1913Reach,1912,Canadian League,minnes,B00324,Minnes,,0,Berlin,,,21,,
-minoraverages/1913Reach,1912,Canadian League,mollineaux,P10184,Mollineaux,,0,St. Thomas,,,,19,
+minoraverages/1913Reach,1912,Canadian League,,F21045,Minnes,,0,all,,,,,c21
+minoraverages/1913Reach,1912,Canadian League,mollineaux,P10184,Mollineaux,,0,St. Thomas,,,,19,p
 minoraverages/1913Reach,1912,Canadian League,mooney,B00528,Mooney,,0,Peterborough,,,7,,
 minoraverages/1913Reach,1912,Canadian League,morrissey,B01291,Morrissey,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,murphy,B00680,Murphy,,0,Hamilton,,,86,,
-minoraverages/1913Reach,1912,Canadian League,murphy,F21045,Murphy,,0,all,,,,,
+minoraverages/1913Reach,1912,Canadian League,,F21174,Murphy,,0,all,,,,,
 minoraverages/1913Reach,1912,Canadian League,nashe,B00241,Nashe,,0,Peterborough,,,42,,
 minoraverages/1913Reach,1912,Canadian League,nashe,F20886,Nasher,,0,all,,,,,3b42
 minoraverages/1913Reach,1912,Canadian League,neale,B00739,Neale,,0,London,,,79,,
 minoraverages/1913Reach,1912,Canadian League,neale,F20474,Neale,,0,all,,,,,of79
 minoraverages/1913Reach,1912,Canadian League,needham,B00491,Needham,,0,Guelph,,,91,,
 minoraverages/1913Reach,1912,Canadian League,needham,F20924,Needham,,0,all,,,,,2b91
-minoraverages/emilbb,1912,Canadian League,needham,M91259,Needham,George,,Guelph,,,,,
+minoraverages/emilbb,1912,Canadian League,,M91360,Needham,George,,Guelph,,,,,
 minoraverages/1913Reach,1912,Canadian League,nehr,B01551,Nehr,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,newashe,B00806,Newashe,,0,St. Thomas,,,21,,
 minoraverages/1913Reach,1912,Canadian League,newashe,F20388,Newashe,,0,all,,,,,1b21
-minoraverages/1913Reach,1912,Canadian League,newashe,P10070,Newashe,,0,St. Thomas,,,,4,
+minoraverages/1913Reach,1912,Canadian League,newashe,P10070,Newashe,,0,St. Thomas,,,,4,p
 minoraverages/1913Reach,1912,Canadian League,nichols,B00442,Nichols,,0,Peterborough,,,87,,
 minoraverages/1913Reach,1912,Canadian League,nichols,F21000,Nichols,,0,all,,,,,2b87
 minoraverages/1913Reach,1912,Canadian League,nickell,B00013,Nickell,,0,Berlin,,,40,,
@@ -241,56 +251,57 @@ minoraverages/1913Reach,1912,Canadian League,orcutt,F20810,Orcutt,,0,all,,,,,3b4
 minoraverages/1913Reach,1912,Canadian League,orth,B01288,Orth,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,osborne,B01227,Osborne,,0,Peterborough,,,28,,
 minoraverages/1913Reach,1912,Canadian League,osborne,F20153,Osborne,,0,all,,,,,p28
-minoraverages/1913Reach,1912,Canadian League,osborne,P10277,Osborne,,0,Peterborough,,,,29,
+minoraverages/1913Reach,1912,Canadian League,osborne,P10277,Osborne,,0,Peterborough,,,,29,p
 minoraverages/1913Reach,1912,Canadian League,powell,B00531,Powell,,0,London,,,65,,
 minoraverages/1913Reach,1912,Canadian League,powell,F20391,Powell,,0,all,,,,,1b65
 minoraverages/1913Reach,1912,Canadian League,powers,B00163,Powers,,0,St. Thomas,,,75,,
-minoraverages/1913Reach,1912,Canadian League,powers,F21059,Powers,,0,all,,,,,
+minoraverages/1913Reach,1912,Canadian League,,F21182,Powers,,0,all,,,,,
 minoraverages/1913Reach,1912,Canadian League,quinlan,B01567,Quinlan,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,reardon,B00936,Reardon,,0,Brantford,,,22,,
 minoraverages/1913Reach,1912,Canadian League,reardon,F20128,Reardon,,0,all,,,,,p22
-minoraverages/1913Reach,1912,Canadian League,reardon,P10289,Reardon,,0,Brantford,,,,12,
+minoraverages/1913Reach,1912,Canadian League,reardon,P10289,Reardon,,0,Brantford,,,,12,p
 minoraverages/1913Reach,1912,Canadian League,reidy,B00403,Reidy,,0,Berlin,,,45,,
 minoraverages/1913Reach,1912,Canadian League,reidy,F20526,Reidy,,0,all,,,,,of45
 minoraverages/1913Reach,1912,Canadian League,reitzman,B01269,Reitzman,,0,London,,,11,,
 minoraverages/1913Reach,1912,Canadian League,reitzman,F20342,Reitzman,,0,all,,,,,p11
-minoraverages/1913Reach,1912,Canadian League,reitzman,P10176,Reitzman,,0,London,,,,16,
+minoraverages/1913Reach,1912,Canadian League,reitzman,P10176,Reitzman,,0,London,,,,16,p
 minoraverages/1913Reach,1912,Canadian League,renfer,B00904,Renfer,,0,Ottawa,,,23,,
 minoraverages/1913Reach,1912,Canadian League,renfer,F20051,Renfer,,0,all,,,,,p23
-minoraverages/1913Reach,1912,Canadian League,renfer,P10035,Renfer,,0,Ottawa,,,,19,
+minoraverages/1913Reach,1912,Canadian League,renfer,P10035,Renfer,,0,Ottawa,,,,19,p
 minoraverages/1913Reach,1912,Canadian League,robertson,B00718,Robertson,,0,Ottawa,,,98,,
 minoraverages/1913Reach,1912,Canadian League,robertson,F20893,Robertson,,0,all,,,,,3b98
 minoraverages/1913Reach,1912,Canadian League,rose,B00973,Rose,,0,Hamilton,,,32,,
 minoraverages/1913Reach,1912,Canadian League,rose,F20240,Rose,,0,all,,,,,p32
-minoraverages/1913Reach,1912,Canadian League,rose,P10100,Rose,,0,Hamilton,,,,27,
+minoraverages/1913Reach,1912,Canadian League,rose,P10100,Rose,,0,Hamilton,,,,27,p
 minoraverages/1913Reach,1912,Canadian League,rowan,B00255,Rowan,,0,Peterborough,,,35,,
-minoraverages/1913Reach,1912,Canadian League,rowan,F21037,Rowan,,0,all,,,,,
-minoraverages/emilbb,1912,Canadian League,rowan,M91284,Rowan,David,,Peterborough,,,,,
+minoraverages/1913Reach,1912,Canadian League,,F21163,Rowan,,0,all,,,,,
+minoraverages/emilbb,1912,Canadian League,,M91394,Rowan,David,,Peterborough,,,,,
 minoraverages/1913Reach,1912,Canadian League,rowe,B00117,Rowe,,0,Ottawa,,,49,,
-minoraverages/1913Reach,1912,Canadian League,rowe,F21021,Rowe,,0,all,,,,,
+minoraverages/1913Reach,1912,Canadian League,,F21158,Rowe,,0,all,,,,,
 minoraverages/1913Reach,1912,Canadian League,schaefer,B01143,Schaefer,,0,Guelph,,,27,,
 minoraverages/1913Reach,1912,Canadian League,schaefer,F20072,Schaefer,,0,all,,,,,p25
-minoraverages/1913Reach,1912,Canadian League,schaefer,P10266,Schaeffer,,0,Guelph,,,,26,
-minoraverages/1913Reach,1912,Canadian League,schaefer,P10290,Schaeffer,,0,Guelph,,,,26,
+minoraverages/1913Reach,1912,Canadian League,schaefer,P10266,Schaeffer,,0,Guelph,,,,26,p
+minoraverages/1913Reach,1912,Canadian League,schaefer,P10290,Schaeffer,,0,Guelph,,,,26,p
 minoraverages/1913Reach,1912,Canadian League,schuman,B01078,Schuman,,0,Guelph,,,23,,
 minoraverages/1913Reach,1912,Canadian League,schuman,F20177,Schuman,,0,all,,,,,p23
 minoraverages/1913Reach,1912,Canadian League,schuyler,B00278,Schuyler,,0,Hamilton,,,15,,
 minoraverages/1913Reach,1912,Canadian League,schuyler,F20102,Schuyler,,0,all,,,,,p15
-minoraverages/1913Reach,1912,Canadian League,schuyler,P10385,Schuyler,,0,Hamilton,,,,18,
+minoraverages/1913Reach,1912,Canadian League,schuyler,P10385,Schuyler,,0,Hamilton,,,,18,p
 minoraverages/1913Reach,1912,Canadian League,schwind,B00502,Schwind,,0,Ottawa,,,96,,
 minoraverages/1913Reach,1912,Canadian League,schwind,F20713,Schwind,,0,all,,,,,ss96
 minoraverages/1913Reach,1912,Canadian League,shea,B00840,Shea,,0,Peterborough,,,17,,
-minoraverages/1913Reach,1912,Canadian League,shea,F21101,Shea,,0,all,,,,,
+minoraverages/1913Reach,1912,Canadian League,,F21232,Shea,,0,all,,,,,
 minoraverages/1913Reach,1912,Canadian League,silcox,B00985,Silcox,,0,London,,,26,,
 minoraverages/1913Reach,1912,Canadian League,silcox,F20211,Silcox,,0,all,,,,,p25
-minoraverages/1913Reach,1912,Canadian League,silcox,P10159,Silcox,,0,Guelph,,,,24,
+minoraverages/1913Reach,1912,Canadian League,silcox,P10159,Silcox,,0,Guelph,,,,24,p
 minoraverages/1913Reach,1912,Canadian League,smith,B01250,Smith,,0,London,,,10,,
 minoraverages/1913Reach,1912,Canadian League,smith,F20327,Smith,,0,all,,,,,p10
-minoraverages/1913Reach,1912,Canadian League,smith,P10312,Smith,,0,London,,,,8,
+minoraverages/1913Reach,1912,Canadian League,smith,P10312,Smith,,0,London,,,,8,p
 minoraverages/1913Reach,1912,Canadian League,speer,B01093,Speer,,0,London,,,54,,
+minoraverages/1913Reach,1912,Canadian League,,F21117,Speer,,0,all,,,,,c54
 minoraverages/1913Reach,1912,Canadian League,stewart,B00544,Stewart,,0,St. Thomas,,,96,,
 minoraverages/1913Reach,1912,Canadian League,stewart,F20661,Stewart,,0,all,,,,,of96
-minoraverages/emilbb,1912,Canadian League,stewart,M91237,Stewart,Carlton,,St. Thomas,,,,,
+minoraverages/emilbb,1912,Canadian League,,M91347,Stewart,Carlton,,St. Thomas,,,,,
 minoraverages/1913Reach,1912,Canadian League,swartz,B00416,Swartz,,0,Peterborough,,,83,,
 minoraverages/1913Reach,1912,Canadian League,swartz,F20552,Swartz,,0,all,,,,,of83
 minoraverages/1913Reach,1912,Canadian League,swartzmier,B00397,Swartzmier,,0,Hamilton,,,82,,
@@ -299,19 +310,20 @@ minoraverages/1913Reach,1912,Canadian League,sweeney,B00308,Sweeney,,0,Brantford
 minoraverages/1913Reach,1912,Canadian League,sweeney,F20721,Sweeney,,0,all,,,,,ss82
 minoraverages/1913Reach,1912,Canadian League,tasker,B01032,Tasker,,0,Brantford,,,21,,
 minoraverages/1913Reach,1912,Canadian League,tasker,F20233,Tasker,,0,all,,,,,p21
-minoraverages/1913Reach,1912,Canadian League,tasker,P10253,Tasker,,0,Brantford,,,,24,
+minoraverages/1913Reach,1912,Canadian League,tasker,P10253,Tasker,,0,Brantford,,,,24,p
 minoraverages/1913Reach,1912,Canadian League,teed,B01064,Teed,,0,Hamilton,,,21,,
 minoraverages/1913Reach,1912,Canadian League,teed,F20046,Teed,,0,all,,,,,p21
-minoraverages/1913Reach,1912,Canadian League,teed,P10336,Teed,,0,Hamilton,,,,23,
+minoraverages/1913Reach,1912,Canadian League,teed,P10336,Teed,,0,Hamilton,,,,23,p
 minoraverages/1913Reach,1912,Canadian League,templin,B01108,Templin,,0,Peterborough,,,25,,
 minoraverages/1913Reach,1912,Canadian League,templin,F21013,Templin,,0,all,,,,,2b25
-minoraverages/emilbb,1912,Canadian League,templin,M91276,Templin,Curtis,,Peterborough,,,,,
+minoraverages/emilbb,1912,Canadian League,,M91383,Templin,Curtis,,Peterborough,,,,,
 minoraverages/1913Reach,1912,Canadian League,thompson,B01453,Thompson,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,tracey,B01055,Tracey,,0,Peterborough,,,27,,
 minoraverages/1913Reach,1912,Canadian League,tracey,F20298,Tracey,,0,all,,,,,p25
-minoraverages/1913Reach,1912,Canadian League,tracey,P10097,Tracey,,0,Peterborough,,,,27,
+minoraverages/1913Reach,1912,Canadian League,tracey,P10097,Tracey,,0,Peterborough,,,,27,p
 minoraverages/1913Reach,1912,Canadian League,traylor,B01477,Traylor,,0,,,,,,
 minoraverages/1913Reach,1912,Canadian League,trout,B00068,Trout,,0,Peterborough,,,85,,
+minoraverages/1913Reach,1912,Canadian League,,F21084,Trout,,0,all,,,,,c85
 minoraverages/1913Reach,1912,Canadian League,tully,B00957,Tully,,0,Peterborough,,,44,,
 minoraverages/1913Reach,1912,Canadian League,tully,F20759,Tully,,0,all,,,,,ss42
 minoraverages/1913Reach,1912,Canadian League,turner,B01345,Turner,,0,,,,,,
@@ -319,6 +331,7 @@ minoraverages/1913Reach,1912,Canadian League,wagner,B00210,Wagner,,0,Brantford,,
 minoraverages/1913Reach,1912,Canadian League,wagner,F20935,Wagner,,0,all,,,,,2b22
 minoraverages/1913Reach,1912,Canadian League,welch,B00920,Welch,,0,Berlin,,,31,,
 minoraverages/1913Reach,1912,Canadian League,welch,B01489,Welch,,0,,,,,,
+minoraverages/1913Reach,1912,Canadian League,,F21149,Welch,,0,all,,,,,c31
 minoraverages/1913Reach,1912,Canadian League,white,B00356,White,,0,St. Thomas,,,66,,
 minoraverages/1913Reach,1912,Canadian League,white,F20685,White,,0,all,,,,,of66
 minoraverages/1913Reach,1912,Canadian League,wielde,B00948,Wielde,,0,St. Thomas,,,62,,

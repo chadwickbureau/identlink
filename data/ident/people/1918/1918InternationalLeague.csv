@@ -2,9 +2,9 @@ source,league.year,league.name,ident,person.ref,person.name.last,person.name.giv
 minoraverages/1919Reach,1918,International League,achiele,B01595,Achiele,,1,Toronto,,,,,
 minoraverages/1919Reach,1918,International League,achiele,B01595,Achiele,,2,Syracuse,,,,,
 minoraverages/1919Reach,1918,International League,achiele,B01595,Achiele,,T,,,,34,,
-minoraverages/1919Reach,1918,International League,achiele,P10455,Achiele,,1,Toronto,,,,,
-minoraverages/1919Reach,1918,International League,achiele,P10455,Achiele,,2,Hamilton,,,,,
-minoraverages/1919Reach,1918,International League,achiele,P10455,Achiele,,T,,,,,,
+minoraverages/1919Reach,1918,International League,achiele,P10455,Achiele,,1,Toronto,,,,,p
+minoraverages/1919Reach,1918,International League,achiele,P10455,Achiele,,2,Hamilton,,,,,p
+minoraverages/1919Reach,1918,International League,achiele,P10455,Achiele,,T,,,,,,p
 minoraverages/1919Reach,1918,International League,achiele,F21434,Aichele,,1,Toronto,,,,,of
 minoraverages/1919Reach,1918,International League,achiele,F21434,Aichele,,2,Hamilton,,,,,of
 minoraverages/1919Reach,1918,International League,achiele,F21434,Aichele,,T,,,,,,of11
@@ -22,10 +22,10 @@ minoraverages/1919Reach,1918,International League,bailey,F21335,Bailey,,0,Toront
 minoraverages/1919Reach,1918,International League,barbare,B00037,Barbare,,0,Jersey City,,,48,,
 minoraverages/1919Reach,1918,International League,barbare,F20612,Barbare,,0,Jersey City,,,,,ss40
 minoraverages/1919Reach,1918,International League,barfoot,B01740,Barfoot,,0,Newark,,,10,,
-minoraverages/1919Reach,1918,International League,barfoot,P10019,Barfoot,,0,Newark,,,,,
+minoraverages/1919Reach,1918,International League,barfoot,P10019,Barfoot,,0,Newark,,,,,p
 minoraverages/1919Reach,1918,International League,barnes,B00920,Barnes,,0,Binghamton,,,22,,
 minoraverages/1919Reach,1918,International League,barnes,F21771,Barnes,,0,Binghamton,,,,,p22
-minoraverages/1919Reach,1918,International League,barnes,P10121,Barnes,,0,Binghamton,,,,,
+minoraverages/1919Reach,1918,International League,barnes,P10121,Barnes,,0,Binghamton,,,,,p
 minoraverages/1919Reach,1918,International League,barnhardt,B00957,Barnhardt,,0,Syracuse,,,58,,
 minoraverages/1919Reach,1918,International League,barnhardt,F21427,Barnhardt,,1,Syracuse,,,,,of
 minoraverages/1919Reach,1918,International League,barnhardt,F21427,Barnhardt,,2,Hamilton,,,,,of
@@ -33,15 +33,15 @@ minoraverages/1919Reach,1918,International League,barnhardt,F21427,Barnhardt,,T,
 minoraverages/1919Reach,1918,International League,barnhardt,F21811,Barnhardt,,1,Syracuse,,,,,p
 minoraverages/1919Reach,1918,International League,barnhardt,F21811,Barnhardt,,2,Hamilton,,,,,p
 minoraverages/1919Reach,1918,International League,barnhardt,F21811,Barnhardt,,T,,,,,,p32
-minoraverages/1919Reach,1918,International League,barnhardt,P10357,Barnhardt,,0,Syracuse,,,,,
+minoraverages/1919Reach,1918,International League,barnhardt,P10357,Barnhardt,,0,Syracuse,,,,,p
 minoraverages/1919Reach,1918,International League,bates,B00343,Bates,,0,Buffalo,,,37,,
 minoraverages/1919Reach,1918,International League,bates,F21174,Bates,,0,Buffalo,,,,,of37
-minoraverages/1919Reach,1918,International League,beckervermit,P10043,Beckersmith,,0,Binghamton,,,,,
+minoraverages/1919Reach,1918,International League,beckervermit,P10043,Beckersmith,,0,Binghamton,,,,,p
 minoraverages/1919Reach,1918,International League,beckervermit,B00362,Beckervermit,,0,Binghamton,,,29,,
 minoraverages/1919Reach,1918,International League,beckervermit,F21739,Beckervermit,,0,Binghamton,,,,,p25
 minoraverages/1919Reach,1918,International League,bengough,B00973,Bengough,,0,Buffalo,,,65,,
 minoraverages/1919Reach,1918,International League,bengough,F22048,Bengough,,0,Buffalo,,,,,c62
-minoraverages/1919Reach,1918,International League,bills,P10312,Bills,,0,Binghamton,,,,,
+minoraverages/1919Reach,1918,International League,bills,P10312,Bills,,0,Binghamton,,,,,p
 minoraverages/1919Reach,1918,International League,bishop,B00590,Bishop,,0,Baltimore,,,125,,
 minoraverages/1919Reach,1918,International League,bishop,F20526,Bishop,,0,Baltimore,,,,,3b121
 minoraverages/1919Reach,1918,International League,bluhm,B00324,Bluhm,,0,Jersey City,,,53,,
@@ -61,7 +61,7 @@ minoraverages/1919Reach,1918,International League,brock,F21084,Brock,,0,Jersey C
 minoraverages/1919Reach,1918,International League,brogan,B00794,Brogan,,0,Rochester,,,65,,
 minoraverages/1919Reach,1918,International League,brogan,F21403,Brogan,,0,Rochester,,,,,of22
 minoraverages/1919Reach,1918,International League,brogan,F21887,Brogan,,0,Rochester,,,,,p40
-minoraverages/1919Reach,1918,International League,brogan,P10202,Brogan,,0,Rochester,,,,,
+minoraverages/1919Reach,1918,International League,brogan,P10202,Brogan,,0,Rochester,,,,,p
 minoraverages/1919Reach,1918,International League,brown,B00904,Brown,,1,Buffalo,,,,,
 minoraverages/1919Reach,1918,International League,brown,B00904,Brown,,2,Syracuse,,,,,
 minoraverages/1919Reach,1918,International League,brown,B00904,Brown,,T,,,,24,,
@@ -89,7 +89,7 @@ minoraverages/1919Reach,1918,International League,carroll-syr,F20776,Carroll,,T,
 minoraverages/1919Reach,1918,International League,carroll-jc,F22103,Carroll,,0,Jersey City,,,,,c53
 minoraverages/1919Reach,1918,International League,cather,B00427,Cather,,0,Newark,,,127,,
 minoraverages/1919Reach,1918,International League,cather,F21286,Cather,,0,Newark,,,,,of126
-minoraverages/1919Reach,1918,International League,champion,P10113,Champion,,0,Binghamton,,,,,
+minoraverages/1919Reach,1918,International League,champion,P10113,Champion,,0,Binghamton,,,,,p
 minoraverages/1919Reach,1918,International League,clark,B00609,Clark,,0,Baltimore,,,83,,
 minoraverages/1919Reach,1918,International League,clark,F21362,Clark,,0,Baltimore,,,,,of82
 minoraverages/1919Reach,1918,International League,cobb,B01300,Cobb,J.,0,Syracuse,,,37,,
@@ -101,10 +101,10 @@ minoraverages/1919Reach,1918,International League,cooney,F20279,Cooney,,0,Jersey
 minoraverages/1919Reach,1918,International League,cooney,F20832,Cooney,,0,Jersey City,,,,,ss11
 minoraverages/1919Reach,1918,International League,cooper,B00293,Cooper,,0,Buffalo,,,35,,
 minoraverages/1919Reach,1918,International League,cooper,F21623,Cooper,,0,Buffalo,,,,,p19
-minoraverages/1919Reach,1918,International League,cooper,P10184,Cooper,,0,Buffalo,,,,,
+minoraverages/1919Reach,1918,International League,cooper,P10184,Cooper,,0,Buffalo,,,,,p
 minoraverages/1919Reach,1918,International League,corcoran,B00865,Corcoran,,0,Buffalo,,,28,,
 minoraverages/1919Reach,1918,International League,corcoran,F20369,Corcoran,,0,Buffalo,,,,,2b27
-minoraverages/1919Reach,1918,International League,crabble,P10606,Crabble,,0,Toronto,,,,,
+minoraverages/1919Reach,1918,International League,crabble,P10606,Crabble,,0,Toronto,,,,,p
 minoraverages/1919Reach,1918,International League,crane,B00469,Crane,,0,Baltimore,,,48,,
 minoraverages/1919Reach,1918,International League,crane,F20648,Crane,,0,Baltimore,,,,,ss48
 minoraverages/1919Reach,1918,International League,damrau,B00117,Damrau (Harpin),,0,Newark,,,18,,
@@ -115,7 +115,7 @@ minoraverages/1919Reach,1918,International League,davis,F20855,Davis,,2,Hamilton
 minoraverages/1919Reach,1918,International League,davis,F20855,Davis,,T,,,,,,ss13
 minoraverages/1919Reach,1918,International League,devinney,B01567,DeVinney,,0,Buffalo,,,35,,
 minoraverages/1919Reach,1918,International League,devinney,F21672,DeVinney,,0,Buffalo,,,,,p27
-minoraverages/1919Reach,1918,International League,devinney,P10304,DeVinney,,0,Buffalo,,,,,
+minoraverages/1919Reach,1918,International League,devinney,P10304,DeVinney,,0,Buffalo,,,,,p
 minoraverages/1919Reach,1918,International League,donaldson,B00381,Donaldson,,0,Buffalo,,,36,,
 minoraverages/1919Reach,1918,International League,donaldson,F21092,Donaldson,,0,Buffalo,,,,,of35
 minoraverages/1919Reach,1918,International League,dowd,B00319,Dowd,,0,Syracuse,,,37,,
@@ -156,7 +156,7 @@ minoraverages/1919Reach,1918,International League,fleiger,B01431,Fleiger,,0,Jers
 minoraverages/1919Reach,1918,International League,fleiger,F22127,Fleiger,,0,Jersey City,,,,,c21
 minoraverages/1919Reach,1918,International League,frock,B01345,Frock,,0,Binghamton,,,24,,
 minoraverages/1919Reach,1918,International League,frock,F21752,Frock,,0,Binghamton,,,,,p23
-minoraverages/1919Reach,1918,International League,frock,P10159,Frock,,0,Binghamton,,,,,
+minoraverages/1919Reach,1918,International League,frock,P10159,Frock,,0,Binghamton,,,,,p
 minoraverages/1919Reach,1918,International League,garvey,B01630,Garvey,,0,Syracuse,,,13,,
 minoraverages/1919Reach,1918,International League,garvey,F20206,Garvey,,1,Syracuse,,,,,1b
 minoraverages/1919Reach,1918,International League,garvey,F20206,Garvey,,2,Hamilton,,,,,1b
@@ -166,7 +166,7 @@ minoraverages/1919Reach,1918,International League,gonzales,F20636,Gonzales,,0,To
 minoraverages/1919Reach,1918,International League,graham,B01601,Graham,,0,Baltimore,,,10,,
 minoraverages/1919Reach,1918,International League,grant,B01649,Grant,,0,Rochester,,,20,,
 minoraverages/1919Reach,1918,International League,grant,F21667,Grant,,0,Rochester,,,,,p19
-minoraverages/1919Reach,1918,International League,grant,P10336,Grant,,0,Rochester,,,,,
+minoraverages/1919Reach,1918,International League,grant,P10336,Grant,,0,Rochester,,,,,p
 minoraverages/1919Reach,1918,International League,greene,B01029,Greene,,1,Binghamton,,,,,
 minoraverages/1919Reach,1918,International League,greene,B01029,Greene,,2,Syracuse,,,,,
 minoraverages/1919Reach,1918,International League,greene,B01029,Greene,,T,,,,22,,
@@ -179,7 +179,7 @@ minoraverages/1919Reach,1918,International League,haddock,B01170,Haddock,,0,Bing
 minoraverages/1919Reach,1918,International League,haddock,F22061,Haddock,,0,Binghamton,,,,,c37
 minoraverages/1919Reach,1918,International League,hagen,B01580,Hagen,,0,Rochester,,,40,,
 minoraverages/1919Reach,1918,International League,hagen,F21651,Hagen,,0,Rochester,,,,,p30
-minoraverages/1919Reach,1918,International League,hagen,P10320,Hagen,,0,Rochester,,,,,
+minoraverages/1919Reach,1918,International League,hagen,P10320,Hagen,,0,Rochester,,,,,p
 minoraverages/1919Reach,1918,International League,haines,B01696,Haines,,0,Binghamton,,,13,,
 minoraverages/1919Reach,1918,International League,haines,F22116,Haines,,0,Binghamton,,,,,c10
 minoraverages/1919Reach,1918,International League,hanley,B01337,Hanley,,0,Binghamton,,,59,,
@@ -194,35 +194,35 @@ minoraverages/1919Reach,1918,International League,heck,B00961,Heck,,0,Toronto,,,
 minoraverages/1919Reach,1918,International League,heck,F21609,Heck,,1,Syracuse,,,,,p
 minoraverages/1919Reach,1918,International League,heck,F21609,Heck,,2,Toronto,,,,,p
 minoraverages/1919Reach,1918,International League,heck,F21609,Heck,,T,,,,,,p34
-minoraverages/1919Reach,1918,International League,heck,P10137,Heck,,1,Syracuse,,,,,
-minoraverages/1919Reach,1918,International League,heck,P10137,Heck,,2,Toronto,,,,,
-minoraverages/1919Reach,1918,International League,heck,P10137,Heck,,T,,,,,,
+minoraverages/1919Reach,1918,International League,heck,P10137,Heck,,1,Syracuse,,,,,p
+minoraverages/1919Reach,1918,International League,heck,P10137,Heck,,2,Toronto,,,,,p
+minoraverages/1919Reach,1918,International League,heck,P10137,Heck,,T,,,,,,p
 minoraverages/1919Reach,1918,International League,hehl,B01625,Hehl,,0,Jersey City,,,20,,
 minoraverages/1919Reach,1918,International League,hehl,F21718,Hehl,,0,Jersey City,,,,,p20
-minoraverages/1919Reach,1918,International League,hehl,P10527,Hehl,,0,Jersey City,,,,,
+minoraverages/1919Reach,1918,International League,hehl,P10527,Hehl,,0,Jersey City,,,,,p
 minoraverages/1919Reach,1918,International League,heitman,B00092,Heitman,,0,Rochester,,,47,,
 minoraverages/1919Reach,1918,International League,heitman,F20943,Heitman,,0,Rochester,,,,,of13
 minoraverages/1919Reach,1918,International League,heitman,F21705,Heitman,,0,Rochester,,,,,p28
-minoraverages/1919Reach,1918,International League,heitman,P10024,Heitman,,0,Rochester,,,,,
+minoraverages/1919Reach,1918,International League,heitman,P10024,Heitman,,0,Rochester,,,,,p
 minoraverages/1919Reach,1918,International League,helfrich,B01242,Helfrich,,1,Baltimore,,,,,
 minoraverages/1919Reach,1918,International League,helfrich,B01242,Helfrich,,2,Buffalo,,,,,
 minoraverages/1919Reach,1918,International League,helfrich,B01242,Helfrich,,T,,,,19,,
 minoraverages/1919Reach,1918,International League,helfrich,F21614,Helfrich,,1,Baltimore,,,,,p
 minoraverages/1919Reach,1918,International League,helfrich,F21614,Helfrich,,2,Buffalo,,,,,p
 minoraverages/1919Reach,1918,International League,helfrich,F21614,Helfrich,,T,,,,,,p17
-minoraverages/1919Reach,1918,International League,helfrich,P10407,Helfrich,,1,Baltimore,,,,,
-minoraverages/1919Reach,1918,International League,helfrich,P10407,Helfrich,,2,Buffalo,,,,,
-minoraverages/1919Reach,1918,International League,helfrich,P10407,Helfrich,,T,,,,,,
+minoraverages/1919Reach,1918,International League,helfrich,P10407,Helfrich,,1,Baltimore,,,,,p
+minoraverages/1919Reach,1918,International League,helfrich,P10407,Helfrich,,2,Buffalo,,,,,p
+minoraverages/1919Reach,1918,International League,helfrich,P10407,Helfrich,,T,,,,,,p
 minoraverages/1919Reach,1918,International League,herbert,B01181,Herbert,,0,Baltimore,,,24,,
 minoraverages/1919Reach,1918,International League,herbert,F21806,Herbert,,0,Baltimore,,,,,p19
-minoraverages/1919Reach,1918,International League,herbert,P10493,Herbert,,0,Baltimore,,,,,
+minoraverages/1919Reach,1918,International League,herbert,P10493,Herbert,,0,Baltimore,,,,,p
 minoraverages/1919Reach,1918,International League,hersche,B01007,Hersche,,0,Toronto,,,58,,
 minoraverages/1919Reach,1918,International League,hersche,F20935,Hersche,,0,Toronto,,,,,of18
 minoraverages/1919Reach,1918,International League,hersche,F21794,Hersche,,0,Toronto,,,,,p29
-minoraverages/1919Reach,1918,International League,hersche,P10145,Hersche,,0,Toronto,,,,,
+minoraverages/1919Reach,1918,International League,hersche,P10145,Hersche,,0,Toronto,,,,,p
 minoraverages/1919Reach,1918,International League,higgins,B00416,Higgins,,0,Binghamton,,,32,,
 minoraverages/1919Reach,1918,International League,higgins,F21566,Higgins,,0,Binghamton,,,,,p32
-minoraverages/1919Reach,1918,International League,higgins,P10168,Higgins,,0,Binghamton,,,,,
+minoraverages/1919Reach,1918,International League,higgins,P10168,Higgins,,0,Binghamton,,,,,p
 minoraverages/1919Reach,1918,International League,hogan,B01546,Hogan,,0,Rochester,,,34,,
 minoraverages/1919Reach,1918,International League,hogan,F20046,Hogan,,0,Rochester,,,,,1b22
 minoraverages/1919Reach,1918,International League,hogan,F21416,Hogan,,0,Rochester,,,,,of11
@@ -237,13 +237,13 @@ minoraverages/1919Reach,1918,International League,hopper,F22099,Hopper,,2,Hamilt
 minoraverages/1919Reach,1918,International League,hopper,F22099,Hopper,,T,,,,,,c70
 minoraverages/1919Reach,1918,International League,horsey,B01787,Horsey,,0,Jersey City,,,17,,
 minoraverages/1919Reach,1918,International League,horsey,F21528,Horsey,,0,Jersey City,,,,,p17
-minoraverages/1919Reach,1918,International League,horsey,P10410,Horsey,,0,Jersey City,,,,,
+minoraverages/1919Reach,1918,International League,horsey,P10410,Horsey,,0,Jersey City,,,,,p
 minoraverages/1919Reach,1918,International League,howley,B01538,Howley,,0,Toronto,,,50,,
 minoraverages/1919Reach,1918,International League,howley,F22036,Howley,,0,Toronto,,,,,c45
-minoraverages/1919Reach,1918,International League,hoyt,P10215,Hoyt,,0,Newark,,,,,
+minoraverages/1919Reach,1918,International League,hoyt,P10215,Hoyt,,0,Newark,,,,,p
 minoraverages/1919Reach,1918,International League,hubbell,B01711,Hubbell,,0,Newark,,,13,,
 minoraverages/1919Reach,1918,International League,hubbell,F21747,Hubbell,,0,Newark,,,,,p13
-minoraverages/1919Reach,1918,International League,hubbell,P10070,Hubbell,,0,Newark,,,,,
+minoraverages/1919Reach,1918,International League,hubbell,P10070,Hubbell,,0,Newark,,,,,p
 minoraverages/1919Reach,1918,International League,hungling,B00442,Hungling,,0,Rochester,,,47,,
 minoraverages/1919Reach,1918,International League,hungling,F20810,Hungling,,0,Rochester,,,,,ss23
 minoraverages/1919Reach,1918,International League,hurley,B01754,Hurley,,0,Jersey City,,,17,,
@@ -260,16 +260,16 @@ minoraverages/1919Reach,1918,International League,jacobs,F20841,Jacobs,,0,Newark
 minoraverages/1919Reach,1918,International League,jacobs,F21207,Jacobs,,0,Newark,,,,,of76
 minoraverages/1919Reach,1918,International League,jensen,F21783,Jense,,0,Newark,,,,,p19
 minoraverages/1919Reach,1918,International League,jensen,B01428,Jensen,,0,Newark,,,19,,
-minoraverages/1919Reach,1918,International League,jensen,P10228,Jensen,,0,Newark,,,,,
+minoraverages/1919Reach,1918,International League,jensen,P10228,Jensen,,0,Newark,,,,,p
 minoraverages/1919Reach,1918,International League,justin,B01402,Justin,,0,Toronto,,,28,,
 minoraverages/1919Reach,1918,International League,justin,F21590,Justin,,0,Toronto,,,,,p32
-minoraverages/1919Reach,1918,International League,justin,P10432,Justin,,0,Toronto,,,,,
+minoraverages/1919Reach,1918,International League,justin,P10432,Justin,,0,Toronto,,,,,p
 minoraverages/1919Reach,1918,International League,kay,B00130,Kay,,0,Binghamton,,,90,,
 minoraverages/1919Reach,1918,International League,kay,F21278,Kay,,0,Binghamton,,,,,of88
 minoraverages/1919Reach,1918,International League,kelly,B01765,Kelly,,0,Newark,,,16,,
 minoraverages/1919Reach,1918,International League,kelly,F22004,Kelly,,0,Newark,,,,,c14
 minoraverages/1919Reach,1918,International League,kneisch,F21469,Kneisch,,0,Baltimore,,,,,p14
-minoraverages/1919Reach,1918,International League,kneisch,P10373,Kneisch,,0,Baltimore,,,,,
+minoraverages/1919Reach,1918,International League,kneisch,P10373,Kneisch,,0,Baltimore,,,,,p
 minoraverages/1919Reach,1918,International League,kneisch,B01733,Knelsch,,0,Baltimore,,,14,,
 minoraverages/1919Reach,1918,International League,knisely,B00021,Knisely,,0,Binghamton,,,41,,
 minoraverages/1919Reach,1918,International League,knisely,F20886,Knisely,,0,Binghamton,,,,,of41
@@ -287,10 +287,10 @@ minoraverages/1919Reach,1918,International League,kromhaus,F20458,Kromhaus,,0,Je
 minoraverages/1919Reach,1918,International League,kromhaus,F20661,Kromhaus,,0,Jersey City,,,,,ss33
 minoraverages/1919Reach,1918,International League,labate,B00948,LaBate,,0,Jersey City,,,31,,
 minoraverages/1919Reach,1918,International League,labate,F21865,LaBate,,0,Jersey City,,,,,p13
-minoraverages/1919Reach,1918,International League,labate,P10399,LaBate,,0,Jersey City,,,,,
-minoraverages/1919Reach,1918,International League,ladestro,P10542,LaDestro,,1,Syracuse,,,,,
-minoraverages/1919Reach,1918,International League,ladestro,P10542,LaDestro,,2,Newark,,,,,
-minoraverages/1919Reach,1918,International League,ladestro,P10542,LaDestro,,T,,,,,,
+minoraverages/1919Reach,1918,International League,labate,P10399,LaBate,,0,Jersey City,,,,,p
+minoraverages/1919Reach,1918,International League,ladestro,P10542,LaDestro,,1,Syracuse,,,,,p
+minoraverages/1919Reach,1918,International League,ladestro,P10542,LaDestro,,2,Newark,,,,,p
+minoraverages/1919Reach,1918,International League,ladestro,P10542,LaDestro,,T,,,,,,p
 minoraverages/1919Reach,1918,International League,lawry,B00182,Lawry,,0,Baltimore,,,121,,
 minoraverages/1919Reach,1918,International League,lawry,F20254,Lawry,,0,Baltimore,,,,,2b111
 minoraverages/1919Reach,1918,International League,lear,B00076,Lear,,0,Toronto,,,99,,
@@ -303,30 +303,30 @@ minoraverages/1919Reach,1918,International League,lewis-tor,B01663,Lewis,S.,0,To
 minoraverages/1919Reach,1918,International League,lewis-bal,F21076,Lewis,B.,0,Baltimore,,,,,of15
 minoraverages/1919Reach,1918,International League,lewis-bal,F21515,Lewis,B.,0,Baltimore,,,,,p31
 minoraverages/1919Reach,1918,International League,lewis-tor,F21544,Lewis,S.,0,Toronto,,,,,p11
-minoraverages/1919Reach,1918,International League,lewis-tor,P10097,Lewis,S.,0,Toronto,,,,,
-minoraverages/1919Reach,1918,International League,lewis-bal,P10290,Lewis,B.,0,Baltimore,,,,,
+minoraverages/1919Reach,1918,International League,lewis-tor,P10097,Lewis,S.,0,Toronto,,,,,p
+minoraverages/1919Reach,1918,International League,lewis-bal,P10290,Lewis,B.,0,Baltimore,,,,,p
 minoraverages/1919Reach,1918,International League,lied,B00241,Lied,,0,Toronto,,,18,,
 minoraverages/1919Reach,1918,International League,lied,F21319,Lied,,0,Toronto,,,,,of18
 minoraverages/1919Reach,1918,International League,lynch-buf,B01156,Lynch,,0,Buffalo,,,19,,
 minoraverages/1919Reach,1918,International League,lynch-jc,B01674,Lynch,,0,Jersey City,,,14,,
 minoraverages/1919Reach,1918,International League,lynch-buf,F20417,Lynch,,0,Buffalo,,,,,2b12
 minoraverages/1919Reach,1918,International League,lynch-jc,F21879,Lynch,,0,Jersey City,,,,,p13
-minoraverages/1919Reach,1918,International League,lynch-jc,P10062,Lynch,,0,Jersey City,,,,,
+minoraverages/1919Reach,1918,International League,lynch-jc,P10062,Lynch,,0,Jersey City,,,,,p
 minoraverages/1919Reach,1918,International League,madden,B00264,Madden,,0,Newark,,,108,,
 minoraverages/1919Reach,1918,International League,madden,F21961,Madden,,0,Newark,,,,,c101
 minoraverages/1919Reach,1918,International League,mason,B00174,Mason,,0,Baltimore,,,24,,
 minoraverages/1919Reach,1918,International League,mason,F21589,Mason,,0,Baltimore,,,,,p24
-minoraverages/1919Reach,1918,International League,mason,P10429,Mason,,0,Baltimore,,,,,
+minoraverages/1919Reach,1918,International League,mason,P10429,Mason,,0,Baltimore,,,,,p
 minoraverages/1919Reach,1918,International League,maude,B00531,Maude,,0,Jersey City,,,14,,
 minoraverages/1919Reach,1918,International League,maude,F21638,Maude,,0,Jersey City,,,,,p14
-minoraverages/1919Reach,1918,International League,maude,P10534,Maude,,0,Jersey City,,,,,
+minoraverages/1919Reach,1918,International League,maude,P10534,Maude,,0,Jersey City,,,,,p
 minoraverages/1919Reach,1918,International League,mcalpine,B01093,McAlpine,,0,Baltimore,,,46,,
 minoraverages/1919Reach,1918,International League,mcalpine,F20737,McAlpine,,0,Baltimore,,,,,ss45
 minoraverages/1919Reach,1918,International League,mccabe-jc,B00434,McCabe,,0,Jersey City,,,17,,
 minoraverages/1919Reach,1918,International League,mccabe-buf,B01086,McCabe,,0,Buffalo,,,39,,
 minoraverages/1919Reach,1918,International League,mccabe-buf,F21370,McCabe,,0,Buffalo,,,,,of39
 minoraverages/1919Reach,1918,International League,mccabe-jc,F21491,McCabe,,0,Jersey City,,,,,p10
-minoraverages/1919Reach,1918,International League,mccabe-jc,P10441,McCabe,,0,Jersey City,,,,,
+minoraverages/1919Reach,1918,International League,mccabe-jc,P10441,McCabe,,0,Jersey City,,,,,p
 minoraverages/1919Reach,1918,International League,mccarron,B00528,McCarron,,1,Newark,,,,,
 minoraverages/1919Reach,1918,International League,mccarron,B00528,McCarron,,2,Jersey City,,,,,
 minoraverages/1919Reach,1918,International League,mccarron,B00528,McCarron,,3,Buffalo,,,,,
@@ -399,7 +399,7 @@ minoraverages/1919Reach,1918,International League,oakes,B00806,Oakes,,0,Binghamt
 minoraverages/1919Reach,1918,International League,oakes,F20981,Oakes,,0,Binghamton,,,,,of48
 minoraverages/1919Reach,1918,International League,ogden,B01523,Ogden,,0,Newark,,,17,,
 minoraverages/1919Reach,1918,International League,ogden,F21904,Ogden,,0,Newark,,,,,p13
-minoraverages/1919Reach,1918,International League,ogden,P10056,Ogden,,0,Newark,,,,,
+minoraverages/1919Reach,1918,International League,ogden,P10056,Ogden,,0,Newark,,,,,p
 minoraverages/1919Reach,1918,International League,onslow,B00158,Onslow,,0,Toronto,,,100,,
 minoraverages/1919Reach,1918,International League,onslow,F20131,Onslow,,0,Toronto,,,,,1b100
 minoraverages/1919Reach,1918,International League,orr,B01119,Orr,,0,Rochester,,,30,,
@@ -415,18 +415,18 @@ minoraverages/1919Reach,1918,International League,parker,B00577,Parker,,0,Baltim
 minoraverages/1919Reach,1918,International League,parker,F22012,Parker,,0,Baltimore,,,,,c20
 minoraverages/1919Reach,1918,International League,parnham,B00680,Parnham,,0,Baltimore,,,47,,
 minoraverages/1919Reach,1918,International League,parnham,F21646,Parnham,,0,Baltimore,,,,,p33
-minoraverages/1919Reach,1918,International League,parnham,P10231,Parnham,,0,Baltimore,,,,,
+minoraverages/1919Reach,1918,International League,parnham,P10231,Parnham,,0,Baltimore,,,,,p
 minoraverages/1919Reach,1918,International League,peterson,B01779,Peterson,,0,Toronto,,,28,,
 minoraverages/1919Reach,1918,International League,peterson,F21502,Peterson,,0,Toronto,,,,,p27
-minoraverages/1919Reach,1918,International League,peterson,P10192,Peterson,,0,Toronto,,,,,
+minoraverages/1919Reach,1918,International League,peterson,P10192,Peterson,,0,Toronto,,,,,p
 minoraverages/1919Reach,1918,International League,purtell,B00207,Purtell,,0,Toronto,,,101,,
 minoraverages/1919Reach,1918,International League,purtell,F20430,Purtell,,0,Toronto,,,,,3b98
 minoraverages/1919Reach,1918,International League,ray,F21898,Ray,,1,Syracuse,,,,,p
 minoraverages/1919Reach,1918,International League,ray,F21898,Ray,,2,Hamilton,,,,,p
 minoraverages/1919Reach,1918,International League,ray,F21898,Ray,,T,,,,,,p17
-minoraverages/1919Reach,1918,International League,ray,P10575,Ray,,1,Syracuse,,,,,
-minoraverages/1919Reach,1918,International League,ray,P10575,Ray,,2,Hamilton,,,,,
-minoraverages/1919Reach,1918,International League,ray,P10575,Ray,,T,,,,,,
+minoraverages/1919Reach,1918,International League,ray,P10575,Ray,,1,Syracuse,,,,,p
+minoraverages/1919Reach,1918,International League,ray,P10575,Ray,,2,Hamilton,,,,,p
+minoraverages/1919Reach,1918,International League,ray,P10575,Ray,,T,,,,,,p
 minoraverages/1919Reach,1918,International League,raymond-syr+roc,B00286,Raymond,,1,Syracuse,,,,,
 minoraverages/1919Reach,1918,International League,raymond-syr+roc,B00286,Raymond,,2,Rochester,,,,,
 minoraverages/1919Reach,1918,International League,raymond-syr+roc,B00286,Raymond,,T,,,,87,,
@@ -450,14 +450,14 @@ minoraverages/1919Reach,1918,International League,rommel,B01203,Rommel,,0,Newark
 minoraverages/1919Reach,1918,International League,rommel,F20388,Rommel,,0,Newark,,,,,2b20
 minoraverages/1919Reach,1918,International League,rommel,F21163,Rommel,,0,Newark,,,,,of14
 minoraverages/1919Reach,1918,International League,rommel,F21695,Rommel,,0,Newark,,,,,p28
-minoraverages/1919Reach,1918,International League,rommel,P10253,Rommel,,0,Newark,,,,,
+minoraverages/1919Reach,1918,International League,rommel,P10253,Rommel,,0,Newark,,,,,p
 minoraverages/1919Reach,1918,International League,rose,B01162,Rose,,0,Buffalo,,,32,,
 minoraverages/1919Reach,1918,International League,rose,F21833,Rose,,0,Buffalo,,,,,p29
-minoraverages/1919Reach,1918,International League,rose,P10478,Rose,,0,Buffalo,,,,,
+minoraverages/1919Reach,1918,International League,rose,P10478,Rose,,0,Buffalo,,,,,p
 minoraverages/1919Reach,1918,International League,ross,B00822,Ross,,0,Newark,,,24,,
 minoraverages/1919Reach,1918,International League,ross,F21680,Ross,,0,Newark,,,,,p17
-minoraverages/1919Reach,1918,International League,ross,P10277,Ross,,0,Newark,,,,,
-minoraverages/1919Reach,1918,International League,russell,P10244,Russell,,0,Rochester,,,,,
+minoraverages/1919Reach,1918,International League,ross,P10277,Ross,,0,Newark,,,,,p
+minoraverages/1919Reach,1918,International League,russell,P10244,Russell,,0,Rochester,,,,,p
 minoraverages/1919Reach,1918,International League,schaefer,B00833,Schaefer,,0,Newark,,,32,,
 minoraverages/1919Reach,1918,International League,schaefer,F20166,Schaefer,,0,Newark,,,,,1b21
 minoraverages/1919Reach,1918,International League,schultz,B01143,Schultz,,0,Buffalo,,,91,,
@@ -471,10 +471,10 @@ minoraverages/1919Reach,1918,International League,shea,B01444,Shea,,0,Syracuse,,
 minoraverages/1919Reach,1918,International League,shea,F21553,Shea,,1,Syracuse,,,,,p
 minoraverages/1919Reach,1918,International League,shea,F21553,Shea,,2,Hamilton,,,,,p
 minoraverages/1919Reach,1918,International League,shea,F21553,Shea,,T,,,,,,p22
-minoraverages/1919Reach,1918,International League,shea,P10464,Shea,,1,Syracuse,,,,,
-minoraverages/1919Reach,1918,International League,shea,P10464,Shea,,2,Hamilton,,,,,
-minoraverages/1919Reach,1918,International League,shea,P10464,Shea,,T,,,,,,
-minoraverages/1919Reach,1918,International League,shields,P10591,Shields,,0,Buffalo,,,,,
+minoraverages/1919Reach,1918,International League,shea,P10464,Shea,,1,Syracuse,,,,,p
+minoraverages/1919Reach,1918,International League,shea,P10464,Shea,,2,Hamilton,,,,,p
+minoraverages/1919Reach,1918,International League,shea,P10464,Shea,,T,,,,,,p
+minoraverages/1919Reach,1918,International League,shields,P10591,Shields,,0,Buffalo,,,,,p
 minoraverages/1919Reach,1918,International League,schultz,F21125,Shultz,,0,Buffalo,,,,,of90
 minoraverages/1919Reach,1918,International League,smith-roc,B00059,Smith,E.,0,Rochester,,,94,,
 minoraverages/1919Reach,1918,International League,smith-bin,B01216,Smith,,0,Binghamton,,,14,,
@@ -487,7 +487,7 @@ minoraverages/1919Reach,1918,International League,stapleton,B00854,Stapelton,,0,
 minoraverages/1919Reach,1918,International League,stapleton,F20303,Stapleton,,0,Jersey City,,,,,2b22
 minoraverages/1919Reach,1918,International League,steffen,B01275,Steffen,,0,Buffalo,,,21,,
 minoraverages/1919Reach,1918,International League,steffen,F21577,Steffen,,0,Buffalo,,,,,p21
-minoraverages/1919Reach,1918,International League,steffen,P10289,Steffen,,0,Buffalo,,,,,
+minoraverages/1919Reach,1918,International League,steffen,P10289,Steffen,,0,Buffalo,,,,,p
 minoraverages/1919Reach,1918,International League,strait,B00068,Strait,,0,Buffalo,,,68,,
 minoraverages/1919Reach,1918,International League,strait,F20153,Strait,,0,Buffalo,,,,,1b38
 minoraverages/1919Reach,1918,International League,strait,F20893,Strait,,0,Buffalo,,,,,of28
@@ -498,31 +498,31 @@ minoraverages/1919Reach,1918,International League,sullivan,F20190,Sullivan,,T,,,
 minoraverages/1919Reach,1918,International League,swigler,B00840,Swigler,,0,Newark,,,78,,
 minoraverages/1919Reach,1918,International League,swigler,F20115,Swigler,,0,Newark,,,,,1b46
 minoraverages/1919Reach,1918,International League,swigler,F20919,Swigler,,0,Newark,,,,,of21
-minoraverages/1919Reach,1918,International League,swigler,P10348,Swigler,,0,Newark,,,,,
+minoraverages/1919Reach,1918,International League,swigler,P10348,Swigler,,0,Newark,,,,,p
 minoraverages/1919Reach,1918,International League,thomas,B01572,Thomas,,0,Buffalo,,,18,,
 minoraverages/1919Reach,1918,International League,thomas,F21450,Thomas,,0,Buffalo,,,,,p17
-minoraverages/1919Reach,1918,International League,thomas,P10516,Thomas,,0,Buffalo,,,,,
+minoraverages/1919Reach,1918,International League,thomas,P10516,Thomas,,0,Buffalo,,,,,p
 minoraverages/1919Reach,1918,International League,thrasher,B01250,Thrasher,,0,Toronto,,,41,,
 minoraverages/1919Reach,1918,International League,thrasher,F21158,Thrasher,,0,Toronto,,,,,of38
-minoraverages/1919Reach,1918,International League,tuero,P10176,Tuero,,0,Binghamton,,,,,
+minoraverages/1919Reach,1918,International League,tuero,P10176,Tuero,,0,Binghamton,,,,,p
 minoraverages/1919Reach,1918,International League,turner,B01682,Turner,,0,Syracuse,,,27,,
 minoraverages/1919Reach,1918,International League,turner,F21936,Turner,,1,Syracuse,,,,,c
 minoraverages/1919Reach,1918,International League,turner,F21936,Turner,,2,Hamilton,,,,,c
 minoraverages/1919Reach,1918,International League,turner,F21936,Turner,,T,,,,,,c14
 minoraverages/1919Reach,1918,International League,vance,B00752,Vance,,0,Rochester,,,13,,
 minoraverages/1919Reach,1918,International League,vance,F21475,Vance,,0,Rochester,,,,,p11
-minoraverages/1919Reach,1918,International League,vance,P10588,Vance,,0,Rochester,,,,,
+minoraverages/1919Reach,1918,International League,vance,P10588,Vance,,0,Rochester,,,,,p
 minoraverages/1919Reach,1918,International League,verbout,B01658,Verbout,,0,Binghamton,,,18,,
 minoraverages/1919Reach,1918,International League,verbout,F21531,Verbout,,0,Binghamton,,,,,p18
-minoraverages/1919Reach,1918,International League,verbout,P10081,Verbout,,0,Binghamton,,,,,
+minoraverages/1919Reach,1918,International League,verbout,P10081,Verbout,,0,Binghamton,,,,,p
 minoraverages/1919Reach,1918,International League,ververs,B01227,Ververs,,0,Jersey City,,,22,,
 minoraverages/1919Reach,1918,International League,ververs,F21854,Ververs,,0,Jersey City,,,,,p21
-minoraverages/1919Reach,1918,International League,ververs,P10503,Ververs,,0,Jersey City,,,,,
+minoraverages/1919Reach,1918,International League,ververs,P10503,Ververs,,0,Jersey City,,,,,p
 minoraverages/1919Reach,1918,International League,wagner,B00623,Wagner,,0,Toronto,,,96,,
 minoraverages/1919Reach,1918,International League,wagner,F20316,Wagner,,0,Toronto,,,,,2b13
 minoraverages/1919Reach,1918,International League,wagner,F20784,Wagner,,0,Toronto,,,,,ss83
 minoraverages/1919Reach,1918,International League,waldbauer,B00879,Waldbauer,,0,Jersey City,,,19,,
-minoraverages/1919Reach,1918,International League,waldbauer,P10550,Waldbauer,,0,Jersey City,,,,,
+minoraverages/1919Reach,1918,International League,waldbauer,P10550,Waldbauer,,0,Jersey City,,,,,p
 minoraverages/1919Reach,1918,International League,walker.f,B01392,Walker,F.,1,Newark,,,,,
 minoraverages/1919Reach,1918,International League,walker.f,B01392,Walker,F.,2,Binghamton,,,,,
 minoraverages/1919Reach,1918,International League,walker.f,B01392,Walker,F.,T,,,,18,,
@@ -533,17 +533,17 @@ minoraverages/1919Reach,1918,International League,walker.l,F21760,Walker,L.,T,,,
 minoraverages/1919Reach,1918,International League,walker.f,F21840,Walker,F.,1,Newark,,,,,p
 minoraverages/1919Reach,1918,International League,walker.f,F21840,Walker,F.,2,Jersey City,,,,,p
 minoraverages/1919Reach,1918,International League,walker.f,F21840,Walker,F.,T,,,,,,p18
-minoraverages/1919Reach,1918,International League,walker.f,P10385,Walker,F.,1,Newark,,,,,
-minoraverages/1919Reach,1918,International League,walker.f,P10385,Walker,F.,2,Binghamton,,,,,
-minoraverages/1919Reach,1918,International League,walker.f,P10385,Walker,F.,T,,,,,,
-minoraverages/1919Reach,1918,International League,walker.l,P10486,Walker,L.,0,Syracuse,,,,,
+minoraverages/1919Reach,1918,International League,walker.f,P10385,Walker,F.,1,Newark,,,,,p
+minoraverages/1919Reach,1918,International League,walker.f,P10385,Walker,F.,2,Binghamton,,,,,p
+minoraverages/1919Reach,1918,International League,walker.f,P10385,Walker,F.,T,,,,,,p
+minoraverages/1919Reach,1918,International League,walker.l,P10486,Walker,L.,0,Syracuse,,,,,p
 minoraverages/1919Reach,1918,International League,walsh,B01376,Walsh,,0,Rochester,,,66,,
 minoraverages/1919Reach,1918,International League,walsh,F20375,Walsh,,0,Rochester,,,,,2b31
 minoraverages/1919Reach,1918,International League,walsh,F20547,Walsh,,0,Rochester,,,,,3b34
 minoraverages/1919Reach,1918,International League,warhop,B01269,Warhop,,0,Toronto,,,49,,
 minoraverages/1919Reach,1918,International League,warhop,F20878,Warhop,,0,Toronto,,,,,ss11
 minoraverages/1919Reach,1918,International League,warhop,F21343,Warhop,,0,Toronto,,,,,of27
-minoraverages/1919Reach,1918,International League,warhop,P10569,Warhop,,0,Toronto,,,,,
+minoraverages/1919Reach,1918,International League,warhop,P10569,Warhop,,0,Toronto,,,,,p
 minoraverages/1919Reach,1918,International League,weafer,B00695,Weafer,,0,Syracuse,,,93,,
 minoraverages/1919Reach,1918,International League,weafer,F20080,Weafer,,1,Syracuse,,,,,1b
 minoraverages/1919Reach,1918,International League,weafer,F20080,Weafer,,2,Hamilton,,,,,1b
@@ -553,7 +553,7 @@ minoraverages/1919Reach,1918,International League,weafer,F20391,Weafer,,2,Hamilt
 minoraverages/1919Reach,1918,International League,weafer,F20391,Weafer,,T,,,,,,2b25
 minoraverages/1919Reach,1918,International League,webb,B00149,Webb,,0,Binghamton,,,11,,
 minoraverages/1919Reach,1918,International League,webb,F21488,Webb,,0,Binghamton,,,,,p11
-minoraverages/1919Reach,1918,International League,webb,P10361,Webb,,0,Binghamton,,,,,
+minoraverages/1919Reach,1918,International League,webb,P10361,Webb,,0,Binghamton,,,,,p
 minoraverages/1919Reach,1918,International League,welch,B01415,Welch,,0,Syracuse,,,22,,
 minoraverages/1919Reach,1918,International League,welch,F21117,Welch,,1,Syracuse,,,,,of
 minoraverages/1919Reach,1918,International League,welch,F21117,Welch,,2,Hamilton,,,,,of
@@ -566,15 +566,15 @@ minoraverages/1919Reach,1918,International League,whitehouse,B00475,Whitehouse,,
 minoraverages/1919Reach,1918,International League,whitehouse,F21308,Whitehouse,,1,Toronto,,,,,of
 minoraverages/1919Reach,1918,International League,whitehouse,F21308,Whitehouse,,2,Jersey City,,,,,of
 minoraverages/1919Reach,1918,International League,whitehouse,F21308,Whitehouse,,T,,,,,,of94
-minoraverages/1919Reach,1918,International League,whitehouse,P10611,Whitehouse,,0,Jersey City,,,,,
-minoraverages/1919Reach,1918,International League,wilkinson,P10100,Wilkinson,,0,Rochester,,,,,
+minoraverages/1919Reach,1918,International League,whitehouse,P10611,Whitehouse,,0,Jersey City,,,,,p
+minoraverages/1919Reach,1918,International League,wilkinson,P10100,Wilkinson,,0,Rochester,,,,,p
 minoraverages/1919Reach,1918,International League,wiltse,B00589,Wiltse,,0,Buffalo,,,83,,
 minoraverages/1919Reach,1918,International League,wiltse,F20072,Wiltse,,0,Buffalo,,,,,1b82
 minoraverages/1919Reach,1918,International League,woodward,B00783,Woodward,,0,Newark,,,11,,
-minoraverages/1919Reach,1918,International League,woodward,P10035,Woodward,,0,Newark,,,,,
+minoraverages/1919Reach,1918,International League,woodward,P10035,Woodward,,0,Newark,,,,,p
 minoraverages/1919Reach,1918,International League,worrell,B01466,Worrell,,0,Baltimore,,,48,,
 minoraverages/1919Reach,1918,International League,worrell,F21726,Worrell,,0,Baltimore,,,,,p39
-minoraverages/1919Reach,1918,International League,worrell,P10266,Worrell,,0,Baltimore,,,,,
+minoraverages/1919Reach,1918,International League,worrell,P10266,Worrell,,0,Baltimore,,,,,p
 minoraverages/1919Reach,1918,International League,zimmerman,B00999,Zimmerman,,0,Binghamton,,,86,,
 minoraverages/1919Reach,1918,International League,zimmerman,F20539,Zimmerman,,0,Binghamton,,,,,3b86
 minoraverages/1919Reach,1918,International League,zinn,B01064,Zinn,,0,Newark,,,70,,

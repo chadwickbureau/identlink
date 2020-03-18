@@ -1,8 +1,317 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1912,Central Kansas League,,M92210,Bankhead,Cecil,,Junction City,,,,,
-minoraverages/emilbb,1912,Central Kansas League,,M92182,Kahl,"Robert ""Nick""",,Manhattan,,,,,
-minoraverages/emilbb,1912,Central Kansas League,,M92232,Lamb,Bert,,Salina,,,,,
-minoraverages/emilbb,1912,Central Kansas League,,M92196,Moore,Fred,,Manhattan,,,,,
-minoraverages/emilbb,1912,Central Kansas League,,M92207,Stillwell,A.,,Newton/Minneapolis,,,,,
-minoraverages/emilbb,1912,Central Kansas League,,M92174,Wilson,Alfie,,Great Bend,,,,,
-minoraverages/emilbb,1912,Central Kansas League,,M92229,Wilson,Fred,,Lyons,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00680,Addington,,0,Minneapolis,,,89,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20449,Addington,,0,Minneapolis,,,,,3b89
+minoraverages/1913Reach,1912,Central Kansas League,,B00442,Aiton,,0,Manhattan,,,50,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20997,Aiton,,0,Manhattan,,,,,of46
+minoraverages/1913Reach,1912,Central Kansas League,,B00718,Allen,,0,Manhattan,,,5,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00822,Allingham,,1,Salina,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00822,Allingham,,2,Junction City,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00822,Allingham,,T,,,,31,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20131,Allingham,,0,Salina,,,,,c17
+minoraverages/1913Reach,1912,Central Kansas League,,F21076,Allingham,,0,Junction City,,,,,of12
+minoraverages/1913Reach,1912,Central Kansas League,,B00638,Bankhead,,0,Junction City,,,90,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20350,Bankhead,,0,Junction City,,,,,2b90
+minoraverages/emilbb,1912,Central Kansas League,,M92324,Bankhead,Cecil,,Junction City,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B01078,Beaver,,0,Lyons,,,22,,
+minoraverages/1913Reach,1912,Central Kansas League,,F21343,Beaver,,0,Lyons,,,,,p22
+minoraverages/1913Reach,1912,Central Kansas League,,P10277,Beaver,,0,Lyons,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00335,Billings,,0,Manhattan,,,66,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20072,Billings,,0,Manhattan,,,,,c21
+minoraverages/1913Reach,1912,Central Kansas League,,F20206,Billings,,0,Manhattan,,,,,1b28
+minoraverages/1913Reach,1912,Central Kansas League,,F20539,Billings,,0,Manhattan,,,,,3b7
+minoraverages/1913Reach,1912,Central Kansas League,,B00811,Blodgett,,0,Junction City,,,7,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00936,Brammell,,0,Junction City,,,5,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00544,Brown,,0,Salina,,,49,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00609,Brown,,0,Great Bend,,,74,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20222,Brown,,0,Great Bend,,,,,1b28
+minoraverages/1913Reach,1912,Central Kansas League,,F20463,Brown,,0,Salina,,,,,3b40
+minoraverages/1913Reach,1912,Central Kansas League,,F20699,Brown,,0,Salina,,,,,ss9
+minoraverages/1913Reach,1912,Central Kansas League,,F21308,Brown,,0,Great Bend,,,,,p40
+minoraverages/1913Reach,1912,Central Kansas League,,P10081,Brown,,0,Great Bend,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00293,Burns,,0,Salina,,,90,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20893,Burns,,0,Salina,,,,,of90
+minoraverages/1913Reach,1912,Central Kansas League,,B00651,Caldwell,,0,Salina,,,11,,
+minoraverages/1913Reach,1912,Central Kansas League,,P10056,Caldwell,,0,Salina,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00229,Clark,,0,Manhattan,,,56,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20841,Clark,,0,Manhattan,,,,,of55
+minoraverages/1913Reach,1912,Central Kansas League,,B00912,Cocrehan,,0,Manhattan,,,33,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20265,Cocrehan,,0,Manhattan,,,,,1b9
+minoraverages/1913Reach,1912,Central Kansas League,,F20737,Cocrehan,,0,Manhattan,,,,,of9
+minoraverages/1913Reach,1912,Central Kansas League,,F21335,Cocrehan,,0,Manhattan,,,,,p15
+minoraverages/1913Reach,1912,Central Kansas League,,P10035,Cocrehan,,0,Manhattan,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00948,Cox,,0,Junction City,,,39,,
+minoraverages/1913Reach,1912,Central Kansas League,,F21163,Cox,,0,Junction City,,,,,p34
+minoraverages/1913Reach,1912,Central Kansas League,,P10113,Cox,,0,Junction City,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00308,Crawford,,0,Minneapolis,,,77,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20342,Crawford,,0,Minneapolis,,,,,2b77
+minoraverages/1913Reach,1912,Central Kansas League,,B00985,Cummins,,0,Manhattan,,,24,,
+minoraverages/1913Reach,1912,Central Kansas League,,F21286,Cummins,,0,Manhattan,,,,,p21
+minoraverages/1913Reach,1912,Central Kansas League,,P10202,Cummins,,0,Manhattan,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00553,Currie,,0,Lyons,,,9,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00068,Dailey,,0,Manhattan,,,7,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00887,Davidson,,0,Great Bend,,,8,,
+minoraverages/1913Reach,1912,Central Kansas League,,P10184,Davidson,,0,Great Bend,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00806,Delaney,,0,Junction City,,,36,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20745,Delaney,,0,Junction City,,,,,of8
+minoraverages/1913Reach,1912,Central Kansas League,,F21130,Delaney,,0,Junction City,,,,,p25
+minoraverages/1913Reach,1912,Central Kansas League,,P10215,Delaney,,0,Junction City,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00469,Denny,,0,Lyons,,,32,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20287,Denny,,0,Lyons,,,,,2b18
+minoraverages/1913Reach,1912,Central Kansas League,,F20661,Denny,,0,Lyons,,,,,ss14
+minoraverages/1913Reach,1912,Central Kansas League,,F20792,Diamond,,0,Junction City,,,,,of82
+minoraverages/1913Reach,1912,Central Kansas League,,B00163,Dichl,,0,Manhattan,,,37,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00904,Diehl,,0,Junction City,,,3,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20970,Diehl,,0,Manhattan,,,,,of37
+minoraverages/1913Reach,1912,Central Kansas League,,B00286,Dimond,,0,Junction City,,,82,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00101,Dulin,,0,Manhattan,,,58,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20474,Dulin,,0,Manhattan,,,,,3b58
+minoraverages/1913Reach,1912,Central Kansas League,,B01093,Duncan,,0,Manhattan,,,58,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20657,Duncan,,0,Manhattan,,,,,ss52
+minoraverages/1913Reach,1912,Central Kansas League,,P10145,Ebiner,,1,Minneapolis,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,P10145,Ebiner,,2,Newton,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,P10145,Ebiner,,T,,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00961,Ebner,,0,Minneapolis,,,24,,
+minoraverages/1913Reach,1912,Central Kansas League,,F21158,Ebner,,0,Minneapolis,,,,,p18
+minoraverages/1913Reach,1912,Central Kansas League,,B01064,Falkarn,,0,Manhattan,,,6,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00117,Farrell,,0,Junction City,,,17,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20829,Farrell,,0,Junction City,,,,,of17
+minoraverages/1913Reach,1912,Central Kansas League,,B00319,Featheroff,,0,Lyons,,,87,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20919,Featheroff,,0,Lyons,,,,,of85
+minoraverages/1913Reach,1912,Central Kansas League,,B00356,Fedor,,0,Great Bend,,,90,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20303,Fedor,,0,Great Bend,,,,,2b68
+minoraverages/1913Reach,1912,Central Kansas League,,F20673,Fedor,,0,Great Bend,,,,,ss22
+minoraverages/1913Reach,1912,Central Kansas League,,B00760,Fisher,,0,Salina,,,81,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20547,Fisher,,0,Salina,,,,,3b12
+minoraverages/1913Reach,1912,Central Kansas League,,F20612,Fisher,,0,Salina,,,,,ss69
+minoraverages/1913Reach,1912,Central Kansas League,,B01010,Fowler,,0,Salina,,,45,,
+minoraverages/1913Reach,1912,Central Kansas League,,F21000,Fowler,,0,Salina,,,,,of19
+minoraverages/1913Reach,1912,Central Kansas League,,F21264,Fowler,,0,Salina,,,,,p26
+minoraverages/1913Reach,1912,Central Kansas League,,P10266,Fowler,,0,Salina,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00037,Fox,,0,Minneapolis,,,10,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00278,Freeman,,0,Minneapolis,,,89,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20327,Freeman,,0,Minneapolis,,,,,2b6
+minoraverages/1913Reach,1912,Central Kansas League,,F20864,Freeman,,0,Minneapolis,,,,,of79
+minoraverages/1913Reach,1912,Central Kansas League,,B00589,Fury,,0,Salina,,,32,,
+minoraverages/1913Reach,1912,Central Kansas League,,F21117,Fury,,0,Salina,,,,,p27
+minoraverages/1913Reach,1912,Central Kansas League,,P10290,Fury,,0,Salina,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00752,Grady,,0,Salina,,,90,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20240,Grady,,0,Salina,,,,,1b90
+minoraverages/1913Reach,1912,Central Kansas League,,F21084,Haag,,0,Manhattan,,,,,of16
+minoraverages/1913Reach,1912,Central Kansas League,,F21255,Haag,,0,Manhattan,,,,,p26
+minoraverages/1913Reach,1912,Central Kansas League,,P10019,Haag,,0,Manhattan,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00726,Hannah,,0,Lyons,,,83,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20115,Hannah,,0,Lyons,,,,,c24
+minoraverages/1913Reach,1912,Central Kansas League,,F20153,Hannah,,0,Lyons,,,,,1b10
+minoraverages/1913Reach,1912,Central Kansas League,,F20316,Hannah,,0,Lyons,,,,,2b9
+minoraverages/1913Reach,1912,Central Kansas League,,F20832,Hannah,,0,Lyons,,,,,of38
+minoraverages/1913Reach,1912,Central Kansas League,,B00840,Harlow,,0,Salina,,,40,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20095,Harlow,,0,Salina,,,,,c38
+minoraverages/1913Reach,1912,Central Kansas League,,B00833,Harris,,0,Manhattan,,,28,,
+minoraverages/1913Reach,1912,Central Kansas League,,F21196,Harris,,0,Manhattan,,,,,p18
+minoraverages/1913Reach,1912,Central Kansas League,,P10168,Harris,,0,Manhattan,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,F21207,Hassler,,0,Salina,,,,,p12
+minoraverages/1913Reach,1912,Central Kansas League,,P10253,Hasslin,,0,Salina,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00174,Hayes,,0,Salina,,,55,,
+minoraverages/1913Reach,1912,Central Kansas League,,F21059,Hayes,,0,Salina,,,,,of49
+minoraverages/1913Reach,1912,Central Kansas League,,F20080,Hays,,0,Salina,,,,,c6
+minoraverages/1913Reach,1912,Central Kansas League,,B00450,Henderson,,0,Junction City,,,10,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00370,Henessey,,0,Salina,,,87,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20943,Hennessy,,0,Salina,,,,,of87
+minoraverages/1913Reach,1912,Central Kansas League,,B00362,Herman,,0,Great Bend,,,80,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20067,Herman,,0,Great Bend,,,,,c77
+minoraverages/1913Reach,1912,Central Kansas League,,F20776,Herman,,0,Great Bend,,,,,of6
+minoraverages/1913Reach,1912,Central Kansas League,,B00045,Heshley,,0,Manhattan,,,10,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20254,Heshley,,0,Manhattan,,,,,1b9
+minoraverages/1913Reach,1912,Central Kansas League,,B00502,Hill,,0,Lyons,,,11,,
+minoraverages/1913Reach,1912,Central Kansas League,,F21101,Hill,,0,Lyons,,,,,p11
+minoraverages/1913Reach,1912,Central Kansas League,,P10244,Hill,,0,Lyons,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00794,Hoag,,0,Manhattan,,,45,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20190,Horril,,0,Lyons,,,,,1b81
+minoraverages/1913Reach,1912,Central Kansas League,,F20369,Horril,,0,Lyons,,,,,2b8
+minoraverages/1913Reach,1912,Central Kansas League,,B00416,Horrill,,0,Lyons,,,89,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00920,Hossler,,0,Salina,,,13,,
+minoraverages/1913Reach,1912,Central Kansas League,,B01032,House,,0,Salina,,,53,,
+minoraverages/1913Reach,1912,Central Kansas League,,F21037,House,,0,Salina,,,,,of20
+minoraverages/1913Reach,1912,Central Kansas League,,F21319,House,,0,Salina,,,,,p30
+minoraverages/1913Reach,1912,Central Kansas League,,P10228,House,,0,Salina,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00590,Jewell,,0,Minneapolis,,,89,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20583,Jewell,,0,Minneapolis,,,,,ss87
+minoraverages/1913Reach,1912,Central Kansas League,,B00182,Kahl,,0,Manhattan,,,16,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20401,Kahl,,0,Manhattan,,,,,2b15
+minoraverages/emilbb,1912,Central Kansas League,,M92293,Kahl,"Robert ""Nick""",,Manhattan,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B01108,Kelly,,0,Junction City,,,8,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20128,Kelly,,0,Junction City,,,,,c8
+minoraverages/1913Reach,1912,Central Kansas League,,F20102,Kreppes,,0,Salina,,,,,c5
+minoraverages/1913Reach,1912,Central Kansas League,,F20388,Kreppes,,0,Salina,,,,,2b87
+minoraverages/1913Reach,1912,Central Kansas League,,B00232,Krepps,,0,Salina,,,90,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00434,Lamb,,0,Salina,,,23,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20458,Lamb,,0,Salina,,,,,3b21
+minoraverages/emilbb,1912,Central Kansas League,,M92343,Lamb,Bert,,Salina,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B01119,Larock,,0,Manhattan,,,6,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00125,Leach,,0,Lyons,,,6,,
+minoraverages/1913Reach,1912,Central Kansas League,,F21092,Leach,,0,Lyons,,,,,of5
+minoraverages/1913Reach,1912,Central Kansas League,,B00084,Leake,,0,Junction City,,,49,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20807,Leake,,0,Junction City,,,,,of24
+minoraverages/1913Reach,1912,Central Kansas League,,F21174,Leake,,0,Junction City,,,,,p25
+minoraverages/1913Reach,1912,Central Kansas League,,P10159,Leake,,0,Junction City,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00957,Ludes,,0,Salina,,,19,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20425,Ludes,,0,Salina,,,,,3b10
+minoraverages/1913Reach,1912,Central Kansas League,,B00059,Lyon,,0,Lyons,,,11,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20594,Lyons,,0,Lyons,,,,,ss11
+minoraverages/1913Reach,1912,Central Kansas League,,B00013,Manda,,0,Lyons,,,6,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20560,Manda,,0,Lyons,,,,,ss5
+minoraverages/1913Reach,1912,Central Kansas League,,B00403,McDonald,,0,Manhattan,,,38,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20908,McDonald,,0,Manhattan,,,,,of28
+minoraverages/1913Reach,1912,Central Kansas League,,F21182,McDonald,,0,Manhattan,,,,,p10
+minoraverages/1913Reach,1912,Central Kansas League,,P10192,McDonald,,0,Manhattan,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,F21278,McGrew,,0,Junction City,,,,,p10
+minoraverages/1913Reach,1912,Central Kansas League,,P10176,McGrew,,0,Junction City,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B01007,McKee,,0,Minneapolis,,,28,,
+minoraverages/1913Reach,1912,Central Kansas League,,F21210,McKee,,0,Minneapolis,,,,,p27
+minoraverages/1913Reach,1912,Central Kansas League,,P10100,McKee,,0,Minneapolis,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00614,Mercer,,0,Manhattan,,,7,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20759,Mercer,,0,Manhattan,,,,,of7
+minoraverages/1913Reach,1912,Central Kansas League,,B00672,Mettler,,0,Great Bend,,,88,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20298,Mettler,,0,Great Bend,,,,,2b19
+minoraverages/1913Reach,1912,Central Kansas League,,F20417,Mettler,,0,Great Bend,,,,,3b10
+minoraverages/1913Reach,1912,Central Kansas League,,F20552,Mettler,,0,Great Bend,,,,,ss18
+minoraverages/1913Reach,1912,Central Kansas League,,F20810,Mettler,,0,Great Bend,,,,,of40
+minoraverages/1913Reach,1912,Central Kansas League,,B00092,Monroe,,0,Minneapolis,,,90,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20855,Monroe,,0,Minneapolis,,,,,of90
+minoraverages/1913Reach,1912,Central Kansas League,,B00343,Moore,,0,Manhattan,,,68,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20391,Moore,,0,Manhattan,,,,,2b62
+minoraverages/emilbb,1912,Central Kansas League,,M92308,Moore,Fred,,Manhattan,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00324,Morris,,0,Lyons,,,87,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20334,Morris,,0,Lyons,,,,,2b36
+minoraverages/1913Reach,1912,Central Kansas League,,F20482,Morris,,0,Lyons,,,,,3b49
+minoraverages/1913Reach,1912,Central Kansas League,,B00973,Moseman,,1,Lyons,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00973,Moseman,,2,Salina,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00973,Moseman,,T,,,,44,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20636,Moseman,,1,Salina,,,,,ss
+minoraverages/1913Reach,1912,Central Kansas League,,F20636,Moseman,,2,Lyons,,,,,ss
+minoraverages/1913Reach,1912,Central Kansas League,,F20636,Moseman,,T,,,,,,ss44
+minoraverages/1913Reach,1912,Central Kansas League,,B00196,Murie,,0,Manhattan,,,27,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20177,Murie,,0,Manhattan,,,,,1b27
+minoraverages/1913Reach,1912,Central Kansas League,,B00783,Nelson,,0,Lyons,,,80,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20038,Nelson,,0,Lyons,,,,,c72
+minoraverages/1913Reach,1912,Central Kansas League,,F20375,Nelson,,0,Lyons,,,,,2b16
+minoraverages/1913Reach,1912,Central Kansas League,,F21068,Nelson,,0,Lyons,,,,,of8
+minoraverages/1913Reach,1912,Central Kansas League,,B00771,O'Byrne,,0,Lyons,,,25,,
+minoraverages/1913Reach,1912,Central Kansas League,,F21229,O'Byrne,,1,Lyons,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,F21229,O'Byrne,,2,Manhattan,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,F21229,O'Byrne,,T,,,,,,p20
+minoraverages/1913Reach,1912,Central Kansas League,,P10121,O'Byrne,,1,Manhattan,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,P10121,O'Byrne,,2,Lyons,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,P10121,O'Byrne,,T,,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00854,O'Zee,,0,Minneapolis,,,89,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20189,O'Zee,,0,Minneapolis,,,,,1b88
+minoraverages/1913Reach,1912,Central Kansas League,,F20878,Pintman,,0,Great Bend,,,,,of87
+minoraverages/1913Reach,1912,Central Kansas League,,B00381,Pitman,,0,Great Bend,,,87,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00207,Plank,,0,Junction City,,,70,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20144,Plank,,0,Junction City,,,,,1b26
+minoraverages/1913Reach,1912,Central Kansas League,,F20784,Plank,,0,Junction City,,,,,of44
+minoraverages/1913Reach,1912,Central Kansas League,,B00705,Plympton,,0,Great Bend,,,49,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20279,Plympton,,0,Great Bend,,,,,1b17
+minoraverages/1913Reach,1912,Central Kansas League,,F21125,Plympton,,0,Great Bend,,,,,p32
+minoraverages/1913Reach,1912,Central Kansas League,,P10024,Plympton,,0,Great Bend,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B01041,Pritchard,,0,Lyons,,,27,,
+minoraverages/1913Reach,1912,Central Kansas League,,F21362,Pritchard,,0,Lyons,,,,,p24
+minoraverages/1913Reach,1912,Central Kansas League,,P10231,Pritchard,,0,Lyons,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00397,Provost,,0,Junction City,,,59,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20211,Provost,,0,Junction City,,,,,1b59
+minoraverages/1913Reach,1912,Central Kansas League,,F21232,Quinlan,,0,Lyons,,,,,p21
+minoraverages/1913Reach,1912,Central Kansas League,,B00999,Quinlin,,0,Lyons,,,30,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20962,Quinlin,,0,Lyons,,,,,of9
+minoraverages/1913Reach,1912,Central Kansas League,,P10062,Quinlin,,0,Lyons,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00528,Rankin,,0,Great Bend,,,31,,
+minoraverages/1913Reach,1912,Central Kansas League,,F21045,Rankin,,0,Great Bend,,,,,of31
+minoraverages/1913Reach,1912,Central Kansas League,,B00475,Reynolds,,0,Minneapolis,,,41,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20721,Reynolds,,0,Minneapolis,,,,,of11
+minoraverages/1913Reach,1912,Central Kansas League,,F21293,Reynolds,,0,Minneapolis,,,,,p30
+minoraverages/1913Reach,1912,Central Kansas League,,P10070,Reynolds,,0,Minneapolis,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00566,Richardson,,0,Junction City,,,82,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20014,Richardson,,0,Junction City,,,,,c82
+minoraverages/1913Reach,1912,Central Kansas League,,B00747,Richert,,0,Manhattan,,,16,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00076,Ryan,,0,Manhattan,,,14,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20620,Ryan,,0,Manhattan,,,,,ss14
+minoraverages/1913Reach,1912,Central Kansas League,,F20046,Scheid,,1,Great Bend,,,,,c
+minoraverages/1913Reach,1912,Central Kansas League,,F20046,Scheid,,2,Salina,,,,,c
+minoraverages/1913Reach,1912,Central Kansas League,,F20046,Scheid,,T,,,,,,c33
+minoraverages/1913Reach,1912,Central Kansas League,,B00491,Schied,,1,Lyons,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00491,Schied,,2,Salina,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00491,Schied,,3,Great Bend,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00491,Schied,,T,,,,46,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20571,Schrimnaski,,0,Great Bend,,,,,ss48
+minoraverages/1913Reach,1912,Central Kansas League,,B00695,Scimnoski,,0,Great Bend,,,50,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00427,Seivers,,1,Manhattan,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00427,Seivers,,2,Junction City,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00427,Seivers,,3,Great Bend,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00427,Seivers,,T,,,,78,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20233,Seivers,,0,Great Bend,,,,,1b43
+minoraverages/1913Reach,1912,Central Kansas League,,F20526,Seivers,,0,Manhattan,,,,,3b8
+minoraverages/1913Reach,1912,Central Kansas League,,F20935,Seivers,,1,Great Bend,,,,,of
+minoraverages/1913Reach,1912,Central Kansas League,,F20935,Seivers,,2,Junction City,,,,,of
+minoraverages/1913Reach,1912,Central Kansas League,,F20935,Seivers,,3,M.,,,,,of
+minoraverages/1913Reach,1912,Central Kansas League,,F20935,Seivers,,T,,,,,,of21
+minoraverages/1913Reach,1912,Central Kansas League,,B00158,Shaw,,1,Great Bend,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00158,Shaw,,2,Manhattan,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00158,Shaw,,T,,,,17,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20924,Shaw,,0,Great Bend,,,,,of11
+minoraverages/1913Reach,1912,Central Kansas League,,B00577,Shmeall,,0,Manhattan,,,15,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00488,Singleton,,0,Minneapolis,,,89,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20956,Singleton,,0,Minneapolis,,,,,of89
+minoraverages/1913Reach,1912,Central Kansas League,,B00241,Smith,,0,Manhattan,,,81,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00879,Smith,,0,Minneapolis,,,90,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20023,Smith,,0,Minneapolis,,,,,c90
+minoraverages/1913Reach,1912,Central Kansas League,,F20051,Smith,,0,Manhattan,,,,,c66
+minoraverages/1913Reach,1912,Central Kansas League,,F20166,Smith,,0,Manhattan,,,,,1b7
+minoraverages/1913Reach,1912,Central Kansas League,,B00515,Sorrenson,,0,Manhattan,,,9,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20518,Sorrenson,,0,Manhattan,,,,,3b9
+minoraverages/1913Reach,1912,Central Kansas League,,B01029,Stephens,,0,Great Bend,,,11,,
+minoraverages/1913Reach,1912,Central Kansas League,,F21356,Stephens,,0,Great Bend,,,,,p11
+minoraverages/1913Reach,1912,Central Kansas League,,P10137,Stephens,,0,Great Bend,,,,,p
+minoraverages/emilbb,1912,Central Kansas League,,M92319,Stillwell,A.,,Newton/Minneapolis,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00531,Stoffer,,0,Great Bend,,,36,,
+minoraverages/1913Reach,1912,Central Kansas League,,F21021,Stoffer,,0,Great Bend,,,,,of9
+minoraverages/1913Reach,1912,Central Kansas League,,F21324,Stoffer,,0,Great Bend,,,,,p27
+minoraverages/1913Reach,1912,Central Kansas League,,P10097,Stoffer,,0,Great Bend,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00623,Swenson,,1,Minneapolis,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00623,Swenson,,2,Lyons,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00623,Swenson,,T,,,,29,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20768,Swenson,,0,Minneapolis,,,,,of6
+minoraverages/1913Reach,1912,Central Kansas League,,F21149,Swenson,,1,Lyons,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,F21149,Swenson,,2,Minneapolis,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,F21149,Swenson,,T,,,,,,p21
+minoraverages/1913Reach,1912,Central Kansas League,,P10289,Swenson,,1,Lyons,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,P10289,Swenson,,2,Minneapolis,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,P10289,Swenson,,T,,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00865,Thompson,,0,Lyons,,,51,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20430,Thompson,,0,Lyons,,,,,3b41
+minoraverages/1913Reach,1912,Central Kansas League,,F20604,Thompson,,0,Lyons,,,,,ss13
+minoraverages/1913Reach,1912,Central Kansas League,,B01086,Wainwright,,0,Manhattan,,,5,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00210,Ward,,0,Great Bend,,,90,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20505,Ward,,0,Great Bend,,,,,3b77
+minoraverages/1913Reach,1912,Central Kansas League,,B00667,Weil,,0,Junction City,,,90,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20496,Weil,,0,Junction City,,,,,3b90
+minoraverages/1913Reach,1912,Central Kansas League,,B00264,Wetzel,,0,Lyons,,,90,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20886,Wetzel,,0,Lyons,,,,,of85
+minoraverages/1913Reach,1912,Central Kansas League,,B00255,White,,0,Junction City,,,25,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20713,White,,0,Junction City,,,,,of25
+minoraverages/1913Reach,1912,Central Kansas League,,B00021,Wilson,,0,Lyons,,,23,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00130,Wilson,,0,Manhattan,,,6,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00739,Wilson,,0,Great Bend,,,78,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20700,Wilson,,0,Manhattan,,,,,ss6
+minoraverages/1913Reach,1912,Central Kansas League,,F20981,Wilson,,0,Great Bend,,,,,of78
+minoraverages/emilbb,1912,Central Kansas League,,M92286,Wilson,Alfie,,Great Bend,,,,,
+minoraverages/emilbb,1912,Central Kansas League,,M92335,Wilson,Fred,,Lyons,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00149,Wise,,0,Manhattan,,,6,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20685,Wise,,0,Manhattan,,,,,ss5
+minoraverages/1913Reach,1912,Central Kansas League,,B01055,Womack,,0,Minneapolis,,,12,,
+minoraverages/1913Reach,1912,Central Kansas League,,F21241,Womack,,0,Minneapolis,,,,,p10
+minoraverages/1913Reach,1912,Central Kansas League,,P10043,Womack,,0,Minneapolis,,,,,p
+minoraverages/1913Reach,1912,Central Kansas League,,B00898,Wood,,1,Lyons,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00898,Wood,,2,Junction City,,,,,
+minoraverages/1913Reach,1912,Central Kansas League,,B00898,Wood,,T,,,,72,,
+minoraverages/1913Reach,1912,Central Kansas League,,F21013,Wood,,0,Junction City,,,,,of67
+minoraverages/1913Reach,1912,Central Kansas League,,B00646,Woolen,,0,Junction City,,,90,,
+minoraverages/1913Reach,1912,Central Kansas League,,F20648,Woolen,,0,Junction City,,,,,ss90

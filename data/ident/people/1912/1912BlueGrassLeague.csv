@@ -1,12 +1,346 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1912,Blue Grass League,,M91796,Carmony,James,,Maysville,,,,,
-minoraverages/emilbb,1912,Blue Grass League,,M91816,Fisher,William,,Richmond,,,,,
-minoraverages/emilbb,1912,Blue Grass League,,M91782,Gfroerer,Ollie,,Frankfort,,,,,
-minoraverages/emilbb,1912,Blue Grass League,,M91850,Harrell,Danning,,Paris,,,,,
-minoraverages/emilbb,1912,Blue Grass League,,M91803,Kunkel,Harry,,Maysville,,,,,
-minoraverages/emilbb,1912,Blue Grass League,,M91869,Kunkel,Harry,,Winchester/Nicholasville/Mount Sterling,,,,,
-minoraverages/emilbb,1912,Blue Grass League,,M91842,Lewis,Joe,,Paris,,,,,
-minoraverages/emilbb,1912,Blue Grass League,,M91875,McBrayer,,,Winchester/Nicholasville/Mount Sterling,,,,,
-minoraverages/emilbb,1912,Blue Grass League,,M91834,McGrew,Ted,,Lexington,,,,,
-minoraverages/emilbb,1912,Blue Grass League,,M91888,Spade,Bob,,Winchester/Nicholasville/Mount Sterling,,,,,
-minoraverages/emilbb,1912,Blue Grass League,,M91827,Yancy,Hogan,,Lexington,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00985,Anderson,,1,Maysville,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00985,Anderson,,2,Lexington,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00985,Anderson,,T,,,,15,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20240,Anderson,,0,Maysville,,,,,3b15
+minoraverages/1913Reach,1912,Blue Grass League,,B01029,Applegate,,0,Paris,,,60,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10357,Applegate,,0,Paris,,,,21,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00427,Badger,,0,Lexington,,,78,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20279,Badger,,0,Lexington,,,,,3b78
+minoraverages/1913Reach,1912,Blue Grass League,,P10738,Badger,,0,Lexington,,,,3,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00403,Baird,,0,Richmond,,,118,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20128,Baird,,0,Richmond,,,,,2b118
+minoraverages/1913Reach,1912,Blue Grass League,,B00084,Barrett,,0,Richmond,,,2,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00229,Baschang,,0,Lexington,,,85,,
+minoraverages/1913Reach,1912,Blue Grass League,,B01203,Bauer,,0,Lexington,,,18,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10432,Bauer,,0,Lexington,,,,8,p
+minoraverages/1913Reach,1912,Blue Grass League,,B01162,Beer,,0,Maysville,,,30,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10121,Beer,,0,Maysville,,,,28,p
+minoraverages/1913Reach,1912,Blue Grass League,,B01093,Benton,,0,Paris,,,28,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20401,Benton,,0,Paris,,,,,ss28
+minoraverages/1913Reach,1912,Blue Grass League,,B00904,Black,,0,Richmond,,,80,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10253,Black,,0,Richmond,,,,41,p
+minoraverages/1913Reach,1912,Blue Grass League,,B01392,Blankenship,,0,Paris,,,16,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10385,Blankenship,,0,Paris,,,,15,p
+minoraverages/1913Reach,1912,Blue Grass League,,F20430,Bramlage,,0,Richmond,,,,,of56
+minoraverages/1913Reach,1912,Blue Grass League,,B00442,Bromlage,,0,Richmond,,,56,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10687,Bronish,,0,Paris,,,,5,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00163,Burden,,0,Mount Sterling,,,18,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10097,Burden,,0,Mount Sterling,,,,10,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00577,Burkel,,0,Mount Sterling,,,23,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20206,Burkel,,0,Mount Sterling,,,,,2b23
+minoraverages/1913Reach,1912,Blue Grass League,,B00695,Burness,,0,Lexington,,,8,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00948,Burr,,0,Mount Sterling,,,20,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20190,Burr,,0,Mount Sterling,,,,,2b20
+minoraverages/1913Reach,1912,Blue Grass League,,P10464,Burr,,0,Mount Sterling,,,,12,p
+minoraverages/1913Reach,1912,Blue Grass League,,P10202,Cameron,,0,Richmond,,,,24,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00747,Camerone,,0,Richmond,,,55,,
+minoraverages/1913Reach,1912,Blue Grass League,,B01197,Camnitz,,0,Lexington,,,57,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10168,Camnitz,,0,Lexington,,,,44,p
+minoraverages/1913Reach,1912,Blue Grass League,,B01170,Campbell,,0,Paris,,,21,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20482,Campbell,,0,Paris,,,,,of21
+minoraverages/1913Reach,1912,Blue Grass League,,B00278,Carmony,,0,Maysville,,,98,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20023,Carmony,,0,Maysville,,,,,1b98
+minoraverages/emilbb,1912,Blue Grass League,,M91902,Carmony,James,,Maysville,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00822,Carson,,0,Lexington,,,8,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00335,Chapman,,0,Paris,,,65,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20463,Chapman,,0,Paris,,,,,of65
+minoraverages/1913Reach,1912,Blue Grass League,,B00207,Clever,,0,Maysville,,,129,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20316,Clever,,0,Maysville,,,,,ss129
+minoraverages/1913Reach,1912,Blue Grass League,,P10516,Colina,,0,Mount Sterling,,,,5,p
+minoraverages/1913Reach,1912,Blue Grass League,,F20583,Comingore,,0,Maysville,,,,,of89
+minoraverages/1913Reach,1912,Blue Grass League,,B00912,Conners,,0,Maysville,,,23,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00590,Cornell,,0,Frankfort,,,35,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10231,Cornell,,0,Frankfort,,,,30,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00434,Cramer,,0,Frankfort,,,33,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10056,Cramer,,0,Frankfort,,,,22,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00475,Crist,,0,Lexington,,,41,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20699,Crist,,0,Lexington,,,,,c41
+minoraverages/1913Reach,1912,Blue Grass League,,B00544,Cumingore,,0,Maysville,,,80,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00286,Curtis,,0,Lexington,,,96,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20391,Curtis,,0,Lexington,,,,,ss50
+minoraverages/1913Reach,1912,Blue Grass League,,P10611,De Lotel,,0,Paris,,,,1,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00854,Delehanty,,0,Paris,,,40,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20759,Delehanty,,0,Paris,,,,,c40
+minoraverages/1913Reach,1912,Blue Grass League,,B01055,Dixon,,0,Maysville,,,10,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00255,Donica,,0,Frankfort,,,80,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00531,Donovan,,0,Lexington,,,17,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20560,Donovan,,0,Lexington,,,,,of17
+minoraverages/1913Reach,1912,Blue Grass League,,P10312,Donovan,,0,Lexington,,,,2,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00491,Dowell,,0,Frankfort,,,37,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00718,Dugger,,0,Frankfort,,,10,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00865,Dunlap,,0,Paris,,,81,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20072,Dunlap,,0,Paris,,,,,1b81
+minoraverages/1913Reach,1912,Blue Grass League,,P10176,Dunlap,,0,Paris,,,,12,p
+minoraverages/1913Reach,1912,Blue Grass League,,B01010,Dyer,,0,Mount Sterling,,,8,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00092,Eddington,,0,Lexington,,,35,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20552,Eddington,,0,Lexington,,,,,of35
+minoraverages/1913Reach,1912,Blue Grass League,,P10709,Eddington,,0,Lexington,,,,3,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00362,Edmonson,,0,Lexington,,,123,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20095,Edmonson,,0,Lexington,,,,,1b123
+minoraverages/1913Reach,1912,Blue Grass League,,B00356,Ellis,,0,Lexington,,,96,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20547,Ellis,,0,Lexington,,,,,of96
+minoraverages/1913Reach,1912,Blue Grass League,,B00293,Embry,,1,Frankfort,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00293,Embry,,2,Lexington,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00293,Embry,,T,,,,17,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10184,Embry,,0,Frankfort,,,,16,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00553,Erhard,,0,Paris,,,3,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00021,Fisher,,0,Richmond,,,39,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20038,Fisher,,0,Richmond,,,,,1b29
+minoraverages/1913Reach,1912,Blue Grass League,,P10266,Fisher,,0,Richmond,,,,3,p
+minoraverages/emilbb,1912,Blue Grass League,,M91928,Fisher,William,,Richmond,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00130,Flourney,,0,Frankfort,,,16,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20620,Flournoy,,0,Frankfort,,,,,of16
+minoraverages/1913Reach,1912,Blue Grass League,,P10503,Fox,,0,Mount Sterling,,,,1,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00646,French,,0,Frankfort,,,48,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10043,French,,0,Frankfort,,,,17,p
+minoraverages/1913Reach,1912,Blue Grass League,,B01181,Friedley,,0,Mount Sterling,,,60,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10407,Friedley,,0,Mount Sterling,,,,33,p
+minoraverages/1913Reach,1912,Blue Grass League,,P10024,Fulton,,0,Maysville,,,,1,p
+minoraverages/1913Reach,1912,Blue Grass League,,P10493,Funk,,0,Mount Sterling,,,,7,p
+minoraverages/1913Reach,1912,Blue Grass League,,B01291,Genter,,0,Richmond,,,17,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20458,Gfroerer,,0,Frankfort,,,,,of110
+minoraverages/1913Reach,1912,Blue Grass League,,P10698,Gfroerer,,0,Frankfort,,,,4,p
+minoraverages/emilbb,1912,Blue Grass League,,M91891,Gfroerer,Ollie,,Frankfort,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00264,Giddo,,0,Frankfort,,,107,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20685,Giddo,,0,Frankfort,,,,,c107
+minoraverages/1913Reach,1912,Blue Grass League,,B00210,Goodman,,0,Paris,,,115,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20526,Goodman,,0,Paris,,,,,of115
+minoraverages/1913Reach,1912,Blue Grass League,,B00672,Grover,,0,Maysville,,,57,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10035,Grover,,0,Maysville,,,,29,p
+minoraverages/1913Reach,1912,Blue Grass League,,P10633,Guhl,,0,Paris,,,,1,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00502,Guhle,,0,Paris,,,37,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20496,Guhle,,0,Paris,,,,,of37
+minoraverages/1913Reach,1912,Blue Grass League,,B00149,Gust,,0,Frankfort,,,97,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20067,Gust,,0,Frankfort,,,,,1b88
+minoraverages/1913Reach,1912,Blue Grass League,,B00381,Hadley,,0,Mount Sterling,,,10,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00623,Haines,,0,Richmond,,,95,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20713,Haines,,0,Richmond,,,,,c99
+minoraverages/1913Reach,1912,Blue Grass League,,B00045,Harding,,0,Lexington,,,5,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10100,Harding,,0,Lexington,,,,4,p
+minoraverages/1913Reach,1912,Blue Grass League,,B01064,Harold,,0,Frankfort,,,44,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20539,Harold,,0,Paris,,,,,of44
+minoraverages/1913Reach,1912,Blue Grass League,,P10373,Harold,,0,Paris,,,,14,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00059,Harrell,,0,Paris,,,117,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20166,Harrell,,0,Paris,,,,,2b117
+minoraverages/1913Reach,1912,Blue Grass League,,P10679,Harrell,,0,Paris,,,,2,p
+minoraverages/emilbb,1912,Blue Grass League,,M91966,Harrell,Danning,,Paris,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00783,Harris,Earl,0,Mount Sterling,,,74,,
+minoraverages/1913Reach,1912,Blue Grass League,,B01007,Harris,Ed.,0,Mount Sterling,,,45,,
+minoraverages/1913Reach,1912,Blue Grass League,,B01032,Harris,Ed.,0,Richmond,,,27,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20303,Harris,Ed.,0,Mount Sterling,,,,,3b45
+minoraverages/1913Reach,1912,Blue Grass League,,F20417,Harris,Ed.,0,Richmond,,,,,ss27
+minoraverages/1913Reach,1912,Blue Grass League,,B01321,Hauser,,0,Paris,,,58,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10081,Hauser,,0,Paris,,,,42,p
+minoraverages/1913Reach,1912,Blue Grass League,,B01108,Hicks,,0,Paris,,,18,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20700,Hicks,,0,Paris,,,,,c18
+minoraverages/1913Reach,1912,Blue Grass League,,B01269,Hoffman,,0,Frankfort,,,17,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20211,Hoffman,,0,Frankfort,,,,,3b17
+minoraverages/1913Reach,1912,Blue Grass League,,B00961,Hughes,,0,Frankfort,,,11,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00101,Jones,,0,Richmond,,,92,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20594,Jones,,0,Richmond,,,,,of92
+minoraverages/1913Reach,1912,Blue Grass League,,P10289,Jones,,0,Richmond,,,,16,p
+minoraverages/1913Reach,1912,Blue Grass League,,B01119,Kane,,0,Paris,,,17,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00680,Kimble,,0,Mount Sterling,,,118,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20612,Kimble,,0,Mount Sterling,,,,,of115
+minoraverages/1913Reach,1912,Blue Grass League,,B00469,Knight,,0,Richmond,,,17,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10277,Knight,,1,Richmond,,,,,p
+minoraverages/1913Reach,1912,Blue Grass League,,P10277,Knight,,2,Mount Sterling,,,,,p
+minoraverages/1913Reach,1912,Blue Grass League,,P10277,Knight,,T,,,,,13,p
+minoraverages/1913Reach,1912,Blue Grass League,,B01337,Koehler,,0,Paris,,,14,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10410,Koehler,,0,Paris,,,,12,p
+minoraverages/1913Reach,1912,Blue Grass League,,B01086,Konnick,,0,Frankfort,,,123,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20327,Konnick,,0,Frankfort,,,,,ss123
+minoraverages/1913Reach,1912,Blue Grass League,,B00416,Kuhlman,,0,Paris,,,112,,
+minoraverages/emilbb,1912,Blue Grass League,,M91915,Kunkel,Harry,,Maysville,,,,,
+minoraverages/emilbb,1912,Blue Grass League,,M91977,Kunkel,Harry,,Winchester/Nicholasville/Mount Sterling,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00450,Kunkle,,1,Maysville,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00450,Kunkle,,2,Mount Sterling,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00450,Kunkle,,T,,,,132,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20661,Kunkle,,0,Maysville,,,,,c103
+minoraverages/1913Reach,1912,Blue Grass League,,F20233,Kunklman,,0,Paris,,,,,3b67
+minoraverages/1913Reach,1912,Blue Grass League,,B00920,Kyle,,0,Richmond,,,8,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00241,Lake,,0,Frankfort,,,6,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00752,Lake,,1,Mount Sterling,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00752,Lake,,2,Richmond,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00752,Lake,,T,,,,104,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20518,Lake,,0,Richmond,,,,,of104
+minoraverages/1913Reach,1912,Blue Grass League,,P10486,Lake,,0,Mount Sterling,,,,3,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00760,Langenham,,0,Maysville,,,78,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20425,Langenham,,0,Maysville,,,,,of78
+minoraverages/1913Reach,1912,Blue Grass League,,B01242,Langfitt,,1,Richmond,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B01242,Langfitt,,2,Frankfort,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B01242,Langfitt,,T,,,,53,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10159,Langfitt,,1,Richmond,,,,,p
+minoraverages/1913Reach,1912,Blue Grass League,,P10159,Langfitt,,2,Frankfort,,,,,p
+minoraverages/1913Reach,1912,Blue Grass League,,P10159,Langfitt,,T,,,,,42,p
+minoraverages/1913Reach,1912,Blue Grass League,,B01124,Law,,0,Mount Sterling,,,14,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20051,Law,,0,Mount Sterling,,,,,1b14
+minoraverages/1913Reach,1912,Blue Grass League,,P10665,Lewis,,0,Paris,,,,1,p
+minoraverages/emilbb,1912,Blue Grass League,,M91953,Lewis,Joe,,Paris,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B01376,Linthcium,,0,Mount Sterling,,,16,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10478,Linthicum,,0,Mount Sterling,,,,14,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00324,Locke,,0,Paris,,,107,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20265,Locke,,0,Paris,,,,,3b46
+minoraverages/1913Reach,1912,Blue Grass League,,F20375,Locke,,0,Paris,,,,,ss56
+minoraverages/1913Reach,1912,Blue Grass League,,P10622,Locke,,0,Paris,,,,3,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00528,Long,,1,Lexington,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00528,Long,,2,Mount Sterling,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00528,Long,,T,,,,70,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10767,Long,,1,Lexington,,,,,p
+minoraverages/1913Reach,1912,Blue Grass League,,P10767,Long,,2,Mount Sterling,,,,,p
+minoraverages/1913Reach,1912,Blue Grass League,,P10767,Long,,T,,,,,13,p
+minoraverages/1913Reach,1912,Blue Grass League,,B01402,Ludwig,,0,Paris,,,11,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10304,Ludwig,,0,Paris,,,,10,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00887,Mack,,1,Richmond,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00887,Mack,,2,Lexington,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00887,Mack,,T,,,,50,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10714,Mack,,1,Lexington,,,,,p
+minoraverages/1913Reach,1912,Blue Grass League,,P10714,Mack,,2,Maysville,,,,,p
+minoraverages/1913Reach,1912,Blue Grass League,,P10714,Mack,,T,,,,,9,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00879,McBrayer,,1,Frankfort,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00879,McBrayer,,2,Mount Sterling,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00879,McBrayer,,T,,,,51,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20254,McBrayer,,1,Frankfort,,,,,3b
+minoraverages/1913Reach,1912,Blue Grass League,,F20254,McBrayer,,2,Mount Sterling,,,,,3b
+minoraverages/1913Reach,1912,Blue Grass League,,F20254,McBrayer,,T,,,,,,3b51
+minoraverages/emilbb,1912,Blue Grass League,,M91989,McBrayer,,,Winchester/Nicholasville/Mount Sterling,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00609,McGrew,,0,Lexington,,,22,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20177,McGrew,,0,Lexington,,,,,2b22
+minoraverages/1913Reach,1912,Blue Grass League,,P10780,McGrew,,0,Lexington,,,,3,p
+minoraverages/emilbb,1912,Blue Grass League,,M91944,McGrew,Ted,,Lexington,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10113,McNeal,,0,Lexington,,,,3,p
+minoraverages/1913Reach,1912,Blue Grass League,,P10399,Meyer,,0,Richmond,,,,25,p
+minoraverages/1913Reach,1912,Blue Grass League,,B01313,Meyers,,0,Richmond,,,29,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00999,Middleton,,0,Mount Sterling,,,36,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20505,Middleton,,0,Mount Sterling,,,,,of36
+minoraverages/1913Reach,1912,Blue Grass League,,P10654,Mohlenkamp,,0,Paris,,,,1,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00174,Mollenkamp,,0,Paris,,,62,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20014,Mollenkamp,,0,Paris,,,,,1b62
+minoraverages/1913Reach,1912,Blue Grass League,,P10290,Monroe,,0,Paris,,,,6,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00076,Munn,,0,Richmond,,,128,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20046,Munn,,0,Richmond,,,,,1b92
+minoraverages/1913Reach,1912,Blue Grass League,,B00811,Murray,,0,Richmond,,,99,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20287,Murray,,0,Richmond,,,,,3b69
+minoraverages/1913Reach,1912,Blue Grass League,,F20388,Murray,,0,Richmond,,,,,ss32
+minoraverages/1913Reach,1912,Blue Grass League,,B00158,Nicholson,,0,Frankfort,,,123,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20449,Nicholson,,0,Frankfort,,,,,of121
+minoraverages/1913Reach,1912,Blue Grass League,,B00794,Novach,,0,Mount Sterling,,,9,,
+minoraverages/1913Reach,1912,Blue Grass League,,B01041,Nye,,0,Mount Sterling,,,34,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20102,Nye,,0,Mount Sterling,,,,,1b34
+minoraverages/1913Reach,1912,Blue Grass League,,B01234,O'Brien,,0,Mount Sterling,,,10,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00037,O'Connel,,0,Richmond,,,96,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20369,O'Connell,,0,Richmond,,,,,ss96
+minoraverages/1913Reach,1912,Blue Grass League,,P10591,O'Connol,,0,Richmond,,,,1,p
+minoraverages/1913Reach,1912,Blue Grass League,,B01275,O'Dell,,0,Mount Sterling,,,10,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10441,Odell,,0,Mount Sterling,,,,9,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00705,Ofroerer,,0,Frankfort,,,110,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00771,Patterson,,0,Mount Sterling,,,38,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00898,Popken,,0,Paris,,,35,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20080,Popken,,0,Paris,,,,,1b35
+minoraverages/1913Reach,1912,Blue Grass League,,P10455,Popken,,0,Paris,,,,6,p
+minoraverages/1913Reach,1912,Blue Grass League,,B01250,Rabb,,0,Richmond,,,26,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10244,Rabb,,0,Richmond,,,,19,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00840,Reed,,1,Mount Sterling,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00840,Reed,,2,Maysville,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00840,Reed,,T,,,,96,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10569,Reed,,0,Mount Sterling,,,,3,p
+minoraverages/1913Reach,1912,Blue Grass League,,P10534,Reeves,,0,Mount Sterling,,,,1,p
+minoraverages/1913Reach,1912,Blue Grass League,,P10192,Robbins,,0,Lexington,,,,9,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00232,Robinson,,0,Paris,,,1,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00833,Rosenfield,,0,Lexington,,,66,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20721,Rosenfield,,0,Lexington,,,,,c66
+minoraverages/1913Reach,1912,Blue Grass League,,B00806,Roth,,0,Richmond,,,109,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20737,Roth,,0,Richmond,,,,,c48
+minoraverages/1913Reach,1912,Blue Grass League,,B01345,Rowan,,0,Richmond,,,11,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10361,Rowan,,0,Richmond,,,,11,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00739,Rutherford,,0,Mount Sterling,,,46,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20768,Rutherford,,0,Mount Sterling,,,,,c30
+minoraverages/1913Reach,1912,Blue Grass League,,P10527,Rutherford,,0,Mount Sterling,,,,1,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00614,Sandfield,,1,Mount Sterling,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00614,Sandfield,,2,Maysville,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00614,Sandfield,,T,,,,18,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00589,Sandford,,0,Maysville,,,67,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10215,Sanford,,0,Maysville,,,,24,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00013,Schmidt,,0,Frankfort,,,16,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20673,Schmidt,,0,Frankfort,,,,,c16
+minoraverages/1913Reach,1912,Blue Grass League,,P10320,Schneider,,0,Maysville,,,,5,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00957,Scott,,0,Mount Sterling,,,12,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00726,Sears,,0,Mount Sterling,,,15,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10429,Sears,,0,Mount Sterling,,,,6,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00936,Seebach,,0,Frankfort,,,77,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20131,Seebach,,0,Frankfort,,,,,2b77
+minoraverages/1913Reach,1912,Blue Grass League,,B00515,Shea,,0,Mount Sterling,,,8,,
+minoraverages/1913Reach,1912,Blue Grass League,,B01300,Sheets,,0,Lexington,,,13,,
+minoraverages/1913Reach,1912,Blue Grass League,,B01359,Shook,,0,Paris,,,42,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20745,Shook,,0,Paris,,,,,c42
+minoraverages/1913Reach,1912,Blue Grass League,,B00488,Snyder,,0,Maysville,,,125,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20474,Snyder,,0,Maysville,,,,,of125
+minoraverages/emilbb,1912,Blue Grass League,,M91990,Spade,Bob,,Winchester/Nicholasville/Mount Sterling,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B01288,Spicer,,0,Mount Sterling,,,31,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20189,Spicer,,0,Mount Sterling,,,,,2b31
+minoraverages/1913Reach,1912,Blue Grass League,,P10550,Steger,,0,Mount Sterling,,,,1,p
+minoraverages/1913Reach,1912,Blue Grass League,,P10019,Steiger,,0,Lexington,,,,2,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00343,Stelle,,0,Frankfort,,,25,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20604,Stelle,,0,Frankfort,,,,,of25
+minoraverages/1913Reach,1912,Blue Grass League,,P10772,Tafferty,,0,Lexington,,,,4,p
+minoraverages/1913Reach,1912,Blue Grass League,,B01227,Theobold,,0,Mount Sterling,,,13,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10588,Thomas,,0,Mount Sterling,,,,4,p
+minoraverages/1913Reach,1912,Blue Grass League,,B01078,Turner,,0,Lexington,,,45,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10348,Turner,,0,Lexington,,,,39,p
+minoraverages/1913Reach,1912,Blue Grass League,,B01216,Uhrig,,1,Lexington,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B01216,Uhrig,,2,Mount Sterling,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B01216,Uhrig,,T,,,,29,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10542,Ulrich,,0,Mount Sterling,,,,2,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00651,Vallandingham,,0,Lexington,,,28,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10336,Vallandingham,,0,Lexington,,,,25,p
+minoraverages/1913Reach,1912,Blue Grass League,,B01156,Vance,,0,Maysville,,,45,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10145,Vance,,0,Maysville,,,,39,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00667,Vanlamdingham,,0,Mount Sterling,,,102,,
+minoraverages/1913Reach,1912,Blue Grass League,,B01384,Vetter,,0,Mount Sterling,,,26,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20342,Vetter,,0,Mount Sterling,,,,,ss26
+minoraverages/1913Reach,1912,Blue Grass League,,B01135,Volz,,0,Paris,,,22,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20636,Volz,,0,Paris,,,,,of22
+minoraverages/1913Reach,1912,Blue Grass League,,B01368,Wahl,,0,Frankfort,,,24,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10070,Wahl,,0,Frankfort,,,,24,p
+minoraverages/1913Reach,1912,Blue Grass League,,F20648,Walsch,,0,Maysville,,,,,of15
+minoraverages/1913Reach,1912,Blue Grass League,,B00973,Walsh,,1,Mount Sterling,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00973,Walsh,,2,Lexington,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00973,Walsh,,T,,,,84,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20153,Walsh,,1,Lexington,,,,,2b
+minoraverages/1913Reach,1912,Blue Grass League,,F20153,Walsh,,2,Mount Sterling,,,,,2b
+minoraverages/1913Reach,1912,Blue Grass League,,F20153,Walsh,,T,,,,,,2b84
+minoraverages/1913Reach,1912,Blue Grass League,,B00125,Weilman,,0,Maysville,,,50,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10137,Weilman,,0,Maysville,,,,24,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00397,Weitzel,,0,Frankfort,,,13,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10062,Weitzel,,0,Frankfort,,,,13,p
+minoraverages/1913Reach,1912,Blue Grass League,,P10746,Weller,,0,Lexington,,,,1,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00370,Wessell,,0,Lexington,,,25,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20350,Wessell,,0,Lexington,,,,,ss25
+minoraverages/1913Reach,1912,Blue Grass League,,B00319,White,,0,Frankfort,,,38,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20222,White,,0,Frankfort,,,,,3b38
+minoraverages/1913Reach,1912,Blue Grass League,,B00182,Wicker,,0,Lexington,,,93,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20571,Wicker,,0,Lexington,,,,,of93
+minoraverages/1913Reach,1912,Blue Grass League,,B00068,Wilhelm,,0,Lexington,,,3,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10751,Wilhelm,,0,Lexington,,,,4,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00638,Williams,,0,Maysville,,,126,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20144,Williams,,0,Maysville,,,,,2b126
+minoraverages/1913Reach,1912,Blue Grass League,,P10575,Wills,,0,Mount Sterling,,,,3,p
+minoraverages/1913Reach,1912,Blue Grass League,,B01143,Wood,,0,Mount Sterling,,,34,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00117,Woodcock,,1,Lexington,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00117,Woodcock,,2,Mount Sterling,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,B00117,Woodcock,,T,,,,39,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20334,Woodcock,,0,Lexington,,,,,ss39
+minoraverages/1913Reach,1912,Blue Grass League,,B00308,Woodruff,,0,Maysville,,,88,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20298,Woodruff,,0,Maysville,,,,,3b39
+minoraverages/1913Reach,1912,Blue Grass League,,F20657,Woodruff,,0,Maysville,,,,,c50
+minoraverages/1913Reach,1912,Blue Grass League,,P10640,Woods,,1,Paris,,,,,p
+minoraverages/1913Reach,1912,Blue Grass League,,P10640,Woods,,2,Mount Sterling,,,,,p
+minoraverages/1913Reach,1912,Blue Grass League,,P10640,Woods,,T,,,,,17,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00566,Wright,,0,Frankfort,,,15,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10228,Wright,,0,Frankfort,,,,11,p
+minoraverages/emilbb,1912,Blue Grass League,,M91931,Yancy,Hogan,,Lexington,,,,,
+minoraverages/1913Reach,1912,Blue Grass League,,P10606,Yetta,,0,Richmond,,,,1,p
+minoraverages/1913Reach,1912,Blue Grass League,,P10723,Young,,0,Lexington,,,,1,p
+minoraverages/1913Reach,1912,Blue Grass League,,B00196,Zimmerman,,0,Frankfort,,,47,,
+minoraverages/1913Reach,1912,Blue Grass League,,F20115,Zimmerman,,0,Frankfort,,,,,2b47

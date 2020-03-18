@@ -1,65 +1,88 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-boxscores/1915/1915-DMN,1915,Dallas City League,ackley,P3436581,Ackley,,,Brown Cracker,19150501,19150501,1,0,"of1,rf1"
-boxscores/1915/1915-DMN,1915,Dallas City League,adams,P1593970,Adams,,,Home Interurban,19150501,19150501,1,0,"of1,rf1"
-boxscores/1915/1915-DMN,1915,Dallas City League,bailey,P2493154,Bailey,,,Home Interurban,19150501,19150501,1,0,"of1,lf1"
-boxscores/1915/1915-DMN,1915,Dallas City League,baird,P1412604,Baird,,,Western Union,19150501,19150501,1,0,"of1,cf1"
-boxscores/1915/1915-DMN,1915,Dallas City League,ballard,P8249278,Ballard,,,Brown Cracker,19150501,19150501,1,0,ss1
-boxscores/1915/1915-DMN,1915,Dallas City League,bedford,P6071810,Bedford,,,Home Interurban,19150501,19150501,1,0,3b1
+boxscores/1915/1915-DMN,1915,Dallas City League,ackley,P3436581,Ackley,,,Brown Cracker,19150501,19150508,2,0,"of2,rf2"
+boxscores/1915/1915-DMN,1915,Dallas City League,adams,P1593970,Adams,,,Home Interurban,19150501,19150508,2,0,"of2,rf2"
+boxscores/1915/1915-DMN,1915,Dallas City League,bailey,P2493154,Bailey,,,Home Interurban,19150501,19150508,2,0,"of2,lf2"
+boxscores/1915/1915-DMN,1915,Dallas City League,baird,P1412604,Baird,,,Western Union,19150501,19150508,2,0,"2b1,of1,cf1"
+boxscores/1915/1915-DMN,1915,Dallas City League,ballard,P8249278,Ballard,,,Brown Cracker,19150501,19150508,2,0,ss2
+boxscores/1915/1915-DMN,1915,Dallas City League,bedford,P6071810,Bedford,,,Home Interurban,19150501,19150508,2,0,"3b1,ss1"
+boxscores/1915/1915-DMN,1915,Dallas City League,,P8621760,Bethel,,,Home Interurban,19150508,19150508,1,0,c1
 boxscores/1915/1915-DMN,1915,Dallas City League,black,P6934217,Black,,,Brown Cracker,19150501,19150501,1,0,c1
-boxscores/1915/1915-DMN,1915,Dallas City League,blackstone,P9615270,Blackstone,,,Texas Drug,19150501,19150501,1,0,"of1,rf1"
-boxscores/1915/1915-DMN,1915,Dallas City League,byrd,P1515862,Byrd,,,Texas Company,19150501,19150501,1,0,"of1,lf1"
-boxscores/1915/1915-DMN,1915,Dallas City League,byrum,P1669033,Byrum,,,Western Union,19150501,19150501,1,1,p1
-boxscores/1915/1915-DMN,1915,Dallas City League,cade,P4768493,Cade,,,Texas Drug,19150501,19150501,1,0,2b1
+boxscores/1915/1915-DMN,1915,Dallas City League,blackstone,P9615270,Blackstone,,,Texas Drug,19150501,19150508,2,0,"of2,lf1,rf1"
+boxscores/1915/1915-DMN,1915,Dallas City League,byrd,P1515862,Byrd,,,Texas Company,19150501,19150508,2,0,"of2,lf2"
+boxscores/1915/1915-DMN,1915,Dallas City League,byrum,P1669033,Byrum,,,Western Union,19150501,19150508,2,2,"p2,of1,rf1"
+boxscores/1915/1915-DMN,1915,Dallas City League,cade,P4768493,Cade,,,Texas Drug,19150501,19150508,2,0,2b2
+boxscores/1915/1915-DMN,1915,Dallas City League,,P3021257,Chase,,,Texas Company,19150508,19150508,1,0,"of1,cf1"
+boxscores/1915/1915-DMN,1915,Dallas City League,,P6829936,Cockrell,,,Farm & Ranch,19150508,19150508,1,1,p1
+boxscores/1915/1915-DMN,1915,Dallas City League,,P7312499,Crosby,,,Farm & Ranch,19150508,19150508,1,1,p1
+boxscores/1915/1915-DMN,1915,Dallas City League,,P3344503,Dale,,,Farm & Ranch,19150508,19150508,1,0,c1
+boxscores/1915/1915-DMN,1915,Dallas City League,,P1838597,Daniels,,,Texas Company,19150508,19150508,1,0,c1
 boxscores/1915/1915-DMN,1915,Dallas City League,davis,P6016273,Davis,,,Western Union,19150501,19150501,1,0,2b1
+boxscores/1915/1915-DMN,1915,Dallas City League,,P2612942,Dowd,,,Texas Drug,19150508,19150508,1,0,"of1,rf1"
 boxscores/1915/1915-DMN,1915,Dallas City League,easterwood,P5480775,Easterw'd,,,Farm & Ranch,19150501,19150501,1,0,"of1,rf1"
-boxscores/1915/1915-DMN,1915,Dallas City League,emerson,P4928691,Emerson,,,Western Union,19150501,19150501,1,0,"of1,rf1"
-boxscores/1915/1915-DMN,1915,Dallas City League,english,P9660246,English,,,Home Interurban,19150501,19150501,1,0,c1
+boxscores/1915/1915-DMN,1915,Dallas City League,,P7201735,Eastwood,,,Farm & Ranch,19150508,19150508,1,0,"of1,cf1"
+boxscores/1915/1915-DMN,1915,Dallas City League,emerson,P4928691,Emerson,,,Western Union,19150501,19150508,2,0,"of2,rf2"
+boxscores/1915/1915-DMN,1915,Dallas City League,english,P9660246,English,,,Home Interurban,19150501,19150508,2,0,"c1,of1,cf1"
 boxscores/1915/1915-DMN,1915,Dallas City League,erwin-fr,P3159750,Erwin,,,Farm & Ranch,19150501,19150501,1,0,"of1,lf1"
-boxscores/1915/1915-DMN,1915,Dallas City League,erwin-bc,P8803825,Erwin,,,Brown Cracker,19150501,19150501,1,0,"of1,lf1"
-boxscores/1915/1915-DMN,1915,Dallas City League,erwin@ump,P8284116,F. Erwin,,,#umpire,19150501,19150501,,,
+boxscores/1915/1915-DMN,1915,Dallas City League,erwin-bc,P8803825,Erwin,,,Brown Cracker,19150501,19150508,2,0,"of2,lf2"
+boxscores/1915/1915-DMN,1915,Dallas City League,erwin@ump,P8284116,F. Erwin,,,#umpire,19150501,19150508,,,
 boxscores/1915/1915-DMN,1915,Dallas City League,fitch,P0056814,Fitch,,,Texas Drug,19150501,19150501,1,0,"of1,rf1"
-boxscores/1915/1915-DMN,1915,Dallas City League,fitzgerald,P9654854,Fitzgerald,,,Western Union,19150501,19150501,1,0,"ss1,of1,lf1"
+boxscores/1915/1915-DMN,1915,Dallas City League,fitzgerald,P9654854,Fitzgerald,,,Western Union,19150501,19150508,2,0,"ss1,of2,lf1,cf1"
+boxscores/1915/1915-DMN,1915,Dallas City League,,P3524430,Fletcher,,,Farm & Ranch,19150508,19150508,1,0,"of1,rf1"
 boxscores/1915/1915-DMN,1915,Dallas City League,freeman,P6047294,Freeman,,,Texas Drug,19150501,19150501,1,1,p1
-boxscores/1915/1915-DMN,1915,Dallas City League,glass,P6687194,Glass,,,Texas Drug,19150501,19150501,1,0,3b1
+boxscores/1915/1915-DMN,1915,Dallas City League,glass,P6687194,Glass,,,Texas Drug,19150501,19150508,2,0,"c1,3b1"
+boxscores/1915/1915-DMN,1915,Dallas City League,,P8722254,Griffith,,,#umpire,19150508,19150508,,,
 boxscores/1915/1915-DMN,1915,Dallas City League,halback,P6198215,Halback,,,Farm & Ranch,19150501,19150501,1,0,3b1
-boxscores/1915/1915-DMN,1915,Dallas City League,harrison,P8087506,Harrison,,,Home Interurban,19150501,19150501,1,0,2b1
+boxscores/1915/1915-DMN,1915,Dallas City League,,P3234473,Harris,,,Texas Drug,19150508,19150508,1,1,p1
+boxscores/1915/1915-DMN,1915,Dallas City League,harrison,P8087506,Harrison,,,Home Interurban,19150501,19150508,2,0,2b2
+boxscores/1915/1915-DMN,1915,Dallas City League,,P1428279,Head,,,Texas Company,19150508,19150508,1,0,ss1
 boxscores/1915/1915-DMN,1915,Dallas City League,hegstrom,P9559811,Hegstrom,,,Western Union,19150501,19150501,1,0,3b1
 boxscores/1915/1915-DMN,1915,Dallas City League,hickman,P7418496,Hickman,,,Texas Company,19150501,19150501,1,0,"of1,cf1"
-boxscores/1915/1915-DMN,1915,Dallas City League,hoffman,P8035609,Hoffman,,,Western Union,19150501,19150501,1,0,"of1,lf1"
-boxscores/1915/1915-DMN,1915,Dallas City League,jefferies,P0914591,Jefferies,,,Home Interurban,19150501,19150501,1,1,p1
-boxscores/1915/1915-DMN,1915,Dallas City League,karnes,P0113289,Karnes,,,Texas Company,19150501,19150501,1,0,3b1
+boxscores/1915/1915-DMN,1915,Dallas City League,hoffman,P8035609,Hoffman,,,Western Union,19150501,19150508,2,0,"of2,lf2"
+boxscores/1915/1915-DMN,1915,Dallas City League,,P5162773,Holback,,,Farm & Ranch,19150508,19150508,1,0,3b1
+boxscores/1915/1915-DMN,1915,Dallas City League,jefferies,P0914591,Jefferies,,,Home Interurban,19150501,19150508,2,2,p2
+boxscores/1915/1915-DMN,1915,Dallas City League,karnes,P0113289,Karnes,,,Texas Company,19150501,19150508,2,0,3b2
 boxscores/1915/1915-DMN,1915,Dallas City League,kemp,P5244814,Kemp,,,Farm & Ranch,19150501,19150501,1,1,p1
 boxscores/1915/1915-DMN,1915,Dallas City League,kosby,P0278281,Kosby,,,Farm & Ranch,19150501,19150501,1,0,
+boxscores/1915/1915-DMN,1915,Dallas City League,,P3380727,Lovelace,,,Home Interurban,19150508,19150508,1,0,"of1,rf1"
 boxscores/1915/1915-DMN,1915,Dallas City League,loveless,P0629081,Loveless,,,Home Interurban,19150501,19150501,1,0,"of1,cf1"
-boxscores/1915/1915-DMN,1915,Dallas City League,lowry,P5028233,Lowry,,,Brown Cracker,19150501,19150501,1,1,p1
+boxscores/1915/1915-DMN,1915,Dallas City League,lowry,P5028233,Lowry,,,Brown Cracker,19150501,19150508,2,1,"p1,of1,rf1"
+boxscores/1915/1915-DMN,1915,Dallas City League,,P8822815,Mansnerius,,,Western Union,19150508,19150508,1,0,3b1
 boxscores/1915/1915-DMN,1915,Dallas City League,marlin,P7207375,Marlin,,,Home Interurban,19150501,19150501,1,0,"of1,lf1"
-boxscores/1915/1915-DMN,1915,Dallas City League,mcdaniel,P8011970,McDaniel,,,Texas Company,19150501,19150501,1,0,1b1
-boxscores/1915/1915-DMN,1915,Dallas City League,mcdonald,P4126894,McDonald,,,Home Interurban,19150501,19150501,1,0,ss1
+boxscores/1915/1915-DMN,1915,Dallas City League,,P3758551,Martin,,,Home Interurban,19150508,19150508,1,1,p1
+boxscores/1915/1915-DMN,1915,Dallas City League,mcdaniel,P8011970,McDaniel,,,Texas Company,19150501,19150508,2,0,1b2
+boxscores/1915/1915-DMN,1915,Dallas City League,mcdonald,P4126894,McDonald,,,Home Interurban,19150501,19150508,2,0,"3b1,ss1"
 boxscores/1915/1915-DMN,1915,Dallas City League,mckinney@ump,P3106137,McKinney,,,#umpire,19150501,19150501,,,
+boxscores/1915/1915-DMN,1915,Dallas City League,,P4410231,Mitchell,,,Texas Company,19150508,19150508,1,1,p1
 boxscores/1915/1915-DMN,1915,Dallas City League,moffett-fr,P4122070,Moffett,,,Farm & Ranch,19150501,19150501,1,0,2b1
 boxscores/1915/1915-DMN,1915,Dallas City League,moffit-wu,P1576799,Moffit,,,Western Union,19150501,19150501,1,0,ss1
-boxscores/1915/1915-DMN,1915,Dallas City League,morris,P4967805,Morris,,,Farm & Ranch,19150501,19150501,1,0,"of1,cf1"
-boxscores/1915/1915-DMN,1915,Dallas City League,nichols,P8590389,Nichols,,,Texas Company,19150501,19150501,1,0,2b1
-boxscores/1915/1915-DMN,1915,Dallas City League,obrien,P1066016,O'Brien,,,Western Union,19150501,19150501,1,0,ss1
-boxscores/1915/1915-DMN,1915,Dallas City League,oconnor,P7410417,O'Connor,,,Brown Cracker,19150501,19150501,1,0,"of1,cf1"
-boxscores/1915/1915-DMN,1915,Dallas City League,peterman,P3977788,Peterman,,,Texas Drug,19150501,19150501,1,0,ss1
+boxscores/1915/1915-DMN,1915,Dallas City League,,P8485286,Moffit,,,Farm & Ranch,19150508,19150508,1,0,2b1
+boxscores/1915/1915-DMN,1915,Dallas City League,morris,P4967805,Morris,,,Farm & Ranch,19150501,19150508,2,0,"of2,lf1,cf1"
+boxscores/1915/1915-DMN,1915,Dallas City League,nichols,P8590389,Nichols,,,Texas Company,19150501,19150508,2,0,2b2
+boxscores/1915/1915-DMN,1915,Dallas City League,obrien,P1066016,O'Brien,,,Western Union,19150501,19150508,2,1,"p1,2b1,ss1"
+boxscores/1915/1915-DMN,1915,Dallas City League,oconnor,P7410417,O'Connor,,,Brown Cracker,19150501,19150508,2,0,"3b1,of1,cf1"
+boxscores/1915/1915-DMN,1915,Dallas City League,peterman,P3977788,Peterman,,,Texas Drug,19150501,19150508,2,0,"3b1,ss1"
 boxscores/1915/1915-DMN,1915,Dallas City League,phillips,P2542378,Phillips,,,Texas Company,19150501,19150501,1,0,c1
-boxscores/1915/1915-DMN,1915,Dallas City League,pritchard,P2338811,Pritchard,,,Western Union,19150501,19150501,1,0,1b1
+boxscores/1915/1915-DMN,1915,Dallas City League,,P6277346,Polk,,,Brown Cracker,19150508,19150508,1,0,"of1,cf1"
+boxscores/1915/1915-DMN,1915,Dallas City League,pritchard,P2338811,Pritchard,,,Western Union,19150501,19150508,2,0,"c1,1b2"
+boxscores/1915/1915-DMN,1915,Dallas City League,,P9218122,Rayfield,,,Western Union,19150508,19150508,1,0,ss1
 boxscores/1915/1915-DMN,1915,Dallas City League,rhode,P1158514,Rhode,,,Texas Drug,19150501,19150501,1,0,"of1,lf1"
-boxscores/1915/1915-DMN,1915,Dallas City League,richardson,P1324569,Richardson,,,Brown Cracker,19150501,19150501,1,0,1b1
+boxscores/1915/1915-DMN,1915,Dallas City League,richardson,P1324569,Richardson,,,Brown Cracker,19150501,19150508,2,0,"c1,1b1"
+boxscores/1915/1915-DMN,1915,Dallas City League,,P0605010,Rohde,,,Texas Drug,19150508,19150508,1,0,ss1
 boxscores/1915/1915-DMN,1915,Dallas City League,schlicker,P8986009,Schlicker,,,Farm & Ranch,19150501,19150501,1,0,c1
-boxscores/1915/1915-DMN,1915,Dallas City League,shelton,P4473481,Shelton,,,Brown Cracker,19150501,19150501,1,0,3b1
-boxscores/1915/1915-DMN,1915,Dallas City League,staaden,P6983296,Staaden,,,Texas Drug,19150501,19150501,1,0,1b1
-boxscores/1915/1915-DMN,1915,Dallas City League,taylor@ump,P9152854,Taylor,,,#umpire,19150501,19150501,,,
+boxscores/1915/1915-DMN,1915,Dallas City League,shelton,P4473481,Shelton,,,Brown Cracker,19150501,19150508,2,0,"1b1,3b1"
+boxscores/1915/1915-DMN,1915,Dallas City League,staaden,P6983296,Staaden,,,Texas Drug,19150501,19150508,2,0,1b2
+boxscores/1915/1915-DMN,1915,Dallas City League,,P7756120,Strawbridge,,,Western Union,19150508,19150508,1,0,1b1
+boxscores/1915/1915-DMN,1915,Dallas City League,,P6736656,Swank,,,Brown Cracker,19150508,19150508,1,1,p1
+boxscores/1915/1915-DMN,1915,Dallas City League,taylor@ump,P9152854,Taylor,,,#umpire,19150501,19150508,,,
 boxscores/1915/1915-DMN,1915,Dallas City League,tenney,P0255192,Tenney,,,Texas Company,19150501,19150501,1,1,p1
-boxscores/1915/1915-DMN,1915,Dallas City League,tillery,P8882918,Tillery,,,Farm & Ranch,19150501,19150501,1,0,ss1
+boxscores/1915/1915-DMN,1915,Dallas City League,tillery,P8882918,Tillery,,,Farm & Ranch,19150501,19150508,2,0,ss2
 boxscores/1915/1915-DMN,1915,Dallas City League,tingoe,P2522770,Tingoe,,,Home Interurban,19150501,19150501,1,0,c1
-boxscores/1915/1915-DMN,1915,Dallas City League,tobias,P8062798,Tobias,,,Brown Cracker,19150501,19150501,1,0,2b1
+boxscores/1915/1915-DMN,1915,Dallas City League,tobias,P8062798,Tobias,,,Brown Cracker,19150501,19150508,2,0,2b2
 boxscores/1915/1915-DMN,1915,Dallas City League,waites,P2943661,Waites,,,Texas Drug,19150501,19150501,1,0,c1
-boxscores/1915/1915-DMN,1915,Dallas City League,walker,P2093771,Walker,,,Texas Company,19150501,19150501,1,0,"of1,rf1"
-boxscores/1915/1915-DMN,1915,Dallas City League,ward,P6202810,Ward,,,Home Interurban,19150501,19150501,1,0,1b1
-boxscores/1915/1915-DMN,1915,Dallas City League,warren,P7371376,Warren,,,Farm & Ranch,19150501,19150501,1,0,1b1
-boxscores/1915/1915-DMN,1915,Dallas City League,welch,P9352909,Welch,,,Western Union,19150501,19150501,1,0,c1
+boxscores/1915/1915-DMN,1915,Dallas City League,walker,P2093771,Walker,,,Texas Company,19150501,19150508,2,0,"of2,rf2"
+boxscores/1915/1915-DMN,1915,Dallas City League,ward,P6202810,Ward,,,Home Interurban,19150501,19150508,2,0,1b2
+boxscores/1915/1915-DMN,1915,Dallas City League,warren,P7371376,Warren,,,Farm & Ranch,19150501,19150508,2,0,1b2
+boxscores/1915/1915-DMN,1915,Dallas City League,welch,P9352909,Welch,,,Western Union,19150501,19150508,2,0,c2
 boxscores/1915/1915-DMN,1915,Dallas City League,wesland,P3290593,Wes'land,,,Brown Cracker,19150501,19150501,1,0,
 boxscores/1915/1915-DMN,1915,Dallas City League,williams,P6010183,Williams,,,Texas Company,19150501,19150501,1,0,ss1
-boxscores/1915/1915-DMN,1915,Dallas City League,wisdom,P9017779,Wisdom,,,Texas Drug,19150501,19150501,1,0,"of1,cf1"
+boxscores/1915/1915-DMN,1915,Dallas City League,wisdom,P9017779,Wisdom,,,Texas Drug,19150501,19150508,2,0,"of2,cf2"
