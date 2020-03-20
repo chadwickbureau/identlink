@@ -24,8 +24,8 @@ minoraverages/1973TSN,1972,Mexican League,almada,P10056,Almada,,0,Mexico City Ti
 minoraverages/1973TSN,1972,Mexican League,almonte,B00092,Almonte,Secundino,0,Monterrey,,,35,,
 minoraverages/1973TSN,1972,Mexican League,almonte,F24113,Almonte,,0,Monterrey,,,,,p35
 minoraverages/1973TSN,1972,Mexican League,almonte,P10062,Almonte,,0,Monterrey,,,,35,p
-minoraverages/1973TSN,1972,Mexican League,alvarado,B00101,Alvarado,Alejandro,0,Gomez Palacio,,,64,,
-minoraverages/1973TSN,1972,Mexican League,alvarado,F22465,Alvarado,,0,Gomez Palacio,,,,,of64
+minoraverages/1973TSN,1972,Mexican League,,B00101,Alvarado,Alejandro,0,Union Laguna,,,64,,
+minoraverages/1973TSN,1972,Mexican League,,F22465,Alvarado,,0,Union Laguna,,,,,of64
 minoraverages/1973TSN,1972,Mexican League,alvarez-yuc,B00117,Alvarez,Arturo,0,Yucatan,,,131,,
 minoraverages/1973TSN,1972,Mexican League,alvarez-yam,B00125,Alvarez,Fidel,0,Tampico,,,3,,
 minoraverages/1973TSN,1972,Mexican League,alvarez-sab,B00130,Alvarez,Jesus,0,Sabinas,,,28,,
@@ -192,8 +192,8 @@ minoraverages/1973TSN,1972,Mexican League,campoy,F23655,Campoy,,0,Tampico,,,,,p3
 minoraverages/1973TSN,1972,Mexican League,campoy,P10290,Campoy,,0,Tampico,,,,31,p
 minoraverages/1973TSN,1972,Mexican League,canada,B00623,Canada,Romel,0,Saltillo,,,49,,
 minoraverages/1973TSN,1972,Mexican League,canada,F22386,Canada,,0,Saltillo,,,,,of49
-minoraverages/1973TSN,1972,Mexican League,canas,B00614,Canas,Nelson,0,Gomez Palacio,,,33,,
-minoraverages/1973TSN,1972,Mexican League,canas,F21158,Canas,,0,Gomez Palacio,,,,,3b33
+minoraverages/1973TSN,1972,Mexican League,,B00614,Canas,Nelson,0,Union Laguna,,,33,,
+minoraverages/1973TSN,1972,Mexican League,,F21158,Canas,,0,Union Laguna,,,,,3b33
 minoraverages/1973TSN,1972,Mexican League,carrasco,B00638,Carrasco,Carlos,0,Reynosa,,,34,,
 minoraverages/1973TSN,1972,Mexican League,carrasco,F24231,Carrasco,,0,Reynosa,,,,,p34
 minoraverages/1973TSN,1972,Mexican League,carrasco,P10304,Carrasco,,0,Reynosa,,,,34,p
@@ -210,9 +210,9 @@ minoraverages/1973TSN,1972,Mexican League,castillo-rey,F25126,Castillo,,0,Reynos
 minoraverages/1973TSN,1972,Mexican League,castillo-rey,F25139,Castillo,,0,Reynosa,,,,,p
 minoraverages/1973TSN,1972,Mexican League,castillo-sal,P10320,Castillo,,0,Saltillo,,,,30,p
 minoraverages/1973TSN,1972,Mexican League,castro-sab,B00680,Castro,Arnoldo,0,Sabinas,,,129,,
-minoraverages/1973TSN,1972,Mexican League,castro-gp,B00695,Castro,Fernando,0,Gomez Palacio,,,17,,
+minoraverages/1973TSN,1972,Mexican League,,B00695,Castro,Fernando,0,Union Laguna,,,17,,
 minoraverages/1973TSN,1972,Mexican League,castro-sab,F20449,Castro,,0,Sabinas,,,,,2b129
-minoraverages/1973TSN,1972,Mexican League,castro-gp,F21833,Castro,,0,Gomez Palacio,,,,,of17
+minoraverages/1973TSN,1972,Mexican League,,F21833,Castro,,0,Union Laguna,,,,,of17
 minoraverages/1973TSN,1972,Mexican League,cavanaugh,B00705,Cavanaugh,Carl,0,Poza Rica,,,34,,
 minoraverages/1973TSN,1972,Mexican League,cavanaugh,F24215,Cavanaugh,,0,Poza Rica,,,,,p32
 minoraverages/1973TSN,1972,Mexican League,cavanaugh,P10336,Cavanaugh,,0,Poza Rica,,,,32,p
@@ -288,8 +288,8 @@ minoraverages/1973TSN,1972,Mexican League,cruz-jal+ver,P10410,Cruz,,2,Veracruz,,
 minoraverages/1973TSN,1972,Mexican League,cruz-jal+ver,P10410,Cruz,,T,,,,,29,p
 minoraverages/1973TSN,1972,Mexican League,cruz-pr,P10429,Cruz,,0,Poza Rica,,,,28,p
 minoraverages/1973TSN,1972,Mexican League,cruz-yuc,P10432,Cruz,,0,Yucatan,,,,27,p
-minoraverages/1973TSN,1972,Mexican League,cunnigahan,B00957,Cunnigahan,Donald,0,Gomez Palacio,,,20,,
-minoraverages/1973TSN,1972,Mexican League,cunnigahan,F22267,Cunnigahan,,0,Gomez Palacio,,,,,of20
+minoraverages/1973TSN,1972,Mexican League,,B00957,Cunnigahan,Donald,0,Union Laguna,,,20,,
+minoraverages/1973TSN,1972,Mexican League,,F22267,Cunnigahan,,0,Union Laguna,,,,,of20
 minoraverages/1973TSN,1972,Mexican League,davila-rey,B00961,Davila,Jose A.,0,Reynosa,,,50,,
 minoraverages/1973TSN,1972,Mexican League,davila-mty,B00973,Davila,L. Alberto,0,Monterrey,,,80,,
 minoraverages/1973TSN,1972,Mexican League,davila-mty,F22057,Davila,,0,Monterrey,,,,,of80
@@ -303,11 +303,11 @@ minoraverages/1973TSN,1972,Mexican League,dayle,P10455,Dayle,,0,Sabinas,,,,8,p
 minoraverages/1973TSN,1972,Mexican League,dehoyos,B01007,De Hoyos,Manuel,0,Sabinas,,,8,,
 minoraverages/1973TSN,1972,Mexican League,dehoyos,F24818,De Hoyos,,0,Sabinas,,,,,p7
 minoraverages/1973TSN,1972,Mexican League,dehoyos,P10464,De Hoyos,,0,Sabinas,,,,7,p
-minoraverages/1973TSN,1972,Mexican League,delatorre-gp,B01010,De La Torre,Adolfo,0,Gomez Palacio,,,5,,
+minoraverages/1973TSN,1972,Mexican League,,B01010,De La Torre,Adolfo,0,Union Laguna,,,5,,
 minoraverages/1973TSN,1972,Mexican League,delatorre-sab,B01029,De La Torre,Guadalupe,0,Sabinas,,,27,,
 minoraverages/1973TSN,1972,Mexican League,delatorre-sab,F23827,De La Torre,,0,Sabinas,,,,,p22
-minoraverages/1973TSN,1972,Mexican League,delatorre-gp,F24871,De La Torre,,0,Gomez Palacio,,,,,p4
-minoraverages/1973TSN,1972,Mexican League,delatorre-gp,P10478,De La Torre,,0,Gomez Palacio,,,,4,p
+minoraverages/1973TSN,1972,Mexican League,,F24871,De La Torre,,0,Union Laguna,,,,,p4
+minoraverages/1973TSN,1972,Mexican League,,P10478,De La Torre,,0,Union Laguna,,,,4,p
 minoraverages/1973TSN,1972,Mexican League,delatorre-sab,P10486,De La Torre,,0,Sabinas,,,,22,p
 minoraverages/1973TSN,1972,Mexican League,delfin,B01032,Delfin,Justino,0,Mexico City Tigers,,,7,,
 minoraverages/1973TSN,1972,Mexican League,delfin,F24949,Delfin,,0,Mexico City Tigers,,,,,p7
@@ -331,10 +331,10 @@ minoraverages/1973TSN,1972,Mexican League,diaz-mty+rey,P10516,Diaz,,T,,,,,16,p
 minoraverages/1973TSN,1972,Mexican League,diaz-mct,P10527,Diaz,,0,Mexico City Tigers,,,,19,p
 minoraverages/1973TSN,1972,Mexican League,duckworth,F23237,Dockworth,,0,Reynosa,,,,,c5
 minoraverages/1973TSN,1972,Mexican League,dominguez-cor,B01078,Dominguez,Hector,0,Cordoba,,,9,,
-minoraverages/1973TSN,1972,Mexican League,dominguez-gp,B01086,Dominguez,Marcelino,0,Gomez Palacio,,,7,,
+minoraverages/1973TSN,1972,Mexican League,,B01086,Dominguez,Marcelino,0,Union Laguna,,,7,,
 minoraverages/1973TSN,1972,Mexican League,dominguez-cor,F22719,Dominguez,,0,Cordoba,,,,,of9
-minoraverages/1973TSN,1972,Mexican League,dominguez-gp,F25030,Dominguez,,0,Gomez Palacio,,,,,p6
-minoraverages/1973TSN,1972,Mexican League,dominguez-gp,P10534,Dominguez,,0,Gomez Palacio,,,,6,p
+minoraverages/1973TSN,1972,Mexican League,,F25030,Dominguez,,0,Union Laguna,,,,,p6
+minoraverages/1973TSN,1972,Mexican League,,P10534,Dominguez,,0,Union Laguna,,,,6,p
 minoraverages/1973TSN,1972,Mexican League,duckworth,B01093,Duckworth,Howard,0,Reynosa,,,5,,
 minoraverages/1973TSN,1972,Mexican League,elizalde,B01108,Elizalde,Eusebio,0,Sabinas,,,1,,
 minoraverages/1973TSN,1972,Mexican League,elizalde,F25147,Elizalde,,0,Sabinas,,,,,p
@@ -369,7 +369,7 @@ minoraverages/1973TSN,1972,Mexican League,fajardo,P10575,Fajardo,,0,Puebla,,,,34
 minoraverages/1973TSN,1972,Mexican League,ferguson,F23915,Ferguson,,0,Yucatan,,,,,p34
 minoraverages/1973TSN,1972,Mexican League,ferguson,B01227,Ferguson M.,Leonardo,0,Yucatan,,,45,,
 minoraverages/1973TSN,1972,Mexican League,ferguson,P10588,Ferguson M.,,0,Yucatan,,,,34,p
-minoraverages/1973TSN,1972,Mexican League,fernandez-gp,B01234,Fernandez,Alberto,0,Gomez Palacio,,,9,,
+minoraverages/1973TSN,1972,Mexican League,,B01234,Fernandez,Alberto,0,Union Laguna,,,9,,
 minoraverages/1973TSN,1972,Mexican League,fernandez-rey,B01242,Fernandez,Rogelio,0,Reynosa,,,61,,
 minoraverages/1973TSN,1972,Mexican League,fernandez-rey,F20474,Fernandez,,0,Reynosa,,,,,2b61
 minoraverages/1973TSN,1972,Mexican League,figueroa,B01250,Figueroa,Agustin,0,Saltillo,,,42,,
@@ -381,17 +381,17 @@ minoraverages/1973TSN,1972,Mexican League,flores,F20661,Flores,,0,Mexico City Ti
 minoraverages/1973TSN,1972,Mexican League,fuentes,B01275,Fuentes,Antonio,0,Poza Rica,,,42,,
 minoraverages/1973TSN,1972,Mexican League,fuentes,F20496,Fuentes,,0,Poza Rica,,,,,2b61
 minoraverages/1973TSN,1972,Mexican League,fuentes,F21705,Fuentes,,0,Poza Rica,,,,,ss7
-minoraverages/1973TSN,1972,Mexican League,galindo,B01288,Galindo,Guillermo,0,Gomez Palacio,,,120,,
-minoraverages/1973TSN,1972,Mexican League,galindo,F20583,Galindo,,0,Gomez Palacio,,,,,2b48
-minoraverages/1973TSN,1972,Mexican League,galindo,F20924,Galindo,,0,Gomez Palacio,,,,,3b59
-minoraverages/1973TSN,1972,Mexican League,galindo,F21362,Galindo,,0,Gomez Palacio,,,,,ss39
-minoraverages/1973TSN,1972,Mexican League,gamez,B01291,Gamez,Raul,1,Gomez Palacio,,,8,,
+minoraverages/1973TSN,1972,Mexican League,,B01288,Galindo,Guillermo,0,Union Laguna,,,120,,
+minoraverages/1973TSN,1972,Mexican League,,F20583,Galindo,,0,Union Laguna,,,,,2b48
+minoraverages/1973TSN,1972,Mexican League,,F20924,Galindo,,0,Union Laguna,,,,,3b59
+minoraverages/1973TSN,1972,Mexican League,,F21362,Galindo,,0,Union Laguna,,,,,ss39
+minoraverages/1973TSN,1972,Mexican League,,B01291,Gamez,Raul,1,Union Laguna,,,8,,
 minoraverages/1973TSN,1972,Mexican League,gamez,B01291,Gamez,Raul,2,Tampico,,,20,,
 minoraverages/1973TSN,1972,Mexican League,gamez,B01291,Gamez,Raul,T,,,,28,,
-minoraverages/1973TSN,1972,Mexican League,gamez,F23749,Gamez,,1,Gomez Palacio,,,,,p
+minoraverages/1973TSN,1972,Mexican League,,F23749,Gamez,,1,Union Laguna,,,,,p
 minoraverages/1973TSN,1972,Mexican League,gamez,F23749,Gamez,,2,Tampico,,,,,p
 minoraverages/1973TSN,1972,Mexican League,gamez,F23749,Gamez,,T,,,,,,p27
-minoraverages/1973TSN,1972,Mexican League,gamez,P10606,Gamez,,1,Gomez Palacio,,,,8,p
+minoraverages/1973TSN,1972,Mexican League,,P10606,Gamez,,1,Union Laguna,,,,8,p
 minoraverages/1973TSN,1972,Mexican League,gamez,P10606,Gamez,,2,Tampico,,,,19,p
 minoraverages/1973TSN,1972,Mexican League,gamez,P10606,Gamez,,T,,,,,27,p
 minoraverages/1973TSN,1972,Mexican League,gamundi,B01300,Gamundi,Timoteo,0,Poza Rica,,,55,,
@@ -460,20 +460,20 @@ minoraverages/1973TSN,1972,Mexican League,gonzalez-ver,F23472,Gonzalez,,0,Veracr
 minoraverages/1973TSN,1972,Mexican League,gonzalez-tam,M90257,Gonzalez,Pedro,,Tampico,,,,,
 minoraverages/1973TSN,1972,Mexican League,gonzalez-ver,P10698,Gonzalez,,0,Veracruz,,,,27,p
 minoraverages/1973TSN,1972,Mexican League,gonzalez-sab,F22596,Gonzalez L.,,0,Sabinas,,,,,of115
-minoraverages/1973TSN,1972,Mexican League,goossen,B01490,Goossen,Gregory,0,Gomez Palacio,,,28,,
-minoraverages/1973TSN,1972,Mexican League,goossen,F22150,Goossen,,0,Gomez Palacio,,,,,of28
+minoraverages/1973TSN,1972,Mexican League,,B01490,Goossen,Gregory,0,Union Laguna,,,28,,
+minoraverages/1973TSN,1972,Mexican League,,F22150,Goossen,,0,Union Laguna,,,,,of28
 minoraverages/1973TSN,1972,Mexican League,grant,B01509,Grant,W. Richard,0,Saltillo,,,18,,
 minoraverages/1973TSN,1972,Mexican League,grant,F20189,Grant,W.,0,Saltillo,,,,,1b18
 minoraverages/1973TSN,1972,Mexican League,grant,F24883,Grant,,0,Saltillo,,,,,p3
 minoraverages/1973TSN,1972,Mexican League,grant,P10709,Grant,,0,Saltillo,,,,3,p
 minoraverages/1973TSN,1972,Mexican League,guerrero-tam,B01514,Guerrero,Encarnacion,0,Tampico,,,12,,
-minoraverages/1973TSN,1972,Mexican League,guerrero-gp,B01523,Guerrero,Jose H.,0,Gomez Palacio,,,30,,
+minoraverages/1973TSN,1972,Mexican League,,B01523,Guerrero,Jose H.,0,Union Laguna,,,30,,
 minoraverages/1973TSN,1972,Mexican League,guerrero-jal,B01538,Guerrero,Leobardo,0,Jalisco,,,18,,
-minoraverages/1973TSN,1972,Mexican League,guerrero-gp,F20369,Guerrero,,0,Gomez Palacio,,,,,1b6
+minoraverages/1973TSN,1972,Mexican League,,F20369,Guerrero,,0,Union Laguna,,,,,1b6
 minoraverages/1973TSN,1972,Mexican League,guerrero-jal,F21695,Guerrero,,0,Jalisco,,,,,ss2
 minoraverages/1973TSN,1972,Mexican League,guerrero-jal,F22647,Guerrero,,0,Jalisco,,,,,of16
 minoraverages/1973TSN,1972,Mexican League,guerrero-tam,F25171,Guerrero,,0,Tampico,,,,,of
-minoraverages/1973TSN,1972,Mexican League,guerrero-gp,M90060,Guerrero,Jose,,Gomez Palacio,,,,,
+minoraverages/1973TSN,1972,Mexican League,,M90060,Guerrero,Jose,,Union Laguna,,,,,
 minoraverages/1973TSN,1972,Mexican League,guillen,B01546,Guillen,Jose,0,Sabinas,,,7,,
 minoraverages/1973TSN,1972,Mexican League,guillen,F22708,Guillen,,0,Sabinas,,,,,of2
 minoraverages/1973TSN,1972,Mexican League,gutierrez.a-cor,B01551,Gutierrez,Andres,0,Cordoba,,,10,,
@@ -497,10 +497,10 @@ minoraverages/1973TSN,1972,Mexican League,gutierrez.p-tam,P10746,Gutierrez,P.,0,
 minoraverages/1973TSN,1972,Mexican League,harrelson,B01625,Harrelson,William,0,Jalisco,,,18,,
 minoraverages/1973TSN,1972,Mexican League,harrelson,F24432,Harrelson,,0,Jalisco,,,,,p18
 minoraverages/1973TSN,1972,Mexican League,harrelson,P10751,Harrelson,,0,Jalisco,,,,18,p
-minoraverages/1973TSN,1972,Mexican League,henderson,B01630,Henderson,Joseph,0,Gomez Palacio,,,18,,
-minoraverages/1973TSN,1972,Mexican League,henderson,F22797,Henderson,,0,Gomez Palacio,,,,,of1
-minoraverages/1973TSN,1972,Mexican League,henderson,F23535,Henderson,,0,Gomez Palacio,,,,,p11
-minoraverages/1973TSN,1972,Mexican League,henderson,P10767,Henderson,,0,Gomez Palacio,,,,11,p
+minoraverages/1973TSN,1972,Mexican League,,B01630,Henderson,Joseph,0,Union Laguna,,,18,,
+minoraverages/1973TSN,1972,Mexican League,,F22797,Henderson,,0,Union Laguna,,,,,of1
+minoraverages/1973TSN,1972,Mexican League,,F23535,Henderson,,0,Union Laguna,,,,,p11
+minoraverages/1973TSN,1972,Mexican League,,P10767,Henderson,,0,Union Laguna,,,,11,p
 minoraverages/1973TSN,1972,Mexican League,hernaiz,B01649,Hernaiz,Jesus,0,Cordoba,,,20,,
 minoraverages/1973TSN,1972,Mexican League,hernaiz,F24159,Hernaiz,,0,Cordoba,,,,,p16
 minoraverages/1973TSN,1972,Mexican League,hernaiz,P10772,Hernaiz,,0,Cordoba,,,,16,p
@@ -543,10 +543,10 @@ minoraverages/1973TSN,1972,Mexican League,huggins,B01765,Huggins,Jesse,0,Tampico
 minoraverages/1973TSN,1972,Mexican League,huggins,F24121,Huggins,,0,Tampico,,,,,p29
 minoraverages/1973TSN,1972,Mexican League,huggins,P10826,Huggins,,0,Tampico,,,,29,p
 minoraverages/1973TSN,1972,Mexican League,ibarra-sab,B01779,Ibarra,Fidencio,0,Sabinas,,,24,,
-minoraverages/1973TSN,1972,Mexican League,ibarra-gp,B01787,Ibarra,Humberto,0,Gomez Palacio,,,1,,
+minoraverages/1973TSN,1972,Mexican League,,B01787,Ibarra,Humberto,0,Union Laguna,,,1,,
 minoraverages/1973TSN,1972,Mexican League,ibarra-sab,F21278,Ibarra,,0,Sabinas,,,,,3b6
 minoraverages/1973TSN,1972,Mexican League,ibarra-sab,F21726,Ibarra,,0,Sabinas,,,,,ss4
-minoraverages/1973TSN,1972,Mexican League,ibarra-gp,F22743,Ibarra,,0,Gomez Palacio,,,,,of1
+minoraverages/1973TSN,1972,Mexican League,,F22743,Ibarra,,0,Union Laguna,,,,,of1
 minoraverages/1973TSN,1972,Mexican League,icedo,B01798,Icedo,Enrique,0,Mexico City Tigers,,,16,,
 minoraverages/1973TSN,1972,Mexican League,icedo,F24963,Icedo,,0,Mexico City Tigers,,,,,p6
 minoraverages/1973TSN,1972,Mexican League,icedo,P10839,Icedo,,0,Mexico City Tigers,,,,6,p
@@ -563,8 +563,8 @@ minoraverages/1973TSN,1972,Mexican League,izquierdo,B01812,Izquierdo,Enrique,0,Y
 minoraverages/1973TSN,1972,Mexican League,izquierdo,F20699,Izquierdo,,0,Yucatan,,,,,2b23
 minoraverages/1973TSN,1972,Mexican League,izquierdo,F23292,Izquierdo,,0,Yucatan,,,,,c9
 minoraverages/1973TSN,1972,Mexican League,izquierdo,M90261,Izquierdo,Enrique,,Yucatan,,,,,
-minoraverages/1973TSN,1972,Mexican League,jackson,B01820,Jackson,Alfonso,0,Gomez Palacio,,,94,,
-minoraverages/1973TSN,1972,Mexican League,jackson,F23087,Jackson,,0,Gomez Palacio,,,,,c94
+minoraverages/1973TSN,1972,Mexican League,,B01820,Jackson,Alfonso,0,Union Laguna,,,94,,
+minoraverages/1973TSN,1972,Mexican League,,F23087,Jackson,,0,Union Laguna,,,,,c94
 minoraverages/1973TSN,1972,Mexican League,jaime,B01836,Jaime,Jorge,0,Monterrey,,,1,,
 minoraverages/1973TSN,1972,Mexican League,jaime,F25208,Jaime,,0,Monterrey,,,,,p
 minoraverages/1973TSN,1972,Mexican League,jaime,P10852,Jaime,,0,Monterrey,,,,1,p
@@ -590,13 +590,13 @@ minoraverages/1973TSN,1972,Mexican League,johnson,P10883,Johnson,,0,Mexico City 
 minoraverages/1973TSN,1972,Mexican League,juarez,B01905,Juarez,Marcelo,0,Saltillo,,,134,,
 minoraverages/1973TSN,1972,Mexican League,juarez,F22116,Juarez,,0,Saltillo,,,,,of134
 minoraverages/1973TSN,1972,Mexican League,juarez,M90107,Juarez,Lolo,,Mexico City Reds,,,,,
-minoraverages/1973TSN,1972,Mexican League,jusino,B01918,Jusino,Ramon,1,Gomez Palacio,,,6,,
+minoraverages/1973TSN,1972,Mexican League,,B01918,Jusino,Ramon,1,Union Laguna,,,6,,
 minoraverages/1973TSN,1972,Mexican League,jusino,B01918,Jusino,Ramon,2,Poza Rica,,,24,,
 minoraverages/1973TSN,1972,Mexican League,jusino,B01918,Jusino,Ramon,T,,,,30,,
-minoraverages/1973TSN,1972,Mexican League,jusino,F23495,Jusino,,1,Gomez Palacio,,,,,p
+minoraverages/1973TSN,1972,Mexican League,,F23495,Jusino,,1,Union Laguna,,,,,p
 minoraverages/1973TSN,1972,Mexican League,jusino,F23495,Jusino,,2,Poza Rica,,,,,p
 minoraverages/1973TSN,1972,Mexican League,jusino,F23495,Jusino,,T,,,,,,p29
-minoraverages/1973TSN,1972,Mexican League,jusino,P10894,Jusino,,1,Gomez Palacio,,,,6,p
+minoraverages/1973TSN,1972,Mexican League,,P10894,Jusino,,1,Union Laguna,,,,6,p
 minoraverages/1973TSN,1972,Mexican League,jusino,P10894,Jusino,,2,Poza Rica,,,,23,p
 minoraverages/1973TSN,1972,Mexican League,jusino,P10894,Jusino,,T,,,,,29,p
 minoraverages/1973TSN,1972,Mexican League,kelly,B01926,Kelly,Edward,1,Cordoba,,,12,,
@@ -614,8 +614,8 @@ minoraverages/1973TSN,1972,Mexican League,kohler,P10917,Kohler,,0,Sabinas,,,,19,
 minoraverages/1973TSN,1972,Mexican League,lacour,B01947,LaCour,Leon,0,Sabinas,,,5,,
 minoraverages/1973TSN,1972,Mexican League,lacour,F24982,LaCour,,0,Sabinas,,,,,p3
 minoraverages/1973TSN,1972,Mexican League,lacour,P10925,LaCour,,0,Sabinas,,,,3,p
-minoraverages/1973TSN,1972,Mexican League,lagarde,B01952,LaGarde,Larry,0,Gomez Palacio,,,33,,
-minoraverages/1973TSN,1972,Mexican League,lagarde,F22582,LaGarde,,0,Gomez Palacio,,,,,of33
+minoraverages/1973TSN,1972,Mexican League,,B01952,LaGarde,Larry,0,Union Laguna,,,33,,
+minoraverages/1973TSN,1972,Mexican League,,F22582,LaGarde,,0,Union Laguna,,,,,of33
 minoraverages/1973TSN,1972,Mexican League,lagunas-pr,B01960,Lagunas,Crescencio,0,Poza Rica,,,17,,
 minoraverages/1973TSN,1972,Mexican League,lagunas-rey,B01971,Lagunas,Luis,0,Reynosa,,,131,,
 minoraverages/1973TSN,1972,Mexican League,lagunas-rey,F20316,Lagunas,,0,Reynosa,,,,,1b8
@@ -625,10 +625,10 @@ minoraverages/1973TSN,1972,Mexican League,lagunas-pr,P10930,Lagunas,,0,Poza Rica
 minoraverages/1973TSN,1972,Mexican League,lara-mct,B01983,Lara,Armando,0,Mexico City Tigers,,,114,,
 minoraverages/1973TSN,1972,Mexican League,lara-pr,B01994,Lara,Francisco,0,Poza Rica,,,97,,
 minoraverages/1973TSN,1972,Mexican League,lara-yuc,B02008,Lara,Mario,0,Yucatan,,,5,,
-minoraverages/1973TSN,1972,Mexican League,lara-gp,B02019,Lara,Santos,0,Gomez Palacio,,,10,,
+minoraverages/1973TSN,1972,Mexican League,,B02019,Lara,Santos,0,Union Laguna,,,10,,
 minoraverages/1973TSN,1972,Mexican League,lara-mct,F21957,Lara,,0,Mexico City Tigers,,,,,of114
 minoraverages/1973TSN,1972,Mexican League,lara-pr,F22169,Lara,,0,Poza Rica,,,,,of97
-minoraverages/1973TSN,1972,Mexican League,lara-gp,F22831,Lara,,0,Gomez Palacio,,,,,of8
+minoraverages/1973TSN,1972,Mexican League,,F22831,Lara,,0,Union Laguna,,,,,of8
 minoraverages/1973TSN,1972,Mexican League,lara-yuc,F25219,Lara,,0,Yucatan,,,,,p
 minoraverages/1973TSN,1972,Mexican League,lara-yuc,P10949,Lara,,0,Yucatan,,,,5,p
 minoraverages/1973TSN,1972,Mexican League,lauzerique,B02024,Lauzerique,George,0,Mexico City Reds,,,12,,
@@ -706,13 +706,13 @@ minoraverages/1973TSN,1972,Mexican League,madrigal,P11072,Madrigal,,0,Poza Rica,
 minoraverages/1973TSN,1972,Mexican League,magallon,M90141,Magallon,Manuel,,Monterrey,,,,,
 minoraverages/1973TSN,1972,Mexican League,magana,B02266,Magana,Gabriel,0,Mexico City Reds,,,25,,
 minoraverages/1973TSN,1972,Mexican League,magana,F21469,Magana,,0,Mexico City Reds,,,,,ss25
-minoraverages/1973TSN,1972,Mexican League,magness,B02277,Magness,Micheal,1,Gomez Palacio,,,23,,
+minoraverages/1973TSN,1972,Mexican League,,B02277,Magness,Micheal,1,Union Laguna,,,23,,
 minoraverages/1973TSN,1972,Mexican League,magness,B02277,Magness,Micheal,2,Jalisco,,,11,,
 minoraverages/1973TSN,1972,Mexican League,magness,B02277,Magness,Micheal,T,,,,34,,
-minoraverages/1973TSN,1972,Mexican League,magness,F24100,Magness,,1,Gomez Palacio,,,,,p
+minoraverages/1973TSN,1972,Mexican League,,F24100,Magness,,1,Union Laguna,,,,,p
 minoraverages/1973TSN,1972,Mexican League,magness,F24100,Magness,,2,Jalisco,,,,,p
 minoraverages/1973TSN,1972,Mexican League,magness,F24100,Magness,,T,,,,,,p32
-minoraverages/1973TSN,1972,Mexican League,magness,P11080,Magness,,1,Gomez Palacio,,,,,p
+minoraverages/1973TSN,1972,Mexican League,,P11080,Magness,,1,Union Laguna,,,,,p
 minoraverages/1973TSN,1972,Mexican League,magness,P11080,Magness,,2,Jalisco,,,,11,p
 minoraverages/1973TSN,1972,Mexican League,magness,P11080,Magness,,T,,,,,32,p
 minoraverages/1973TSN,1972,Mexican League,malpica,B02289,Malpica,Luis,0,Veracruz,,,47,,
@@ -721,9 +721,9 @@ minoraverages/1973TSN,1972,Mexican League,malpica,P11095,Malpica,,0,Veracruz,,,,
 minoraverages/1973TSN,1972,Mexican League,mandujano,B02290,Mandujano,Ranulfo,0,Mexico City Reds,,,12,,
 minoraverages/1973TSN,1972,Mexican League,mandujano,F23803,Mandujano,,0,Mexico City Reds,,,,,p12
 minoraverages/1973TSN,1972,Mexican League,mandujano,P11102,Mandujano,,0,Mexico City Reds,,,,12,p
-minoraverages/1973TSN,1972,Mexican League,mariscal,B02304,Mariscal,Alfredo,0,Gomez Palacio,,,31,,
-minoraverages/1973TSN,1972,Mexican League,mariscal,F24464,Mariscal,,0,Gomez Palacio,,,,,p28
-minoraverages/1973TSN,1972,Mexican League,mariscal,P11115,Mariscal,,0,Gomez Palacio,,,,28,p
+minoraverages/1973TSN,1972,Mexican League,,B02304,Mariscal,Alfredo,0,Union Laguna,,,31,,
+minoraverages/1973TSN,1972,Mexican League,,F24464,Mariscal,,0,Union Laguna,,,,,p28
+minoraverages/1973TSN,1972,Mexican League,,P11115,Mariscal,,0,Union Laguna,,,,28,p
 minoraverages/1973TSN,1972,Mexican League,marquez,B02312,Marquez,Francisco,0,Veracruz,,,90,,
 minoraverages/1973TSN,1972,Mexican League,marquez,F23161,Marquez,,0,Veracruz,,,,,c87
 minoraverages/1973TSN,1972,Mexican League,martin-jal,B02320,Martin,Alvin,0,Jalisco,,,55,,
@@ -769,9 +769,9 @@ minoraverages/1973TSN,1972,Mexican League,medrano,F21771,Medrano,,0,Poza Rica,,,
 minoraverages/1973TSN,1972,Mexican League,mena,B02432,Mena,Rigoberto,0,Tampico,,,136,,
 minoraverages/1973TSN,1972,Mexican League,mena,F20784,Mena,,0,Tampico,,,,,2b2
 minoraverages/1973TSN,1972,Mexican League,mena,F20893,Mena,,0,Tampico,,,,,3b134
-minoraverages/1973TSN,1972,Mexican League,menchaca,B02441,Menchaca,J. Francisco,0,Gomez Palacio,,,136,,
-minoraverages/1973TSN,1972,Mexican League,menchaca,F20303,Menchaca,,0,Gomez Palacio,,,,,1b13
-minoraverages/1973TSN,1972,Mexican League,menchaca,F22272,Menchaca,,0,Gomez Palacio,,,,,of123
+minoraverages/1973TSN,1972,Mexican League,,B02441,Menchaca,J. Francisco,0,Union Laguna,,,136,,
+minoraverages/1973TSN,1972,Mexican League,,F20303,Menchaca,,0,Union Laguna,,,,,1b13
+minoraverages/1973TSN,1972,Mexican League,,F22272,Menchaca,,0,Union Laguna,,,,,of123
 minoraverages/1973TSN,1972,Mexican League,mendez,B02455,Mendez,Roberto,0,Jalisco,,,100,,
 minoraverages/1973TSN,1972,Mexican League,mendez,F20425,Mendez,,0,Jalisco,,,,,2b100
 minoraverages/1973TSN,1972,Mexican League,mendez,F23245,Mendez,,0,Jalisco,,,,,c2
@@ -797,9 +797,9 @@ minoraverages/1973TSN,1972,Mexican League,miller,F25256,Miller,,0,Tampico,,,,,of
 minoraverages/1973TSN,1972,Mexican League,minjarez,B02542,Minjarez,Ruben,0,Reynosa,,,21,,
 minoraverages/1973TSN,1972,Mexican League,minjarez,F24805,Minjarez,,0,Reynosa,,,,,p21
 minoraverages/1973TSN,1972,Mexican League,minjarez,P11206,Minjarez,,0,Reynosa,,,,21,p
-minoraverages/1973TSN,1972,Mexican League,minoso,B02550,Minoso,Orestes,0,Gomez Palacio,,,121,,
-minoraverages/1973TSN,1972,Mexican League,minoso,F20095,Minoso,,0,Gomez Palacio,,,,,1b121
-minoraverages/1973TSN,1972,Mexican League,minoso,M90052,Minoso,Minnie,,Gomez Palacio,,,,,
+minoraverages/1973TSN,1972,Mexican League,,B02550,Minoso,Orestes,0,Union Laguna,,,121,,
+minoraverages/1973TSN,1972,Mexican League,,F20095,Minoso,,0,Union Laguna,,,,,1b121
+minoraverages/1973TSN,1972,Mexican League,,M90052,Minoso,Minnie,,Union Laguna,,,,,
 minoraverages/1973TSN,1972,Mexican League,mondragon,B02569,Mondragon,Manuel,0,Yucatan,,,12,,
 minoraverages/1973TSN,1972,Mexican League,mondragon,F23842,Mondragon,,0,Yucatan,,,,,p12
 minoraverages/1973TSN,1972,Mexican League,mondragon,P11211,Mondragon,,0,Yucatan,,,,12,p
@@ -924,20 +924,20 @@ minoraverages/1973TSN,1972,Mexican League,osteen,F23632,Osteen,,T,,,,,,p16
 minoraverages/1973TSN,1972,Mexican League,osteen,P11391,Osteen,,1,Saltillo,,,,2,p
 minoraverages/1973TSN,1972,Mexican League,osteen,P11391,Osteen,,2,Cordoba,,,,14,p
 minoraverages/1973TSN,1972,Mexican League,osteen,P11391,Osteen,,T,,,,,16,p
-minoraverages/1973TSN,1972,Mexican League,osuna-gp,B02930,Osuna,Carlos,0,Gomez Palacio,,,89,,
+minoraverages/1973TSN,1972,Mexican League,,B02930,Osuna,Carlos,0,Union Laguna,,,89,,
 minoraverages/1973TSN,1972,Mexican League,osuna-mty,B02949,Osuna,Elpidio,0,Monterrey,,,112,,
-minoraverages/1973TSN,1972,Mexican League,osuna-gp,F20430,Osuna,,0,Gomez Palacio,,,,,2b30
-minoraverages/1973TSN,1972,Mexican League,osuna-gp,F21125,Osuna,,0,Gomez Palacio,,,,,3b25
-minoraverages/1973TSN,1972,Mexican League,osuna-gp,F21667,Osuna,,0,Gomez Palacio,,,,,ss34
+minoraverages/1973TSN,1972,Mexican League,,F20430,Osuna,,0,Union Laguna,,,,,2b30
+minoraverages/1973TSN,1972,Mexican League,,F21125,Osuna,,0,Union Laguna,,,,,3b25
+minoraverages/1973TSN,1972,Mexican League,,F21667,Osuna,,0,Union Laguna,,,,,ss34
 minoraverages/1973TSN,1972,Mexican League,osuna-mty,F22295,Osuna,,0,Monterrey,,,,,of112
 minoraverages/1973TSN,1972,Mexican League,pacheco,B02958,Pacheco,Enrique,0,Mexico City Reds,,,6,,
 minoraverages/1973TSN,1972,Mexican League,pacheco,F25058,Pacheco,,0,Mexico City Reds,,,,,p6
 minoraverages/1973TSN,1972,Mexican League,pacheco,P11401,Pacheco,,0,Mexico City Reds,,,,6,p
 minoraverages/1973TSN,1972,Mexican League,padilla,B02963,Padilla,Manuel,0,Monterrey,,,13,,
 minoraverages/1973TSN,1972,Mexican League,padilla,F22844,Padilla,,0,Monterrey,,,,,of7
-minoraverages/1973TSN,1972,Mexican League,padron,B02974,Padron,Jose,0,Gomez Palacio,,,62,,
-minoraverages/1973TSN,1972,Mexican League,padron,F21163,Padron,,0,Gomez Palacio,,,,,3b18
-minoraverages/1973TSN,1972,Mexican League,padron,F21343,Padron,,0,Gomez Palacio,,,,,ss50
+minoraverages/1973TSN,1972,Mexican League,,B02974,Padron,Jose,0,Union Laguna,,,62,,
+minoraverages/1973TSN,1972,Mexican League,,F21163,Padron,,0,Union Laguna,,,,,3b18
+minoraverages/1973TSN,1972,Mexican League,,F21343,Padron,,0,Union Laguna,,,,,ss50
 minoraverages/1973TSN,1972,Mexican League,palomino,B02982,Palomino,Alfredo,0,Sabinas,,,125,,
 minoraverages/1973TSN,1972,Mexican League,palomino,F20287,Palomino,,0,Sabinas,,,,,1b18
 minoraverages/1973TSN,1972,Mexican League,palomino,F22329,Palomino,,0,Sabinas,,,,,of107
@@ -953,10 +953,10 @@ minoraverages/1973TSN,1972,Mexican League,paredes-sal+pue,P11417,Paredes,,1,Salt
 minoraverages/1973TSN,1972,Mexican League,paredes-sal+pue,P11417,Paredes,,2,Puebla,,,,20,p
 minoraverages/1973TSN,1972,Mexican League,paredes-sal+pue,P11417,Paredes,,T,,,,,28,p
 minoraverages/1973TSN,1972,Mexican League,parlier,B03014,Parlier,William,1,Jalisco,,,53,,
-minoraverages/1973TSN,1972,Mexican League,parlier,B03014,Parlier,William,2,Gomez Palacio,,,33,,
+minoraverages/1973TSN,1972,Mexican League,,B03014,Parlier,William,2,Union Laguna,,,33,,
 minoraverages/1973TSN,1972,Mexican League,parlier,B03014,Parlier,William,T,,,,86,,
 minoraverages/1973TSN,1972,Mexican League,parlier,F22406,Parlier,,1,Jalisco,,,,,of
-minoraverages/1973TSN,1972,Mexican League,parlier,F22406,Parlier,,2,Gomez Palacio,,,,,of
+minoraverages/1973TSN,1972,Mexican League,,F22406,Parlier,,2,Union Laguna,,,,,of
 minoraverages/1973TSN,1972,Mexican League,parlier,F22406,Parlier,,T,,,,,,of86
 minoraverages/1973TSN,1972,Mexican League,parra-cor,B03023,Parra,Graciliano,0,Cordoba,,,9,,
 minoraverages/1973TSN,1972,Mexican League,parra-jal,B03038,Parra,Manuel,0,Jalisco,,,20,,
@@ -967,11 +967,11 @@ minoraverages/1973TSN,1972,Mexican League,patino,F25001,Patino,,0,Poza Rica,,,,,
 minoraverages/1973TSN,1972,Mexican League,patino,P11430,Patino,,0,Poza Rica,,,,6,p
 minoraverages/1973TSN,1972,Mexican League,payan,B03051,Payan,Daniel,0,Yucatan,,,17,,
 minoraverages/1973TSN,1972,Mexican League,paz,B03067,Paz,Hiram,1,Cordoba,,,28,,
-minoraverages/1973TSN,1972,Mexican League,paz,B03067,Paz,Hiram,2,Gomez Palacio,,,34,,
+minoraverages/1973TSN,1972,Mexican League,,B03067,Paz,Hiram,2,Union Laguna,,,34,,
 minoraverages/1973TSN,1972,Mexican League,paz,B03067,Paz,Hiram,T,,,,62,,
 minoraverages/1973TSN,1972,Mexican League,paz,F20636,Paz,,0,Cordoba,,,,,2b26
 minoraverages/1973TSN,1972,Mexican League,paz,F21403,Paz,,1,Cordoba,,,,,ss
-minoraverages/1973TSN,1972,Mexican League,paz,F21403,Paz,,2,Gomez Palacio,,,,,ss
+minoraverages/1973TSN,1972,Mexican League,,F21403,Paz,,2,Union Laguna,,,,,ss
 minoraverages/1973TSN,1972,Mexican League,paz,F21403,Paz,,T,,,,,,ss36
 minoraverages/1973TSN,1972,Mexican League,paz,F22762,Paz,,0,Cordoba,,,,,of1
 minoraverages/1973TSN,1972,Mexican League,pelaez,M90047,Pelaez,Mario,,Cordoba,,,,,
@@ -999,9 +999,9 @@ minoraverages/1973TSN,1972,Mexican League,plascencia-mct,B03144,Plascencia,Obed,
 minoraverages/1973TSN,1972,Mexican League,plascencia-yuc,B03153,Plascencia,Rigoberto,0,Yucatan,,,86,,
 minoraverages/1973TSN,1972,Mexican League,plascencia-mct,F21013,Plascencia,,0,Mexico City Tigers,,,,,3b41
 minoraverages/1973TSN,1972,Mexican League,plascencia-yuc,F22605,Plascencia,,0,Yucatan,,,,,of85
-minoraverages/1973TSN,1972,Mexican League,pollorena,B03166,Pollorena,Antonio,0,Gomez Palacio,,,41,,
-minoraverages/1973TSN,1972,Mexican League,pollorena,F24290,Pollorena,,0,Gomez Palacio,,,,,p39
-minoraverages/1973TSN,1972,Mexican League,pollorena,P11474,Pollorena,,0,Gomez Palacio,,,,39,p
+minoraverages/1973TSN,1972,Mexican League,,B03166,Pollorena,Antonio,0,Union Laguna,,,41,,
+minoraverages/1973TSN,1972,Mexican League,,F24290,Pollorena,,0,Union Laguna,,,,,p39
+minoraverages/1973TSN,1972,Mexican League,,P11474,Pollorena,,0,Union Laguna,,,,39,p
 minoraverages/1973TSN,1972,Mexican League,pompa,B03177,Pompa,Eliseo,0,Sabinas,,,61,,
 minoraverages/1973TSN,1972,Mexican League,pompa,F22103,Pompa,,0,Sabinas,,,,,of61
 minoraverages/1973TSN,1972,Mexican League,ponce-tam,B03189,Ponce,Francisco,0,Tampico,,,9,,
@@ -1029,26 +1029,26 @@ minoraverages/1973TSN,1972,Mexican League,quiroz-cor,P11526,Quiroz,J.,0,Cordoba,
 minoraverages/1973TSN,1972,Mexican League,quiroz-sab,P11539,Quiroz,R.,0,Sabinas,,,,39,p
 minoraverages/1973TSN,1972,Mexican League,ramirez.a-sal,B03279,Ramirez,Alfredo,0,Saltillo,,,84,,
 minoraverages/1973TSN,1972,Mexican League,ramirez.a-rey,B03287,Ramirez,Antonio,0,Reynosa,,,1,,
-minoraverages/1973TSN,1972,Mexican League,ramirez.a-gp,B03298,Ramirez,Antonio,0,Gomez Palacio,,,5,,
+minoraverages/1973TSN,1972,Mexican League,,B03298,Ramirez,Antonio,0,Union Laguna,,,5,,
 minoraverages/1973TSN,1972,Mexican League,ramirez.g-sal,B03303,Ramirez,Gerardo,0,Saltillo,,,1,,
-minoraverages/1973TSN,1972,Mexican League,ramirez.gui-gp,B03316,Ramirez,Guillermo,0,Gomez Palacio,,,11,,
-minoraverages/1973TSN,1972,Mexican League,ramirez.gus-gp,B03327,Ramirez,Gustavo,0,Gomez Palacio,,,132,,
+minoraverages/1973TSN,1972,Mexican League,,B03316,Ramirez,Guillermo,0,Union Laguna,,,11,,
+minoraverages/1973TSN,1972,Mexican League,,B03327,Ramirez,Gustavo,0,Union Laguna,,,132,,
 minoraverages/1973TSN,1972,Mexican League,ramirez.v-sal,B03334,Ramirez,Victor,0,Saltillo,,,1,,
 minoraverages/1973TSN,1972,Mexican League,ramirez.v-pue,B03342,Ramirez,Victor C.,0,Puebla,,,99,,
 minoraverages/1973TSN,1972,Mexican League,ramirez.a-sal,F20604,Ramirez,A.,0,Saltillo,,,,,2b13
-minoraverages/1973TSN,1972,Mexican League,ramirez.gus-gp,F20745,Ramirez,Gustavo,0,Gomez Palacio,,,,,2b12
+minoraverages/1973TSN,1972,Mexican League,,F20745,Ramirez,Gustavo,0,Union Laguna,,,,,2b12
 minoraverages/1973TSN,1972,Mexican League,ramirez.v-pue,F21084,Ramirez,,0,Puebla,,,,,3b14
 minoraverages/1973TSN,1972,Mexican League,ramirez.a-sal,F21092,Ramirez,A.,0,Saltillo,,,,,3b64
-minoraverages/1973TSN,1972,Mexican League,ramirez.gus-gp,F21566,Ramirez,Gustavo,0,Gomez Palacio,,,,,ss100
+minoraverages/1973TSN,1972,Mexican League,,F21566,Ramirez,Gustavo,0,Union Laguna,,,,,ss100
 minoraverages/1973TSN,1972,Mexican League,ramirez.a-sal,F21739,Ramirez,A.,0,Saltillo,,,,,ss7
 minoraverages/1973TSN,1972,Mexican League,ramirez.v-pue,F22020,Ramirez,,0,Puebla,,,,,of85
-minoraverages/1973TSN,1972,Mexican League,ramirez.gus-gp,F22487,Ramirez,Gustavo,0,Gomez Palacio,,,,,of11
-minoraverages/1973TSN,1972,Mexican League,ramirez.gui-gp,F24357,Ramirez,Gmo.,0,Gomez Palacio,,,,,p10
-minoraverages/1973TSN,1972,Mexican League,ramirez.gus-gp,F24839,Ramirez,Gustavo,0,Gomez Palacio,,,,,p3
+minoraverages/1973TSN,1972,Mexican League,,F22487,Ramirez,Gustavo,0,Union Laguna,,,,,of11
+minoraverages/1973TSN,1972,Mexican League,,F24357,Ramirez,Gmo.,0,Union Laguna,,,,,p10
+minoraverages/1973TSN,1972,Mexican League,,F24839,Ramirez,Gustavo,0,Union Laguna,,,,,p3
 minoraverages/1973TSN,1972,Mexican League,ramirez.a-rey,F25306,Ramirez,,0,Reynosa,,,,,p
 minoraverages/1973TSN,1972,Mexican League,ramirez.a-rey,P11547,Ramirez,A.,0,Reynosa,,,,1,p
-minoraverages/1973TSN,1972,Mexican League,ramirez.gui-gp,P11552,Ramirez,Gmo.,0,Gomez Palacio,,,,10,p
-minoraverages/1973TSN,1972,Mexican League,ramirez.gus-gp,P11560,Ramirez,Gustavo,0,Gomez Palacio,,,,3,p
+minoraverages/1973TSN,1972,Mexican League,,P11552,Ramirez,Gmo.,0,Union Laguna,,,,10,p
+minoraverages/1973TSN,1972,Mexican League,,P11560,Ramirez,Gustavo,0,Union Laguna,,,,3,p
 minoraverages/1973TSN,1972,Mexican League,ramos.e,B03350,Ramos,Evilio,0,Puebla,,,33,,
 minoraverages/1973TSN,1972,Mexican League,ramos.p,B03369,Ramos,Pedro,0,Puebla,,,38,,
 minoraverages/1973TSN,1972,Mexican League,ramos.e,F22310,Ramos,E.,0,Puebla,,,,,of33
@@ -1080,17 +1080,17 @@ minoraverages/1973TSN,1972,Mexican League,rey,B03430,Rey,Arturo,0,Poza Rica,,,10
 minoraverages/1973TSN,1972,Mexican League,rey,F23033,Rey,,0,Poza Rica,,,,,c102
 minoraverages/1973TSN,1972,Mexican League,reyes.b-jal,B03449,Reyes,Benjamin,0,Jalisco,,,1,,
 minoraverages/1973TSN,1972,Mexican League,reyes.j-jal+gp,B03458,Reyes,Javier,1,Jalisco,,,4,,
-minoraverages/1973TSN,1972,Mexican League,reyes.j-jal+gp,B03458,Reyes,Javier,2,Gomez Palacio,,,47,,
+minoraverages/1973TSN,1972,Mexican League,,B03458,Reyes,Javier,2,Union Laguna,,,47,,
 minoraverages/1973TSN,1972,Mexican League,reyes.j-jal+gp,B03458,Reyes,Javier,T,,,,51,,
 minoraverages/1973TSN,1972,Mexican League,reyes.o-pr,B03463,Reyes,Orlando,0,Poza Rica,,,52,,
 minoraverages/1973TSN,1972,Mexican League,reyes.o-pr,F22004,Reyes,,0,Poza Rica,,,,,of52
 minoraverages/1973TSN,1972,Mexican League,reyes.b-jal,F22877,Reyes,B.,0,Jalisco,,,,,of1
 minoraverages/1973TSN,1972,Mexican League,reyes.j-jal+gp,F24145,Reyes,J.,1,Jalisco,,,,,p
-minoraverages/1973TSN,1972,Mexican League,reyes.j-jal+gp,F24145,Reyes,J.,2,Gomez Palacio,,,,,p
+minoraverages/1973TSN,1972,Mexican League,,F24145,Reyes,J.,2,Union Laguna,,,,,p
 minoraverages/1973TSN,1972,Mexican League,reyes.j-jal+gp,F24145,Reyes,J.,T,,,,,,p49
 minoraverages/1973TSN,1972,Mexican League,reyes.b-jal,M90071,Reyes,Benjamin,,Jalisco,,,,,
 minoraverages/1973TSN,1972,Mexican League,reyes.j-jal+gp,P11612,Reyes,J.,1,Jalisco,,,,3,p
-minoraverages/1973TSN,1972,Mexican League,reyes.j-jal+gp,P11612,Reyes,J.,2,Gomez Palacio,,,,46,p
+minoraverages/1973TSN,1972,Mexican League,,P11612,Reyes,J.,2,Union Laguna,,,,46,p
 minoraverages/1973TSN,1972,Mexican League,reyes.j-jal+gp,P11612,Reyes,J.,T,,,,,49,p
 minoraverages/1973TSN,1972,Mexican League,reza,B03474,Reza,Juan Manuel,0,Tampico,,,1,,
 minoraverages/1973TSN,1972,Mexican League,reza,F25311,Reza,,0,Tampico,,,,,p
@@ -1106,20 +1106,20 @@ minoraverages/1973TSN,1972,Mexican League,rivera.a-cor,B03518,Rivera,Andres,0,Co
 minoraverages/1973TSN,1972,Mexican League,rivera.d-pue,B03526,Rivera,Domingo,0,Puebla,,,103,,
 minoraverages/1973TSN,1972,Mexican League,rivera.e-pue,B03539,Rivera,Eduardo,0,Puebla,,,6,,
 minoraverages/1973TSN,1972,Mexican League,rivera.e-ver,B03547,Rivera,Enrique,0,Veracruz,,,51,,
-minoraverages/1973TSN,1972,Mexican League,rivera.g-gp,B03552,Rivera,Gilberto,0,Gomez Palacio,,,13,,
+minoraverages/1973TSN,1972,Mexican League,,B03552,Rivera,Gilberto,0,Union Laguna,,,13,,
 minoraverages/1973TSN,1972,Mexican League,rivera.r-sal,B03560,Rivera,Rodolfo,0,Saltillo,,,10,,
 minoraverages/1973TSN,1972,Mexican League,rivera.a-cor,F20342,Rivera,,0,Cordoba,,,,,1b2
 minoraverages/1973TSN,1972,Mexican League,rivera.d-pue,F20759,Rivera,D.,0,Puebla,,,,,2b4
 minoraverages/1973TSN,1972,Mexican League,rivera.e-ver,F20768,Rivera,,0,Veracruz,,,,,2b3
-minoraverages/1973TSN,1972,Mexican League,rivera.g-gp,F21241,Rivera,,0,Gomez Palacio,,,,,3b6
+minoraverages/1973TSN,1972,Mexican League,,F21241,Rivera,,0,Union Laguna,,,,,3b6
 minoraverages/1973TSN,1972,Mexican League,rivera.d-pue,F21356,Rivera,D.,0,Puebla,,,,,ss60
 minoraverages/1973TSN,1972,Mexican League,rivera.a-cor,F22251,Rivera,,0,Cordoba,,,,,of71
 minoraverages/1973TSN,1972,Mexican League,rivera.e-ver,F22563,Rivera,,0,Veracruz,,,,,of42
 minoraverages/1973TSN,1972,Mexican League,rivera.d-pue,F22694,Rivera,D.,0,Puebla,,,,,of8
 minoraverages/1973TSN,1972,Mexican League,rivera.e-pue,F23276,Rivera,E.,0,Puebla,,,,,c3
 minoraverages/1973TSN,1972,Mexican League,rivera.r-sal,F23875,Rivera,,0,Saltillo,,,,,p10
-minoraverages/1973TSN,1972,Mexican League,rivera.g-gp,F24665,Rivera,,0,Gomez Palacio,,,,,p11
-minoraverages/1973TSN,1972,Mexican League,rivera.g-gp,P11657,Rivera,G.,0,Gomez Palacio,,,,11,p
+minoraverages/1973TSN,1972,Mexican League,,F24665,Rivera,,0,Union Laguna,,,,,p11
+minoraverages/1973TSN,1972,Mexican League,,P11657,Rivera,G.,0,Union Laguna,,,,11,p
 minoraverages/1973TSN,1972,Mexican League,rivera.r-sal,P11661,Rivera,R.,0,Saltillo,,,,10,p
 minoraverages/1973TSN,1972,Mexican League,robinson,B03571,Robinson,Henry,0,Veracruz,,,8,,
 minoraverages/1973TSN,1972,Mexican League,robinson,F20391,Robinson,,0,Veracruz,,,,,1b4
@@ -1146,11 +1146,11 @@ minoraverages/1973TSN,1972,Mexican League,rodriguez-mty,F23641,Rodriguez,,0,Mont
 minoraverages/1973TSN,1972,Mexican League,rodriguez.m-cor,F23888,Rodriguez,M.,0,Cordoba,,,,,p11
 minoraverages/1973TSN,1972,Mexican League,rodriguez.m-cor,P11685,Rodriguez,M.,0,Cordoba,,,,11,p
 minoraverages/1973TSN,1972,Mexican League,rodriguez-mty,P11699,Rodriguez,P.,0,Monterrey,,,,42,p
-minoraverages/1973TSN,1972,Mexican League,romo-gp,B03673,Romo,Enrique,0,Gomez Palacio,,,40,,
+minoraverages/1973TSN,1972,Mexican League,,B03673,Romo,Enrique,0,Union Laguna,,,40,,
 minoraverages/1973TSN,1972,Mexican League,romo-pr,B03685,Romo,Rene,0,Poza Rica,,,9,,
-minoraverages/1973TSN,1972,Mexican League,romo-gp,F24024,Romo,,0,Gomez Palacio,,,,,p38
+minoraverages/1973TSN,1972,Mexican League,,F24024,Romo,,0,Union Laguna,,,,,p38
 minoraverages/1973TSN,1972,Mexican League,romo-pr,F25457,Romo,,0,Poza Rica,,,,,p
-minoraverages/1973TSN,1972,Mexican League,romo-gp,P11700,Romo,,0,Gomez Palacio,,,,38,p
+minoraverages/1973TSN,1972,Mexican League,,P11700,Romo,,0,Union Laguna,,,,38,p
 minoraverages/1973TSN,1972,Mexican League,romo-pr,P11713,Romo,,0,Poza Rica,,,,9,p
 minoraverages/1973TSN,1972,Mexican League,rosas,B03699,Rosas,Clemente,0,Jalisco,,,121,,
 minoraverages/1973TSN,1972,Mexican League,rosas,F21196,Rosas,,0,Jalisco,,,,,3b5
@@ -1192,21 +1192,21 @@ minoraverages/1973TSN,1972,Mexican League,saldivar,B03792,Saldivar,Arturo,0,Yuca
 minoraverages/1973TSN,1972,Mexican League,saldivar,F23570,Saldivar,,0,Yucatan,,,,,p28
 minoraverages/1973TSN,1972,Mexican League,saldivar,P11745,Saldivar,,0,Yucatan,,,,28,p
 minoraverages/1973TSN,1972,Mexican League,salinas-cor,B03807,Salinas,Hilario,0,Cordoba,,,88,,
-minoraverages/1973TSN,1972,Mexican League,salinas-gp,B03810,Salinas,Mercedes,0,Gomez Palacio,,,83,,
+minoraverages/1973TSN,1972,Mexican League,,B03810,Salinas,Mercedes,0,Union Laguna,,,83,,
 minoraverages/1973TSN,1972,Mexican League,salinas-cor,F21806,Salinas,,0,Cordoba,,,,,of36
-minoraverages/1973TSN,1972,Mexican League,salinas-gp,F22984,Salinas,,0,Gomez Palacio,,,,,c83
+minoraverages/1973TSN,1972,Mexican League,,F22984,Salinas,,0,Union Laguna,,,,,c83
 minoraverages/1973TSN,1972,Mexican League,salinas-cor,F23011,Salinas,,0,Cordoba,,,,,c52
 minoraverages/1973TSN,1972,Mexican League,salomon.p,B03829,Salomon,Porfirio,0,Tampico,,,27,,
 minoraverages/1973TSN,1972,Mexican League,salomon.s,B03832,Salomon,Saturnino,1,Tampico,,,17,,
-minoraverages/1973TSN,1972,Mexican League,salomon.s,B03832,Salomon,Saturnino,2,Gomez Palacio,,,19,,
+minoraverages/1973TSN,1972,Mexican League,,B03832,Salomon,Saturnino,2,Union Laguna,,,19,,
 minoraverages/1973TSN,1972,Mexican League,salomon.s,B03832,Salomon,Saturnino,T,,,,36,,
 minoraverages/1973TSN,1972,Mexican League,salomon.s,F23480,Salomon,S.,1,Tampico,,,,,p
-minoraverages/1973TSN,1972,Mexican League,salomon.s,F23480,Salomon,S.,2,Gomez Palacio,,,,,p
+minoraverages/1973TSN,1972,Mexican League,,F23480,Salomon,S.,2,Union Laguna,,,,,p
 minoraverages/1973TSN,1972,Mexican League,salomon.s,F23480,Salomon,S.,T,,,,,,p34
 minoraverages/1973TSN,1972,Mexican League,salomon.p,F23953,Salomon,P.,0,Tampico,,,,,p27
 minoraverages/1973TSN,1972,Mexican League,salomon.p,P11759,Salomon,P.,0,Tampico,,,,27,p
 minoraverages/1973TSN,1972,Mexican League,salomon.s,P11768,Salomon,S.,1,Tampico,,,,15,p
-minoraverages/1973TSN,1972,Mexican League,salomon.s,P11768,Salomon,S.,2,Gomez Palacio,,,,19,p
+minoraverages/1973TSN,1972,Mexican League,,P11768,Salomon,S.,2,Union Laguna,,,,19,p
 minoraverages/1973TSN,1972,Mexican League,salomon.s,P11768,Salomon,S.,T,,,,,34,p
 minoraverages/1973TSN,1972,Mexican League,sanchez-rey,B03841,Sanchez,Carlos,0,Reynosa,,,32,,
 minoraverages/1973TSN,1972,Mexican League,sanchez-mty,B03855,Sanchez,Salvador,0,Monterrey,,,33,,
@@ -1246,14 +1246,14 @@ minoraverages/1973TSN,1972,Mexican League,sierra,B03962,Sierra,Pedro,0,Puebla,,,
 minoraverages/1973TSN,1972,Mexican League,sierra,F23928,Sierra,,0,Puebla,,,,,p41
 minoraverages/1973TSN,1972,Mexican League,sierra,P11841,Sierra,,0,Puebla,,,,41,p
 minoraverages/1973TSN,1972,Mexican League,silva,B03970,Silva,Jose A.,1,Puebla,,,43,,
-minoraverages/1973TSN,1972,Mexican League,silva,B03970,Silva,Jose A.,2,Gomez Palacio,,,56,,
+minoraverages/1973TSN,1972,Mexican League,,B03970,Silva,Jose A.,2,Union Laguna,,,56,,
 minoraverages/1973TSN,1972,Mexican League,silva,B03970,Silva,Jose A.,T,,,,99,,
 minoraverages/1973TSN,1972,Mexican League,silva,F22530,Silva,,1,Puebla,,,,,of
-minoraverages/1973TSN,1972,Mexican League,silva,F22530,Silva,,2,Gomez Palacio,,,,,of
+minoraverages/1973TSN,1972,Mexican League,,F22530,Silva,,2,Union Laguna,,,,,of
 minoraverages/1973TSN,1972,Mexican League,silva,F22530,Silva,,T,,,,,,of99
-minoraverages/1973TSN,1972,Mexican League,simental,B03981,Simental,Ramiro,0,Gomez Palacio,,,36,,
-minoraverages/1973TSN,1972,Mexican League,simental,F23423,Simental,,0,Gomez Palacio,,,,,p34
-minoraverages/1973TSN,1972,Mexican League,simental,P11855,Simental,,0,Gomez Palacio,,,,34,p
+minoraverages/1973TSN,1972,Mexican League,,B03981,Simental,Ramiro,0,Union Laguna,,,36,,
+minoraverages/1973TSN,1972,Mexican League,,F23423,Simental,,0,Union Laguna,,,,,p34
+minoraverages/1973TSN,1972,Mexican League,,P11855,Simental,,0,Union Laguna,,,,34,p
 minoraverages/1973TSN,1972,Mexican League,sims,B03997,Sims,Gregory,0,Monterrey,,,62,,
 minoraverages/1973TSN,1972,Mexican League,sims,F22626,Sims,,0,Monterrey,,,,,of62
 minoraverages/1973TSN,1972,Mexican League,solis-sab,B04001,Solis,Francisco,0,Sabinas,,,45,,
@@ -1282,9 +1282,9 @@ minoraverages/1973TSN,1972,Mexican League,sparks,F20072,Sparks,,T,,,,,,1b22
 minoraverages/1973TSN,1972,Mexican League,sparks,F21973,Sparks,,1,Monterrey,,,,,of
 minoraverages/1973TSN,1972,Mexican League,sparks,F21973,Sparks,,2,Yucatan,,,,,of
 minoraverages/1973TSN,1972,Mexican League,sparks,F21973,Sparks,,T,,,,,,of123
-minoraverages/1973TSN,1972,Mexican League,stallard,B04074,Stallard,Tracy,0,Gomez Palacio,,,5,,
-minoraverages/1973TSN,1972,Mexican League,stallard,F25340,Stallard,,0,Gomez Palacio,,,,,p
-minoraverages/1973TSN,1972,Mexican League,stallard,P11908,Stallard,,0,Gomez Palacio,,,,5,p
+minoraverages/1973TSN,1972,Mexican League,,B04074,Stallard,Tracy,0,Union Laguna,,,5,,
+minoraverages/1973TSN,1972,Mexican League,,F25340,Stallard,,0,Union Laguna,,,,,p
+minoraverages/1973TSN,1972,Mexican League,,P11908,Stallard,,0,Union Laguna,,,,5,p
 minoraverages/1973TSN,1972,Mexican League,stolicrogz,B04082,Stolicrogz,David,0,Veracruz,,,7,,
 minoraverages/1973TSN,1972,Mexican League,suarez,B04096,Suarez,Miguel,0,Mexico City Reds,,,140,,
 minoraverages/1973TSN,1972,Mexican League,suarez,F22073,Suarez,,0,Mexico City Reds,,,,,of140
@@ -1385,27 +1385,27 @@ minoraverages/1973TSN,1972,Mexican League,velazquez-mcr+cor,P11981,Velazquez,,1,
 minoraverages/1973TSN,1972,Mexican League,velazquez-mcr+cor,P11981,Velazquez,,2,Cordoba,,,,16,p
 minoraverages/1973TSN,1972,Mexican League,velazquez-mcr+cor,P11981,Velazquez,,T,,,,,37,p
 minoraverages/1973TSN,1972,Mexican League,velazquez-pr,P11997,Velazquez,,0,Poza Rica,,,,5,p
-minoraverages/1973TSN,1972,Mexican League,vera,B04404,Vera,Luis,0,Gomez Palacio,,,1,,
-minoraverages/1973TSN,1972,Mexican League,vera,F25025,Vera,,0,Gomez Palacio,,,,,p1
-minoraverages/1973TSN,1972,Mexican League,vera,P12001,Vera,,0,Gomez Palacio,,,,1,p
+minoraverages/1973TSN,1972,Mexican League,,B04404,Vera,Luis,0,Union Laguna,,,1,,
+minoraverages/1973TSN,1972,Mexican League,,F25025,Vera,,0,Union Laguna,,,,,p1
+minoraverages/1973TSN,1972,Mexican League,,P12001,Vera,,0,Union Laguna,,,,1,p
 minoraverages/1973TSN,1972,Mexican League,verdugo,B04412,Verdugo,Roberto,0,Tampico,,,1,,
 minoraverages/1973TSN,1972,Mexican League,verdugo,F25412,Verdugo,,0,Tampico,,,,,p
 minoraverages/1973TSN,1972,Mexican League,verdugo,P12017,Verdugo,,0,Tampico,,,,1,p
-minoraverages/1973TSN,1972,Mexican League,versalles,B04420,Versalles,Zoilo,1,Gomez Palacio,,,27,,
+minoraverages/1973TSN,1972,Mexican League,,B04420,Versalles,Zoilo,1,Union Laguna,,,27,,
 minoraverages/1973TSN,1972,Mexican League,versalles,B04420,Versalles,Zoilo,2,Cordoba,,,49,,
 minoraverages/1973TSN,1972,Mexican League,versalles,B04420,Versalles,Zoilo,T,,,,76,,
-minoraverages/1973TSN,1972,Mexican League,versalles,F20685,Versalles,,0,Gomez Palacio,,,,,2b16
-minoraverages/1973TSN,1972,Mexican League,versalles,F21286,Versalles,,0,Gomez Palacio,,,,,3b5
+minoraverages/1973TSN,1972,Mexican League,,F20685,Versalles,,0,Union Laguna,,,,,2b16
+minoraverages/1973TSN,1972,Mexican League,,F21286,Versalles,,0,Union Laguna,,,,,3b5
 minoraverages/1973TSN,1972,Mexican League,versalles,F21450,Versalles,,0,Cordoba,,,,,ss49
 minoraverages/1973TSN,1972,Mexican League,vidal,B04436,Vidal,Jose,0,Tampico,,,121,,
 minoraverages/1973TSN,1972,Mexican League,vidal,F22214,Vidal,,0,Tampico,,,,,of121
 minoraverages/1973TSN,1972,Mexican League,villaescusa,B04448,Villaescusa,Antonio,0,Mexico City Reds,,,32,,
 minoraverages/1973TSN,1972,Mexican League,villaescusa,F21646,Villaescusa,,0,Mexico City Reds,,,,,ss32
-minoraverages/1973TSN,1972,Mexican League,villalobos-gp,B04457,Villalobos,Gonzalo,0,Gomez Palacio,,,93,,
+minoraverages/1973TSN,1972,Mexican League,,B04457,Villalobos,Gonzalo,0,Union Laguna,,,93,,
 minoraverages/1973TSN,1972,Mexican League,villalobos-jal,B04461,Villalobos,Lauro,0,Jalisco,,,91,,
 minoraverages/1973TSN,1972,Mexican League,villalobos-jal,F20713,Villalobos,,0,Jalisco,,,,,2b72
 minoraverages/1973TSN,1972,Mexican League,villalobos-jal,F21397,Villalobos,,0,Jalisco,,,,,ss19
-minoraverages/1973TSN,1972,Mexican League,villalobos-gp,F22099,Villalobos,,0,Gomez Palacio,,,,,of93
+minoraverages/1973TSN,1972,Mexican League,,F22099,Villalobos,,0,Union Laguna,,,,,of93
 minoraverages/1973TSN,1972,Mexican League,villalobos-jal,F22652,Villalobos,,0,Jalisco,,,,,of12
 minoraverages/1973TSN,1972,Mexican League,villalobos-jal,F25420,Villalobos,,0,Jalisco,,,,,p
 minoraverages/1973TSN,1972,Mexican League,villalobos-jal,P12025,Villalobos,,0,Jalisco,,,,2,p
