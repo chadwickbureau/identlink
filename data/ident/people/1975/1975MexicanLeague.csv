@@ -408,7 +408,7 @@ minoraverages/1976TSN,1975,Mexican League,cruz-pr,B04194,Cruz,Eleuterio,0,Poza R
 minoraverages/1976TSN,1975,Mexican League,cruz-tam,B04602,Cruz,Julio,0,Tampico,,,27,,
 minoraverages/1976TSN,1975,Mexican League,cruz-sal,F23383,Cruz,,0,Saltillo,,,,,of137
 minoraverages/1976TSN,1975,Mexican League,cruz-mty,F24917,Cruz,,0,Poza Rica,,,,,p24
-minoraverages/1976TSN,1975,Mexican League,cruz-pr,F25929,Cruz,,0,Monterrey,,,,,p37
+minoraverages/1976TSN,1975,Mexican League,cruz-mty,F25929,Cruz,,0,Monterrey,,,,,p37
 minoraverages/1976TSN,1975,Mexican League,cruz-tam,F26052,Cruz,,0,Tampico,,,,,p27
 minoraverages/1976TSN,1975,Mexican League,cruz-mty,P10534,Cruz,,0,Monterrey,,,,37,p
 minoraverages/1976TSN,1975,Mexican League,cruz-pr,P10542,Cruz,,0,Poza Rica,,,,24,p
@@ -506,9 +506,9 @@ minoraverages/1976TSN,1975,Mexican League,espinosa-mcr+vil,F23803,Espinosa,,0,Vi
 minoraverages/1976TSN,1975,Mexican League,espinosa-mty,F24062,Espinosa,,0,Monterrey,,,,,of1
 minoraverages/1976TSN,1975,Mexican League,espinosa-mct,F25895,Espinosa,,0,Mexico City Tigers,,,,,p33
 minoraverages/1976TSN,1975,Mexican League,espinosa-mct,P10687,Espinosa,,0,Mexico City Tigers,,,,33,p
-minoraverages/1976TSN,1975,Mexican League,espino,F20287,Espinso,,1,Mexico City Reds,,,,,1b
-minoraverages/1976TSN,1975,Mexican League,espino,F20287,Espinso,,2,Villahermosa,,,,,1b
-minoraverages/1976TSN,1975,Mexican League,espino,F20287,Espinso,,T,,,,,,1b47
+minoraverages/1976TSN,1975,Mexican League,espinosa-mcr+vil,F20287,Espinso,,1,Mexico City Reds,,,,,1b
+minoraverages/1976TSN,1975,Mexican League,espinosa-mcr+vil,F20287,Espinso,,2,Villahermosa,,,,,1b
+minoraverages/1976TSN,1975,Mexican League,espinosa-mcr+vil,F20287,Espinso,,T,,,,,,1b47
 minoraverages/1976TSN,1975,Mexican League,esquivel,B00904,Esquivel,Ramiro,0,Tampico,,,46,,
 minoraverages/1976TSN,1975,Mexican League,esquivel,F20776,Esquivel,,0,Tampico,,,,,1b1
 minoraverages/1976TSN,1975,Mexican League,esquivel,F24503,Esquivel,,0,Tampico,,,,,c42
@@ -633,7 +633,7 @@ minoraverages/1976TSN,1975,Mexican League,gonzalez-vil,B01156,Gonzalez,Jose A.,0
 minoraverages/1976TSN,1975,Mexican League,gonzalez.j-pr,B01162,Gonzalez,J. Fernando,0,Poza Rica,,,95,,
 minoraverages/1976TSN,1975,Mexican League,gonzalez.w-pr,B01170,Gonzalez,Wenceslao,0,Poza Rica,,,104,,
 minoraverages/1976TSN,1975,Mexican League,gonzalez.g-ul,B04769,Gonzalez,Guillermo,0,Union Laguna,,,29,,
-minoraverages/1976TSN,1975,Mexican League,gonzalez-pr,F20458,Gonzalez,W.,0,Poza Rica,,,,,1b15
+minoraverages/1976TSN,1975,Mexican League,gonzalez.w-pr,F20458,Gonzalez,W.,0,Poza Rica,,,,,1b15
 minoraverages/1976TSN,1975,Mexican League,gonzalez-vil,F20526,Gonzalez,,0,Villahermosa,,,,,1b6
 minoraverages/1976TSN,1975,Mexican League,gonzalez.j-pr,F21207,Gonzalez,J. F.,0,Poza Rica,,,,,2b83
 minoraverages/1976TSN,1975,Mexican League,gonzalez.j-pr,F22246,Gonzalez,J. F.,0,Poza Rica,,,,,ss23
@@ -957,7 +957,7 @@ minoraverages/1976TSN,1975,Mexican League,mendoza-pr+pue,B01857,Mendoza,Saul,T,,
 minoraverages/1976TSN,1975,Mexican League,mendoza-pr+pue,F22295,Mendoza,,1,Poza Rica,,,,,ss
 minoraverages/1976TSN,1975,Mexican League,mendoza-pr+pue,F22295,Mendoza,,2,Puebla,,,,,ss
 minoraverages/1976TSN,1975,Mexican League,mendoza-pr+pue,F22295,Mendoza,,T,,,,,,ss115
-minoraverages/1976TSN,1975,Mexican League,mendoza-jua,F22378,Mendoza,,0,Juarez,,,,,ss71
+minoraverages/1976TSN,1975,Mexican League,mendoza.p-jua,F22378,Mendoza,,0,Juarez,,,,,ss71
 minoraverages/1976TSN,1975,Mexican League,mendoza.r-jua,M90060,Mendoza,C. Rigoberto,,Juarez,,,,,
 minoraverages/1976TSN,1975,Mexican League,mercado,B01861,Mercado,Raul,0,Coahuila,,,2,,
 minoraverages/1976TSN,1975,Mexican League,mercado,F25615,Mercado,,0,Coahuila,,,,,p28
@@ -1058,15 +1058,15 @@ minoraverages/1976TSN,1975,Mexican League,noriega,F21822,Noriega,,0,Aguascalient
 minoraverages/1976TSN,1975,Mexican League,otoole,B04653,O'Toole,Dennis,0,Tampico,,,5,,
 minoraverages/1976TSN,1975,Mexican League,otoole,F26753,O'Toole,,0,Tampico,,,,,p5
 minoraverages/1976TSN,1975,Mexican League,otoole,P11547,O'Toole,,0,Tampico,,,,5,p
-minoraverages/1976TSN,1975,Mexican League,ochoa-vil,B02024,Ochoa,Angel,0,Villahermosa,,,6,,
+minoraverages/1976TSN,1975,Mexican League,ochoa.a-vil,B02024,Ochoa,Angel,0,Villahermosa,,,6,,
 minoraverages/1976TSN,1975,Mexican League,ochoa-ags,B02035,Ochoa,David,0,Aguascalientes,,,35,,
 minoraverages/1976TSN,1975,Mexican League,ochoa-rey,B04457,Ochoa,Roberto,0,Reynosa,,,16,,
-minoraverages/1976TSN,1975,Mexican League,ochoa-vil,B04910,Ochoa,Domingo,0,Villahermosa,,,1,,
+minoraverages/1976TSN,1975,Mexican League,ochoa.d-vil,B04910,Ochoa,Domingo,0,Villahermosa,,,1,,
 minoraverages/1976TSN,1975,Mexican League,ochoa-ags,F23730,Ochoa,,0,Aguascalientes,,,,,of35
-minoraverages/1976TSN,1975,Mexican League,ochoa-vil,F23931,Ochoa,A.,0,Villahermosa,,,,,of5
+minoraverages/1976TSN,1975,Mexican League,ochoa.a-vil,F23931,Ochoa,A.,0,Villahermosa,,,,,of5
 minoraverages/1976TSN,1975,Mexican League,ochoa-rey,F25105,Ochoa,,0,Reynosa,,,,,p16
-minoraverages/1976TSN,1975,Mexican League,ochoa-vil,F26914,Ochoa,,0,Villahermosa,,,,,p1
-minoraverages/1976TSN,1975,Mexican League,ochoa-vil,P11482,Ochoa,D.,0,Villahermosa,,,,1,p
+minoraverages/1976TSN,1975,Mexican League,ochoa.d-vil,F26914,Ochoa,,0,Villahermosa,,,,,p1
+minoraverages/1976TSN,1975,Mexican League,ochoa.d-vil,P11482,Ochoa,D.,0,Villahermosa,,,,1,p
 minoraverages/1976TSN,1975,Mexican League,ochoa-rey,P11496,Ochoa,,0,Reynosa,,,,16,p
 minoraverages/1976TSN,1975,Mexican League,olivo,B04461,Olivo,Milciades,0,Reynosa,,,3,,
 minoraverages/1976TSN,1975,Mexican League,olivo,F26923,Olivo,,0,Reynosa,,,,,p3
@@ -1092,13 +1092,13 @@ minoraverages/1976TSN,1975,Mexican League,ortiz-vil,B02097,Ortiz,Jose Luis,0,Vil
 minoraverages/1976TSN,1975,Mexican League,ortiz-mty,B02100,Ortiz,Jose Manuel,0,Monterrey,,,125,,
 minoraverages/1976TSN,1975,Mexican League,ortiz-jua,B02113,Ortiz,Reyes,0,Juarez,,,132,,
 minoraverages/1976TSN,1975,Mexican League,ortiz-jua,F20190,Ortiz,,0,Juarez,,,,,1b34
-minoraverages/1976TSN,1975,Mexican League,ortiz.u-mcr,F20547,Ortiz,U.,0,Mexico City Reds,,,,,1b4
+minoraverages/1976TSN,1975,Mexican League,ortiz-mcr,F20547,Ortiz,U.,0,Mexico City Reds,,,,,1b4
 minoraverages/1976TSN,1975,Mexican League,ortiz-mty,F20997,Ortiz,,0,Monterrey,,,,,2b123
 minoraverages/1976TSN,1975,Mexican League,ortiz-mty,F22085,Ortiz,,0,Monterrey,,,,,3b1
 minoraverages/1976TSN,1975,Mexican League,ortiz-jua,F23414,Ortiz,,0,Juarez,,,,,of81
 minoraverages/1976TSN,1975,Mexican League,ortiz-vil,F23977,Ortiz,,0,Villahermosa,,,,,of3
-minoraverages/1976TSN,1975,Mexican League,ortiz.u-mcr,F25333,Ortiz,U.,0,Mexico City Reds,,,,,p30
-minoraverages/1976TSN,1975,Mexican League,ortiz.u-mcr,P11539,Ortiz,U.,0,Mexico City Reds,,,,30,p
+minoraverages/1976TSN,1975,Mexican League,ortiz-mcr,F25333,Ortiz,U.,0,Mexico City Reds,,,,,p30
+minoraverages/1976TSN,1975,Mexican League,ortiz-mcr,P11539,Ortiz,U.,0,Mexico City Reds,,,,30,p
 minoraverages/1976TSN,1975,Mexican League,osuna-sal+coa,B02121,Osuna,Carlos,1,Saltillo,,,7,,
 minoraverages/1976TSN,1975,Mexican League,osuna-sal+coa,B02121,Osuna,Carlos,2,Coahuila,,,78,,
 minoraverages/1976TSN,1975,Mexican League,osuna-sal+coa,B02121,Osuna,Carlos,T,,,,85,,
@@ -1259,7 +1259,7 @@ minoraverages/1976TSN,1975,Mexican League,rivero,F22280,Rivero,,0,Cordoba,,,,,ss
 minoraverages/1976TSN,1975,Mexican League,robles,B02478,Robles,Alejandro,0,Aguascalientes,,,127,,
 minoraverages/1976TSN,1975,Mexican League,robles,F20144,Robles,,0,Aguascalientes,,,,,1b64
 minoraverages/1976TSN,1975,Mexican League,robles,F23472,Robles,,0,Aguascalientes,,,,,of57
-minoraverages/1976TSN,1975,Mexican League,rodo,F24289,Rodo,Sandoval,0,Chihuahua,,,,,c87
+minoraverages/1976TSN,1975,Mexican League,sandoval.rodolfo,F24289,Rodo,Sandoval,0,Chihuahua,,,,,c87
 minoraverages/1976TSN,1975,Mexican League,sandoval.rodrigo,F24883,Rodr. Sandoval,,0,Chihuahua,,,,,p25
 minoraverages/1976TSN,1975,Mexican League,rodriguez-ags,B02486,Rodriguez,Francisco,0,Aguascalientes,,,137,,
 minoraverages/1976TSN,1975,Mexican League,rodriguez-vil,B02493,Rodriguez,Jose,0,Villahermosa,,,107,,
@@ -1500,8 +1500,8 @@ minoraverages/1976TSN,1975,Mexican League,travis,F25775,Travis,,0,Chihuahua,,,,,
 minoraverages/1976TSN,1975,Mexican League,travis,P12074,Travis,,0,Chihuahua,,,,28,p
 minoraverages/1976TSN,1975,Mexican League,trevino-ul,B02996,Trevino,Carlos,0,Union Laguna,,,128,,
 minoraverages/1976TSN,1975,Mexican League,trevino-rey,B03009,Trevino,Juan,0,Reynosa,,,11,,
-minoraverages/1976TSN,1975,Mexican League,travino-ul,F20303,Trevino,,0,Union Laguna,,,,,1b63
-minoraverages/1976TSN,1975,Mexican League,travino-ul,F24081,Trevino,,0,Union Laguna,,,,,of3
+minoraverages/1976TSN,1975,Mexican League,trevino-ul,F20303,Trevino,,0,Union Laguna,,,,,1b63
+minoraverages/1976TSN,1975,Mexican League,trevino-ul,F24081,Trevino,,0,Union Laguna,,,,,of3
 minoraverages/1976TSN,1975,Mexican League,trevino-rey,F24575,Trevino,,0,Reynosa,,,,,c10
 minoraverages/1976TSN,1975,Mexican League,trujillo,B03014,Trujillo,Hipolito,0,Juarez,,,4,,
 minoraverages/1976TSN,1975,Mexican League,trujillo,F22223,Trujillo,,0,Juarez,,,,,3b3
