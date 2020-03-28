@@ -9,6 +9,7 @@ from . import tidy
 
 @click.group("ident")
 def ident():
+    """Manage identifications in statistical data."""
     pass
 
 
