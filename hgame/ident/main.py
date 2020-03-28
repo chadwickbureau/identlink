@@ -7,29 +7,29 @@ from . import lint
 from . import tidy
 
 
-@click.group()
-def cli():
+@click.group("ident")
+def ident():
     pass
 
 
-@cli.command("update")
+@ident.command("update")
 def do_update():
     people.main()
     games.main()
 
 
-@cli.command("coverage")
+@ident.command("coverage")
 @click.argument('year', type=int)
 def do_coverage(year):
     coverage.main(year)
 
 
-@cli.command("lint")
+@ident.command("lint")
 @click.argument('year', type=int)
 def do_lint(year):
     lint.main(year)
 
 
-@cli.command("tidy")
+@ident.command("tidy")
 def do_tidy():
     tidy.main()
