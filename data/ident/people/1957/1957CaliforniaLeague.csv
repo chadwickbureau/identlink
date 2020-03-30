@@ -1,11 +1,632 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1957,California League,,M91305,Edwards,Bruce,,Visalia,,,,,
-minoraverages/emilbb,1957,California League,,M91371,Herman,Babe,,Bakersfield,,,,,
-minoraverages/emilbb,1957,California League,,M91347,Krueger,Bill,,Salinas,,,,,
-minoraverages/emilbb,1957,California League,,M91394,LeBlanc,Roland,,Fresno,,,,,
-minoraverages/emilbb,1957,California League,,M91383,Partee,Roy,,Stockton,,,,,
-minoraverages/emilbb,1957,California League,,M91318,Perry,Ray,,Reno,,,,,
-minoraverages/emilbb,1957,California League,,M91326,Phillips,Damon,,Modesto,,,,,
-minoraverages/emilbb,1957,California League,,M91339,Thomas,Leo,,Salinas,,,,,
-minoraverages/emilbb,1957,California League,,M91352,Whitman,Dick,,San Jose,,,,,
-minoraverages/emilbb,1957,California League,,M91360,Wilson,Dick,,Bakersfield,,,,,
+minoraverages/1958TSN,1957,California League,aguillard,B00013,Aguillard,Raymond,0,Bakersfield,,,14,,
+minoraverages/1958TSN,1957,California League,aguillard,F21324,Aguillard,,0,Bakersfield,,,,,of10
+minoraverages/1958TSN,1957,California League,aiken,B00021,Aiken,Modesto,0,Modesto,,,28,,
+minoraverages/1958TSN,1957,California League,aiken,F22188,Aiken,,0,Modesto,,,,,p22
+minoraverages/1958TSN,1957,California League,aiken,P10019,Aiken,,0,Modesto,,,,22,p
+minoraverages/1958TSN,1957,California League,aldredge,B00037,Aldredge,James,0,San Jose,,,135,,
+minoraverages/1958TSN,1957,California League,aldredge,F20924,Aldredge,,0,San Jose,,,,,of135
+minoraverages/1958TSN,1957,California League,allmon,B00045,Allmon,Clifford,0,Bakersfield,,,72,,
+minoraverages/1958TSN,1957,California League,allmon,F22127,Allmon,,0,Bakersfield,,,,,p33
+minoraverages/1958TSN,1957,California League,allmon,P10024,Allmon,,0,Bakersfield,,,,33,p
+minoraverages/1958TSN,1957,California League,amaya,B00059,Amaya,Frank,0,Reno,,,41,,
+minoraverages/1958TSN,1957,California League,amaya,F20316,Amaya,,0,Reno,,,,,2b17
+minoraverages/1958TSN,1957,California League,amaya,F20699,Amaya,,0,Reno,,,,,ss24
+minoraverages/1958TSN,1957,California League,arellanes,B00068,Arellanes,William,1,Reno,,,,,
+minoraverages/1958TSN,1957,California League,arellanes,B00068,Arellanes,William,2,Stockton,,,,,
+minoraverages/1958TSN,1957,California League,arellanes,B00068,Arellanes,William,T,,,,123,,
+minoraverages/1958TSN,1957,California League,arellanes,F20594,Arellanes,,1,Reno,,,,,3b
+minoraverages/1958TSN,1957,California League,arellanes,F20594,Arellanes,,2,Stockton,,,,,3b
+minoraverages/1958TSN,1957,California League,arellanes,F20594,Arellanes,,T,,,,,,3b49
+minoraverages/1958TSN,1957,California League,arellanes,F20700,Arellanes,,1,Reno,,,,,ss
+minoraverages/1958TSN,1957,California League,arellanes,F20700,Arellanes,,2,Stockton,,,,,ss
+minoraverages/1958TSN,1957,California League,arellanes,F20700,Arellanes,,T,,,,,,ss13
+minoraverages/1958TSN,1957,California League,arellanes,F21255,Arellanes,,1,Reno,,,,,of
+minoraverages/1958TSN,1957,California League,arellanes,F21255,Arellanes,,2,Stockton,,,,,of
+minoraverages/1958TSN,1957,California League,arellanes,F21255,Arellanes,,T,,,,,,of48
+minoraverages/1958TSN,1957,California League,arellanes,F21566,Arellanes,,1,Reno,,,,,c
+minoraverages/1958TSN,1957,California League,arellanes,F21566,Arellanes,,2,Stockton,,,,,c
+minoraverages/1958TSN,1957,California League,arellanes,F21566,Arellanes,,T,,,,,,c14
+minoraverages/1958TSN,1957,California League,baker,B00076,Baker,William,0,San Jose,,,26,,
+minoraverages/1958TSN,1957,California League,baker,F21590,Baker,,0,San Jose,,,,,p26
+minoraverages/1958TSN,1957,California League,baker,P10035,Baker,,0,San Jose,,,,26,p
+minoraverages/1958TSN,1957,California League,beach,B01918,Beach,David,0,Bakersfield,,,5,,
+minoraverages/1958TSN,1957,California League,beach,P10751,Beach,,0,Bakersfield,,,,5,p
+minoraverages/1958TSN,1957,California League,benedetto,B00084,Benedetto,Paul,0,Fresno,,,37,,
+minoraverages/1958TSN,1957,California League,benedetto,F22169,Benedetto,,0,Fresno,,,,,p37
+minoraverages/1958TSN,1957,California League,benedetto,P10043,Benedetto,,0,Fresno,,,,37,p
+minoraverages/1958TSN,1957,California League,birkofer,B00092,Birkofer,James,0,Modesto,,,25,,
+minoraverages/1958TSN,1957,California League,birkofer,F21904,Birkofer,,0,Modesto,,,,,p18
+minoraverages/1958TSN,1957,California League,birkofer,P10056,Birkofer,,0,Modesto,,,,18,p
+minoraverages/1958TSN,1957,California League,bivens,B00101,Bivens,Henry,0,Visalia,,,78,,
+minoraverages/1958TSN,1957,California League,bivens,F20505,Bivens,,0,Visalia,,,,,3b48
+minoraverages/1958TSN,1957,California League,bivens,F20776,Bivens,,0,Visalia,,,,,ss30
+minoraverages/1958TSN,1957,California League,blasich,B02024,Blasich,Aravis,0,Fresno,,,7,,
+minoraverages/1958TSN,1957,California League,blasich,P10818,Blasich,,0,Fresno,,,,7,p
+minoraverages/1958TSN,1957,California League,bogard,B00117,Bogard,J Richard,0,Modesto,,,140,,
+minoraverages/1958TSN,1957,California League,bogard,F20474,Bogard,,0,Modesto,,,,,3b140
+minoraverages/1958TSN,1957,California League,bojorquez,B00125,Bojorquez,Federico,0,Fresno,,,14,,
+minoraverages/1958TSN,1957,California League,bojorquez,F20369,Bojorquez,,0,Fresno,,,,,2b13
+minoraverages/1958TSN,1957,California League,boniar,B00130,Boniar,Francis,0,Reno,,,110,,
+minoraverages/1958TSN,1957,California League,boniar,F21076,Boniar,,0,Reno,,,,,of110
+minoraverages/1958TSN,1957,California League,brady,B00149,Brady,Carl,0,Fresno,,,15,,
+minoraverages/1958TSN,1957,California League,brady,F21356,Brady,,0,Fresno,,,,,of12
+minoraverages/1958TSN,1957,California League,bravo,B01926,Bravo,Danilo,0,Bakersfield,,,1,,
+minoraverages/1958TSN,1957,California League,breeden,B00158,Breeden,Harold,0,Reno,,,32,,
+minoraverages/1958TSN,1957,California League,breeden,F22134,Breeden,,0,Reno,,,,,p32
+minoraverages/1958TSN,1957,California League,breeden,P10062,Breeden,,0,Reno,,,,32,p
+minoraverages/1958TSN,1957,California League,brown-bak,B00163,Brown,John,0,Bakersfield,,,32,,
+minoraverages/1958TSN,1957,California League,brown-sj,B00174,Brown,Thomas L,0,San Jose,,,132,,
+minoraverages/1958TSN,1957,California League,brown-bak,F21101,Brown,J.,0,Bakersfield,,,,,of31
+minoraverages/1958TSN,1957,California League,brown-sj,F21475,Brown,L.,0,San Jose,,,,,c122
+minoraverages/1958TSN,1957,California League,brunello,B01939,Brunello,Fidenzio,0,Bakersfield,,,1,,
+minoraverages/1958TSN,1957,California League,callison,B00182,Callison,John,0,Bakersfield,,,86,,
+minoraverages/1958TSN,1957,California League,callison,F21158,Callison,,0,Bakersfield,,,,,of86
+minoraverages/1958TSN,1957,California League,camilli,B00196,Camilli,Douglas,0,Reno,,,18,,
+minoraverages/1958TSN,1957,California League,camilli,F20878,Camilli,,0,Reno,,,,,of10
+minoraverages/1958TSN,1957,California League,campbell,B00207,Campbell,James,0,San Jose,,,114,,
+minoraverages/1958TSN,1957,California League,campbell,F20571,Campbell,,0,San Jose,,,,,3b109
+minoraverages/1958TSN,1957,California League,campbell,P11038,Campbell,,0,San Jose,,,,1,p
+minoraverages/1958TSN,1957,California League,carter,B00210,Carter,Richard,0,Modesto,,,122,,
+minoraverages/1958TSN,1957,California League,carter,F20997,Carter,,0,Modesto,,,,,of121
+minoraverages/1958TSN,1957,California League,castillo,B00229,Castillo,Carlos,0,Visalia,,,135,,
+minoraverages/1958TSN,1957,California League,castillo,F20303,Castillo,,0,Visalia,,,,,2b135
+minoraverages/1958TSN,1957,California League,castleman,B00232,Castleman,Robert,0,San Jose,,,30,,
+minoraverages/1958TSN,1957,California League,castleman,F21705,Castleman,,0,San Jose,,,,,p30
+minoraverages/1958TSN,1957,California League,castleman,P10070,Castleman,,0,San Jose,,,,30,p
+minoraverages/1958TSN,1957,California League,cesena,B00241,Cesena,Librado,0,Stockton,,,41,,
+minoraverages/1958TSN,1957,California League,cesena,F21680,Cesena,,0,Stockton,,,,,p14
+minoraverages/1958TSN,1957,California League,cesena,P10081,Cesena,,0,Stockton,,,,14,p
+minoraverages/1958TSN,1957,California League,ciccarella,B00255,Ciccarella,Joseph,0,Visalia,,,23,,
+minoraverages/1958TSN,1957,California League,ciccarella,F22175,Ciccarella,,0,Visalia,,,,,p20
+minoraverages/1958TSN,1957,California League,ciccarella,P10097,Ciccarella,,0,Visalia,,,,20,p
+minoraverages/1958TSN,1957,California League,clark,B00264,Clark,Clarence,0,Bakersfield,,,40,,
+minoraverages/1958TSN,1957,California League,clark,F21985,Clark,,0,Bakersfield,,,,,p38
+minoraverages/1958TSN,1957,California League,clark,P10100,Clark,,0,Bakersfield,,,,38,p
+minoraverages/1958TSN,1957,California League,clifton,B02215,Clifton,Ralph,0,Reno,,,8,,
+minoraverages/1958TSN,1957,California League,clifton,P10113,Clifton,,0,Reno,,,,8,p
+minoraverages/1958TSN,1957,California League,colombo,B00278,Colombo,Angelo,0,Stockton,,,61,,
+minoraverages/1958TSN,1957,California League,colombo,F20526,Colombo,,0,Stockton,,,,,3b53
+minoraverages/1958TSN,1957,California League,coombs,B00286,Coombs,Harvey,0,Reno,,,26,,
+minoraverages/1958TSN,1957,California League,coombs,F21210,Coombs,,0,Reno,,,,,of25
+minoraverages/1958TSN,1957,California League,cornell,B00293,Cornell,W Franklin,0,Modesto,,,30,,
+minoraverages/1958TSN,1957,California League,cornell,F21747,Cornell,,0,Modesto,,,,,p26
+minoraverages/1958TSN,1957,California League,cornell,P10121,Cornell,,0,Modesto,,,,26,p
+minoraverages/1958TSN,1957,California League,coursey,B00308,Coursey,Delbert,0,Fresno,,,28,,
+minoraverages/1958TSN,1957,California League,coursey,F22020,Coursey,,0,Fresno,,,,,p28
+minoraverages/1958TSN,1957,California League,coursey,P10137,Coursey,,0,Fresno,,,,28,p
+minoraverages/1958TSN,1957,California League,cronk,B00319,Cronk,Richard,0,Reno,,,47,,
+minoraverages/1958TSN,1957,California League,cronk,F21589,Cronk,,0,Reno,,,,,p47
+minoraverages/1958TSN,1957,California League,cronk,P10145,Cronk,,0,Reno,,,,47,p
+minoraverages/1958TSN,1957,California League,culbert,B00324,Culbert,Edward,0,Bakersfield,,,29,,
+minoraverages/1958TSN,1957,California League,culbert,F21912,Culbert,,0,Bakersfield,,,,,p27
+minoraverages/1958TSN,1957,California League,culbert,P10159,Culbert,,0,Bakersfield,,,,27,p
+minoraverages/1958TSN,1957,California League,cummings,B00335,Cummings,Jimmy,0,Fresno,,,20,,
+minoraverages/1958TSN,1957,California League,cummings,F20038,Cummings,,0,Fresno,,,,,1b15
+minoraverages/1958TSN,1957,California League,curry,B01947,Curry,John,0,Bakersfield,,,4,,
+minoraverages/1958TSN,1957,California League,curry,P10767,Curry,,0,Bakersfield,,,,4,p
+minoraverages/1958TSN,1957,California League,dambrosi,B00343,D'Ambrosi,Mario,0,Bakersfield,,,47,,
+minoraverages/1958TSN,1957,California League,dambrosi,F20604,D'Ambrosi,,0,Bakersfield,,,,,3b37
+minoraverages/1958TSN,1957,California League,dambrosi,F21343,D'Ambrosi,,0,Bakersfield,,,,,of11
+minoraverages/1958TSN,1957,California League,dandurand,B02244,Dandurand,Thomas,0,Salinas,,,4,,
+minoraverages/1958TSN,1957,California League,davidson,B00356,Davidson,William,0,Stockton,,,14,,
+minoraverages/1958TSN,1957,California League,davidson,F22142,Davidson,,0,Stockton,,,,,p14
+minoraverages/1958TSN,1957,California League,davidson,P10168,Davidson,,0,Stockton,,,,14,p
+minoraverages/1958TSN,1957,California League,dawson,B00362,Dawson,Gerald,0,Salinas,,,34,,
+minoraverages/1958TSN,1957,California League,dawson,F21059,Dawson,,0,Salinas,,,,,of34
+minoraverages/1958TSN,1957,California League,demartini,B00381,DeMartini,Gary,0,Visalia,,,132,,
+minoraverages/1958TSN,1957,California League,demartini,F20919,DeMartini,,0,Visalia,,,,,of130
+minoraverages/1958TSN,1957,California League,deese,B00370,Deese,Paul,0,Fresno,,,37,,
+minoraverages/1958TSN,1957,California League,deese,F21752,Deese,,0,Fresno,,,,,p37
+minoraverages/1958TSN,1957,California League,deese,P10176,Deese,,0,Fresno,,,,37,p
+minoraverages/1958TSN,1957,California League,dennis,B00397,Dennis,William,0,Salinas,,,85,,
+minoraverages/1958TSN,1957,California League,dennis,F20648,Dennis,,0,Salinas,,,,,3b18
+minoraverages/1958TSN,1957,California League,dennis,F20908,Dennis,,0,Salinas,,,,,of68
+minoraverages/1958TSN,1957,California League,dial,B00403,Dial,William,0,San Jose,,,29,,
+minoraverages/1958TSN,1957,California League,dial,F21865,Dial,,0,San Jose,,,,,p28
+minoraverages/1958TSN,1957,California League,dial,P10184,Dial,,0,San Jose,,,,28,p
+minoraverages/1958TSN,1957,California League,dorsey,B00416,Dorsey,Joe,0,Visalia,,,42,,
+minoraverages/1958TSN,1957,California League,dorsey,F22209,Dorsey,,0,Visalia,,,,,p34
+minoraverages/1958TSN,1957,California League,dorsey,P10192,Dorsey,,0,Visalia,,,,34,p
+minoraverages/1958TSN,1957,California League,dougherty,B00427,Dougherty,James,0,San Jose,,,122,,
+minoraverages/1958TSN,1957,California League,dougherty,F20463,Dougherty,,0,San Jose,,,,,3b19
+minoraverages/1958TSN,1957,California League,dougherty,F20721,Dougherty,,0,San Jose,,,,,ss100
+minoraverages/1958TSN,1957,California League,drummond,B00434,Drummond,Charles,0,Stockton,,,40,,
+minoraverages/1958TSN,1957,California League,drummond,F22116,Drummond,,0,Stockton,,,,,p40
+minoraverages/1958TSN,1957,California League,drummond,P10202,Drummond,,0,Stockton,,,,40,p
+minoraverages/1958TSN,1957,California League,duffy,B02336,Duffy,Joseph,0,Stockton,,,9,,
+minoraverages/1958TSN,1957,California League,dunn,B00442,Dunn,Robert,0,Visalia,,,31,,
+minoraverages/1958TSN,1957,California League,dunn,F21833,Dunn,,0,Visalia,,,,,p30
+minoraverages/1958TSN,1957,California League,dunn,P10215,Dunn,,0,Visalia,,,,30,p
+minoraverages/1958TSN,1957,California League,durden,B00450,Durden,Elbert,0,Reno,,,52,,
+minoraverages/1958TSN,1957,California League,durden,F20115,Durden,,0,Reno,,,,,1b52
+minoraverages/1958TSN,1957,California League,dyer,B00469,Dyer,James,0,Salinas,,,91,,
+minoraverages/1958TSN,1957,California League,dyer,F20391,Dyer,,0,Salinas,,,,,2b28
+minoraverages/1958TSN,1957,California League,dyer,F20612,Dyer,,0,Salinas,,,,,3b65
+minoraverages/1958TSN,1957,California League,edwards,B00475,Edwards,C Bruce,0,Visalia,,,87,,
+minoraverages/1958TSN,1957,California League,edwards,F20552,Edwards,,0,Visalia,,,,,3b70
+minoraverages/1958TSN,1957,California League,edwards,M90018,Edwards,C. Bruce,,Visalia,,,,,
+minoraverages/emilbb,1957,California League,edwards,M91305,Edwards,Bruce,,Visalia,,,,,
+minoraverages/1958TSN,1957,California League,egan,B00488,Egan,Richard,0,Stockton,,,16,,
+minoraverages/1958TSN,1957,California League,egan,F21961,Egan,,0,Stockton,,,,,p15
+minoraverages/1958TSN,1957,California League,egan,P10228,Egan,,0,Stockton,,,,15,p
+minoraverages/1958TSN,1957,California League,emaar,B02304,Emaar,Duane,0,San Jose,,,6,,
+minoraverages/1958TSN,1957,California League,emery,B02035,Emery,Philip,0,Fresno,,,4,,
+minoraverages/1958TSN,1957,California League,emery,P10826,Emery,,0,Fresno,,,,4,p
+minoraverages/1958TSN,1957,California League,estrada,B00491,Estrada,Charles,0,Salinas,,,46,,
+minoraverages/1958TSN,1957,California League,estrada,F21898,Estrada,,0,Salinas,,,,,p39
+minoraverages/1958TSN,1957,California League,estrada,P10231,Estrada,,0,Salinas,,,,39,p
+minoraverages/1958TSN,1957,California League,farber,B00502,Farber,Donald,1,Fresno,,,,,
+minoraverages/1958TSN,1957,California League,farber,B00502,Farber,Donald,2,Stockton,,,,,
+minoraverages/1958TSN,1957,California League,farber,B00502,Farber,Donald,T,,,,56,,
+minoraverages/1958TSN,1957,California League,farber,F20128,Farber,,1,Fresno,,,,,1b
+minoraverages/1958TSN,1957,California League,farber,F20128,Farber,,2,Stockton,,,,,1b
+minoraverages/1958TSN,1957,California League,farber,F20128,Farber,,T,,,,,,1b20
+minoraverages/1958TSN,1957,California League,farber,F20956,Farber,,1,Fresno,,,,,of
+minoraverages/1958TSN,1957,California League,farber,F20956,Farber,,2,Stockton,,,,,of
+minoraverages/1958TSN,1957,California League,farber,F20956,Farber,,T,,,,,,of31
+minoraverages/1958TSN,1957,California League,figueroa,B00515,Figueroa,Angelo,0,San Jose,,,134,,
+minoraverages/1958TSN,1957,California League,figueroa,F20222,Figueroa,,0,San Jose,,,,,2b128
+minoraverages/1958TSN,1957,California League,fishel.j,B00528,Fishel,Jerry,0,Bakersfield,,,123,,
+minoraverages/1958TSN,1957,California League,fishel.l,B00531,Fishel,Larry,0,Bakersfield,,,58,,
+minoraverages/1958TSN,1957,California League,fishel.l,F21068,Fishel,L.,0,Bakersfield,,,,,of22
+minoraverages/1958TSN,1957,California League,fishel.j,F21232,Fishel,J.,0,Bakersfield,,,,,of18
+minoraverages/1958TSN,1957,California League,fishel.j,F21491,Fishel,J.,0,Bakersfield,,,,,c99
+minoraverages/1958TSN,1957,California League,fishel.l,F22099,Fishel,L.,0,Bakersfield,,,,,p26
+minoraverages/1958TSN,1957,California League,fishel.l,P10244,Fishel,L.,0,Bakersfield,,,,26,p
+minoraverages/1958TSN,1957,California League,fleer,B00544,Fleer,Robert,0,Salinas,,,18,,
+minoraverages/1958TSN,1957,California League,fleer,F20807,Fleer,,0,Salinas,,,,,ss18
+minoraverages/1958TSN,1957,California League,forthmann,B00553,Forthmann,J Albert,0,Salinas,,,85,,
+minoraverages/1958TSN,1957,California League,forthmann,F20211,Forthmann,,0,Salinas,,,,,2b84
+minoraverages/1958TSN,1957,California League,francis,B00566,Francis,Harold,0,Bakersfield,,,35,,
+minoraverages/1958TSN,1957,California League,francis,F21783,Francis,,0,Bakersfield,,,,,p34
+minoraverages/1958TSN,1957,California League,francis,P10253,Francis,,0,Bakersfield,,,,34,p
+minoraverages/1958TSN,1957,California League,furibondo,B01952,Furibondo,Peter,0,Bakersfield,,,4,,
+minoraverages/1958TSN,1957,California League,furibondo,P10772,Furibondo,,0,Bakersfield,,,,4,p
+minoraverages/1958TSN,1957,California League,gaggero,B00577,Gaggero,Joseph,0,Modesto,,,26,,
+minoraverages/1958TSN,1957,California League,gaggero,F22004,Gaggero,,0,Modesto,,,,,p25
+minoraverages/1958TSN,1957,California League,gaggero,P10266,Gaggero,,0,Modesto,,,,25,p
+minoraverages/1958TSN,1957,California League,gaines,B00589,Gaines,Joe,0,Visalia,,,135,,
+minoraverages/1958TSN,1957,California League,gaines,F21163,Gaines,,0,Visalia,,,,,of135
+minoraverages/1958TSN,1957,California League,geels,B00590,Geels,Robert F,1,Stockton,,,,,
+minoraverages/1958TSN,1957,California League,geels,B00590,Geels,Robert F,2,Fresno,,,,,
+minoraverages/1958TSN,1957,California League,geels,B00590,Geels,Robert F,T,,,,42,,
+minoraverages/1958TSN,1957,California League,geels,F20737,Geels,,1,Stockton,,,,,ss
+minoraverages/1958TSN,1957,California League,geels,F20737,Geels,,2,Fresno,,,,,ss
+minoraverages/1958TSN,1957,California League,geels,F20737,Geels,,T,,,,,,ss42
+minoraverages/1958TSN,1957,California League,geisler,B02253,Geisler,Kent,0,Salinas,,,4,,
+minoraverages/1958TSN,1957,California League,geisler,P10974,Geisler,,0,Salinas,,,,4,p
+minoraverages/1958TSN,1957,California League,gemberling,B00609,Gemberling,Melvin,0,Bakersfield,,,51,,
+minoraverages/1958TSN,1957,California League,gemberling,F20417,Gemberling,,0,Bakersfield,,,,,3b10
+minoraverages/1958TSN,1957,California League,gemberling,F20657,Gemberling,,0,Bakersfield,,,,,ss38
+minoraverages/1958TSN,1957,California League,giallombardo,B00614,Giallombardo,Robert,0,Reno,,,60,,
+minoraverages/1958TSN,1957,California League,giallombardo,F21854,Giallombardo,,0,Reno,,,,,p30
+minoraverages/1958TSN,1957,California League,giallombardo,P10277,Giallombardo,,0,Reno,,,,30,p
+minoraverages/1958TSN,1957,California League,gilmore,B00623,Gilmore,William,0,Salinas,,,128,,
+minoraverages/1958TSN,1957,California League,gilmore,F21403,Gilmore,,0,Salinas,,,,,c125
+minoraverages/1958TSN,1957,California League,gladney,B01960,Gladney,Clarence,0,Bakersfield,,,2,,
+minoraverages/1958TSN,1957,California League,gonzales,B00638,Gonzales,Benjamin,1,San Jose,,,,,
+minoraverages/1958TSN,1957,California League,gonzales,B00638,Gonzales,Benjamin,2,Stockton,,,,,
+minoraverages/1958TSN,1957,California League,gonzales,B00638,Gonzales,Benjamin,T,,,,122,,
+minoraverages/1958TSN,1957,California League,gonzales,F20287,Gonzales,,0,Stockton,,,,,2b72
+minoraverages/1958TSN,1957,California League,gonzales,F20401,Gonzales,,1,San Jose,,,,,3b
+minoraverages/1958TSN,1957,California League,gonzales,F20401,Gonzales,,2,Stockton,,,,,3b
+minoraverages/1958TSN,1957,California League,gonzales,F20401,Gonzales,,T,,,,,,3b11
+minoraverages/1958TSN,1957,California League,gonzales,F21045,Gonzales,,0,San Jose,,,,,of35
+minoraverages/1958TSN,1957,California League,gonzales,P11046,Gonzales,,0,San Jose,,,,4,p
+minoraverages/1958TSN,1957,California League,gottschalk,B00646,Gottschalk,David,0,Bakersfield,,,85,,
+minoraverages/1958TSN,1957,California League,gottschalk,F20254,Gottschalk,,0,Bakersfield,,,,,2b66
+minoraverages/1958TSN,1957,California League,gottschalk,F20449,Gottschalk,,0,Bakersfield,,,,,3b15
+minoraverages/1958TSN,1957,California League,hall,B00651,Hall,David,0,Bakersfield,,,20,,
+minoraverages/1958TSN,1957,California League,hall,F22214,Hall,,0,Bakersfield,,,,,p17
+minoraverages/1958TSN,1957,California League,hall,P10289,Hall,,0,Bakersfield,,,,17,p
+minoraverages/1958TSN,1957,California League,hammond,B00667,Hammond,Wade,0,Stockton,,,18,,
+minoraverages/1958TSN,1957,California League,hammond,F22036,Hammond,,0,Stockton,,,,,p18
+minoraverages/1958TSN,1957,California League,hammond,P10290,Hammond,,0,Stockton,,,,18,p
+minoraverages/1958TSN,1957,California League,han,B00672,Han,M LeRoy,0,Fresno,,,51,,
+minoraverages/1958TSN,1957,California League,han,F22073,Han,,0,Fresno,,,,,p51
+minoraverages/1958TSN,1957,California League,han,P10304,Han,,0,Fresno,,,,51,p
+minoraverages/1958TSN,1957,California League,hansen,B00680,Hansen,Kenneth,0,Salinas,,,120,,
+minoraverages/1958TSN,1957,California League,hansen,F20080,Hansen,,0,Salinas,,,,,1b111
+minoraverages/1958TSN,1957,California League,hazlewood,B00695,Hazlewood,Kenneth,0,Salinas,,,27,,
+minoraverages/1958TSN,1957,California League,hazlewood,F20482,Hazlewood,,0,Salinas,,,,,3b13
+minoraverages/1958TSN,1957,California League,hazlewood,P10982,Hazlewood,,0,Salinas,,,,1,p
+minoraverages/1958TSN,1957,California League,heath,B00705,Heath,Robert,0,Fresno,,,96,,
+minoraverages/1958TSN,1957,California League,heath,F20240,Heath,,0,Fresno,,,,,2b83
+minoraverages/1958TSN,1957,California League,heath,F20636,Heath,,0,Fresno,,,,,3b12
+minoraverages/1958TSN,1957,California League,henry,B02043,Henry,Robert,1,Bakersfield,,,,,
+minoraverages/1958TSN,1957,California League,henry,B02043,Henry,Robert,2,Fresno,,,,,
+minoraverages/1958TSN,1957,California League,henry,B02043,Henry,Robert,T,,,,7,,
+minoraverages/1958TSN,1957,California League,henry,P10839,Henry,,1,Bakersfield,,,,,p
+minoraverages/1958TSN,1957,California League,henry,P10839,Henry,,2,Fresno,,,,,p
+minoraverages/1958TSN,1957,California League,henry,P10839,Henry,,T,,,,,7,p
+minoraverages/1958TSN,1957,California League,herman,M90083,Herman,Floyd (Babe),,Bakersfield,19570829,,,,
+minoraverages/emilbb,1957,California League,herman,M91371,Herman,Babe,,Bakersfield,,,,,
+minoraverages/1958TSN,1957,California League,hernandez,B00718,Hernandez,Peter,0,Visalia,,,51,,
+minoraverages/1958TSN,1957,California League,hernandez,F21646,Hernandez,,0,Visalia,,,,,p33
+minoraverages/1958TSN,1957,California League,hernandez,P10312,Hernandez,,0,Visalia,,,,33,p
+minoraverages/1958TSN,1957,California League,hoisington,B02266,Hoisington,Allan,0,Salinas,,,7,,
+minoraverages/1958TSN,1957,California League,hoisington,P10996,Hoisington,,0,Salinas,,,,6,p
+minoraverages/1958TSN,1957,California League,hollenbeck,B00726,Hollenbeck,Jack,0,Fresno,,,30,,
+minoraverages/1958TSN,1957,California League,hollenbeck,F20334,Hollenbeck,,0,Fresno,,,,,2b28
+minoraverages/1958TSN,1957,California League,holmes,B02277,Holmes,Willie,0,Salinas,,,3,,
+minoraverages/1958TSN,1957,California League,horton,B02348,Horton,Deverold,0,Stockton,,,2,,
+minoraverages/1958TSN,1957,California League,huffman,B00739,Huffman,Donald,0,Reno,,,16,,
+minoraverages/1958TSN,1957,California League,huffman,F21614,Huffman,,0,Reno,,,,,p15
+minoraverages/1958TSN,1957,California League,huffman,P10320,Huffman,,0,Reno,,,,15,p
+minoraverages/1958TSN,1957,California League,humber,B00747,Humber,Thomas,0,Reno,,,135,,
+minoraverages/1958TSN,1957,California League,humber,F21084,Humber,,0,Reno,,,,,of122
+minoraverages/1958TSN,1957,California League,hunt,B00752,Hunt,Thomas,0,Salinas,,,82,,
+minoraverages/1958TSN,1957,California League,hunt,F20893,Hunt,,0,Salinas,,,,,of77
+minoraverages/1958TSN,1957,California League,hutzler,B00760,Hutzler,Richard,0,San Jose,,,38,,
+minoraverages/1958TSN,1957,California League,hutzler,F21286,Hutzler,,0,San Jose,,,,,of21
+minoraverages/1958TSN,1957,California League,hutzler,F21531,Hutzler,,0,San Jose,,,,,c11
+minoraverages/1958TSN,1957,California League,jackson-ren,B00771,Jackson,William,0,Reno,,,43,,
+minoraverages/1958TSN,1957,California League,jackson-bak,B01971,Jackson,Chester,0,Bakersfield,,,2,,
+minoraverages/1958TSN,1957,California League,jackson-ren,F20265,Jackson,,0,Reno,,,,,2b41
+minoraverages/1958TSN,1957,California League,jarusinski,B00783,Jarusinski,Andrew,0,Reno,,,22,,
+minoraverages/1958TSN,1957,California League,jarusinski,F21638,Jarusinski,,0,Reno,,,,,p20
+minoraverages/1958TSN,1957,California League,jarusinski,P10336,Jarusinski,,0,Reno,,,,20,p
+minoraverages/1958TSN,1957,California League,johnson.c-bak,B00794,Johnson,Clarence,0,Bakersfield,,,11,,
+minoraverages/1958TSN,1957,California League,johnson.ja-bak,B00806,Johnson,James A,0,Bakersfield,,,10,,
+minoraverages/1958TSN,1957,California League,johnson.jh-sto,B00811,Johnson,James H,0,Stockton,,,76,,
+minoraverages/1958TSN,1957,California League,johnson.jr-fre,B00822,Johnson,James R,0,Fresno,,,50,,
+minoraverages/1958TSN,1957,California League,johnson.jh-sto,F21502,Johnson,J. H.,0,Stockton,,,,,c73
+minoraverages/1958TSN,1957,California League,johnson.jr-fre,F21553,Johnson,J. R.,0,Fresno,,,,,c49
+minoraverages/1958TSN,1957,California League,johnson.ja-bak,F22057,Johnson,J. A.,0,Bakersfield,,,,,p10
+minoraverages/1958TSN,1957,California League,johnaon.ja,P10348,Johnson,J. A.,0,Bakersfield,,,,10,p
+minoraverages/1958TSN,1957,California League,jones-mod,B00833,Jones,Aaron,0,Modesto,,,25,,
+minoraverages/1958TSN,1957,California League,jones-sal,B00840,Jones,Donald,0,Salinas,,,24,,
+minoraverages/1958TSN,1957,California League,jones-mod,F21739,Jones,A.,0,Modesto,,,,,p25
+minoraverages/1958TSN,1957,California League,jones-sal,F22191,Jones,D.,0,Salinas,,,,,p24
+minoraverages/1958TSN,1957,California League,jones-mod,P10357,Jones,A.,0,Modesto,,,,25,p
+minoraverages/1958TSN,1957,California League,jones-sal,P10361,Jones,D.,0,Salinas,,,,24,p
+minoraverages/1958TSN,1957,California League,kahler.l,B00854,Kahler,Lawrence,0,Stockton,,,22,,
+minoraverages/1958TSN,1957,California League,kahler.w,B00865,Kahler,William,0,Stockton,,,71,,
+minoraverages/1958TSN,1957,California League,kahler.w,F20095,Kahler,W.,0,Stockton,,,,,1b71
+minoraverages/1958TSN,1957,California League,kahler.l,F20620,Kahler,L.,0,Stockton,,,,,3b18
+minoraverages/1958TSN,1957,California League,komisar,F21695,Kamisar,,0,Salinas,,,,,p28
+minoraverages/1958TSN,1957,California League,kelly,B01983,Kelly,Edward,0,Bakersfield,,,6,,
+minoraverages/1958TSN,1957,California League,kennedy-vis,B00879,Kennedy,Richard,0,Visalia,,,109,,
+minoraverages/1958TSN,1957,California League,kennedy-sj,B02312,Kennedy,R Bruce,0,San Jose,,,2,,
+minoraverages/1958TSN,1957,California League,kennedy-vis,F21434,Kennedy,,0,Visalia,,,,,c105
+minoraverages/1958TSN,1957,California League,kennedy-sj,P11051,Kennedy,,0,San Jose,,,,2,p
+minoraverages/1958TSN,1957,California League,kime,B00887,Kime,O Dean,0,Stockton,,,29,,
+minoraverages/1958TSN,1957,California League,kime,F21760,Kime,,0,Stockton,,,,,p25
+minoraverages/1958TSN,1957,California League,kime,P10373,Kime,,0,Stockton,,,,25,p
+minoraverages/1958TSN,1957,California League,knezevich,B00898,Knezevich,Edward,1,Salinas,,,,,
+minoraverages/1958TSN,1957,California League,knezevich,B00898,Knezevich,Edward,2,Stockton,,,,,
+minoraverages/1958TSN,1957,California League,knezevich,B00898,Knezevich,Edward,T,,,,32,,
+minoraverages/1958TSN,1957,California League,knezevich,F20189,Knezevich,,0,Stockton,,,,,1b11
+minoraverages/1958TSN,1957,California League,knezevich,F21021,Knezevich,,1,Salinas,,,,,of
+minoraverages/1958TSN,1957,California League,knezevich,F21021,Knezevich,,2,Stockton,,,,,of
+minoraverages/1958TSN,1957,California League,knezevich,F21021,Knezevich,,T,,,,,,of21
+minoraverages/1958TSN,1957,California League,komisar,B00904,Komisar,Anthony,0,Salinas,,,30,,
+minoraverages/1958TSN,1957,California League,komisar,P10385,Komisar,,0,Salinas,,,,28,p
+minoraverages/1958TSN,1957,California League,korich,B02357,Korich,Stanley,0,Stockton,,,8,,
+minoraverages/1958TSN,1957,California League,kostenuk,B02159,Kostenuk,David,0,Modesto,,,9,,
+minoraverages/1958TSN,1957,California League,kostenuk,P10894,Kostenuk,,0,Modesto,,,,8,p
+minoraverages/1958TSN,1957,California League,krebs,B02056,Krebs,Donald,0,Fresno,,,5,,
+minoraverages/1958TSN,1957,California League,krebs,P10847,Krebs,,0,Fresno,,,,5,p
+minoraverages/1958TSN,1957,California League,krueger,M90052,Krueger,William,,Salinas,19570719,,,,
+minoraverages/emilbb,1957,California League,krueger,M91347,Krueger,Bill,,Salinas,,,,,
+minoraverages/1958TSN,1957,California League,laursen,B00912,Laursen,C Eugene,0,Fresno,,,78,,
+minoraverages/1958TSN,1957,California League,laursen,F20375,Laursen,,0,Fresno,,,,,2b11
+minoraverages/1958TSN,1957,California League,laursen,F20745,Laursen,,0,Fresno,,,,,ss67
+minoraverages/1958TSN,1957,California League,lavorel,B00920,Lavorel,Warren,0,Modesto,,,45,,
+minoraverages/1958TSN,1957,California League,lavorel,F20051,Lavorel,,0,Modesto,,,,,1b43
+minoraverages/1958TSN,1957,California League,leblanc,B00936,Le Blanc,Roland,0,Fresno,,,121,,
+minoraverages/1958TSN,1957,California League,leblanc,F20153,Le Blanc,,0,Fresno,,,,,1b82
+minoraverages/1958TSN,1957,California League,leblanc,F21416,Le Blanc,,0,Fresno,,,,,c32
+minoraverages/1958TSN,1957,California League,leblanc,P10852,Le Blanc,,0,Fresno,,,,1,p
+minoraverages/1958TSN,1957,California League,leduc,B00948,Le Duc,Louis,0,Fresno,,,14,,
+minoraverages/1958TSN,1957,California League,leblanc,M90107,LeBlanc,Roland (Nat),,Fresno,,,,,
+minoraverages/emilbb,1957,California League,leblanc,M91394,LeBlanc,Roland,,Fresno,,,,,
+minoraverages/1958TSN,1957,California League,lee-sto,B00957,Lee,Joseph,0,Stockton,,,53,,
+minoraverages/1958TSN,1957,California League,lee-sj,B00961,Lee,Robert,0,San Jose,,,38,,
+minoraverages/1958TSN,1957,California League,lee-sto,F20327,Lee,J.,0,Stockton,,,,,2b30
+minoraverages/1958TSN,1957,California League,lee-sto,F20539,Lee,J.,0,Stockton,,,,,3b24
+minoraverages/1958TSN,1957,California League,lee-sj,F22103,Lee,R.,0,San Jose,,,,,p28
+minoraverages/1958TSN,1957,California League,lee-sj,P10399,Lee,R.,0,San Jose,,,,28,p
+minoraverages/1958TSN,1957,California League,leval,B02062,Leval,Alfred,0,Fresno,,,4,,
+minoraverages/1958TSN,1957,California League,lewis,B00973,Lewis,James,0,Stockton,,,30,,
+minoraverages/1958TSN,1957,California League,lewis,F20233,Lewis,,0,Stockton,,,,,2b19
+minoraverages/1958TSN,1957,California League,linnell,B00985,Linnell,Gerald,0,Fresno,,,122,,
+minoraverages/1958TSN,1957,California League,linnell,F20583,Linnell,,0,Fresno,,,,,3b90
+minoraverages/1958TSN,1957,California League,linnell,F20768,Linnell,,0,Fresno,,,,,ss17
+minoraverages/1958TSN,1957,California League,littlejohn,B00999,Littlejohn,Richard,0,Visalia,,,52,,
+minoraverages/1958TSN,1957,California League,littlejohn,F21469,Littlejohn,,0,Visalia,,,,,c29
+minoraverages/1958TSN,1957,California League,loepp,B02361,Loepp,James,1,Fresno,,,,,
+minoraverages/1958TSN,1957,California League,loepp,B02361,Loepp,James,2,Stockton,,,,,
+minoraverages/1958TSN,1957,California League,loepp,B02361,Loepp,James,T,,,,9,,
+minoraverages/1958TSN,1957,California League,loepp,P11072,Loepp,,1,Fresno,,,,,p
+minoraverages/1958TSN,1957,California League,loepp,P11072,Loepp,,2,Stockton,,,,,p
+minoraverages/1958TSN,1957,California League,loepp,P11072,Loepp,,T,,,,,9,p
+minoraverages/1958TSN,1957,California League,longwello,B01007,Longwello,Charles,0,Fresno,,,17,,
+minoraverages/1958TSN,1957,California League,longwello,F21822,Longwello,,0,Fresno,,,,,p14
+minoraverages/1958TSN,1957,California League,longwello,P10407,Longwello,,0,Fresno,,,,14,p
+minoraverages/1958TSN,1957,California League,lubinski,B01010,Lubinski,Richard,0,Stockton,,,22,,
+minoraverages/1958TSN,1957,California League,lubinski,F21319,Lubinski,,0,Stockton,,,,,of18
+minoraverages/1958TSN,1957,California League,lucas,B01029,Lucas,William,0,Salinas,,,87,,
+minoraverages/1958TSN,1957,California League,lucas,F20673,Lucas,,0,Salinas,,,,,ss86
+minoraverages/1958TSN,1957,California League,lukenbill,B02407,Lukenbill,Glenn,0,Visalia,,,8,,
+minoraverages/1958TSN,1957,California League,lutz,B01032,Lutz,John,0,Salinas,,,27,,
+minoraverages/1958TSN,1957,California League,lutz,F21577,Lutz,,0,Salinas,,,,,p17
+minoraverages/1958TSN,1957,California League,lutz,P10410,Lutz,,0,Salinas,,,,17,p
+minoraverages/1958TSN,1957,California League,marquez,B01041,Marquez,Humberto,0,Visalia,,,31,,
+minoraverages/1958TSN,1957,California League,marquez,F21794,Marquez,,0,Visalia,,,,,p31
+minoraverages/1958TSN,1957,California League,marquez,P10429,Marquez,,0,Visalia,,,,31,p
+minoraverages/1958TSN,1957,California League,marten,B01055,Marten,Robert,0,Fresno,,,30,,
+minoraverages/1958TSN,1957,California League,marten,F21718,Marten,,0,Fresno,,,,,p27
+minoraverages/1958TSN,1957,California League,marten,P10432,Marten,,0,Fresno,,,,27,p
+minoraverages/1958TSN,1957,California League,mayo,B01064,Mayo,Harry,0,Modesto,,,139,,
+minoraverages/1958TSN,1957,California League,mayo,F21000,Mayo,,0,Modesto,,,,,of139
+minoraverages/1958TSN,1957,California League,mcdonald,B01078,McDonald,Richard,0,San Jose,,,18,,
+minoraverages/1958TSN,1957,California League,mcdonald,F21130,McDonald,,0,San Jose,,,,,of16
+minoraverages/1958TSN,1957,California League,mcguckin,B01086,McGuckin,William,0,Bakersfield,,,50,,
+minoraverages/1958TSN,1957,California League,mcguckin,F20935,McGuckin,,0,Bakersfield,,,,,of49
+minoraverages/1958TSN,1957,California League,mcmahon,B02070,McMahon,James,0,Fresno,,,9,,
+minoraverages/1958TSN,1957,California League,mcquade,B01994,McQuade,John,0,Bakersfield,,,1,,
+minoraverages/1958TSN,1957,California League,mcquade,P10780,McQuade,,0,Bakersfield,,,,1,p
+minoraverages/1958TSN,1957,California League,merklen,B01093,Merklen,M Glen,0,Modesto,,,55,,
+minoraverages/1958TSN,1957,California League,merklen,F20177,Merklen,,0,Modesto,,,,,1b55
+minoraverages/1958TSN,1957,California League,michael,B02289,Michael,Richard,0,Salinas,,,3,,
+minoraverages/1958TSN,1957,California League,michal,B02081,Michal,George,0,Fresno,,,8,,
+minoraverages/1958TSN,1957,California League,michal,P10860,Michal,,0,Fresno,,,,7,p
+minoraverages/1958TSN,1957,California League,mihal,B01108,Mihal,Ronald,0,Salinas,,,10,,
+minoraverages/1958TSN,1957,California League,mihal,F21149,Mihal,,0,Salinas,,,,,of10
+minoraverages/1958TSN,1957,California League,mills,B02008,Mills,D Patrick,0,Bakersfield,,,2,,
+minoraverages/1958TSN,1957,California League,milone,B01119,Milone,William,0,Bakersfield,,,20,,
+minoraverages/1958TSN,1957,California League,milone,F21936,Milone,,0,Bakersfield,,,,,p18
+minoraverages/1958TSN,1957,California League,milone,P10441,Milone,,0,Bakersfield,,,,18,p
+minoraverages/1958TSN,1957,California League,minagawa,B01124,Minagawa,Earl,0,Visalia,,,18,,
+minoraverages/1958TSN,1957,California League,minagawa,F20458,Minagawa,,0,Visalia,,,,,3b12
+minoraverages/1958TSN,1957,California League,minice,B01135,Minice,Richard,0,San Jose,,,133,,
+minoraverages/1958TSN,1957,California League,minice,F20046,Minice,,0,San Jose,,,,,1b133
+minoraverages/1958TSN,1957,California League,minor,B01143,Minor,Harry,0,Salinas,,,121,,
+minoraverages/1958TSN,1957,California League,minor,F20166,Minor,,0,Salinas,,,,,1b28
+minoraverages/1958TSN,1957,California League,minor,F21370,Minor,,0,Salinas,,,,,of78
+minoraverages/1958TSN,1957,California League,minor,F21427,Minor,,0,Salinas,,,,,c13
+minoraverages/1958TSN,1957,California League,minor,P11009,Minor,,0,Salinas,,,,2,p
+minoraverages/1958TSN,1957,California League,minton.frank,B01156,Minton,Frank,0,Reno,,,41,,
+minoraverages/1958TSN,1957,California League,minton.fred,B01162,Minton,Fred,0,Reno,,,25,,
+minoraverages/1958TSN,1957,California League,minton.fred,F21013,Minton,Fred,0,Reno,,,,,of25
+minoraverages/1958TSN,1957,California League,minton.frank,F21920,Minton,Frank,0,Reno,,,,,p39
+minoraverages/1958TSN,1957,California League,minton.frank,P10455,Minton,Frank,0,Reno,,,,39,p
+minoraverages/1958TSN,1957,California League,mitchell,B01170,Mitchell,Henry,0,Modesto,,,111,,
+minoraverages/1958TSN,1957,California League,mitchell,F20350,Mitchell,,0,Modesto,,,,,2b16
+minoraverages/1958TSN,1957,California League,mitchell,F21335,Mitchell,,0,Modesto,,,,,of97
+minoraverages/1958TSN,1957,California League,moitoza,B01181,Moitoza,Donald,0,Stockton,,,117,,
+minoraverages/1958TSN,1957,California League,moitoza,F20962,Moitoza,,0,Stockton,,,,,of116
+minoraverages/1958TSN,1957,California League,moler,B01197,Moler,Richard,0,Modesto,,,119,,
+minoraverages/1958TSN,1957,California League,moler,F20014,Moler,,0,Modesto,,,,,1b44
+minoraverages/1958TSN,1957,California League,moler,F20388,Moler,,0,Modesto,,,,,2b11
+minoraverages/1958TSN,1957,California League,moler,F21196,Moler,,0,Modesto,,,,,of43
+minoraverages/1958TSN,1957,California League,moler,F21544,Moler,,0,Modesto,,,,,c12
+minoraverages/1958TSN,1957,California League,moralez,B02097,Moralez,Lupe,0,Fresno,,,2,,
+minoraverages/1958TSN,1957,California League,moralez,P10871,Moralez,,0,Fresno,,,,2,p
+minoraverages/1958TSN,1957,California League,moreci,B01203,Moreci,Vincent,0,Stockton,,,21,,
+minoraverages/1958TSN,1957,California League,moreci,F20864,Moreci,,0,Stockton,,,,,of17
+minoraverages/1958TSN,1957,California League,moreno,B01216,Moreno,Heliodoro,0,Visalia,,,37,,
+minoraverages/1958TSN,1957,California League,moreno,F21948,Moreno,,0,Visalia,,,,,p37
+minoraverages/1958TSN,1957,California League,moreno,P10464,Moreno,,0,Visalia,,,,37,p
+minoraverages/1958TSN,1957,California League,mudrock,B02168,Mudrock,Philip,0,Modesto,,,4,,
+minoraverages/1958TSN,1957,California League,mudrock,P10901,Mudrock,,0,Modesto,,,,4,p
+minoraverages/1958TSN,1957,California League,mullany,B01227,Mullany,Francis,0,Stockton,,,28,,
+minoraverages/1958TSN,1957,California League,mullany,F20810,Mullany,,0,Stockton,,,,,ss21
+minoraverages/1958TSN,1957,California League,mulliniks,B02176,Mulliniks,Harvey,0,Modesto,,,1,,
+minoraverages/1958TSN,1957,California League,mulliniks,P10917,Mulliniks,,0,Modesto,,,,1,p
+minoraverages/1958TSN,1957,California League,murray,B02228,Murray,Orlene,0,Reno,,,4,,
+minoraverages/1958TSN,1957,California League,murray,P10949,Murray,,0,Reno,,,,4,p
+minoraverages/1958TSN,1957,California League,neal,B01234,Neal,Gerald,0,Modesto,,,10,,
+minoraverages/1958TSN,1957,California League,neal,P10478,Neal,,0,Modesto,,,,9,p
+minoraverages/1958TSN,1957,California League,neves,B01242,Neves,Donald,0,Fresno,,,20,,
+minoraverages/1958TSN,1957,California League,neves,F21609,Neves,,0,Fresno,,,,,p16
+minoraverages/1958TSN,1957,California League,neves,P10486,Neves,,0,Fresno,,,,16,p
+minoraverages/1958TSN,1957,California League,newland,B02019,Newland,George,0,Bakersfield,,,4,,
+minoraverages/1958TSN,1957,California League,norman,B01250,Norman,Martin,0,Stockton,,,18,,
+minoraverages/1958TSN,1957,California League,norris,B02100,Norris,Harold,0,Fresno,,,6,,
+minoraverages/1958TSN,1957,California League,norris,P10493,Norris,,0,Fresno,,,,6,p
+minoraverages/1958TSN,1957,California League,ortega,B01269,Ortega,Manuel,1,Bakersfield,,,,,
+minoraverages/1958TSN,1957,California League,ortega,B01269,Ortega,Manuel,2,Stockton,,,,,
+minoraverages/1958TSN,1957,California League,ortega,B01269,Ortega,Manuel,T,,,,116,,
+minoraverages/1958TSN,1957,California League,ortega,F20661,Ortega,,1,Bakersfield,,,,,ss
+minoraverages/1958TSN,1957,California League,ortega,F20661,Ortega,,2,Stockton,,,,,ss
+minoraverages/1958TSN,1957,California League,ortega,F20661,Ortega,,T,,,,,,ss112
+minoraverages/1958TSN,1957,California League,osborne,B01275,Osborne,John,0,Reno,,,89,,
+minoraverages/1958TSN,1957,California League,osborne,F20298,Osborne,,0,Reno,,,,,2b79
+minoraverages/1958TSN,1957,California League,overin,B01288,Overin,Henry,0,Stockton,,,32,,
+minoraverages/1958TSN,1957,California League,overin,F22061,Overin,,0,Stockton,,,,,p28
+minoraverages/1958TSN,1957,California League,overin,P10503,Overin,,0,Stockton,,,,28,p
+minoraverages/1958TSN,1957,California League,owen,B01291,Owen,Allison,0,Bakersfield,,,72,,
+minoraverages/1958TSN,1957,California League,owen,F20496,Owen,,0,Bakersfield,,,,,3b46
+minoraverages/1958TSN,1957,California League,owen,F20784,Owen,,0,Bakersfield,,,,,ss22
+minoraverages/1958TSN,1957,California League,owen,P10795,Owen,,0,Bakersfield,,,,1,p
+minoraverages/1958TSN,1957,California League,palma,B02184,Palma,Gerald,0,Modesto,,,3,,
+minoraverages/1958TSN,1957,California League,partee,B01300,Partee,Roy,0,Stockton,,,82,,
+minoraverages/1958TSN,1957,California League,partee,F21450,Partee,,0,Stockton,,,,,c81
+minoraverages/1958TSN,1957,California League,partee,M90094,Partee,Roy,,Stockton,,,,,
+minoraverages/1958TSN,1957,California League,partee,P11080,Partee,,0,Stockton,,,,2,p
+minoraverages/emilbb,1957,California League,partee,M91383,Partee,Roy,,Stockton,,,,,
+minoraverages/1958TSN,1957,California League,penrod,B01313,Penrod,Allen,0,Reno,,,40,,
+minoraverages/1958TSN,1957,California League,penrod,F21241,Penrod,,0,Reno,,,,,of40
+minoraverages/1958TSN,1957,California League,perez,B01321,Perez,Armando,0,Stockton,,,53,,
+minoraverages/1958TSN,1957,California League,perez,F20131,Perez,,0,Stockton,,,,,1b47
+minoraverages/1958TSN,1957,California League,perry-sj,B01337,Perry,Harold,0,San Jose,,,40,,
+minoraverages/1958TSN,1957,California League,perry-ren,B01345,Perry,Raymond,0,Reno,,,133,,
+minoraverages/1958TSN,1957,California League,perry-ren,F20425,Perry,R.,0,Reno,,,,,3b120
+minoraverages/1958TSN,1957,California League,perry-sj,F21811,Perry,H.,0,San Jose,,,,,p28
+minoraverages/1958TSN,1957,California League,perry-ren,F21973,Perry,R.,0,Reno,,,,,p12
+minoraverages/1958TSN,1957,California League,perry-ren,M90026,Perry,Raymond,,Reno,,,,,
+minoraverages/1958TSN,1957,California League,perry-sj,P10516,Perry,H.,0,San Jose,,,,28,p
+minoraverages/1958TSN,1957,California League,perry-ren,P10958,Perry,R.,0,Reno,,,,12,p
+minoraverages/emilbb,1957,California League,perry-ren,M91318,Perry,Ray,,Reno,,,,,
+minoraverages/1958TSN,1957,California League,peterson,B01359,Peterson,Dennis,0,Bakersfield,,,32,,
+minoraverages/1958TSN,1957,California League,peterson,F20759,Peterson,,0,Bakersfield,,,,,ss26
+minoraverages/1958TSN,1957,California League,phelps,B01368,Phelps,Duane,0,Modesto,,,23,,
+minoraverages/1958TSN,1957,California League,phelps,F22048,Phelps,,0,Modesto,,,,,p21
+minoraverages/1958TSN,1957,California League,phelps,P10527,Phelps,,0,Modesto,,,,21,p
+minoraverages/1958TSN,1957,California League,phillips,B01376,Phillips,Damon,0,Modesto,,,118,,
+minoraverages/1958TSN,1957,California League,phillips,F20206,Phillips,,0,Modesto,,,,,2b115
+minoraverages/1958TSN,1957,California League,phillips,M90039,Phillips,Damon,,Modesto,,,,,
+minoraverages/emilbb,1957,California League,phillips,M91326,Phillips,Damon,,Modesto,,,,,
+minoraverages/1958TSN,1957,California League,pignatello,B01384,Pignatello,Vincent,0,Modesto,,,11,,
+minoraverages/1958TSN,1957,California League,pignatello,P10534,Pignatello,,0,Modesto,,,,9,p
+minoraverages/1958TSN,1957,California League,pinson,B01392,Pinson,Vada,0,Visalia,,,135,,
+minoraverages/1958TSN,1957,California League,pinson,F21229,Pinson,,0,Visalia,,,,,of133
+minoraverages/1958TSN,1957,California League,pinson,P11102,Pinson,,0,Stockton,,,,1,p
+minoraverages/1958TSN,1957,California League,pirela,B01402,Pirela,Julio,0,Visalia,,,104,,
+minoraverages/1958TSN,1957,California League,pirela,F20713,Pirela,,0,Visalia,,,,,ss104
+minoraverages/1958TSN,1957,California League,pitts,B01415,Pitts,Walter,0,San Jose,,,23,,
+minoraverages/1958TSN,1957,California League,pitts,F21806,Pitts,,0,San Jose,,,,,p18
+minoraverages/1958TSN,1957,California League,pitts,P10542,Pitts,,0,San Jose,,,,18,p
+minoraverages/1958TSN,1957,California League,pulford,B01428,Pulford,Donald,0,San Jose,,,38,,
+minoraverages/1958TSN,1957,California League,pulford,F20855,Pulford,,0,San Jose,,,,,ss32
+minoraverages/1958TSN,1957,California League,rakow,B01431,Rakow,Edward,0,Reno,,,50,,
+minoraverages/1958TSN,1957,California League,rakow,F21879,Rakow,,0,Reno,,,,,p31
+minoraverages/1958TSN,1957,California League,rakow,P10550,Rakow,,0,Reno,,,,31,p
+minoraverages/1958TSN,1957,California League,ramirez,B01444,Ramirez,Carlos,0,Salinas,,,29,,
+minoraverages/1958TSN,1957,California League,ramirez,F20279,Ramirez,,0,Salinas,,,,,2b21
+minoraverages/1958TSN,1957,California League,reed,B02373,Reed,Donald,0,Stockton,,,9,,
+minoraverages/1958TSN,1957,California League,reed,P10569,Reed,,0,Stockton,,,,9,p
+minoraverages/1958TSN,1957,California League,reniff,B01453,Reniff,Harold,0,Modesto,,,37,,
+minoraverages/1958TSN,1957,California League,reniff,F21887,Reniff,,0,Modesto,,,,,p37
+minoraverages/1958TSN,1957,California League,reniff,P10575,Reniff,,0,Modesto,,,,37,p
+minoraverages/1958TSN,1957,California League,reniker,B01466,Reniker,Bennie,0,Visalia,,,34,,
+minoraverages/1958TSN,1957,California League,reniker,F21667,Reniker,,0,Visalia,,,,,p33
+minoraverages/1958TSN,1957,California League,reniker,P10588,Reniker,,0,Visalia,,,,33,p
+minoraverages/1958TSN,1957,California League,rhodes,B01477,Rhodes,Ted,0,Fresno,,,80,,
+minoraverages/1958TSN,1957,California League,rhodes,F20430,Rhodes,,0,Fresno,,,,,3b20
+minoraverages/1958TSN,1957,California League,rhodes,F21293,Rhodes,,0,Fresno,,,,,of60
+minoraverages/1958TSN,1957,California League,rice,B02290,Rice,Gerald,0,Salinas,,,8,,
+minoraverages/1958TSN,1957,California League,rice,P11014,Rice,,0,Salinas,,,,8,p
+minoraverages/1958TSN,1957,California League,rodrick,B02385,Rodrick,Eugene,0,Stockton,,,1,,
+minoraverages/1958TSN,1957,California League,rodrick,P11095,Rodrick,,0,Stockton,,,,1,p
+minoraverages/1958TSN,1957,California League,rossi,B01489,Rossi,Joseph,0,Modesto,,,93,,
+minoraverages/1958TSN,1957,California League,rossi,F21397,Rossi,F.,0,Modesto,,,,,c88
+minoraverages/1958TSN,1957,California League,roth,B01490,Roth,John,0,Stockton,,,133,,
+minoraverages/1958TSN,1957,California League,roth,F21264,Roth,,0,Stockton,,,,,of130
+minoraverages/1958TSN,1957,California League,roy,B02113,Roy,Roger,0,Fresno,,,1,,
+minoraverages/1958TSN,1957,California League,roy,P10883,Roy,,0,Fresno,,,,1,p
+minoraverages/1958TSN,1957,California League,rushing,B01509,Rushing,Garry,0,Fresno,,,138,,
+minoraverages/1958TSN,1957,California League,rushing,F20072,Rushing,,0,Fresno,,,,,1b21
+minoraverages/1958TSN,1957,California League,rushing,F21278,Rushing,,0,Fresno,,,,,of55
+minoraverages/1958TSN,1957,California League,rushing,F21515,Rushing,,0,Fresno,,,,,c64
+minoraverages/1958TSN,1957,California League,russell,B01514,Russell,James,0,Modesto,,,11,,
+minoraverages/1958TSN,1957,California League,russell,P10591,Russell,,0,Modesto,,,,7,p
+minoraverages/1958TSN,1957,California League,santino,B01523,Santino,Anthony,0,Fresno,,,56,,
+minoraverages/1958TSN,1957,California League,santino,F20970,Santino,,0,Fresno,,,,,of54
+minoraverages/1958TSN,1957,California League,sarver,B01538,Sarver,Daniel,0,Bakersfield,,,138,,
+minoraverages/1958TSN,1957,California League,sarver,F20190,Sarver,,0,Bakersfield,,,,,1b13
+minoraverages/1958TSN,1957,California League,sarver,F21037,Sarver,,0,Bakersfield,,,,,of121
+minoraverages/1958TSN,1957,California League,schmidt,B01546,Schmidt,Chester,0,Salinas,,,135,,
+minoraverages/1958TSN,1957,California League,schmidt,F20829,Schmidt,,0,Salinas,,,,,ss22
+minoraverages/1958TSN,1957,California League,schmidt,F20943,Schmidt,,0,Salinas,,,,,of117
+minoraverages/1958TSN,1957,California League,schneider,B01551,Schneider,Donald,0,Fresno,,,67,,
+minoraverages/1958TSN,1957,California League,schneider,F21651,Schneider,,0,Fresno,,,,,p51
+minoraverages/1958TSN,1957,California League,schneider,P10606,Schneider,,0,Fresno,,,,51,p
+minoraverages/1958TSN,1957,California League,schroyer,B01567,Schroyer,Richard,0,San Jose,,,10,,
+minoraverages/1958TSN,1957,California League,schroyer,P11067,Schroyer,,0,San Jose,,,,9,p
+minoraverages/1958TSN,1957,California League,schurr,B01572,Schurr,Robert,0,Stockton,,,111,,
+minoraverages/1958TSN,1957,California League,schurr,F21174,Schurr,,0,Stockton,,,,,of102
+minoraverages/1958TSN,1957,California League,scott,B01580,Scott,Raymond,0,Stockton,,,13,,
+minoraverages/1958TSN,1957,California League,scott,F21840,Scott,,0,Stockton,,,,,p13
+minoraverages/1958TSN,1957,California League,scott,P10611,Scott,,0,Stockton,,,,13,p
+minoraverages/1958TSN,1957,California League,shank,B01595,Shank,B Robert,0,Salinas,,,19,,
+minoraverages/1958TSN,1957,California League,shuler,B02121,Shuler,Robert,0,Fresno,,,9,,
+minoraverages/1958TSN,1957,California League,smith.c,B01601,Smith,Charles,0,Reno,,,103,,
+minoraverages/1958TSN,1957,California League,smith.n,B01617,Smith,Nathaniel,0,Reno,,,122,,
+minoraverages/1958TSN,1957,California League,smith.r,B01625,Smith,Richard A,0,Reno,,,14,,
+minoraverages/1958TSN,1957,California League,smith.c,F20792,Smith,C.,0,Reno,,,,,ss102
+minoraverages/1958TSN,1957,California League,smith.n,F21381,Smith,N.,0,Reno,,,,,c115
+minoraverages/1958TSN,1957,California League,smith.r,P10963,Smith,R.,0,Reno,,,,6,p
+minoraverages/1958TSN,1957,California League,sorenson,B01630,Sorenson,Gary,0,Bakersfield,,,77,,
+minoraverages/1958TSN,1957,California League,sorenson,F20342,Sorenson,,0,Bakersfield,,,,,2b64
+minoraverages/1958TSN,1957,California League,sorenson,F20832,Sorenson,,0,Bakersfield,,,,,ss14
+minoraverages/1958TSN,1957,California League,spearman,B01649,Spearman,Alvin,0,Stockton,,,30,,
+minoraverages/1958TSN,1957,California League,spearman,F21672,Spearman,,0,Stockton,,,,,p19
+minoraverages/1958TSN,1957,California League,spearman,P10622,Spearman,,0,Stockton,,,,19,p
+minoraverages/1958TSN,1957,California League,sperling,B02320,Sperling,William,0,San Jose,,,6,,
+minoraverages/1958TSN,1957,California League,sperling,P10633,Sperling,,0,San Jose,,,,6,p
+minoraverages/1958TSN,1957,California League,stack,B01658,Stack,Jerome,0,Visalia,,,134,,
+minoraverages/1958TSN,1957,California League,stack,F20102,Stack,,0,Visalia,,,,,1b133
+minoraverages/1958TSN,1957,California League,stedman,B01663,Stedman,Vaughn,0,Salinas,,,10,,
+minoraverages/1958TSN,1957,California League,stedman,P10640,Stedman,,0,Salinas,,,,9,p
+minoraverages/1958TSN,1957,California League,steele,B01674,Steele,Ray,0,Stockton,,,29,,
+minoraverages/1958TSN,1957,California League,steele,F20841,Steele,,0,Stockton,,,,,ss21
+minoraverages/1958TSN,1957,California League,stoico,B01682,Stoico,Robert,0,Salinas,,,49,,
+minoraverages/1958TSN,1957,California League,stoico,F21726,Stoico,,0,Salinas,,,,,p39
+minoraverages/1958TSN,1957,California League,stoico,P10654,Stoico,,0,Salinas,,,,39,p
+minoraverages/1958TSN,1957,California League,streeter,B01696,Streeter,Glen,0,Fresno,,,76,,
+minoraverages/1958TSN,1957,California League,streeter,F21125,Streeter,,0,Fresno,,,,,of73
+minoraverages/1958TSN,1957,California League,sutton,B02192,Sutton,Robert,0,Modesto,,,3,,
+minoraverages/1958TSN,1957,California League,sutton,P10925,Sutton,,0,Modesto,,,,3,p
+minoraverages/1958TSN,1957,California League,swanson,B02137,Swanson,Haroild,0,Fresno,,,5,,
+minoraverages/1958TSN,1957,California League,tarlton,B01706,Tarlton,Donald,0,Bakersfield,,,44,,
+minoraverages/1958TSN,1957,California League,tarlton,F21957,Tarlton,,0,Bakersfield,,,,,p44
+minoraverages/1958TSN,1957,California League,tarlton,P10665,Tarlton,,0,Bakersfield,,,,44,p
+minoraverages/1958TSN,1957,California League,thomas,B01711,Thomas,Leo,0,Salinas,,,27,,
+minoraverages/1958TSN,1957,California League,thomas,F20518,Thomas,,0,Salinas,,,,,3b14
+minoraverages/1958TSN,1957,California League,thomas,M90047,Thomas,Leo,,Salinas,,,,,
+minoraverages/1958TSN,1957,California League,thomas,P11023,Thomas,,0,Salinas,,,,1,p
+minoraverages/emilbb,1957,California League,thomas,M91339,Thomas,Leo,,Salinas,,,,,
+minoraverages/1958TSN,1957,California League,thompson,B01722,Thompson,Donald,0,Bakersfield,,,129,,
+minoraverages/1958TSN,1957,California League,thompson,F20547,Thompson,,0,Bakersfield,,,,,3b15
+minoraverages/1958TSN,1957,California League,thompson,F20886,Thompson,,0,Bakersfield,,,,,of62
+minoraverages/1958TSN,1957,California League,thompson,F21488,Thompson,,0,Bakersfield,,,,,c49
+minoraverages/1958TSN,1957,California League,turk,B01733,Turk,Robert,0,Salinas,,,46,,
+minoraverages/1958TSN,1957,California League,turk,F20560,Turk,,0,Salinas,,,,,3b28
+minoraverages/1958TSN,1957,California League,turk,F21207,Turk,,0,Salinas,,,,,of16
+minoraverages/1958TSN,1957,California League,vandervelde,B01740,Van der Velde,Andrew,0,Reno,,,85,,
+minoraverages/1958TSN,1957,California League,vandervelde,F20023,Van der Velde,,0,Reno,,,,,1b85
+minoraverages/1958TSN,1957,California League,vaughn,B01754,Vaughn,Cleo,0,Modesto,,,17,,
+minoraverages/1958TSN,1957,California League,vaughn,F21117,Vaughn,,0,Modesto,,,,,of13
+minoraverages/1958TSN,1957,California League,vega,B01765,Vega,Robert,0,San Jose,,,16,,
+minoraverages/1958TSN,1957,California League,vega,F22150,Vega,,0,San Jose,,,,,p16
+minoraverages/1958TSN,1957,California League,vega,P10679,Vega,,0,San Jose,,,,16,p
+minoraverages/1958TSN,1957,California League,walls,B01779,Walls,William,0,Bakersfield,,,23,,
+minoraverages/1958TSN,1957,California League,walls,F21362,Walls,,0,Bakersfield,,,,,of19
+minoraverages/1958TSN,1957,California League,warren,B01787,Warren,Richard,0,Reno,,,16,,
+minoraverages/1958TSN,1957,California League,warren,F21623,Warren,,0,Reno,,,,,p13
+minoraverages/1958TSN,1957,California League,warren,P10687,Warren,,0,Reno,,,,13,p
+minoraverages/1958TSN,1957,California League,weeks,B01798,Weeks,David,0,Salinas,,,36,,
+minoraverages/1958TSN,1957,California League,weeks,F22085,Weeks,,0,Salinas,,,,,p35
+minoraverages/1958TSN,1957,California League,weeks,P10698,Weeks,,0,Salinas,,,,35,p
+minoraverages/1958TSN,1957,California League,weiss,B01804,Weiss,F Douglas,0,Modesto,,,29,,
+minoraverages/1958TSN,1957,California League,weiss,F22012,Weiss,,0,Modesto,,,,,p21
+minoraverages/1958TSN,1957,California League,weiss,P10709,Weiss,,0,Modesto,,,,21,p
+minoraverages/1958TSN,1957,California League,weldon,B01812,Weldon,J Michael,0,Modesto,,,137,,
+minoraverages/1958TSN,1957,California League,weldon,F20685,Weldon,,0,Modesto,,,,,ss137
+minoraverages/1958TSN,1957,California League,west,B01820,West,Roy,0,Modesto,,,39,,
+minoraverages/1958TSN,1957,California League,west,F21442,West,,0,Modesto,,,,,c28
+minoraverages/1958TSN,1957,California League,west,P10930,West,,0,Modesto,,,,1,p
+minoraverages/1958TSN,1957,California League,wexler,B02231,Wexler,James,0,Reno,,,9,,
+minoraverages/1958TSN,1957,California League,wexler,P10714,Wexler,,0,Reno,,,,9,p
+minoraverages/1958TSN,1957,California League,whatcott,B01836,Whatcott,W John,0,Modesto,,,25,,
+minoraverages/1958TSN,1957,California League,whatcott,F21528,Whatcott,J.,0,Modesto,,,,,c18
+minoraverages/1958TSN,1957,California League,whitman,B01848,Whitman,Dick,0,San Jose,,,116,,
+minoraverages/1958TSN,1957,California League,whitman,F21092,Whitman,,0,San Jose,,,,,of106
+minoraverages/1958TSN,1957,California League,whitman,M90060,Whitman,Dick,,San Jose,,,,,
+minoraverages/emilbb,1957,California League,whitman,M91352,Whitman,Dick,,San Jose,,,,,
+minoraverages/1958TSN,1957,California League,williams,B02399,Williams,Charles,0,Stockton,,,6,,
+minoraverages/1958TSN,1957,California League,williams,P10723,Williams,,0,Stockton,,,,6,p
+minoraverages/1958TSN,1957,California League,wilson-ren,B01857,Wilson,Francis,0,Reno,,,25,,
+minoraverages/1958TSN,1957,California League,wilson-bak,B01861,Wilson,Richard C,0,Bakersfield,,,138,,
+minoraverages/1958TSN,1957,California League,wilson-bak,F20067,Wilson,R.,0,Bakersfield,,,,,1b133
+minoraverages/1958TSN,1957,California League,wilson-ren,F20981,Wilson,F.,0,Reno,,,,,of25
+minoraverages/1958TSN,1957,California League,wilson-bak,M90071,Wilson,Richard,,Bakersfield,,,,,
+minoraverages/1958TSN,1957,California League,wilson-bak,P10805,Wilson,R.,0,Bakersfield,,,,4,p
+minoraverages/emilbb,1957,California League,wilson-bak,M91360,Wilson,Dick,,Bakersfield,,,,,
+minoraverages/1958TSN,1957,California League,wittichen,B01873,Wittichen,Florian,0,Salinas,,,33,,
+minoraverages/1958TSN,1957,California League,wittichen,F21999,Wittichen,,0,Salinas,,,,,p19
+minoraverages/1958TSN,1957,California League,wittichen,P10738,Wittichen,,0,Salinas,,,,19,p
+minoraverages/1958TSN,1957,California League,wright,B01885,Wright,Villard,0,San Jose,,,89,,
+minoraverages/1958TSN,1957,California League,wright,F21308,Wright,,0,San Jose,,,,,of86
+minoraverages/1958TSN,1957,California League,young,B02145,Young,Donald,0,Fresno,,,5,,
+minoraverages/1958TSN,1957,California League,zanze,B02202,Zanze,John,0,Modesto,,,2,,
+minoraverages/1958TSN,1957,California League,zebrowski,B01899,Zebrowski,Albert,0,Salinas,,,17,,
+minoraverages/1958TSN,1957,California League,zebrowski,F21771,Zebrowski,,0,Salinas,,,,,p16
+minoraverages/1958TSN,1957,California League,zebrowski,P10746,Zebrowski,,0,Salinas,,,,16,p
+minoraverages/1958TSN,1957,California League,zuvela,B01905,Zuvela,Jerry,0,Fresno,,,133,,
+minoraverages/1958TSN,1957,California League,zuvela,F20144,Zuvela,,0,Fresno,,,,,1b15
+minoraverages/1958TSN,1957,California League,zuvela,F21182,Zuvela,,0,Fresno,,,,,of123
