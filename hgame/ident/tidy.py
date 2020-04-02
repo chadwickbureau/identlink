@@ -18,7 +18,9 @@ import pandas as pd
 
 
 def main():
-    for fn in pathlib.Path("data/ident").glob("**/*.csv"):
-        print("Tidying %s" % fn)
-        pd.read_csv(fn, dtype=str) \
-          .to_csv(fn, index=False, encoding='utf-8')
+    for fn in sorted(pathlib.Path("data/ident").glob("**/*.csv")):
+        print(f"Tidying {fn}")
+        (
+            pd.read_csv(fn, dtype=str)
+            .to_csv(fn, index=False, encoding='utf-8')
+        )
