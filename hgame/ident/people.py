@@ -123,14 +123,14 @@ def extract_sources():
     """Collect up person references from the various sources.
     """
     retrolist = collect_from_retrosheet(
-        path_splits=pathlib.Path("../retrosplits"),
-        path_retro=pathlib.Path("../retrosheet")
+        path_splits=pathlib.Path("../../data/retrosplits"),
+        path_retro=pathlib.Path("../../data/retrosheet")
     )
     palmer = [
-        collect_from_palmer(pathlib.Path("../palmer/minors/data/processed"))
+        collect_from_palmer(pathlib.Path("../../palmer/minors/data/processed"))
     ]
-    avglist = collect_from_averages(pathlib.Path("../minoraverages"))
-    boxlist = collect_from_boxscores(pathlib.Path("../boxscores"))
+    avglist = collect_from_averages(pathlib.Path("../hgame-averages"))
+    boxlist = collect_from_boxscores(pathlib.Path("../../boxscores"))
     print("Concatenating files...")
     return pd.concat(retrolist + palmer + avglist + boxlist,
                      sort=False, ignore_index=True)
