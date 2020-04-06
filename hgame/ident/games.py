@@ -43,7 +43,7 @@ def add_default_idents(df):
 def main():
     """Update game ident lists from source records.
     """
-    games = pd.concat(collect_from_boxscores("../../boxscores"),
+    games = pd.concat(collect_from_boxscores("../hgame-boxscore"),
                       sort=False, ignore_index=True)
     games['league.year'] = games['date'].str[:4]
     noleague = games[games['league'].isnull()]

@@ -130,7 +130,7 @@ def extract_sources():
         collect_from_palmer(pathlib.Path("../../palmer/minors/data/processed"))
     ]
     avglist = collect_from_averages(pathlib.Path("../hgame-averages"))
-    boxlist = collect_from_boxscores(pathlib.Path("../../boxscores"))
+    boxlist = collect_from_boxscores(pathlib.Path("../hgame-boxscore"))
     print("Concatenating files...")
     return pd.concat(retrolist + palmer + avglist + boxlist,
                      sort=False, ignore_index=True)
