@@ -157,7 +157,9 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1946,Carolina League,Winston-Salem,WS,WS,WS
 1946,Carolina League,Martinsville,MAR,MAR,MAR
 1946,Carolina League,Danville-Schoolfield,DAN,DAN,DAN
+1946,Carolina League,Danville,DAN,DAN,DAN
 1946,Carolina League,Leaksville-Draper-Spray,LDS,LDS,LDS
+1946,Carolina League,Leaksville,LDS,LDS,LDS
 1946,East Texas League,Henderson,HEN,HEN,HEN
 1946,East Texas League,Texarkana,TEX,TEX,TEX
 1946,East Texas League,Tyler,TYL,TYL,TYL
@@ -265,6 +267,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1946,Georgia-Alabama League,Tallassee,TAL,TAL,TAL
 1946,Georgia-Alabama League,Newnan,NEW,NEW,NEW
 1946,Georgia-Alabama League,La Grange,LAG,LAG,LAG
+1946,Georgia-Alabama League,LaGrange,LAG,LAG,LAG
 1946,Georgia-Alabama League,Opelika,OPE,OPE,OPE
 1946,Georgia-Florida League,Americus,AME,AME,AME
 1946,Georgia-Florida League,Moultrie,MOU,MOU,MOU
@@ -339,7 +342,7 @@ league.year,league.name.full,entry.name,entry.key,team.key,club.key
 1946,Wisconsin State League,Sheboygan,SHE,SHE,SHE
 1946,Wisconsin State League,Wausau,WAU,WAU,WAU
 1946,Mexican League,Tampico,TAM,TAM,TAM
-1946,Mexican League,Mexico City,MXC,MXC,MXC
+1946,Mexican League,Mexico City Reds,MXC,MXC,MXC
 1946,Mexican League,Puebla,PUE,PUE,PUE
 1946,Mexican League,Torreon,TOR,TOR,TOR
 1946,Mexican League,Monterrey,MTY,MTY,MTY
