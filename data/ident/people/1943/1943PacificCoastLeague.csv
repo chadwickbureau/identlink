@@ -1,10 +1,560 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
+minoraverages/1944TSN,1943,Pacific Coast League,,B00904,Abbott,Morrison,0,San Diego,,,85,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21149,Abbott,,0,San Diego,,,,,of78
+minoraverages/1944TSN,1943,Pacific Coast League,,B00957,Adair,James,1,Hollywood,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00957,Adair,James,2,San Francisco,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00957,Adair,James,T,,,,94,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20166,Adair,,1,Hollywood,,,,,2b
+minoraverages/1944TSN,1943,Pacific Coast League,,F20166,Adair,,2,San Francisco,,,,,2b
+minoraverages/1944TSN,1943,Pacific Coast League,,F20166,Adair,,T,,,,,,2b18
+minoraverages/1944TSN,1943,Pacific Coast League,,F20571,Adair,,1,Hollywood,,,,,ss
+minoraverages/1944TSN,1943,Pacific Coast League,,F20571,Adair,,2,San Francisco,,,,,ss
+minoraverages/1944TSN,1943,Pacific Coast League,,F20571,Adair,,T,,,,,,ss68
+minoraverages/1944TSN,1943,Pacific Coast League,,B00811,Adams,Edward,0,Portland,,,98,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21985,Adams,,0,Portland,,,,,c98
+minoraverages/1944TSN,1943,Pacific Coast League,,B01873,Anderson,Carl,0,Portland,,,12,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01064,Angle,Jack,0,Sacramento,,,148,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20072,Angle,,0,Sacramento,,,,,1b104
+minoraverages/1944TSN,1943,Pacific Coast League,,F20327,Angle,,0,Sacramento,,,,,2b25
+minoraverages/1944TSN,1943,Pacific Coast League,,F20713,Angle,,0,Sacramento,,,,,of13
+minoraverages/1944TSN,1943,Pacific Coast League,,B01939,Babich,John,0,Seattle,,,8,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21811,Babich,,0,Seattle,,,,,p8
+minoraverages/1944TSN,1943,Pacific Coast League,,P10714,Babich,John,0,Seattle,,,,8,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01029,Baker,Oren,0,Los Angeles,,,32,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21488,Baker,,0,Los Angeles,,,,,p33
+minoraverages/1944TSN,1943,Pacific Coast League,,P10253,Baker,Oren,0,Los Angeles,,,,33,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00427,Ballinger,Del,0,San Diego,,,59,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21948,Ballinger,,0,San Diego,,,,,c32
+minoraverages/1944TSN,1943,Pacific Coast League,,B01765,Ballou,Win,0,San Francisco,,,16,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21278,Ballou,,0,San Francisco,,,,,p16
+minoraverages/1944TSN,1943,Pacific Coast League,,P10751,Ballou,Win,0,San Francisco,,,,16,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00343,Barton,Lawrence,0,Portland,,,145,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20080,Barton,,0,Portland,,,,,1b142
+minoraverages/1944TSN,1943,Pacific Coast League,,B00638,Bell,Fern L.,0,Oakland,,,147,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20784,Bell,,0,Oakland,,,,,of143
+minoraverages/1944TSN,1943,Pacific Coast League,,B01431,Blanton,Cy,0,Hollywood,,,25,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21865,Blanton,,0,Hollywood,,,,,p24
+minoraverages/1944TSN,1943,Pacific Coast League,,P10184,Blanton,Cy.,0,Hollywood,,,,24,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00771,Brazle,Alpha,0,Sacramento,,,23,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21356,Brazle,,0,Sacramento,,,,,p23
+minoraverages/1944TSN,1943,Pacific Coast League,,P10019,Brazle,Alpha,0,Sacramento,,,,22,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00822,Brenzel,William,0,Hollywood,,,88,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21920,Brenzel,,0,Hollywood,,,,,c85
+minoraverages/1944TSN,1943,Pacific Coast League,,B00912,Brillheart,James B.,0,San Diego,,,35,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21566,Brillheart,,0,San Diego,,,,,p33
+minoraverages/1944TSN,1943,Pacific Coast League,,P10432,Brillheart,James B.,0,San Diego,,,,33,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01674,Buonarigo,Nick,0,Seattle,,,39,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F22099,Buonarigo,,0,Seattle,,,,,c34
+minoraverages/1944TSN,1943,Pacific Coast League,,B00491,Burnett,Oral E.,0,Sacramento,,,145,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20648,Burnett,,0,Sacramento,,,,,ss137
+minoraverages/1944TSN,1943,Pacific Coast League,,P10826,Burnett,Ora E.,0,Sacramento,,,,2,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01234,Buxton,Ralph,0,Oakland,,,30,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21515,Buxton,,0,Oakland,,,,,p29
+minoraverages/1944TSN,1943,Pacific Coast League,,P10228,Buxton,Ralph,0,Oakland,,,,29,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01595,Buzolich,Anthony,0,San Francisco,,,21,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21840,Buzolich,,0,San Francisco,,,,,p21
+minoraverages/1944TSN,1943,Pacific Coast League,,P10738,Buzolich,Anthony,0,San Francisco,,,,21,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00515,Byerly,Eldred W.,0,Sacramento,,,46,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21589,Byerly,,0,Sacramento,,,,,p34
+minoraverages/1944TSN,1943,Pacific Coast League,,P10137,Byerly,Eldred W.,0,Sacramento,,,,34,p
+minoraverages/1944TSN,1943,Pacific Coast League,,F20287,Cailteaux,,0,San Diego,,,,,2b27
+minoraverages/1944TSN,1943,Pacific Coast League,,F20401,Cailteaux,,0,San Diego,,,,,3b32
+minoraverages/1944TSN,1943,Pacific Coast League,,B01055,Callteaux,Alfred,0,San Diego,,,67,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00544,Calvey,Jack,0,San Diego,,,149,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20612,Calvey,,0,San Diego,,,,,ss147
+minoraverages/1944TSN,1943,Pacific Coast League,,B00264,Carnett,Edwin,0,Seattle,,,121,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20699,Carnett,,0,Seattle,,,,,of95
+minoraverages/1944TSN,1943,Pacific Coast League,,F21469,Carnett,,0,Seattle,,,,,p11
+minoraverages/1944TSN,1943,Pacific Coast League,,P10357,Carnett,Edwin,0,Seattle,,,,11,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00833,Caulfield,John,0,Oakland,,,152,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20673,Caulfield,,0,Oakland,,,,,ss152
+minoraverages/1944TSN,1943,Pacific Coast League,,B01345,Cecil,Rex,0,San Diego,,,22,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21806,Cecil,,0,San Diego,,,,,p20
+minoraverages/1944TSN,1943,Pacific Coast League,,P10266,Cecil,Rex,0,San Diego,,,,20,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01696,Chappel,Earl,0,San Diego,,,15,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21264,Chappel,,0,San Diego,,,,,p19
+minoraverages/1944TSN,1943,Pacific Coast League,,P10839,Chappel,Earl,0,San Diego,,,,19,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00865,Chelini,Italo,0,Oakland,,,34,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21362,Chelini,,0,Oakland,,,,,p31
+minoraverages/1944TSN,1943,Pacific Coast League,,P10464,Chelini,Italo,0,Oakland,,,,31,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00469,Christopher,Lloyd,0,Seattle,,,49,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20841,Christopher,,0,Seattle,,,,,of43
+minoraverages/1944TSN,1943,Pacific Coast League,,B00210,Clements,Harry,0,Hollywood,,,156,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20369,Clements,,0,Hollywood,,,,,3b155
+minoraverages/1944TSN,1943,Pacific Coast League,,B01546,Cohen,Syd,0,Portland,,,23,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21229,Cohen,,0,Portland,,,,,p22
+minoraverages/1944TSN,1943,Pacific Coast League,,P10361,Cohen,Syd.,0,Portland,,,,22,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01093,Cole,Dick,0,Sacramento,,,26,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20657,Cole,,0,Sacramento,,,,,ss17
+minoraverages/1944TSN,1943,Pacific Coast League,,B01337,Cook,Earl,0,Portland,,,38,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21416,Cook,,0,Portland,,,,,p38
+minoraverages/1944TSN,1943,Pacific Coast League,,P10486,Cook,Earl,0,Portland,,,,38,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01523,Coscarart,Joseph,0,Seattle,,,19,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20177,Coscarart,,0,Seattle,,,,,2b19
+minoraverages/1944TSN,1943,Pacific Coast League,,B01032,Creeden,Cornelius,0,Hollywood,,,23,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21163,Creeden,,0,Hollywood,,,,,of17
+minoraverages/1944TSN,1943,Pacific Coast League,,B02100,Darrow,George,0,Oakland,,,9,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21324,Darrow,,0,Oakland,,,,,p10
+minoraverages/1944TSN,1943,Pacific Coast League,,P10852,Darrow,George,0,Oakland,,,,9,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00381,Dasso,Frank,0,San Diego,,,33,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21771,Dasso,,0,San Diego,,,,,p27
+minoraverages/1944TSN,1943,Pacific Coast League,,P10231,Dasso,Frank,0,San Diego,,,,27,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01124,Davis,Thomas,0,Hollywood,,,103,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20636,Davis,,0,Hollywood,,,,,ss99
+minoraverages/1944TSN,1943,Pacific Coast League,,B01918,Dawson,Hubert,0,Hollywood,,,4,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01572,DeBiasi,Vince,0,Oakland,,,29,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01376,Demoran,Joseph,0,Seattle,,,55,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21335,Demoran,,0,Seattle,,,,,p35
+minoraverages/1944TSN,1943,Pacific Coast League,,P10168,Demoran,Joseph,0,Seattle,,,,33,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00130,Detore,George,0,San Diego,,,73,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F22020,Detore,,0,San Diego,,,,,c48
 minoraverages/emilbb,1943,Pacific Coast League,,M90248,Detore,George,,San Diego,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01078,Devincenzi,Jack,0,Oakland,,,129,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20768,Devincenzi,,0,Oakland,,,,,of122
+minoraverages/1944TSN,1943,Pacific Coast League,,F21609,DiBiasi,,0,Oakland,,,,,p29
+minoraverages/1944TSN,1943,Pacific Coast League,,P10542,DiBiasi,Vincent,0,Oakland,,,,29,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00059,Dickshot,John,0,Hollywood,,,158,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21084,Dickshot,,0,Hollywood,,,,,of157
+minoraverages/1944TSN,1943,Pacific Coast League,,B01580,Dilbeck,Rex,0,San Diego,,,21,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21232,Dilbeck,,0,San Diego,,,,,p21
+minoraverages/1944TSN,1943,Pacific Coast League,,P10441,Dilbeck,Rex,0,San Diego,,,,21,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00163,Dobbins,Joseph,1,Hollywood,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00163,Dobbins,Joseph,2,Seattle,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00163,Dobbins,Joseph,T,,,,115,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20620,Dobbins,,1,Hollywood,,,,,ss
+minoraverages/1944TSN,1943,Pacific Coast League,,F20620,Dobbins,,2,Seattle,,,,,ss
+minoraverages/1944TSN,1943,Pacific Coast League,,F20620,Dobbins,,T,,,,,,ss110
+minoraverages/1944TSN,1943,Pacific Coast League,,B01630,Dreisewerd,Clement J.,0,Sacramento,,,42,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21182,Dreisewerd,,0,Sacramento,,,,,p42
+minoraverages/1944TSN,1943,Pacific Coast League,,P10503,Dreisewerd,Clement J.,0,Sacramento,,,,42,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B02097,Durst,Cedric M.,0,San Diego,,,10,,
 minoraverages/emilbb,1943,Pacific Coast League,,M90236,Durst,Cedric,,San Diego,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00672,Easterwood,Roy,0,Portland,,,21,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F22061,Easterwood,,0,Portland,,,,,c21
+minoraverages/1944TSN,1943,Pacific Coast League,,B00760,Elliott,Glenn,0,Seattle,,,27,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21739,Elliott,,0,Seattle,,,,,p24
+minoraverages/1944TSN,1943,Pacific Coast League,,P10493,Elliott,Glen,0,Seattle,,,,24,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00101,English,Charles D.,0,Los Angeles,,,157,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20449,English,,0,Los Angeles,,,,,3b157
+minoraverages/1944TSN,1943,Pacific Coast League,,B00232,Enos,Will,0,San Francisco,,,82,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20518,Enos,,0,San Francisco,,,,,3b50
+minoraverages/1944TSN,1943,Pacific Coast League,,F21045,Enos,,0,San Francisco,,,,,of11
+minoraverages/1944TSN,1943,Pacific Coast League,,B01820,Entwisle,Thomas,0,Portland,,,8,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00286,Epperly,A. P.,0,San Francisco,,,38,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21577,Epperly,,0,San Francisco,,,,,p26
+minoraverages/1944TSN,1943,Pacific Coast League,,P10429,Epperly,A. P.,0,San Francisco,,,,26,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01453,Erautt,Edward,0,Hollywood,,,20,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21450,Erautt,,0,Hollywood,,,,,p20
+minoraverages/1944TSN,1943,Pacific Coast League,,P10407,Erautt,Edward,0,Hollywood,,,,20,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01415,Escalante,Earl,1,Portland,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01415,Escalante,Earl,2,Hollywood,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01415,Escalante,Earl,T,,,,33,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21442,Escalante,,1,Portland,,,,,p
+minoraverages/1944TSN,1943,Pacific Coast League,,F21442,Escalante,,2,Hollywood,,,,,p
+minoraverages/1944TSN,1943,Pacific Coast League,,F21442,Escalante,,T,,,,,,p28
+minoraverages/1944TSN,1943,Pacific Coast League,,P10455,Escalante,Earl,1,Portland,,,,,p
+minoraverages/1944TSN,1943,Pacific Coast League,,P10455,Escalante,Earl,2,Hollywood,,,,,p
+minoraverages/1944TSN,1943,Pacific Coast League,,P10455,Escalante,Earl,T,,,,,28,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01242,Estes,Louis D.,0,San Diego,,,53,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20505,Estes,,0,San Diego,,,,,3b44
+minoraverages/1944TSN,1943,Pacific Coast League,,B01392,Fernandes,Edward P.,0,Los Angeles,,,30,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21904,Fernandes,,0,Los Angeles,,,,,c21
+minoraverages/1944TSN,1943,Pacific Coast League,,B01601,Fischer,Carl,0,Seattle,,,15,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B02019,Fischer,Clyde C.,0,Sacramento,,,14,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21293,Fischer,,0,Sacramento,,,,,p13
+minoraverages/1944TSN,1943,Pacific Coast League,,F21783,Fischer,,0,Seattle,,,,,p15
+minoraverages/1944TSN,1943,Pacific Coast League,,P10192,Fischer,Carl,0,Seattle,,,,15,p
+minoraverages/1944TSN,1943,Pacific Coast League,,P10795,Fisher,Clyde C.,0,Sacramento,,,,13,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01490,Fitzke,Bob,0,Sacramento,,,23,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21672,Fitzke,,0,Sacramento,,,,,p23
+minoraverages/1944TSN,1943,Pacific Coast League,,P10622,Fitzke,Bob,0,Sacramento,,,,23,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00623,Floyd,Les,0,Portland,,,116,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20211,Floyd,,0,Portland,,,,,2b77
+minoraverages/1944TSN,1943,Pacific Coast League,,F20547,Floyd,,0,Portland,,,,,ss37
+minoraverages/1944TSN,1943,Pacific Coast League,,B01983,Frost,Robert,0,Hollywood,,,7,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B02043,Furnaro,Vince,0,Seattle,,,9,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00229,Gabrielson,Leonard,0,Seattle,,,130,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20102,Gabrielson,,0,Seattle,,,,,1b128
+minoraverages/1944TSN,1943,Pacific Coast League,,B00705,Garriott,Cecil,0,Los Angeles,,,98,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20776,Garriott,,0,Los Angeles,,,,,of92
+minoraverages/1944TSN,1943,Pacific Coast League,,B01300,Gehrman,Paul,0,Los Angeles,,,35,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21196,Gehrman,,0,Los Angeles,,,,,p35
+minoraverages/1944TSN,1943,Pacific Coast League,,P10081,Gehrman,Paul,0,Los Angeles,,,,35,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01197,Gibson,Sam,0,San Francisco,,,20,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21528,Gibson,,0,San Francisco,,,,,p20
+minoraverages/1944TSN,1943,Pacific Coast League,,P10097,Gibson,Samuel,0,San Francisco,,,,20,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01836,Gilday,James,0,Seattle,,,6,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00117,Gill,John,0,Portland,,,121,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21021,Gill,,0,Portland,,,,,of108
+minoraverages/1944TSN,1943,Pacific Coast League,,B01428,Gonzales,Joseph,0,Oakland,,,84,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21037,Gonzales,,0,Oakland,,,,,of53
+minoraverages/1944TSN,1943,Pacific Coast League,,B00854,Gray,Stanley,0,Seattle,,,52,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20206,Gray,,0,Seattle,,,,,2b19
+minoraverages/1944TSN,1943,Pacific Coast League,,F20539,Gray,,0,Seattle,,,,,3b10
+minoraverages/1944TSN,1943,Pacific Coast League,,F20661,Gray,,0,Seattle,,,,,ss12
+minoraverages/1944TSN,1943,Pacific Coast League,,B00695,Gudat,Marvin,1,Hollywood,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00695,Gudat,Marvin,2,San Diego,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00695,Gudat,Marvin,T,,,,128,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20832,Gudat,,1,Hollywood,,,,,of
+minoraverages/1944TSN,1943,Pacific Coast League,,F20832,Gudat,,2,San Diego,,,,,of
+minoraverages/1944TSN,1943,Pacific Coast League,,F20832,Gudat,,T,,,,,,of117
+minoraverages/1944TSN,1943,Pacific Coast League,,B00589,Gullic,Tedd,0,Portland,,,142,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20014,Gullic,,0,Portland,,,,,1b11
+minoraverages/1944TSN,1943,Pacific Coast League,,F20482,Gullic,,0,Portland,,,,,3b12
+minoraverages/1944TSN,1943,Pacific Coast League,,F20810,Gullic,,0,Portland,,,,,of113
+minoraverages/1944TSN,1943,Pacific Coast League,,B00278,Gyselman,Richard,0,Seattle,,,149,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20375,Gyselman,,0,Seattle,,,,,3b149
+minoraverages/1944TSN,1943,Pacific Coast League,,B01119,Harrell,Raymond,0,San Francisco,,,37,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21752,Harrell,,0,San Francisco,,,,,p37
+minoraverages/1944TSN,1943,Pacific Coast League,,P10373,Harrell,Raymond,0,San Francisco,,,,37,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00475,Harris,Spencer,0,Portland,,,117,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21125,Harris,,0,Portland,,,,,of106
+minoraverages/1944TSN,1943,Pacific Coast League,,B02035,Hawkins,Frank,0,Seattle,,,5,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01960,Helser,Royal,0,Portland,,,10,,
+minoraverages/1944TSN,1943,Pacific Coast League,,P10698,Helser,Royal,0,Portland,,,,3,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00528,Hensley,Fred,0,Sacramento,,,133,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20474,Hensley,,0,Sacramento,,,,,3b69
+minoraverages/1944TSN,1943,Pacific Coast League,,F21000,Hensley,,0,Sacramento,,,,,of63
+minoraverages/1944TSN,1943,Pacific Coast League,,B00045,Herman,Floyd,0,Hollywood,,,81,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21076,Herman,,0,Hollywood,,,,,of19
+minoraverages/1944TSN,1943,Pacific Coast League,,B01203,Herring,William,0,Portland,,,29,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21747,Herring,,0,Portland,,,,,p24
+minoraverages/1944TSN,1943,Pacific Coast League,,P10289,Herring,William,0,Portland,,,,24,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B02145,Hile,Daniel,0,Hollywood,,,5,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01007,Hill,James,0,Hollywood,,,62,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F22012,Hill,,0,Hollywood,,,,,c48
+minoraverages/1944TSN,1943,Pacific Coast League,,B01313,Hoffman,Harold,1,Portland,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01313,Hoffman,Harold,2,Seattle,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01313,Hoffman,Harold,T,,,,27,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F22073,Hoffman,,1,Portland,,,,,c
+minoraverages/1944TSN,1943,Pacific Coast League,,F22073,Hoffman,,2,Seattle,,,,,c
+minoraverages/1944TSN,1943,Pacific Coast League,,F22073,Hoffman,,T,,,,,,c25
+minoraverages/1944TSN,1943,Pacific Coast League,,B00531,Holder,Brooks,0,Hollywood,,,149,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20935,Holder,,0,Hollywood,,,,,of147
+minoraverages/1944TSN,1943,Pacific Coast League,,B00293,Holm,William,0,Los Angeles,,,97,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21887,Holm,,0,Los Angeles,,,,,c93
+minoraverages/1944TSN,1943,Pacific Coast League,,B00936,Hooper,Logan,0,San Francisco,,,76,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21117,Hooper,,0,San Francisco,,,,,of46
+minoraverages/1944TSN,1943,Pacific Coast League,,B00125,Hughes,Roy,0,Los Angeles,,,121,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20144,Hughes,,0,Los Angeles,,,,,2b118
+minoraverages/1944TSN,1943,Pacific Coast League,,B00726,Jensen,John H.,0,San Diego,,,49,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20908,Jensen,,0,San Diego,,,,,of42
+minoraverages/1944TSN,1943,Pacific Coast League,,B01041,Jewell,James,0,Seattle,,,70,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20131,Jewell,,0,Seattle,,,,,1b26
+minoraverages/1944TSN,1943,Pacific Coast League,,F20316,Jewell,,0,Seattle,,,,,2b22
+minoraverages/1944TSN,1943,Pacific Coast League,,F20560,Jewell,,0,Seattle,,,,,ss10
+minoraverages/1944TSN,1943,Pacific Coast League,,B01617,Johnson,Chet,0,San Diego,,,36,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01649,Johnson,Syl.,0,Seattle,,,21,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B02159,Johnson,Jack,0,San Francisco,,,4,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21241,Johnson,,0,Seattle,,,,,p21
+minoraverages/1944TSN,1943,Pacific Coast League,,F21614,Johnson,,0,San Diego,,,,,p35
+minoraverages/1944TSN,1943,Pacific Coast League,,P10145,Johnson,Syl.,0,Seattle,,,,21,p
+minoraverages/1944TSN,1943,Pacific Coast League,,P10399,Johnson,Chet.,0,San Diego,,,,35,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01514,Joiner,Roy,0,Hollywood,,,32,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21397,Joiner,,0,Hollywood,,,,,p32
+minoraverages/1944TSN,1943,Pacific Coast League,,P10611,Joiner,Roy,0,Hollywood,,,,32,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01402,Jonas,Pete,0,Seattle,,,40,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21381,Jonas,,0,Seattle,,,,,p31
+minoraverages/1944TSN,1943,Pacific Coast League,,P10290,Jonas,Pete,0,Seattle,,,,31,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00255,Jones,Vernal L.,0,Sacramento,,,129,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01899,Jones,Earl,0,Oakland,,,13,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20334,Jones,,0,Sacramento,,,,,2b129
+minoraverages/1944TSN,1943,Pacific Coast League,,F21651,Jones,,0,Oakland,,,,,p13
+minoraverages/1944TSN,1943,Pacific Coast League,,P10043,Jones,Earl,0,Oakland,,,,13,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00335,Joyce,Robert E.,0,San Francisco,,,37,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21680,Joyce,,0,San Francisco,,,,,p34
+minoraverages/1944TSN,1943,Pacific Coast League,,P10070,Joyce,Robert E.,0,San Francisco,,,,34,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01250,Jumonville,George,0,Sacramento,,,75,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20430,Jumonville,,0,Sacramento,,,,,3b68
+minoraverages/1944TSN,1943,Pacific Coast League,,P10818,Jumonville,George,0,Sacramento,,,,5,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00973,Kats,William,0,Seattle,,,80,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21130,Kats,,0,Seattle,,,,,of67
+minoraverages/1944TSN,1943,Pacific Coast League,,B00590,Kavanaugh,Eugene G.,0,Sacramento,,,141,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21059,Kavanaugh,,0,Sacramento,,,,,of125
+minoraverages/1944TSN,1943,Pacific Coast League,,B00718,King,Lynn,0,Seattle,,,73,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20919,King,,0,Seattle,,,,,of71
+minoraverages/1944TSN,1943,Pacific Coast League,,B01926,Kittle,Hubert M.,0,Oakland,,,14,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21286,Kittle,,0,Oakland,,,,,p14
+minoraverages/1944TSN,1943,Pacific Coast League,,P10202,Kittle,Hubert M.,0,Oakland,,,,14,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01733,Kleinke,Norbert,0,Oakland,,,33,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21833,Kleinke,,0,Oakland,,,,,p33
+minoraverages/1944TSN,1943,Pacific Coast League,,P10569,Kleinke,Norbert,0,Oakland,,,,33,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00370,Knickerbocker,Billy,0,Hollywood,,,68,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20233,Knickerbocker,,0,Hollywood,,,,,2b62
+minoraverages/1944TSN,1943,Pacific Coast League,,B02113,Knudson,Earl,0,Hollywood,,,8,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01477,Krueger,William,0,Portland,,,36,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20425,Krueger,,0,Portland,,,,,3b16
+minoraverages/1944TSN,1943,Pacific Coast League,,F20685,Krueger,,0,Portland,,,,,ss11
+minoraverages/1944TSN,1943,Pacific Coast League,,P10679,Krueger,William,0,Portland,,,,1,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01885,Lamanski,Frank,0,San Diego,,,8,,
+minoraverages/1944TSN,1943,Pacific Coast League,,P10746,Lamanski,Frank,0,San Diego,,,,8,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00961,Land,Harry M.,0,Los Angeles,,,27,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21957,Land,,0,Los Angeles,,,,,c25
+minoraverages/1944TSN,1943,Pacific Coast League,,B02024,Latshaw,Bob,0,Los Angeles,,,9,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00920,Lawrence,William,0,Seattle,,,80,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20956,Lawrence,,0,Seattle,,,,,of74
+minoraverages/1944TSN,1943,Pacific Coast League,,B01994,LeGault,Steve,0,Sacramento,,,13,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21623,LeGault,,0,Sacramento,,,,,p12
+minoraverages/1944TSN,1943,Pacific Coast League,,P10056,LeGault,Steve,0,Sacramento,,,,12,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01466,Leonard,Wilfred,0,Oakland,,,55,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F22085,Leonard,,0,Oakland,,,,,c49
+minoraverages/1944TSN,1943,Pacific Coast League,,P10665,Leonard,Wilfred,0,Oakland,,,,1,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00319,Lewis,Kermit,0,San Francisco,,,15,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21158,Lewis,,0,San Francisco,,,,,of15
+minoraverages/1944TSN,1943,Pacific Coast League,,B01509,Lien,Alfred,0,San Francisco,,,34,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21370,Lien,,0,San Francisco,,,,,p34
+minoraverages/1944TSN,1943,Pacific Coast League,,P10159,Lien,Alfred,0,San Francisco,,,,34,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01269,Lilly,Arthur,0,Hollywood,,,65,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20303,Lilly,,0,Hollywood,,,,,2b50
+minoraverages/1944TSN,1943,Pacific Coast League,,B01288,Liska,Adolph,0,Portland,,,32,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21553,Liska,,0,Portland,,,,,p32
+minoraverages/1944TSN,1943,Pacific Coast League,,P10024,Liska,Adolph,0,Portland,,,,32,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00752,Lotz,John,0,Oakland,,,32,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21434,Lotz,,0,Oakland,,,,,p33
+minoraverages/1944TSN,1943,Pacific Coast League,,P10478,Lotz,John,0,Oakland,,,,33,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00614,Lowe,Walter,0,San Diego,,,144,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20095,Lowe,,0,San Diego,,,,,1b54
+minoraverages/1944TSN,1943,Pacific Coast League,,F20458,Lowe,,0,San Diego,,,,,3b55
+minoraverages/1944TSN,1943,Pacific Coast League,,F21101,Lowe,,0,San Diego,,,,,of37
+minoraverages/1944TSN,1943,Pacific Coast League,,B00182,Luby,Hugh,0,Oakland,,,157,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20153,Luby,,0,Oakland,,,,,2b157
+minoraverages/1944TSN,1943,Pacific Coast League,,B01567,Lynn,J. M.,0,Los Angeles,,,39,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21343,Lynn,,0,Los Angeles,,,,,p36
+minoraverages/1944TSN,1943,Pacific Coast League,,P10100,Lynn,J. M.,0,Los Angeles,,,,36,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B02008,MacFayden,Jas.,0,Sacramento,,,14,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21760,MacFayden,,0,Sacramento,,,,,p15
+minoraverages/1944TSN,1943,Pacific Coast League,,P10780,MacFayden,James,0,Sacramento,,,,15,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00174,Mailho,Emil,0,Oakland,,,155,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20864,Mailho,,0,Oakland,,,,,of154
+minoraverages/1944TSN,1943,Pacific Coast League,,B00068,Mallory,Elmer,0,Los Angeles,,,47,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01275,Mallory,Garman,0,Los Angeles,,,36,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20279,Mallory,E.,0,Los Angeles,,,,,2b42
+minoraverages/1944TSN,1943,Pacific Coast League,,F21531,Mallory,G.,0,Los Angeles,,,,,p34
+minoraverages/1944TSN,1943,Pacific Coast League,,P10336,Mallory,Garman,0,Los Angeles,,,,34,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00646,Malone,Edward R.,0,Sacramento,,,117,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F22036,Malone,,0,Sacramento,,,,,c101
+minoraverages/1944TSN,1943,Pacific Coast League,,B02081,Marshall,John,0,Seattle,,,11,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21308,Marshall,,0,Seattle,,,,,p11
+minoraverages/1944TSN,1943,Pacific Coast League,,B01952,Martin,Joe,0,San Diego,,,13,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00609,Matheson,William,0,Seattle,,,152,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20737,Matheson,,0,Seattle,,,,,of141
+minoraverages/1944TSN,1943,Pacific Coast League,,B01787,McCarty,J.,0,San Diego,,,1,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00076,McDonald,George,0,San Diego,,,112,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20023,McDonald,,0,San Diego,,,,,1b104
+minoraverages/1944TSN,1943,Pacific Coast League,,B01722,McLaughlin,Patrick,0,Hollywood,,,47,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21174,McLaughlin,,0,Hollywood,,,,,p47
+minoraverages/1944TSN,1943,Pacific Coast League,,P10550,McLaughlin,Patrick,0,Hollywood,,,,47,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01706,Merkle,Warren B.,0,San Diego,,,23,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21210,Merkle,,0,San Diego,,,,,p23
+minoraverages/1944TSN,1943,Pacific Coast League,,P10633,Merkle,Warren B.,0,San Diego,,,,23,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01848,Messerly,Russell,0,Hollywood,,,6,,
+minoraverages/1944TSN,1943,Pacific Coast League,,P10847,Messerly,Russell,0,Hollywood,,,,6,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00092,Metkovich,George,0,San Francisco,,,71,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20878,Metkovich,,0,San Francisco,,,,,of63
+minoraverages/1944TSN,1943,Pacific Coast League,,B01861,Miles,Dee,0,San Francisco,,,8,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B02168,Miller,Jack,0,Hollywood,,,4,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01108,Molina,Joseph F.,0,Sacramento,,,75,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20981,Molina,,0,Sacramento,,,,,of58
+minoraverages/1944TSN,1943,Pacific Coast League,,B02121,Molitar,Robert,0,Seattle,,,6,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00308,Moore,John F.,0,Los Angeles,,,81,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B02176,Moore,Robert,0,Hollywood,,,4,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20745,Moore,,0,Los Angeles,,,,,of59
+minoraverages/1944TSN,1943,Pacific Coast League,,B01812,Mooty,Jake T.,0,Los Angeles,,,5,,
+minoraverages/1944TSN,1943,Pacific Coast League,,P10723,Mooty,Jake T.,0,Los Angeles,,,,5,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00356,Moran,Cyril,0,Hollywood,,,156,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20128,Moran,,0,Hollywood,,,,,1b156
+minoraverages/1944TSN,1943,Pacific Coast League,,B00577,Morgan,George D.,0,San Diego,,,71,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20190,Morgan,,0,San Diego,,,,,2b40
+minoraverages/1944TSN,1943,Pacific Coast League,,B00553,Mullen,Ford,0,Seattle,,,110,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20189,Mullen,,0,Seattle,,,,,2b102
+minoraverages/1944TSN,1943,Pacific Coast League,,B02202,Nunes,Melvin,0,Portland,,,1,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B02184,Nystrom,Alvin,0,Hollywood,,,4,,
 minoraverages/emilbb,1943,Pacific Coast League,,M90186,O'Doul,Lefty,,San Francisco,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00739,O'Neil,John,0,Portland,,,124,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20583,O'Neill,,0,Portland,,,,,ss122
+minoraverages/1944TSN,1943,Pacific Coast League,,B00651,Ogrodowski,Ambrose,0,San Francisco,,,80,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21999,Ogrodowski,,0,San Francisco,,,,,c76
+minoraverages/1944TSN,1943,Pacific Coast League,,B02056,Olsen,Albert W.,0,San Diego,,,9,,
+minoraverages/1944TSN,1943,Pacific Coast League,,P10534,Olsen,Albert W.,0,San Diego,,,,9,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01658,Orrell,Joseph,0,Portland,,,22,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21255,Orrell,,0,Portland,,,,,p22
+minoraverages/1944TSN,1943,Pacific Coast League,,P10062,Orrell,Joseph,0,Portland,,,,22,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01740,Osborn,Donald E.,0,Los Angeles,,,30,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21646,Osborn,,0,Los Angeles,,,,,p30
+minoraverages/1944TSN,1943,Pacific Coast League,,P10176,Osborn,Donald E.,0,Los Angeles,,,,30,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00397,Osborne,Wayne,0,Portland,,,17,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21667,Osborne,,0,Portland,,,,,p16
+minoraverages/1944TSN,1943,Pacific Coast League,,P10121,Osborne,Wayne,0,Portland,,,,16,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00403,Ostrowski,John T.,0,Los Angeles,,,143,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20759,Ostrowski,,0,Los Angeles,,,,,of142
+minoraverages/1944TSN,1943,Pacific Coast League,,B00207,Owen,Marvin,0,Portland,,,73,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20391,Owen,,0,Portland,,,,,3b68
+minoraverages/1944TSN,1943,Pacific Coast League,,B00037,Pafko,Andrew,0,Los Angeles,,,157,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20924,Pafko,,0,Los Angeles,,,,,of157
+minoraverages/1944TSN,1943,Pacific Coast League,,B02137,Parsons,Rudolph,0,San Francisco,,,6,,
+minoraverages/1944TSN,1943,Pacific Coast League,,P10805,Parsons,Rudolph,0,San Francisco,,,,6,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00362,Patchett,Harold R.,0,San Diego,,,141,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20962,Patchett,,0,San Diego,,,,,of140
+minoraverages/1944TSN,1943,Pacific Coast League,,B00783,Paul,Erwin,0,San Francisco,,,64,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20496,Paul,,0,San Francisco,,,,,3b47
+minoraverages/1944TSN,1943,Pacific Coast League,,B01779,Penner,Kenneth W.,0,Sacramento,,,3,,
 minoraverages/emilbb,1943,Pacific Coast League,,M90257,Penner,Ken,,Sacramento,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00566,Petersen,Earl M.,0,Sacramento,,,98,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20115,Petersen,,0,Sacramento,,,,,1b12
+minoraverages/1944TSN,1943,Pacific Coast League,,F20240,Petersen,,0,San Francisco,,,,,2b58
+minoraverages/1944TSN,1943,Pacific Coast League,,F20463,Petersen,,0,San Francisco,,,,,3b55
+minoraverages/1944TSN,1943,Pacific Coast League,,F20700,Petersen,,0,San Francisco,,,,,of16
+minoraverages/1944TSN,1943,Pacific Coast League,,F20970,Petersen,,0,Sacramento,,,,,of13
+minoraverages/1944TSN,1943,Pacific Coast League,,F22048,Petersen,,0,Sacramento,,,,,c63
+minoraverages/1944TSN,1943,Pacific Coast League,,B00324,Peterson,Charles,0,San Francisco,,,139,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01947,Phalen,Dan,0,Sacramento,,,3,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01538,Phipps,Jodie,0,Los Angeles,,,33,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21638,Phipps,,0,Los Angeles,,,,,p33
+minoraverages/1944TSN,1943,Pacific Coast League,,P10312,Phipps,Jodie,0,Los Angeles,,,,33,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01359,Pieretti,Marino,0,Portland,,,37,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21705,Pieretti,,0,Portland,,,,,p37
+minoraverages/1944TSN,1943,Pacific Coast League,,P10320,Pieretti,Marino,0,Portland,,,,37,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01754,Pillette,Herman,0,Sacramento,,,28,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21879,Pillette,,0,Sacramento,,,,,p28
+minoraverages/1944TSN,1943,Pacific Coast League,,P10767,Pillette,Herman,0,Sacramento,,,,28,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01711,Pintar,John,0,Sacramento,,,42,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21718,Pintar,,0,Sacramento,,,,,p42
+minoraverages/1944TSN,1943,Pacific Coast League,,P10591,Pintar,John,0,Sacramento,,,,42,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01086,Pippen,Henry,0,Oakland,,,41,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21427,Pippen,,0,Oakland,,,,,p36
+minoraverages/1944TSN,1943,Pacific Coast League,,P10304,Pippen,Henry,0,Oakland,,,,36,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B02062,Polly,Henry,0,Sacramento,,,11,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21319,Polly,,0,Sacramento,,,,,p10
+minoraverages/1944TSN,1943,Pacific Coast League,,P10588,Polly,Henry,0,Sacramento,,,,10,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B02215,Pontarelli,Michael,0,Los Angeles,,,1,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01905,Pulford,Burt D.,0,Hollywood,,,7,,
+minoraverages/1944TSN,1943,Pacific Coast League,,P10640,Pulford,Burt D.,0,Hollywood,,,,7,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00985,Quinn,Wellington,0,Los Angeles,,,157,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20067,Quinn,,0,Los Angeles,,,,,1b148
+minoraverages/1944TSN,1943,Pacific Coast League,,B01625,Raffensberger,Kenneth,0,Los Angeles,,,35,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21491,Raffensberger,,0,Los Angeles,,,,,p35
+minoraverages/1944TSN,1943,Pacific Coast League,,P10035,Raffensberger,Kenneth,0,Los Angeles,,,,35,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00450,Raimondi,William,0,Oakland,,,132,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01857,Raimondi,Walter,0,Oakland,,,11,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F22004,Raimondi,,0,Oakland,,,,,c120
+minoraverages/1944TSN,1943,Pacific Coast League,,B00999,Ramsey,Bill,0,Sacramento,,,110,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20886,Ramsey,,0,Sacramento,,,,,of107
+minoraverages/1944TSN,1943,Pacific Coast League,,B01804,Redmond,Jack,0,Portland,,,6,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00680,Richardson,Kenneth,0,Hollywood,,,111,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20265,Richardson,,0,Hollywood,,,,,2b49
+minoraverages/1944TSN,1943,Pacific Coast League,,F20807,Richardson,,0,Hollywood,,,,,of36
+minoraverages/1944TSN,1943,Pacific Coast League,,B01682,Robinson,Henry,0,Hollywood,,,17,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00794,Rogers,Stanley,0,Portland,,,150,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20254,Rogers,,0,Portland,,,,,2b85
+minoraverages/1944TSN,1943,Pacific Coast League,,F20342,Rogers,,0,Portland,,,,,3b65
+minoraverages/1944TSN,1943,Pacific Coast League,,B01489,Root,Charles,0,Hollywood,,,26,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21207,Root,,0,Hollywood,,,,,p25
+minoraverages/1944TSN,1943,Pacific Coast League,,P10348,Root,Charles,0,Hollywood,,,,25,p
 minoraverages/emilbb,1943,Pacific Coast League,,M90212,Root,Charlie,,Hollywood,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00021,Rosenberg,Harry,0,San Francisco,,,26,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20855,Rosenberg,,0,San Francisco,,,,,of26
+minoraverages/1944TSN,1943,Pacific Coast League,,B00898,Rosenlund,Chester,1,San Francisco,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00898,Rosenlund,Chester,2,Oakland,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00898,Rosenlund,Chester,T,,,,103,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20388,Rosenlund,,1,San Francisco,,,,,3b
+minoraverages/1944TSN,1943,Pacific Coast League,,F20388,Rosenlund,,2,Oakland,,,,,3b
+minoraverages/1944TSN,1943,Pacific Coast League,,F20388,Rosenlund,,T,,,,,,3b101
+minoraverages/1944TSN,1943,Pacific Coast League,,B00747,Roy,Jean,0,Sacramento,,,27,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21502,Roy,,0,Sacramento,,,,,p12
+minoraverages/1944TSN,1943,Pacific Coast League,,P10606,Roy,Jean,0,Sacramento,,,,12,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00149,Russell,Glen,0,Los Angeles,,,53,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20943,Russell,,0,Los Angeles,,,,,of40
+minoraverages/1944TSN,1943,Pacific Coast League,,B00502,Salkeld,William F.,0,San Diego,,,111,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21973,Salkeld,,0,San Diego,,,,,c90
+minoraverages/1944TSN,1943,Pacific Coast League,,B01010,Sarni,Bill,0,Los Angeles,,,33,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21961,Sarni,,0,Los Angeles,,,,,c33
+minoraverages/1944TSN,1943,Pacific Coast League,,B00084,Scarsella,Les,0,Oakland,,,157,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20046,Scarsella,,0,Oakland,,,,,1b157
+minoraverages/1944TSN,1943,Pacific Coast League,,P10654,Scarsella,Les.,0,Oakland,,,,1,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01444,Schanz,Charley,0,San Diego,,,47,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21403,Schanz,,0,San Diego,,,,,p43
+minoraverages/1944TSN,1943,Pacific Coast League,,P10385,Schanz,Charley,0,San Diego,,,,44,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00488,Schuster,William C.,0,Los Angeles,,,157,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20552,Schuster,,0,Los Angeles,,,,,ss157
+minoraverages/1944TSN,1943,Pacific Coast League,,B00879,Seats,Thomas E.,0,San Francisco,,,34,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21544,Seats,,0,San Francisco,,,,,p32
+minoraverages/1944TSN,1943,Pacific Coast League,,P10113,Seats,Thomas E.,0,San Francisco,,,,32,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01143,Shea,Mervyn,0,Portland,,,41,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F22057,Shea,,0,Portland,,,,,c32
 minoraverages/emilbb,1943,Pacific Coast League,,M90204,Shea,Merv,,Portland,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B02228,Sheridan,Neil,0,San Francisco,,,1,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01227,Shone,Frank,0,Portland,,,24,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20721,Shone,,0,Portland,,,,,of11
+minoraverages/1944TSN,1943,Pacific Coast League,,P10709,Shone,Frank,0,Portland,,,,6,p
 minoraverages/emilbb,1943,Pacific Coast League,,M90193,Skiff,Bill,,Seattle,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01663,Smith,Ronald,0,Hollywood,,,43,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21822,Smith,,0,Hollywood,,,,,p43
+minoraverages/1944TSN,1943,Pacific Coast League,,P10527,Smith,Ronald,0,Hollywood,,,,44,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B02231,Snyder,Donald,0,Seattle,,,1,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01170,Speece,Byron,0,Seattle,,,28,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21695,Speece,,0,Seattle,,,,,p27
+minoraverages/1944TSN,1943,Pacific Coast League,,P10244,Speece,Byron,0,Seattle,,,,27,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01216,Sprinz,Joseph,0,San Francisco,,,92,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21936,Sprinz,,0,San Francisco,,,,,c85
+minoraverages/1944TSN,1943,Pacific Coast League,,B00158,Steinbacher,Harry,0,San Francisco,,,156,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20829,Steinbacher,,0,San Francisco,,,,,of156
+minoraverages/1944TSN,1943,Pacific Coast League,,B01291,Steiner,Melvin,0,San Diego,,,36,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21013,Steiner,,0,San Diego,,,,,of34
+minoraverages/1944TSN,1943,Pacific Coast League,,B00948,Stromme,Floyd,0,Oakland,,,18,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21726,Stromme,,0,Oakland,,,,,p18
+minoraverages/1944TSN,1943,Pacific Coast League,,P10575,Stromme,Floyd,0,Oakland,,,,18,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00416,Sueme,Hal,0,Seattle,,,134,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21912,Sueme,,0,Seattle,,,,,c132
+minoraverages/1944TSN,1943,Pacific Coast League,,B00806,Suhr,August,0,San Francisco,,,149,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20051,Suhr,,0,San Francisco,,,,,1b149
+minoraverages/1944TSN,1943,Pacific Coast League,,B01156,Suytar,Charles E.,0,Sacramento,,,56,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20038,Suytar,,0,Sacramento,,,,,1b49
 minoraverages/emilbb,1943,Pacific Coast League,,M90178,Sweeney,Bill,,Los Angeles,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01368,Thomas,William,0,Hollywood,,,52,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01971,Thomas,Fay,1,Portland,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01971,Thomas,Fay,2,Hollywood,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B01971,Thomas,Fay,T,,,,4,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21854,Thomas,W.,0,Hollywood,,,,,p51
+minoraverages/1944TSN,1943,Pacific Coast League,,P10516,Thomas,William,0,Hollywood,,,,52,p
+minoraverages/1944TSN,1943,Pacific Coast League,,P10860,Thomas,Fay,1,Portland,,,,,p
+minoraverages/1944TSN,1943,Pacific Coast League,,P10860,Thomas,Fay,2,Hollywood,,,,,p
+minoraverages/1944TSN,1943,Pacific Coast League,,P10860,Thomas,Fay,T,,,,,5,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00434,Thompson,Rupert,0,Portland,,,148,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20997,Thompson,,0,Portland,,,,,of144
+minoraverages/1944TSN,1943,Pacific Coast League,,B00013,Tincup,Frank,0,Seattle,,,16,,
+minoraverages/1944TSN,1943,Pacific Coast League,,P10410,Tincup,Frank,0,Seattle,,,,6,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01135,Trower,Donald,0,San Francisco,,,64,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20604,Trower,,0,San Francisco,,,,,ss64
+minoraverages/1944TSN,1943,Pacific Coast League,,B01551,Turpin,Harold,0,Seattle,,,19,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21475,Turpin,,0,Seattle,,,,,p14
+minoraverages/1944TSN,1943,Pacific Coast League,,P10277,Turpin,Harold,0,Seattle,,,,14,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00196,Uhalt,Bernard,0,San Francisco,,,136,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20792,Uhalt,,0,San Francisco,,,,,of134
+minoraverages/1944TSN,1943,Pacific Coast League,,B01384,Vergez,John,0,Oakland,,,75,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20417,Vergez,,0,Oakland,,,,,3b57
 minoraverages/emilbb,1943,Pacific Coast League,,M90220,Vergez,John,,Oakland,,,,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B00887,Vias,Manuel,0,Sacramento,,,108,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21068,Vias,,0,Sacramento,,,,,of95
+minoraverages/1944TSN,1943,Pacific Coast League,,B01798,Watson,Emmett,0,Seattle,,,4,,
+minoraverages/1944TSN,1943,Pacific Coast League,,B02070,Werle,William,0,San Francisco,,,13,,
+minoraverages/1944TSN,1943,Pacific Coast League,,P10772,Werle,William,0,San Francisco,,,,9,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00241,Wheeler,Edward,0,San Diego,,,133,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20298,Wheeler,,0,San Diego,,,,,2b108
+minoraverages/1944TSN,1943,Pacific Coast League,,F20350,Wheeler,,0,San Diego,,,,,3b21
+minoraverages/1944TSN,1943,Pacific Coast League,,B01181,Whipple,Jack,0,San Diego,,,64,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21092,Whipple,,0,San Diego,,,,,of62
+minoraverages/1944TSN,1943,Pacific Coast League,,B00667,Wilson,Jack,0,Portland,,,27,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21590,Wilson,,0,Portland,,,,,p27
+minoraverages/1944TSN,1943,Pacific Coast League,,P10215,Wilson,Jack,0,Portland,,,,27,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B01162,Wright,Albert,0,San Francisco,,,18,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20526,Wright,,0,San Francisco,,,,,3b15
+minoraverages/1944TSN,1943,Pacific Coast League,,B01321,Yelovic,John,0,Seattle,,,20,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F21794,Yelovic,,0,Seattle,,,,,p20
+minoraverages/1944TSN,1943,Pacific Coast League,,P10687,Yelovic,John,0,Seattle,,,,20,p
+minoraverages/1944TSN,1943,Pacific Coast League,,B00840,Young,Del,0,San Francisco,,,150,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20222,Young,,0,San Francisco,,,,,2b72
+minoraverages/1944TSN,1943,Pacific Coast League,,F20594,Young,,0,San Francisco,,,,,ss76
+minoraverages/1944TSN,1943,Pacific Coast League,,B00442,Younker,Roy,0,Hollywood,,,132,,
+minoraverages/1944TSN,1943,Pacific Coast League,,F20893,Younker,,0,Hollywood,,,,,of86
+minoraverages/1944TSN,1943,Pacific Coast League,,F21898,Younker,,0,Hollywood,,,,,c32
+minoraverages/1944TSN,1943,Pacific Coast League,,B02192,Zaby,Paul,0,Oakland,,,3,,

@@ -1,4 +1,5 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
+minoraverages/emilbb,1946,Tri-State League,,M91237,Abbott,Spencer,,Charlotte,,,,,
 minoraverages/1947TSN,1946,Tri-State League,accardo,B00961,Accardo,Thomas,0,Shelby,,,10,,
 minoraverages/1947TSN,1946,Tri-State League,acton,B00450,Acton,Ray,0,Spartanburg,,,87,,
 minoraverages/1947TSN,1946,Tri-State League,acton,F20458,Acton,,0,Spartanburg,,,,,3b66
@@ -7,6 +8,7 @@ minoraverages/1947TSN,1946,Tri-State League,acton,P10516,Acton,Ray,0,Spartanburg
 minoraverages/1947TSN,1946,Tri-State League,alexander,B00475,Alexander,Carl,0,Knoxville,,,134,,
 minoraverages/1947TSN,1946,Tri-State League,alexander,F20298,Alexander,,0,Knoxville,,,,,2b31
 minoraverages/1947TSN,1946,Tri-State League,alexander,F20350,Alexander,,0,Knoxville,,,,,3b103
+minoraverages/emilbb,1946,Tri-State League,,M91259,Alexander,Dale,,Knoxville,,,,,
 minoraverages/1947TSN,1946,Tri-State League,anderson,B00207,Anderson,Donald,0,Shelby,,,34,,
 minoraverages/1947TSN,1946,Tri-State League,anderson,F20095,Anderson,,0,Shelby,,,,,1b33
 minoraverages/1947TSN,1946,Tri-State League,aros,B01733,Aros,Randolph,0,Asheville,,,,,
@@ -147,6 +149,7 @@ minoraverages/1947TSN,1946,Tri-State League,granzig,B00680,Granzig,August,0,Shel
 minoraverages/1947TSN,1946,Tri-State League,granzig,F20265,Granzig,,0,Shelby,,,,,2b101
 minoraverages/1947TSN,1946,Tri-State League,gray,B00771,Gray,William,0,Spartanburg,,,74,,
 minoraverages/1947TSN,1946,Tri-State League,gray,F20067,Gray,,0,Spartanburg,,,,,1b72
+minoraverages/emilbb,1946,Tri-State League,,M91268,Green,Ray,,Shelby,,,,,
 minoraverages/1947TSN,1946,Tri-State League,gresham,B02024,Gresham,Claude,0,Shelby,,,,,
 minoraverages/1947TSN,1946,Tri-State League,hamons,B02184,Hamons,Frank,0,Spartanburg,,,,,
 minoraverages/1947TSN,1946,Tri-State League,hamons,P10847,Hamons,Frank,0,Spartanburg,,,,3,p
@@ -186,6 +189,7 @@ minoraverages/1947TSN,1946,Tri-State League,kaess,F20334,Kaess,,0,Shelby,,,,,3b3
 minoraverages/1947TSN,1946,Tri-State League,kaess,F20547,Kaess,,0,Shelby,,,,,ss89
 minoraverages/1947TSN,1946,Tri-State League,kappelman,B00092,Kappelman,Francis,0,Spartanburg,,,18,,
 minoraverages/1947TSN,1946,Tri-State League,kappelman,F21672,Kappelman,,0,Spartanburg,,,,,c13
+minoraverages/emilbb,1946,Tri-State League,,M91284,Kappelman,Francis,,Spartanburg,,,,,
 minoraverages/1947TSN,1946,Tri-State League,kazmierczak,B02019,Kazmierczak,Edward,0,Shelby,,,,,
 minoraverages/1947TSN,1946,Tri-State League,kazmierczak,P11009,Kazmierczak,Edward,0,Shelby,,,,1,p
 minoraverages/1947TSN,1946,Tri-State League,keating,B01300,Keating,William,0,Shelby,,,12,,
@@ -261,6 +265,7 @@ minoraverages/1947TSN,1946,Tri-State League,mcbryde,F20962,McBryde,,0,Anderson,,
 minoraverages/1947TSN,1946,Tri-State League,mcclaughry,B02215,McClaughry,,0,Spartanburg,,,,,
 minoraverages/1947TSN,1946,Tri-State League,mcdowell,B00037,McDowell,Clyde,0,Shelby,,,38,,
 minoraverages/1947TSN,1946,Tri-State League,mcdowell,F20233,McDowell,,0,Shelby,,,,,2b31
+minoraverages/emilbb,1946,Tri-State League,,M91276,McDowell,Clyde,,Anderson,,,,,
 minoraverages/1947TSN,1946,Tri-State League,mcgarity,B01947,McGarity,Leslie,0,Knoxville,,,,,
 minoraverages/1947TSN,1946,Tri-State League,mcgreal,B01321,McGreal,James,0,Anderson,,,21,,
 minoraverages/1947TSN,1946,Tri-State League,mcgreal,F21726,McGreal,,0,Anderson,,,,,c12
@@ -414,6 +419,7 @@ minoraverages/1947TSN,1946,Tri-State League,santora,P10184,Santora,,0,Asheville,
 minoraverages/1947TSN,1946,Tri-State League,sayles,B00045,Sayles,William,0,Asheville,,,134,,
 minoraverages/1947TSN,1946,Tri-State League,sayles,F20776,Sayles,,0,Asheville,,,,,of124
 minoraverages/1947TSN,1946,Tri-State League,sayles,P10982,Sayles,William,0,Asheville,,,,2,p
+minoraverages/emilbb,1946,Tri-State League,,M91245,Sayles,William,,Asheville,,,,,
 minoraverages/1947TSN,1946,Tri-State League,schroeppel,B00403,Schroeppel,Milton,0,Spartanburg,,,114,,
 minoraverages/1947TSN,1946,Tri-State League,schroeppel,F20594,Schroeppel,,0,Spartanburg,,,,,ss109
 minoraverages/1947TSN,1946,Tri-State League,scott,B01952,Scott,Marshall,0,Knoxville,,,,,
