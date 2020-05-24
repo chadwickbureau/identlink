@@ -75,7 +75,7 @@ minoraverages/1947TSN,1946,Canadian-American League,booker,B00667,Booker,William
 minoraverages/1947TSN,1946,Canadian-American League,booker,F21101,Booker,,0,Rome,,,,,of42
 minoraverages/1947TSN,1946,Canadian-American League,bordagaray,B00059,Bordagaray,Stan,0,Three Rivers,,,104,,
 minoraverages/1947TSN,1946,Canadian-American League,bordagaray,F20962,Bordagaray,,0,Three Rivers,,,,,of82
-minoraverages/emilbb,1946,Canadian-American League,,M91629,Bordaragay,Frenchy,,Trois-Rivieres,,,,,
+minoraverages/emilbb,1946,Canadian-American League,bordagaray,M91629,Bordaragay,Frenchy,,Trois-Rivieres,,,,,
 minoraverages/1947TSN,1946,Canadian-American League,bortolotti,B02228,Bortolotti,Fred.,0,Oneonta,,,,,
 minoraverages/1947TSN,1946,Canadian-American League,boryk,B00680,Boryk,John,0,Oneonta,,,122,,
 minoraverages/1947TSN,1946,Canadian-American League,boryk,F20430,Boryk,,0,Oneonta,,,,,3b122
@@ -142,7 +142,7 @@ minoraverages/1947TSN,1946,Canadian-American League,craig,B01740,Craig,James,0,Q
 minoraverages/1947TSN,1946,Canadian-American League,craig,F21590,Craig,,0,Quebec,,,,,p28
 minoraverages/1947TSN,1946,Canadian-American League,craig,P10478,Craig,,0,Quebec,,,,28,p
 minoraverages/1947TSN,1946,Canadian-American League,cronin,B02698,Cronin,William,0,Schenectady,,,,,
-minoraverages/emilbb,1946,Canadian-American League,,M91686,Cronin,Bill,,Schenectady,,,,,
+minoraverages/emilbb,1946,Canadian-American League,cronin,M91686,Cronin,Bill,,Schenectady,,,,,
 minoraverages/1947TSN,1946,Canadian-American League,cunningham,B02008,Cunningham,Maurice,0,Amsterdam,,,,,
 minoraverages/1947TSN,1946,Canadian-American League,curtis,B02575,Curtis,Ira,0,Rome,,,,,
 minoraverages/1947TSN,1946,Canadian-American League,curtis,P11166,Curtis,,0,Rome,,,,,p
@@ -289,8 +289,8 @@ minoraverages/1947TSN,1946,Canadian-American League,hudson,F22057,Hudson,,0,Glov
 minoraverages/1947TSN,1946,Canadian-American League,hudson,P10606,Hudson,,0,Gloversville-Johnstown,,,,11,p
 minoraverages/1947TSN,1946,Canadian-American League,huffman,B00158,Huffman,Ben,0,Gloversville-Johnstown,,,88,,
 minoraverages/1947TSN,1946,Canadian-American League,huffman,F21356,Huffman,,0,Gloversville-Johnstown,,,,,c62
-minoraverages/emilbb,1946,Canadian-American League,,M91678,Huffman,Bennie,,Gloversville-Johnstown,,,,,
-minoraverages/emilbb,1946,Canadian-American League,,M91717,Inktehofer,John,,Quebec,,,,,
+minoraverages/emilbb,1946,Canadian-American League,huffman,M91678,Huffman,Bennie,,Gloversville-Johnstown,,,,,
+minoraverages/emilbb,1946,Canadian-American League,intlekofer,M91717,Inktehofer,John,,Quebec,,,,,
 minoraverages/1947TSN,1946,Canadian-American League,intlekofer,B02455,Intlekofer,John,0,Quebec,,,,,
 minoraverages/1947TSN,1946,Canadian-American League,intlekofer,P11046,Intlekofer,,0,Quebec,,,,,p
 minoraverages/1947TSN,1946,Canadian-American League,jacobus,B01288,Jacobus,Robert,0,Schenectady,,,22,,
@@ -382,7 +382,7 @@ minoraverages/1947TSN,1946,Canadian-American League,mante,P11211,Mante,,0,Rome,,
 minoraverages/1947TSN,1946,Canadian-American League,marion,B00068,Marion,John,0,Oneonta,,,111,,
 minoraverages/1947TSN,1946,Canadian-American League,marion,F20997,Marion,,0,Oneonta,,,,,of107
 minoraverages/1947TSN,1946,Canadian-American League,marion,P10917,Marion,,0,Oneonta,,,,,p
-minoraverages/emilbb,1946,Canadian-American League,,M91655,Marion,"John ""Red""",,Oneonta,,,,,
+minoraverages/emilbb,1946,Canadian-American League,marion,M91655,Marion,"John ""Red""",,Oneonta,,,,,
 minoraverages/1947TSN,1946,Canadian-American League,martin,P10795,Martin,,0,Gloversville-Johnstown,,,,,p
 minoraverages/1947TSN,1946,Canadian-American League,matzer,B02361,Matzer,Ralph,0,Pittsfield,,,,,
 minoraverages/1947TSN,1946,Canadian-American League,mays,B00822,Mays,Robert,0,Rome,,,105,,
@@ -419,7 +419,7 @@ minoraverages/1947TSN,1946,Canadian-American League,minis,B00747,Minis,Viri,0,Ro
 minoraverages/1947TSN,1946,Canadian-American League,mishkin,B00232,Mishkin,Solomon,0,Amsterdam,,,73,,
 minoraverages/1947TSN,1946,Canadian-American League,mishkin,F20102,Mishkin,,0,Amsterdam,,,,,1b49
 minoraverages/1947TSN,1946,Canadian-American League,mishkin,F21196,Mishkin,,0,Amsterdam,,,,,of14
-minoraverages/emilbb,1946,Canadian-American League,,M91664,Mishkin,Sol,,Amsterdam,,,,,
+minoraverages/emilbb,1946,Canadian-American League,mishkin,M91664,Mishkin,Sol,,Amsterdam,,,,,
 minoraverages/1947TSN,1946,Canadian-American League,moffa,B01203,Moffa,Kenneth,1,Gloversville-Johnstown,,,40,,
 minoraverages/1947TSN,1946,Canadian-American League,moffa,B01203,Moffa,Kenneth,2,Amsterdam,,,5,,
 minoraverages/1947TSN,1946,Canadian-American League,moffa,B01203,Moffa,Kenneth,T,,,,45,,
@@ -443,7 +443,7 @@ minoraverages/1947TSN,1946,Canadian-American League,mullin,B00609,Mullin,Ralph,0
 minoraverages/1947TSN,1946,Canadian-American League,mullin,F21370,Mullin,,0,Oneonta,,,,,c25
 minoraverages/1947TSN,1946,Canadian-American League,munson,B02385,Munson,Robert,0,Pittsfield,,,,,
 minoraverages/1947TSN,1946,Canadian-American League,munson,P10982,Munson,,0,Pittsfield,,,,,p
-minoraverages/emilbb,1946,Canadian-American League,,M91701,Murchison,Tim,,Quebec,,,,,
+minoraverages/emilbb,1946,Canadian-American League,murchison,M91701,Murchison,Tim,,Quebec,,,,,
 minoraverages/1947TSN,1946,Canadian-American League,murray.j,B00045,Murray,Jos.,0,Amsterdam,,,18,,
 minoraverages/1947TSN,1946,Canadian-American League,murray.d,B00092,Murray,Donald,0,Amsterdam,,,25,,
 minoraverages/1947TSN,1946,Canadian-American League,murray.d,F21794,Murray,D.,0,Amsterdam,,,,,p24
@@ -533,7 +533,7 @@ minoraverages/1947TSN,1946,Canadian-American League,reidle,B01918,Reidle,Donald,
 minoraverages/1947TSN,1946,Canadian-American League,reidle,F20115,Reidle,,0,Oneonta,,,,,1b10
 minoraverages/1947TSN,1946,Canadian-American League,rensa,B00469,Rensa,Tony,0,Pittsfield,,,79,,
 minoraverages/1947TSN,1946,Canadian-American League,rensa,F21397,Rensa,,0,Pittsfield,,,,,c76
-minoraverages/emilbb,1946,Canadian-American League,,M91632,Rensa,Tony,,Pittsfield,,,,,
+minoraverages/emilbb,1946,Canadian-American League,rensa,M91632,Rensa,Tony,,Pittsfield,,,,,
 minoraverages/1947TSN,1946,Canadian-American League,riddle,B00475,Riddle,Charles,0,Oneonta,,,10,,
 minoraverages/1947TSN,1946,Canadian-American League,ridzik,B01291,Ridzik,Stephen,0,Schenectady,,,10,,
 minoraverages/1947TSN,1946,Canadian-American League,ridzik,F21822,Ridzik,,0,Schenectady,,,,,p10
@@ -586,7 +586,7 @@ minoraverages/1947TSN,1946,Canadian-American League,schneider,B01402,Schneider,D
 minoraverages/1947TSN,1946,Canadian-American League,schneider,F20023,Schneider,,0,Gloversville-Johnstown,,,,,1b26
 minoraverages/1947TSN,1946,Canadian-American League,schultz,B01601,Schultz,George,0,Schenectady,,,12,,
 minoraverages/1947TSN,1946,Canadian-American League,schultz,P11279,Schultz,,0,Schenectady,,,,,p
-minoraverages/emilbb,1946,Canadian-American League,,M91693,Segrue,Joe,,Quebec,,,,,
+minoraverages/emilbb,1946,Canadian-American League,segrue,M91693,Segrue,Joe,,Quebec,,,,,
 minoraverages/1947TSN,1946,Canadian-American League,shearba,B01960,Shearba,Theodore,0,Schenectady,,,10,,
 minoraverages/1947TSN,1946,Canadian-American League,shearba,F20893,Shearba,,0,Schenectady,,,,,of10
 minoraverages/1947TSN,1946,Canadian-American League,sheekey,P10348,Sheckey,,0,Oneonta,,,,30,p
@@ -647,7 +647,7 @@ minoraverages/1947TSN,1946,Canadian-American League,wheaton,B00362,Wheaton,Elwoo
 minoraverages/1947TSN,1946,Canadian-American League,wheaton,F21255,Wheaton,,0,Rome,,,,,of101
 minoraverages/1947TSN,1946,Canadian-American League,wheaton,F21898,Wheaton,,0,Rome,,,,,p15
 minoraverages/1947TSN,1946,Canadian-American League,wheaton,P10176,Wheaton,,0,Rome,,,,14,p
-minoraverages/emilbb,1946,Canadian-American League,,M91641,Wheaton,Woody,,Rome,,,,,
+minoraverages/emilbb,1946,Canadian-American League,wheaton,M91641,Wheaton,Woody,,Rome,,,,,
 minoraverages/1947TSN,1946,Canadian-American League,welchel,F21308,Whelchel,,0,Three Rivers,,,,,of29
 minoraverages/1947TSN,1946,Canadian-American League,welchel,P11342,Whelchel,,0,Three Rivers,,,,,p
 minoraverages/1947TSN,1946,Canadian-American League,wilkins,B00442,Wilkins,Harry,0,Gloversville-Johnstown,,,111,,

@@ -46,7 +46,7 @@ minoraverages/1947TSN,1946,Border League,chalifoux,F21232,Chalifoux,,0,Granby,,,
 minoraverages/1947TSN,1946,Border League,chalifoux,P10081,Chalifoux,Roland,0,Granby,,,,24,p
 minoraverages/1947TSN,1946,Border League,cleves,B00739,Cleves,Elmer,0,Granby,,,99,,
 minoraverages/1947TSN,1946,Border League,cleves,F20552,Cleves,,0,Granby,,,,,c87
-minoraverages/emilbb,1946,Border League,,M91472,Cleves,Hal,,Granby,,,,,
+minoraverages/emilbb,1946,Border League,cleves,M91472,Cleves,Hal,,Granby,,,,,
 minoraverages/1947TSN,1946,Border League,cole,P10611,Cole,Garnold,0,Watertown,,,,6,p
 minoraverages/1947TSN,1946,Border League,cooper,B00475,Cooper,Donald,0,Kingston,,,14,,
 minoraverages/1947TSN,1946,Border League,cooper,F20206,Cooper,,0,Kingston,,,,,2b14
@@ -81,7 +81,7 @@ minoraverages/1947TSN,1946,Border League,dill,F21403,Dill,,1,Ogdensburg,,,,,p
 minoraverages/1947TSN,1946,Border League,dill,F21403,Dill,,2,Auburn,,,,,p
 minoraverages/1947TSN,1946,Border League,dill,F21403,Dill,,T,,,,,,p17
 minoraverages/1947TSN,1946,Border League,dill,P10432,Dill,Robert,0,Ogdensburg,,,,17,p
-minoraverages/emilbb,1946,Border League,,M91480,Dill,Bob,,Ogdensburg,,,,,
+minoraverages/emilbb,1946,Border League,dill,M91480,Dill,Bob,,Ogdensburg,,,,,
 minoraverages/1947TSN,1946,Border League,doyle,B00747,Doyle,William,1,Watertown,,,,,
 minoraverages/1947TSN,1946,Border League,doyle,B00747,Doyle,William,2,Sherbrooke,,,,,
 minoraverages/1947TSN,1946,Border League,doyle,B00747,Doyle,William,T,,,,108,,
@@ -156,7 +156,7 @@ minoraverages/1947TSN,1946,Border League,hansen,B00491,Hansen,Alfred,0,Watertown
 minoraverages/1947TSN,1946,Border League,hansen,F20128,Hansen,,0,Watertown,,,,,2b24
 minoraverages/1947TSN,1946,Border League,hearn,B00182,Hearn,Bernard,0,Auburn,,,94,,
 minoraverages/1947TSN,1946,Border League,hearn,F20832,Hearn,,0,Auburn,,,,,of88
-minoraverages/emilbb,1946,Border League,,M91438,Hearn,Barney,,Auburn,,,,,
+minoraverages/emilbb,1946,Border League,hearn,M91438,Hearn,Barney,,Auburn,,,,,
 minoraverages/1947TSN,1946,Border League,hershon,P10478,Hershon,Reuben,0,Kingston,,,,7,p
 minoraverages/1947TSN,1946,Border League,heximer,B00163,Heximer,James,0,Kingston,,,116,,
 minoraverages/1947TSN,1946,Border League,heximer,F20908,Heximer,,0,Kingston,,,,,of116
@@ -206,7 +206,7 @@ minoraverages/1947TSN,1946,Border League,lady,B00760,Lady,Benjamin,0,Kingston,,,
 minoraverages/1947TSN,1946,Border League,lady,F20604,Lady,,0,Kingston,,,,,c46
 minoraverages/1947TSN,1946,Border League,lady,F21278,Lady,,0,Kingston,,,,,p12
 minoraverages/1947TSN,1946,Border League,lady,P10606,Lady,Benjamin,0,Kingston,,,,12,p
-minoraverages/emilbb,1946,Border League,,M91451,Lady,Ben,,Kingston,,,,,
+minoraverages/emilbb,1946,Border League,lady,M91451,Lady,Ben,,Kingston,,,,,
 minoraverages/1947TSN,1946,Border League,landes,P10622,Landes,Stanley,1,Granby,,,,2,p
 minoraverages/1947TSN,1946,Border League,landes,P10622,Landes,Stanley,2,Sherbrooke,,,,2,p
 minoraverages/1947TSN,1946,Border League,landes,P10622,Landes,Stanley,T,,,,,4,p
@@ -302,7 +302,7 @@ minoraverages/1947TSN,1946,Border League,pollard,B00531,Pollard,Charles,0,Kingst
 minoraverages/1947TSN,1946,Border League,pollard,F20265,Pollard,,0,Kingston,,,,,3b52
 minoraverages/1947TSN,1946,Border League,proechel,B00427,Proechel,George,0,Sherbrooke,,,70,,
 minoraverages/1947TSN,1946,Border League,proechel,F20316,Proechel,,0,Sherbrooke,,,,,3b63
-minoraverages/emilbb,1946,Border League,,M91508,Proecher,Dutch,,Sherbrooke,,,,,
+minoraverages/emilbb,1946,Border League,proechel,M91508,Proecher,Dutch,,Sherbrooke,,,,,
 minoraverages/1947TSN,1946,Border League,radler,P10455,Radler,Frank,0,Granby,,,,5,p
 minoraverages/1947TSN,1946,Border League,richardson,P10534,Richardson,Vernon,0,Sherbrooke,,,,6,p
 minoraverages/1947TSN,1946,Border League,rockey,B00469,Rockey,Edward,0,Ogdensburg,,,22,,
@@ -324,13 +324,13 @@ minoraverages/1947TSN,1946,Border League,schurba,F20430,Schurba,,0,Ogdensburg,,,
 minoraverages/1947TSN,1946,Border League,scott,B00045,Scott,James,0,Watertown,,,37,,
 minoraverages/1947TSN,1946,Border League,scott,F21196,Scott,,0,Watertown,,,,,p29
 minoraverages/1947TSN,1946,Border League,scott,P10024,Scott,James,0,Watertown,,,,29,p
-minoraverages/emilbb,1946,Border League,,M91446,Scott,Jim,,Watertown,,,,,
+minoraverages/emilbb,1946,Border League,scott,M91446,Scott,Jim,,Watertown,,,,,
 minoraverages/1947TSN,1946,Border League,seamon,B00833,Seamon,Leonard,0,Granby,,,34,,
 minoraverages/1947TSN,1946,Border League,seamon,F21286,Seamon,,0,Granby,,,,,p24
 minoraverages/1947TSN,1946,Border League,seamon,P10137,Seamon,Leonard,0,Granby,,,,24,p
 minoraverages/1947TSN,1946,Border League,sibal,B00912,Sibal,Michael,0,Kingston,,,18,,
 minoraverages/1947TSN,1946,Border League,sibal,F20449,Sibal,,0,Kingston,,,,,ss18
-minoraverages/emilbb,1946,Border League,,M91467,Sisler,Bill,,Granby,,,,,
+minoraverages/emilbb,1946,Border League,sisler,M91467,Sisler,Bill,,Granby,,,,,
 minoraverages/1947TSN,1946,Border League,small,B00264,Small,Charles,0,Granby,,,108,,
 minoraverages/1947TSN,1946,Border League,small,F20303,Small,,0,Granby,,,,,3b13
 minoraverages/1947TSN,1946,Border League,smith-aub,B00623,Smith,Donald,0,Auburn,,,100,,
@@ -341,7 +341,7 @@ minoraverages/1947TSN,1946,Border League,smith-aub,F20102,Smith,D.,0,Auburn,,,,,
 minoraverages/1947TSN,1946,Border League,smith-wat+she,P10348,Smith,Geo.,1,Sherbrooke,,,,10,p
 minoraverages/1947TSN,1946,Border League,smith-wat+she,P10348,Smith,Geo.,2,Watertown,,,,2,p
 minoraverages/1947TSN,1946,Border League,smith-wat+she,P10348,Smith,Geo.,T,,,,,12,p
-minoraverages/emilbb,1946,Border League,,M91495,Smith,George,,Sherbrooke,,,,,
+minoraverages/emilbb,1946,Border League,smith-wat+she,M91495,Smith,George,,Sherbrooke,,,,,
 minoraverages/1947TSN,1946,Border League,smythe,B00362,Smythe,Harold,0,Ogdensburg,,,118,,
 minoraverages/1947TSN,1946,Border League,smythe,F20072,Smythe,,0,Ogdensburg,,,,,1b117
 minoraverages/1947TSN,1946,Border League,stdenis,B01124,St. Denis,Leon,0,Sherbrooke,,,35,,

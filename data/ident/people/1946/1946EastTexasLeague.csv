@@ -111,7 +111,7 @@ minoraverages/1947TSN,1946,East Texas League,dooley,B00672,Dooley,Mike,0,Greenvi
 minoraverages/1947TSN,1946,East Texas League,dooley,F20841,Dooley,,0,Greenville,,,,,c105
 minoraverages/1947TSN,1946,East Texas League,doty,B01029,Doty,Abner (Hank),0,Lufkin,,,26,,
 minoraverages/1947TSN,1946,East Texas League,doty,F20745,Doty,,0,Lufkin,,,,,3b11
-minoraverages/emilbb,1946,East Texas League,,M91915,Doty,Hank,,Lufkin,,,,,
+minoraverages/emilbb,1946,East Texas League,doty,M91915,Doty,Hank,,Lufkin,,,,,
 minoraverages/1947TSN,1946,East Texas League,davis-par,B02176,Douis,Bob,0,Paris,,,,,
 minoraverages/1947TSN,1946,East Texas League,drake,B00553,Drake,Larry,0,Sherman,,,137,,
 minoraverages/1947TSN,1946,East Texas League,drake,F21286,Drake,,0,Sherman,,,,,rf137
@@ -182,7 +182,7 @@ minoraverages/1947TSN,1946,East Texas League,githens,B02542,Githens,Bill,0,Hende
 minoraverages/1947TSN,1946,East Texas League,githens,P10772,Githens,William,0,Henderson,,,,8,p
 minoraverages/1947TSN,1946,East Texas League,gliatto,B01453,Gliatto,Salvatore,0,Greenville,,,47,,
 minoraverages/1947TSN,1946,East Texas League,gliatto,P10357,Gliatto,Salvatore,0,Greenville,,,,39,p
-minoraverages/emilbb,1946,East Texas League,,M91869,Gliatto,Sal,,Greenville,,,,,
+minoraverages/emilbb,1946,East Texas League,gliatto,M91869,Gliatto,Sal,,Greenville,,,,,
 minoraverages/1947TSN,1946,East Texas League,graham,B00182,Graham,Aubrey,0,Jacksonville,,,137,,
 minoraverages/1947TSN,1946,East Texas League,graham,F20067,Graham,,0,Jacksonville,,,,,1b12
 minoraverages/1947TSN,1946,East Texas League,graham,F20190,Graham,,0,Jacksonville,,,,,2b125
@@ -242,10 +242,10 @@ minoraverages/1947TSN,1946,East Texas League,holliday,B00904,Holliday,Walter,0,J
 minoraverages/1947TSN,1946,East Texas League,holliday,F20552,Holliday,,0,Jacksonville,,,,,ss23
 minoraverages/1947TSN,1946,East Texas League,holliday,F20612,Holliday,,0,Jacksonville,,,,,3b68
 minoraverages/1947TSN,1946,East Texas League,honeycutt,B00319,Honeycutt,Ray,0,Henderson,,,83,,
-minoraverages/emilbb,1946,East Texas League,,M91816,Honeycutt,Ray,,Henderson,,,,,
+minoraverages/emilbb,1946,East Texas League,honeycutt,M91816,Honeycutt,Ray,,Henderson,,,,,
 minoraverages/1947TSN,1946,East Texas League,hooks,B00590,Hooks,Alex,0,Greenville,,,129,,
 minoraverages/1947TSN,1946,East Texas League,hooks,F20046,Hooks,,0,Greenville,,,,,1b129
-minoraverages/emilbb,1946,East Texas League,,M91875,Hooks,Alex,,Greenville,,,,,
+minoraverages/emilbb,1946,East Texas League,hooks,M91875,Hooks,Alex,,Greenville,,,,,
 minoraverages/1947TSN,1946,East Texas League,hopkins,B01787,Hopkins,James,0,Greenville,,,20,,
 minoraverages/1947TSN,1946,East Texas League,hopkins,P10591,Hopkins,James,0,Greenville,,,,20,p
 minoraverages/1947TSN,1946,East Texas League,howard,B02493,Howard,Neal,0,Tyler,,,,,
@@ -294,7 +294,7 @@ minoraverages/1947TSN,1946,East Texas League,knox,B00726,Knox,Muriel,0,Paris,,,1
 minoraverages/1947TSN,1946,East Texas League,knox,F21125,Knox,,0,Paris,,,,,lf15
 minoraverages/1947TSN,1946,East Texas League,kracher,B00101,Kracher,Joseph,0,Texarkana,,,122,,
 minoraverages/1947TSN,1946,East Texas League,kracher,F20792,Kracher,,0,Texarkana,,,,,c116
-minoraverages/emilbb,1946,East Texas League,,M91834,Kracher,Joe,,Texarkana,,,,,
+minoraverages/emilbb,1946,East Texas League,kracher,M91834,Kracher,Joe,,Texarkana,,,,,
 minoraverages/1947TSN,1946,East Texas League,kramer,B01489,Kramer,Norman,0,Paris,,,11,,
 minoraverages/1947TSN,1946,East Texas League,kramer,P10441,Kramer,Norman,0,Paris,,,,10,p
 minoraverages/1947TSN,1946,East Texas League,kushan,B02097,Kushan,John,0,Paris,,,,,
@@ -319,7 +319,7 @@ minoraverages/1947TSN,1946,East Texas League,ludwig,B02399,Ludwig,Malcolm,0,Jack
 minoraverages/1947TSN,1946,East Texas League,lusk,B00623,Lusk,Robert (Gabby),0,Texarkana,,,111,,
 minoraverages/1947TSN,1946,East Texas League,lusk,F20673,Lusk,,0,Texarkana,,,,,3b28
 minoraverages/1947TSN,1946,East Texas League,lusk,F21403,Lusk,,0,Texarkana,,,,,cf70
-minoraverages/emilbb,1946,East Texas League,,M91827,Lusk,Gabby,,Texarkana,,,,,
+minoraverages/emilbb,1946,East Texas League,lusk,M91827,Lusk,Gabby,,Texarkana,,,,,
 minoraverages/1947TSN,1946,East Texas League,lussow,B02527,Lussow,Al,0,Henderson,,,,,
 minoraverages/1947TSN,1946,East Texas League,main,B00646,Main,Eugene,0,Paris,,,140,,
 minoraverages/1947TSN,1946,East Texas League,main,F20449,Main,,0,Paris,,,,,ss140
@@ -345,7 +345,7 @@ minoraverages/1947TSN,1946,East Texas League,miles,B02795,Miles,James,0,Lufkin,,
 minoraverages/1947TSN,1946,East Texas League,miller,B02361,Miller,A.,0,Texarkana,,,,,
 minoraverages/1947TSN,1946,East Texas League,mistovich,B01546,Mistovich,Mike,0,Lufkin,,,26,,
 minoraverages/1947TSN,1946,East Texas League,mistovich,P10746,Mistovich,Mike,0,Lufkin,,,,24,p
-minoraverages/emilbb,1946,East Texas League,,M91928,Mistovich,"Mike ""Gus""",,Lufkin,,,,,
+minoraverages/emilbb,1946,East Texas League,mistovich,M91928,Mistovich,"Mike ""Gus""",,Lufkin,,,,,
 minoraverages/1947TSN,1946,East Texas League,mohnal,B01093,Mohnal,Nick,0,Jacksonville,,,30,,
 minoraverages/1947TSN,1946,East Texas League,mohnal,F20571,Mohnal,,0,Jacksonville,,,,,ss27
 minoraverages/1947TSN,1946,East Texas League,mosely,B01580,Mosely,J. R.,0,Greenville,,,16,,
@@ -385,7 +385,7 @@ minoraverages/1947TSN,1946,East Texas League,pearson.lloyd,F21013,Pearson,,0,Hen
 minoraverages/1947TSN,1946,East Texas League,pearson.lloyd,P10024,Pearson,Lloyd,0,Henderson,,,,9,p
 minoraverages/1947TSN,1946,East Texas League,peel,B00232,Peel,Homer,0,Paris,,,55,,
 minoraverages/1947TSN,1946,East Texas League,peel,F20177,Peel,,0,Paris,,,,,1b25
-minoraverages/emilbb,1946,East Texas League,,M91891,Peel,Homer,,Paris,,,,,
+minoraverages/emilbb,1946,East Texas League,peel,M91891,Peel,Homer,,Paris,,,,,
 minoraverages/1947TSN,1946,East Texas League,perrault,B00783,Perrault,James,0,Paris,,,110,,
 minoraverages/1947TSN,1946,East Texas League,perrault,F21163,Perrault,,0,Paris,,,,,rf40
 minoraverages/1947TSN,1946,East Texas League,perrault,F21370,Perrault,,0,Paris,,,,,cf68
@@ -412,7 +412,7 @@ minoraverages/1947TSN,1946,East Texas League,porter,P10687,Porter,Travis,2,Tyler
 minoraverages/1947TSN,1946,East Texas League,porter,P10687,Porter,Travis,T,,,,,29,p
 minoraverages/1947TSN,1946,East Texas League,prather,B00068,Prather,Murl,0,Tyler,,,106,,
 minoraverages/1947TSN,1946,East Texas League,prather,F20102,Prather,,0,Tyler,,,,,1b101
-minoraverages/emilbb,1946,East Texas League,,M91850,Prather,Dutch,,Tyler,,,,,
+minoraverages/emilbb,1946,East Texas League,prather,M91850,Prather,Dutch,,Tyler,,,,,
 minoraverages/1947TSN,1946,East Texas League,prichard,B00149,Prichard,Robert,0,Paris,,,128,,
 minoraverages/1947TSN,1946,East Texas League,prichard,F20051,Prichard,,0,Paris,,,,,1b113
 minoraverages/1947TSN,1946,East Texas League,prichard,P10385,Prichard,Robert,0,Paris,,,,30,p
@@ -430,7 +430,7 @@ minoraverages/1947TSN,1946,East Texas League,richards,B02746,Richards,C. B.,0,Lu
 minoraverages/1947TSN,1946,East Texas League,rigby,B00442,Rigby,Lloyd,0,Jacksonville,,,138,,
 minoraverages/1947TSN,1946,East Texas League,rigby,F20474,Rigby,,0,Jacksonville,,,,,ss86
 minoraverages/1947TSN,1946,East Texas League,rigby,F20657,Rigby,,0,Jacksonville,,,,,3b49
-minoraverages/emilbb,1946,East Texas League,,M91902,Rigby,"Lloyd ""Rabbit""",,Jacksonville,,,,,
+minoraverages/emilbb,1946,East Texas League,rigby,M91902,Rigby,"Lloyd ""Rabbit""",,Jacksonville,,,,,
 minoraverages/1947TSN,1946,East Texas League,ringler,B00695,Ringler,John,0,Paris,,,28,,
 minoraverages/1947TSN,1946,East Texas League,ringler,F21149,Ringler,,0,Paris,,,,,rf26
 minoraverages/1947TSN,1946,East Texas League,roberts.r,B00985,Roberts,Ray,0,Jacksonville,,,19,,
@@ -553,7 +553,7 @@ minoraverages/1947TSN,1946,East Texas League,stumborg,B01368,Stumborg,Ralph,T,,,
 minoraverages/1947TSN,1946,East Texas League,stumborg,P10266,Stumborg,Ralph,1,Sherman,,,,,p
 minoraverages/1947TSN,1946,East Texas League,stumborg,P10266,Stumborg,Ralph,2,Texarkana,,,,,p
 minoraverages/1947TSN,1946,East Texas League,stumborg,P10266,Stumborg,Ralph,T,,,,,18,p
-minoraverages/emilbb,1946,East Texas League,,M91888,Sturdy,Guy,,Sherman,,,,,
+minoraverages/emilbb,1946,East Texas League,sturdy,M91888,Sturdy,Guy,,Sherman,,,,,
 minoraverages/1947TSN,1946,East Texas League,sutphen,B02035,Sutphen,John,0,Greenville,,,,,
 minoraverages/1947TSN,1946,East Texas League,swan,B00898,Swan,Bruce,0,Henderson,,,58,,
 minoraverages/1947TSN,1946,East Texas League,swan,F20759,Swan,,0,Henderson,,,,,c57
@@ -561,7 +561,7 @@ minoraverages/1947TSN,1946,East Texas League,taitt.d,B00651,Taitt,Douglas,0,Tyle
 minoraverages/1947TSN,1946,East Texas League,taitt.w,B00840,Taitt,William,0,Tyler,,,120,,
 minoraverages/1947TSN,1946,East Texas League,taitt.w,F20547,Taitt,,0,Tyler,,,,,ss99
 minoraverages/1947TSN,1946,East Texas League,taitt.d,F21278,Taitt,,0,Tyler,,,,,rf21
-minoraverages/emilbb,1946,East Texas League,,M91842,Taitt,"Doug ""Poco""",,Tyler,,,,,
+minoraverages/emilbb,1946,East Texas League,taitt.d,M91842,Taitt,"Doug ""Poco""",,Tyler,,,,,
 minoraverages/1947TSN,1946,East Texas League,tassin,B01064,Tassin,Sidney,0,Greenville,,,37,,
 minoraverages/1947TSN,1946,East Texas League,tassin,P10464,Tassin,Sidney,0,Greenville,,,,36,p
 minoraverages/1947TSN,1946,East Texas League,taylor-she,B00356,Taylor,Ray,0,Sherman,,,17,,
