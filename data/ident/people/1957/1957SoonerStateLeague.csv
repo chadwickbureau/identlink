@@ -1,11 +1,564 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1957,Sooner State League,,M92502,Anthony,Lee,,Seminole,,,,,
-minoraverages/emilbb,1957,Sooner State League,,M92491,Biebel,Don,,Ponca City,,,,,
-minoraverages/emilbb,1957,Sooner State League,,M92427,Capps,Billy,,Paris,,,,,
-minoraverages/emilbb,1957,Sooner State League,,M92434,Dunn,J. C.,,Ardmore,,,,,
-minoraverages/emilbb,1957,Sooner State League,,M92450,Gilbert,Andy,,Muskogee,,,,,
-minoraverages/emilbb,1957,Sooner State League,,M92475,Gott,Thomas,,Greenville,,,,,
-minoraverages/emilbb,1957,Sooner State League,,M92488,Jackson,Travis,,Lawton,,,,,
-minoraverages/emilbb,1957,Sooner State League,,M92416,Lutz,Barney,,Paris,,,,,
-minoraverages/emilbb,1957,Sooner State League,,M92442,Ryba,Mike,,Ardmore,,,,,
-minoraverages/emilbb,1957,Sooner State League,,M92469,Serrano,Edward,,Shawnee,,,,,
+minoraverages/1958TSN,1957,Sooner State League,anderson-law,B00013,Anderson,Gary,0,Lawton,,,125,,
+minoraverages/1958TSN,1957,Sooner State League,anderson-pc,B02043,Anderson,Robert,0,Ponca City,,,4,,
+minoraverages/1958TSN,1957,Sooner State League,anderson-law,F20369,Anderson,,0,Lawton,,,,,3b101
+minoraverages/1958TSN,1957,Sooner State League,anderson-law,F20496,Anderson,,0,Lawton,,,,,ss24
+minoraverages/1958TSN,1957,Sooner State League,anderson-pc,P10930,Anderson,,0,Ponca City,,,,4,p
+minoraverages/1958TSN,1957,Sooner State League,andiets,B00021,Andiets,John,0,Ardmore,,,61,,
+minoraverages/1958TSN,1957,Sooner State League,andiets,F20115,Andiets,,0,Ardmore,,,,,1b27
+minoraverages/1958TSN,1957,Sooner State League,andiets,F21397,Andiets,,0,Ardmore,,,,,p27
+minoraverages/1958TSN,1957,Sooner State League,andiets,P10019,Andiets,,0,Ardmore,,,,27,p
+minoraverages/1958TSN,1957,Sooner State League,anthony,B00037,Anthony,O. Lee,0,Seminole,,,25,,
+minoraverages/1958TSN,1957,Sooner State League,anthony,F21577,Anthony,,0,Seminole,,,,,p25
+minoraverages/1958TSN,1957,Sooner State League,anthony,M90110,Anthony,O. Lee,,Seminole,,,,,
+minoraverages/1958TSN,1957,Sooner State League,anthony,P10024,Anthony,,0,Seminole,,,,25,p
+minoraverages/emilbb,1957,Sooner State League,anthony,M92502,Anthony,Lee,,Seminole,,,,,
+minoraverages/1958TSN,1957,Sooner State League,anthony,B00045,Arnnold,Wade,0,Shawnee,,,104,,
+minoraverages/1958TSN,1957,Sooner State League,anthony,F20303,Arnnold,,0,Shawnee,,,,,2b19
+minoraverages/1958TSN,1957,Sooner State League,anthony,F21117,Arnold,,0,Shawnee,,,,,of11
+minoraverages/1958TSN,1957,Sooner State League,anthony,F21210,Arnold,,0,Shawnee,,,,,c68
+minoraverages/1958TSN,1957,Sooner State League,baker-gvl,B00059,Baker,Dan,0,Greenville,,,11,,
+minoraverages/1958TSN,1957,Sooner State League,baker-sem,B02100,Baker,Abraham,0,Seminole,,,1,,
+minoraverages/1958TSN,1957,Sooner State League,baker-gvl,F22020,Baker,,0,Greenville,,,,,p10
+minoraverages/1958TSN,1957,Sooner State League,baker-gvl,P10805,Baker,,0,Greenville,,,,10,p
+minoraverages/1958TSN,1957,Sooner State League,baker-sem,P10996,Baker,,0,Seminole,,,,1,p
+minoraverages/1958TSN,1957,Sooner State League,barber,B00068,Barber,Stephen,0,Paris,,,28,,
+minoraverages/1958TSN,1957,Sooner State League,barber,F21783,Barber,,0,Paris,,,,,p28
+minoraverages/1958TSN,1957,Sooner State League,barber,P10035,Barber,,0,Paris,,,,28,p
+minoraverages/1958TSN,1957,Sooner State League,beattie,B00076,Beattie,Robert,0,Paris,,,125,,
+minoraverages/1958TSN,1957,Sooner State League,beattie,F20166,Beattie,,0,Paris,,,,,1b41
+minoraverages/1958TSN,1957,Sooner State League,beattie,F21068,Beattie,,0,Paris,,,,,of90
+minoraverages/1958TSN,1957,Sooner State League,benedetto,B00084,Benedetto,Arthur,0,Paris,,,45,,
+minoraverages/1958TSN,1957,Sooner State League,benedetto,F21904,Benedetto,,0,Paris,,,,,p45
+minoraverages/1958TSN,1957,Sooner State League,benedetto,P10043,Benedetto,,0,Paris,,,,45,p
+minoraverages/1958TSN,1957,Sooner State League,bentley,B00092,Bentley,William,0,Greenville,,,106,,
+minoraverages/1958TSN,1957,Sooner State League,bentley,F20829,Bentley,,0,Greenville,,,,,of106
+minoraverages/1958TSN,1957,Sooner State League,biebel,B00101,Biebel,Donald,0,Ponca City,,,111,,
+minoraverages/1958TSN,1957,Sooner State League,biebel,F20482,Biebel,,0,Ponca City,,,,,3b13
+minoraverages/1958TSN,1957,Sooner State League,biebel,F21163,Biebel,,0,Ponca City,,,,,c77
+minoraverages/1958TSN,1957,Sooner State League,biebel,M90107,Biebel,Donald,,Ponca City,,,,,
+minoraverages/1958TSN,1957,Sooner State League,biebel,P10949,Biebel,,0,Ponca City,,,,7,p
+minoraverages/emilbb,1957,Sooner State League,biebel,M92491,Biebel,Don,,Ponca City,,,,,
+minoraverages/1958TSN,1957,Sooner State League,biedermann,B00117,Biedermann,Herbert Jr.,0,Lawton,,,100,,
+minoraverages/1958TSN,1957,Sooner State League,biedermann,F20807,Biedermann,,0,Lawton,,,,,of100
+minoraverages/1958TSN,1957,Sooner State League,biles,B01873,Biles,Leonard,0,Greenville,,,4,,
+minoraverages/1958TSN,1957,Sooner State League,biles,P10818,Biles,,0,Greenville,,,,4,p
+minoraverages/1958TSN,1957,Sooner State League,blankenship,B00125,Blankenship,Russell,0,Lawton,,,118,,
+minoraverages/1958TSN,1957,Sooner State League,blankenship,F20080,Blankenship,,0,Lawton,,,,,1b118
+minoraverages/1958TSN,1957,Sooner State League,boyer,B00130,Boyer,Robert,0,Ardmore,,,38,,
+minoraverages/1958TSN,1957,Sooner State League,boyer,F20919,Boyer,,0,Ardmore,,,,,of36
+minoraverages/1958TSN,1957,Sooner State League,bozich,B00149,Bozich,John,0,Paris,,,15,,
+minoraverages/1958TSN,1957,Sooner State League,bozich,P10883,Bozich,,0,Paris,,,,7,p
+minoraverages/1958TSN,1957,Sooner State League,bradley,B00158,Bradley,James,0,Ardmore,,,126,,
+minoraverages/1958TSN,1957,Sooner State League,bradley,F20526,Bradley,,0,Ardmore,,,,,ss126
+minoraverages/1958TSN,1957,Sooner State League,brenek,B00163,Brenek,Dennis,0,Shawnee,,,11,,
+minoraverages/1958TSN,1957,Sooner State League,brenek,F21651,Brenek,,0,Shawnee,,,,,p10
+minoraverages/1958TSN,1957,Sooner State League,brenek,P10056,Brenek,,0,Shawnee,,,,10,p
+minoraverages/1958TSN,1957,Sooner State League,brewer,B00174,Brewer,James,0,Ponca City,,,30,,
+minoraverages/1958TSN,1957,Sooner State League,brewer,F21528,Brewer,,0,Ponca City,,,,,p30
+minoraverages/1958TSN,1957,Sooner State League,brewer,P10062,Brewer,,0,Ponca City,,,,30,p
+minoraverages/1958TSN,1957,Sooner State League,brio,B00182,Brio,Carl,0,Shawnee,,,19,,
+minoraverages/1958TSN,1957,Sooner State League,brio,F20700,Brio,,0,Shawnee,,,,,of19
+minoraverages/1958TSN,1957,Sooner State League,brown,B00196,Brown,Thomas,0,Lawton,,,125,,
+minoraverages/1958TSN,1957,Sooner State League,brown,F20474,Brown,T.,0,Lawton,,,,,3b24
+minoraverages/1958TSN,1957,Sooner State League,brown,F20552,Brown,T.,0,Lawton,,,,,ss101
+minoraverages/1958TSN,1957,Sooner State League,buhite,B01926,Buhite,Russell,0,Muskogee,,,9,,
+minoraverages/1958TSN,1957,Sooner State League,burnell,B00207,Burnell,Robert,0,Shawnee,,,107,,
+minoraverages/1958TSN,1957,Sooner State League,burnell,F20784,Burnell,,0,Shawnee,,,,,of107
+minoraverages/1958TSN,1957,Sooner State League,burnham,B00210,Burnham,John,0,Paris,,,15,,
+minoraverages/1958TSN,1957,Sooner State League,burnham,F21623,Burnham,,0,Paris,,,,,p12
+minoraverages/1958TSN,1957,Sooner State League,burnham,P10070,Burnham,,0,Paris,,,,12,p
+minoraverages/1958TSN,1957,Sooner State League,burton,B00229,Burton,James,0,Greenville,,,12,,
+minoraverages/1958TSN,1957,Sooner State League,burton,F21589,Burton,,0,Greenville,,,,,p11
+minoraverages/1958TSN,1957,Sooner State League,burton,P10081,Burton,,0,Greenville,,,,11,p
+minoraverages/1958TSN,1957,Sooner State League,cacciarelli,B02113,Cacciarelli,Robert,0,Seminole,,,2,,
+minoraverages/1958TSN,1957,Sooner State League,cacciarelli,P11009,Cacciarelli,,0,Seminole,,,,2,p
+minoraverages/1958TSN,1957,Sooner State League,cannizzaro,B00232,Cannizzaro,Christopher,0,Ardmore,,,32,,
+minoraverages/1958TSN,1957,Sooner State League,cannizzaro,F21293,Cannizzaro,,0,Ardmore,,,,,c28
+minoraverages/1958TSN,1957,Sooner State League,cannizzaro,P10738,Cannizzaro,,0,Ardmore,,,,2,p
+minoraverages/1958TSN,1957,Sooner State League,capps,B00241,Capps,William,0,Paris,,,17,,
+minoraverages/1958TSN,1957,Sooner State League,capps,F21149,Capps,,0,Paris,,,,,of12
+minoraverages/1958TSN,1957,Sooner State League,capps,M90026,Capps,William,,Paris,19570701,,,,
+minoraverages/1958TSN,1957,Sooner State League,capps,P10894,Capps,,0,Paris,,,,1,p
+minoraverages/emilbb,1957,Sooner State League,capps,M92427,Capps,Billy,,Paris,,,,,
+minoraverages/1958TSN,1957,Sooner State League,carpenter,B01939,Carpenter,Preston,0,Muskogee,,,4,,
+minoraverages/1958TSN,1957,Sooner State League,christie,B00255,Christie,John,0,Seminole,,,25,,
+minoraverages/1958TSN,1957,Sooner State League,christie,F21695,Christie,,0,Seminole,,,,,p22
+minoraverages/1958TSN,1957,Sooner State League,christie,P10097,Christie,,0,Seminole,,,,22,p
+minoraverages/1958TSN,1957,Sooner State League,climenhaga,P11051,Cimenhaga,,0,Shawnee,,,,5,p
+minoraverages/1958TSN,1957,Sooner State League,clark,B00264,Clark,Charles,0,Muskogee,,,125,,
+minoraverages/1958TSN,1957,Sooner State League,clark,F20233,Clark,,0,Muskogee,,,,,2b123
+minoraverages/1958TSN,1957,Sooner State League,clarke,B00278,Clarke,Joseph,0,Seminole,,,125,,
+minoraverages/1958TSN,1957,Sooner State League,clarke,F20222,Clarke,,0,Seminole,,,,,2b117
+minoraverages/1958TSN,1957,Sooner State League,cleboski,B00286,Cleboski,J. Robert,0,Lawton,,,39,,
+minoraverages/1958TSN,1957,Sooner State League,cleboski,F21370,Cleboski,,0,Lawton,,,,,p37
+minoraverages/1958TSN,1957,Sooner State League,cleboski,P10100,Cleboski,,0,Lawton,,,,37,p
+minoraverages/1958TSN,1957,Sooner State League,climenhaga,B02192,Climenhaga,Douglas,0,Shawnee,,,8,,
+minoraverages/1958TSN,1957,Sooner State League,cochran,B00293,Cochran,U. Gene,0,Seminole,,,30,,
+minoraverages/1958TSN,1957,Sooner State League,cochran,F21879,Cochran,,0,Seminole,,,,,p28
+minoraverages/1958TSN,1957,Sooner State League,cochran,P10113,Cochran,,0,Seminole,,,,28,p
+minoraverages/1958TSN,1957,Sooner State League,codella,B00308,Codella,Peter,0,Seminole,,,90,,
+minoraverages/1958TSN,1957,Sooner State League,codella,F21255,Codella,,0,Seminole,,,,,c70
+minoraverages/1958TSN,1957,Sooner State League,constant,B02202,Constant,Robert,0,Shawnee,,,2,,
+minoraverages/1958TSN,1957,Sooner State League,constant,P11067,Constant,,0,Shawnee,,,,2,p
+minoraverages/1958TSN,1957,Sooner State League,conway,B00319,Conway,Alvin,0,Muskogee,,,59,,
+minoraverages/1958TSN,1957,Sooner State League,conway,F20661,Conway,,0,Muskogee,,,,,of56
+minoraverages/1958TSN,1957,Sooner State League,cordiero,B00324,Cordiero,Raymond,0,Seminole,,,41,,
+minoraverages/1958TSN,1957,Sooner State League,cordiero,F21854,Cordiero,,0,Seminole,,,,,p30
+minoraverages/1958TSN,1957,Sooner State League,cordiero,P10121,Cordiero,,0,Seminole,,,,30,p
+minoraverages/1958TSN,1957,Sooner State League,corrigan,B00335,Corrigan,William Jr.,0,Seminole,,,31,,
+minoraverages/1958TSN,1957,Sooner State League,corrigan,F21912,Corrigan,,0,Seminole,,,,,p26
+minoraverages/1958TSN,1957,Sooner State League,corrigan,P10137,Corrigan,,0,Seminole,,,,26,p
+minoraverages/1958TSN,1957,Sooner State League,coscia,B00343,Coscia,Robert,0,Greenville,,,14,,
+minoraverages/1958TSN,1957,Sooner State League,coscia,F21999,Coscia,,0,Greenville,,,,,p14
+minoraverages/1958TSN,1957,Sooner State League,coscia,P10145,Coscia,,0,Greenville,,,,14,p
+minoraverages/1958TSN,1957,Sooner State League,cruz,B00356,Cruz,Hector,0,Muskogee,,,33,,
+minoraverages/1958TSN,1957,Sooner State League,cruz,F21667,Cruz,,0,Muskogee,,,,,p33
+minoraverages/1958TSN,1957,Sooner State League,cruz,P10159,Cruz,,0,Muskogee,,,,33,p
+minoraverages/1958TSN,1957,Sooner State League,cupito,B00362,Cupito,Joseph,0,Ponca City,,,83,,
+minoraverages/1958TSN,1957,Sooner State League,cupito,F21335,Cupito,,0,Ponca City,,,,,c53
+minoraverages/1958TSN,1957,Sooner State League,cupito,F20768,Cuptin,,0,Ponca City,,,,,of24
+minoraverages/1958TSN,1957,Sooner State League,curtis,B00370,Curtis,Jack,0,Ponca City,,,69,,
+minoraverages/1958TSN,1957,Sooner State League,curtis,F21092,Curtis,,0,Ponca City,,,,,of20
+minoraverages/1958TSN,1957,Sooner State League,curtis,F21638,Curtis,,0,Ponca City,,,,,p37
+minoraverages/1958TSN,1957,Sooner State League,curtis,P10168,Curtis,,0,Ponca City,,,,37,p
+minoraverages/1958TSN,1957,Sooner State League,davis,B00381,Davis,Leo,0,Ponca City,,,26,,
+minoraverages/1958TSN,1957,Sooner State League,davis,F21887,Davis,,0,Ponca City,,,,,p21
+minoraverages/1958TSN,1957,Sooner State League,davis,P10176,Davis,,0,Ponca City,,,,21,p
+minoraverages/1958TSN,1957,Sooner State League,demars,B00403,DeMars,Harold,0,Lawton,,,15,,
+minoraverages/1958TSN,1957,Sooner State League,demars,F21469,DeMars,,0,Lawton,,,,,p13
+minoraverages/1958TSN,1957,Sooner State League,demars,P10192,DeMars,,0,Lawton,,,,13,p
+minoraverages/1958TSN,1957,Sooner State League,dean,B00397,Dean,Paul Jr.,0,Lawton,,,27,,
+minoraverages/1958TSN,1957,Sooner State League,dean,F21957,Dean,,0,Lawton,,,,,p27
+minoraverages/1958TSN,1957,Sooner State League,dean,P10184,Dean,,0,Lawton,,,,27,p
+minoraverages/1958TSN,1957,Sooner State League,denney,B00416,Denney,H. Ted,0,Paris,,,37,,
+minoraverages/1958TSN,1957,Sooner State League,denney,F21840,Denney,,0,Paris,,,,,p35
+minoraverages/1958TSN,1957,Sooner State League,denney,P10202,Denney,,0,Paris,,,,35,p
+minoraverages/1958TSN,1957,Sooner State League,digiulio,B00427,DiGiulio,Vincent,0,Seminole,,,16,,
+minoraverages/1958TSN,1957,Sooner State League,digiulio,F22048,DiGiulio,,0,Seminole,,,,,p16
+minoraverages/1958TSN,1957,Sooner State League,digiulio,P10215,DiGiulio,,0,Seminole,,,,46,p
+minoraverages/1958TSN,1957,Sooner State League,biebel,F20189,Diebel,,0,Ponca City,,,,,1b19
+minoraverages/1958TSN,1957,Sooner State League,dikemann,B01820,Dikemann,William,0,Ardmore,,,9,,
+minoraverages/1958TSN,1957,Sooner State League,dikemann,P10228,Dikemann,,0,Ardmore,,,,9,p
+minoraverages/1958TSN,1957,Sooner State League,dopkied,B00434,Dophied,Billy,0,Seminole,,,30,,
+minoraverages/1958TSN,1957,Sooner State League,dopkied,F21356,Dophied,,0,Seminole,,,,,c16
+minoraverages/1958TSN,1957,Sooner State League,dotson,B02121,Dotson,Daniel,0,Seminole,,,8,,
+minoraverages/1958TSN,1957,Sooner State League,dotson,P11014,Dotson,,0,Seminole,,,,4,p
+minoraverages/1958TSN,1957,Sooner State League,dunn,B00442,Dunn,J. C.,0,Ardmore,,,104,,
+minoraverages/1958TSN,1957,Sooner State League,dunn,F20177,Dunn,,0,Ardmore,,,,,1b99
+minoraverages/1958TSN,1957,Sooner State League,dunn,M90039,Dunn,J. C.,,Ardmore,,,,,
+minoraverages/1958TSN,1957,Sooner State League,dunn,M90052,Dunn,J. C.,,Ardmore,19570822,,,,
+minoraverages/emilbb,1957,Sooner State League,dunn,M92434,Dunn,J. C.,,Ardmore,,,,,
+minoraverages/1958TSN,1957,Sooner State League,dunnam,B00450,Dunnam,William,0,Shawnee,,,96,,
+minoraverages/1958TSN,1957,Sooner State League,dunnam,F20878,Dunnam,,0,Shawnee,,,,,of95
+minoraverages/1958TSN,1957,Sooner State League,dwyer,B00469,Dwyer,Robert,0,Lawton,,,54,,
+minoraverages/1958TSN,1957,Sooner State League,dwyer,F21021,Dwyer,,0,Lawton,,,,,of54
+minoraverages/1958TSN,1957,Sooner State League,ennis,B00475,Ennis,H. Richard,0,Seminole,,,10,,
+minoraverages/1958TSN,1957,Sooner State League,erickson,B01885,Erickson,Paul,0,Greenville,,,4,,
+minoraverages/1958TSN,1957,Sooner State League,erickson,P10826,Erickson,,0,Greenville,,,,4,p
+minoraverages/1958TSN,1957,Sooner State League,evans,B00488,Evans,Edward,0,Greenville,,,11,,
+minoraverages/1958TSN,1957,Sooner State League,evans,F22057,Evans,,0,Greenville,,,,,p10
+minoraverages/1958TSN,1957,Sooner State League,evans,P10231,Evans,,0,Greenville,,,,10,p
+minoraverages/1958TSN,1957,Sooner State League,fassler,B00491,Fassler,Thomas,0,Ardmore,,,33,,
+minoraverages/1958TSN,1957,Sooner State League,fassler,F21059,Fassler,,0,Ardmore,,,,,of10
+minoraverages/1958TSN,1957,Sooner State League,fassler,F21771,Fassler,,0,Ardmore,,,,,p18
+minoraverages/1958TSN,1957,Sooner State League,fassler,P10244,Fassler,,0,Ardmore,,,,18,p
+minoraverages/1958TSN,1957,Sooner State League,fleming,B01947,Fleming,James,0,Muskogee,,,3,,
+minoraverages/1958TSN,1957,Sooner State League,fleming,P10847,Fleming,,0,Muskogee,,,,3,p
+minoraverages/1958TSN,1957,Sooner State League,ford,B01905,Ford,Thomas,0,Lawton,,,4,,
+minoraverages/1958TSN,1957,Sooner State League,ford,P10780,Ford,,0,Lawton,,,,4,p
+minoraverages/1958TSN,1957,Sooner State League,franklin,B00502,Franklin,Frank,0,Paris,,,14,,
+minoraverages/1958TSN,1957,Sooner State League,franklin,F20298,Franklin,,0,Paris,,,,,2b14
+minoraverages/1958TSN,1957,Sooner State League,freeman,B00515,Freeman,Lee,0,Lawton,,,120,,
+minoraverages/1958TSN,1957,Sooner State League,freeman,F21196,Freeman,,0,Lawton,,,,,c112
+minoraverages/1958TSN,1957,Sooner State League,french,B00528,French,T. W.,0,Seminole,,,20,,
+minoraverages/1958TSN,1957,Sooner State League,french,F20935,French,,0,Seminole,,,,,of16
+minoraverages/1958TSN,1957,Sooner State League,french,P11023,French,,0,Seminole,,,,2,p
+minoraverages/1958TSN,1957,Sooner State League,frye,B00531,Frye,Norman Jr.,0,Ardmore,,,27,,
+minoraverages/1958TSN,1957,Sooner State League,frye,F21806,Frye,,0,Ardmore,,,,,p26
+minoraverages/1958TSN,1957,Sooner State League,frye,P10253,Frye,,0,Ardmore,,,,26,p
+minoraverages/1958TSN,1957,Sooner State League,gatenby,B02137,Gatenby,Thomas,0,Seminole,,,9,,
+minoraverages/1958TSN,1957,Sooner State League,george,B00544,George,Alex,0,Seminole,,,124,,
+minoraverages/1958TSN,1957,Sooner State League,george,F20518,George,,0,Seminole,,,,,ss124
+minoraverages/1958TSN,1957,Sooner State League,geyer,B01952,Geyer,Alfred,0,Muskogee,,,2,,
+minoraverages/1958TSN,1957,Sooner State League,gholson,B00553,Gholson,Carroll,0,Ponca City,,,75,,
+minoraverages/1958TSN,1957,Sooner State League,gholson,F20342,Gholson,,0,Ponca City,,,,,3b61
+minoraverages/1958TSN,1957,Sooner State League,gideon,B02056,Gideon,Rudy,0,Ponca City,,,4,,
+minoraverages/1958TSN,1957,Sooner State League,gilbert,M90060,Gilbert,Andrew,,Muskogee,,,,,
+minoraverages/emilbb,1957,Sooner State League,gilbert,M92450,Gilbert,Andy,,Muskogee,,,,,
+minoraverages/1958TSN,1957,Sooner State League,glaster,B00566,Glaser,Robert,0,Shawnee,,,124,,
+minoraverages/1958TSN,1957,Sooner State League,glaster,F20072,Glaser,,0,Shawnee,,,,,1b123
+minoraverages/1958TSN,1957,Sooner State League,gordon,B00577,Gordon,Harold,0,Seminole,,,42,,
+minoraverages/1958TSN,1957,Sooner State League,gordon,F20038,Gordon,,0,Seminole,,,,,1b40
+minoraverages/1958TSN,1957,Sooner State League,gott,B00589,Gott,Thomas,0,Greenville,,,52,,
+minoraverages/1958TSN,1957,Sooner State League,gott,F20737,Gott,,0,Greenville,,,,,of16
+minoraverages/1958TSN,1957,Sooner State League,gott,F21491,Gott,,0,Greenville,,,,,p11
+minoraverages/1958TSN,1957,Sooner State League,gott,M90083,Gott,Thomas,,Greenville,,,,,
+minoraverages/1958TSN,1957,Sooner State League,gott,P10839,Gott,,0,Greenville,,,,11,p
+minoraverages/emilbb,1957,Sooner State League,gott,M92475,Gott,Thomas,,Greenville,,,,,
+minoraverages/1958TSN,1957,Sooner State League,griffith,B00590,Griffith,David,0,Shawnee,,,29,,
+minoraverages/1958TSN,1957,Sooner State League,griffith,F20190,Griffith,,0,Shawnee,,,,,2b11
+minoraverages/1958TSN,1957,Sooner State League,griffith,F20401,Griffith,,0,Shawnee,,,,,3b19
+minoraverages/1958TSN,1957,Sooner State League,griffiths,B00609,Griffiths,Joseph,0,Muskogee,,,40,,
+minoraverages/1958TSN,1957,Sooner State League,griffiths,F21752,Griffiths,,0,Muskogee,,,,,p38
+minoraverages/1958TSN,1957,Sooner State League,griffiths,P10266,Griffiths,,0,Muskogee,,,,38,p
+minoraverages/1958TSN,1957,Sooner State League,grigsby,B00614,Grigsby,Aubrey,0,Muskogee,,,10,,
+minoraverages/1958TSN,1957,Sooner State League,grigsby,F21502,Grigsby,,0,Muskogee,,,,,p10
+minoraverages/1958TSN,1957,Sooner State League,grigsby,P10277,Grigsby,,0,Muskogee,,,,10,p
+minoraverages/1958TSN,1957,Sooner State League,guckert,B00623,Guckert,Harry,0,Paris,,,31,,
+minoraverages/1958TSN,1957,Sooner State League,guckert,F21898,Guckert,,0,Paris,,,,,p30
+minoraverages/1958TSN,1957,Sooner State League,guckert,P10289,Guckert,,0,Paris,,,,30,p
+minoraverages/1958TSN,1957,Sooner State League,hadler,B00638,Hadley,Joseph III,0,Seminole,,,17,,
+minoraverages/1958TSN,1957,Sooner State League,hadler,F21101,Hadley,,0,Seminole,,,,,of17
+minoraverages/1958TSN,1957,Sooner State League,hamper,B00646,Hamper,Earl,0,Seminole,,,81,,
+minoraverages/1958TSN,1957,Sooner State League,hamper,F20458,Hamper,,0,Seminole,,,,,3b81
+minoraverages/1958TSN,1957,Sooner State League,healy,B00651,Healy,Richard,0,Lawton,,,121,,
+minoraverages/1958TSN,1957,Sooner State League,healy,F20745,Healy,,0,Lawton,,,,,of120
+minoraverages/1958TSN,1957,Sooner State League,hedges,B00667,Hedges,Wesley,0,Ponca City,,,65,,
+minoraverages/1958TSN,1957,Sooner State League,hedges,F20759,Hedges,,0,Ponca City,,,,,of63
+minoraverages/1958TSN,1957,Sooner State League,hernandez,B00672,Hernandez,Richard,0,Paris,,,103,,
+minoraverages/1958TSN,1957,Sooner State League,hernandez,F20240,Hernandez,,0,Paris,,,,,2b103
+minoraverages/1958TSN,1957,Sooner State League,hinojosa,B00680,Hinojosa,Bolivar,0,Seminole,,,43,,
+minoraverages/1958TSN,1957,Sooner State League,hinojosa,F20131,Hinojosa,,0,Seminole,,,,,1b10
+minoraverages/1958TSN,1957,Sooner State League,hinojosa,F20449,Hinojosa,,0,Seminole,,,,,3b35
+minoraverages/1958TSN,1957,Sooner State League,hogg,B00695,Hogg,Ronald,0,Seminole,,,118,,
+minoraverages/1958TSN,1957,Sooner State League,hogg,F20924,Hogg,,0,Seminole,,,,,of117
+minoraverages/1958TSN,1957,Sooner State League,holmes,B00705,Holmes,C. William,0,Lawton,,,30,,
+minoraverages/1958TSN,1957,Sooner State League,holmes,F21794,Holmes,,0,Lawton,,,,,p28
+minoraverages/1958TSN,1957,Sooner State League,holmes,P10290,Holmes,,0,Lawton,,,,28,p
+minoraverages/1958TSN,1957,Sooner State League,honza,B01960,Honza,Jerry,0,Muskogee,,,2,,
+minoraverages/1958TSN,1957,Sooner State League,honza,P10852,Honza,,0,Muskogee,,,,2,p
+minoraverages/1958TSN,1957,Sooner State League,hoque,B00718,Hoque,Richard,0,Ponca City,,,20,,
+minoraverages/1958TSN,1957,Sooner State League,hoque,F20067,Hoque,,0,Ponca City,,,,,1b20
+minoraverages/1958TSN,1957,Sooner State League,horbelt,B00726,Horbelt,Edward,0,Lawton,,,30,,
+minoraverages/1958TSN,1957,Sooner State League,horbelt,F20981,Horbelt,,0,Lawton,,,,,of29
+minoraverages/1958TSN,1957,Sooner State League,huerta,B00739,Huerta,Phillip,0,Shawnee,,,25,,
+minoraverages/1958TSN,1957,Sooner State League,huerta,F21739,Huerta,,0,Shawnee,,,,,p24
+minoraverages/1958TSN,1957,Sooner State League,huerta,P10304,Huerta,,0,Shawnee,,,,24,p
+minoraverages/1958TSN,1957,Sooner State League,hungate,B01971,Hungate,Emmett,0,Muskogee,,,6,,
+minoraverages/1958TSN,1957,Sooner State League,hurvitz,B00747,Hurvitz,Robert,0,Shawnee,,,58,,
+minoraverages/1958TSN,1957,Sooner State League,hurvitz,F21264,Hurvitz,,0,Shawnee,,,,,c51
+minoraverages/1958TSN,1957,Sooner State League,hutchinson,B00752,Hutchinson,Gordon,1,Shawnee,,,2,,
+minoraverages/1958TSN,1957,Sooner State League,hutchinson,B00752,Hutchinson,Gordon,2,Ponca City,,,36,,
+minoraverages/1958TSN,1957,Sooner State League,hutchinson,B00752,Hutchinson,Gordon,T,,,,38,,
+minoraverages/1958TSN,1957,Sooner State League,hutchinson,F20583,Hutchinson,,0,Ponca City,,,,,ss36
+minoraverages/1958TSN,1957,Sooner State League,jackson-sha,B00760,Jackson,Hugh D.,0,Shawnee,,,37,,
+minoraverages/1958TSN,1957,Sooner State League,jackson-sha,F21553,Jackson,,0,Shawnee,,,,,p37
+minoraverages/1958TSN,1957,Sooner State League,jackson-law,M90094,Jackson,Travis,,Lawton,,,,,
+minoraverages/1958TSN,1957,Sooner State League,jackson-sha,P10312,Jackson,,0,Shawnee,,,,37,p
+minoraverages/emilbb,1957,Sooner State League,jackson-law,M92488,Jackson,Travis,,Lawton,,,,,
+minoraverages/1958TSN,1957,Sooner State League,jacobson,B00771,Jacobson,Robert,0,Seminole,,,11,,
+minoraverages/1958TSN,1957,Sooner State League,jantze,B00783,Jantze,Curtis,0,Ardmore,,,108,,
+minoraverages/1958TSN,1957,Sooner State League,jantze,F20014,Jantze,,0,Ardmore,,,,,1b10
+minoraverages/1958TSN,1957,Sooner State League,jantze,F20636,Jantze,,0,Ardmore,,,,,of21
+minoraverages/1958TSN,1957,Sooner State League,jantze,F21319,Jantze,,0,Ardmore,,,,,c80
+minoraverages/1958TSN,1957,Sooner State League,jarvinen,B00794,Jarvinen,Vernon,0,Lawton,,,15,,
+minoraverages/1958TSN,1957,Sooner State League,jarvinen,F20648,Jarvinen,,0,Lawton,,,,,of15
+minoraverages/1958TSN,1957,Sooner State League,jaskowski,B00806,Jaskowski,Thomas,0,Seminole,,,26,,
+minoraverages/1958TSN,1957,Sooner State League,jaskowski,F20685,Jaskowski,,0,Seminole,,,,,of22
+minoraverages/1958TSN,1957,Sooner State League,jeanes,B00811,Jeanes,John,0,Paris,,,24,,
+minoraverages/1958TSN,1957,Sooner State League,jeanes,F21427,Jeanes,,0,Paris,,,,,p19
+minoraverages/1958TSN,1957,Sooner State League,jeanes,P10320,Jeanes,,0,Paris,,,,19,p
+minoraverages/1958TSN,1957,Sooner State League,johnson.b-sha,B00822,Johnson,Billy,0,Shawnee,,,42,,
+minoraverages/1958TSN,1957,Sooner State League,johnson-par,B00833,Johnson,Charlie,0,Paris,,,125,,
+minoraverages/1958TSN,1957,Sooner State League,johnson-ard,B00840,Johnson,H. Wayne,0,Ardmore,,,54,,
+minoraverages/1958TSN,1957,Sooner State League,johnson.m-sha,B02215,Johnson,Marshall,0,Shawnee,,,5,,
+minoraverages/1958TSN,1957,Sooner State League,johnson.b-sha,F20713,Johnson,B.,0,Shawnee,,,,,of41
+minoraverages/1958TSN,1957,Sooner State League,johnson.c-sha,F20721,Johnson,C.,0,Paris,,,,,of125
+minoraverages/1958TSN,1957,Sooner State League,johnson-ard,F20956,Johnson,W.,0,Ardmore,,,,,of48
+minoraverages/1958TSN,1957,Sooner State League,johnson.m-sha,P10336,Johnson,M.,0,Shawnee,,,,5,p
+minoraverages/1958TSN,1957,Sooner State League,johnson.b-sha,P11072,Johnson,B,0,Shawnee,,,,1,p
+minoraverages/1958TSN,1957,Sooner State League,jones,B00854,Jones,Clifford Jr.,0,Lawton,,,31,,
+minoraverages/1958TSN,1957,Sooner State League,jones,F21747,Jones,,0,Lawton,,,,,p30
+minoraverages/1958TSN,1957,Sooner State League,jones,P10348,Jones,,0,Lawton,,,,30,p
+minoraverages/1958TSN,1957,Sooner State League,kampschor,B01899,Kampschor,Norman,0,Greenville,,,4,,
+minoraverages/1958TSN,1957,Sooner State League,keller,B00865,Keller,Gerald,0,Ardmore,,,23,,
+minoraverages/1958TSN,1957,Sooner State League,keller,F21403,Keller,,0,Ardmore,,,,,p23
+minoraverages/1958TSN,1957,Sooner State League,keller,P10357,Keller,,0,Ardmore,,,,23,p
+minoraverages/1958TSN,1957,Sooner State League,kershaw,B02145,Kershaw,Joseph,0,Seminole,,,8,,
+minoraverages/1958TSN,1957,Sooner State League,kimbrel,B00879,Kimbrel,John,0,Shawnee,,,17,,
+minoraverages/1958TSN,1957,Sooner State League,kimbrel,F21811,Kimbrel,,0,Shawnee,,,,,p17
+minoraverages/1958TSN,1957,Sooner State League,kimbrel,P10361,Kimbrel,,0,Shawnee,,,,17,p
+minoraverages/1958TSN,1957,Sooner State League,kinart,B00887,Kinart,Duane,0,Greenville,,,29,,
+minoraverages/1958TSN,1957,Sooner State League,kinart,F21544,Kinart,,0,Greenville,,,,,p28
+minoraverages/1958TSN,1957,Sooner State League,kinart,P10373,Kinart,,0,Greenville,,,,28,p
+minoraverages/1958TSN,1957,Sooner State League,knoop,B00898,Knoop,Robert,0,Lawton,,,125,,
+minoraverages/1958TSN,1957,Sooner State League,knoop,F20206,Knoop,,0,Lawton,,,,,2b125
+minoraverages/1958TSN,1957,Sooner State League,kolstad,B02159,Kolstad,Harvey,0,Seminole,,,9,,
+minoraverages/1958TSN,1957,Sooner State League,kolstad,P10385,Kolstad,,0,Seminole,,,,9,p
+minoraverages/1958TSN,1957,Sooner State League,labere,B02228,LaBere,Wayne,0,Shawnee,,,1,,
+minoraverages/1958TSN,1957,Sooner State League,labere,P11080,LaBere,,0,Shawnee,,,,1,p
+minoraverages/1958TSN,1957,Sooner State League,lairmore,B00904,Lairmore,Ralph,0,Paris,,,64,,
+minoraverages/1958TSN,1957,Sooner State League,lairmore,F21207,Lairmore,,0,Paris,,,,,c56
+minoraverages/1958TSN,1957,Sooner State League,laurie,B00912,Laurie,Lawrence,0,Shawnee,,,23,,
+minoraverages/1958TSN,1957,Sooner State League,laurie,F21286,Laurie,,0,Shawnee,,,,,c18
+minoraverages/1958TSN,1957,Sooner State League,liciardello,B00920,Liciardello,Joseph,0,Ardmore,,,55,,
+minoraverages/1958TSN,1957,Sooner State League,liciardello,F20254,Liciardello,,0,Ardmore,,,,,2b53
+minoraverages/1958TSN,1957,Sooner State League,lind,B00936,Lind,Otto Jr.,0,Lawton,,,14,,
+minoraverages/1958TSN,1957,Sooner State League,lind,F20943,Lind,,0,Lawton,,,,,of12
+minoraverages/1958TSN,1957,Sooner State League,long,B00948,Long,Joel,0,Ardmore,,,67,,
+minoraverages/1958TSN,1957,Sooner State League,long,F21000,Long,,0,Ardmore,,,,,of65
+minoraverages/1958TSN,1957,Sooner State League,lukart,F21084,Luart,,0,Lawton,,,,,of19
+minoraverages/1958TSN,1957,Sooner State League,lukart,B00957,Lukart,George,0,Lawton,,,34,,
+minoraverages/1958TSN,1957,Sooner State League,lukart,F21324,Lukart,,0,Lawton,,,,,c12
+minoraverages/1958TSN,1957,Sooner State League,lutz,M90018,Lutz,Bernard,,Paris,,,,,
+minoraverages/emilbb,1957,Sooner State League,lutz,M92416,Lutz,Barney,,Paris,,,,,
+minoraverages/1958TSN,1957,Sooner State League,mannell,B00961,Mannell,Dennis,0,Greenville,,,19,,
+minoraverages/1958TSN,1957,Sooner State League,mannell,F21182,Mannell,,0,Greenville,,,,,c15
+minoraverages/1958TSN,1957,Sooner State League,marquis,B00973,Marquis,Roger,0,Paris,,,13,,
+minoraverages/1958TSN,1957,Sooner State League,marquis,F20046,Marquis,,0,Paris,,,,,1b13
+minoraverages/1958TSN,1957,Sooner State League,marshall,B01994,Marshall,Alfred,0,Paris,,,6,,
+minoraverages/1958TSN,1957,Sooner State League,martin,B00985,Martin,Stanley,0,Greenville,,,116,,
+minoraverages/1958TSN,1957,Sooner State League,martin,F20144,Martin,,0,Greenville,,,,,1b116
+minoraverages/1958TSN,1957,Sooner State League,martinez,B00999,Martinez,Arturo,0,Muskogee,,,126,,
+minoraverages/1958TSN,1957,Sooner State League,martinez,F20375,Martinez,,0,Muskogee,,,,,3b125
+minoraverages/1958TSN,1957,Sooner State League,martinez,P10860,Martinez,,0,Muskogee,,,,1,p
+minoraverages/1958TSN,1957,Sooner State League,mathews,B02062,Mathews,L. Curtis,0,Ponca City,,,6,,
+minoraverages/1958TSN,1957,Sooner State League,mathews,P10958,Mathews,,0,Ponca City,,,,4,p
+minoraverages/1958TSN,1957,Sooner State League,mathis,B01007,Mathis,Joseph,0,Shawnee,,,27,,
+minoraverages/1958TSN,1957,Sooner State League,mathis,F21973,Mathis,,0,Shawnee,,,,,p24
+minoraverages/1958TSN,1957,Sooner State League,mathis,P10399,Mathis,,0,Shawnee,,,,24,p
+minoraverages/1958TSN,1957,Sooner State League,matusaitis,B01010,Matusaitis,Ronald,0,Paris,,,11,,
+minoraverages/1958TSN,1957,Sooner State League,matusaitis,F21948,Matusaitis,,0,Paris,,,,,p11
+minoraverages/1958TSN,1957,Sooner State League,matusaitis,P10407,Matusaitis,,0,Paris,,,,11,p
+minoraverages/1958TSN,1957,Sooner State League,maupin,F21614,Maulpin,,0,Greenville,,,,,p26
+minoraverages/1958TSN,1957,Sooner State League,maupin,P10410,Maulpin,,0,Greenville,,,,26,p
+minoraverages/1958TSN,1957,Sooner State League,maupin,B01029,Maupin,Wendell,0,Greenville,,,31,,
+minoraverages/1958TSN,1957,Sooner State League,mcandrews,B01032,McAndrews,James,0,Paris,,,83,,
+minoraverages/1958TSN,1957,Sooner State League,mcandrews,F21013,McAndrews,,0,Paris,,,,,of17
+minoraverages/1958TSN,1957,Sooner State League,mcandrews,F21229,McAndrews,,0,Paris,,,,,c53
+minoraverages/1958TSN,1957,Sooner State League,mcfadden,B01041,McFadden,John,0,Ardmore,,,53,,
+minoraverages/1958TSN,1957,Sooner State League,mcfadden,F20864,McFadden,,0,Ardmore,,,,,of15
+minoraverages/1958TSN,1957,Sooner State League,mcfadden,F21646,McFadden,,0,Ardmore,,,,,p29
+minoraverages/1958TSN,1957,Sooner State League,mcfadden,P10429,McFadden,,0,Ardmore,,,,29,p
+minoraverages/1958TSN,1957,Sooner State League,mckee,B01055,McKee,Richard,0,Ponca City,,,111,,
+minoraverages/1958TSN,1957,Sooner State League,mckee,F20327,McKee,,0,Ponca City,,,,,2b44
+minoraverages/1958TSN,1957,Sooner State League,mckee,F20463,McKee,,0,Ponca City,,,,,3b10
+minoraverages/1958TSN,1957,Sooner State League,mckee,F20886,McKee,,0,Ponca City,,,,,of55
+minoraverages/1958TSN,1957,Sooner State League,mckee,P10963,McKee,,0,Ponca City,,,,2,p
+minoraverages/1958TSN,1957,Sooner State League,mckinnis,B02168,McKinnis,Jerry,0,Seminole,,,3,,
+minoraverages/1958TSN,1957,Sooner State League,mckinnis,P11038,McKinnis,,0,Seminole,,,,3,p
+minoraverages/1958TSN,1957,Sooner State League,mcknight,B01064,McKnight,James,0,Ardmore,,,122,,
+minoraverages/1958TSN,1957,Sooner State League,mcknight,F20350,McKnight,,0,Ardmore,,,,,3b122
+minoraverages/1958TSN,1957,Sooner State League,mcknight,P10746,McKnight,,0,Ardmore,,,,3,p
+minoraverages/1958TSN,1957,Sooner State League,mcmullan,B01078,McMullan,Donald,0,Paris,,,22,,
+minoraverages/1958TSN,1957,Sooner State League,mcmullan,F20612,McMullan,,0,Paris,,,,,ss20
+minoraverages/1958TSN,1957,Sooner State League,melton,B02070,Melton,Gary,0,Ponca City,,,5,,
+minoraverages/1958TSN,1957,Sooner State League,melzer,B01086,Melzer,Jack,0,Lawton,,,19,,
+minoraverages/1958TSN,1957,Sooner State League,melzer,F22012,Melzer,,0,Lawton,,,,,p17
+minoraverages/1958TSN,1957,Sooner State League,melzer,P10432,Melzer,,0,Lawton,,,,17,p
+minoraverages/1958TSN,1957,Sooner State League,merrigan,B01093,Merrigan,Walter,0,Shawnee,,,62,,
+minoraverages/1958TSN,1957,Sooner State League,merrigan,F21130,Merrigan,,0,Shawnee,,,,,of10
+minoraverages/1958TSN,1957,Sooner State League,merrigan,F21718,Merrigan,,0,Shawnee,,,,,p30
+minoraverages/1958TSN,1957,Sooner State League,merrigan,P10441,Merrigan,,0,Shawnee,,,,30,p
+minoraverages/1958TSN,1957,Sooner State League,messino,B01108,Messino,Dean,0,Muskogee,,,29,,
+minoraverages/1958TSN,1957,Sooner State League,messino,F20832,Messino,,0,Muskogee,,,,,of10
+minoraverages/1958TSN,1957,Sooner State League,millon,B01119,Millon,William Jr.,0,Seminole,,,62,,
+minoraverages/1958TSN,1957,Sooner State League,millon,F20153,Millon,,0,Seminole,,,,,1b61
+minoraverages/1958TSN,1957,Sooner State League,minton,B01124,Minton,Fred,0,Paris,,,108,,
+minoraverages/1958TSN,1957,Sooner State League,minton,F20673,Minton,,0,Paris,,,,,of108
+minoraverages/1958TSN,1957,Sooner State League,minton,P10901,Minton,,0,Paris,,,,1,p
+minoraverages/1958TSN,1957,Sooner State League,mitchell-ard,B01135,Mitchell,Donald,0,Ardmore,,,17,,
+minoraverages/1958TSN,1957,Sooner State League,mitchell.j-gvl,B01143,Mitchell,Jack,0,Greenville,,,22,,
+minoraverages/1958TSN,1957,Sooner State League,mitchell.r-gvl,B01156,Mitchell,Richard,0,Greenville,,,125,,
+minoraverages/1958TSN,1957,Sooner State League,mitchell-par,B02008,Mitchell,William,0,Paris,,,7,,
+minoraverages/1958TSN,1957,Sooner State League,mitchell.r-gvl,F20287,Mitchell,D.,0,Greenville,,,,,2b125
+minoraverages/1958TSN,1957,Sooner State League,mitchell.j-gvl,F20620,Mitchell,J.,0,Greenville,,,,,of21
+minoraverages/1958TSN,1957,Sooner State League,mitchell-ard,F21442,Mitchell,D.,0,Ardmore,,,,,p17
+minoraverages/1958TSN,1957,Sooner State League,mitchell-ard,P10455,Mitchell,D.,0,Ardmore,,,,17,p
+minoraverages/1958TSN,1957,Sooner State League,mitchell-ard,P10917,Mitchell,O.,0,Paris,,,,7,p
+minoraverages/1958TSN,1957,Sooner State League,mobley,B01162,Mobley,Carlos,0,Greenville,,,124,,
+minoraverages/1958TSN,1957,Sooner State League,mobley,F20855,Mobley,,0,Greenville,,,,,of123
+minoraverages/1958TSN,1957,Sooner State League,morin,B01170,Morin,William,0,Ponca City,,,38,,
+minoraverages/1958TSN,1957,Sooner State League,morin,F20908,Morin,,0,Ponca City,,,,,of37
+minoraverages/1958TSN,1957,Sooner State League,motil,B01181,Motil,Robert,0,Shawnee,,,120,,
+minoraverages/1958TSN,1957,Sooner State League,motil,F20417,Motil,,0,Shawnee,,,,,3b100
+minoraverages/1958TSN,1957,Sooner State League,motil,F20594,Motil,,0,Shawnee,,,,,ss11
+minoraverages/1958TSN,1957,Sooner State League,mrowczynski,B02176,Mrowczynski,Louis,0,Seminole,,,4,,
+minoraverages/1958TSN,1957,Sooner State League,muffick,B01197,Muffick,Richard,0,Greenville,,,107,,
+minoraverages/1958TSN,1957,Sooner State League,muffick,F21241,Muffick,,0,Greenville,,,,,c106
+minoraverages/1958TSN,1957,Sooner State League,murgo,B01203,Murgo,Ludwig,0,Paris,,,103,,
+minoraverages/1958TSN,1957,Sooner State League,murgo,F20505,Murgo,,0,Paris,,,,,ss103
+minoraverages/1958TSN,1957,Sooner State League,narvaez,B01216,Narvaez,Arturo,1,Shawnee,,,8,,
+minoraverages/1958TSN,1957,Sooner State League,narvaez,B01216,Narvaez,Arturo,2,Ponca City,,,35,,
+minoraverages/1958TSN,1957,Sooner State League,narvaez,B01216,Narvaez,Arturo,T,,,,43,,
+minoraverages/1958TSN,1957,Sooner State League,narvaez,F20211,Narvaez,,1,Shawnee,,,,,2b
+minoraverages/1958TSN,1957,Sooner State League,narvaez,F20211,Narvaez,,2,Ponca City,,,,,2b
+minoraverages/1958TSN,1957,Sooner State League,narvaez,F20211,Narvaez,,T,,,,,,2b43
+minoraverages/1958TSN,1957,Sooner State League,niklas,B01227,Niklas,August,0,Ponca City,,,43,,
+minoraverages/1958TSN,1957,Sooner State League,niklas,F20430,Niklas,,0,Ponca City,,,,,3b33
+minoraverages/1958TSN,1957,Sooner State League,nuxhall,B01234,Nuxhall,Donald,0,Lawton,,,32,,
+minoraverages/1958TSN,1957,Sooner State League,nuxhall,F21680,Nuxhall,,0,Lawton,,,,,p16
+minoraverages/1958TSN,1957,Sooner State League,nuxhall,P10464,Nuxhall,,0,Lawton,,,,16,p
+minoraverages/1958TSN,1957,Sooner State League,olson,B01836,Olson,Norman,0,Ardmore,,,5,,
+minoraverages/1958TSN,1957,Sooner State League,palma,B01242,Palma,Jerry,0,Greenville,,,125,,
+minoraverages/1958TSN,1957,Sooner State League,palma,F20571,Palma,,0,Greenville,,,,,ss125
+minoraverages/1958TSN,1957,Sooner State League,pearson-mus,B01250,Pearson,Charles,0,Muskogee,,,21,,
+minoraverages/1958TSN,1957,Sooner State League,pearson-law,B01269,Pearson,George,0,Lawton,,,18,,
+minoraverages/1958TSN,1957,Sooner State League,pearson-mus,F21362,Pearson,C.,0,Muskogee,,,,,c14
+minoraverages/1958TSN,1957,Sooner State League,pearson-law,F22004,Pearson,D.,0,Lawton,,,,,p18
+minoraverages/1958TSN,1957,Sooner State League,pearson-law,P10478,Pearson,D.,0,Lawton,,,,18,p
+minoraverages/1958TSN,1957,Sooner State League,phelps,B01275,Phelps,Duane,0,Greenville,,,13,,
+minoraverages/1958TSN,1957,Sooner State League,phelps,P10486,Phelps,,0,Greenville,,,,9,p
+minoraverages/1958TSN,1957,Sooner State League,phillips,B01288,Phillips,Robert,0,Ponca City,,,35,,
+minoraverages/1958TSN,1957,Sooner State League,phillips,F21343,Phillips,,0,Ponca City,,,,,c19
+minoraverages/1958TSN,1957,Sooner State League,pruitt,B01291,Pruitt,Marvin,0,Ardmore,,,19,,
+minoraverages/1958TSN,1957,Sooner State League,pruitt,F21434,Pruitt,,0,Ardmore,,,,,p19
+minoraverages/1958TSN,1957,Sooner State League,pruitt,P10493,Pruitt,,0,Ardmore,,,,19,p
+minoraverages/1958TSN,1957,Sooner State League,quick,B01300,Quick,Charles,0,Ponca City,,,59,,
+minoraverages/1958TSN,1957,Sooner State League,quick,F20334,Quick,,0,Ponca City,,,,,2b27
+minoraverages/1958TSN,1957,Sooner State League,quick,F20425,Quick,,0,Ponca City,,,,,3b15
+minoraverages/1958TSN,1957,Sooner State League,quick,F20604,Quick,,0,Ponca City,,,,,ss21
+minoraverages/1958TSN,1957,Sooner State League,quick,P10974,Quick,,0,Ponca City,,,,1,p
+minoraverages/1958TSN,1957,Sooner State League,raupp,B01313,Raupp,Robert,0,Ponca City,,,11,,
+minoraverages/1958TSN,1957,Sooner State League,reed,B01321,Reed,Donald,0,Paris,,,17,,
+minoraverages/1958TSN,1957,Sooner State League,reed,F21822,Reed,,0,Paris,,,,,p17
+minoraverages/1958TSN,1957,Sooner State League,reed,P10503,Reed,,0,Paris,,,,17,p
+minoraverages/1958TSN,1957,Sooner State League,renfroe,B01337,Renfroe,Marshall,0,Greenville,,,12,,
+minoraverages/1958TSN,1957,Sooner State League,renfroe,F21475,Renfroe,,0,Greenville,,,,,p12
+minoraverages/1958TSN,1957,Sooner State League,renfroe,P10516,Renfroe,,0,Greenville,,,,12,p
+minoraverages/1958TSN,1957,Sooner State League,reynolds,B01345,Reynolds,Carl,0,Ponca City,,,75,,
+minoraverages/1958TSN,1957,Sooner State League,reynolds,F20051,Reynolds,,0,Ponca City,,,,,1b75
+minoraverages/1958TSN,1957,Sooner State League,rhodes,B02019,Rhodes,James L.,0,Paris,,,9,,
+minoraverages/1958TSN,1957,Sooner State League,rhodes,P10527,Rhodes,,0,Paris,,,,9,p
+minoraverages/1958TSN,1957,Sooner State League,richenburg,B01359,Richenburg,Larry,0,Ardmore,,,15,,
+minoraverages/1958TSN,1957,Sooner State League,richenburg,F21833,Richenburg,,0,Ardmore,,,,,p15
+minoraverages/1958TSN,1957,Sooner State League,richenburg,P10534,Richenburg,,0,Ardmore,,,,15,p
+minoraverages/1958TSN,1957,Sooner State League,riggs,B01848,Riggs,Larry,0,Ardmore,,,4,,
+minoraverages/1958TSN,1957,Sooner State League,riggs,P10751,Riggs,,0,Ardmore,,,,4,p
+minoraverages/1958TSN,1957,Sooner State League,roberts,B02024,Roberts,Alvin,0,Paris,,,3,,
+minoraverages/1958TSN,1957,Sooner State League,rollings,B01857,Rollings,Ronald,0,Ardmore,,,8,,
+minoraverages/1958TSN,1957,Sooner State League,ronan,B01368,Ronan,Robert,0,Muskogee,,,53,,
+minoraverages/1958TSN,1957,Sooner State League,ronan,F20102,Ronan,,0,Muskogee,,,,,1b52
+minoraverages/1958TSN,1957,Sooner State League,roy,B02081,Roy,Roger,0,Ponca City,,,8,,
+minoraverages/1958TSN,1957,Sooner State League,roy,P10982,Roy,,0,Ponca City,,,,8,p
+minoraverages/1958TSN,1957,Sooner State League,rozich,B01376,Rozich,William,0,Paris,,,79,,
+minoraverages/1958TSN,1957,Sooner State League,rozich,F20128,Rozich,,0,Paris,,,,,1b78
+minoraverages/1958TSN,1957,Sooner State League,russ,B01384,Russ,William,0,Paris,,,20,,
+minoraverages/1958TSN,1957,Sooner State League,russ,F21416,Russ,,0,Paris,,,,,p20
+minoraverages/1958TSN,1957,Sooner State League,russ,P10542,Russ,,0,Paris,,,,20,p
+minoraverages/1958TSN,1957,Sooner State League,ryba,M90047,Ryba,Dominic (Mike),,Ardmore,19570810,,,,
+minoraverages/emilbb,1957,Sooner State League,ryba,M92442,Ryba,Mike,,Ardmore,,,,,
+minoraverages/1958TSN,1957,Sooner State League,salerno,B01392,Salerno,Patrick,0,Shawnee,,,68,,
+minoraverages/1958TSN,1957,Sooner State League,salerno,F20657,Salerno,,0,Shawnee,,,,,of67
+minoraverages/1958TSN,1957,Sooner State League,scercy,B01402,Scercy,Leroy,0,Seminole,,,99,,
+minoraverages/1958TSN,1957,Sooner State League,scercy,F20023,Scercy,,0,Seminole,,,,,1b17
+minoraverages/1958TSN,1957,Sooner State League,scercy,F20792,Scercy,,0,Seminole,,,,,of81
+minoraverages/1958TSN,1957,Sooner State League,schatz,B01983,Schatz,Joe Jr.,0,Muskogee,,,1,,
+minoraverages/1958TSN,1957,Sooner State League,serrano,B01415,Serrano,Edward,0,Shawnee,,,123,,
+minoraverages/1958TSN,1957,Sooner State League,serrano,F20265,Serrano,,0,Shawnee,,,,,2b101
+minoraverages/1958TSN,1957,Sooner State League,serrano,F20810,Serrano,,0,Shawnee,,,,,of11
+minoraverages/1958TSN,1957,Sooner State League,serrano,M90071,Serrano,Edward,,Shawnee,,,,,
+minoraverages/1958TSN,1957,Sooner State League,serrano,P11095,Serrano,,0,Shawnee,,,,8,p
+minoraverages/emilbb,1957,Sooner State League,serrano,M92469,Serrano,Edward,,Shawnee,,,,,
+minoraverages/1958TSN,1957,Sooner State League,sewell,B02184,Sewell,Joseph Jr,0,Seminole,,,1,,
+minoraverages/1958TSN,1957,Sooner State League,sewell,P11046,Sewell,,0,Seminole,,,,1,p
+minoraverages/1958TSN,1957,Sooner State League,simpson-pc,B01428,Simpson,James,0,Ponca City,,,10,,
+minoraverages/1958TSN,1957,Sooner State League,simpson-par,B01431,Simpson,Richard,0,Paris,,,125,,
+minoraverages/1958TSN,1957,Sooner State League,simpson-par,F20391,Simpson,R.,0,Paris,,,,,3b125
+minoraverages/1958TSN,1957,Sooner State League,simpson-pc,F21515,Simpson,J.,0,Ponca City,,,,,p10
+minoraverages/1958TSN,1957,Sooner State League,simpson-pc,P10550,Simpson,J.,0,Ponca City,,,,10,p
+minoraverages/1958TSN,1957,Sooner State League,smith-ard,B01444,Smith,F. Lacoy,0,Ardmore,,,124,,
+minoraverages/1958TSN,1957,Sooner State League,smith-pc,B01453,Smith,Gary,0,Ponca City,,,66,,
+minoraverages/1958TSN,1957,Sooner State League,smith-pc,F20279,Smith,,0,Ponca City,,,,,2b17
+minoraverages/1958TSN,1957,Sooner State League,smith-pc,F20539,Smith,G.,0,Ponca City,,,,,ss49
+minoraverages/1958TSN,1957,Sooner State League,smith-ard,F20841,Smith,C.,0,Ardmore,,,,,of124
+minoraverages/1958TSN,1957,Sooner State League,smith-ard,P10767,Smith,,0,Ardmore,,,,4,p
+minoraverages/1958TSN,1957,Sooner State League,smithdeal,B01466,Smithdeal,Sidney,0,Seminole,,,95,,
+minoraverages/1958TSN,1957,Sooner State League,smithdeal,F20699,Smithdeal,,0,Seminole,,,,,of94
+minoraverages/1958TSN,1957,Sooner State League,solomon,B01477,Solomon,Jimmie,0,Ardmore,,,17,,
+minoraverages/1958TSN,1957,Sooner State League,solomon,F21726,Solomon,,0,Ardmore,,,,,p17
+minoraverages/1958TSN,1957,Sooner State League,solomon,P10569,Solomon,,0,Ardmore,,,,17,p
+minoraverages/1958TSN,1957,Sooner State League,sorenson,B01489,Sorenson,Craig,0,Ponca City,,,60,,
+minoraverages/1958TSN,1957,Sooner State League,sorenson,F21045,Sorenson,,0,Ponca City,,,,,of55
+minoraverages/1958TSN,1957,Sooner State League,stallings,B01490,Stallings,E. Wayne,0,Ponca City,,,37,,
+minoraverages/1958TSN,1957,Sooner State League,stallings,F21961,Stallings,,0,Ponca City,,,,,p37
+minoraverages/1958TSN,1957,Sooner State League,stallings,P10575,Stallings,,0,Ponca City,,,,37,p
+minoraverages/1958TSN,1957,Sooner State League,steinkoening,B01509,Steinkoenig,Dean,0,Ardmore,,,27,,
+minoraverages/1958TSN,1957,Sooner State League,steinkoening,F21278,Steinkoenig,,0,Ardmore,,,,,c24
+minoraverages/1958TSN,1957,Sooner State League,stoehr,B01514,Stoehr,Rudolph,0,Greenville,,,35,,
+minoraverages/1958TSN,1957,Sooner State League,stoehr,F21566,Stoehr,,0,Greenville,,,,,p29
+minoraverages/1958TSN,1957,Sooner State League,stoehr,P10588,Stoehr,,0,Greenville,,,,29,p
+minoraverages/1958TSN,1957,Sooner State League,strock,B01918,Strock,Raymond,0,Lawton,,,8,,
+minoraverages/1958TSN,1957,Sooner State League,strock,P10795,Strock,,0,Lawton,,,,8,p
+minoraverages/1958TSN,1957,Sooner State League,sutton,B01523,Sutton,Robert,0,Greenville,,,16,,
+minoraverages/1958TSN,1957,Sooner State League,sutton,F22036,Sutton,,0,Greenville,,,,,p16
+minoraverages/1958TSN,1957,Sooner State League,sutton,P10591,Sutton,,0,Greenville,,,,16,p
+minoraverages/1958TSN,1957,Sooner State League,swango,B01538,Swango,Bruce,0,Greenville,,,40,,
+minoraverages/1958TSN,1957,Sooner State League,swango,F21609,Swango,,0,Greenville,,,,,p22
+minoraverages/1958TSN,1957,Sooner State League,swango,P10606,Swango,,0,Greenville,,,,22,p
+minoraverages/1958TSN,1957,Sooner State League,tamayo,B01546,Tamayo,Mario,0,Muskogee,,,121,,
+minoraverages/1958TSN,1957,Sooner State League,tamayo,F20095,Tamayo,,0,Muskogee,,,,,1b63
+minoraverages/1958TSN,1957,Sooner State League,tamayo,F21076,Tamayo,,0,Muskogee,,,,,of55
+minoraverages/1958TSN,1957,Sooner State League,tarr,B01551,Tarr,Jack,0,Paris,,,37,,
+minoraverages/1958TSN,1957,Sooner State League,tarr,F21308,Tarr,,0,Paris,,,,,c19
+minoraverages/1958TSN,1957,Sooner State League,tashie,B01567,Tashie,George,0,Ponca City,,,33,,
+minoraverages/1958TSN,1957,Sooner State League,tashie,F21865,Tashie,,0,Ponca City,,,,,p33
+minoraverages/1958TSN,1957,Sooner State League,tashie,P10611,Tashie,,0,Ponca City,,,,33,p
+minoraverages/1958TSN,1957,Sooner State League,taylor,B01572,Taylor,Richard,0,Seminole,,,36,,
+minoraverages/1958TSN,1957,Sooner State League,taylor,F21760,Taylor,,0,Seminole,,,,,p35
+minoraverages/1958TSN,1957,Sooner State League,taylor,P10622,Taylor,,0,Seminole,,,,35,p
+minoraverages/1958TSN,1957,Sooner State League,teliszewski,B01580,Teliszewski,Bernard,0,Shawnee,,,12,,
+minoraverages/1958TSN,1957,Sooner State League,teliszewski,F20997,Teliszewski,,0,Shawnee,,,,,of12
+minoraverages/1958TSN,1957,Sooner State League,thompson,B01595,Thompson,Jack,0,Ponca City,,,41,,
+minoraverages/1958TSN,1957,Sooner State League,thompson,F21920,Thompson,,0,Ponca City,,,,,p32
+minoraverages/1958TSN,1957,Sooner State League,thompson,P10633,Thompson,,0,Ponca City,,,,32,p
+minoraverages/1958TSN,1957,Sooner State League,tiefenthaler,B01601,Tiefenthaler,Verle,0,Muskogee,,,35,,
+minoraverages/1958TSN,1957,Sooner State League,tiefenthaler,F21672,Tiefenthaler,,0,Muskogee,,,,,p34
+minoraverages/1958TSN,1957,Sooner State League,tiefenthaler,P10640,Tiefenthaler,,0,Muskogee,,,,34,p
+minoraverages/1958TSN,1957,Sooner State League,tucker,B01617,Tucker,Jimmy,0,Muskogee,,,30,,
+minoraverages/1958TSN,1957,Sooner State League,tucker,F21381,Tucker,,0,Muskogee,,,,,p30
+minoraverages/1958TSN,1957,Sooner State League,tucker,P10654,Tucker,,0,Muskogee,,,,30,p
+minoraverages/1958TSN,1957,Sooner State League,tyndall,B01625,Tyndall,Dickie,0,Muskogee,,,35,,
+minoraverages/1958TSN,1957,Sooner State League,tyndall,F21531,Tyndall,,0,Muskogee,,,,,p22
+minoraverages/1958TSN,1957,Sooner State League,tyndall,P10665,Tyndall,,0,Muskogee,,,,22,p
+minoraverages/1958TSN,1957,Sooner State League,vanasse,B02035,Vanasse,Robert,0,Paris,,,3,,
+minoraverages/1958TSN,1957,Sooner State League,vanasse,P10925,Vanasse,,0,Paris,,,,3,p
+minoraverages/1958TSN,1957,Sooner State League,vogel,B01630,Vogel,Richard,0,Muskogee,,,28,,
+minoraverages/1958TSN,1957,Sooner State League,vogel,F21450,Vogel,,0,Muskogee,,,,,p16
+minoraverages/1958TSN,1957,Sooner State League,vogel,P10679,Vogel,,0,Muskogee,,,,16,p
+minoraverages/1958TSN,1957,Sooner State League,wagner,B01649,Wagner,James,0,Ardmore,,,125,,
+minoraverages/1958TSN,1957,Sooner State League,wagner,F20316,Wagner,,0,Ardmore,,,,,2b55
+minoraverages/1958TSN,1957,Sooner State League,wagner,F20962,Wagner,,0,Ardmore,,,,,of67
+minoraverages/1958TSN,1957,Sooner State League,wales,B01658,Wales,Robert,0,Muskogee,,,32,,
+minoraverages/1958TSN,1957,Sooner State League,wales,F21705,Wales,,0,Muskogee,,,,,p32
+minoraverages/1958TSN,1957,Sooner State League,wales,P10687,Wales,,0,Muskogee,,,,32,p
+minoraverages/1958TSN,1957,Sooner State League,ward-gvl,B01663,Ward,Jay,0,Greenville,,,125,,
+minoraverages/1958TSN,1957,Sooner State League,ward-ard,B01861,Ward,Neal,0,Ardmore,,,4,,
+minoraverages/1958TSN,1957,Sooner State League,ward-pc,B02097,Ward,Donald,0,Ponca City,,,4,,
+minoraverages/1958TSN,1957,Sooner State League,ward-gvl,F20388,Ward,J.,0,Greenville,,,,,3b125
+minoraverages/1958TSN,1957,Sooner State League,ward-ard,P10772,Ward,,0,Ardmore,,,,4,p
+minoraverages/1958TSN,1957,Sooner State League,weekly,B01674,Weekly,Johnny,0,Muskogee,,,122,,
+minoraverages/1958TSN,1957,Sooner State League,weekly,F20776,Weekly,,0,Muskogee,,,,,of122
+minoraverages/1958TSN,1957,Sooner State League,whetzel,B01682,Whetzel,Harold,0,Shawnee,,,27,,
+minoraverages/1958TSN,1957,Sooner State League,whetzel,F21936,Whetzel,,0,Shawnee,,,,,p26
+minoraverages/1958TSN,1957,Sooner State League,whetzel,P10698,Whetzel,,0,Shawnee,,,,26,p
+minoraverages/1958TSN,1957,Sooner State League,whitekiller,B01696,Whitekiller,Robert,0,Ardmore,,,10,,
+minoraverages/1958TSN,1957,Sooner State League,whitworth,B01706,Whitworth,Robert,0,Seminole,,,46,,
+minoraverages/1958TSN,1957,Sooner State League,whitworth,F21232,Whitworth,,0,Seminole,,,,,c42
+minoraverages/1958TSN,1957,Sooner State League,williams-pc,B01711,Williams,Billy,0,Ponca City,,,126,,
+minoraverages/1958TSN,1957,Sooner State League,williams.d-sha,B01722,Williams,Donald,0,Shawnee,,,121,,
+minoraverages/1958TSN,1957,Sooner State League,williams.w-sha,B01733,Williams,William,0,Shawnee,,,29,,
+minoraverages/1958TSN,1957,Sooner State League,williams-law,B01740,Williams,Wofford,0,Lawton,,,26,,
+minoraverages/1958TSN,1957,Sooner State League,williams.d-sha,F20560,Williams,D.,0,Shawnee,,,,,ss112
+minoraverages/1958TSN,1957,Sooner State League,williams-pc,F21037,Williams,B,0,Ponca City,,,,,of126
+minoraverages/1958TSN,1957,Sooner State League,williams-law,F21488,Williams,Wo.,0,Lawton,,,,,p11
+minoraverages/1958TSN,1957,Sooner State League,williams.w-sha,F21590,Williams,Wm.,0,Shawnee,,,,,p29
+minoraverages/1958TSN,1957,Sooner State League,williams.w-sha,P10709,Williams,Wm.,0,Shawnee,,,,29,p
+minoraverages/1958TSN,1957,Sooner State League,williams-law,P10714,Williams,Wo.,0,Lawton,,,,11,p
+minoraverages/1958TSN,1957,Sooner State League,williamson,B01754,Williamson,Herman,0,Muskogee,,,126,,
+minoraverages/1958TSN,1957,Sooner State League,williamson,F20970,Williamson,,0,Muskogee,,,,,of126
+minoraverages/1958TSN,1957,Sooner State League,williamson,P10871,Williamson,,0,Muskogee,,,,1,p
+minoraverages/1958TSN,1957,Sooner State League,wilson,B01765,Wilson,Neil,0,Muskogee,,,116,,
+minoraverages/1958TSN,1957,Sooner State League,wilson,F21174,Wilson,,0,Muskogee,,,,,c108
+minoraverages/1958TSN,1957,Sooner State League,wright,B01779,Wright,R. Wesley,0,Greenville,,,17,,
+minoraverages/1958TSN,1957,Sooner State League,wright,F21985,Wright,,0,Greenville,,,,,p16
+minoraverages/1958TSN,1957,Sooner State League,wright,P10723,Wright,,0,Greenville,,,,16,p
+minoraverages/1958TSN,1957,Sooner State League,yaeger,B01787,Yaeger,Joseph,0,Lawton,,,16,,
+minoraverages/1958TSN,1957,Sooner State League,yaeger,F21125,Yaeger,,0,Lawton,,,,,of11
+minoraverages/1958TSN,1957,Sooner State League,yeomans,B01798,Yeomans,Ainsworth,0,Muskogee,,,125,,
+minoraverages/1958TSN,1957,Sooner State League,yeomans,F20547,Yeomans,,0,Muskogee,,,,,ss125
+minoraverages/1958TSN,1957,Sooner State League,zander,B01804,Zander,Ronald,0,Paris,,,18,,
+minoraverages/1958TSN,1957,Sooner State League,zander,F21158,Zander,,0,Paris,,,,,of17
+minoraverages/1958TSN,1957,Sooner State League,zipfel,B01812,Zipfel,Marion,0,Greenville,,,116,,
+minoraverages/1958TSN,1957,Sooner State League,zipfel,F20893,Zipfel,,0,Greenville,,,,,of116
