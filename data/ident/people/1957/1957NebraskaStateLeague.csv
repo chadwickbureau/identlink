@@ -1,9 +1,566 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1957,Nebraska State League,,M92293,Baker,Charles Ray,,Superior,,,,,
-minoraverages/emilbb,1957,Nebraska State League,,M92264,Gumpert,Randy,,Kearney,,,,,
-minoraverages/emilbb,1957,Nebraska State League,,M92255,Kaiser,Jack,,Lexington,,,,,
-minoraverages/emilbb,1957,Nebraska State League,,M92232,Mazmanian,Art,,Grand Island,,,,,
-minoraverages/emilbb,1957,Nebraska State League,,M92241,Parenti,Frank,,Holdrege,,,,,
-minoraverages/emilbb,1957,Nebraska State League,,M92278,Schrall,Leo,,Hastings,,,,,
-minoraverages/emilbb,1957,Nebraska State League,,M92286,Steinecke,Bill,,McCook,,,,,
-minoraverages/emilbb,1957,Nebraska State League,,M92308,York,Rudy,,North Platte,,,,,
+minoraverages/1958TSN,1957,Nebraska State League,aceto,B00013,Aceto,Roger,0,Grand Island,,,39,,
+minoraverages/1958TSN,1957,Nebraska State League,aceto,F20737,Aceto,,0,Grand Island,,,,,of35
+minoraverages/1958TSN,1957,Nebraska State League,acosta,B02503,Acosta,Jesus,0,Superior,,,1,,
+minoraverages/1958TSN,1957,Nebraska State League,acosta,P11102,Acosta,,0,Superior,,,,1,p
+minoraverages/1958TSN,1957,Nebraska State League,anderson.r,B00021,Anderson,Ronald,0,Lexington,,,15,,
+minoraverages/1958TSN,1957,Nebraska State League,anderson.h,B00037,Anderson,Harley,0,Lexington,,,29,,
+minoraverages/1958TSN,1957,Nebraska State League,anderson.h,F20685,Anderson,,0,Lexington,,,,,ss29
+minoraverages/1958TSN,1957,Nebraska State League,anderson.r,F21488,Anderson,,0,Lexington,,,,,p15
+minoraverages/1958TSN,1957,Nebraska State League,anderson.r,P10019,Anderson,,0,Lexington,,,,15,p
+minoraverages/1958TSN,1957,Nebraska State League,andrews,B02024,Andrews,Gerald,0,Holdrege,,,1,,
+minoraverages/1958TSN,1957,Nebraska State League,andrews,P10738,Andrews,,0,Holdrege,,,,2,p
+minoraverages/1958TSN,1957,Nebraska State League,aparo,B02441,Aparo,Sebastian,0,North Platte,,,9,,
+minoraverages/1958TSN,1957,Nebraska State League,aparo,P10024,Aparo,,0,North Platte,,,,9,p
+minoraverages/1958TSN,1957,Nebraska State League,applegate,B02516,Applegate,Frank,0,Superior,,,3,,
+minoraverages/1958TSN,1957,Nebraska State League,ashby,B00045,Ashby,Solomon,0,Holdrege,,,20,,
+minoraverages/1958TSN,1957,Nebraska State League,ashby,P10746,Ashby,,0,Holdrege,,,,9,p
+minoraverages/1958TSN,1957,Nebraska State League,auleta,B02168,Auleta,Kent,0,Kearney,,,1,,
+minoraverages/1958TSN,1957,Nebraska State League,auleta,P10847,Auleta,,0,Kearney,,,,1,p
+minoraverages/1958TSN,1957,Nebraska State League,bain,B02176,Bain,Benny,0,Kearney,,,7,,
+minoraverages/1958TSN,1957,Nebraska State League,bain,P10852,Bain,,0,Kearney,,,,7,p
+minoraverages/1958TSN,1957,Nebraska State League,baker,M90071,Baker,C. Ray,,Superior,,,,,
+minoraverages/emilbb,1957,Nebraska State League,baker,M92293,Baker,Charles Ray,,Superior,,,,,
+minoraverages/1958TSN,1957,Nebraska State League,balkwell,B00059,Balkwell,James,0,Grand Island,,,50,,
+minoraverages/1958TSN,1957,Nebraska State League,balkwell,F20518,Balkwell,,0,Grand Island,,,,,3b45
+minoraverages/1958TSN,1957,Nebraska State League,ballard,B02184,Ballard,Dennis,0,Kearney,,,2,,
+minoraverages/1958TSN,1957,Nebraska State League,ballard,P10860,Ballard,,0,Kearney,,,,2,p
+minoraverages/1958TSN,1957,Nebraska State League,ballou,B02192,Ballou,Laurance,0,Kearney,,,3,,
+minoraverages/1958TSN,1957,Nebraska State League,ballou,P10871,Ballou,,0,Kearney,,,,2,p
+minoraverages/1958TSN,1957,Nebraska State League,banks,B00068,Banks,George,0,Kearney,,,42,,
+minoraverages/1958TSN,1957,Nebraska State League,banks,F20233,Banks,,0,Kearney,,,,,2b21
+minoraverages/1958TSN,1957,Nebraska State League,banks,F20458,Banks,,0,Kearney,,,,,3b15
+minoraverages/1958TSN,1957,Nebraska State League,barbee,B00076,Barbee,James L.,0,Superior,,,29,,
+minoraverages/1958TSN,1957,Nebraska State League,barbee,F21475,Barbee,,0,Superior,,,,,p14
+minoraverages/1958TSN,1957,Nebraska State League,barbee,P10035,Barbee,,0,Superior,,,,14,p
+minoraverages/1958TSN,1957,Nebraska State League,barboza,B00084,Barboza,Raymond,0,Grand Island,,,39,,
+minoraverages/1958TSN,1957,Nebraska State League,barboza,F21076,Barboza,,0,Grand Island,,,,,of31
+minoraverages/1958TSN,1957,Nebraska State League,barnett,B00092,Barnett,Russell,0,Superior,,,12,,
+minoraverages/1958TSN,1957,Nebraska State League,barnett,F21680,Barnett,,0,Superior,,,,,p12
+minoraverages/1958TSN,1957,Nebraska State League,barnett,P11115,Barnett,,0,Superior,,,,12,p
+minoraverages/1958TSN,1957,Nebraska State League,barnette,B02527,Barnette,George,0,Superior,,,6,,
+minoraverages/1958TSN,1957,Nebraska State League,barnette,P11128,Barnette,,0,Superior,,,,6,p
+minoraverages/1958TSN,1957,Nebraska State League,basse,B02035,Basse,Hugh,0,Holdrege,,,3,,
+minoraverages/1958TSN,1957,Nebraska State League,basse,P10751,Basse,,0,Holdrege,,,,3,p
+minoraverages/1958TSN,1957,Nebraska State League,baxter,B02043,Baxter,William,0,Holdrege,,,6,,
+minoraverages/1958TSN,1957,Nebraska State League,baxter,P10767,Baxter,,0,Holdrege,,,,6,p
+minoraverages/1958TSN,1957,Nebraska State League,beck,B00101,Beck,Frederick,0,Superior,,,19,,
+minoraverages/1958TSN,1957,Nebraska State League,beck,F20166,Beck,,0,Superior,,,,,2b15
+minoraverages/1958TSN,1957,Nebraska State League,beerbower,B01804,Beerbower,Dale,0,Hastings,,,4,,
+minoraverages/1958TSN,1957,Nebraska State League,beerbower,P10633,Beerbower,,0,Hastings,,,,4,p
+minoraverages/1958TSN,1957,Nebraska State League,belden,B00117,Belden,George,0,Grand Island,,,16,,
+minoraverages/1958TSN,1957,Nebraska State League,belden,F21308,Belden,,0,Grand Island,,,,,p14
+minoraverages/1958TSN,1957,Nebraska State League,belden,P10043,Belden,,0,Grand Island,,,,14,p
+minoraverages/1958TSN,1957,Nebraska State League,bennett,B00125,Bennett,Charles,0,Holdrege,,,55,,
+minoraverages/1958TSN,1957,Nebraska State League,bennett,F21045,Bennett,,0,Holdrege,,,,,of55
+minoraverages/1958TSN,1957,Nebraska State League,bertram,B02290,Bertram,Donald,0,Lexington,,,5,,
+minoraverages/1958TSN,1957,Nebraska State League,biles,B00130,Biles,Leonard,0,Kearney,,,10,,
+minoraverages/1958TSN,1957,Nebraska State League,biles,F21491,Biles,,0,Kearney,,,,,p10
+minoraverages/1958TSN,1957,Nebraska State League,biles,P10056,Biles,,0,Kearney,,,,10,p
+minoraverages/1958TSN,1957,Nebraska State League,blattner,B00149,Blattner,John,0,Lexington,,,28,,
+minoraverages/1958TSN,1957,Nebraska State League,blattner,F20713,Blattner,,0,Lexington,,,,,of24
+minoraverages/1958TSN,1957,Nebraska State League,bond,B00158,Bond,Lenis,0,Superior,,,18,,
+minoraverages/1958TSN,1957,Nebraska State League,bond,F20526,Bond,,0,Superior,,,,,3b13
+minoraverages/1958TSN,1957,Nebraska State League,bonomini,B00163,Bonomini,Donald,0,Holdrege,,,55,,
+minoraverages/1958TSN,1957,Nebraska State League,bonomini,F20768,Bonomini,,0,Holdrege,,,,,of55
+minoraverages/1958TSN,1957,Nebraska State League,botto,B00174,Botto,Robert,0,North Platte,,,24,,
+minoraverages/1958TSN,1957,Nebraska State League,botto,F21718,Botto,,0,North Platte,,,,,p22
+minoraverages/1958TSN,1957,Nebraska State League,botto,P10062,Botto,,0,North Platte,,,,22,p
+minoraverages/1958TSN,1957,Nebraska State League,boulware,B02202,Boulware,Wallace,0,Kearney,,,4,,
+minoraverages/1958TSN,1957,Nebraska State League,boyd,B00182,Boyd,Robert,0,Superior,,,56,,
+minoraverages/1958TSN,1957,Nebraska State League,boyd,F20864,Boyd,,0,Superior,,,,,of56
+minoraverages/1958TSN,1957,Nebraska State League,brannon,B01812,Brannon,Joseph,0,Hastings,,,1,,
+minoraverages/1958TSN,1957,Nebraska State League,brannon,P10640,Brannon,,0,Hastings,,,,1,p
+minoraverages/1958TSN,1957,Nebraska State League,bravo,B02534,Bravo,Danilo,0,Superior,,,5,,
+minoraverages/1958TSN,1957,Nebraska State League,bretsel,B02056,Bretsel,,0,Holdrege,,,1,,
+minoraverages/1958TSN,1957,Nebraska State League,bretsel,P10772,Bretsel,,0,Holdrege,,,,1,p
+minoraverages/1958TSN,1957,Nebraska State League,brideweser,B02455,Brideweser,John,0,North Platte,,,5,,
+minoraverages/1958TSN,1957,Nebraska State League,brotz,B00196,Brotz,Gary,0,Hastings,,,14,,
+minoraverages/1958TSN,1957,Nebraska State League,brown,B02304,Brown,Peter,0,Lexington,,,2,,
+minoraverages/1958TSN,1957,Nebraska State League,brown,P10930,Brown,,0,Lexington,,,,2,p
+minoraverages/1958TSN,1957,Nebraska State League,buhite,B01820,Buhite,Russell,0,Hastings,,,4,,
+minoraverages/1958TSN,1957,Nebraska State League,burgess,B02215,Burgess,William,0,Kearney,,,8,,
+minoraverages/1958TSN,1957,Nebraska State League,burke,B00207,Burke,Robert,0,North Platte,,,50,,
+minoraverages/1958TSN,1957,Nebraska State League,burke,F21207,Burke,,0,North Platte,,,,,c43
+minoraverages/1958TSN,1957,Nebraska State League,caldwell,B00210,Caldwell,William,0,North Platte,,,52,,
+minoraverages/1958TSN,1957,Nebraska State League,caldwell,F20190,Caldwell,,0,North Platte,,,,,2b50
+minoraverages/1958TSN,1957,Nebraska State League,campo,B00229,Campo,Milton,0,Kearney,,,55,,
+minoraverages/1958TSN,1957,Nebraska State League,campo,F20115,Campo,,0,Kearney,,,,,1b55
+minoraverages/1958TSN,1957,Nebraska State League,canberg,B01836,Canberg,Robert,0,Hastings,,,1,,
+minoraverages/1958TSN,1957,Nebraska State League,card,B00232,Card,James,0,North Platte,,,55,,
+minoraverages/1958TSN,1957,Nebraska State League,card,F20474,Card,,0,North Platte,,,,,3b21
+minoraverages/1958TSN,1957,Nebraska State League,card,F20673,Card,,0,North Platte,,,,,ss35
+minoraverages/1958TSN,1957,Nebraska State League,carlsen,B00241,Carlsen,Raymond,0,McCook,,,45,,
+minoraverages/1958TSN,1957,Nebraska State League,carlsen,F20425,Carlsen,,0,McCook,,,,,3b29
+minoraverages/1958TSN,1957,Nebraska State League,carlsen,P11009,Carlsen,,0,McCook,,,,4,p
+minoraverages/1958TSN,1957,Nebraska State League,chaney,B00255,Chaney,Roger,0,Kearney,,,56,,
+minoraverages/1958TSN,1957,Nebraska State League,chaney,F20829,Chaney,,0,Kearney,,,,,of56
+minoraverages/1958TSN,1957,Nebraska State League,charron,B00264,Charron,David,0,Lexington,,,41,,
+minoraverages/1958TSN,1957,Nebraska State League,charron,F21149,Charron,,0,Lexington,,,,,c37
+minoraverages/1958TSN,1957,Nebraska State League,christopher,B00278,Christopher,Anthony,0,Holdrege,,,54,,
+minoraverages/1958TSN,1957,Nebraska State League,christopher,F20316,Christopher,,0,Holdrege,,,,,2b35
+minoraverages/1958TSN,1957,Nebraska State League,clayton,B00286,Clayton,Douglas,0,McCook,,,56,,
+minoraverages/1958TSN,1957,Nebraska State League,clayton,F20222,Clayton,,0,McCook,,,,,2b14
+minoraverages/1958TSN,1957,Nebraska State League,clayton,F20401,Clayton,,0,McCook,,,,,3b22
+minoraverages/1958TSN,1957,Nebraska State League,clayton,F20552,Clayton,,0,McCook,,,,,ss26
+minoraverages/1958TSN,1957,Nebraska State League,clift,B02312,Clift,Harland,0,Lexington,,,7,,
+minoraverages/1958TSN,1957,Nebraska State League,clift,P10949,Clift,,0,Lexington,,,,7,p
+minoraverages/1958TSN,1957,Nebraska State League,clone,B01658,Clone,Vincent,0,Grand Island,,,4,,
+minoraverages/1958TSN,1957,Nebraska State League,corley,B00293,Corley,Pearce,0,Superior,,,17,,
+minoraverages/1958TSN,1957,Nebraska State League,corley,F21502,Corley,,0,Superior,,,,,p17
+minoraverages/1958TSN,1957,Nebraska State League,corley,P10070,Corley,,0,Superior,,,,17,p
+minoraverages/1958TSN,1957,Nebraska State League,cormack,B00308,Cormack,Dennis,0,North Platte,,,28,,
+minoraverages/1958TSN,1957,Nebraska State League,cormack,F20131,Cormack,,0,North Platte,,,,,1b27
+minoraverages/1958TSN,1957,Nebraska State League,coughtry,B00319,Coughtry,Wayne,0,Lexington,,,19,,
+minoraverages/1958TSN,1957,Nebraska State League,coughtry,F21381,Coughtry,,0,Lexington,,,,,p19
+minoraverages/1958TSN,1957,Nebraska State League,coughtry,P10081,Coughtry,,0,Lexington,,,,19,p
+minoraverages/1958TSN,1957,Nebraska State League,coulter,B01663,Coulter,Joseph,0,Grand Island,,,3,,
+minoraverages/1958TSN,1957,Nebraska State League,council-has,B00324,Council,Claybon,0,Hastings,,,41,,
+minoraverages/1958TSN,1957,Nebraska State League,council-hol,B02062,Council,Emerson,0,Holdrege,,,4,,
+minoraverages/1958TSN,1957,Nebraska State League,council-has,F20375,Council,,0,Hastings,,,,,3b11
+minoraverages/1958TSN,1957,Nebraska State League,council-has,F21092,Council,,0,Hastings,,,,,c26
+minoraverages/1958TSN,1957,Nebraska State League,cox,B02542,Cox,Benjamin,0,Superior,,,8,,
+minoraverages/1958TSN,1957,Nebraska State League,creed,B00335,Creed,Jackie,0,Lexington,,,52,,
+minoraverages/1958TSN,1957,Nebraska State League,creed,F20935,Creed,,0,Lexington,,,,,of52
+minoraverages/1958TSN,1957,Nebraska State League,cregan,B00343,Cregan,John,0,Hastings,,,13,,
+minoraverages/1958TSN,1957,Nebraska State League,cregan,F21229,Cregan,,0,Hastings,,,,,p13
+minoraverages/1958TSN,1957,Nebraska State League,cregan,P10097,Cregan,,0,Hastings,,,,13,p
+minoraverages/1958TSN,1957,Nebraska State League,cunningham,B00356,Cunningham,Michael,0,Lexington,,,10,,
+minoraverages/1958TSN,1957,Nebraska State League,cunningham,F21255,Cunningham,,0,Lexington,,,,,p10
+minoraverages/1958TSN,1957,Nebraska State League,cunningham,P10100,Cunningham,,0,Lexington,,,,10,p
+minoraverages/1958TSN,1957,Nebraska State League,davis-np,B00362,Davis,Wilton,0,North Platte,,,19,,
+minoraverages/1958TSN,1957,Nebraska State League,davis-has,B01848,Davis,James,0,Hastings,,,5,,
+minoraverages/1958TSN,1957,Nebraska State League,davis-np,F21264,Davis,,0,North Platte,,,,,p18
+minoraverages/1958TSN,1957,Nebraska State League,davis-np,P10113,Davis,,0,North Platte,,,,18,p
+minoraverages/1958TSN,1957,Nebraska State League,davis-has,P10654,Davis,,0,Hastings,,,,4,p
+minoraverages/1958TSN,1957,Nebraska State League,dawson,B00370,Dawson,Gerald,0,McCook,,,50,,
+minoraverages/1958TSN,1957,Nebraska State League,dawson,F20014,Dawson,,0,McCook,,,,,1b20
+minoraverages/1958TSN,1957,Nebraska State League,dawson,F20745,Dawson,,0,McCook,,,,,of29
+minoraverages/1958TSN,1957,Nebraska State League,day,B02320,Day,Raymond,0,Lexington,,,4,,
+minoraverages/1958TSN,1957,Nebraska State League,day,P10958,Day,,0,Lexington,,,,4,p
+minoraverages/1958TSN,1957,Nebraska State League,degennaro,B00381,DeGennaro,Anthony,0,Grand Island,,,52,,
+minoraverages/1958TSN,1957,Nebraska State League,degennaro,F21174,DeGennaro,,0,Grand Island,,,,,c48
+minoraverages/1958TSN,1957,Nebraska State League,dembia,B00397,Dembia,Thomas,0,Grand Island,,,11,,
+minoraverages/1958TSN,1957,Nebraska State League,dembia,F21646,Dembia,,0,Grand Island,,,,,p11
+minoraverages/1958TSN,1957,Nebraska State League,dembia,P10121,Dembia,,0,Grand Island,,,,11,p
+minoraverages/1958TSN,1957,Nebraska State League,didomenico,B00403,DiDomenico,Joseph,0,Kearney,,,34,,
+minoraverages/1958TSN,1957,Nebraska State League,didomenico,F21059,DiDomenico,,0,Kearney,,,,,of31
+minoraverages/1958TSN,1957,Nebraska State League,diaz,B01674,Diaz,Eduardo,0,Grand Island,,,3,,
+minoraverages/1958TSN,1957,Nebraska State League,donovan,B01682,Donovan,David,0,Grand Island,,,4,,
+minoraverages/1958TSN,1957,Nebraska State League,donovan,P10575,Donovan,,0,Grand Island,,,,4,p
+minoraverages/1958TSN,1957,Nebraska State League,dunham,B00416,Dunham,Homer L.,0,Kearney,,,41,,
+minoraverages/1958TSN,1957,Nebraska State League,dunham,F20449,Dunham,,0,Kearney,,,,,3b34
+minoraverages/1958TSN,1957,Nebraska State League,dvenson,B01994,Dvenson,Donald,0,Hastings,,,8,,
+minoraverages/1958TSN,1957,Nebraska State League,eberly,B00427,Eberly,Merl,0,Holdrege,,,43,,
+minoraverages/1958TSN,1957,Nebraska State League,eberly,F21130,Eberly,,0,Holdrege,,,,,c40
+minoraverages/1958TSN,1957,Nebraska State League,eltzholtz,B01696,Eltzholtz,Edward,0,Grand Island,,,9,,
+minoraverages/1958TSN,1957,Nebraska State League,emanuele,B02550,Emanuele,Raymond,0,Superior,,,6,,
+minoraverages/1958TSN,1957,Nebraska State League,emanuele,P11131,Emanuele,,0,Superior,,,,5,p
+minoraverages/1958TSN,1957,Nebraska State League,erickson,B02228,Erickson,Paul,0,Kearney,,,9,,
+minoraverages/1958TSN,1957,Nebraska State League,erickson,P10137,Erickson,,0,Kearney,,,,8,p
+minoraverages/1958TSN,1957,Nebraska State League,farrar,B00434,Farrar,Roger,0,McCook,,,48,,
+minoraverages/1958TSN,1957,Nebraska State League,farrar,F20327,Farrar,,0,McCook,,,,,2b21
+minoraverages/1958TSN,1957,Nebraska State League,farrar,F20463,Farrar,,0,McCook,,,,,3b14
+minoraverages/1958TSN,1957,Nebraska State League,fergunson,B00442,Fergunson,Leonardo,0,Kearney,,,19,,
+minoraverages/1958TSN,1957,Nebraska State League,fergunson,F21324,Fergunson,,0,Kearney,,,,,p15
+minoraverages/1958TSN,1957,Nebraska State League,fergunson,P10145,Fergunson,,0,Kearney,,,,15,p
+minoraverages/1958TSN,1957,Nebraska State League,fischer,B00450,Fischer,Russell,0,North Platte,,,22,,
+minoraverages/1958TSN,1957,Nebraska State League,fischer,F21553,Fischer,,0,North Platte,,,,,p22
+minoraverages/1958TSN,1957,Nebraska State League,fischer,P10159,Fischer,,0,North Platte,,,,22,p
+minoraverages/1958TSN,1957,Nebraska State League,fisher-mcc,B00469,Fisher,Peter,0,McCook,,,23,,
+minoraverages/1958TSN,1957,Nebraska State League,fisher-lex,B02336,Fisher,Joseph,0,Lexington,,,4,,
+minoraverages/1958TSN,1957,Nebraska State League,fisher-mcc,F21241,Fisher,,0,McCook,,,,,p21
+minoraverages/1958TSN,1957,Nebraska State League,fisher-mcc,P10168,Fisher,,0,McCook,,,,21,p
+minoraverages/1958TSN,1957,Nebraska State League,fleer,B00475,Fleer,Robert,0,McCook,,,30,,
+minoraverages/1958TSN,1957,Nebraska State League,fleer,F20612,Fleer,,0,McCook,,,,,ss29
+minoraverages/1958TSN,1957,Nebraska State League,floberg,B01706,Floberg,Richard,0,Grand Island,,,7,,
+minoraverages/1958TSN,1957,Nebraska State League,floberg,P10588,Floberg,,0,Grand Island,,,,7,p
+minoraverages/1958TSN,1957,Nebraska State League,fordham,B00488,Fordham,Earl,0,Holdrege,,,14,,
+minoraverages/1958TSN,1957,Nebraska State League,fordham,F21397,Fordham,,0,Holdrege,,,,,p14
+minoraverages/1958TSN,1957,Nebraska State League,fordham,P10176,Fordham,,0,Holdrege,,,,14,p
+minoraverages/1958TSN,1957,Nebraska State League,frencl,B02070,Frencl,William,0,Holdrege,,,1,,
+minoraverages/1958TSN,1957,Nebraska State League,frencl,P10780,Frencl,,0,Holdrege,,,,1,p
+minoraverages/1958TSN,1957,Nebraska State League,frioni,B02399,Frioni,Alfonso,0,McCook,,,8,,
+minoraverages/1958TSN,1957,Nebraska State League,frioni,P10184,Frioni,,0,McCook,,,,8,p
+minoraverages/1958TSN,1957,Nebraska State League,fuller,B01711,Fuller,Milo,0,Grand Island,,,6,,
+minoraverages/1958TSN,1957,Nebraska State League,ganes,B00491,Ganes,Donald,0,Lexington,,,14,,
+minoraverages/1958TSN,1957,Nebraska State League,ganes,P10192,Ganes,,0,Lexington,,,,7,p
+minoraverages/1958TSN,1957,Nebraska State League,gang,B00502,Gang,Barry,0,Hastings,,,15,,
+minoraverages/1958TSN,1957,Nebraska State League,gang,F20177,Gang,,0,Hastings,,,,,2b10
+minoraverages/1958TSN,1957,Nebraska State League,gery,B00515,Gery,Clayton,0,Hastings,,,13,,
+minoraverages/1958TSN,1957,Nebraska State League,gery,F21638,Gery,,0,Hastings,,,,,p13
+minoraverages/1958TSN,1957,Nebraska State League,gery,P10202,Gery,,0,Hastings,,,,13,p
+minoraverages/1958TSN,1957,Nebraska State League,geyer,B01857,Geyer,Alfred,0,Hastings,,,1,,
+minoraverages/1958TSN,1957,Nebraska State League,goddard,B00528,Goddard,Donald,0,Superior,,,36,,
+minoraverages/1958TSN,1957,Nebraska State League,goddard,F20391,Goddard,,0,Superior,,,,,3b36
+minoraverages/1958TSN,1957,Nebraska State League,golick,B00531,Golick,Robert,0,Grand Island,,,13,,
+minoraverages/1958TSN,1957,Nebraska State League,golick,F21726,Golick,,0,Grand Island,,,,,p13
+minoraverages/1958TSN,1957,Nebraska State League,golick,P10231,Golick,,0,Grand Island,,,,13,p
+minoraverages/1958TSN,1957,Nebraska State League,granowski,B01861,Granowski,Joseph,0,Hastings,,,9,,
+minoraverages/1958TSN,1957,Nebraska State League,grant,B01873,Grant,Gary,0,Hastings,,,2,,
+minoraverages/1958TSN,1957,Nebraska State League,grant,P10665,Grant,,0,Hastings,,,,2,p
+minoraverages/1958TSN,1957,Nebraska State League,grigsby,B01885,Grigsby,Aubrey,0,Hastings,,,6,,
+minoraverages/1958TSN,1957,Nebraska State League,grigsby,P10215,Grigsby,,0,Hastings,,,,6,p
+minoraverages/1958TSN,1957,Nebraska State League,groth,B00544,Groth,Phillip,0,Holdrege,,,12,,
+minoraverages/1958TSN,1957,Nebraska State League,groth,F21434,Groth,,0,Holdrege,,,,,p12
+minoraverages/1958TSN,1957,Nebraska State League,groth,P10228,Groth,,0,Holdrege,,,,12,p
+minoraverages/1958TSN,1957,Nebraska State League,gubicza,B00553,Gubicza,Robert,0,Grand Island,,,35,,
+minoraverages/1958TSN,1957,Nebraska State League,gubicza,F20211,Gubicza,,0,Grand Island,,,,,2b19
+minoraverages/1958TSN,1957,Nebraska State League,gubicza,F20604,Gubicza,,0,Grand Island,,,,,ss16
+minoraverages/1958TSN,1957,Nebraska State League,gumpert,M90047,Gumpert,Randall,,Kearney,,,,,
+minoraverages/emilbb,1957,Nebraska State League,gumpert,M92264,Gumpert,Randy,,Kearney,,,,,
+minoraverages/1958TSN,1957,Nebraska State League,hackett,B00566,Hackett,Roger,0,Kearney,,,14,,
+minoraverages/1958TSN,1957,Nebraska State League,hackett,F21293,Hackett,,0,Kearney,,,,,p14
+minoraverages/1958TSN,1957,Nebraska State League,hackett,P10883,Hackett,,0,Kearney,,,,14,p
+minoraverages/1958TSN,1957,Nebraska State League,haddon,B02464,Haddon,Lloyd,0,North Platte,,,2,,
+minoraverages/1958TSN,1957,Nebraska State League,haley,B02478,Haley,John,0,North Platte,,,5,,
+minoraverages/1958TSN,1957,Nebraska State League,haley,P11067,Haley,,0,North Platte,,,,5,p
+minoraverages/1958TSN,1957,Nebraska State League,hall,B00577,Hall,Robert,0,Superior,,,45,,
+minoraverages/1958TSN,1957,Nebraska State League,hall,F20981,Hall,,0,Superior,,,,,of44
+minoraverages/1958TSN,1957,Nebraska State League,hardy,B00589,Hardy,Robert,0,Superior,,,56,,
+minoraverages/1958TSN,1957,Nebraska State League,hardy,F20023,Hardy,,0,Superior,,,,,1b56
+minoraverages/1958TSN,1957,Nebraska State League,hatchell,B00590,Hatchell,Richard,0,North Platte,,,24,,
+minoraverages/1958TSN,1957,Nebraska State League,hatchell,F21528,Hatchell,,0,North Platte,,,,,p22
+minoraverages/1958TSN,1957,Nebraska State League,hatchell,P10244,Hatchell,,0,North Platte,,,,22,p
+minoraverages/1958TSN,1957,Nebraska State League,hayes,B01722,Hayes,Timothy,0,Grand Island,,,4,,
+minoraverages/1958TSN,1957,Nebraska State League,hayes,P10591,Hayes,,0,Grand Island,,,,4,p
+minoraverages/1958TSN,1957,Nebraska State League,herr,B00609,Herr,Roger,0,Superior,,,11,,
+minoraverages/1958TSN,1957,Nebraska State League,herr,F21609,Herr,,0,Superior,,,,,p11
+minoraverages/1958TSN,1957,Nebraska State League,herr,P10253,Herr,,0,Superior,,,,11,p
+minoraverages/1958TSN,1957,Nebraska State League,hill-sup,B00614,Hill,Frederick,0,Superior,,,51,,
+minoraverages/1958TSN,1957,Nebraska State League,hill-kea,B00623,Hill,Wesley,0,Kearney,,,20,,
+minoraverages/1958TSN,1957,Nebraska State League,hill-kea,F20240,Hill,,0,Kearney,,,,,2b20
+minoraverages/1958TSN,1957,Nebraska State League,hill-sup,F20648,Hill,,0,Superior,,,,,ss51
+minoraverages/1958TSN,1957,Nebraska State League,hinojosa,B00638,Hinojosa,Bolivar,0,Grand Island,,,48,,
+minoraverages/1958TSN,1957,Nebraska State League,hinojosa,F20620,Hinojosa,,0,Grand Island,,,,,ss32
+minoraverages/1958TSN,1957,Nebraska State League,howard,B02231,Howard,Barry,0,Kearney,,,2,,
+minoraverages/1958TSN,1957,Nebraska State League,howard,P10894,Howard,,0,Kearney,,,,2,p
+minoraverages/1958TSN,1957,Nebraska State League,hoyt,B02081,Hoyt,Lynn,0,Holdrege,,,1,,
+minoraverages/1958TSN,1957,Nebraska State League,hoyt,P10795,Hoyt,,0,Holdrege,,,,1,p
+minoraverages/1958TSN,1957,Nebraska State League,irace,B01899,Irace,Joseph,0,Hastings,,,8,,
+minoraverages/1958TSN,1957,Nebraska State League,jacobson,B00646,Jacobson,Robert,0,Grand Island,,,44,,
+minoraverages/1958TSN,1957,Nebraska State League,jacobson,F20144,Jacobson,,0,Grand Island,,,,,1b10
+minoraverages/1958TSN,1957,Nebraska State League,jacobson,F20810,Jacobson,,0,Grand Island,,,,,of22
+minoraverages/1958TSN,1957,Nebraska State League,jarvis,B00651,Jarvis,vicnebt,0,McCook,,,11,,
+minoraverages/1958TSN,1957,Nebraska State League,jarvis,P11014,Jarvis,,0,McCook,,,,9,p
+minoraverages/1958TSN,1957,Nebraska State League,jenne,B00667,Jenne,Roger,0,Hastings,,,13,,
+minoraverages/1958TSN,1957,Nebraska State League,jenne,F20206,Jenne,,0,Hastings,,,,,2b10
+minoraverages/1958TSN,1957,Nebraska State League,job,B00672,Job,Dennis,0,Kearney,,,14,,
+minoraverages/1958TSN,1957,Nebraska State League,job,F21590,Job,,0,Kearney,,,,,p14
+minoraverages/1958TSN,1957,Nebraska State League,job,P10266,Job,,0,Kearney,,,,14,p
+minoraverages/1958TSN,1957,Nebraska State League,johnson-mcc,B00680,Johnson,Lorne,0,McCook,,,51,,
+minoraverages/1958TSN,1957,Nebraska State League,johnson-gi,B01733,Johnson,Richard,0,Grand Island,,,7,,
+minoraverages/1958TSN,1957,Nebraska State League,johnson-mcc,F21000,Johnson,,0,McCook,,,,,of44
+minoraverages/1958TSN,1957,Nebraska State League,johnson-gi,P10606,Johnson,,0,Grand Island,,,,7,p
+minoraverages/1958TSN,1957,Nebraska State League,jones,B01740,Jones,Billy Joe,0,Grand Island,,,3,,
+minoraverages/1958TSN,1957,Nebraska State League,kaat,B00695,Kaat,James,0,Superior,,,15,,
+minoraverages/1958TSN,1957,Nebraska State League,kaat,F21403,Kaat,,0,Superior,,,,,p14
+minoraverages/1958TSN,1957,Nebraska State League,kaat,P10277,Kaat,,0,Superior,,,,14,p
+minoraverages/1958TSN,1957,Nebraska State League,kaiser,M90039,Kaiser,Jack,,Lexington,,,,,
+minoraverages/emilbb,1957,Nebraska State League,kaiser,M92255,Kaiser,Jack,,Lexington,,,,,
+minoraverages/1958TSN,1957,Nebraska State League,kampschror,B00705,Kampschror,Norman,0,Kearney,,,51,,
+minoraverages/1958TSN,1957,Nebraska State League,kampschror,F21163,Kampschror,,0,Kearney,,,,,c50
+minoraverages/1958TSN,1957,Nebraska State League,kavinsky,B00718,Kavinsky,Raymond,0,McCook,,,16,,
+minoraverages/1958TSN,1957,Nebraska State League,kavinsky,F20350,Kavinsky,,0,McCook,,,,,2b11
+minoraverages/1958TSN,1957,Nebraska State League,kenney,B02407,Kenney,John,0,McCook,,,2,,
+minoraverages/1958TSN,1957,Nebraska State League,kenney,P11023,Kenney,,0,McCook,,,,2,p
+minoraverages/1958TSN,1957,Nebraska State League,king,B00726,King,James,0,McCook,,,19,,
+minoraverages/1958TSN,1957,Nebraska State League,king,F21343,King,,0,McCook,,,,,p17
+minoraverages/1958TSN,1957,Nebraska State League,king,P10289,King,,0,McCook,,,,17,p
+minoraverages/1958TSN,1957,Nebraska State League,klimchock,B00739,Klimchock,Louis,0,Grand Island,,,39,,
+minoraverages/1958TSN,1957,Nebraska State League,klimchock,F20265,Klimchock,,0,Grand Island,,,,,2b39
+minoraverages/1958TSN,1957,Nebraska State League,knapp,B00747,Knapp,Frederick,0,Grand Island,,,54,,
+minoraverages/1958TSN,1957,Nebraska State League,knapp,F20759,Knapp,,0,Grand Island,,,,,of53
+minoraverages/1958TSN,1957,Nebraska State League,knoll,B00752,Knoll,David,0,McCook,,,12,,
+minoraverages/1958TSN,1957,Nebraska State League,knoll,P11038,Knoll,,0,McCook,,,,10,p
+minoraverages/1958TSN,1957,Nebraska State League,koeper,B00760,Koeper,Ralph,0,Superior,,,28,,
+minoraverages/1958TSN,1957,Nebraska State League,koeper,F20784,Koeper,,0,Superior,,,,,of24
+minoraverages/1958TSN,1957,Nebraska State League,khorn,B02244,Krohn,Paul,0,Kearney,,,6,,
+minoraverages/1958TSN,1957,Nebraska State League,knoll,F21286,Kroll,,0,McCook,,,,,p10
+minoraverages/1958TSN,1957,Nebraska State League,krupsky,B00771,Krupsky,Gary,0,Hastings,,,51,,
+minoraverages/1958TSN,1957,Nebraska State League,krupsky,F21013,Krupsky,,0,Hastings,,,,,of49
+minoraverages/1958TSN,1957,Nebraska State League,kucher,B00783,Kucher,Robert,0,Grand Island,,,18,,
+minoraverages/1958TSN,1957,Nebraska State League,kucher,F21319,Kucher,,0,Grand Island,,,,,p15
+minoraverages/1958TSN,1957,Nebraska State League,kucher,P10290,Kucher,,0,Grand Island,,,,15,p
+minoraverages/1958TSN,1957,Nebraska State League,kuczynski,B00794,Kuczynski,Edwin,0,McCook,,,17,,
+minoraverages/1958TSN,1957,Nebraska State League,kuczynski,F21577,Kuczynski,,0,McCook,,,,,p14
+minoraverages/1958TSN,1957,Nebraska State League,kuczynski,P10304,Kuczynski,,0,McCook,,,,14,p
+minoraverages/1958TSN,1957,Nebraska State League,kuhel,B02097,Kuhel,Joseph,0,Holdrege,,,2,,
+minoraverages/1958TSN,1957,Nebraska State League,kuhel,P10818,Kuhel,,0,Holdrege,,,,2,p
+minoraverages/1958TSN,1957,Nebraska State League,kuodis,B02100,Kuodis,Donald,0,Holdrege,,,1,,
+minoraverages/1958TSN,1957,Nebraska State League,kuodis,P10805,Kuodis,,0,Holdrege,,,,1,p
+minoraverages/1958TSN,1957,Nebraska State League,lafemina,B02348,LaFemina,Alfred,0,Lexington,,,6,,
+minoraverages/1958TSN,1957,Nebraska State League,lestourgeon,B00811,LeStourgeon,R. Shane,0,Superior,,,27,,
+minoraverages/1958TSN,1957,Nebraska State League,lestourgeon,F20254,LeStourgeon,,0,Superior,,,,,2b27
+minoraverages/1958TSN,1957,Nebraska State League,lehner,B00806,Lehner,Robert,0,North Platte,,,32,,
+minoraverages/1958TSN,1957,Nebraska State League,lehner,F20878,Lehner,,0,North Platte,,,,,of14
+minoraverages/1958TSN,1957,Nebraska State League,levins,B00822,Levins,Michael,0,Hastings,,,40,,
+minoraverages/1958TSN,1957,Nebraska State League,levins,F21037,Levins,,0,Hastings,,,,,of37
+minoraverages/1958TSN,1957,Nebraska State League,lewis-hol,B00833,Lewis,Donald,0,Holdrege,,,35,,
+minoraverages/1958TSN,1957,Nebraska State League,lewis-gi,B01754,Lewis,John,0,Grand Island,,,5,,
+minoraverages/1958TSN,1957,Nebraska State League,lewis-hol,F20560,Lewis,,0,Holdrege,,,,,ss33
+minoraverages/1958TSN,1957,Nebraska State League,lindop,B00840,Lindop,Alfred,0,Kearney,,,11,,
+minoraverages/1958TSN,1957,Nebraska State League,lindop,F21695,Lindop,,0,Kearney,,,,,p10
+minoraverages/1958TSN,1957,Nebraska State League,lindop,P10312,Lindop,,0,Kearney,,,,10,p
+minoraverages/1958TSN,1957,Nebraska State League,ling,B00854,Ling,Ronald,0,Superior,,,11,,
+minoraverages/1958TSN,1957,Nebraska State League,ling,P11144,Ling,,0,Superior,,,,8,p
+minoraverages/1958TSN,1957,Nebraska State League,linz,B00865,Linz,Phillip,0,Kearney,,,46,,
+minoraverages/1958TSN,1957,Nebraska State League,linz,F20661,Linz,,0,Kearney,,,,,ss46
+minoraverages/1958TSN,1957,Nebraska State League,lukaszewski,B00879,Lukaszewski,Donald,0,Holdrege,,,37,,
+minoraverages/1958TSN,1957,Nebraska State League,lukaszewski,F20334,Lukaszewski,,0,Holdrege,,,,,2b22
+minoraverages/1958TSN,1957,Nebraska State League,lukaszewski,F20699,Lukaszewski,,0,Holdrege,,,,,ss11
+minoraverages/1958TSN,1957,Nebraska State League,lynch,B00887,Lynch,Richard,0,Superior,,,16,,
+minoraverages/1958TSN,1957,Nebraska State League,lynch,F20547,Lynch,,0,Superior,,,,,3b13
+minoraverages/1958TSN,1957,Nebraska State League,maas,B01905,Maas,Dean,0,Hastings,,,3,,
+minoraverages/1958TSN,1957,Nebraska State League,maas,P10679,Maas,,0,Hastings,,,,3,p
+minoraverages/1958TSN,1957,Nebraska State League,manale,B00936,Manale,Gerald,0,Holdrege,,,41,,
+minoraverages/1958TSN,1957,Nebraska State League,manale,F20080,Manale,,0,Holdrege,,,,,1b40
+minoraverages/1958TSN,1957,Nebraska State League,martinez,B02410,Martinez,Hector,0,McCook,,,6,,
+minoraverages/1958TSN,1957,Nebraska State League,mazmanian,M90018,Mazmanian,Arthur,,Grand Island,,,,,
+minoraverages/emilbb,1957,Nebraska State League,mazmanian,M92232,Mazmanian,Art,,Grand Island,,,,,
+minoraverages/1958TSN,1957,Nebraska State League,mcclain,B00898,McClain,James,0,Hastings,,,55,,
+minoraverages/1958TSN,1957,Nebraska State League,mcclain,F20792,McClain,,0,Hastings,,,,,of55
+minoraverages/1958TSN,1957,Nebraska State League,mcclusky,B00904,McClusky,David,0,Holdrege,,,11,,
+minoraverages/1958TSN,1957,Nebraska State League,mcclusky,F20128,McClusky,,0,Holdrege,,,,,1b10
+minoraverages/1958TSN,1957,Nebraska State League,mccoy,B00912,McCoy,James,0,North Platte,,,13,,
+minoraverages/1958TSN,1957,Nebraska State League,mccoy,F21427,McCoy,,0,North Platte,,,,,p13
+minoraverages/1958TSN,1957,Nebraska State League,mccoy,P10320,McCoy,,0,North Platte,,,,13,p
+minoraverages/1958TSN,1957,Nebraska State League,mcfarland,B00920,McFarland,James,0,North Platte,,,39,,
+minoraverages/1958TSN,1957,Nebraska State League,mcfarland,F21210,McFarland,,0,North Platte,,,,,c37
+minoraverages/1958TSN,1957,Nebraska State League,mcwilliams,B02113,McWilliams,Billy,0,Holdrege,,,7,,
+minoraverages/1958TSN,1957,Nebraska State League,mcwilliams,P10826,McWilliams,,0,Holdrege,,,,5,p
+minoraverages/1958TSN,1957,Nebraska State League,medaglia,B00948,Medaglia,Joseph,0,Lexington,,,16,,
+minoraverages/1958TSN,1957,Nebraska State League,medaglia,F21196,Medaglia,,0,Lexington,,,,,c16
+minoraverages/1958TSN,1957,Nebraska State League,mercer,B00957,Mercer,Jerry,0,Grand Island,,,14,,
+minoraverages/1958TSN,1957,Nebraska State League,mercer,F21623,Mercer,,0,Grand Island,,,,,p14
+minoraverages/1958TSN,1957,Nebraska State League,mercer,P10336,Mercer,,0,Grand Island,,,,14,p
+minoraverages/1958TSN,1957,Nebraska State League,metternich,B00961,Metternich,Thomas,0,Superior,,,19,,
+minoraverages/1958TSN,1957,Nebraska State League,metternich,F20303,Metternich,,0,Superior,,,,,2b14
+minoraverages/1958TSN,1957,Nebraska State League,mitrowski,B01918,Mitrowski,Robert,0,Hastings,,,4,,
+minoraverages/1958TSN,1957,Nebraska State League,mohlman,B00973,Mohlman,Leonard,0,Grand Island,,,45,,
+minoraverages/1958TSN,1957,Nebraska State League,mohlman,F20908,Mohlman,,0,Grand Island,,,,,of43
+minoraverages/1958TSN,1957,Nebraska State League,moore.e-gi,B00985,Moore,Ervin,0,Grand Island,,,10,,
+minoraverages/1958TSN,1957,Nebraska State League,moore.j-gi,B00999,Moore,John,0,Grand Island,,,11,,
+minoraverages/1958TSN,1957,Nebraska State League,moore-np,B01007,Moore,Robert,0,North Platte,,,20,,
+minoraverages/1958TSN,1957,Nebraska State League,moore-np,F20496,Moore,,0,North Platte,,,,,3b17
+minoraverages/1958TSN,1957,Nebraska State League,moore.j-gi,F21158,Moore,,0,Grand Island,,,,,c10
+minoraverages/1958TSN,1957,Nebraska State League,moore.e-gi,F21589,Moore,,0,Grand Island,,,,,p10
+minoraverages/1958TSN,1957,Nebraska State League,moore.e-gi,P10348,Moore,,0,Grand Island,,,,10,p
+minoraverages/1958TSN,1957,Nebraska State League,moursund,B02253,Moursund,Kenneth,0,Kearney,,,7,,
+minoraverages/1958TSN,1957,Nebraska State League,moursund,P10901,Moursund,,0,Kearney,,,,7,p
+minoraverages/1958TSN,1957,Nebraska State League,nelson,B01010,Nelson,Gerald,0,Lexington,,,11,,
+minoraverages/1958TSN,1957,Nebraska State League,newman-hol,B01029,Newman,Gary,0,Holdrege,,,21,,
+minoraverages/1958TSN,1957,Nebraska State League,newman-np,B01032,Newman,Robert,0,North Platte,,,56,,
+minoraverages/1958TSN,1957,Nebraska State League,newman-hol,F20721,Newman,,0,Holdrege,,,,,of56
+minoraverages/1958TSN,1957,Nebraska State League,newman-np,F21651,Newman,,0,North Platte,,,,,p21
+minoraverages/1958TSN,1957,Nebraska State League,newman-np,P10357,Newman,,0,North Platte,,,,21,p
+minoraverages/1958TSN,1957,Nebraska State League,ninas,B02357,Ninas,John,0,Lexington,,,5,,
+minoraverages/1958TSN,1957,Nebraska State League,ninas,P10963,Ninas,,0,Lexington,,,,5,p
+minoraverages/1958TSN,1957,Nebraska State League,norbert,B01041,Norbert,Theodore,0,McCook,,,55,,
+minoraverages/1958TSN,1957,Nebraska State League,norbert,F20153,Norbert,,0,McCook,,,,,1b11
+minoraverages/1958TSN,1957,Nebraska State League,norbert,F20924,Norbert,,0,McCook,,,,,of42
+minoraverages/1958TSN,1957,Nebraska State League,odonnell,B01055,O'Donnell,Daniel,0,Holdrege,,,12,,
+minoraverages/1958TSN,1957,Nebraska State League,odonnell,F20095,O'Donnell,,0,Holdrege,,,,,1b12
+minoraverages/1958TSN,1957,Nebraska State League,osborne,B01064,Osborne,J. Ronald,0,North Platte,,,31,,
+minoraverages/1958TSN,1957,Nebraska State League,osborne,F21667,Osborne,,0,North Platte,,,,,p18
+minoraverages/1958TSN,1957,Nebraska State League,osborne,P10361,Osborne,,0,North Platte,,,,18,p
+minoraverages/1958TSN,1957,Nebraska State League,palamar,B02569,Palamar,Thomas,0,Superior,,,5,,
+minoraverages/1958TSN,1957,Nebraska State League,palladino,B01078,Palladino,Frank,0,Hastings,,,26,,
+minoraverages/1958TSN,1957,Nebraska State League,palladino,F20855,Palladino,,0,Hastings,,,,,of26
+minoraverages/1958TSN,1957,Nebraska State League,palmisano,B01086,Palmisano,Vincent,0,Holdrege,,,13,,
+minoraverages/1958TSN,1957,Nebraska State League,palmisano,F21566,Palmisano,,0,Holdrege,,,,,p13
+minoraverages/1958TSN,1957,Nebraska State League,palmisano,P10373,Palmisano,,0,Holdrege,,,,13,p
+minoraverages/1958TSN,1957,Nebraska State League,papstein,B01093,Papstein,Hugo,0,Lexington,,,11,,
+minoraverages/1958TSN,1957,Nebraska State League,papstein,F21356,Papstein,,0,Lexington,,,,,p11
+minoraverages/1958TSN,1957,Nebraska State League,papstein,P10385,Papstein,,0,Lexington,,,,11,p
+minoraverages/1958TSN,1957,Nebraska State League,parenti,M90026,Parenti,Frank,,Holdrege,,,,,
+minoraverages/emilbb,1957,Nebraska State League,parenti,M92241,Parenti,Frank,,Holdrege,,,,,
+minoraverages/1958TSN,1957,Nebraska State League,parera,B02575,Parera,Roberto,0,Superior,,,3,,
+minoraverages/1958TSN,1957,Nebraska State League,parmelee,B01108,Parmelee,Charles,0,Kearney,,,51,,
+minoraverages/1958TSN,1957,Nebraska State League,parmelee,F20776,Parmelee,,0,Kearney,,,,,of49
+minoraverages/1958TSN,1957,Nebraska State League,pedrazzini,B01119,Pedrazzini,Joseph,0,Lexington,,,49,,
+minoraverages/1958TSN,1957,Nebraska State League,pedrazzini,F20038,Pedrazzini,,0,Lexington,,,,,1b49
+minoraverages/1958TSN,1957,Nebraska State League,pendell,B02588,Pendell,Thomas,0,Superior,,,6,,
+minoraverages/1958TSN,1957,Nebraska State League,pennington,B01124,Pennington,Carl,0,Lexington,,,17,,
+minoraverages/1958TSN,1957,Nebraska State League,pennington,F20388,Pennington,,0,Lexington,,,,,3b15
+minoraverages/1958TSN,1957,Nebraska State League,percivalle,B01135,Percivalle,Donald,0,Hastings,,,17,,
+minoraverages/1958TSN,1957,Nebraska State League,percivalle,F21705,Percivalle,,0,Hastings,,,,,p16
+minoraverages/1958TSN,1957,Nebraska State League,percivalle,P10399,Percivalle,,0,Hastings,,,,16,p
+minoraverages/1958TSN,1957,Nebraska State League,perry,B01143,Perry,Jay,0,North Platte,,,50,,
+minoraverages/1958TSN,1957,Nebraska State League,perry,F20841,Perry,,0,North Platte,,,,,of46
+minoraverages/1958TSN,1957,Nebraska State League,peterson,B02361,Peterson,Richard,0,Lexington,,,1,,
+minoraverages/1958TSN,1957,Nebraska State League,peterson,P10974,Peterson,,0,Lexington,,,,1,p
+minoraverages/1958TSN,1957,Nebraska State League,pettit,B01926,Pettit,Richard,0,Hastings,,,5,,
+minoraverages/1958TSN,1957,Nebraska State League,phelon,B01939,Phelon,Allen,0,Hastings,,,8,,
+minoraverages/1958TSN,1957,Nebraska State League,phelon,P10407,Phelon,,0,Hastings,,,,8,p
+minoraverages/1958TSN,1957,Nebraska State League,poole,B01156,Poole,Paul,0,McCook,,,27,,
+minoraverages/1958TSN,1957,Nebraska State League,poole,F21544,Poole,,0,McCook,,,,,p21
+minoraverages/1958TSN,1957,Nebraska State League,poole,P10410,Poole,,0,McCook,,,,21,p
+minoraverages/1958TSN,1957,Nebraska State League,porter,B01162,Porter,Ronald,0,North Platte,,,10,,
+minoraverages/1958TSN,1957,Nebraska State League,pounds,B01170,Pounds,Edgar,0,Superior,,,44,,
+minoraverages/1958TSN,1957,Nebraska State League,pounds,F20943,Pounds,,0,Superior,,,,,of37
+minoraverages/1958TSN,1957,Nebraska State League,pounds,F21117,Pounds,,0,Superior,,,,,c13
+minoraverages/1958TSN,1957,Nebraska State League,poupore,B01181,Poupore,Bernard,0,McCook,,,17,,
+minoraverages/1958TSN,1957,Nebraska State League,poupore,F21515,Poupore,,0,McCook,,,,,p14
+minoraverages/1958TSN,1957,Nebraska State League,poupore,P10429,Poupore,,0,McCook,,,,14,p
+minoraverages/1958TSN,1957,Nebraska State League,preston,B01197,Preston,Selvin,0,Kearney,,,23,,
+minoraverages/1958TSN,1957,Nebraska State League,preston,F20583,Preston,,0,Kearney,,,,,ss10
+minoraverages/1958TSN,1957,Nebraska State League,preyar,B01947,Preyar,Chester,0,Hastings,,,3,,
+minoraverages/1958TSN,1957,Nebraska State League,preyar,P10687,Preyar,,0,Hastings,,,,3,p
+minoraverages/1958TSN,1957,Nebraska State League,pruitt,B01203,Pruitt,James,0,Hastings,,,29,,
+minoraverages/1958TSN,1957,Nebraska State League,pruitt,F21182,Pruitt,,0,Hastings,,,,,c26
+minoraverages/1958TSN,1957,Nebraska State League,raitt,B01216,Raitt,George,0,Superior,,,51,,
+minoraverages/1958TSN,1957,Nebraska State League,raitt,F21084,Raitt,,0,Superior,,,,,c50
+minoraverages/1958TSN,1957,Nebraska State League,ramont,B01227,Ramont,Richard,0,McCook,,,19,,
+minoraverages/1958TSN,1957,Nebraska State League,ramont,F21370,Ramont,,0,McCook,,,,,p10
+minoraverages/1958TSN,1957,Nebraska State League,ramont,P10432,Ramont,,0,McCook,,,,10,p
+minoraverages/1958TSN,1957,Nebraska State League,ranew,B01234,Ranew,Merritt,0,McCook,,,55,,
+minoraverages/1958TSN,1957,Nebraska State League,ranew,F21125,Ranew,,0,McCook,,,,,c55
+minoraverages/1958TSN,1957,Nebraska State League,redzonic,B01242,Redzonic,Paul,0,Lexington,,,41,,
+minoraverages/1958TSN,1957,Nebraska State League,redzonic,F20832,Redzonic,,0,Lexington,,,,,of34
+minoraverages/1958TSN,1957,Nebraska State League,reinedski,B01952,Reinedski,,0,Hastings,,,1,,
+minoraverages/1958TSN,1957,Nebraska State League,reinerton,B01250,Reinerton,Oliver,0,Grand Island,,,11,,
+minoraverages/1958TSN,1957,Nebraska State League,rickerson,B01269,Rickerson,Edwin,0,North Platte,,,41,,
+minoraverages/1958TSN,1957,Nebraska State League,rickerson,F20102,Rickerson,,0,North Platte,,,,,1b25
+minoraverages/1958TSN,1957,Nebraska State League,rickerson,P11072,Rickerson,,0,North Platte,,,,2,p
+minoraverages/1958TSN,1957,Nebraska State League,rodgers,B01275,Rodgers,Lionel,0,Hastings,,,43,,
+minoraverages/1958TSN,1957,Nebraska State League,rodgers,F20505,Rodgers,,0,Hastings,,,,,3b15
+minoraverages/1958TSN,1957,Nebraska State League,rodgers,F20700,Rodgers,,0,Hastings,,,,,ss21
+minoraverages/1958TSN,1957,Nebraska State League,rodriguez,B01960,Rodriguez,Orlando,0,Hastings,,,2,,
+minoraverages/1958TSN,1957,Nebraska State League,rodriguez,P10698,Rodriguez,,0,Hastings,,,,2,p
+minoraverages/1958TSN,1957,Nebraska State League,roesler,B01288,Roesler,Kenneth,0,McCook,,,22,,
+minoraverages/1958TSN,1957,Nebraska State League,roesler,F20893,Roesler,,0,McCook,,,,,of20
+minoraverages/1958TSN,1957,Nebraska State League,roman,B02429,Roman,Eugenio,0,McCook,,,3,,
+minoraverages/1958TSN,1957,Nebraska State League,roman,P11046,Roman,,0,McCook,,,,3,p
+minoraverages/1958TSN,1957,Nebraska State League,ronan,B01971,Ronan,Robert,0,Hastings,,,4,,
+minoraverages/1958TSN,1957,Nebraska State League,rotari,B02432,Rotari,William,0,McCook,,,3,,
+minoraverages/1958TSN,1957,Nebraska State League,rotari,P11051,Rotari,,0,McCook,,,,3,p
+minoraverages/1958TSN,1957,Nebraska State League,rotenberry,B02121,Rotenberry,John,0,Holdrege,,,5,,
+minoraverages/1958TSN,1957,Nebraska State League,rudolph,B02137,Rudolph,David,0,Holdrege,,,7,,
+minoraverages/1958TSN,1957,Nebraska State League,rust,B01291,Rust,Richard,0,Lexington,,,27,,
+minoraverages/1958TSN,1957,Nebraska State League,rust,F20279,Rust,,0,Lexington,,,,,2b11
+minoraverages/1958TSN,1957,Nebraska State League,rust,F20369,Rust,,0,Lexington,,,,,3b15
+minoraverages/1958TSN,1957,Nebraska State League,sama,B01300,Sama,Humberto,0,Hastings,,,50,,
+minoraverages/1958TSN,1957,Nebraska State League,sama,F20067,Sama,,0,Hastings,,,,,1b48
+minoraverages/1958TSN,1957,Nebraska State League,santana,B01313,Santana,Julio,0,Hastings,,,55,,
+minoraverages/1958TSN,1957,Nebraska State League,santana,F20298,Santana,,0,Hastings,,,,,2b23
+minoraverages/1958TSN,1957,Nebraska State League,santana,F20594,Santana,,0,Hastings,,,,,ss29
+minoraverages/1958TSN,1957,Nebraska State League,scalzi,B01321,Scalzi,Robert,0,Superior,,,20,,
+minoraverages/1958TSN,1957,Nebraska State League,scalzi,F21335,Scalzi,,0,Superior,,,,,p15
+minoraverages/1958TSN,1957,Nebraska State League,scalzi,P10441,Scalzi,,0,Superior,,,,15,p
+minoraverages/1958TSN,1957,Nebraska State League,schatz,B01337,Schatz,Joseph,0,Hastings,,,14,,
+minoraverages/1958TSN,1957,Nebraska State League,schatz,F21469,Schatz,,0,Hastings,,,,,p14
+minoraverages/1958TSN,1957,Nebraska State League,schatz,P10455,Schatz,,0,Hastings,,,,14,p
+minoraverages/1958TSN,1957,Nebraska State League,schirmer,B02266,Schirmer,Arthur,0,Kearney,,,3,,
+minoraverages/1958TSN,1957,Nebraska State League,schirmer,P10917,Schirmer,,0,Kearney,,,,3,p
+minoraverages/1958TSN,1957,Nebraska State League,schrall,M90052,Schrall,Leo,,Hastings,,,,,
+minoraverages/emilbb,1957,Nebraska State League,schrall,M92278,Schrall,Leo,,Hastings,,,,,
+minoraverages/1958TSN,1957,Nebraska State League,schuermann,B01345,Schuermann,Edward,0,Lexington,,,31,,
+minoraverages/1958TSN,1957,Nebraska State League,schuermann,F20430,Schuermann,,0,Lexington,,,,,3b11
+minoraverages/1958TSN,1957,Nebraska State League,schuermann,F20657,Schuermann,,0,Lexington,,,,,ss17
+minoraverages/1958TSN,1957,Nebraska State League,schulz,B01359,Schulz,Ralph,0,Holdrege,,,10,,
+minoraverages/1958TSN,1957,Nebraska State League,schulz,F21442,Schulz,,0,Holdrege,,,,,p10
+minoraverages/1958TSN,1957,Nebraska State League,schulz,P10464,Schulz,,0,Holdrege,,,,10,p
+minoraverages/1958TSN,1957,Nebraska State League,schulze,B01368,Schulze,Paul,0,McCook,,,43,,
+minoraverages/1958TSN,1957,Nebraska State League,schulze,F20342,Schulze,,0,McCook,,,,,2b39
+minoraverages/1958TSN,1957,Nebraska State League,schwertfeger,B02591,Schwertfeger,Carl,0,Superior,,,7,,
+minoraverages/1958TSN,1957,Nebraska State League,schwertfeger,P11153,Schwertfeger,,0,Superior,,,,7,p
+minoraverages/1958TSN,1957,Nebraska State League,sentkewitz,B02277,Sentkewitz,Vincent,0,Kearney,,,6,,
+minoraverages/1958TSN,1957,Nebraska State League,severson,B01376,Severson,Donald,0,McCook,,,29,,
+minoraverages/1958TSN,1957,Nebraska State League,severson,F20046,Severson,,0,McCook,,,,,1b28
+minoraverages/1958TSN,1957,Nebraska State League,shardy,B01384,Shardy,James,0,Kearney,,,35,,
+minoraverages/1958TSN,1957,Nebraska State League,shardy,F21068,Shardy,,0,Kearney,,,,,of32
+minoraverages/1958TSN,1957,Nebraska State League,shell,B01392,Shell,Vaughn,0,Kearney,,,11,,
+minoraverages/1958TSN,1957,Nebraska State League,shell,F21232,Shell,,0,Kearney,,,,,p10
+minoraverages/1958TSN,1957,Nebraska State League,shell,P10478,Shell,,0,Kearney,,,,10,p
+minoraverages/1958TSN,1957,Nebraska State League,silva,B01402,Silva,Melvin,0,Lexington,,,24,,
+minoraverages/1958TSN,1957,Nebraska State League,silva,F20636,Silva,,0,Lexington,,,,,ss14
+minoraverages/1958TSN,1957,Nebraska State League,silvonic,B01415,Silvonic,John,0,Lexington,,,24,,
+minoraverages/1958TSN,1957,Nebraska State League,silvonic,F20919,Silvonic,,0,Lexington,,,,,of22
+minoraverages/1958TSN,1957,Nebraska State League,simpson,B01428,Simpson,Lynn,0,Lexington,,,44,,
+minoraverages/1958TSN,1957,Nebraska State League,simpson,F20287,Simpson,,0,Lexington,,,,,2b44
+minoraverages/1958TSN,1957,Nebraska State League,smilee,B02486,Smilee,Gary,0,North Platte,,,6,,
+minoraverages/1958TSN,1957,Nebraska State League,snowden,B02373,Snowden,Thomas,0,Lexington,,,4,,
+minoraverages/1958TSN,1957,Nebraska State League,snowden,P10982,Snowden,,0,Lexington,,,,4,p
+minoraverages/1958TSN,1957,Nebraska State League,sossamon,B01765,Sossamon,Bhurle,0,Grand Island,,,3,,
+minoraverages/1958TSN,1957,Nebraska State League,stanton,B02606,Stanton,Donald,0,Superior,,,4,,
+minoraverages/1958TSN,1957,Nebraska State League,steinecke,M90060,Steinecke,William,,McCook,,,,,
+minoraverages/emilbb,1957,Nebraska State League,steinecke,M92286,Steinecke,Bill,,McCook,,,,,
+minoraverages/1958TSN,1957,Nebraska State League,stewart,B02493,Stewart,Charles,0,North Platte,,,5,,
+minoraverages/1958TSN,1957,Nebraska State League,stewart,P11080,Stewart,,0,North Platte,,,,4,p
+minoraverages/1958TSN,1957,Nebraska State League,stricko,B01431,Stricko,Robert,0,Hastings,,,10,,
+minoraverages/1958TSN,1957,Nebraska State League,stricko,F21614,Stricko,,0,Hastings,,,,,p10
+minoraverages/1958TSN,1957,Nebraska State League,stricko,P10486,Stricko,,0,Hastings,,,,10,p
+minoraverages/1958TSN,1957,Nebraska State League,stumpf,B01983,Stumpf,Norman,0,Hastings,,,4,,
+minoraverages/1958TSN,1957,Nebraska State League,sublett,B01779,Sublett,Jerry,0,Grand Island,,,8,,
+minoraverages/1958TSN,1957,Nebraska State League,sublett,P10493,Sublett,,0,Grand Island,,,,7,p
+minoraverages/1958TSN,1957,Nebraska State League,sullivan-hol,B02145,Sullivan,Stuart,0,Holdrege,,,9,,
+minoraverages/1958TSN,1957,Nebraska State League,sullivan-kea,B02289,Sullivan,Anthony W.,0,Kearney,,,7,,
+minoraverages/1958TSN,1957,Nebraska State League,sullivan-lex,B02385,Sullivan,Frances,0,Lexington,,,2,,
+minoraverages/1958TSN,1957,Nebraska State League,sullivan-hol,P10503,Sullivan,,0,Holdrege,,,,9,p
+minoraverages/1958TSN,1957,Nebraska State League,sullivan-lex,P10996,Sullivan,,0,Lexington,,,,2,p
+minoraverages/1958TSN,1957,Nebraska State League,summer,B02611,Summer,Dudley,0,Superior,,,1,,
+minoraverages/1958TSN,1957,Nebraska State League,svenson,P10516,Svenson,,0,Hastings,,,,8,p
+minoraverages/1958TSN,1957,Nebraska State League,swogger,B01444,Swogger,John,0,North Platte,,,53,,
+minoraverages/1958TSN,1957,Nebraska State League,swogger,F20807,Swogger,,0,North Platte,,,,,of53
+minoraverages/1958TSN,1957,Nebraska State League,tilley,B02159,Tilley,Charles,0,Holdrege,,,5,,
+minoraverages/1958TSN,1957,Nebraska State League,tilley,P10839,Tilley,,0,Holdrege,,,,5,p
+minoraverages/1958TSN,1957,Nebraska State League,torkelson,B01453,Torkelson,Larry,0,Holdrege,,,27,,
+minoraverages/1958TSN,1957,Nebraska State League,torkelson,F21101,Torkelson,,0,Holdrege,,,,,c22
+minoraverages/1958TSN,1957,Nebraska State League,tower,B02008,Tower,Carl,0,Hastings,,,3,,
+minoraverages/1958TSN,1957,Nebraska State League,tower,P10709,Tower,,0,Hastings,,,,3,p
+minoraverages/1958TSN,1957,Nebraska State League,treon,B01466,Treon,Gary,0,Hastings,,,30,,
+minoraverages/1958TSN,1957,Nebraska State League,treon,F20189,Treon,,0,Hastings,,,,,2b13
+minoraverages/1958TSN,1957,Nebraska State League,treon,F20417,Treon,,0,Hastings,,,,,3b18
+minoraverages/1958TSN,1957,Nebraska State League,vlahovic,B01477,Vlahovic,Daniel,0,North Platte,,,52,,
+minoraverages/1958TSN,1957,Nebraska State League,vlahovic,F20956,Vlahovic,,0,North Platte,,,,,of47
+minoraverages/1958TSN,1957,Nebraska State League,vogel,B01489,Vogel,Richard,0,Hastings,,,14,,
+minoraverages/1958TSN,1957,Nebraska State League,vogel,P10714,Vogel,,0,Hastings,,,,1,p
+minoraverages/1958TSN,1957,Nebraska State League,wasem,B01490,Wasem,James,0,Holdrege,,,49,,
+minoraverages/1958TSN,1957,Nebraska State League,wasem,F20482,Wasem,,0,Holdrege,,,,,3b44
+minoraverages/1958TSN,1957,Nebraska State League,west,B01509,West,Dwaine,0,Grand Island,,,12,,
+minoraverages/1958TSN,1957,Nebraska State League,west,F20970,West,,0,Grand Island,,,,,of11
+minoraverages/1958TSN,1957,Nebraska State League,white-lex,B01514,White,Edward,0,Lexington,,,31,,
+minoraverages/1958TSN,1957,Nebraska State League,white-sup,B01523,White,Raymond,0,Superior,,,40,,
+minoraverages/1958TSN,1957,Nebraska State League,white-lex,F20051,White,,0,Lexington,,,,,1b18
+minoraverages/1958TSN,1957,Nebraska State League,white-sup,F21021,White,,0,Superior,,,,,of29
+minoraverages/1958TSN,1957,Nebraska State League,white-sup,P11166,White,,0,Superior,,,,5,p
+minoraverages/1958TSN,1957,Nebraska State League,whited,B01538,Whited,John,0,North Platte,,,29,,
+minoraverages/1958TSN,1957,Nebraska State League,whited,F20539,Whited,,0,North Platte,,,,,3b20
+minoraverages/1958TSN,1957,Nebraska State League,whited,P11095,Whited,,0,North Platte,,,,1,p
+minoraverages/1958TSN,1957,Nebraska State League,wilcox-gi,B01546,Wilcox,JoJhn,0,Grand Island,,,15,,
+minoraverages/1958TSN,1957,Nebraska State League,wilcox-mcc,B01551,Wilcox,Thomas,0,McCook,,,48,,
+minoraverages/1958TSN,1957,Nebraska State League,wilcox-gi,F20072,Wilcox,,0,Grand Island,,,,,1b44
+minoraverages/1958TSN,1957,Nebraska State League,wilcox-mcc,F21416,Wilcox,,0,McCook,,,,,p15
+minoraverages/1958TSN,1957,Nebraska State League,wilcox-mcc,P10527,Wilcox,,0,McCook,,,,15,p
+minoraverages/1958TSN,1957,Nebraska State League,wiley,B01567,Wiley,Gary,0,Kearney,,,14,,
+minoraverages/1958TSN,1957,Nebraska State League,wiley,F21278,Wiley,,0,Kearney,,,,,p14
+minoraverages/1958TSN,1957,Nebraska State League,wiley,P10925,Wiley,,0,Kearney,,,,14,p
+minoraverages/1958TSN,1957,Nebraska State League,williams-np,B01572,Williams,Richard,0,North Platte,,,33,,
+minoraverages/1958TSN,1957,Nebraska State League,williams-gi,B01787,Williams,Freeman,0,Grand Island,,,9,,
+minoraverages/1958TSN,1957,Nebraska State League,williams-np,F20997,Williams,,0,North Platte,,,,,of24
+minoraverages/1958TSN,1957,Nebraska State League,williams-gi,P10611,Williams,,0,Grand Island,,,,7,p
+minoraverages/1958TSN,1957,Nebraska State League,wilson,B01580,Wilson,Steven,0,Lexington,,,17,,
+minoraverages/1958TSN,1957,Nebraska State League,wilson,F21531,Wilson,,0,Lexington,,,,,p17
+minoraverages/1958TSN,1957,Nebraska State League,wilson,P10534,Wilson,,0,Lexington,,,,17,p
+minoraverages/1958TSN,1957,Nebraska State League,wise,B01595,Wise,Dale,0,Superior,,,12,,
+minoraverages/1958TSN,1957,Nebraska State League,wise,F21672,Wise,,0,Superior,,,,,p16
+minoraverages/1958TSN,1957,Nebraska State League,wise,P10542,Wise,,0,Superior,,,,16,p
+minoraverages/1958TSN,1957,Nebraska State League,witkowski,B01601,Witkowski,Robert,0,Lexington,,,19,,
+minoraverages/1958TSN,1957,Nebraska State League,witkowski,F21362,Witkowski,,0,Lexington,,,,,p19
+minoraverages/1958TSN,1957,Nebraska State League,witkowski,P10550,Witkowski,,0,Lexington,,,,19,p
+minoraverages/1958TSN,1957,Nebraska State League,wolcott,B01798,Wolcott,Gene,0,Grand Island,,,1,,
+minoraverages/1958TSN,1957,Nebraska State League,wolcott,P10622,Wolcott,,0,Grand Island,,,,1,p
+minoraverages/1958TSN,1957,Nebraska State League,wolf,B01617,Wolf,Orie,0,McCook,,,46,,
+minoraverages/1958TSN,1957,Nebraska State League,wolf,F20962,Wolf,,0,McCook,,,,,of46
+minoraverages/1958TSN,1957,Nebraska State League,wright,B01625,Wright,John,0,Holdrege,,,10,,
+minoraverages/1958TSN,1957,Nebraska State League,wright,F21450,Wright,,0,Holdrege,,,,,p10
+minoraverages/1958TSN,1957,Nebraska State League,wright,P10569,Wright,,0,Holdrege,,,,10,p
+minoraverages/1958TSN,1957,Nebraska State League,wyatt,B01630,Wyatt,James,0,North Platte,,,23,,
+minoraverages/1958TSN,1957,Nebraska State League,wyatt,F20571,Wyatt,,0,North Platte,,,,,ss23
+minoraverages/1958TSN,1957,Nebraska State League,york,M90083,York,Rudolph,,North Platte,,,,,
+minoraverages/emilbb,1957,Nebraska State League,york,M92308,York,Rudy,,North Platte,,,,,
+minoraverages/1958TSN,1957,Nebraska State League,yurgee,B01649,Yurgee,Donald,0,Lexington,,,46,,
+minoraverages/1958TSN,1957,Nebraska State League,yurgee,F20886,Yurgee,,0,Lexington,,,,,of42
+minoraverages/1958TSN,1957,Nebraska State League,zaremba,B02019,Zaremba,Paul,0,Hastings,,,2,,
+minoraverages/1958TSN,1957,Nebraska State League,zaremba,P10723,Zaremba,,0,Hastings,,,,2,p

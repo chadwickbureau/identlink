@@ -1,10 +1,865 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1944,Southern Association,,M90299,Cuyler,Kiki,,Mempihs,,,,,
+minoraverages/1945TSN,1944,Southern Association,,B01595,Abernathy,Talmage,0,Memphis,,,23,,
+minoraverages/1945TSN,1944,Southern Association,,F22020,Abernathy,,0,Memphis,,,,,p23
+minoraverages/1945TSN,1944,Southern Association,,P10176,Abernathy,,0,Memphis,,,,23,p
+minoraverages/1945TSN,1944,Southern Association,,P11792,Abernathy,,0,Memphis,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02738,Akers,Oza,0,Chattanooga,,,5,,
+minoraverages/1945TSN,1944,Southern Association,,B01787,Albertson,Robert,0,Chattanooga,,,30,,
+minoraverages/1945TSN,1944,Southern Association,,F21783,Albertson,,0,Chattanooga,,,,,p15
+minoraverages/1945TSN,1944,Southern Association,,P10478,Albertson,,0,Chattanooga,,,,15,p
+minoraverages/1945TSN,1944,Southern Association,,P11893,Albertson,,0,Chattanooga,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B01873,Alderson,Dale,0,Nashville,,,18,,
+minoraverages/1945TSN,1944,Southern Association,,B03023,Alderson,Frank,0,New Orleans,,,1,,
+minoraverages/1945TSN,1944,Southern Association,,F21833,Alderson,,0,Nashville,,,,,p16
+minoraverages/1945TSN,1944,Southern Association,,P10231,Alderson,,0,Nashville,,,,16,p
+minoraverages/1945TSN,1944,Southern Association,,P11391,Alderson,Frank,0,New Orleans,,,,1,p
+minoraverages/1945TSN,1944,Southern Association,,P11745,Alderson,,0,Nashville,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02622,Aldridge,Earl,0,Little Rock,,,9,,
+minoraverages/1945TSN,1944,Southern Association,,P10591,Aldridge,,0,Little Rock,,,,9,p
+minoraverages/1945TSN,1944,Southern Association,,P12118,Aldridge,,0,Little Rock,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B01086,Aloma,Louis,0,Chattanooga,,,21,,
+minoraverages/1945TSN,1944,Southern Association,,F21752,Aloma,,0,Chattanooga,,,,,p19
+minoraverages/1945TSN,1944,Southern Association,,P10569,Aloma,,0,Chattanooga,,,,19,p
+minoraverages/1945TSN,1944,Southern Association,,P12126,Aloma,,0,Chattanooga,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B00182,Anderson,Harrison,0,Mobile,,,12,,
+minoraverages/1945TSN,1944,Southern Association,,B02215,Anderson,Wm. Robt.,0,Mobile,,,7,,
+minoraverages/1945TSN,1944,Southern Association,,B02633,Anderson,Charles,0,Birmingham,,,7,,
+minoraverages/1945TSN,1944,Southern Association,,F20547,Anderson,,0,Mobile,,,,,3b12
+minoraverages/1945TSN,1944,Southern Association,,P10949,Anderson,William Rob,0,Mobile,,,,7,p
+minoraverages/1945TSN,1944,Southern Association,,B01453,Andrews,Ivy Paul,0,Mobile,,,21,,
+minoraverages/1945TSN,1944,Southern Association,,F21672,Andrews,,0,Mobile,,,,,p20
+minoraverages/1945TSN,1944,Southern Association,,P10399,Andrews,,0,Mobile,,,,20,p
+minoraverages/1945TSN,1944,Southern Association,,P11648,Andrews,,0,Mobile,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B00912,Ankenman,Fred,0,New Orleans,,,32,,
+minoraverages/1945TSN,1944,Southern Association,,F20222,Ankenman,,0,New Orleans,,,,,2b32
+minoraverages/1945TSN,1944,Southern Association,,B00806,Arago,Hector,0,Chattanooga,,,38,,
+minoraverages/1945TSN,1944,Southern Association,,F20401,Arago,,0,Chattanooga,,,,,2b26
+minoraverages/1945TSN,1944,Southern Association,,B01313,Badke,Edward,0,New Orleans,,,25,,
+minoraverages/1945TSN,1944,Southern Association,,F20612,Badke,,0,New Orleans,,,,,3b19
+minoraverages/1945TSN,1944,Southern Association,,B01514,Baker,James,1,Birmingham,,,14,,
+minoraverages/1945TSN,1944,Southern Association,,B01514,Baker,James,2,Mobile,,,19,,
+minoraverages/1945TSN,1944,Southern Association,,B01514,Baker,James,T,,,,33,,
+minoraverages/1945TSN,1944,Southern Association,,F21469,Baker,,1,Birmingham,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,F21469,Baker,,2,Mobile,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,F21469,Baker,,T,,,,,,p30
+minoraverages/1945TSN,1944,Southern Association,,P10253,Baker,,1,Birmingham,,,,13,p
+minoraverages/1945TSN,1944,Southern Association,,P10253,Baker,,2,Mobile,,,,17,p
+minoraverages/1945TSN,1944,Southern Association,,P10253,Baker,,T,,,,,30,p
+minoraverages/1945TSN,1944,Southern Association,,P11841,Baker,,1,Birmingham,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,P11841,Baker,,2,Mobile,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,P11841,Baker,,T,,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B01428,Balser,Ernest,0,Nashville,,,33,,
+minoraverages/1945TSN,1944,Southern Association,,F21887,Balser,,0,Nashville,,,,,p31
+minoraverages/1945TSN,1944,Southern Association,,P10385,Balser,,0,Nashville,,,,31,p
+minoraverages/1945TSN,1944,Southern Association,,P11737,Balser,,0,Nashville,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B01181,Barbary,Odell,1,Chattanooga,,,44,,
+minoraverages/1945TSN,1944,Southern Association,,B01181,Barbary,Odell,2,Little Rock,,,25,,
+minoraverages/1945TSN,1944,Southern Association,,B01181,Barbary,Odell,T,,,,69,,
+minoraverages/1945TSN,1944,Southern Association,,F22310,Barbary,,1,Chattanooga,,,,,c
+minoraverages/1945TSN,1944,Southern Association,,F22310,Barbary,,2,Little Rock,,,,,c
+minoraverages/1945TSN,1944,Southern Association,,F22310,Barbary,,T,,,,,,c57
+minoraverages/1945TSN,1944,Southern Association,,B02772,Bartley,Harold,0,New Orleans,,,2,,
+minoraverages/1945TSN,1944,Southern Association,,B03115,Bartula,Matthew,0,Atlanta,,,1,,
+minoraverages/1945TSN,1944,Southern Association,,P11458,Bartula,Matthew,0,Atlanta,,,,1,p
+minoraverages/1945TSN,1944,Southern Association,,B02244,Baskin,William,0,Memphis,,,7,,
+minoraverages/1945TSN,1944,Southern Association,,P11131,Baskin,William,0,Memphis,,,,7,p
+minoraverages/1945TSN,1944,Southern Association,,B02709,Beasley,Eldred,0,Little Rock,,,7,,
+minoraverages/1945TSN,1944,Southern Association,,P10917,Beasley,Eldred,0,Little Rock,,,,7,p
+minoraverages/1945TSN,1944,Southern Association,,P12063,Beasley,,0,Little Rock,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B00207,Beeler,Jodie,0,Birmingham,,,124,,
+minoraverages/1945TSN,1944,Southern Association,,F20552,Beeler,,0,Birmingham,,,,,3b98
+minoraverages/1945TSN,1944,Southern Association,,F20776,Beeler,,0,Birmingham,,,,,ss15
+minoraverages/1945TSN,1944,Southern Association,,B01682,Bell,Jack,0,Mobile,,,23,,
+minoraverages/1945TSN,1944,Southern Association,,F20855,Bell,,0,Mobile,,,,,ss14
+minoraverages/1945TSN,1944,Southern Association,,B00589,Benning,W. E.,0,Mobile,,,132,,
+minoraverages/1945TSN,1944,Southern Association,,F20539,Benning,,0,Mobile,,,,,3b113
+minoraverages/1945TSN,1944,Southern Association,,F20657,Benning,,0,Mobile,,,,,ss11
+minoraverages/1945TSN,1944,Southern Association,,B02687,Blake,Edward,0,Mobile,,,3,,
+minoraverages/1945TSN,1944,Southern Association,,P10805,Blake,Edward,0,Mobile,,,,3,p
+minoraverages/1945TSN,1944,Southern Association,,P11981,Blake,,0,Mobile,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B01300,Boger,Hoyle,1,Atlanta,,,2,,
+minoraverages/1945TSN,1944,Southern Association,,B01300,Boger,Hoyle,2,Little Rock,,,50,,
+minoraverages/1945TSN,1944,Southern Association,,B01300,Boger,Hoyle,T,,,,52,,
+minoraverages/1945TSN,1944,Southern Association,,F22209,Boger,,1,Atlanta,,,,,c
+minoraverages/1945TSN,1944,Southern Association,,F22209,Boger,,2,Little Rock,,,,,c
+minoraverages/1945TSN,1944,Southern Association,,F22209,Boger,,T,,,,,,c42
+minoraverages/1945TSN,1944,Southern Association,,B00084,Bolton,W. Clifton,1,Little Rock,,,28,,
+minoraverages/1945TSN,1944,Southern Association,,B00084,Bolton,W. Clifton,2,Chattanooga,,,35,,
+minoraverages/1945TSN,1944,Southern Association,,B00084,Bolton,W. Clifton,T,,,,63,,
+minoraverages/1945TSN,1944,Southern Association,,F22295,Bolton,,1,Little Rock,,,,,c
+minoraverages/1945TSN,1944,Southern Association,,F22295,Bolton,,2,Chattanooga,,,,,c
+minoraverages/1945TSN,1944,Southern Association,,F22295,Bolton,,T,,,,,,c60
+minoraverages/1945TSN,1944,Southern Association,,B00117,Boss,Harley,0,Chattanooga,,,67,,
+minoraverages/1945TSN,1944,Southern Association,,F20131,Boss,,0,Chattanooga,,,,,1b67
+minoraverages/1945TSN,1944,Southern Association,,B00362,Bowers,Grover,0,Memphis,,,25,,
+minoraverages/1945TSN,1944,Southern Association,,F21149,Bowers,,0,Memphis,,,,,of25
+minoraverages/1945TSN,1944,Southern Association,,B00488,Bradley,George,0,Memphis,,,122,,
+minoraverages/1945TSN,1944,Southern Association,,B00898,Bradley,Eugene,0,Birmingham,,,40,,
+minoraverages/1945TSN,1944,Southern Association,,F20115,Bradley,G.,0,Memphis,,,,,1b69
+minoraverages/1945TSN,1944,Southern Association,,F20571,Bradley,E.,0,Birmingham,,,,,3b17
+minoraverages/1945TSN,1944,Southern Association,,F20829,Bradley,E.,0,Birmingham,,,,,ss21
+minoraverages/1945TSN,1944,Southern Association,,F21013,Bradley,G.,0,Memphis,,,,,of49
+minoraverages/1945TSN,1944,Southern Association,,B00174,Brewster,Charles,0,Nashville,,,116,,
+minoraverages/1945TSN,1944,Southern Association,,F20792,Brewster,,0,Nashville,,,,,ss113
+minoraverages/1945TSN,1944,Southern Association,,B02478,Briede,Albert,0,New Orleans,,,5,,
+minoraverages/1945TSN,1944,Southern Association,,P10679,Briede,Albert,0,New Orleans,,,,5,p
+minoraverages/1945TSN,1944,Southern Association,,B02818,Brock,Lewis,0,Atlanta,,,5,,
+minoraverages/1945TSN,1944,Southern Association,,P10996,Brock,Lewis,0,Atlanta,,,,5,p
+minoraverages/1945TSN,1944,Southern Association,,B01663,Brown,Lloyd,0,Memphis,,,30,,
+minoraverages/1945TSN,1944,Southern Association,,B02043,Brown,Hubert W.,0,Mobile,,,10,,
+minoraverages/1945TSN,1944,Southern Association,,B02231,Brown,Virgil,0,Memphis,,,2,,
+minoraverages/1945TSN,1944,Southern Association,,B02407,Brown,Walter I.,0,Memphis,,,8,,
+minoraverages/1945TSN,1944,Southern Association,,F21912,Brown,L.,0,Memphis,,,,,p30
+minoraverages/1945TSN,1944,Southern Association,,F21999,Brown,H.,0,Mobile,,,,,p10
+minoraverages/1945TSN,1944,Southern Association,,P10184,Brown,L.,0,Memphis,,,,30,p
+minoraverages/1945TSN,1944,Southern Association,,P10738,Brown,Hubert,0,Mobile,,,,10,p
+minoraverages/1945TSN,1944,Southern Association,,P10767,Brown,Virgil,0,Memphis,,,,2,p
+minoraverages/1945TSN,1944,Southern Association,,P10780,Brown,Walter I.,0,Memphis,,,,8,p
+minoraverages/1945TSN,1944,Southern Association,,P11552,Brown,L.,0,Memphis,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,P12082,Brown,H.,0,Mobile,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,P12096,Brown,V.,0,Memphis,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02145,Brunke,Lawrence,0,Chattanooga,,,2,,
+minoraverages/1945TSN,1944,Southern Association,,P11080,Brunke,Lawrence,0,Chattanooga,,,,1,p
+minoraverages/1945TSN,1944,Southern Association,,B00356,Bruno,Paul,0,New Orleans,,,122,,
+minoraverages/1945TSN,1944,Southern Association,,F20997,Bruno,,0,New Orleans,,,,,of118
+minoraverages/1945TSN,1944,Southern Association,,P11189,Bruno,Paul,0,New Orleans,,,,4,p
+minoraverages/1945TSN,1944,Southern Association,,B01234,Burrows,John,0,Atlanta,,,30,,
+minoraverages/1945TSN,1944,Southern Association,,F21739,Burrows,,0,Atlanta,,,,,p30
+minoraverages/1945TSN,1944,Southern Association,,P10192,Burrows,,0,Atlanta,,,,30,p
+minoraverages/1945TSN,1944,Southern Association,,P12030,Burrows,,0,Atlanta,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B01754,Bush,Guy,0,Chattanooga,,,10,,
+minoraverages/1945TSN,1944,Southern Association,,F21528,Bush,,0,Chattanooga,,,,,p10
+minoraverages/1945TSN,1944,Southern Association,,P10100,Bush,,0,Chattanooga,,,,10,p
+minoraverages/1945TSN,1944,Southern Association,,P11784,Bush,,0,Chattanooga,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B01857,Callahan,Jos,0,Little Rock,,,38,,
+minoraverages/1945TSN,1944,Southern Association,,F22036,Callahan,,0,Little Rock,,,,,p38
+minoraverages/1945TSN,1944,Southern Association,,P10550,Callahan,,0,Little Rock,,,,38,p
+minoraverages/1945TSN,1944,Southern Association,,P11864,Callahan,,0,Little Rock,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B00264,Cantrell,Ben,0,Little Rock,,,111,,
+minoraverages/1945TSN,1944,Southern Association,,F21117,Cantrell,,0,Little Rock,,,,,of111
+minoraverages/1945TSN,1944,Southern Association,,B00747,Carlson,Robert,0,Nashville,,,98,,
+minoraverages/1945TSN,1944,Southern Association,,F20334,Carlson,,0,Nashville,,,,,2b28
+minoraverages/1945TSN,1944,Southern Association,,F20463,Carlson,,0,Nashville,,,,,3b26
+minoraverages/1945TSN,1944,Southern Association,,F20713,Carlson,,0,Nashville,,,,,ss32
+minoraverages/1945TSN,1944,Southern Association,,B01918,Carpenter,Lewis,0,Atlanta,,,34,,
+minoraverages/1945TSN,1944,Southern Association,,F22048,Carpenter,,0,Atlanta,,,,,p34
+minoraverages/1945TSN,1944,Southern Association,,P10121,Carpenter,,0,Atlanta,,,,34,p
+minoraverages/1945TSN,1944,Southern Association,,P11604,Carpenter,,0,Atlanta,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B01392,Carrola,Marcus,0,New Orleans,,,81,,
+minoraverages/1945TSN,1944,Southern Association,,F22116,Carrola,,0,New Orleans,,,,,c76
+minoraverages/1945TSN,1944,Southern Association,,B00544,Catchings,Benj.,0,Birmingham,,,74,,
+minoraverages/1945TSN,1944,Southern Association,,F20298,Catchings,,0,Birmingham,,,,,2b67
+minoraverages/1945TSN,1944,Southern Association,,B02516,Chatham,Charles,0,Memphis,,,9,,
+minoraverages/1945TSN,1944,Southern Association,,B02097,Chew,Raymond,0,Chattanooga,,,1,,
+minoraverages/1945TSN,1944,Southern Association,,B03051,Chitwood,Edgar,0,Nashville,,,2,,
+minoraverages/1945TSN,1944,Southern Association,,P11375,Chitwood,Edgar,0,Nashville,,,,2,p
+minoraverages/1945TSN,1944,Southern Association,,B01041,Chozen,Harry,0,Mobile,,,69,,
+minoraverages/1945TSN,1944,Southern Association,,F22134,Chozen,,0,Mobile,,,,,c63
+minoraverages/1945TSN,1944,Southern Association,,B01029,Cleary,Joseph,0,Chattanooga,,,33,,
+minoraverages/1945TSN,1944,Southern Association,,F21898,Cleary,,0,Chattanooga,,,,,p33
+minoraverages/1945TSN,1944,Southern Association,,P10611,Cleary,,0,Chattanooga,,,,33,p
+minoraverages/1945TSN,1944,Southern Association,,P11829,Cleary,,0,Chattanooga,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02192,Coakley,John,0,Memphis,,,7,,
+minoraverages/1945TSN,1944,Southern Association,,B00255,Coan,Gilbert,0,Chattanooga,,,48,,
+minoraverages/1945TSN,1944,Southern Association,,F21324,Coan,,0,Chattanooga,,,,,of48
+minoraverages/1945TSN,1944,Southern Association,,B02982,Cobb,Darwin,0,Birmingham,,,2,,
+minoraverages/1945TSN,1944,Southern Association,,P11051,Cobb,Darwin,0,Birmingham,,,,2,p
+minoraverages/1945TSN,1944,Southern Association,,B02486,Coffman,S. Richard,0,Birmingham,,,5,,
+minoraverages/1945TSN,1944,Southern Association,,P10860,Coffman,S. Richard,0,Birmingham,,,,5,p
+minoraverages/1945TSN,1944,Southern Association,,B00210,Collins,Stephen,0,Mobile,,,118,,
+minoraverages/1945TSN,1944,Southern Association,,F20316,Collins,,0,Mobile,,,,,2b112
+minoraverages/1945TSN,1944,Southern Association,,B01551,Comiskey,Robert,0,Chattanooga,,,48,,
+minoraverages/1945TSN,1944,Southern Association,,F22175,Comiskey,,0,Chattanooga,,,,,c47
+minoraverages/1945TSN,1944,Southern Association,,B02070,Cook,Arthur,0,Birmingham,,,10,,
+minoraverages/1945TSN,1944,Southern Association,,F21589,Cook,,0,Birmingham,,,,,p10
+minoraverages/1945TSN,1944,Southern Association,,P10665,Cook,Arthur,0,Birmingham,,,,10,p
+minoraverages/1945TSN,1944,Southern Association,,B03014,Cooke,Paul,0,New Orleans,,,3,,
+minoraverages/1945TSN,1944,Southern Association,,P11265,Cooke,Paul,0,New Orleans,,,,3,p
+minoraverages/1945TSN,1944,Southern Association,,B01836,Cordell,Wm.,0,Chattanooga,,,11,,
+minoraverages/1945TSN,1944,Southern Association,,F20425,Cordell,,0,Chattanooga,,,,,2b11
+minoraverages/1945TSN,1944,Southern Association,,B00442,Cozart,Charles,0,Atlanta,,,55,,
+minoraverages/1945TSN,1944,Southern Association,,F21822,Cozart,,0,Atlanta,,,,,p38
+minoraverages/1945TSN,1944,Southern Association,,P10373,Cozart,,0,Atlanta,,,,38,p
+minoraverages/1945TSN,1944,Southern Association,,P11518,Cozart,,0,Atlanta,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02176,Creeden,Cornelius,0,Little Rock,,,8,,
+minoraverages/1945TSN,1944,Southern Association,,B01376,Cronin,Frank,0,Atlanta,,,37,,
+minoraverages/1945TSN,1944,Southern Association,,F21609,Cronin,,0,Atlanta,,,,,p37
+minoraverages/1945TSN,1944,Southern Association,,P10113,Cronin,,0,Atlanta,,,,37,p
+minoraverages/1945TSN,1944,Southern Association,,P11673,Cronin,,0,Atlanta,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B01740,Cuellar,Charles,0,Nashville,,,32,,
+minoraverages/1945TSN,1944,Southern Association,,F21442,Cuellar,,0,Nashville,,,,,p29
+minoraverages/1945TSN,1944,Southern Association,,P10244,Cuellar,,0,Nashville,,,,29,p
+minoraverages/1945TSN,1944,Southern Association,,P11526,Cuellar,,0,Nashville,,,,,p
+minoraverages/emilbb,1944,Southern Association,,M90299,Cuyler,Kiki,,Memphis,,,,,
+minoraverages/1945TSN,1944,Southern Association,,B00651,Danaher,David,0,Mobile,,,74,,
+minoraverages/1945TSN,1944,Southern Association,,F21293,Danaher,,0,Mobile,,,,,of73
+minoraverages/1945TSN,1944,Southern Association,,B00811,Daniel,Richard,0,New Orleans,,,30,,
+minoraverages/1945TSN,1944,Southern Association,,B01197,Daniel,(Jake) Handley,0,Birmingham,,,129,,
+minoraverages/1945TSN,1944,Southern Association,,F20095,Daniel,Jake,0,Birmingham,,,,,1b128
+minoraverages/1945TSN,1944,Southern Association,,F21667,Daniel,R.,0,New Orleans,,,,,p30
+minoraverages/1945TSN,1944,Southern Association,,P10336,Daniel,R.,0,New Orleans,,,,30,p
+minoraverages/1945TSN,1944,Southern Association,,P11661,Daniel,,0,New Orleans,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B01674,Danna,Jesse,0,New Orleans,,,52,,
+minoraverages/1945TSN,1944,Southern Association,,F21961,Danna,,0,New Orleans,,,,,p38
+minoraverages/1945TSN,1944,Southern Association,,P10455,Danna,,0,New Orleans,,,,38,p
+minoraverages/1945TSN,1944,Southern Association,,P11496,Danna,,0,New Orleans,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B00324,Dantonio,John,0,New Orleans,,,107,,
+minoraverages/1945TSN,1944,Southern Association,,F20560,Dantonio,,0,New Orleans,,,,,3b67
+minoraverages/1945TSN,1944,Southern Association,,F22329,Dantonio,,0,New Orleans,,,,,c26
+minoraverages/1945TSN,1944,Southern Association,,B00059,Deal,Lindsey,0,Atlanta,,,135,,
+minoraverages/1945TSN,1944,Southern Association,,F21037,Deal,,0,Atlanta,,,,,of134
+minoraverages/1945TSN,1944,Southern Association,,B02591,Dean,Paul,0,Little Rock,,,8,,
+minoraverages/1945TSN,1944,Southern Association,,P10062,Dean,,0,Little Rock,,,,8,p
+minoraverages/1945TSN,1944,Southern Association,,P11943,Dean,,0,Little Rock,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02062,Denton,Buford,0,Chattanooga,,,11,,
+minoraverages/1945TSN,1944,Southern Association,,F22057,Denton,,0,Chattanooga,,,,,p11
+minoraverages/1945TSN,1944,Southern Association,,P10503,Denton,,0,Chattanooga,,,,11,p
+minoraverages/1945TSN,1944,Southern Association,,P12147,Denton,,0,Chattanooga,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B00833,Difani,Clarence,0,Little Rock,,,138,,
+minoraverages/1945TSN,1944,Southern Association,,F20254,Difani,,0,Little Rock,,,,,2b21
+minoraverages/1945TSN,1944,Southern Association,,F20496,Difani,,0,Little Rock,,,,,3b75
+minoraverages/1945TSN,1944,Southern Association,,F20841,Difani,,0,Little Rock,,,,,ss27
+minoraverages/1945TSN,1944,Southern Association,,F20908,Difani,,0,Little Rock,,,,,of16
+minoraverages/1945TSN,1944,Southern Association,,B02958,Dilbeck,Rex,0,Little Rock,,,2,,
+minoraverages/1945TSN,1944,Southern Association,,P11190,Dilbeck,Rex,0,Little Rock,,,,2,p
+minoraverages/1945TSN,1944,Southern Association,,B02137,Dodgen,James,0,Atlanta,,,2,,
+minoraverages/1945TSN,1944,Southern Association,,B02159,Dorman,George,0,Little Rock,,,9,,
+minoraverages/1945TSN,1944,Southern Association,,P10963,Dorman,George,0,Little Rock,,,,3,p
+minoraverages/1945TSN,1944,Southern Association,,B00752,Douglas,David,0,New Orleans,,,141,,
+minoraverages/1945TSN,1944,Southern Association,,F21092,Douglas,,0,New Orleans,,,,,of141
+minoraverages/1945TSN,1944,Southern Association,,B02432,Dowling,Clarence,0,Little Rock,,,7,,
+minoraverages/1945TSN,1944,Southern Association,,B01994,Doy,Daniel,0,Chattanooga,,,12,,
+minoraverages/1945TSN,1944,Southern Association,,B02714,Doyle,A. A.,0,Mobile,,,5,,
+minoraverages/1945TSN,1944,Southern Association,,P10826,Doyle,A. A.,0,Mobile,,,,5,p
+minoraverages/1945TSN,1944,Southern Association,,P11924,Doyle,,0,Mobile,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B01321,Drake,Lawrence,0,Mobile,,,15,,
+minoraverages/1945TSN,1944,Southern Association,,F21403,Drake,,0,Mobile,,,,,of12
+minoraverages/1945TSN,1944,Southern Association,,B01905,Drefs,Herman,0,Memphis,,,30,,
+minoraverages/1945TSN,1944,Southern Association,,F21811,Drefs,,0,Memphis,,,,,p30
+minoraverages/1945TSN,1944,Southern Association,,P10159,Drefs,,0,Memphis,,,,30,p
+minoraverages/1945TSN,1944,Southern Association,,P11612,Drefs,,0,Memphis,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02852,Duncan,John,0,Chattanooga,,,2,,
+minoraverages/1945TSN,1944,Southern Association,,P11177,Duncan,John,0,Chattanooga,,,,2,p
+minoraverages/1945TSN,1944,Southern Association,,B00854,Dunn,Cecil,1,Mobile,,,101,,
+minoraverages/1945TSN,1944,Southern Association,,B00854,Dunn,Cecil,2,Chattanooga,,,33,,
+minoraverages/1945TSN,1944,Southern Association,,B00854,Dunn,Cecil,T,,,,134,,
+minoraverages/1945TSN,1944,Southern Association,,F20153,Dunn,,1,Mobile,,,,,1b
+minoraverages/1945TSN,1944,Southern Association,,F20153,Dunn,,2,Chattanooga,,,,,1b
+minoraverages/1945TSN,1944,Southern Association,,F20153,Dunn,,T,,,,,,1b132
+minoraverages/1945TSN,1944,Southern Association,,B00101,Elko,Peter,0,Nashville,,,114,,
+minoraverages/1945TSN,1944,Southern Association,,F20505,Elko,,0,Nashville,,,,,3b114
+minoraverages/1945TSN,1944,Southern Association,,B01861,Elliott,Raymond,0,Chattanooga,,,10,,
+minoraverages/1945TSN,1944,Southern Association,,F22341,Elliott,,0,Chattanooga,,,,,c10
+minoraverages/1945TSN,1944,Southern Association,,B01722,Ellis,Nicholas,0,Mobile,,,10,,
+minoraverages/1945TSN,1944,Southern Association,,F21948,Ellis,,0,Mobile,,,,,p10
+minoraverages/1945TSN,1944,Southern Association,,P10588,Ellis,,0,Mobile,,,,10,p
+minoraverages/1945TSN,1944,Southern Association,,P11962,Ellis,,0,Mobile,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02963,Erickson,George,0,Atlanta,,,1,,
+minoraverages/1945TSN,1944,Southern Association,,P11327,Erickson,George,0,Atlanta,,,,1,p
+minoraverages/1945TSN,1944,Southern Association,,B02024,Ernst,Donald,0,New Orleans,,,15,,
+minoraverages/1945TSN,1944,Southern Association,,F22073,Ernst,,0,New Orleans,,,,,p15
+minoraverages/1945TSN,1944,Southern Association,,P10633,Ernst,,0,New Orleans,,,,15,p
+minoraverages/1945TSN,1944,Southern Association,,B00469,Estevez,Ernesto,0,Atlanta,,,24,,
+minoraverages/1945TSN,1944,Southern Association,,F20878,Estevez,,0,Atlanta,,,,,ss22
+minoraverages/1945TSN,1944,Southern Association,,B02654,Evans,Walter,0,Birmingham,,,8,,
+minoraverages/1945TSN,1944,Southern Association,,P10871,Evans,Walter,0,Birmingham,,,,8,p
+minoraverages/1945TSN,1944,Southern Association,,B02795,Ewing,Wallace,0,Chattanooga,,,1,,
+minoraverages/1945TSN,1944,Southern Association,,P11072,Ewing,Wallace,0,Chattanooga,,,,1,p
+minoraverages/1945TSN,1944,Southern Association,,B01288,Fajo,Mario,0,Atlanta,,,53,,
+minoraverages/1945TSN,1944,Southern Association,,F20886,Fajo,,0,Atlanta,,,,,ss37
+minoraverages/1945TSN,1944,Southern Association,,P11233,Fajo,Mario,0,Atlanta,,,,4,p
+minoraverages/1945TSN,1944,Southern Association,,B01119,Fallon,Henry,0,Atlanta,,,18,,
+minoraverages/1945TSN,1944,Southern Association,,F20620,Fallon,,0,Atlanta,,,,,3b13
+minoraverages/1945TSN,1944,Southern Association,,B01345,Ferguson,Robert,0,Birmingham,,,29,,
+minoraverages/1945TSN,1944,Southern Association,,F21771,Ferguson,,0,Birmingham,,,,,p26
+minoraverages/1945TSN,1944,Southern Association,,P10070,Ferguson,,0,Birmingham,,,,26,p
+minoraverages/1945TSN,1944,Southern Association,,P11583,Ferguson,,0,Birmingham,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B03072,Fiest,Bernard,0,New Orleans,,,2,,
+minoraverages/1945TSN,1944,Southern Association,,P11425,Fiest,Bernard,0,New Orleans,,,,2,p
+minoraverages/1945TSN,1944,Southern Association,,B00822,Flager,Walter,0,Birmingham,,,123,,
+minoraverages/1945TSN,1944,Southern Association,,F20737,Flager,,0,Birmingham,,,,,ss113
+minoraverages/1945TSN,1944,Southern Association,,B01384,Fox,Howard,0,Birmingham,,,56,,
+minoraverages/1945TSN,1944,Southern Association,,F21416,Fox,,0,Birmingham,,,,,p37
+minoraverages/1945TSN,1944,Southern Association,,P10043,Fox,,0,Birmingham,,,,37,p
+minoraverages/1945TSN,1944,Southern Association,,P11463,Fox,,0,Birmingham,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B00013,Franklin,Jack,0,New Orleans,,,13,,
+minoraverages/1945TSN,1944,Southern Association,,F21590,Franklin,,0,New Orleans,,,,,p11
+minoraverages/1945TSN,1944,Southern Association,,P10640,Franklin,Jack,0,New Orleans,,,,11,p
+minoraverages/1945TSN,1944,Southern Association,,B00577,Frantz,Arthur,0,Mobile,,,40,,
+minoraverages/1945TSN,1944,Southern Association,,F20864,Frantz,,0,Mobile,,,,,ss40
+minoraverages/1945TSN,1944,Southern Association,,B00999,Fritsch,Theodore,0,Nashville,,,20,,
+minoraverages/1945TSN,1944,Southern Association,,F20893,Fritsch,,0,Nashville,,,,,of19
+minoraverages/1945TSN,1944,Southern Association,,B02640,Furey,Richard,0,New Orleans,,,4,,
+minoraverages/1945TSN,1944,Southern Association,,P10751,Furey,Richard,0,New Orleans,,,,4,p
+minoraverages/1945TSN,1944,Southern Association,,B00680,Garmendia,Oscar,1,Atlanta,,,37,,
+minoraverages/1945TSN,1944,Southern Association,,B00680,Garmendia,Oscar,2,Mobile,,,43,,
+minoraverages/1945TSN,1944,Southern Association,,B00680,Garmendia,Oscar,T,,,,80,,
+minoraverages/1945TSN,1944,Southern Association,,F21210,Garmendia,,1,Atlanta,,,,,of
+minoraverages/1945TSN,1944,Southern Association,,F21210,Garmendia,,2,Mobile,,,,,of
+minoraverages/1945TSN,1944,Southern Association,,F21210,Garmendia,,T,,,,,,of69
+minoraverages/1945TSN,1944,Southern Association,,B00887,Garner,Robert,1,Nashville,,,36,,
+minoraverages/1945TSN,1944,Southern Association,,B00887,Garner,Robert,2,Mobile,,,16,,
+minoraverages/1945TSN,1944,Southern Association,,B00887,Garner,Robert,T,,,,52,,
+minoraverages/1945TSN,1944,Southern Association,,F21397,Garner,,1,Nashville,,,,,of
+minoraverages/1945TSN,1944,Southern Association,,F21397,Garner,,2,Mobile,,,,,of
+minoraverages/1945TSN,1944,Southern Association,,F21397,Garner,,T,,,,,,of29
+minoraverages/1945TSN,1944,Southern Association,,F21577,Garner,,1,Nashville,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,F21577,Garner,,2,Mobile,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,F21577,Garner,,T,,,,,,p13
+minoraverages/1945TSN,1944,Southern Association,,P10839,Garner,Robert,1,Nashville,,,,5,p
+minoraverages/1945TSN,1944,Southern Association,,P10839,Garner,Robert,2,Mobile,,,,8,p
+minoraverages/1945TSN,1944,Southern Association,,P10839,Garner,Robert,T,,,,,13,p
+minoraverages/1945TSN,1944,Southern Association,,P12074,Garner,,1,Nashville,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,P12074,Garner,,2,Mobile,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,P12074,Garner,,T,,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B00196,Gearhart,Lloyd,0,Atlanta,,,61,,
+minoraverages/1945TSN,1944,Southern Association,,F21335,Gearhart,,0,Atlanta,,,,,of46
+minoraverages/1945TSN,1944,Southern Association,,B00158,George,Charles,0,Nashville,,,94,,
+minoraverages/1945TSN,1944,Southern Association,,F20970,George,,0,Nashville,,,,,of89
+minoraverages/1945TSN,1944,Southern Association,,B02336,Gibbs,Frank,0,Mobile,,,9,,
 minoraverages/emilbb,1944,Southern Association,,M90301,Gilbert,Larry,,Nashville,,,,,
+minoraverages/1945TSN,1944,Southern Association,,B00879,Gildig,Russell,0,New Orleans,,,27,,
+minoraverages/1945TSN,1944,Southern Association,,F20388,Gildig,,0,New Orleans,,,,,2b15
+minoraverages/1945TSN,1944,Southern Association,,B01477,Godfredson,Vernon,0,Mobile,,,36,,
+minoraverages/1945TSN,1944,Southern Association,,F21865,Godfredson,,0,Mobile,,,,,p32
+minoraverages/1945TSN,1944,Southern Association,,P10493,Godfredson,,0,Mobile,,,,32,p
+minoraverages/1945TSN,1944,Southern Association,,P11810,Godfredson,,0,Mobile,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B01156,Godwin,Marlin C.,0,Little Rock,,,31,,
+minoraverages/1945TSN,1944,Southern Association,,F20046,Godwin,,0,Little Rock,,,,,1b30
+minoraverages/1945TSN,1944,Southern Association,,P11128,Goicoechea,Leonardo,0,Chattanooga,,,,7,p
+minoraverages/1945TSN,1944,Southern Association,,B02464,Golcoechea,Leonardo,0,Chattanooga,,,7,,
+minoraverages/1945TSN,1944,Southern Association,,B00335,Gonzales,Joseph,0,Mobile,,,56,,
+minoraverages/1945TSN,1944,Southern Association,,F20943,Gonzales,,0,Mobile,,,,,of54
+minoraverages/1945TSN,1944,Southern Association,,B00229,Goodman,William,0,Atlanta,,,137,,
+minoraverages/1945TSN,1944,Southern Association,,F21158,Goodman,,0,Atlanta,,,,,of136
+minoraverages/1945TSN,1944,Southern Association,,B00278,Gray (Wyshner),Peter,0,Memphis,,,129,,
+minoraverages/1945TSN,1944,Southern Association,,F20956,Gray (Wyshner),,0,Memphis,,,,,of129
+minoraverages/1945TSN,1944,Southern Association,,B01733,Greer,Edward,1,Little Rock,,,3,,
+minoraverages/1945TSN,1944,Southern Association,,B01733,Greer,Edward,2,Memphis,,,22,,
+minoraverages/1945TSN,1944,Southern Association,,B01733,Greer,Edward,T,,,,23,,
+minoraverages/1945TSN,1944,Southern Association,,F21794,Greer,,1,Little Rock,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,F21794,Greer,,2,Memphis,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,F21794,Greer,,T,,,,,,p25
+minoraverages/1945TSN,1944,Southern Association,,P10137,Greer,,1,Little Rock,,,,3,p
+minoraverages/1945TSN,1944,Southern Association,,P10137,Greer,,2,Memphis,,,,22,p
+minoraverages/1945TSN,1944,Southern Association,,P10137,Greer,,T,,,,,25,p
+minoraverages/1945TSN,1944,Southern Association,,P11657,Greer,,1,Little Rock,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,P11657,Greer,,2,Memphis,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,P11657,Greer,,T,,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B01711,Gregory,Kenneth,0,Memphis,,,24,,
+minoraverages/1945TSN,1944,Southern Association,,F21021,Gregory,,0,Memphis,,,,,of16
+minoraverages/1945TSN,1944,Southern Association,,B00718,Gunnells,Luther,0,Atlanta,,,60,,
+minoraverages/1945TSN,1944,Southern Association,,F20768,Gunnells,,0,Atlanta,,,,,ss60
+minoraverages/1945TSN,1944,Southern Association,,B02113,Halstead,Irv,0,New Orleans,,,6,,
+minoraverages/1945TSN,1944,Southern Association,,B01630,Hamilton,Luther,0,Little Rock,,,18,,
+minoraverages/1945TSN,1944,Southern Association,,F21553,Hamilton,,0,Little Rock,,,,,p11
+minoraverages/1945TSN,1944,Southern Association,,P10606,Hamilton,,0,Little Rock,,,,11,p
+minoraverages/1945TSN,1944,Southern Association,,P12001,Hamilton,,0,Little Rock,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02503,Harris,William,0,Little Rock,,,5,,
+minoraverages/1945TSN,1944,Southern Association,,P10883,Harris,William,0,Little Rock,,,,5,p
+minoraverages/1945TSN,1944,Southern Association,,B00783,Hart,William,0,New Orleans,,,113,,
+minoraverages/1945TSN,1944,Southern Association,,F20449,Hart,,0,New Orleans,,,,,3b46
+minoraverages/1945TSN,1944,Southern Association,,F20648,Hart,,0,New Orleans,,,,,ss69
+minoraverages/1945TSN,1944,Southern Association,,B01649,Hawkins,Fred,0,Mobile,,,44,,
+minoraverages/1945TSN,1944,Southern Association,,F20759,Hawkins,,0,Mobile,,,,,ss44
+minoraverages/1945TSN,1944,Southern Association,,B00609,Heinsz,Wilburn,0,Memphis,,,54,,
+minoraverages/1945TSN,1944,Southern Association,,F20327,Heinsz,,0,Memphis,,,,,2b26
+minoraverages/1945TSN,1944,Southern Association,,B01546,Helwig,Frederick,0,New Orleans,,,15,,
+minoraverages/1945TSN,1944,Southern Association,,B02385,Henderson,Charles,1,New Orleans,,,7,,
+minoraverages/1945TSN,1944,Southern Association,,B02385,Henderson,Charles,2,Atlanta,,,2,,
+minoraverages/1945TSN,1944,Southern Association,,B02385,Henderson,Charles,T,,,,9,,
+minoraverages/1945TSN,1944,Southern Association,,B00865,Hennessey,George,0,Nashville,,,21,,
+minoraverages/1945TSN,1944,Southern Association,,F21695,Hennessey,,0,Nashville,,,,,p20
+minoraverages/1945TSN,1944,Southern Association,,P10289,Hennessey,,0,Nashville,,,,20,p
+minoraverages/1945TSN,1944,Southern Association,,P11700,Hennessey,,0,Nashville,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B00403,Hicks,Melvin,0,Nashville,,,126,,
+minoraverages/1945TSN,1944,Southern Association,,F20102,Hicks,,0,Nashville,,,,,1b126
+minoraverages/1945TSN,1944,Southern Association,,B02839,Hochthurn,James,0,Little Rock,,,3,,
+minoraverages/1945TSN,1944,Southern Association,,P11211,Hochthurn,James,0,Little Rock,,,,3,p
+minoraverages/1945TSN,1944,Southern Association,,B01804,Hoffman,Harold,0,Little Rock,,,33,,
+minoraverages/1945TSN,1944,Southern Association,,F20144,Hoffman,,0,Little Rock,,,,,1b14
+minoraverages/1945TSN,1944,Southern Association,,F22272,Hoffman,,0,Little Rock,,,,,c15
+minoraverages/1945TSN,1944,Southern Association,,B00771,Holliday,Hugh,0,Memphis,,,74,,
+minoraverages/1945TSN,1944,Southern Association,,F20067,Holliday,,0,Memphis,,,,,1b11
+minoraverages/1945TSN,1944,Southern Association,,F21255,Holliday,,0,Memphis,,,,,of57
+minoraverages/1945TSN,1944,Southern Association,,B02930,Howard,Neil,0,New Orleans,,,3,,
+minoraverages/1945TSN,1944,Southern Association,,P11067,Howard,Neil,0,New Orleans,,,,3,p
+minoraverages/1945TSN,1944,Southern Association,,B00961,Howell,Murray,0,Atlanta,,,25,,
+minoraverages/1945TSN,1944,Southern Association,,F21286,Howell,,0,Atlanta,,,,,of17
+minoraverages/1945TSN,1944,Southern Association,,B00319,Hower,Carl,0,Atlanta,,,33,,
+minoraverages/1945TSN,1944,Southern Association,,F22188,Hower,,0,Atlanta,,,,,c23
+minoraverages/1945TSN,1944,Southern Association,,B02081,Hubbell,John,0,Atlanta,,,2,,
+minoraverages/1945TSN,1944,Southern Association,,P11095,Hubbell,John,0,Atlanta,,,,2,p
+minoraverages/1945TSN,1944,Southern Association,,B01466,Hudlin,Willis,0,Little Rock,,,24,,
+minoraverages/1945TSN,1944,Southern Association,,F21434,Hudlin,,0,Little Rock,,,,,p22
+minoraverages/1945TSN,1944,Southern Association,,P10035,Hudlin,,0,Little Rock,,,,22,p
+minoraverages/1945TSN,1944,Southern Association,,P11685,Hudlin,,0,Little Rock,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B01971,Hunt,Forest,0,Birmingham,,,24,,
+minoraverages/1945TSN,1944,Southern Association,,F22099,Hunt,,0,Birmingham,,,,,c24
+minoraverages/1945TSN,1944,Southern Association,,B02455,Hyatt,Robert,0,Little Rock,,,5,,
+minoraverages/1945TSN,1944,Southern Association,,B00614,Ivy,Melvin,0,Atlanta,,,106,,
+minoraverages/1945TSN,1944,Southern Association,,F22223,Ivy,,0,Atlanta,,,,,c97
+minoraverages/1945TSN,1944,Southern Association,,B01580,Jackson,Rufus,1,Chattanooga,,,6,,
+minoraverages/1945TSN,1944,Southern Association,,B01580,Jackson,Rufus,2,Little Rock,,,17,,
+minoraverages/1945TSN,1944,Southern Association,,B01580,Jackson,Rufus,3,Birmingham,,,6,,
+minoraverages/1945TSN,1944,Southern Association,,B01580,Jackson,Rufus,T,,,,29,,
+minoraverages/1945TSN,1944,Southern Association,,F22355,Jackson,,1,Chattanooga,,,,,c
+minoraverages/1945TSN,1944,Southern Association,,F22355,Jackson,,2,Little Rock,,,,,c
+minoraverages/1945TSN,1944,Southern Association,,F22355,Jackson,,3,Birmingham,,,,,c
+minoraverages/1945TSN,1944,Southern Association,,F22355,Jackson,,T,,,,,,c27
+minoraverages/1945TSN,1944,Southern Association,,B01960,Jansen,Udo,0,Little Rock,,,16,,
+minoraverages/1945TSN,1944,Southern Association,,F20189,Jansen,,0,Little Rock,,,,,1b16
+minoraverages/1945TSN,1944,Southern Association,,B02304,Jiminez,Pedro,0,Atlanta,,,8,,
+minoraverages/1945TSN,1944,Southern Association,,P10746,Jiminez,Pedro,0,Atlanta,,,,8,p
+minoraverages/1945TSN,1944,Southern Association,,B00068,Johnson,Vernon,1,Little Rock,,,33,,
+minoraverages/1945TSN,1944,Southern Association,,B00068,Johnson,Vernon,2,Nashville,,,4,,
+minoraverages/1945TSN,1944,Southern Association,,B00068,Johnson,Vernon,T,,,,37,,
+minoraverages/1945TSN,1944,Southern Association,,B00726,Johnson,Lynn,1,Atlanta,,,4,,
+minoraverages/1945TSN,1944,Southern Association,,B00726,Johnson,Lynn,2,Little Rock,,,34,,
+minoraverages/1945TSN,1944,Southern Association,,B00726,Johnson,Lynn,T,,,,38,,
+minoraverages/1945TSN,1944,Southern Association,,F20636,Johnson,,1,Atlanta,,,,,3b
+minoraverages/1945TSN,1944,Southern Association,,F20636,Johnson,,2,Little Rock,,,,,3b
+minoraverages/1945TSN,1944,Southern Association,,F20636,Johnson,,T,,,,,,3b13
+minoraverages/1945TSN,1944,Southern Association,,F21370,Johnson,,1,Little Rock,,,,,of
+minoraverages/1945TSN,1944,Southern Association,,F21370,Johnson,,2,Nashville,,,,,of
+minoraverages/1945TSN,1944,Southern Association,,F21370,Johnson,,T,,,,,,of36
+minoraverages/1945TSN,1944,Southern Association,,B02894,Jones,Rudolph,0,Atlanta,,,4,,
+minoraverages/1945TSN,1944,Southern Association,,B02253,Kania,Joseph,0,Memphis,,,2,,
+minoraverages/1945TSN,1944,Southern Association,,P11009,Kania,Joseph,0,Memphis,,,,2,p
+minoraverages/1945TSN,1944,Southern Association,,B01885,Kearney,Charles,0,Mobile,,,26,,
+minoraverages/1945TSN,1944,Southern Association,,F21651,Kearney,,0,Mobile,,,,,p26
+minoraverages/1945TSN,1944,Southern Association,,P10542,Kearney,,0,Mobile,,,,26,p
+minoraverages/1945TSN,1944,Southern Association,,P11776,Kearney,,0,Mobile,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02266,Kelly,Robert,0,New Orleans,,,7,,
+minoraverages/1945TSN,1944,Southern Association,,P11153,Kelly,Robert,0,New Orleans,,,,7,p
+minoraverages/1945TSN,1944,Southern Association,,B01162,Kern,Rusell,0,Nashville,,,44,,
+minoraverages/1945TSN,1944,Southern Association,,F20924,Kern,,0,Nashville,,,,,of13
+minoraverages/1945TSN,1944,Southern Association,,F22103,Kern,,0,Nashville,,,,,c26
+minoraverages/1945TSN,1944,Southern Association,,B01227,Kinder,Ellis,0,Memphis,,,35,,
+minoraverages/1945TSN,1944,Southern Association,,F21646,Kinder,,0,Memphis,,,,,p30
+minoraverages/1945TSN,1944,Southern Association,,P10056,Kinder,,0,Memphis,,,,30,p
+minoraverages/1945TSN,1944,Southern Association,,P11482,Kinder,,0,Memphis,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B00427,King,Walter,0,New Orleans,,,31,,
+minoraverages/1945TSN,1944,Southern Association,,B01203,King,Moses,0,Nashville,,,76,,
+minoraverages/1945TSN,1944,Southern Association,,F20661,King,,0,New Orleans,,,,,ss24
+minoraverages/1945TSN,1944,Southern Association,,F21278,King,,0,Nashville,,,,,of63
+minoraverages/1945TSN,1944,Southern Association,,F22085,King,,0,Nashville,,,,,p15
+minoraverages/1945TSN,1944,Southern Association,,P10847,King,Moser,0,Nashville,,,,15,p
+minoraverages/1945TSN,1944,Southern Association,,B00130,Kinney,T. Shelby,0,Atlanta,,,30,,
+minoraverages/1945TSN,1944,Southern Association,,F21502,Kinney,,0,Atlanta,,,,,p30
+minoraverages/1945TSN,1944,Southern Association,,P10024,Kinney,,0,Atlanta,,,,30,p
+minoraverages/1945TSN,1944,Southern Association,,B01093,Kirby,Edward,1,Chattanooga,,,88,,
+minoraverages/1945TSN,1944,Southern Association,,B01093,Kirby,Edward,2,Atlanta,,,26,,
+minoraverages/1945TSN,1944,Southern Association,,B01093,Kirby,Edward,T,,,,114,,
+minoraverages/1945TSN,1944,Southern Association,,F20265,Kirby,,1,Chattanooga,,,,,2b
+minoraverages/1945TSN,1944,Southern Association,,F20265,Kirby,,2,Atlanta,,,,,2b
+minoraverages/1945TSN,1944,Southern Association,,F20265,Kirby,,T,,,,,,2b39
+minoraverages/1945TSN,1944,Southern Association,,F20745,Kirby,,1,Chattanooga,,,,,ss
+minoraverages/1945TSN,1944,Southern Association,,F20745,Kirby,,2,Atlanta,,,,,ss
+minoraverages/1945TSN,1944,Southern Association,,F20745,Kirby,,T,,,,,,ss75
+minoraverages/1945TSN,1944,Southern Association,,B02534,Klein,Nicholas,0,Atlanta,,,5,,
+minoraverages/1945TSN,1944,Southern Association,,B01402,Klonowski,Theodore,1,New Orleans,,,31,,
+minoraverages/1945TSN,1944,Southern Association,,B01402,Klonowski,Theodore,2,Mobile,,,35,,
+minoraverages/1945TSN,1944,Southern Association,,B01402,Klonowski,Theodore,T,,,,66,,
+minoraverages/1945TSN,1944,Southern Association,,F21125,Klonowski,,1,New Orleans,,,,,of
+minoraverages/1945TSN,1944,Southern Association,,F21125,Klonowski,,2,Mobile,,,,,of
+minoraverages/1945TSN,1944,Southern Association,,F21125,Klonowski,,T,,,,,,of64
+minoraverages/1945TSN,1944,Southern Association,,B01337,Kosman,Michael,1,Birmingham,,,42,,
+minoraverages/1945TSN,1944,Southern Association,,B01337,Kosman,Michael,2,Mobile,,,60,,
+minoraverages/1945TSN,1944,Southern Association,,B01337,Kosman,Michael,T,,,,102,,
+minoraverages/1945TSN,1944,Southern Association,,F20211,Kosman,,1,Birmingham,,,,,2b
+minoraverages/1945TSN,1944,Southern Association,,F20211,Kosman,,2,Mobile,,,,,2b
+minoraverages/1945TSN,1944,Southern Association,,F20211,Kosman,,T,,,,,,2b15
+minoraverages/1945TSN,1944,Southern Association,,F20981,Kosman,,1,Birmingham,,,,,of
+minoraverages/1945TSN,1944,Southern Association,,F20981,Kosman,,2,Mobile,,,,,of
+minoraverages/1945TSN,1944,Southern Association,,F20981,Kosman,,T,,,,,,of70
+minoraverages/1945TSN,1944,Southern Association,,B02121,Kraft,Richard,0,Birmingham,,,4,,
+minoraverages/1945TSN,1944,Southern Association,,P11014,Kraft,Richard,0,Birmingham,,,,4,p
+minoraverages/1945TSN,1944,Southern Association,,B02606,Labanara,Edward,0,Nashville,,,7,,
+minoraverages/1945TSN,1944,Southern Association,,B01617,Langley,J. D.,0,Chattanooga,,,16,,
+minoraverages/1945TSN,1944,Southern Association,,F20206,Langley,,0,Chattanooga,,,,,1b10
+minoraverages/1945TSN,1944,Southern Association,,P11350,Langley,J. D.,0,Chattanooga,,,,1,p
+minoraverages/1945TSN,1944,Southern Association,,B01899,Lawson,Elwood,0,Chattanooga,,,24,,
+minoraverages/1945TSN,1944,Southern Association,,F21488,Lawson,,0,Chattanooga,,,,,p22
+minoraverages/1945TSN,1944,Southern Association,,P10290,Lawson,,0,Chattanooga,,,,22,p
+minoraverages/1945TSN,1944,Southern Association,,P11713,Lawson,,0,Chattanooga,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02429,Layton,William,0,Chattanooga,,,4,,
+minoraverages/1945TSN,1944,Southern Association,,B01926,Lease,Joseph,0,Birmingham,,,35,,
+minoraverages/1945TSN,1944,Southern Association,,F21760,Lease,,0,Birmingham,,,,,p35
+minoraverages/1945TSN,1944,Southern Association,,P10320,Lease,,0,Birmingham,,,,35,p
+minoraverages/1945TSN,1944,Southern Association,,P11878,Lease,,0,Birmingham,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B00936,Leitz,Albert,0,Nashville,,,99,,
+minoraverages/1945TSN,1944,Southern Association,,F22169,Leitz,,0,Nashville,,,,,c97
+minoraverages/1945TSN,1944,Southern Association,,B00491,Leonard,David,0,Little Rock,,,26,,
+minoraverages/1945TSN,1944,Southern Association,,F20482,Leonard,,0,Little Rock,,,,,3b26
+minoraverages/1945TSN,1944,Southern Association,,B02996,Leopold,Paul,0,New Orleans,,,1,,
+minoraverages/1945TSN,1944,Southern Association,,P11342,Leopold,Paul,0,New Orleans,,,,1,p
+minoraverages/1945TSN,1944,Southern Association,,B00232,Lewis,William,0,Mobile,,,80,,
+minoraverages/1945TSN,1944,Southern Association,,F22127,Lewis,,0,Mobile,,,,,c70
+minoraverages/1945TSN,1944,Southern Association,,P11334,Lewis,William,0,Mobile,,,,1,p
 minoraverages/emilbb,1944,Southern Association,,M90349,Lewis,Buddy,,Knoxville/Mobile,,,,,
+minoraverages/1945TSN,1944,Southern Association,,B00646,Lipscomb,Gerald,0,Atlanta,,,129,,
+minoraverages/1945TSN,1944,Southern Association,,F20014,Lipscomb,,0,Atlanta,,,,,1b18
+minoraverages/1945TSN,1944,Southern Association,,F20474,Lipscomb,,0,Atlanta,,,,,3b104
+minoraverages/1945TSN,1944,Southern Association,,B02550,Logg,Lester,0,Nashville,,,9,,
+minoraverages/1945TSN,1944,Southern Association,,P10925,Logg,Lester,0,Nashville,,,,9,p
+minoraverages/1945TSN,1944,Southern Association,,B01538,Long,Daniel,0,Nashville,,,24,,
+minoraverages/1945TSN,1944,Southern Association,,B02780,Long,John,0,Memphis,,,2,,
+minoraverages/1945TSN,1944,Southern Association,,F22251,Long,,0,Nashville,,,,,c23
+minoraverages/1945TSN,1944,Southern Association,,P11023,Long,John,0,Memphis,,,,2,p
+minoraverages/1945TSN,1944,Southern Association,,B01124,Lopez,Jose,0,Chattanooga,,,17,,
+minoraverages/1945TSN,1944,Southern Association,,F22332,Lopez,,0,Chattanooga,,,,,c17
+minoraverages/1945TSN,1944,Southern Association,,B00286,Lucas,Charles,0,Nashville,,,42,,
+minoraverages/1945TSN,1944,Southern Association,,F21806,Lucas,,0,Nashville,,,,,p16
+minoraverages/1945TSN,1944,Southern Association,,P10723,Lucas,Charles,0,Nashville,,,,16,p
+minoraverages/1945TSN,1944,Southern Association,,P12049,Lucas,,0,Nashville,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02100,MacDonald,J. Howard,0,Little Rock,,,2,,
+minoraverages/1945TSN,1944,Southern Association,,B01431,Mann,B. Garth,0,Nashville,,,25,,
+minoraverages/1945TSN,1944,Southern Association,,F22012,Mann,,0,Nashville,,,,,p22
+minoraverages/1945TSN,1944,Southern Association,,P10464,Mann,,0,Nashville,,,,22,p
+minoraverages/1945TSN,1944,Southern Association,,P11807,Mann,,0,Nashville,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02588,Marsh,Fred,0,Mobile,,,6,,
+minoraverages/1945TSN,1944,Southern Association,,B01939,Marshall,Clarence,0,Memphis,,,21,,
+minoraverages/1945TSN,1944,Southern Association,,F21840,Marshall,,0,Memphis,,,,,p21
+minoraverages/1945TSN,1944,Southern Association,,P10407,Marshall,,0,Memphis,,,,21,p
+minoraverages/1945TSN,1944,Southern Association,,B00149,Martin,Paul,0,Memphis,,,104,,
+minoraverages/1945TSN,1944,Southern Association,,B00920,Martin,Frank,0,Mobile,,,43,,
+minoraverages/1945TSN,1944,Southern Association,,F21182,Martin,,0,Memphis,,,,,of98
+minoraverages/1945TSN,1944,Southern Association,,F21207,Martin,,0,Mobile,,,,,of11
+minoraverages/1945TSN,1944,Southern Association,,F22280,Martin,,0,Mobile,,,,,c18
+minoraverages/1945TSN,1944,Southern Association,,B02925,Mason,Warren,0,Memphis,,,1,,
+minoraverages/1945TSN,1944,Southern Association,,P11298,Mason,Warren,0,Memphis,,,,1,p
+minoraverages/1945TSN,1944,Southern Association,,B00370,Mauldin,Marshall,0,Atlanta,,,95,,
+minoraverages/1945TSN,1944,Southern Association,,F20604,Mauldin,,0,Atlanta,,,,,3b23
+minoraverages/1945TSN,1944,Southern Association,,F20935,Mauldin,,0,Atlanta,,,,,of75
+minoraverages/1945TSN,1944,Southern Association,,B01572,Mauney,Richard,0,Atlanta,,,40,,
+minoraverages/1945TSN,1944,Southern Association,,F21614,Mauney,,0,Atlanta,,,,,p36
+minoraverages/1945TSN,1944,Southern Association,,P10304,Mauney,,0,Atlanta,,,,36,p
+minoraverages/1945TSN,1944,Southern Association,,P11594,Mauney,,0,Atlanta,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B00553,Mavis,Robert,0,Little Rock,,,128,,
+minoraverages/1945TSN,1944,Southern Association,,F20350,Mavis,,0,Little Rock,,,,,2b117
+minoraverages/1945TSN,1944,Southern Association,,F20807,Mavis,,0,Little Rock,,,,,ss11
+minoraverages/1945TSN,1944,Southern Association,,B00794,McBee,Edwin,0,Nashville,,,35,,
+minoraverages/1945TSN,1944,Southern Association,,F21264,McBee,,0,Nashville,,,,,of34
+minoraverages/1945TSN,1944,Southern Association,,B00125,McBryde,Garrett,0,Mobile,,,36,,
+minoraverages/1945TSN,1944,Southern Association,,F21343,McBryde,,0,Mobile,,,,,of35
+minoraverages/1945TSN,1944,Southern Association,,B01032,McClure,Oscar,0,Memphis,,,128,,
+minoraverages/1945TSN,1944,Southern Association,,F20279,McClure,,0,Memphis,,,,,2b118
+minoraverages/1945TSN,1944,Southern Association,,F20673,McClure,,0,Memphis,,,,,ss12
+minoraverages/1945TSN,1944,Southern Association,,B02917,McCormick,Norman,0,Chattanooga,,,1,,
+minoraverages/1945TSN,1944,Southern Association,,P11430,McCormick,Norman,0,Chattanooga,,,,1,p
+minoraverages/1945TSN,1944,Southern Association,,B00590,McGarrity,Leslie,0,Memphis,,,74,,
+minoraverages/1945TSN,1944,Southern Association,,F22191,McGarrity,,0,Memphis,,,,,c68
+minoraverages/1945TSN,1944,Southern Association,,B00021,McGhee,William,0,Little Rock,,,44,,
+minoraverages/1945TSN,1944,Southern Association,,F20177,McGhee,,0,Little Rock,,,,,1b44
+minoraverages/1945TSN,1944,Southern Association,,B00904,McNair,Ralph,0,Memphis,,,60,,
+minoraverages/1945TSN,1944,Southern Association,,F22238,McNair,,0,Memphis,,,,,c58
+minoraverages/1945TSN,1944,Southern Association,,B01055,Mead,Charles,0,Memphis,,,43,,
+minoraverages/1945TSN,1944,Southern Association,,F21174,Mead,,0,Memphis,,,,,of42
+minoraverages/1945TSN,1944,Southern Association,,B01143,Merineau,Jean P.,0,New Orleans,,,59,,
+minoraverages/1945TSN,1944,Southern Association,,F21101,Merineau,,0,New Orleans,,,,,of59
+minoraverages/1945TSN,1944,Southern Association,,B00037,Metzig,William,0,Little Rock,,,36,,
+minoraverages/1945TSN,1944,Southern Association,,F20810,Metzig,,0,Little Rock,,,,,ss36
+minoraverages/1945TSN,1944,Southern Association,,B01706,Meyer,Russell,0,Nashville,,,43,,
+minoraverages/1945TSN,1944,Southern Association,,F21638,Meyer,,0,Nashville,,,,,p38
+minoraverages/1945TSN,1944,Southern Association,,P10527,Meyer,,0,Nashville,,,,38,p
+minoraverages/1945TSN,1944,Southern Association,,P11855,Meyer,,0,Nashville,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B00092,Michaels,Cass,0,Little Rock,,,54,,
+minoraverages/1945TSN,1944,Southern Association,,F20832,Michaels,,0,Little Rock,,,,,ss54
+minoraverages/1945TSN,1944,Southern Association,,B00241,Mihalic,John,0,Nashville,,,69,,
+minoraverages/1945TSN,1944,Southern Association,,F20233,Mihalic,,0,Nashville,,,,,2b69
+minoraverages/1945TSN,1944,Southern Association,,B02289,Miller,Jack,0,Little Rock,,,9,,
+minoraverages/1945TSN,1944,Southern Association,,P10974,Miller,Jack,0,Little Rock,,,,3,p
+minoraverages/1945TSN,1944,Southern Association,,B01947,Milner,Walter,0,Birmingham,,,37,,
+minoraverages/1945TSN,1944,Southern Association,,F21623,Milner,,0,Birmingham,,,,,p37
+minoraverages/1945TSN,1944,Southern Association,,P10410,Milner,,0,Birmingham,,,,37,p
+minoraverages/1945TSN,1944,Southern Association,,P11832,Milner,,0,Birmingham,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B00045,Monteagudo,Rene,0,Chattanooga,,,116,,
+minoraverages/1945TSN,1944,Southern Association,,F21362,Monteagudo,,0,Chattanooga,,,,,of113
+minoraverages/1945TSN,1944,Southern Association,,P11449,Monteagudo,Rene,0,Chattanooga,,,,1,p
+minoraverages/1945TSN,1944,Southern Association,,B02569,Montero,Juan,0,Chattanooga,,,4,,
+minoraverages/1945TSN,1944,Southern Association,,P10930,Montero,Juan,0,Chattanooga,,,,4,p
 minoraverages/emilbb,1944,Southern Association,,M90358,Moore,Andy,,Chattanooga,,,,,
+minoraverages/1945TSN,1944,Southern Association,,B01601,Morris,Sanford,0,Atlanta,,,16,,
+minoraverages/1945TSN,1944,Southern Association,,F20128,Morris,,0,Atlanta,,,,,1b15
+minoraverages/1945TSN,1944,Southern Association,,B00948,Mosel,Robert,0,New Orleans,,,139,,
+minoraverages/1945TSN,1944,Southern Association,,F20051,Mosel,,0,New Orleans,,,,,1b137
+minoraverages/1945TSN,1944,Southern Association,,B02746,Mote,Eugene,0,Little Rock,,,6,,
+minoraverages/1945TSN,1944,Southern Association,,P10958,Mote,Eugene,0,Little Rock,,,,6,p
+minoraverages/1945TSN,1944,Southern Association,,B00695,Mueller,Theodore,0,Mobile,,,31,,
+minoraverages/1945TSN,1944,Southern Association,,F20166,Mueller,,0,Mobile,,,,,1b31
+minoraverages/1945TSN,1944,Southern Association,,B01275,Munday,Charles,0,Atlanta,,,20,,
+minoraverages/1945TSN,1944,Southern Association,,F22150,Munday,,0,Atlanta,,,,,c20
+minoraverages/1945TSN,1944,Southern Association,,B01368,Murray,Thomas,0,Birmingham,,,13,,
+minoraverages/1945TSN,1944,Southern Association,,F21544,Murray,,0,Birmingham,,,,,p13
+minoraverages/1945TSN,1944,Southern Association,,P10772,Murray,Thomas,0,Birmingham,,,,13,p
+minoraverages/1945TSN,1944,Southern Association,,B00293,Nance,Eugene,0,Memphis,,,123,,
+minoraverages/1945TSN,1944,Southern Association,,F20526,Nance,,0,Memphis,,,,,3b120
+minoraverages/1945TSN,1944,Southern Association,,B02312,Nell,Gordon,0,Little Rock,,,7,,
+minoraverages/1945TSN,1944,Southern Association,,B02441,Newhouser,Richard,0,Mobile,,,9,,
+minoraverages/1945TSN,1944,Southern Association,,B02277,Nixon,Alton,0,Birmingham,,,6,,
+minoraverages/1945TSN,1944,Southern Association,,P11287,Nixon,Alton,0,Birmingham,,,,3,p
+minoraverages/1945TSN,1944,Southern Association,,B03067,Nuxhall,Joseph,0,Birmingham,,,1,,
+minoraverages/1945TSN,1944,Southern Association,,P11102,Nuxhall,Joseph,0,Birmingham,,,,1,p
+minoraverages/1945TSN,1944,Southern Association,,B01625,O'Neil,George,0,Memphis,,,29,,
+minoraverages/1945TSN,1944,Southern Association,,F22246,O'Neil,,0,Memphis,,,,,c29
+minoraverages/1945TSN,1944,Southern Association,,B02665,Oberle,Wm.,0,Little Rock,,,8,,
+minoraverages/1945TSN,1944,Southern Association,,B02056,Ogden,Stanley,0,Mobile,,,19,,
+minoraverages/1945TSN,1944,Southern Association,,F21566,Ogden,,0,Mobile,,,,,p19
+minoraverages/1945TSN,1944,Southern Association,,P10215,Ogden,,0,Mobile,,,,19,p
+minoraverages/1945TSN,1944,Southern Association,,P12058,Ogden,,0,Mobile,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B00566,Okrie,Robert,0,Little Rock,,,127,,
+minoraverages/1945TSN,1944,Southern Association,,F21163,Okrie,,0,Little Rock,,,,,of126
+minoraverages/1945TSN,1944,Southern Association,,B01779,Olson,Marvin,0,Chattanooga,,,22,,
+minoraverages/1945TSN,1944,Southern Association,,F20287,Olson,,0,Chattanooga,,,,,2b13
+minoraverages/1945TSN,1944,Southern Association,,B01696,Orphal,John,0,Birmingham,,,38,,
+minoraverages/1945TSN,1944,Southern Association,,F21985,Orphal,,0,Birmingham,,,,,p34
+minoraverages/1945TSN,1944,Southern Association,,P10277,Orphal,,0,Birmingham,,,,34,p
+minoraverages/1945TSN,1944,Southern Association,,P11759,Orphal,,0,Birmingham,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B01415,Ortiz,Olivrio,0,Chattanooga,,,69,,
+minoraverages/1945TSN,1944,Southern Association,,F21879,Ortiz,,0,Chattanooga,,,,,p40
+minoraverages/1945TSN,1944,Southern Association,,P10429,Ortiz,,0,Chattanooga,,,,40,p
+minoraverages/1945TSN,1944,Southern Association,,P11547,Ortiz,,0,Chattanooga,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B01444,Papish,Frank,0,Little Rock,,,52,,
+minoraverages/1945TSN,1944,Southern Association,,F21680,Papish,,0,Little Rock,,,,,p40
+minoraverages/1945TSN,1944,Southern Association,,P10312,Papish,,0,Little Rock,,,,40,p
+minoraverages/1945TSN,1944,Southern Association,,P11474,Papish,,0,Little Rock,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02493,Parks,Woodford,0,Chattanooga,,,3,,
+minoraverages/1945TSN,1944,Southern Association,,P10698,Parks,Woodford,0,Chattanooga,,,,3,p
+minoraverages/1945TSN,1944,Southern Association,,P11919,Parks,,0,Chattanooga,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B01523,Pascual,Andres,0,Little Rock,,,29,,
+minoraverages/1945TSN,1944,Southern Association,,F22307,Pascual,,0,Little Rock,,,,,c29
+minoraverages/1945TSN,1944,Southern Association,,B01170,Pate,Ralph,0,Little Rock,,,40,,
+minoraverages/1945TSN,1944,Southern Association,,F21232,Pate,,0,Little Rock,,,,,of11
+minoraverages/1945TSN,1944,Southern Association,,F21726,Pate,,0,Little Rock,,,,,p29
+minoraverages/1945TSN,1944,Southern Association,,P10534,Pate,,0,Little Rock,,,,29,p
+minoraverages/1945TSN,1944,Southern Association,,P11768,Pate,,0,Little Rock,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B00840,Patrow,Edward,0,Mobile,,,17,,
+minoraverages/1945TSN,1944,Southern Association,,F20700,Patrow,,0,Mobile,,,,,ss14
+minoraverages/1945TSN,1944,Southern Association,,B02361,Pecou,Leonard,0,New Orleans,,,4,,
+minoraverages/1945TSN,1944,Southern Association,,P11206,Pecou,Leonard,0,New Orleans,,,,3,p
+minoraverages/1945TSN,1944,Southern Association,,B00163,Petoskey,Fred,0,Birmingham,,,73,,
+minoraverages/1945TSN,1944,Southern Association,,F21130,Petoskey,,0,Birmingham,,,,,of68
 minoraverages/emilbb,1944,Southern Association,,M90330,Petoskey,Ted,,Birmingham,,,,,
+minoraverages/1945TSN,1944,Southern Association,,B01765,Petrick,Joseph,0,Birmingham,,,10,,
+minoraverages/1945TSN,1944,Southern Association,,F21904,Petrick,,0,Birmingham,,,,,p10
+minoraverages/1945TSN,1944,Southern Association,,P10795,Petrick,Joseph,0,Birmingham,,,,10,p
+minoraverages/1945TSN,1944,Southern Association,,P12105,Petrick,,0,Birmingham,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B01952,Pfund,LeRoy,0,Mobile,,,11,,
+minoraverages/1945TSN,1944,Southern Association,,F22004,Pfund,,0,Mobile,,,,,p10
+minoraverages/1945TSN,1944,Southern Association,,P10097,Pfund,,0,Mobile,,,,10,p
+minoraverages/1945TSN,1944,Southern Association,,P12017,Pfund,,0,Mobile,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02883,Phillips,Darrell,0,Nashville,,,3,,
+minoraverages/1945TSN,1944,Southern Association,,P11303,Phillips,Darrell,0,Nashville,,,,3,p
+minoraverages/1945TSN,1944,Southern Association,,B01291,Powell,Fred,0,Chattanooga,,,53,,
+minoraverages/1945TSN,1944,Southern Association,,F20369,Powell,,0,Chattanooga,,,,,2b46
+minoraverages/1945TSN,1944,Southern Association,,B01108,Prather,Murl,1,Little Rock,,,13,,
+minoraverages/1945TSN,1944,Southern Association,,B01108,Prather,Murl,2,Atlanta,,,5,,
+minoraverages/1945TSN,1944,Southern Association,,B01108,Prather,Murl,T,,,,18,,
+minoraverages/1945TSN,1944,Southern Association,,F20080,Prather,,1,Little Rock,,,,,1b
+minoraverages/1945TSN,1944,Southern Association,,F20080,Prather,,2,Atlanta,,,,,1b
+minoraverages/1945TSN,1944,Southern Association,,F20080,Prather,,T,,,,,,1b18
 minoraverages/emilbb,1944,Southern Association,,M90285,Prothro,"Tommy ""Doc""",,Atlanta,,,,,
+minoraverages/1945TSN,1944,Southern Association,,B01798,Qualman,Harold,0,Little Rock,,,10,,
+minoraverages/1945TSN,1944,Southern Association,,B01269,Quicutis,Francisco,0,Chattanooga,,,57,,
+minoraverages/1945TSN,1944,Southern Association,,F20594,Quicutis,,0,Chattanooga,,,,,3b31
+minoraverages/1945TSN,1944,Southern Association,,F21356,Quicutis,,0,Chattanooga,,,,,of13
+minoraverages/1945TSN,1944,Southern Association,,B02679,Rabe,Neal,0,Little Rock,,,3,,
+minoraverages/1945TSN,1944,Southern Association,,B02698,Raddant,Kenneth,0,Birmingham,,,7,,
+minoraverages/1945TSN,1944,Southern Association,,B00985,Rawlinson,Glenn,0,Birmingham,,,83,,
+minoraverages/1945TSN,1944,Southern Association,,F20391,Rawlinson,,0,Birmingham,,,,,2b77
+minoraverages/1945TSN,1944,Southern Association,,B00416,Rebel,Arthur,0,Mobile,,,84,,
+minoraverages/1945TSN,1944,Southern Association,,F21308,Rebel,,0,Mobile,,,,,of76
+minoraverages/1945TSN,1944,Southern Association,,P11316,Rebel,Arthur,0,Mobile,,,,1,p
+minoraverages/1945TSN,1944,Southern Association,,B01007,Reggio,James,0,Nashville,,,139,,
+minoraverages/1945TSN,1944,Southern Association,,F20303,Reggio,,0,Nashville,,,,,2b46
+minoraverages/1945TSN,1944,Southern Association,,F21196,Reggio,,0,Nashville,,,,,of97
+minoraverages/1945TSN,1944,Southern Association,,B00667,Reid,Robert,0,Atlanta,,,103,,
+minoraverages/1945TSN,1944,Southern Association,,F20190,Reid,,0,Atlanta,,,,,1b103
+minoraverages/1945TSN,1944,Southern Association,,B02575,Richardson,Alfred,0,Chattanooga,,,3,,
+minoraverages/1945TSN,1944,Southern Association,,B00308,Riddle,John,0,Birmingham,,,93,,
+minoraverages/1945TSN,1944,Southern Association,,F22142,Riddle,,0,Birmingham,,,,,c73
+minoraverages/1945TSN,1944,Southern Association,,P11166,Riddle,John,0,Birmingham,,,,7,p
 minoraverages/emilbb,1944,Southern Association,,M90325,Riddle,Johnny,,Birmingham,,,,,
+minoraverages/1945TSN,1944,Southern Association,,B02767,Rightenburg,Floyd,0,Little Rock,,,4,,
+minoraverages/1945TSN,1944,Southern Association,,B02290,Riskosky,James,0,Birmingham,,,7,,
+minoraverages/1945TSN,1944,Southern Association,,B02399,Roberts,Perry,0,Chattanooga,,,9,,
+minoraverages/1945TSN,1944,Southern Association,,B03095,Robertson,Alfred,0,Little Rock,,,3,,
+minoraverages/1945TSN,1944,Southern Association,,P11038,Robertson,Alfred,0,Little Rock,,,,3,p
+minoraverages/1945TSN,1944,Southern Association,,B03128,Roche,Armando,0,Chattanooga,,,5,,
+minoraverages/1945TSN,1944,Southern Association,,P11222,Roche,Armando,0,Chattanooga,,,,5,p
+minoraverages/1945TSN,1944,Southern Association,,B02357,Roger,Ramon,0,Atlanta,,,6,,
+minoraverages/1945TSN,1944,Southern Association,,P10654,Roger,Ramon,0,Atlanta,,,,6,p
+minoraverages/1945TSN,1944,Southern Association,,B00760,Rogovin,Saul,0,Chattanooga,,,97,,
+minoraverages/1945TSN,1944,Southern Association,,F20583,Rogovin,,0,Chattanooga,,,,,3b93
+minoraverages/1945TSN,1944,Southern Association,,P11369,Rogovin,Saul,0,Chattanooga,,,,1,p
+minoraverages/1945TSN,1944,Southern Association,,B02805,Ross,Fred,0,Atlanta,,,2,,
+minoraverages/1945TSN,1944,Southern Association,,P11279,Ross,Fred,0,Atlanta,,,,2,p
+minoraverages/1945TSN,1944,Southern Association,,B02871,Roxburgh,George,0,New Orleans,,,8,,
+minoraverages/1945TSN,1944,Southern Association,,P10852,Roxburgh,George,0,New Orleans,,,,8,p
+minoraverages/1945TSN,1944,Southern Association,,B02184,Roxbury,Joseph,0,Atlanta,,,5,,
+minoraverages/1945TSN,1944,Southern Association,,P10714,Roxbury,Joseph,0,Atlanta,,,,5,p
+minoraverages/1945TSN,1944,Southern Association,,B01250,Rue,Melvin,0,New Orleans,,,38,,
+minoraverages/1945TSN,1944,Southern Association,,F20240,Rue,,0,New Orleans,,,,,2b24
+minoraverages/1945TSN,1944,Southern Association,,F20784,Rue,,0,New Orleans,,,,,ss14
+minoraverages/1945TSN,1944,Southern Association,,B02410,Sabatino,Ralph,0,Nashville,,,5,,
+minoraverages/1945TSN,1944,Southern Association,,B00531,Salvatierra,Manuel,0,Nashville,,,93,,
+minoraverages/1945TSN,1944,Southern Association,,F21045,Salvatierra,,0,Nashville,,,,,of93
+minoraverages/1945TSN,1944,Southern Association,,B00623,Sanders,Battle M.,0,Memphis,,,59,,
+minoraverages/1945TSN,1944,Southern Association,,F20072,Sanders,,0,Memphis,,,,,1b59
+minoraverages/1945TSN,1944,Southern Association,,B01820,Schulze,Waldemar,0,New Orleans,,,39,,
+minoraverages/1945TSN,1944,Southern Association,,F21475,Schulze,,0,New Orleans,,,,,p33
+minoraverages/1945TSN,1944,Southern Association,,P10622,Schulze,,0,New Orleans,,,,33,p
+minoraverages/1945TSN,1944,Southern Association,,P12139,Schulze,,0,New Orleans,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02202,Scott,Minor,0,Chattanooga,,,7,,
+minoraverages/1945TSN,1944,Southern Association,,B02723,Scott,Wm.,0,New Orleans,,,7,,
+minoraverages/1945TSN,1944,Southern Association,,B00638,Seeds,Robert,0,Little Rock,,,122,,
+minoraverages/1945TSN,1944,Southern Association,,F20023,Seeds,,0,Little Rock,,,,,1b24
+minoraverages/1945TSN,1944,Southern Association,,F21084,Seeds,,0,Little Rock,,,,,of83
+minoraverages/1945TSN,1944,Southern Association,,P10687,Seeds,Robert,0,Little Rock,,,,2,p
 minoraverages/emilbb,1944,Southern Association,,M90317,Seeds,Bob,,Little Rock,,,,,
+minoraverages/1945TSN,1944,Southern Association,,B02542,Sharp,Peter,0,Little Rock,,,4,,
+minoraverages/1945TSN,1944,Southern Association,,B01064,Shepherd,Martin,0,New Orleans,,,39,,
+minoraverages/1945TSN,1944,Southern Association,,F21381,Shepherd,,0,New Orleans,,,,,of33
+minoraverages/1945TSN,1944,Southern Association,,P11401,Shepherd,Martin,0,New Orleans,,,,2,p
+minoraverages/1945TSN,1944,Southern Association,,B00343,Sheridan,Neill,0,Chattanooga,,,70,,
+minoraverages/1945TSN,1944,Southern Association,,F21059,Sheridan,,0,Chattanooga,,,,,of66
+minoraverages/1945TSN,1944,Southern Association,,B01658,Shuba,George,0,New Orleans,,,19,,
+minoraverages/1945TSN,1944,Southern Association,,F20417,Shuba,,0,New Orleans,,,,,2b15
+minoraverages/1945TSN,1944,Southern Association,,B00434,Sipek,Richard,0,Birmingham,,,134,,
+minoraverages/1945TSN,1944,Southern Association,,F21000,Sipek,,0,Birmingham,,,,,of133
+minoraverages/1945TSN,1944,Southern Association,,B01010,Skelton,Robert,0,New Orleans,,,80,,
+minoraverages/1945TSN,1944,Southern Association,,F20375,Skelton,,0,New Orleans,,,,,2b51
+minoraverages/1945TSN,1944,Southern Association,,F20685,Skelton,,0,New Orleans,,,,,ss30
+minoraverages/1945TSN,1944,Southern Association,,B03102,Skinner,Wm.,0,Memphis,,,1,,
+minoraverages/1945TSN,1944,Southern Association,,P11388,Skinner,William,0,Memphis,,,,1,p
+minoraverages/1945TSN,1944,Southern Association,,B00515,Smith,Charles,0,Birmingham,,,83,,
+minoraverages/1945TSN,1944,Southern Association,,B00957,Smith,David,1,Chattanooga,,,47,,
+minoraverages/1945TSN,1944,Southern Association,,B00957,Smith,David,2,Memphis,,,26,,
+minoraverages/1945TSN,1944,Southern Association,,B00957,Smith,David,T,,,,73,,
+minoraverages/1945TSN,1944,Southern Association,,B02949,Smith,Larry,0,Mobile,,,2,,
+minoraverages/1945TSN,1944,Southern Association,,B03080,Smith,Harold,0,Birmingham,,,3,,
+minoraverages/1945TSN,1944,Southern Association,,F20430,Smith,C.,0,Birmingham,,,,,3b15
+minoraverages/1945TSN,1944,Southern Association,,F20919,Smith,C.,0,Birmingham,,,,,of17
+minoraverages/1945TSN,1944,Southern Association,,F21229,Smith,D.,1,Chattanooga,,,,,of
+minoraverages/1945TSN,1944,Southern Association,,F21229,Smith,D.,2,Memphis,,,,,of
+minoraverages/1945TSN,1944,Southern Association,,F21229,Smith,D.,T,,,,,,of68
+minoraverages/1945TSN,1944,Southern Association,,F22214,Smith,C.,0,Birmingham,,,,,c54
+minoraverages/1945TSN,1944,Southern Association,,P11046,Smith,Larry,0,Mobile,,,,2,p
+minoraverages/1945TSN,1944,Southern Association,,P11417,Smith,Harold,0,Birmingham,,,,3,p
+minoraverages/1945TSN,1944,Southern Association,,B01509,Solomon,Lewis,0,Nashville,,,10,,
+minoraverages/1945TSN,1944,Southern Association,,B02228,Stephenson,Paul,0,Birmingham,,,2,,
+minoraverages/1945TSN,1944,Southern Association,,B02019,Stewart,W. Macklin,0,Nashville,,,11,,
+minoraverages/1945TSN,1944,Southern Association,,F21531,Stewart,,0,Nashville,,,,,p11
+minoraverages/1945TSN,1944,Southern Association,,P10575,Stewart,,0,Nashville,,,,11,p
+minoraverages/1945TSN,1944,Southern Association,,P12025,Stewart,,0,Nashville,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B00705,Stowe,John,1,Birmingham,,,77,,
+minoraverages/1945TSN,1944,Southern Association,,B00705,Stowe,John,2,Mobile,,,44,,
+minoraverages/1945TSN,1944,Southern Association,,B00705,Stowe,John,T,,,,121,,
+minoraverages/1945TSN,1944,Southern Association,,F21068,Stowe,,1,Birmingham,,,,,of
+minoraverages/1945TSN,1944,Southern Association,,F21068,Stowe,,2,Mobile,,,,,of
+minoraverages/1945TSN,1944,Southern Association,,F21068,Stowe,,T,,,,,,of116
+minoraverages/1945TSN,1944,Southern Association,,B01216,Suarez,Luis,0,Chattanooga,,,86,,
+minoraverages/1945TSN,1944,Southern Association,,F20699,Suarez,,0,Chattanooga,,,,,ss86
+minoraverages/1945TSN,1944,Southern Association,,B01242,Talley,Joseph,0,Birmingham,,,15,,
+minoraverages/1945TSN,1944,Southern Association,,F22061,Talley,,0,Birmingham,,,,,p15
+minoraverages/1945TSN,1944,Southern Association,,P10228,Talley,,0,Birmingham,,,,15,p
+minoraverages/1945TSN,1944,Southern Association,,P11886,Talley,,0,Birmingham,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02320,Tenorio,Blas,0,Little Rock,,,9,,
+minoraverages/1945TSN,1944,Southern Association,,B01812,Tepler,Boyd,0,Nashville,,,19,,
+minoraverages/1945TSN,1944,Southern Association,,F21515,Tepler,,0,Nashville,,,,,p17
+minoraverages/1945TSN,1944,Southern Association,,P10019,Tepler,,0,Nashville,,,,17,p
+minoraverages/1945TSN,1944,Southern Association,,P11636,Tepler,,0,Nashville,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B00672,Thaxton,C. Wm.,0,Birmingham,,,117,,
+minoraverages/1945TSN,1944,Southern Association,,F21241,Thaxton,,0,Birmingham,,,,,of112
+minoraverages/1945TSN,1944,Southern Association,,B01135,Thomas,William,0,Mobile,,,51,,
+minoraverages/1945TSN,1944,Southern Association,,F21747,Thomas,,0,Mobile,,,,,p44
+minoraverages/1945TSN,1944,Southern Association,,P10432,Thomas,,0,Mobile,,,,44,p
+minoraverages/1945TSN,1944,Southern Association,,P11539,Thomas,,0,Mobile,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02847,Thomason,Wm.,0,Mobile,,,3,,
+minoraverages/1945TSN,1944,Southern Association,,P10901,Thomason,William,0,Mobile,,,,3,p
+minoraverages/1945TSN,1944,Southern Association,,B00475,Thompson,Blackstone,0,Memphis,,,132,,
+minoraverages/1945TSN,1944,Southern Association,,B03009,Thompson,Forrest,0,Atlanta,,,8,,
+minoraverages/1945TSN,1944,Southern Association,,F20721,Thompson,,0,Memphis,,,,,ss128
+minoraverages/1945TSN,1944,Southern Association,,P10709,Thompson,Forrest,0,Atlanta,,,,8,p
 minoraverages/emilbb,1944,Southern Association,,M90363,Thompson,Fresco,,New Orleans,,,,,
+minoraverages/1945TSN,1944,Southern Association,,B02826,Tinsley,Roy,0,Little Rock,,,2,,
+minoraverages/1945TSN,1944,Southern Association,,B02751,Towery,Pershing,0,Memphis,,,5,,
+minoraverages/1945TSN,1944,Southern Association,,P10894,Towery,Pershing,0,Memphis,,,,5,p
+minoraverages/1945TSN,1944,Southern Association,,B02373,Trahd,Victor,0,Nashville,,,5,,
+minoraverages/1945TSN,1944,Southern Association,,P11144,Trahd,Victor,0,Nashville,,,,5,p
+minoraverages/1945TSN,1944,Southern Association,,B01567,Treichel,Albert,0,Little Rock,,,42,,
+minoraverages/1945TSN,1944,Southern Association,,F21973,Treichel,,0,Little Rock,,,,,p42
+minoraverages/1945TSN,1944,Southern Association,,P10357,Treichel,,0,Little Rock,,,,42,p
+minoraverages/1945TSN,1944,Southern Association,,P11560,Treichel,,0,Little Rock,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B00450,Ulisney,Michael,0,New Orleans,,,86,,
+minoraverages/1945TSN,1944,Southern Association,,F21076,Ulisney,,0,New Orleans,,,,,of43
+minoraverages/1945TSN,1944,Southern Association,,F22267,Ulisney,,0,New Orleans,,,,,c43
+minoraverages/1945TSN,1944,Southern Association,,B00397,Ullrich,Santiago,0,Chattanooga,,,18,,
+minoraverages/1945TSN,1944,Southern Association,,F21854,Ullrich,,0,Chattanooga,,,,,p12
+minoraverages/1945TSN,1944,Southern Association,,P10168,Ullrich,,0,Chattanooga,,,,12,p
+minoraverages/1945TSN,1944,Southern Association,,P11699,Ullrich,,0,Chattanooga,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B00076,Veazey,Norman,0,Chattanooga,,,135,,
+minoraverages/1945TSN,1944,Southern Association,,F21319,Veazey,,0,Chattanooga,,,,,of119
+minoraverages/1945TSN,1944,Southern Association,,B00381,Veverka,Frank,0,Memphis,,,43,,
+minoraverages/1945TSN,1944,Southern Association,,F21936,Veverka,,0,Memphis,,,,,p30
+minoraverages/1945TSN,1944,Southern Association,,P10081,Veverka,,0,Memphis,,,,30,p
+minoraverages/1945TSN,1944,Southern Association,,P11505,Veverka,,0,Memphis,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02974,Vickery,Paul,0,Nashville,,,1,,
+minoraverages/1945TSN,1944,Southern Association,,B00739,Viers,Ray,0,Atlanta,,,139,,
+minoraverages/1945TSN,1944,Southern Association,,F20342,Viers,,0,Atlanta,,,,,2b139
+minoraverages/1945TSN,1944,Southern Association,,B02611,Volan,Edward,0,Memphis,,,7,,
+minoraverages/1945TSN,1944,Southern Association,,B01983,Vucovich,Nicholas,0,Mobile,,,22,,
+minoraverages/1945TSN,1944,Southern Association,,F21705,Vucovich,,0,Mobile,,,,,p20
+minoraverages/1945TSN,1944,Southern Association,,P10361,Vucovich,,0,Mobile,,,,20,p
+minoraverages/1945TSN,1944,Southern Association,,P11970,Vucovich,,0,Mobile,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B03046,Wafer,Howard,0,New Orleans,,,2,,
+minoraverages/1945TSN,1944,Southern Association,,P11115,Wafer,Howard,0,New Orleans,,,,2,p
+minoraverages/1945TSN,1944,Southern Association,,B01359,Wahl,Kermit,0,Birmingham,,,23,,
+minoraverages/1945TSN,1944,Southern Association,,F20458,Wahl,,0,Birmingham,,,,,3b14
+minoraverages/1945TSN,1944,Southern Association,,B00528,Washburn,Geo.,0,New Orleans,,,16,,
+minoraverages/1945TSN,1944,Southern Association,,P10818,Washburn,George,0,New Orleans,,,,6,p
+minoraverages/1945TSN,1944,Southern Association,,B01848,Wells,John,0,New Orleans,,,39,,
+minoraverages/1945TSN,1944,Southern Association,,F21427,Wells,,0,New Orleans,,,,,p38
+minoraverages/1945TSN,1944,Southern Association,,P10348,Wells,,0,New Orleans,,,,38,p
+minoraverages/1945TSN,1944,Southern Association,,P11571,Wells,,0,New Orleans,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02168,Wentworth,Richard,0,Birmingham,,,8,,
+minoraverages/1945TSN,1944,Southern Association,,B02527,White,Adel,0,Mobile,,,8,,
+minoraverages/1945TSN,1944,Southern Association,,P10202,White,,0,Mobile,,,,8,p
+minoraverages/1945TSN,1944,Southern Association,,P11935,White,,0,Mobile,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02901,Williams,Doyle,0,Atlanta,,,3,,
+minoraverages/1945TSN,1944,Southern Association,,P11240,Williams,Doyle,0,Atlanta,,,,3,p
+minoraverages/1945TSN,1944,Southern Association,,B00973,Wilson,Richard,0,Little Rock,,,16,,
+minoraverages/1945TSN,1944,Southern Association,,B01489,Wilson,John,0,Chattanooga,,,28,,
+minoraverages/1945TSN,1944,Southern Association,,F20518,Wilson,,0,Little Rock,,,,,3b16
+minoraverages/1945TSN,1944,Southern Association,,F21718,Wilson,,0,Chattanooga,,,,,p28
+minoraverages/1945TSN,1944,Southern Association,,P10266,Wilson,,0,Chattanooga,,,,28,p
+minoraverages/1945TSN,1944,Southern Association,,P11997,Wilson,,0,Chattanooga,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02008,Winfield,Joseph,0,New Orleans,,,43,,
+minoraverages/1945TSN,1944,Southern Association,,F21450,Winfield,,0,New Orleans,,,,,p43
+minoraverages/1945TSN,1944,Southern Association,,P10516,Winfield,,0,New Orleans,,,,43,p
+minoraverages/1945TSN,1944,Southern Association,,P11908,Winfield,,0,New Orleans,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B03038,Witmer,Al,0,Little Rock,,,3,,
+minoraverages/1945TSN,1944,Southern Association,,P11254,Wittmer,Al,0,Little Rock,,,,3,p
+minoraverages/1945TSN,1944,Southern Association,,B00502,Wooten,Earl,0,Chattanooga,,,90,,
+minoraverages/1945TSN,1944,Southern Association,,F20038,Wooten,,0,Chattanooga,,,,,1b32
+minoraverages/1945TSN,1944,Southern Association,,F20962,Wooten,,0,Chattanooga,,,,,of23
+minoraverages/1945TSN,1944,Southern Association,,F21920,Wooten,,0,Chattanooga,,,,,p24
+minoraverages/1945TSN,1944,Southern Association,,P10486,Wooten,,0,Chattanooga,,,,24,p
+minoraverages/1945TSN,1944,Southern Association,,P11721,Wooten,,0,Chattanooga,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B01078,Wright,H. Edward,0,Atlanta,,,14,,
+minoraverages/1945TSN,1944,Southern Association,,B02035,Wright,Maurice,0,Birmingham,,,12,,
+minoraverages/1945TSN,1944,Southern Association,,F21957,Wright,,0,Atlanta,,,,,p12
+minoraverages/1945TSN,1944,Southern Association,,P10441,Wright,,0,Atlanta,,,,12,p
+minoraverages/1945TSN,1944,Southern Association,,P11956,Wright,,0,Atlanta,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B01490,Zachary,Albert,0,New Orleans,,,31,,
+minoraverages/1945TSN,1944,Southern Association,,F21491,Zachary,,0,New Orleans,,,,,p20
+minoraverages/1945TSN,1944,Southern Association,,P10145,Zachary,,0,New Orleans,,,,20,p
+minoraverages/1945TSN,1944,Southern Association,,P11620,Zachary,,0,New Orleans,,,,,p
+minoraverages/1945TSN,1944,Southern Association,,B02348,Zini,Genori,0,Mobile,,,4,,
+minoraverages/1945TSN,1944,Southern Association,,B02860,Zins,Lester,1,New Orleans,,,4,,
+minoraverages/1945TSN,1944,Southern Association,,B02860,Zins,Lester,2,Little Rock,,,3,,
+minoraverages/1945TSN,1944,Southern Association,,B02860,Zins,Lester,T,,,,7,,
+minoraverages/1945TSN,1944,Southern Association,,P10982,Zins,Lester,1,New Orleans,,,,4,p
+minoraverages/1945TSN,1944,Southern Association,,P10982,Zins,Lester,2,Little Rock,,,,3,p
+minoraverages/1945TSN,1944,Southern Association,,P10982,Zins,Lester,T,,,,,7,p
