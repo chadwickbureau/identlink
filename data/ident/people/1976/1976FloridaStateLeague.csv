@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1976,Florida State League,,M90824,Brand,Ron,,Tampa,,
-minoraverages/emilbb,1976,Florida State League,,M90870,Ferraro,Mike,,Fort Lauderdale,,
-minoraverages/emilbb,1976,Florida State League,,M90897,Hiatt,Jack,,Pompano Beach,,
-minoraverages/emilbb,1976,Florida State League,,M90862,Johnston,Len,,Miami,,
-minoraverages/emilbb,1976,Florida State League,,M90843,Lanier,Hal,,St. Petersburg,,
-minoraverages/emilbb,1976,Florida State League,,M90835,Leyland,Jim,,Lakeland,,
-minoraverages/emilbb,1976,Florida State League,,M90881,MacKenzie,Gordy,,West Palm Beach,,
-minoraverages/emilbb,1976,Florida State League,,M90856,Slider,Rac,,Winter Haven,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1976,Florida State League,M90824,Brand,Ron,,Tampa,,,
+emilbb,1976,Florida State League,M90870,Ferraro,Mike,,Fort Lauderdale,,,
+emilbb,1976,Florida State League,M90897,Hiatt,Jack,,Pompano Beach,,,
+emilbb,1976,Florida State League,M90862,Johnston,Len,,Miami,,,
+emilbb,1976,Florida State League,M90843,Lanier,Hal,,St. Petersburg,,,
+emilbb,1976,Florida State League,M90835,Leyland,Jim,,Lakeland,,,
+emilbb,1976,Florida State League,M90881,MacKenzie,Gordy,,West Palm Beach,,,
+emilbb,1976,Florida State League,M90856,Slider,Rac,,Winter Haven,,,

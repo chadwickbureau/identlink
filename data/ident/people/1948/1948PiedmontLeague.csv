@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1948,Piedmont League,,M91268,Bolyard,Earl,,Norfolk,,
-minoraverages/emilbb,1948,Piedmont League,,M91276,George,Charles,,Richmond,,
-minoraverages/emilbb,1948,Piedmont League,,M91259,Higgins,Pinky,,Roanoke,,
-minoraverages/emilbb,1948,Piedmont League,,M91221,Mackie,Vernon,,Lynchburg,,
-minoraverages/emilbb,1948,Piedmont League,,M91245,Parker,Ace,,Portsmouth,,
-minoraverages/emilbb,1948,Piedmont League,,M91237,Schalk,Roy,,Newport News,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1948,Piedmont League,M91268,Bolyard,Earl,,Norfolk,,,
+emilbb,1948,Piedmont League,M91276,George,Charles,,Richmond,,,
+emilbb,1948,Piedmont League,M91259,Higgins,Pinky,,Roanoke,,,
+emilbb,1948,Piedmont League,M91221,Mackie,Vernon,,Lynchburg,,,
+emilbb,1948,Piedmont League,M91245,Parker,Ace,,Portsmouth,,,
+emilbb,1948,Piedmont League,M91237,Schalk,Roy,,Newport News,,,

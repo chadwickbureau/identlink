@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1994,Carolina League,,M90972,Berry,Mark,,Winston-Salem,,
-minoraverages/emilbb,1994,Carolina League,,M90951,Huppert,Dave,,Prince William,,
-minoraverages/emilbb,1994,Carolina League,,M90995,Jewett,Trent,,Salem,,
-minoraverages/emilbb,1994,Carolina League,,M90938,Jirschele,Mike,,Wilmington,,
-minoraverages/emilbb,1994,Carolina League,,M91006,Keller,Dave,,Kinston,,
-minoraverages/emilbb,1994,Carolina League,,M90967,Meleski,Mike,,Lynchburg,,
-minoraverages/emilbb,1994,Carolina League,,M90946,O'Berry,Mike,,Frederick,,
-minoraverages/emilbb,1994,Carolina League,,M90980,West,Matt,,Durham,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1994,Carolina League,M90972,Berry,Mark,,Winston-Salem,,,
+emilbb,1994,Carolina League,M90951,Huppert,Dave,,Prince William,,,
+emilbb,1994,Carolina League,M90995,Jewett,Trent,,Salem,,,
+emilbb,1994,Carolina League,M90938,Jirschele,Mike,,Wilmington,,,
+emilbb,1994,Carolina League,M91006,Keller,Dave,,Kinston,,,
+emilbb,1994,Carolina League,M90967,Meleski,Mike,,Lynchburg,,,
+emilbb,1994,Carolina League,M90946,O'Berry,Mike,,Frederick,,,
+emilbb,1994,Carolina League,M90980,West,Matt,,Durham,,,

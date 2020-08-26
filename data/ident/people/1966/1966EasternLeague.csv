@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1966,Eastern League,,M90220,Bryant,Clay,,Pawtucket,,
-minoraverages/emilbb,1966,Eastern League,,M90257,Gilbert,Andy,,Waterbury,,
-minoraverages/emilbb,1966,Eastern League,,M90212,Johnson,Darrell,,Elmira,,
-minoraverages/emilbb,1966,Eastern League,,M90261,Klaus,Billy,,York,,
-minoraverages/emilbb,1966,Eastern League,,M90236,Popowski,Eddie,,Pittsfield,,
-minoraverages/emilbb,1966,Eastern League,,M90248,Virdon,Bill,,Williamsport,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1966,Eastern League,M90220,Bryant,Clay,,Pawtucket,,,
+emilbb,1966,Eastern League,M90257,Gilbert,Andy,,Waterbury,,,
+emilbb,1966,Eastern League,M90212,Johnson,Darrell,,Elmira,,,
+emilbb,1966,Eastern League,M90261,Klaus,Billy,,York,,,
+emilbb,1966,Eastern League,M90236,Popowski,Eddie,,Pittsfield,,,
+emilbb,1966,Eastern League,M90248,Virdon,Bill,,Williamsport,,,

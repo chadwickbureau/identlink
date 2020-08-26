@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1967,Southern League,,M90413,Carswell,Frank,,Montgomery,,
-minoraverages/emilbb,1967,Southern League,,M90476,Fitzgerald,Lou,,Knoxville,,
-minoraverages/emilbb,1967,Southern League,,M90400,McNamara,John,,Birmingham,,
-minoraverages/emilbb,1967,Southern League,,M90421,Noga,George,,Evansville,,
-minoraverages/emilbb,1967,Southern League,,M90459,Oceak,Frank,,Macon,,
-minoraverages/emilbb,1967,Southern League,,M90445,Osborne,Don,,Macon,,
-minoraverages/emilbb,1967,Southern League,,M90437,Warner,Harry,,Charlotte,,
-minoraverages/emilbb,1967,Southern League,,M90468,Zimmer,Don,,Knoxville,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1967,Southern League,M90413,Carswell,Frank,,Montgomery,,,
+emilbb,1967,Southern League,M90476,Fitzgerald,Lou,,Knoxville,,,
+emilbb,1967,Southern League,M90400,McNamara,John,,Birmingham,,,
+emilbb,1967,Southern League,M90421,Noga,George,,Evansville,,,
+emilbb,1967,Southern League,M90459,Oceak,Frank,,Macon,,,
+emilbb,1967,Southern League,M90445,Osborne,Don,,Macon,,,
+emilbb,1967,Southern League,M90437,Warner,Harry,,Charlotte,,,
+emilbb,1967,Southern League,M90468,Zimmer,Don,,Knoxville,,,

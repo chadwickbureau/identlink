@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1992,Eastern League,,M90627,Buford,Don Jr.,,Hagerstown,,
-minoraverages/emilbb,1992,Eastern League,,M90603,DeJohn,Mark,,London,,
-minoraverages/emilbb,1992,Eastern League,,M90565,Graham,Brian,,Canton-Akron,,
-minoraverages/emilbb,1992,Eastern League,,M90616,McCormack,Don,,Reading,,
-minoraverages/emilbb,1992,Eastern League,,M90634,Pankovits,Jim,,New Britain,,
-minoraverages/emilbb,1992,Eastern League,,M90587,Quade,Mike,,Harrisburg,,
-minoraverages/emilbb,1992,Eastern League,,M90598,Radison,Dan,,Albany-Colonie,,
-minoraverages/emilbb,1992,Eastern League,,M90579,Swisher,Steve,,Binghamton,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1992,Eastern League,M90627,Buford,Don Jr.,,Hagerstown,,,
+emilbb,1992,Eastern League,M90603,DeJohn,Mark,,London,,,
+emilbb,1992,Eastern League,M90565,Graham,Brian,,Canton-Akron,,,
+emilbb,1992,Eastern League,M90616,McCormack,Don,,Reading,,,
+emilbb,1992,Eastern League,M90634,Pankovits,Jim,,New Britain,,,
+emilbb,1992,Eastern League,M90587,Quade,Mike,,Harrisburg,,,
+emilbb,1992,Eastern League,M90598,Radison,Dan,,Albany-Colonie,,,
+emilbb,1992,Eastern League,M90579,Swisher,Steve,,Binghamton,,,

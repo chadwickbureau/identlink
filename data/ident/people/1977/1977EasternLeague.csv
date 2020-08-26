@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1977,Eastern League,,M90522,Edwards,Doc,,Quebec,,
-minoraverages/emilbb,1977,Eastern League,,M90533,Elia,Lee,,Reading,,
-minoraverages/emilbb,1977,Eastern League,,M90554,Ferraro,Mike,,West Haven,,
-minoraverages/emilbb,1977,Eastern League,,M90579,Galante,Matt,,Holyoke,,
-minoraverages/emilbb,1977,Eastern League,,M90565,Gilbert,Andy,,Waterbury,,
-minoraverages/emilbb,1977,Eastern League,,M90511,Goggin,Chuck,,Trois-Rivieres,,
-minoraverages/emilbb,1977,Eastern League,,M90587,Kennedy,John,,Bristol,,
-minoraverages/emilbb,1977,Eastern League,,M90540,Orsino,John,,Jersey City,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1977,Eastern League,M90522,Edwards,Doc,,Quebec,,,
+emilbb,1977,Eastern League,M90533,Elia,Lee,,Reading,,,
+emilbb,1977,Eastern League,M90554,Ferraro,Mike,,West Haven,,,
+emilbb,1977,Eastern League,M90579,Galante,Matt,,Holyoke,,,
+emilbb,1977,Eastern League,M90565,Gilbert,Andy,,Waterbury,,,
+emilbb,1977,Eastern League,M90511,Goggin,Chuck,,Trois-Rivieres,,,
+emilbb,1977,Eastern League,M90587,Kennedy,John,,Bristol,,,
+emilbb,1977,Eastern League,M90540,Orsino,John,,Jersey City,,,

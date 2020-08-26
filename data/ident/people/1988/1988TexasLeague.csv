@@ -1,11 +1,11 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1988,Texas League,ashford,M90856,Ashford,Tucker,,Jacksonville,,
-minoraverages/emilbb,1988,Texas League,kelly,M90897,Kelly,Pat,,Wichita,,
-minoraverages/emilbb,1988,Texas League,kennedy,M90870,Kennedy,Kevin,,San Antonio,,
-minoraverages/emilbb,1988,Texas League,knowles,M90835,Knowles,Darold,,Arkansas,,
-minoraverages/emilbb,1988,Texas League,machemer,M90862,Machemer,Dave,,El Paso,,
-minoraverages/emilbb,1988,Texas League,mull,M90808,Mull,Jack,,Shreveport,,
-minoraverages/emilbb,1988,Texas League,oliveras,M90881,Oliveras,Max,,Midland,,
-minoraverages/emilbb,1988,Texas League,pitts,M90843,Pitts,Gaylen,,Arkansas,,
-minoraverages/emilbb,1988,Texas League,riggleman,M90824,Riggleman,Jim,,Arkansas,,
-minoraverages/emilbb,1988,Texas League,skaalen,M90819,Skaalen,Jim,,Tulsa,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1988,Texas League,M90856,Ashford,Tucker,,Jacksonville,,,ashford
+emilbb,1988,Texas League,M90897,Kelly,Pat,,Wichita,,,kelly
+emilbb,1988,Texas League,M90870,Kennedy,Kevin,,San Antonio,,,kennedy
+emilbb,1988,Texas League,M90835,Knowles,Darold,,Arkansas,,,knowles
+emilbb,1988,Texas League,M90862,Machemer,Dave,,El Paso,,,machemer
+emilbb,1988,Texas League,M90808,Mull,Jack,,Shreveport,,,mull
+emilbb,1988,Texas League,M90881,Oliveras,Max,,Midland,,,oliveras
+emilbb,1988,Texas League,M90843,Pitts,Gaylen,,Arkansas,,,pitts
+emilbb,1988,Texas League,M90824,Riggleman,Jim,,Arkansas,,,riggleman
+emilbb,1988,Texas League,M90819,Skaalen,Jim,,Tulsa,,,skaalen

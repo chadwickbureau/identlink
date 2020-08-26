@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1912,Washington State League,,M93830,Burns,James,,Chehalis,,
-minoraverages/emilbb,1912,Washington State League,,M93858,Dysart,George,,Centralia,,
-minoraverages/emilbb,1912,Washington State League,,M93863,Ford,Eddie,,Hoquiam,,
-minoraverages/emilbb,1912,Washington State League,,M93882,Kelly,Tom,,Aberdeen,,
-minoraverages/emilbb,1912,Washington State League,,M93849,Patton,W. R.,,Centralia,,
-minoraverages/emilbb,1912,Washington State League,,M93874,Wilkins,Joe,,Hoquiam,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1912,Washington State League,M93830,Burns,James,,Chehalis,,,
+emilbb,1912,Washington State League,M93858,Dysart,George,,Centralia,,,
+emilbb,1912,Washington State League,M93863,Ford,Eddie,,Hoquiam,,,
+emilbb,1912,Washington State League,M93882,Kelly,Tom,,Aberdeen,,,
+emilbb,1912,Washington State League,M93849,Patton,W. R.,,Centralia,,,
+emilbb,1912,Washington State League,M93874,Wilkins,Joe,,Hoquiam,,,

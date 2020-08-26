@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1977,Lone Star League,,M91040,Allen,Jack,,McAllen,,
-minoraverages/emilbb,1977,Lone Star League,,M90980,Bryk,Bill,,Beeville,,
-minoraverages/emilbb,1977,Lone Star League,,M90995,Gallagher,Al,,Texas City,,
-minoraverages/emilbb,1977,Lone Star League,,M91033,Kelly,Shannon,,McAllen,,
-minoraverages/emilbb,1977,Lone Star League,,M91022,Krizmanich,Mike,,Harlingen,,
-minoraverages/emilbb,1977,Lone Star League,,M91006,Mazzone,Leo,,Corpus Christi,,
-minoraverages/emilbb,1977,Lone Star League,,M91011,Thomas,Paul,,Harlingen,,
-minoraverages/emilbb,1977,Lone Star League,,M90972,Zimmer,Tom,,Victoria,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1977,Lone Star League,M91040,Allen,Jack,,McAllen,,,
+emilbb,1977,Lone Star League,M90980,Bryk,Bill,,Beeville,,,
+emilbb,1977,Lone Star League,M90995,Gallagher,Al,,Texas City,,,
+emilbb,1977,Lone Star League,M91033,Kelly,Shannon,,McAllen,,,
+emilbb,1977,Lone Star League,M91022,Krizmanich,Mike,,Harlingen,,,
+emilbb,1977,Lone Star League,M91006,Mazzone,Leo,,Corpus Christi,,,
+emilbb,1977,Lone Star League,M91011,Thomas,Paul,,Harlingen,,,
+emilbb,1977,Lone Star League,M90972,Zimmer,Tom,,Victoria,,,

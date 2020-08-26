@@ -1,8 +1,8 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1979,Gulf Coast League,,M91570,Gonzalez,Pedro,,Braves,,
-minoraverages/emilbb,1979,Gulf Coast League,,M91556,Hancock,Andy,,Rangers,,
-minoraverages/emilbb,1979,Gulf Coast League,,M91597,Huyke,Woody,,Pirates,,
-minoraverages/emilbb,1979,Gulf Coast League,,M91543,Linares,Julio,,Astros,,
-minoraverages/emilbb,1979,Gulf Coast League,,M91562,Martinez,Jose,,Royals Gold,,
-minoraverages/emilbb,1979,Gulf Coast League,,M91581,Murphy,Brian,,Royals Blue,,
-minoraverages/emilbb,1979,Gulf Coast League,,M91607,Rudolph,Ken,,Cubs,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1979,Gulf Coast League,M91570,Gonzalez,Pedro,,Braves,,,
+emilbb,1979,Gulf Coast League,M91556,Hancock,Andy,,Rangers,,,
+emilbb,1979,Gulf Coast League,M91597,Huyke,Woody,,Pirates,,,
+emilbb,1979,Gulf Coast League,M91543,Linares,Julio,,Astros,,,
+emilbb,1979,Gulf Coast League,M91562,Martinez,Jose,,Royals Gold,,,
+emilbb,1979,Gulf Coast League,M91581,Murphy,Brian,,Royals Blue,,,
+emilbb,1979,Gulf Coast League,M91607,Rudolph,Ken,,Cubs,,,

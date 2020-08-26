@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1986,Texas League,cubbage,M90790,Cubbage,Mike,,Jackson,,
-minoraverages/emilbb,1986,Texas League,dyer,M90824,Dyer,Duffy,,El Paso,,
-minoraverages/emilbb,1986,Texas League,kim,M90789,Kim,Wendell,,Shreveport,,
-minoraverages/emilbb,1986,Texas League,larocque,M90835,LaRocque,Gary,,San Antonio,,
-minoraverages/emilbb,1986,Texas League,maddon,M90843,Maddon,Joe,,Midland,,
-minoraverages/emilbb,1986,Texas League,riggleman,M90808,Riggleman,Jim,,Arkansas,,
-minoraverages/emilbb,1986,Texas League,smith-bea,M90856,Smith,Steve,,Beaumont,,
-minoraverages/emilbb,1986,Texas League,stearns,M90819,Stearns,Bill,,Tulsa,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1986,Texas League,M90790,Cubbage,Mike,,Jackson,,,cubbage
+emilbb,1986,Texas League,M90824,Dyer,Duffy,,El Paso,,,dyer
+emilbb,1986,Texas League,M90789,Kim,Wendell,,Shreveport,,,kim
+emilbb,1986,Texas League,M90835,LaRocque,Gary,,San Antonio,,,larocque
+emilbb,1986,Texas League,M90843,Maddon,Joe,,Midland,,,maddon
+emilbb,1986,Texas League,M90808,Riggleman,Jim,,Arkansas,,,riggleman
+emilbb,1986,Texas League,M90856,Smith,Steve,,Beaumont,,,smith-bea
+emilbb,1986,Texas League,M90819,Stearns,Bill,,Tulsa,,,stearns

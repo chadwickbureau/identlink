@@ -1,20 +1,20 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/1959TSN,1958,Panama Winter League,altman,B00084,Altman,George,0,Marlboro,,
-minoraverages/1959TSN,1958,Panama Winter League,bartirome,B00117,Bartirome,Tony,0,Carta Vieja,,
-minoraverages/1959TSN,1958,Panama Winter League,bernard,B00068,Bernard,Pablo,0,Marlboro,,
-minoraverages/1959TSN,1958,Panama Winter League,black,P10043,Black,Bud,0,Azucareros,,p
-minoraverages/1959TSN,1958,Panama Winter League,gladstone,B00125,Gladstone,Granny,0,Azucareros,,
-minoraverages/1959TSN,1958,Panama Winter League,green,B00037,Green,Pumpsie,0,Azucareros,,
-minoraverages/1959TSN,1958,Panama Winter League,henley,B00101,Henley,Gail,0,Azucareros,,
-minoraverages/1959TSN,1958,Panama Winter League,heron,B00130,Heron,Carlos,0,Azucareros,,
-minoraverages/1959TSN,1958,Panama Winter League,hunt,B00059,Hunt,Ken,0,Azucareros,,
-minoraverages/1959TSN,1958,Panama Winter League,lopez,B00021,Lopez,Hector,0,Cerveza Balboa,,
-minoraverages/1959TSN,1958,Panama Winter League,luebke,P10035,Luebke,Dick,0,Azucareros,,p
-minoraverages/1959TSN,1958,Panama Winter League,maranda,P10056,Maranda,Georges,0,Cerveza Balboa,,p
-minoraverages/1959TSN,1958,Panama Winter League,parris,B00045,Parris,Clyde,0,Cerveza Balboa,,
-minoraverages/1959TSN,1958,Panama Winter League,parsons,B00092,Parsons,Bill,0,Carta Vieja,,
-minoraverages/1959TSN,1958,Panama Winter League,peden,B00013,Peden,Les,0,Azucareros,,
-minoraverages/1959TSN,1958,Panama Winter League,prout,P10019,Prout,Bill,0,Carta Vieja,,p
-minoraverages/1959TSN,1958,Panama Winter League,roberts,B00076,Roberts,Dave,0,Cerveza Balboa,,
-minoraverages/1959TSN,1958,Panama Winter League,robinson,P10024,Robinson,Humberto,0,Marlboro,,p
-minoraverages/1959TSN,1958,Panama Winter League,umbricht,P10062,Umbricht,Jim,0,Carta Vieja,,p
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+1959TSN,1958,Panama Winter League,B00084,Altman,George,0,Marlboro,,,altman
+1959TSN,1958,Panama Winter League,B00117,Bartirome,Tony,0,Carta Vieja,,,bartirome
+1959TSN,1958,Panama Winter League,B00068,Bernard,Pablo,0,Marlboro,,,bernard
+1959TSN,1958,Panama Winter League,P10043,Black,Bud,0,Azucareros,,p,black
+1959TSN,1958,Panama Winter League,B00125,Gladstone,Granny,0,Azucareros,,,gladstone
+1959TSN,1958,Panama Winter League,B00037,Green,Pumpsie,0,Azucareros,,,green
+1959TSN,1958,Panama Winter League,B00101,Henley,Gail,0,Azucareros,,,henley
+1959TSN,1958,Panama Winter League,B00130,Heron,Carlos,0,Azucareros,,,heron
+1959TSN,1958,Panama Winter League,B00059,Hunt,Ken,0,Azucareros,,,hunt
+1959TSN,1958,Panama Winter League,B00021,Lopez,Hector,0,Cerveza Balboa,,,lopez
+1959TSN,1958,Panama Winter League,P10035,Luebke,Dick,0,Azucareros,,p,luebke
+1959TSN,1958,Panama Winter League,P10056,Maranda,Georges,0,Cerveza Balboa,,p,maranda
+1959TSN,1958,Panama Winter League,B00045,Parris,Clyde,0,Cerveza Balboa,,,parris
+1959TSN,1958,Panama Winter League,B00092,Parsons,Bill,0,Carta Vieja,,,parsons
+1959TSN,1958,Panama Winter League,B00013,Peden,Les,0,Azucareros,,,peden
+1959TSN,1958,Panama Winter League,P10019,Prout,Bill,0,Carta Vieja,,p,prout
+1959TSN,1958,Panama Winter League,B00076,Roberts,Dave,0,Cerveza Balboa,,,roberts
+1959TSN,1958,Panama Winter League,P10024,Robinson,Humberto,0,Marlboro,,p,robinson
+1959TSN,1958,Panama Winter League,P10062,Umbricht,Jim,0,Carta Vieja,,p,umbricht

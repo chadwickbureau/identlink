@@ -1,5 +1,5 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1995,Atlantic Coast League,,M92092,Capra,Buzz,,Spartanburg,,
-minoraverages/emilbb,1995,Atlantic Coast League,,M92117,Johnston,Mark,,Greenwood,,
-minoraverages/emilbb,1995,Atlantic Coast League,,M92101,McKnight,Mark,,Florence,,
-minoraverages/emilbb,1995,Atlantic Coast League,,M92084,Nelson,Jamie,,Gaston,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1995,Atlantic Coast League,M92092,Capra,Buzz,,Spartanburg,,,
+emilbb,1995,Atlantic Coast League,M92117,Johnston,Mark,,Greenwood,,,
+emilbb,1995,Atlantic Coast League,M92101,McKnight,Mark,,Florence,,,
+emilbb,1995,Atlantic Coast League,M92084,Nelson,Jamie,,Gaston,,,

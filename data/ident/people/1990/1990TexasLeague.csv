@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1990,Texas League,,M90731,Bialas,Dave,,Arkansas,,
-minoraverages/emilbb,1990,Texas League,,M90728,Evers,Bill,,Shreveport,,
-minoraverages/emilbb,1990,Texas League,,M90753,Huppert,Dave,,El Paso,,
-minoraverages/emilbb,1990,Texas League,,M90702,Hurdle,Clint,,Jackson,,
-minoraverages/emilbb,1990,Texas League,,M90766,Lubratich,Steve,,Wichita,,
-minoraverages/emilbb,1990,Texas League,,M90777,Rodriguez,Eddie,,Midland,,
-minoraverages/emilbb,1990,Texas League,,M90744,Shoemaker,John,,San Antonio,,
-minoraverages/emilbb,1990,Texas League,,M90715,Thompson,Tommy,,Tulsa,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1990,Texas League,M90731,Bialas,Dave,,Arkansas,,,
+emilbb,1990,Texas League,M90728,Evers,Bill,,Shreveport,,,
+emilbb,1990,Texas League,M90753,Huppert,Dave,,El Paso,,,
+emilbb,1990,Texas League,M90702,Hurdle,Clint,,Jackson,,,
+emilbb,1990,Texas League,M90766,Lubratich,Steve,,Wichita,,,
+emilbb,1990,Texas League,M90777,Rodriguez,Eddie,,Midland,,,
+emilbb,1990,Texas League,M90744,Shoemaker,John,,San Antonio,,,
+emilbb,1990,Texas League,M90715,Thompson,Tommy,,Tulsa,,,

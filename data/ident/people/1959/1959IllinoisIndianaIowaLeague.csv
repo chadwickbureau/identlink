@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1959,Illinois-Indiana-Iowa League,,M90967,Capps,Bill,,Sioux City,,
-minoraverages/emilbb,1959,Illinois-Indiana-Iowa League,,M90951,Hutchinson,Ira,,Lincoln,,
-minoraverages/emilbb,1959,Illinois-Indiana-Iowa League,,M90914,Kress,Charlie,,Des Moines,,
-minoraverages/emilbb,1959,Illinois-Indiana-Iowa League,,M90946,McKeon,Jack,,Fox Cities,,
-minoraverages/emilbb,1959,Illinois-Indiana-Iowa League,,M90980,Monchak,Alex,,Cedar Rapids,,
-minoraverages/emilbb,1959,Illinois-Indiana-Iowa League,,M90972,Mueller,Ray,,Burlington,,
-minoraverages/emilbb,1959,Illinois-Indiana-Iowa League,,M90938,Vander Meer,John,,Topeka,,
-minoraverages/emilbb,1959,Illinois-Indiana-Iowa League,,M90923,Wasiak,Stan,,Green Bay,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1959,Illinois-Indiana-Iowa League,M90967,Capps,Bill,,Sioux City,,,
+emilbb,1959,Illinois-Indiana-Iowa League,M90951,Hutchinson,Ira,,Lincoln,,,
+emilbb,1959,Illinois-Indiana-Iowa League,M90914,Kress,Charlie,,Des Moines,,,
+emilbb,1959,Illinois-Indiana-Iowa League,M90946,McKeon,Jack,,Fox Cities,,,
+emilbb,1959,Illinois-Indiana-Iowa League,M90980,Monchak,Alex,,Cedar Rapids,,,
+emilbb,1959,Illinois-Indiana-Iowa League,M90972,Mueller,Ray,,Burlington,,,
+emilbb,1959,Illinois-Indiana-Iowa League,M90938,Vander Meer,John,,Topeka,,,
+emilbb,1959,Illinois-Indiana-Iowa League,M90923,Wasiak,Stan,,Green Bay,,,

@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1985,Carolina League,biagini,M90967,Biagini,Greg,,Hagerstown,,
-minoraverages/emilbb,1985,Carolina League,bright,M90995,Bright,Harry,,Durham,,
-minoraverages/emilbb,1985,Carolina League,clark,M90980,Clark,Ron,,Peninsula,,
-minoraverages/emilbb,1985,Carolina League,cubbage,M90946,Cubbage,Mike,,Lynchburg,,
-minoraverages/emilbb,1985,Carolina League,ermer,M91011,Ermer,Cal,,Winston-Salem,,
-minoraverages/emilbb,1985,Carolina League,little-kin,M91006,Little,Grady,,Kinston,,
-minoraverages/emilbb,1985,Carolina League,ott,M90972,Ott,Ed,,Prince William,,
-minoraverages/emilbb,1985,Carolina League,stearns,M90951,Stearns,Bill,,Salem,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1985,Carolina League,M90967,Biagini,Greg,,Hagerstown,,,biagini
+emilbb,1985,Carolina League,M90995,Bright,Harry,,Durham,,,bright
+emilbb,1985,Carolina League,M90980,Clark,Ron,,Peninsula,,,clark
+emilbb,1985,Carolina League,M90946,Cubbage,Mike,,Lynchburg,,,cubbage
+emilbb,1985,Carolina League,M91011,Ermer,Cal,,Winston-Salem,,,ermer
+emilbb,1985,Carolina League,M91006,Little,Grady,,Kinston,,,little-kin
+emilbb,1985,Carolina League,M90972,Ott,Ed,,Prince William,,,ott
+emilbb,1985,Carolina League,M90951,Stearns,Bill,,Salem,,,stearns

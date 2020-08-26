@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1948,Pennsylvania-Ontario-New York League,,M95571,Carey,Tom,,Wellsville,,
-minoraverages/emilbb,1948,Pennsylvania-Ontario-New York League,,M95594,Kerns,Russell,,Hornell,,
-minoraverages/emilbb,1948,Pennsylvania-Ontario-New York League,,M95547,Kissell,George,,Hamilton,,
-minoraverages/emilbb,1948,Pennsylvania-Ontario-New York League,,M95539,Olson,Marvin,,Jamestown,,
-minoraverages/emilbb,1948,Pennsylvania-Ontario-New York League,,M95552,Savino,George,,Bradford,,
-minoraverages/emilbb,1948,Pennsylvania-Ontario-New York League,,M95526,Scheffel,Cecil,,Lockport,,
-minoraverages/emilbb,1948,Pennsylvania-Ontario-New York League,,M95583,Scherger,George,,Olean,,
-minoraverages/emilbb,1948,Pennsylvania-Ontario-New York League,,M95560,Susce,George,,Batavia,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1948,Pennsylvania-Ontario-New York League,M95571,Carey,Tom,,Wellsville,,,
+emilbb,1948,Pennsylvania-Ontario-New York League,M95594,Kerns,Russell,,Hornell,,,
+emilbb,1948,Pennsylvania-Ontario-New York League,M95547,Kissell,George,,Hamilton,,,
+emilbb,1948,Pennsylvania-Ontario-New York League,M95539,Olson,Marvin,,Jamestown,,,
+emilbb,1948,Pennsylvania-Ontario-New York League,M95552,Savino,George,,Bradford,,,
+emilbb,1948,Pennsylvania-Ontario-New York League,M95526,Scheffel,Cecil,,Lockport,,,
+emilbb,1948,Pennsylvania-Ontario-New York League,M95583,Scherger,George,,Olean,,,
+emilbb,1948,Pennsylvania-Ontario-New York League,M95560,Susce,George,,Batavia,,,

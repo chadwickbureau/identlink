@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1993,Northern League,,M92149,Blackwell,Tim,,St. Paul,,
-minoraverages/emilbb,1993,Northern League,,M92196,Fichman,Mal,,Duluth-Superior,,
-minoraverages/emilbb,1993,Northern League,,M92174,Nottle,Ed,,Sioux City,,
-minoraverages/emilbb,1993,Northern League,,M92163,Shwam,Dan,,Thunder Bay,,
-minoraverages/emilbb,1993,Northern League,,M92158,Simunic,Doug,,Rochester,,
-minoraverages/emilbb,1993,Northern League,,M92182,Verdi,Frank,,Sioux Falls,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1993,Northern League,M92149,Blackwell,Tim,,St. Paul,,,
+emilbb,1993,Northern League,M92196,Fichman,Mal,,Duluth-Superior,,,
+emilbb,1993,Northern League,M92174,Nottle,Ed,,Sioux City,,,
+emilbb,1993,Northern League,M92163,Shwam,Dan,,Thunder Bay,,,
+emilbb,1993,Northern League,M92158,Simunic,Doug,,Rochester,,,
+emilbb,1993,Northern League,M92182,Verdi,Frank,,Sioux Falls,,,

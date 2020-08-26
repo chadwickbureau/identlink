@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1980,Midwest League,,M91213,Cato,Wayne,,Clinton,,
-minoraverages/emilbb,1980,Midwest League,,M91157,Emery,Cal,,Waterloo,,
-minoraverages/emilbb,1980,Midwest League,,M91200,Espy,Duane,,Burlington,,
-minoraverages/emilbb,1980,Midwest League,,M91221,Lett,Jim,,Cedar Rapids,,
-minoraverages/emilbb,1980,Midwest League,,M91161,Lund,Gordon,,Appleton,,
-minoraverages/emilbb,1980,Midwest League,,M91185,Martinez,"Orlando ""Marty""",,Wausau,,
-minoraverages/emilbb,1980,Midwest League,,M91199,Napier,Jim,,Quad Cities,,
-minoraverages/emilbb,1980,Midwest League,,M91173,Stelmaszek,Rich,,Wisconsin Rapids,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1980,Midwest League,M91213,Cato,Wayne,,Clinton,,,
+emilbb,1980,Midwest League,M91157,Emery,Cal,,Waterloo,,,
+emilbb,1980,Midwest League,M91200,Espy,Duane,,Burlington,,,
+emilbb,1980,Midwest League,M91221,Lett,Jim,,Cedar Rapids,,,
+emilbb,1980,Midwest League,M91161,Lund,Gordon,,Appleton,,,
+emilbb,1980,Midwest League,M91185,Martinez,"Orlando ""Marty""",,Wausau,,,
+emilbb,1980,Midwest League,M91199,Napier,Jim,,Quad Cities,,,
+emilbb,1980,Midwest League,M91173,Stelmaszek,Rich,,Wisconsin Rapids,,,

@@ -1,2 +1,2 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/1947TSN,1936,Eastern League,,P10847,Murray,,0,Binghamton,,P7p
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+1947TSN,1936,Eastern League,P10847,Murray,,0,Binghamton,,P7p,

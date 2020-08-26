@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1947,Western International League,,M91414,Brenner,Bill,,Vancouver,,
-minoraverages/emilbb,1947,Western International League,,M91480,Clift,Harland,,Yakima,,
-minoraverages/emilbb,1947,Western International League,,M91423,Geraghty,Ben,,Spokane,,
-minoraverages/emilbb,1947,Western International League,,M91467,Harwel,Red,,Tacoma,,
-minoraverages/emilbb,1947,Western International League,,M91451,Norbert,Ted,,Victoria,,
-minoraverages/emilbb,1947,Western International League,,M91472,Ryan,Buddy,,Wenatchee,,
-minoraverages/emilbb,1947,Western International League,,M91438,Strange,Alan,,Bremerton,,
-minoraverages/emilbb,1947,Western International League,,M91446,Wilson,Jack,,Salem,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1947,Western International League,M91414,Brenner,Bill,,Vancouver,,,
+emilbb,1947,Western International League,M91480,Clift,Harland,,Yakima,,,
+emilbb,1947,Western International League,M91423,Geraghty,Ben,,Spokane,,,
+emilbb,1947,Western International League,M91467,Harwel,Red,,Tacoma,,,
+emilbb,1947,Western International League,M91451,Norbert,Ted,,Victoria,,,
+emilbb,1947,Western International League,M91472,Ryan,Buddy,,Wenatchee,,,
+emilbb,1947,Western International League,M91438,Strange,Alan,,Bremerton,,,
+emilbb,1947,Western International League,M91446,Wilson,Jack,,Salem,,,

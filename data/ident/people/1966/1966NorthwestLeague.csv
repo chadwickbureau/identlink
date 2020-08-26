@@ -1,5 +1,5 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1966,Northwest League,,M91326,Haas,Eddie,,Yakima,,
-minoraverages/emilbb,1966,Northwest League,,M91318,Luby,Hugh,,Eugene,,
-minoraverages/emilbb,1966,Northwest League,,M91305,Snider,Duke,,Tri-City,,
-minoraverages/emilbb,1966,Northwest League,,M91339,Wilson,Grady,,Lewiston,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1966,Northwest League,M91326,Haas,Eddie,,Yakima,,,
+emilbb,1966,Northwest League,M91318,Luby,Hugh,,Eugene,,,
+emilbb,1966,Northwest League,M91305,Snider,Duke,,Tri-City,,,
+emilbb,1966,Northwest League,M91339,Wilson,Grady,,Lewiston,,,

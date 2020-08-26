@@ -1,8 +1,8 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1916,Ohio State League,,M92182,DeArmond,John,,Huntington,,
-minoraverages/emilbb,1916,Ohio State League,,M92149,Guyn,Howard,,Lexington,,
-minoraverages/emilbb,1916,Ohio State League,,M92174,Holmes,"James ""Ducky""",,Frankfort,,
-minoraverages/emilbb,1916,Ohio State League,,M92163,Jones,Jimmy,,Maysville,,
-minoraverages/emilbb,1916,Ohio State League,,M92196,Midkiff,Ezra,,Huntington,,
-minoraverages/emilbb,1916,Ohio State League,,M92158,Powell,Watt,,Charleston/Chillicothe,,
-minoraverages/emilbb,1916,Ohio State League,,M92130,Spencer,Chester,,Portsmouth,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1916,Ohio State League,M92182,DeArmond,John,,Huntington,,,
+emilbb,1916,Ohio State League,M92149,Guyn,Howard,,Lexington,,,
+emilbb,1916,Ohio State League,M92174,Holmes,"James ""Ducky""",,Frankfort,,,
+emilbb,1916,Ohio State League,M92163,Jones,Jimmy,,Maysville,,,
+emilbb,1916,Ohio State League,M92196,Midkiff,Ezra,,Huntington,,,
+emilbb,1916,Ohio State League,M92158,Powell,Watt,,Charleston/Chillicothe,,,
+emilbb,1916,Ohio State League,M92130,Spencer,Chester,,Portsmouth,,,

@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1984,Pioneer League,barton,M91803,Barton,Larry,,Billings,,
-minoraverages/emilbb,1984,Pioneer League,creech,M91796,Creech,Ed,,Calgary,,
-minoraverages/emilbb,1984,Pioneer League,estrada,M91816,Estrada,Manuel,,Butte,,
-minoraverages/emilbb,1984,Pioneer League,gurley,M91763,Gurley,Harry,,Helena,,
-minoraverages/emilbb,1984,Pioneer League,kennedy,M91774,Kennedy,Kevin,,Great Falls,,
-minoraverages/emilbb,1984,Pioneer League,larson-mh,M91782,Larson,Duane,,Medicine Hat,,
-minoraverages/emilbb,1984,Pioneer League,mihal,M91834,Mihal,Ron,,Pocatello,,
-minoraverages/emilbb,1984,Pioneer League,nettles,M91827,Nettles,Jim,,Idaho Falls,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1984,Pioneer League,M91803,Barton,Larry,,Billings,,,barton
+emilbb,1984,Pioneer League,M91796,Creech,Ed,,Calgary,,,creech
+emilbb,1984,Pioneer League,M91816,Estrada,Manuel,,Butte,,,estrada
+emilbb,1984,Pioneer League,M91763,Gurley,Harry,,Helena,,,gurley
+emilbb,1984,Pioneer League,M91774,Kennedy,Kevin,,Great Falls,,,kennedy
+emilbb,1984,Pioneer League,M91782,Larson,Duane,,Medicine Hat,,,larson-mh
+emilbb,1984,Pioneer League,M91834,Mihal,Ron,,Pocatello,,,mihal
+emilbb,1984,Pioneer League,M91827,Nettles,Jim,,Idaho Falls,,,nettles

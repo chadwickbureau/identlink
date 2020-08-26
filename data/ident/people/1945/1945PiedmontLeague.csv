@@ -1,8 +1,8 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1945,Piedmont League,,M90511,Braxton,Garland,,Norfolk,,
-minoraverages/emilbb,1945,Piedmont League,,M90565,Ferrell,George,,Lynchburg,,
-minoraverages/emilbb,1945,Piedmont League,,M90540,Goodman,Ival,,Portsmouth,,
-minoraverages/emilbb,1945,Piedmont League,,M90579,Payne,"Cecil ""Zip""",,Lynchburg,,
-minoraverages/emilbb,1945,Piedmont League,,M90533,Pitler,Jake,,Newport News,,
-minoraverages/emilbb,1945,Piedmont League,,M90554,Popowski,Eddie,,Roanoke,,
-minoraverages/emilbb,1945,Piedmont League,,M90522,Rodgers,Frank,,Richmond,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1945,Piedmont League,M90511,Braxton,Garland,,Norfolk,,,
+emilbb,1945,Piedmont League,M90565,Ferrell,George,,Lynchburg,,,
+emilbb,1945,Piedmont League,M90540,Goodman,Ival,,Portsmouth,,,
+emilbb,1945,Piedmont League,M90579,Payne,"Cecil ""Zip""",,Lynchburg,,,
+emilbb,1945,Piedmont League,M90533,Pitler,Jake,,Newport News,,,
+emilbb,1945,Piedmont League,M90554,Popowski,Eddie,,Roanoke,,,
+emilbb,1945,Piedmont League,M90522,Rodgers,Frank,,Richmond,,,

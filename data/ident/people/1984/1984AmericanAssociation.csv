@@ -1,11 +1,11 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1984,American Association,burgess,M90083,Burgess,Tom,,Oklahoma City,,
-minoraverages/emilbb,1984,American Association,dusan,M90060,Dusan,Gene,,Wichita,,
-minoraverages/emilbb,1984,American Association,fregosi,M90052,Fregosi,Jim,,Louisville,,
-minoraverages/emilbb,1984,American Association,garrett,M90047,Garrett,Adrian,,Denver,,
-minoraverages/emilbb,1984,American Association,gerhardt,M90094,Gerhardt,Rusty,,Oklahoma City,,
-minoraverages/emilbb,1984,American Association,lamont,M90107,Lamont,Gene,,Omaha,,
-minoraverages/emilbb,1984,American Association,law,M90039,Law,Vern,,Denver,,
-minoraverages/emilbb,1984,American Association,mackenzie,M90071,MacKenzie,Gordy,,Evansville,,
-minoraverages/emilbb,1984,American Association,napier,M90026,Napier,Jim,,Iowa,,
-minoraverages/emilbb,1984,American Association,rodgers,M90018,Rodgers,Buck,,Indianapolis,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1984,American Association,M90083,Burgess,Tom,,Oklahoma City,,,burgess
+emilbb,1984,American Association,M90060,Dusan,Gene,,Wichita,,,dusan
+emilbb,1984,American Association,M90052,Fregosi,Jim,,Louisville,,,fregosi
+emilbb,1984,American Association,M90047,Garrett,Adrian,,Denver,,,garrett
+emilbb,1984,American Association,M90094,Gerhardt,Rusty,,Oklahoma City,,,gerhardt
+emilbb,1984,American Association,M90107,Lamont,Gene,,Omaha,,,lamont
+emilbb,1984,American Association,M90039,Law,Vern,,Denver,,,law
+emilbb,1984,American Association,M90071,MacKenzie,Gordy,,Evansville,,,mackenzie
+emilbb,1984,American Association,M90026,Napier,Jim,,Iowa,,,napier
+emilbb,1984,American Association,M90018,Rodgers,Buck,,Indianapolis,,,rodgers

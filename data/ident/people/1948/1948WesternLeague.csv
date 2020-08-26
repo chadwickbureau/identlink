@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1948,Western League,,M90808,Becker,Joe,,Sioux City,,
-minoraverages/emilbb,1948,Western League,,M90790,DeShong,James,,Lincoln,,
-minoraverages/emilbb,1948,Western League,,M90819,Fitzpatrick,John,,Pueblo,,
-minoraverages/emilbb,1948,Western League,,M90789,Gazella,Mike,,Denver,,
-minoraverages/emilbb,1948,Western League,,M90777,Hack,Stan,,Des Moines,,
-minoraverages/emilbb,1948,Western League,,M90824,Vanek,Ollie,,Omaha,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1948,Western League,M90808,Becker,Joe,,Sioux City,,,
+emilbb,1948,Western League,M90790,DeShong,James,,Lincoln,,,
+emilbb,1948,Western League,M90819,Fitzpatrick,John,,Pueblo,,,
+emilbb,1948,Western League,M90789,Gazella,Mike,,Denver,,,
+emilbb,1948,Western League,M90777,Hack,Stan,,Des Moines,,,
+emilbb,1948,Western League,M90824,Vanek,Ollie,,Omaha,,,

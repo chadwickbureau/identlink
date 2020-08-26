@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1967,Gulf Coast League,,M91446,Andrew,Bruce,,White Sox,,
-minoraverages/emilbb,1967,Gulf Coast League,,M91467,Kissell,George,,Cardinals,,
-minoraverages/emilbb,1967,Gulf Coast League,,M91414,Ryan,Connie,,Athletics,,
-minoraverages/emilbb,1967,Gulf Coast League,,M91451,Saffell,Tom,,Braves,,
-minoraverages/emilbb,1967,Gulf Coast League,,M91423,Seyfried,Gordon,,Indians,,
-minoraverages/emilbb,1967,Gulf Coast League,,M91438,Waters,Fred,,Twins,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1967,Gulf Coast League,M91446,Andrew,Bruce,,White Sox,,,
+emilbb,1967,Gulf Coast League,M91467,Kissell,George,,Cardinals,,,
+emilbb,1967,Gulf Coast League,M91414,Ryan,Connie,,Athletics,,,
+emilbb,1967,Gulf Coast League,M91451,Saffell,Tom,,Braves,,,
+emilbb,1967,Gulf Coast League,M91423,Seyfried,Gordon,,Indians,,,
+emilbb,1967,Gulf Coast League,M91438,Waters,Fred,,Twins,,,

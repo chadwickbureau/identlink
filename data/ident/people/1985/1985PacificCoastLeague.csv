@@ -1,11 +1,11 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1985,Pacific Coast League,cluck,M90554,Cluck,Bob,,Las Vegas,,
-minoraverages/emilbb,1985,Pacific Coast League,collins,M90533,Collins,Terry,,Albuquerque,,
-minoraverages/emilbb,1985,Pacific Coast League,dancy,M90484,Dancy,Bill,,Portland,,
-minoraverages/emilbb,1985,Pacific Coast League,floyd,M90476,Floyd,Bobby,,Calgary,,
-minoraverages/emilbb,1985,Pacific Coast League,johnson-tuc,M90540,Johnson,Jimmy,,Tucson,,
-minoraverages/emilbb,1985,Pacific Coast League,lefebvre,M90522,Lefebvre,Jim,,Phoenix,,
-minoraverages/emilbb,1985,Pacific Coast League,lieppman,M90506,Lieppman,Keith,,Tacoma,,
-minoraverages/emilbb,1985,Pacific Coast League,llenas,M90492,Llenas,Winston,,Edmonton,,
-minoraverages/emilbb,1985,Pacific Coast League,sandt,M90511,Sandt,Tommy,,Hawaii,,
-minoraverages/emilbb,1985,Pacific Coast League,trebelhorn,M90468,Trebelhorn,Tom,,Vancouver,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1985,Pacific Coast League,M90554,Cluck,Bob,,Las Vegas,,,cluck
+emilbb,1985,Pacific Coast League,M90533,Collins,Terry,,Albuquerque,,,collins
+emilbb,1985,Pacific Coast League,M90484,Dancy,Bill,,Portland,,,dancy
+emilbb,1985,Pacific Coast League,M90476,Floyd,Bobby,,Calgary,,,floyd
+emilbb,1985,Pacific Coast League,M90540,Johnson,Jimmy,,Tucson,,,johnson-tuc
+emilbb,1985,Pacific Coast League,M90522,Lefebvre,Jim,,Phoenix,,,lefebvre
+emilbb,1985,Pacific Coast League,M90506,Lieppman,Keith,,Tacoma,,,lieppman
+emilbb,1985,Pacific Coast League,M90492,Llenas,Winston,,Edmonton,,,llenas
+emilbb,1985,Pacific Coast League,M90511,Sandt,Tommy,,Hawaii,,,sandt
+emilbb,1985,Pacific Coast League,M90468,Trebelhorn,Tom,,Vancouver,,,trebelhorn

@@ -1,11 +1,11 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1986,American Association,bialas,M90052,Bialas,Dave,,Louisville,,
-minoraverages/emilbb,1986,American Association,boles,M90083,Boles,John,,Omaha,,
-minoraverages/emilbb,1986,American Association,cox,M90071,Cox,Larry,,Iowa,,
-minoraverages/emilbb,1986,American Association,fregosi,M90047,Fregosi,Jim,,Louisville,,
-minoraverages/emilbb,1986,American Association,funk,M90094,Funk,Frank,,Omaha,,
-minoraverages/emilbb,1986,American Association,lind,M90060,Lind,Jack,,Denver,,
-minoraverages/emilbb,1986,American Association,marshall,M90026,Marshall,Joim,,Buffalo,,
-minoraverages/emilbb,1986,American Association,oliver-okc,M90107,Oliver,Dave,,Oklahoma City,,
-minoraverages/emilbb,1986,American Association,roberts,M90039,Roberts,Leon,,Nashville,,
-minoraverages/emilbb,1986,American Association,sparks,M90018,Sparks,Joe,,Indianapolis,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1986,American Association,M90052,Bialas,Dave,,Louisville,,,bialas
+emilbb,1986,American Association,M90083,Boles,John,,Omaha,,,boles
+emilbb,1986,American Association,M90071,Cox,Larry,,Iowa,,,cox
+emilbb,1986,American Association,M90047,Fregosi,Jim,,Louisville,,,fregosi
+emilbb,1986,American Association,M90094,Funk,Frank,,Omaha,,,funk
+emilbb,1986,American Association,M90060,Lind,Jack,,Denver,,,lind
+emilbb,1986,American Association,M90026,Marshall,Joim,,Buffalo,,,marshall
+emilbb,1986,American Association,M90107,Oliver,Dave,,Oklahoma City,,,oliver-okc
+emilbb,1986,American Association,M90039,Roberts,Leon,,Nashville,,,roberts
+emilbb,1986,American Association,M90018,Sparks,Joe,,Indianapolis,,,sparks

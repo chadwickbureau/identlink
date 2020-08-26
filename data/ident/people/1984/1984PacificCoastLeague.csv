@@ -1,11 +1,11 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1984,Pacific Coast League,cluck,M90511,Cluck,Bob,,Las Vegas,,
-minoraverages/emilbb,1984,Pacific Coast League,collins,M90540,Collins,Terry,,Albuquerque,,
-minoraverages/emilbb,1984,Pacific Coast League,elia,M90492,Elia,Lee,,Portland,,
-minoraverages/emilbb,1984,Pacific Coast League,floyd,M90459,Floyd,Bobby,,Salt Lake City,,
-minoraverages/emilbb,1984,Pacific Coast League,galante,M90522,Galante,Matt,,Tucson,,
-minoraverages/emilbb,1984,Pacific Coast League,mull,M90533,Mull,Jack,,Phoenix,,
-minoraverages/emilbb,1984,Pacific Coast League,muser,M90468,Muser,Tony,,Vancouver,,
-minoraverages/emilbb,1984,Pacific Coast League,nottle,M90476,Nottle,Ed,,Tacoma,,
-minoraverages/emilbb,1984,Pacific Coast League,sandt,M90506,Sandt,Tommy,,Hawaii,,
-minoraverages/emilbb,1984,Pacific Coast League,stubing,M90484,Stubing,"Larry ""Moose""",,Edmonton,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1984,Pacific Coast League,M90511,Cluck,Bob,,Las Vegas,,,cluck
+emilbb,1984,Pacific Coast League,M90540,Collins,Terry,,Albuquerque,,,collins
+emilbb,1984,Pacific Coast League,M90492,Elia,Lee,,Portland,,,elia
+emilbb,1984,Pacific Coast League,M90459,Floyd,Bobby,,Salt Lake City,,,floyd
+emilbb,1984,Pacific Coast League,M90522,Galante,Matt,,Tucson,,,galante
+emilbb,1984,Pacific Coast League,M90533,Mull,Jack,,Phoenix,,,mull
+emilbb,1984,Pacific Coast League,M90468,Muser,Tony,,Vancouver,,,muser
+emilbb,1984,Pacific Coast League,M90476,Nottle,Ed,,Tacoma,,,nottle
+emilbb,1984,Pacific Coast League,M90506,Sandt,Tommy,,Hawaii,,,sandt
+emilbb,1984,Pacific Coast League,M90484,Stubing,"Larry ""Moose""",,Edmonton,,,stubing

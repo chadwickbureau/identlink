@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1955,Mexican League,,M90349,Amaro,Santos,,Veracruz,,
-minoraverages/emilbb,1955,Mexican League,,M90330,Diaz,Mario,,Mexico City Reds,,
-minoraverages/emilbb,1955,Mexican League,,M90374,Garza,Gilberto,,Yucatan,,
-minoraverages/emilbb,1955,Mexican League,,M90301,Genovese,George,,Mexico City Tigers,,
-minoraverages/emilbb,1955,Mexican League,,M90363,Guerra,Fermin,,Yucatan,,
-minoraverages/emilbb,1955,Mexican League,,M90317,Luque,Dolf,,Nuevo Laredo,,
-minoraverages/emilbb,1955,Mexican League,,M90325,Torres,Gilberto,,Mexico City Reds,,
-minoraverages/emilbb,1955,Mexican League,,M90358,Torres,Epitacio,,Monterrey,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1955,Mexican League,M90349,Amaro,Santos,,Veracruz,,,
+emilbb,1955,Mexican League,M90330,Diaz,Mario,,Mexico City Reds,,,
+emilbb,1955,Mexican League,M90374,Garza,Gilberto,,Yucatan,,,
+emilbb,1955,Mexican League,M90301,Genovese,George,,Mexico City Tigers,,,
+emilbb,1955,Mexican League,M90363,Guerra,Fermin,,Yucatan,,,
+emilbb,1955,Mexican League,M90317,Luque,Dolf,,Nuevo Laredo,,,
+emilbb,1955,Mexican League,M90325,Torres,Gilberto,,Mexico City Reds,,,
+emilbb,1955,Mexican League,M90358,Torres,Epitacio,,Monterrey,,,

@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1968,Texas League,,M90554,Bright,Harry,,San Antonio,,
-minoraverages/emilbb,1968,Texas League,,M90533,Craig,Roger,,Albuquerque,,
-minoraverages/emilbb,1968,Texas League,,M90540,Gilbert,Andy,,Amarillo,,
-minoraverages/emilbb,1968,Texas League,,M90511,Kittle,Hub,,Dallas-Fort Worth,,
-minoraverages/emilbb,1968,Texas League,,M90492,Lau,Charlie,,Shreveport,,
-minoraverages/emilbb,1968,Texas League,,M90484,Rapp,Vern,,Arkansas,,
-minoraverages/emilbb,1968,Texas League,,M90506,Sievers,Roy,,Memphis,,
-minoraverages/emilbb,1968,Texas League,,M90522,Tanner,Chuck,,El Paso,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1968,Texas League,M90554,Bright,Harry,,San Antonio,,,
+emilbb,1968,Texas League,M90533,Craig,Roger,,Albuquerque,,,
+emilbb,1968,Texas League,M90540,Gilbert,Andy,,Amarillo,,,
+emilbb,1968,Texas League,M90511,Kittle,Hub,,Dallas-Fort Worth,,,
+emilbb,1968,Texas League,M90492,Lau,Charlie,,Shreveport,,,
+emilbb,1968,Texas League,M90484,Rapp,Vern,,Arkansas,,,
+emilbb,1968,Texas League,M90506,Sievers,Roy,,Memphis,,,
+emilbb,1968,Texas League,M90522,Tanner,Chuck,,El Paso,,,

@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1986,Appalachian League,adams,M91678,Adams,Glenn,,Burlington,,
-minoraverages/emilbb,1986,Appalachian League,franklin,M91686,Franklin,Tony,,Wytheville,,
-minoraverages/emilbb,1986,Appalachian League,gamboa,M91717,Gamboa,Tom,,Bristol,,
-minoraverages/emilbb,1986,Appalachian League,gulliver,M91664,Gulliver,Glenn,,Bluefield,,
-minoraverages/emilbb,1986,Appalachian League,hiller,M91725,Hiller,Chuck,,Kingsport,,
-minoraverages/emilbb,1986,Appalachian League,little,M91655,Little,Grady,,Pulaski,,
-minoraverages/emilbb,1986,Appalachian League,radison,M91693,Radison,Dan,,Johnson City,,
-minoraverages/emilbb,1986,Appalachian League,waters,M91701,Waters,Fred,,Elizabethton,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1986,Appalachian League,M91678,Adams,Glenn,,Burlington,,,adams
+emilbb,1986,Appalachian League,M91686,Franklin,Tony,,Wytheville,,,franklin
+emilbb,1986,Appalachian League,M91717,Gamboa,Tom,,Bristol,,,gamboa
+emilbb,1986,Appalachian League,M91664,Gulliver,Glenn,,Bluefield,,,gulliver
+emilbb,1986,Appalachian League,M91725,Hiller,Chuck,,Kingsport,,,hiller
+emilbb,1986,Appalachian League,M91655,Little,Grady,,Pulaski,,,little
+emilbb,1986,Appalachian League,M91693,Radison,Dan,,Johnson City,,,radison
+emilbb,1986,Appalachian League,M91701,Waters,Fred,,Elizabethton,,,waters

@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1983,International League,,M90155,Beauchamp,Jim,,Syracuse,,
-minoraverages/emilbb,1983,International League,,M90110,Edwards,Don,,Charleston,,
-minoraverages/emilbb,1983,International League,,M90132,Ermer,Cal,,Toledo,,
-minoraverages/emilbb,1983,International League,,M90107,Haas,Eddie,,Richmond,,
-minoraverages/emilbb,1983,International League,,M90129,Johnson,Davey,,Tidewater,,
-minoraverages/emilbb,1983,International League,,M90141,Nichols,Lance,,Rochester,,
-minoraverages/emilbb,1983,International League,,M90094,Oates,Johnny,,Columbus,,
-minoraverages/emilbb,1983,International League,,M90164,Torchia,Tony,,Pawtucket,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1983,International League,M90155,Beauchamp,Jim,,Syracuse,,,
+emilbb,1983,International League,M90110,Edwards,Don,,Charleston,,,
+emilbb,1983,International League,M90132,Ermer,Cal,,Toledo,,,
+emilbb,1983,International League,M90107,Haas,Eddie,,Richmond,,,
+emilbb,1983,International League,M90129,Johnson,Davey,,Tidewater,,,
+emilbb,1983,International League,M90141,Nichols,Lance,,Rochester,,,
+emilbb,1983,International League,M90094,Oates,Johnny,,Columbus,,,
+emilbb,1983,International League,M90164,Torchia,Tony,,Pawtucket,,,

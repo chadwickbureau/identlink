@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1966,Northern League,,M91276,Grace,LaVern,,Duluth-Superior,,
-minoraverages/emilbb,1966,Northern League,,M91268,Lonnett,Joe,,Huron,,
-minoraverages/emilbb,1966,Northern League,,M91292,Pacheco,Tony,,Bismarck-Mandan,,
-minoraverages/emilbb,1966,Northern League,,M91259,Ripken,Cal Sr.,,Aberdeen,,
-minoraverages/emilbb,1966,Northern League,,M91284,Snyder,James,,Sioux Falls,,
-minoraverages/emilbb,1966,Northern League,,M91245,Staples,Ken,,St. Cloud,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1966,Northern League,M91276,Grace,LaVern,,Duluth-Superior,,,
+emilbb,1966,Northern League,M91268,Lonnett,Joe,,Huron,,,
+emilbb,1966,Northern League,M91292,Pacheco,Tony,,Bismarck-Mandan,,,
+emilbb,1966,Northern League,M91259,Ripken,Cal Sr.,,Aberdeen,,,
+emilbb,1966,Northern League,M91284,Snyder,James,,Sioux Falls,,,
+emilbb,1966,Northern League,M91245,Staples,Ken,,St. Cloud,,,

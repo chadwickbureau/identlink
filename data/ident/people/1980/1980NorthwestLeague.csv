@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1980,Northwest League,,M91347,Bryk,Bill,,Grays Harbor,,
-minoraverages/emilbb,1980,Northwest League,,M91371,Carey,P. J.,,Central Oregon,,
-minoraverages/emilbb,1980,Northwest League,,M91339,Daniels,Curt,,Walla Walla,,
-minoraverages/emilbb,1980,Northwest League,,M91383,Fischer,Brad,,Medford,,
-minoraverages/emilbb,1980,Northwest League,,M91326,Gattis,Jim,,Victoria,,
-minoraverages/emilbb,1980,Northwest League,,M91360,Lamb,Randy,,Salem,,
-minoraverages/emilbb,1980,Northwest League,,M91352,Riddoch,Greg,,Eugene,,
-minoraverages/emilbb,1980,Northwest League,,M91318,Scott,Jeff,,Bellingham,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1980,Northwest League,M91347,Bryk,Bill,,Grays Harbor,,,
+emilbb,1980,Northwest League,M91371,Carey,P. J.,,Central Oregon,,,
+emilbb,1980,Northwest League,M91339,Daniels,Curt,,Walla Walla,,,
+emilbb,1980,Northwest League,M91383,Fischer,Brad,,Medford,,,
+emilbb,1980,Northwest League,M91326,Gattis,Jim,,Victoria,,,
+emilbb,1980,Northwest League,M91360,Lamb,Randy,,Salem,,,
+emilbb,1980,Northwest League,M91352,Riddoch,Greg,,Eugene,,,
+emilbb,1980,Northwest League,M91318,Scott,Jeff,,Bellingham,,,

@@ -1,13 +1,13 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1986,New York-Pennsylvania League,bodie,M91438,Bodie,Keith,,Auburn,,
-minoraverages/emilbb,1986,New York-Pennsylvania League,boyer,M91394,Boyer,Cloyd,,St. Catharines,,
-minoraverages/emilbb,1986,New York-Pennsylvania League,chandler,M91414,Chandler,Tom,,Batavia,,
-minoraverages/emilbb,1986,New York-Pennsylvania League,glynn,M91423,Glynn,Gene,,Jamestown,,
-minoraverages/emilbb,1986,New York-Pennsylvania League,limoncelli,M91451,Limoncelli,Bill,,Elmira,,
-minoraverages/emilbb,1986,New York-Pennsylvania League,loviglio,M91467,Loviglio,Jay,,Geneva,,
-minoraverages/emilbb,1986,New York-Pennsylvania League,mazmanian,M91446,Mazmanian,Art,,Newark,,
-minoraverages/emilbb,1986,New York-Pennsylvania League,miller,M91360,Miller,Rich,,Little Falls,,
-minoraverages/emilbb,1986,New York-Pennsylvania League,ott,M91371,Ott,Ed,,Watertown,,
-minoraverages/emilbb,1986,New York-Pennsylvania League,rigoli,M91409,Rigoli,Joe,,Erie,,
-minoraverages/emilbb,1986,New York-Pennsylvania League,showalter,M91352,Showalter,Buck,,Oneonta,,
-minoraverages/emilbb,1986,New York-Pennsylvania League,taylor-uti,M91383,Taylor,Tony,,Utica,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1986,New York-Pennsylvania League,M91438,Bodie,Keith,,Auburn,,,bodie
+emilbb,1986,New York-Pennsylvania League,M91394,Boyer,Cloyd,,St. Catharines,,,boyer
+emilbb,1986,New York-Pennsylvania League,M91414,Chandler,Tom,,Batavia,,,chandler
+emilbb,1986,New York-Pennsylvania League,M91423,Glynn,Gene,,Jamestown,,,glynn
+emilbb,1986,New York-Pennsylvania League,M91451,Limoncelli,Bill,,Elmira,,,limoncelli
+emilbb,1986,New York-Pennsylvania League,M91467,Loviglio,Jay,,Geneva,,,loviglio
+emilbb,1986,New York-Pennsylvania League,M91446,Mazmanian,Art,,Newark,,,mazmanian
+emilbb,1986,New York-Pennsylvania League,M91360,Miller,Rich,,Little Falls,,,miller
+emilbb,1986,New York-Pennsylvania League,M91371,Ott,Ed,,Watertown,,,ott
+emilbb,1986,New York-Pennsylvania League,M91409,Rigoli,Joe,,Erie,,,rigoli
+emilbb,1986,New York-Pennsylvania League,M91352,Showalter,Buck,,Oneonta,,,showalter
+emilbb,1986,New York-Pennsylvania League,M91383,Taylor,Tony,,Utica,,,taylor-uti

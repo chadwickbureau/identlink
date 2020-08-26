@@ -1,8 +1,8 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1957,Mexican League,,M90396,Dihigo,Martin,,Veracruz,,
-minoraverages/emilbb,1957,Mexican League,,M90382,Garibay,Memo,,Nuevo Laredo,,
-minoraverages/emilbb,1957,Mexican League,,M90363,Genovese,George,,Mexico City Tigers,,
-minoraverages/emilbb,1957,Mexican League,,M90358,Gomez,Preston,,Mexico City Reds,,
-minoraverages/emilbb,1957,Mexican League,,M90374,Otero,Reggie,,Monterrey,,
-minoraverages/emilbb,1957,Mexican League,,M90330,Rodriguez,Oscar,,Yucatan,,
-minoraverages/emilbb,1957,Mexican League,,M90349,Salazar,Lazaro,,Mexico City Reds,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1957,Mexican League,M90396,Dihigo,Martin,,Veracruz,,,
+emilbb,1957,Mexican League,M90382,Garibay,Memo,,Nuevo Laredo,,,
+emilbb,1957,Mexican League,M90363,Genovese,George,,Mexico City Tigers,,,
+emilbb,1957,Mexican League,M90358,Gomez,Preston,,Mexico City Reds,,,
+emilbb,1957,Mexican League,M90374,Otero,Reggie,,Monterrey,,,
+emilbb,1957,Mexican League,M90330,Rodriguez,Oscar,,Yucatan,,,
+emilbb,1957,Mexican League,M90349,Salazar,Lazaro,,Mexico City Reds,,,

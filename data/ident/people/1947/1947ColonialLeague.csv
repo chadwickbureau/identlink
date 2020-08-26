@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1947,Colonial League,,M90790,Acton,James,,Waterbury,,
-minoraverages/emilbb,1947,Colonial League,,M90835,Barillari,Al,,Port Chester,,
-minoraverages/emilbb,1947,Colonial League,,M90819,Bonura,Zeke,,Stamford,,
-minoraverages/emilbb,1947,Colonial League,,M90843,Brunetto,Carmen,,Bridgeport,,
-minoraverages/emilbb,1947,Colonial League,,M90824,Butka,Edward,,New London,,
-minoraverages/emilbb,1947,Colonial League,,M90808,McNair,Eric,,Poughkeepsie,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1947,Colonial League,M90790,Acton,James,,Waterbury,,,
+emilbb,1947,Colonial League,M90835,Barillari,Al,,Port Chester,,,
+emilbb,1947,Colonial League,M90819,Bonura,Zeke,,Stamford,,,
+emilbb,1947,Colonial League,M90843,Brunetto,Carmen,,Bridgeport,,,
+emilbb,1947,Colonial League,M90824,Butka,Edward,,New London,,,
+emilbb,1947,Colonial League,M90808,McNair,Eric,,Poughkeepsie,,,

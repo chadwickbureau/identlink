@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1968,Northern League,,M91347,Andrew,Bruce,,Duluth-Superior,,
-minoraverages/emilbb,1968,Northern League,,M91326,Frazier,Joe,,Mankato,,
-minoraverages/emilbb,1968,Northern League,,M91352,Green,Dallas,,Huron,,
-minoraverages/emilbb,1968,Northern League,,M91318,Hardy,Carroll,,St. Cloud,,
-minoraverages/emilbb,1968,Northern League,,M91339,Snyder,Jim,,Sioux Falls,,
-minoraverages/emilbb,1968,Northern League,,M91360,Werle,Bill,,Aberdeen,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1968,Northern League,M91347,Andrew,Bruce,,Duluth-Superior,,,
+emilbb,1968,Northern League,M91326,Frazier,Joe,,Mankato,,,
+emilbb,1968,Northern League,M91352,Green,Dallas,,Huron,,,
+emilbb,1968,Northern League,M91318,Hardy,Carroll,,St. Cloud,,,
+emilbb,1968,Northern League,M91339,Snyder,Jim,,Sioux Falls,,,
+emilbb,1968,Northern League,M91360,Werle,Bill,,Aberdeen,,,

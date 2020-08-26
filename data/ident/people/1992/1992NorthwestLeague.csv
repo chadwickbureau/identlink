@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1992,Northwest League,,M91495,Fuson,Grady,,Southern Oregon,,
-minoraverages/emilbb,1992,Northwest League,,M91472,Glynn,Gene,,Bend,,
-minoraverages/emilbb,1992,Northwest League,,M91480,Kotchman,Tom,,Boise,,
-minoraverages/emilbb,1992,Northwest League,,M91508,Mecham,Bobby,,Eugene,,
-minoraverages/emilbb,1992,Northwest League,,M91438,Myers,Dave,,Bellingham,,
-minoraverages/emilbb,1992,Northwest League,,M91467,Romero,Ed,,Spokane,,
-minoraverages/emilbb,1992,Northwest League,,M91451,Sherry,Norm,,Everett,,
-minoraverages/emilbb,1992,Northwest League,,M91446,Vavra,Joe,,Yakima,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1992,Northwest League,M91495,Fuson,Grady,,Southern Oregon,,,
+emilbb,1992,Northwest League,M91472,Glynn,Gene,,Bend,,,
+emilbb,1992,Northwest League,M91480,Kotchman,Tom,,Boise,,,
+emilbb,1992,Northwest League,M91508,Mecham,Bobby,,Eugene,,,
+emilbb,1992,Northwest League,M91438,Myers,Dave,,Bellingham,,,
+emilbb,1992,Northwest League,M91467,Romero,Ed,,Spokane,,,
+emilbb,1992,Northwest League,M91451,Sherry,Norm,,Everett,,,
+emilbb,1992,Northwest League,M91446,Vavra,Joe,,Yakima,,,

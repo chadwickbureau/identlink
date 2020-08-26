@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1990,American Association,,M90026,Collins,Terry,,Buffalo,,
-minoraverages/emilbb,1990,American Association,,M90060,Essian,Jim,,Iowa,,
-minoraverages/emilbb,1990,American Association,,M90047,Johnson,Tim,,Indianapolis,,
-minoraverages/emilbb,1990,American Association,,M90071,Machemer,Dave,,Denver,,
-minoraverages/emilbb,1990,American Association,,M90018,Mackanin,Pete,,Nashville,,
-minoraverages/emilbb,1990,American Association,,M90039,Pitts,Gaylen,,Louisville,,
-minoraverages/emilbb,1990,American Association,,M90052,Rende,Sal,,Omaha,,
-minoraverages/emilbb,1990,American Association,,M90083,Smith,Steve,,Oklahoma City,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1990,American Association,M90026,Collins,Terry,,Buffalo,,,
+emilbb,1990,American Association,M90060,Essian,Jim,,Iowa,,,
+emilbb,1990,American Association,M90047,Johnson,Tim,,Indianapolis,,,
+emilbb,1990,American Association,M90071,Machemer,Dave,,Denver,,,
+emilbb,1990,American Association,M90018,Mackanin,Pete,,Nashville,,,
+emilbb,1990,American Association,M90039,Pitts,Gaylen,,Louisville,,,
+emilbb,1990,American Association,M90052,Rende,Sal,,Omaha,,,
+emilbb,1990,American Association,M90083,Smith,Steve,,Oklahoma City,,,

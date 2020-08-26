@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1981,California League,,M90819,Cannizzaro,Chris,,Redwood,,
-minoraverages/emilbb,1981,California League,,M90824,Cato,Wayne,,Fresno,,
-minoraverages/emilbb,1981,California League,,M90789,Collins,Terry,,Lodi,,
-minoraverages/emilbb,1981,California League,,M90790,Espy,Duane,,Stockton,,
-minoraverages/emilbb,1981,California League,,M90835,Hatfield,Fred,,San Jose,,
-minoraverages/emilbb,1981,California League,,M90808,Lieppman,Keith,,Modesto,,
-minoraverages/emilbb,1981,California League,,M90777,Maloof,Jack,,Reno,,
-minoraverages/emilbb,1981,California League,,M90766,Phillips,Dick,,Visalia,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1981,California League,M90819,Cannizzaro,Chris,,Redwood,,,
+emilbb,1981,California League,M90824,Cato,Wayne,,Fresno,,,
+emilbb,1981,California League,M90789,Collins,Terry,,Lodi,,,
+emilbb,1981,California League,M90790,Espy,Duane,,Stockton,,,
+emilbb,1981,California League,M90835,Hatfield,Fred,,San Jose,,,
+emilbb,1981,California League,M90808,Lieppman,Keith,,Modesto,,,
+emilbb,1981,California League,M90777,Maloof,Jack,,Reno,,,
+emilbb,1981,California League,M90766,Phillips,Dick,,Visalia,,,

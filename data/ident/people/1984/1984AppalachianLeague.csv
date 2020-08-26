@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1984,Appalachian League,bailey-pul,M91581,Bailey,Buddy,,Pulaski,,
-minoraverages/emilbb,1984,Appalachian League,biagini,M91610,Biagini,Greg,,Bluefield,,
-minoraverages/emilbb,1984,Appalachian League,dyer,M91632,Dyer,Hal,,Bristol,,
-minoraverages/emilbb,1984,Appalachian League,fairey,M91607,Fairey,Jim,,Pikeville,,
-minoraverages/emilbb,1984,Appalachian League,hansen,M91597,Hansen,Ron,,Paintsville,,
-minoraverages/emilbb,1984,Appalachian League,hiller,M91655,Hiller,Chuck,,Johnson City,,
-minoraverages/emilbb,1984,Appalachian League,radison,M91641,Radison,Dan,,Kingsport,,
-minoraverages/emilbb,1984,Appalachian League,waters,M91629,Waters,Fred,,Elizabethton,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1984,Appalachian League,M91581,Bailey,Buddy,,Pulaski,,,bailey-pul
+emilbb,1984,Appalachian League,M91610,Biagini,Greg,,Bluefield,,,biagini
+emilbb,1984,Appalachian League,M91632,Dyer,Hal,,Bristol,,,dyer
+emilbb,1984,Appalachian League,M91607,Fairey,Jim,,Pikeville,,,fairey
+emilbb,1984,Appalachian League,M91597,Hansen,Ron,,Paintsville,,,hansen
+emilbb,1984,Appalachian League,M91655,Hiller,Chuck,,Johnson City,,,hiller
+emilbb,1984,Appalachian League,M91641,Radison,Dan,,Kingsport,,,radison
+emilbb,1984,Appalachian League,M91629,Waters,Fred,,Elizabethton,,,waters

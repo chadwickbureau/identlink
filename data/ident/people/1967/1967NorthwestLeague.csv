@@ -1,5 +1,5 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1967,Northwest League,,M91259,Eichelberger,Tony,,Medford,,
-minoraverages/emilbb,1967,Northwest League,,M91284,Hathaway,Ray,,Lewiston,,
-minoraverages/emilbb,1967,Northwest League,,M91276,LeJohn,Don Sr.,,Tri-City,,
-minoraverages/emilbb,1967,Northwest League,,M91268,Malmkus,Bobby,,Eugene,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1967,Northwest League,M91259,Eichelberger,Tony,,Medford,,,
+emilbb,1967,Northwest League,M91284,Hathaway,Ray,,Lewiston,,,
+emilbb,1967,Northwest League,M91276,LeJohn,Don Sr.,,Tri-City,,,
+emilbb,1967,Northwest League,M91268,Malmkus,Bobby,,Eugene,,,

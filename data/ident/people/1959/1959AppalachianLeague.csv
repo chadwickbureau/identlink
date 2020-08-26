@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1959,Appalachian League,,M91284,Dorton,Larry,,Salem,,
-minoraverages/emilbb,1959,Appalachian League,,M91276,Hayworth,Red,,Morristown,,
-minoraverages/emilbb,1959,Appalachian League,,M91305,Hooper,Bob,,Bluefield,,
-minoraverages/emilbb,1959,Appalachian League,,M91292,Lyons,Eddie,,Johnson City,,
-minoraverages/emilbb,1959,Appalachian League,,M91326,Payne,Chick,,Lynchburg,,
-minoraverages/emilbb,1959,Appalachian League,,M91318,Pries,Don,,Wytheville,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1959,Appalachian League,M91284,Dorton,Larry,,Salem,,,
+emilbb,1959,Appalachian League,M91276,Hayworth,Red,,Morristown,,,
+emilbb,1959,Appalachian League,M91305,Hooper,Bob,,Bluefield,,,
+emilbb,1959,Appalachian League,M91292,Lyons,Eddie,,Johnson City,,,
+emilbb,1959,Appalachian League,M91326,Payne,Chick,,Lynchburg,,,
+emilbb,1959,Appalachian League,M91318,Pries,Don,,Wytheville,,,

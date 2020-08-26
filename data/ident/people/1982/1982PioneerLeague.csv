@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1982,Pioneer League,,M91717,Bombard,Marc,,Billings,,
-minoraverages/emilbb,1982,Pioneer League,,M91701,Jones,Tommy,,Butte,,
-minoraverages/emilbb,1982,Pioneer League,,M91686,LaRocque,Gary,,Lethbridge,,
-minoraverages/emilbb,1982,Pioneer League,,M91655,Larson,Duane,,Medicine Hat,,
-minoraverages/emilbb,1982,Pioneer League,,M91693,Lieppman,Keith,,Idaho Falls,,
-minoraverages/emilbb,1982,Pioneer League,,M91678,Reece,Robert,,Calgary,,
-minoraverages/emilbb,1982,Pioneer League,,M91664,Rodriguez,Ernest,,Great Falls,,
-minoraverages/emilbb,1982,Pioneer League,,M91725,Smith,Ronald,,Helena,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1982,Pioneer League,M91717,Bombard,Marc,,Billings,,,
+emilbb,1982,Pioneer League,M91701,Jones,Tommy,,Butte,,,
+emilbb,1982,Pioneer League,M91686,LaRocque,Gary,,Lethbridge,,,
+emilbb,1982,Pioneer League,M91655,Larson,Duane,,Medicine Hat,,,
+emilbb,1982,Pioneer League,M91693,Lieppman,Keith,,Idaho Falls,,,
+emilbb,1982,Pioneer League,M91678,Reece,Robert,,Calgary,,,
+emilbb,1982,Pioneer League,M91664,Rodriguez,Ernest,,Great Falls,,,
+emilbb,1982,Pioneer League,M91725,Smith,Ronald,,Helena,,,

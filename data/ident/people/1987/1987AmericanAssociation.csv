@@ -1,11 +1,11 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1987,American Association,bevington,M90018,Bevington,Terry,,Denver,,
-minoraverages/emilbb,1987,American Association,cox,M90071,Cox,Larry,,Iowa,,
-minoraverages/emilbb,1987,American Association,funk,M90094,Funk,Frank,,Omaha,,
-minoraverages/emilbb,1987,American Association,gomez,M90052,Gomez,Orlando,,Buffalo,,
-minoraverages/emilbb,1987,American Association,harrah,M90047,Harrah,Toby,,Oklahoma City,,
-minoraverages/emilbb,1987,American Association,jorgensen,M90026,Jorgensen,Mike,,Louisville,,
-minoraverages/emilbb,1987,American Association,lind,M90107,Lind,Jack,,Nashville,,
-minoraverages/emilbb,1987,American Association,sparks,M90039,Sparks,Joe,,Indianapolis,,
-minoraverages/emilbb,1987,American Association,swisher,M90060,Swisher,Steve,,Buffalo,,
-minoraverages/emilbb,1987,American Association,wathan,M90083,Wathan,John,,Omaha,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1987,American Association,M90018,Bevington,Terry,,Denver,,,bevington
+emilbb,1987,American Association,M90071,Cox,Larry,,Iowa,,,cox
+emilbb,1987,American Association,M90094,Funk,Frank,,Omaha,,,funk
+emilbb,1987,American Association,M90052,Gomez,Orlando,,Buffalo,,,gomez
+emilbb,1987,American Association,M90047,Harrah,Toby,,Oklahoma City,,,harrah
+emilbb,1987,American Association,M90026,Jorgensen,Mike,,Louisville,,,jorgensen
+emilbb,1987,American Association,M90107,Lind,Jack,,Nashville,,,lind
+emilbb,1987,American Association,M90039,Sparks,Joe,,Indianapolis,,,sparks
+emilbb,1987,American Association,M90060,Swisher,Steve,,Buffalo,,,swisher
+emilbb,1987,American Association,M90083,Wathan,John,,Omaha,,,wathan

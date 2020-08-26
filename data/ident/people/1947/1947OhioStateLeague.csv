@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1947,Ohio State League,,M94258,Blazo,Mike,,Muncie,,
-minoraverages/emilbb,1947,Ohio State League,,M94249,Burbrink,Nelson,,Marion,,
-minoraverages/emilbb,1947,Ohio State League,,M94274,Carr,Rex,,Richmond,,
-minoraverages/emilbb,1947,Ohio State League,,M94230,Clay,Bryant,,Zanesville,,
-minoraverages/emilbb,1947,Ohio State League,,M94296,Dancisak,Eddie,,Newark,,
-minoraverages/emilbb,1947,Ohio State League,,M94282,Goodman,Ival,,Dayton,,
-minoraverages/emilbb,1947,Ohio State League,,M94263,Ramsey,Don,,Springfield,,
-minoraverages/emilbb,1947,Ohio State League,,M94309,Settlemire,Merle,,Lima,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1947,Ohio State League,M94258,Blazo,Mike,,Muncie,,,
+emilbb,1947,Ohio State League,M94249,Burbrink,Nelson,,Marion,,,
+emilbb,1947,Ohio State League,M94274,Carr,Rex,,Richmond,,,
+emilbb,1947,Ohio State League,M94230,Clay,Bryant,,Zanesville,,,
+emilbb,1947,Ohio State League,M94296,Dancisak,Eddie,,Newark,,,
+emilbb,1947,Ohio State League,M94282,Goodman,Ival,,Dayton,,,
+emilbb,1947,Ohio State League,M94263,Ramsey,Don,,Springfield,,,
+emilbb,1947,Ohio State League,M94309,Settlemire,Merle,,Lima,,,

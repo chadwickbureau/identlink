@@ -1,13 +1,13 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1984,Midwest League,cox.l,M91276,Cox,Larry,,Quad Cities,,
-minoraverages/emilbb,1984,Midwest League,dyer,M91199,Dyer,Duffy,,Kenosha,,
-minoraverages/emilbb,1984,Midwest League,fischer,M91173,Fischer,Brad,,Madison,,
-minoraverages/emilbb,1984,Midwest League,gamboa,M91200,Gamboa,Tom,,Beloit,,
-minoraverages/emilbb,1984,Midwest League,hodge,M91221,Hodge,Gomer,,Waterloo,,
-minoraverages/emilbb,1984,Midwest League,jaramillo,M91268,Jaramillo,Rudy,,Burlington,,
-minoraverages/emilbb,1984,Midwest League,lachemann,M91237,Lachemann,Bill,,Clinton,,
-minoraverages/emilbb,1984,Midwest League,lett,M91213,Lett,Jim,,Cedar Rapids,,
-minoraverages/emilbb,1984,Midwest League,madden-peo,M91259,Madden,Joe,,Peoria,,
-minoraverages/emilbb,1984,Midwest League,mahlberg,M91185,Mahlberg,Greg,,Wausau,,
-minoraverages/emilbb,1984,Midwest League,rende,M91161,Rende,Sal,,Appleton,,
-minoraverages/emilbb,1984,Midwest League,rigoli,M91245,Rigoli,Joe,,Springfield,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1984,Midwest League,M91276,Cox,Larry,,Quad Cities,,,cox.l
+emilbb,1984,Midwest League,M91199,Dyer,Duffy,,Kenosha,,,dyer
+emilbb,1984,Midwest League,M91173,Fischer,Brad,,Madison,,,fischer
+emilbb,1984,Midwest League,M91200,Gamboa,Tom,,Beloit,,,gamboa
+emilbb,1984,Midwest League,M91221,Hodge,Gomer,,Waterloo,,,hodge
+emilbb,1984,Midwest League,M91268,Jaramillo,Rudy,,Burlington,,,jaramillo
+emilbb,1984,Midwest League,M91237,Lachemann,Bill,,Clinton,,,lachemann
+emilbb,1984,Midwest League,M91213,Lett,Jim,,Cedar Rapids,,,lett
+emilbb,1984,Midwest League,M91259,Madden,Joe,,Peoria,,,madden-peo
+emilbb,1984,Midwest League,M91185,Mahlberg,Greg,,Wausau,,,mahlberg
+emilbb,1984,Midwest League,M91161,Rende,Sal,,Appleton,,,rende
+emilbb,1984,Midwest League,M91245,Rigoli,Joe,,Springfield,,,rigoli

@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1992,Carolina League,,M90938,Bailey,Buddy,,Lynchburg,,
-minoraverages/emilbb,1992,Carolina League,,M90951,Hart,Mike,,Prince William,,
-minoraverages/emilbb,1992,Carolina League,,M91006,Hayes,Bill,,Winston-Salem,,
-minoraverages/emilbb,1992,Carolina League,,M90972,Hill,Marc,,Peninsula,,
-minoraverages/emilbb,1992,Carolina League,,M90995,Keller,Dave,,Kinston,,
-minoraverages/emilbb,1992,Carolina League,,M90946,Miscik,Bobby,,Frederick,,
-minoraverages/emilbb,1992,Carolina League,,M90980,Roberts,Leon,,Durham,,
-minoraverages/emilbb,1992,Carolina League,,M90967,Wockenfuss,John,,Salem,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1992,Carolina League,M90938,Bailey,Buddy,,Lynchburg,,,
+emilbb,1992,Carolina League,M90951,Hart,Mike,,Prince William,,,
+emilbb,1992,Carolina League,M91006,Hayes,Bill,,Winston-Salem,,,
+emilbb,1992,Carolina League,M90972,Hill,Marc,,Peninsula,,,
+emilbb,1992,Carolina League,M90995,Keller,Dave,,Kinston,,,
+emilbb,1992,Carolina League,M90946,Miscik,Bobby,,Frederick,,,
+emilbb,1992,Carolina League,M90980,Roberts,Leon,,Durham,,,
+emilbb,1992,Carolina League,M90967,Wockenfuss,John,,Salem,,,

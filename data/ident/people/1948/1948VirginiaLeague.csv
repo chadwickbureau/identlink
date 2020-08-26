@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1948,Virginia League,,M95878,Aderholt,"Morris ""Smut""",,Emporia,,
-minoraverages/emilbb,1948,Virginia League,,M95841,Badgett,Paul,,Blackstone,,
-minoraverages/emilbb,1948,Virginia League,,M95886,Comiskey,Robert,,Lawrenceville,,
-minoraverages/emilbb,1948,Virginia League,,M95908,Pruett,John,,Lawrenceville,,
-minoraverages/emilbb,1948,Virginia League,,M95893,Shearin,George,,Lawrenceville,,
-minoraverages/emilbb,1948,Virginia League,,M95832,Steinecke,Bill,,Suffolk,,
-minoraverages/emilbb,1948,Virginia League,,M95864,Varner,Paul,,Petersburg,,
-minoraverages/emilbb,1948,Virginia League,,M95855,Zontini,John,,Franklin,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1948,Virginia League,M95878,Aderholt,"Morris ""Smut""",,Emporia,,,
+emilbb,1948,Virginia League,M95841,Badgett,Paul,,Blackstone,,,
+emilbb,1948,Virginia League,M95886,Comiskey,Robert,,Lawrenceville,,,
+emilbb,1948,Virginia League,M95908,Pruett,John,,Lawrenceville,,,
+emilbb,1948,Virginia League,M95893,Shearin,George,,Lawrenceville,,,
+emilbb,1948,Virginia League,M95832,Steinecke,Bill,,Suffolk,,,
+emilbb,1948,Virginia League,M95864,Varner,Paul,,Petersburg,,,
+emilbb,1948,Virginia League,M95855,Zontini,John,,Franklin,,,

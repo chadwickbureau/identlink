@@ -1,6 +1,6 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1914,Pennsylvania-West Virginia League,,M94028,Mack,James,,Connellsville,,
-minoraverages/emilbb,1914,Pennsylvania-West Virginia League,,M94031,Needham,George,,Fairmont,,
-minoraverages/emilbb,1914,Pennsylvania-West Virginia League,,M94053,O'Day,Charles,,Charleroi,,
-minoraverages/emilbb,1914,Pennsylvania-West Virginia League,,M94066,Paige,Fred,,Uniontown,,
-minoraverages/emilbb,1914,Pennsylvania-West Virginia League,,M94044,Shannon,Hugh,,Clarksburg,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1914,Pennsylvania-West Virginia League,M94028,Mack,James,,Connellsville,,,
+emilbb,1914,Pennsylvania-West Virginia League,M94031,Needham,George,,Fairmont,,,
+emilbb,1914,Pennsylvania-West Virginia League,M94053,O'Day,Charles,,Charleroi,,,
+emilbb,1914,Pennsylvania-West Virginia League,M94066,Paige,Fred,,Uniontown,,,
+emilbb,1914,Pennsylvania-West Virginia League,M94044,Shannon,Hugh,,Clarksburg,,,

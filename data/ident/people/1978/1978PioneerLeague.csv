@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1978,Pioneer League,,M91610,Hoff,James,,Billings,,
-minoraverages/emilbb,1978,Pioneer League,,M91655,Lefebvre,James,,Lethbridge,,
-minoraverages/emilbb,1978,Pioneer League,,M91632,Lewis,Johnny,,Calgary,,
-minoraverages/emilbb,1978,Pioneer League,,M91678,McLaren,John,,Medicine Hat,,
-minoraverages/emilbb,1978,Pioneer League,,M91629,Rodriguez,Reuben,,Idaho Falls,,
-minoraverages/emilbb,1978,Pioneer League,,M91641,Rodriguez,Ernie,,Great Falls,,
-minoraverages/emilbb,1978,Pioneer League,,M91664,Rojas,Larry,,Helena,,
-minoraverages/emilbb,1978,Pioneer League,,M91686,Zimmer,Tom,,Butte,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1978,Pioneer League,M91610,Hoff,James,,Billings,,,
+emilbb,1978,Pioneer League,M91655,Lefebvre,James,,Lethbridge,,,
+emilbb,1978,Pioneer League,M91632,Lewis,Johnny,,Calgary,,,
+emilbb,1978,Pioneer League,M91678,McLaren,John,,Medicine Hat,,,
+emilbb,1978,Pioneer League,M91629,Rodriguez,Reuben,,Idaho Falls,,,
+emilbb,1978,Pioneer League,M91641,Rodriguez,Ernie,,Great Falls,,,
+emilbb,1978,Pioneer League,M91664,Rojas,Larry,,Helena,,,
+emilbb,1978,Pioneer League,M91686,Zimmer,Tom,,Butte,,,

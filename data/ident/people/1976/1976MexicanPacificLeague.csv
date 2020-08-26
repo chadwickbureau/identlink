@@ -1,5 +1,5 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1976,Mexican Pacific League,,M91065,Gutierrez,Cesar,,Navojoa,,
-minoraverages/emilbb,1976,Mexican Pacific League,,M91087,Rios,Alfred,,Guaymas,,
-minoraverages/emilbb,1976,Mexican Pacific League,,M91079,Robles,Jesus,,Mazatlan,,
-minoraverages/emilbb,1976,Mexican Pacific League,,M91054,Williams,Jim,,Ciudad Obregon,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1976,Mexican Pacific League,M91065,Gutierrez,Cesar,,Navojoa,,,
+emilbb,1976,Mexican Pacific League,M91087,Rios,Alfred,,Guaymas,,,
+emilbb,1976,Mexican Pacific League,M91079,Robles,Jesus,,Mazatlan,,,
+emilbb,1976,Mexican Pacific League,M91054,Williams,Jim,,Ciudad Obregon,,,

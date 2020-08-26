@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1981,Eastern League,,M90533,Clark,Ron,,Reading,,
-minoraverages/emilbb,1981,Eastern League,,M90540,Didier,Bob,,West Haven,,
-minoraverages/emilbb,1981,Eastern League,,M90506,Floyd,Bobby,,Lynn,,
-minoraverages/emilbb,1981,Eastern League,,M90511,Lipon,John,,Buffalo,,
-minoraverages/emilbb,1981,Eastern League,,M90484,Mahoney,Jim,,Glens Falls,,
-minoraverages/emilbb,1981,Eastern League,,M90492,Saul,Jim,,Holyoke,,
-minoraverages/emilbb,1981,Eastern League,,M90554,Scherger,George,,Waterbury,,
-minoraverages/emilbb,1981,Eastern League,,M90522,Torchia,Tony,,Bristol,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1981,Eastern League,M90533,Clark,Ron,,Reading,,,
+emilbb,1981,Eastern League,M90540,Didier,Bob,,West Haven,,,
+emilbb,1981,Eastern League,M90506,Floyd,Bobby,,Lynn,,,
+emilbb,1981,Eastern League,M90511,Lipon,John,,Buffalo,,,
+emilbb,1981,Eastern League,M90484,Mahoney,Jim,,Glens Falls,,,
+emilbb,1981,Eastern League,M90492,Saul,Jim,,Holyoke,,,
+emilbb,1981,Eastern League,M90554,Scherger,George,,Waterbury,,,
+emilbb,1981,Eastern League,M90522,Torchia,Tony,,Bristol,,,

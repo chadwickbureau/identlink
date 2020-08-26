@@ -1,10 +1,10 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1985,California League,gamboa,M90856,Gamboa,Tom,,Stockton,,
-minoraverages/emilbb,1985,California League,harrison,M90909,Harrison,R. J.,,Salinas,,
-minoraverages/emilbb,1985,California League,kim,M90914,Kim,Wendell,,Fresno,,
-minoraverages/emilbb,1985,California League,kotchman,M90870,Kotchman,John,,Redwood,,
-minoraverages/emilbb,1985,California League,mcintyre,M90897,McIntyre,Jethro,,San Jose,,
-minoraverages/emilbb,1985,California League,mitterwald,M90862,Mitterwald,George,,Modesto,,
-minoraverages/emilbb,1985,California League,queen,M90938,Queen,Mel,,Bakersfield,,
-minoraverages/emilbb,1985,California League,schmitz,M90923,Schmitz,Dan,,Visalia,,
-minoraverages/emilbb,1985,California League,smith-ren,M90881,Smith,Steve,,Reno,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1985,California League,M90856,Gamboa,Tom,,Stockton,,,gamboa
+emilbb,1985,California League,M90909,Harrison,R. J.,,Salinas,,,harrison
+emilbb,1985,California League,M90914,Kim,Wendell,,Fresno,,,kim
+emilbb,1985,California League,M90870,Kotchman,John,,Redwood,,,kotchman
+emilbb,1985,California League,M90897,McIntyre,Jethro,,San Jose,,,mcintyre
+emilbb,1985,California League,M90862,Mitterwald,George,,Modesto,,,mitterwald
+emilbb,1985,California League,M90938,Queen,Mel,,Bakersfield,,,queen
+emilbb,1985,California League,M90923,Schmitz,Dan,,Visalia,,,schmitz
+emilbb,1985,California League,M90881,Smith,Steve,,Reno,,,smith-ren

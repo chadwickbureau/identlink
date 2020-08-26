@@ -1,6 +1,6 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1912,Western Tri-State League,,M93933,Bade,Gus,,Walla Walla,,
-minoraverages/emilbb,1912,Western Tri-State League,,M93979,Bradley,James,,La Grande,,
-minoraverages/emilbb,1912,Western Tri-State League,,M93965,Garrett,Jess,,Pendleton,,
-minoraverages/emilbb,1912,Western Tri-State League,,M93954,Gimlin,"Frank ""Dad""",,Boise,,
-minoraverages/emilbb,1912,Western Tri-State League,,M93940,Kellacky,Hugh,,Boise,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1912,Western Tri-State League,M93933,Bade,Gus,,Walla Walla,,,
+emilbb,1912,Western Tri-State League,M93979,Bradley,James,,La Grande,,,
+emilbb,1912,Western Tri-State League,M93965,Garrett,Jess,,Pendleton,,,
+emilbb,1912,Western Tri-State League,M93954,Gimlin,"Frank ""Dad""",,Boise,,,
+emilbb,1912,Western Tri-State League,M93940,Kellacky,Hugh,,Boise,,,

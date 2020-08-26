@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1948,Blue Ridge League,,M93599,Casbier,Noel,,Mount Airy,,
-minoraverages/emilbb,1948,Blue Ridge League,,M93561,Kase,Harold,,Galax,,
-minoraverages/emilbb,1948,Blue Ridge League,,M93573,Loman,"Henry ""Flash""",,North Wilkesboro,,
-minoraverages/emilbb,1948,Blue Ridge League,,M93621,Loman,Bernard,,Leaksville-Draper-Spray/Abingdon,,
-minoraverages/emilbb,1948,Blue Ridge League,,M93585,Rudisill,Ray,,Radford,,
-minoraverages/emilbb,1948,Blue Ridge League,,M93637,Santomauro,Joe,,Leaksville-Draper-Spray/Abingdon,,
-minoraverages/emilbb,1948,Blue Ridge League,,M93613,Subb,Frank,,Wytheville,,
-minoraverages/emilbb,1948,Blue Ridge League,,M93600,Weintraub,Mickey,,Wytheville,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1948,Blue Ridge League,M93599,Casbier,Noel,,Mount Airy,,,
+emilbb,1948,Blue Ridge League,M93561,Kase,Harold,,Galax,,,
+emilbb,1948,Blue Ridge League,M93573,Loman,"Henry ""Flash""",,North Wilkesboro,,,
+emilbb,1948,Blue Ridge League,M93621,Loman,Bernard,,Leaksville-Draper-Spray/Abingdon,,,
+emilbb,1948,Blue Ridge League,M93585,Rudisill,Ray,,Radford,,,
+emilbb,1948,Blue Ridge League,M93637,Santomauro,Joe,,Leaksville-Draper-Spray/Abingdon,,,
+emilbb,1948,Blue Ridge League,M93613,Subb,Frank,,Wytheville,,,
+emilbb,1948,Blue Ridge League,M93600,Weintraub,Mickey,,Wytheville,,,

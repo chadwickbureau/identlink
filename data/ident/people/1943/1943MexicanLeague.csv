@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1943,Mexican League,,M90790,Amaro,Santos,,Tampico,,
-minoraverages/emilbb,1943,Mexican League,,M90808,Buenrostro,Gustavo,,Veracruz,,
-minoraverages/emilbb,1943,Mexican League,,M90766,Dihigo,Martin,,Torreon,,
-minoraverages/emilbb,1943,Mexican League,,M90824,Gomez,Jose Luis,,Mexico City Reds,,
-minoraverages/emilbb,1943,Mexican League,,M90819,Hernandez,Horacio,,Veracruz,,
-minoraverages/emilbb,1943,Mexican League,,M90777,Morin,Eugenio,,Puebla,,
-minoraverages/emilbb,1943,Mexican League,,M90753,Salazar,Lazaro,,Monterrey,,
-minoraverages/emilbb,1943,Mexican League,,M90789,Wells,Willie,,Tampico,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1943,Mexican League,M90790,Amaro,Santos,,Tampico,,,
+emilbb,1943,Mexican League,M90808,Buenrostro,Gustavo,,Veracruz,,,
+emilbb,1943,Mexican League,M90766,Dihigo,Martin,,Torreon,,,
+emilbb,1943,Mexican League,M90824,Gomez,Jose Luis,,Mexico City Reds,,,
+emilbb,1943,Mexican League,M90819,Hernandez,Horacio,,Veracruz,,,
+emilbb,1943,Mexican League,M90777,Morin,Eugenio,,Puebla,,,
+emilbb,1943,Mexican League,M90753,Salazar,Lazaro,,Monterrey,,,
+emilbb,1943,Mexican League,M90789,Wells,Willie,,Tampico,,,

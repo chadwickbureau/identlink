@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1992,Texas League,,M90790,Bando,Chris,,El Paso,,
-minoraverages/emilbb,1992,Texas League,,M90808,Bochy,Bruce,,Wichita,,
-minoraverages/emilbb,1992,Texas League,,M90753,Jones,Bobby,,Tulsa,,
-minoraverages/emilbb,1992,Texas League,,M90819,Long,Don,,Midland,,
-minoraverages/emilbb,1992,Texas League,,M90789,Pettini,Joe,,Arkansas,,
-minoraverages/emilbb,1992,Texas League,,M90766,Robinson,Bill,,Shreveport,,
-minoraverages/emilbb,1992,Texas League,,M90824,Royster,Jerry,,San Antonio,,
-minoraverages/emilbb,1992,Texas League,,M90777,Sweet,Rick,,Jackson,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1992,Texas League,M90790,Bando,Chris,,El Paso,,,
+emilbb,1992,Texas League,M90808,Bochy,Bruce,,Wichita,,,
+emilbb,1992,Texas League,M90753,Jones,Bobby,,Tulsa,,,
+emilbb,1992,Texas League,M90819,Long,Don,,Midland,,,
+emilbb,1992,Texas League,M90789,Pettini,Joe,,Arkansas,,,
+emilbb,1992,Texas League,M90766,Robinson,Bill,,Shreveport,,,
+emilbb,1992,Texas League,M90824,Royster,Jerry,,San Antonio,,,
+emilbb,1992,Texas League,M90777,Sweet,Rick,,Jackson,,,

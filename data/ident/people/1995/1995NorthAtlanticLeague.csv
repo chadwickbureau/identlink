@@ -1,5 +1,5 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1995,North Atlantic League,,M92335,Ayotte,Harry,,Nashua,,
-minoraverages/emilbb,1995,North Atlantic League,,M92343,Barna,Ken,,Niagara Falls,,
-minoraverages/emilbb,1995,North Atlantic League,,M92319,Riemer,Tim,,Newark,,
-minoraverages/emilbb,1995,North Atlantic League,,M92324,Williams,Ellis,,Welland,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1995,North Atlantic League,M92335,Ayotte,Harry,,Nashua,,,
+emilbb,1995,North Atlantic League,M92343,Barna,Ken,,Niagara Falls,,,
+emilbb,1995,North Atlantic League,M92319,Riemer,Tim,,Newark,,,
+emilbb,1995,North Atlantic League,M92324,Williams,Ellis,,Welland,,,

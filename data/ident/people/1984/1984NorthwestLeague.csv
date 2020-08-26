@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1984,Northwest League,aviles,M91451,Aviles,Ramon,,Bend,,
-minoraverages/emilbb,1984,Northwest League,bridges-eve,M91423,Bridges,Rocky,,Everett,,
-minoraverages/emilbb,1984,Northwest League,maloof,M91438,Maloof,Jack,,Spokane,,
-minoraverages/emilbb,1984,Northwest League,patterson,M91467,Patterson,Larry,,Salem,,
-minoraverages/emilbb,1984,Northwest League,pellant,M91414,Pellant,Gary,,Bellingham,,
-minoraverages/emilbb,1984,Northwest League,roberts,M91472,Roberts,Dave,,Eugene,,
-minoraverages/emilbb,1984,Northwest League,rogers-med,M91446,Rogers,Dennis,,Medford,,
-minoraverages/emilbb,1984,Northwest League,scott,M91409,Scott,Marty,,Tri-Cities,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1984,Northwest League,M91451,Aviles,Ramon,,Bend,,,aviles
+emilbb,1984,Northwest League,M91423,Bridges,Rocky,,Everett,,,bridges-eve
+emilbb,1984,Northwest League,M91438,Maloof,Jack,,Spokane,,,maloof
+emilbb,1984,Northwest League,M91467,Patterson,Larry,,Salem,,,patterson
+emilbb,1984,Northwest League,M91414,Pellant,Gary,,Bellingham,,,pellant
+emilbb,1984,Northwest League,M91472,Roberts,Dave,,Eugene,,,roberts
+emilbb,1984,Northwest League,M91446,Rogers,Dennis,,Medford,,,rogers-med
+emilbb,1984,Northwest League,M91409,Scott,Marty,,Tri-Cities,,,scott

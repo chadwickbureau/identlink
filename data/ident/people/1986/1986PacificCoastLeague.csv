@@ -1,11 +1,11 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1986,Pacific Coast League,alfonso,M90540,Alfonso,Carlos,,Tucson,,
-minoraverages/emilbb,1986,Pacific Coast League,bevington,M90476,Bevington,Terry,,Vancouver,,
-minoraverages/emilbb,1986,Pacific Coast League,bowa,M90533,Bowa,Larry,,Las Vegas,,
-minoraverages/emilbb,1986,Pacific Coast League,collins,M90565,Collins,Terry,,Albuquerque,,
-minoraverages/emilbb,1986,Pacific Coast League,dancy,M90506,Dancy,Bill,,Portland,,
-minoraverages/emilbb,1986,Pacific Coast League,lefebvre-phx,M90522,Lefebvre,Jim,,Phoenix,,
-minoraverages/emilbb,1986,Pacific Coast League,lieppman,M90484,Lieppman,Keith,,Tacoma,,
-minoraverages/emilbb,1986,Pacific Coast League,llenas,M90492,Llenas,Winston,,Edmonton,,
-minoraverages/emilbb,1986,Pacific Coast League,plummer,M90511,Plummer,Bill,,Calgary,,
-minoraverages/emilbb,1986,Pacific Coast League,sandt,M90554,Sandt,Tommy,,Hawaii,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1986,Pacific Coast League,M90540,Alfonso,Carlos,,Tucson,,,alfonso
+emilbb,1986,Pacific Coast League,M90476,Bevington,Terry,,Vancouver,,,bevington
+emilbb,1986,Pacific Coast League,M90533,Bowa,Larry,,Las Vegas,,,bowa
+emilbb,1986,Pacific Coast League,M90565,Collins,Terry,,Albuquerque,,,collins
+emilbb,1986,Pacific Coast League,M90506,Dancy,Bill,,Portland,,,dancy
+emilbb,1986,Pacific Coast League,M90522,Lefebvre,Jim,,Phoenix,,,lefebvre-phx
+emilbb,1986,Pacific Coast League,M90484,Lieppman,Keith,,Tacoma,,,lieppman
+emilbb,1986,Pacific Coast League,M90492,Llenas,Winston,,Edmonton,,,llenas
+emilbb,1986,Pacific Coast League,M90511,Plummer,Bill,,Calgary,,,plummer
+emilbb,1986,Pacific Coast League,M90554,Sandt,Tommy,,Hawaii,,,sandt

@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1982,Northwest League,,M91347,DeArmas,Rollie,,Bend,,
-minoraverages/emilbb,1982,Northwest League,,M91305,Maddon,Joe,,Salem,,
-minoraverages/emilbb,1982,Northwest League,,M91339,Rogers,Dennis,,Medford,,
-minoraverages/emilbb,1982,Northwest League,,M91318,Scott,Jeff,,Bellingham,,
-minoraverages/emilbb,1982,Northwest League,,M91326,Skalen,Jim,,Walla Walla,,
-minoraverages/emilbb,1982,Northwest League,,M91352,Stewart,Jim,,Eugene,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1982,Northwest League,M91347,DeArmas,Rollie,,Bend,,,
+emilbb,1982,Northwest League,M91305,Maddon,Joe,,Salem,,,
+emilbb,1982,Northwest League,M91339,Rogers,Dennis,,Medford,,,
+emilbb,1982,Northwest League,M91318,Scott,Jeff,,Bellingham,,,
+emilbb,1982,Northwest League,M91326,Skalen,Jim,,Walla Walla,,,
+emilbb,1982,Northwest League,M91352,Stewart,Jim,,Eugene,,,

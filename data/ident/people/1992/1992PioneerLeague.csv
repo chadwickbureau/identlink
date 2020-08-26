@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1992,Pioneer League,,M92021,Belmonte,Nick,,Salt Lake City,,
-minoraverages/emilbb,1992,Pioneer League,,M91990,Debus,John,,Great Falls,,
-minoraverages/emilbb,1992,Pioneer League,,M92037,Dunlop,Harry,,Helena,,
-minoraverages/emilbb,1992,Pioneer League,,M92059,Hilton,Dave,,Idaho Falls,,
-minoraverages/emilbb,1992,Pioneer League,,M92000,Milbourne,Larry,,Lethbridge,,
-minoraverages/emilbb,1992,Pioneer League,,M92013,Nettles,Jim,,Medicine Hat,,
-minoraverages/emilbb,1992,Pioneer League,,M92045,Ramirez,Victor,,Butte,,
-minoraverages/emilbb,1992,Pioneer League,,M91989,Scott,Donnie,,Billings,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1992,Pioneer League,M92021,Belmonte,Nick,,Salt Lake City,,,
+emilbb,1992,Pioneer League,M91990,Debus,John,,Great Falls,,,
+emilbb,1992,Pioneer League,M92037,Dunlop,Harry,,Helena,,,
+emilbb,1992,Pioneer League,M92059,Hilton,Dave,,Idaho Falls,,,
+emilbb,1992,Pioneer League,M92000,Milbourne,Larry,,Lethbridge,,,
+emilbb,1992,Pioneer League,M92013,Nettles,Jim,,Medicine Hat,,,
+emilbb,1992,Pioneer League,M92045,Ramirez,Victor,,Butte,,,
+emilbb,1992,Pioneer League,M91989,Scott,Donnie,,Billings,,,

@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1946,Mexican National League,,M90835,Cohen,Andy,,El Paso,,
-minoraverages/emilbb,1946,Mexican National League,,M90856,Cordiero,Reynaldo,,Torreon-Gomez Palacio,,
-minoraverages/emilbb,1946,Mexican National League,,M90843,Ochoa,Zenon,,Mexico City,,
-minoraverages/emilbb,1946,Mexican National League,,M90808,Ornelas,Guillermo,,Juarez,,
-minoraverages/emilbb,1946,Mexican National League,,M90819,Sansirena,Luis,,Chihuahua,,
-minoraverages/emilbb,1946,Mexican National League,,M90824,Verde,Agustin,,Saltillo,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1946,Mexican National League,M90835,Cohen,Andy,,El Paso,,,
+emilbb,1946,Mexican National League,M90856,Cordiero,Reynaldo,,Torreon-Gomez Palacio,,,
+emilbb,1946,Mexican National League,M90843,Ochoa,Zenon,,Mexico City,,,
+emilbb,1946,Mexican National League,M90808,Ornelas,Guillermo,,Juarez,,,
+emilbb,1946,Mexican National League,M90819,Sansirena,Luis,,Chihuahua,,,
+emilbb,1946,Mexican National League,M90824,Verde,Agustin,,Saltillo,,,

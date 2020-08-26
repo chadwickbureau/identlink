@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1966,Texas League,,M90511,Hack,Stan,,Dallas-Fort Worth,,
-minoraverages/emilbb,1966,Texas League,,M90476,Hancken,Buddy,,Amarillo,,
-minoraverages/emilbb,1966,Texas League,,M90484,Kennedy,Bob,,Albuquerque,,
-minoraverages/emilbb,1966,Texas League,,M90492,Kittle,Hub,,Austin,,
-minoraverages/emilbb,1966,Texas League,,M90533,Klein,Lou,,Dallas-Fort Worth,,
-minoraverages/emilbb,1966,Texas League,,M90468,Rapp,Vern,,Arkansas,,
-minoraverages/emilbb,1966,Texas League,,M90522,Reiser,Pete,,Dallas-Fort Worth,,
-minoraverages/emilbb,1966,Texas League,,M90506,Tanner,Chuck,,El Paso,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1966,Texas League,M90511,Hack,Stan,,Dallas-Fort Worth,,,
+emilbb,1966,Texas League,M90476,Hancken,Buddy,,Amarillo,,,
+emilbb,1966,Texas League,M90484,Kennedy,Bob,,Albuquerque,,,
+emilbb,1966,Texas League,M90492,Kittle,Hub,,Austin,,,
+emilbb,1966,Texas League,M90533,Klein,Lou,,Dallas-Fort Worth,,,
+emilbb,1966,Texas League,M90468,Rapp,Vern,,Arkansas,,,
+emilbb,1966,Texas League,M90522,Reiser,Pete,,Dallas-Fort Worth,,,
+emilbb,1966,Texas League,M90506,Tanner,Chuck,,El Paso,,,

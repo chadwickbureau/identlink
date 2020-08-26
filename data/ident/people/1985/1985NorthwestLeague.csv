@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1985,Northwest League,carey-ben,M91451,Carey,P. J.,,Bend,,
-minoraverages/emilbb,1985,Northwest League,funk,M91446,Funk,Frank,,Eugene,,
-minoraverages/emilbb,1985,Northwest League,fuson,M91472,Fuson,Grady,,Medford,,
-minoraverages/emilbb,1985,Northwest League,hines,M91467,Hines,Bruce,,Salem,,
-minoraverages/emilbb,1985,Northwest League,maloof,M91423,Maloof,Jack,,Spokane,,
-minoraverages/emilbb,1985,Northwest League,olsen,M91438,Olsen,Ed,,Tri-Cities,,
-minoraverages/emilbb,1985,Northwest League,pellant,M91414,Pellant,Gary,,Bellingham,,
-minoraverages/emilbb,1985,Northwest League,strain,M91409,Strain,Joe,,Everett,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1985,Northwest League,M91451,Carey,P. J.,,Bend,,,carey-ben
+emilbb,1985,Northwest League,M91446,Funk,Frank,,Eugene,,,funk
+emilbb,1985,Northwest League,M91472,Fuson,Grady,,Medford,,,fuson
+emilbb,1985,Northwest League,M91467,Hines,Bruce,,Salem,,,hines
+emilbb,1985,Northwest League,M91423,Maloof,Jack,,Spokane,,,maloof
+emilbb,1985,Northwest League,M91438,Olsen,Ed,,Tri-Cities,,,olsen
+emilbb,1985,Northwest League,M91414,Pellant,Gary,,Bellingham,,,pellant
+emilbb,1985,Northwest League,M91409,Strain,Joe,,Everett,,,strain

@@ -1,16 +1,16 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1986,Florida State League,alou,M91120,Alou,Felipe,,West Palm Beach,,
-minoraverages/emilbb,1986,Florida State League,bialas,M91065,Bialas,Dave,,St. Petersburg,,
-minoraverages/emilbb,1986,Florida State League,bombard,M91098,Bombard,Marc,,Tampa,,
-minoraverages/emilbb,1986,Florida State League,burgess,M91199,Burgess,Tom,,Lakeland,,
-minoraverages/emilbb,1986,Florida State League,cadahia,M91200,Cadahia,Chino,,Daytona Beach,,
-minoraverages/emilbb,1986,Florida State League,clark-cle,M91104,Clark,Ron,,Clearwater,,
-minoraverages/emilbb,1986,Florida State League,dent,M91136,Dent,Bucky,,Fort Lauderdale,,
-minoraverages/emilbb,1986,Florida State League,gustavson,M91112,Gustavson,Duane,,Fort Myers,,
-minoraverages/emilbb,1986,Florida State League,hatfield,M91148,Hatfield,Fred,,Miami,,
-minoraverages/emilbb,1986,Florida State League,holt,M91173,Holt,Dave,,Winter Haven,,
-minoraverages/emilbb,1986,Florida State League,jorgensen,M91087,Jorgensen,Mike,,St. Petersburg,,
-minoraverages/emilbb,1986,Florida State League,mason,M91079,Mason,Marty,,St. Petersburg,,
-minoraverages/emilbb,1986,Florida State League,oliveras,M91157,Oliveras,Max,,Miami,,
-minoraverages/emilbb,1986,Florida State League,wasiak,M91161,Wasiak,Stan,,Vero Beach,,
-minoraverages/emilbb,1986,Florida State League,wiedenbauer,M91185,Wiedenbauer,Tom,,Osceola,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1986,Florida State League,M91120,Alou,Felipe,,West Palm Beach,,,alou
+emilbb,1986,Florida State League,M91065,Bialas,Dave,,St. Petersburg,,,bialas
+emilbb,1986,Florida State League,M91098,Bombard,Marc,,Tampa,,,bombard
+emilbb,1986,Florida State League,M91199,Burgess,Tom,,Lakeland,,,burgess
+emilbb,1986,Florida State League,M91200,Cadahia,Chino,,Daytona Beach,,,cadahia
+emilbb,1986,Florida State League,M91104,Clark,Ron,,Clearwater,,,clark-cle
+emilbb,1986,Florida State League,M91136,Dent,Bucky,,Fort Lauderdale,,,dent
+emilbb,1986,Florida State League,M91112,Gustavson,Duane,,Fort Myers,,,gustavson
+emilbb,1986,Florida State League,M91148,Hatfield,Fred,,Miami,,,hatfield
+emilbb,1986,Florida State League,M91173,Holt,Dave,,Winter Haven,,,holt
+emilbb,1986,Florida State League,M91087,Jorgensen,Mike,,St. Petersburg,,,jorgensen
+emilbb,1986,Florida State League,M91079,Mason,Marty,,St. Petersburg,,,mason
+emilbb,1986,Florida State League,M91157,Oliveras,Max,,Miami,,,oliveras
+emilbb,1986,Florida State League,M91161,Wasiak,Stan,,Vero Beach,,,wasiak
+emilbb,1986,Florida State League,M91185,Wiedenbauer,Tom,,Osceola,,,wiedenbauer

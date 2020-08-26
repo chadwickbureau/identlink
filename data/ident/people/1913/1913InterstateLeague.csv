@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1913,Interstate League,,M90669,Blount,Curley,,Youngstown,,
-minoraverages/emilbb,1913,Interstate League,,M90675,Fohl,Lee,,Columbus,,
-minoraverages/emilbb,1913,Interstate League,,M90715,Hogan,Martin,,Zanesville,,
-minoraverages/emilbb,1913,Interstate League,,M90688,Montgomery,Ray,,Steubenville,,
-minoraverages/emilbb,1913,Interstate League,,M90702,Myers,Bade,,Canton,,
-minoraverages/emilbb,1913,Interstate League,,M90642,Quinlan,Larry,,Erie,,
-minoraverages/emilbb,1913,Interstate League,,M90691,Ryan,Ray,,Wheeling,,
-minoraverages/emilbb,1913,Interstate League,,M90650,Siegle,John,,Akron,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1913,Interstate League,M90669,Blount,Curley,,Youngstown,,,
+emilbb,1913,Interstate League,M90675,Fohl,Lee,,Columbus,,,
+emilbb,1913,Interstate League,M90715,Hogan,Martin,,Zanesville,,,
+emilbb,1913,Interstate League,M90688,Montgomery,Ray,,Steubenville,,,
+emilbb,1913,Interstate League,M90702,Myers,Bade,,Canton,,,
+emilbb,1913,Interstate League,M90642,Quinlan,Larry,,Erie,,,
+emilbb,1913,Interstate League,M90691,Ryan,Ray,,Wheeling,,,
+emilbb,1913,Interstate League,M90650,Siegle,John,,Akron,,,

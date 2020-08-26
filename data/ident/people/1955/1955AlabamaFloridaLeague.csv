@@ -1,8 +1,8 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1955,Alabama-Florida League,,M92335,Adair,Bill,,Panama City,,
-minoraverages/emilbb,1955,Alabama-Florida League,,M92381,Davis,Marcus,,Graceville,,
-minoraverages/emilbb,1955,Alabama-Florida League,,M92397,Grant,Charles,,Donaldsonville,,
-minoraverages/emilbb,1955,Alabama-Florida League,,M92356,Hodge,C. C.,,Fort Walton Beach,,
-minoraverages/emilbb,1955,Alabama-Florida League,,M92362,Riddle,Chase,,Dothan,,
-minoraverages/emilbb,1955,Alabama-Florida League,,M92343,Streza,John,,Fort Walton Beach,,
-minoraverages/emilbb,1955,Alabama-Florida League,,M92370,Wilson,Nesbit,,Crestview,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1955,Alabama-Florida League,M92335,Adair,Bill,,Panama City,,,
+emilbb,1955,Alabama-Florida League,M92381,Davis,Marcus,,Graceville,,,
+emilbb,1955,Alabama-Florida League,M92397,Grant,Charles,,Donaldsonville,,,
+emilbb,1955,Alabama-Florida League,M92356,Hodge,C. C.,,Fort Walton Beach,,,
+emilbb,1955,Alabama-Florida League,M92362,Riddle,Chase,,Dothan,,,
+emilbb,1955,Alabama-Florida League,M92343,Streza,John,,Fort Walton Beach,,,
+emilbb,1955,Alabama-Florida League,M92370,Wilson,Nesbit,,Crestview,,,

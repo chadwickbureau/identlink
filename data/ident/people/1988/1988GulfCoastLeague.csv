@@ -1,13 +1,13 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1988,Gulf Coast League,,M91944,Alvarez,Jose,,Dodgers,,
-minoraverages/emilbb,1988,Gulf Coast League,butterfield,M91931,Butterfield,Brian,,Yankees,,
-minoraverages/emilbb,1988,Gulf Coast League,cadahia,M91966,Cadahia,Chino,,Rangers,,
-minoraverages/emilbb,1988,Gulf Coast League,,M91977,Garcia,Julio,,Pirates,,
-minoraverages/emilbb,1988,Gulf Coast League,,M92000,Gonzalez,Pedro,,Braves,,
-minoraverages/emilbb,1988,Gulf Coast League,jauss,M91989,Jauss,Dave,,Expos,,
-minoraverages/emilbb,1988,Gulf Coast League,kusyner,M91953,Kusyner,Art,,White Sox,,
-minoraverages/emilbb,1988,Gulf Coast League,,M91915,Linares,Julio,,Astros,,
-minoraverages/emilbb,1988,Gulf Coast League,mejias,M91928,Mejias,Sam,,Reds,,
-minoraverages/emilbb,1988,Gulf Coast League,tamargo,M91990,Tamargo,John,,Mets,,
-minoraverages/emilbb,1988,Gulf Coast League,tosca,M91891,Tosca,Carlos,,Royals,,
-minoraverages/emilbb,1988,Gulf Coast League,,M91902,Williams,Billy,,Indians,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1988,Gulf Coast League,M91944,Alvarez,Jose,,Dodgers,,,
+emilbb,1988,Gulf Coast League,M91931,Butterfield,Brian,,Yankees,,,butterfield
+emilbb,1988,Gulf Coast League,M91966,Cadahia,Chino,,Rangers,,,cadahia
+emilbb,1988,Gulf Coast League,M91977,Garcia,Julio,,Pirates,,,
+emilbb,1988,Gulf Coast League,M92000,Gonzalez,Pedro,,Braves,,,
+emilbb,1988,Gulf Coast League,M91989,Jauss,Dave,,Expos,,,jauss
+emilbb,1988,Gulf Coast League,M91953,Kusyner,Art,,White Sox,,,kusyner
+emilbb,1988,Gulf Coast League,M91915,Linares,Julio,,Astros,,,
+emilbb,1988,Gulf Coast League,M91928,Mejias,Sam,,Reds,,,mejias
+emilbb,1988,Gulf Coast League,M91990,Tamargo,John,,Mets,,,tamargo
+emilbb,1988,Gulf Coast League,M91891,Tosca,Carlos,,Royals,,,tosca
+emilbb,1988,Gulf Coast League,M91902,Williams,Billy,,Indians,,,

@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1915,Nebraska State League,bennett,M92293,Bennett,Leonard,,Hastings,,
-minoraverages/emilbb,1915,Nebraska State League,claire,M92335,Claire,Harry,,Grand Island,,
-minoraverages/emilbb,1915,Nebraska State League,fillman,M92286,Fillman,John,,Beatrice,,
-minoraverages/emilbb,1915,Nebraska State League,justus,M92356,Justus,Frank,,Columbus,,
-minoraverages/emilbb,1915,Nebraska State League,matney,M92343,Matney,Grover,,Kearney,,
-minoraverages/emilbb,1915,Nebraska State League,pierce,M92308,Pierce,John,,York,,
-minoraverages/emilbb,1915,Nebraska State League,shaner,M92319,Shaner,Bert,,Fairbury,,
-minoraverages/emilbb,1915,Nebraska State League,towne,M92324,Towne,"Jay ""Babe""",,Norfolk,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1915,Nebraska State League,M92293,Bennett,Leonard,,Hastings,,,bennett
+emilbb,1915,Nebraska State League,M92335,Claire,Harry,,Grand Island,,,claire
+emilbb,1915,Nebraska State League,M92286,Fillman,John,,Beatrice,,,fillman
+emilbb,1915,Nebraska State League,M92356,Justus,Frank,,Columbus,,,justus
+emilbb,1915,Nebraska State League,M92343,Matney,Grover,,Kearney,,,matney
+emilbb,1915,Nebraska State League,M92308,Pierce,John,,York,,,pierce
+emilbb,1915,Nebraska State League,M92319,Shaner,Bert,,Fairbury,,,shaner
+emilbb,1915,Nebraska State League,M92324,Towne,"Jay ""Babe""",,Norfolk,,,towne

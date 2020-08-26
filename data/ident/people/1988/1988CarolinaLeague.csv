@@ -1,11 +1,11 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1988,Carolina League,,M91054,Adams,Glenn,,Kinston,,
-minoraverages/emilbb,1988,Carolina League,bailey,M91065,Bailey,Buddy,,Durham,,
-minoraverages/emilbb,1988,Carolina League,berardino,M91022,Berardino,Dick,,Lynchburg,,
-minoraverages/emilbb,1988,Carolina League,breeden,M91098,Breeden,Joe,,Virginia,,
-minoraverages/emilbb,1988,Carolina League,hart,M91006,Hart,Mike,,Hagerstown,,
-minoraverages/emilbb,1988,Carolina League,little,M91079,Little,Grady,,Durham,,
-minoraverages/emilbb,1988,Carolina League,loviglio,M91087,Loviglio,Jay,,Winston-Salem,,
-minoraverages/emilbb,1988,Carolina League,moon,M91033,Moon,Wally,,Prince William,,
-minoraverages/emilbb,1988,Carolina League,tenace,M91040,Tenace,Gene,,Prince William,,
-minoraverages/emilbb,1988,Carolina League,ward,M91011,Ward,Jay,,Salem,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1988,Carolina League,M91054,Adams,Glenn,,Kinston,,,
+emilbb,1988,Carolina League,M91065,Bailey,Buddy,,Durham,,,bailey
+emilbb,1988,Carolina League,M91022,Berardino,Dick,,Lynchburg,,,berardino
+emilbb,1988,Carolina League,M91098,Breeden,Joe,,Virginia,,,breeden
+emilbb,1988,Carolina League,M91006,Hart,Mike,,Hagerstown,,,hart
+emilbb,1988,Carolina League,M91079,Little,Grady,,Durham,,,little
+emilbb,1988,Carolina League,M91087,Loviglio,Jay,,Winston-Salem,,,loviglio
+emilbb,1988,Carolina League,M91033,Moon,Wally,,Prince William,,,moon
+emilbb,1988,Carolina League,M91040,Tenace,Gene,,Prince William,,,tenace
+emilbb,1988,Carolina League,M91011,Ward,Jay,,Salem,,,ward

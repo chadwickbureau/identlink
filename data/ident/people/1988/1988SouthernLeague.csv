@@ -1,12 +1,12 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1988,Southern League,bailey,M90702,Bailey,Buddy,,Greenville,,
-minoraverages/emilbb,1988,Southern League,biagini,M90731,Biagini,Greg,,Charlotte,,
-minoraverages/emilbb,1988,Southern League,foote,M90777,Foote,Barry,,Knoxville,,
-minoraverages/emilbb,1988,Southern League,gustavson,M90744,Gustavson,Duane,,Orlando,,
-minoraverages/emilbb,1988,Southern League,nixon,M90691,Nixon,Russ,,Greenville,,
-minoraverages/emilbb,1988,Southern League,petrocelli,M90789,Petrocelli,Rico,,Birmingham,,
-minoraverages/emilbb,1988,Southern League,rende,M90766,Rende,Sal,,Memphis,,
-minoraverages/emilbb,1988,Southern League,reynolds,M90790,Reynolds,Tommie,,Huntsville,,
-minoraverages/emilbb,1988,Southern League,runnels,M90753,Runnels,Tom,,Chattanooga,,
-minoraverages/emilbb,1988,Southern League,,M90715,Thompson,Tommy,,Jacksonville,,
-minoraverages/emilbb,1988,Southern League,wiedenbauer,M90728,Wiedenbauer,Tommy,,Columbus,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1988,Southern League,M90702,Bailey,Buddy,,Greenville,,,bailey
+emilbb,1988,Southern League,M90731,Biagini,Greg,,Charlotte,,,biagini
+emilbb,1988,Southern League,M90777,Foote,Barry,,Knoxville,,,foote
+emilbb,1988,Southern League,M90744,Gustavson,Duane,,Orlando,,,gustavson
+emilbb,1988,Southern League,M90691,Nixon,Russ,,Greenville,,,nixon
+emilbb,1988,Southern League,M90789,Petrocelli,Rico,,Birmingham,,,petrocelli
+emilbb,1988,Southern League,M90766,Rende,Sal,,Memphis,,,rende
+emilbb,1988,Southern League,M90790,Reynolds,Tommie,,Huntsville,,,reynolds
+emilbb,1988,Southern League,M90753,Runnels,Tom,,Chattanooga,,,runnels
+emilbb,1988,Southern League,M90715,Thompson,Tommy,,Jacksonville,,,
+emilbb,1988,Southern League,M90728,Wiedenbauer,Tommy,,Columbus,,,wiedenbauer

@@ -1,13 +1,13 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1985,New York-Pennsylvania League,bane,M91394,Bane,Eddie,,Batavia,,
-minoraverages/emilbb,1985,New York-Pennsylvania League,berardino,M91352,Berardino,Dick,,Elmira,,
-minoraverages/emilbb,1985,New York-Pennsylvania League,brett,M91292,Brett,Ken,,Utica,,
-minoraverages/emilbb,1985,New York-Pennsylvania League,creech,M91360,Creech,Ed,,Jamestown,,
-minoraverages/emilbb,1985,New York-Pennsylvania League,franklin,M91339,Franklin,Tony,,Geneva,,
-minoraverages/emilbb,1985,New York-Pennsylvania League,hartsfield,M91326,Hartsfield,Bob,,Auburn,,
-minoraverages/emilbb,1985,New York-Pennsylvania League,hunt,M91318,Hunt,Woody,,Watertown,,
-minoraverages/emilbb,1985,New York-Pennsylvania League,koenig,M91371,Koenig,Fred,,Erie,,
-minoraverages/emilbb,1985,New York-Pennsylvania League,lagunas,M91383,Lagunas,Luis,,Niagara Falls,,
-minoraverages/emilbb,1985,New York-Pennsylvania League,mazmanian,M91347,Mazmanian,Art,,Newark,,
-minoraverages/emilbb,1985,New York-Pennsylvania League,radison,M91305,Radison,Dan,,Little Falls,,
-minoraverages/emilbb,1985,New York-Pennsylvania League,showalter,M91284,Showalter,Buck,,Oneonta,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1985,New York-Pennsylvania League,M91394,Bane,Eddie,,Batavia,,,bane
+emilbb,1985,New York-Pennsylvania League,M91352,Berardino,Dick,,Elmira,,,berardino
+emilbb,1985,New York-Pennsylvania League,M91292,Brett,Ken,,Utica,,,brett
+emilbb,1985,New York-Pennsylvania League,M91360,Creech,Ed,,Jamestown,,,creech
+emilbb,1985,New York-Pennsylvania League,M91339,Franklin,Tony,,Geneva,,,franklin
+emilbb,1985,New York-Pennsylvania League,M91326,Hartsfield,Bob,,Auburn,,,hartsfield
+emilbb,1985,New York-Pennsylvania League,M91318,Hunt,Woody,,Watertown,,,hunt
+emilbb,1985,New York-Pennsylvania League,M91371,Koenig,Fred,,Erie,,,koenig
+emilbb,1985,New York-Pennsylvania League,M91383,Lagunas,Luis,,Niagara Falls,,,lagunas
+emilbb,1985,New York-Pennsylvania League,M91347,Mazmanian,Art,,Newark,,,mazmanian
+emilbb,1985,New York-Pennsylvania League,M91305,Radison,Dan,,Little Falls,,,radison
+emilbb,1985,New York-Pennsylvania League,M91284,Showalter,Buck,,Oneonta,,,showalter

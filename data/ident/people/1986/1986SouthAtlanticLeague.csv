@@ -1,11 +1,11 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1986,South Atlantic League,ashford,M91607,Ashford,Tucker,,Columbia,,
-minoraverages/emilbb,1986,South Atlantic League,bolek,M91556,Bolek,Ken,,Asheville,,
-minoraverages/emilbb,1986,South Atlantic League,camilli.d,M91570,Camilli,Doug,,Greensboro,,
-minoraverages/emilbb,1986,South Atlantic League,dearmas,M91597,DeArmas,Rollie,,Spartanburg,,
-minoraverages/emilbb,1986,South Atlantic League,dejohn,M91610,DeJohn,Mark,,Savannah,,
-minoraverages/emilbb,1986,South Atlantic League,kelly,M91629,Kelly,Pat,,Charleston,,
-minoraverages/emilbb,1986,South Atlantic League,lipon,M91581,Lipon,John,,Gastonia,,
-minoraverages/emilbb,1986,South Atlantic League,quade,M91641,Quade,Mike,,Macon,,
-minoraverages/emilbb,1986,South Atlantic League,snitker,M91562,Snitker,Brian,,Sumter,,
-minoraverages/emilbb,1986,South Atlantic League,torres,M91632,Torres,Hector,,Florence,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1986,South Atlantic League,M91607,Ashford,Tucker,,Columbia,,,ashford
+emilbb,1986,South Atlantic League,M91556,Bolek,Ken,,Asheville,,,bolek
+emilbb,1986,South Atlantic League,M91570,Camilli,Doug,,Greensboro,,,camilli.d
+emilbb,1986,South Atlantic League,M91597,DeArmas,Rollie,,Spartanburg,,,dearmas
+emilbb,1986,South Atlantic League,M91610,DeJohn,Mark,,Savannah,,,dejohn
+emilbb,1986,South Atlantic League,M91629,Kelly,Pat,,Charleston,,,kelly
+emilbb,1986,South Atlantic League,M91581,Lipon,John,,Gastonia,,,lipon
+emilbb,1986,South Atlantic League,M91641,Quade,Mike,,Macon,,,quade
+emilbb,1986,South Atlantic League,M91562,Snitker,Brian,,Sumter,,,snitker
+emilbb,1986,South Atlantic League,M91632,Torres,Hector,,Florence,,,torres

@@ -1,11 +1,11 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1984,Florida State League,bombard-tam,M91079,Bombard,Marc,,Tampa,,
-minoraverages/emilbb,1984,Florida State League,cripe,M91065,Cripe,Dave,,Daytona Beach,,
-minoraverages/emilbb,1984,Florida State League,fahey,M91104,Fahey,Bill,,Lakeland,,
-minoraverages/emilbb,1984,Florida State League,foote,M91136,Foote,Barry,,Fort Lauderdale,,
-minoraverages/emilbb,1984,Florida State League,holt,M91098,Holt,Dave,,Winter Haven,,
-minoraverages/emilbb,1984,Florida State League,jones-fm,M91112,Jones,Tommy,,Fort Myers,,
-minoraverages/emilbb,1984,Florida State League,riggleman,M91087,Riggleman,Jim,,St. Petersburg,,
-minoraverages/emilbb,1984,Florida State League,smith.s-mia,M91157,Smith,Steve,,Miami,,
-minoraverages/emilbb,1984,Florida State League,thompson-wpb,M91148,Thompson,Tommy,,West Palm Beach,,
-minoraverages/emilbb,1984,Florida State League,wasiak,M91120,Wasiak,Stan,,Vero Beach,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1984,Florida State League,M91079,Bombard,Marc,,Tampa,,,bombard-tam
+emilbb,1984,Florida State League,M91065,Cripe,Dave,,Daytona Beach,,,cripe
+emilbb,1984,Florida State League,M91104,Fahey,Bill,,Lakeland,,,fahey
+emilbb,1984,Florida State League,M91136,Foote,Barry,,Fort Lauderdale,,,foote
+emilbb,1984,Florida State League,M91098,Holt,Dave,,Winter Haven,,,holt
+emilbb,1984,Florida State League,M91112,Jones,Tommy,,Fort Myers,,,jones-fm
+emilbb,1984,Florida State League,M91087,Riggleman,Jim,,St. Petersburg,,,riggleman
+emilbb,1984,Florida State League,M91157,Smith,Steve,,Miami,,,smith.s-mia
+emilbb,1984,Florida State League,M91148,Thompson,Tommy,,West Palm Beach,,,thompson-wpb
+emilbb,1984,Florida State League,M91120,Wasiak,Stan,,Vero Beach,,,wasiak

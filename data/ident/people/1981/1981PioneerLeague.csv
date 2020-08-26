@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1981,Pioneer League,,M91597,DeArmas,Rollie,,Helena,,
-minoraverages/emilbb,1981,Pioneer League,,M91543,Graham,Wayne,,Medicine Hat,,
-minoraverages/emilbb,1981,Pioneer League,,M91570,Hoff,Jim,,Billings,,
-minoraverages/emilbb,1981,Pioneer League,,M91535,LaRocque,Gary,,Lethbridge,,
-minoraverages/emilbb,1981,Pioneer League,,M91581,Maddon,Joe,,Idaho Falls,,
-minoraverages/emilbb,1981,Pioneer League,,M91524,Miner,Junior,,Calgary,,
-minoraverages/emilbb,1981,Pioneer League,,M91562,Richardson,Ken,,Butte,,
-minoraverages/emilbb,1981,Pioneer League,,M91556,Rodriguez,Ernest,,Great Falls,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1981,Pioneer League,M91597,DeArmas,Rollie,,Helena,,,
+emilbb,1981,Pioneer League,M91543,Graham,Wayne,,Medicine Hat,,,
+emilbb,1981,Pioneer League,M91570,Hoff,Jim,,Billings,,,
+emilbb,1981,Pioneer League,M91535,LaRocque,Gary,,Lethbridge,,,
+emilbb,1981,Pioneer League,M91581,Maddon,Joe,,Idaho Falls,,,
+emilbb,1981,Pioneer League,M91524,Miner,Junior,,Calgary,,,
+emilbb,1981,Pioneer League,M91562,Richardson,Ken,,Butte,,,
+emilbb,1981,Pioneer League,M91556,Rodriguez,Ernest,,Great Falls,,,

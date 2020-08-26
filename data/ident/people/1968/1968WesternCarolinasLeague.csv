@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1968,Western Carolinas League,,M91414,Fitzgerald,Lou,,Greenwood,,
-minoraverages/emilbb,1968,Western Carolinas League,,M91467,Klaus,Billy,,Salisbury,,
-minoraverages/emilbb,1968,Western Carolinas League,,M91423,Malkmus,Bobby,,Spartanburg,,
-minoraverages/emilbb,1968,Western Carolinas League,,M91451,May,Pinky,,Rock Hill,,
-minoraverages/emilbb,1968,Western Carolinas League,,M91446,Oceak,Frank,,Gastonia,,
-minoraverages/emilbb,1968,Western Carolinas League,,M91438,Sczesny,Matt,,Greenville,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1968,Western Carolinas League,M91414,Fitzgerald,Lou,,Greenwood,,,
+emilbb,1968,Western Carolinas League,M91467,Klaus,Billy,,Salisbury,,,
+emilbb,1968,Western Carolinas League,M91423,Malkmus,Bobby,,Spartanburg,,,
+emilbb,1968,Western Carolinas League,M91451,May,Pinky,,Rock Hill,,,
+emilbb,1968,Western Carolinas League,M91446,Oceak,Frank,,Gastonia,,,
+emilbb,1968,Western Carolinas League,M91438,Sczesny,Matt,,Greenville,,,

@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1993,Carolina League,,M90967,Berry,Mark,,Winston-Salem,,
-minoraverages/emilbb,1993,Carolina League,,M90938,Hillman,Trey,,Prince William,,
-minoraverages/emilbb,1993,Carolina League,,M90923,Johnson,Ron,,Wilmington,,
-minoraverages/emilbb,1993,Carolina League,,M90951,Keller,Dave,,Kinston,,
-minoraverages/emilbb,1993,Carolina League,,M90980,Little,Scott,,Salem,,
-minoraverages/emilbb,1993,Carolina League,,M90914,Mackanin,Pete,,Frederick,,
-minoraverages/emilbb,1993,Carolina League,,M90946,Meleski,Mark,,Lynchburg,,
-minoraverages/emilbb,1993,Carolina League,,M90972,Roberts,Leon,,Durham,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1993,Carolina League,M90967,Berry,Mark,,Winston-Salem,,,
+emilbb,1993,Carolina League,M90938,Hillman,Trey,,Prince William,,,
+emilbb,1993,Carolina League,M90923,Johnson,Ron,,Wilmington,,,
+emilbb,1993,Carolina League,M90951,Keller,Dave,,Kinston,,,
+emilbb,1993,Carolina League,M90980,Little,Scott,,Salem,,,
+emilbb,1993,Carolina League,M90914,Mackanin,Pete,,Frederick,,,
+emilbb,1993,Carolina League,M90946,Meleski,Mark,,Lynchburg,,,
+emilbb,1993,Carolina League,M90972,Roberts,Leon,,Durham,,,

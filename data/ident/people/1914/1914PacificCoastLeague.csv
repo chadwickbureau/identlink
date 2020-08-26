@@ -1,8 +1,8 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1914,Pacific Coast League,,M90248,Christian,Tyler,,Oakland,,
-minoraverages/emilbb,1914,Pacific Coast League,,M90236,Devlin,Art,,Oakland,,
-minoraverages/emilbb,1914,Pacific Coast League,,M90193,Dillon,"Frank ""Pop""",,Los Angeles,,
-minoraverages/emilbb,1914,Pacific Coast League,,M90212,Hogan,"W. L. ""Happy""",,Venice,,
-minoraverages/emilbb,1914,Pacific Coast League,,M90204,Howard,Del,,San Francisco,,
-minoraverages/emilbb,1914,Pacific Coast League,,M90186,McCredie,Walt,,Portland,,
-minoraverages/emilbb,1914,Pacific Coast League,,M90220,Wolverton,Harry,,Sacramento/Mission,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1914,Pacific Coast League,M90248,Christian,Tyler,,Oakland,,,
+emilbb,1914,Pacific Coast League,M90236,Devlin,Art,,Oakland,,,
+emilbb,1914,Pacific Coast League,M90193,Dillon,"Frank ""Pop""",,Los Angeles,,,
+emilbb,1914,Pacific Coast League,M90212,Hogan,"W. L. ""Happy""",,Venice,,,
+emilbb,1914,Pacific Coast League,M90204,Howard,Del,,San Francisco,,,
+emilbb,1914,Pacific Coast League,M90186,McCredie,Walt,,Portland,,,
+emilbb,1914,Pacific Coast League,M90220,Wolverton,Harry,,Sacramento/Mission,,,

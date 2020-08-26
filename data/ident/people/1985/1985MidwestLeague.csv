@@ -1,13 +1,13 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1985,Midwest League,blackwell,M91221,Blackwell,Tim,,Clinton,,
-minoraverages/emilbb,1985,Midwest League,bucci,M91276,Bucci,Mike,,Burlington,,
-minoraverages/emilbb,1985,Midwest League,dyer,M91173,Dyer,Duffy,,Kenosha,,
-minoraverages/emilbb,1985,Midwest League,lachemann,M91268,Lachemann,Bill,,Quad Cities,,
-minoraverages/emilbb,1985,Midwest League,machemer,M91200,Machemer,Dave,,Beloit,,
-minoraverages/emilbb,1985,Midwest League,mackanin,M91245,Mackanin,Pete,,Peoria,,
-minoraverages/emilbb,1985,Midwest League,mahlberg,M91199,Mahlberg,Greg,,Wausau,,
-minoraverages/emilbb,1985,Midwest League,merritt,M91259,Merritt,Lloyd,,Springfield,,
-minoraverages/emilbb,1985,Midwest League,nettles,M91185,Nettles,Jim,,Madison,,
-minoraverages/emilbb,1985,Midwest League,rende,M91161,Rende,Sal,,Appleton,,
-minoraverages/emilbb,1985,Midwest League,swisher,M91237,Swisher,Steve,,Waterloo,,
-minoraverages/emilbb,1985,Midwest League,ward-cr,M91213,Ward,Jay,,Cedar Rapids,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1985,Midwest League,M91221,Blackwell,Tim,,Clinton,,,blackwell
+emilbb,1985,Midwest League,M91276,Bucci,Mike,,Burlington,,,bucci
+emilbb,1985,Midwest League,M91173,Dyer,Duffy,,Kenosha,,,dyer
+emilbb,1985,Midwest League,M91268,Lachemann,Bill,,Quad Cities,,,lachemann
+emilbb,1985,Midwest League,M91200,Machemer,Dave,,Beloit,,,machemer
+emilbb,1985,Midwest League,M91245,Mackanin,Pete,,Peoria,,,mackanin
+emilbb,1985,Midwest League,M91199,Mahlberg,Greg,,Wausau,,,mahlberg
+emilbb,1985,Midwest League,M91259,Merritt,Lloyd,,Springfield,,,merritt
+emilbb,1985,Midwest League,M91185,Nettles,Jim,,Madison,,,nettles
+emilbb,1985,Midwest League,M91161,Rende,Sal,,Appleton,,,rende
+emilbb,1985,Midwest League,M91237,Swisher,Steve,,Waterloo,,,swisher
+emilbb,1985,Midwest League,M91213,Ward,Jay,,Cedar Rapids,,,ward-cr

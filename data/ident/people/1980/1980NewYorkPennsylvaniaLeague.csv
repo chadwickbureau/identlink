@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1980,New York-Pennsylvania League,,M91259,Berardino,Dick,,Elmira,,
-minoraverages/emilbb,1980,New York-Pennsylvania League,,M91284,Colzie,Rick,,Batavia,,
-minoraverages/emilbb,1980,New York-Pennsylvania League,,M91292,Daugherty,Pat,,Jamestown,,
-minoraverages/emilbb,1980,New York-Pennsylvania League,,M91268,Hardy,Larry,,Utica,,
-minoraverages/emilbb,1980,New York-Pennsylvania League,,M91276,Hartsfield,Bob,,Geneva,,
-minoraverages/emilbb,1980,New York-Pennsylvania League,,M91305,Johnson,Tim,,Auburn,,
-minoraverages/emilbb,1980,New York-Pennsylvania League,,M91237,Mazmanian,Art,,Oneonta,,
-minoraverages/emilbb,1980,New York-Pennsylvania League,,M91245,Monzon,Danny,,Little Falls,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1980,New York-Pennsylvania League,M91259,Berardino,Dick,,Elmira,,,
+emilbb,1980,New York-Pennsylvania League,M91284,Colzie,Rick,,Batavia,,,
+emilbb,1980,New York-Pennsylvania League,M91292,Daugherty,Pat,,Jamestown,,,
+emilbb,1980,New York-Pennsylvania League,M91268,Hardy,Larry,,Utica,,,
+emilbb,1980,New York-Pennsylvania League,M91276,Hartsfield,Bob,,Geneva,,,
+emilbb,1980,New York-Pennsylvania League,M91305,Johnson,Tim,,Auburn,,,
+emilbb,1980,New York-Pennsylvania League,M91237,Mazmanian,Art,,Oneonta,,,
+emilbb,1980,New York-Pennsylvania League,M91245,Monzon,Danny,,Little Falls,,,

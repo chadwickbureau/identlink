@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1955,Longhorn League,,M91990,Capps,Billy,,Midland,,
-minoraverages/emilbb,1955,Longhorn League,,M91966,Greer,Hayden,,Roswell,,
-minoraverages/emilbb,1955,Longhorn League,,M91977,Jordan,Tom,,Artesia,,
-minoraverages/emilbb,1955,Longhorn League,,M92013,Martin,Robert,,Big Spring,,
-minoraverages/emilbb,1955,Longhorn League,,M91953,McLaughlin,Pat,,San Angelo,,
-minoraverages/emilbb,1955,Longhorn League,,M92000,Stasey,Pat,,Hobbs,,
-minoraverages/emilbb,1955,Longhorn League,,M91989,Tucker,Thurman,,Carlsbad,,
-minoraverages/emilbb,1955,Longhorn League,,M92021,York,Tony,,Odessa,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1955,Longhorn League,M91990,Capps,Billy,,Midland,,,
+emilbb,1955,Longhorn League,M91966,Greer,Hayden,,Roswell,,,
+emilbb,1955,Longhorn League,M91977,Jordan,Tom,,Artesia,,,
+emilbb,1955,Longhorn League,M92013,Martin,Robert,,Big Spring,,,
+emilbb,1955,Longhorn League,M91953,McLaughlin,Pat,,San Angelo,,,
+emilbb,1955,Longhorn League,M92000,Stasey,Pat,,Hobbs,,,
+emilbb,1955,Longhorn League,M91989,Tucker,Thurman,,Carlsbad,,,
+emilbb,1955,Longhorn League,M92021,York,Tony,,Odessa,,,

@@ -1,15 +1,15 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1985,Florida State League,aviles,M91054,Aviles,Ramon,,Clearwater,,
-minoraverages/emilbb,1985,Florida State League,benedict,M91148,Benedict,Moby,,Lakeland,,
-minoraverages/emilbb,1985,Florida State League,bialas,M91033,Bialas,Dave,,St. Petersburg,,
-minoraverages/emilbb,1985,Florida State League,bombard,M91040,Bombard,Marc,,Tampa,,
-minoraverages/emilbb,1985,Florida State League,burgess,M91098,Burgess,Tom,,Miami,,
-minoraverages/emilbb,1985,Florida State League,cripe,M91112,Cripe,Dave,,Osceola,,
-minoraverages/emilbb,1985,Florida State League,dent,M91065,Dent,Bucky,,Fort Lauderdale,,
-minoraverages/emilbb,1985,Florida State League,essian,M91104,Essian,Jim,,Miami,,
-minoraverages/emilbb,1985,Florida State League,grote,M91136,Grote,Jerry,,Lakeland,,
-minoraverages/emilbb,1985,Florida State League,gustavson,M91022,Gustavson,Duane,,Fort Myers,,
-minoraverages/emilbb,1985,Florida State League,holt,M91120,Holt,Dave,,Winter Haven,,
-minoraverages/emilbb,1985,Florida State League,hutto,M91157,Hutto,Jim,,Daytona Beach,,
-minoraverages/emilbb,1985,Florida State League,miner,M91079,Miner,Junior,,West Palm Beach,,
-minoraverages/emilbb,1985,Florida State League,waisak,M91087,Waisak,Stan,,Vero Beach,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1985,Florida State League,M91054,Aviles,Ramon,,Clearwater,,,aviles
+emilbb,1985,Florida State League,M91148,Benedict,Moby,,Lakeland,,,benedict
+emilbb,1985,Florida State League,M91033,Bialas,Dave,,St. Petersburg,,,bialas
+emilbb,1985,Florida State League,M91040,Bombard,Marc,,Tampa,,,bombard
+emilbb,1985,Florida State League,M91098,Burgess,Tom,,Miami,,,burgess
+emilbb,1985,Florida State League,M91112,Cripe,Dave,,Osceola,,,cripe
+emilbb,1985,Florida State League,M91065,Dent,Bucky,,Fort Lauderdale,,,dent
+emilbb,1985,Florida State League,M91104,Essian,Jim,,Miami,,,essian
+emilbb,1985,Florida State League,M91136,Grote,Jerry,,Lakeland,,,grote
+emilbb,1985,Florida State League,M91022,Gustavson,Duane,,Fort Myers,,,gustavson
+emilbb,1985,Florida State League,M91120,Holt,Dave,,Winter Haven,,,holt
+emilbb,1985,Florida State League,M91157,Hutto,Jim,,Daytona Beach,,,hutto
+emilbb,1985,Florida State League,M91079,Miner,Junior,,West Palm Beach,,,miner
+emilbb,1985,Florida State League,M91087,Waisak,Stan,,Vero Beach,,,waisak

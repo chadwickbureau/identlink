@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1956,Midwest League,,M92434,Noga,George,,Dubuque,,
-minoraverages/emilbb,1956,Midwest League,,M92427,Okrie,Len,,Lafayette,,
-minoraverages/emilbb,1956,Midwest League,,M92416,Purtell,Marty,,Paris,,
-minoraverages/emilbb,1956,Midwest League,,M92488,Reiser,Pete,,Kokomo,,
-minoraverages/emilbb,1956,Midwest League,,M92475,Shinn,Allan,,Michigan City,,
-minoraverages/emilbb,1956,Midwest League,,M92450,Unser,Al,,Decatur,,
-minoraverages/emilbb,1956,Midwest League,,M92442,Wentzel,Stan,,Clinton,,
-minoraverages/emilbb,1956,Midwest League,,M92469,Zientara,Benedict,,Mattoon,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1956,Midwest League,M92434,Noga,George,,Dubuque,,,
+emilbb,1956,Midwest League,M92427,Okrie,Len,,Lafayette,,,
+emilbb,1956,Midwest League,M92416,Purtell,Marty,,Paris,,,
+emilbb,1956,Midwest League,M92488,Reiser,Pete,,Kokomo,,,
+emilbb,1956,Midwest League,M92475,Shinn,Allan,,Michigan City,,,
+emilbb,1956,Midwest League,M92450,Unser,Al,,Decatur,,,
+emilbb,1956,Midwest League,M92442,Wentzel,Stan,,Clinton,,,
+emilbb,1956,Midwest League,M92469,Zientara,Benedict,,Mattoon,,,

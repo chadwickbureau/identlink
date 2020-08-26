@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1993,Texas League,,M90731,Butera,Sal,,Jackson,,
-minoraverages/emilbb,1993,Texas League,,M90753,Cliburn,Stan,,Tulsa,,
-minoraverages/emilbb,1993,Texas League,,M90808,Hoffman,Glenn,,San Antonio,,
-minoraverages/emilbb,1993,Texas League,,M90777,Ireland,Tim,,El Paso,,
-minoraverages/emilbb,1993,Texas League,,M90790,Long,Don,,Midland,,
-minoraverages/emilbb,1993,Texas League,,M90744,Pettini,Joe,,Arkansas,,
-minoraverages/emilbb,1993,Texas League,,M90789,Tremblay,Dave,,Wichita,,
-minoraverages/emilbb,1993,Texas League,,M90766,Wotus,Ron,,Shreveport,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1993,Texas League,M90731,Butera,Sal,,Jackson,,,
+emilbb,1993,Texas League,M90753,Cliburn,Stan,,Tulsa,,,
+emilbb,1993,Texas League,M90808,Hoffman,Glenn,,San Antonio,,,
+emilbb,1993,Texas League,M90777,Ireland,Tim,,El Paso,,,
+emilbb,1993,Texas League,M90790,Long,Don,,Midland,,,
+emilbb,1993,Texas League,M90744,Pettini,Joe,,Arkansas,,,
+emilbb,1993,Texas League,M90789,Tremblay,Dave,,Wichita,,,
+emilbb,1993,Texas League,M90766,Wotus,Ron,,Shreveport,,,

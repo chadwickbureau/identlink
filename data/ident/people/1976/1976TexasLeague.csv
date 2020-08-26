@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1976,Texas League,,M90650,Antonelli,John,,Jackson,,
-minoraverages/emilbb,1976,Texas League,,M90691,Knoop,Bobby,,El Paso,,
-minoraverages/emilbb,1976,Texas League,,M90669,Krol,Jack,,Arkansas,,
-minoraverages/emilbb,1976,Texas League,,M90642,Lipon,John,,Sheveport,,
-minoraverages/emilbb,1976,Texas League,,M90702,Martinez,"Orlando ""Marty""",,San Antonio,,
-minoraverages/emilbb,1976,Texas League,,M90688,Miller,Bob,,Amarillo,,
-minoraverages/emilbb,1976,Texas League,,M90715,Summers,Dennis,,Midland,,
-minoraverages/emilbb,1976,Texas League,,M90675,Van Ornum,John,,Lafayette,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1976,Texas League,M90650,Antonelli,John,,Jackson,,,
+emilbb,1976,Texas League,M90691,Knoop,Bobby,,El Paso,,,
+emilbb,1976,Texas League,M90669,Krol,Jack,,Arkansas,,,
+emilbb,1976,Texas League,M90642,Lipon,John,,Sheveport,,,
+emilbb,1976,Texas League,M90702,Martinez,"Orlando ""Marty""",,San Antonio,,,
+emilbb,1976,Texas League,M90688,Miller,Bob,,Amarillo,,,
+emilbb,1976,Texas League,M90715,Summers,Dennis,,Midland,,,
+emilbb,1976,Texas League,M90675,Van Ornum,John,,Lafayette,,,

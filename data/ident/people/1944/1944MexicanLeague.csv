@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1944,Mexican League,,M90914,Arroyo,Manuel,,Tampico,,
-minoraverages/emilbb,1944,Mexican League,,M90862,Bragana,Ramon,,Veracruz,,
-minoraverages/emilbb,1944,Mexican League,,M90923,Carmona,Ernesto,,Mexico City Reds,,
-minoraverages/emilbb,1944,Mexican League,,M90897,Dihigo,Martin,,Nuevo Laredo,,
-minoraverages/emilbb,1944,Mexican League,,M90856,Hornsby,Rogers,,Veracruz,,
-minoraverages/emilbb,1944,Mexican League,,M90909,Martinez,Porfirio,,Tampico,,
-minoraverages/emilbb,1944,Mexican League,,M90881,Morin,Eugenio,,Puebla,,
-minoraverages/emilbb,1944,Mexican League,,M90870,Salazar,Lazaro,,Monterrey,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1944,Mexican League,M90914,Arroyo,Manuel,,Tampico,,,
+emilbb,1944,Mexican League,M90862,Bragana,Ramon,,Veracruz,,,
+emilbb,1944,Mexican League,M90923,Carmona,Ernesto,,Mexico City Reds,,,
+emilbb,1944,Mexican League,M90897,Dihigo,Martin,,Nuevo Laredo,,,
+emilbb,1944,Mexican League,M90856,Hornsby,Rogers,,Veracruz,,,
+emilbb,1944,Mexican League,M90909,Martinez,Porfirio,,Tampico,,,
+emilbb,1944,Mexican League,M90881,Morin,Eugenio,,Puebla,,,
+emilbb,1944,Mexican League,M90870,Salazar,Lazaro,,Monterrey,,,

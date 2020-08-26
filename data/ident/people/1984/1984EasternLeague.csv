@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1984,Eastern League,aker,M90598,Aker,Jack,,Buffalo,,
-minoraverages/emilbb,1984,Eastern League,boles,M90565,Boles,John,,Glens Falls,,
-minoraverages/emilbb,1984,Eastern League,dancy,M90627,Dancy,Bill,,Reading,,
-minoraverages/emilbb,1984,Eastern League,lieppman,M90554,Lieppman,Keith,,Albany-Colonie,,
-minoraverages/emilbb,1984,Eastern League,lind-ver,M90587,Lind,Jack,,Vermont,,
-minoraverages/emilbb,1984,Eastern League,llenas,M90579,Llenas,Winston,,Waterbury,,
-minoraverages/emilbb,1984,Eastern League,scripture,M90616,Scripture,Bill,,Nashua,,
-minoraverages/emilbb,1984,Eastern League,slider,M90603,Slider,Rac,,New Britain,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1984,Eastern League,M90598,Aker,Jack,,Buffalo,,,aker
+emilbb,1984,Eastern League,M90565,Boles,John,,Glens Falls,,,boles
+emilbb,1984,Eastern League,M90627,Dancy,Bill,,Reading,,,dancy
+emilbb,1984,Eastern League,M90554,Lieppman,Keith,,Albany-Colonie,,,lieppman
+emilbb,1984,Eastern League,M90587,Lind,Jack,,Vermont,,,lind-ver
+emilbb,1984,Eastern League,M90579,Llenas,Winston,,Waterbury,,,llenas
+emilbb,1984,Eastern League,M90616,Scripture,Bill,,Nashua,,,scripture
+emilbb,1984,Eastern League,M90603,Slider,Rac,,New Britain,,,slider

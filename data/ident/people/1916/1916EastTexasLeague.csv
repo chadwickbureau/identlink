@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1916,East Texas League,,M91758,Ashton,Jack,,Rusk,,
-minoraverages/emilbb,1916,East Texas League,,M91717,Brewer,Dick,,Palestine,,
-minoraverages/emilbb,1916,East Texas League,,M91730,Cherry,Tom,,Nacogdoches,,
-minoraverages/emilbb,1916,East Texas League,,M91749,Countryman,Bob,,Crockett,,
-minoraverages/emilbb,1916,East Texas League,,M91725,Lemon,Lee,,Lufkin,,
-minoraverages/emilbb,1916,East Texas League,,M91763,Wickes,Art,,Jacksonville,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1916,East Texas League,M91758,Ashton,Jack,,Rusk,,,
+emilbb,1916,East Texas League,M91717,Brewer,Dick,,Palestine,,,
+emilbb,1916,East Texas League,M91730,Cherry,Tom,,Nacogdoches,,,
+emilbb,1916,East Texas League,M91749,Countryman,Bob,,Crockett,,,
+emilbb,1916,East Texas League,M91725,Lemon,Lee,,Lufkin,,,
+emilbb,1916,East Texas League,M91763,Wickes,Art,,Jacksonville,,,

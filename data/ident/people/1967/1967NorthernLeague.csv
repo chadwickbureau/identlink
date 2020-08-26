@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1967,Northern League,,M91221,Friend,Owen,,Aberdeen,,
-minoraverages/emilbb,1967,Northern League,,M91237,Hutchinson,Ira,,Duluth-Superior,,
-minoraverages/emilbb,1967,Northern League,,M91245,Lonnet,Joe,,Huron,,
-minoraverages/emilbb,1967,Northern League,,M91200,Peterson,"Carl ""Buddy""",,Mankato,,
-minoraverages/emilbb,1967,Northern League,,M91213,Snyder,Jim,,Sioux Falls,,
-minoraverages/emilbb,1967,Northern League,,M91199,Staples,Ken,,St. Cloud,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1967,Northern League,M91221,Friend,Owen,,Aberdeen,,,
+emilbb,1967,Northern League,M91237,Hutchinson,Ira,,Duluth-Superior,,,
+emilbb,1967,Northern League,M91245,Lonnet,Joe,,Huron,,,
+emilbb,1967,Northern League,M91200,Peterson,"Carl ""Buddy""",,Mankato,,,
+emilbb,1967,Northern League,M91213,Snyder,Jim,,Sioux Falls,,,
+emilbb,1967,Northern League,M91199,Staples,Ken,,St. Cloud,,,

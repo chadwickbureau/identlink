@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1995,Pioneer League,,M92068,Ambos,Willie,,Ogden,,
-minoraverages/emilbb,1995,Pioneer League,,M92013,Balsley,Darren,,Medicine Hat,,
-minoraverages/emilbb,1995,Pioneer League,,M92059,Basso,Mike,,Idaho Falls,,
-minoraverages/emilbb,1995,Pioneer League,,M92076,Gardner,Billy Jr.,,Butte,,
-minoraverages/emilbb,1995,Pioneer League,,M92045,Morales,Alex,,Helena,,
-minoraverages/emilbb,1995,Pioneer League,,M92000,Scott,Donnie,,Billings,,
-minoraverages/emilbb,1995,Pioneer League,,M92021,Shoemaker,John,,Great Falls,,
-minoraverages/emilbb,1995,Pioneer League,,M92037,Simonds,Dan,,Lethbridge,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1995,Pioneer League,M92068,Ambos,Willie,,Ogden,,,
+emilbb,1995,Pioneer League,M92013,Balsley,Darren,,Medicine Hat,,,
+emilbb,1995,Pioneer League,M92059,Basso,Mike,,Idaho Falls,,,
+emilbb,1995,Pioneer League,M92076,Gardner,Billy Jr.,,Butte,,,
+emilbb,1995,Pioneer League,M92045,Morales,Alex,,Helena,,,
+emilbb,1995,Pioneer League,M92000,Scott,Donnie,,Billings,,,
+emilbb,1995,Pioneer League,M92021,Shoemaker,John,,Great Falls,,,
+emilbb,1995,Pioneer League,M92037,Simonds,Dan,,Lethbridge,,,

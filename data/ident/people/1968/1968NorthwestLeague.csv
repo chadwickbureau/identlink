@@ -1,5 +1,5 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1968,Northwest League,,M91383,Campbell,Nolan,,Eugene,,
-minoraverages/emilbb,1968,Northwest League,,M91394,Koepf,Harvey,,Medford,,
-minoraverages/emilbb,1968,Northwest League,,M91371,LeJohn,Don Sr.,,Tri-City,,
-minoraverages/emilbb,1968,Northwest League,,M91409,Majtyka,Roy,,Lewiston,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1968,Northwest League,M91383,Campbell,Nolan,,Eugene,,,
+emilbb,1968,Northwest League,M91394,Koepf,Harvey,,Medford,,,
+emilbb,1968,Northwest League,M91371,LeJohn,Don Sr.,,Tri-City,,,
+emilbb,1968,Northwest League,M91409,Majtyka,Roy,,Lewiston,,,

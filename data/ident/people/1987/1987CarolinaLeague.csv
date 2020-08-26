@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1987,Carolina League,demeter,M90914,Demeter,Steve,,Salem,,
-minoraverages/emilbb,1987,Carolina League,foley,M90972,Foley,Marv,,Peninsula,,
-minoraverages/emilbb,1987,Carolina League,gulliver,M90923,Gulliver,Glenn,,Hagerstown,,
-minoraverages/emilbb,1987,Carolina League,hargrove,M90951,Hargrove,Mike,,Kinston,,
-minoraverages/emilbb,1987,Carolina League,loviglio,M90967,Loviglio,Jay,,Winston-Salem,,
-minoraverages/emilbb,1987,Carolina League,moon,M90938,Moon,Wally,,Prince William,,
-minoraverages/emilbb,1987,Carolina League,snitker,M90980,Snitker,Brian,,Durham,,
-minoraverages/emilbb,1987,Carolina League,tamargo,M90946,Tamargo,John,,Lynchburg,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1987,Carolina League,M90914,Demeter,Steve,,Salem,,,demeter
+emilbb,1987,Carolina League,M90972,Foley,Marv,,Peninsula,,,foley
+emilbb,1987,Carolina League,M90923,Gulliver,Glenn,,Hagerstown,,,gulliver
+emilbb,1987,Carolina League,M90951,Hargrove,Mike,,Kinston,,,hargrove
+emilbb,1987,Carolina League,M90967,Loviglio,Jay,,Winston-Salem,,,loviglio
+emilbb,1987,Carolina League,M90938,Moon,Wally,,Prince William,,,moon
+emilbb,1987,Carolina League,M90980,Snitker,Brian,,Durham,,,snitker
+emilbb,1987,Carolina League,M90946,Tamargo,John,,Lynchburg,,,tamargo

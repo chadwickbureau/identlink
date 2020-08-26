@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1978,Eastern League,,M90522,Elia,Lee,,Reading,,
-minoraverages/emilbb,1978,Eastern League,,M90554,Farson,George,,Holyoke,,
-minoraverages/emilbb,1978,Eastern League,,M90540,Gilbert,Andy,,Waterbury,,
-minoraverages/emilbb,1978,Eastern League,,M90565,Kennedy,John,,Jersey City,,
-minoraverages/emilbb,1978,Eastern League,,M90511,Merrill,Stump,,West Haven,,
-minoraverages/emilbb,1978,Eastern League,,M90533,Torchia,Tony,,Bristol,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1978,Eastern League,M90522,Elia,Lee,,Reading,,,
+emilbb,1978,Eastern League,M90554,Farson,George,,Holyoke,,,
+emilbb,1978,Eastern League,M90540,Gilbert,Andy,,Waterbury,,,
+emilbb,1978,Eastern League,M90565,Kennedy,John,,Jersey City,,,
+emilbb,1978,Eastern League,M90511,Merrill,Stump,,West Haven,,,
+emilbb,1978,Eastern League,M90533,Torchia,Tony,,Bristol,,,

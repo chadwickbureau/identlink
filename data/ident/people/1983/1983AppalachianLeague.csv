@@ -1,8 +1,8 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1983,Appalachian League,,M91570,Bailey,Buddy,,Pulaski,,
-minoraverages/emilbb,1983,Appalachian League,,M91607,Biaginni,Greg,,Bluefield,,
-minoraverages/emilbb,1983,Appalachian League,,M91581,Day,Boots,,Bristol,,
-minoraverages/emilbb,1983,Appalachian League,,M91597,Fairey,Jim,,Pikeville,,
-minoraverages/emilbb,1983,Appalachian League,,M91562,Gamboa,Tom,,Paintsville,,
-minoraverages/emilbb,1983,Appalachian League,,M91610,Hacker,Rich,,Johnson City,,
-minoraverages/emilbb,1983,Appalachian League,,M91629,Waters,Fred,,Elizabethton,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1983,Appalachian League,M91570,Bailey,Buddy,,Pulaski,,,
+emilbb,1983,Appalachian League,M91607,Biaginni,Greg,,Bluefield,,,
+emilbb,1983,Appalachian League,M91581,Day,Boots,,Bristol,,,
+emilbb,1983,Appalachian League,M91597,Fairey,Jim,,Pikeville,,,
+emilbb,1983,Appalachian League,M91562,Gamboa,Tom,,Paintsville,,,
+emilbb,1983,Appalachian League,M91610,Hacker,Rich,,Johnson City,,,
+emilbb,1983,Appalachian League,M91629,Waters,Fred,,Elizabethton,,,

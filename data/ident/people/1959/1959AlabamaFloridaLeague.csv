@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1959,Alabama-Florida League,,M91213,Carswell,Frank,,Montgomery,,
-minoraverages/emilbb,1959,Alabama-Florida League,,M91237,Dunn,J. C.,,Dothan,,
-minoraverages/emilbb,1959,Alabama-Florida League,,M91245,Fitzgerald,Lou,,Pensacola,,
-minoraverages/emilbb,1959,Alabama-Florida League,,M91221,Lipon,John,,Selma,,
-minoraverages/emilbb,1959,Alabama-Florida League,,M91259,Magi,Vince,,Fort Walton Beach,,
-minoraverages/emilbb,1959,Alabama-Florida League,,M91268,Ronning,Al,,Panama City,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1959,Alabama-Florida League,M91213,Carswell,Frank,,Montgomery,,,
+emilbb,1959,Alabama-Florida League,M91237,Dunn,J. C.,,Dothan,,,
+emilbb,1959,Alabama-Florida League,M91245,Fitzgerald,Lou,,Pensacola,,,
+emilbb,1959,Alabama-Florida League,M91221,Lipon,John,,Selma,,,
+emilbb,1959,Alabama-Florida League,M91259,Magi,Vince,,Fort Walton Beach,,,
+emilbb,1959,Alabama-Florida League,M91268,Ronning,Al,,Panama City,,,

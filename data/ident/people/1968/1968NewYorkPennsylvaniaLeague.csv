@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1968,New York-Pennsylvania League,,M91259,Bogard,Dick,,Williamsport,,
-minoraverages/emilbb,1968,New York-Pennsylvania League,,M91237,Coffie,Boyd,,Auburn,,
-minoraverages/emilbb,1968,New York-Pennsylvania League,,M91276,Dustal,Bob,,Batavia,,
-minoraverages/emilbb,1968,New York-Pennsylvania League,,M91284,Marchese,Joe,,Geneva,,
-minoraverages/emilbb,1968,New York-Pennsylvania League,,M91292,Moore,Jackie,,Jamestown,,
-minoraverages/emilbb,1968,New York-Pennsylvania League,,M91305,Osborne,"Larry ""Bo""",,Corning,,
-minoraverages/emilbb,1968,New York-Pennsylvania League,,M91268,Sisti,Sibby,,Newark,,
-minoraverages/emilbb,1968,New York-Pennsylvania League,,M91245,Walker,Jerry,,Oneonta,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1968,New York-Pennsylvania League,M91259,Bogard,Dick,,Williamsport,,,
+emilbb,1968,New York-Pennsylvania League,M91237,Coffie,Boyd,,Auburn,,,
+emilbb,1968,New York-Pennsylvania League,M91276,Dustal,Bob,,Batavia,,,
+emilbb,1968,New York-Pennsylvania League,M91284,Marchese,Joe,,Geneva,,,
+emilbb,1968,New York-Pennsylvania League,M91292,Moore,Jackie,,Jamestown,,,
+emilbb,1968,New York-Pennsylvania League,M91305,Osborne,"Larry ""Bo""",,Corning,,,
+emilbb,1968,New York-Pennsylvania League,M91268,Sisti,Sibby,,Newark,,,
+emilbb,1968,New York-Pennsylvania League,M91245,Walker,Jerry,,Oneonta,,,

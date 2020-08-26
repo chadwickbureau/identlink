@@ -1,26 +1,26 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1984,Mexican League,calvo,M90212,Calvo,Jorge,,Nuevo Laredo,,
-minoraverages/emilbb,1984,Mexican League,camacho,M90236,Camacho,Moises,,Saltillo,,
-minoraverages/emilbb,1984,Mexican League,castellon,M90374,Castellon,Roberto,,Cordoba,,
-minoraverages/emilbb,1984,Mexican League,cruz,M90421,Cruz,Domingo,,Tabasco,,
-minoraverages/emilbb,1984,Mexican League,estrada,M90349,Estrada,Francisco,,Toluca,,
-minoraverages/emilbb,1984,Mexican League,,M90317,Garcia,Vinicio,,Monclova,,
-minoraverages/emilbb,1984,Mexican League,,M90382,Garcia,Jose Luis,,Veracruz,,
-minoraverages/emilbb,1984,Mexican League,,M90437,Garcia,David,,Campeche,,
-minoraverages/emilbb,1984,Mexican League,gonzalez,M90301,Gonzalez,Servando,,Monclova,,
-minoraverages/emilbb,1984,Mexican League,guerrero,M90220,Guerrero,Jose,,Ciudad Juarez,,
-minoraverages/emilbb,1984,Mexican League,gutierrez,M90400,Gutierrez,Cesar,,Veracruz,,
-minoraverages/emilbb,1984,Mexican League,joachin,M90413,Joachin,Alberto,,Tabasco,,
-minoraverages/emilbb,1984,Mexican League,,M90273,Juarez,Marcelo,,Leon,,
-minoraverages/emilbb,1984,Mexican League,,M90445,Juarez,Jose Delores,,Campeche,,
-minoraverages/emilbb,1984,Mexican League,luque,M90257,Luque,Gregorio,,Tampico,,
-minoraverages/emilbb,1984,Mexican League,mendoz,M90299,Mendoz,Mario,,Monclova,,
-minoraverages/emilbb,1984,Mexican League,navarrete,M90248,Navarrete,Juan,,Saltillo,,
-minoraverages/emilbb,1984,Mexican League,oliveras,M90358,Oliveras,Max,,Toluca,,
-minoraverages/emilbb,1984,Mexican League,paz,M90363,Paz,Carlos,,Yucatan,,
-minoraverages/emilbb,1984,Mexican League,pelaez,M90261,Pelaez,Mario,,Monterrey,,
-minoraverages/emilbb,1984,Mexican League,remes,M90330,Remes,Fernando,,Mexico City Tigers,,
-minoraverages/emilbb,1984,Mexican League,reyes,M90325,Reyes,Ben,,Mexico City Reds,,
-minoraverages/emilbb,1984,Mexican League,rodriguez,M90204,Rodriguez,Francisco,,Aguascalientes,,
-minoraverages/emilbb,1984,Mexican League,scott,M90396,Scott,George,,Veracruz,,
-minoraverages/emilbb,1984,Mexican League,valenzuela,M90285,Valenzuela,Ben,,Leon,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1984,Mexican League,M90212,Calvo,Jorge,,Nuevo Laredo,,,calvo
+emilbb,1984,Mexican League,M90236,Camacho,Moises,,Saltillo,,,camacho
+emilbb,1984,Mexican League,M90374,Castellon,Roberto,,Cordoba,,,castellon
+emilbb,1984,Mexican League,M90421,Cruz,Domingo,,Tabasco,,,cruz
+emilbb,1984,Mexican League,M90349,Estrada,Francisco,,Toluca,,,estrada
+emilbb,1984,Mexican League,M90317,Garcia,Vinicio,,Monclova,,,
+emilbb,1984,Mexican League,M90382,Garcia,Jose Luis,,Veracruz,,,
+emilbb,1984,Mexican League,M90437,Garcia,David,,Campeche,,,
+emilbb,1984,Mexican League,M90301,Gonzalez,Servando,,Monclova,,,gonzalez
+emilbb,1984,Mexican League,M90220,Guerrero,Jose,,Ciudad Juarez,,,guerrero
+emilbb,1984,Mexican League,M90400,Gutierrez,Cesar,,Veracruz,,,gutierrez
+emilbb,1984,Mexican League,M90413,Joachin,Alberto,,Tabasco,,,joachin
+emilbb,1984,Mexican League,M90273,Juarez,Marcelo,,Leon,,,
+emilbb,1984,Mexican League,M90445,Juarez,Jose Delores,,Campeche,,,
+emilbb,1984,Mexican League,M90257,Luque,Gregorio,,Tampico,,,luque
+emilbb,1984,Mexican League,M90299,Mendoz,Mario,,Monclova,,,mendoz
+emilbb,1984,Mexican League,M90248,Navarrete,Juan,,Saltillo,,,navarrete
+emilbb,1984,Mexican League,M90358,Oliveras,Max,,Toluca,,,oliveras
+emilbb,1984,Mexican League,M90363,Paz,Carlos,,Yucatan,,,paz
+emilbb,1984,Mexican League,M90261,Pelaez,Mario,,Monterrey,,,pelaez
+emilbb,1984,Mexican League,M90330,Remes,Fernando,,Mexico City Tigers,,,remes
+emilbb,1984,Mexican League,M90325,Reyes,Ben,,Mexico City Reds,,,reyes
+emilbb,1984,Mexican League,M90204,Rodriguez,Francisco,,Aguascalientes,,,rodriguez
+emilbb,1984,Mexican League,M90396,Scott,George,,Veracruz,,,scott
+emilbb,1984,Mexican League,M90285,Valenzuela,Ben,,Leon,,,valenzuela

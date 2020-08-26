@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1979,Carolina League,,M91040,Aker,Jack,,Lynchbrug,,
-minoraverages/emilbb,1979,Carolina League,,M91022,Clark,Ron,,Peninsula,,
-minoraverages/emilbb,1979,Carolina League,,M91011,Floyd,Bobby,,Alexandria,,
-minoraverages/emilbb,1979,Carolina League,,M91033,Larson,Duane,,Kinston,,
-minoraverages/emilbb,1979,Carolina League,,M91054,Mahoney,Jim,,Salem,,
-minoraverages/emilbb,1979,Carolina League,,M91006,Slack,Bill,,Winston-Salem,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1979,Carolina League,M91040,Aker,Jack,,Lynchbrug,,,
+emilbb,1979,Carolina League,M91022,Clark,Ron,,Peninsula,,,
+emilbb,1979,Carolina League,M91011,Floyd,Bobby,,Alexandria,,,
+emilbb,1979,Carolina League,M91033,Larson,Duane,,Kinston,,,
+emilbb,1979,Carolina League,M91054,Mahoney,Jim,,Salem,,,
+emilbb,1979,Carolina League,M91006,Slack,Bill,,Winston-Salem,,,

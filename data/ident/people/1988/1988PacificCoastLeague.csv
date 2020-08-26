@@ -1,13 +1,13 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1988,Pacific Coast League,bevington,M90484,Bevington,Terry,,Vancouver,,
-minoraverages/emilbb,1988,Pacific Coast League,collins,M90554,Collins,Terry,,Albuquerque,,
-minoraverages/emilbb,1988,Pacific Coast League,didier,M90579,Didier,Bob,,Tucson,,
-minoraverages/emilbb,1988,Pacific Coast League,fischer,M90540,Fischer,Brad,,Tacoma,,
-minoraverages/emilbb,1988,Pacific Coast League,kim,M90587,Kim,Wendell,,Phoenix,,
-minoraverages/emilbb,1988,Pacific Coast League,kotchman,M90533,Kotchman,John,,Edmonton,,
-minoraverages/emilbb,1988,Pacific Coast League,mahoney,M90492,Mahoney,Jim,,Portland,,
-minoraverages/emilbb,1988,Pacific Coast League,,M90522,Martinez,Marty,,Calgary,,
-minoraverages/emilbb,1988,Pacific Coast League,plummer,M90511,Plummer,Bill,,Calgary,,
-minoraverages/emilbb,1988,Pacific Coast League,shellenback,M90506,Shellenback,Jim,,Portland,,
-minoraverages/emilbb,1988,Pacific Coast League,,M90565,Smith,Steve,,Las Vegas,,
-minoraverages/emilbb,1988,Pacific Coast League,swisher,M90598,Swisher,Steve,,Colorado Springs,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1988,Pacific Coast League,M90484,Bevington,Terry,,Vancouver,,,bevington
+emilbb,1988,Pacific Coast League,M90554,Collins,Terry,,Albuquerque,,,collins
+emilbb,1988,Pacific Coast League,M90579,Didier,Bob,,Tucson,,,didier
+emilbb,1988,Pacific Coast League,M90540,Fischer,Brad,,Tacoma,,,fischer
+emilbb,1988,Pacific Coast League,M90587,Kim,Wendell,,Phoenix,,,kim
+emilbb,1988,Pacific Coast League,M90533,Kotchman,John,,Edmonton,,,kotchman
+emilbb,1988,Pacific Coast League,M90492,Mahoney,Jim,,Portland,,,mahoney
+emilbb,1988,Pacific Coast League,M90522,Martinez,Marty,,Calgary,,,
+emilbb,1988,Pacific Coast League,M90511,Plummer,Bill,,Calgary,,,plummer
+emilbb,1988,Pacific Coast League,M90506,Shellenback,Jim,,Portland,,,shellenback
+emilbb,1988,Pacific Coast League,M90565,Smith,Steve,,Las Vegas,,,
+emilbb,1988,Pacific Coast League,M90598,Swisher,Steve,,Colorado Springs,,,swisher

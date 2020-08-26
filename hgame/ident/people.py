@@ -9,23 +9,30 @@ def extract_with_source(path, source, **kwargs):
     """Helper function to extract a CSV file and add a 'source' column.
     """
     try:
-        return pd.read_csv(path, dtype=str, encoding='utf-8', **kwargs) \
-                 .assign(source=source)
-    except IOError:
-        return pd.DataFrame()
+        return (
+            pd.read_csv(path, dtype=str, **kwargs)
+            .assign(source=source)
+        )
+    except FileNotFoundError:
+        return pd.DataFrame(
+            columns=['source', 'league.year', 'league.name',
+                     'person.ref',
+                     'person.name.last', 'person.name.given',
+                     'S_STINT', 'entry.name']
+        )
 
 
 def collect_from_averages(path):
     """Collect playing and managing performance records from
     minoraverages repository.
     """
-    print("Collecting items from minoraverages dataset.")
+    print("Collecting items from transcriptions dataset.")
     return [pd.concat([extract_with_source(sourcepath/"playing_individual.csv",
-                                           "minoraverages/"+sourcepath.name)
+                                           sourcepath.name)
                        for sourcepath in (path/"processed").glob("*")] +
                       [extract_with_source(
                           sourcepath/"managing_individual.csv",
-                          "minoraverages/" + sourcepath.name
+                          sourcepath.name
                        )
                        for sourcepath in (path/"processed").glob("*")],
                       sort=True, ignore_index=True)]
@@ -36,23 +43,24 @@ def extract_idents(path):
     of person ident files.
     """
     print("Collecting identfiles")
-    idents = pd.concat([pd.read_csv(fn, dtype=str, encoding='utf-8')
+    idents = pd.concat([pd.read_csv(fn, dtype=str)
                         for fn in path.glob("*/*.csv")],
                        ignore_index=True, sort=False)
     for col in ['person.name.given', 'S_STINT']:
         idents[col] = idents[col].fillna("")
-    return idents[['ident', 'source', 'league.year', 'league.name',
-                   'person.ref', 'person.name.last', 'person.name.given',
-                   'S_STINT', 'entry.name']]
+    return idents.reindex(columns=[
+        'ident', 'source', 'league.year', 'league.name',
+        'person.ref', 'person.name.last', 'person.name.given',
+        'S_STINT', 'entry.name'
+    ])
 
 
 def extract_sources():
     """Collect up person references from the various sources.
     """
-    avglist = collect_from_averages(pathlib.Path("../hgame-averages"))
+    avglist = collect_from_averages(pathlib.Path("."))
     print("Concatenating files...")
-    return pd.concat(avglist,
-                     sort=False, ignore_index=True)
+    return pd.concat(avglist, sort=False, ignore_index=True)
 
 
 def clean_sources(df):
@@ -89,19 +97,16 @@ def clean_sources(df):
 def merge_idents(df, idents):
     """Apply existing person reference identifications to dataset of sources.
     """
-    if not idents.empty:
-        df = df.merge(idents, how='left',
-                      on=['source', 'league.year', 'league.name',
-                          'person.ref',
-                          'person.name.last', 'person.name.given',
-                          'S_STINT', 'entry.name'])
-    else:
-        df['ident'] = None
     return (
-        df.reindex(columns=[
-            'source', 'league.year', 'league.name', 'ident', 'person.ref',
+        df.merge(idents, how='left',
+                 on=['source', 'league.year', 'league.name',
+                     'person.ref',
+                     'person.name.last', 'person.name.given',
+                     'S_STINT', 'entry.name'])
+        .reindex(columns=[
+            'source', 'league.year', 'league.name', 'person.ref',
             'person.name.last', 'person.name.given',
-            'S_STINT', 'entry.name', 'span', 'pos'
+            'S_STINT', 'entry.name', 'span', 'pos', 'ident'
         ])
         .drop_duplicates()
         .sort_values(['league.year', 'league.name',
@@ -114,19 +119,12 @@ def load_idents(df, path):
     """
     print("Writing ident files...")
     for ((year, league), data) in df.groupby(['league.year', 'league.name']):
-        # We only generate ident files for leagues where we have
-        # either an averages compilation or boxscore data
-        sample = data[data['source'].str.startswith('retrosheet/') |
-                      data['source'].str.startswith('minoraverages/') |
-                      data['source'].str.startswith('boxscores/')]
-        if sample.empty:
-            continue
         print(year, league)
         (path / year).mkdir(exist_ok=True)
         filepath = (path / year /
                     ("%s%s.csv" %
                      (year, league.replace(" ", "").replace("-", ""))))
-        data.to_csv(filepath, index=False, encoding='utf-8')
+        data.to_csv(filepath, index=False)
 
 
 def main():
@@ -134,6 +132,9 @@ def main():
     """
     ident_path = pathlib.Path("data/ident/people")
     idents = extract_idents(ident_path)
-    extract_sources().pipe(clean_sources) \
-                     .pipe(merge_idents, idents) \
-                     .pipe(load_idents, ident_path)
+    (
+        extract_sources()
+        .pipe(clean_sources)
+        .pipe(merge_idents, idents)
+        .pipe(load_idents, ident_path)
+    )

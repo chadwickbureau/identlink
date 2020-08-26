@@ -1,6 +1,6 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1954,Tar Heel League,,M93684,Knoke,Bob,,Marion,,
-minoraverages/emilbb,1954,Tar Heel League,,M93710,Kollar,Harold,,Shelby,,
-minoraverages/emilbb,1954,Tar Heel League,,M93707,McKeithan,Richard,,Rutherford County,,
-minoraverages/emilbb,1954,Tar Heel League,,M93692,Rich,Woody,,Rutherford County,,
-minoraverages/emilbb,1954,Tar Heel League,,M93676,Teague,Chuckie,,Hickory,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1954,Tar Heel League,M93684,Knoke,Bob,,Marion,,,
+emilbb,1954,Tar Heel League,M93710,Kollar,Harold,,Shelby,,,
+emilbb,1954,Tar Heel League,M93707,McKeithan,Richard,,Rutherford County,,,
+emilbb,1954,Tar Heel League,M93692,Rich,Woody,,Rutherford County,,,
+emilbb,1954,Tar Heel League,M93676,Teague,Chuckie,,Hickory,,,

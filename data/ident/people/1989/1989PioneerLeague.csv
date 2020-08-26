@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
-minoraverages/emilbb,1989,Pioneer League,,M91944,Boyer,Cloyd,,Idaho Falls,,
-minoraverages/emilbb,1989,Pioneer League,,M91891,Keller,Dave,,Billings,,
-minoraverages/emilbb,1989,Pioneer League,,M91931,McCue,Deron,,Pocatello,,
-minoraverages/emilbb,1989,Pioneer League,,M91928,Moss,Barry,,Salt Lake City,,
-minoraverages/emilbb,1989,Pioneer League,,M91888,Rhodes,Dusty,,Helena,,
-minoraverages/emilbb,1989,Pioneer League,,M91875,Vavra,Joe,,Great Falls,,
-minoraverages/emilbb,1989,Pioneer League,,M91902,Wheeler,"Ralph ""Rocket""",,Medicine Hat,,
-minoraverages/emilbb,1989,Pioneer League,,M91915,Wills,Bump,,Butte,,
+source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
+emilbb,1989,Pioneer League,M91944,Boyer,Cloyd,,Idaho Falls,,,
+emilbb,1989,Pioneer League,M91891,Keller,Dave,,Billings,,,
+emilbb,1989,Pioneer League,M91931,McCue,Deron,,Pocatello,,,
+emilbb,1989,Pioneer League,M91928,Moss,Barry,,Salt Lake City,,,
+emilbb,1989,Pioneer League,M91888,Rhodes,Dusty,,Helena,,,
+emilbb,1989,Pioneer League,M91875,Vavra,Joe,,Great Falls,,,
+emilbb,1989,Pioneer League,M91902,Wheeler,"Ralph ""Rocket""",,Medicine Hat,,,
+emilbb,1989,Pioneer League,M91915,Wills,Bump,,Butte,,,
