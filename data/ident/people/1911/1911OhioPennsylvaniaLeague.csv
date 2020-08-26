@@ -1,12 +1,8 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,ohlstrom,P7947376,Ahlstrom,,,Canton,19110501,19110501,1,1,p1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,ainsworth,P9261263,Ainsworth,,,Youngstown,19110515,19110518,2,2,p2
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,ainsworth,B00609,Ainsworth,,0,Youngstown,,,56,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,ainsworth,F21264,Ainsworth,,0,Youngstown,,,,,rf15
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,ainsworth,F21553,Ainsworth,,0,Youngstown,,,,,p28
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,ainsworth,P10043,Ainsworth,,0,Youngstown,,,,28,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,ohlstrom,P0780343,Ashstrom,,,Canton,19110506,19110506,1,1,p1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,barrett,P9708061,Barrett,,,New Castle,19110427,19110518,20,0,"1b19,2b1"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,barrett,B00783,Barrett,J.,0,Steubenville,,,109,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,barrett,F20131,Barrett,J.,1,New Castle,,,,,1b
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,barrett,F20131,Barrett,J.,2,Mansfield,,,,,1b
@@ -20,9 +16,7 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,barrett,F21308,Barrett,J.,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,barrett,F21308,Barrett,J.,2,Sharon,,,,,rf
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,barrett,F21308,Barrett,J.,3,Steubenville,,,,,rf
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,barrett,F21308,Barrett,J.,T,,,,,,rf18
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,bartholomew,P2447344,Bartholomew,,,East Liverpool,19110428,19110428,1,1,p1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,bartholomew,P10746,Bartholomew,,0,East Liverpool,,,,1,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,baxter,P8003471,Baxter,,,New Castle,19110517,19110518,2,0,ss2
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,baxter,B00544,Baxter,,0,Sharon,,,26,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,baxter,F20211,Baxter,,1,New Castle,,,,,2b
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,baxter,F20211,Baxter,,2,Sharon,,,,,2b
@@ -30,17 +24,9 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,baxter,F20211,Baxter,,T,,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,baxter,F20700,Baxter,,1,New Castle,,,,,ss
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,baxter,F20700,Baxter,,2,Sharon,,,,,ss
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,baxter,F20700,Baxter,,T,,,,,,ss11
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,becker,P5195548,Becker,,,Youngstown,19110428,19110510,7,0,3b5
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,becknell,P10949,Becknell,,0,East Liverpool,,,,1,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,deiters,P5484707,Beiters,,,Steubenville,19110511,19110511,1,0,3b1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dell,P2152907,Bell,,,East Liverpool,19110504,19110514,2,0,"of2,lf2"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,bencenbau,P11051,Bencenbau,,0,Mansfield,,,,2,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,best,P3868791,Best,,,New Castle,19110428,19110507,8,0,ss8
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,bevan,P4940258,Bevan,,,Mansfield,19110427,19110514,10,0,"2b3,3b5,ss2"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,bevan,B01055,Bevan,,0,Mansfield,,,12,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,bevan,P8819946,Bevin,,,Mansfield,19110510,19110510,1,0,ss1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,bierbauer,P4592298,Bierba'r,,,East Liverpool,19110512,19110512,1,0,1b1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,bierbauer,P6239197,Bierbauer,,,East Liverpool,19110513,19110518,6,0,1b6
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,bierbauer,B00898,Bierbauer,,0,East Liverpool,,,11,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,bierbauer,F20038,Bierbauer,,0,East Liverpool,,,,,1b11
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,biery,B00747,Biery,,0,Erie,,,66,,
@@ -48,22 +34,14 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,biery,F20023,Biery,,0,Erie
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,bisland,B00566,Bisland,,0,Youngstown,,,106,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,bisland,F20449,Bisland,,0,Youngstown,,,,,3b78
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,bisland,F20673,Bisland,,0,Youngstown,,,,,ss12
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,blake,P7028245,Blake,,,Mansfield,19110502,19110511,9,0,3b8
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,blanchard,P11038,Blanchard,,0,Sharon,,,,1,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,blinke,P8734433,Blinke,,,East Liverpool,19110517,19110518,2,0,c2
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,blinke,B01078,Blinke,,0,East Liverpool,,,85,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,blinke,F21865,Blinke,,0,East Liverpool,,,,,c85
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,bowman,B01291,Bowman,,0,Youngstown,,,21,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,bowman,F20768,Bowman,,0,Youngstown,,,,,lf18
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,doyle,P2435577,Boyle,,,Akron,19110505,19110506,2,0,c2
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,boyle-el,P3082375,Boyle,,,East Liverpool,19110502,19110514,6,0,c3
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,brittsen,B01595,Brittsen,,0,Canton,,,10,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,brittsen,F21343,Brittsen,,0,Canton,,,,,p10
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,brittsen,P10019,Brittsen,,0,Canton,,,,10,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,brown.s,P1927890,Brown,S.,,New Castle,19110518,19110518,1,1,p1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,brown.e,P4996838,Brown,,,Akron,19110503,19110518,4,4,p4
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,brown,P7123793,Brown,,,New Castle,19110428,19110517,6,4,"p4,of1,lf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,brown.h,P9093319,Brown,H.,,New Castle,19110518,19110518,1,0,"of1,lf1"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,brown.e,B00680,Brown,E.,0,Akron,,,31,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,brown.h,B01064,Brown,H.,0,Sharon,,,21,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,brown.w,B01551,Brown,W.,0,Sharon,,,13,,
@@ -81,12 +59,9 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,burke,F20792,Burke,,1,New 
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,burke,F20792,Burke,,2,Sharon,,,,,lf
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,burke,F20792,Burke,,3,Erie,,,,,lf
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,burke,F20792,Burke,,T,,,,,,lf27
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,bush,P0480834,Bush,,,Youngstown,19110428,19110513,5,5,p5
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,bush,P10534,Bush,,0,Youngstown,,,,6,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,butts,P0099230,Butts,,,East Liverpool,19110513,19110513,1,1,p1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,butts,P10751,Butts,,0,East Liverpool,,,,1,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,byers,P10772,Byers,,0,Steubenville,,,,2,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,cage,P7574272,Cage,,,Youngstown,19110513,19110513,1,0,1b1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,callahan,B00705,Callahan,,0,Canton,,,11,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,callahan,F20962,Callahan,,0,Canton,,,,,cf11
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,camnitz,B01567,Camnitz,,0,Youngstown,,,20,,
@@ -96,38 +71,23 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,carroll,B01376,Carroll,,0,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,carroll,F21936,Carroll,,1,New Castle,,,,,c
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,carroll,F21936,Carroll,,2,Sharon,,,,,c
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,carroll,F21936,Carroll,,T,,,,,,c24
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,castle,P3181692,Cassell,,,Steubenville,19110503,19110503,1,1,p1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,castle,P4555441,Castle,,,Steubenville,19110427,19110518,17,0,"c1,of16,cf3,rf13"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,castle,B00427,Castle,,0,Steubenville,,,103,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,castle,F20981,Castle,,0,Steubenville,,,,,cf63
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,castle,F21163,Castle,,0,Steubenville,,,,,rf34
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,castle,P11023,Castle,,0,Steubenville,,,,1,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,cavanaugh,P4003154,Cav'augh,,,East Liverpool,19110504,19110514,2,0,3b2
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,cavanaugh,P9059371,Cavan'gh,,,East Liverpool,19110427,19110517,5,0,"3b4,ss1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,cavanaugh,P5786220,Cavana'gh,,,East Liverpool,19110428,19110428,1,0,ss1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,cavanaugh,P2494522,Cavanaugh,,,East Liverpool,19110429,19110518,12,0,"3b11,ss1"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,cavanaugh,B00403,Cavanaugh,,0,East Liverpool,,,110,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,cavanaugh,F20505,Cavannaugh,,0,East Liverpool,,,,,3b106
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,champion,P3914613,Champion,,,Canton,19110509,19110509,1,1,p1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,channell,B00158,Channell,,0,Mansfield,,,78,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,channell,F20970,Channell,,0,Mansfield,,,,,cf71
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,sheesley,P1816450,Cheesley,,,Youngstown,19110509,19110509,1,1,p1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,clark,P0827331,Clark,,,Mansfield,19110429,19110504,2,2,p2
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,clark.e,P5437462,Clark,E.,,Mansfield,19110517,19110517,1,1,p1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,clark.h,P6617913,Clark,H.,,Mansfield,19110518,19110518,1,1,p1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,clark.e,B00638,Clark,E.,0,Mansfield,,,10,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,clark.h,B01453,Clark,H. D.,0,Mansfield,,,31,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,clark.h,F21434,Clark,H.,0,Mansfield,,,,,p29
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,clark.h,P10244,Clark,H.,0,Mansfield,,,,29,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,clark.e,P10527,Clark,E.,0,Mansfield,,,,6,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,clark,P0341512,Clarke,,,Mansfield,19110427,19110512,3,2,"p2,of1,rf1"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,clarke,P10917,Clarke,,0,Canton,,,,1,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,cleary,B01181,Cleary,,0,Erie,,,31,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,cleary,F21469,Cleary,,0,Erie,,,,,p30
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,cleary,P10097,Cleary,,0,Erie,,,,29,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,clever,P0017407,Clever,,,Akron,19110427,19110505,7,0,2b7
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,clow,P0891019,Clow,,,Mansfield,19110509,19110509,1,1,p1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,collins-eri,P2686172,Collins,,,Erie,19110427,19110518,17,0,"of17,lf1,cf16"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,collins.e,B00840,Collins,E.,0,Mansfield,,,91,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,collins.r,B00854,Collins,R.,0,Mansfield,,,23,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,collins.r,F20303,Collins,R.,0,Mansfield,,,,,2b23
@@ -141,41 +101,27 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,collins.e,F21158,Collins,E
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,collins.e,F21158,Collins,E.,2,Sharon,,,,,rf
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,collins.e,F21158,Collins,E.,T,,,,,,rf13
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,cominger,P10795,Cominger,,0,Mansfield,,,,2,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,companion,P7994666,Companion,,,Canton,19110510,19110510,1,1,p1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,companion,P10569,Companion,,0,Canton,,,,2,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,conway,P6689281,Conway,,,Youngstown,19110428,19110518,14,0,"3b2,of12,lf12"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,conway,B00125,Conway,,0,Youngstown,,,118,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,conway,F20401,Conway,,0,Youngstown,,,,,3b20
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,conway,F20841,Conway,,0,Youngstown,,,,,lf95
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,cook,P10767,Cook,,0,Akron,,,,2,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,cooper,P4218718,Cooper,,,Mansfield,19110429,19110429,1,1,p1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,cooper,P10958,Cooper,,0,Mansfield,,,,1,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,fraley,F21898,Craley,,1,Steubenville,,,,,c
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,fraley,F21898,Craley,,2,Canton,,,,,c
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,fraley,F21898,Craley,,3,East Liverpool,,,,,c
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,fraley,F21898,Craley,,T,,,,,,c41
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,cristall,P3247622,Cristall,,,Erie,19110509,19110518,2,2,p2
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,cristall,P7720586,Cristell,,,Erie,19110517,19110517,1,0,"of1,lf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,croft,P8404519,Croft,,,New Castle,19110427,19110515,5,5,p5
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,croft,B01242,Croft,,0,Sharon,,,29,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,croft,F21491,Croft,,1,Youngstown,,,,,p
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,croft,F21491,Croft,,2,Steubenville,,,,,p
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,croft,F21491,Croft,,T,,,,,,p25
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,croft,P10290,Croft,,0,Sharon,,,,24,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,cross,P10826,Cross,,0,Sharon,,,,3,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,cristall,P7884298,Crystal,,,Erie,19110505,19110505,1,1,p1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,cristall,B01288,Crystal,,0,Erie,,,38,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,cristall,F21739,Crystal,,0,Erie,,,,,p27
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,cristall,P10231,Crystal,,0,Erie,,,,27,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,cullen,P1139499,Cullen,,,Erie,19110511,19110511,1,0,"of1,cf1"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,curtis,B00196,Curtis,,0,Youngstown,,,23,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,curtis,F21232,Curtis,,0,Youngstown,,,,,rf17
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dawson.f,P2298485,D'son,F.,,Canton,19110506,19110506,1,0,"of1,lf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dawson.f,P4615670,Da'son,F.,,Canton,19110505,19110505,1,0,"of1,lf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dawson.c,P8760947,Da'son,C.,,Canton,19110427,19110518,9,0,"of9,lf9"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dawson.j,P9088634,Da'son,J.,,Canton,19110427,19110518,9,0,"of9,cf9"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dailey,P2882094,Dailey,,,Mansfield,19110514,19110518,5,0,"2b2,ss3"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dailey,P9415457,Dailey,,,New Castle,19110427,19110505,3,0,"2b2,ss1"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,dailey,B00948,Dailey,J.,0,Mansfield,,,128,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,dailey,F20265,Dailey,J.,1,New Castle,,,,,2b
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,dailey,F20265,Dailey,J.,2,Mansfield,,,,,2b
@@ -183,45 +129,22 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,dailey,F20265,Dailey,J.,T,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,dailey,F20657,Dailey,J.,1,New Castle,,,,,ss
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,dailey,F20657,Dailey,J.,2,Mansfield,,,,,ss
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,dailey,F20657,Dailey,J.,T,,,,,,ss115
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dailey,P1434757,Daley,,,Mansfield,19110512,19110512,1,0,ss1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dailey,P1653336,Daley,,,New Castle,19110428,19110510,8,0,2b8
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dailey,P6471456,Daly,,,Mansfield,19110513,19110513,1,0,ss1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,daun,P7724084,Daun,,,East Liverpool,19110428,19110428,1,0,3b1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,davie,B01514,Davie,,0,Sharon,,,24,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,davie,F21667,Davie,,1,New Castle,,,,,p
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,davie,F21667,Davie,,2,Sharon,,,,,p
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,davie,F21667,Davie,,T,,,,,,p24
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,davie,P10432,Davie,,0,Sharon,,,,24,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dawson.c,P3268136,Daw'n,C.,,Canton,19110507,19110507,1,0,"of1,lf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dawson.j,P3595823,Daw'n,J.,,Canton,19110504,19110504,1,0,"of1,cf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dawson.c,P0727163,Daws'n,C.,,Canton,19110508,19110515,2,0,"of2,lf2"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dawson.j,P1054850,Daws'n,J.,,Canton,19110508,19110508,1,0,"of1,cf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dawson.c,P2281262,Dawson,Cy,,Canton,19110514,19110514,1,0,"of1,lf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dawson.f,P4912710,Dawson,F.,,Canton,19110503,19110503,1,0,"of1,lf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dawson.s,P6949843,Dawson,S.,,Canton,19110512,19110512,1,0,"of1,lf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dawson.c,P9057987,Dawson,C.,,Canton,19110502,19110516,4,0,"of4,lf4"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dawson.j,P9385674,Dawson,J.,,Canton,19110428,19110515,10,0,"of10,cf10"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,dawson.j,B00293,Dawson,J.,0,Canton,,,105,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,dawson.f,B00416,Dawson,F.,0,Canton,,,135,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,dawson.f,F20807,Dawson,F.,0,Canton,,,,,lf135
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,dawson.j,F21045,Dawson,J.,0,Canton,,,,,cf104
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,decker,P8844894,Decker,,,Youngstown,19110509,19110509,1,0,3b1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dehaney,P5225875,Dehaney,,,Steubenville,19110501,19110506,6,0,"of6,cf6"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,deiters,P2031909,Deiters,,,Steubenville,19110427,19110516,18,0,3b18
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,deiters,B00752,Deiters,,0,Steubenville,,,30,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dietz,P4183240,Deitz,,,Erie,19110427,19110518,12,0,3b12
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dell,P6290701,Dell,,,East Liverpool,19110427,19110518,17,0,"of17,lf16,rf1"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,dell,B00397,Dell,,0,East Liverpool,,,110,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,dell,F20832,Dell,,0,East Liverpool,,,,,lf103
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dietz,P7797393,Dentz,,,East Liverpool,19110429,19110429,1,0,"of1,cf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,deiters,P9450661,Dieters,,,Steubenville,19110517,19110518,2,0,3b2
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,deiters,F20496,Dieters,,0,Steubenville,,,,,3b30
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dietz,P7318088,Dietz,,,Erie,19110505,19110513,6,0,"3b5,of1,rf1"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,dietz,B00308,Dietz,,0,Erie,,,132,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,dietz,F20474,Dietz,,0,Erie,,,,,3b93
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,dietz,F20620,Dietz,,0,Erie,,,,,ss40
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dell,P7147537,Dill,,,East Liverpool,19110513,19110513,1,0,"of1,lf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,donnelly-eri,P2963245,Donnelly,,,Erie,19110427,19110518,18,0,"of18,lf1,rf17"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,donnelly-can,B00973,Donnelly,,0,Canton,,,30,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,donnelly-eri,B01010,Donnelly,,0,Erie,,,28,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,donnelly-eri,F21286,Donnelly,,0,Erie,,,,,rf28
@@ -229,36 +152,24 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,donnelly-can,F21515,Donnel
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,donnelly-can,P10062,Donnelly,,0,Canton,,,,30,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,doyle,B01313,Doyle,,0,Akron,,,11,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,doyle,P10493,Doyle,,0,Akron,,,,8,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,drmger,P5334901,Dr'm'ger,,,Canton,19110428,19110428,1,0,1b1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dye,P2189252,Due,,,Canton,19110514,19110514,1,1,p1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,duffy,P5848020,Duffy,,,Mansfield,19110427,19110515,5,5,p5
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,duffy,B01415,Duffy,,0,Erie,,,36,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,duffy,F21609,Duffy,,0,Erie,,,,,p36
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,duffy,P10304,Duffy,,0,Erie,,,,36,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dye,P9797064,Dye,,,Canton,19110427,19110517,5,5,p5
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,dye,B01572,Dye,,0,Canton,,,24,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,dye,F21752,Dye,,0,Canton,,,,,p24
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,dye,P10215,Dye,,0,Canton,,,,24,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,shovelin,P7669880,Ehevelin,,,Erie,19110504,19110504,1,0,ss1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,ernst,P4674583,Ernest,,,Canton,19110508,19110508,1,0,c1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,ernst,P8961138,Ernst,,,Canton,19110427,19110518,12,0,"c11,of1,cf1"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,ernst,B00811,Ernst,,0,Canton,,,102,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,ernst,F21822,Ernst,,0,Canton,,,,,c98
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,evans,P6014227,Evans,,,Mansfield,19110428,19110505,6,0,ss6
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,evans,P8014962,Evans,,,Steubenville,19110508,19110518,11,0,2b11
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,evans,B01234,Evans,,0,Steubenville,,,18,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,evans,F20327,Evans,,1,Mansfield,,,,,2b
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,evans,F20327,Evans,,2,Steubenville,,,,,2b
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,evans,F20327,Evans,,T,,,,,,2b11
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,fitzwater,P4534426,F'zwater,,,Youngstown,19110512,19110512,1,1,p1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,fallonca,P10516,Fallonca,,0,Mansfield,,,,8,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,farrell,P3051860,Farrell,,,East Liverpool,19110504,19110518,5,5,p5
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,farrell,B01428,Farrell,,0,Mansfield,,,31,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,farrell,F21362,Farrell,,1,East Liverpool,,,,,p
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,farrell,F21362,Farrell,,2,Mansfield,,,,,p
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,farrell,F21362,Farrell,,T,,,,,,p31
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,farrell,P10184,Farrell,,0,Mansfield,,,,31,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,faulk,P2525512,Faulk,,,Steubenville,19110506,19110517,3,3,p3
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,faulk,B00324,Faulk,,0,Steubenville,,,39,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,faulk,F21590,Faulk,,0,Steubenville,,,,,p28
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,faulk,P10320,Faulk,,0,Steubenville,,,,28,
@@ -266,130 +177,69 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,fisher,B00718,Fisher,,0,Ea
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,fisher,F20334,Fisher,,0,East Liverpool,,,,,2b10
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,fisher,F21403,Fisher,,0,East Liverpool,,,,,p18
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,fisher,P10145,Fisher,,0,East Liverpool,,,,18,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,fitzwater,P5617808,Fitzwater,,,Youngstown,19110504,19110515,4,4,p4
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,fitzwater,B00879,Fitzwater,,0,Youngstown,,,32,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,fitzwater,F21488,Fitzwater,,0,Youngstown,,,,,p32
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,fitzwater,P10253,Fitzwater,,0,Youngstown,,,,32,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,flannery,P5429044,Flannery,,,Steubenville,19110507,19110509,2,0,"of2,lf1,cf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,flood@ump,P0410665,Flood,,,#umpire,19110510,19110510,,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,flood-can,P9349978,Flood,,,Canton,19110501,19110518,2,0,3b1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,flood,B00865,Flood,,0,Mansfield,,,12,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,flood,F20298,Flood,,0,Mansfield,,,,,2b12
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,floyd,P3369508,Floyd,,,Canton,19110505,19110505,1,0,2b1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,fogarty,P3927172,Fogarty,,,Erie,19110507,19110517,4,0,"c2,1b1,of1,cf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,fogarty,P1534984,Fogerty,,,Erie,19110515,19110515,1,0,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,fohl,P4338183,Fohl,,,Akron,19110427,19110518,16,0,c16
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,fohl,P8195773,Fohl,Lee,,Akron,19110503,19110503,1,0,c1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,fohl,B00130,Fohl,,0,Akron,,,126,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,fohl,F21794,Fohl,,0,Akron,,,,,c123
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,force,P4629535,Force,,,Youngstown,19110428,19110428,1,0,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,porter,P3118555,Forter,,,New Castle,19110518,19110518,1,0,c1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,fraley,P1733304,Fraley,,,Steubenville,19110501,19110518,11,0,c8
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,fraley,B01275,Fraley,,0,East Liverpool,,,49,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,fries,P0578935,Fries,,,Akron,19110429,19110511,4,4,p4
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,fries,P10464,Fries,,0,Akron,,,,4,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,fromholtz,B01466,Fromholtz,,0,East Liverpool,,,16,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,fromholtz,F21651,Fromholtz,,0,East Liverpool,,,,,p16
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,fromholtz,P10081,Fromholtz,,0,East Liverpool,,,,16,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,greminger,P1192244,G'm'nger,,,Canton,19110429,19110429,1,0,1b1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,greminger,P8199670,G'minger,,,Canton,19110505,19110518,5,0,1b5
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,gerber,P1361041,Garber,,,Akron,19110427,19110427,1,0,ss1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,gerber,P6268309,Gerber,,,Akron,19110428,19110518,18,0,ss18
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,gerber,B00623,Gerber,,0,Akron,,,116,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,gerber,F20612,Gerber,,0,Akron,,,,,ss115
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,gilbert,P9012497,Gilbert,,,Erie,19110427,19110518,14,0,2b14
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,gilbert,B00739,Gilbert,,0,Erie,,,123,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,gilbert,F20222,Gilbert,,0,Erie,,,,,2b122
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,gillam,P10738,Gillam,,0,Akron,,,,1,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,giroux,P1943702,Giraux,,,Canton,19110503,19110516,4,0,c4
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,giroux,P5645988,Giroux,,,Canton,19110428,19110518,7,0,c5
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,giroux,B00362,Giroux,,0,Canton,,,20,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,giroux,F21920,Giroux,,0,Canton,,,,,c18
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,goes,P3245534,Goes,,,Youngstown,19110504,19110514,11,0,c11
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,goes,B00912,Goes,,0,Youngstown,,,93,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,goes,F21833,Goes,,0,Youngstown,,,,,c91
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,gorman,P3713090,Gorman,,,Akron,19110506,19110518,12,0,2b12
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,gorman,B00614,Gorman,,0,Akron,,,124,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,gorman,F20233,Gorman,,0,Akron,,,,,2b123
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,greminger,P8743076,Gr'ger,,,Canton,19110514,19110514,1,0,1b1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,graf,B00936,Graf,,0,Steubenville,,,83,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,graf,F20458,Graf,,0,Steubenville,,,,,3b83
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,graf,P2502098,Graff,,,East Liverpool,19110516,19110518,3,0,ss3
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,gray-el,P3353759,Gray,,,East Liverpool,19110427,19110518,20,0,2b20
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,gray-you,P9008035,Gray,,,Youngstown,19110427,19110512,10,0,"of10,rf10"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,gray-you,B00264,Gray,,0,Youngstown,,,11,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,gray-el,B00475,Gray,,0,East Liverpool,,,110,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,gray-el,F20190,Gray,,0,East Liverpool,,,,,2b101
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,gray-you,F21117,Gray,,0,Youngstown,,,,,rf11
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,greene,P3002859,Greene,,,Steubenville,19110428,19110429,2,0,"of2,cf1,rf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,greminger,P4674214,Greminger,,,Canton,19110427,19110512,2,0,1b2
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,greminger,B00589,Greminger,,0,Canton,,,135,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,greminger,F20014,Greminger,,0,Canton,,,,,1b135
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,greminger,P2680480,Gremmi'r,,,Canton,19110508,19110508,1,0,1b1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,greminger,P2555123,Gremminger,,,Canton,19110501,19110517,8,0,1b8
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,greminger,P1681365,Grenninger,,,Canton,19110502,19110502,1,0,1b1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,griffin,B00794,Griffin,,0,Sharon,,,19,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,greminger,P4728951,Grimminger,,,Canton,19110506,19110506,1,0,1b1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,dye,P5590411,Gye,,,Canton,19110508,19110508,1,1,p1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,humphreys-you+sha,P7726800,H'mphr's,,,Youngstown,19110503,19110508,2,0,"of2,lf1,rf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,humphries-can,P5513578,H'mphrey,,,Canton,19110501,19110501,1,0,2b1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,holmquist,P3018568,H'mquist,,,Mansfield,19110510,19110513,3,0,"2b1,of2,lf2"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,humphreys-you+sha,P7267466,H'ph'ys,,,Youngstown,19110505,19110505,1,0,"of1,lf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,humphreys-you+sha,P1792647,H'phrey,,,Youngstown,19110511,19110512,2,0,"of2,lf2,rf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,humphries-can,P4359453,H'phrey,,,Canton,19110429,19110511,2,0,2b2
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,humphries-can,P2304976,H'phreys,,,Canton,19110518,19110518,1,0,2b1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,humphreys-you+sha,P4374330,H'phreys,,,Youngstown,19110427,19110518,4,0,"of4,lf2,rf2"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,humphries-can,P5323712,H'phries,,,Canton,19110510,19110517,4,0,2b4
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,humphreys-you+sha,P6790186,H'phries,,,Youngstown,19110506,19110506,1,0,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,hirschman,P6401446,H'rshm'n,,,Erie,19110506,19110506,1,0,1b1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,hirschman,P5589745,H'schman,,,Erie,19110429,19110429,1,0,1b1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,hahn,P6026741,Hahn,,,Mansfield,19110427,19110518,14,0,"of14,cf3,rf11"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hahn,B00045,Hahn,,0,Mansfield,,,55,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hahn,F20943,Hahn,,0,Mansfield,,,,,cf44
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hahn,F21293,Hahn,,0,Mansfield,,,,,rf11
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,hauger,P5424062,Hanger,,,New Castle,19110427,19110514,7,0,"of7,lf7,rf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,hooper,P2113737,Happer,,,New Castle,19110506,19110506,1,0,c1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,harrington,P10633,Harrington,,0,Sharon,,,,6,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,harrison@ump,P9379579,Harrison,,,#umpire,19110427,19110518,,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,hart,P6135704,Hart,,,New Castle,19110429,19110514,4,4,p4
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hart,B01580,Hart,,0,Akron,,,22,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hart,F21614,Hart,,1,Sharon,,,,,p
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hart,F21614,Hart,,2,Akron,,,,,p
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hart,F21614,Hart,,T,,,,,,p21
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hart,P10266,Hart,,0,Akron,,,,21,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,hartwell,P6931059,Hartwell,,,Youngstown,19110514,19110518,5,0,2b5
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hartwell,B00241,Hartwell,,0,Youngstown,,,58,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hartwell,F20388,Hartwell,,0,Youngstown,,,,,2b57
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,hauger,P9228261,Hauger,,,New Castle,19110428,19110516,11,0,"of11,lf11"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hauger,B01143,Hauger,,0,Sharon,,,21,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hauger,F20737,Hauger,,1,New Castle,,,,,lf
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hauger,F20737,Hauger,,2,Sharon,,,,,lf
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hauger,F20737,Hauger,,T,,,,,,lf20
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,helmund,P1620157,Helmund,,,Youngstown,19110515,19110518,4,0,3b4
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,helmund,B00101,Helmund,,0,Sharon,,,61,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,helmund,F20685,Helmund,,1,Youngstown,,,,,ss
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,helmund,F20685,Helmund,,2,New Castle,,,,,ss
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,helmund,F20685,Helmund,,3,Sharon,,,,,ss
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,helmund,F20685,Helmund,,T,,,,,,ss60
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,herron,P6469763,Herron,,,#umpire,19110513,19110513,,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,hirschman,P1161694,Hershman,,,Erie,19110505,19110505,1,0,1b1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,hirschman,P9666413,Hi'chm'n,,,Erie,19110515,19110515,1,0,1b1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,higley,P10611,Higley,,0,Mansfield,,,,6,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hilley,B01086,Hilley,,0,Sharon,,,16,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hilley,F20482,Hilley,,1,New Castle,,,,,3b
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hilley,F20482,Hilley,,2,Sharon,,,,,3b
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hilley,F20482,Hilley,,T,,,,,,3b15
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,hinton,P0086873,Hinton,,,New Castle,19110427,19110516,12,0,c12
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hinton,B00961,Hinton,,0,Sharon,,,73,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hinton,F21912,Hinton,,1,New Castle,,,,,c
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hinton,F21912,Hinton,,2,Sharon,,,,,c
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hinton,F21912,Hinton,,T,,,,,,c58
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,hirschman,P3617067,Hirschm'n,,,Erie,19110511,19110512,2,0,1b2
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,hirschman,P3309733,Hirschman,,,Erie,19110427,19110514,9,0,1b9
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hirschman,B01321,Hirschman,,0,Erie,,,17,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,hirschman,F20128,Hirschman,,0,Erie,,,,,1b17
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,hirschman,P3101538,Hirshman,,,Erie,19110428,19110428,1,0,1b1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,holmquist,P7691068,Holmquist,,,Mansfield,19110503,19110518,8,4,"p4,1b1,2b1,of1,rf1"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,holmquist,B01197,Holmquist,,0,Canton,,,64,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,holmquist,F21130,Holmquist,,1,Mansfield,,,,,rf
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,holmquist,F21130,Holmquist,,2,Canton,,,,,rf
@@ -398,11 +248,7 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,holmquist,F21623,Holmquist
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,holmquist,F21623,Holmquist,,2,Canton,,,,,p
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,holmquist,F21623,Holmquist,,T,,,,,,p21
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,holmquist,P10336,Holmquits,,0,Canton,,,,21,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,hooper,P2647414,Hooper,,,New Castle,19110503,19110503,1,0,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,hooper,P3190871,Hopper,,,New Castle,19110510,19110510,1,0,c1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,horn,P10588,Horn,,0,Mansfield,,,,2,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,houser-you+sha,P0246854,Houser,,,Youngstown,19110514,19110517,2,2,p2
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,houser-ste,P2902795,Houser,,,Steubenville,19110505,19110507,3,0,2b3
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,houser-you+sha,B00833,Houser,,0,Sharon,,,38,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,houser-ste,B01216,Houser,,0,Steubenville,,,15,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,houser-ste,F20369,Houser,,0,Steubenville,,,,,2b14
@@ -410,36 +256,23 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,houser-you+sha,F21544,Hous
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,houser-you+sha,F21544,Houser,,2,Sharon,,,,,p
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,houser-you+sha,F21544,Houser,,T,,,,,,p34
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,houser-you+sha,P10192,Houser,,0,Sharon,,,,33,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,humphries-can,P6451079,Hum'rey,,,Canton,19110504,19110504,1,0,2b1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,humphreys-you+sha,P2309204,Hum'ries,,,Youngstown,19110504,19110504,1,0,"of1,lf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,humphreys-you+sha,P3297292,Humph's,,,Youngstown,19110513,19110513,1,0,"of1,rf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,humphries-can,P2943144,Humph'y,,,Canton,19110508,19110508,1,0,2b1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,humphries-can,P4070840,Humphrey,,,Canton,19110427,19110507,4,0,2b4
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,humphreys-you+sha,P9575074,Humphrey,,,Youngstown,19110509,19110515,3,0,"of3,lf1,rf3"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,humphreys-you+sha,F20893,Humphrey,A.,1,Youngstown,,,,,lf
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,humphreys-you+sha,F20893,Humphrey,A.,2,Sharon,,,,,lf
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,humphreys-you+sha,F20893,Humphrey,A.,T,,,,,,lf23
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,humphreys-you+sha,F21210,Humphrey,A.,1,Youngstown,,,,,rf
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,humphreys-you+sha,F21210,Humphrey,A.,2,Sharon,,,,,rf
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,humphreys-you+sha,F21210,Humphrey,A.,T,,,,,,rf89
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,humphreys-you+sha,P1194421,Humphreys,,,Youngstown,19110428,19110517,2,0,"of2,lf1,rf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,humphries-can,P2780747,Humphreys,,,Canton,19110502,19110503,2,0,2b2
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,humphreys-you+sha,B00207,Humphreys,,0,Sharon,,,116,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,humphreys-you+sha,P3610277,Humphries,,,Youngstown,19110507,19110516,2,0,"of2,rf2"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,humphries-can,P5799483,Humphries,,,Canton,19110506,19110515,5,0,2b5
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,humphries-can,B00695,Humphries,,0,Canton,,,135,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,humphries-can,F20206,Humphries,,0,Canton,,,,,2b134
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,humphreys-you+sha,P10871,Humphries,,0,Sharon,,,,1,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,irving,P7249741,Irving,,,Akron,19110427,19110518,19,0,"of19,rf19"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,irving,B00084,Irving,,0,Akron,,,88,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,irving,F21196,Irving,,0,Akron,,,,,rf88
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,isbell,P4789187,Isbell,,,Erie,19110517,19110518,2,0,1b2
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,isbell,B00343,Isbell,,0,Erie,,,14,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,isbell,F20177,Isbell,,0,Erie,,,,,1b13
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,jackley,B00021,Jackley,,0,Steubenville,,,44,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,jackley,F21319,Jackley,,0,Steubenville,,,,,rf15
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,jackley,F21973,Jackley,,0,Steubenville,,,,,c27
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,jackson,P2024734,Jackson,,,Steubenville,19110427,19110517,11,6,"p6,of5,rf5"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,jackson,B01170,Jackson,,0,Steubenville,,,38,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,jackson,F21241,Jackson,,0,Steubenville,,,,,rf13
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,jackson,F21502,Jackson,,0,Steubenville,,,,,p17
@@ -447,21 +280,15 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,jackson,P10441,Jackson,,0,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,jenkins,B01203,Jenkins,,0,Erie,,,33,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,jenkins,F21397,Jenkins,,0,Erie,,,,,p33
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,jenkins,P10137,Jenkins,,0,Erie,,,,31,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,johns,P2855072,Johns,,,Akron,19110504,19110511,3,0,c1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,johns,B00278,Johns,,0,Akron,,,85,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,johns,F20391,Johns,,0,Akron,,,,,3b49
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,johns,F21783,Johns,,0,Akron,,,,,c14
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,johns,P7725485,Jolins,,,Akron,19110509,19110509,1,0,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,johns,P1702621,Jones,,,Akron,19110517,19110517,1,0,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,jones,B01032,Jones,,0,East Liverpool,,,14,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,jones,F21726,Jones,,0,East Liverpool,,,,,p13
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,jones,P10312,Jones,,0,East Liverpool,,,,13,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,kanzler,B00553,Kanzler,,0,Erie,,,21,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,kanzler,F20153,Kanzler,,0,Erie,,,,,1b21
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,keiber,P3206458,Keiber,,,Erie,19110428,19110515,4,4,p4
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,keiber,P10606,Keiber,,0,Erie,,,,8,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,keller,P0645284,Kellar,,,New Castle,19110429,19110514,3,0,"of3,rf3"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,keller,P4660136,Keller,,,New Castle,19110427,19110518,17,0,"of17,lf1,rf17"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,keller,B00370,Keller,,0,Sharon,,,127,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,keller,F20287,Keller,,1,New Castle,,,,,2b
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,keller,F20287,Keller,,2,Sharon,,,,,2b
@@ -475,29 +302,16 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,keller,F20721,Keller,,T,,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,keller,F21229,Keller,,1,New Castle,,,,,rf
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,keller,F21229,Keller,,2,Sharon,,,,,rf
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,keller,F21229,Keller,,T,,,,,,rf56
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,kelly,P8203926,Kelly,,,Steubenville,19110427,19110428,2,0,"of2,rf2"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,kennedy@ump,P8069123,Kennedy,,,#umpire,19110427,19110518,,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,keiber,P2824035,Kerber,,,Erie,19110511,19110511,1,1,p1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,kessler,P3115630,Kessler,,,Steubenville,19110518,19110518,1,0,"of1,rf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,kilroy,P8260367,Kilroy,,,Steubenville,19110427,19110504,5,1,"p1,2b3,of1,cf1"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,kirley,P10709,Kirley,,0,Sharon,,,,1,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,kirsch,P0317960,Kirsch,Harry,,Akron,19110513,19110514,2,2,p2
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,kirsch,P6282370,Kirsch,,,Akron,19110427,19110510,3,3,p3
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,kirsch,B01124,Kirsch,,0,East Liverpool,,,30,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,kirsch,F21475,Kirsch,,1,Akron,,,,,p
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,kirsch,F21475,Kirsch,,2,East Liverpool,,,,,p
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,kirsch,F21475,Kirsch,,T,,,,,,p27
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,kirsch,P10202,Kirsch,,0,East Liverpool,,,,25,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,kreuger,P10679,Kreuger,,0,Steubenville,,,,6,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,kreuger,P6157852,Kruger,,,East Liverpool,19110428,19110510,3,3,p3
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,kreuger,P9543141,Kruger,,,Steubenville,19110513,19110516,2,2,p2
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,lamy,P4436649,Lamy,,,Mansfield,19110427,19110518,19,0,"ss2,of17,cf15,rf2"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,lamy,B00469,Lamy,,0,Mansfield,,,140,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,lamy,F21068,Lamy,,0,Mansfield,,,,,cf17
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,lamy,F21182,Lamy,,0,Mansfield,,,,,rf110
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,lamy,P9654488,Lanny,,,Mansfield,19110429,19110429,1,0,"of1,cf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,law,P3461548,Law,,,Erie,19110428,19110507,6,0,2b6
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,sentz,P3986201,Lentz,,,East Liverpool,19110512,19110512,1,0,"of1,cf1"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,lobe,B01509,Lobe,,0,Sharon,,,17,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,lobert,B01108,Lobert,,0,Sharon,,,41,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,lobert,F20375,Lobert,,0,Sharon,,,,,2b11
@@ -509,99 +323,58 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,lush,F20518,Lush,,0,Steube
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,lush,F21084,Lush,,0,Steubenville,,,,,cf15
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,lush,F21101,Lush,,0,Steubenville,,,,,rf19
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,lush,P11014,Lush,,0,Steubenville,,,,1,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcallister,P3868845,M'A'l'st'r,,,Akron,19110429,19110429,1,0,"of1,cf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcallister,P1648356,M'Al'ster,,,Akron,19110505,19110513,5,0,"of5,cf5"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcallister,P3751889,M'Al'ter,,,Akron,19110515,19110515,1,0,"of1,cf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcaleese,P4100559,M'Aleese,,,East Liverpool,19110429,19110515,3,0,c3
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcavoy,P6111231,M'Avoy,,,East Liverpool,19110515,19110515,1,0,ss1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcallister,P9745722,M'C'l'ter,,,Akron,19110508,19110508,1,0,"of1,cf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcallister,P9843846,M'C'lster,,,Akron,19110502,19110509,2,0,"of2,cf2"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcallister,P2669562,M'C'ster,,,Akron,19110427,19110427,1,0,"of1,cf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcallister,P0146471,M'C'ter,,,Akron,19110503,19110503,1,0,"of1,cf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcallister,P2873460,M'Cal'ter,,,Akron,19110504,19110504,1,0,"of1,cf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcginley,P4969250,M'Ginley,,,Canton,19110518,19110518,1,0,ss1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mace,P8533899,Mace,,,Steubenville,19110502,19110516,7,7,p7
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mace,B01444,Mace,,0,Steubenville,,,12,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mace,F21450,Mace,,0,Steubenville,,,,,p12
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mace,P10289,Mace,,0,Steubenville,,,,12,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mackey,B01162,Mackey,,0,Youngstown,,,17,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mackey,F21957,Mackey,,0,Youngstown,,,,,c14
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,martin,P8866145,Martin,,,Mansfield,19110427,19110506,3,2,p2
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,martin,P10839,Martin,,0,Mansfield,,,,2,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,masters,B01337,Masters,,0,Mansfield,,,17,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,masters,F21695,Masters,,0,Mansfield,,,,,p16
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,masters,P10385,Masters,,0,Mansfield,,,,16,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mauger,P7073919,Mauger,,,Akron,19110428,19110515,5,5,p5
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mauger,B00076,Mauger,,0,Akron,,,38,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mauger,F21356,Mauger,,0,Akron,,,,,p32
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mauger,P10168,Mauger,,0,Akron,,,,30,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcaleese,P1189899,McAleese,,,East Liverpool,19110427,19110516,12,0,c12
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mcaleese,B00999,McAleese,,0,East Liverpool,,,16,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mcaleese,F21948,McAleese,,0,East Liverpool,,,,,c16
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcallister,P3533326,McAllister,,,Akron,19110510,19110518,3,0,"of3,cf3"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mcallister,B00450,McAllister,,0,Akron,,,132,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mcallister,F21037,McAllister,,0,Akron,,,,,cf132
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcavoy,P2527291,McAvoy,,,East Liverpool,19110502,19110514,12,0,ss12
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mcavoy,B01431,McAvoy,,0,East Liverpool,,,14,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mcavoy,F20713,McAvoy,,0,East Liverpool,,,,,ss14
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcallister,P0361585,McCallister,,,Akron,19110428,19110514,3,0,"of3,cf3"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mccambridge,P11046,McCambridge,,0,Mansfield,,,,2,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mcconnaghey,B00255,McConnaghey,,0,Erie,,,50,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcconnaghey,P8402793,McConnaughey,,,Erie,19110427,19110517,5,5,p5
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mcconnaghey,F21577,McConnaughey,,0,Erie,,,,,p42
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mcconnaghey,P10100,McConnaughey,,0,Erie,,,,40,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcconnaghey,P4105572,McConnaughy,,,Erie,19110503,19110503,1,1,p1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mcelvey,B01368,McElvey,,0,Sharon,,,14,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mcelvey,F21672,McElvey,,1,New Castle,,,,,p
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mcelvey,F21672,McElvey,,2,Sharon,,,,,p
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mcelvey,F21672,McElvey,,T,,,,,,p11
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mcelvey,P10410,McElvey,,0,Sharon,,,,12,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcavoy,P0802879,McEvoy,,,East Liverpool,19110513,19110513,1,0,ss1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcginty,P3681329,McG'ty,,,Canton,19110514,19110514,1,0,ss1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcginley,P2320990,McGinley,,,Canton,19110515,19110517,2,0,ss2
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcginty,P4009793,McGinty,,,Canton,19110427,19110516,17,0,ss17
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mcginty,B00985,McGinty,,0,Canton,,,134,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mcginty,F20571,McGinty,,0,Canton,,,,,ss134
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mchugh,B01093,McHugh,,0,Erie,,,18,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,mchugh,F20046,McHugh,,0,Erie,,,,,1b18
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mclean,P3823292,McLean,,,East Liverpool,19110511,19110511,1,0,1b1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcnamara@ump,P2470181,McNamara,Tom,,#umpire,19110505,19110505,,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mcnamara@ump,P7779829,McNamara,,,#umpire,19110427,19110515,,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,midkiff,P7002424,Midkiff,,,Akron,19110427,19110518,19,0,3b19
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,midkiff,B00232,Midkiff,,0,Akron,,,126,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,midkiff,F20430,Midkiff,,0,Akron,,,,,3b80
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,midkiff,F21125,Midkiff,,0,Akron,,,,,rf42
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,miller-akr,P1518179,Miller,,,Akron,19110427,19110518,18,0,1b18
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,miller-akr,B00037,Miller,,0,Akron,,,131,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,miller-akr,F20051,Miller,R.,0,Akron,,,,,1b131
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,miller-ste,P10698,Miller,H.,0,Steubenville,,,,8,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,miller-man,P10883,Miller,J.,0,Mansfield,,,,1,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,miller-akr,P8986894,Miller [1b],,,Akron,19110505,19110505,1,0,1b1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,miller@lf-akr,P3175085,Miller [lf],,,Akron,19110505,19110505,1,0,"of1,lf1"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,monahan,B00887,Monahan,,0,Canton,,,17,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,monahan,F21961,Monohan,,0,Canton,,,,,c31
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,morgan,P1843693,Morgan,,,New Castle,19110504,19110517,5,4,"p4,of1,cf1"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,morgan,P10622,Morgan,,0,Sharon,,,,6,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,morris,P7635537,Morris,,,Steubenville,19110427,19110518,21,0,ss21
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,morris,B00726,Morris,,0,Steubenville,,,60,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,morris,F20316,Morris,,0,Steubenville,,,,,2b59
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,moseley,P2676846,Moseley,,,Youngstown,19110503,19110516,2,2,p2
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,moseley,B01523,Moseley,,0,Youngstown,,,38,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,moseley,F21531,Moseley,,0,Youngstown,,,,,p38
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,moseley,P10035,Moseley,,0,Youngstown,,,,38,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,moseley,P9988617,Mosely,,,Youngstown,19110427,19110512,3,3,p3
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,moyet,P0337724,Moyer,,,Youngstown,19110429,19110505,2,2,p2
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,moyer,P10687,Moyer,,0,Sharon,,,,8,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,murphy,P9145099,Murphy,,,Canton,19110427,19110518,21,0,"2b1,of20,rf20"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,murphy,B00651,Murphy,J.,0,Canton,,,106,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,murphy,F21174,Murphy,,0,Canton,,,,,rf103
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,musser,P5131717,Musser,,,Canton,19110505,19110518,4,4,p4
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,musser,B01392,Musser,,0,Canton,,,39,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,musser,F21589,Musser,,0,Canton,,,,,p39
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,musser,P10277,Musser,,0,Canton,,,,39,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mylett,P8208960,Mylet,,,Steubenville,19110427,19110427,1,0,2b1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,mylett,P2287092,Mylett,,,Steubenville,19110428,19110501,3,0,2b3
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,neild,P8142197,Neild,,,New Castle,19110428,19110517,12,0,3b12
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,neild,B00806,Neild,,0,Erie,,,131,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,neild,F20526,Neild,,1,New Castle,,,,,3b
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,neild,F20526,Neild,,2,Sharon,,,,,3b
@@ -611,17 +384,12 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,neild,F20648,Neild,,1,New 
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,neild,F20648,Neild,,2,Sharon,,,,,ss
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,neild,F20648,Neild,,3,Erie,,,,,ss
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,neild,F20648,Neild,,T,,,,,,ss31
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,neild,P9948721,Niel,,,New Castle,19110429,19110429,1,0,3b1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,neild,P7825909,Nield,,,New Castle,19110427,19110518,7,0,3b7
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,nixon,P5014709,Nixon,,,New Castle,19110427,19110518,12,0,"of12,cf12"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,nixon,B00163,Nixon,,0,Erie,,,124,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,nixon,F21021,Nixon,,1,New Castle,,,,,cf
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,nixon,F21021,Nixon,,2,Sharon,,,,,cf
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,nixon,F21021,Nixon,,3,Erie,,,,,cf
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,nixon,F21021,Nixon,,T,,,,,,cf114
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,obrien,P10714,O'Brien,,0,Mansfield,,,,1,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,oconnell-sha+ste+akr,P3430762,O'Connell,,,New Castle,19110508,19110518,10,0,"2b1,ss9"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,oconnell-can,P6729159,O'Connell,,,Canton,19110429,19110515,4,4,p4
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,oconnell-sha+ste+akr,B00822,O'Connell,,0,Akron,,,122,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,oconnell-can,B01227,O'Connell,,0,Canton,,,30,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,oconnell-sha+ste+akr,F20661,O'Connell,,1,Sharon,,,,,ss
@@ -629,7 +397,6 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,oconnell-sha+ste+akr,F2066
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,oconnell-sha+ste+akr,F20661,O'Connell,,3,Akron,,,,,ss
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,oconnell-sha+ste+akr,F20661,O'Connell,,T,,,,,,ss115
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,oconnell-can,F21381,O'Connell,R.,0,Canton,,,,,p30
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,okeefe,P0736651,O'Keefe,,,Steubenville,19110427,19110518,19,0,"of19,lf19"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,okeefe,B01029,O'Keefe,,0,Steubenville,,,25,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,okeefe,F20908,O'Keefe,,0,Steubenville,,,,,lf38
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,oleary,B00149,O'Leary,,0,Erie,,,73,,
@@ -638,18 +405,14 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,oleary,F20552,O'Leary,,0,E
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,oleary,F21840,O'Leary,,0,Erie,,,,,c48
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,oconnell-can,P10228,OConnell,,0,Canton,,,,30,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,ohlstrom,P10550,Ohlstrom,,0,Canton,,,,2,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,orris,P5553562,Orrin,,,Youngstown,19110512,19110512,1,0,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,orris,P0478367,Orris,,,Youngstown,19110514,19110518,5,0,c5
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,orris,B00092,Orris,,0,Sharon,,,81,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,orris,F21887,Orris,,1,Youngstown,,,,,c
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,orris,F21887,Orris,,2,New Castle,,,,,c
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,orris,F21887,Orris,,3,Sharon,,,,,c
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,orris,F21887,Orris,,T,,,,,,c54
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,padrone,P3265215,Padrone,,,Mansfield,19110506,19110518,13,1,"p1,ss3,of10,lf2,cf1,rf7"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,padrone,B00182,Padrone,,0,Mansfield,,,61,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,padrone,F20759,Padrone,,0,Mansfield,,,,,lf48
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,padrone,P10640,Padrone,,0,Mansfield,,,,5,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,parker,P9102395,Parker,,,Mansfield,19110427,19110518,14,0,"1b1,2b13"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,parker,B00760,Parker,,0,Mansfield,,,88,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,parker,F20279,Parker,,0,Mansfield,,,,,2b88
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,pascoe,B01477,Pascoe,,0,Sharon,,,43,,
@@ -661,10 +424,7 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,pascoe,F21638,Pascoe,,2,Sh
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,pascoe,F21638,Pascoe,,T,,,,,,p24
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,pascoe,P10348,Pascoe,,0,Sharon,,,,24,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,patton,P10429,Patten,,0,Sharon,,,,28,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,patterson@ump,P2454165,Patterson,,,#umpire,19110510,19110510,,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,patterson,P6916597,Patterson,,,Steubenville,19110501,19110518,6,6,p6
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,patterson,P10860,Patterson,,0,Steubenville,,,,9,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,patton,P4472351,Patton,,,New Castle,19110505,19110516,4,3,"p3,of1,lf1"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,patton,B01135,Patton,,0,Sharon,,,56,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,patton,F21207,Patton,,1,New Castle,,,,,rf
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,patton,F21207,Patton,,2,Sharon,,,,,rf
@@ -672,21 +432,10 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,patton,F21207,Patton,,T,,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,patton,F21718,Patton,,1,New Castle,,,,,p
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,patton,F21718,Patton,,2,Sharon,,,,,p
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,patton,F21718,Patton,,T,,,,,,p30
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,peeters@ump,P6595917,Peeters,,,#umpire,19110514,19110514,,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,peifer@ump,P8238160,Peifer,,,#umpire,19110510,19110512,,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,peiper@ump,P0882650,Peiper,,,#umpire,19110503,19110503,,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,phillips,P3240305,Phillips,,,East Liverpool,19110505,19110518,14,0,"of14,lf1,rf13"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,phillips,B00059,Phillips,,0,Youngstown,,,121,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,phillips,F21149,Phillips,,1,East Liverpool,,,,,rf
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,phillips,F21149,Phillips,,2,Youngstown,,,,,rf
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,phillips,F21149,Phillips,,T,,,,,,rf115
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,peifer@ump,P5270736,Piefer,,,#umpire,19110509,19110511,,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,peiper@ump,P7915226,Pieper,,,#umpire,19110427,19110517,,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,peiper@ump,P0980117,Piper,,,#umpire,19110507,19110518,,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,peiper@ump,P6265723,Pipfer,,,#umpire,19110506,19110506,,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,pointer,P2955281,Pointer,,,Youngstown,19110509,19110509,1,1,p1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,porter,P1130540,Porter,Steve,,New Castle,19110515,19110515,1,0,2b1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,porter,P1365285,Porter,,,New Castle,19110427,19110517,16,0,"2b8,of9,cf9"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,porter,B00515,Porter,,0,Sharon,,,83,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,porter,F20350,Porter,,1,New Castle,,,,,2b
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,porter,F20350,Porter,,2,Sharon,,,,,2b
@@ -705,65 +454,43 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,pruitt,B01538,Pruitt,,0,St
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,pruitt,F21646,Pruitt,,0,Steubenville,,,,,p10
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,pruitt,P10399,Pruitt,,0,Steubenville,,,,10,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,puttman,P10723,Puttman,,0,Mansfield,,,,1,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,quinlan,P9930189,Quinlan,,,Steubenville,19110511,19110515,5,2,"p2,of1,lf1"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,quinlan,B00667,Quinlan,,0,Steubenville,,,88,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,quinlan,F20864,Quinlan,,0,Steubenville,,,,,lf73
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,quinlan,P10852,Quinlan,,0,Steubenville,,,,5,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,raley,P8600498,Raley,,,Steubenville,19110427,19110518,21,0,1b21
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,raley,B00319,Raley,J.,0,Steubenville,,,118,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,raley,F20067,Raley,,0,Steubenville,,,,,1b119
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,rapp,P10818,Rapp,,0,Mansfield,,,,2,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,redman,P8589293,Redman,,,Mansfield,19110427,19110517,6,0,"c1,of1,lf1"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,redman,B00488,Redman,,0,Mansfield,,,97,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,redman,F20080,Redman,,0,Mansfield,,,,,1b11
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,redman,F20919,Redman,,0,Mansfield,,,,,lf35
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,redman,F21904,Redman,,0,Mansfield,,,,,c35
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,reynolds,P5143718,Reynolds,,,Mansfield,19110427,19110518,20,0,"1b19,of1,lf1"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,reynolds,B00502,Reynolds,,0,Mansfield,,,138,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,reynolds,F20115,Reynolds,,0,Mansfield,,,,,1b127
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,ritchie,F21427,Richey,,0,East Liverpool,,,,,p23
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,ritchie,P10159,Richie,,0,East Liverpool,,,,23,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,riley-ste,P1365427,Riley,Jack,,Steubenville,19110515,19110515,1,0,"of1,cf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,riley-ste,P3197882,Riley,,,Steubenville,19110508,19110518,10,0,"of10,cf10"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,riley,B01041,Riley,,0,Akron,,,47,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,riley,F21092,Riley,,0,Akron,,,,,cf26
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,riley,F21416,Riley,,0,Akron,,,,,p20
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,riley,P10070,Riley,,0,Akron,,,,21,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,hinton,P8333603,Rinton,,,New Castle,19110515,19110515,1,0,c1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,risling,B01546,Risling,,0,Sharon,,,13,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,risling,F20997,Risling,,0,Sharon,,,,,cf13
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,ritchie,P8227108,Ritchey,,,East Liverpool,19110506,19110516,4,3,"p3,1b1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,ritchie,P6844180,Ritchie,,,East Liverpool,19110502,19110502,1,1,p1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,ritchie,B01402,Ritchie,,0,East Liverpool,,,26,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,ryan,P3222560,Ryan,,,Canton,19110428,19110516,6,5,p5
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,ryan-you,P6509194,Ryan,,,Youngstown,19110427,19110503,4,0,c4
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,ryan,B00174,Ryan,,0,Canton,,,13,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,ryan,F21442,Ryan,,0,Canton,,,,,p13
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,ryan,P10357,Ryan,,0,Canton,,,,11,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,sample,B00442,Sample,,0,Youngstown,,,17,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,sample,F21854,Sample,,0,Youngstown,,,,,c16
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,sentz,P8625820,Santz,,,East Liverpool,19110427,19110427,1,0,"of1,cf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,schacht,P5345126,Schacht,,,Erie,19110428,19110429,2,1,"p1,2b1"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,schacht,P10982,Schacht,,0,Erie,,,,1,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,schlegel,P8837129,Schlagle,,,Canton,19110506,19110506,1,0,3b1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,scott,P9079845,Schott,,,Youngstown,19110506,19110506,1,0,ss1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,scott,P8721053,Scott,,,Youngstown,19110427,19110518,18,0,ss18
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,scott,B00577,Scott,,0,Youngstown,,,108,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,scott,F20560,Scott,,0,Youngstown,,,,,ss108
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,scott,P10503,Scott,W.,0,Youngstown,,,,9,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,sellers,P6733624,Sellers,,,Akron,19110427,19110518,18,0,"of18,lf16,cf2"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,sellers,B00210,Sellers,,0,Akron,,,130,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,sellers,F20784,Sellers,,0,Akron,,,,,lf127
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,sentz,P6901408,Sentz,,,East Liverpool,19110428,19110518,17,0,"of17,cf17"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,sentz,B00335,Sentz,,0,East Liverpool,,,112,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,sentz,F21013,Sentz,,0,East Liverpool,,,,,cf112
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,shanks,P4805144,Shanks,,,Youngstown,19110427,19110518,19,0,"c1,of18,cf18"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,shanks,B00381,Shanks,,0,Youngstown,,,124,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,shanks,F20935,Shanks,,0,Youngstown,,,,,cf124
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,shaughnessy,P2521255,Shaughnessy,,,Steubenville,19110429,19110429,1,1,p1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,shaughnessy,P10963,Shaughnessy,,0,Steubenville,,,,1,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,sheesley,P3182478,Sheasley,,,Youngstown,19110428,19110428,1,1,p1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,sheehan,P0772716,Sheehan,,,Youngstown,19110427,19110514,9,0,3b9
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,sheehan,B01007,Sheehan,,0,Youngstown,,,105,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,sheehan,F20539,Sheehan,,0,East Liverpool,,,,,3b11
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,sheehan,F20583,Sheehan,,1,East Liverpool,,,,,ss
@@ -771,62 +498,41 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,sheehan,F20583,Sheehan,,2,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,sheehan,F20583,Sheehan,,T,,,,,,ss90
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,sheer,B00117,Sheer,,0,Youngstown,,,54,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,sheer,F20240,Sheer,,0,Youngstown,,,,,2b54
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,sheesley,P4918802,Sheesley,,,Youngstown,19110504,19110504,1,1,p1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,sheesley,P5095192,Sheesley,,,Mansfield,19110513,19110513,1,1,p1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,sheesley,P10847,Sheesley,,0,Youngstown,,,,4,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,shelton,P1099245,Shelton,,,Youngstown,19110427,19110513,14,0,2b14
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,shelton,B01345,Shelton,,0,Youngstown,,,15,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,shelton,F20254,Shetton,,0,Youngstown,,,,,2b15
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,shovelin,B00434,Shoevlin,,0,Erie,,,49,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,shovelin,P3990032,Shovelin,,,Erie,19110427,19110518,17,0,ss17
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,shovelin,F20636,Shovelin,,0,Erie,,,,,ss49
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,silcox,P2300414,Silcox,,,East Liverpool,19110427,19110517,7,7,p7
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,silcox,P10654,Silcox,,0,East Liverpool,,,,8,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,simon,B00229,Simon,,0,Youngstown,,,11,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,sisley,P10930,Sisley,,0,Steubenville,,,,1,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,schlegel,P7809790,Slagle,,,Canton,19110427,19110517,19,0,3b19
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,schlegel,B00957,Slagle,,0,Canton,,,130,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,schlegel,F20463,Slagle,,0,Canton,,,,,3b130
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,slusser,P4631739,Slasser,,,Akron,19110502,19110502,1,1,p1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,slusser,P9168079,Slusser,,,Akron,19110429,19110517,6,6,p6
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,slusser,B01300,Slusser,,0,Akron,,,34,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,slusser,F21370,Slusser,,0,Akron,,,,,p34
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,slusser,P10056,Slusser,,0,Akron,,,,33,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,spencer,P3533285,Spencer,,,Steubenville,19110428,19110503,2,2,p2
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,spencer,P10575,Spencer,,0,Steubenville,,,,2,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,stanton@ump,P4388124,Stanton,,,#umpire,19110427,19110510,,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,stecker,P8261415,Stecker,,,Mansfield,19110428,19110516,5,5,p5
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,stecker,B01269,Stecker,,0,Mansfield,,,39,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,stecker,F21705,Stecker,,0,Mansfield,,,,,p39
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,stecker,P10373,Stecker,,0,Mansfield,,,,39,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,strood,P4919345,Strood,,,Mansfield,19110512,19110518,7,0,3b7
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,strood,B00528,Strood,,0,Mansfield,,,125,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,strood,F20417,Strood,,0,Mansfield,,,,,3b125
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,sugden,P6565455,Sugden,,,New Castle,19110428,19110517,6,0,"c4,1b1"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,sugden,B00920,Sugden,,0,Sharon,,,13,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,sullivan,P6265155,Sullivan,,,Steubenville,19110428,19110428,1,1,p1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,sullivan,P10974,Sullivan,,0,Steubenville,,,,1,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,swayne,B00531,Swayne,,0,Erie,,,112,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,swayne,F20829,Swayne,,0,Erie,,,,,lf47
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,swayne,F21000,Swayne,,0,Erie,,,,,cf23
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,swayne,F21278,Swayne,,0,Erie,,,,,rf44
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,symes,P10455,Symes,,0,Youngstown,,,,3,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,thompson-el,P5359267,T'ompson,,,East Liverpool,19110505,19110505,1,0,"of1,rf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,tate,P7361310,Tate,,,Youngstown,19110427,19110518,18,0,1b18
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,tate,B00068,Tate,,0,Youngstown,,,126,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,tate,F20095,Tate,,0,Youngstown,,,,,1b126
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,tate,P10894,Tate,,0,Youngstown,,,,1,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,tedrow,P0199059,Tedrow,,,Akron,19110502,19110517,3,3,p3
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,tedrow,P10478,Tedrow,,0,Akron,,,,3,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,texter,P3281138,Texter,,,Mansfield,19110427,19110518,19,0,c19
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,texter,B00646,Texter,,0,Mansfield,,,117,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,texter,F21806,Texter,,0,Mansfield,,,,,c109
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,thackera,P1967288,Thackera,,,Steubenville,19110427,19110517,14,0,c14
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,thackera,B00904,Thackera,,0,Steubenville,,,82,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,thackera,F21879,Thackera,,0,Steubenville,,,,,c74
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,thackera,P11009,Thackera,,0,Steubenville,,,,1,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,thompson,P1176571,Thom'son,,,East Liverpool,19110504,19110504,1,0,"of1,rf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,thoman,P3013628,Thoman,,,Steubenville,19110511,19110511,1,1,p1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,thoman,P10996,Thoman,,0,Steubenville,,,,1,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,thomas.w,B00590,Thomas,W.,0,Sharon,,,36,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,thomas.c,B01359,Thomas,C.,0,Steubenville,,,34,,
@@ -846,9 +552,6 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,thomas.b,F20924,Thomas,B.,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,thomas.c,F21335,Thomas,C.,0,Steubenville,,,,,rf12
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,thomas.c,F21680,Thomas,C.,0,Steubenville,,,,,p22
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,thomas.c,P10121,Thomas,C.,0,Steubenville,,,,21,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,thompson-el,P5829596,Thomps'n,,,East Liverpool,19110427,19110427,1,0,"of1,rf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,thompson,P6165857,Thompson,,,New Castle,19110427,19110427,1,0,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,thompson-el,P7206052,Thompson,,,East Liverpool,19110428,19110503,4,0,"of4,rf4"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,thompson,B01119,Thompson,,0,Sharon,,,57,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,thompson,F20102,Thompson,,1,New Castle,,,,,1b
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,thompson,F20102,Thompson,,2,Sharon,,,,,1b
@@ -856,33 +559,19 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,thompson,F20102,Thompson,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,tideman,F21059,Tideman,,0,Erie,,,,,cf32
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,tideman,F21255,Tideman,,0,Erie,,,,,rf55
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,tims,P10901,Tims,,0,Steubenville,,,,1,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,cristall,P7810743,Tristall,,,Erie,19110513,19110513,1,1,p1
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,troy,B01489,Troy,,0,Steubenville,,,21,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,troy,F21528,Troy,,0,Steubenville,,,,,p20
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,troy,P10361,Troy,,0,Steubenville,,,,20,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,turton,P6326584,Turton,,,East Liverpool,19110427,19110429,3,0,3b3
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,tideman,B00286,Tydman,,0,Erie,,,87,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,vanwye,P10780,Van Wye,,0,Sharon,,,,3,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,warrender,P6171140,W'r'nden,,,Erie,19110428,19110428,1,0,"of1,lf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,warrender,P4974280,W'rend'r,,,Erie,19110503,19110503,1,0,"of1,lf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,warrender,P9976950,W'rren'r,,,Erie,19110507,19110507,1,0,"of1,lf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,warrender,P1756338,Wa'nd'r,,,Erie,19110506,19110506,1,0,"of1,lf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,warrender,P7515924,War'der,,,Erie,19110518,19110518,1,0,"of1,lf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,warrender,P5170754,War'nder,,,Erie,19110429,19110511,5,0,"of5,lf4,cf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,warner,P9906935,Warner,,,Erie,19110427,19110518,18,0,c18
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,warner,B00771,Warner,,0,Erie,,,84,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,warner,F21811,Warner,,0,Erie,,,,,c84
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,warrender,P5496876,Warran'r,,,Erie,19110513,19110513,1,0,"of1,lf1"
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,warrender,P7232812,Warren'n,,,Erie,19110427,19110427,1,0,"of1,lf1"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,warrender,F20189,Warrenden,,0,Erie,,,,,2b10
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,warrender,P9911378,Warrender,,,Erie,19110504,19110517,6,0,"2b1,of6,lf6"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,warrender,B00672,Warrender,,0,Erie,,,83,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,warrender,F20810,Warrender,,0,Erie,,,,,lf76
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,west-man,P4575001,West,,,Mansfield,19110427,19110516,15,0,"of15,lf15"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,west,B01156,West,,0,Erie,,,62,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,west,F20594,West,,0,Erie,,,,,ss23
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,west,F20878,West,,0,Erie,,,,,lf39
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,wiley,P2538806,Wiley,,,East Liverpool,19110502,19110502,1,0,"of1,rf1"
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,wilhelm,B00491,Wilhelm,,0,Mansfield,,,22,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,wilhelm,F21771,Wilhelm,,1,East Liverpool,,,,,p
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,wilhelm,F21771,Wilhelm,,2,Erie,,,,,p
@@ -890,17 +579,10 @@ minoraverages/1912Reach,1911,Ohio-Pennsylvania League,wilhelm,F21771,Wilhelm,,3,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,wilhelm,F21771,Wilhelm,,T,,,,,,p19
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,wilhelm,P10176,Wilhelm,,0,Mansfield,,,,19,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,wilkie,P10486,Wilkie,,0,Akron,,,,3,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,wilson,P8502280,Wilson,,,East Liverpool,19110427,19110510,12,0,1b12
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,wilson,B00013,Wilson,,0,East Liverpool,,,98,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,wilson,F20072,Wilson,,0,East Liverpool,,,,,1b98
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,eolfe,P8924467,Wolfe,,,Mansfield,19110427,19110427,1,0,ss1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,wood,P4743205,Wood,,,East Liverpool,19110509,19110512,2,2,p2
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,wood,P10591,Wood,,0,East Liverpool,,,,5,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,woods-ste,P4740577,Woods,,,Steubenville,19110503,19110503,1,1,p1
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,wood,P6165656,Woods,,,East Liverpool,19110513,19110516,2,2,p2
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,yerkes,B01490,Yerkes,,0,Steubenville,,,10,,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,yerkes,P10665,Yerkes,,0,Steubenville,,,,9,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,york@ump,P6704954,York,,,#umpire,19110511,19110518,,,
-boxscores/1911/1911-GT,1911,Ohio-Pennsylvania League,young-eri,P3625818,Young,,,Erie,19110429,19110514,4,4,p4
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,young-eri,P10542,Young,,0,Erie,,,,6,
 minoraverages/1912Reach,1911,Ohio-Pennsylvania League,young-man,P10805,Young,,0,Mansfield,,,,2,

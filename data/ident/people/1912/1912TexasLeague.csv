@@ -1,24 +1,15 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-boxscores/1912/1912-DMN,1912,Texas League,akin,P7505069,Aiken,,,Waco,19120412,19120509,12,0,3b12
-boxscores/1912/1912-DMN,1912,Texas League,akin,P5440296,Akin,,,Waco,19120414,19120508,14,0,3b14
 minoraverages/1913Reach,1912,Texas League,akin,B00207,Akin,,0,Waco,,,141,,
 minoraverages/1913Reach,1912,Texas League,akin,F20316,Akin,,0,Waco,,,,,3b140
-boxscores/1912/1912-DMN,1912,Texas League,alexander,P3763362,Alexander,,,Galveston,19120418,19120508,5,0,c5
 minoraverages/1913Reach,1912,Texas League,alexander,B01007,Alexander,,0,Galveston,,,59,,
 minoraverages/1913Reach,1912,Texas League,alexander,F21319,Alexander,,0,Galveston,,,,,c49
-boxscores/1912/1912-DMN,1912,Texas League,allen-hou,P9842743,Allen,,,Houston,19120412,19120509,14,0,"c12,of2,rf2"
 minoraverages/1913Reach,1912,Texas League,allen-sa,B00037,Allen,W.,0,San Antonio,,,13,,
 minoraverages/1913Reach,1912,Texas League,allen-hou,B00515,Allen,S.,0,Houston,,,92,,
 minoraverages/1913Reach,1912,Texas League,allen-sa,F21125,Allen,R.,0,San Antonio,,,,,rf10
 minoraverages/1913Reach,1912,Texas League,allen-hou,F21427,Allen,S.,0,Houston,,,,,c85
-boxscores/1912/1912-DMN,1912,Texas League,ansickle@ump,P0939799,Ansickle,,,#umpire,19120414,19120414,,,
-boxscores/1912/1912-DMN,1912,Texas League,armour,P5575584,Armour,,,Fort Worth,19120415,19120423,3,3,p3
-boxscores/1912/1912-DMN,1912,Texas League,ashton,P6671388,Ashton,,,Austin,19120414,19120508,7,7,p7
 minoraverages/1913Reach,1912,Texas League,ashton,B01444,Ashton,,0,Austin,,,48,,
 minoraverages/1913Reach,1912,Texas League,ashton,F21638,Ashton,,0,Austin,,,,,p37
 minoraverages/1913Reach,1912,Texas League,ashton,P10202,Ashton,,0,Austin,,,,36,p
-boxscores/1912/1912-DMN,1912,Texas League,ayres,P4702899,Ayers,,,Austin,19120412,19120422,2,2,p2
-boxscores/1912/1912-DMN,1912,Texas League,ayres,P5915347,Ayres,,,Austin,19120416,19120508,4,4,p4
 minoraverages/1913Reach,1912,Texas League,ayres,B01300,Ayres,,1,Austin,,,,,
 minoraverages/1913Reach,1912,Texas League,ayres,B01300,Ayres,,2,San Antonio,,,,,
 minoraverages/1913Reach,1912,Texas League,ayres,B01300,Ayres,,T,,,,35,,
@@ -28,49 +19,31 @@ minoraverages/1913Reach,1912,Texas League,ayres,F21646,Ayres,,T,,,,,,p34
 minoraverages/1913Reach,1912,Texas League,ayres,P10168,Ayres,,1,Austin,,,,,p
 minoraverages/1913Reach,1912,Texas League,ayres,P10168,Ayres,,2,San Antonio,,,,,p
 minoraverages/1913Reach,1912,Texas League,ayres,P10168,Ayres,,T,,,,,34,p
-boxscores/1912/1912-DMN,1912,Texas League,bader,P0563402,Bader,,,Dallas,19120412,19120508,11,11,p11
 minoraverages/1913Reach,1912,Texas League,bader,B01288,Bader,,0,Dallas,,,41,,
 minoraverages/1913Reach,1912,Texas League,bader,F21854,Bader,,0,Dallas,,,,,p41
 minoraverages/1913Reach,1912,Texas League,bader,P10192,Bader,,0,Dallas,,,,41,p
-boxscores/1912/1912-DMN,1912,Texas League,barrett,P0172217,Barrett,,,Waco,19120414,19120424,3,3,p3
-boxscores/1912/1912-DMN,1912,Texas League,beck,P3071034,Beck,,,Waco,19120412,19120422,11,0,ss11
 minoraverages/1913Reach,1912,Texas League,beck,B00427,Beck,,0,Waco,,,78,,
 minoraverages/1913Reach,1912,Texas League,beck,F20583,Beck,,0,Waco,,,,,ss70
-boxscores/1912/1912-DMN,1912,Texas League,betts,P2372616,Beets,,,San Antonio,19120505,19120505,1,0,"of1,rf1"
 minoraverages/1913Reach,1912,Texas League,besse,B01156,Besse,,0,Fort Worth,,,18,,
 minoraverages/1913Reach,1912,Texas League,besse,F20997,Besse,,0,Fort Worth,,,,,cf17
-boxscores/1912/1912-DMN,1912,Texas League,betts,P0524471,Betts,,,San Antonio,19120412,19120509,26,0,"c10,of18,rf18"
 minoraverages/1913Reach,1912,Texas League,betts,B00149,Betts,,0,San Antonio,,,141,,
 minoraverages/1913Reach,1912,Texas League,betts,F21207,Betts,,0,San Antonio,,,,,rf100
 minoraverages/1913Reach,1912,Texas League,betts,F21362,Betts,,0,San Antonio,,,,,c44
-boxscores/1912/1912-DMN,1912,Texas League,bihen,P6914795,Bihen,,,Waco,19120427,19120427,1,0,3b1
-boxscores/1912/1912-DMN,1912,Texas League,blinke,P4861209,Blanke,,,Dallas,19120417,19120417,1,0,"of1,rf1"
-boxscores/1912/1912-DMN,1912,Texas League,blinke,P4675745,Blinke,,,Dallas,19120415,19120508,9,0,"c6,of2,rf2"
 minoraverages/1913Reach,1912,Texas League,blinke,B00335,Blinke,,0,Dallas,,,36,,
 minoraverages/1913Reach,1912,Texas League,blinke,F21475,Blinke,,0,Dallas,,,,,c28
 minoraverages/1913Reach,1912,Texas League,bobo,B00434,Bobo,,0,Austin,,,38,,
 minoraverages/1913Reach,1912,Texas League,bobo,F21403,Bobo,,0,Austin,,,,,c37
-boxscores/1912/1912-DMN,1912,Texas League,bradford,P3354202,Bradford,,,Beaumont,19120419,19120430,4,4,p4
 minoraverages/1913Reach,1912,Texas League,bradley,B01368,Bradley,,0,Austin,,,16,,
 minoraverages/1913Reach,1912,Texas League,bradley,F21577,Bradley,,0,Austin,,,,,p15
 minoraverages/1913Reach,1912,Texas League,bradley,P10244,Bradley,,0,Austin,,,,15,p
-boxscores/1912/1912-DMN,1912,Texas League,brady@ump,P6058015,Brady,,,#umpire,19120412,19120509,,,
-boxscores/1912/1912-DMN,1912,Texas League,brant,P0071313,Brandt,,,Beaumont,19120427,19120508,3,3,p3
-boxscores/1912/1912-DMN,1912,Texas League,brant,P2823789,Brant,,,Beaumont,19120430,19120430,1,1,p1
 minoraverages/1913Reach,1912,Texas League,brant,B01269,Brant,,0,Beaumont,,,22,,
 minoraverages/1913Reach,1912,Texas League,brant,F21811,Brant,,0,Beaumont,,,,,p22
 minoraverages/1913Reach,1912,Texas League,brant,P10304,Brant,,0,Beaumont,,,,22,p
-boxscores/1912/1912-DMN,1912,Texas League,breitenstein,P9027237,Breiteinstin,,,San Antonio,19120414,19120414,1,0,ss1
-boxscores/1912/1912-DMN,1912,Texas League,breitenstein,P9003873,Breitenstein,,,San Antonio,19120412,19120505,15,0,"2b7,ss2,of7,cf3,rf4"
 minoraverages/1913Reach,1912,Texas League,breitenstein,B00076,Breitenstein,,0,San Antonio,,,49,,
 minoraverages/1913Reach,1912,Texas League,breitenstein,F21021,Breitenstein,,0,San Antonio,,,,,cf27
 minoraverages/1913Reach,1912,Texas League,breitenstein,F21092,Breitenstein,,0,San Antonio,,,,,rf11
-boxscores/1912/1912-DMN,1912,Texas League,breitenstein,P8707032,Bretenstein,,,San Antonio,19120503,19120503,1,0,"of1,cf1,rf1"
-boxscores/1912/1912-DMN,1912,Texas League,britton,P7002019,Britten,,,Houston,19120418,19120418,1,0,3b1
-boxscores/1912/1912-DMN,1912,Texas League,britton,P9646509,Britton,,,Houston,19120412,19120509,26,0,3b26
 minoraverages/1913Reach,1912,Texas League,britton,B00403,Britton,,0,Houston,,,143,,
 minoraverages/1913Reach,1912,Texas League,britton,F20417,Britton,,0,Houston,,,,,3b143
-boxscores/1912/1912-DMN,1912,Texas League,brown,P6590420,Brown,,,Dallas,19120415,19120424,3,3,p3
 minoraverages/1913Reach,1912,Texas League,brown,B01392,Brown,,1,Dallas,,,,,
 minoraverages/1913Reach,1912,Texas League,brown,B01392,Brown,,2,Fort Worth,,,,,
 minoraverages/1913Reach,1912,Texas League,brown,B01392,Brown,,T,,,,18,,
@@ -80,11 +53,9 @@ minoraverages/1913Reach,1912,Texas League,brown,F21936,Brown,,T,,,,,,p18
 minoraverages/1913Reach,1912,Texas League,brown,P10361,Brown,,1,Dallas,,,,,p
 minoraverages/1913Reach,1912,Texas League,brown,P10361,Brown,,2,Fort Worth,,,,,p
 minoraverages/1913Reach,1912,Texas League,brown,P10361,Brown,,T,,,,,18,p
-boxscores/1912/1912-DMN,1912,Texas League,browning,P0463003,Browning,,,San Antonio,19120412,19120507,10,9,p9
 minoraverages/1913Reach,1912,Texas League,browning,B00811,Browning,,0,San Antonio,,,46,,
 minoraverages/1913Reach,1912,Texas League,browning,F21531,Browning,,0,San Antonio,,,,,p44
 minoraverages/1913Reach,1912,Texas League,browning,P10137,Browning,,0,San Antonio,,,,43,p
-boxscores/1912/1912-DMN,1912,Texas League,brownlow,P0908041,Brownlow,,,Austin,19120412,19120509,27,0,ss27
 minoraverages/1913Reach,1912,Texas League,brownlow,B00887,Brownlow,,0,Austin,,,139,,
 minoraverages/1913Reach,1912,Texas League,brownlow,F20552,Brownlow,,0,Austin,,,,,ss81
 minoraverages/1913Reach,1912,Texas League,brownlow,F20768,Brownlow,,0,Austin,,,,,lf17
@@ -93,28 +64,19 @@ minoraverages/1913Reach,1912,Texas League,burke,B00961,Burke,,0,San Antonio,,,71
 minoraverages/1913Reach,1912,Texas League,burke,F20279,Burke,,0,San Antonio,,,,,2b19
 minoraverages/1913Reach,1912,Texas League,burke,F20908,Burke,,0,San Antonio,,,,,cf39
 minoraverages/1913Reach,1912,Texas League,burke,F21101,Burke,,0,San Antonio,,,,,rf11
-boxscores/1912/1912-DMN,1912,Texas League,carson,P4017089,Carsen,,,Waco,19120417,19120417,1,0,c1
-boxscores/1912/1912-DMN,1912,Texas League,carson,P1367803,Carson,Tom,,Waco,19120428,19120428,1,0,c1
-boxscores/1912/1912-DMN,1912,Texas League,carson,P8446859,Carson,,,Waco,19120412,19120509,22,0,c22
 minoraverages/1913Reach,1912,Texas League,carson,B00739,Carson,,0,Waco,,,121,,
 minoraverages/1913Reach,1912,Texas League,carson,F21356,Carson,,0,Waco,,,,,c119
-boxscores/1912/1912-DMN,1912,Texas League,casey,P5393387,Casey,,,Beaumont,19120424,19120509,14,0,"2b10,of4,lf1,rf3"
-boxscores/1912/1912-DMN,1912,Texas League,casey,P9415556,Casey,,,Austin,19120421,19120421,1,0,
 minoraverages/1913Reach,1912,Texas League,casey,B00783,Casey,,1,Austin,,,,,
 minoraverages/1913Reach,1912,Texas League,casey,B00783,Casey,,2,Beaumont,,,,,
 minoraverages/1913Reach,1912,Texas League,casey,B00783,Casey,,T,,,,128,,
 minoraverages/1913Reach,1912,Texas League,casey,F20166,Casey,,1,Austin,,,,,2b
 minoraverages/1913Reach,1912,Texas League,casey,F20166,Casey,,2,Beaumont,,,,,2b
 minoraverages/1913Reach,1912,Texas League,casey,F20166,Casey,,T,,,,,,2b122
-boxscores/1912/1912-DMN,1912,Texas League,cavender,P0866100,Cavender,,,Dallas,19120412,19120428,2,0,
 minoraverages/1913Reach,1912,Texas League,cavender,B00920,Cavender,,0,Dallas,,,18,,
 minoraverages/emilbb,1912,Texas League,,M91065,Cavender,Dred,,Dallas,,,,,
 minoraverages/1913Reach,1912,Texas League,crichlow,F20737,Chichlow,,0,Waco,,,,,lf66
-boxscores/1912/1912-DMN,1912,Texas League,clark-aus,P2220476,Clark,,,Austin,19120413,19120509,7,7,p7
 minoraverages/1913Reach,1912,Texas League,clark,B00255,Clark,J.,0,San Antonio,,,79,,
 minoraverages/1913Reach,1912,Texas League,clark,F20657,Clark,J.,0,San Antonio,,,,,lf79
-boxscores/1912/1912-DMN,1912,Texas League,clark-aus,P0995489,Clarke,,,Austin,19120425,19120425,1,1,p1
-boxscores/1912/1912-DMN,1912,Texas League,clemens,P0570165,Clemens,,,Galveston,19120412,19120509,19,0,"2b1,3b18"
 minoraverages/1913Reach,1912,Texas League,clemens,B00854,Clemens,,1,Galveston,,,,,
 minoraverages/1913Reach,1912,Texas League,clemens,B00854,Clemens,,2,Dallas,,,,,
 minoraverages/1913Reach,1912,Texas League,clemens,B00854,Clemens,,T,,,,111,,
@@ -124,30 +86,19 @@ minoraverages/1913Reach,1912,Texas League,clemens,F20401,Clemens,,T,,,,,,3b66
 minoraverages/1913Reach,1912,Texas League,clemens,F20810,Clemens,,1,Galveston,,,,,cf
 minoraverages/1913Reach,1912,Texas League,clemens,F20810,Clemens,,2,Dallas,,,,,cf
 minoraverages/1913Reach,1912,Texas League,clemens,F20810,Clemens,,T,,,,,,cf35
-boxscores/1912/1912-DMN,1912,Texas League,clemens,P4593417,Clements,,,Galveston,19120420,19120503,7,0,3b7
-boxscores/1912/1912-DMN,1912,Texas League,collins,P4358345,Collins,,,San Antonio,19120412,19120428,10,0,"of10,cf8,rf2"
 minoraverages/1913Reach,1912,Texas League,collins,B01216,Collins,,0,San Antonio,,,10,,
-boxscores/1912/1912-DMN,1912,Texas League,cooke-bea,P0484068,Cook,T.,,Beaumont,19120509,19120509,1,0,1b1
-boxscores/1912/1912-DMN,1912,Texas League,cook-aus,P6874555,Cook,,,Austin,19120412,19120508,25,0,"of25,cf25"
-boxscores/1912/1912-DMN,1912,Texas League,cooke-bea,P8243298,Cook,,,Beaumont,19120412,19120508,23,0,1b23
-boxscores/1912/1912-DMN,1912,Texas League,cook-aus,P9381557,Cook,L.,,Austin,19120509,19120509,1,0,"of1,cf1"
 minoraverages/1913Reach,1912,Texas League,cook-aus,F21045,Cook,L.,0,Austin,,,,,cf54
 minoraverages/1913Reach,1912,Texas League,cook-aus,F21196,Cook,L.,0,Austin,,,,,rf22
 minoraverages/1913Reach,1912,Texas League,cooke-bea,B00651,Cooke,T.,0,Beaumont,,,145,,
 minoraverages/1913Reach,1912,Texas League,cook-aus,B00667,Cooke,L.,0,Austin,,,88,,
 minoraverages/1913Reach,1912,Texas League,cooke-bea,F20115,Cooke,T.,0,Beaumont,,,,,1b145
-boxscores/1912/1912-DMN,1912,Texas League,cooper,P1072722,Cooper,,,Fort Worth,19120412,19120509,27,0,"of27,lf7,rf20"
 minoraverages/1913Reach,1912,Texas League,cooper,B00293,Cooper,,0,Fort Worth,,,142,,
 minoraverages/1913Reach,1912,Texas League,cooper,F21210,Cooper,,0,Fort Worth,,,,,rf135
-boxscores/1912/1912-DMN,1912,Texas League,corbett,P1217589,Corbet,,,Beaumont,19120412,19120412,1,1,p1
-boxscores/1912/1912-DMN,1912,Texas League,corbett,P6695785,Corbett,,,Beaumont,19120419,19120503,6,4,p4
 minoraverages/1913Reach,1912,Texas League,corbett,B01384,Corbett,,0,Beaumont,,,38,,
 minoraverages/1913Reach,1912,Texas League,corbett,F21948,Corbett,,0,Beaumont,,,,,p30
 minoraverages/1913Reach,1912,Texas League,corbett,P10320,Corbett,,0,Beaumont,,,,30,p
-boxscores/1912/1912-DMN,1912,Texas League,cowan,P3569006,Cowan,,,Beaumont,19120412,19120508,22,0,"3b20,of1,lf1"
 minoraverages/1913Reach,1912,Texas League,cowan,B01093,Cowan,,0,Beaumont,,,45,,
 minoraverages/1913Reach,1912,Texas League,cowan,F20303,Cowan,,0,Beaumont,,,,,3b32
-boxscores/1912/1912-DMN,1912,Texas League,crable,P1635989,Crabble,,,Fort Worth,19120502,19120506,3,3,p3
 minoraverages/1913Reach,1912,Texas League,crable,B01234,Crable,,1,Fort Worth,,,,,
 minoraverages/1913Reach,1912,Texas League,crable,B01234,Crable,,2,San Antonio,,,,,
 minoraverages/1913Reach,1912,Texas League,crable,B01234,Crable,,T,,,,30,,
@@ -157,31 +108,21 @@ minoraverages/1913Reach,1912,Texas League,crable,F21833,Crable,,T,,,,,,p29
 minoraverages/1913Reach,1912,Texas League,crable,P10348,Crable,,1,Fort Worth,,,,,p
 minoraverages/1913Reach,1912,Texas League,crable,P10348,Crable,,2,San Antonio,,,,,p
 minoraverages/1913Reach,1912,Texas League,crable,P10348,Crable,,T,,,,,28,p
-boxscores/1912/1912-DMN,1912,Texas League,crichlow,P3209408,Crichlow,,,Waco,19120412,19120509,19,0,"1b1,of18,lf17,rf1"
 minoraverages/1913Reach,1912,Texas League,crichlow,B00590,Crichlow,,0,Waco,,,134,,
 minoraverages/1913Reach,1912,Texas League,crichlow,F20878,Crichlow,,0,Waco,,,,,cf63
 minoraverages/1913Reach,1912,Texas League,criss,B00174,Criss,,0,Houston,,,22,,
 minoraverages/1913Reach,1912,Texas League,criss,F21076,Criss,,0,Houston,,,,,rf22
-boxscores/1912/1912-DMN,1912,Texas League,crichlow,P0678996,Critchlow,,,Waco,19120424,19120427,3,0,"of3,lf3"
-boxscores/1912/1912-DMN,1912,Texas League,dail,P7861104,Dail,,,Beaumont,19120412,19120509,23,0,"of23,lf7,rf16"
 minoraverages/1913Reach,1912,Texas League,dail,B00623,Dail,,0,Beaumont,,,143,,
 minoraverages/1913Reach,1912,Texas League,dail,F20648,Dail,,0,Beaumont,,,,,lf64
 minoraverages/1913Reach,1912,Texas League,dail,F21255,Dail,,0,Beaumont,,,,,rf71
-boxscores/1912/1912-DMN,1912,Texas League,dail,P9041555,Dall,,,Beaumont,19120422,19120422,1,0,"of1,lf1"
-boxscores/1912/1912-DMN,1912,Texas League,daringer,P8787329,Daringer,,,San Antonio,19120412,19120508,16,0,"2b10,ss6"
 minoraverages/1913Reach,1912,Texas League,daringer,B00865,Daringer,,1,San Antonio,,,,,
 minoraverages/1913Reach,1912,Texas League,daringer,B00865,Daringer,,2,Fort Worth,,,,,
 minoraverages/1913Reach,1912,Texas League,daringer,B00865,Daringer,,T,,,,125,,
 minoraverages/1913Reach,1912,Texas League,daringer,F20222,Daringer,,0,Fort Worth,,,,,2b115
-boxscores/1912/1912-DMN,1912,Texas League,davis,P2855042,Davis,,,Houston,19120412,19120509,27,0,"1b1,of27,cf21,rf7"
 minoraverages/1913Reach,1912,Texas League,davis,B00241,Davis,,0,Houston,,,142,,
 minoraverages/1913Reach,1912,Texas League,davis,F20981,Davis,,0,Houston,,,,,cf135
-boxscores/1912/1912-DMN,1912,Texas League,dawson,P1990018,Dawson,,,Beaumont,19120412,19120509,24,0,c23
 minoraverages/1913Reach,1912,Texas League,dawson,B00362,Dawson,H.,0,Beaumont,,,97,,
 minoraverages/1913Reach,1912,Texas League,dawson,F21343,Dawson,H.,0,Beaumont,,,,,c88
-boxscores/1912/1912-DMN,1912,Texas League,deardorff,P8721207,Deardorff,,,Fort Worth,19120414,19120414,1,1,p1
-boxscores/1912/1912-DMN,1912,Texas League,dischner,P5554682,Dischner,,,Fort Worth,19120421,19120429,4,4,p4
-boxscores/1912/1912-DMN,1912,Texas League,dodd,P8994281,Dodd,,,Galveston,19120418,19120426,7,1,"p1,1b1,2b5"
 minoraverages/1913Reach,1912,Texas League,dodd,B01242,Dodd,,1,Houston,,,,,
 minoraverages/1913Reach,1912,Texas League,dodd,B01242,Dodd,,2,Galveston,,,,,
 minoraverages/1913Reach,1912,Texas League,dodd,B01242,Dodd,,T,,,,87,,
@@ -197,76 +138,51 @@ minoraverages/1913Reach,1912,Texas League,dodd,F20425,Dodd,,T,,,,,,3b24
 minoraverages/1913Reach,1912,Texas League,dodd,F20604,Dodd,,1,Houston,,,,,ss
 minoraverages/1913Reach,1912,Texas League,dodd,F20604,Dodd,,2,Galveston,,,,,ss
 minoraverages/1913Reach,1912,Texas League,dodd,F20604,Dodd,,T,,,,,,ss12
-boxscores/1912/1912-DMN,1912,Texas League,downey-sa,P5025643,Downey,,,San Antonio,19120424,19120424,1,1,p1
-boxscores/1912/1912-DMN,1912,Texas League,downey,P5339365,Downey,,,Austin,19120412,19120509,26,1,"p1,of26,cf1,rf26"
-boxscores/1912/1912-DMN,1912,Texas League,downey,P9170080,Downey,Red,,Austin,19120428,19120428,1,0,"of1,rf1"
 minoraverages/1913Reach,1912,Texas League,downey,B00232,Downey,A.,0,Austin,,,145,,
 minoraverages/1913Reach,1912,Texas League,downey,F20128,Downey,A.,0,Austin,,,,,1b25
 minoraverages/1913Reach,1912,Texas League,downey,F21068,Downey,A.,0,Austin,,,,,cf21
 minoraverages/1913Reach,1912,Texas League,downey,F21182,Downey,A.,0,Austin,,,,,rf101
 minoraverages/emilbb,1912,Texas League,,M91079,Downey,"Alex ""Red""",,Austin,,,,,
-boxscores/1912/1912-DMN,1912,Texas League,dugey,P7796547,Dugey,,,Waco,19120412,19120509,27,0,"2b25,3b2"
 minoraverages/1913Reach,1912,Texas League,dugey,B00416,Dugey,,0,Waco,,,145,,
 minoraverages/1913Reach,1912,Texas League,dugey,F20211,Dugey,,0,Waco,,,,,2b143
-boxscores/1912/1912-DMN,1912,Texas League,duncan,P2817605,Duncan,,,Dallas,19120422,19120509,19,0,"of19,cf2,rf18"
 minoraverages/1913Reach,1912,Texas League,duncan,B00286,Duncan,,0,Dallas,,,135,,
 minoraverages/1913Reach,1912,Texas League,duncan,F21149,Duncan,,0,Dallas,,,,,rf128
-boxscores/1912/1912-DMN,1912,Texas League,edmiston,P8818803,Edminson,,,Beaumont,19120509,19120509,1,0,ss1
-boxscores/1912/1912-DMN,1912,Texas League,edmiston,P4600775,Edminston,,,Beaumont,19120417,19120417,1,0,ss1
-boxscores/1912/1912-DMN,1912,Texas League,edmiston,P4322329,Edmiston,,,Beaumont,19120412,19120508,22,0,ss22
 minoraverages/1913Reach,1912,Texas League,edmiston,B00999,Edmiston,,0,Beaumont,,,142,,
 minoraverages/1913Reach,1912,Texas League,edmiston,F20505,Edmiston,,0,Beaumont,,,,,ss141
-boxscores/1912/1912-DMN,1912,Texas League,edmondson,P8280178,Edmondson,,,Houston,19120428,19120428,1,1,p1
 minoraverages/1913Reach,1912,Texas League,edmondson,B00973,Edmondson,,0,Houston,,,32,,
 minoraverages/1913Reach,1912,Texas League,edmondson,F21589,Edmondson,,0,Houston,,,,,p31
 minoraverages/1913Reach,1912,Texas League,edmondson,P10043,Edmondson,,0,Houston,,,,31,p
-boxscores/1912/1912-DMN,1912,Texas League,edmondson,P2015352,Edmundson,,,Houston,19120412,19120507,6,6,p6
-boxscores/1912/1912-DMN,1912,Texas League,ens,P4252754,Ens,,,Dallas,19120412,19120509,29,0,"2b28,3b1"
 minoraverages/1913Reach,1912,Texas League,ens,B00264,Ens,,0,Dallas,,,142,,
 minoraverages/1913Reach,1912,Texas League,ens,F20233,Ens,,0,Dallas,,,,,2b141
-boxscores/1912/1912-DMN,1912,Texas League,evans,P0223913,Evans,,,Dallas,19120414,19120509,12,8,p8
 minoraverages/1913Reach,1912,Texas League,evans,B00879,Evans,,0,Dallas,,,57,,
 minoraverages/1913Reach,1912,Texas League,evans,F21760,Evans,,0,Dallas,,,,,p40
 minoraverages/1913Reach,1912,Texas League,evans,P10100,Evans,,0,Dallas,,,,40,p
-boxscores/1912/1912-DMN,1912,Texas League,frierson,P9246976,Fierson,,,Fort Worth,19120415,19120415,1,0,
-boxscores/1912/1912-DMN,1912,Texas League,fillman,P4695735,Filliman,,,Houston,19120418,19120418,1,0,2b1
-boxscores/1912/1912-DMN,1912,Texas League,fillman,P8059022,Fillman,,,Houston,19120412,19120509,26,0,"2b25,of1,cf1"
 minoraverages/1913Reach,1912,Texas League,fillman,B00502,Fillman,,0,Houston,,,118,,
 minoraverages/1913Reach,1912,Texas League,fillman,F20206,Fillman,,0,Houston,,,,,2b117
 minoraverages/emilbb,1912,Texas League,,M91022,Fillman,John,,Houston,,,,,
-boxscores/1912/1912-DMN,1912,Texas League,forsythe,P5381376,Forsythe,,,Dallas,19120412,19120509,29,0,"1b18,of11,lf11"
 minoraverages/1913Reach,1912,Texas League,forsythe,B00021,Forsythe,,0,Dallas,,,142,,
 minoraverages/1913Reach,1912,Texas League,forsythe,F20102,Forsythe,,0,Dallas,,,,,1b132
 minoraverages/1913Reach,1912,Texas League,forsythe,F20807,Forsythe,,0,Dallas,,,,,lf10
-boxscores/1912/1912-DMN,1912,Texas League,foster,P4862942,Foster,,,Houston,19120414,19120509,7,7,p7
 minoraverages/1913Reach,1912,Texas League,foster,B00319,Foster,,0,Houston,,,43,,
 minoraverages/1913Reach,1912,Texas League,foster,F21609,Foster,,0,Houston,,,,,p39
 minoraverages/1913Reach,1912,Texas League,foster,P10024,Foster,,0,Houston,,,,39,p
 minoraverages/1913Reach,1912,Texas League,franklin,B01181,Franklin,,0,Dallas,,,14,,
 minoraverages/1913Reach,1912,Texas League,franklin,F20864,Franklin,,0,Dallas,,,,,cf12
-boxscores/1912/1912-DMN,1912,Texas League,frierson,P0886290,Frierson,,,Fort Worth,19120414,19120509,22,0,"of18,lf16,rf2"
 minoraverages/1913Reach,1912,Texas League,frierson,B00397,Frierson,,0,Fort Worth,,,108,,
 minoraverages/1913Reach,1912,Texas League,frierson,F20759,Frierson,,0,Fort Worth,,,,,lf97
-boxscores/1912/1912-DMN,1912,Texas League,gibson,P3645934,Gibson,,,Dallas,19120412,19120509,27,0,"c24,of1,cf1"
 minoraverages/1913Reach,1912,Texas League,gibson,B00898,Gibson,,0,Dallas,,,125,,
 minoraverages/1913Reach,1912,Texas League,gibson,F21370,Gibson,,0,Dallas,,,,,c113
-boxscores/1912/1912-DMN,1912,Texas League,gilvin,P4946739,Gilvin,,,Fort Worth,19120415,19120422,2,2,p2
-boxscores/1912/1912-DMN,1912,Texas League,goodwin,P6612492,Goodwin,,,San Antonio,19120412,19120508,13,7,"p7,of4,rf4"
 minoraverages/1913Reach,1912,Texas League,goodwin,B00125,Goodwin,,0,San Antonio,,,69,,
 minoraverages/1913Reach,1912,Texas League,goodwin,F21158,Goodwin,,0,San Antonio,,,,,rf19
 minoraverages/1913Reach,1912,Texas League,goodwin,F21752,Goodwin,,0,San Antonio,,,,,p34
 minoraverages/1913Reach,1912,Texas League,goodwin,P10062,Goodwin,,0,San Antonio,,,,34,p
-boxscores/1912/1912-DMN,1912,Texas League,gordon,P1678103,Gordon,,,Galveston,19120414,19120509,6,6,p6
 minoraverages/1913Reach,1912,Texas League,green,B01064,Green,,0,Dallas,,,13,,
 minoraverages/1913Reach,1912,Texas League,green,F21879,Green,,0,Dallas,,,,,p13
 minoraverages/1913Reach,1912,Texas League,green,P10019,Green,H.,0,Dallas,,,,13,p
-boxscores/1912/1912-DMN,1912,Texas League,haislip,P6686959,Haislip,,,Waco,19120422,19120422,1,1,p1
 minoraverages/1913Reach,1912,Texas League,harben,B01078,Harben,,0,Galveston,,,33,,
 minoraverages/1913Reach,1912,Texas League,harben,F21705,Harben,,0,Galveston,,,,,p23
 minoraverages/1913Reach,1912,Texas League,harben,P10407,Harben,,0,Galveston,,,,23,p
 minoraverages/emilbb,1912,Texas League,,M91054,Hardy,Ellis,,Waco,,,,,
-boxscores/1912/1912-DMN,1912,Texas League,harkins,P9605702,Harkins,,,Beaumont,19120412,19120422,3,3,p3
-boxscores/1912/1912-DMN,1912,Texas League,helm,P3868308,Helm,,,Galveston,19120414,19120509,6,6,p6
 minoraverages/1913Reach,1912,Texas League,helm,B01055,Helm,,1,Galveston,,,,,
 minoraverages/1913Reach,1912,Texas League,helm,B01055,Helm,,2,Houston,,,,,
 minoraverages/1913Reach,1912,Texas League,helm,B01055,Helm,,T,,,,32,,
@@ -276,16 +192,12 @@ minoraverages/1913Reach,1912,Texas League,helm,F21904,Helm,,T,,,,,,p32
 minoraverages/1913Reach,1912,Texas League,helm,P10455,Helm,,1,Galveston,,,,,p
 minoraverages/1913Reach,1912,Texas League,helm,P10455,Helm,,2,Houston,,,,,p
 minoraverages/1913Reach,1912,Texas League,helm,P10455,Helm,,T,,,,,32,p
-boxscores/1912/1912-DMN,1912,Texas League,henninger,P4283949,Henninger,,,Austin,19120428,19120428,1,0,c1
-boxscores/1912/1912-DMN,1912,Texas League,henricksen,P4862456,Henricksen,,,Galveston,19120415,19120508,2,2,p2
-boxscores/1912/1912-DMN,1912,Texas League,henry,P6044700,Henry,,,Beaumont,19120412,19120413,2,0,"of2,lf2"
 minoraverages/1913Reach,1912,Texas League,herbert,B00672,Herbert,,0,Austin,,,41,,
 minoraverages/1913Reach,1912,Texas League,herbert,F20970,Herbert,,0,Austin,,,,,cf16
 minoraverages/1913Reach,1912,Texas League,herbert,F21747,Herbert,,0,Austin,,,,,p10
 minoraverages/1913Reach,1912,Texas League,herbert,P10399,Herbert,,0,Austin,,,,10,p
 minoraverages/1913Reach,1912,Texas League,hewitt,B01376,Hewitt,,0,Fort Worth,,,23,,
 minoraverages/1913Reach,1912,Texas League,hewitt,F20342,Hewitt,,0,Fort Worth,,,,,3b23
-boxscores/1912/1912-DMN,1912,Texas League,hiett,P5335176,Hiett,,,Fort Worth,19120412,19120429,7,5,p5
 minoraverages/1913Reach,1912,Texas League,hiett,B00747,Hiett,,1,Fort Worth,,,,,
 minoraverages/1913Reach,1912,Texas League,hiett,B00747,Hiett,,2,Galveston,,,,,
 minoraverages/1913Reach,1912,Texas League,hiett,B00747,Hiett,,T,,,,27,,
@@ -295,16 +207,12 @@ minoraverages/1913Reach,1912,Texas League,hiett,F21718,Hiett,,T,,,,,,p26
 minoraverages/1913Reach,1912,Texas League,hiett,P10312,Hiett,,1,Fort Worth,,,,,p
 minoraverages/1913Reach,1912,Texas League,hiett,P10312,Hiett,,2,Galveston,,,,,p
 minoraverages/1913Reach,1912,Texas League,hiett,P10312,Hiett,,T,,,,,26,p
-boxscores/1912/1912-DMN,1912,Texas League,hill,P9334328,Hill,,,Austin,19120422,19120422,1,0,3b1
 minoraverages/1913Reach,1912,Texas League,hill,B00370,Hill,,0,Austin,,,70,,
 minoraverages/1913Reach,1912,Texas League,hill,F20518,Hill,,0,Austin,,,,,ss70
-boxscores/1912/1912-DMN,1912,Texas League,hille,P5752605,Hille,,,Austin,19120412,19120509,24,0,"3b23,of1,cf1"
 minoraverages/1913Reach,1912,Texas League,hille,B00553,Hille,,0,Austin,,,144,,
 minoraverages/1913Reach,1912,Texas League,hille,F20327,Hille,,0,Austin,,,,,3b142
-boxscores/1912/1912-DMN,1912,Texas League,henninger,P6457777,Hinninger,,,Austin,19120412,19120509,22,0,"c20,1b2"
 minoraverages/1913Reach,1912,Texas League,henninger,B00196,Hinninger,,0,Austin,,,96,,
 minoraverages/1913Reach,1912,Texas League,henninger,F21469,Hinninger,,0,Austin,,,,,c87
-boxscores/1912/1912-DMN,1912,Texas League,holtz,P7829991,Holtz,,,Beaumont,19120507,19120509,3,0,c3
 minoraverages/1913Reach,1912,Texas League,holtz,B00101,Holtz,,0,Beaumont,,,105,,
 minoraverages/1913Reach,1912,Texas League,holtz,F20792,Holtz,,0,Beaumont,,,,,lf13
 minoraverages/1913Reach,1912,Texas League,holtz,F21264,Holtz,,0,Beaumont,,,,,rf57
@@ -312,10 +220,8 @@ minoraverages/1913Reach,1912,Texas League,holtz,F21293,Holtz,,0,Beaumont,,,,,c21
 minoraverages/1913Reach,1912,Texas League,hopkins,B00092,Hopkins,,0,Galveston,,,46,,
 minoraverages/1913Reach,1912,Texas League,hopkins,F20943,Hopkins,,0,Galveston,,,,,cf44
 minoraverages/1913Reach,1912,Texas League,hovel,B01538,Hovel,,0,Galveston,,,10,,
-boxscores/1912/1912-DMN,1912,Texas League,howard,P3964623,Howard,,,Fort Worth,19120412,19120509,24,0,"of23,cf23"
 minoraverages/1913Reach,1912,Texas League,howard,B00614,Howard,,0,Fort Worth,,,105,,
 minoraverages/1913Reach,1912,Texas League,howard,F20935,Howard,,0,Fort Worth,,,,,cf103
-boxscores/1912/1912-DMN,1912,Texas League,jacobs@ump,P5818559,Jacobs,,,#umpire,19120412,19120509,,,
 minoraverages/1913Reach,1912,Texas League,jolley,B00566,Jolley,,1,Fort Worth,,,,,
 minoraverages/1913Reach,1912,Texas League,jolley,B00566,Jolley,,2,Galveston,,,,,
 minoraverages/1913Reach,1912,Texas League,jolley,B00566,Jolley,,T,,,,69,,
@@ -325,44 +231,26 @@ minoraverages/1913Reach,1912,Texas League,jolley,F20829,Jolley,,T,,,,,,cf24
 minoraverages/1913Reach,1912,Texas League,jolley,F21130,Jolley,,1,Fort Worth,,,,,rf
 minoraverages/1913Reach,1912,Texas League,jolley,F21130,Jolley,,2,Galveston,,,,,rf
 minoraverages/1913Reach,1912,Texas League,jolley,F21130,Jolley,,T,,,,,,rf43
-boxscores/1912/1912-DMN,1912,Texas League,jolley,P5716884,Jolly,,,Fort Worth,19120412,19120422,9,0,"of8,lf1,rf7"
-boxscores/1912/1912-DMN,1912,Texas League,jolley,P7135320,Jolly,,,Galveston,19120424,19120509,14,0,"of14,rf14"
 minoraverages/1913Reach,1912,Texas League,jordan,B01402,Jordan,,0,Galveston,,,24,,
 minoraverages/1913Reach,1912,Texas League,jordan,F21308,Jordan,,0,Galveston,,,,,c23
-boxscores/1912/1912-DMN,1912,Texas League,jost,P2768421,Jost,,,Waco,19120414,19120509,7,7,p7
 minoraverages/1913Reach,1912,Texas League,jost,B01477,Jost,,0,Waco,,,39,,
 minoraverages/1913Reach,1912,Texas League,jost,F21528,Jost,,0,Waco,,,,,p38
 minoraverages/1913Reach,1912,Texas League,jost,P10121,Jost,,0,Waco,,,,38,p
 minoraverages/1913Reach,1912,Texas League,kaphan,B00343,Kaphan,,0,Galveston,,,71,,
 minoraverages/1913Reach,1912,Texas League,kaphan,F20924,Kaphan,,0,Galveston,,,,,cf21
-boxscores/1912/1912-DMN,1912,Texas League,kellerman,P5734279,Kellerman,,,Dallas,19120412,19120509,29,0,ss29
 minoraverages/1913Reach,1912,Texas League,kellerman,B00450,Kellerman,,0,Dallas,,,144,,
 minoraverages/1913Reach,1912,Texas League,kellerman,F20539,Kellerman,,0,Dallas,,,,,ss143
-boxscores/1912/1912-DMN,1912,Texas League,kinney,P4901622,Kenney,,,Dallas,19120419,19120419,1,1,p1
-boxscores/1912/1912-DMN,1912,Texas League,kinney,P6841466,Kinney,,,Dallas,19120412,19120422,3,2,p2
-boxscores/1912/1912-DMN,1912,Texas League,kitchens,P9292432,Kitchen,,,Fort Worth,19120412,19120509,19,0,c19
-boxscores/1912/1912-DMN,1912,Texas League,kitchens,P0777251,Kitchens,,,Fort Worth,19120414,19120507,7,0,c7
 minoraverages/1913Reach,1912,Texas League,kitchens,B01197,Kitchens,,0,Fort Worth,,,123,,
 minoraverages/1913Reach,1912,Texas League,kitchens,F21442,Kitchens,,0,Fort Worth,,,,,c120
-boxscores/1912/1912-DMN,1912,Texas League,knaupp,P6567653,Knapp,,,Houston,19120424,19120424,1,0,ss1
-boxscores/1912/1912-DMN,1912,Texas League,knaupp,P8574426,Knaupp,,,Houston,19120412,19120509,26,0,ss26
 minoraverages/1913Reach,1912,Texas League,knaupp,B00544,Knaupp,,0,Houston,,,142,,
 minoraverages/1913Reach,1912,Texas League,knaupp,F20526,Knaupp,,0,Houston,,,,,ss141
-boxscores/1912/1912-DMN,1912,Texas League,kramer,P5175384,Kramer,,,Beaumont,19120417,19120423,5,0,"of5,lf2,rf3"
-boxscores/1912/1912-DMN,1912,Texas League,kramer,P9996364,Kramer,,,Fort Worth,19120501,19120504,2,2,p2
-boxscores/1912/1912-DMN,1912,Texas League,landreth,P1830845,Landreth,,,Houston,19120419,19120508,19,0,"of19,cf1,rf19"
 minoraverages/1913Reach,1912,Texas League,landreth,B00229,Landreth,,0,Houston,,,95,,
 minoraverages/1913Reach,1912,Texas League,landreth,F21229,Landreth,,0,Houston,,,,,rf94
-boxscores/1912/1912-DMN,1912,Texas League,landreth,P4243765,Landry,,,Houston,19120417,19120417,1,0,
-boxscores/1912/1912-DMN,1912,Texas League,larsen,P6550939,Larsen,,,Beaumont,19120421,19120423,2,2,p2
 minoraverages/1913Reach,1912,Texas League,larsen,B01124,Larsen,,0,Beaumont,,,38,,
 minoraverages/1913Reach,1912,Texas League,larsen,F21695,Larsen,,0,Beaumont,,,,,p36
 minoraverages/1913Reach,1912,Texas League,larsen,P10429,Larsen,,0,Beaumont,,,,36,p
-boxscores/1912/1912-DMN,1912,Texas League,larsen,P3819109,Larson,,,Beaumont,19120422,19120507,3,2,p2
 minoraverages/1913Reach,1912,Texas League,lawson,B00705,Lawson,,0,Fort Worth,,,13,,
 minoraverages/1913Reach,1912,Texas League,lawson,F20745,Lawson,,0,Fort Worth,,,,,lf11
-boxscores/1912/1912-DMN,1912,Texas League,leidy,P9507332,Leady,,,San Antonio,19120420,19120420,1,0,"of1,cf1"
-boxscores/1912/1912-DMN,1912,Texas League,leidy,P3854988,Leidy,,,San Antonio,19120412,19120509,16,1,"p1,c2,of13,lf1,cf11,rf1"
 minoraverages/1913Reach,1912,Texas League,leidy,B00577,Leidy,,0,San Antonio,,,43,,
 minoraverages/1913Reach,1912,Texas League,leidy,F20886,Leidy,,0,San Antonio,,,,,cf34
 minoraverages/1913Reach,1912,Texas League,leidy,F21117,Leidy,,0,San Antonio,,,,,rf10
@@ -376,95 +264,67 @@ minoraverages/1913Reach,1912,Texas League,lemon,F20375,Lemon,,T,,,,,,3b39
 minoraverages/1913Reach,1912,Texas League,lemon,F21416,Lemon,,1,Fort Worth,,,,,c
 minoraverages/1913Reach,1912,Texas League,lemon,F21416,Lemon,,2,San Antonio,,,,,c
 minoraverages/1913Reach,1912,Texas League,lemon,F21416,Lemon,,T,,,,,,c25
-boxscores/1912/1912-DMN,1912,Texas League,lewis,P8143635,Lewis,,,Austin,19120412,19120509,8,8,p8
 minoraverages/1913Reach,1912,Texas League,lewis,B00957,Lewis,,0,Austin,,,57,,
 minoraverages/1913Reach,1912,Texas League,lewis,F20713,Lewis,,0,Austin,,,,,lf12
 minoraverages/1913Reach,1912,Texas League,lewis,F21651,Lewis,,0,Austin,,,,,p41
 minoraverages/1913Reach,1912,Texas League,lewis,P10277,Lewis,,0,Austin,,,,41,p
-boxscores/1912/1912-DMN,1912,Texas League,leidy,P3417484,Liedy,,,San Antonio,19120508,19120508,1,0,"of1,rf1"
-boxscores/1912/1912-DMN,1912,Texas League,lohman,P1759844,Lohman,,,Waco,19120415,19120508,7,7,p7
 minoraverages/1913Reach,1912,Texas League,lohman,B01227,Lohman,,0,Waco,,,39,,
 minoraverages/1913Reach,1912,Texas League,lohman,F21566,Lohman,,0,Waco,,,,,p39
 minoraverages/1913Reach,1912,Texas League,lohman,P10228,Lohman,,0,Waco,,,,39,p
-boxscores/1912/1912-DMN,1912,Texas League,lowe,P5965761,Lowe,,,Fort Worth,19120414,19120415,2,2,p2
-boxscores/1912/1912-DMN,1912,Texas League,maag,P7770628,Maag,,,Galveston,19120412,19120509,23,0,2b23
 minoraverages/1913Reach,1912,Texas League,maag,B00752,Maag,,0,Galveston,,,124,,
 minoraverages/1913Reach,1912,Texas League,maag,F20177,Maag,,0,Galveston,,,,,2b105
 minoraverages/1913Reach,1912,Texas League,maag,F20298,Maag,,0,Galveston,,,,,3b19
-boxscores/1912/1912-DMN,1912,Texas League,madden,P3109175,Madden,,,Galveston,19120412,19120509,26,0,ss26
 minoraverages/1913Reach,1912,Texas League,madden,B00469,Madden,,0,Galveston,,,141,,
 minoraverages/1913Reach,1912,Texas League,madden,F20240,Madden,,0,Galveston,,,,,2b23
 minoraverages/1913Reach,1912,Texas League,madden,F20560,Madden,,0,Galveston,,,,,ss118
-boxscores/1912/1912-DMN,1912,Texas League,malloy,P6963708,Malloy,,,Galveston,19120413,19120508,6,6,p6
 minoraverages/1913Reach,1912,Texas League,maloney,B00442,Maloney,,0,Galveston,,,12,,
 minoraverages/emilbb,1912,Texas League,,M91087,Maloney,"James ""Curley""",,Galveston,,,,,
-boxscores/1912/1912-DMN,1912,Texas League,manes,P6915537,Manef,,,Fort Worth,19120422,19120422,1,0,1b1
-boxscores/1912/1912-DMN,1912,Texas League,manes,P2735069,Maner,,,Fort Worth,19120424,19120427,4,0,1b4
-boxscores/1912/1912-DMN,1912,Texas League,manes,P5720030,Manes,,,Fort Worth,19120412,19120509,20,0,"1b19,ss1"
 minoraverages/1913Reach,1912,Texas League,manes,B01170,Manes,,0,Fort Worth,,,47,,
 minoraverages/1913Reach,1912,Texas League,manes,F20023,Manes,,0,Fort Worth,,,,,1b40
-boxscores/1912/1912-DMN,1912,Texas League,maple,P4701625,Maple,,,Fort Worth,19120506,19120508,2,2,p2
 minoraverages/1913Reach,1912,Texas League,maple,B01489,Maple,,0,Fort Worth,,,38,,
 minoraverages/1913Reach,1912,Texas League,maple,F21887,Maple,,0,Fort Worth,,,,,p38
 minoraverages/1913Reach,1912,Texas League,maple,P10290,Maple,,0,Fort Worth,,,,38,p
-boxscores/1912/1912-DMN,1912,Texas League,martina,P1049442,Martina,,,Beaumont,19120412,19120509,10,10,p10
 minoraverages/1913Reach,1912,Texas League,martina,B01119,Martina,J.,0,Beaumont,,,56,,
 minoraverages/1913Reach,1912,Texas League,martina,F21822,Martina,J.,0,Beaumont,,,,,p44
 minoraverages/1913Reach,1912,Texas League,martina,P10373,Martina,J.,0,Beaumont,,,,44,p
-boxscores/1912/1912-DMN,1912,Texas League,mayes,P7941749,Mayes,,,Beaumont,19120412,19120509,24,0,"of24,cf24"
 minoraverages/1913Reach,1912,Texas League,mayes,B00806,Mayes,,0,Beaumont,,,134,,
 minoraverages/1913Reach,1912,Texas League,mayes,F20919,Mayes,,0,Beaumont,,,,,cf132
 minoraverages/1913Reach,1912,Texas League,mcculler,F21232,McCuler,,0,Austin,,,,,rf12
 minoraverages/1913Reach,1912,Texas League,mcculler,B00381,McCuller,,0,Austin,,,35,,
 minoraverages/1913Reach,1912,Texas League,mcculler,F21865,McCuller,,0,Austin,,,,,p20
 minoraverages/1913Reach,1912,Texas League,mcculler,P10081,McCuller,,0,Austin,,,,20,p
-boxscores/1912/1912-DMN,1912,Texas League,mcgraner,P0259748,McGraner,,,San Antonio,19120419,19120509,7,7,p7
 minoraverages/1913Reach,1912,Texas League,mciver,B00163,McIver,,0,Austin,,,58,,
 minoraverages/1913Reach,1912,Texas League,mciver,F20673,McIver,,0,Austin,,,,,lf41
 minoraverages/1913Reach,1912,Texas League,mciver,F20956,McIver,,0,Austin,,,,,cf16
-boxscores/1912/1912-DMN,1912,Texas League,mcknight,P5442211,McKnight,,,Galveston,19120412,19120415,4,0,"of4,rf4"
-boxscores/1912/1912-DMN,1912,Texas League,mclarry,P0664073,McLarry,,,Austin,19120412,19120509,27,0,1b27
 minoraverages/1913Reach,1912,Texas League,mclarry,B00084,McLarry,,0,Austin,,,125,,
 minoraverages/1913Reach,1912,Texas League,mclarry,F20014,McLarry,,0,Austin,,,,,1b125
 minoraverages/1913Reach,1912,Texas League,mclaurin,B00068,McLaurin,,0,Waco,,,86,,
 minoraverages/1913Reach,1912,Texas League,mclaurin,F20685,McLaurin,,0,Waco,,,,,lf71
 minoraverages/1913Reach,1912,Texas League,mclaurin,F21278,McLaurin,,0,Waco,,,,,rf15
-boxscores/1912/1912-DMN,1912,Texas League,meehan,P6601635,Meehan,,,San Antonio,19120412,19120509,27,0,"of27,lf27"
 minoraverages/1913Reach,1912,Texas League,meehan,B00985,Meehan,,0,San Antonio,,,28,,
 minoraverages/1913Reach,1912,Texas League,meehan,F20721,Meehan,,0,San Antonio,,,,,lf28
-boxscores/1912/1912-DMN,1912,Texas League,metz,P2334835,Merz,,,San Antonio,19120509,19120509,1,0,1b1
-boxscores/1912/1912-DMN,1912,Texas League,metz,P3579893,Metz,,,San Antonio,19120413,19120508,25,0,1b25
 minoraverages/1913Reach,1912,Texas League,metz,B00013,Metz,,0,San Antonio,,,142,,
 minoraverages/1913Reach,1912,Texas League,metz,F20038,Metz,,0,San Antonio,,,,,1b142
 minoraverages/emilbb,1912,Texas League,,M91040,Metz,Frank,,San Antonio,,,,,
-boxscores/1912/1912-DMN,1912,Texas League,midkiff,P5702095,Midkiff,,,San Antonio,19120412,19120509,27,0,3b27
 minoraverages/1913Reach,1912,Texas League,midkiff,B00117,Midkiff,,0,San Antonio,,,125,,
 minoraverages/1913Reach,1912,Texas League,midkiff,F20388,Midkiff,,0,San Antonio,,,,,3b93
 minoraverages/1913Reach,1912,Texas League,midkiff,F20496,Midkiff,,0,San Antonio,,,,,ss32
-boxscores/1912/1912-DMN,1912,Texas League,miller,P2533322,Miller,,,Waco,19120412,19120509,5,5,p5
 minoraverages/1913Reach,1912,Texas League,miller,B01321,Miller,,0,Waco,,,33,,
 minoraverages/1913Reach,1912,Texas League,miller,F21614,Miller,,0,Waco,,,,,p32
 minoraverages/1913Reach,1912,Texas League,miller,P10145,Miller,,0,Waco,,,,32,p
-boxscores/1912/1912-DMN,1912,Texas League,moore-sa,P6922359,Moore,,,San Antonio,19120423,19120503,2,2,"p2,of1,cf1"
-boxscores/1912/1912-DMN,1912,Texas League,moore,P7650256,Moore,,,Galveston,19120412,19120507,7,7,p7
 minoraverages/1913Reach,1912,Texas League,moore,B01135,Moore,E.,0,Galveston,,,34,,
 minoraverages/1913Reach,1912,Texas League,moore,F21920,Moore,Eu.,0,Galveston,,,,,p30
 minoraverages/1913Reach,1912,Texas League,moore,P10035,Moore,Eu.,0,Galveston,,,,30,p
-boxscores/1912/1912-DMN,1912,Texas League,morris,P9194694,Morris,,,Fort Worth,19120418,19120509,11,0,ss11
 minoraverages/1913Reach,1912,Texas League,morris,B01143,Morris,,0,Fort Worth,,,43,,
 minoraverages/1913Reach,1912,Texas League,morris,F20474,Morris,,0,Fort Worth,,,,,ss42
 minoraverages/emilbb,1912,Texas League,,M91098,Morris,Walter,,Fort Worth,,,,,
-boxscores/1912/1912-DMN,1912,Texas League,morton,P5341997,Morton,,,Galveston,19120418,19120430,5,5,p5
 minoraverages/1913Reach,1912,Texas League,morton,B00840,Morton,,0,Galveston,,,53,,
 minoraverages/1913Reach,1912,Texas League,morton,F21672,Morton,,0,Galveston,,,,,p37
 minoraverages/1913Reach,1912,Texas League,morton,P10336,Morton,,0,Galveston,,,,37,p
-boxscores/1912/1912-DMN,1912,Texas League,murch,P9237289,Murch,,,Fort Worth,19120429,19120509,9,0,2b8
 minoraverages/1913Reach,1912,Texas League,murch,B00948,Murch,,0,Fort Worth,,,99,,
 minoraverages/1913Reach,1912,Texas League,murch,F20190,Murch,,0,Fort Worth,,,,,2b38
 minoraverages/1913Reach,1912,Texas League,murch,F20391,Murch,,0,Fort Worth,,,,,3b53
 minoraverages/1913Reach,1912,Texas League,nagle,B00528,Nagle,,0,Galveston,,,21,,
-boxscores/1912/1912-DMN,1912,Texas League,nance,P2174514,Nance,Bill,,Fort Worth,19120424,19120424,1,0,"of1,cf1"
-boxscores/1912/1912-DMN,1912,Texas League,nance,P4857231,Nance,,,Fort Worth,19120412,19120509,13,0,"of9,lf4,cf4,rf1"
 minoraverages/1913Reach,1912,Texas League,nance,B00794,Nance,,1,Fort Worth,,,,,
 minoraverages/1913Reach,1912,Texas League,nance,B00794,Nance,,2,Beaumont,,,,,
 minoraverages/1913Reach,1912,Texas League,nance,B00794,Nance,,3,San Antonio,,,,,
@@ -475,20 +335,13 @@ minoraverages/1913Reach,1912,Texas League,nance,F20636,Nance,,3,San Antonio,,,,,
 minoraverages/1913Reach,1912,Texas League,nance,F20636,Nance,,T,,,,,,lf47
 minoraverages/1913Reach,1912,Texas League,nevitt,B01275,Nevitt,,0,Galveston,,,30,,
 minoraverages/1913Reach,1912,Texas League,nevitt,F20334,Nevitt,,0,Galveston,,,,,3b30
-boxscores/1912/1912-DMN,1912,Texas League,newhouse@ump,P1611835,Newhouse,,,#umpire,19120412,19120509,,,
-boxscores/1912/1912-DMN,1912,Texas League,newnam,P1992561,Newman,,,Houston,19120412,19120505,3,0,1b3
-boxscores/1912/1912-DMN,1912,Texas League,newnam,P1317425,Newnam,,,Houston,19120413,19120509,24,0,1b24
 minoraverages/1913Reach,1912,Texas League,newnam,B00130,Newnam,,0,Houston,,,143,,
 minoraverages/1913Reach,1912,Texas League,newnam,F20051,Newnam,,0,Houston,,,,,1b143
-boxscores/1912/1912-DMN,1912,Texas League,nobles,P1528698,Noble,,,Fort Worth,19120502,19120502,1,1,p1
-boxscores/1912/1912-DMN,1912,Texas League,nobles,P4574029,Nobles,,,Fort Worth,19120501,19120501,1,1,p1
 minoraverages/1913Reach,1912,Texas League,obrien,B01029,O'Brien,,0,Beaumont,,,71,,
 minoraverages/1913Reach,1912,Texas League,obrien,F21397,O'Brien,,0,Beaumont,,,,,c52
-boxscores/1912/1912-DMN,1912,Texas League,ogle,P4711884,Ogle,,,Waco,19120430,19120508,2,2,p2
 minoraverages/1913Reach,1912,Texas League,ogle,B01345,Ogle,,0,Waco,,,38,,
 minoraverages/1913Reach,1912,Texas League,ogle,F21794,Ogle,,0,Waco,,,,,p38
 minoraverages/1913Reach,1912,Texas League,ogle,P10176,Ogle,,0,Waco,,,,38,p
-boxscores/1912/1912-DMN,1912,Texas League,ogle,P8361535,Ogles,,,Waco,19120413,19120503,5,5,p5
 minoraverages/1913Reach,1912,Texas League,kaphan,F21174,Paphan,,0,Galveston,,,,,rf51
 minoraverages/1913Reach,1912,Texas League,parish,B01509,Parish,,1,Austin,,,,,
 minoraverages/1913Reach,1912,Texas League,parish,B01509,Parish,,2,Fort Worth,,,,,
@@ -499,17 +352,12 @@ minoraverages/1913Reach,1912,Texas League,parish,F21912,Parish,,T,,,,,,p18
 minoraverages/1913Reach,1912,Texas League,parish,P10184,Parish,,1,Austin,,,,,p
 minoraverages/1913Reach,1912,Texas League,parish,P10184,Parish,,2,Fort Worth,,,,,p
 minoraverages/1913Reach,1912,Texas League,parish,P10184,Parish,,T,,,,,18,p
-boxscores/1912/1912-DMN,1912,Texas League,parish,P2820456,Parrish,,,Austin,19120415,19120504,4,4,"p4,of1,rf1"
-boxscores/1912/1912-DMN,1912,Texas League,parish,P9814531,Parrish,,,Fort Worth,19120509,19120509,1,1,p1
-boxscores/1912/1912-DMN,1912,Texas League,pate,P5348438,Pate,,,Dallas,19120413,19120507,7,7,p7
 minoraverages/1913Reach,1912,Texas League,pate,B00912,Pate,,0,Dallas,,,18,,
 minoraverages/1913Reach,1912,Texas League,pate,F21544,Pate,,0,Dallas,,,,,p18
 minoraverages/1913Reach,1912,Texas League,pate,P10385,Pate,,0,Dallas,,,,18,p
-boxscores/1912/1912-DMN,1912,Texas League,peaster,P6727658,Peaster,,,Beaumont,19120418,19120509,7,7,p7
 minoraverages/1913Reach,1912,Texas League,peaster,B01514,Peaster,,0,Beaumont,,,36,,
 minoraverages/1913Reach,1912,Texas League,peaster,F21783,Peaster,,0,Beaumont,,,,,p36
 minoraverages/1913Reach,1912,Texas League,peaster,P10266,Peaster,,0,Beaumont,,,,37,p
-boxscores/1912/1912-DMN,1912,Texas League,peebles,P4565870,Peebles,,,Galveston,19120415,19120508,11,0,"of9,cf1,rf8"
 minoraverages/1913Reach,1912,Texas League,peebles,B01032,Peebles,,1,Galveston,,,,,
 minoraverages/1913Reach,1912,Texas League,peebles,B01032,Peebles,,2,Houston,,,,,
 minoraverages/1913Reach,1912,Texas League,peebles,B01032,Peebles,,T,,,,48,,
@@ -519,77 +367,53 @@ minoraverages/1913Reach,1912,Texas League,peebles,F21013,Peebles,,T,,,,,,cf17
 minoraverages/1913Reach,1912,Texas League,peebles,F21163,Peebles,,1,Galveston,,,,,rf
 minoraverages/1913Reach,1912,Texas League,peebles,F21163,Peebles,,2,Houston,,,,,rf
 minoraverages/1913Reach,1912,Texas League,peebles,F21163,Peebles,,T,,,,,,rf29
-boxscores/1912/1912-DMN,1912,Texas League,perritt,P1436468,Perritt,,,Fort Worth,19120413,19120507,10,10,p10
 minoraverages/1913Reach,1912,Texas League,perritt,B01250,Perritt,,0,Fort Worth,,,45,,
 minoraverages/1913Reach,1912,Texas League,perritt,F21553,Perritt,,0,Fort Worth,,,,,p43
 minoraverages/1913Reach,1912,Texas League,perritt,P10070,Perritt,,0,Fort Worth,,,,43,p
 minoraverages/1913Reach,1912,Texas League,phillips,B01337,Phillips,,0,Fort Worth,,,13,,
 minoraverages/1913Reach,1912,Texas League,phillips,F21739,Phillips,,0,Fort Worth,,,,,p13
 minoraverages/1913Reach,1912,Texas League,phillips,P10441,Phillips,,0,Fort Worth,,,,13,p
-boxscores/1912/1912-DMN,1912,Texas League,ray,P1476279,Ray,,,Houston,19120413,19120505,6,6,p6
 minoraverages/1913Reach,1912,Texas League,ray,B01359,Ray,,0,Houston,,,36,,
 minoraverages/1913Reach,1912,Texas League,ray,F21771,Ray,,0,Houston,,,,,p36
 minoraverages/1913Reach,1912,Texas League,ray,P10159,Ray,,0,Houston,,,,36,p
-boxscores/1912/1912-DMN,1912,Texas League,reilly,P6280374,Reilly,,,Waco,19120416,19120509,7,0,"c2,of2,rf2"
 minoraverages/1913Reach,1912,Texas League,reilly,B00531,Reilly,,0,Waco,,,63,,
 minoraverages/1913Reach,1912,Texas League,reilly,F21434,Reilly,,0,Waco,,,,,c38
-boxscores/1912/1912-DMN,1912,Texas League,rennard,P9326831,Rennard,,,Waco,19120412,19120509,27,0,"of27,cf3,rf24"
 minoraverages/1913Reach,1912,Texas League,rennard,B00609,Rennard,,0,Waco,,,129,,
 minoraverages/1913Reach,1912,Texas League,rennard,F21241,Rennard,,0,Waco,,,,,rf124
-boxscores/1912/1912-DMN,1912,Texas League,reynolds,P4817243,Reynolds,,,Houston,19120414,19120509,18,0,"c15,of1,rf1"
 minoraverages/1913Reach,1912,Texas League,reynolds,B00771,Reynolds,,0,Houston,,,82,,
 minoraverages/1913Reach,1912,Texas League,reynolds,F21450,Reynolds,,0,Houston,,,,,c68
-boxscores/1912/1912-DMN,1912,Texas League,riggs,P9355559,Riggs,,,Houston,19120412,19120419,7,0,"of7,cf7"
-boxscores/1912/1912-DMN,1912,Texas League,reilly,P1766602,Riley,,,Waco,19120423,19120425,3,0,"c2,of1,cf1"
-boxscores/1912/1912-DMN,1912,Texas League,robertson,P6564104,Robertson,,,Fort Worth,19120416,19120423,3,0,c3
-boxscores/1912/1912-DMN,1912,Texas League,robison,P4685017,Robinson,,,Austin,19120412,19120509,20,0,"of20,lf20"
-boxscores/1912/1912-DMN,1912,Texas League,robison,P4657946,Robinson [Aus],,,Austin,19120415,19120415,1,0,"of1,lf1"
-boxscores/1912/1912-DMN,1912,Texas League,robertson,P0796809,Robinson [FW],,,Fort Worth,19120415,19120415,1,0,c1
 minoraverages/1913Reach,1912,Texas League,robison,B00638,Robison,B.,0,Austin,,,72,,
 minoraverages/1913Reach,1912,Texas League,robison,F20776,Robison,B.,0,Austin,,,,,lf58
 minoraverages/1913Reach,1912,Texas League,robison,F21059,Robison,B.,0,Austin,,,,,cf58
-boxscores/1912/1912-DMN,1912,Texas League,rogers,P3258759,Rogers,,,San Antonio,19120414,19120508,8,7,p7
 minoraverages/1913Reach,1912,Texas League,rogers,B00822,Rogers,,0,San Antonio,,,43,,
 minoraverages/1913Reach,1912,Texas League,rogers,F21667,Rogers,,0,San Antonio,,,,,p38
 minoraverages/1913Reach,1912,Texas League,rogers,P10056,Rogers,,0,San Antonio,,,,38,p
-boxscores/1912/1912-DMN,1912,Texas League,rose,P4092260,Rose,,,Houston,19120414,19120508,6,6,p6
 minoraverages/1913Reach,1912,Texas League,rose,B01291,Rose,,0,Houston,,,37,,
 minoraverages/1913Reach,1912,Texas League,rose,F21898,Rose,,0,Houston,,,,,p37
 minoraverages/1913Reach,1912,Texas League,rose,P10097,Rose,,0,Houston,,,,37,p
 minoraverages/1913Reach,1912,Texas League,russell,B00059,Russell,,0,Fort Worth,,,13,,
 minoraverages/1913Reach,1912,Texas League,russell,F21502,Russell,,0,Fort Worth,,,,,p13
 minoraverages/1913Reach,1912,Texas League,russell,P10253,Russell,,0,Fort Worth,,,,13,p
-boxscores/1912/1912-DMN,1912,Texas League,salm,P6701275,Salm,,,Galveston,19120412,19120509,25,0,1b25
 minoraverages/1913Reach,1912,Texas League,salm,B00324,Salm,,1,Galveston,,,,,
 minoraverages/1913Reach,1912,Texas League,salm,B00324,Salm,,2,Fort Worth,,,,,
 minoraverages/1913Reach,1912,Texas League,salm,B00324,Salm,,T,,,,137,,
 minoraverages/1913Reach,1912,Texas League,salm,F20067,Salm,,1,Galveston,,,,,1b
 minoraverages/1913Reach,1912,Texas League,salm,F20067,Salm,,2,Fort Worth,,,,,1b
 minoraverages/1913Reach,1912,Texas League,salm,F20067,Salm,,T,,,,,,1b134
-boxscores/1912/1912-DMN,1912,Texas League,schuman,P9985627,Schuman,,,Dallas,19120509,19120509,1,0,"of1,cf1"
 minoraverages/1913Reach,1912,Texas League,schuman,B01162,Schuman,,0,Dallas,,,59,,
 minoraverages/1913Reach,1912,Texas League,schuman,F21037,Schuman,,0,Dallas,,,,,cf52
-boxscores/1912/1912-DMN,1912,Texas League,seitz,P5091876,Seitz,,,San Antonio,19120503,19120509,7,0,"2b4,of3,cf3"
 minoraverages/1913Reach,1912,Texas League,seitz,B00210,Seitz,,0,San Antonio,,,122,,
 minoraverages/1913Reach,1912,Texas League,seitz,F20153,Seitz,,0,San Antonio,,,,,2b76
 minoraverages/1913Reach,1912,Texas League,seitz,F20430,Seitz,,0,San Antonio,,,,,3b11
 minoraverages/1913Reach,1912,Texas League,seitz,F20661,Seitz,,0,San Antonio,,,,,lf25
-boxscores/1912/1912-DMN,1912,Texas League,sewell,P7869176,Sewell,,,Dallas,19120414,19120423,3,3,p3
 minoraverages/1913Reach,1912,Texas League,sewell,B01453,Sewell,,0,Dallas,,,17,,
 minoraverages/1913Reach,1912,Texas League,sewell,F21680,Sewell,,0,Dallas,,,,,p17
 minoraverages/1913Reach,1912,Texas League,sewell,P10289,Sewell,,0,Dallas,,,,17,p
 minoraverages/1913Reach,1912,Texas League,sheffield,B01086,Sheffield,,0,Dallas,,,15,,
 minoraverages/1913Reach,1912,Texas League,sheffield,F20832,Sheffield,,0,Dallas,,,,,cf15
-boxscores/1912/1912-DMN,1912,Texas League,shontz,P0260562,Shontz,,,Dallas,19120420,19120506,5,5,p5
 minoraverages/1913Reach,1912,Texas League,shontz,B01490,Shontz,,0,Dallas,,,33,,
 minoraverages/1913Reach,1912,Texas League,shontz,F21726,Shontz,,0,Dallas,,,,,p33
 minoraverages/1913Reach,1912,Texas League,shontz,P10215,Shontz,,0,Dallas,,,,33,p
-boxscores/1912/1912-DMN,1912,Texas League,schuman,P0301016,Shuman,,,Dallas,19120412,19120508,28,0,"of28,lf2,cf26"
-boxscores/1912/1912-DMN,1912,Texas League,smith-fw,P1454479,Smith,,,Fort Worth,19120417,19120509,4,4,p4
-boxscores/1912/1912-DMN,1912,Texas League,smith-aus,P2002473,Smith,G.,,Austin,19120414,19120414,1,0,2b1
-boxscores/1912/1912-DMN,1912,Texas League,smith-sa,P5497690,Smith,,,San Antonio,19120412,19120509,27,0,"c20,2b7"
-boxscores/1912/1912-DMN,1912,Texas League,smith-aus,P8771444,Smith,,,Austin,19120412,19120509,25,0,2b25
-boxscores/1912/1912-DMN,1912,Texas League,smith-fw,P9582149,Smith,H.,,Fort Worth,19120414,19120414,1,1,p1
 minoraverages/1913Reach,1912,Texas League,smith-aus,B00695,Smith,G.,0,Austin,,,142,,
 minoraverages/1913Reach,1912,Texas League,smith-sa,B00718,Smith,A.,0,San Antonio,,,115,,
 minoraverages/1913Reach,1912,Texas League,smith-fw,B01428,Smith,H.,0,Fort Worth,,,15,,
@@ -597,9 +421,6 @@ minoraverages/1913Reach,1912,Texas League,smith-aus,F20189,Smith,G.,0,Austin,,,,
 minoraverages/1913Reach,1912,Texas League,smith-sa,F21335,Smith,A.,0,San Antonio,,,,,c106
 minoraverages/1913Reach,1912,Texas League,smith-fw,F21590,Smith,H.,0,Fort Worth,,,,,p15
 minoraverages/1913Reach,1912,Texas League,smith-fw,P10410,Smith,H.,0,Fort Worth,,,,15,p
-boxscores/1912/1912-DMN,1912,Texas League,smith-aus,P2814709,Smith [Aus],,,Austin,19120421,19120421,1,0,2b1
-boxscores/1912/1912-DMN,1912,Texas League,smith-fw,P0388740,Smith [FW],,,Fort Worth,19120421,19120421,1,1,p1
-boxscores/1912/1912-DMN,1912,Texas League,snapp,P6882540,Snapp,,,Fort Worth,19120412,19120509,27,0,3b27
 minoraverages/1913Reach,1912,Texas League,snapp,B00936,Snapp,,1,Fort Worth,,,,,
 minoraverages/1913Reach,1912,Texas League,snapp,B00936,Snapp,,2,Houston,,,,,
 minoraverages/1913Reach,1912,Texas League,snapp,B00936,Snapp,,T,,,,80,,
@@ -609,43 +430,29 @@ minoraverages/1913Reach,1912,Texas League,snapp,F20449,Snapp,,T,,,,,,3b55
 minoraverages/1913Reach,1912,Texas League,snapp,F21084,Snapp,,1,Fort Worth,,,,,rf
 minoraverages/1913Reach,1912,Texas League,snapp,F21084,Snapp,,2,Houston,,,,,rf
 minoraverages/1913Reach,1912,Texas League,snapp,F21084,Snapp,,T,,,,,,rf14
-boxscores/1912/1912-DMN,1912,Texas League,spencer,P4524894,Spencer,,,Galveston,19120430,19120509,8,0,"of8,cf8"
 minoraverages/1913Reach,1912,Texas League,spencer,B01313,Spencer,,1,Galveston,,,,,
 minoraverages/1913Reach,1912,Texas League,spencer,B01313,Spencer,,2,Fort Worth,,,,,
 minoraverages/1913Reach,1912,Texas League,spencer,B01313,Spencer,,T,,,,24,,
 minoraverages/1913Reach,1912,Texas League,spencer,F20841,Spencer,,1,Galveston,,,,,cf
 minoraverages/1913Reach,1912,Texas League,spencer,F20841,Spencer,,2,Fort Worth,,,,,cf
 minoraverages/1913Reach,1912,Texas League,spencer,F20841,Spencer,,T,,,,,,cf15
-boxscores/1912/1912-DMN,1912,Texas League,stellbauer,P4052475,Steelbauer,,,Austin,19120424,19120424,1,0,"of1,rf1"
-boxscores/1912/1912-DMN,1912,Texas League,stellbauer,P8410178,Stellbauer,,,Austin,19120415,19120507,10,0,"3b2,of6,lf6"
 minoraverages/1913Reach,1912,Texas League,stellbauer,B00589,Stellbauer,,0,Austin,,,17,,
-boxscores/1912/1912-DMN,1912,Texas League,stewart,P3939087,Stewart,,,Waco,19120412,19120509,26,0,"c1,ss1,of25,cf23,rf2"
 minoraverages/1913Reach,1912,Texas League,stewart,B00488,Stewart,,0,Waco,,,97,,
 minoraverages/1913Reach,1912,Texas League,stewart,F20962,Stewart,,0,Waco,,,,,cf83
-boxscores/1912/1912-DMN,1912,Texas League,stellbauer,P0584006,Stillbauer,,,Austin,19120414,19120414,1,0,3b1
-boxscores/1912/1912-DMN,1912,Texas League,sweet,P2371415,Sweet,,,Austin,19120413,19120509,13,0,"c9,of1,rf1"
 minoraverages/1913Reach,1912,Texas League,sweet,B01108,Sweet,,0,Austin,,,44,,
 minoraverages/1913Reach,1912,Texas League,sweet,F21488,Sweet,,0,Austin,,,,,c29
-boxscores/1912/1912-DMN,1912,Texas League,taff,P3417417,Taff,Bill,,Waco,19120428,19120428,1,1,p1
-boxscores/1912/1912-DMN,1912,Texas League,taff,P5822310,Taff,,,Waco,19120416,19120507,4,4,p4
 minoraverages/1913Reach,1912,Texas League,taff,B01041,Taff,,0,Waco,,,35,,
 minoraverages/1913Reach,1912,Texas League,taff,F21623,Taff,,0,Waco,,,,,p35
 minoraverages/1913Reach,1912,Texas League,taff,P10113,Taff,,0,Waco,,,,35,p
-boxscores/1912/1912-DMN,1912,Texas League,tanner,P2545837,Tanner,,,Waco,19120413,19120509,23,0,"ss16,of6,lf6"
 minoraverages/1913Reach,1912,Texas League,tanner,B00646,Tanner,,0,Waco,,,103,,
 minoraverages/1913Reach,1912,Texas League,tanner,F20547,Tanner,,0,Waco,,,,,ss83
 minoraverages/1913Reach,1912,Texas League,tanner,F20612,Tanner,,0,Waco,,,,,lf14
 minoraverages/1913Reach,1912,Texas League,tate,B00182,Tate,,0,Galveston,,,10,,
 minoraverages/1913Reach,1912,Texas League,tate,F21515,Tate,,0,Galveston,,,,,p10
 minoraverages/1913Reach,1912,Texas League,tate,P10432,Tate,,0,Galveston,,,,10,p
-boxscores/1912/1912-DMN,1912,Texas League,taylor,P0225898,Taylor,,,Austin,19120417,19120508,5,5,p5
 minoraverages/1913Reach,1912,Texas League,taylor,B00904,Taylor,W.,0,Austin,,,35,,
 minoraverages/1913Reach,1912,Texas League,taylor,F21806,Taylor,W.,0,Austin,,,,,p35
 minoraverages/1913Reach,1912,Texas League,taylor,P10357,Taylor,W.,0,Austin,,,,35,p
-boxscores/1912/1912-DMN,1912,Texas League,tierney,P5153160,Teerney,,,Dallas,19120412,19120412,1,0,"of1,rf1"
-boxscores/1912/1912-DMN,1912,Texas League,thebo,P1568416,Thebo,,,Galveston,19120412,19120429,18,0,"of18,cf18"
-boxscores/1912/1912-DMN,1912,Texas League,thebo,P8126290,Thebo,Tony,,Beaumont,19120501,19120501,1,0,"of1,lf1"
-boxscores/1912/1912-DMN,1912,Texas League,thebo,P9887976,Thebo,,,Beaumont,19120502,19120509,5,0,"of5,lf5"
 minoraverages/1913Reach,1912,Texas League,thebo,B00680,Thebo,,1,Galveston,,,,,
 minoraverages/1913Reach,1912,Texas League,thebo,B00680,Thebo,,2,Beaumont,,,,,
 minoraverages/1913Reach,1912,Texas League,thebo,B00680,Thebo,,3,San Antonio,,,,,
@@ -658,30 +465,16 @@ minoraverages/1913Reach,1912,Texas League,thebo,F20893,Thebo,,1,Galveston,,,,,cf
 minoraverages/1913Reach,1912,Texas League,thebo,F20893,Thebo,,2,Beaumont,,,,,cf
 minoraverages/1913Reach,1912,Texas League,thebo,F20893,Thebo,,3,San Antonio,,,,,cf
 minoraverages/1913Reach,1912,Texas League,thebo,F20893,Thebo,,T,,,,,,cf45
-boxscores/1912/1912-DMN,1912,Texas League,thomson,P1042530,Thompson,,,Fort Worth,19120412,19120509,22,0,"c3,2b19"
 minoraverages/1913Reach,1912,Texas League,thomson,B01010,Thomson,,0,Fort Worth,,,105,,
 minoraverages/1913Reach,1912,Texas League,thomson,F20131,Thomson,,0,Fort Worth,,,,,1b17
 minoraverages/1913Reach,1912,Texas League,thomson,F20287,Thomson,,0,Fort Worth,,,,,2b26
 minoraverages/1913Reach,1912,Texas League,thomson,F20571,Thomson,,0,Fort Worth,,,,,ss42
 minoraverages/1913Reach,1912,Texas League,thomson,F21491,Thomson,,0,Fort Worth,,,,,c10
-boxscores/1912/1912-DMN,1912,Texas League,tierney,P9168012,Tierney,,,Dallas,19120413,19120508,11,0,"of11,lf2,rf9"
 minoraverages/1913Reach,1912,Texas League,tierney,B01523,Tierney,,0,Dallas,,,26,,
 minoraverages/1913Reach,1912,Texas League,tierney,F20463,Tierney,,0,Dallas,,,,,3b13
 minoraverages/1913Reach,1912,Texas League,tierney,F21286,Tierney,,0,Dallas,,,,,rf10
-boxscores/1912/1912-DMN,1912,Texas League,tullos,P3521967,Tullos,,,Dallas,19120412,19120509,29,0,3b29
 minoraverages/1913Reach,1912,Texas League,tullos,B00833,Tullos,,0,Dallas,,,129,,
 minoraverages/1913Reach,1912,Texas League,tullos,F20350,Tullos,,0,Dallas,,,,,3b129
-boxscores/1912/1912-DMN,1912,Texas League,vansickle@ump,P8036717,Van Sickle,,,#umpire,19120413,19120413,,,
-boxscores/1912/1912-DMN,1912,Texas League,vansickle@ump,P5796093,Van Syckle,,,#umpire,19120418,19120508,,,
-boxscores/1912/1912-DMN,1912,Texas League,vansickle@ump,P9978733,Vansickle,,,#umpire,19120412,19120509,,,
-boxscores/1912/1912-DMN,1912,Texas League,vansickle@ump,P7738109,Vansyckle,,,#umpire,19120417,19120430,,,
-boxscores/1912/1912-DMN,1912,Texas League,wahl,P5704834,Wahl,,,Beaumont,19120413,19120413,1,1,p1
-boxscores/1912/1912-DMN,1912,Texas League,walden,P5448485,Walden,,,Fort Worth,19120429,19120501,2,0,c2
-boxscores/1912/1912-DMN,1912,Texas League,wallace-sa+fw,P2489902,Wallace,,,San Antonio,19120424,19120509,16,0,ss16
-boxscores/1912/1912-DMN,1912,Texas League,wallace-sa+fw,P3266798,Wallace,R.,,San Antonio,19120420,19120420,1,0,ss1
-boxscores/1912/1912-DMN,1912,Texas League,wallace-bea,P4808495,Wallace,,,Beaumont,19120413,19120502,11,0,"c2,of9,lf6,rf3"
-boxscores/1912/1912-DMN,1912,Texas League,wallace-sa+fw,P7207390,Wallace,B.,,San Antonio,19120421,19120421,1,0,ss1
-boxscores/1912/1912-DMN,1912,Texas League,wallace-bea,P7339111,Wallace,J.,,Beaumont,19120420,19120423,3,0,"of2,lf1,rf1"
 minoraverages/1913Reach,1912,Texas League,wallace-sa+fw,B00475,Wallace,R.,1,San Antonio,,,,,
 minoraverages/1913Reach,1912,Texas League,wallace-sa+fw,B00475,Wallace,R.,2,Fort Worth,,,,,
 minoraverages/1913Reach,1912,Texas League,wallace-sa+fw,B00475,Wallace,R.,T,,,,131,,
@@ -689,7 +482,6 @@ minoraverages/1913Reach,1912,Texas League,wallace-bea,B01203,Wallace,J.,0,Beaumo
 minoraverages/1913Reach,1912,Texas League,wallace-sa+fw,F20482,Wallace,R.,1,San Antonio,,,,,ss
 minoraverages/1913Reach,1912,Texas League,wallace-sa+fw,F20482,Wallace,R.,2,Fort Worth,,,,,ss
 minoraverages/1913Reach,1912,Texas League,wallace-sa+fw,F20482,Wallace,R.,T,,,,,,ss131
-boxscores/1912/1912-DMN,1912,Texas League,watson,P0688775,Watson,,,Houston,19120417,19120506,5,5,p5
 minoraverages/1913Reach,1912,Texas League,watson,B01415,Watson,,1,Beaumont,,,,,
 minoraverages/1913Reach,1912,Texas League,watson,B01415,Watson,,2,Houston,,,,,
 minoraverages/1913Reach,1912,Texas League,watson,B01415,Watson,,T,,,,32,,
@@ -699,48 +491,27 @@ minoraverages/1913Reach,1912,Texas League,watson,F21840,Watson,,T,,,,,,p30
 minoraverages/1913Reach,1912,Texas League,watson,P10231,Watson,,1,Beaumont,,,,,p
 minoraverages/1913Reach,1912,Texas League,watson,P10231,Watson,,2,Houston,,,,,p
 minoraverages/1913Reach,1912,Texas League,watson,P10231,Watson,,T,,,,,30,p
-boxscores/1912/1912-DMN,1912,Texas League,wheeler,P3455042,Wheeler,,,Beaumont,19120412,19120509,20,0,"2b15,3b4,of1,lf1"
 minoraverages/1913Reach,1912,Texas League,wheeler,B00278,Wheeler,,0,Beaumont,,,129,,
 minoraverages/1913Reach,1912,Texas League,wheeler,F20265,Wheeler,,0,Beaumont,,,,,2b24
 minoraverages/1913Reach,1912,Texas League,wheeler,F20369,Wheeler,,0,Beaumont,,,,,3b103
 minoraverages/emilbb,1912,Texas League,,M91104,Wheeler,Edward,,Beaumont,,,,,
 minoraverages/1913Reach,1912,Texas League,white,B01466,White,,0,Fort Worth,,,10,,
 minoraverages/1913Reach,1912,Texas League,white,F20458,White,,0,Fort Worth,,,,,3b10
-boxscores/1912/1912-DMN,1912,Texas League,whiteman,P3253928,Whiteman,,,Houston,19120412,19120509,26,0,"of26,lf26"
 minoraverages/1913Reach,1912,Texas League,whiteman,B00045,Whiteman,,0,Houston,,,144,,
 minoraverages/1913Reach,1912,Texas League,whiteman,F20699,Whiteman,,0,Houston,,,,,lf144
-boxscores/1912/1912-DMN,1912,Texas League,whiteman,P1743484,Whitteman,,,Houston,19120504,19120504,1,0,"of1,lf1"
-boxscores/1912/1912-DMN,1912,Texas League,wohleben,P6145241,Wholeben,,,Waco,19120502,19120502,1,0,1b1
-boxscores/1912/1912-DMN,1912,Texas League,wilkinson@ump,P4926471,Wilkenson,,,#umpire,19120417,19120417,,,
-boxscores/1912/1912-DMN,1912,Texas League,wilkinson@ump,P9833739,Wilkerson,,,#umpire,19120506,19120507,,,
-boxscores/1912/1912-DMN,1912,Texas League,wilkins@ump,P9434830,Wilkins,,,#umpire,19120429,19120429,,,
-boxscores/1912/1912-DMN,1912,Texas League,wilkinson@ump,P6866315,Wilkinson,,,#umpire,19120412,19120503,,,
-boxscores/1912/1912-DMN,1912,Texas League,williams.j,P4698090,Williams,L.,,Galveston,19120502,19120502,1,0,"of1,lf1"
-boxscores/1912/1912-DMN,1912,Texas League,williams.j,P7244456,Williams,J.,,Galveston,19120412,19120509,24,0,"of24,lf24"
-boxscores/1912/1912-DMN,1912,Texas League,williams.j,P9445808,Williams,,,Galveston,19120421,19120421,1,0,"of1,lf1"
-boxscores/1912/1912-DMN,1912,Texas League,williams.h,P9790822,Williams,H.,,Galveston,19120412,19120509,20,0,c20
 minoraverages/1913Reach,1912,Texas League,williams.j,B00356,Williams,J.,0,Galveston,,,139,,
 minoraverages/1913Reach,1912,Texas League,williams.h,B00760,Williams,H.,0,Galveston,,,130,,
 minoraverages/1913Reach,1912,Texas League,williams.h,F20046,Williams,H.,0,Galveston,,,,,1b73
 minoraverages/1913Reach,1912,Texas League,williams.j,F20620,Williams,J.,0,Galveston,,,,,lf137
 minoraverages/1913Reach,1912,Texas League,williams.h,F21381,Williams,H.,0,Galveston,,,,,c54
-boxscores/1912/1912-DMN,1912,Texas League,williamson@ump,P2915116,Williamson,,,#umpire,19120414,19120423,,,
-boxscores/1912/1912-DMN,1912,Texas League,williams.h,P1340837,Willims,H.,,Galveston,19120501,19120501,1,0,"of1,cf1"
-boxscores/1912/1912-DMN,1912,Texas League,wilson-dal,P6973512,Wilson,,,Dallas,19120412,19120509,29,0,"1b10,of19,lf18,rf1"
 minoraverages/1913Reach,1912,Texas League,wilson-dal,B00726,Wilson,B.,0,Dallas,,,145,,
 minoraverages/1913Reach,1912,Texas League,wilson-gal,B01431,Wilson,T.,0,Galveston,,,25,,
 minoraverages/1913Reach,1912,Texas League,wilson-dal,F20080,Wilson,B.,0,Dallas,,,,,1b10
 minoraverages/1913Reach,1912,Texas League,wilson-dal,F20700,Wilson,B.,0,Dallas,,,,,lf121
 minoraverages/1913Reach,1912,Texas League,wilson-dal,F20855,Wilson,B.,0,Dallas,,,,,cf13
 minoraverages/1913Reach,1912,Texas League,wilson-gal,F21324,Wilson,T.,0,Galveston,,,,,c25
-boxscores/1912/1912-DMN,1912,Texas League,windham,P7802098,Windham,,,Fort Worth,19120421,19120505,5,5,p5
-boxscores/1912/1912-DMN,1912,Texas League,windham,P2060216,Windom,,,Fort Worth,19120412,19120418,2,2,p2
-boxscores/1912/1912-DMN,1912,Texas League,witherspoon,P3740285,Witherspon,,,Fort Worth,19120502,19120502,1,0,1b1
-boxscores/1912/1912-DMN,1912,Texas League,witherspoon,P1135308,Witherspoon,,,Fort Worth,19120412,19120509,25,1,"p1,1b4,ss18"
 minoraverages/1913Reach,1912,Texas League,witherspoon,B00491,Witherspoon,,0,Fort Worth,,,35,,
 minoraverages/1913Reach,1912,Texas League,witherspoon,F20144,Witherspoon,,0,Fort Worth,,,,,1b12
 minoraverages/1913Reach,1912,Texas League,witherspoon,F20594,Witherspoon,,0,Fort Worth,,,,,ss20
-boxscores/1912/1912-DMN,1912,Texas League,wohleben,P0952249,Wohleben,,,Waco,19120412,19120509,26,0,1b26
 minoraverages/1913Reach,1912,Texas League,wohleben,B00308,Wohleben,,0,Waco,,,140,,
 minoraverages/1913Reach,1912,Texas League,wohleben,F20072,Wohleben,,0,Waco,,,,,1b140
-boxscores/1912/1912-DMN,1912,Texas League,wylie,P2932623,Wylie,,,Waco,19120420,19120420,1,0,

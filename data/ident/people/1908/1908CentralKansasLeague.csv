@@ -1,100 +1,37 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-boxscores/1908/1908-SDU,1908,Central Kansas League,almquist,P9291108,ALimquist,,,McPherson,19080702,19080702,1,0,"of1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,abbott,P7183408,Abbott,,,Salina,19080622,19080810,24,1,"p1,c5,1b12,of8,cf1,rf7"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,abbott,P2704966,Abbott,,,Salina,19080709,19080818,17,0,"c16,1b1"
 minoraverages/Howard,1908,Central Kansas League,abbott,B00013,Abbott,Paine Ingersoll,0,Salina,19080622,19080818,40,,"p1,c21,1b11,cf1,rf7"
 minoraverages/Howard,1908,Central Kansas League,abbott,P10550,Abbott,Paine Ingersoll,0,Salina,,,,1,
-boxscores/1908/1908-SDU,1908,Central Kansas League,almquist,P6584795,Almquist,,,McPherson,19080703,19080703,1,0,"of1,lf1"
 minoraverages/Howard,1908,Central Kansas League,almquist,B00021,Almquist,Martin Fillipus,0,McPherson,19080702,19080703,2,,"lf1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,alton,P4038185,Alton,,,McPherson,19080723,19080723,1,0,1b1
 minoraverages/Howard,1908,Central Kansas League,alton,B00037,Alton,Bill,0,McPherson,19080622,19080723,2,,"1b1,lf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,anderson,P1045882,Anderson,,,Ellsworth,19080807,19080810,2,0,2b2
-boxscores/1908/1908-SEJ,1908,Central Kansas League,anderson,P3348176,Anderson,,,Ellsworth,19080811,19080815,2,0,2b2
 minoraverages/Howard,1908,Central Kansas League,anderson,B00045,Anderson,,0,Ellsworth,19080807,19080815,8,,2b8
-boxscores/1908/1908-SDU,1908,Central Kansas League,alton,P7773359,Arton,,,McPherson,19080622,19080622,1,0,"of1,lf1"
-boxscores/1908/1908-EKR,1908,Central Kansas League,ashton@ump,P1380977,Ashton,,,#umpire,19080703,19080703,,,
-boxscores/1908/1908-EM,1908,Central Kansas League,ashton@ump,P3767297,Ashton,,,#umpire,19080627,19080627,,,
-boxscores/1908/1908-MDR,1908,Central Kansas League,ashton@ump,P9941586,Ashton,,,#umpire,19080711,19080711,,,
-boxscores/1908/1908-SDU,1908,Central Kansas League,ashton@ump,P7869979,Ashton,,,#umpire,19080622,19080724,,,
-boxscores/1908/1908-SEJ,1908,Central Kansas League,ashton@ump,P3391537,Ashton,,,#umpire,19080716,19080716,,,
-boxscores/1908/1908-SEJ,1908,Central Kansas League,ashton@ump,P4120585,Aston,,,#umpire,19080714,19080718,,,
-boxscores/1908/1908-SDU,1908,Central Kansas League,august,P6613572,August,,,McPherson,19080727,19080727,1,0,c1
 minoraverages/Howard,1908,Central Kansas League,august,B00059,August,,0,McPherson,19080727,19080727,1,,c1
-boxscores/1908/1908-MM,1908,Central Kansas League,bacon,P7810531,Bacon,,,Little River,19080622,19080622,1,0,ss1
-boxscores/1908/1908-SDU,1908,Central Kansas League,bacon,P2607029,Bacon,,,Little River,19080623,19080706,9,0,"3b4,ss5"
-boxscores/1908/1908-SDU,1908,Central Kansas League,bacon,P3170702,Bacon,,,McPherson,19080722,19080722,1,0,3b1
 minoraverages/Howard,1908,Central Kansas League,bacon,B00068,Bacon,,0,Little River,19080622,19080706,10,,"3b5,ss5"
 minoraverages/Howard,1908,Central Kansas League,bacon,B00076,Bacon,,0,McPherson,19080722,19080722,1,,3b1
 minoraverages/Howard,1908,Central Kansas League,bacon,B00084,Bacon,,1,Little River,,,,,
 minoraverages/Howard,1908,Central Kansas League,bacon,B00084,Bacon,,2,McPherson,,,,,
 minoraverages/Howard,1908,Central Kansas League,bacon,B00084,Bacon,,T,,19080622,19080722,11,,"3b6,ss5"
-boxscores/1908/1908-SDU,1908,Central Kansas League,baird.h,P7931126,Baird,,,Salina,19080622,19080810,12,12,p12
-boxscores/1908/1908-SEJ,1908,Central Kansas League,baird.h,P2394242,Baird,H.,,Salina,19080817,19080817,1,1,p1
-boxscores/1908/1908-SEJ,1908,Central Kansas League,baird.c,P2721929,Baird,O.,,Salina,19080817,19080817,1,0,c1
-boxscores/1908/1908-SEJ,1908,Central Kansas League,baird.h,P4159052,Baird,,,Salina,19080709,19080813,9,6,"p6,of3,rf3"
 minoraverages/Howard,1908,Central Kansas League,baird.c,B00092,Baird,Chas. Olin,0,Salina,19080817,19080817,1,,c1
 minoraverages/Howard,1908,Central Kansas League,baird.h,B00101,Baird,"Harry S. ""Jocko""",0,Salina,19080622,19080817,22,,"p19,rf3"
 minoraverages/Howard,1908,Central Kansas League,baird.h,P10464,Baird,"Harry S. ""Jocko""",0,Salina,,,,19,
-boxscores/1908/1908-SDU,1908,Central Kansas League,bankhead,P5805998,Bankhead,,,Ellsworth,19080727,19080728,2,0,2b2
 minoraverages/Howard,1908,Central Kansas League,bankhead,B00117,Bankhead,Cecil G.,0,Ellsworth,19080727,19080728,2,,2b2
-boxscores/1908/1908-MDR,1908,Central Kansas League,barker,P3586873,Barker,,,McPherson,19080711,19080711,1,1,p1
 minoraverages/Howard,1908,Central Kansas League,barker,B00125,Barker,,0,McPherson,19080711,19080711,1,,p1
 minoraverages/Howard,1908,Central Kansas League,barker,P10253,Barker,,0,McPherson,,,,1,
-boxscores/1908/1908-EKR,1908,Central Kansas League,becker,P7030297,Becker,,,Newton,19080703,19080805,11,0,1b11
-boxscores/1908/1908-EM,1908,Central Kansas League,becker,P9416617,Becker,,,Newton,19080627,19080627,1,0,1b1
-boxscores/1908/1908-MDR,1908,Central Kansas League,becker,P5590906,Becker,,,Newton,19080708,19080801,4,0,1b4
-boxscores/1908/1908-SDU,1908,Central Kansas League,becker,P3519299,Becker,,,Newton,19080622,19080729,15,0,1b15
-boxscores/1908/1908-SEJ,1908,Central Kansas League,becker,P9040857,Becker,,,Newton,19080709,19080710,2,0,1b2
 minoraverages/Howard,1908,Central Kansas League,becker,B00130,Becker,Karl Mennefee,0,Newton,19080622,19080806,37,,1b37
 minoraverages/Howard,1908,Central Kansas League,becker,M90083,Becker,Karl M.,,Newton,,19080805,,,
-boxscores/1908/1908-EKR,1908,Central Kansas League,benedix,P1361607,Benedix,,,Little River,19080727,19080727,1,0,3b1
-boxscores/1908/1908-MDR,1908,Central Kansas League,benedix,P6254600,Benedix,,,Little River,19080724,19080725,2,0,3b2
-boxscores/1908/1908-SDU,1908,Central Kansas League,benedix,P6000561,Benedix,,,Little River,19080722,19080728,3,0,3b3
 minoraverages/Howard,1908,Central Kansas League,benedix,B00149,Benedix,Herman Arthur,0,Little River,19080721,19080728,6,,3b6
-boxscores/1908/1908-SDU,1908,Central Kansas League,becker,P9421554,Berker,,,Newton,19080625,19080625,1,0,1b1
-boxscores/1908/1908-EKR,1908,Central Kansas League,bidwell,P2433323,Bidwell,,,Little River,19080713,19080715,2,0,1b2
-boxscores/1908/1908-LRM,1908,Central Kansas League,bidwell,P2360820,Bidwell,,,Little River,19080720,19080721,2,0,
-boxscores/1908/1908-MDR,1908,Central Kansas League,bidwell,P7326316,Bidwell,,,Little River,19080724,19080724,1,0,1b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,bidwell,P2211363,Bidwell,,,Ellsworth,19080729,19080731,2,0,2b2
-boxscores/1908/1908-SDU,1908,Central Kansas League,bidwell,P7072277,Bidwell,,,Little River,19080722,19080723,2,0,1b2
-boxscores/1908/1908-SEJ,1908,Central Kansas League,bidwell,P4270443,Bidwell,,,Little River,19080709,19080718,3,0,"1b1,of2,lf1,rf1"
 minoraverages/Howard,1908,Central Kansas League,bidwell,B00158,Bidwell,,0,Little River,19080709,19080724,11,,"1b8,lf1,rf2"
 minoraverages/Howard,1908,Central Kansas League,bidwell,B00163,Bidwell,,0,Ellsworth,19080729,19080731,2,,2b2
 minoraverages/Howard,1908,Central Kansas League,bidwell,B00174,Bidwell,,1,Little River,,,,,
 minoraverages/Howard,1908,Central Kansas League,bidwell,B00174,Bidwell,,2,Ellsworth,,,,,
 minoraverages/Howard,1908,Central Kansas League,bidwell,B00174,Bidwell,,T,,19080709,19080731,13,,"1b8,2b2,lf1,rf2"
-boxscores/1908/1908-EKR,1908,Central Kansas League,bond,P3138489,Bond,,,Ellsworth,19080723,19080725,3,0,3b3
-boxscores/1908/1908-LRM,1908,Central Kansas League,bond,P1201602,Bond,,,Ellsworth,19080721,19080721,1,0,
-boxscores/1908/1908-MDR,1908,Central Kansas League,bond,P5638586,Bond,,,Ellsworth,19080630,19080701,2,0,3b2
-boxscores/1908/1908-SDU,1908,Central Kansas League,bond,P7275555,Bond,,,Ellsworth,19080622,19080807,15,0,"2b3,3b11"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,bond,P9486969,Bond,,,Ellsworth,19080709,19080815,8,0,"2b1,3b7,of1,rf1"
 minoraverages/Howard,1908,Central Kansas League,bond,B00182,Bond,,0,Ellsworth,19080622,19080815,36,,"2b3,3b30,rf1"
-boxscores/1908/1908-EM,1908,Central Kansas League,bothwell,P6888551,Bothwell,,,Ellsworth,19080627,19080627,1,0,"of1,cf1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,bothwell,P3399128,Bothwell,,,Ellsworth,19080630,19080630,1,0,"of1,lf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,bothwell,P9312577,Bothwell,,,Ellsworth,19080622,19080626,3,0,"of3,lf1,cf2"
 minoraverages/Howard,1908,Central Kansas League,bothwell,B00196,Bothwell,,0,Ellsworth,19080625,19080630,5,,"lf2,cf3"
-boxscores/1908/1908-SDU,1908,Central Kansas League,bowen,P0042071,Bowan,,,Ellsworth,19080626,19080626,1,0,"of1,lf1"
-boxscores/1908/1908-EKR,1908,Central Kansas League,bowen,P7951715,Bowen,,,Little River,19080715,19080715,1,0,c1
-boxscores/1908/1908-SDU,1908,Central Kansas League,bowen,P1399501,Bowen,,,Little River,19080701,19080722,8,0,"c4,of4,lf3,rf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,bowen,P3701795,Bowen,,,Little River,19080709,19080718,3,0,"of3,lf1,cf2"
 minoraverages/Howard,1908,Central Kansas League,bowen,B00207,Bowen,,0,Little River,19080630,19080722,15,,"c6,lf5,cf2,rf2"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,bidwell,P2145373,Bridwell,,,Little River,19080717,19080717,1,0,1b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,burton,P1229038,Briton,,,Ellsworth,19080625,19080625,1,0,ss1
-boxscores/1908/1908-SDU,1908,Central Kansas League,brown,P1065884,Brown,,,Salina,19080722,19080808,10,1,"p1,3b8,ss1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,brown,P7293810,Brown,,,Salina,19080716,19080721,5,0,"2b1,3b4"
 minoraverages/Howard,1908,Central Kansas League,brown,B00210,Brown,"Richard ""Dick""",0,Salina,19080716,19080808,15,,"p1,3b13,ss1"
 minoraverages/Howard,1908,Central Kansas League,brown,M90110,Brown,Richard,,Salina,19080730,,,,
 minoraverages/Howard,1908,Central Kansas League,brown,P10569,Brown,"Richard ""Dick""",0,Salina,,,,1,
-boxscores/1908/1908-EM,1908,Central Kansas League,brumley,P4451709,Brumley,,,Newton,19080627,19080627,1,0,c1
-boxscores/1908/1908-SDU,1908,Central Kansas League,brumley,P9840215,Brumley,,,Newton,19080622,19080629,6,0,"c4,2b2,of1,lf1"
 minoraverages/Howard,1908,Central Kansas League,brumley,B00229,Brumley,Claude Albro,0,Newton,19080622,19080629,7,,"c5,2b2"
 minoraverages/Howard,1908,Central Kansas League,bryan,B00232,Bryan,,0,Newton,19080818,19080818,1,,lf1
-boxscores/1908/1908-EKR,1908,Central Kansas League,burgess,P2965256,Burgess,,,Newton,19080703,19080815,7,3,"p3,of4,lf1,rf3"
-boxscores/1908/1908-MDR,1908,Central Kansas League,burgess,P4424605,Burgess,,,McPherson,19080625,19080630,2,0,"of2,rf2"
-boxscores/1908/1908-MDR,1908,Central Kansas League,burgess,P5465353,Burgess,,,Newton,19080708,19080801,3,2,"p2,of1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,burgess,P2179558,Burgess,,,McPherson,19080622,19080629,5,2,"p2,of3,rf3"
-boxscores/1908/1908-SDU,1908,Central Kansas League,burgess,P7102322,Burgess,,,Newton,19080702,19080728,6,3,"p3,of4,lf1,cf1,rf2"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,burgess,P9313736,Burgess,,,Newton,19080709,19080817,3,3,p3
 minoraverages/Howard,1908,Central Kansas League,burgess,B00241,Burgess,Earl A.,0,McPherson,19080622,19080630,7,,"p3,rf4"
 minoraverages/Howard,1908,Central Kansas League,burgess,B00255,Burgess,Earl A.,0,Newton,19080702,19080817,22,,"p12,lf3,cf1,rf6"
 minoraverages/Howard,1908,Central Kansas League,burgess,B00264,Burgess,Earl A.,1,McPherson,,,,,
@@ -103,693 +40,194 @@ minoraverages/Howard,1908,Central Kansas League,burgess,B00264,Burgess,Earl A.,T
 minoraverages/Howard,1908,Central Kansas League,burgess,M90047,Burgess,Earl A.,,McPherson,,19080630,,,
 minoraverages/Howard,1908,Central Kansas League,burgess,P10228,Burgess,Earl A.,0,McPherson,,,,3,
 minoraverages/Howard,1908,Central Kansas League,burgess,P10361,Burgess,Earl A.,0,Newton,,,,12,
-boxscores/1908/1908-EKR,1908,Central Kansas League,burton,P3197296,Burton,,,Ellsworth,19080723,19080725,3,0,ss3
-boxscores/1908/1908-MDR,1908,Central Kansas League,burton,P5802929,Burton,,,Ellsworth,19080630,19080818,3,0,ss3
-boxscores/1908/1908-SDU,1908,Central Kansas League,burton,P8462170,Burton,,,Ellsworth,19080624,19080807,13,0,"ss13,of1,rf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,burton,P6692016,Burton,,,Ellsworth,19080709,19080815,11,0,ss10
 minoraverages/Howard,1908,Central Kansas League,burton,B00278,Burton,,0,Ellsworth,19080624,19080818,36,,"2b1,ss34,cf1"
-boxscores/1908/1908-EKR,1908,Central Kansas League,bush@ump,P6456694,Bush,,,#umpire,19080713,19080715,,,
-boxscores/1908/1908-MDR,1908,Central Kansas League,bush@ump,P1028375,Bush,,,#umpire,19080717,19080717,,,
-boxscores/1908/1908-SDU,1908,Central Kansas League,bush@ump,P7601312,Bush,,,#umpire,19080701,19080708,,,
-boxscores/1908/1908-SEJ,1908,Central Kansas League,bush@ump,P4759734,Bush,,,#umpire,19080710,19080714,,,
-boxscores/1908/1908-SEJ,1908,Central Kansas League,burton,P3032222,Buton,,,Ellsworth,19080713,19080713,1,0,ss1
-boxscores/1908/1908-SEJ,1908,Central Kansas League,bryan,P1805961,Byran,,,Newton,19080818,19080818,1,0,"of1,lf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,carderman,P6499149,Cardeman,,,Little River,19080722,19080728,2,2,p2
 minoraverages/Howard,1908,Central Kansas League,carderman,B00286,Carderman,,0,Little River,19080715,19080728,4,,p4
 minoraverages/Howard,1908,Central Kansas League,carderman,P10159,Carderman,,0,Little River,,,,4,
-boxscores/1908/1908-SEJ,1908,Central Kansas League,carlberg,P8830284,Carlberg,,,Salina,19080715,19080715,1,0,3b1
 minoraverages/Howard,1908,Central Kansas League,carlberg,B00293,Carlberg,Bror Justus,0,Salina,19080715,19080715,1,,3b1
 minoraverages/Howard,1908,Central Kansas League,carlson,B00308,Carlson,,0,McPherson,19080625,19080626,2,,"p1,rf1"
 minoraverages/Howard,1908,Central Kansas League,carlson,P10266,Carlson,,0,McPherson,,,,1,
-boxscores/1908/1908-SDU,1908,Central Kansas League,carlson,P7152241,Carson,,,McPherson,19080626,19080626,1,0,"of1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,cassell,P0644335,Cassel,,,Salina,19080622,19080706,10,0,3b10
-boxscores/1908/1908-SDU,1908,Central Kansas League,cassell,P4741947,Cassell,,,Salina,19080630,19080808,15,0,"3b6,ss1,of8,rf8"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,cassell,P6953361,Cassell,,,Salina,19080709,19080721,11,0,"2b1,3b4,of6,rf6"
 minoraverages/Howard,1908,Central Kansas League,cassell,B00319,Cassell,"Robert A. ""Bobby""",0,Salina,19080622,19080808,35,,"2b1,3b20,ss1,rf13"
 minoraverages/Howard,1908,Central Kansas League,cassell,M90107,Cassell,"Robert A. ""Bobby""",,Salina,,19080729,,,
-boxscores/1908/1908-EKR,1908,Central Kansas League,citizen,P0715015,Citizen,,,Minneapolis,19080703,19080805,4,0,3b4
-boxscores/1908/1908-MDR,1908,Central Kansas League,citizen,P9348136,Citizen,,,Minneapolis,19080709,19080730,4,0,3b4
-boxscores/1908/1908-MM,1908,Central Kansas League,citizen,P6207519,Citizen,,,Minneapolis,19080622,19080622,1,0,3b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,citizen,P4491953,Citizen,,,Minneapolis,19080701,19080808,17,0,3b16
-boxscores/1908/1908-SEJ,1908,Central Kansas League,citizen,P0467655,Citizen,,,Minneapolis,19080713,19080817,9,0,3b9
 minoraverages/Howard,1908,Central Kansas League,citizen,B00324,Citizen,Theodore Lee,0,Minneapolis,19080622,19080818,50,,3b50
-boxscores/1908/1908-SDU,1908,Central Kansas League,parks,P1200141,Clark,,,Ellsworth,19080722,19080722,1,0,"of1,cf1"
-boxscores/1908/1908-EKR,1908,Central Kansas League,clawson,P8056408,Clawson,,,McPherson,19080707,19080815,3,3,p3
-boxscores/1908/1908-MDR,1908,Central Kansas League,clawson,P4042297,Clawson,,,McPherson,19080625,19080818,10,7,"p7,1b2,of2,rf2"
-boxscores/1908/1908-SDU,1908,Central Kansas League,clawson,P1797250,Clawson,,,McPherson,19080623,19080807,8,7,"p7,of1,rf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,clawson@ump,P0795099,Clawson,,,#umpire,19080803,19080803,,,
-boxscores/1908/1908-SEJ,1908,Central Kansas League,clawson,P3382168,Clawson,,,McPherson,19080713,19080720,3,3,p3
 minoraverages/Howard,1908,Central Kansas League,clawson,B00335,Clawson,"Andrew ""Andy""",0,McPherson,19080623,19080818,23,,"p19,1b1,rf3"
 minoraverages/Howard,1908,Central Kansas League,clawson,M90052,Clawson,Andrew,,McPherson,19080701,19080719,,,
 minoraverages/Howard,1908,Central Kansas League,clawson,P10176,Clawson,"Andrew ""Andy""",0,McPherson,,,,19,
-boxscores/1908/1908-EKR,1908,Central Kansas League,clifton,P0448544,Clifton,,,Minneapolis,19080803,19080804,2,0,c2
-boxscores/1908/1908-EKR,1908,Central Kansas League,clifton.r,P4234272,Clifton,R.,,Minneapolis,19080805,19080805,1,0,"of1,cf1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,clifton.r,P5703041,Clifton,R.,,Minneapolis,19080709,19080730,4,0,"of4,lf2,cf3"
-boxscores/1908/1908-MDR,1908,Central Kansas League,clifton.j,P7673337,Clifton,J.,,Minneapolis,19080729,19080730,2,0,c2
-boxscores/1908/1908-MDR,1908,Central Kansas League,clifton,P9081665,Clifton,,,Minneapolis,19080711,19080711,1,0,"of1,lf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,clifton.j,P2714996,Clifton,J,,Minneapolis,19080727,19080727,1,0,c1
-boxscores/1908/1908-SDU,1908,Central Kansas League,clifton,P4225482,Clifton,,,Minneapolis,19080722,19080722,1,0,"of1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,clifton.r,P7319754,Clifton,R.,,Minneapolis,19080707,19080808,9,0,"of8,lf5,cf1,rf2"
-boxscores/1908/1908-SDU,1908,Central Kansas League,clifton.j,P9290050,Clifton,J.,,Minneapolis,19080707,19080808,8,0,c8
-boxscores/1908/1908-SEJ,1908,Central Kansas League,clifton.r,P4859232,Clifton,R.,,Minneapolis,19080713,19080815,8,0,"of8,lf6,rf2"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,clifton.j,P6829528,Clifton,J.,,Minneapolis,19080714,19080806,6,0,c6
 minoraverages/Howard,1908,Central Kansas League,clifton.j,B00343,Clifton,Jesse W.,0,Minneapolis,19080707,19080818,28,,c28
 minoraverages/Howard,1908,Central Kansas League,clifton.r,B00356,Clifton,Roland A.,0,Minneapolis,19080707,19080818,28,,"p1,lf16,cf7,rf3"
-boxscores/1908/1908-SDU,1908,Central Kansas League,clifton.j,P1383824,Clifton.J.,,,Minneapolis,19080723,19080723,1,0,c1
-boxscores/1908/1908-MM,1908,Central Kansas League,clinton,P4701879,Clinton,,,Little River,19080622,19080622,1,0,1b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,clinton,P8088201,Clinton,,,Little River,19080623,19080627,5,0,"1b3,of2,lf2"
 minoraverages/Howard,1908,Central Kansas League,clinton,B00362,Clinton,,0,Little River,19080622,19080627,6,,"1b4,lf2"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,cloherty,P7941098,Clogerty,,,McPherson,19080713,19080713,1,0,3b1
-boxscores/1908/1908-SEJ,1908,Central Kansas League,cloherty,P7897912,Clogety,,,McPherson,19080714,19080714,1,0,3b1
-boxscores/1908/1908-MDR,1908,Central Kansas League,cloherty,P7778696,Cloharty,,,McPherson,19080724,19080725,2,0,3b2
-boxscores/1908/1908-EKR,1908,Central Kansas League,cloherty,P2734475,Cloherty,,,McPherson,19080814,19080815,2,0,c2
-boxscores/1908/1908-MDR,1908,Central Kansas League,cloherty,P0268812,Cloherty,,,McPherson,19080717,19080818,11,0,"c9,3b3"
-boxscores/1908/1908-SDU,1908,Central Kansas League,cloherty,P6182261,Cloherty,,,McPherson,19080722,19080810,7,0,"c3,3b4"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,cloherty,P8484555,Cloherty,,,McPherson,19080715,19080721,2,0,3b2
 minoraverages/Howard,1908,Central Kansas League,cloherty,B00370,Cloherty,Hugh,0,McPherson,19080712,19080818,28,,"c15,3b13"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,cloherty,P0720122,Clouberty,,,McPherson,19080720,19080720,1,0,3b1
-boxscores/1908/1908-SEJ,1908,Central Kansas League,cloherty,P7424980,Cloutherty,,,McPherson,19080803,19080803,1,0,c1
-boxscores/1908/1908-SDU,1908,Central Kansas League,corl,P2999330,Coil,,,Minneapolis,19080624,19080624,1,0,"of1,lf1"
-boxscores/1908/1908-EM,1908,Central Kansas League,cole,P9677056,Cole,,,Newton,19080627,19080627,1,1,"p1,of1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,cole,P7568794,Cole,,,Newton,19080625,19080704,5,1,"p1,of5,cf1,rf4"
 minoraverages/Howard,1908,Central Kansas League,cole,B00381,Cole,Charles S.,0,Newton,19080625,19080704,6,,"p2,rf4"
 minoraverages/Howard,1908,Central Kansas League,cole,P10432,Cole,Charles S.,0,Newton,,,,2,
-boxscores/1908/1908-EKR,1908,Central Kansas League,connell,P5572024,Connell,,,Newton,19080703,19080815,13,0,"of13,lf1,cf12"
-boxscores/1908/1908-EM,1908,Central Kansas League,connell,P4320584,Connell,,,Newton,19080627,19080627,1,0,"of1,rf1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,connell,P8072121,Connell,,,Newton,19080708,19080808,5,0,"of5,cf5"
-boxscores/1908/1908-SDU,1908,Central Kansas League,connell,P9709090,Connell,,,Newton,19080622,19080730,15,0,"of15,cf15"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,connell,P1920504,Connell,,,Newton,19080709,19080818,6,0,"of6,cf6"
 minoraverages/Howard,1908,Central Kansas League,connell,B00397,Connell,Tommy,0,Newton,19080622,19080818,46,,cf46
-boxscores/1908/1908-EKR,1908,Central Kansas League,cook,P1925172,Cook,,,Little River,19080727,19080727,1,0,1b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,cook,P5666014,Cook,,,Little River,19080728,19080728,1,0,1b1
 minoraverages/Howard,1908,Central Kansas League,cook,B00403,Cook,,0,Little River,19080727,19080728,2,,1b2
-boxscores/1908/1908-EKR,1908,Central Kansas League,carderman,P6745411,Corderman,,,Little River,19080715,19080715,1,1,p1
-boxscores/1908/1908-SEJ,1908,Central Kansas League,carderman,P7369091,Corderman,,,Little River,19080718,19080718,1,1,p1
-boxscores/1908/1908-MM,1908,Central Kansas League,corl,P9277209,Corl,,,Minneapolis,19080622,19080622,1,0,"of1,lf1"
 minoraverages/Howard,1908,Central Kansas League,corl,B00416,Corl,,0,Minneapolis,19080622,19080624,3,,lf3
-boxscores/1908/1908-SDU,1908,Central Kansas League,crow@ump,P7200585,Crow,,,#umpire,19080624,19080624,,,
-boxscores/1908/1908-MDR,1908,Central Kansas League,daniels,P7568834,Daniels,,,McPherson,19080710,19080717,2,2,p2
-boxscores/1908/1908-SDU,1908,Central Kansas League,daniels,P5323787,Daniels,,,McPherson,19080722,19080722,1,1,p1
 minoraverages/Howard,1908,Central Kansas League,daniels,B00427,Daniels,"Robert Ross ""Ross""",0,McPherson,19080710,19080722,2,,p2
 minoraverages/Howard,1908,Central Kansas League,daniels,P10231,Daniels,"Robert Ross ""Ross""",0,McPherson,,,,2,
-boxscores/1908/1908-MM,1908,Central Kansas League,darling,P6320097,Darling,,,Little River,19080622,19080622,1,0,"of1,lf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,darling,P9706419,Darling,,,Little River,19080623,19080706,7,0,"3b1,of5,lf1,rf4"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,darling,P6904585,Darling,,,Little River,19080709,19080709,1,0,"of1,rf1"
 minoraverages/Howard,1908,Central Kansas League,darling,B00434,Darling,,0,Little River,19080622,19080709,10,,"c1,3b1,lf2,rf5"
-boxscores/1908/1908-EKR,1908,Central Kansas League,davis,P0187103,Davis,,,Little River,19080713,19080727,3,0,"of3,cf3"
-boxscores/1908/1908-MDR,1908,Central Kansas League,davis,P7721440,Davis,,,Little River,19080724,19080813,6,0,"of5,cf5"
-boxscores/1908/1908-MM,1908,Central Kansas League,davis,P8838391,Davis,,,Little River,19080622,19080622,1,0,3b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,davis,P3634889,Davis,,,Little River,19080623,19080810,17,0,"3b3,ss1,of13,cf13"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,davis,P5937183,Davis,,,Little River,19080717,19080817,6,0,"of6,cf6"
 minoraverages/Howard,1908,Central Kansas League,davis,B00442,Davis,,0,Little River,19080622,19080818,34,,"3b4,ss1,cf29"
-boxscores/1908/1908-EKR,1908,Central Kansas League,dewey,P9482767,Dewey,,,Minneapolis,19080703,19080703,1,1,p1
-boxscores/1908/1908-SDU,1908,Central Kansas League,dewey,P3223609,Dewey,,,Minneapolis,19080626,19080626,1,1,p1
 minoraverages/Howard,1908,Central Kansas League,dewey,B00450,Dewey,,0,Minneapolis,19080626,19080703,3,,"p3,rf4"
 minoraverages/Howard,1908,Central Kansas League,dewey,P10348,Dewey,,0,Minneapolis,,,,3,
-boxscores/1908/1908-SDU,1908,Central Kansas League,dotson,P5394382,Dotson,,,Newton,19080630,19080630,1,0,"of1,rf1"
 minoraverages/Howard,1908,Central Kansas League,dotson,B00469,Dotson,,0,Newton,19080630,19080630,1,,rf1
-boxscores/1908/1908-EKR,1908,Central Kansas League,eddy,P9878780,Eddy,,,Ellsworth,19080723,19080725,3,0,"of3,lf1,rf2"
-boxscores/1908/1908-SDU,1908,Central Kansas League,eddy,P4015846,Eddy,,,Ellsworth,19080728,19080728,1,0,"of1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,eddy@ump,P9766932,Eddy,,,#umpire,19080728,19080728,,,
 minoraverages/Howard,1908,Central Kansas League,eddy,B00475,Eddy,,0,Ellsworth,19080723,19080728,4,,rf4
-boxscores/1908/1908-SDU,1908,Central Kansas League,epling,P3439729,Epley,,,Little River,19080810,19080810,1,0,3b1
-boxscores/1908/1908-MDR,1908,Central Kansas League,epling,P4191176,Epling,,,Little River,19080804,19080813,4,0,3b3
-boxscores/1908/1908-SDU,1908,Central Kansas League,epling,P9334993,Epling,,,Little River,19080729,19080801,2,0,3b2
-boxscores/1908/1908-SEJ,1908,Central Kansas League,epling,P5310695,Epling,,,Little River,19080803,19080817,4,0,3b4
 minoraverages/Howard,1908,Central Kansas League,epling,B00488,Epling,Oscar Henly,0,Little River,19080729,19080818,15,,"3b14,ss1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,farrell,P2778207,Farrell,,,Ellsworth,19080818,19080818,1,0,"of1,cf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,farrell,P0533160,Farrell,,,Ellsworth,19080727,19080810,9,0,"of9,lf1,cf8"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,farrell,P2118078,Farrell,,,Ellsworth,19080803,19080815,5,0,"of5,cf5"
 minoraverages/Howard,1908,Central Kansas League,farrell,B00491,Farrell,"""Ginger""",0,Ellsworth,19080727,19080818,19,,cf19
-boxscores/1908/1908-EKR,1908,Central Kansas League,freeland,P9873321,Freeland,,,Little River,19080713,19080713,1,0,c1
-boxscores/1908/1908-MM,1908,Central Kansas League,freeland,P1210177,Freeland,,,Little River,19080622,19080622,1,0,"of1,cf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,freeland,P2958803,Freeland,,,Little River,19080623,19080708,10,1,"p1,c4,of6,lf1,cf1,rf4"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,freeland,P0498281,Freeland,,,Little River,19080709,19080709,1,0,c1
 minoraverages/Howard,1908,Central Kansas League,freeland,B00502,Freeland,,0,Little River,19080622,19080714,15,,"c8,1b1,cf2,rf2"
-boxscores/1908/1908-MBW,1908,Central Kansas League,frick,P3456617,Frick,,,Ellsworth,19080812,19080812,1,0,
-boxscores/1908/1908-MDR,1908,Central Kansas League,frick,P5800998,Frick,,,Ellsworth,19080818,19080818,1,0,2b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,frick,P9820975,Frick,,,Ellsworth,19080810,19080810,1,0,ss1
-boxscores/1908/1908-SEJ,1908,Central Kansas League,frick,P2797637,Frick,,,Ellsworth,19080811,19080815,2,0,ss2
 minoraverages/Howard,1908,Central Kansas League,frick,B00515,Frick,"Ernest D. ""Jimmie""",0,Ellsworth,19080810,19080818,7,,ss7
-boxscores/1908/1908-SEJ,1908,Central Kansas League,freeland,P8773869,Frieland,,,Little River,19080710,19080710,1,0,c1
-boxscores/1908/1908-SDU,1908,Central Kansas League,fulwider,P9960120,Fullenweider,,,Little River,19080810,19080810,1,1,p1
-boxscores/1908/1908-MDR,1908,Central Kansas League,fulwider,P6653451,Fulwider,,,Little River,19080812,19080813,2,1,"p1,2b1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,fulwider,P5809642,Fulwider,,,Little River,19080811,19080817,2,1,"p1,ss1"
 minoraverages/Howard,1908,Central Kansas League,fulwider,B00528,Fulwider,Alta Linn,0,Little River,19080803,19080818,8,,"p5,ss1"
 minoraverages/Howard,1908,Central Kansas League,fulwider,P10137,Fulwider,Alta Linn,0,Little River,,,,5,
-boxscores/1908/1908-EM,1908,Central Kansas League,funston,P4887571,Funston,,,Ellsworth,19080627,19080627,1,0,ss1
-boxscores/1908/1908-SDU,1908,Central Kansas League,funston,P1627693,Funston,,,Ellsworth,19080622,19080629,5,0,"2b1,ss4"
 minoraverages/Howard,1908,Central Kansas League,funston,B00531,Funston,,0,Ellsworth,19080622,19080627,5,,"2b1,ss4"
 minoraverages/Howard,1908,Central Kansas League,fury,B00544,Fury,"Arthur ""Farmer""",0,Salina,19080811,19080811,1,,p1
 minoraverages/Howard,1908,Central Kansas League,fury,P10542,Fury,"Arthur ""Farmer""",0,Salina,,,,1,
-boxscores/1908/1908-EKR,1908,Central Kansas League,garrison.s,P4454230,Garrison,,,Minneapolis,19080703,19080805,4,0,"of4,lf1,cf3"
-boxscores/1908/1908-MBW,1908,Central Kansas League,garrison.s,P4298515,Garrison,[S.],,Minneapolis,19080812,19080812,1,0,
-boxscores/1908/1908-MDR,1908,Central Kansas League,garrison.a,P0332582,Garrison,A.,,Minneapolis,19080625,19080625,1,0,"of1,rf1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,garrison,P9347223,Garrison,,,Minneapolis,19080709,19080730,5,0,"of5,cf3,rf2"
-boxscores/1908/1908-MDR,1908,Central Kansas League,garrison.s,P9858573,Garrison,H.,,Minneapolis,19080625,19080625,1,0,"of1,cf1"
-boxscores/1908/1908-MM,1908,Central Kansas League,garrison.s,P5505444,Garrison,H.,,Minneapolis,19080622,19080622,1,0,"of1,cf1"
-boxscores/1908/1908-MM,1908,Central Kansas League,garrison.a,P5979453,Garrison,A.,,Minneapolis,19080622,19080622,1,0,"of1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,garrison.s,P3210102,Garrison,H.,,Minneapolis,19080623,19080704,6,0,"of6,cf6"
-boxscores/1908/1908-SDU,1908,Central Kansas League,garrison.a,P3684111,Garrison,A.,,Minneapolis,19080623,19080626,3,0,"of3,rf3"
-boxscores/1908/1908-SDU,1908,Central Kansas League,garrison.s,P9093184,Garrison,,,Minneapolis,19080702,19080808,10,0,"of9,cf9"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,garrison,P6291350,Garrison,,,Minneapolis,19080713,19080817,8,0,"of8,cf8"
 minoraverages/Howard,1908,Central Kansas League,garrison.a,B00553,Garrison,Al,0,Minneapolis,19080622,19080627,6,,rf6
 minoraverages/Howard,1908,Central Kansas League,garrison.s,B00566,Garrison,"Sam. Hassel ""Hass""",0,Minneapolis,19080622,19080818,47,,cf47
-boxscores/1908/1908-SEJ,1908,Central Kansas League,gibson,P6360435,Gibson,,,Minneapolis,19080815,19080815,1,0,c1
 minoraverages/Howard,1908,Central Kansas League,gibson,B00577,Gibson,(Robert?),0,Minneapolis,19080815,19080815,1,,c1
-boxscores/1908/1908-SDU,1908,Central Kansas League,gill,P3210536,Gill,,,Ellsworth,19080624,19080624,1,0,"of1,cf1"
 minoraverages/Howard,1908,Central Kansas League,gill,B00589,Gill,,0,Ellsworth,19080622,19080624,2,,cf2
-boxscores/1908/1908-SDU,1908,Central Kansas League,golthwaite,P0708851,Goldthwaite,,,Newton,19080630,19080630,1,0,c1
-boxscores/1908/1908-SDU,1908,Central Kansas League,golthwaite,P6084703,Goldwaithe,,,Newton,19080730,19080730,1,0,c1
-boxscores/1908/1908-EKR,1908,Central Kansas League,golthwaite,P5517733,Golthwaite,,,Newton,19080703,19080815,10,0,c10
-boxscores/1908/1908-MDR,1908,Central Kansas League,golthwaite,P1503622,Golthwaite,,,Newton,19080708,19080808,4,0,c4
-boxscores/1908/1908-SDU,1908,Central Kansas League,golthwaite,P9258575,Golthwaite,,,Newton,19080701,19080729,10,0,"c9,of1,rf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,golthwaite,P0843493,Golthwaite,,,Newton,19080709,19080818,6,0,c6
 minoraverages/Howard,1908,Central Kansas League,golthwaite,B00590,Golthwaite,,0,Newton,19080630,19080818,38,,"c37,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,hennessey,P5321076,Hainessey,,,McPherson,19080728,19080728,1,0,"of1,lf1"
-boxscores/1908/1908-EKR,1908,Central Kansas League,hall,P1795138,Hall,,,McPherson,19080707,19080707,1,0,"of1,rf1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,hall,P4295235,Hall,,,McPherson,19080630,19080708,3,0,"of3,cf2,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,hall,P5932204,Hall,,,McPherson,19080702,19080706,5,0,"of5,cf4,rf1"
 minoraverages/Howard,1908,Central Kansas League,hall,B00609,Hall,,0,McPherson,19080630,19080708,9,,"cf6,rf3"
 minoraverages/Howard,1908,Central Kansas League,hamilton,M90026,Hamilton,G. W.,,Little River,,,,,
-boxscores/1908/1908-EKR,1908,Central Kansas League,hamlin,P0818945,Hamlin,,,Little River,19080713,19080727,3,0,2b3
-boxscores/1908/1908-LRM,1908,Central Kansas League,hamlin,P6877354,Hamlin,,,Little River,19080720,19080720,1,0,
-boxscores/1908/1908-MDR,1908,Central Kansas League,hamlin,P9452066,Hamlin,,,Little River,19080724,19080812,5,0,2b4
-boxscores/1908/1908-SDU,1908,Central Kansas League,hamlin,P4595883,Hamlin,,,Little River,19080627,19080810,14,0,"2b13,ss1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,hamlin,P0571585,Hamlin,,,Little River,19080709,19080817,8,0,2b7
 minoraverages/Howard,1908,Central Kansas League,hamlin,B00614,Hamlin,Fritz,0,Little River,19080627,19080818,30,,2b30
-boxscores/1908/1908-SDU,1908,Central Kansas League,hennessey,P3140636,Hanisey,,,McPherson,19080810,19080810,1,0,"of1,lf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,harkins,P5342616,Hark,,,Little River,19080810,19080810,1,0,ss1
-boxscores/1908/1908-EKR,1908,Central Kansas League,harkins,P2008229,Harkin,,,Little River,19080715,19080715,1,0,ss1
-boxscores/1908/1908-EKR,1908,Central Kansas League,harkins,P3807544,Harkins,,,Little River,19080713,19080727,2,0,ss2
-boxscores/1908/1908-LRM,1908,Central Kansas League,harkins,P3735041,Harkins,,,Little River,19080720,19080720,1,0,
-boxscores/1908/1908-MDR,1908,Central Kansas League,harkins,P8700537,Harkins,,,Little River,19080724,19080813,6,0,ss5
-boxscores/1908/1908-SDU,1908,Central Kansas League,harkins,P8446498,Harkins,,,Little River,19080625,19080801,15,0,"2b3,3b2,ss10"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,harkins,P5644664,Harkins,,,Little River,19080717,19080817,5,0,ss5
 minoraverages/Howard,1908,Central Kansas League,harkins,B00623,Harkins,Bill,0,Little River,19080625,19080818,44,,"2b2,3b3,ss29"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,harkins,P4873514,Harkis,,,Little River,19080815,19080815,1,0,ss1
-boxscores/1908/1908-EM,1908,Central Kansas League,heshley,P9019755,Hashley,,,Newton,19080627,19080627,1,1,"p1,of1,lf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,heshley,P4408261,Hashley,,,Newton,19080622,19080626,4,3,"p3,of1,rf1"
-boxscores/1908/1908-EKR,1908,Central Kansas League,hassler,P6907738,Hassler,,,Little River,19080713,19080715,2,1,"p1,of1,rf1"
-boxscores/1908/1908-LRM,1908,Central Kansas League,hassler,P6835235,Hassler,,,Little River,19080720,19080720,1,1,p1
-boxscores/1908/1908-MDR,1908,Central Kansas League,hassler,P1800731,Hassler,,,Little River,19080725,19080813,5,4,"p4,1b1"
-boxscores/1908/1908-MM,1908,Central Kansas League,hassler,P8160370,Hassler,,,Little River,19080622,19080622,1,1,p1
-boxscores/1908/1908-SDU,1908,Central Kansas League,hassler,P1546692,Hassler,,,Little River,19080625,19080801,10,8,"p8,of2,cf2"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,hassler,P2791222,Hassler,,,#umpire,19080803,19080803,,,
-boxscores/1908/1908-SEJ,1908,Central Kansas League,hassler,P8744858,Hassler,,,Little River,19080710,19080815,4,4,p4
 minoraverages/Howard,1908,Central Kansas League,hassler,B00638,Hassler,"Robert M. ""Bob""",0,Little River,19080622,19080818,24,,"p19,1b2,cf2,rf1"
 minoraverages/Howard,1908,Central Kansas League,hassler,P10113,Hassler,"Robert M. ""Bob""",0,Little River,,,,19,
 minoraverages/Howard,1908,Central Kansas League,havener,B00646,Havener,,0,Ellsworth,19080623,19080627,3,,"p2,rf1"
 minoraverages/Howard,1908,Central Kansas League,havener,P10062,Havener,,0,Ellsworth,,,,2,
-boxscores/1908/1908-EM,1908,Central Kansas League,havener,P9372537,Havenor,,,Ellsworth,19080627,19080627,1,0,"of1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,havener,P6112659,Havenor,,,Ellsworth,19080623,19080623,1,1,p1
-boxscores/1908/1908-SEJ,1908,Central Kansas League,harkins,P6715709,Hawkins,,,Little River,19080709,19080710,2,0,ss2
-boxscores/1908/1908-EM,1908,Central Kansas League,hayden,P5563167,Hayden,,,Ellsworth,19080627,19080627,1,0,3b1
-boxscores/1908/1908-MDR,1908,Central Kansas League,hayden,P0986960,Hayden,,,Ellsworth,19080630,19080701,2,0,"c1,of1,cf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,hayden,P3646201,Hayden,,,Ellsworth,19080704,19080704,2,0,2b2
-boxscores/1908/1908-SEJ,1908,Central Kansas League,hayden,P1876047,Hayden,,,Ellsworth,19080709,19080709,1,0,2b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,hayden,P3495811,Haydon,,,Ellsworth,19080625,19080625,1,0,c1
-boxscores/1908/1908-EKR,1908,Central Kansas League,hayes,P2672354,Hayes,,,Little River,19080727,19080727,1,0,c1
-boxscores/1908/1908-LRM,1908,Central Kansas League,hayes,P7704427,Hayes,,,Little River,19080720,19080721,2,0,
-boxscores/1908/1908-MDR,1908,Central Kansas League,hayes,P0206691,Hayes,,,Little River,19080724,19080813,4,0,c4
-boxscores/1908/1908-SDU,1908,Central Kansas League,hayes,P6120140,Hayes,,,Little River,19080722,19080810,6,0,c6
-boxscores/1908/1908-SEJ,1908,Central Kansas League,hayes,P8422434,Hayes,,,Little River,19080717,19080817,6,0,c6
 minoraverages/Howard,1908,Central Kansas League,hayes,B00651,Hayes,,0,Little River,19080716,19080818,23,,c23
-boxscores/1908/1908-SDU,1908,Central Kansas League,haynes,P9529244,Haynes,,,Salina,19080724,19080729,3,0,1b3
 minoraverages/Howard,1908,Central Kansas League,haynes,B00667,Haynes,"L. G. ""Shorty""",0,Salina,19080724,19080729,3,,1b3
-boxscores/1908/1908-SDU,1908,Central Kansas League,headon,P0879333,Headen,,,Ellsworth,19080707,19080707,1,0,"of1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,headon,P0728943,Headon,,,Ellsworth,19080622,19080707,7,0,"c3,2b2,3b1,of1,rf1"
 minoraverages/Howard,1908,Central Kansas League,headon,B00672,Headon,"Walter ""Walt""",0,Ellsworth,19080622,19080709,16,,"c5,2b7,3b1,cf1,rf2"
-boxscores/1908/1908-SDU,1908,Central Kansas League,havener,P6006030,Heavener,,,Ellsworth,19080626,19080626,1,1,"p1,of1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,hennessey,P7360847,Henessey,,,McPherson,19080727,19080727,1,0,"of1,lf1"
-boxscores/1908/1908-EKR,1908,Central Kansas League,henmon,P4695277,Henmon,,,Little River,19080713,19080727,3,0,"3b2,of1,lf1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,henmon,P3328398,Henmon,,,Little River,19080724,19080813,6,0,"of5,lf5"
-boxscores/1908/1908-SDU,1908,Central Kansas League,henmon,P8472215,Henmon,,,Little River,19080707,19080810,5,0,"3b1,of4,lf4"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,henmon,P4447917,Henmon,,,Little River,19080709,19080817,7,0,"3b3,of4,lf4"
 minoraverages/Howard,1908,Central Kansas League,henmon,B00680,Henmon,,0,Little River,19080707,19080818,22,,"3b9,lf13"
-boxscores/1908/1908-EKR,1908,Central Kansas League,hennessey,P1524339,Hennessey,,,McPherson,19080814,19080815,2,0,"of2,lf2"
-boxscores/1908/1908-MDR,1908,Central Kansas League,hennessey,P0157460,Hennessey,,,McPherson,19080708,19080818,16,0,"of15,lf15"
-boxscores/1908/1908-MDR,1908,Central Kansas League,hennessey@ump,P4957015,Hennessey,,,#umpire,19080729,19080729,,,
-boxscores/1908/1908-SDU,1908,Central Kansas League,hennessey,P5301277,Hennessey,,,McPherson,19080704,19080807,6,0,"of6,lf5,rf1"
 minoraverages/Howard,1908,Central Kansas League,hennessey,B00695,Hennessey,Jasper,0,McPherson,19080704,19080818,35,,"p1,lf35"
-boxscores/1908/1908-EKR,1908,Central Kansas League,hennessey,P1878222,Hennessy,,,McPherson,19080707,19080707,1,0,"of1,lf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,hennessey,P7628302,Hennessy,,,McPherson,19080713,19080713,1,0,"of1,lf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,hennessey,P0727077,Hennesy,,,McPherson,19080722,19080722,1,0,"of1,lf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,hennessey,P2311995,Hennesy,,,McPherson,19080714,19080803,5,0,"of5,lf5"
-boxscores/1908/1908-SDU,1908,Central Kansas League,henmon,P8770081,Hennion,,,Little River,19080708,19080708,1,0,3b1
-boxscores/1908/1908-SEJ,1908,Central Kansas League,henmon,P2381998,Hennon,,,Little River,19080710,19080710,1,0,3b1
-boxscores/1908/1908-EKR,1908,Central Kansas League,heshley,P4286047,Heshley,,,Newton,19080703,19080815,8,2,"p2,1b2,3b1,of3,lf1,rf2"
-boxscores/1908/1908-MDR,1908,Central Kansas League,heshley,P6786144,Heshley,,,Newton,19080731,19080808,2,1,"p1,1b1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,heshley,P8423113,Heshley,,,Newton,19080629,19080730,6,3,"p3,1b2,2b2"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,heshley,P0634527,Heshley,,,Newton,19080709,19080817,5,1,"p1,1b3,of1,lf1"
 minoraverages/Howard,1908,Central Kansas League,heshley,B00705,Heshley,"Oscar Logan ""Beans""",0,Newton,19080622,19080817,31,,"p12,1b11,2b2,3b1,cf7"
 minoraverages/Howard,1908,Central Kansas League,heshley,P10373,Heshley,"Oscar Logan ""Beans""",0,Newton,,,,12,
-boxscores/1908/1908-SEJ,1908,Central Kansas League,hicks,P1730778,Hicks,,,Little River,19080717,19080718,2,0,"of2,rf2"
 minoraverages/Howard,1908,Central Kansas League,hicks,B00718,Hicks,,0,Little River,19080717,19080718,2,,rf2
-boxscores/1908/1908-SDU,1908,Central Kansas League,hill,P3833065,Hill,,,Ellsworth,19080622,19080622,1,0,"of1,cf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,hinchcliffe,P9895393,Hinch,,,Newton,19080625,19080625,1,0,"of1,lf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,hinchcliffe,P4870090,Hinchcliffe,,,Newton,19080624,19080624,1,1,p1
 minoraverages/Howard,1908,Central Kansas League,hinchcliffe,B00726,Hinchcliffe,"Charles ""Slim""",0,Newton,19080624,19080625,2,,"p1,lf1"
 minoraverages/Howard,1908,Central Kansas League,hinchcliffe,P10455,Hinchcliffe,"Charles ""Slim""",0,Newton,,,,1,
-boxscores/1908/1908-EKR,1908,Central Kansas League,hoggatt,P8501167,Hoggatt,,,McPherson,19080707,19080707,1,0,c1
-boxscores/1908/1908-MDR,1908,Central Kansas League,hoggatt,P4487056,Hoggatt,,,McPherson,19080701,19080730,10,0,c10
-boxscores/1908/1908-MDR,1908,Central Kansas League,hoggatt,P8420727,Hoggatt,,,Little River,19080804,19080805,2,0,c1
-boxscores/1908/1908-SDU,1908,Central Kansas League,hoggatt,P2242009,Hoggatt,,,McPherson,19080622,19080728,12,0,c12
-boxscores/1908/1908-SEJ,1908,Central Kansas League,hoggatt,P3826927,Hoggatt,,,McPherson,19080713,19080721,5,0,c5
 minoraverages/Howard,1908,Central Kansas League,hoggatt,B00739,Hoggatt,John Grover,0,McPherson,19080622,19080730,27,,c27
 minoraverages/Howard,1908,Central Kansas League,hoggatt,B00747,Hoggatt,John Grover,0,Little River,19080804,19080806,3,,c3
 minoraverages/Howard,1908,Central Kansas League,hoggatt,B00752,Hoggatt,John Grover,1,McPherson,,,,,
 minoraverages/Howard,1908,Central Kansas League,hoggatt,B00752,Hoggatt,John Grover,2,Little River,,,,,
 minoraverages/Howard,1908,Central Kansas League,hoggatt,B00752,Hoggatt,John Grover,T,,19080622,19080806,30,,c30
-boxscores/1908/1908-SDU,1908,Central Kansas League,horrell,P0903774,Horrel,,,Little River,19080703,19080703,1,0,1b1
-boxscores/1908/1908-MDR,1908,Central Kansas League,horrell,P3256865,Horrell,,,Little River,19080725,19080725,1,0,1b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,horrell,P0194796,Horrell,,,Salina,19080722,19080810,6,0,1b6
-boxscores/1908/1908-SDU,1908,Central Kansas League,horrell,P3002826,Horrell,,,Little River,19080626,19080708,6,0,1b6
-boxscores/1908/1908-SEJ,1908,Central Kansas League,horrell,P0200992,Horrell,,,Little River,19080710,19080710,1,0,1b1
 minoraverages/Howard,1908,Central Kansas League,horrell,B00760,Horrell,"William W. ""Will""",0,Little River,19080626,19080711,12,,1b12
 minoraverages/Howard,1908,Central Kansas League,horrell,B00771,Horrell,"William W. ""Will""",0,Salina,19080716,19080818,21,,1b21
 minoraverages/Howard,1908,Central Kansas League,horrell,B00783,Horrell,"William W. ""Will""",1,Little River,,,,,
 minoraverages/Howard,1908,Central Kansas League,horrell,B00783,Horrell,"William W. ""Will""",2,Salina,,,,,
 minoraverages/Howard,1908,Central Kansas League,horrell,B00783,Horrell,"William W. ""Will""",T,,19080626,19080818,33,,1b33
-boxscores/1908/1908-SEJ,1908,Central Kansas League,horrell,P9090458,Horril,,,Salina,19080813,19080813,1,0,1b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,horrell,P4739150,Horrill,,,Little River,19080704,19080704,2,0,1b2
-boxscores/1908/1908-SEJ,1908,Central Kansas League,horrell,P3464006,Horrill,,,Salina,19080716,19080818,13,0,1b13
-boxscores/1908/1908-SEJ,1908,Central Kansas League,fulwider,P1438486,Hullingwider,,,Little River,19080803,19080803,1,1,p1
-boxscores/1908/1908-EKR,1908,Central Kansas League,hunt,P3712327,Hunt,,,Little River,19080727,19080727,1,0,"of1,rf1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,hunt,P9698216,Hunt,,,Little River,19080724,19080813,6,0,"of5,rf5"
-boxscores/1908/1908-SDU,1908,Central Kansas League,hunt,P7453169,Hunt,,,Little River,19080722,19080810,6,0,"of6,rf6"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,hunt,P9038087,Hunt,,,Little River,19080803,19080817,4,0,"of4,rf4"
 minoraverages/Howard,1908,Central Kansas League,hunt,B00794,Hunt,Carl,0,Little River,19080721,19080818,17,,rf17
-boxscores/1908/1908-SDU,1908,Central Kansas League,isbell,P9151407,Isbell,,,Salina,19080807,19080810,4,0,"1b2,of2,rf2"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,isbell,P4672965,Isbell,,,Salina,19080803,19080818,9,0,"of9,rf9"
 minoraverages/Howard,1908,Central Kansas League,isbell,B00806,Isbell,"Albert Harrison ""Izzy""",0,Salina,19080803,19080818,14,,"1b2,rf12"
-boxscores/1908/1908-EKR,1908,Central Kansas League,ivey@ump,P2691617,Ivey,,,#umpire,19080727,19080727,,,
-boxscores/1908/1908-SDU,1908,Central Kansas League,ivey@ump,P3836235,Ivey,,,#umpire,19080729,19080729,,,
-boxscores/1908/1908-EKR,1908,Central Kansas League,jennings,P9216141,Jennings,,,Minneapolis,19080703,19080805,4,0,ss4
-boxscores/1908/1908-MDR,1908,Central Kansas League,jennings,P4109134,Jennings,,,Minneapolis,19080625,19080730,6,0,ss6
-boxscores/1908/1908-MM,1908,Central Kansas League,jennings,P0468773,Jennings,,,Minneapolis,19080622,19080622,1,0,ss1
-boxscores/1908/1908-SDU,1908,Central Kansas League,jennings,P3855095,Jennings,,,Minneapolis,19080623,19080808,20,0,"3b1,ss19"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,jennings,P1053261,Jennings,,,Minneapolis,19080713,19080817,9,0,ss9
 minoraverages/Howard,1908,Central Kansas League,jennings,B00811,Jennings,Claude Stuart,0,Minneapolis,19080622,19080818,51,,ss51
-boxscores/1908/1908-SDU,1908,Central Kansas League,jewell,P9188881,Jew,,,McPherson,19080723,19080723,1,0,ss1
-boxscores/1908/1908-EKR,1908,Central Kansas League,jewell,P7251908,Jewell,,,McPherson,19080814,19080815,2,0,ss2
-boxscores/1908/1908-MDR,1908,Central Kansas League,jewell,P9857541,Jewell,,,McPherson,19080717,19080818,13,0,ss13
-boxscores/1908/1908-SDU,1908,Central Kansas League,jewell,P2516782,Jewell,,,McPherson,19080722,19080810,6,0,ss6
-boxscores/1908/1908-SEJ,1908,Central Kansas League,jewell,P0746628,Jewell,,,McPherson,19080720,19080803,3,0,ss3
 minoraverages/Howard,1908,Central Kansas League,jewell,B00822,Jewell,"""Stoney""",0,McPherson,19080720,19080818,25,,ss25
-boxscores/1908/1908-EKR,1908,Central Kansas League,johnson@ump,P1668835,Johnson,,,#umpire,19080804,19080804,,,
-boxscores/1908/1908-MDR,1908,Central Kansas League,johnson@ump,P4168932,Johnson,,,#umpire,19080808,19080818,,,
-boxscores/1908/1908-MDR,1908,Central Kansas League,johnson@ump,P7041555,Johnson,John,,#umpire,19080801,19080801,,,
-boxscores/1908/1908-MDR,1908,Central Kansas League,johnson,P8818689,Johnson,,,McPherson,19080625,19080711,7,1,"p1,2b1,3b1,of4,lf2,rf2"
-boxscores/1908/1908-SDU,1908,Central Kansas League,johnson,P6573642,Johnson,,,McPherson,19080622,19080706,9,3,"p3,1b1,of5,lf4,rf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,johnson@ump,P8017315,Johnson,,,#umpire,19080813,19080813,,,
 minoraverages/Howard,1908,Central Kansas League,johnson,B00833,Johnson,Ray,0,McPherson,19080622,19080711,17,,"p4,3b2,lf3,rf7"
 minoraverages/Howard,1908,Central Kansas League,johnson,P10215,Johnson,Ray,0,McPherson,,,,4,
-boxscores/1908/1908-EKR,1908,Central Kansas League,johnson@ump,P7205591,Johnston,,,#umpire,19080803,19080815,,,
-boxscores/1908/1908-EKR,1908,Central Kansas League,jones.w,P5310501,Jones,W.,,McPherson,19080707,19080707,1,0,2b1
-boxscores/1908/1908-MDR,1908,Central Kansas League,jones.w,P1296390,Jones,W.,,McPherson,19080708,19080711,3,1,"p1,2b3"
-boxscores/1908/1908-MDR,1908,Central Kansas League,jones.bill,P2173476,Jones,Bill,,McPherson,19080709,19080709,1,0,2b1
-boxscores/1908/1908-MDR,1908,Central Kansas League,jones.ben,P3033233,Jones,B.,,McPherson,19080709,19080709,1,0,"of1,cf1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,jones.bill,P4539105,Jones,,,McPherson,19080625,19080813,13,0,"2b11,3b1,of1,rf1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,jones.ben,P4802582,Jones,Ben,,McPherson,19080710,19080711,2,0,"of2,cf2"
-boxscores/1908/1908-SDU,1908,Central Kansas League,jones.ben,P0788186,Jones,B.,,McPherson,19080704,19080706,2,0,"1b1,of1,cf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,jones.bill,P7317293,Jones,Bill,,McPherson,19080704,19080704,2,0,2b2
-boxscores/1908/1908-SDU,1908,Central Kansas League,jones.bill,P8559082,Jones,,,McPherson,19080622,19080807,13,0,"2b7,3b6"
-boxscores/1908/1908-SDU,1908,Central Kansas League,jones.w,P9051343,Jones,W.,,McPherson,19080706,19080706,1,0,2b1
-boxscores/1908/1908-SEJ,1908,Central Kansas League,jones.w,P0636261,Jones,W.,,McPherson,19080715,19080715,1,0,2b1
-boxscores/1908/1908-SEJ,1908,Central Kansas League,jones.bill,P1535744,Jones,,,McPherson,19080713,19080803,4,0,"2b3,of1,cf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,jones.bill,P2373104,Jones,B.,,McPherson,19080714,19080715,2,0,"of2,cf2"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,jones.bill,P9641274,Jones,L.,,McPherson,19080714,19080714,1,0,2b1
 minoraverages/Howard,1908,Central Kansas League,jones.ben,B00840,Jones,Ben F.,0,McPherson,19080704,19080715,9,,"1b1,cf8"
 minoraverages/Howard,1908,Central Kansas League,jones.bill,B00854,Jones,Bill,0,McPherson,19080622,19080813,37,,"2b30,3b6,rf1"
 minoraverages/Howard,1908,Central Kansas League,jones.w,B00865,Jones,W.,0,McPherson,19080708,19080708,1,,p1
 minoraverages/Howard,1908,Central Kansas League,jones.w,P10277,Jones,W.,0,McPherson,,,,1,
-boxscores/1908/1908-SEJ,1908,Central Kansas League,mcgrew@ump,P8127618,K. McGrew,,,#umpire,19080709,19080709,,,
-boxscores/1908/1908-SDU,1908,Central Kansas League,krepps,P0198761,Krepps,,,Salina,19080622,19080808,27,0,"2b24,of3,rf3"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,krepps,P5720319,Krepps,,,Salina,19080709,19080813,14,0,2b14
 minoraverages/Howard,1908,Central Kansas League,krepps,B00879,Krepps,"Samuel Archie ""Sam""",0,Salina,19080622,19080813,41,,"2b38,rf3"
-boxscores/1908/1908-SDU,1908,Central Kansas League,ludes@ump,P2889413,L. Ludes,,,#umpire,19080622,19080623,,,
-boxscores/1908/1908-SEJ,1908,Central Kansas League,ludes@ump,P5866075,L. Ludes,,,#umpire,19080804,19080817,,,
-boxscores/1908/1908-SDU,1908,Central Kansas League,lamb,P6481040,Lamb,,,Salina,19080807,19080810,4,0,3b4
-boxscores/1908/1908-SEJ,1908,Central Kansas League,lamb,P3639462,Lamb,,,Salina,19080804,19080805,2,0,3b2
 minoraverages/Howard,1908,Central Kansas League,lamb,B00887,Lamb,Bert William,0,Salina,19080803,19080818,14,,3b14
-boxscores/1908/1908-SEJ,1908,Central Kansas League,lamb,P3253451,Lambe,,,Salina,19080803,19080818,7,0,3b7
-boxscores/1908/1908-EKR,1908,Central Kansas League,lancaster,P5865706,Lancaster,,,Newton,19080815,19080815,1,0,"of1,lf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,lancaster,P9360426,Lancaster,,,Newton,19080807,19080813,2,2,p2
 minoraverages/Howard,1908,Central Kansas League,lancaster,B00898,Lancaster,E. H.,0,Newton,19080807,19080815,4,,"p3,lf1"
 minoraverages/Howard,1908,Central Kansas League,lancaster,P10410,Lancaster,E. H.,0,Newton,,,,3,
-boxscores/1908/1908-SDU,1908,Central Kansas League,herzig@ump,P9701719,Leo Herzig,,,#umpire,19080723,19080723,,,
-boxscores/1908/1908-EKR,1908,Central Kansas League,lewis.w,P0048442,Lewis,W.,,Minneapolis,19080803,19080805,3,0,"of3,rf3"
-boxscores/1908/1908-EKR,1908,Central Kansas League,lewis.f,P5485321,Lewis,F.,,Minneapolis,19080803,19080805,3,0,2b3
-boxscores/1908/1908-EKR,1908,Central Kansas League,lewis.f,P5547989,Lewis,,,Minneapolis,19080703,19080703,1,0,2b1
-boxscores/1908/1908-MDR,1908,Central Kansas League,lewis.f,P1533878,Lewis,,,Minneapolis,19080625,19080730,6,0,2b6
-boxscores/1908/1908-MM,1908,Central Kansas League,lewis.f,P1567725,Lewis,,,Minneapolis,19080622,19080622,1,0,2b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,lewis.w,P3825380,Lewis,W.,,Minneapolis,19080801,19080808,4,0,"2b1,of3,lf3"
-boxscores/1908/1908-SDU,1908,Central Kansas League,lewis.f,P9262259,Lewis,F.,,Minneapolis,19080801,19080808,4,0,"2b3,ss1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,lewis.f,P9288831,Lewis,,,Minneapolis,19080623,19080728,16,0,2b15
-boxscores/1908/1908-SEJ,1908,Central Kansas League,lewis.f,P0873749,Lewis,,,Minneapolis,19080713,19080718,6,0,"2b5,of1,rf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,lewis.f,P5237961,Lewis,F.,,Minneapolis,19080815,19080817,2,0,2b2
-boxscores/1908/1908-SEJ,1908,Central Kansas League,lewis.f,P5786230,Lewis,S.,,Minneapolis,19080806,19080806,1,0,2b1
-boxscores/1908/1908-SEJ,1908,Central Kansas League,lewis.w,P9801082,Lewis,W.,,Minneapolis,19080806,19080817,3,0,"of3,lf1,rf2"
 minoraverages/Howard,1908,Central Kansas League,lewis.f,B00904,Lewis,"Fred B. ""Pete""",0,Minneapolis,19080622,19080818,51,,2b51
 minoraverages/Howard,1908,Central Kansas League,lewis.w,B00912,Lewis,"Walter Albert ""Walt""",0,Minneapolis,19080801,19080815,13,,"ss1,lf4,rf8"
-boxscores/1908/1908-SDU,1908,Central Kansas League,lock,P6753993,Lock,,,Ellsworth,19080626,19080626,1,1,p1
 minoraverages/Howard,1908,Central Kansas League,lock,B00920,Lock,,0,Ellsworth,19080626,19080626,1,,p1
 minoraverages/Howard,1908,Central Kansas League,lock,P10081,Lock,,0,Ellsworth,,,,1,
-boxscores/1908/1908-MDR,1908,Central Kansas League,long,P3173170,Long,,,McPherson,19080625,19080630,2,0,c2
-boxscores/1908/1908-SDU,1908,Central Kansas League,long,P4810139,Long,,,McPherson,19080622,19080629,5,0,"c1,1b4"
 minoraverages/Howard,1908,Central Kansas League,long,B00936,Long,,0,McPherson,19080622,19080630,7,,"c3,1b4"
-boxscores/1908/1908-SDU,1908,Central Kansas League,lowe,P0057579,Lowe,,,Salina,19080807,19080807,1,1,p1
-boxscores/1908/1908-SEJ,1908,Central Kansas League,lowe,P7216001,Lowe,,,Salina,19080805,19080805,1,1,p1
 minoraverages/Howard,1908,Central Kansas League,lowe,B00948,Lowe,"""Buck""",0,Salina,19080805,19080807,2,,p2
 minoraverages/Howard,1908,Central Kansas League,lowe,P10527,Lowe,"""Buck""",0,Salina,,,,2,
-boxscores/1908/1908-MBW,1908,Central Kansas League,ludes@ump,P6118821,Ludes,,,#umpire,19080812,19080812,,,
-boxscores/1908/1908-SDU,1908,Central Kansas League,ludes@ump,P3021355,Ludes,,,#umpire,19080624,19080810,,,
-boxscores/1908/1908-SDU,1908,Central Kansas League,ludes.b,P8043057,Ludes,,,Salina,19080622,19080810,10,3,"p3,ss4,of4,rf4"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,ludes.f,P4270983,Ludes,,,Salina,19080803,19080818,9,0,ss9
-boxscores/1908/1908-SEJ,1908,Central Kansas League,ludes@ump,P9249281,Ludes,,,#umpire,19080805,19080815,,,
 minoraverages/Howard,1908,Central Kansas League,ludes.b,B00957,Ludes,Bernard Edward,0,Salina,19080622,19080724,6,,"p2,rf4"
 minoraverages/Howard,1908,Central Kansas League,ludes.f,B00961,Ludes,Francis Joseph,0,Salina,19080803,19080818,14,,"p1,ss14"
 minoraverages/Howard,1908,Central Kansas League,ludes.b,P10516,Ludes,Bernard Edward,0,Salina,,,,2,
-boxscores/1908/1908-SDU,1908,Central Kansas League,mack,P3752496,Mack,,,Salina,19080622,19080807,23,0,c23
-boxscores/1908/1908-SEJ,1908,Central Kansas League,mack,P0910918,Mack,,,Salina,19080709,19080815,5,0,c5
-boxscores/1908/1908-SEJ,1908,Central Kansas League,mack@ump,P5889216,Mack,,,#umpire,19080818,19080818,,,
 minoraverages/Howard,1908,Central Kansas League,mack,B00973,Mack,"Archie Roy ""Roy""",0,Salina,19080622,19080815,29,,c29
-boxscores/1908/1908-SDU,1908,Central Kansas League,mallon,P3998615,Mallon,,,Salina,19080727,19080727,1,0,"of1,rf1"
 minoraverages/Howard,1908,Central Kansas League,mallon,B00985,Mallon,Carl Edward,0,Salina,19080727,19080727,1,,rf1
-boxscores/1908/1908-SEJ,1908,Central Kansas League,martin.h,P2670126,Martin,H.,,Newton,19080818,19080818,1,0,1b1
-boxscores/1908/1908-SEJ,1908,Central Kansas League,martin.o,P2997813,Martin,O.,,Newton,19080818,19080818,1,0,3b1
 minoraverages/Howard,1908,Central Kansas League,martin.h,B00999,Martin,H.,0,Newton,19080818,19080818,1,,1b1
 minoraverages/Howard,1908,Central Kansas League,martin.o,B01007,Martin,O.,0,Newton,19080818,19080818,1,,3b1
-boxscores/1908/1908-SEJ,1908,Central Kansas League,mason,P0004879,Mason,,,Minneapolis,19080806,19080806,1,1,p1
 minoraverages/Howard,1908,Central Kansas League,mason,B01010,Mason,"Claudius A. ""Cy""",0,Minneapolis,19080806,19080818,3,,p3
 minoraverages/Howard,1908,Central Kansas League,mason,P10336,Mason,"Claudius A. ""Cy""",0,Minneapolis,,,,3,
-boxscores/1908/1908-SDU,1908,Central Kansas League,matteson,P1076230,Matteson,,,Minneapolis,19080721,19080721,1,1,p1
-boxscores/1908/1908-MDR,1908,Central Kansas League,mccandless,P7666748,McCandles,,,Minneapolis,19080709,19080729,2,2,p2
-boxscores/1908/1908-SEJ,1908,Central Kansas League,mccandless,P6822939,McCandles,,,Minneapolis,19080713,19080713,1,1,p1
-boxscores/1908/1908-EKR,1908,Central Kansas League,mccandless,P2022190,McCandless,,,Minneapolis,19080703,19080805,2,1,p1
-boxscores/1908/1908-MBW,1908,Central Kansas League,mccandless,P5629330,McCandless,,,Minneapolis,19080812,19080812,1,1,p1
-boxscores/1908/1908-SDU,1908,Central Kansas League,mccandless,P3843096,McCandless,,,Minneapolis,19080624,19080801,4,4,p4
 minoraverages/Howard,1908,Central Kansas League,mccandless,B01029,McCandless,John C.,0,Minneapolis,19080622,19080812,16,,p15
 minoraverages/Howard,1908,Central Kansas League,mccandless,P10312,McCandless,John C.,0,Minneapolis,,,,15,
-boxscores/1908/1908-MM,1908,Central Kansas League,mccandless,P5918690,McCanless,,,Minneapolis,19080622,19080622,1,1,p1
-boxscores/1908/1908-SDU,1908,Central Kansas League,mccandless,P7667316,McCanless,,,Minneapolis,19080701,19080707,2,2,p2
-boxscores/1908/1908-SEJ,1908,Central Kansas League,mccandless,P5206794,McCanless,,,Minneapolis,19080716,19080716,1,1,p1
-boxscores/1908/1908-SDU,1908,Central Kansas League,mccarroll,P6700851,McCarroll,,,Salina,19080626,19080702,4,0,"2b3,of1,rf1"
 minoraverages/Howard,1908,Central Kansas League,mccarroll,B01032,McCarroll,,0,Salina,19080626,19080702,4,,"2b3,rf1"
-boxscores/1908/1908-EKR,1908,Central Kansas League,mcelroy,P3579820,McElroy,,,Minneapolis,19080804,19080804,1,1,p1
-boxscores/1908/1908-MDR,1908,Central Kansas League,mcelroy@ump,P1600896,McElroy,,,#umpire,19080729,19080729,,,
-boxscores/1908/1908-MDR,1908,Central Kansas League,mcelroy,P2212941,McElroy,,,Minneapolis,19080625,19080710,2,2,p2
-boxscores/1908/1908-SDU,1908,Central Kansas League,mcelroy,P7356758,McElroy,,,Minneapolis,19080623,19080808,9,8,"p8,of2,lf1,rf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,mcelroy,P3332460,McElroy,,,Minneapolis,19080715,19080817,3,3,p3
 minoraverages/Howard,1908,Central Kansas League,mcelroy,B01041,McElroy,Roy,0,Minneapolis,19080622,19080817,19,,"p18,rf1"
 minoraverages/Howard,1908,Central Kansas League,mcelroy,P10304,McElroy,Roy,0,Minneapolis,,,,18,
-boxscores/1908/1908-SDU,1908,Central Kansas League,mcgrew.c,P0598217,McGrew,B.,,Salina,19080626,19080708,11,0,"1b9,of2,lf1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,mcgrew.k,P7207641,McGrew,,,Salina,19080623,19080706,3,2,"p2,of1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,mcgrew.k,P8162386,McGrew,K.,,Salina,19080626,19080707,4,3,p3
-boxscores/1908/1908-SEJ,1908,Central Kansas League,mcgrew.k,P1139048,McGrew,K.,,Salina,19080710,19080717,4,3,"p3,of1,rf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,mcgrew.c,P3574879,McGrew,B.,,Salina,19080709,19080717,7,0,"1b6,of1,rf1"
 minoraverages/Howard,1908,Central Kansas League,mcgrew.c,B01055,McGrew,"Clarence Bake r ""Bud""",0,Salina,19080626,19080717,19,,"1b15,rf3"
 minoraverages/Howard,1908,Central Kansas League,mcgrew.k,B01064,McGrew,Karl Sheridan,0,Salina,19080623,19080717,10,,"p8,rf1"
 minoraverages/Howard,1908,Central Kansas League,mcgrew.k,P10486,McGrew,Karl Sheridan,0,Salina,,,,8,
-boxscores/1908/1908-MDR,1908,Central Kansas League,osborne,P1539610,McOsborne,,,Minneapolis,19080709,19080711,2,1,"p1,of1,lf1"
-boxscores/1908/1908-EKR,1908,Central Kansas League,meade,P4008132,Mead,,,Newton,19080715,19080803,3,0,"c2,2b1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,meade,P8579813,Mead,,,Newton,19080717,19080801,3,0,"c1,2b2"
-boxscores/1908/1908-SDU,1908,Central Kansas League,meade,P5152750,Mead,,,Newton,19080721,19080721,1,0,2b1
-boxscores/1908/1908-EKR,1908,Central Kansas League,meade,P2249929,Meade,,,Newton,19080804,19080804,1,0,c1
-boxscores/1908/1908-EM,1908,Central Kansas League,meade,P9594969,Meade,,,Newton,19080627,19080627,1,0,2b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,meade,P0022323,Meade,,,Newton,19080622,19080730,10,0,"c2,2b5,3b2,of1,cf1"
 minoraverages/Howard,1908,Central Kansas League,meade,B01078,Meade,John J.,0,Newton,19080622,19080804,20,,"c6,2b10,3b3"
-boxscores/1908/1908-SDU,1908,Central Kansas League,misse,P1954341,Meize,,,McPherson,19080810,19080810,1,0,"of1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,mershon,P8232816,Mershon,,,Salina,19080729,19080801,2,2,p2
-boxscores/1908/1908-SEJ,1908,Central Kansas League,mershon,P0444230,Mershon,,,Salina,19080805,19080815,2,2,p2
 minoraverages/Howard,1908,Central Kansas League,mershon,B01086,Mershon,Fred Fay,0,Salina,19080729,19080815,4,,p4
 minoraverages/Howard,1908,Central Kansas League,mershon,P10493,Mershon,Fred Fay,0,Salina,,,,4,
 minoraverages/Howard,1908,Central Kansas League,meyer,M90039,Meyer,I. C.,,Little River,,,,,
-boxscores/1908/1908-SDU,1908,Central Kansas League,miller@ump,P3310035,Miller,,,#umpire,19080706,19080706,,,
 minoraverages/Howard,1908,Central Kansas League,miner,B01093,Miner,,0,Minneapolis,19080818,19080818,1,,
-boxscores/1908/1908-SDU,1908,Central Kansas League,mize,P1881561,Mise,,,McPherson,19080723,19080723,1,0,
-boxscores/1908/1908-SDU,1908,Central Kansas League,misse,P6244917,Misse,,,Salina,19080622,19080810,25,0,"2b1,ss24"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,misse,P2472843,Misse,,,Salina,19080709,19080818,16,0,"2b5,ss11"
 minoraverages/Howard,1908,Central Kansas League,misse,B01108,Misse,John B.,0,Salina,19080622,19080818,42,,"p1,2b7,ss35"
-boxscores/1908/1908-EKR,1908,Central Kansas League,mize,P8639222,Mize,,,McPherson,19080814,19080814,1,0,"of1,rf1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,mize,P1139319,Mize,,,McPherson,19080724,19080813,9,4,"p4,of4,rf4"
-boxscores/1908/1908-SDU,1908,Central Kansas League,mize,P2776288,Mize,,,McPherson,19080722,19080728,3,1,"p1,of2,rf2"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,mize,P4987702,Mize,,,McPherson,19080713,19080803,4,2,"p2,2b1"
 minoraverages/Howard,1908,Central Kansas League,mize,B01119,Mize,Claude Richard,0,McPherson,19080712,19080814,20,,"p8,2b1,rf9"
 minoraverages/Howard,1908,Central Kansas League,mize,P10184,Mize,Claude Richard,0,McPherson,,,,8,
-boxscores/1908/1908-EKR,1908,Central Kansas League,morgan,P3184433,Morgan,,,Newton,19080715,19080815,9,4,"p4,2b5"
-boxscores/1908/1908-MDR,1908,Central Kansas League,morgan,P1745042,Morgan,,,Newton,19080708,19080808,2,2,p2
-boxscores/1908/1908-SDU,1908,Central Kansas League,morgan,P9673435,Morgan,,,Newton,19080720,19080730,4,2,"p2,2b1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,morgan,P5194993,Morgan,,,Newton,19080812,19080818,3,1,"p1,2b2"
 minoraverages/Howard,1908,Central Kansas League,morgan,B01124,Morgan,Amos,0,Newton,19080708,19080818,19,,"p10,2b8"
 minoraverages/Howard,1908,Central Kansas League,morgan,M90094,Morgan,Amos,,Newton,19080806,,,,
 minoraverages/Howard,1908,Central Kansas League,morgan,P10385,Morgan,Amos,0,Newton,,,,10,
-boxscores/1908/1908-EM,1908,Central Kansas League,murdock,P0977627,Murdock,,,Ellsworth,19080627,19080627,1,0,"of1,lf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,murdock,P7717749,Murdock,,,Ellsworth,19080624,19080624,1,1,p1
 minoraverages/Howard,1908,Central Kansas League,murdock,B01135,Murdock,,0,Ellsworth,19080624,19080627,2,,"p1,lf1"
 minoraverages/Howard,1908,Central Kansas League,murdock,P10100,Murdock,,0,Ellsworth,,,,1,
-boxscores/1908/1908-SDU,1908,Central Kansas League,nye,P4464294,Mye,,,Minneapolis,19080626,19080626,1,0,c1
-boxscores/1908/1908-MDR,1908,Central Kansas League,myers@ump,P6496501,Myers,,,#umpire,19080725,19080725,,,
-boxscores/1908/1908-SDU,1908,Central Kansas League,myers-ell,P8556976,Myers,,,Ellsworth,19080807,19080810,2,1,p1
-boxscores/1908/1908-SDU,1908,Central Kansas League,myers-lr,P9366658,Myers,,,Little River,19080624,19080624,1,0,"of1,rf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,myers-ell,P1533638,Myers,,,Ellsworth,19080803,19080815,4,1,"p1,1b1,2b2"
 minoraverages/Howard,1908,Central Kansas League,myers-ell,B01143,Myers,,0,Ellsworth,19080803,19080815,7,,"p2,1b1,2b1,lf1"
 minoraverages/Howard,1908,Central Kansas League,myers-lr,B01156,Myers,,0,Little River,19080624,19080624,1,,rf1
 minoraverages/Howard,1908,Central Kansas League,myers-ell,P10056,Myers,,0,Ellsworth,,,,2,
 minoraverages/Howard,1908,Central Kansas League,neal,B01162,Neal,,0,Ellsworth,19080622,19080623,2,,"lf1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,neal,P2658660,Neel,,,Ellsworth,19080622,19080623,2,0,"of2,lf1,rf1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,nelson@ump,P8343220,Nelson,,,#umpire,19080630,19080630,,,
-boxscores/1908/1908-SEJ,1908,Central Kansas League,horrell,P9842598,Norrell,,,Little River,19080709,19080709,1,0,1b1
-boxscores/1908/1908-EKR,1908,Central Kansas League,nye,P8484573,Nye,,,Minneapolis,19080703,19080805,3,0,c3
-boxscores/1908/1908-MDR,1908,Central Kansas League,nye,P0987774,Nye,,,Minneapolis,19080625,19080711,4,0,c4
-boxscores/1908/1908-SDU,1908,Central Kansas League,nye,P5007751,Nye,,,Minneapolis,19080702,19080808,9,0,"c6,of2,rf2"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,nye,P7984413,Nye,,,Minneapolis,19080713,19080817,3,0,c2
 minoraverages/Howard,1908,Central Kansas League,nye,B01170,Nye,,0,Minneapolis,19080625,19080817,21,,"c18,cf1,rf1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,oneil-ell,P1226197,O'Neil,,,Ellsworth,19080630,19080630,1,0,1b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,oneil-ell,P3885438,O'Neil,,,Ellsworth,19080629,19080703,2,1,"p1,1b1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,oneil@ump,P6074306,O'Neil,,,#umpire,19080709,19080709,,,
 minoraverages/Howard,1908,Central Kansas League,oneil-ell,B01181,O'Neil,,0,Ellsworth,19080630,19080703,4,,"p1,1b3"
 minoraverages/Howard,1908,Central Kansas League,oneil-mcp,B01197,O'Neil,,0,McPherson,19080701,19080701,1,,p1
 minoraverages/Howard,1908,Central Kansas League,oneil-ell,P10070,O'Neil,,0,Ellsworth,,,,1,
 minoraverages/Howard,1908,Central Kansas League,oneil-mcp,P10289,O'Neil,,0,McPherson,,,,1,
-boxscores/1908/1908-MDR,1908,Central Kansas League,oneil-ell,P4081994,O'Neil [Ell],,,Ellsworth,19080701,19080701,1,0,1b1
-boxscores/1908/1908-MDR,1908,Central Kansas League,oneil-mcp,P9078744,O'Neil [McP],,,McPherson,19080701,19080701,1,1,"p1,of1,rf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,osborne,P6014596,Osborn,,,Minneapolis,19080806,19080806,1,0,
-boxscores/1908/1908-EKR,1908,Central Kansas League,osborne,P7165929,Osborne,,,Minneapolis,19080803,19080803,1,1,p1
-boxscores/1908/1908-MDR,1908,Central Kansas League,osborne,P5799050,Osborne,,,Minneapolis,19080729,19080730,2,1,"p1,3b1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,osborne,P0942867,Osborne,,,Minneapolis,19080720,19080808,9,6,"p6,of4,lf1,cf1,rf2"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,osborne,P6918569,Osborne,,,Minneapolis,19080713,19080718,4,2,"p2,2b1"
 minoraverages/Howard,1908,Central Kansas League,osborne,B01203,Osborne,Mack,0,Minneapolis,19080708,19080813,23,,"p13,3b1,cf5"
 minoraverages/Howard,1908,Central Kansas League,osborne,P10320,Osborne,Mack,0,Minneapolis,,,,13,
-boxscores/1908/1908-EKR,1908,Central Kansas League,pankey,P5465109,Pankey,,,Newton,19080703,19080815,12,1,"p1,2b2,3b2,of7,rf7"
-boxscores/1908/1908-EM,1908,Central Kansas League,pankey,P7851429,Pankey,,,Newton,19080627,19080627,1,0,"2b1,3b1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,pankey,P4025718,Pankey,,,Newton,19080708,19080808,5,0,"2b1,of4,lf1,rf3"
-boxscores/1908/1908-SDU,1908,Central Kansas League,pankey,P1954111,Pankey,,,Newton,19080622,19080730,18,4,"p4,2b3,3b3,of13,lf2,cf1,rf10"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,pankey,P7475669,Pankey,,,Newton,19080709,19080818,7,1,"p1,of6,rf6"
 minoraverages/Howard,1908,Central Kansas League,pankey,B01216,Pankey,"""Hauley""",0,Newton,19080622,19080818,49,,"p6,2b6,3b3,ss1,lf3,rf34"
 minoraverages/Howard,1908,Central Kansas League,pankey,P10407,Pankey,"""Hauley""",0,Newton,,,,6,
-boxscores/1908/1908-EKR,1908,Central Kansas League,pankey,P0729558,Panley,,,Newton,19080723,19080723,1,0,"of1,rf1"
-boxscores/1908/1908-EKR,1908,Central Kansas League,parks,P8377015,Parks,,,Ellsworth,19080723,19080725,3,0,"of3,cf3"
-boxscores/1908/1908-LRM,1908,Central Kansas League,parks,P4459744,Parks,,,Ellsworth,19080720,19080721,2,0,
-boxscores/1908/1908-MDR,1908,Central Kansas League,parks,P0880216,Parks,,,Ellsworth,19080818,19080818,1,0,"of1,lf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,parks,P4900193,Parks,,,Ellsworth,19080727,19080810,9,0,"of9,lf8,cf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,parks,P7876855,Parks,,,Ellsworth,19080711,19080815,11,0,"of11,lf5,cf1,rf5"
 minoraverages/Howard,1908,Central Kansas League,parks,B01227,Parks,Frank T.,0,Ellsworth,19080711,19080818,30,,"lf18,cf6,rf6"
-boxscores/1908/1908-MM,1908,Central Kansas League,patterson,P7689792,Patterson,,,Little River,19080622,19080622,1,0,"of1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,patterson,P5394450,Patterson,,,Little River,19080623,19080625,3,0,"of3,lf2,rf1"
 minoraverages/Howard,1908,Central Kansas League,patterson,B01234,Patterson,,0,Little River,19080622,19080625,4,,"lf2,rf2"
-boxscores/1908/1908-EKR,1908,Central Kansas League,penquite,P5864348,Penquite,,,Minneapolis,19080703,19080804,3,0,"of3,lf3"
-boxscores/1908/1908-MDR,1908,Central Kansas League,penquite,P0757341,Penquite,,,Minneapolis,19080729,19080730,2,0,"of2,lf2"
-boxscores/1908/1908-SDU,1908,Central Kansas League,penquite,P0503302,Penquite,,,Minneapolis,19080701,19080808,14,0,"of13,lf6,rf7"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,penquite,P7701468,Penquite,,,Minneapolis,19080716,19080817,4,0,"of4,lf2,rf2"
 minoraverages/Howard,1908,Central Kansas League,penquite,B01242,Penquite,"W. ""Penny""",0,Minneapolis,19080625,19080818,37,,"lf26,rf11"
-boxscores/1908/1908-SDU,1908,Central Kansas League,penquite,P6014441,Penquith,,,Minneapolis,19080702,19080702,1,0,"of1,lf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,penquite,P8142621,Penqute,,,Minneapolis,19080727,19080727,1,0,"of1,lf1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,penquite,P1598730,Penwright,,,Minneapolis,19080625,19080625,1,0,"of1,lf1"
-boxscores/1908/1908-EKR,1908,Central Kansas League,phillips,P1098189,Phillips,,,Little River,19080713,19080715,2,0,"of2,lf2"
-boxscores/1908/1908-MM,1908,Central Kansas League,phillips,P7150679,Phillips,D.,,Little River,19080622,19080622,1,0,2b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,phillips,P4183671,Phillips,,,Little River,19080623,19080723,11,1,"p1,c4,2b1,of6,lf4,cf1,rf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,phillips,P1723149,Phillips,,,Little River,19080710,19080718,3,0,"of3,lf3"
 minoraverages/Howard,1908,Central Kansas League,phillips,B01250,Phillips,D.,0,Little River,19080622,19080723,20,,"p1,c6,2b2,lf12"
-boxscores/1908/1908-SDU,1908,Central Kansas League,penquite,P3442507,Pinquot,,,Minneapolis,19080626,19080626,1,0,"of1,lf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,citizen,P6387614,Pitizen,,,Minneapolis,19080623,19080626,3,0,3b3
-boxscores/1908/1908-EKR,1908,Central Kansas League,pokorney,P8925796,Pokorney,,,Newton,19080814,19080815,2,0,ss2
-boxscores/1908/1908-MDR,1908,Central Kansas League,pokorney,P1428997,Pokorney,,,Newton,19080808,19080808,1,0,2b1
-boxscores/1908/1908-SEJ,1908,Central Kansas League,pokorney,P8425636,Pokorney,,,Newton,19080812,19080818,4,0,ss4
 minoraverages/Howard,1908,Central Kansas League,pokorney,B01269,Pokorney,Milton L.,0,Newton,19080808,19080818,10,,"2b3,ss7"
-boxscores/1908/1908-MM,1908,Central Kansas League,putnam-lr,P3505941,Putman,,,Little River,19080622,19080622,1,0,c1
-boxscores/1908/1908-MDR,1908,Central Kansas League,putnam-mcp,P1715415,Putnam,,,McPherson,19080630,19080630,1,0,3b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,putnam-mcp,P4374656,Putnam,,,McPherson,19080629,19080629,1,0,2b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,putnam-lr,P9101927,Putnam,,,Little River,19080623,19080626,4,1,"p1,2b1,of2,cf2,rf1"
 minoraverages/Howard,1908,Central Kansas League,putnam-lr,B01275,Putnam,,0,Little River,19080622,19080702,6,,"p2,c1,2b1,cf2"
 minoraverages/Howard,1908,Central Kansas League,putnam-mcp,B01288,Putnam,,0,McPherson,19080630,19080630,1,,3b1
 minoraverages/Howard,1908,Central Kansas League,putnam-lr,P10168,Putnam,,0,Little River,,,,2,
-boxscores/1908/1908-SDU,1908,Central Kansas League,rayner,P0108810,Raymore,,,McPherson,19080622,19080622,1,0,1b1
 minoraverages/Howard,1908,Central Kansas League,rayner,B01291,Rayner,,0,McPherson,19080622,19080625,4,,"1b2,rf2"
-boxscores/1908/1908-MDR,1908,Central Kansas League,rayner,P9130430,Reamer,,,McPherson,19080625,19080625,1,0,1b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,rayner,P1789671,Reamer,,,McPherson,19080623,19080624,2,0,"1b1,of1,rf1"
-boxscores/1908/1908-EKR,1908,Central Kansas League,reed-mcp,P1326017,Reed,,,McPherson,19080707,19080815,3,0,"2b1,3b1,ss1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,reed-mcp,P3826114,Reed,,,McPherson,19080625,19080818,18,0,"2b4,3b3,ss3,of9,lf1,rf8"
-boxscores/1908/1908-SDU,1908,Central Kansas League,reed-lr,P3903026,Reed,,,Little River,19080623,19080708,3,2,"p2,c1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,reed-mcp,P5463083,Reed,,,McPherson,19080622,19080810,15,0,"2b1,3b2,ss6,of6,cf1,rf5"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,reed-mcp,P7674497,Reed,,,McPherson,19080713,19080803,6,0,"of6,cf1,rf5"
 minoraverages/Howard,1908,Central Kansas League,reed-mcp,B01300,Reed,George,0,McPherson,19080622,19080818,44,,"2b8,3b6,ss10,rf20"
 minoraverages/Howard,1908,Central Kansas League,reed-lr,B01313,Reed,,0,Little River,19080623,19080708,5,,p5
 minoraverages/Howard,1908,Central Kansas League,reed-lr,P10145,Reed,,0,Little River,,,,5,
-boxscores/1908/1908-SDU,1908,Central Kansas League,reed-lr,P2686088,Reed [LR],,,Little River,19080704,19080704,1,1,p1
-boxscores/1908/1908-SDU,1908,Central Kansas League,reed-mcp,P8853411,Reed [McP],,,McPherson,19080704,19080704,1,0,3b1
-boxscores/1908/1908-EKR,1908,Central Kansas League,rimer@ump,P7198723,Rimer,,,#umpire,19080707,19080725,,,
-boxscores/1908/1908-LRM,1908,Central Kansas League,rimer@ump,P1880140,Rimer,,,#umpire,19080720,19080721,,,
-boxscores/1908/1908-MDR,1908,Central Kansas League,rimer,P2921057,Rimer,,,McPherson,19080701,19080701,1,0,3b1
-boxscores/1908/1908-MDR,1908,Central Kansas League,rimer@ump,P8064196,Rimer,,,#umpire,19080813,19080813,,,
-boxscores/1908/1908-SDU,1908,Central Kansas League,rimer@ump,P4971117,Rimer,,,#umpire,19080703,19080810,,,
-boxscores/1908/1908-SEJ,1908,Central Kansas League,rimer@ump,P1199043,Rimer,,,#umpire,19080710,19080817,,,
 minoraverages/Howard,1908,Central Kansas League,rimer,B01321,Rimer,,0,McPherson,19080701,19080701,1,,3b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,ryan,P0736826,Ryan,,,Ellsworth,19080729,19080729,1,1,p1
 minoraverages/Howard,1908,Central Kansas League,ryan,B01337,Ryan,,0,Ellsworth,19080729,19080729,1,,p1
 minoraverages/Howard,1908,Central Kansas League,ryan,P10097,Ryan,,0,Ellsworth,,,,1,
-boxscores/1908/1908-MDR,1908,Central Kansas League,rimer@ump,P7693268,Rymer,,,#umpire,19080708,19080708,,,
-boxscores/1908/1908-MDR,1908,Central Kansas League,salter,P9135577,Salter,,,Newton,19080801,19080801,1,0,"of1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,salter,P7063970,Salter,,,Newton,19080701,19080729,6,4,"p4,2b1,of2,cf1,rf1"
 minoraverages/Howard,1908,Central Kansas League,salter,B01345,Salter,Arthur Edward,0,Newton,19080701,19080801,13,,"p8,2b2,lf1,cf1,rf1"
 minoraverages/Howard,1908,Central Kansas League,salter,P10399,Salter,Arthur Edward,0,Newton,,,,8,
-boxscores/1908/1908-MDR,1908,Central Kansas League,salthouse@ump,P3674333,Salthouse,,,#umpire,19080625,19080625,,,
-boxscores/1908/1908-MM,1908,Central Kansas League,salthouse@ump,P7008692,Salthouse,,,#umpire,19080622,19080622,,,
-boxscores/1908/1908-SDU,1908,Central Kansas League,salthouse@ump,P6333574,Salthouse,,,#umpire,19080623,19080626,,,
-boxscores/1908/1908-EM,1908,Central Kansas League,samuels,P2751808,Samuels,,,Ellsworth,19080627,19080627,1,0,1b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,samuels,P9491930,Samuels,,,Ellsworth,19080623,19080626,4,0,1b4
 minoraverages/Howard,1908,Central Kansas League,samuels,B01359,Samuels,,0,Ellsworth,19080623,19080627,5,,1b5
-boxscores/1908/1908-EKR,1908,Central Kansas League,sarver,P3464768,Sarver,,,Newton,19080703,19080713,3,0,ss3
-boxscores/1908/1908-EKR,1908,Central Kansas League,sarver,P9272617,Sarver,,,Ellsworth,19080725,19080725,1,0,2b1
-boxscores/1908/1908-EKR,1908,Central Kansas League,sarver,P9401460,Sarver,,,McPherson,19080814,19080815,2,0,3b2
-boxscores/1908/1908-EM,1908,Central Kansas League,sarver,P5851088,Sarver,,,Newton,19080627,19080627,1,0,ss1
-boxscores/1908/1908-MDR,1908,Central Kansas League,sarver,P2007093,Sarver,,,McPherson,19080731,19080818,8,0,3b8
-boxscores/1908/1908-MDR,1908,Central Kansas League,sarver,P2025377,Sarver,,,Newton,19080708,19080708,1,0,ss1
-boxscores/1908/1908-SDU,1908,Central Kansas League,sarver,P4666334,Sarver,,,McPherson,19080806,19080810,3,0,3b3
-boxscores/1908/1908-SDU,1908,Central Kansas League,sarver,P9953770,Sarver,,,Newton,19080622,19080706,12,0,ss12
-boxscores/1908/1908-SEJ,1908,Central Kansas League,sarver,P2896180,Sarver,,,McPherson,19080803,19080803,1,0,3b1
-boxscores/1908/1908-SEJ,1908,Central Kansas League,sarver,P5475328,Sarver,,,Newton,19080709,19080710,2,0,ss2
 minoraverages/Howard,1908,Central Kansas League,sarver,B01368,Sarver,Jack Roscoe,0,Newton,19080622,19080711,19,,ss19
 minoraverages/Howard,1908,Central Kansas League,sarver,B01376,Sarver,Jack Roscoe,0,McPherson,19080731,19080818,15,,3b15
 minoraverages/Howard,1908,Central Kansas League,sarver,B01384,Sarver,Jack Roscoe,1,Newton,,,,,
 minoraverages/Howard,1908,Central Kansas League,sarver,B01384,Sarver,Jack Roscoe,2,McPherson,,,,,
 minoraverages/Howard,1908,Central Kansas League,sarver,B01384,Sarver,Jack Roscoe,T,,19080622,19080818,34,,"3b15,ss19"
-boxscores/1908/1908-EKR,1908,Central Kansas League,schmidt,P0650164,Schmidt,,,Little River,19080713,19080727,2,1,"p1,of1,rf1"
-boxscores/1908/1908-LRM,1908,Central Kansas League,schmidt,P0577661,Schmidt,,,Little River,19080721,19080721,1,1,p1
-boxscores/1908/1908-MDR,1908,Central Kansas League,schmidt,P5543157,Schmidt,,,Little River,19080724,19080813,4,1,"p1,1b2"
-boxscores/1908/1908-SDU,1908,Central Kansas League,schmidt,P5289118,Schmidt,,,Little River,19080625,19080810,9,4,"p4,1b4,of2,lf1,rf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,schmidt,P2487284,Schmidt,,,Little River,19080709,19080817,7,3,"p3,1b4"
 minoraverages/Howard,1908,Central Kansas League,schmidt,B01392,Schmidt,"""Heine""",0,Little River,19080625,19080818,24,,"p14,1b9,lf1,rf1"
 minoraverages/Howard,1908,Central Kansas League,schmidt,P10121,Schmidt,"""Heine""",0,Little River,,,,14,
-boxscores/1908/1908-SDU,1908,Central Kansas League,schopp,P8741224,Schopp,,,Minneapolis,19080808,19080808,1,1,p1
 minoraverages/Howard,1908,Central Kansas League,schopp,B01402,Schopp,Grant,0,Minneapolis,19080808,19080815,2,,p2
 minoraverages/Howard,1908,Central Kansas League,schopp,P10357,Schopp,Grant,0,Minneapolis,,,,2,
-boxscores/1908/1908-SDU,1908,Central Kansas League,shaw@ump,P2557825,Shaw,,,#umpire,19080626,19080728,,,
-boxscores/1908/1908-SEJ,1908,Central Kansas League,shaw@ump,P9716247,Shaw,,,#umpire,19080720,19080721,,,
-boxscores/1908/1908-SEJ,1908,Central Kansas League,schopp,P1947611,Shopp,,,Minneapolis,19080815,19080815,1,1,p1
-boxscores/1908/1908-MDR,1908,Central Kansas League,smith-ell,P9317180,Smith,,,Ellsworth,19080818,19080818,1,0,3b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,smith-ell,P3337157,Smith,,,Ellsworth,19080727,19080810,8,0,"3b6,ss2"
-boxscores/1908/1908-SDU,1908,Central Kansas League,smith-sal,P6674137,Smith,,,Salina,19080729,19080729,1,0,"of1,rf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,smith-ell,P6313819,Smith,,,Ellsworth,19080803,19080815,3,0,3b3
 minoraverages/Howard,1908,Central Kansas League,smith-ell,B01415,Smith,,0,Ellsworth,19080627,19080728,17,,"3b15,ss2"
 minoraverages/Howard,1908,Central Kansas League,smith-sal,B01428,Smith,,0,Salina,19080729,19080731,2,,rf2
-boxscores/1908/1908-SDU,1908,Central Kansas League,smith-ell,P7922234,Smith [Ell],,,Ellsworth,19080731,19080731,1,0,3b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,smith-sal,P3279857,Smith [Sal],,,Salina,19080731,19080731,1,0,"of1,rf1"
-boxscores/1908/1908-EKR,1908,Central Kansas League,salter,P2364422,Solter,,,Newton,19080707,19080727,4,2,"p2,2b1,of1,rf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,salter,P4374982,Solter,,,Newton,19080710,19080714,2,1,"p1,of1,lf1"
-boxscores/1908/1908-EKR,1908,Central Kansas League,sommers,P1736559,Somers,,,Ellsworth,19080723,19080725,3,0,"c2,of1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,sommers,P7001433,Somers,,,Ellsworth,19080704,19080807,8,0,"c6,of1,rf1"
-boxscores/1908/1908-EM,1908,Central Kansas League,sommers,P6758476,Sommers,,,Ellsworth,19080627,19080627,1,0,c1
-boxscores/1908/1908-SDU,1908,Central Kansas League,sommers,P3498598,Sommers,,,Ellsworth,19080623,19080810,8,0,"c7,of1,rf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,sommers,P5083516,Sommers,,,Ellsworth,19080709,19080811,12,0,"c10,of2,rf2"
 minoraverages/Howard,1908,Central Kansas League,sommers,B01431,Sommers,Herbert Calvin,0,Ellsworth,19080622,19080811,36,,"c29,cf2,rf4"
-boxscores/1908/1908-SDU,1908,Central Kansas League,sowder,P2320543,Sowder,,,McPherson,19080704,19080704,1,1,p1
 minoraverages/Howard,1908,Central Kansas League,sowder,B01444,Sowder,,0,McPherson,19080704,19080704,1,,p1
 minoraverages/Howard,1908,Central Kansas League,sowder,P10244,Sowder,,0,McPherson,,,,1,
-boxscores/1908/1908-EKR,1908,Central Kansas League,sparks,P4592053,Sparks,,,McPherson,19080707,19080814,2,0,"1b1,of1,cf1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,sparks,P7197686,Sparks,,,McPherson,19080708,19080818,16,0,"1b8,ss2,of6,cf5,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,sparks,P9856927,Sparks,,,McPherson,19080703,19080810,11,0,"1b4,3b1,ss3,of3,cf3"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,sparks,P8086773,Sparks,,,McPherson,19080713,19080803,6,0,"1b1,ss3,of2,cf2"
 minoraverages/Howard,1908,Central Kansas League,sparks,B01453,Sparks,,0,McPherson,19080703,19080818,35,,"1b15,3b1,ss9,cf10"
-boxscores/1908/1908-MDR,1908,Central Kansas League,speer,P8315309,Spear,,,Minneapolis,19080709,19080711,3,0,"of3,rf3"
-boxscores/1908/1908-MM,1908,Central Kansas League,speer,P8349156,Spear,,,Minneapolis,19080622,19080622,1,0,c1
-boxscores/1908/1908-SDU,1908,Central Kansas League,speer,P6070262,Spear,,,Minneapolis,19080702,19080707,2,0,"of2,rf2"
-boxscores/1908/1908-SDU,1908,Central Kansas League,speer,P7807529,Spears,,,Minneapolis,19080701,19080704,2,0,"c1,of1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,speer,P8560378,Speer,,,Minneapolis,19080623,19080624,2,0,"c1,1b1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,speer,P0145296,Speer,,,Minneapolis,19080713,19080714,2,0,"of2,rf2"
 minoraverages/Howard,1908,Central Kansas League,speer,B01466,Speer,Whitcomb Glen,0,Minneapolis,19080622,19080714,16,,"c6,rf10"
-boxscores/1908/1908-EKR,1908,Central Kansas League,speer,P6533571,Speers,,,Minneapolis,19080703,19080703,1,0,"of1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,speer,P9981357,Speers,,,Minneapolis,19080704,19080704,1,0,"of1,rf1"
-boxscores/1908/1908-EKR,1908,Central Kansas League,stanley.p,P2343444,Stanley,P.,,Ellsworth,19080723,19080724,2,1,"p1,of1,lf1"
-boxscores/1908/1908-EKR,1908,Central Kansas League,stanley.f,P5075274,Stanley,F.,,Ellsworth,19080724,19080724,1,1,"p1,3b1"
-boxscores/1908/1908-EM,1908,Central Kansas League,stanley.p,P3612326,Stanley,,,Ellsworth,19080627,19080627,1,1,p1
-boxscores/1908/1908-LRM,1908,Central Kansas League,stanley,P0703487,Stanley,,,Ellsworth,19080721,19080721,1,1,p1
-boxscores/1908/1908-MDR,1908,Central Kansas League,stanley.p,P0976565,Stanley,P.,,Ellsworth,19080701,19080818,2,0,"of2,lf1,rf1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,stanley.p,P2597495,Stanley,,,Ellsworth,19080630,19080630,1,0,"of1,rf1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,stanley.f,P3708395,Stanley,F.,,Ellsworth,19080818,19080818,1,1,p1
-boxscores/1908/1908-MDR,1908,Central Kansas League,stanley.p,P7064284,Stanley,W.,,Ellsworth,19080701,19080701,1,1,p1
-boxscores/1908/1908-SDU,1908,Central Kansas League,stanley.p,P0352448,Stanley,,,Ellsworth,19080622,19080810,7,4,"p4,of3,lf1,rf2"
-boxscores/1908/1908-SDU,1908,Central Kansas League,stanley.p,P6120382,Stanley,P.,,Ellsworth,19080703,19080801,9,3,"p3,of5,lf3,rf2"
-boxscores/1908/1908-SDU,1908,Central Kansas League,stanley.p,P7551248,Stanley,P,,Ellsworth,19080722,19080722,1,0,"of1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,stanley.f,P8852212,Stanley,F.,,Ellsworth,19080703,19080730,5,1,"p1,1b3,3b1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,stanley.p,P2096084,Stanley,P.,,Ellsworth,19080709,19080815,10,3,"p3,of7,lf5,rf2"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,stanley.f,P4827914,Stanley,F.,,Ellsworth,19080709,19080811,9,3,"p3,1b2,3b4"
 minoraverages/Howard,1908,Central Kansas League,stanley.f,B01477,Stanley,"Frank ""Derb""",0,Ellsworth,19080701,19080818,18,,"p6,1b6,3b7"
 minoraverages/Howard,1908,Central Kansas League,stanley.p,B01489,Stanley,P.,0,Ellsworth,19080623,19080818,41,,"p20,lf13,rf9"
 minoraverages/Howard,1908,Central Kansas League,stanley.p,P10024,Stanley,P.,0,Ellsworth,,,,20,
 minoraverages/Howard,1908,Central Kansas League,stanley.f,P10043,Stanley,"Frank ""Derb""",0,Ellsworth,,,,6,
-boxscores/1908/1908-SDU,1908,Central Kansas League,stoffer,P1782343,Stofer,,,Salina,19080624,19080808,8,8,p8
-boxscores/1908/1908-SDU,1908,Central Kansas League,stoffer,P2044717,Stoffer,,,Salina,19080706,19080707,2,1,p1
-boxscores/1908/1908-SEJ,1908,Central Kansas League,stoffer,P4256131,Stoffer,,,Salina,19080709,19080804,9,5,"p5,of2,rf2"
 minoraverages/Howard,1908,Central Kansas League,stoffer,B01490,Stoffer,"George ""Dingle""",0,Salina,19080624,19080808,18,,"p14,rf2"
 minoraverages/Howard,1908,Central Kansas League,stoffer,P10478,Stoffer,"George ""Dingle""",0,Salina,,,,14,
-boxscores/1908/1908-SDU,1908,Central Kansas League,strong.a,P1838656,Strong,A.,,Salina,19080622,19080810,27,0,"of26,cf26"
-boxscores/1908/1908-SDU,1908,Central Kansas League,strong.h,P2166343,Strong,H.,,Salina,19080622,19080810,28,0,"of28,lf28"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,strong.h,P1554646,Strong,Heb,,Salina,19080714,19080714,1,0,"of1,lf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,strong.a,P4815318,Strong,A.,,Salina,19080710,19080818,18,0,"of18,cf18"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,strong.h,P5143005,Strong,H.,,Salina,19080709,19080818,18,0,"of18,lf18"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,strong.h,P7027400,Strong,Herb,,Salina,19080813,19080813,1,0,"of1,lf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,strong.a,P8279892,Strong,Al,,Salina,19080709,19080714,2,0,"of2,cf2"
 minoraverages/Howard,1908,Central Kansas League,strong.a,B01509,Strong,"Alden George ""Al""",0,Salina,19080622,19080818,48,,cf48
 minoraverages/Howard,1908,Central Kansas League,strong.h,B01514,Strong,Herbert Davis,0,Salina,19080622,19080818,49,,lf49
-boxscores/1908/1908-SDU,1908,Central Kansas League,sommers,P1103084,Summers,,,Ellsworth,19080703,19080703,1,0,c1
 minoraverages/Howard,1908,Central Kansas League,swindell,B01523,Swindel,,0,McPherson,19080708,19080708,1,,"p1,3b1"
-boxscores/1908/1908-EKR,1908,Central Kansas League,swindell,P8390371,Swindell,,,McPherson,19080707,19080707,1,0,3b1
 minoraverages/Howard,1908,Central Kansas League,swindell,P10290,Swindell,,0,McPherson,,,,1,
-boxscores/1908/1908-MDR,1908,Central Kansas League,swindell,P9204920,Swindle,,,McPherson,19080708,19080708,1,1,"p1,2b1"
-boxscores/1908/1908-EKR,1908,Central Kansas League,taylor-ell,P6376881,Taylor,,,Ellsworth,19080724,19080725,2,1,"p1,of1,lf1"
-boxscores/1908/1908-EKR,1908,Central Kansas League,taylor-mcp,P6505724,Taylor,,,McPherson,19080707,19080815,3,0,"1b2,of1,cf1"
-boxscores/1908/1908-EM,1908,Central Kansas League,taylor-ell,P3558721,Taylor,,,Ellsworth,19080627,19080627,1,0,"of1,lf1"
-boxscores/1908/1908-LRM,1908,Central Kansas League,taylor-ell,P7106938,Taylor,,,Ellsworth,19080721,19080721,1,0,
-boxscores/1908/1908-MBW,1908,Central Kansas League,taylor-ell,P1617941,Taylor,,,Ellsworth,19080812,19080812,1,1,p1
-boxscores/1908/1908-MDR,1908,Central Kansas League,taylor-mcp,P9111357,Taylor,,,McPherson,19080625,19080818,18,0,"1b8,of10,cf9,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,taylor-ell,P1641755,Taylor,,,Ellsworth,19080625,19080801,10,7,"p7,of4,lf1,cf2,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,taylor-mcp,P1770598,Taylor,,,McPherson,19080626,19080810,12,3,"p3,c1,1b8,of4,cf3,rf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,taylor-mcp,P0000444,Taylor,,,McPherson,19080713,19080803,6,0,"1b5,of1,cf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,taylor-ell,P9871601,Taylor,,,Ellsworth,19080709,19080815,8,6,"p6,of2,lf1,rf1"
 minoraverages/Howard,1908,Central Kansas League,taylor-mcp,B01538,Taylor,Charles,0,McPherson,19080622,19080818,45,,"p5,1b22,cf22"
 minoraverages/Howard,1908,Central Kansas League,taylor-ell,B01546,Taylor,Frank,0,Ellsworth,19080622,19080815,33,,"p23,lf5,cf1,rf4"
 minoraverages/Howard,1908,Central Kansas League,taylor-ell,M90018,Taylor,Frank,,Ellsworth,,,,,
 minoraverages/Howard,1908,Central Kansas League,taylor-mcp,M90060,Taylor,Charles,,McPherson,19080720,,,,
 minoraverages/Howard,1908,Central Kansas League,taylor-ell,P10019,Taylor,Frank,0,Ellsworth,,,,22,
 minoraverages/Howard,1908,Central Kansas League,taylor-mcp,P10202,Taylor,Charles,0,McPherson,,,,5,
-boxscores/1908/1908-MDR,1908,Central Kansas League,taylor-ell,P6992167,Taylor [Ell],,,Ellsworth,19080630,19080701,2,1,"p1,2b1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,taylor-ell,P0343696,Taylor [Ell],,,Ellsworth,19080622,19080806,5,3,"p3,of3,lf2,rf1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,taylor-mcp,P1988917,Taylor [McP],,,McPherson,19080630,19080701,2,1,"p1,1b1,of1,lf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,taylor-mcp,P5340446,Taylor [McP],,,McPherson,19080622,19080806,5,0,"of5,cf5"
-boxscores/1908/1908-EM,1908,Central Kansas League,thompson,P2121278,Thompson,,,Ellsworth,19080627,19080627,1,0,2b1
-boxscores/1908/1908-MDR,1908,Central Kansas League,thompson,P8631855,Thompson,,,Ellsworth,19080630,19080701,2,0,"2b1,of1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,thompson,P4545304,Thompson,,,Ellsworth,19080622,19080707,9,0,"2b4,3b1,of4,lf1,rf3"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,thompson,P6847598,Thompson,,,Ellsworth,19080710,19080718,7,0,2b7
 minoraverages/Howard,1908,Central Kansas League,thompson,B01551,Thompson,,0,Ellsworth,19080622,19080718,21,,"2b13,3b2,lf1,rf5"
-boxscores/1908/1908-SDU,1908,Central Kansas League,thompson,P0265677,Thompson [Ell],,,Ellsworth,19080629,19080629,1,0,2b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,thompson-mcp,P5262427,Thompson [McP],,,McPherson,19080629,19080629,1,0,"of1,lf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,thorstenberg,P8894625,Thorstenberg,,,Salina,19080721,19080721,1,1,p1
 minoraverages/Howard,1908,Central Kansas League,thorstenberg,B01567,Thorstenberg,,0,Salina,19080721,19080721,1,,p1
 minoraverages/Howard,1908,Central Kansas League,thorstenberg,P10534,Thorstenberg,,0,Salina,,,,1,
-boxscores/1908/1908-SEJ,1908,Central Kansas League,triplett,P2498400,Tippett,,,Ellsworth,19080713,19080713,1,0,"of1,lf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,triplett,P2561528,Triplett,,,Ellsworth,19080629,19080707,4,3,"p3,of1,cf1"
 minoraverages/Howard,1908,Central Kansas League,triplett,B01572,Triplett,,0,Ellsworth,19080704,19080727,15,,"p7,lf4,cf1,rf3"
 minoraverages/Howard,1908,Central Kansas League,triplett,B01580,Triplett,,0,Newton,19080805,19080805,1,,p1
 minoraverages/Howard,1908,Central Kansas League,triplett,B01595,Triplett,,1,Ellsworth,,,,,
@@ -797,75 +235,21 @@ minoraverages/Howard,1908,Central Kansas League,triplett,B01595,Triplett,,2,Newt
 minoraverages/Howard,1908,Central Kansas League,triplett,B01595,Triplett,,T,,19080704,19080805,16,,p8
 minoraverages/Howard,1908,Central Kansas League,triplett,P10035,Triplett,,0,Ellsworth,,,,7,
 minoraverages/Howard,1908,Central Kansas League,triplett,P10441,Triplett,,0,Newton,,,,1,
-boxscores/1908/1908-EKR,1908,Central Kansas League,triplett,P1603858,Trippett,,,Ellsworth,19080723,19080723,1,1,p1
-boxscores/1908/1908-EKR,1908,Central Kansas League,triplett,P7049161,Trippett,,,Newton,19080805,19080805,1,1,p1
-boxscores/1908/1908-LRM,1908,Central Kansas League,triplett,P6635931,Trippett,,,Ellsworth,19080720,19080720,1,1,p1
-boxscores/1908/1908-SDU,1908,Central Kansas League,triplett,P5051644,Trippett,,,Ellsworth,19080707,19080727,3,1,"p1,of2,lf1,rf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,triplett,P7353938,Trippett,,,Ellsworth,19080709,19080718,5,3,"p3,of2,lf1,rf1"
 minoraverages/Howard,1908,Central Kansas League,vaughn,B01601,Vaughn,,0,Ellsworth,19080622,19080622,1,,2b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,corl,P3746869,Voil,,,Minneapolis,19080623,19080623,1,0,"of1,lf1"
-boxscores/1908/1908-EKR,1908,Central Kansas League,wagner,P4369041,Wagner,,,Newton,19080703,19080815,11,0,"2b4,ss7"
-boxscores/1908/1908-MDR,1908,Central Kansas League,wagner,P2929650,Wagner,,,Newton,19080708,19080808,5,0,"2b1,ss4"
-boxscores/1908/1908-SDU,1908,Central Kansas League,wagner,P0858043,Wagner,,,Newton,19080702,19080730,10,0,"c1,2b4,ss5"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,wagner,P6379601,Wagner,,,Newton,19080709,19080818,5,0,2b5
 minoraverages/Howard,1908,Central Kansas League,wagner,B01617,Wagner,James,0,Newton,19080702,19080818,38,,"c1,2b20,ss17"
-boxscores/1908/1908-EKR,1908,Central Kansas League,watkins,P5889326,Watkins,,,Newton,19080703,19080814,12,0,"2b1,3b10,ss1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,watkins,P8389423,Watkins,,,Newton,19080717,19080808,4,0,3b4
-boxscores/1908/1908-SDU,1908,Central Kansas League,watkins,P0026392,Watkins,,,Newton,19080622,19080730,13,0,3b13
-boxscores/1908/1908-SEJ,1908,Central Kansas League,watkins,P2237806,Watkins,,,Newton,19080709,19080817,5,0,3b5
 minoraverages/Howard,1908,Central Kansas League,watkins,B01625,Watkins,"""Dutch""",0,Newton,19080622,19080817,43,,3b43
-boxscores/1908/1908-EKR,1908,Central Kansas League,watson,P1685202,Watson,,,Ellsworth,19080723,19080725,3,0,"c1,2b2"
-boxscores/1908/1908-MDR,1908,Central Kansas League,watson,P4290835,Watson,,,Ellsworth,19080630,19080818,3,0,"c2,of1,cf1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,watson-new,P7247082,Watson,,,Newton,19080708,19080708,1,0,3b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,watson-new,P5175475,Watson,,,Newton,19080720,19080721,2,0,"3b2,ss1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,watson,P6950076,Watson,,,Ellsworth,19080629,19080810,16,0,"c3,1b2,2b1,of10,cf4,rf6"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,watson,P5179922,Watson,,,Ellsworth,19080709,19080815,13,0,"c3,2b1,of9,cf7,rf2"
 minoraverages/Howard,1908,Central Kansas League,watson,B01630,Watson,,0,Ellsworth,19080704,19080818,41,,"c13,1b2,2b3,cf14,rf9"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,westcott,P1785287,Westcott,,,Salina,19080812,19080818,2,2,p2
 minoraverages/Howard,1908,Central Kansas League,westcott,B01649,Westcott,"Ralph Edgar ""Happy""",0,Salina,19080812,19080818,2,,p2
 minoraverages/Howard,1908,Central Kansas League,westcott,P10503,Westcott,"Ralph Edgar ""Happy""",0,Salina,,,,2,
-boxscores/1908/1908-MDR,1908,Central Kansas League,white,P7326755,White,,,McPherson,19080625,19080812,4,0,"1b1,2b1,ss2"
-boxscores/1908/1908-SDU,1908,Central Kansas League,white,P1346732,White,,,McPherson,19080622,19080702,6,0,"2b4,3b1,ss1"
 minoraverages/Howard,1908,Central Kansas League,white,B01658,White,,0,McPherson,19080622,19080812,10,,"1b1,2b6,3b1,ss2"
-boxscores/1908/1908-SDU,1908,Central Kansas League,wilder,P7361977,Wilder,,,Little River,19080704,19080704,1,0,"of1,lf1"
 minoraverages/Howard,1908,Central Kansas League,wilder,B01663,Wilder,,0,Little River,19080704,19080704,1,,lf1
-boxscores/1908/1908-EKR,1908,Central Kansas League,williams,P4458744,Williams,,,Ellsworth,19080723,19080725,3,0,1b3
-boxscores/1908/1908-MDR,1908,Central Kansas League,williams,P1993081,Williams,,,Ellsworth,19080818,19080818,1,0,1b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,williams,P7906530,Williams,,,Ellsworth,19080722,19080810,10,0,1b10
-boxscores/1908/1908-SEJ,1908,Central Kansas League,williams,P0208824,Williams,,,Ellsworth,19080711,19080815,11,0,1b11
 minoraverages/Howard,1908,Central Kansas League,williams,B01674,Williams,,0,Ellsworth,19080711,19080818,30,,1b30
-boxscores/1908/1908-EKR,1908,Central Kansas League,willis,P2379797,Willis,,,McPherson,19080815,19080815,1,0,"of1,rf1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,willis,P4985430,Willis,,,McPherson,19080730,19080813,4,2,"p2,of1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,willis,P7644671,Willis,,,McPherson,19080806,19080810,2,2,p2
-boxscores/1908/1908-SEJ,1908,Central Kansas League,willis,P5874517,Willis,,,McPherson,19080803,19080806,2,2,p2
 minoraverages/Howard,1908,Central Kansas League,willis,B01682,Willis,,0,McPherson,19080730,19080815,9,,"p5,lf1,rf2"
 minoraverages/Howard,1908,Central Kansas League,willis,P10192,Willis,,0,McPherson,,,,5,
-boxscores/1908/1908-EKR,1908,Central Kansas League,wing,P5414210,Wing,,,Newton,19080703,19080815,12,0,"of12,lf12"
-boxscores/1908/1908-EM,1908,Central Kansas League,wing,P8667090,Wing,,,Newton,19080627,19080627,1,0,"of1,lf1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,wing,P9985891,Wing,,,Newton,19080717,19080808,4,0,"of4,lf4"
-boxscores/1908/1908-SDU,1908,Central Kansas League,wing,P6558828,Wing,,,Newton,19080622,19080730,15,0,"of15,lf15"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,wing,P3717250,Wing,,,Newton,19080812,19080817,3,0,"of3,lf3"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,wing@ump,P9221497,Wing,,,#umpire,19080818,19080818,,,
 minoraverages/Howard,1908,Central Kansas League,wing,B01696,Wing,"""Chick""",0,Newton,19080622,19080817,40,,lf40
-boxscores/1908/1908-EM,1908,Central Kansas League,winger,P9871625,Winger,,,Newton,19080627,19080627,1,0,"2b1,of1,rf1"
-boxscores/1908/1908-SDU,1908,Central Kansas League,winger,P3974307,Winger,,,Newton,19080623,19080626,4,3,"p3,2b1,of2,rf2"
 minoraverages/Howard,1908,Central Kansas League,winger,B01706,Winger,James E.,0,Newton,19080623,19080627,5,,"p3,2b1,lf1,rf1"
 minoraverages/Howard,1908,Central Kansas League,winger,P10429,Winger,James E.,0,Newton,,,,3,
-boxscores/1908/1908-SDU,1908,Central Kansas League,wood,P3333625,Wood,,,Ellsworth,19080622,19080624,3,0,"1b1,of2,lf1,cf1"
 minoraverages/Howard,1908,Central Kansas League,wood,B01711,Wood,,0,Ellsworth,19080622,19080624,3,,"1b1,cf2"
-boxscores/1908/1908-SDU,1908,Central Kansas League,young,P8682219,Woung,,,Minneapolis,19080623,19080623,1,0,1b1
-boxscores/1908/1908-EKR,1908,Central Kansas League,wright,P3626614,Wright,,,McPherson,19080815,19080815,1,0,"of1,cf1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,wright,P6232247,Wright,,,McPherson,19080818,19080818,1,0,"of1,cf1"
 minoraverages/Howard,1908,Central Kansas League,wright,B01722,Wright,,0,McPherson,19080815,19080818,2,,cf2
-boxscores/1908/1908-EKR,1908,Central Kansas League,young,P8590723,Young,,,Minneapolis,19080703,19080805,4,0,1b4
-boxscores/1908/1908-MDR,1908,Central Kansas League,young,P4576612,Young,,,Minneapolis,19080625,19080730,6,0,1b6
-boxscores/1908/1908-MM,1908,Central Kansas League,young,P4610459,Young,,,Minneapolis,19080622,19080622,1,0,1b1
-boxscores/1908/1908-SDU,1908,Central Kansas League,young,P2331565,Young,,,Minneapolis,19080624,19080808,19,0,1b18
-boxscores/1908/1908-SEJ,1908,Central Kansas League,young,P3916483,Young,,,Minneapolis,19080713,19080817,9,0,1b9
 minoraverages/Howard,1908,Central Kansas League,young,B01733,Young,Benjamin Percy,0,Minneapolis,19080622,19080818,51,,
 minoraverages/Howard,1908,Central Kansas League,young,M90071,Young,"Benjamin P. ""Ben""",,Minneapolis,,,,,
-boxscores/1908/1908-SEJ,1908,Central Kansas League,garrison,P1046582,garrison,,,Minneapolis,19080815,19080815,1,0,"of1,cf1"
-boxscores/1908/1908-SEJ,1908,Central Kansas League,osborne,P3123273,osborne,,,Minneapolis,19080715,19080715,1,0,"of1,rf1"
-boxscores/1908/1908-MDR,1908,Central Kansas League,,P9031461,,,,#umpire,19080701,19080812,,,
-boxscores/1908/1908-SDU,1908,Central Kansas League,,P4298158,,,,#umpire,19080629,19080808,,,
-boxscores/1908/1908-SEJ,1908,Central Kansas League,,P5203140,,,,#umpire,19080709,19080812,,,

@@ -15,13 +15,6 @@ def extract_with_source(path, source, **kwargs):
         return pd.DataFrame()
 
 
-def collect_from_palmer(path):
-    """Collect playing records from Palmer rosters.
-    """
-    print("Collecting items from Palmer dataset.")
-    return extract_with_source(path/"playing_individual.csv",
-                               "palmer")
-
 def collect_from_averages(path):
     """Collect playing and managing performance records from
     minoraverages repository.
@@ -36,72 +29,6 @@ def collect_from_averages(path):
                        )
                        for sourcepath in (path/"processed").glob("*")],
                       sort=True, ignore_index=True)]
-
-
-def collect_from_boxscores(path):
-    """Collect people entries from boxscores repository.
-    """
-    print("Collecting players from boxscores dataset.")
-    players = pd.concat([extract_with_source(sourcepath/"players.csv",
-                                             "/".join(["boxscores",
-                                                       sourcepath.parts[-2],
-                                                       sourcepath.parts[-1]]))
-                         for sourcepath in
-                         (path/"data"/"boxscores"/"processed").glob("*/*")],
-                        ignore_index=True)
-    umpires = pd.concat([extract_with_source(sourcepath/"umpires.csv",
-                                             "/".join(["boxscores",
-                                                       sourcepath.parts[-2],
-                                                       sourcepath.parts[-1]]))
-                         for sourcepath in
-                         (path/"data"/"boxscores"/"processed").glob("*/*")],
-                        ignore_index=True)
-    umpires['entry.name'] = "#umpire"
-    return [players, umpires]
-
-
-def collect_retrosheet_rosters(path_retro, year):
-    """Collect the roster files from the Retrosheet repository for 'year'.
-    """
-    return pd.concat([pd.read_csv(fn, dtype=str, encoding='utf-8',
-                                  header=None,
-                                  names=['person.ref',
-                                         'person.name.last',
-                                         'person.name.given',
-                                         'bats', 'throws', 'team.key', 'pos'],
-                                  usecols=['person.ref', 'team.key',
-                                           'person.name.last',
-                                           'person.name.given'])
-                      for fn in (path_retro/"rosters").glob("*%s.ROS" % year)],
-                     sort=False, ignore_index=True)
-
-
-def collect_from_retrosheet(path_splits, path_retro):
-    """Collect playing entries from retrosplits repository.
-    """
-    print("Collecting items from Retrosheet dataset.")
-    dflist = []
-    teams = pd.read_csv("support/retroteams.csv", dtype=str, encoding='utf-8')
-    for year in range(1906, 1920):
-        df = pd.read_csv(path_splits/"daybyday"/("playing-%d.csv" % year),
-                         dtype=str, encoding='utf-8',
-                         usecols=['person.key', 'team.key', 'game.date']) \
-               .groupby(['person.key', 'team.key'])['game.date'] \
-               .agg(['min', 'max']) \
-               .set_axis(['S_FIRST', 'S_LAST'],
-                         axis='columns', inplace=False) \
-               .reset_index()
-        df['league.year'] = df['S_FIRST'].str.split('-').str[0]
-        df = df.merge(teams, how='left', on=['league.year', 'team.key']) \
-               .rename(columns={'person.key':  'person.ref'}) \
-               .assign(source="retrosheet/%s" % year) \
-               .merge(collect_retrosheet_rosters(path_retro, year),
-                      how='left', on=['person.ref', 'team.key'])
-        dflist.append(df[['source', 'league.year', 'league.name',
-                          'person.ref',
-                          'person.name.last', 'person.name.given',
-                          'entry.name', 'S_FIRST', 'S_LAST']])
-    return dflist
 
 
 def extract_idents(path):
@@ -122,17 +49,9 @@ def extract_idents(path):
 def extract_sources():
     """Collect up person references from the various sources.
     """
-    retrolist = collect_from_retrosheet(
-        path_splits=pathlib.Path("../../data/retrosplits"),
-        path_retro=pathlib.Path("../../data/retrosheet")
-    )
-    palmer = [
-        collect_from_palmer(pathlib.Path("../../palmer/minors/data/processed"))
-    ]
     avglist = collect_from_averages(pathlib.Path("../hgame-averages"))
-    boxlist = collect_from_boxscores(pathlib.Path("../hgame-boxscore"))
     print("Concatenating files...")
-    return pd.concat(retrolist + palmer + avglist + boxlist,
+    return pd.concat(avglist,
                      sort=False, ignore_index=True)
 
 

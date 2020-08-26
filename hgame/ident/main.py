@@ -1,7 +1,6 @@
 import click
 
 from . import people
-from . import games
 from . import coverage
 from . import lint
 from . import tidy
@@ -16,7 +15,6 @@ def ident():
 @ident.command("update")
 def do_update():
     people.main()
-    games.main()
 
 
 @ident.command("coverage")

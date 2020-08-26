@@ -1,774 +1,150 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
 minoraverages/1910Spalding,1909,Central Kansas League,abbott,B00343,Abbot,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,abbott,F20342,Abbot,,0,Salina,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,abbott,P0292918,Abbott,,,Minneapolis,19090616,19090721,5,0,c5
-boxscores/1909/1909-BDC,1909,Central Kansas League,abbott,P4256471,Abbott,,,Minneapolis,19090703,19090703,1,0,c1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,abbott,P0214388,Abbott,,,Minneapolis,19090717,19090717,1,0,c1
-boxscores/1909/1909-SDU,1909,Central Kansas League,abbott,P4429658,Abbott,,,Minneapolis,19090614,19090715,13,0,"c12,of1,cf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,abbott-sal,P7194867,Abbott,,,Salina,19090724,19090901,28,1,"p1,c11,1b4,2b4,3b2,of6,cf6"
-boxscores/1909/1909-TDR,1909,Central Kansas League,abbott,P6261080,Abbott,,,Minneapolis,19090621,19090701,3,0,c3
-boxscores/1909/1909-TMC,1909,Central Kansas League,abbott,P6681394,Abbott,,,Minneapolis,19090618,19090628,2,0,"c1,1b1"
 minoraverages/1910Spalding,1909,Central Kansas League,abbott,B00590,Abbott,,0,Minneapolis,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,abbott,F20594,Abbott,,0,Minneapolis,,,,,
-boxscores/1909/1909-TMC,1909,Central Kansas League,ahearn@ump,P6751896,Ahearn,,,#umpire,19090811,19090811,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,allingham,P9425426,Allingham,,,Clay Center,19090623,19090727,4,0,c4
-boxscores/1909/1909-ADR,1909,Central Kansas League,allingham,P1384161,Allingham,,,Clay Center,19090728,19090823,3,0,c3
-boxscores/1909/1909-BDC,1909,Central Kansas League,allingham,P7629587,Allingham,,,Clay Center,19090729,19090731,3,0,c3
-boxscores/1909/1909-EM,1909,Central Kansas League,allingham,P7026140,Allingham,,,Clay Center,19090710,19090712,2,0,c2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,allingham,P7292816,Allingham,,,Clay Center,19090706,19090818,4,0,c4
-boxscores/1909/1909-SDU,1909,Central Kansas League,allingham,P1450806,Allingham,,,Clay Center,19090614,19090901,22,0,"c21,of1,lf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,allingham,P7263220,Allingham,,,Clay Center,19090616,19090812,22,0,"c15,1b1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,allingham,P2087438,Allingham,,,Clay Center,19090703,19090811,6,0,"c6,1b1"
 minoraverages/1910Spalding,1909,Central Kansas League,allingham,B01108,Allingham,,0,Clay Center,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,allingham,F21101,Allingham,,0,Clay Center,,,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,ames@ump,P6430033,Ames,,,#umpire,19090824,19090825,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,arin,P6928236,Arin,,,Junction City,19090614,19090614,1,0,c1
-boxscores/1909/1909-ADC,1909,Central Kansas League,armine,P8771537,Armin,,,Beloit,19090614,19090715,3,0,3b3
-boxscores/1909/1909-BDC,1909,Central Kansas League,armine,P7053874,Armin,,,Beloit,19090621,19090714,11,0,3b11
-boxscores/1909/1909-JCDU,1909,Central Kansas League,armine,P4801167,Armin,,,Beloit,19090616,19090712,3,0,3b3
-boxscores/1909/1909-SDU,1909,Central Kansas League,armine,P1130997,Armin,,,Beloit,19090618,19090716,6,0,3b6
-boxscores/1909/1909-TDR,1909,Central Kansas League,armine,P2200435,Armin,,,Beloit,19090619,19090629,3,0,3b3
-boxscores/1909/1909-TMC,1909,Central Kansas League,armine,P0212941,Armin,,,Beloit,19090630,19090630,1,1,"p1,3b1"
 minoraverages/1910Spalding,1909,Central Kansas League,armine,B00898,Armine,,0,Beloit,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,armine,F20893,Armine,,0,Beloit,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,armstrong,P4561372,Armstrong,,,Ellsworth,19090619,19090729,4,0,1b4
-boxscores/1909/1909-ADR,1909,Central Kansas League,armstrong,P6362987,Armstrong,,,Ellsworth,19090730,19090821,4,0,1b4
-boxscores/1909/1909-BDC,1909,Central Kansas League,armstrong,P5358621,Armstrong,,,Ellsworth,19090626,19090816,6,0,1b6
-boxscores/1909/1909-EM,1909,Central Kansas League,armstrong,P1032998,Armstrong,,,Ellsworth,19090710,19090712,2,0,1b2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,armstrong,P1969882,Armstrong,,,Ellsworth,19090629,19090824,2,0,1b2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,armstrong-jc,P4406041,Armstrong,,,Junction City,19090616,19090616,1,0,c1
-boxscores/1909/1909-SDU,1909,Central Kansas League,armstrong,P1073792,Armstrong,,,Ellsworth,19090614,19090811,28,0,1b28
-boxscores/1909/1909-SDU,1909,Central Kansas League,armstrong-jc,P2457151,Armstrong,,,Junction City,19090615,19090615,1,0,c1
-boxscores/1909/1909-TDR,1909,Central Kansas League,armstrong,P1510718,Armstrong,,,Ellsworth,19090615,19090716,3,0,1b1
-boxscores/1909/1909-TMC,1909,Central Kansas League,armstrong,P5381080,Armstrong,,,Ellsworth,19090616,19090721,5,0,1b5
 minoraverages/1910Spalding,1909,Central Kansas League,armstrong,B00076,Armstrong,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,armstrong,F20072,Armstrong,,0,Ellsworth,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,arnold,P9459426,Arnold,,,Junction City,19090614,19090614,1,0,1b1
-boxscores/1909/1909-ADC,1909,Central Kansas League,ash,P4851894,Ash,,,Beloit,19090614,19090615,2,0,"of2,lf2"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,ash,P2552564,Ash,,,Beloit,19090616,19090617,2,0,"of2,lf1,cf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,ash,P7315034,Ash,,,Beloit,19090618,19090618,1,0,"of1,lf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,austin,P9330281,Austin,,,Manhattan,19090722,19090722,1,0,c1
-boxscores/1909/1909-BDC,1909,Central Kansas League,bear,P2005813,Baer,,,Minneapolis,19090811,19090811,1,1,p1
-boxscores/1909/1909-MBW,1909,Central Kansas League,bear,P7767282,Baer,,,Minneapolis,19090807,19090807,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,baer-man,P6523285,Baer,,,Manhattan,19090731,19090731,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,baes,P2888695,Baes,,,Junction City,19090705,19090705,1,0,ss1
-boxscores/1909/1909-ADC,1909,Central Kansas League,baird,P1329589,Baird,,,Salina,19090629,19090629,1,1,p1
-boxscores/1909/1909-BDC,1909,Central Kansas League,baird-min,P8298845,Baird,,,Minneapolis,19090809,19090809,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,baird,P3689049,Baird,,,Salina,19090618,19090805,14,13,"p13,of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,baird-min,P9213184,Baird,,,Minneapolis,19090813,19090813,1,1,p1
-boxscores/1909/1909-TMC,1909,Central Kansas League,baird,P2770993,Baird,,,Salina,19090716,19090716,1,1,p1
 minoraverages/1910Spalding,1909,Central Kansas League,baird,B00293,Baird,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,baird,F20298,Baird,,0,Salina,,,,,
-boxscores/1909/1909-ADR,1909,Central Kansas League,bankhead,P9316936,Bankhead,,,Abilene,19090817,19090817,1,0,
-boxscores/1909/1909-SDU,1909,Central Kansas League,bargenbach,P1854943,Bargenbach,,,Junction City,19090715,19090715,1,0,ss1
-boxscores/1909/1909-ADR,1909,Central Kansas League,barnes,P8580321,Barnes,,,Manhattan,19090816,19090818,3,0,"of2,lf2"
-boxscores/1909/1909-BDC,1909,Central Kansas League,barnes,P3982803,Barnes,,,Manhattan,19090802,19090804,3,0,"2b2,of1,rf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,barnes,P1444656,Barnes,,,Manhattan,19090722,19090728,6,0,"1b5,ss1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,barnes,P9768086,Barnes,,,Manhattan,19090714,19090827,5,0,"1b2,3b1,of3,lf3"
-boxscores/1909/1909-TDR,1909,Central Kansas League,barnes,P8750484,Barnes,,,Manhattan,19090805,19090807,3,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,barnes,P7878510,Barnes,,,Manhattan,19090715,19090825,20,0,"1b7,of13,lf13"
 minoraverages/1910Spalding,1909,Central Kansas League,barnes,B01345,Barnes,,0,Manhattan,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,barnes,F21343,Barnes,,0,Manhattan,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,bartley,P4888769,Bartkey,,,Abilene,19090814,19090814,1,0,c1
-boxscores/1909/1909-ADR,1909,Central Kansas League,bartley@ump,P3075439,Bartley,,,#umpire,19090830,19090830,,,
-boxscores/1909/1909-ADR,1909,Central Kansas League,bartley,P6458381,Bartley,,,Abilene,19090816,19090827,6,0,"c6,1b1"
-boxscores/1909/1909-BDC,1909,Central Kansas League,bartley,P9046335,Bartley,,,Abilene,19090831,19090831,1,0,c1
-boxscores/1909/1909-SDU,1909,Central Kansas League,bartley@ump,P8292324,Bartley,,,#umpire,19090828,19090828,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,bartley,P8615586,Bartley,,,Abilene,19090814,19090814,1,0,c1
-boxscores/1909/1909-TMC,1909,Central Kansas League,bartley,P6437114,Bartley,,,Abilene,19090813,19090813,2,0,"c1,2b1"
 minoraverages/1910Spalding,1909,Central Kansas League,bartley,B00528,Bartley,,0,Abilene,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,bartley,F20526,Bartley,,0,Abilene,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,barton,P3009713,Barton,,,Abilene,19090719,19090721,2,0,2b2
-boxscores/1909/1909-BDC,1909,Central Kansas League,bates,P4579374,Bates,,,Junction City,19090710,19090710,1,0,ss1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,bates,P1190635,Bates,,,Junction City,19090616,19090712,10,0,ss10
-boxscores/1909/1909-SDU,1909,Central Kansas League,bates,P0294545,Bates,,,Junction City,19090614,19090713,10,0,ss10
-boxscores/1909/1909-TMC,1909,Central Kansas League,bates,P4601833,Bates,,,Junction City,19090626,19090626,1,0,ss1
-boxscores/1909/1909-SDU,1909,Central Kansas League,bault,P8058902,Bault,,,Minneapolis,19090712,19090712,1,0,"of1,lf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,day-cc,P9071525,Bay,,,Clay Center,19090616,19090717,3,0,"2b3,ss1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,bay,P9166359,Bay,,,Manhattan,19090713,19090713,1,0,"of1,rf1"
-boxscores/1909/1909-ADR,1909,Central Kansas League,beal,P3061757,Beal,,,Beloit,19090830,19090830,1,1,p1
-boxscores/1909/1909-BDC,1909,Central Kansas League,beal,P9795631,Beal,,,Beloit,19090722,19090831,4,3,"p3,of1,rf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,beal,P4575852,Beal,,,Beloit,19090720,19090720,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,beal,P1737362,Beal,,,Beloit,19090727,19090806,3,2,"p2,of1,rf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,beal,P9588330,Beal,,,Beloit,19090820,19090820,1,1,p1
 minoraverages/1910Spalding,1909,Central Kansas League,beal,B01007,Beal,,0,Beloit,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,beal,F21000,Beal,,0,Beloit,,,,,
-boxscores/1909/1909-BDGT,1909,Central Kansas League,beal,P5839212,Beale,,,Beloit,19090717,19090717,2,2,p2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,beal,P2461183,Beals,,,Beloit,19090721,19090721,1,0,"of1,rf1"
-boxscores/1909/1909-ADR,1909,Central Kansas League,bear,P6287043,Bear,,,Minneapolis,19090827,19090827,1,1,p1
-boxscores/1909/1909-MBW,1909,Central Kansas League,bear,P7450994,Bear,,,Minneapolis,19090807,19090807,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,bear,P7474808,Bear,,,Minneapolis,19090727,19090831,4,4,p4
-boxscores/1909/1909-TDR,1909,Central Kansas League,bear,P6457206,Bear,,,Minneapolis,19090804,19090804,2,2,p2
-boxscores/1909/1909-TMC,1909,Central Kansas League,bear,P5585232,Bear,,,Minneapolis,19090824,19090824,1,1,p1
 minoraverages/1910Spalding,1909,Central Kansas League,bear,B00680,Bear,,0,Minneapolis,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,bear,F20685,Bear,,0,Minneapolis,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,bear,P10137,Bear,,0,Minneapolis,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,bechtold,P8153552,Bechtold,,,Abilene,19090614,19090729,15,0,"2b6,ss1,of8,cf1,rf7"
-boxscores/1909/1909-ADR,1909,Central Kansas League,bechtold,P0128447,Bechtold,,,Abilene,19090706,19090830,16,0,"2b3,of12,lf1,cf2,rf11"
-boxscores/1909/1909-BDC,1909,Central Kansas League,bechtold,P5530929,Bechtold,,,Abilene,19090713,19090831,3,0,"2b1,of2,rf2"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,bechtold,P2992782,Bechtold,,,Abilene,19090705,19090705,1,0,"of1,cf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,bechtold,P1316212,Bechtold,,,Abilene,19090621,19090825,11,0,"2b6,of6,cf2,rf5"
-boxscores/1909/1909-TDR,1909,Central Kansas League,bechtold,P0298610,Bechtold,,,Abilene,19090722,19090724,3,0,"of2,rf2"
-boxscores/1909/1909-TMC,1909,Central Kansas League,bechtold,P9426636,Bechtold,,,Abilene,19090708,19090813,4,0,"of3,rf3"
 minoraverages/1910Spalding,1909,Central Kansas League,bechtold,B00397,Bechtold,,0,Abilene,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,bechtold,F20391,Bechtold,,0,Abilene,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,bechtold,P6827351,Becktold,,,Abilene,19090702,19090702,1,0,"of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,beebe,P5725514,Beebe,,,Salina,19090625,19090625,1,1,p1
-boxscores/1909/1909-TDR,1909,Central Kansas League,demarre,P1333485,Bemaree,,,Minneapolis,19090622,19090622,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,bargenbach,P6238091,Bergenbauch,,,Manhattan,19090726,19090726,1,0,ss1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,bechtold,P5166610,Bichtold,,,Abilene,19090705,19090705,1,0,"of1,rf1"
-boxscores/1909/1909-ADR,1909,Central Kansas League,beal,P1727365,Biel,,,Beloit,19090823,19090823,1,1,p1
-boxscores/1909/1909-TMC,1909,Central Kansas League,blaine,P7883641,Blain,,,Manhattan,19090813,19090813,1,0,c1
-boxscores/1909/1909-SDU,1909,Central Kansas League,blaine,P7333766,Blaine,,,Manhattan,19090814,19090814,1,0,c1
-boxscores/1909/1909-TMC,1909,Central Kansas League,blakeley,P7926652,Blakeley,,,Manhattan,19090810,19090811,2,0,2b2
-boxscores/1909/1909-ADC,1909,Central Kansas League,bond,P0812538,Bond,,,Manhattan,19090707,19090707,1,0,3b1
-boxscores/1909/1909-ADR,1909,Central Kansas League,bond,P5047593,Bond,,,Manhattan,19090706,19090706,1,0,3b1
-boxscores/1909/1909-BDC,1909,Central Kansas League,bond,P0277531,Bond,,,Manhattan,19090621,19090622,2,0,3b2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,bond,P7079608,Bond,,,Manhattan,19090623,19090728,7,0,3b7
-boxscores/1909/1909-SDU,1909,Central Kansas League,bond,P0264478,Bond,,,Manhattan,19090624,19090716,7,0,3b7
-boxscores/1909/1909-TMC,1909,Central Kansas League,bond,P0501494,Bond,,,Manhattan,19090626,19090721,15,0,3b15
 minoraverages/1910Spalding,1909,Central Kansas League,bond,B01321,Bond,,0,Manhattan,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,bond,F21324,Bond,,0,Manhattan,,,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,bond,P7974335,Boud,,,Manhattan,19090722,19090722,1,0,3b1
-boxscores/1909/1909-SDU,1909,Central Kansas League,brammage@ump,P6051373,Brammage,,,#umpire,19090716,19090716,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,brinker,P2960569,Brink,,,Ellsworth,19090705,19090705,1,0,2b1
-boxscores/1909/1909-ADC,1909,Central Kansas League,brinker,P8322028,Brinker,,,Ellsworth,19090619,19090701,3,0,2b3
-boxscores/1909/1909-BDC,1909,Central Kansas League,brinker,P1775469,Brinker,,,Ellsworth,19090626,19090626,1,0,2b1
-boxscores/1909/1909-EM,1909,Central Kansas League,brinker,P0513462,Brinker,,,Ellsworth,19090710,19090710,1,0,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,brinker,P8016618,Brinker,,,Ellsworth,19090629,19090629,1,0,2b1
-boxscores/1909/1909-SDU,1909,Central Kansas League,brinker,P2689808,Brinker,,,Ellsworth,19090614,19090705,10,0,2b10
-boxscores/1909/1909-TMC,1909,Central Kansas League,brinker,P0333800,Brinker,,,Ellsworth,19090616,19090617,2,0,2b2
 minoraverages/1910Spalding,1909,Central Kansas League,brinker,B00037,Brinker,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,brinker,F20038,Brinker,,0,Ellsworth,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,britton,P0211628,Brittain,,,Abilene,19090621,19090825,7,0,3b7
-boxscores/1909/1909-ADC,1909,Central Kansas League,britton,P4788685,Britton,,,Abilene,19090614,19090729,17,0,"3b15,ss1"
-boxscores/1909/1909-ADR,1909,Central Kansas League,britton,P4545500,Britton,,,Abilene,19090706,19090830,15,0,3b15
-boxscores/1909/1909-BDC,1909,Central Kansas League,britton,P7133454,Britton,,,Abilene,19090713,19090831,3,0,3b3
-boxscores/1909/1909-JCDU,1909,Central Kansas League,britton,P1601995,Britton,,,Abilene,19090705,19090810,3,0,3b3
-boxscores/1909/1909-SDU,1909,Central Kansas League,britton,P6702705,Britton,,,Abilene,19090626,19090802,6,0,"1b1,3b5"
-boxscores/1909/1909-TDR,1909,Central Kansas League,britton,P9096111,Britton,,,Abilene,19090722,19090724,3,0,3b2
-boxscores/1909/1909-TMC,1909,Central Kansas League,britton,P4524233,Britton,,,Abilene,19090708,19090813,4,0,3b3
 minoraverages/1910Spalding,1909,Central Kansas League,britton,B00416,Britton,,0,Abilene,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,britton,F20417,Britton,,0,Abilene,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,brooks-ell,P5603873,Brooke,,,Ellsworth,19090729,19090729,1,0,2b1
-boxscores/1909/1909-ADC,1909,Central Kansas League,brooks-cc,P1711317,Brooks,,,Clay Center,19090623,19090726,2,2,p2
-boxscores/1909/1909-ADC,1909,Central Kansas League,brooks-ell,P7779311,Brooks,,,Ellsworth,19090619,19090619,1,0,3b1
-boxscores/1909/1909-ADR,1909,Central Kansas League,brooks-ell,P9754206,Brooks,,,Ellsworth,19090730,19090821,4,0,2b4
-boxscores/1909/1909-BDC,1909,Central Kansas League,brooks-ell,P5156688,Brooks,,,Ellsworth,19090626,19090816,6,0,"2b4,3b1,ss1"
-boxscores/1909/1909-BDC,1909,Central Kansas League,brooks-cc,P5674870,Brooks,,,Clay Center,19090730,19090730,1,1,p1
-boxscores/1909/1909-EM,1909,Central Kansas League,brooks-ell,P8754809,Brooks,,,Ellsworth,19090712,19090712,1,0,2b1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,brooks-cc,P1632787,Brooks,,,Clay Center,19090706,19090818,2,2,p2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,brooks-ell,P2618541,Brooks,,,Ellsworth,19090629,19090824,2,0,"2b1,3b1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,brooks-ell,P0941971,Brooks,,,Ellsworth,19090621,19090810,20,0,"2b15,3b5"
-boxscores/1909/1909-SDU,1909,Central Kansas League,brooks-cc,P5848057,Brooks,,,Clay Center,19090614,19090830,8,4,"p4,of4,lf2,rf2"
-boxscores/1909/1909-TDR,1909,Central Kansas League,brooks-cc,P7679479,Brooks,,,Clay Center,19090616,19090812,10,8,"p8,of1,rf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,brooks-ell,P9924369,Brooks,,,Ellsworth,19090716,19090716,1,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,brooks-cc,P8099793,Brooks,,,Clay Center,19090703,19090811,3,2,"p2,of1,rf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,brooks-ell,P9052395,Brooks,,,Ellsworth,19090616,19090721,5,0,"2b2,3b2,ss1"
 minoraverages/1910Spalding,1909,Central Kansas League,brooks-ell,B00117,Brooks,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,brooks-cc,B01119,Brooks,,0,Clay Center,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,brooks-ell,F20115,Brooks,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,brooks-cc,F21117,Brooks,,0,Clay Center,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,brooks-cc,P10113,Brooks,,0,Clay Center,,,,,
-boxscores/1909/1909-EM,1909,Central Kansas League,brooks-cc,P1066077,Brooks [CC],,,Clay Center,19090710,19090710,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,brooks-cc,P9527351,Brooks [CC],,,Clay Center,19090717,19090717,1,1,p1
-boxscores/1909/1909-TDR,1909,Central Kansas League,brooks-cc,P9246197,Brooks [CC],,,Clay Center,19090715,19090715,1,0,"of1,rf1"
-boxscores/1909/1909-EM,1909,Central Kansas League,brooks-ell,P3111022,Brooks [Ell],,,Ellsworth,19090710,19090710,1,0,2b1
-boxscores/1909/1909-SDU,1909,Central Kansas League,brooks-ell,P9125000,Brooks [Ell],,,Ellsworth,19090717,19090717,1,0,2b1
-boxscores/1909/1909-TDR,1909,Central Kansas League,brooks-ell,P0934662,Brooks [Ell],,,Ellsworth,19090715,19090715,1,0,2b1
-boxscores/1909/1909-ADC,1909,Central Kansas League,brown,P1135298,Brown,,,Minneapolis,19090616,19090617,2,0,"of2,rf2"
-boxscores/1909/1909-TMC,1909,Central Kansas League,brown,P3147070,Brown,,,Minneapolis,19090618,19090618,1,0,"of1,rf1"
-boxscores/1909/1909-ADC,1909,Central Kansas League,burke-abi,P6146116,Bruke,,,Abilene,19090616,19090616,1,0,3b1
-boxscores/1909/1909-ADC,1909,Central Kansas League,brummage@ump,P4800816,Brumage,,,#umpire,19090623,19090727,,,
-boxscores/1909/1909-ADR,1909,Central Kansas League,brummage@ump,P9035871,Brumage,,,#umpire,19090728,19090728,,,
-boxscores/1909/1909-BDC,1909,Central Kansas League,brummage@ump,P4265809,Brumage,,,#umpire,19090621,19090622,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,brummage@ump,P1067886,Brumage,,,#umpire,19090625,19090625,,,
-boxscores/1909/1909-TDR,1909,Central Kansas League,brummage@ump,P8870738,Brumage,,,#umpire,19090619,19090619,,,
-boxscores/1909/1909-TMC,1909,Central Kansas League,brummage@ump,P4489772,Brumage,,,#umpire,19090614,19090617,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,brummage@ump,P1024923,Brummage,,,#umpire,19090629,19090629,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,brummage@ump,P6125633,Brummage,,,#umpire,19090615,19090731,,,
-boxscores/1909/1909-TDR,1909,Central Kansas League,brummage@ump,P8519039,Brummage,,,#umpire,19090802,19090807,,,
-boxscores/1909/1909-TMC,1909,Central Kansas League,brummage@ump,P3947161,Brummage,,,#umpire,19090616,19090616,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,bruner,P5737253,Bruner,,,Salina,19090617,19090617,1,0,c1
-boxscores/1909/1909-ADR,1909,Central Kansas League,bryant,P2219990,Bryant,,,Manhattan,19090817,19090817,1,0,
-boxscores/1909/1909-BDC,1909,Central Kansas League,bryant,P7622472,Bryant,,,Manhattan,19090802,19090803,2,1,"p1,of1,rf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,bryant,P5084325,Bryant,,,Manhattan,19090623,19090727,3,3,p3
-boxscores/1909/1909-MM,1909,Central Kansas League,bryant,P9978745,Bryant,,,Manhattan,19090619,19090619,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,bryant,P3407755,Bryant,,,Manhattan,19090614,19090814,4,4,p4
-boxscores/1909/1909-TDR,1909,Central Kansas League,bryant,P2390153,Bryant,,,Manhattan,19090807,19090807,1,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,bryant,P1518179,Bryant,,,Manhattan,19090614,19090901,19,14,"p14,of3,cf2,rf1"
 minoraverages/1910Spalding,1909,Central Kansas League,bryant,B01291,Bryant,,0,Manhattan,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,bryant,F21293,Bryant,,0,Manhattan,,,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,buck,P1355034,Buck,,,Manhattan,19090722,19090724,2,2,p2
-boxscores/1909/1909-BDC,1909,Central Kansas League,bargenbach,P6690480,Burgenbach,,,Junction City,19090719,19090719,1,0,2b1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,bargenbach,P4151053,Burgenbach,,,Junction City,19090717,19090717,1,0,ss1
-boxscores/1909/1909-SDU,1909,Central Kansas League,bargenbach,P9837683,Burgenbach,,,Junction City,19090716,19090716,1,0,ss1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,bargenbach,P3751170,Burgenbauch,,,Junction City,19090720,19090723,4,0,"2b3,ss1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,bargenbach,P8615707,Burgenbauch,,,Manhattan,19090727,19090728,2,0,ss2
-boxscores/1909/1909-ADC,1909,Central Kansas League,burke-abi,P3920548,Burke,,,Abilene,19090615,19090617,2,0,3b2
-boxscores/1909/1909-TMC,1909,Central Kansas League,burke-min,P4575919,Burke,,,Minneapolis,19090618,19090619,2,0,"2b1,of1,cf1"
-boxscores/1909/1909-BDC,1909,Central Kansas League,bargenbach,P1749158,Burkenbaugh,,,Manhattan,19090802,19090804,3,0,ss3
-boxscores/1909/1909-TDR,1909,Central Kansas League,bargenbach,P2783568,Burkenburg,,,Manhattan,19090805,19090807,3,0,
-boxscores/1909/1909-ADC,1909,Central Kansas League,burton,P3083973,Burton,,,Abilene,19090623,19090729,11,0,"2b9,ss1,of1,cf1"
-boxscores/1909/1909-ADR,1909,Central Kansas League,burton-man,P1687264,Burton,,,Manhattan,19090818,19090818,1,0,2b1
-boxscores/1909/1909-ADR,1909,Central Kansas League,burton,P7319028,Burton,,,Abilene,19090706,19090816,8,0,2b8
-boxscores/1909/1909-BDC,1909,Central Kansas League,burton,P2548966,Burton,,,Abilene,19090713,19090714,2,0,2b2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,burton,P9351043,Burton,,,Abilene,19090705,19090810,4,0,2b4
-boxscores/1909/1909-SDU,1909,Central Kansas League,burton,P2535913,Burton,,,Abilene,19090621,19090804,11,0,"2b8,3b1,ss1,of1,cf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,burton-man,P2875029,Burton,,,Manhattan,19090826,19090827,2,0,2b2
-boxscores/1909/1909-TDR,1909,Central Kansas League,burton,P7153895,Burton,,,Abilene,19090722,19090724,3,0,2b2
-boxscores/1909/1909-TMC,1909,Central Kansas League,burton-man,P0985453,Burton,,,Manhattan,19090819,19090825,8,0,2b8
-boxscores/1909/1909-TMC,1909,Central Kansas League,burton,P2772929,Burton,,,Abilene,19090708,19090813,4,0,2b3
 minoraverages/1910Spalding,1909,Central Kansas League,burton,B00450,Burton,,0,Abilene,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,burton-man,B01402,Burton,,0,Manhattan,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,burton,F20458,Burton,,0,Abilene,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,burton-man,F21403,Burton,,0,Manhattan,,,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,britton,P1978141,Burton [Britton],,,Abilene,19090809,19090809,1,0,3b1
-boxscores/1909/1909-BDC,1909,Central Kansas League,calvert,P2065616,Cal,,,Ellsworth,19090816,19090816,1,0,2b1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,calvert,P7726285,Cal,,,Ellsworth,19090824,19090825,2,0,"of1,cf1"
-boxscores/1909/1909-BDC,1909,Central Kansas League,calvert,P0567217,Calvert,,,Ellsworth,19090626,19090626,1,1,p1
 minoraverages/1910Spalding,1909,Central Kansas League,calvert,B00149,Calvert,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,calvert,F20144,Calvert,,0,Ellsworth,,,,,
-boxscores/1909/1909-ADR,1909,Central Kansas League,campbell,P2068685,Campbell,,,Junction City,19090805,19090807,3,0,1b3
-boxscores/1909/1909-BDC,1909,Central Kansas League,campbell,P8167743,Campbell,,,Junction City,19090710,19090827,3,0,1b3
-boxscores/1909/1909-JCDU,1909,Central Kansas League,campbell,P7054300,Campbell,,,Junction City,19090616,19090824,26,0,1b25
-boxscores/1909/1909-SDU,1909,Central Kansas League,campbell,P4267970,Campbell,,,Junction City,19090615,19090821,20,0,"1b19,of1,lf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,campbell,P6077632,Campbell,,,Junction City,19090812,19090812,1,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,campbell,P5276826,Campbell,,,Junction City,19090626,19090626,1,0,1b1
 minoraverages/1910Spalding,1909,Central Kansas League,campbell,B00726,Campbell,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,campbell,F20721,Campbell,,0,Junction City,,,,,
-boxscores/1909/1909-BDC,1909,Central Kansas League,carhill,P8020805,Carhill,,,Clay Center,19090729,19090731,3,0,ss3
-boxscores/1909/1909-JCDU,1909,Central Kansas League,carhill,P4632066,Carhill,,,Clay Center,19090816,19090818,2,0,"ss1,of1,rf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,carhill,P4172902,Carhill,,,Clay Center,19090802,19090812,8,0,ss1
-boxscores/1909/1909-TMC,1909,Central Kansas League,carhill,P8043264,Carhill,,,Clay Center,19090810,19090811,2,0,"2b1,ss2"
 minoraverages/1910Spalding,1909,Central Kansas League,carhill,B01227,Carhill,,0,Clay Center,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,carhill,F21229,Carhill,,0,Clay Center,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,cassell,P1441990,Cassel,,,Abilene,19090617,19090629,2,0,"c1,of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,cassell,P0893930,Cassel,,,Abilene,19090626,19090628,2,0,"of2,rf2"
-boxscores/1909/1909-ADC,1909,Central Kansas League,cassell,P6301810,Cassell,,,Abilene,19090630,19090630,1,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,cassell-man,P5948634,Cassell,,,Manhattan,19090812,19090812,1,0,c1
-boxscores/1909/1909-ADC,1909,Central Kansas League,cassell,P1206279,Castle,,,Abilene,19090616,19090701,5,0,"c3,1b1,of2,cf2"
-boxscores/1909/1909-TMC,1909,Central Kansas League,cave,P9678546,Cave,,,Manhattan,19090618,19090629,3,0,"1b1,ss2"
-boxscores/1909/1909-ADC,1909,Central Kansas League,choteau,P1338260,Choteau,,,Abilene,19090617,19090727,3,3,p3
-boxscores/1909/1909-ADR,1909,Central Kansas League,choteau,P1095075,Choteau,,,Abilene,19090730,19090730,1,1,p1
-boxscores/1909/1909-TDR,1909,Central Kansas League,choteau,P5645686,Choteau,,,Abilene,19090724,19090724,1,1,p1
-boxscores/1909/1909-BDC,1909,Central Kansas League,choteau,P2770090,Chouteau,,,Abilene,19090714,19090714,1,1,p1
-boxscores/1909/1909-BDGT,1909,Central Kansas League,choteau,P7551106,Chouteau,,,Abilene,19090717,19090717,1,1,p1
-boxscores/1909/1909-TMC,1909,Central Kansas League,choteau,P6665797,Chouteau,,,Abilene,19090708,19090708,1,1,p1
-boxscores/1909/1909-ADR,1909,Central Kansas League,citizen,P1237919,Citizen,,,Minneapolis,19090826,19090827,2,0,3b2
-boxscores/1909/1909-SDU,1909,Central Kansas League,citizen,P5948724,Citizen,,,Minneapolis,19090816,19090818,3,0,3b3
-boxscores/1909/1909-TMC,1909,Central Kansas League,citizen,P0256012,Citizen,,,Minneapolis,19090823,19090825,4,0,3b4
 minoraverages/1910Spalding,1909,Central Kansas League,citizen,B00705,Citizen,,0,Minneapolis,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,citizen,F20700,Citizen,,0,Minneapolis,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,clougherty,P2953924,Clougherty,,,Minneapolis,19090817,19090817,1,0,c1
-boxscores/1909/1909-TDR,1909,Central Kansas League,cockrum,P4921348,Cocklun,,,Salina,19090616,19090616,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,cockrum,P5538660,Cockreham,,,Salina,19090619,19090619,1,0,
-boxscores/1909/1909-SDU,1909,Central Kansas League,cockrum,P3271819,Cockrum,,,Salina,19090621,19090624,2,2,p2
-boxscores/1909/1909-SDU,1909,Central Kansas League,cockrum,P1890060,Cockrun,,,Salina,19090616,19090616,1,1,p1
-boxscores/1909/1909-ADC,1909,Central Kansas League,coe-jc+man,P3947586,Coe,F.,,Manhattan,19090707,19090707,1,0,c1
-boxscores/1909/1909-ADC,1909,Central Kansas League,coe.c-man,P7061006,Coe,,,Manhattan,19090707,19090707,1,1,p1
-boxscores/1909/1909-ADR,1909,Central Kansas League,coe-jc+man,P6358084,Coe,,,Junction City,19090805,19090807,3,0,c3
-boxscores/1909/1909-ADR,1909,Central Kansas League,coe-jc+man,P7189341,Coe,,,Manhattan,19090706,19090816,2,1,"p1,c1"
-boxscores/1909/1909-BDC,1909,Central Kansas League,coe.c-man,P0378127,Coe,,,Manhattan,19090803,19090804,2,1,"p1,of1,rf1"
-boxscores/1909/1909-BDC,1909,Central Kansas League,coe-jc+man,P4639990,Coe,,,Junction City,19090827,19090828,2,0,c2
-boxscores/1909/1909-BDC,1909,Central Kansas League,coe-jc+man,P6292355,Coe,F.,,Manhattan,19090622,19090622,1,0,c1
-boxscores/1909/1909-BDC,1909,Central Kansas League,coe.c-man,P9833708,Coe,O.,,Manhattan,19090621,19090621,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,coe-jc+man,P0881139,Coe,,,Junction City,19090809,19090824,5,0,c5
-boxscores/1909/1909-JCDU,1909,Central Kansas League,coe-jc+man,P6038796,Coe,,,Manhattan,19090623,19090728,7,1,"p1,c5,of1,lf1"
-boxscores/1909/1909-MM,1909,Central Kansas League,coe-jc+man,P8687456,Coe,,,Manhattan,19090619,19090619,1,0,c1
-boxscores/1909/1909-SDU,1909,Central Kansas League,coe-jc+man,P4923186,Coe,,,Manhattan,19090713,19090826,8,2,"p2,c5,of1,cf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,coe.c-man,P5283285,Coe,,,Minneapolis,19090731,19090731,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,coe-jc+man,P5554329,Coe,,,Junction City,19090802,19090831,9,0,c9
-boxscores/1909/1909-TDR,1909,Central Kansas League,coe.c-man,P0214640,Coe,,,Manhattan,19090806,19090806,1,1,p1
-boxscores/1909/1909-TDR,1909,Central Kansas League,coe-jc+man,P1973463,Coe,,,Junction City,19090812,19090812,1,0,c1
-boxscores/1909/1909-TMC,1909,Central Kansas League,coe-jc+man,P4627338,Coe,,,Manhattan,19090614,19090824,20,5,"p5,c15"
 minoraverages/1910Spalding,1909,Central Kansas League,coe-jc+man,B00833,Coe,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,coe-jc+man,B01250,Coe,F.,0,Manhattan,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,coe.c-man,B01300,Coe,C.,0,Manhattan,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,coe-jc+man,F20832,Coe,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,coe-jc+man,F21255,Coe,F.,0,Manhattan,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,coe.c-man,F21308,Coe,C.,0,Manhattan,,,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,coe-jc+man,P2107495,Coe [C],,,Manhattan,19090625,19090625,1,0,c1
-boxscores/1909/1909-SDU,1909,Central Kansas League,coe-jc+man,P6780685,Coe [C],,,Manhattan,19090624,19090624,1,0,c1
-boxscores/1909/1909-TMC,1909,Central Kansas League,coe-jc+man,P4424677,Coe [C],,,Manhattan,19090616,19090626,2,0,c2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,coe.c-man,P0911988,Coe [P],,,Manhattan,19090625,19090625,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,coe.c-man,P5585178,Coe [P],,,Manhattan,19090624,19090624,1,1,p1
-boxscores/1909/1909-TMC,1909,Central Kansas League,coe.c-man,P3229170,Coe [P],,,Manhattan,19090616,19090626,2,2,p2
-boxscores/1909/1909-SDU,1909,Central Kansas League,coe-jc+man,P2299437,Coe [c],,,Manhattan,19090710,19090712,2,0,c2
-boxscores/1909/1909-TMC,1909,Central Kansas League,coe-jc+man,P9943429,Coe [c],,,Manhattan,19090708,19090720,3,0,c3
-boxscores/1909/1909-TMC,1909,Central Kansas League,coe.c-man,P7000724,Coe [lf],,,Manhattan,19090708,19090708,1,0,"of1,lf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,coe.c-man,P1103930,Coe [p],,,Manhattan,19090710,19090712,2,1,p1
-boxscores/1909/1909-TMC,1909,Central Kansas League,coe.c-man,P8747922,Coe [p],,,Manhattan,19090717,19090720,2,2,p2
-boxscores/1909/1909-SDU,1909,Central Kansas League,cole,P8643902,Cole,,,Manhattan,19090614,19090615,2,0,c2
-boxscores/1909/1909-ADR,1909,Central Kansas League,cox,P9986291,Cox,,,Beloit,19090830,19090830,1,1,p1
-boxscores/1909/1909-BDC,1909,Central Kansas League,cox,P1402469,Cox,,,Beloit,19090816,19090831,3,1,"p1,of2,cf1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,cox,P8127976,Cox,,,Beloit,19090817,19090817,1,1,p1
-boxscores/1909/1909-TMC,1909,Central Kansas League,cox,P6244672,Cox,,,Beloit,19090820,19090820,2,1,p1
 minoraverages/1910Spalding,1909,Central Kansas League,cox,B01078,Cox,,0,Beloit,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,cox,F21076,Cox,,0,Beloit,,,,,
-boxscores/1909/1909-BDC,1909,Central Kansas League,cretcher,P9221451,Cretcher,,,Beloit,19090724,19090724,1,1,p1
-boxscores/1909/1909-ADC,1909,Central Kansas League,crosby,P5497309,Crosby,,,Abilene,19090623,19090623,1,0,"of1,cf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,crosby,P4949249,Crosby,,,Abilene,19090618,19090618,1,1,p1
-boxscores/1909/1909-ADC,1909,Central Kansas League,culver,P3356299,Culver,,,Beloit,19090615,19090615,1,1,p1
-boxscores/1909/1909-ADR,1909,Central Kansas League,culver,P3484634,Culver,,,Beloit,19090830,19090830,1,0,"of1,rf1"
-boxscores/1909/1909-BDC,1909,Central Kansas League,culver@ump,P2203327,Culver,,,#umpire,19090811,19090811,,,
-boxscores/1909/1909-BDC,1909,Central Kansas League,culver,P6673420,Culver,,,Beloit,19090621,19090831,18,3,"p3,3b1,of14,lf3,cf3,rf8"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,culver,P2334089,Culver,,,Beloit,19090617,19090617,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,culver,P1218479,Culver,,,Beloit,19090618,19090818,10,4,"p4,of6,lf1,cf1,rf4"
-boxscores/1909/1909-TDR,1909,Central Kansas League,culver,P6509933,Culver,,,Beloit,19090629,19090629,1,1,p1
-boxscores/1909/1909-TMC,1909,Central Kansas League,culver,P0922631,Culver,,,Beloit,19090630,19090821,3,0,"3b1,of2,rf2"
 minoraverages/1910Spalding,1909,Central Kansas League,culver,B00961,Culver,,0,Beloit,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,culver,F20962,Culver,,0,Beloit,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,darrow,P0574633,Darrow,,,Beloit,19090615,19090615,1,0,
-boxscores/1909/1909-BDC,1909,Central Kansas League,darrow,P3891754,Darrow,,,Beloit,19090621,19090812,4,0,"of4,rf4"
-boxscores/1909/1909-ADC,1909,Central Kansas League,davis-cc,P0485468,Davis,,,Clay Center,19090726,19090727,2,0,"of2,cf1,rf1"
-boxscores/1909/1909-ADC,1909,Central Kansas League,davis-ell,P6988470,Davis,,,Ellsworth,19090619,19090619,1,0,"of1,rf1"
-boxscores/1909/1909-ADR,1909,Central Kansas League,davis-cc,P5657003,Davis,,,Clay Center,19090728,19090728,2,0,"of2,cf2"
-boxscores/1909/1909-BDC,1909,Central Kansas League,davis-cc,P3938909,Davis,,,Clay Center,19090729,19090731,3,0,"of3,cf3"
-boxscores/1909/1909-EM,1909,Central Kansas League,davis-cc,P2676902,Davis,,,Clay Center,19090710,19090712,2,0,"of2,cf2"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,davis-cc,P0180058,Davis,,,Clay Center,19090706,19090818,4,0,"of4,cf4"
-boxscores/1909/1909-SDU,1909,Central Kansas League,davis-cc,P4853248,Davis,,,Clay Center,19090713,19090901,8,0,"of8,cf7,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,davis-ell,P8902490,Davis,,,Ellsworth,19090614,19090625,4,0,"of3,rf3"
-boxscores/1909/1909-TDR,1909,Central Kansas League,davis-cc,P1272382,Davis,,,Clay Center,19090630,19090812,16,0,"of6,cf6"
-boxscores/1909/1909-TMC,1909,Central Kansas League,davis-cc,P2497240,Davis,,,Clay Center,19090703,19090811,5,0,"of5,cf5"
-boxscores/1909/1909-TMC,1909,Central Kansas League,davis-ell,P6724018,Davis,,,Ellsworth,19090616,19090617,2,0,"of2,rf2"
 minoraverages/1910Spalding,1909,Central Kansas League,davis-ell,B00021,Davis,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,davis-cc,B01181,Davis,,0,Clay Center,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,davis-ell,F20023,Davis,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,davis-cc,F21182,Davis,,0,Clay Center,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,day-cc,P8244419,Day,,,Clay Center,19090623,19090727,4,0,"2b2,of2,cf1,rf1"
-boxscores/1909/1909-ADR,1909,Central Kansas League,day-cc,P8001234,Day,,,Clay Center,19090728,19090728,2,0,2b2
-boxscores/1909/1909-BDC,1909,Central Kansas League,day-cc,P0589188,Day,,,Clay Center,19090729,19090731,3,1,"p1,2b2"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,day-cc,P5057729,Day,,,Clay Center,19090816,19090818,2,0,"ss1,of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,day-cc,P0158439,Day,,,Clay Center,19090614,19090901,10,1,"p1,2b2,ss4,of3,cf1,rf2"
-boxscores/1909/1909-SDU,1909,Central Kansas League,day-man,P6173785,Day,,,Manhattan,19090710,19090712,2,0,"of2,rf2"
-boxscores/1909/1909-TDR,1909,Central Kansas League,day-cc,P2551845,Day,,,Clay Center,19090616,19090812,17,0,"2b2,of4,rf4"
-boxscores/1909/1909-TMC,1909,Central Kansas League,day-cc,P7979967,Day,,,Clay Center,19090810,19090811,2,0,"2b1,of2,rf2"
 minoraverages/1910Spalding,1909,Central Kansas League,day-cc,B01135,Day,,0,Clay Center,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,day-man,B01337,Day,,0,Manhattan,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,day-cc,F21130,Day,,0,Clay Center,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,day-man,F21335,Day,,0,Manhattan,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,demarre,P4737694,DeMarre,,,Minneapolis,19090626,19090626,1,1,p1
-boxscores/1909/1909-BDC,1909,Central Kansas League,dehaney,P8872125,Dehaney,,,Junction City,19090710,19090710,1,0,"of1,rf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,dehaney,P8535354,Dehaney,,,Junction City,19090616,19090712,8,0,"of8,cf4,rf4"
-boxscores/1909/1909-SDU,1909,Central Kansas League,dehaney,P2693344,Dehaney,,,Junction City,19090614,19090630,4,0,"of4,cf1,rf3"
-boxscores/1909/1909-TMC,1909,Central Kansas League,dehaney,P3329976,Dehaney,,,Junction City,19090626,19090626,1,0,"of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,dehaney,P5692270,Dehoney,,,Junction City,19090713,19090713,1,0,"of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,dehaney,P0968932,Delaney,,,Junction City,19090714,19090714,1,0,"of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,delberts,P2591973,Delbert,,,Ellsworth,19090615,19090714,2,2,p2
-boxscores/1909/1909-SDU,1909,Central Kansas League,delberts@ump,P5842803,Delbert,,,#umpire,19090826,19090826,,,
-boxscores/1909/1909-TDR,1909,Central Kansas League,delberts,P9011107,Delbert,,,Ellsworth,19090615,19090615,1,1,p1
-boxscores/1909/1909-ADC,1909,Central Kansas League,delberts,P2402676,Delberts,,,Ellsworth,19090630,19090729,2,2,p2
-boxscores/1909/1909-ADR,1909,Central Kansas League,delberts,P3063331,Delberts,,,Ellsworth,19090821,19090821,1,1,p1
-boxscores/1909/1909-BDC,1909,Central Kansas League,delberts,P6366229,Delberts,,,Ellsworth,19090707,19090814,2,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,delberts,P6539416,Delberts,,,Ellsworth,19090618,19090813,5,5,p5
-boxscores/1909/1909-SDU,1909,Central Kansas League,delberts@ump,P7313542,Delberts,,,#umpire,19090827,19090830,,,
-boxscores/1909/1909-TMC,1909,Central Kansas League,delberts,P8791152,Delberts,,,Ellsworth,19090720,19090720,1,1,p1
 minoraverages/1910Spalding,1909,Central Kansas League,delberts,B00101,Delberts,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,delberts,F20102,Delberts,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,delberts,P10035,Delberts,,0,Ellsworth,,,,,
-boxscores/1909/1909-BDC,1909,Central Kansas League,demarre,P1522926,Demaree,,,Beloit,19090705,19090705,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,demarre,P3127230,Demarre,,,Minneapolis,19090625,19090625,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,desmond,P0682534,Desmond,,,Junction City,19090616,19090617,2,0,"2b1,3b1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,desmond,P4840524,Desmond,,,Junction City,19090614,19090621,5,0,"c1,3b3,of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,dexter,P8255104,Dexter,C.,,Ellsworth,19090717,19090717,1,0,"of1,lf1"
-boxscores/1909/1909-ADR,1909,Central Kansas League,doherty,P2529452,Doherty,,,Junction City,19090806,19090806,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,doherty,P8438107,Doherty,,,Junction City,19090616,19090717,6,5,"p5,ss1,of1,lf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,doherty,P2596097,Doherty,,,Junction City,19090619,19090701,3,3,p3
-boxscores/1909/1909-TMC,1909,Central Kansas League,doherty,P3232729,Doherty,,,Junction City,19090626,19090626,1,1,p1
 minoraverages/1910Spalding,1909,Central Kansas League,doherty,B00747,Doherty,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,doherty,F20745,Doherty,,0,Junction City,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,doherty,P7996797,Dougherty,,,Junction City,19090614,19090630,2,2,p2
-boxscores/1909/1909-ADR,1909,Central Kansas League,dugan,P5831356,Dugan,,,Junction City,19090805,19090807,3,0,"of3,lf3"
-boxscores/1909/1909-BDC,1909,Central Kansas League,dugan,P4826990,Dugan,,,Junction City,19090719,19090719,1,0,"of1,lf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,dugan,P1438251,Dugan,,,Junction City,19090616,19090818,23,0,"of23,lf19,cf2,rf2"
-boxscores/1909/1909-SDU,1909,Central Kansas League,dugan,P0542161,Dugan,,,Junction City,19090614,19090821,19,0,"of19,lf16,rf3"
-boxscores/1909/1909-TDR,1909,Central Kansas League,dugan,P0979087,Dugan,,,Junction City,19090812,19090812,1,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,dugan,P4849449,Dugan,,,Junction City,19090626,19090626,1,0,"of1,lf1"
 minoraverages/1910Spalding,1909,Central Kansas League,dugan,B00739,Dugan,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,dugan,F20737,Dugan,,0,Junction City,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,dunlap,P9687042,Dunlap,,,Beloit,19090716,19090716,1,0,1b1
-boxscores/1909/1909-ADR,1909,Central Kansas League,earthman,P7366238,Earthman,,,Ellsworth,19090819,19090821,2,0,"3b1,of1,cf1"
 minoraverages/1910Spalding,1909,Central Kansas League,earthman,B00196,Earthman,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,earthman,F20190,Earthman,,0,Ellsworth,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,ebright,P6479199,Ebright,,,Beloit,19090614,19090715,3,0,"2b2,ss1"
-boxscores/1909/1909-ADR,1909,Central Kansas League,ebright,P0714254,Ebright,,,Beloit,19090830,19090830,1,0,ss1
-boxscores/1909/1909-BDC,1909,Central Kansas League,ebright,P5944192,Ebright,,,Beloit,19090621,19090831,27,0,"2b4,ss23"
-boxscores/1909/1909-BDGT,1909,Central Kansas League,ebright,P5122136,Ebright,,,Beloit,19090717,19090717,2,0,ss2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,ebright,P2746269,Ebright,,,Beloit,19090616,19090721,5,0,"2b2,ss3"
-boxscores/1909/1909-SDU,1909,Central Kansas League,ebright,P5931139,Ebright,,,Beloit,19090618,19090807,13,0,"2b2,ss11"
-boxscores/1909/1909-TDR,1909,Central Kansas League,ebright,P0549121,Ebright,,,Beloit,19090619,19090629,3,0,"2b1,ss2"
-boxscores/1909/1909-TMC,1909,Central Kansas League,ebright,P6168155,Ebright,,,Beloit,19090630,19090821,5,0,"2b1,ss5"
 minoraverages/1910Spalding,1909,Central Kansas League,ebright,B00912,Ebright,,0,Beloit,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,ebright,F20919,Ebright,,0,Beloit,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,eddy@ump,P8426263,Eddy,,,#umpire,19090831,19090831,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,edwards,P5427910,Edwards,,,Junction City,19090623,19090705,6,0,"c1,of5,rf5"
-boxscores/1909/1909-SDU,1909,Central Kansas League,edwards,P9585900,Edwards,,,Junction City,19090622,19090701,4,0,"c2,of2,rf2"
-boxscores/1909/1909-TMC,1909,Central Kansas League,edwards,P0222532,Edwards,,,Junction City,19090626,19090626,1,0,c1
-boxscores/1909/1909-ADC,1909,Central Kansas League,ehrgott,P2366388,Ehrgot,,,Abilene,19090701,19090701,1,0,"of1,cf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,ehrgott,P2055344,Ehrgot,,,Abilene,19090708,19090813,4,0,"c2,of1,lf1"
-boxscores/1909/1909-ADC,1909,Central Kansas League,ehrgott,P2022568,Ehrgott,,,Abilene,19090707,19090729,8,0,c8
-boxscores/1909/1909-ADR,1909,Central Kansas League,ehrgott,P1779383,Ehrgott,,,Abilene,19090728,19090830,12,0,"c10,of4,lf1,cf1,rf2"
-boxscores/1909/1909-BDC,1909,Central Kansas League,ehrgott,P4367337,Ehrgott,,,Abilene,19090713,19090831,3,0,"c2,of1,rf1"
-boxscores/1909/1909-BDGT,1909,Central Kansas League,ehrgott,P7239489,Ehrgott,,,Abilene,19090717,19090717,1,0,c1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,ehrgott,P8835878,Ehrgott,,,Abilene,19090809,19090810,2,0,c2
-boxscores/1909/1909-SDU,1909,Central Kansas League,ehrgott,P3936588,Ehrgott,,,Abilene,19090710,19090828,12,0,"c11,of1,cf1,rf1"
 minoraverages/1910Spalding,1909,Central Kansas League,ehrgott,B00469,Ehrgott,,0,Abilene,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,ehrgott,F20463,Ehrgott,,0,Abilene,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,elderts,P0266518,Elderts,,,Ellsworth,19090703,19090703,1,1,p1
 minoraverages/1910Spalding,1909,Central Kansas League,elison,B00158,Elison,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,elison,F20153,Elison,,0,Ellsworth,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,ellis,P1304580,Ellis,,,Abilene,19090614,19090729,15,0,"of14,lf13,cf1"
-boxscores/1909/1909-ADR,1909,Central Kansas League,ellis,P1432915,Ellis,,,Abilene,19090706,19090807,7,0,"of7,lf7"
-boxscores/1909/1909-BDC,1909,Central Kansas League,ellis,P4621701,Ellis,,,Abilene,19090713,19090714,2,0,"of2,lf2"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,ellis,P0282370,Ellis,,,Abilene,19090705,19090810,3,0,"of3,lf3"
-boxscores/1909/1909-SDU,1909,Central Kansas League,ellis-ell,P1256636,Ellis,,,Ellsworth,19090705,19090705,2,0,"of2,lf2"
-boxscores/1909/1909-SDU,1909,Central Kansas League,ellis,P9166760,Ellis,,,Abilene,19090621,19090804,10,0,"of10,lf10"
-boxscores/1909/1909-TDR,1909,Central Kansas League,ellis,P4458214,Ellis,,,Abilene,19090722,19090724,3,0,"of2,lf2"
-boxscores/1909/1909-TMC,1909,Central Kansas League,ellis,P8870912,Ellis,,,Abilene,19090708,19090708,1,0,
 minoraverages/1910Spalding,1909,Central Kansas League,ellis,B00427,Ellis,,0,Abilene,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,ellis,F20425,Ellis,,0,Abilene,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,elison,P7681333,Ellison,,,Ellsworth,19090630,19090701,2,0,"of2,lf2"
-boxscores/1909/1909-BDC,1909,Central Kansas League,elison,P1134774,Ellison,,,Ellsworth,19090706,19090707,2,0,"of2,lf2"
-boxscores/1909/1909-EM,1909,Central Kansas League,elison,P9872767,Ellison,,,Ellsworth,19090710,19090712,2,0,"of2,lf2"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,elison,P7375923,Ellison,,,Ellsworth,19090629,19090629,1,0,"of1,lf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,elison,P2049113,Ellison,,,Ellsworth,19090703,19090714,4,0,"of4,lf3,cf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,ellison-man,P2303881,Ellison,,,Manhattan,19090810,19090813,4,0,1b4
-boxscores/1909/1909-ADC,1909,Central Kansas League,engelsby,P4649988,Engelsby,,,Abilene,19090614,19090614,1,0,3b1
-boxscores/1909/1909-ADC,1909,Central Kansas League,ehrgott,P6568908,Ergot,,,Abilene,19090623,19090630,3,0,c2
-boxscores/1909/1909-ADR,1909,Central Kansas League,ehrgott,P6697243,Ergot,,,Abilene,19090706,19090706,1,0,c1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,ehrgott,P5546698,Ergot,,,Abilene,19090705,19090705,2,0,"c1,of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,ehrgott,P4431088,Ergot,,,Abilene,19090621,19090712,6,0,"c5,of1,cf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,ehrgott,P9722542,Ergot,,,Abilene,19090722,19090722,1,0,"of1,cf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,ehrgott,P4775650,Ergott,,,Abilene,19090723,19090724,2,0,"c1,of1,cf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,eulrich,P0786638,Eulrich,,,Junction City,19090621,19090622,2,0,"c1,of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,fagan,P3311613,Faegan,,,Manhattan,19090827,19090827,1,0,ss1
-boxscores/1909/1909-ADR,1909,Central Kansas League,fagan,P0373507,Fagan,,,Manhattan,19090816,19090818,3,0,ss2
-boxscores/1909/1909-SDU,1909,Central Kansas League,fagan,P2530712,Fagan,,,Manhattan,19090814,19090814,1,1,p1
-boxscores/1909/1909-TMC,1909,Central Kansas League,fagan,P0352240,Fagan,,,Manhattan,19090810,19090825,13,0,ss13
 minoraverages/1910Spalding,1909,Central Kansas League,fagan,B01376,Fagan,,0,Manhattan,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,fagan,F21370,Fagan,,0,Manhattan,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,fagan,P4470556,Fagen,,,Manhattan,19090826,19090826,1,0,ss1
-boxscores/1909/1909-SDU,1909,Central Kansas League,faulkner,P4042465,Falckner,,,Manhattan,19090614,19090614,1,0,2b1
-boxscores/1909/1909-ADC,1909,Central Kansas League,farmer,P3500444,Farmer,,,Ellsworth,19090630,19090701,2,0,3b2
-boxscores/1909/1909-ADR,1909,Central Kansas League,farmer,P5475339,Farmer,,,Ellsworth,19090730,19090821,4,0,3b4
-boxscores/1909/1909-BDC,1909,Central Kansas League,farmer,P0877821,Farmer,,,Ellsworth,19090626,19090816,6,0,"3b5,of1,lf1"
-boxscores/1909/1909-EM,1909,Central Kansas League,farmer,P4475942,Farmer,,,Ellsworth,19090710,19090712,2,0,3b2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,farmer,P8339674,Farmer,,,Ellsworth,19090629,19090824,2,0,"3b1,of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,farmer,P6663104,Farmer,,,Ellsworth,19090614,19090811,26,0,"3b21,of5,lf5"
-boxscores/1909/1909-TDR,1909,Central Kansas League,farmer,P5645502,Farmer,,,Ellsworth,19090615,19090716,3,0,ss1
-boxscores/1909/1909-TMC,1909,Central Kansas League,farmer,P4773528,Farmer,,,Ellsworth,19090616,19090721,5,0,3b5
 minoraverages/1910Spalding,1909,Central Kansas League,farmer,B00068,Farmer,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,farmer,F20067,Farmer,,0,Ellsworth,,,,,
-boxscores/1909/1909-TMC,1909,Central Kansas League,faulkner,P2592043,Faulkner,,,Manhattan,19090614,19090614,1,0,2b1
-boxscores/1909/1909-TMC,1909,Central Kansas League,fischer@ump,P7292749,Fischer,,,#umpire,19090813,19090813,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,fisher,P1725500,Fisher,,,Manhattan,19090614,19090614,1,1,p1
-boxscores/1909/1909-TMC,1909,Central Kansas League,fisher,P9835924,Fisher,,,Manhattan,19090614,19090614,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,fleck,P4773838,Fleck,,,Clay Center,19090616,19090617,2,0,"of2,lf1,cf1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,flemming@ump,P8670624,Flemming,,,#umpire,19090811,19090811,,,
-boxscores/1909/1909-TMC,1909,Central Kansas League,flemming@ump,P6492152,Flemming,,,#umpire,19090812,19090812,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,fleck,P0208408,Flock,,,Clay Center,19090615,19090615,1,0,"of1,rf1"
-boxscores/1909/1909-BDC,1909,Central Kansas League,coe-jc+man,P7922726,Foe,F.,,Manhattan,19090621,19090621,1,0,c1
-boxscores/1909/1909-TDR,1909,Central Kansas League,forsberg,P6168038,Foresberg,,,Clay Center,19090619,19090619,1,0,
-boxscores/1909/1909-SDU,1909,Central Kansas League,forsberg,P6849731,Forsberg,,,Clay Center,19090615,19090616,2,1,"p1,1b1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,forsberg,P1268289,Forsberg,,,Clay Center,19090615,19090621,3,2,"p2,of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,forsberg,P1204561,Fosberg,,,Clay Center,19090617,19090617,1,0,1b1
-boxscores/1909/1909-ADR,1909,Central Kansas League,fulwider,P9036016,Fulwider,,,Ellsworth,19090819,19090819,1,1,p1
-boxscores/1909/1909-BDC,1909,Central Kansas League,fulwider,P2338914,Fulwider,,,Ellsworth,19090812,19090812,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,fulwider,P8296831,Fulwider,,,Ellsworth,19090825,19090825,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,fulwider,P2512101,Fulwider,,,Ellsworth,19090713,19090817,7,7,p7
 minoraverages/1910Spalding,1909,Central Kansas League,fulwider,B00174,Fulwider,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,fulwider,F20177,Fulwider,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,fulwider,P10056,Fulwider,,0,Ellsworth,,,,,
-boxscores/1909/1909-TMC,1909,Central Kansas League,fury,P0384890,Furey,,,Salina,19090615,19090615,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,fury,P8297757,Fury,,,Salina,19090615,19090827,25,25,p25
-boxscores/1909/1909-TMC,1909,Central Kansas League,fury,P6148725,Fury,,,Salina,19090716,19090716,1,1,p1
 minoraverages/1910Spalding,1909,Central Kansas League,fury,B00278,Fury,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,fury,F20279,Fury,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,fury,P10024,Fury,,0,Salina,,,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,galena,P4063396,Galena,,,Junction City,19090712,19090727,3,0,"of3,cf3"
-boxscores/1909/1909-SDU,1909,Central Kansas League,galena,P4492426,Galena,,,Junction City,19090713,19090803,9,0,"of9,cf9"
-boxscores/1909/1909-TDR,1909,Central Kansas League,galena,P8910984,Galena,,,Junction City,19090812,19090812,1,0,
 minoraverages/1910Spalding,1909,Central Kansas League,galena,B00811,Galena,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,galena,F20810,Galena,,0,Junction City,,,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,galena,P3845622,Galens,,,Junction City,19090706,19090706,1,0,"of1,cf1"
-boxscores/1909/1909-BDC,1909,Central Kansas League,galena,P3190475,Galina,,,Junction City,19090710,19090828,4,0,"3b1,of4,cf4"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,galena,P1362088,Galina,,,Junction City,19090720,19090726,5,0,"of5,cf5"
-boxscores/1909/1909-ADR,1909,Central Kansas League,galena,P1702044,Gallienne,,,Junction City,19090805,19090807,3,0,"of3,lf1,cf2"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,galena,P6227339,Gallienne,,,Junction City,19090723,19090825,8,0,"of7,cf7"
-boxscores/1909/1909-SDU,1909,Central Kansas League,galena,P4278449,Gallienne,,,Junction City,19090819,19090821,3,0,"of3,cf3"
-boxscores/1909/1909-ADR,1909,Central Kansas League,gardnier,P8056253,Gardner,,,Abilene,19090816,19090830,8,0,"of7,lf4,rf3"
-boxscores/1909/1909-BDC,1909,Central Kansas League,gardnier,P0644207,Gardner,,,Abilene,19090831,19090831,1,0,"of1,rf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,gardnier,P8034986,Gardner,,,Abilene,19090812,19090813,3,0,"of3,lf3"
 minoraverages/1910Spalding,1909,Central Kansas League,gardnier,B00531,Gardnier,,0,Abilene,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,gardnier,F20539,Gardnier,,0,Abilene,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,garrison,P2256767,Garrison,,,Minneapolis,19090616,19090617,2,0,"of2,cf2"
-boxscores/1909/1909-ADR,1909,Central Kansas League,garrison,P1710062,Garrison,,,Minneapolis,19090827,19090827,1,0,"of1,lf1"
-boxscores/1909/1909-BDC,1909,Central Kansas League,garrison,P8565984,Garrison,,,Minneapolis,19090703,19090811,6,0,"of6,cf6"
-boxscores/1909/1909-SDU,1909,Central Kansas League,garrison,P6228864,Garrison,,,Manhattan,19090731,19090731,1,0,c1
-boxscores/1909/1909-SDU,1909,Central Kansas League,garrison,P7166627,Garrison,,,Minneapolis,19090614,19090819,14,1,"p1,c2,of11,lf1,cf10"
-boxscores/1909/1909-TDR,1909,Central Kansas League,garrison,P1585185,Garrison,,,Minneapolis,19090621,19090804,8,0,"of5,cf5"
-boxscores/1909/1909-TMC,1909,Central Kansas League,garrison,P9307131,Garrison,,,Minneapolis,19090618,19090824,6,0,"c1,of5,cf4,rf1"
 minoraverages/1910Spalding,1909,Central Kansas League,garrison,B00614,Garrison,,0,Minneapolis,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,garrison,F20612,Garrison,,0,Minneapolis,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,gault,P2814487,Gault,,,Minneapolis,19090719,19090721,3,0,"of3,lf3"
-boxscores/1909/1909-BDC,1909,Central Kansas League,gault,P6267928,Gault,,,Minneapolis,19090722,19090722,1,0,"of1,lf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,gault,P2509077,Gault,,,Minneapolis,19090717,19090717,1,0,"of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,gault,P7182267,Gault,,,Minneapolis,19090623,19090728,13,0,"of13,lf11,cf1,rf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,gault,P3601401,Gault,,,Minneapolis,19090802,19090804,4,0,"of1,cf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,gault,P4826259,Gault,,,Minneapolis,19090628,19090629,2,0,"of2,lf2"
 minoraverages/1910Spalding,1909,Central Kansas League,gault,B00638,Gault,,0,Minneapolis,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,gault,F20636,Gault,,0,Minneapolis,,,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,galena,P5040292,Gelana,,,Junction City,19090708,19090708,1,0,"of1,cf1"
-boxscores/1909/1909-ADC,1909,Central Kansas League,gibbs,P7508545,Gibbs,,,Beloit,19090614,19090715,3,0,"2b1,of2,rf2"
-boxscores/1909/1909-ADR,1909,Central Kansas League,gibbs,P3573040,Gibbs,,,Beloit,19090830,19090830,1,0,2b1
-boxscores/1909/1909-BDC,1909,Central Kansas League,gibbs,P5790882,Gibbs,,,Beloit,19090626,19090831,26,0,"2b24,of2,rf2"
-boxscores/1909/1909-BDGT,1909,Central Kansas League,gibbs,P7571578,Gibbs,,,Beloit,19090717,19090717,2,0,2b2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,gibbs,P3538175,Gibbs,,,Beloit,19090712,19090721,3,0,2b3
-boxscores/1909/1909-SDU,1909,Central Kansas League,gibbs,P9868005,Gibbs,,,Beloit,19090618,19090807,13,0,"2b11,of2,rf2"
-boxscores/1909/1909-TDR,1909,Central Kansas League,gibbs,P0937443,Gibbs,,,Beloit,19090619,19090629,3,0,"2b2,of1,rf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,gibbs,P8949949,Gibbs,,,Beloit,19090630,19090821,5,0,"2b5,of1,rf1"
 minoraverages/1910Spalding,1909,Central Kansas League,gibbs,B00920,Gibbs,,0,Beloit,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,gibbs,F20924,Gibbs,,0,Beloit,,,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,gibbs,P2203783,Giffs,,,Beloit,19090616,19090617,2,0,"of2,rf2"
-boxscores/1909/1909-ADR,1909,Central Kansas League,gill-jc,P1030677,Gill,,,Junction City,19090806,19090806,1,1,p1
-boxscores/1909/1909-ADR,1909,Central Kansas League,gill-cc,P6929660,Gill,,,Clay Center,19090823,19090823,1,1,p1
-boxscores/1909/1909-BDC,1909,Central Kansas League,gill-jc,P4333575,Gill,,,Junction City,19090710,19090719,2,0,1b1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,gill-jc,P0291492,Gill,,,Junction City,19090616,19090810,14,12,"p12,of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,gill-jc,P4506762,Gill,,,Junction City,19090615,19090814,14,11,"p11,of3,lf1,cf1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,gill@ump,P5380633,Gill,,,#umpire,19090827,19090827,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,gill-cc,P8117425,Gill,,,Clay Center,19090819,19090830,2,2,p2
-boxscores/1909/1909-TMC,1909,Central Kansas League,gill-jc,P6758498,Gill,,,Junction City,19090626,19090626,1,0,"of1,rf1"
 minoraverages/1910Spalding,1909,Central Kansas League,gill-jc,B00760,Gill,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,gill-cc,B01234,Gill,,0,Clay Center,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,gill-jc,F20768,Gill,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,gill-cc,F21232,Gill,,0,Clay Center,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,gopps,P7558535,Gopps,,,Beloit,19090716,19090716,1,0,2b1
-boxscores/1909/1909-BDC,1909,Central Kansas League,gault,P7345062,Goult,,,Minneapolis,19090703,19090705,3,0,"of3,lf3"
-boxscores/1909/1909-TDR,1909,Central Kansas League,gault,P4678535,Goult,,,Minneapolis,19090630,19090701,2,0,"of2,lf2"
-boxscores/1909/1909-ADC,1909,Central Kansas League,gramley,P5612598,Gramley,,,Clay Center,19090623,19090727,4,0,"2b2,ss2"
-boxscores/1909/1909-ADR,1909,Central Kansas League,gramley,P7414213,Gramley,,,Clay Center,19090728,19090728,2,0,ss2
-boxscores/1909/1909-EM,1909,Central Kansas League,gramley,P2084224,Gramley,,,Clay Center,19090710,19090712,2,0,2b2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,gramley,P3021108,Gramley,,,Clay Center,19090706,19090818,4,1,"p1,2b4"
-boxscores/1909/1909-SDU,1909,Central Kansas League,gramley,P2125018,Gramley,,,Clay Center,19090614,19090901,10,2,"p2,2b8,of1,rf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,gramley,P2561944,Gramley,,,Clay Center,19090615,19090615,1,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,garmley,P6432306,Gramley,,,Clay Center,19090705,19090811,3,0,"2b3,ss1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,gramley@ump,P9373050,Gramley,,,#umpire,19090615,19090615,,,
 minoraverages/1910Spalding,1909,Central Kansas League,gramley,B01093,Gramley,,0,Clay Center,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,gramley,F21092,Gramley,,0,Clay Center,,,,,
-boxscores/1909/1909-BDC,1909,Central Kansas League,gramley,P6226674,Gramly,,,Clay Center,19090730,19090731,2,0,2b2
-boxscores/1909/1909-SDU,1909,Central Kansas League,gramley,P6399861,Gramly,,,Clay Center,19090616,19090617,2,0,"2b1,ss2"
-boxscores/1909/1909-TDR,1909,Central Kansas League,gramley,P8231283,Gramly,,,Clay Center,19090619,19090812,17,0,"1b1,2b7,ss1,of1,rf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,gramley,P8651597,Gramly,,,Clay Center,19090703,19090703,2,0,1b2
-boxscores/1909/1909-ADC,1909,Central Kansas League,green,P6957899,Green,,,Beloit,19090614,19090614,1,1,p1
-boxscores/1909/1909-BDC,1909,Central Kansas League,green,P5240236,Green,,,Beloit,19090626,19090804,6,4,"p4,of2,rf2"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,green,P2987529,Green,,,Beloit,19090616,19090721,2,2,p2
-boxscores/1909/1909-SDU,1909,Central Kansas League,green,P9317359,Green,,,Beloit,19090624,19090728,2,2,p2
-boxscores/1909/1909-TDR,1909,Central Kansas League,green,P0386797,Green,,,Beloit,19090619,19090619,1,1,p1
-boxscores/1909/1909-TMC,1909,Central Kansas League,green,P8399303,Green,,,Beloit,19090630,19090630,1,1,p1
 minoraverages/1910Spalding,1909,Central Kansas League,green,B00957,Green,,0,Beloit,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,green,F20956,Green,,0,Beloit,,,,,
-boxscores/1909/1909-BDC,1909,Central Kansas League,green,P3730481,Greene,,,Beloit,19090622,19090622,1,1,p1
-boxscores/1909/1909-BDGT,1909,Central Kansas League,green,P2493449,Greene,,,Beloit,19090717,19090717,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,green,P8275540,Greene,,,Beloit,19090723,19090728,2,1,"p1,of1,rf1"
-boxscores/1909/1909-ADC,1909,Central Kansas League,griffin,P3166623,Griffin,,,Beloit,19090614,19090615,2,0,"of2,cf2"
-boxscores/1909/1909-BDC,1909,Central Kansas League,griffin,P2631616,Griffin,,,Beloit,19090621,19090626,3,0,"of3,lf2,cf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,griffin,P9433693,Griffin,,,Beloit,19090616,19090617,2,0,"of2,cf2"
-boxscores/1909/1909-SDU,1909,Central Kansas League,griffin,P2618563,Griffin,,,Beloit,19090618,19090625,3,0,"of3,lf1,cf2"
-boxscores/1909/1909-TDR,1909,Central Kansas League,griffin,P7236545,Griffin,,,Beloit,19090619,19090619,1,0,"of1,lf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,grubbs,P1069173,Grubb,,,Clay Center,19090706,19090706,1,0,3b1
-boxscores/1909/1909-SDU,1909,Central Kansas League,grubbs,P7475401,Grubb,,,Salina,19090618,19090618,1,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,grubbs,P3386355,Grubb,,,Clay Center,19090810,19090811,2,0,3b2
 minoraverages/1910Spalding,1909,Central Kansas League,grubbs,B01203,Grubbes,,0,Clay Center,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,grubbs,F21207,Grubbes,,0,Clay Center,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,grubbs,P7719146,Grubbs,,,Clay Center,19090727,19090727,1,0,3b1
-boxscores/1909/1909-ADR,1909,Central Kansas League,grubbs,P8379801,Grubbs,,,Clay Center,19090728,19090728,2,0,"2b1,3b1"
-boxscores/1909/1909-BDC,1909,Central Kansas League,grubbs,P1682699,Grubbs,,,Clay Center,19090729,19090731,3,0,3b3
-boxscores/1909/1909-EM,1909,Central Kansas League,grubbs,P0036468,Grubbs,,,Clay Center,19090710,19090712,2,0,3b2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,grubbs,P7640616,Grubbs,,,Clay Center,19090708,19090818,3,0,3b3
-boxscores/1909/1909-SDU,1909,Central Kansas League,grubbs,P0494812,Grubbs,,,Salina,19090616,19090619,2,0,3b2
-boxscores/1909/1909-SDU,1909,Central Kansas League,grubbs,P1855886,Grubbs,,,Clay Center,19090713,19090901,8,0,3b8
-boxscores/1909/1909-TDR,1909,Central Kansas League,grubbs,P3687308,Grubbs,,,Clay Center,19090715,19090812,14,0,"3b2,ss1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,grubbs,P0198964,Grubbs,,,Salina,19090615,19090615,1,0,3b1
-boxscores/1909/1909-TMC,1909,Central Kansas League,grubbs,P4107622,Grubbs,,,Clay Center,19090703,19090705,3,0,3b3
 minoraverages/1910Spalding,1909,Central Kansas League,grubbs,B00255,Grubbs,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,grubbs,F20254,Grubbs,,0,Salina,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,grubbs,P5937704,Grubs,,,Clay Center,19090726,19090726,1,0,3b1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,gundlach,P9906800,Grundlach,,,Beloit,19090617,19090617,1,0,1b1
-boxscores/1909/1909-SDU,1909,Central Kansas League,gundlach,P8230230,Grundlach,,,Beloit,19090624,19090624,1,0,1b1
-boxscores/1909/1909-ADR,1909,Central Kansas League,gundlach,P1152847,Gundlach,,,Beloit,19090830,19090830,1,0,1b1
-boxscores/1909/1909-BDC,1909,Central Kansas League,gundlach,P3740801,Gundlach,,,Beloit,19090621,19090831,27,0,1b27
-boxscores/1909/1909-BDGT,1909,Central Kansas League,gundlach,P6612953,Gundlach,,,Beloit,19090717,19090717,2,0,1b2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,gundlach,P8209342,Gundlach,,,Beloit,19090616,19090721,4,0,1b4
-boxscores/1909/1909-SDU,1909,Central Kansas League,gundlach,P3310052,Gundlach,,,Beloit,19090618,19090807,12,0,1b12
-boxscores/1909/1909-TDR,1909,Central Kansas League,gundlach,P5703458,Gundlach,,,Beloit,19090619,19090629,3,0,1b3
-boxscores/1909/1909-TMC,1909,Central Kansas League,gundlach,P1131580,Gundlach,,,Beloit,19090630,19090821,5,0,1b5
 minoraverages/1910Spalding,1909,Central Kansas League,gundlach,B00904,Gundlach,,0,Beloit,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,gundlach,F20908,Gundlach,,0,Beloit,,,,,
-boxscores/1909/1909-BDC,1909,Central Kansas League,gundlach,P6003023,Gundlanch,,,Beloit,19090802,19090802,1,0,1b1
-boxscores/1909/1909-ADC,1909,Central Kansas League,gundlach,P1520060,Gunlach,,,Beloit,19090615,19090715,2,0,1b2
-boxscores/1909/1909-ADC,1909,Central Kansas League,gundlach,P7374783,Gunlack,,,Beloit,19090614,19090614,1,0,1b1
-boxscores/1909/1909-ADR,1909,Central Kansas League,haag,P2106743,Haag,,,Manhattan,19090818,19090818,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,haag,P7323628,Haag,,,Manhattan,19090826,19090830,2,2,p2
-boxscores/1909/1909-TMC,1909,Central Kansas League,haag,P7560644,Haag,,,Manhattan,19090813,19090823,2,2,p2
-boxscores/1909/1909-ADC,1909,Central Kansas League,hamlin@ump,P5922726,Hamlin,,,#umpire,19090614,19090616,,,
-boxscores/1909/1909-ADR,1909,Central Kansas League,hamlin@ump,P6051061,Hamlin,,,#umpire,19090805,19090823,,,
-boxscores/1909/1909-BDC,1909,Central Kansas League,hamlin@ump,P9239847,Hamlin,,,#umpire,19090730,19090810,,,
-boxscores/1909/1909-EM,1909,Central Kansas League,hamlin,P3032296,Hamlin,,,Clay Center,19090710,19090712,2,0,ss2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,hamlin,P0636444,Hamlin,,,Clay Center,19090706,19090708,2,0,ss2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,hamlin@ump,P4900516,Hamlin,,,#umpire,19090708,19090708,,,
-boxscores/1909/1909-MM,1909,Central Kansas League,hamlin@ump,P7549176,Hamlin,,,#umpire,19090619,19090619,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,hamlin@ump,P3784906,Hamlin,,,#umpire,19090710,19090831,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,hamlin@ump,P4450355,Hamlin,Shorty,,#umpire,19090626,19090626,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,hamlin,P4851714,Hamlin,,,Clay Center,19090713,19090721,5,0,ss5
-boxscores/1909/1909-TDR,1909,Central Kansas League,hamlin,P6683136,Hamlin,,,Clay Center,19090701,19090724,7,0,"3b2,ss1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,hamlin@ump,P9076360,Hamlin,,,#umpire,19090621,19090701,,,
-boxscores/1909/1909-TMC,1909,Central Kansas League,hamlin@ump,P3489058,Hamlin,,,#umpire,19090618,19090721,,,
-boxscores/1909/1909-TMC,1909,Central Kansas League,hamlin,P7103450,Hamlin,,,Clay Center,19090703,19090705,3,0,ss3
 minoraverages/1910Spalding,1909,Central Kansas League,hamlin,B01197,Hamlin,,0,Clay Center,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,hamlin,F21196,Hamlin,,0,Clay Center,,,,,
-boxscores/1909/1909-BDC,1909,Central Kansas League,hamlin.jr@ump,P5822504,Hamlin [younger],,,#umpire,19090831,19090831,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,hamlin@ump,P5562697,Hamline,,,#umpire,19090623,19090623,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,hammond@ump,P5442837,Hammond,,,#umpire,19090624,19090625,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,harlan,P2432304,Harlan,,,Minneapolis,19090720,19090720,1,1,p1
-boxscores/1909/1909-BDC,1909,Central Kansas League,harlan@ump,P2658308,Harlan,,,#umpire,19090811,19090811,,,
-boxscores/1909/1909-BDC,1909,Central Kansas League,harlan,P6395857,Harlan,,,Minneapolis,19090703,19090810,2,2,p2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,harlan,P2353774,Harlan,,,Minneapolis,19090717,19090717,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,harlan,P6569044,Harlan,,,Minneapolis,19090624,19090831,13,12,"p12,of1,lf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,harlan,P8400466,Harlan,,,Minneapolis,19090630,19090803,2,2,p2
-boxscores/1909/1909-TMC,1909,Central Kansas League,harlan,P8820780,Harlan,,,Minneapolis,19090823,19090824,2,1,"p1,of1,cf1"
 minoraverages/1910Spalding,1909,Central Kansas League,harlan,B00646,Harlan,,0,Minneapolis,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,harlan,F20648,Harlan,,0,Minneapolis,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,harlan,P10159,Harlan,,0,Minneapolis,,,,,
-boxscores/1909/1909-MBW,1909,Central Kansas League,harlan,P3125714,Harlen,,,Minneapolis,19090806,19090806,1,1,p1
-boxscores/1909/1909-ADR,1909,Central Kansas League,harris-min,P3852498,Harris,,,Minneapolis,19090826,19090827,2,0,c2
-boxscores/1909/1909-BDC,1909,Central Kansas League,harris-min,P7155396,Harris,,,Minneapolis,19090722,19090811,4,0,c4
-boxscores/1909/1909-JCDU,1909,Central Kansas League,harris-jc,P2454821,Harris,,,Junction City,19090818,19090824,2,1,"p1,of1,cf1"
-boxscores/1909/1909-MBW,1909,Central Kansas League,harris-min,P1395137,Harris,,,Minneapolis,19090806,19090807,2,0,c2
-boxscores/1909/1909-SDU,1909,Central Kansas League,harris-jc,P2883851,Harris,,,Junction City,19090815,19090820,2,2,p2
-boxscores/1909/1909-SDU,1909,Central Kansas League,harris-min,P7328583,Harris,,,Minneapolis,19090723,19090831,19,0,c19
-boxscores/1909/1909-TDR,1909,Central Kansas League,harris-min,P9160005,Harris,,,Minneapolis,19090802,19090804,4,0,c2
-boxscores/1909/1909-TMC,1909,Central Kansas League,harris-min,P9580319,Harris,,,Minneapolis,19090823,19090825,4,0,c4
 minoraverages/1910Spalding,1909,Central Kansas League,harris-min,B00672,Harris,,0,Minneapolis,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,harris-jc,B00854,Harris,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,harris-min,F20673,Harris,,0,Minneapolis,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,harris-jc,F20855,Harris,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,hart,B00771,Hart,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,hart,F20776,Hart,,0,Junction City,,,,,
-boxscores/1909/1909-ADR,1909,Central Kansas League,harville,P4335953,Harville,,,Abilene,19090728,19090728,1,1,p1
-boxscores/1909/1909-ADC,1909,Central Kansas League,heffner,P3818353,Heffner,,,Salina,19090629,19090629,1,0,3b1
-boxscores/1909/1909-SDU,1909,Central Kansas League,heffner,P3270293,Heffner,,,Salina,19090614,19090628,8,0,3b8
-boxscores/1909/1909-SDU,1909,Central Kansas League,heffner,P2052783,Hefner,,,Salina,19090618,19090624,2,0,3b2
-boxscores/1909/1909-TDR,1909,Central Kansas League,heffner,P7344237,Hefner,,,Salina,19090616,19090616,1,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,heffner,P1756935,Hefner,,,Salina,19090614,19090614,1,0,3b1
-boxscores/1909/1909-SDU,1909,Central Kansas League,hendrix,P9088340,Hendric,,,Salina,19090702,19090702,1,0,"of1,rf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,hendrix,P6886531,Hendrix,,,Salina,19090630,19090701,2,1,"p1,of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,hendrix,P0071401,Hendrix,,,Salina,19090630,19090901,43,22,"p22,1b2,3b1,of19,lf1,rf18"
-boxscores/1909/1909-TDR,1909,Central Kansas League,hendrix,P4689383,Hendrix,,,Salina,19090720,19090720,1,1,p1
-boxscores/1909/1909-TMC,1909,Central Kansas League,hendrix,P0308417,Hendrix,,,Salina,19090715,19090717,3,2,"p2,of1,rf1"
 minoraverages/1910Spalding,1909,Central Kansas League,hendrix,B00319,Hendrix,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,hendrix,F20316,Hendrix,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,hendrix,P10121,Hendrix,,0,Salina,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,hicks,P3066701,Hicks,,,Manhattan,19090714,19090716,2,0,"of2,lf1,rf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,hicks,P0888229,Hicks,,,Manhattan,19090716,19090719,4,0,"ss2,of2,lf2"
 minoraverages/1910Spalding,1909,Central Kansas League,hoag,B01415,Hoag,,0,Manhattan,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,hoag,F21416,Hoag,,0,Manhattan,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,horrell,P0021334,Horrell,,,Beloit,19090624,19090625,2,0,"1b2,of1,lf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,horrell,P0572943,Horrell,,,Salina,19090614,19090621,7,0,1b7
-boxscores/1909/1909-TDR,1909,Central Kansas League,horrell,P5190925,Horrell,,,Salina,19090616,19090616,1,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,horrell,P3284511,Horril,,,Salina,19090614,19090615,2,0,1b2
-boxscores/1909/1909-BDC,1909,Central Kansas League,horrell,P1092183,Horrill,,,Beloit,19090626,19090626,1,0,"1b1,of1,lf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,horrell,P5697112,Horrill,,,Beloit,19090628,19090629,2,0,"of2,rf2"
-boxscores/1909/1909-TMC,1909,Central Kansas League,horrell,P1316146,Horrill,,,Beloit,19090630,19090630,1,0,"of1,lf1"
-boxscores/1909/1909-ADC,1909,Central Kansas League,house,P2518302,House,,,Minneapolis,19090616,19090721,5,1,"p1,of4,lf1,rf3"
-boxscores/1909/1909-BDC,1909,Central Kansas League,house,P5971743,House,,,Minneapolis,19090703,19090722,4,0,"of4,rf4"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,house,P2212892,House,,,Minneapolis,19090717,19090717,1,0,"of1,lf1"
-boxscores/1909/1909-MM,1909,Central Kansas League,house,P3728752,House,,,Minneapolis,19090619,19090619,1,0,
-boxscores/1909/1909-SDU,1909,Central Kansas League,house,P6886082,House,,,Minneapolis,19090614,19090728,18,1,"p1,of18,cf2,rf16"
-boxscores/1909/1909-TDR,1909,Central Kansas League,house,P3305216,House,,,Minneapolis,19090621,19090701,4,0,"of4,rf4"
-boxscores/1909/1909-TMC,1909,Central Kansas League,house,P4530074,House,,,Minneapolis,19090618,19090629,4,1,"p1,of3,lf1,rf2"
 minoraverages/1910Spalding,1909,Central Kansas League,house,B00577,House,,0,Minneapolis,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,house,F20571,House,,0,Minneapolis,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,howard,P4674148,Howard,,,Ellsworth,19090701,19090701,1,1,p1
-boxscores/1909/1909-BDC,1909,Central Kansas League,howard,P2051525,Howard,,,Ellsworth,19090626,19090626,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,howard,P7836808,Howard,,,Ellsworth,19090624,19090705,3,3,p3
-boxscores/1909/1909-TDR,1909,Central Kansas League,howard,P6819206,Howard,,,Ellsworth,19090716,19090716,1,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,howard,P5947232,Howard,,,Ellsworth,19090617,19090721,2,2,p2
 minoraverages/1910Spalding,1909,Central Kansas League,howard,B00130,Howard,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,howard,F20131,Howard,,0,Ellsworth,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,howell,P8568677,Howell,,,Beloit,19090715,19090715,1,0,"of1,cf1"
-boxscores/1909/1909-ADR,1909,Central Kansas League,howell,P8697012,Howell,,,Beloit,19090830,19090830,1,0,"of1,cf1"
-boxscores/1909/1909-BDC,1909,Central Kansas League,howell,P1885798,Howell,,,Beloit,19090621,19090831,28,0,"3b15,of13,cf13"
-boxscores/1909/1909-BDGT,1909,Central Kansas League,howell,P0648766,Howell,,,Beloit,19090717,19090717,2,0,3b2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,howell,P7546467,Howell,,,Beloit,19090712,19090721,3,0,"3b2,of1,cf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,howell,P6430857,Howell,,,Beloit,19090623,19090807,14,0,"2b3,3b8,of4,cf4"
-boxscores/1909/1909-TDR,1909,Central Kansas League,howell,P1722311,Howell,,,Beloit,19090619,19090629,2,0,"of1,cf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,howell,P6135009,Howell,,,Beloit,19090630,19090821,5,0,"of5,cf5"
 minoraverages/1910Spalding,1909,Central Kansas League,howell,B00973,Howell,,0,Beloit,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,howell,F20970,Howell,,0,Beloit,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,huelsman,P5450075,Huelsman,,,Minneapolis,19090623,19090623,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,huelsman,P6279375,Huesman,,,Minneapolis,19090626,19090626,1,1,p1
-boxscores/1909/1909-ADC,1909,Central Kansas League,hughes,P4485726,Hughes,,,Minneapolis,19090720,19090720,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,hughes,P8622466,Hughes,,,Minneapolis,19090714,19090714,1,1,p1
-boxscores/1909/1909-ADR,1909,Central Kansas League,hunt,P3356780,Hunt,,,Junction City,19090806,19090806,1,1,p1
-boxscores/1909/1909-BDC,1909,Central Kansas League,hunt,P6659678,Hunt,,,Junction City,19090710,19090828,2,2,p2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,hunt,P2617595,Hunt,,,Junction City,19090717,19090824,5,4,"p4,of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,hunt,P6832865,Hunt,,,Junction City,19090624,19090831,5,4,"p4,of1,rf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,hunt,P8664287,Hunt,,,Junction City,19090812,19090812,1,0,
-boxscores/1909/1909-ADC,1909,Central Kansas League,huelsman,P4235243,Huseman,,,Minneapolis,19090616,19090617,2,2,p2
-boxscores/1909/1909-BDC,1909,Central Kansas League,huelsman,P5032492,Huseman,,,Minneapolis,19090705,19090705,1,1,p1
-boxscores/1909/1909-MM,1909,Central Kansas League,huelsman,P2415293,Huseman,,,Minneapolis,19090619,19090619,1,1,p1
-boxscores/1909/1909-TDR,1909,Central Kansas League,huelsman,P1184589,Huseman,,,Minneapolis,19090701,19090701,1,1,p1
-boxscores/1909/1909-TMC,1909,Central Kansas League,huelsman,P5054951,Huseman,,,Minneapolis,19090619,19090619,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,hutchinson,P2631956,Hutchinson,,,Salina,19090630,19090701,2,0,3b2
-boxscores/1909/1909-SDU,1909,Central Kansas League,hutchinson,P7305146,Hutchinson,,,Salina,19090630,19090901,53,0,"2b1,3b52"
-boxscores/1909/1909-TDR,1909,Central Kansas League,hutchinson,P3724280,Hutchinson,,,Salina,19090720,19090720,1,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,hutchinson,P4949138,Hutchinson,,,Salina,19090715,19090717,4,0,3b4
 minoraverages/1910Spalding,1909,Central Kansas League,hutchinson,B00324,Hutchinson,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,hutchinson,F20327,Hutchinson,,0,Salina,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,hyde,P2913989,Hyde,,,Manhattan,19090614,19090615,2,0,3b2
-boxscores/1909/1909-TMC,1909,Central Kansas League,hyde,P3151005,Hyde,,,Manhattan,19090614,19090617,4,0,3b4
-boxscores/1909/1909-ADC,1909,Central Kansas League,ingalsby,P2371460,Ingalsby,,,Abilene,19090615,19090615,1,0,
-boxscores/1909/1909-ADR,1909,Central Kansas League,irwin,P2525967,Irwin,,,Manhattan,19090706,19090706,1,0,"of1,rf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,irwin,P2504700,Irwin,,,Manhattan,19090630,19090630,1,0,"of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,jennings,P8185310,J'n'gs,,,Minneapolis,19090727,19090727,1,0,"3b1,ss1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,jennings,P8258314,Jennigs,,,Minneapolis,19090621,19090621,1,0,ss1
-boxscores/1909/1909-ADC,1909,Central Kansas League,jennings,P7018678,Jennings,,,Minneapolis,19090616,19090721,5,0,ss5
-boxscores/1909/1909-ADR,1909,Central Kansas League,jennings,P6471973,Jennings,,,Minneapolis,19090826,19090827,2,0,ss2
-boxscores/1909/1909-BDC,1909,Central Kansas League,jennings,P3327895,Jennings,,,Minneapolis,19090703,19090811,7,0,ss7
-boxscores/1909/1909-JCDU,1909,Central Kansas League,jennings,P1499508,Jennings,,,Minneapolis,19090717,19090717,1,0,ss1
-boxscores/1909/1909-MBW,1909,Central Kansas League,jennings,P0405844,Jennings,,,Minneapolis,19090807,19090807,1,0,c1
-boxscores/1909/1909-MM,1909,Central Kansas League,jennings,P6960328,Jennings,,,Minneapolis,19090619,19090619,1,0,
-boxscores/1909/1909-SDU,1909,Central Kansas League,jennings,P1928538,Jennings,,,Minneapolis,19090614,19090818,23,0,ss23
-boxscores/1909/1909-TDR,1909,Central Kansas League,jennings,P6347096,Jennings,,,Minneapolis,19090622,19090804,7,0,ss4
-boxscores/1909/1909-TMC,1909,Central Kansas League,jennings,P4069042,Jennings,,,Minneapolis,19090618,19090825,8,0,ss8
 minoraverages/1910Spalding,1909,Central Kansas League,jennings,B00553,Jennings,,0,Minneapolis,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,jennings,F20552,Jennings,,0,Minneapolis,,,,,
-boxscores/1909/1909-BDC,1909,Central Kansas League,jepson,P5389454,Jepson,,,Junction City,19090719,19090719,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,jepson,P3561067,Jepson,,,Junction City,19090616,19090825,11,10,"p10,1b1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,jepson,P3990097,Jepson,,,Junction City,19090615,19090830,15,12,"p12,1b1,of1,rf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,jepson,P8408655,Jepson,,,Junction City,19090812,19090812,1,1,p1
 minoraverages/1910Spalding,1909,Central Kansas League,jepson,B00752,Jepson,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,jepson,F20759,Jepson,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,jepson,P10062,Jepson,,0,Junction City,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,johnson-bel,P1202201,Johnson,,,Beloit,19090615,19090715,2,0,"ss1,of1,lf1"
-boxscores/1909/1909-ADC,1909,Central Kansas League,johnson-cc,P3372100,Johnson,,,Clay Center,19090727,19090727,1,1,p1
-boxscores/1909/1909-ADC,1909,Central Kansas League,johnson-man,P4156534,Johnson,,,Manhattan,19090707,19090707,1,0,"of1,lf1"
-boxscores/1909/1909-ADR,1909,Central Kansas League,johnson-cc,P5173715,Johnson,,,Clay Center,19090728,19090728,1,1,p1
-boxscores/1909/1909-ADR,1909,Central Kansas League,johnson-bel,P5437256,Johnson,,,Beloit,19090830,19090830,1,0,"of1,lf1"
-boxscores/1909/1909-ADR,1909,Central Kansas League,johnson-man,P9328069,Johnson,,,Manhattan,19090706,19090706,1,1,p1
-boxscores/1909/1909-BDC,1909,Central Kansas League,johnson-bel,P0667194,Johnson,,,Beloit,19090621,19090831,24,0,"c2,ss4,of18,lf18"
-boxscores/1909/1909-BDGT,1909,Central Kansas League,johnson-bel,P9845138,Johnson,,,Beloit,19090717,19090717,2,0,"of2,lf2"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,johnson-man,P3851124,Johnson,,,Manhattan,19090625,19090625,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,johnson-bel,P7469271,Johnson,,,Beloit,19090616,19090721,5,0,"ss2,of3,lf3"
-boxscores/1909/1909-SDU,1909,Central Kansas League,johnson-bel,P0654141,Johnson,,,Beloit,19090618,19090807,15,0,"c1,ss4,of11,lf11"
-boxscores/1909/1909-SDU,1909,Central Kansas League,johnson-man,P8524314,Johnson,,,Manhattan,19090614,19090714,3,2,"p2,of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,johnson-cc,P9884520,Johnson,,,Clay Center,19090814,19090901,6,5,"p5,of1,rf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,johnson-cc,P0321446,Johnson,,,Clay Center,19090701,19090807,6,3,p3
-boxscores/1909/1909-TDR,1909,Central Kansas League,johnson-bel,P5272123,Johnson,,,Beloit,19090619,19090629,3,0,"ss1,of2,cf2"
-boxscores/1909/1909-TMC,1909,Central Kansas League,johnson-bel,P0891157,Johnson,,,Beloit,19090630,19090821,4,0,"c1,ss1,of3,lf3"
-boxscores/1909/1909-TMC,1909,Central Kansas League,johnson-cc,P4191808,Johnson,,,Clay Center,19090811,19090811,1,1,p1
-boxscores/1909/1909-TMC,1909,Central Kansas League,johnson-man,P6168306,Johnson,,,Manhattan,19090614,19090717,9,6,"p6,of3,lf2,rf1"
 minoraverages/1910Spalding,1909,Central Kansas League,johnson-bel,B00936,Johnson,,0,Beloit,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,johnson-cc,B01216,Johnson,,0,Clay Center,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,johnson-man,B01269,Johnson,,0,Manhattan,,,,,
@@ -776,783 +152,151 @@ minoraverages/1910Spalding,1909,Central Kansas League,johnson-bel,F20935,Johnson
 minoraverages/1910Spalding,1909,Central Kansas League,johnson-cc,F21210,Johnson,,0,Clay Center,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,johnson-man,F21264,Johnson,,0,Manhattan,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,johnson-cc,P10176,Johnson,,0,Clay Center,,,,,
-boxscores/1909/1909-BDC,1909,Central Kansas League,johnson-bel,P9233509,Johnson [Bel],,,Beloit,19090622,19090731,3,0,"ss1,of2,lf2"
-boxscores/1909/1909-BDC,1909,Central Kansas League,johnson-cc,P2215107,Johnson [CC],,,Clay Center,19090730,19090731,2,2,p2
-boxscores/1909/1909-BDC,1909,Central Kansas League,johnson-man,P4075019,Johnson [Man],,,Manhattan,19090622,19090622,1,1,p1
-boxscores/1909/1909-ADC,1909,Central Kansas League,johnson-bel,P8763693,Johnston,,,Beloit,19090614,19090614,1,0,ss1
-boxscores/1909/1909-TMC,1909,Central Kansas League,johnson-bel,P8499241,Johnston,,,Beloit,19090819,19090819,1,0,"of1,lf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,kemp,P3126724,Kemp,,,Salina,19090729,19090819,6,5,"p5,1b2"
 minoraverages/1910Spalding,1909,Central Kansas League,kemp,B00356,Kemp,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,kemp,F20350,Kemp,,0,Salina,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,kiernan,P4302258,Kierman,,,Abilene,19090617,19090617,1,0,2b1
-boxscores/1909/1909-ADC,1909,Central Kansas League,kiernan,P8029075,Kiernan,,,Abilene,19090616,19090619,2,0,"ss2,of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,kirtland,P4287888,Kirtland,,,Salina,19090618,19090618,1,1,p1
-boxscores/1909/1909-ADR,1909,Central Kansas League,kneaves,P3036295,Kneaves,,,Abilene,19090817,19090821,5,0,ss4
-boxscores/1909/1909-BDC,1909,Central Kansas League,koehler,P9600770,Koehler,,,Manhattan,19090621,19090622,2,0,"of2,lf2"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,koehler,P5841919,Koehler,,,Manhattan,19090623,19090625,2,0,"of2,lf2"
-boxscores/1909/1909-SDU,1909,Central Kansas League,koehler,P0515109,Koehler,,,Manhattan,19090614,19090624,3,0,"1b2,of1,rf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,koehler,P8159101,Koehler,,,Manhattan,19090614,19090703,9,0,"of9,lf9"
-boxscores/1909/1909-SDU,1909,Central Kansas League,krayhill,P7319774,Krayhill,,,Minneapolis,19090625,19090625,1,0,3b1
-boxscores/1909/1909-ADC,1909,Central Kansas League,krepps,P2348040,Krepps,,,Salina,19090629,19090629,1,0,"of1,lf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,krepps,P1325830,Krepps,,,Salina,19090630,19090701,2,0,"of2,lf2"
-boxscores/1909/1909-SDU,1909,Central Kansas League,krepps,P0210220,Krepps,,,Salina,19090614,19090821,58,0,"3b1,of56,lf53,cf1,rf2"
-boxscores/1909/1909-TDR,1909,Central Kansas League,krepps,P5501674,Krepps,,,Salina,19090720,19090720,1,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,krepps,P9914372,Krepps,,,Salina,19090614,19090717,6,0,"of6,lf6"
 minoraverages/1910Spalding,1909,Central Kansas League,krepps,B00207,Krepps,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,krepps,F20206,Krepps,,0,Salina,,,,,
-boxscores/1909/1909-ADR,1909,Central Kansas League,kretzer,P2281520,Kretzer,,,Beloit,19090823,19090823,1,1,p1
-boxscores/1909/1909-BDC,1909,Central Kansas League,kretzer,P7511458,Kretzer,,,Beloit,19090730,19090831,7,6,p6
-boxscores/1909/1909-SDU,1909,Central Kansas League,kretzer,P7498405,Kretzer,,,Beloit,19090726,19090806,4,2,"p2,of1,rf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,kretzer,P7735421,Kretzer,,,Beloit,19090819,19090821,2,2,p2
 minoraverages/1910Spalding,1909,Central Kansas League,kretzer,B01029,Kretzer,,0,Beloit,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,kretzer,F21021,Kretzer,,0,Beloit,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,kretzer,P10070,Kretzer,,0,Beloit,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,lawrence-sal,P1939206,Laurence,,,Salina,19090623,19090802,24,0,"c12,1b4,of10,rf10"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,lawrence-sal,P3845922,Lawrence,,,Salina,19090630,19090630,1,0,"of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,lawrence-bel,P8395023,Lawrence,,,Beloit,19090807,19090807,1,0,c1
-boxscores/1909/1909-SDU,1909,Central Kansas League,lawrence-sal,P8946632,Lawrence,,,Salina,19090619,19090724,6,0,"c3,of3,rf3"
-boxscores/1909/1909-TDR,1909,Central Kansas League,lawrence-sal,P1340038,Lawrence,,,Salina,19090720,19090720,1,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,lawrence-sal,P6768160,Lawrence,,,Salina,19090715,19090717,3,0,"c2,of1,rf1"
 minoraverages/1910Spalding,1909,Central Kansas League,lawrence-sal,B00308,Lawrence,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,lawrence-bel,B01041,Lawrence,,0,Beloit,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,lawrence-sal,F20303,Lawrence,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,lawrence-bel,F21045,Lawrence,,0,Beloit,,,,,
-boxscores/1909/1909-TMC,1909,Central Kansas League,lefrappe,P0781634,Le Frappe,,,Manhattan,19090617,19090617,1,1,p1
-boxscores/1909/1909-ADC,1909,Central Kansas League,leach,P1862935,Leach,,,Beloit,19090615,19090615,1,1,p1
-boxscores/1909/1909-BDC,1909,Central Kansas League,leach,P0145272,Leach,,,Beloit,19090621,19090703,2,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,leach,P7892565,Leach,,,Beloit,19090616,19090617,2,2,p2
-boxscores/1909/1909-SDU,1909,Central Kansas League,leach,P4222395,Leach,,,Beloit,19090623,19090623,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,lederer,P7121466,Lederer,,,Salina,19090614,19090616,2,0,c2
-boxscores/1909/1909-TDR,1909,Central Kansas League,lederer-cc,P0857834,Lederer,,,Clay Center,19090616,19090616,1,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,lederer,P7358482,Lederer,,,Salina,19090614,19090614,1,0,c1
-boxscores/1909/1909-SDU,1909,Central Kansas League,leek,P8064932,Leek,,,Ellsworth,19090810,19090810,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,lien,P2009247,Lein,,,Salina,19090701,19090901,12,12,p12
-boxscores/1909/1909-SDU,1909,Central Kansas League,lein@ump,P6987545,Lein,,,#umpire,19090728,19090728,,,
-boxscores/1909/1909-TDR,1909,Central Kansas League,lien,P0829533,Lein,,,Salina,19090720,19090720,1,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,lien,P9860215,Lein,,,Salina,19090715,19090717,2,2,p2
-boxscores/1909/1909-ADC,1909,Central Kansas League,leonard,P1119832,Leonard,,,Salina,19090629,19090629,1,0,2b1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,leonard,P7386902,Leonard,,,Salina,19090630,19090701,2,0,2b2
-boxscores/1909/1909-SDU,1909,Central Kansas League,leonard,P0571772,Leonard,,,Salina,19090614,19090901,63,1,"p1,2b57,of7,rf7"
-boxscores/1909/1909-TDR,1909,Central Kansas League,leonard,P5189754,Leonard,,,Salina,19090616,19090720,2,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,leonard,P0808788,Leonard,,,Salina,19090614,19090717,6,0,"2b4,of2,rf2"
 minoraverages/1910Spalding,1909,Central Kansas League,leonard,B00232,Leonard,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,leonard,F20233,Leonard,,0,Salina,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,lewis-ell,P2329955,Lewis,,,Ellsworth,19090619,19090729,4,0,"of4,lf1,rf3"
-boxscores/1909/1909-ADC,1909,Central Kansas League,lewis.f-min,P4206610,Lewis,F.,,Minneapolis,19090719,19090721,3,0,2b3
-boxscores/1909/1909-ADC,1909,Central Kansas League,lewis.w-min,P8769731,Lewis,W.,,Minneapolis,19090719,19090721,3,0,"of3,cf3"
-boxscores/1909/1909-ADR,1909,Central Kansas League,lewis-ell,P2086770,Lewis,,,Ellsworth,19090730,19090821,4,0,"of4,rf4"
-boxscores/1909/1909-ADR,1909,Central Kansas League,lewis.w-min,P9561325,Lewis,,,Minneapolis,19090826,19090827,2,0,"of2,rf2"
-boxscores/1909/1909-BDC,1909,Central Kansas League,lewis-ell,P4674724,Lewis,,,Ellsworth,19090626,19090816,6,0,"of6,lf1,rf5"
-boxscores/1909/1909-BDC,1909,Central Kansas League,lewis.f-min,P5003859,Lewis,F.,,Minneapolis,19090722,19090722,1,0,2b1
-boxscores/1909/1909-BDC,1909,Central Kansas League,lewis-min,P7843231,Lewis,,,Minneapolis,19090703,19090811,6,0,"2b3,of3,cf1,rf2"
-boxscores/1909/1909-BDC,1909,Central Kansas League,lewis.w-min,P9566980,Lewis,W.,,Minneapolis,19090722,19090722,1,0,"of1,cf1"
-boxscores/1909/1909-EM,1909,Central Kansas League,lewis-ell,P7814061,Lewis,,,Ellsworth,19090710,19090712,2,0,"of2,rf2"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,lewis.f-min,P1615120,Lewis,F.,,Minneapolis,19090717,19090717,1,0,2b1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,lewis.w-min,P6178241,Lewis,W.,,Minneapolis,19090717,19090717,1,0,"of1,cf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,lewis-ell,P9143265,Lewis,,,Ellsworth,19090824,19090824,1,0,"of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,lewis.f-min,P0719030,Lewis,F.,,Minneapolis,19090706,19090728,10,0,2b10
-boxscores/1909/1909-SDU,1909,Central Kansas League,lewis.f-min,P2215317,Lewis,E.,,Minneapolis,19090712,19090712,1,0,2b1
-boxscores/1909/1909-SDU,1909,Central Kansas League,lewis.f-min,P3403211,Lewis,Ed,,Minneapolis,19090715,19090715,1,0,2b1
-boxscores/1909/1909-SDU,1909,Central Kansas League,lewis-ell,P4243975,Lewis,,,Ellsworth,19090614,19090811,24,0,"of24,lf1,rf23"
-boxscores/1909/1909-SDU,1909,Central Kansas League,lewis.w-min,P5282151,Lewis,W.,,Minneapolis,19090706,19090728,12,0,"of12,lf1,cf10,rf2"
-boxscores/1909/1909-SDU,1909,Central Kansas League,lewis-ell,P5784233,Lewis,Carl,,Ellsworth,19090727,19090728,2,0,"of2,rf2"
-boxscores/1909/1909-SDU,1909,Central Kansas League,lewis-min,P8757570,Lewis,,,Minneapolis,19090614,19090818,8,0,"2b2,of6,cf1,rf5"
-boxscores/1909/1909-TDR,1909,Central Kansas League,lewis-min,P5176704,Lewis,,,Minneapolis,19090630,19090804,6,0,"2b2,of1,rf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,lewis-ell,P6637381,Lewis,,,Ellsworth,19090615,19090716,3,0,"of1,rf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,lewis-ell,P2065503,Lewis,,,Ellsworth,19090616,19090721,5,0,"of5,lf2,rf3"
-boxscores/1909/1909-TMC,1909,Central Kansas League,lewis-min,P6401562,Lewis,,,Minneapolis,19090628,19090825,6,0,"1b1,2b2,of3,rf3"
 minoraverages/1910Spalding,1909,Central Kansas League,lewis-ell,B00059,Lewis,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,lewis.f-min,B00589,Lewis,F.,0,Minneapolis,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,lewis.w-min,B00667,Lewis,W.,0,Minneapolis,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,lewis-ell,F20051,Lewis,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,lewis.f-min,F20583,Lewis,F.,0,Minneapolis,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,lewis.w-min,F20661,Lewis,W.,0,Minneapolis,,,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,lien,P8297721,Lien,,,Salina,19090701,19090701,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,lien,P5459231,Lien,,,Salina,19090726,19090813,2,2,p2
 minoraverages/1910Spalding,1909,Central Kansas League,lien,B00335,Lien,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,lien,F20334,Lien,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,lien,P10097,Lien,,0,Salina,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,lingo,P1192612,Lingo,,,Abilene,19090615,19090617,2,0,
-boxscores/1909/1909-TDR,1909,Central Kansas League,lord,P5736440,Lord,,,Clay Center,19090621,19090621,1,0,
-boxscores/1909/1909-ADC,1909,Central Kansas League,lynn,P4057004,Lynn,,,Abilene,19090614,19090614,1,0,"of1,cf1"
-boxscores/1909/1909-ADC,1909,Central Kansas League,mallon,P2133230,Mallon,,,Abilene,19090615,19090729,8,4,"p4,1b1,of3,cf1,rf2"
-boxscores/1909/1909-ADR,1909,Central Kansas League,mallon,P6368285,Mallon,,,Abilene,19090806,19090826,5,4,"p4,of1,rf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,mallon,P8400300,Mallon,,,Abilene,19090810,19090810,1,0,"of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,mallon,P1585170,Mallon,,,Abilene,19090626,19090824,5,2,"p2,of2,rf2"
-boxscores/1909/1909-TDR,1909,Central Kansas League,mallon,P6203152,Mallon,,,Abilene,19090722,19090724,2,1,p1
-boxscores/1909/1909-TMC,1909,Central Kansas League,mallon,P1822186,Mallon,,,Abilene,19090812,19090812,1,1,p1
 minoraverages/1910Spalding,1909,Central Kansas League,mallon,B00442,Mallon,,0,Abilene,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,mallon,F20449,Mallon,,0,Abilene,,,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,martin-jc,P4318195,Marin,,,Junction City,19090701,19090701,1,0,3b1
-boxscores/1909/1909-SDU,1909,Central Kansas League,mallon,P7908242,Marlin,,,Abilene,19090825,19090825,1,0,"of1,rf1"
-boxscores/1909/1909-BDC,1909,Central Kansas League,martin-bel,P6978182,Martin,,,Beloit,19090626,19090626,1,0,c1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,martin-jc,P9754887,Martin,,,Junction City,19090623,19090705,5,0,"3b4,of1,cf1"
-boxscores/1909/1909-MM,1909,Central Kansas League,martin-min,P2776087,Martin,,,Minneapolis,19090619,19090619,1,0,c1
-boxscores/1909/1909-SDU,1909,Central Kansas League,martin-jc,P0183917,Martin,,,Junction City,19090621,19090701,5,0,3b5
-boxscores/1909/1909-SDU,1909,Central Kansas League,martin-bel,P1523241,Martin,,,Beloit,19090623,19090625,3,0,"c2,of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,martin-sal,P2074850,Martin,,,Salina,19090617,19090617,1,0,"of1,rf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,martin-bel,P6814695,Martin,,,Beloit,19090628,19090629,2,0,"c1,of1,lf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,martin-jc,P2324421,Martin,,,Junction City,19090626,19090626,1,0,3b1
-boxscores/1909/1909-TMC,1909,Central Kansas League,martin-min,P9219713,Martin,,,Minneapolis,19090619,19090619,1,0,c1
-boxscores/1909/1909-BDC,1909,Central Kansas League,mason,P6974361,Mason,,,Minneapolis,19090722,19090722,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,mason,P7888700,Mason,,,Minneapolis,19090708,19090727,5,5,p5
-boxscores/1909/1909-SDU,1909,Central Kansas League,masters,P0835630,Master,,,Junction City,19090630,19090630,1,0,
-boxscores/1909/1909-SDU,1909,Central Kansas League,masters,P2666819,Master,,,Salina,19090615,19090615,1,0,c1
-boxscores/1909/1909-BDC,1909,Central Kansas League,masters,P3325310,Masters,,,Junction City,19090710,19090828,3,0,"c1,of1,rf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,masters,P2988539,Masters,,,Junction City,19090630,19090824,17,0,"c16,of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,masters,P1811606,Masters,,,Salina,19090623,19090623,1,0,"of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,masters,P7146529,Masters,,,Junction City,19090701,19090730,9,0,c9
-boxscores/1909/1909-TMC,1909,Central Kansas League,masters,P2048622,Masters,,,Salina,19090615,19090615,1,0,c1
 minoraverages/1910Spalding,1909,Central Kansas League,masters,B00264,Masters,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,masters,B00794,Masters,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,masters,F20265,Masters,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,masters,F20792,Masters,,0,Junction City,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,mattson,P2100637,Matson,,,Abilene,19090619,19090619,1,1,p1
-boxscores/1909/1909-ADC,1909,Central Kansas League,mattson,P9997745,Mattson,,,Abilene,19090615,19090630,3,1,"p1,of1,lf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,mattson,P1911765,Mattson,,,Abilene,19090626,19090703,2,2,p2
-boxscores/1909/1909-SDU,1909,Central Kansas League,mattson,P7640296,Matzon,,,Abilene,19090625,19090625,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,mawly,P4708627,Mawly,,,Clay Center,19090626,19090626,1,0,2b1
-boxscores/1909/1909-TDR,1909,Central Kansas League,mays,P7975521,Mays,,,Clay Center,19090630,19090701,2,0,"2b1,ss1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,mays,P7103547,Mays,,,Clay Center,19090703,19090703,2,0,"2b1,3b1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,mcdill,P6682993,McDill,,,Junction City,19090616,19090625,4,0,"2b3,3b1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,mcdill,P7112023,McDill,,,Junction City,19090614,19090624,7,0,2b7
-boxscores/1909/1909-TMC,1909,Central Kansas League,mcdill,P9252527,McDill,,,Junction City,19090626,19090626,1,0,2b1
-boxscores/1909/1909-ADR,1909,Central Kansas League,mcdonnell,P6689302,McDonnell,,,Abilene,19090728,19090728,1,1,p1
-boxscores/1909/1909-ADC,1909,Central Kansas League,mckee@ump,P0055474,McKee,,,#umpire,19090629,19090707,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,mckee,P3349700,McKee,,,Ellsworth,19090619,19090729,4,0,ss4
-boxscores/1909/1909-ADR,1909,Central Kansas League,mckee,P3106515,McKee,,,Ellsworth,19090730,19090821,4,0,ss4
-boxscores/1909/1909-BDC,1909,Central Kansas League,mckee,P5694469,McKee,,,Ellsworth,19090626,19090814,4,0,ss4
-boxscores/1909/1909-BDC,1909,Central Kansas League,mckee@ump,P8337811,McKee,,,#umpire,19090802,19090812,,,
-boxscores/1909/1909-EM,1909,Central Kansas League,mckee,P8833806,McKee,,,Ellsworth,19090710,19090712,2,0,ss1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,mckee,P0163010,McKee,,,Ellsworth,19090824,19090825,2,0,ss1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,mckee@ump,P6085104,McKee,,,#umpire,19090726,19090822,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,mckee@ump,P2414934,McKee,,,#umpire,19090614,19090815,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,mckee,P5263720,McKee,,,Ellsworth,19090614,19090813,28,0,ss27
-boxscores/1909/1909-TDR,1909,Central Kansas League,mckee@ump,P3484372,McKee,,,#umpire,19090615,19090724,,,
-boxscores/1909/1909-TDR,1909,Central Kansas League,mckee,P7657126,McKee,,,Ellsworth,19090715,19090716,2,0,3b1
-boxscores/1909/1909-TMC,1909,Central Kansas League,mckee@ump,P1496878,McKee,,,#umpire,19090708,19090824,,,
-boxscores/1909/1909-TMC,1909,Central Kansas League,mckee,P3085248,McKee,,,Ellsworth,19090616,19090721,5,0,ss5
 minoraverages/1910Spalding,1909,Central Kansas League,mckee,B00045,McKee,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,mckee,F20046,McKee,,0,Ellsworth,,,,,
-boxscores/1909/1909-TDR,1909,Central Kansas League,mckee@ump,P8829945,McKeee,,,#umpire,19090716,19090716,,,
-boxscores/1909/1909-ADR,1909,Central Kansas League,mckinzie,P1863139,McKenzie,,,Junction City,19090805,19090807,3,0,"of3,rf3"
-boxscores/1909/1909-BDC,1909,Central Kansas League,mckinzie,P7962197,McKenzie,,,Junction City,19090710,19090828,4,0,"2b1,of3,lf2,rf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,mckinzie,P6848754,McKenzie,,,Junction City,19090701,19090824,20,0,"2b1,ss3,of15,lf5,rf10"
-boxscores/1909/1909-SDU,1909,Central Kansas League,mckinzie,P4062424,McKenzie,,,Junction City,19090701,19090819,11,0,"2b4,ss3,of6,lf1,rf5"
-boxscores/1909/1909-SDU,1909,Central Kansas League,mckee,P7203564,McKie,,,Ellsworth,19090703,19090703,1,0,ss1
 minoraverages/1910Spalding,1909,Central Kansas League,mckinzie,B00806,McKinzie,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,mckinzie,F20807,McKinzie,,0,Junction City,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,meade,P2502801,Mead,,,Beloit,19090614,19090614,1,0,c1
-boxscores/1909/1909-BDC,1909,Central Kansas League,meade,P1844690,Mead,,,Beloit,19090621,19090831,27,1,"p1,c17,of10,lf2,rf8"
-boxscores/1909/1909-BDGT,1909,Central Kansas League,meade,P3413802,Mead,,,Beloit,19090717,19090717,2,0,"of2,rf2"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,meade,P6624911,Mead,,,Beloit,19090616,19090721,5,0,"c4,of2,rf2"
-boxscores/1909/1909-SDU,1909,Central Kansas League,meade,P3786421,Mead,,,Beloit,19090618,19090813,11,0,"c8,ss1,of2,rf2"
-boxscores/1909/1909-TDR,1909,Central Kansas League,meade,P2606707,Mead,,,Beloit,19090619,19090629,3,0,"c2,of1,lf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,meade,P1637389,Mead,,,Beloit,19090630,19090630,1,0,"c1,of1,rf1"
-boxscores/1909/1909-ADC,1909,Central Kansas League,meade,P3395126,Meade,,,Beloit,19090615,19090715,2,0,"c1,of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,meade,P5754586,Meade,,,Beloit,19090723,19090728,4,0,"c4,of1,lf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,meade,P4836530,Meade,,,Beloit,19090819,19090820,2,0,"of2,rf2"
 minoraverages/1910Spalding,1909,Central Kansas League,meade,B00948,Meade,,0,Beloit,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,meade,F20943,Meade,,0,Beloit,,,,,
-boxscores/1909/1909-TMC,1909,Central Kansas League,meade,P1063557,Meades,,,Beloit,19090821,19090821,1,0,"of1,rf1"
-boxscores/1909/1909-ADR,1909,Central Kansas League,myers-man,P4657819,Meyers,,,Manhattan,19090817,19090818,2,0,"of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,myers-cc,P2747550,Meyers,,,Clay Center,19090714,19090714,1,0,"of1,rf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,myers-man,P3956008,Meyers,,,Manhattan,19090812,19090819,3,0,"2b2,of1,rf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,myers-cc,P4999286,Meyers,,,Clay Center,19090705,19090705,1,0,"of1,rf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,michaels,P7215302,Michael,,,Manhattan,19090615,19090615,1,0,ss1
-boxscores/1909/1909-SDU,1909,Central Kansas League,michaels,P3312705,Michaels,,,Manhattan,19090615,19090615,1,0,ss1
-boxscores/1909/1909-TMC,1909,Central Kansas League,michaels,P5564441,Michaels,,,Manhattan,19090616,19090617,2,0,ss2
-boxscores/1909/1909-ADR,1909,Central Kansas League,miller-bel,P3735497,Milger,,,Beloit,19090823,19090823,1,0,c1
-boxscores/1909/1909-ADC,1909,Central Kansas League,miller-abi,P5126256,Miller,,,Abilene,19090614,19090619,5,0,"c3,of3,cf3"
-boxscores/1909/1909-ADR,1909,Central Kansas League,miller-bel,P0057742,Miller,,,Beloit,19090830,19090830,1,0,c1
-boxscores/1909/1909-BDC,1909,Central Kansas League,miller-bel,P3246528,Miller,,,Beloit,19090827,19090831,3,0,c3
-boxscores/1909/1909-JCDU,1909,Central Kansas League,miller-jc,P0860929,Miller,,,Junction City,19090625,19090630,3,0,c3
-boxscores/1909/1909-SDU,1909,Central Kansas League,miller-min,P1137955,Miller,,,Minneapolis,19090625,19090625,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,miller-jc,P1289959,Miller,,,Junction City,19090630,19090630,1,0,c1
-boxscores/1909/1909-SDU,1909,Central Kansas League,miller-abi,P4578196,Miller,,,Abilene,19090618,19090621,2,0,"c1,of1,cf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,miller-bel,P7791587,Miller,,,Beloit,19090817,19090818,3,0,c3
-boxscores/1909/1909-SDU,1909,Central Kansas League,miller-sal,P8343196,Miller,,,Salina,19090816,19090901,12,1,"p1,of12,lf11,cf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,miller-min,P2969377,Miller,,,Minneapolis,19090621,19090621,1,1,p1
-boxscores/1909/1909-TDR,1909,Central Kansas League,miller-cc,P5942220,Miller,,,Clay Center,19090701,19090701,1,1,p1
-boxscores/1909/1909-TMC,1909,Central Kansas League,miller-bel,P7495739,Miller,,,Beloit,19090819,19090821,4,0,c4
 minoraverages/1910Spalding,1909,Central Kansas League,miller-sal,B00370,Miller,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,miller-bel,B01064,Miller,,0,Beloit,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,miller-sal,F20375,Miller,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,miller-bel,F21068,Miller,,0,Beloit,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,misse,P9643380,Misse,,,Salina,19090629,19090629,1,0,ss1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,misse,P5673010,Misse,,,Salina,19090630,19090701,2,0,ss2
-boxscores/1909/1909-SDU,1909,Central Kansas League,misse,P2002840,Misse,,,Salina,19090614,19090901,68,0,ss68
-boxscores/1909/1909-TDR,1909,Central Kansas League,misse,P3072278,Misse,,,Salina,19090720,19090720,1,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,misse,P1084784,Misse,,,Salina,19090614,19090717,6,0,ss6
 minoraverages/1910Spalding,1909,Central Kansas League,misse,B00241,Misse,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,misse,F20240,Misse,,0,Salina,,,,,
-boxscores/1909/1909-BDC,1909,Central Kansas League,mitchell-man,P3571594,Mitchell,,,Manhattan,19090622,19090622,1,0,"of1,rf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,mitchell-man,P9529511,Mitchell,,,Manhattan,19090623,19090625,2,0,"of2,rf2"
-boxscores/1909/1909-SDU,1909,Central Kansas League,mitchell-man,P3744781,Mitchell,,,Manhattan,19090615,19090624,2,0,"of2,rf2"
-boxscores/1909/1909-TMC,1909,Central Kansas League,mitchell-man,P5996517,Mitchell,,,Manhattan,19090615,19090705,11,0,"c1,of10,lf1,rf9"
-boxscores/1909/1909-BDC,1909,Central Kansas League,mitchell-bel,P1935512,Mitchell [Bel],,,Beloit,19090621,19090621,1,1,p1
-boxscores/1909/1909-BDC,1909,Central Kansas League,mitchell-man,P5956830,Mitchell [Man],,,Manhattan,19090621,19090621,1,0,"of1,rf1"
-boxscores/1909/1909-ADC,1909,Central Kansas League,monroe,P9898459,Monroe,,,Abilene,19090630,19090729,10,0,"c1,of8,cf8"
-boxscores/1909/1909-ADR,1909,Central Kansas League,monroe,P4133514,Monroe,,,Abilene,19090706,19090830,16,0,"c2,of14,cf14"
-boxscores/1909/1909-BDC,1909,Central Kansas League,monroe,P9363452,Monroe,,,Abilene,19090713,19090831,3,0,"of3,cf3"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,monroe,P6165529,Monroe,,,Abilene,19090705,19090810,3,0,"of3,cf3"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,monroe.w,P8480574,Monroe,W.,,Abilene,19090705,19090705,1,0,c1
-boxscores/1909/1909-SDU,1909,Central Kansas League,monroe,P9350399,Monroe,,,Abilene,19090702,19090825,12,0,"c4,1b1,of8,cf8"
-boxscores/1909/1909-TDR,1909,Central Kansas League,monroe,P3968381,Monroe,,,Abilene,19090722,19090724,3,0,c2
-boxscores/1909/1909-TMC,1909,Central Kansas League,monroe,P9587415,Monroe,,,Abilene,19090708,19090813,4,0,"of3,cf3"
 minoraverages/1910Spalding,1909,Central Kansas League,monroe,B00491,Monroe,,0,Abilene,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,monroe,F20496,Monroe,,0,Abilene,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,morgan,P6758607,Morgan,,,Abilene,19090623,19090624,2,0,"of2,rf2"
-boxscores/1909/1909-SDU,1909,Central Kansas League,morris,P6426611,Morris,,,Salina,19090615,19090617,3,0,"3b1,of2,cf2"
-boxscores/1909/1909-TDR,1909,Central Kansas League,morris,P1718065,Morris,,,Salina,19090616,19090616,1,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,morris,P6130763,Morris,,,Salina,19090615,19090615,1,0,"of1,cf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,moss-min,P5259109,Moses,,,Minneapolis,19090626,19090626,1,0,c1
-boxscores/1909/1909-ADC,1909,Central Kansas League,moss-bel,P3656060,Moss,,,Beloit,19090715,19090715,1,0,c1
-boxscores/1909/1909-BDC,1909,Central Kansas League,moss-bel,P2997949,Moss,,,Beloit,19090706,19090816,8,1,"p1,c6,of1,rf1"
-boxscores/1909/1909-BDC,1909,Central Kansas League,moss-min,P4108221,Moss,,,Minneapolis,19090703,19090705,2,0,c2
-boxscores/1909/1909-BDC,1909,Central Kansas League,moss@ump,P8527856,Moss,,,#umpire,19090811,19090811,,,
-boxscores/1909/1909-BDGT,1909,Central Kansas League,moss-bel,P4567061,Moss,,,Beloit,19090717,19090717,2,0,c2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,moss-bel,P7778170,Moss,,,Beloit,19090712,19090720,2,0,c2
-boxscores/1909/1909-SDU,1909,Central Kansas League,moss@ump,P0469587,Moss,,,#umpire,19090728,19090728,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,moss-bel,P4939680,Moss,,,Beloit,19090708,19090716,2,0,c2
-boxscores/1909/1909-SDU,1909,Central Kansas League,moss-man,P7939357,Moss,,,Manhattan,19090827,19090831,3,0,c3
-boxscores/1909/1909-TDR,1909,Central Kansas League,moss-min,P8875902,Moss,,,Minneapolis,19090630,19090630,1,0,c1
-boxscores/1909/1909-TMC,1909,Central Kansas League,moss-man,P8176373,Moss,,,Manhattan,19090825,19090825,1,0,c1
 minoraverages/1910Spalding,1909,Central Kansas League,moss-min,B00651,Moss,,0,Minneapolis,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,moss-bel,B00999,Moss,,0,Beloit,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,moss-man,B01428,Moss,,0,Manhattan,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,moss-min,F20657,Moss,,0,Minneapolis,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,moss-bel,F20997,Moss,,0,Beloit,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,moss-man,F21427,Moss,,0,Manhattan,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,moss-min,P4922533,Mosse,,,Minneapolis,19090625,19090625,1,0,c1
-boxscores/1909/1909-SDU,1909,Central Kansas League,moss-man,P7282818,Mosse,,,Manhattan,19090826,19090826,1,0,c1
-boxscores/1909/1909-TMC,1909,Central Kansas League,moss-min,P2566525,Mosse,,,Minneapolis,19090628,19090629,2,0,c2
-boxscores/1909/1909-TMC,1909,Central Kansas League,moss-man,P5104346,Mosse,,,Manhattan,19090821,19090901,5,0,c5
-boxscores/1909/1909-ADR,1909,Central Kansas League,murphy,P5047563,Murphy,,,Manhattan,19090816,19090817,2,1,"p1,of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,murphy,P6235328,Murphy,,,Manhattan,19090814,19090831,2,2,p2
-boxscores/1909/1909-TMC,1909,Central Kansas League,murphy,P4345752,Murphy,,,Manhattan,19090809,19090825,6,5,"p5,of1,rf1"
 minoraverages/1910Spalding,1909,Central Kansas League,murphy,B01392,Murphy,,0,Manhattan,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,murphy,F21397,Murphy,,0,Manhattan,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,myers-cc,P3689461,Myers,,,Clay Center,19090623,19090727,4,0,"of4,cf3,rf1"
-boxscores/1909/1909-ADR,1909,Central Kansas League,myers-man,P1489398,Myers,,,Manhattan,19090816,19090816,1,0,2b1
-boxscores/1909/1909-ADR,1909,Central Kansas League,myers-cc,P8860996,Myers,,,Clay Center,19090728,19090728,2,0,"of2,rf2"
-boxscores/1909/1909-BDC,1909,Central Kansas League,myers-cc,P7142902,Myers,,,Clay Center,19090729,19090731,3,0,"of3,rf3"
-boxscores/1909/1909-EM,1909,Central Kansas League,myers-cc,P5880895,Myers,,,Clay Center,19090710,19090712,2,0,"of2,rf2"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,myers-cc,P3384051,Myers,,,Clay Center,19090706,19090708,2,0,"of2,rf2"
-boxscores/1909/1909-SDU,1909,Central Kansas League,myers-man,P3646603,Myers,,,Manhattan,19090814,19090827,3,1,"p1,of2,rf2"
-boxscores/1909/1909-SDU,1909,Central Kansas League,myers-cc,P8057241,Myers,,,Clay Center,19090614,19090719,9,0,"of9,cf6,rf4"
-boxscores/1909/1909-TDR,1909,Central Kansas League,myers-cc,P4476375,Myers,,,Clay Center,19090616,19090724,13,2,"p2,of9,cf4,rf5"
-boxscores/1909/1909-TMC,1909,Central Kansas League,myers-man,P1468131,Myers,,,Manhattan,19090813,19090825,8,0,"2b1,of7,cf1,rf7"
-boxscores/1909/1909-TMC,1909,Central Kansas League,myers-cc,P5701233,Myers,,,Clay Center,19090703,19090703,2,0,"of2,rf2"
 minoraverages/1910Spalding,1909,Central Kansas League,myers-cc,B01086,Myers,,0,Clay Center,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,myers-man,B01384,Myers,,0,Manhattan,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,myers-cc,F21084,Myers,,0,Clay Center,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,myers-man,F21381,Myers,,0,Manhattan,,,,,
-boxscores/1909/1909-BDC,1909,Central Kansas League,neal,P4517435,Neal,,,Beloit,19090710,19090710,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,neal,P6459166,Neal,,,Beloit,19090708,19090708,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,neckie,P1132012,Neckie,,,Ellsworth,19090629,19090629,1,0,ss1
-boxscores/1909/1909-ADC,1909,Central Kansas League,oneil,P1956496,O'Neal,,,Beloit,19090715,19090715,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,oneil,P7093912,O'Neal,,,Junction City,19090831,19090831,1,1,p1
-boxscores/1909/1909-BDC,1909,Central Kansas League,oneil,P0489241,O'Neil,,,Beloit,19090703,19090814,13,9,p9
-boxscores/1909/1909-BDC,1909,Central Kansas League,oneil,P1965917,O'Neil,,,Junction City,19090827,19090828,2,1,"p1,of1,cf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,oneil,P0137530,O'Neil,,,Junction City,19090824,19090824,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,oneil,P6149910,O'Neil,,,Beloit,19090712,19090712,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,oneil,P0566560,O'Neil,,,Junction City,19090819,19090821,2,2,p2
-boxscores/1909/1909-SDU,1909,Central Kansas League,oneil,P5034300,O'Neil,,,Beloit,19090623,19090813,9,6,"p6,of1,rf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,oneil,P0325754,O'Neil,,,Beloit,19090628,19090628,1,1,p1
 minoraverages/1910Spalding,1909,Central Kansas League,oneil,B00985,O'Neil,,0,Beloit,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,oneil,F20981,O'Neil,,0,Beloit,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,oneil,P10168,O'Neil,,0,Beloit,,,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,oneil,P0305030,O'Neill,,,Junction City,19090826,19090826,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,oneil,P4077410,O'Neill,,,Beloit,19090720,19090720,1,0,"of1,rf1"
 minoraverages/1910Spalding,1909,Central Kansas League,oneil,B00879,O'Niel,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,oneil,F20878,O'Niel,,0,Junction City,,,,,
-boxscores/1909/1909-EM,1909,Central Kansas League,ormsby,P8538539,Ormsby,,,Clay Center,19090712,19090712,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,ormsby,P6142687,Ormsby,,,Clay Center,19090708,19090708,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,ormsby,P7385114,Ormsby,,,Minneapolis,19090625,19090625,1,1,p1
-boxscores/1909/1909-TDR,1909,Central Kansas League,ormsby,P2189379,Ormsby,,,Clay Center,19090715,19090715,1,1,p1
-boxscores/1909/1909-TDR,1909,Central Kansas League,ormsby,P9216536,Ormsby,,,Minneapolis,19090622,19090622,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,osborne,P6180689,Osborn,,,Minneapolis,19090623,19090624,2,0,2b2
-boxscores/1909/1909-TDR,1909,Central Kansas League,osborne,P8012111,Osborn,,,Minneapolis,19090621,19090622,2,0,2b2
-boxscores/1909/1909-ADC,1909,Central Kansas League,osborne,P5887218,Osborne,,,Minneapolis,19090616,19090721,4,2,"p2,2b2"
-boxscores/1909/1909-ADR,1909,Central Kansas League,osborne,P7688833,Osborne,,,Minneapolis,19090826,19090827,2,1,"p1,2b1"
-boxscores/1909/1909-BDC,1909,Central Kansas League,osborne-man,P0801424,Osborne,,,Manhattan,19090724,19090724,1,1,p1
-boxscores/1909/1909-BDC,1909,Central Kansas League,osborne,P6684467,Osborne,,,Minneapolis,19090703,19090724,3,3,"p3,of1,rf1"
-boxscores/1909/1909-MBW,1909,Central Kansas League,osborne,P6595920,Osborne,,,Minneapolis,19090807,19090807,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,osborne,P2399638,Osborne,,,Minneapolis,19090614,19090830,16,12,"p12,2b2,3b1,of2,lf1,rf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,osborne,P2836564,Osborne,,,Minneapolis,19090802,19090804,3,1,"p1,2b1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,osborne,P6706926,Osborne,,,Minneapolis,19090618,19090823,5,3,"p3,2b1,of1,rf1"
 minoraverages/1910Spalding,1909,Central Kansas League,osborne,B00623,Osborne,,0,Minneapolis,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,osborne,F20620,Osborne,,0,Minneapolis,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,osborne,P10145,Osborne,,0,Minneapolis,,,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,oswalt,P1926783,Oswald,,,Manhattan,19090723,19090723,1,1,p1
-boxscores/1909/1909-TDR,1909,Central Kansas League,oswalt,P9232611,Oswald,,,Manhattan,19090805,19090805,1,1,p1
-boxscores/1909/1909-BDC,1909,Central Kansas League,oswalt,P4094002,Oswalt,,,Manhattan,19090802,19090802,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,oswalt,P1555855,Oswalt,,,Manhattan,19090726,19090726,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,oswalt,P9879285,Oswalt,,,Manhattan,19090729,19090827,4,4,p4
-boxscores/1909/1909-TMC,1909,Central Kansas League,oswalt,P7989709,Oswalt,,,Manhattan,19090719,19090824,4,4,p4
 minoraverages/1910Spalding,1909,Central Kansas League,oswalt,B01368,Oswalt,,0,Manhattan,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,oswalt,F21362,Oswalt,,0,Manhattan,,,,,
-boxscores/1909/1909-TDR,1909,Central Kansas League,pallison,P0831842,Pallison,,,Junction City,19090812,19090812,1,0,
-boxscores/1909/1909-ADC,1909,Central Kansas League,palmer,P9106080,Palmer,,,Ellsworth,19090729,19090729,1,0,3b1
-boxscores/1909/1909-ADR,1909,Central Kansas League,parker,P0419499,Parker,,,Manhattan,19090816,19090818,3,0,c3
-boxscores/1909/1909-SDU,1909,Central Kansas League,parker,P1607264,Parker,,,Manhattan,19090814,19090814,1,0,c1
-boxscores/1909/1909-TMC,1909,Central Kansas League,parker,P9717688,Parker,,,Manhattan,19090809,19090820,8,0,c8
-boxscores/1909/1909-ADC,1909,Central Kansas League,parks,P1452774,Parks,,,Clay Center,19090623,19090727,4,0,"of4,lf4"
-boxscores/1909/1909-ADR,1909,Central Kansas League,parks,P6624309,Parks,,,Clay Center,19090728,19090728,2,0,"of2,lf2"
-boxscores/1909/1909-BDC,1909,Central Kansas League,parks,P4906215,Parks,,,Clay Center,19090729,19090731,3,0,"of3,lf3"
-boxscores/1909/1909-EM,1909,Central Kansas League,parks,P3644208,Parks,,,Clay Center,19090710,19090712,2,0,"of2,lf2"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,parks,P1147364,Parks,,,Clay Center,19090706,19090818,4,0,"of4,lf3,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,parks,P5820554,Parks,,,Clay Center,19090618,19090901,10,0,"of10,lf10"
-boxscores/1909/1909-TDR,1909,Central Kansas League,parks,P2239688,Parks,,,Clay Center,19090619,19090812,20,0,"of9,lf9"
-boxscores/1909/1909-TMC,1909,Central Kansas League,parks,P3464546,Parks,,,Clay Center,19090703,19090811,5,0,"of5,lf5"
 minoraverages/1910Spalding,1909,Central Kansas League,parks,B01156,Parks,,0,Clay Center,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,parks,F21158,Parks,,0,Clay Center,,,,,
-boxscores/1909/1909-ADR,1909,Central Kansas League,parm,P7581438,Parm,,,Ellsworth,19090730,19090820,2,2,p2
-boxscores/1909/1909-BDC,1909,Central Kansas League,parm,P2811376,Parm,,,Ellsworth,19090707,19090707,1,1,p1
-boxscores/1909/1909-EM,1909,Central Kansas League,parm,P0482265,Parm,,,Ellsworth,19090712,19090712,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,parm,P9613453,Parm,,,Ellsworth,19090824,19090824,1,0,
-boxscores/1909/1909-MBW,1909,Central Kansas League,parm,P5938797,Parm,,,Ellsworth,19090806,19090806,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,parm,P2798323,Parm,,,Ellsworth,19090705,19090831,11,9,"p9,of2,rf2"
-boxscores/1909/1909-TMC,1909,Central Kansas League,parm,P3035339,Parm,,,Ellsworth,19090719,19090719,1,1,p1
 minoraverages/1910Spalding,1909,Central Kansas League,parm,B00163,Parm,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,parm,F20166,Parm,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,parm,P10081,Parm,,0,Ellsworth,,,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,patterson,P3696732,Patterson,,,Junction City,19090712,19090727,3,0,"of2,lf1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,patterson,P1747842,Patterson,,,Junction City,19090713,19090731,5,0,"1b1,2b1,of2,lf1,rf1"
 minoraverages/1910Spalding,1909,Central Kansas League,patterson,B00783,Patterson,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,patterson,F20784,Patterson,,0,Junction City,,,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,patterson,P4548494,Pattison,,,Junction City,19090629,19090629,1,0,2b1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,patterson,P7975838,Pattyson,,,Junction City,19090705,19090824,3,0,"1b1,of2,rf2"
-boxscores/1909/1909-SDU,1909,Central Kansas League,patterson,P5189508,Pattyson,,,Junction City,19090802,19090802,1,0,1b1
-boxscores/1909/1909-SDU,1909,Central Kansas League,peal,P3912800,Peal,,,Beloit,19090723,19090723,1,1,p1
-boxscores/1909/1909-TDR,1909,Central Kansas League,poindexter,P9805136,Pendexter,,,Ellsworth,19090715,19090715,1,0,"of1,lf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,pitman,P0738955,Pitman,,,Junction City,19090618,19090619,2,2,p2
-boxscores/1909/1909-SDU,1909,Central Kansas League,plank,P4721716,Plank,,,Minneapolis,19090816,19090818,3,0,"of3,lf3"
-boxscores/1909/1909-TMC,1909,Central Kansas League,plank,P2365708,Plank,,,Minneapolis,19090823,19090825,4,0,"of4,lf4"
-boxscores/1909/1909-SDU,1909,Central Kansas League,poem,P3045812,Poem,,,Ellsworth,19090703,19090703,1,0,"of1,lf1"
-boxscores/1909/1909-ADC,1909,Central Kansas League,poindexter,P2364769,Poindexter,,,Ellsworth,19090729,19090729,1,0,"of1,lf1"
-boxscores/1909/1909-ADR,1909,Central Kansas League,poindexter,P1818064,Poindexter,,,Ellsworth,19090730,19090821,4,0,"of4,lf4"
-boxscores/1909/1909-BDC,1909,Central Kansas League,poindexter,P8673986,Poindexter,,,Ellsworth,19090812,19090816,3,0,"of3,lf2,rf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,poindexter,P6845599,Poindexter,,,Ellsworth,19090824,19090824,1,0,"of1,lf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,poindexter,P7274629,Poindexter,,,Ellsworth,19090722,19090811,14,0,"of14,lf14"
-boxscores/1909/1909-TDR,1909,Central Kansas League,poindexter,P1693187,Poindexter,,,Ellsworth,19090716,19090716,1,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,poindexter,P9415133,Poindexter,,,Ellsworth,19090719,19090721,3,0,"of3,lf2,rf1"
 minoraverages/1910Spalding,1909,Central Kansas League,poindexter,B00182,Poindexter,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,poindexter,F20189,Poindexter,,0,Ellsworth,,,,,
-boxscores/1909/1909-BDC,1909,Central Kansas League,price,P8415019,Price,,,Manhattan,19090621,19090622,2,0,2b2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,price,P2883560,Price,,,Manhattan,19090623,19090625,2,0,2b2
-boxscores/1909/1909-MM,1909,Central Kansas League,price,P7274300,Price,,,Manhattan,19090619,19090619,1,0,
-boxscores/1909/1909-SDU,1909,Central Kansas League,price,P7984270,Price,,,Manhattan,19090614,19090716,9,0,"2b8,ss1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,price,P5805798,Price,,,Manhattan,19090614,19090717,17,0,"2b16,ss1"
 minoraverages/1910Spalding,1909,Central Kansas League,price,B01288,Price,,0,Manhattan,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,price,F21286,Price,,0,Manhattan,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,pulliam,P7559339,Pulliam,,,Salina,19090803,19090901,27,1,"p1,of27,cf3,rf24"
 minoraverages/1910Spalding,1909,Central Kansas League,pulliam,B00362,Pulliam,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,pulliam,F20369,Pulliam,,0,Salina,,,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,putman,P5136689,Putman,,,Junction City,19090623,19090623,1,1,p1
-boxscores/1909/1909-ADC,1909,Central Kansas League,quigley,P7961011,Quigley,,,Salina,19090629,19090629,1,0,1b1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,quigley,P4228081,Quigley,,,Salina,19090630,19090701,2,0,1b2
-boxscores/1909/1909-SDU,1909,Central Kansas League,quigley,P7412951,Quigley,,,Salina,19090614,19090901,55,1,"p1,1b49,2b6,of1,rf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,quigley,P7649967,Quigley,,,Salina,19090614,19090717,6,0,"1b4,2b2"
 minoraverages/1910Spalding,1909,Central Kansas League,quigley,B00210,Quigley,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,quigley,F20211,Quigley,,0,Salina,,,,,
-boxscores/1909/1909-BDC,1909,Central Kansas League,quinn,P7201987,Quinn,,,Manhattan,19090804,19090804,1,0,3b1
-boxscores/1909/1909-TDR,1909,Central Kansas League,quinn,P9164644,Quinn,,,Manhattan,19090805,19090807,3,0,
-boxscores/1909/1909-SDU,1909,Central Kansas League,reed,P2420506,Read,,,Beloit,19090716,19090716,1,0,"of1,rf1"
-boxscores/1909/1909-BDC,1909,Central Kansas League,reed,P8086587,Reed,,,Beloit,19090713,19090713,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,reed,P0028318,Reed,,,Beloit,19090716,19090716,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,richardson,P7851094,Richardson,,,Clay Center,19090614,19090616,2,0,"ss1,of1,cf1"
-boxscores/1909/1909-ADR,1909,Central Kansas League,richter,P7827386,Richter,,,Beloit,19090830,19090830,1,0,3b1
-boxscores/1909/1909-BDC,1909,Central Kansas League,richter,P3057324,Richter,,,Beloit,19090827,19090831,3,0,3b3
-boxscores/1909/1909-TMC,1909,Central Kansas League,richter,P3281287,Richter,,,Beloit,19090819,19090821,4,0,3b4
 minoraverages/1910Spalding,1909,Central Kansas League,richter,B01055,Richter,,0,Beloit,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,richter,F21059,Richter,,0,Beloit,,,,,
-boxscores/1909/1909-ADR,1909,Central Kansas League,riggart,P6053934,Rickert,,,Abilene,19090826,19090830,3,0,"of3,lf3"
-boxscores/1909/1909-SDU,1909,Central Kansas League,riggart,P8211139,Rickert,,,Abilene,19090824,19090825,2,0,"of2,lf2"
 minoraverages/1910Spalding,1909,Central Kansas League,riggart,B00544,Riggart,,0,Abilene,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,riggart,F20547,Riggart,,0,Abilene,,,,,
-boxscores/1909/1909-BDC,1909,Central Kansas League,riggart,P0716896,Riggert,,,Abilene,19090831,19090831,1,0,"of1,lf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,roberts,P6364812,Roberts,,,#umpire,19090720,19090720,,,
-boxscores/1909/1909-ADR,1909,Central Kansas League,root,P2439262,Root,,,Abilene,19090805,19090827,6,5,"p5,of1,lf1"
-boxscores/1909/1909-BDC,1909,Central Kansas League,root,P4657104,Root,,,Abilene,19090831,19090831,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,root,P2404397,Root,,,Abilene,19090809,19090810,2,1,"p1,of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,root,P8734227,Root,,,Abilene,19090803,19090804,3,0,"of3,rf3"
 minoraverages/1910Spalding,1909,Central Kansas League,root,B00515,Root,,0,Abilene,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,root,F20518,Root,,0,Abilene,,,,,
-boxscores/1909/1909-TMC,1909,Central Kansas League,root,P7463454,Roots,,,Abilene,19090812,19090813,3,1,"p1,of1,rf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,sanzer,P5244156,Sanzer,,,Abilene,19090705,19090705,1,0,"of1,lf1"
-boxscores/1909/1909-ADR,1909,Central Kansas League,scanlan@ump,P5152156,Scanlan,,,#umpire,19090818,19090818,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,scanlon,P5390743,Scanlan,,,Salina,19090705,19090705,1,0,1b1
-boxscores/1909/1909-TMC,1909,Central Kansas League,scanlan@ump,P0606057,Scanlan,,,#umpire,19090823,19090823,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,scanlon,P7018085,Scanlon,,,Salina,19090705,19090705,1,0,1b1
-boxscores/1909/1909-ADR,1909,Central Kansas League,schmidt-abi,P2555686,Schmidt,,,Abilene,19090818,19090827,3,3,p3
-boxscores/1909/1909-BDC,1909,Central Kansas League,schmidt-bel,P1142055,Schmidt,,,Beloit,19090729,19090729,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,schmidt-abi,P9612181,Schmidt,,,Abilene,19090809,19090809,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,schmidt-bel,P1129002,Schmidt,,,Beloit,19090728,19090728,1,0,"of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,schmidt-abi,P4712891,Schmidt,,,Abilene,19090731,19090825,6,5,p5
-boxscores/1909/1909-TMC,1909,Central Kansas League,schmidt-abi,P2534419,Schmidt,,,Abilene,19090813,19090813,1,1,p1
 minoraverages/1910Spalding,1909,Central Kansas League,schmidt-abi,B00502,Schmidt,,0,Abilene,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,schmidt-bel,B01032,Schmidt,,0,Beloit,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,schmidt-abi,F20505,Schmidt,,0,Abilene,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,schmidt-bel,F21037,Schmidt,,0,Beloit,,,,,
-boxscores/1909/1909-ADR,1909,Central Kansas League,scholl,P1632043,Scholl,,,Manhattan,19090818,19090818,1,0,3b1
-boxscores/1909/1909-TDR,1909,Central Kansas League,siegle,P1976442,Seigel,,,Ellsworth,19090615,19090615,1,0,
-boxscores/1909/1909-ADR,1909,Central Kansas League,siegle,P6613287,Seigle,,,Ellsworth,19090819,19090821,2,0,c2
-boxscores/1909/1909-BDC,1909,Central Kansas League,siegle,P2015769,Seigle,,,Ellsworth,19090812,19090816,3,0,c3
-boxscores/1909/1909-JCDU,1909,Central Kansas League,siegle,P9477622,Seigle,,,Ellsworth,19090825,19090825,1,0,c1
-boxscores/1909/1909-MBW,1909,Central Kansas League,siegle,P7777238,Seigle,,,Ellsworth,19090807,19090807,1,0,c1
-boxscores/1909/1909-SDU,1909,Central Kansas League,siegle,P7801052,Seigle,,,Ellsworth,19090614,19090817,14,0,c12
-boxscores/1909/1909-TDR,1909,Central Kansas League,siegle,P6783450,Seigle,,,Ellsworth,19090715,19090716,2,0,c1
-boxscores/1909/1909-TMC,1909,Central Kansas League,siegle,P5911476,Seigle,,,Ellsworth,19090720,19090901,2,0,c2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,seigle,P0039016,Seigler,,,Ellsworth,19090824,19090824,1,0,c1
-boxscores/1909/1909-TMC,1909,Central Kansas League,seigler@ump,P7486228,Seigler,,,#umpire,19090617,19090821,,,
 minoraverages/1910Spalding,1909,Central Kansas League,shackelford,B00381,Shackelford,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,shackelford,F20388,Shackelford,,0,Salina,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,shackelford,P3164061,Shackleford,,,Salina,19090824,19090830,3,3,p3
-boxscores/1909/1909-JCDU,1909,Central Kansas League,sheridan@ump,P4942329,Sheridan,,,#umpire,19090824,19090825,,,
-boxscores/1909/1909-ADR,1909,Central Kansas League,short,P5895097,Short,,,Minneapolis,19090826,19090827,2,0,2b2
-boxscores/1909/1909-BDC,1909,Central Kansas League,short,P4177003,Short,,,Minneapolis,19090809,19090811,3,0,2b3
-boxscores/1909/1909-SDU,1909,Central Kansas League,short,P5091342,Short,,,Minneapolis,19090812,19090818,6,0,2b6
-boxscores/1909/1909-TDR,1909,Central Kansas League,short,P1510476,Short,,,Minneapolis,19090802,19090804,4,0,3b1
-boxscores/1909/1909-TMC,1909,Central Kansas League,short,P2735334,Short,,,Minneapolis,19090823,19090825,4,0,2b4
 minoraverages/1910Spalding,1909,Central Kansas League,short,B00695,Short,,0,Minneapolis,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,short,F20699,Short,,0,Minneapolis,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,shull,P6472255,Shull,,,Manhattan,19090707,19090707,1,0,ss1
-boxscores/1909/1909-ADR,1909,Central Kansas League,shull,P6229070,Shull,,,Manhattan,19090706,19090817,3,0,"3b1,ss1"
-boxscores/1909/1909-BDC,1909,Central Kansas League,shull,P8817024,Shull,,,Manhattan,19090621,19090804,5,0,"ss2,of3,lf3"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,shull,P3285565,Shull,,,Manhattan,19090623,19090728,8,0,"ss2,of6,lf4,rf2"
-boxscores/1909/1909-MM,1909,Central Kansas League,shull,P7676305,Shull,,,Manhattan,19090619,19090619,1,0,
-boxscores/1909/1909-SDU,1909,Central Kansas League,shull,P8386275,Shull,,,Manhattan,19090624,19090827,9,0,"2b1,3b2,ss1,of5,lf5"
-boxscores/1909/1909-TDR,1909,Central Kansas League,shull,P0779681,Shull,,,Manhattan,19090805,19090807,3,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,shull,P6207803,Shull,,,Manhattan,19090618,19090825,28,0,"3b15,ss4,of7,lf6,rf1"
 minoraverages/1910Spalding,1909,Central Kansas League,shull,B01313,Shull,,0,Manhattan,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,shull,F21319,Shull,,0,Manhattan,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,siegle,P4322104,Siegle,,,Ellsworth,19090630,19090729,2,0,c2
-boxscores/1909/1909-SDU,1909,Central Kansas League,siegle,P7484764,Siegle,,,Ellsworth,19090826,19090830,2,0,c2
-boxscores/1909/1909-TMC,1909,Central Kansas League,siegle,P5595188,Siegle,,,Ellsworth,19090617,19090617,1,0,c1
 minoraverages/1910Spalding,1909,Central Kansas League,siegle,B00084,Siegle,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,siegle,F20080,Siegle,,0,Ellsworth,,,,,
-boxscores/1909/1909-TMC,1909,Central Kansas League,seigler@ump,P9561236,Siegler,,,#umpire,19090628,19090628,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,seigler@ump,P0903845,Sigle,,,#umpire,19090824,19090824,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,siegle,P1258327,Sigle,,,Ellsworth,19090703,19090717,2,0,c1
-boxscores/1909/1909-ADC,1909,Central Kansas League,seigler@ump,P7847507,Sigler,,,#umpire,19090715,19090729,,,
-boxscores/1909/1909-BDC,1909,Central Kansas League,seigler@ump,P1164628,Sigler,,,#umpire,19090703,19090714,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,seigler@ump,P6825297,Sigler,,,#umpire,19090712,19090811,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,seigler@ump,P5709687,Sigler,,,#umpire,19090618,19090807,,,
-boxscores/1909/1909-TMC,1909,Central Kansas League,seigler@ump,P5413839,Sigler,,,#umpire,19090809,19090810,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,slater,P4175298,Slater,,,Manhattan,19090707,19090707,1,0,"of1,rf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,slater,P9014528,Slater,,,Manhattan,19090722,19090722,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,slater,P7337958,Slater,,,Manhattan,19090710,19090716,3,3,p3
-boxscores/1909/1909-TMC,1909,Central Kansas League,slater,P5448382,Slater,,,Manhattan,19090708,19090716,2,1,"p1,of1,lf1"
-boxscores/1909/1909-ADR,1909,Central Kansas League,slatter,P6982713,Slatter,,,Abilene,19090706,19090706,1,1,p1
-boxscores/1909/1909-BDC,1909,Central Kansas League,smith-bel,P7803328,Smith,,,Beloit,19090705,19090710,3,2,"p2,of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,smith-bel,P1880451,Smith,,,Beloit,19090708,19090708,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,smith-sal,P2432060,Smith,,,Salina,19090619,19090619,1,1,p1
-boxscores/1909/1909-ADC,1909,Central Kansas League,summers,P8599557,Sommers,,,Ellsworth,19090619,19090701,2,0,c2
-boxscores/1909/1909-ADR,1909,Central Kansas League,summers,P3771092,Sommers,,,Ellsworth,19090730,19090820,2,0,c2
-boxscores/1909/1909-BDC,1909,Central Kansas League,summers,P2052998,Sommers,,,Ellsworth,19090626,19090707,3,0,c3
-boxscores/1909/1909-EM,1909,Central Kansas League,summers,P0790991,Sommers,,,Ellsworth,19090710,19090712,2,0,c2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,summers,P8294147,Sommers,,,Ellsworth,19090629,19090825,2,1,"p1,c1"
-boxscores/1909/1909-MBW,1909,Central Kansas League,summers,P2181475,Sommers,,,Ellsworth,19090806,19090807,2,0,c2
-boxscores/1909/1909-SDU,1909,Central Kansas League,summers,P2967337,Sommers,,,Ellsworth,19090621,19090831,28,2,"p2,c25,of1,rf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,summers,P0611329,Sommers,,,Ellsworth,19090719,19090721,2,0,c2
-boxscores/1909/1909-TMC,1909,Central Kansas League,summers,P1233858,Somners,,,Ellsworth,19090616,19090616,1,0,c1
-boxscores/1909/1909-TDR,1909,Central Kansas League,sparks,P8224923,Sparks,,,Clay Center,19090622,19090622,1,0,"of1,lf1"
-boxscores/1909/1909-BDC,1909,Central Kansas League,sporn,P8138378,Sporn,,,Manhattan,19090802,19090804,3,0,"2b1,3b2"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,sporn,P2606919,Sporn,,,Manhattan,19090722,19090724,2,0,2b2
-boxscores/1909/1909-TDR,1909,Central Kansas League,sporn,P0101035,Sporn,,,Manhattan,19090805,19090807,3,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,sporn,P5529157,Sporn,,,Manhattan,19090719,19090721,3,0,2b3
 minoraverages/1910Spalding,1909,Central Kansas League,sporn,B01359,Sporn,,0,Manhattan,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,sporn,F21356,Sporn,,0,Manhattan,,,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,sporn,P1312364,Sporne,,,Manhattan,19090723,19090728,4,0,2b4
-boxscores/1909/1909-TMC,1909,Central Kansas League,stribble,P5771504,Srebel,,,Manhattan,19090705,19090705,1,0,2b1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,strong-sal,P1293050,Srong,,,Salina,19090630,19090630,1,0,"of1,cf1"
-boxscores/1909/1909-ADC,1909,Central Kansas League,stack,P3276877,Stack,,,Manhattan,19090707,19090707,1,1,p1
-boxscores/1909/1909-MM,1909,Central Kansas League,stack,P4480927,Stack,,,Manhattan,19090619,19090619,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,stack,P5190897,Stack,,,Manhattan,19090624,19090716,4,3,"p3,of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,stack,P9793407,Stack,,,Clay Center,19090721,19090721,1,1,p1
-boxscores/1909/1909-TMC,1909,Central Kansas League,stack,P3012425,Stack,,,Manhattan,19090619,19090716,5,4,p4
-boxscores/1909/1909-SDU,1909,Central Kansas League,starr,P3134524,Star,,,Junction City,19090817,19090817,1,1,p1
-boxscores/1909/1909-ADR,1909,Central Kansas League,starr,P7755769,Starr,,,Junction City,19090805,19090807,2,2,p2
-boxscores/1909/1909-BDC,1909,Central Kansas League,starr,P6751403,Starr,,,Junction City,19090827,19090827,1,0,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,starr,P3362664,Starr,,,Junction City,19090824,19090826,2,1,"p1,of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,starr,P2466574,Starr,,,Junction City,19090802,19090814,2,2,p2
 minoraverages/1910Spalding,1909,Central Kansas League,starr,B00840,Starr,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,starr,F20841,Starr,,0,Junction City,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,stewart-man,P2470337,Stewart,,,Manhattan,19090707,19090707,1,0,"of1,cf1"
-boxscores/1909/1909-ADC,1909,Central Kansas League,stewart-cc,P7103567,Stewart,,,Clay Center,19090623,19090624,2,0,3b2
-boxscores/1909/1909-ADR,1909,Central Kansas League,stewart-man,P7641872,Stewart,,,Manhattan,19090706,19090818,4,0,"of3,cf3"
-boxscores/1909/1909-BDC,1909,Central Kansas League,stewart-man,P5923778,Stewart,,,Manhattan,19090621,19090804,5,0,"of5,cf5"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,stewart-man,P2164927,Stewart,,,Manhattan,19090623,19090728,8,0,"of8,cf8"
-boxscores/1909/1909-SDU,1909,Central Kansas League,stewart-cc,P3615987,Stewart,,,Clay Center,19090614,19090626,5,0,3b5
-boxscores/1909/1909-SDU,1909,Central Kansas League,stewart-man,P6838117,Stewart,,,Manhattan,19090614,19090827,9,0,"c1,of9,cf9"
-boxscores/1909/1909-TDR,1909,Central Kansas League,stewart-man,P3257251,Stewart,,,Manhattan,19090805,19090807,3,0,
-boxscores/1909/1909-TDR,1909,Central Kansas League,stewart-cc,P4052913,Stewart,,,Clay Center,19090619,19090630,6,0,3b6
-boxscores/1909/1909-TMC,1909,Central Kansas League,stewart-man,P4482109,Stewart,,,Manhattan,19090614,19090825,34,0,"c3,of33,cf33"
 minoraverages/1910Spalding,1909,Central Kansas League,stewart-cc,B01170,Stewart,,0,Clay Center,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,stewart-man,B01242,Stewart,,0,Manhattan,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,stewart-cc,F21174,Stewart,,0,Clay Center,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,stewart-man,F21241,Stewart,,0,Manhattan,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,stewart-cc,P2873841,Stewart [CC],,,Clay Center,19090615,19090615,1,0,3b1
-boxscores/1909/1909-SDU,1909,Central Kansas League,stewart-man,P0438530,Stewart [Ell],,,Ellsworth,19090615,19090615,1,0,"of1,lf1"
-boxscores/1909/1909-BDC,1909,Central Kansas League,stokesberry,P3074915,Stokesberry,,,Clay Center,19090729,19090729,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,stokesberry,P6331296,Stokesberry,,,Clay Center,19090816,19090818,2,1,"p1,2b1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,stokesberry,P4382406,Stokesberry,,,Clay Center,19090614,19090901,10,10,p10
-boxscores/1909/1909-TDR,1909,Central Kansas League,stokesberry,P4101252,Stokesberry,,,Clay Center,19090616,19090807,9,6,p6
-boxscores/1909/1909-TMC,1909,Central Kansas League,stokesberry,P7674654,Stokesberry,,,Clay Center,19090703,19090810,3,3,p3
 minoraverages/1910Spalding,1909,Central Kansas League,stokesberry,B01143,Stokesberry,,0,Clay Center,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,stokesberry,F21149,Stokesberry,,0,Clay Center,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,stokesberry,P10100,Stokesberry,,0,Clay Center,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,stokesberry,P4918340,Stokesbury,,,Clay Center,19090626,19090626,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,stribble,P0179150,Strebbel,,,Manhattan,19090713,19090716,3,0,ss3
-boxscores/1909/1909-TMC,1909,Central Kansas League,stribble,P2430886,Strebbel,,,Manhattan,19090719,19090721,3,0,ss3
-boxscores/1909/1909-JCDU,1909,Central Kansas League,stribble,P0770888,Strebble,,,Manhattan,19090722,19090722,1,0,ss1
-boxscores/1909/1909-SDU,1909,Central Kansas League,stribble,P4986158,Strebble,,,Manhattan,19090715,19090715,1,0,ss1
-boxscores/1909/1909-SDU,1909,Central Kansas League,stribble,P2582220,Strebel,,,Manhattan,19090710,19090712,2,0,ss2
-boxscores/1909/1909-TMC,1909,Central Kansas League,stribble,P0226212,Strebel,,,Manhattan,19090708,19090717,4,0,ss4
-boxscores/1909/1909-JCDU,1909,Central Kansas League,stribble,P2716038,Streble,,,Manhattan,19090723,19090723,1,0,ss1
-boxscores/1909/1909-TMC,1909,Central Kansas League,stribble,P5033220,Streble,,,Manhattan,19090717,19090717,1,0,"of1,rf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,stribble,P5128591,Streible,,,Manhattan,19090724,19090724,1,0,ss1
-boxscores/1909/1909-TMC,1909,Central Kansas League,stribble,P1595597,Streible,,,Manhattan,19090703,19090703,2,0,ss2
-boxscores/1909/1909-ADR,1909,Central Kansas League,stribble,P3683901,Stribble,,,Manhattan,19090706,19090706,1,0,2b1
-boxscores/1909/1909-TMC,1909,Central Kansas League,stribble,P9411722,Stribble,,,Manhattan,19090630,19090630,1,0,ss1
-boxscores/1909/1909-ADC,1909,Central Kansas League,strieb,P8700340,Strieb,,,Abilene,19090623,19090624,2,0,"of2,lf2"
-boxscores/1909/1909-SDU,1909,Central Kansas League,strieb,P8152280,Strieb,,,Abilene,19090626,19090626,1,0,"of1,lf1"
-boxscores/1909/1909-ADC,1909,Central Kansas League,stribble,P4890833,Strieble,,,Manhattan,19090707,19090707,1,0,2b1
-boxscores/1909/1909-ADC,1909,Central Kansas League,strohm,P9914594,Strohm,,,Clay Center,19090623,19090624,2,0,ss2
-boxscores/1909/1909-SDU,1909,Central Kansas League,strohm,P4051334,Strohm,,,Clay Center,19090626,19090626,1,0,ss1
-boxscores/1909/1909-TDR,1909,Central Kansas League,strohm,P5882756,Strohm,,,Clay Center,19090619,19090629,5,0,ss5
 minoraverages/1910Spalding,1909,Central Kansas League,strohm,B01162,Strohm,,0,Clay Center,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,strohm,F21163,Strohm,,0,Clay Center,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,strohm,P3509950,Strom,,,Clay Center,19090618,19090618,1,0,ss1
-boxscores/1909/1909-ADC,1909,Central Kansas League,strong-cc,P2627490,Strong,,,Clay Center,19090623,19090727,4,0,1b4
-boxscores/1909/1909-ADC,1909,Central Kansas League,strong-sal,P7309040,Strong,,,Salina,19090629,19090629,1,0,"of1,cf1"
-boxscores/1909/1909-ADR,1909,Central Kansas League,strong-cc,P3288145,Strong,,,Clay Center,19090728,19090728,2,0,1b2
-boxscores/1909/1909-BDC,1909,Central Kansas League,strong-cc,P6591043,Strong,,,Clay Center,19090729,19090731,3,0,1b3
-boxscores/1909/1909-EM,1909,Central Kansas League,strong-cc,P4944812,Strong,,,Clay Center,19090710,19090712,2,0,1b2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,strong-cc,P2548960,Strong,,,Clay Center,19090706,19090818,4,0,1b4
-boxscores/1909/1909-JCDU,1909,Central Kansas League,strong-sal,P6286830,Strong,,,Salina,19090701,19090701,1,0,c1
-boxscores/1909/1909-SDU,1909,Central Kansas League,strong-sal,P5171220,Strong,,,Salina,19090614,19090827,50,0,"of50,lf1,cf48,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,strong-cc,P6764230,Strong,,,Clay Center,19090614,19090826,8,0,"c3,1b5,of1,lf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,strong-cc,P8595652,Strong,,,Clay Center,19090616,19090812,21,0,"c2,1b10"
-boxscores/1909/1909-TMC,1909,Central Kansas League,strong-sal,P4875372,Strong,,,Salina,19090614,19090717,5,0,"of5,cf5"
-boxscores/1909/1909-TMC,1909,Central Kansas League,strong-cc,P9015966,Strong,,,Clay Center,19090703,19090811,4,0,"c1,1b4,of1,rf1"
 minoraverages/1910Spalding,1909,Central Kansas League,strong-sal,B00229,Strong,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,strong-cc,B01124,Strong,,0,Clay Center,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,strong-sal,F20222,Strong,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,strong-cc,F21125,Strong,,0,Clay Center,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,strong-cc,P9938340,Strong [CC],,,Clay Center,19090713,19090901,7,0,1b7
-boxscores/1909/1909-TDR,1909,Central Kansas League,strong-cc,P9657186,Strong [CC],,,Clay Center,19090720,19090720,1,0,
-boxscores/1909/1909-SDU,1909,Central Kansas League,strong-sal,P7714284,Strong [Sal],,,Salina,19090713,19090901,7,1,"p1,of7,cf7"
-boxscores/1909/1909-TDR,1909,Central Kansas League,strong-sal,P8151210,Strong [Sal],,,Salina,19090720,19090720,1,0,
-boxscores/1909/1909-SDU,1909,Central Kansas League,stewart-man,P8823774,Stuart,,,Manhattan,19090715,19090716,2,0,"of2,cf2"
-boxscores/1909/1909-BDC,1909,Central Kansas League,sullivan,P7976102,Sullivan,,,Manhattan,19090802,19090804,3,0,c3
-boxscores/1909/1909-JCDU,1909,Central Kansas League,sullivan,P3934019,Sullivan,,,Manhattan,19090726,19090728,3,1,"p1,c1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,sullivan,P8149289,Sullivan,,,Manhattan,19090730,19090730,1,0,c1
-boxscores/1909/1909-SDU,1909,Central Kansas League,sullivan,P8509452,Sullivan,,,Minneapolis,19090731,19090731,1,0,c1
-boxscores/1909/1909-TDR,1909,Central Kansas League,sullivan,P9980711,Sullivan,,,Manhattan,19090805,19090807,3,0,
 minoraverages/1910Spalding,1909,Central Kansas League,summers,B00125,Summers,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,summers,F20128,Summers,,0,Ellsworth,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,swift,P9132320,Swift,,,Salina,19090629,19090629,1,0,c1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,swift,P5161950,Swift,,,Salina,19090630,19090701,2,0,c2
-boxscores/1909/1909-SDU,1909,Central Kansas League,swift,P1491780,Swift,,,Salina,19090618,19090901,53,1,"p1,c46,1b6"
-boxscores/1909/1909-TDR,1909,Central Kansas League,swift,P2561218,Swift,,,Salina,19090720,19090720,1,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,swift,P0573724,Swift,,,Salina,19090716,19090717,3,0,c2
 minoraverages/1910Spalding,1909,Central Kansas League,swift,B00286,Swift,,0,Salina,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,swift,F20287,Swift,,0,Salina,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,talbot,P7767465,Talbot,,,Ellsworth,19090621,19090621,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,terry,P3807278,Terry,,,Beloit,19090720,19090721,2,2,p2
-boxscores/1909/1909-ADC,1909,Central Kansas League,thompson,P5366595,Thompson,,,Abilene,19090614,19090719,4,3,p3
-boxscores/1909/1909-ADR,1909,Central Kansas League,thompson,P7341490,Thompson,,,Abilene,19090728,19090728,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,thompson,P0205825,Thompson,,,Abilene,19090705,19090705,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,thompson,P8529255,Thompson,,,Abilene,19090621,19090803,5,5,p5
-boxscores/1909/1909-TDR,1909,Central Kansas League,thompson,P7511653,Thompson,,,Abilene,19090723,19090723,1,1,p1
 minoraverages/1910Spalding,1909,Central Kansas League,thompson,B00434,Thompson,,0,Abilene,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,thompson,F20430,Thompson,,0,Abilene,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,thrailkill,P1531210,Thrailkill,,,Minneapolis,19090617,19090721,4,0,3b4
-boxscores/1909/1909-ADR,1909,Central Kansas League,thrailkill,P6169465,Thrailkill,,,Minneapolis,19090826,19090827,2,0,"of2,cf2"
-boxscores/1909/1909-BDC,1909,Central Kansas League,thrailkill,P2268523,Thrailkill,,,Minneapolis,19090703,19090811,7,0,3b7
-boxscores/1909/1909-JCDU,1909,Central Kansas League,thrailkill,P1155080,Thrailkill,,,Minneapolis,19090717,19090717,1,0,3b1
-boxscores/1909/1909-SDU,1909,Central Kansas League,thrailkill,P8368750,Thrailkill,,,Minneapolis,19090623,19090818,21,0,"3b18,of3,cf3"
-boxscores/1909/1909-TDR,1909,Central Kansas League,thrailkill,P0178412,Thrailkill,,,Minneapolis,19090621,19090804,7,0,3b4
-boxscores/1909/1909-TMC,1909,Central Kansas League,thrailkill,P9377606,Thrailkill,,,Minneapolis,19090618,19090825,8,1,"p1,3b4,of3,cf3"
 minoraverages/1910Spalding,1909,Central Kansas League,thrailkill,B00609,Thrailkill,,0,Minneapolis,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,thrailkill,F20604,Thrailkill,,0,Minneapolis,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,thrailkill,P9011377,Thrallkill,,,Minneapolis,19090614,19090615,2,0,3b2
-boxscores/1909/1909-ADC,1909,Central Kansas League,thrailkill,P7858690,Trailkill,,,Minneapolis,19090616,19090616,1,0,3b1
-boxscores/1909/1909-SDU,1909,Central Kansas League,turner,P6578519,Turner,,,Salina,19090730,19090730,1,0,"of1,cf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,ulrich,P2764931,Ulrich,,,Junction City,19090623,19090623,1,0,"of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,ulrich,P3193961,Ulrich,,,Junction City,19090619,19090731,2,0,c2
-boxscores/1909/1909-TMC,1909,Central Kansas League,umphry@ump,P4397742,Umphry,,,#umpire,19090813,19090813,,,
-boxscores/1909/1909-EM,1909,Central Kansas League,upton,P2837253,Upton,,,Clay Center,19090712,19090712,1,0,
-boxscores/1909/1909-BDC,1909,Central Kansas League,vann,P3122756,Van,,,Junction City,19090719,19090719,1,0,ss1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,vann,P9363905,Van,,,Junction City,19090720,19090722,2,0,ss2
-boxscores/1909/1909-TDR,1909,Central Kansas League,vann,P0456229,Van,,,Junction City,19090812,19090812,1,0,
-boxscores/1909/1909-ADR,1909,Central Kansas League,vann,P6601504,Vann,,,Junction City,19090805,19090807,3,0,ss3
-boxscores/1909/1909-BDC,1909,Central Kansas League,vann,P9904402,Vann,,,Junction City,19090827,19090828,2,0,ss2
-boxscores/1909/1909-JCDU,1909,Central Kansas League,vann,P5862319,Vann,,,Junction City,19090721,19090824,10,0,ss10
-boxscores/1909/1909-SDU,1909,Central Kansas League,vann,P0077589,Vann,,,Junction City,19090729,19090821,7,0,ss7
 minoraverages/1910Spalding,1909,Central Kansas League,vann,B00887,Vann,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,vann,F20886,Vann,,0,Junction City,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,gault,P4552362,Vault,,,Minneapolis,19090625,19090713,2,0,"of2,lf2"
-boxscores/1909/1909-ADR,1909,Central Kansas League,vitters,P2597086,Vitters,,,Junction City,19090805,19090807,3,0,2b3
-boxscores/1909/1909-BDC,1909,Central Kansas League,vitters,P8842512,Vitters,,,Junction City,19090710,19090828,4,0,"c1,1b1,2b2"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,vitters,P8505741,Vitters,,,Junction City,19090705,19090824,18,0,"c1,1b1,2b17"
-boxscores/1909/1909-SDU,1909,Central Kansas League,vitters,P2663731,Vitters,,,Junction City,19090713,19090831,13,1,"p1,2b10,of2,rf2"
-boxscores/1909/1909-TDR,1909,Central Kansas League,vitters,P8476145,Vitters,,,Junction City,19090812,19090812,1,0,
 minoraverages/1910Spalding,1909,Central Kansas League,vitters,B00822,Vitters,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,vitters,F20829,Vitters,,0,Junction City,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,wallace-abi,P5563272,Wallace,,,Abilene,19090803,19090803,1,0,"of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,wallace-sal,P9585168,Wallace,,,Salina,19090723,19090723,1,0,"of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,wallson,P2096699,Wallson,,,Manhattan,19090715,19090715,1,0,"of1,rf1"
-boxscores/1909/1909-ADC,1909,Central Kansas League,ward,P4486233,Ward,,,Abilene,19090624,19090729,12,0,ss11
-boxscores/1909/1909-ADR,1909,Central Kansas League,ward,P0550728,Ward,,,Abilene,19090706,19090830,16,0,"2b4,ss11"
-boxscores/1909/1909-BDC,1909,Central Kansas League,ward,P2768570,Ward,,,Abilene,19090713,19090831,3,0,ss3
-boxscores/1909/1909-JCDU,1909,Central Kansas League,ward,P0515863,Ward,,,Abilene,19090705,19090809,2,0,ss2
-boxscores/1909/1909-SDU,1909,Central Kansas League,ward,P6845693,Ward,,,Abilene,19090626,19090825,12,0,ss12
-boxscores/1909/1909-TDR,1909,Central Kansas League,ward,P7915131,Ward,,,Abilene,19090722,19090724,3,0,ss2
-boxscores/1909/1909-TMC,1909,Central Kansas League,ward,P5927637,Ward,,,Abilene,19090708,19090813,4,0,ss3
 minoraverages/1910Spalding,1909,Central Kansas League,ward,B00488,Ward,,0,Abilene,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,ward,F20482,Ward,,0,Abilene,,,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,whalen,P0947698,Wayland,,,Junction City,19090614,19090614,1,0,"of1,cf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,wheninger,P6509597,Wehninger,,,Minneapolis,19090825,19090825,1,1,p1
-boxscores/1909/1909-BDC,1909,Central Kansas League,wells-jc,P4824230,Wells,,,Junction City,19090827,19090828,2,0,"of2,lf2"
-boxscores/1909/1909-BDC,1909,Central Kansas League,wells-bel,P5307010,Wells,,,Beloit,19090719,19090816,13,0,"of13,cf13"
-boxscores/1909/1909-BDGT,1909,Central Kansas League,wells-bel,P7087706,Wells,,,Beloit,19090717,19090717,2,0,"of2,cf2"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,weills-jc,P1435491,Wells,,,Junction City,19090824,19090824,1,0,"of1,lf1"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,wells-bel,P3054303,Wells,,,Beloit,19090720,19090721,2,0,"of2,lf1,cf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,wells-jc,P0539401,Wells,,,Junction City,19090819,19090821,3,0,"of3,lf3"
-boxscores/1909/1909-SDU,1909,Central Kansas League,wells-bel,P9384133,Wells,,,Beloit,19090723,19090807,9,0,"3b1,of8,cf8"
 minoraverages/1910Spalding,1909,Central Kansas League,wells-jc,B00865,Wells,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,wells-bel,B01010,Wells,,0,Beloit,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,wells-jc,F20864,Wells,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,wells-bel,F21013,Wells,,0,Beloit,,,,,
-boxscores/1909/1909-ADR,1909,Central Kansas League,westcott,P9684893,Wescott,,,Clay Center,19090728,19090728,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,west,P6306367,West,,,Junction City,19090617,19090623,2,0,"of2,cf2"
-boxscores/1909/1909-SDU,1909,Central Kansas League,west,P0521637,West,,,Junction City,19090618,19090624,4,1,"p1,c1,1b1,of1,rf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,westcott,P3431396,Westcott,,,Clay Center,19090724,19090805,3,3,p3
-boxscores/1909/1909-JCDU,1909,Central Kansas League,whalen,P1997915,Whalen,,,Junction City,19090617,19090809,4,0,"c1,3b1,ss1,of2,cf2"
-boxscores/1909/1909-SDU,1909,Central Kansas League,whalen,P2426945,Whalen,,,Junction City,19090618,19090831,19,1,"p1,2b1,3b11,of6,cf6"
 minoraverages/1910Spalding,1909,Central Kansas League,whalen,B00718,Whalen,,0,Junction City,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,whalen,F20713,Whalen,,0,Junction City,,,,,
-boxscores/1909/1909-ADR,1909,Central Kansas League,whalen,P6090892,Whelan,,,Junction City,19090805,19090807,3,0,3b3
-boxscores/1909/1909-BDC,1909,Central Kansas League,whalen,P2946814,Whelan,,,Junction City,19090710,19090828,4,1,"p1,3b4"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,whalen,P1118427,Whelan,,,Junction City,19090616,19090826,24,0,"2b1,3b18,of3,cf3"
-boxscores/1909/1909-SDU,1909,Central Kansas League,whalen,P1547457,Whelan,,,Junction City,19090615,19090729,2,0,"3b1,of1,cf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,whalen,P5966015,Whelan,,,Junction City,19090812,19090812,1,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,whalen,P3687961,Whelan,,,Junction City,19090626,19090626,1,0,"of1,cf1"
-boxscores/1909/1909-ADC,1909,Central Kansas League,white,P1782720,White,,,Ellsworth,19090619,19090729,4,0,"of4,cf4"
-boxscores/1909/1909-ADR,1909,Central Kansas League,white,P1539535,White,,,Ellsworth,19090730,19090820,3,0,"of3,cf3"
-boxscores/1909/1909-BDC,1909,Central Kansas League,white,P4127489,White,,,Ellsworth,19090626,19090816,6,0,"ss1,of5,cf5"
-boxscores/1909/1909-EM,1909,Central Kansas League,white,P7266826,White,,,Ellsworth,19090710,19090712,2,0,"of2,cf2"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,white,P8596030,White,,,Ellsworth,19090629,19090629,1,0,"of1,lf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,white,P3696740,White,,,Ellsworth,19090614,19090811,28,0,"ss1,of28,cf28"
-boxscores/1909/1909-TDR,1909,Central Kansas League,white,P6090146,White,,,Ellsworth,19090615,19090716,3,0,"of1,cf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,white,P1518268,White,,,Ellsworth,19090616,19090721,5,0,"of5,cf5"
-boxscores/1909/1909-TMC,1909,Central Kansas League,white-man,P4129044,White,,,Manhattan,19090705,19090705,1,1,p1
 minoraverages/1910Spalding,1909,Central Kansas League,white,B00013,White,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,white,F20014,White,,0,Ellsworth,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,whitney,P3392083,Whitney,,,Abilene,19090629,19090629,1,0,"of1,cf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,whitney,P5306103,Whitney,,,Abilene,19090628,19090628,1,0,"of1,cf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,wilcox,P1729261,Wilcox,,,Salina,19090616,19090624,2,0,"2b1,of1,rf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,williams-min,P6735851,William,,,Minneapolis,19090622,19090622,1,0,"of1,lf1"
-boxscores/1909/1909-ADC,1909,Central Kansas League,williams,P2844429,Williams,,,Abilene,19090614,19090726,8,5,"p5,of2,cf1,rf1"
-boxscores/1909/1909-ADR,1909,Central Kansas League,williams,P4819324,Williams,,,Abilene,19090806,19090830,6,6,p6
-boxscores/1909/1909-BDC,1909,Central Kansas League,williams,P0221806,Williams,,,Abilene,19090713,19090713,1,1,p1
-boxscores/1909/1909-BDC,1909,Central Kansas League,williams.s-min,P6752765,Williams,,,Minneapolis,19090809,19090811,3,0,"of3,lf3"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,williams,P7683659,Williams,,,Abilene,19090705,19090705,1,1,p1
-boxscores/1909/1909-MM,1909,Central Kansas League,williams.s-min,P3754191,Williams,S.,,Minneapolis,19090619,19090619,1,0,
-boxscores/1909/1909-SDU,1909,Central Kansas League,williams.a-min,P1068047,Williams,A.,,Minneapolis,19090615,19090615,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,williams.s-min,P4134881,Williams,S.,,Minneapolis,19090615,19090615,1,0,"of1,lf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,williams-min,P5353408,Williams,,,Minneapolis,19090614,19090614,1,0,"of1,lf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,williams,P6007089,Williams,,,Abilene,19090618,19090828,9,9,p9
-boxscores/1909/1909-TDR,1909,Central Kansas League,williams,P4989487,Williams,,,Abilene,19090723,19090723,1,1,p1
-boxscores/1909/1909-TDR,1909,Central Kansas League,williams-min,P9771966,Williams,,,Minneapolis,19090621,19090621,1,0,"of1,lf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,williams.a-min,P2076903,Williams,A.,,Minneapolis,19090619,19090619,1,1,p1
-boxscores/1909/1909-TMC,1909,Central Kansas League,williams,P4117513,Williams,,,Abilene,19090708,19090813,3,3,p3
-boxscores/1909/1909-TMC,1909,Central Kansas League,williams.s-min,P5143737,Williams,S.,,Minneapolis,19090619,19090619,1,0,"of1,lf1"
 minoraverages/1910Spalding,1909,Central Kansas League,williams,B00403,Williams,,0,Abilene,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,williams,F20401,Williams,,0,Abilene,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,williams,P10019,Williams,,0,Abilene,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,williams,P2231601,Williams [Abi],,,Abilene,19090616,19090616,1,0,
-boxscores/1909/1909-ADC,1909,Central Kansas League,williams-min,P6974776,Williams [Min],,,Minneapolis,19090616,19090616,1,0,"of1,lf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,williford,P6048355,Williford,,,Salina,19090614,19090707,6,6,p6
-boxscores/1909/1909-TMC,1909,Central Kansas League,williford,P4158779,Williford,,,Salina,19090614,19090614,1,1,p1
-boxscores/1909/1909-ADC,1909,Central Kansas League,wilson-abi,P2475943,Wilson,,,Abilene,19090614,19090729,16,0,1b15
-boxscores/1909/1909-ADR,1909,Central Kansas League,wilson-abi,P6710998,Wilson,,,Abilene,19090728,19090830,12,0,1b12
-boxscores/1909/1909-BDC,1909,Central Kansas League,wilson-abi,P1940936,Wilson,,,Abilene,19090713,19090831,3,0,1b3
-boxscores/1909/1909-BDC,1909,Central Kansas League,wilson-man,P4945076,Wilson,,,Manhattan,19090621,19090804,5,0,1b5
-boxscores/1909/1909-JCDU,1909,Central Kansas League,wilson-man,P2406929,Wilson,,,Manhattan,19090623,19090728,8,1,"p1,1b3,of5,lf1,rf4"
-boxscores/1909/1909-JCDU,1909,Central Kansas League,wilson-abi,P8743013,Wilson,,,Abilene,19090705,19090810,4,0,1b4
-boxscores/1909/1909-SDU,1909,Central Kansas League,wilson-abi,P0478221,Wilson,T.,,Abilene,19090621,19090621,1,0,1b1
-boxscores/1909/1909-SDU,1909,Central Kansas League,wilson-man,P0730359,Wilson,,,Manhattan,19090614,19090827,11,1,"p1,1b7,of3,lf2,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,wilson-abi,P1927883,Wilson,,,Abilene,19090626,19090825,12,0,1b12
-boxscores/1909/1909-SDU,1909,Central Kansas League,wilson-abi,P8850879,Wilson,F.,,Abilene,19090621,19090621,1,0,"of1,rf1"
-boxscores/1909/1909-TDR,1909,Central Kansas League,wilson-abi,P6545865,Wilson,,,Abilene,19090722,19090724,3,0,1b2
-boxscores/1909/1909-TDR,1909,Central Kansas League,wilson-man,P9712757,Wilson,,,Manhattan,19090805,19090807,3,0,
-boxscores/1909/1909-TMC,1909,Central Kansas League,wilson-man,P8840783,Wilson,,,Manhattan,19090614,19090825,30,0,"1b20,3b1,of9,rf9"
 minoraverages/1910Spalding,1909,Central Kansas League,wilson-abi,B00475,Wilson,,0,Abilene,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,wilson-man,B01275,Wilson,,0,Manhattan,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,wilson-abi,F20474,Wilson,,0,Abilene,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,wilson-man,F21278,Wilson,,0,Manhattan,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,wilson-abi,P6206667,Wilson [Abi],,,Abilene,19090707,19090707,1,0,1b1
-boxscores/1909/1909-ADR,1909,Central Kansas League,wilson-abi,P5659962,Wilson [Abi],,,Abilene,19090706,19090818,4,0,1b3
-boxscores/1909/1909-TMC,1909,Central Kansas League,wilson-abi,P3257031,Wilson [Abi],,,Abilene,19090708,19090813,4,0,1b3
-boxscores/1909/1909-ADC,1909,Central Kansas League,wilson-man,P4217575,Wilson [Man],,,Manhattan,19090707,19090707,1,0,1b1
-boxscores/1909/1909-ADR,1909,Central Kansas League,wilson-man,P8855830,Wilson [Man],,,Manhattan,19090706,19090818,4,0,1b3
-boxscores/1909/1909-TMC,1909,Central Kansas League,wilson-man,P2063971,Wilson [Man],,,Manhattan,19090708,19090813,4,0,"1b1,of3,rf3"
-boxscores/1909/1909-ADC,1909,Central Kansas League,witt,P4909997,Witt,,,Clay Center,19090624,19090624,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,witt,P9749227,Witt,,,Clay Center,19090706,19090706,1,0,1b1
-boxscores/1909/1909-SDU,1909,Central Kansas League,witt,P8072657,Witt,,,Clay Center,19090614,19090617,2,2,p2
-boxscores/1909/1909-TDR,1909,Central Kansas League,witt,P7055055,Witt,,,Clay Center,19090621,19090701,3,3,"p3,of1,rf1"
-boxscores/1909/1909-TMC,1909,Central Kansas League,witt,P6183081,Witt,,,Clay Center,19090703,19090703,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,wood,P6897954,Wood,,,Abilene,19090705,19090705,1,0,ss1
-boxscores/1909/1909-MBW,1909,Central Kansas League,woods,P6852246,Wood,,,Ellsworth,19090807,19090807,2,2,p2
-boxscores/1909/1909-ADC,1909,Central Kansas League,woods,P1578763,Woods,,,Ellsworth,19090619,19090701,2,2,p2
-boxscores/1909/1909-ADR,1909,Central Kansas League,woods,P1335578,Woods,,,Ellsworth,19090730,19090819,2,2,p2
-boxscores/1909/1909-BDC,1909,Central Kansas League,woods,P3923532,Woods,,,Ellsworth,19090706,19090816,3,2,"p2,of1,cf1"
-boxscores/1909/1909-EM,1909,Central Kansas League,woods,P7062869,Woods,,,Ellsworth,19090710,19090710,1,1,p1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,woods,P8392073,Woods,,,Ellsworth,19090629,19090824,2,2,p2
-boxscores/1909/1909-SDU,1909,Central Kansas League,woods@ump,P2759933,Woods,,,#umpire,19090831,19090831,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,woods,P3492783,Woods,,,Ellsworth,19090614,19090830,18,18,p18
-boxscores/1909/1909-TDR,1909,Central Kansas League,woods,P5886189,Woods,,,Ellsworth,19090715,19090715,1,1,p1
-boxscores/1909/1909-TMC,1909,Central Kansas League,woods,P1314311,Woods,,,Ellsworth,19090616,19090901,4,4,p4
 minoraverages/1910Spalding,1909,Central Kansas League,woods,B00092,Woods,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,woods,F20095,Woods,,0,Ellsworth,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,woods,P10043,Woods,,0,Ellsworth,,,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,worrell,P0458938,Worrell,,,Salina,19090629,19090629,1,0,"of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,worrell,P9910878,Worrell,,,Salina,19090616,19090628,4,2,"p2,of2,rf2"
-boxscores/1909/1909-TDR,1909,Central Kansas League,worrell,P4528860,Worrell,,,Salina,19090616,19090616,1,1,p1
-boxscores/1909/1909-ADC,1909,Central Kansas League,young-abi,P7373885,Young,,,Abilene,19090614,19090619,3,0,"ss2,of1,cf1"
-boxscores/1909/1909-ADC,1909,Central Kansas League,young,P7432524,Young,,,Minneapolis,19090616,19090721,5,0,1b5
-boxscores/1909/1909-ADR,1909,Central Kansas League,young,P2604059,Young,,,Minneapolis,19090826,19090827,2,0,1b2
-boxscores/1909/1909-BDC,1909,Central Kansas League,young,P0885965,Young,,,Minneapolis,19090703,19090811,7,0,1b7
-boxscores/1909/1909-JCDU,1909,Central Kansas League,young,P7127114,Young,,,Minneapolis,19090717,19090717,1,0,1b1
-boxscores/1909/1909-MM,1909,Central Kansas League,young,P8642974,Young,,,Minneapolis,19090619,19090619,1,0,
-boxscores/1909/1909-SDU,1909,Central Kansas League,young,P1800304,Young,,,Minneapolis,19090614,19090818,24,0,1b24
-boxscores/1909/1909-TDR,1909,Central Kansas League,young,P8219438,Young,,,Minneapolis,19090621,19090804,8,0,1b5
-boxscores/1909/1909-TMC,1909,Central Kansas League,young,P9444296,Young,,,Minneapolis,19090618,19090825,6,0,1b6
 minoraverages/1910Spalding,1909,Central Kansas League,young,B00566,Young,,0,Minneapolis,,,,,
 minoraverages/1910Spalding,1909,Central Kansas League,young,F20560,Young,,0,Minneapolis,,,,,
-boxscores/1909/1909-TDR,1909,Central Kansas League,younkin,P1992820,Younkin,,,Clay Center,19090723,19090723,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,seigler@ump,P1606915,Zeigler,,,#umpire,19090731,19090731,,,
-boxscores/1909/1909-TMC,1909,Central Kansas League,johnson2,P9682890,[Johnson],,,Manhattan,19090629,19090629,1,1,p1
-boxscores/1909/1909-SDU,1909,Central Kansas League,farmer,P0553696,farmer,,,Ellsworth,19090723,19090811,2,0,3b2
-boxscores/1909/1909-TMC,1909,Central Kansas League,hendrix,P0229345,hendrix,,,Salina,19090716,19090716,1,0,"of1,rf1"
-boxscores/1909/1909-SDU,1909,Central Kansas League,osborne,P8604342,osborne,,,Minneapolis,19090626,19090626,1,0,2b1
-boxscores/1909/1909-JCDU,1909,Central Kansas League,,P2733457,~Coe,,,Junction City,19090825,19090825,1,0,
-boxscores/1909/1909-SDU,1909,Central Kansas League,,P8810257,~Delbert,,,#umpire,19090811,19090811,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,,P6596606,~Flemming,,,#umpire,19090811,19090811,,,
-boxscores/1909/1909-BDC,1909,Central Kansas League,,P3902249,~Humpreys,,,#umpire,19090816,19090816,,,
-boxscores/1909/1909-ADR,1909,Central Kansas League,,P9385375,~McKee,,,#umpire,19090819,19090819,,,
-boxscores/1909/1909-ADC,1909,Central Kansas League,,P3867149,,,,#umpire,19090617,19090619,,,
-boxscores/1909/1909-ADR,1909,Central Kansas League,,P6302364,,,,#umpire,19090730,19090827,,,
-boxscores/1909/1909-BDC,1909,Central Kansas League,,P8663758,,,,#umpire,19090626,19090828,,,
-boxscores/1909/1909-BDGT,1909,Central Kansas League,,P2190630,,,,#umpire,19090717,19090717,,,
-boxscores/1909/1909-EM,1909,Central Kansas League,,P8419415,,,,#umpire,19090710,19090712,,,
-boxscores/1909/1909-JCDU,1909,Central Kansas League,,P5122059,,,,#umpire,19090616,19090826,,,
-boxscores/1909/1909-MBW,1909,Central Kansas League,,P8625131,,,,#umpire,19090806,19090806,,,
-boxscores/1909/1909-SDU,1909,Central Kansas League,,P9128369,,,,#umpire,19090614,19090901,,,
-boxscores/1909/1909-TDR,1909,Central Kansas League,,P7437935,,,,#umpire,19090630,19090812,,,
-boxscores/1909/1909-TMC,1909,Central Kansas League,,P7219977,,,,#umpire,19090626,19090901,,,

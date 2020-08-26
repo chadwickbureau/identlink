@@ -1,611 +1,178 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-boxscores/1915/1915-AJ,1915,Rio Grande Association,andrada,P2302455,Andrada,,,Tucson,19150518,19150530,5,4,p4
-boxscores/1915/1915-AJ,1915,Rio Grande Association,andrada,P5075830,Andrada,,,Phoenix,19150623,19150627,2,2,p2
-boxscores/1915/1915-AR,1915,Rio Grande Association,andrada,P0795774,Andrada,,,Phoenix,19150623,19150627,2,2,p2
-boxscores/1915/1915-AR,1915,Rio Grande Association,andrada,P8839423,Andrada,,,Tucson,19150430,19150530,6,6,p6
-boxscores/1915/1915-EPH,1915,Rio Grande Association,andrada,P3841545,Andrada,,,Tucson,19150505,19150531,9,5,"p5,of3,cf1,rf2"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,andrada,P5865800,Andrada,,,Phoenix,19150623,19150627,2,2,p2
 minoraverages/Nemec,1915,Rio Grande Association,andrada,B00013,Andrada,,1,Tucson,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,andrada,B00013,Andrada,,2,Phoenix,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,andrada,B00013,Andrada,,T,,,,12,,"p,of"
 minoraverages/Nemec,1915,Rio Grande Association,andrada,P10019,Andrada,,1,Tucson,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,andrada,P10019,Andrada,,2,Phoenix,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,andrada,P10019,Andrada,,T,,,,,8,
-boxscores/1915/1915-EPH,1915,Rio Grande Association,andrada,P8314509,Andrade,,,Tucson,19150430,19150430,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,andrada,P2957829,Andrado,,,Tucson,19150430,19150430,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,andrada,P6321985,Andrana,,,Tucson,19150505,19150505,1,1,p1
 minoraverages/Nemec,1915,Rio Grande Association,archibald,B00021,Archibald,,0,Tucson,,,1,,of
-boxscores/1915/1915-AR,1915,Rio Grande Association,archibald,P7158748,Archibold,,,Tucson,19150625,19150625,1,0,"of1,rf1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,archibald,P4469606,Archibold,,,Tucson,19150625,19150625,1,0,"of1,rf1"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,armstrong,P9569489,Armstrong,,,El Paso,19150511,19150516,2,2,p2
-boxscores/1915/1915-AR,1915,Rio Grande Association,armstrong,P8588505,Armstrong,,,El Paso,19150511,19150516,2,2,p2
-boxscores/1915/1915-EPH,1915,Rio Grande Association,armstrong,P9846819,Armstrong,,,El Paso,19150511,19150516,2,2,p2
 minoraverages/Nemec,1915,Rio Grande Association,armstrong,B00037,Armstrong,Bill,0,El Paso,,,2,,p
 minoraverages/Nemec,1915,Rio Grande Association,armstrong,P10024,Armstrong,,0,El Paso,,,,2,
-boxscores/1915/1915-AR,1915,Rio Grande Association,barton,P9955226,Barton,,,Tucson,19150427,19150509,11,0,"2b9,ss2"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,barton,P4652260,Barton,,,Tucson,19150427,19150509,11,0,"2b9,ss2"
 minoraverages/Nemec,1915,Rio Grande Association,barton,B00045,Barton,,0,Tucson,,,11,,2b
-boxscores/1915/1915-AJ,1915,Rio Grande Association,bauer,P4755299,Bauer,,,El Paso,19150622,19150705,14,0,"of14,cf14"
-boxscores/1915/1915-AR,1915,Rio Grande Association,bauer,P1013995,Bauer,,,El Paso,19150601,19150620,13,0,"of13,lf1,cf12"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,bauer,P5711029,Bauer,,,El Paso,19150501,19150629,51,0,"1b1,2b2,of50,lf1,cf47,rf2"
 minoraverages/Nemec,1915,Rio Grande Association,bauer,B00059,Bauer,Jake,0,El Paso,,,58,,of
-boxscores/1915/1915-AJ,1915,Rio Grande Association,beer,P5615507,Beer,,,Las Cruces,19150501,19150522,7,6,"p6,of1,rf1"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,beer,P8756274,Beer,,,El Paso,19150525,19150705,11,11,p11
-boxscores/1915/1915-AR,1915,Rio Grande Association,beer,P1335451,Beer,,,Las Cruces,19150508,19150523,7,5,"p5,of2,rf2"
-boxscores/1915/1915-AR,1915,Rio Grande Association,beer,P3491386,Beer,,,El Paso,19150525,19150705,12,11,p11
-boxscores/1915/1915-EPH,1915,Rio Grande Association,beer,P6405477,Beer,,,Las Cruces,19150501,19150523,9,6,"p6,of3,rf3"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,beer,P7270084,Beer,,,El Paso,19150525,19150627,14,10,"p10,of1,rf1"
 minoraverages/Nemec,1915,Rio Grande Association,beer,B00068,Beer,Sam,1,Las Cruces,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,beer,B00068,Beer,Sam,2,El Paso,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,beer,B00068,Beer,Sam,T,,,,26,,p
 minoraverages/Nemec,1915,Rio Grande Association,beer,P10035,Beer,,1,Las Cruces,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,beer,P10035,Beer,,2,El Paso,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,beer,P10035,Beer,,T,,,,,18,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,beer,P6317579,Beery,,,El Paso,19150612,19150612,1,1,p1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,bennalleck,P7029774,Benallack,,,Douglas,19150520,19150520,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,benjamin,P6858531,Benjamin,,,Douglas,19150504,19150507,3,0,1b3
-boxscores/1915/1915-EPH,1915,Rio Grande Association,benjamin,P2927541,Benjamin,,,Douglas,19150504,19150518,3,0,"1b2,3b1"
 minoraverages/Nemec,1915,Rio Grande Association,benjamin,B00076,Benjamin,,0,Douglas,,,3,,3b
-boxscores/1915/1915-EPH,1915,Rio Grande Association,bennalleck,P8375949,Bennalach,,,Douglas,19150505,19150507,2,2,p2
-boxscores/1915/1915-AR,1915,Rio Grande Association,bennalleck,P0323494,Bennalack,,,Douglas,19150519,19150519,1,1,p1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,bennalleck,P1581808,Bennalack,,,Douglas,19150513,19150513,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,bennalleck,P9504394,Bennallack,,,Douglas,19150505,19150520,6,6,p6
-boxscores/1915/1915-AR,1915,Rio Grande Association,bennalleck,P7131922,Bennallack,,,Douglas,19150505,19150516,4,4,p4
-boxscores/1915/1915-EPH,1915,Rio Grande Association,bennalleck,P8656284,Bennallack,,,Douglas,19150516,19150516,1,1,p1
 minoraverages/Nemec,1915,Rio Grande Association,bennalleck,B00084,Bennalleck,,0,Douglas,,,5,,p
 minoraverages/Nemec,1915,Rio Grande Association,bennalleck,P10043,Bennalleck,,0,Douglas,,,,5,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,black,P8202226,Black,,,Las Cruces,19150505,19150523,7,4,"p4,of3,cf2,rf1"
-boxscores/1915/1915-AR,1915,Rio Grande Association,black,P6960378,Black,,,Las Cruces,19150505,19150523,6,4,"p4,of1,lf1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,black,P4271236,Black,,,Las Cruces,19150505,19150523,11,4,"p4,of5,lf1,cf1,rf3"
 minoraverages/Nemec,1915,Rio Grande Association,black,B00092,Black,,0,Las Cruces,,,12,,p
 minoraverages/Nemec,1915,Rio Grande Association,black,P10056,Black,,0,Las Cruces,,,,4,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,bliss-ep,P0972305,Bliss,,,El Paso,19150511,19150705,51,0,c51
-boxscores/1915/1915-AJ,1915,Rio Grande Association,bliss-lc,P2929556,Bliss,T.,,Las Cruces,19150501,19150509,7,0,c7
-boxscores/1915/1915-AJ,1915,Rio Grande Association,bliss-lc,P3121554,Bliss,,,Las Cruces,19150511,19150523,11,0,c11
-boxscores/1915/1915-AJ,1915,Rio Grande Association,bliss-ep,P4080521,Bliss,J.,,El Paso,19150501,19150509,7,0,c7
-boxscores/1915/1915-AR,1915,Rio Grande Association,bliss-lc,P0557084,Bliss,T.,,Las Cruces,19150502,19150509,6,0,c6
-boxscores/1915/1915-AR,1915,Rio Grande Association,bliss-lc,P1879706,Bliss,,,Las Cruces,19150511,19150523,11,0,c11
-boxscores/1915/1915-AR,1915,Rio Grande Association,bliss-ep,P7231001,Bliss,,,El Paso,19150511,19150705,50,0,c50
-boxscores/1915/1915-AR,1915,Rio Grande Association,bliss-ep,P9800465,Bliss,J.,,El Paso,19150502,19150509,6,0,c6
-boxscores/1915/1915-EPH,1915,Rio Grande Association,bliss-ep,P1928035,Bliss,,,El Paso,19150511,19150629,41,0,c41
-boxscores/1915/1915-EPH,1915,Rio Grande Association,bliss-lc,P1937577,Bliss,A. H.,,Las Cruces,19150508,19150511,4,0,c4
-boxscores/1915/1915-EPH,1915,Rio Grande Association,bliss-lc,P2081446,Bliss,T.,,Las Cruces,19150501,19150505,4,0,c4
-boxscores/1915/1915-EPH,1915,Rio Grande Association,bliss-ep,P4870491,Bliss,J.,,El Paso,19150501,19150609,11,0,c10
-boxscores/1915/1915-EPH,1915,Rio Grande Association,bliss-lc,P9190564,Bliss,,,Las Cruces,19150512,19150523,10,0,c10
 minoraverages/Nemec,1915,Rio Grande Association,bliss-lc,B00101,Bliss,A. H.,0,Las Cruces,,,18,,c
 minoraverages/Nemec,1915,Rio Grande Association,bliss-ep,B00117,Bliss,Jack,0,El Paso,,,57,,c
-boxscores/1915/1915-EPH,1915,Rio Grande Association,bauer,P4954117,Bower,,,El Paso,19150521,19150521,1,0,"of1,cf1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,brainerd,P6180494,Brainerd,,,Las Cruces,19150501,19150502,2,0,"of2,rf2"
 minoraverages/Nemec,1915,Rio Grande Association,brainerd,B00125,Brainerd,,0,Las Cruces,,,2,,of
-boxscores/1915/1915-EPH,1915,Rio Grande Association,brashear,P9046790,Brashaer,,,Tucson,19150501,19150502,2,0,1b2
-boxscores/1915/1915-AJ,1915,Rio Grande Association,brashear,P1706804,Brashear,,,Tucson,19150528,19150604,4,1,"p1,1b3"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,brashear@ump,P4143786,Brashear,,,#umpire,19150615,19150626,,,
-boxscores/1915/1915-AR,1915,Rio Grande Association,brashear,P7426748,Brashear,,,Tucson,19150427,19150528,6,1,"p1,1b4"
-boxscores/1915/1915-AR,1915,Rio Grande Association,brashear@ump,P9863730,Brashear,,,#umpire,19150616,19150705,,,
-boxscores/1915/1915-EPH,1915,Rio Grande Association,brashear,P2496774,Brashear,,,Tucson,19150427,19150603,6,1,"p1,1b3"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,brashear@ump,P4933756,Brashear,,,#umpire,19150616,19150629,,,
 minoraverages/Nemec,1915,Rio Grande Association,brashear,B00130,Brashear,Kitty,0,Tucson,,,10,,"p,1b"
 minoraverages/Nemec,1915,Rio Grande Association,brashear,P10062,Brashear,,0,Tucson,,,,1,
 minoraverages/emilbb,1915,Rio Grande Association,brashear,M92544,Brashear,Kitty,,Tucson,,,,,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,brown,P4353363,Brown,,,Phoenix,19150526,19150531,3,0,
-boxscores/1915/1915-AR,1915,Rio Grande Association,brown,P0612059,Brown,,,Phoenix,19150427,19150704,18,0,"2b3,3b2,of7,cf6,rf1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,brown,P5309093,Brown,,,Phoenix,19150427,19150603,16,0,"2b1,3b2,of7,cf5,rf2"
 minoraverages/Nemec,1915,Rio Grande Association,brown,B00149,Brown,,0,Phoenix,,,18,,"2b,of"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,kallio,P9968221,Calio,,,Las Cruces,19150502,19150504,2,2,p2
-boxscores/1915/1915-EPH,1915,Rio Grande Association,callan,P8110875,Calla,,,Tucson,19150529,19150529,1,0,c1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,callan,P9546048,Callahan,,,Tucson,19150525,19150525,1,0,c1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,callan,P6096407,Callan,,,Tucson,19150430,19150705,52,0,c52
-boxscores/1915/1915-AR,1915,Rio Grande Association,callan,P2355103,Callan,,,Tucson,19150430,19150705,56,0,"c54,1b2,of1,rf1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,callan,P7052137,Callan,,,Tucson,19150430,19150629,45,0,c45
 minoraverages/Nemec,1915,Rio Grande Association,callan,B00158,Callan,,0,Tucson,,,58,,c
-boxscores/1915/1915-AJ,1915,Rio Grande Association,callan,P3704219,Callen,,,Tucson,19150509,19150509,1,0,c1
-boxscores/1915/1915-AR,1915,Rio Grande Association,callan,P9962915,Callen,,,Tucson,19150515,19150515,1,0,c1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,callan,P4659949,Callen,,,Tucson,19150515,19150518,2,0,c2
-boxscores/1915/1915-AJ,1915,Rio Grande Association,carmen,P1492046,Carman,,,Albuquerque,19150504,19150615,38,0,"of38,lf32,cf6"
-boxscores/1915/1915-AR,1915,Rio Grande Association,carmen,P9119574,Carman,,,Albuquerque,19150525,19150613,13,0,"of13,lf6,cf6,rf1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,carmen,P0643936,Carman,,,Albuquerque,19150504,19150613,23,0,"of23,lf16,cf6,rf1"
 minoraverages/Nemec,1915,Rio Grande Association,carmen,B00163,Carmen,Fred,0,Albuquerque,,,38,,of
-boxscores/1915/1915-EPH,1915,Rio Grande Association,cassell,P0782477,Cassell,,,El Paso,19150501,19150502,2,0,"of2,lf1,rf1"
 minoraverages/Nemec,1915,Rio Grande Association,cassell,B00174,Cassell,,0,El Paso,,,2,,of
-boxscores/1915/1915-AR,1915,Rio Grande Association,claflin,P1356205,Claflin,,,Tucson,19150528,19150528,1,1,p1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,claflin,P6358327,Claflin,,,Tucson,19150528,19150528,1,1,p1
 minoraverages/Nemec,1915,Rio Grande Association,claflin,B00182,Claflin,,0,Tucson,,,1,,p
 minoraverages/Nemec,1915,Rio Grande Association,claflin,P10070,Claflin,,0,Tucson,,,,1,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,claflin,P6934829,Claftin,,,Tucson,19150528,19150528,1,1,p1
-boxscores/1915/1915-AR,1915,Rio Grande Association,cox,P2581406,Cox,,,Tucson,19150427,19150509,11,0,"of11,lf2,cf2,rf8"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,cox,P4706088,Cox,,,Tucson,19150427,19150509,11,0,"of11,lf2,cf2,rf8"
 minoraverages/Nemec,1915,Rio Grande Association,cox,B00196,Cox,,0,Tucson,,,11,,of
-boxscores/1915/1915-AJ,1915,Rio Grande Association,dale,P0981298,Dale,,,Albuquerque,19150701,19150703,3,0,3b3
 minoraverages/Nemec,1915,Rio Grande Association,dale,B00207,Dale,,0,Albuquerque,,,3,,3b
-boxscores/1915/1915-AJ,1915,Rio Grande Association,davis,P8391187,Davis,,,Albuquerque,19150504,19150705,57,1,"p1,3b48,of10,lf9,rf1"
-boxscores/1915/1915-AR,1915,Rio Grande Association,davis,P7410203,Davis,,,Albuquerque,19150525,19150616,14,1,"p1,3b13"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,davis,P8668517,Davis,,,Albuquerque,19150504,19150629,34,1,"p1,3b28,of6,lf5,rf1"
 minoraverages/Nemec,1915,Rio Grande Association,davis,B00210,Davis,Billy,0,Albuquerque,,,57,,"p,3b,of"
 minoraverages/Nemec,1915,Rio Grande Association,davis,P10081,Davis,,0,Albuquerque,,,,1,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,demaggio,P2083560,DeMaggio,,,Phoenix,19150609,19150613,4,0,"of4,lf4"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,demaggio,P8152570,DeMaggio,,,Phoenix,19150610,19150613,2,0,"of2,lf2"
 minoraverages/Nemec,1915,Rio Grande Association,demaggio,B00229,DeMaggio,Nick,0,Phoenix,,,61,,of
-boxscores/1915/1915-AJ,1915,Rio Grande Association,demaggio,P2004488,Demaggio,,,Phoenix,19150525,19150610,9,0,"of9,lf9"
-boxscores/1915/1915-AR,1915,Rio Grande Association,demaggio,P0762640,Demaggio,,,Phoenix,19150427,19150705,61,0,"of61,lf54,cf7"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,demaggio,P8073498,Demaggio,,,Phoenix,19150427,19150629,49,0,"of49,lf42,cf7"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,douglas,P1876776,Douglas [p],,,Douglas,19150508,19150509,3,3,p3
-boxscores/1915/1915-AJ,1915,Rio Grande Association,dowling,P9860255,Dowling,,,Phoenix,19150525,19150613,13,0,2b13
-boxscores/1915/1915-AR,1915,Rio Grande Association,dowling,P5580199,Dowling,,,Phoenix,19150427,19150705,58,0,"2b58,ss1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,dowling,P0650225,Dowling,,,Phoenix,19150427,19150629,51,0,"2b51,ss1"
 minoraverages/Nemec,1915,Rio Grande Association,dowling,B00232,Dowling,Bill,0,Phoenix,,,58,,2b
-boxscores/1915/1915-AJ,1915,Rio Grande Association,duddy,P3655278,Duddy,,,El Paso,19150622,19150705,14,0,3b14
-boxscores/1915/1915-AR,1915,Rio Grande Association,duddy,P9913974,Duddy,,,El Paso,19150601,19150620,13,0,3b13
-boxscores/1915/1915-EPH,1915,Rio Grande Association,duddy,P4611008,Duddy,,,El Paso,19150501,19150629,52,0,3b52
 minoraverages/Nemec,1915,Rio Grande Association,duddy,B00241,Duddy,George,0,El Paso,,,58,,3b
-boxscores/1915/1915-EPH,1915,Rio Grande Association,earthman,P0862337,Earthman,,,Douglas,19150513,19150523,10,0,"2b2,of9,rf9"
 minoraverages/Nemec,1915,Rio Grande Association,earthman,B00255,Earthman,,0,Douglas,,,8,,of
-boxscores/1915/1915-AJ,1915,Rio Grande Association,fanning,P1200057,Fannin,,,Douglas,19150505,19150521,5,0,"c2,of3,lf2,rf1"
-boxscores/1915/1915-AR,1915,Rio Grande Association,fanning,P7737025,Fannin,,,Douglas,19150521,19150521,1,0,c1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,fanning,P2739147,Fannin,,,Douglas,19150505,19150521,3,0,"c1,of1,rf1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,fanning,P5975314,Fanning,,,Douglas,19150508,19150508,1,0,c1
 minoraverages/Nemec,1915,Rio Grande Association,fanning,B00264,Fanning,,0,Douglas,,,6,,c
-boxscores/1915/1915-AJ,1915,Rio Grande Association,feltz,P3803178,Felts,,,Tucson,19150518,19150620,19,1,"p1,of18,cf18"
-boxscores/1915/1915-AR,1915,Rio Grande Association,feltz,P8538290,Felts,,,Tucson,19150427,19150705,28,1,"p1,of26,cf26"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,feltz,P2316988,Felts,,,Tucson,19150427,19150629,45,1,"p1,of44,cf43,rf1"
 minoraverages/Nemec,1915,Rio Grande Association,feltz,P10097,Felts,,0,Tucson,,,,1,
-boxscores/1915/1915-AR,1915,Rio Grande Association,feltz,P8865977,Feltz,,,Tucson,19150502,19150502,1,0,"of1,rf1"
 minoraverages/Nemec,1915,Rio Grande Association,feltz,B00278,Feltz,,0,Tucson,,,59,,"p,of"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,fleharty,P6459693,Flaherty,,,Albuquerque,19150525,19150525,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,fleharty,P9171995,Fleharty,,,Albuquerque,19150525,19150627,11,10,"p10,2b1,of1,lf1"
-boxscores/1915/1915-AR,1915,Rio Grande Association,fleharty,P5549987,Fleharty,,,Albuquerque,19150525,19150623,10,10,p10
-boxscores/1915/1915-EPH,1915,Rio Grande Association,fleharty,P5580205,Fleharty,,,Albuquerque,19150530,19150627,9,8,"p8,2b1,of1,lf1"
 minoraverages/Nemec,1915,Rio Grande Association,fleharty,B00286,Fleharty,Earl,0,Albuquerque,,,11,,p
 minoraverages/Nemec,1915,Rio Grande Association,fleharty,P10100,Fleharty,,0,Albuquerque,,,,11,
-boxscores/1915/1915-EPH,1915,Rio Grande Association,fleharty,P7316529,Fleherty,,,Albuquerque,19150608,19150608,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,french,P0777298,French,,,Albuquerque,19150504,19150705,53,0,"2b52,of1,rf1"
-boxscores/1915/1915-AR,1915,Rio Grande Association,french,P8404826,French,,,Albuquerque,19150525,19150613,12,0,2b12
-boxscores/1915/1915-EPH,1915,Rio Grande Association,french,P9929188,French,,,Albuquerque,19150504,19150629,32,0,2b32
 minoraverages/Nemec,1915,Rio Grande Association,french,B00293,French,Charles,0,Albuquerque,,,53,,2b
-boxscores/1915/1915-AJ,1915,Rio Grande Association,fuller,P3387542,Fuller,,,Tucson,19150427,19150523,7,0,"c1,of6,rf6"
-boxscores/1915/1915-AR,1915,Rio Grande Association,fuller,P9646238,Fuller,,,Tucson,19150427,19150516,14,0,"c1,1b8,of6,rf6"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,fuller,P4343272,Fuller,,,Tucson,19150427,19150523,20,0,"c1,1b8,of12,rf12"
 minoraverages/Nemec,1915,Rio Grande Association,fuller,B00308,Fuller,,0,Tucson,,,20,,of
-boxscores/1915/1915-AJ,1915,Rio Grande Association,fulweider,P8940467,Fulweider,,,Tucson,19150429,19150702,23,13,"p13,1b5,of6,lf1,rf5"
-boxscores/1915/1915-AR,1915,Rio Grande Association,fulweider,P7698619,Fulweider,,,Tucson,19150427,19150502,3,3,p3
-boxscores/1915/1915-EPH,1915,Rio Grande Association,fulweider,P5009477,Fulweider,,,Tucson,19150427,19150617,18,12,"p12,1b1,of5,lf1,rf4"
 minoraverages/Nemec,1915,Rio Grande Association,fulweider,B00319,Fulweider,,0,Tucson,,,39,,"p,of"
 minoraverages/Nemec,1915,Rio Grande Association,fulweider,P10113,Fulweider,,0,Tucson,,,,20,
-boxscores/1915/1915-AR,1915,Rio Grande Association,fulweider,P5245351,Fulweilder,,,Tucson,19150623,19150623,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,fulweider,P0120918,Fulwelder,,,Tucson,19150427,19150427,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,fulweider,P7299086,Fulwider,,,Tucson,19150506,19150630,6,6,p6
-boxscores/1915/1915-AR,1915,Rio Grande Association,fulweider,P3019030,Fulwider,,,Tucson,19150506,19150705,23,19,"p19,1b2,of3,rf3"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,fulweider,P8089056,Fulwider,,,Tucson,19150608,19150627,9,6,"p6,1b1,of3,rf3"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,galt,P5563729,Gait,,,Tucson,19150516,19150516,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,galt,P9495973,Gale,,,Tucson,19150507,19150507,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,galt,P8769588,Galt,,,Tucson,19150502,19150522,4,3,p3
-boxscores/1915/1915-AR,1915,Rio Grande Association,galt,P4670652,Galt,,,Tucson,19150502,19150522,6,5,p5
-boxscores/1915/1915-EPH,1915,Rio Grande Association,galt,P4785158,Galt,,,Tucson,19150502,19150522,7,5,p5
 minoraverages/Nemec,1915,Rio Grande Association,galt,B00324,Galt,,0,Tucson,,,7,,p
 minoraverages/Nemec,1915,Rio Grande Association,galt,P10121,Galt,,0,Tucson,,,,5,
-boxscores/1915/1915-AR,1915,Rio Grande Association,mcglynn,P1046628,Glynn,,,El Paso,19150531,19150531,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,goldie,P4414537,Goldie,,,Las Cruces,19150511,19150516,6,0,"c2,of5,cf5"
-boxscores/1915/1915-AR,1915,Rio Grande Association,goldie,P3433553,Goldie,,,Las Cruces,19150512,19150523,8,0,"c2,of6,cf6"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,goldie,P4691867,Goldie,,,Las Cruces,19150501,19150523,14,0,"c2,of13,lf2,cf11"
 minoraverages/Nemec,1915,Rio Grande Association,goldie,B00335,Goldie,,0,Las Cruces,,,16,,"c,of"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,gooch,P9733423,Gooch,,,Douglas,19150504,19150509,6,0,3b6
-boxscores/1915/1915-EPH,1915,Rio Grande Association,gooch,P0689153,Gooch,,,Douglas,19150504,19150523,13,0,3b13
 minoraverages/Nemec,1915,Rio Grande Association,gooch,B00343,Gooch,,0,Douglas,,,17,,3b
-boxscores/1915/1915-AJ,1915,Rio Grande Association,graham,P8702767,Graham,,,Douglas,19150521,19150521,1,1,p1
-boxscores/1915/1915-AR,1915,Rio Grande Association,graham,P5239735,Graham,,,Douglas,19150521,19150521,1,1,p1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,graham,P0241857,Graham,,,Douglas,19150521,19150521,1,1,p1
 minoraverages/Nemec,1915,Rio Grande Association,graham,B00356,Graham,,0,Douglas,,,1,,p
 minoraverages/Nemec,1915,Rio Grande Association,graham,P10137,Graham,,0,Douglas,,,,1,
-boxscores/1915/1915-EPH,1915,Rio Grande Association,gray,P0399385,Gray,,,El Paso,19150505,19150512,6,0,1b6
 minoraverages/Nemec,1915,Rio Grande Association,gray,B00362,Gray,Stanley,0,El Paso,,,6,,1b
-boxscores/1915/1915-EPH,1915,Rio Grande Association,greenburg,P0319202,Greenberg,,,Douglas,19150522,19150523,2,0,"of2,lf2"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,greenburg,P9670944,Greenburg,,,Douglas,19150504,19150509,5,0,"ss4,of1,lf1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,greenburg,P9948274,Greenburg,,,Douglas,19150504,19150520,8,0,"ss3,of6,lf6"
 minoraverages/Nemec,1915,Rio Grande Association,greenburg,B00370,Greenburg,,0,Douglas,,,13,,of
-boxscores/1915/1915-EPH,1915,Rio Grande Association,kane@ump,P6567881,H. Kane,,,#umpire,19150430,19150430,,,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,hall,P6260556,Hall,,,Phoenix,19150427,19150705,29,24,"p24,of4,rf4"
-boxscores/1915/1915-AR,1915,Rio Grande Association,hall,P0995668,Hall,,,Phoenix,19150427,19150705,32,25,"p25,1b2,of5,rf5"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,hall,P4774366,Hall,,,Phoenix,19150427,19150625,26,21,"p21,1b2,of4,rf4"
 minoraverages/Nemec,1915,Rio Grande Association,hall,B00381,Hall,Herb,0,Phoenix,,,32,,"p,1b"
 minoraverages/Nemec,1915,Rio Grande Association,hall,P10145,Hall,,0,Phoenix,,,,24,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,herriott,P9584683,Harriet,,,Albuquerque,19150507,19150507,1,0,1b1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,herriott,P2881919,Harriett,,,Albuquerque,19150504,19150512,7,0,1b7
-boxscores/1915/1915-EPH,1915,Rio Grande Association,herriott,P9290129,Harriett,,,Albuquerque,19150512,19150512,1,0,1b1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,kane@ump,P5030713,Harry Kane,,,#umpire,19150608,19150609,,,
-boxscores/1915/1915-AR,1915,Rio Grande Association,hayes,P1345494,Hayes,,,El Paso,19150601,19150617,8,0,"of8,lf8"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,hayes,P6042528,Hayes,,,El Paso,19150501,19150617,40,0,"2b1,of40,lf34,cf4,rf3"
 minoraverages/Nemec,1915,Rio Grande Association,hayes,B00397,Hayes,John,0,El Paso,,,39,,of
-boxscores/1915/1915-AR,1915,Rio Grande Association,bennalleck,P8417176,Hennallack,,,Douglas,19150520,19150520,1,1,p1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,herriott,P7565717,Herriett,,,Albuquerque,19150505,19150505,1,0,1b1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,herriott,P6592077,Herriott,,,Albuquerque,19150513,19150705,49,0,1b49
-boxscores/1915/1915-AR,1915,Rio Grande Association,herriott,P2970069,Herriott,,,Albuquerque,19150525,19150613,13,0,1b13
-boxscores/1915/1915-EPH,1915,Rio Grande Association,herriott,P3000287,Herriott,,,Albuquerque,19150504,19150629,32,0,1b32
 minoraverages/Nemec,1915,Rio Grande Association,herriott,B00403,Herriott,Red,0,Albuquerque,,,57,,1b
-boxscores/1915/1915-AJ,1915,Rio Grande Association,hester,P6778614,Hester,,,Phoenix,19150523,19150702,15,4,"p4,1b13"
-boxscores/1915/1915-AR,1915,Rio Grande Association,hester,P3315582,Hester,,,Phoenix,19150430,19150705,57,4,"p4,1b37,2b4,3b15,of2,lf2"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,hester,P8317704,Hester,,,Phoenix,19150430,19150629,49,3,"p3,1b34,2b1,3b12,of2,lf2,cf1"
 minoraverages/Nemec,1915,Rio Grande Association,hester,B00416,Hester,,0,Phoenix,,,57,,"p,1b"
 minoraverages/Nemec,1915,Rio Grande Association,hester,P10159,Hester,,0,Phoenix,,,,4,
 minoraverages/emilbb,1915,Rio Grande Association,hester,M92515,Hester,Herbert,,Phoenix,,,,,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,horstman,P0027512,Horstman,,,Tucson,19150501,19150705,16,15,p15
-boxscores/1915/1915-AR,1915,Rio Grande Association,horstman,P5747456,Horstman,,,Tucson,19150501,19150705,18,18,p18
-boxscores/1915/1915-EPH,1915,Rio Grande Association,horstman,P0817482,Horstman,,,Tucson,19150501,19150619,17,16,p16
 minoraverages/Nemec,1915,Rio Grande Association,horstman,B00427,Horstman,Oscar,0,Tucson,,,19,,p
 minoraverages/Nemec,1915,Rio Grande Association,horstman,P10373,Horstman,,0,Tucson,,,,17,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,horstman,P9285656,Hortsman,,,Tucson,19150504,19150515,3,3,p3
-boxscores/1915/1915-AJ,1915,Rio Grande Association,huelsman,P1365241,Huelsman,,,Albuquerque,19150508,19150705,53,0,"of53,lf1,rf53"
-boxscores/1915/1915-AR,1915,Rio Grande Association,huelsman,P7743233,Huelsman,,,Albuquerque,19150525,19150613,12,0,"of12,lf1,rf11"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,huelsman,P7773451,Huelsman,,,Albuquerque,19150512,19150629,31,0,"of31,lf1,rf30"
 minoraverages/Nemec,1915,Rio Grande Association,huelsman,B00434,Huelsman,Frank,0,Albuquerque,,,53,,of
-boxscores/1915/1915-AR,1915,Rio Grande Association,huelsman,P0233349,Huelsmen,,,Albuquerque,19150531,19150531,1,0,"of1,rf1"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,humphreys,P9165281,Humphreys,,,Albuquerque,19150504,19150504,1,0,ss1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,humphreys,P0636211,Humphreys,,,Albuquerque,19150504,19150504,1,0,ss1
 minoraverages/Nemec,1915,Rio Grande Association,humphreys,B00442,Humphreys,J.,0,Albuquerque,,,51,,ss
-boxscores/1915/1915-AJ,1915,Rio Grande Association,humphreys,P8888529,Humphries,,,Albuquerque,19150505,19150630,50,0,ss50
-boxscores/1915/1915-AR,1915,Rio Grande Association,humphreys,P9362265,Humphries,,,Albuquerque,19150525,19150613,13,0,ss13
-boxscores/1915/1915-EPH,1915,Rio Grande Association,humphreys,P0359459,Humphries,,,Albuquerque,19150505,19150629,33,0,ss33
-boxscores/1915/1915-AJ,1915,Rio Grande Association,hurley,P7769038,Hurley,,,Las Cruces,19150511,19150516,6,0,1b6
-boxscores/1915/1915-AR,1915,Rio Grande Association,hurley,P6788054,Hurley,,,Las Cruces,19150519,19150523,6,0,1b6
-boxscores/1915/1915-EPH,1915,Rio Grande Association,hurley,P8046368,Hurley,,,Las Cruces,19150501,19150523,15,0,1b15
 minoraverages/Nemec,1915,Rio Grande Association,hurley,B00450,Hurley,Bill,0,Las Cruces,,,19,,1b
 minoraverages/emilbb,1915,Rio Grande Association,hurley,M92577,Hurley,William,,Las Cruces,,,,,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,irion,P6545597,Irion,,,Albuquerque,19150505,19150705,23,20,"p20,of3,lf3"
-boxscores/1915/1915-AR,1915,Rio Grande Association,irion,P5564613,Irion,,,Albuquerque,19150505,19150705,19,19,p19
-boxscores/1915/1915-EPH,1915,Rio Grande Association,irion,P6822927,Irion,,,Albuquerque,19150505,19150629,19,17,"p17,of2,lf2"
 minoraverages/Nemec,1915,Rio Grande Association,irion,B00469,Irion,Bob,0,Albuquerque,,,23,,"p,of"
 minoraverages/Nemec,1915,Rio Grande Association,irion,P10168,Irion,,0,Albuquerque,,,,20,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,kallio,P4890274,Jallios,,,El Paso,19150606,19150606,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,jordan,P0590512,Jarden,,,Albuquerque,19150504,19150504,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,jordan,P6815802,Jardon,,,Albuquerque,19150507,19150509,2,2,p2
-boxscores/1915/1915-AR,1915,Rio Grande Association,jordan,P4443330,Jardon,,,Albuquerque,19150507,19150520,4,4,p4
-boxscores/1915/1915-EPH,1915,Rio Grande Association,jordan,P5967692,Jardon,,,Albuquerque,19150507,19150509,2,2,p2
-boxscores/1915/1915-AJ,1915,Rio Grande Association,jordan,P3645818,Jordan,,,Albuquerque,19150512,19150704,14,14,"p14,2b1"
-boxscores/1915/1915-AR,1915,Rio Grande Association,jordan,P1273346,Jordan,,,Albuquerque,19150516,19150704,12,12,p12
-boxscores/1915/1915-EPH,1915,Rio Grande Association,jordan,P2797708,Jordan,,,Albuquerque,19150512,19150626,12,12,"p12,2b1"
 minoraverages/Nemec,1915,Rio Grande Association,jordan,B00475,Jordan,Walker,0,Albuquerque,,,17,,p
 minoraverages/Nemec,1915,Rio Grande Association,jordan,P10176,Jordan,,0,Albuquerque,,,,17,
-boxscores/1915/1915-EPH,1915,Rio Grande Association,jordan,P5287824,Jorden,,,Albuquerque,19150504,19150504,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,callan,P1733923,Kallen,,,Tucson,19150429,19150429,1,0,c1
-boxscores/1915/1915-AR,1915,Rio Grande Association,callan,P7992619,Kallen,,,Tucson,19150429,19150429,1,0,c1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,callan,P2689653,Kallen,,,Tucson,19150429,19150429,1,0,c1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,kallio,P5465937,Kallio,,,Las Cruces,19150509,19150523,5,5,p5
-boxscores/1915/1915-AJ,1915,Rio Grande Association,kallio,P7711664,Kallio,,,El Paso,19150526,19150705,10,10,p10
-boxscores/1915/1915-AR,1915,Rio Grande Association,kallio,P4248632,Kallio,,,El Paso,19150526,19150705,11,11,p11
-boxscores/1915/1915-AR,1915,Rio Grande Association,kallio,P4484953,Kallio,,,Las Cruces,19150502,19150523,7,7,p7
-boxscores/1915/1915-EPH,1915,Rio Grande Association,kallio,P5743267,Kallio,,,Las Cruces,19150502,19150523,7,7,p7
-boxscores/1915/1915-EPH,1915,Rio Grande Association,kallio,P9250754,Kallio,,,El Paso,19150526,19150629,9,9,p9
 minoraverages/Nemec,1915,Rio Grande Association,kallio,B00488,Kallio,Ray,1,Las Cruces,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,kallio,B00488,Kallio,Ray,2,El Paso,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,kallio,B00488,Kallio,Ray,T,,,,18,,p
 minoraverages/Nemec,1915,Rio Grande Association,kallio,P10184,Kallio,,1,Las Cruces,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,kallio,P10184,Kallio,,2,El Paso,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,kallio,P10184,Kallio,,T,,,,,19,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,kane@ump,P5644129,Kane,,,#umpire,19150427,19150705,,,
-boxscores/1915/1915-AR,1915,Rio Grande Association,kane@ump,P1545193,Kane,,,#umpire,19150427,19150620,,,
-boxscores/1915/1915-EPH,1915,Rio Grande Association,kane@ump,P1659699,Kane,,,#umpire,19150427,19150629,,,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,knight,P0374291,Knight,L.,,El Paso,19150509,19150509,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,knight,P7416281,Knight,,,El Paso,19150502,19150704,22,17,"p17,of2,rf2"
-boxscores/1915/1915-AR,1915,Rio Grande Association,knight,P3953249,Knight,,,El Paso,19150502,19150704,25,20,"p20,1b1,of4,rf4"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,knight,P8955371,Knight,,,El Paso,19150501,19150629,37,18,"p18,1b8,of9,lf1,rf8"
 minoraverages/Nemec,1915,Rio Grande Association,knight,B00491,Knight,Grover (Kitty),0,El Paso,,,19,,"p,1b"
 minoraverages/Nemec,1915,Rio Grande Association,knight,P10192,Knight,,0,El Paso,,,,19,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,kraft,P9144503,Kraft,,,Douglas,19150504,19150523,18,0,"c17,ss1"
-boxscores/1915/1915-AR,1915,Rio Grande Association,kraft,P5403199,Kraft,,,Douglas,19150505,19150523,16,0,c16
-boxscores/1915/1915-EPH,1915,Rio Grande Association,kraft,P0100233,Kraft,,,Douglas,19150504,19150523,17,0,c17
 minoraverages/Nemec,1915,Rio Grande Association,kraft,B00502,Kraft,,0,Douglas,,,17,,c
-boxscores/1915/1915-EPH,1915,Rio Grande Association,lamb,P1476205,Lamb,,,Douglas,19150518,19150518,1,0,"of1,lf1"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,lee,P3667371,Lee,,,Las Cruces,19150511,19150516,6,0,2b6
-boxscores/1915/1915-AR,1915,Rio Grande Association,lee,P0204339,Lee,,,Las Cruces,19150519,19150521,3,0,"of3,rf3"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,lee,P5206461,Lee,,,Las Cruces,19150501,19150521,12,0,"2b6,of6,cf3,rf3"
 minoraverages/Nemec,1915,Rio Grande Association,lee,B00515,Lee,,0,Las Cruces,,,16,,of
-boxscores/1915/1915-AR,1915,Rio Grande Association,mahaffey@ump,P1553064,Lew Bahaffey,,,#umpire,19150519,19150519,,,
-boxscores/1915/1915-AR,1915,Rio Grande Association,mahaffey@ump,P0021207,Lew Mehaffey,,,#umpire,19150520,19150520,,,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,lewis,P4645656,Lewis,,,El Paso,19150501,19150523,7,7,p7
-boxscores/1915/1915-AR,1915,Rio Grande Association,lewis,P0904352,Lewis,,,El Paso,19150504,19150523,8,8,p8
-boxscores/1915/1915-EPH,1915,Rio Grande Association,lewis,P5601386,Lewis,,,El Paso,19150501,19150523,10,9,"p9,1b1"
 minoraverages/Nemec,1915,Rio Grande Association,lewis,B00528,Lewis,Jack,0,El Paso,,,10,,p
 minoraverages/Nemec,1915,Rio Grande Association,lewis,P10202,Lewis,,0,El Paso,,,,9,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,lynn,P6976812,Lynn,,,Phoenix,19150427,19150705,53,0,"c53,of1,cf1"
-boxscores/1915/1915-AR,1915,Rio Grande Association,lynn,P1711924,Lynn,,,Phoenix,19150427,19150705,54,0,"c54,of1,cf1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,lynn,P5490622,Lynn,,,Phoenix,19150427,19150629,50,0,"c50,3b1"
 minoraverages/Nemec,1915,Rio Grande Association,lynn,B00531,Lynn,Byrd,0,Phoenix,,,54,,c
-boxscores/1915/1915-AJ,1915,Rio Grande Association,lynn,P5167009,Lynto,,,Phoenix,19150506,19150506,1,0,c1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,macmurdo,P0781462,Mac Murdo,,,Tucson,19150518,19150518,1,0,1b1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,macmurdo,P4918340,MacMurdo,,,Tucson,19150607,19150705,9,1,"p1,c1,1b6,2b1,3b2"
-boxscores/1915/1915-AR,1915,Rio Grande Association,macmurdo,P0638284,MacMurdo,,,Tucson,19150603,19150705,16,1,"p1,c3,1b13,3b1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,macmurdo,P5708310,MacMurdo,,,Tucson,19150516,19150629,33,0,"c1,1b31,2b1,3b1"
 minoraverages/Nemec,1915,Rio Grande Association,macmurdo,B00544,MacMurdo,,0,Tucson,,,49,,"p,1b"
 minoraverages/Nemec,1915,Rio Grande Association,macmurdo,P10215,MacMurdo,,0,Tucson,,,,1,
 minoraverages/emilbb,1915,Rio Grande Association,macmurdo,M92553,MacMurdo,Spots,,Tucson,,,,,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,macmurdo,P6487086,MagGardo,,,Tucson,19150701,19150701,1,0,c1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,mahaffey@ump,P1081827,Mahaffey,,,#umpire,19150504,19150514,,,
-boxscores/1915/1915-AR,1915,Rio Grande Association,mahaffey@ump,P6801771,Mahaffey,,,#umpire,19150521,19150523,,,
-boxscores/1915/1915-EPH,1915,Rio Grande Association,mahaffey@ump,P1871797,Mahaffey,,,#umpire,19150501,19150523,,,
-boxscores/1915/1915-EPH,1915,Rio Grande Association,mahaffey@ump,P7980628,Mahffey,,,#umpire,19150511,19150511,,,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,mathes,P4479158,Mathes,,,El Paso,19150622,19150705,14,0,"1b10,2b4,3b1"
-boxscores/1915/1915-AR,1915,Rio Grande Association,mathes,P1016126,Mathes,,,El Paso,19150601,19150620,13,0,"1b12,of1,cf1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,mathes,P6018248,Mathes,,,El Paso,19150511,19150629,45,0,"1b39,2b4,of4,cf1,rf3"
 minoraverages/Nemec,1915,Rio Grande Association,mathes,B00553,Mathes,Joseph,0,El Paso,,,52,,"1b,2b"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,mcardle,P8023395,McArdle,,,Phoenix,19150515,19150617,15,2,"p2,ss13"
-boxscores/1915/1915-AR,1915,Rio Grande Association,mcardle,P3743339,McArdle,,,Phoenix,19150427,19150705,61,2,"p2,ss61"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,mcardle,P8813365,McArdle,,,Phoenix,19150427,19150629,51,2,"p2,ss51"
 minoraverages/Nemec,1915,Rio Grande Association,mcardle,B00566,McArdle,Harry,0,Phoenix,,,61,,ss
 minoraverages/Nemec,1915,Rio Grande Association,mcardle,P10385,McArdle,,0,Phoenix,,,,2,
-boxscores/1915/1915-AR,1915,Rio Grande Association,mcavoy,P0470310,McArvery,,,Las Cruces,19150521,19150521,1,0,3b1
-boxscores/1915/1915-AR,1915,Rio Grande Association,mcavoy,P0292884,McAvery,,,Las Cruces,19150519,19150519,1,0,3b1
-boxscores/1915/1915-AR,1915,Rio Grande Association,mcavoy,P7730988,McAvoy,,,Las Cruces,19150520,19150523,4,0,3b4
-boxscores/1915/1915-EPH,1915,Rio Grande Association,mcavoy,P6878541,McAvoy,,,Tucson,19150608,19150608,1,0,2b1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,mcavoy,P8989302,McAvoy,,,Las Cruces,19150501,19150523,10,0,"2b1,3b7,ss2"
 minoraverages/Nemec,1915,Rio Grande Association,mcavoy,B00577,McAvoy,,0,Las Cruces,,,10,,3b
 minoraverages/Nemec,1915,Rio Grande Association,mcavoy,B00589,McAvoy,,0,Tucson,,,1,,of
-boxscores/1915/1915-AJ,1915,Rio Grande Association,mccarty,P9733434,McCarthy,,,Douglas,19150509,19150509,2,0,ss2
-boxscores/1915/1915-AJ,1915,Rio Grande Association,mccarty,P0133650,McCarty,,,Douglas,19150508,19150508,1,0,"of1,cf1"
 minoraverages/Nemec,1915,Rio Grande Association,mccarty,B00590,McCarty,,0,Douglas,,,3,,3b
-boxscores/1915/1915-EPH,1915,Rio Grande Association,mccloskey,P2963024,McCloskey,,,El Paso,19150501,19150502,2,0,
 minoraverages/Nemec,1915,Rio Grande Association,mccloskey,B00609,McCloskey,John,0,El Paso,,,2,,
 minoraverages/emilbb,1915,Rio Grande Association,mccloskey,M92528,McCloskey,John,,El Paso,,,,,
-boxscores/1915/1915-EPH,1915,Rio Grande Association,mcconnell,P1158571,McConell,,,Tucson,19150624,19150624,1,0,"of1,rf1"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,mcconnell,P1465934,McConnel,,,Douglas,19150523,19150523,1,1,p1
-boxscores/1915/1915-AR,1915,Rio Grande Association,mcconnell,P0224086,McConnel,,,Douglas,19150523,19150523,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,mcconnell,P1010823,McConnell,,,Tucson,19150602,19150705,13,10,"p10,of3,rf3"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,mcconnell,P5969050,McConnell,,,Douglas,19150504,19150519,8,7,"p7,of1,lf1"
-boxscores/1915/1915-AR,1915,Rio Grande Association,mcconnell,P4988066,McConnell,,,Douglas,19150509,19150519,6,6,p6
-boxscores/1915/1915-AR,1915,Rio Grande Association,mcconnell,P9768975,McConnell,,,Tucson,19150602,19150705,12,10,"p10,1b1,of2,rf2"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,mcconnell,P6246380,McConnell,,,Douglas,19150504,19150523,10,8,p8
-boxscores/1915/1915-EPH,1915,Rio Grande Association,mcconnell,P7079833,McConnell,,,Tucson,19150602,19150629,10,7,"p7,of2,rf2"
 minoraverages/Nemec,1915,Rio Grande Association,mcconnell,B00614,McConnell,,1,Douglas,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,mcconnell,B00614,McConnell,,2,Tucson,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,mcconnell,B00614,McConnell,,T,,,,28,,p
 minoraverages/Nemec,1915,Rio Grande Association,mcconnell,P10228,McConnell,,1,Douglas,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,mcconnell,P10228,McConnell,,2,Tucson,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,mcconnell,P10228,McConnell,,T,,,,,18,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,mccreery,P3476124,McCrary,,,Phoenix,19150508,19150508,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,mccreery,P3809953,McCreary,,,Phoenix,19150429,19150705,13,13,p13
-boxscores/1915/1915-AR,1915,Rio Grande Association,mccreery,P2568105,McCreary,,,Phoenix,19150516,19150610,2,2,p2
-boxscores/1915/1915-EPH,1915,Rio Grande Association,mccreery,P9878963,McCreary,,,Phoenix,19150429,19150622,3,3,p3
-boxscores/1915/1915-AJ,1915,Rio Grande Association,mccreery,P8887759,McCreay,,,Phoenix,19150502,19150502,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,mccreery,P8717221,McCreery,,,Phoenix,19150505,19150704,11,11,p11
-boxscores/1915/1915-AR,1915,Rio Grande Association,mccreery,P7475373,McCreery,,,Phoenix,19150429,19150705,24,24,p24
-boxscores/1915/1915-EPH,1915,Rio Grande Association,mccreery,P4786231,McCreery,,,Phoenix,19150502,19150626,20,20,p20
 minoraverages/Nemec,1915,Rio Grande Association,mccreery,B00623,McCreery,E.,0,Phoenix,,,25,,p
 minoraverages/Nemec,1915,Rio Grande Association,mccreery,P10231,McCreery,,0,Phoenix,,,,24,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,mcgeehan,P5600836,McGeehan,,,Tucson,19150518,19150702,19,4,"p4,3b18"
-boxscores/1915/1915-AR,1915,Rio Grande Association,mcgeehan,P1320780,McGeehan,,,Tucson,19150429,19150705,31,4,"p4,3b28"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,mcgeehan,P6390806,McGeehan,,,Tucson,19150427,19150629,48,3,"p3,3b46"
 minoraverages/Nemec,1915,Rio Grande Association,mcgeehan,B00638,McGeehan,,0,Tucson,,,60,,"p,3b"
 minoraverages/Nemec,1915,Rio Grande Association,mcgeehan,P10244,McGeehan,,0,Tucson,,,,4,
-boxscores/1915/1915-AR,1915,Rio Grande Association,mcgeehan,P6935444,McGheehan,,,Tucson,19150427,19150427,1,0,3b1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,mcgilvray,P1369250,McGillivray,,,Douglas,19150509,19150509,2,0,1b2
-boxscores/1915/1915-AR,1915,Rio Grande Association,mcgilvray,P4546977,McGilvray,,,Phoenix,19150615,19150705,21,0,1b21
-boxscores/1915/1915-EPH,1915,Rio Grande Association,mcgilvray,P5805291,McGilvray,,,Phoenix,19150615,19150629,14,0,1b14
-boxscores/1915/1915-EPH,1915,Rio Grande Association,mcgilvray,P9322367,McGilvray,,,Douglas,19150511,19150523,12,0,1b12
 minoraverages/Nemec,1915,Rio Grande Association,mcgilvray,B00646,McGilvray,,1,Douglas,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,mcgilvray,B00646,McGilvray,,2,Phoenix,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,mcgilvray,B00646,McGilvray,,T,,,,35,,1b
-boxscores/1915/1915-AJ,1915,Rio Grande Association,mcglynn,P5854108,McGlinn,,,El Paso,19150604,19150604,1,1,p1
-boxscores/1915/1915-AR,1915,Rio Grande Association,mcglynn,P1886790,McGlyn,,,El Paso,19150609,19150609,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,mcglynn,P5227302,McGlynn,L.,,El Paso,19150509,19150509,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,mcglynn,P5483180,McGlynn,,,El Paso,19150502,19150705,17,17,p17
-boxscores/1915/1915-AR,1915,Rio Grande Association,mcglynn,P1203124,McGlynn,,,El Paso,19150502,19150705,18,17,p17
-boxscores/1915/1915-EPH,1915,Rio Grande Association,mcglynn,P6273150,McGlynn,,,El Paso,19150501,19150626,20,17,"p17,of1,rf1"
 minoraverages/Nemec,1915,Rio Grande Association,mcglynn,B00651,McGlynn,Grant,0,El Paso,,,22,,p
 minoraverages/Nemec,1915,Rio Grande Association,mcglynn,P10253,McGlynn,,0,El Paso,,,,19,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,macmurdo,P8909315,McMurdo,,,Tucson,19150518,19150606,11,0,"c2,1b7,2b3,ss1"
-boxscores/1915/1915-AR,1915,Rio Grande Association,macmurdo,P5446283,McMurdo,,,Tucson,19150515,19150602,4,0,"c1,1b3"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,macmurdo,P0448405,McMurdo,,,Tucson,19150515,19150515,1,0,1b1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,mcneill,P0301484,McNeal,,,Albuquerque,19150620,19150623,2,0,"of2,lf2"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,mcneill,P9453374,McNeal,,,Albuquerque,19150623,19150623,1,0,"of1,lf1"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,mcneill,P4701175,McNeil,,,Douglas,19150520,19150520,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,mcneill,P5281716,McNeil,,,Albuquerque,19150622,19150627,5,0,"3b4,of1,lf1"
-boxscores/1915/1915-AR,1915,Rio Grande Association,mcneill,P1238143,McNeil,,,Douglas,19150520,19150520,1,1,p1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,mcneill,P4433606,McNeil,,,Albuquerque,19150622,19150629,6,0,"3b5,of1,lf1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,mcneill,P6240265,McNeil,,,Douglas,19150511,19150523,10,1,"p1,ss10"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,mcneill,P2854304,McNeill,,,Albuquerque,19150629,19150705,8,0,"3b2,ss6"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,mcneill,P3521973,McNeill,,,Douglas,19150512,19150513,2,0,ss2
 minoraverages/Nemec,1915,Rio Grande Association,mcneill,B00667,McNeill,Andy,1,Douglas,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,mcneill,B00667,McNeill,Andy,2,Albuquerque,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,mcneill,B00667,McNeill,Andy,T,,,,26,,"p,3b,ss"
 minoraverages/Nemec,1915,Rio Grande Association,mcneill,P10266,McNeill,,0,Douglas,,,,1,
-boxscores/1915/1915-EPH,1915,Rio Grande Association,meason,P4948553,Meason,,,El Paso,19150502,19150502,1,0,2b1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,mahaffey@ump,P3571943,Mehaffey,,,#umpire,19150505,19150505,,,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,murphy,P9656513,Murphy,,,Albuquerque,19150504,19150705,57,0,"of57,lf6,cf51"
-boxscores/1915/1915-AR,1915,Rio Grande Association,murphy,P7284041,Murphy,,,Albuquerque,19150525,19150613,13,0,"of13,lf6,cf7"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,murphy,P8808403,Murphy,,,Albuquerque,19150504,19150629,34,0,"of34,lf6,cf28"
 minoraverages/Nemec,1915,Rio Grande Association,murphy,B00672,Murphy,Howard,0,Albuquerque,,,57,,of
-boxscores/1915/1915-AJ,1915,Rio Grande Association,nutt,P6037878,Nutt,,,Phoenix,19150501,19150705,20,0,"c8,of13,cf6,rf7"
-boxscores/1915/1915-AR,1915,Rio Grande Association,nutt,P0772990,Nutt,,,Phoenix,19150427,19150705,60,0,"c10,1b1,ss1,of52,cf10,rf43"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,nutt,P4551688,Nutt,,,Phoenix,19150427,19150629,51,0,"c4,1b1,ss1,of47,cf5,rf43"
 minoraverages/Nemec,1915,Rio Grande Association,nutt,B00680,Nutt,J.,0,Phoenix,,,57,,of
-boxscores/1915/1915-AJ,1915,Rio Grande Association,pendleton,P2880061,Pendleton,,,El Paso,19150622,19150705,14,0,ss14
-boxscores/1915/1915-AR,1915,Rio Grande Association,pendleton,P1899077,Pendleton,,,El Paso,19150601,19150620,13,0,ss13
-boxscores/1915/1915-EPH,1915,Rio Grande Association,pendleton,P3157391,Pendleton,,,El Paso,19150501,19150629,52,0,"c1,ss51"
 minoraverages/Nemec,1915,Rio Grande Association,pendleton,B00695,Pendleton,John,0,El Paso,,,58,,"2b,ss"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,perrine,P2681385,Perrine,,,El Paso,19150622,19150705,14,0,"1b5,2b10"
-boxscores/1915/1915-AR,1915,Rio Grande Association,perrine,P8401329,Perrine,,,El Paso,19150601,19150620,13,0,2b13
-boxscores/1915/1915-EPH,1915,Rio Grande Association,perrine,P3471355,Perrine,,,El Paso,19150504,19150629,50,0,"1b4,2b46"
 minoraverages/Nemec,1915,Rio Grande Association,perrine,B00705,Perrine,Nig,0,El Paso,,,56,,2b
-boxscores/1915/1915-AJ,1915,Rio Grande Association,pfleiger,P5204866,Pfleiger,,,El Paso,19150622,19150705,14,0,"of14,lf14"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,pfleiger,P8666211,Pfleiger,,,Las Cruces,19150511,19150516,6,1,"p1,of6,lf6"
-boxscores/1915/1915-AR,1915,Rio Grande Association,pfleiger,P0374635,Pfleiger,,,Las Cruces,19150519,19150523,5,0,"of5,lf5"
-boxscores/1915/1915-AR,1915,Rio Grande Association,pfleiger,P3963018,Pfleiger,,,El Paso,19150617,19150620,5,0,"of5,lf5,rf1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,pfleiger,P0678581,Pfleiger,,,Las Cruces,19150501,19150523,15,1,"p1,of14,lf11,cf3"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,pfleiger,P1273876,Pfleiger,,,El Paso,19150617,19150629,12,0,"of12,lf12,rf1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,pfleiger,P6249740,Pfleiger,,,Tucson,19150612,19150613,2,0,"of2,rf2"
 minoraverages/Nemec,1915,Rio Grande Association,pfleiger,B00718,Pfleiger,,1,Las Cruces,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,pfleiger,B00718,Pfleiger,,2,El Paso,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,pfleiger,B00718,Pfleiger,,T,,,,39,,"p,of"
 minoraverages/Nemec,1915,Rio Grande Association,pfleiger,P10277,Pfleiger,,0,Las Cruces,,,,1,
-boxscores/1915/1915-AR,1915,Rio Grande Association,pfleiger,P9937131,Pflieger,,,Las Cruces,19150513,19150513,1,1,p1
-boxscores/1915/1915-AR,1915,Rio Grande Association,pittman,P0542300,Pitman,,,Phoenix,19150520,19150520,1,0,"of1,cf1"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,pittman,P8298216,Pittman,,,Phoenix,19150525,19150531,6,0,"of6,cf6"
-boxscores/1915/1915-AR,1915,Rio Grande Association,pittman,P4018160,Pittman,,,Phoenix,19150427,19150705,35,0,"of35,cf32,rf3"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,pittman,P9088186,Pittman,,,Phoenix,19150427,19150606,28,0,"of28,cf28"
 minoraverages/Nemec,1915,Rio Grande Association,pittman,B00726,Pittman,Gil,0,Phoenix,,,36,,of
-boxscores/1915/1915-AJ,1915,Rio Grande Association,pittman,P6978427,Pittsman,,,Phoenix,19150530,19150530,1,0,"of1,cf1"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,quigley,P3236223,Quigley,,,Douglas,19150504,19150509,6,0,2b6
-boxscores/1915/1915-AJ,1915,Rio Grande Association,quigley@ump,P7304386,Quigley,,,#umpire,19150622,19150705,,,
-boxscores/1915/1915-AR,1915,Rio Grande Association,quigley@ump,P3841354,Quigley,,,#umpire,19150618,19150626,,,
-boxscores/1915/1915-EPH,1915,Rio Grande Association,quigley,P4026193,Quigley,,,Douglas,19150504,19150523,13,0,2b13
-boxscores/1915/1915-EPH,1915,Rio Grande Association,quigley@ump,P8843476,Quigley,,,#umpire,19150618,19150629,,,
 minoraverages/Nemec,1915,Rio Grande Association,quigley,B00739,Quigley,Bill,0,Douglas,,,16,,2b
 minoraverages/emilbb,1915,Rio Grande Association,quigley,M92566,Quigley,William,,Douglas,,,,,
-boxscores/1915/1915-EPH,1915,Rio Grande Association,raedel,P2415606,Radel,,,Albuquerque,19150523,19150523,1,0,c1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,rader,P7952314,Rader,,,Tucson,19150518,19150620,17,0,"3b1,ss17"
-boxscores/1915/1915-AR,1915,Rio Grande Association,rader,P2687426,Rader,,,Tucson,19150515,19150705,18,0,ss18
-boxscores/1915/1915-EPH,1915,Rio Grande Association,rader,P6466124,Rader,,,Tucson,19150515,19150629,16,0,ss16
 minoraverages/Nemec,1915,Rio Grande Association,rader,B00747,Rader,Don,0,Tucson,,,49,,ss
-boxscores/1915/1915-AJ,1915,Rio Grande Association,raedel,P2153705,Raedel,,,Albuquerque,19150513,19150705,49,0,c49
-boxscores/1915/1915-AR,1915,Rio Grande Association,raedel,P9781233,Raedel,,,Albuquerque,19150516,19150705,39,0,c39
-boxscores/1915/1915-EPH,1915,Rio Grande Association,raedel,P1305595,Raedel,,,Albuquerque,19150504,19150629,42,0,c42
 minoraverages/Nemec,1915,Rio Grande Association,raedel,B00752,Raedel,Lee,0,Albuquerque,,,57,,"c,of"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,raedel,P9629941,Raedell,,,Albuquerque,19150504,19150512,8,0,c8
-boxscores/1915/1915-AR,1915,Rio Grande Association,raedel,P1338365,Raedell,,,Albuquerque,19150505,19150523,13,0,c13
-boxscores/1915/1915-EPH,1915,Rio Grande Association,raedel,P1642311,Raedell,,,Albuquerque,19150507,19150518,5,0,c5
-boxscores/1915/1915-AJ,1915,Rio Grande Association,rader,P7529567,Raeder,,,Tucson,19150519,19150519,1,0,ss1
-boxscores/1915/1915-AR,1915,Rio Grande Association,raedel,P0803511,Raeder,,,Albuquerque,19150606,19150606,1,0,c1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,raedel,P2327873,Raeder,,,Albuquerque,19150525,19150525,1,0,c1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,rader,P8485297,Raeder,,,Tucson,19150516,19150625,19,0,ss19
-boxscores/1915/1915-AR,1915,Rio Grande Association,raedel,P4896509,Readell,,,Albuquerque,19150511,19150511,1,0,c1
 minoraverages/emilbb,1915,Rio Grande Association,reed,M92531,Reed,George,,Albuquerque,,,,,
-boxscores/1915/1915-EPH,1915,Rio Grande Association,ritchie,P7096966,Ritchie,,,Tucson,19150529,19150531,3,0,"of3,rf3"
 minoraverages/Nemec,1915,Rio Grande Association,ritchie,B00760,Ritchie,,0,Tucson,,,3,,of
-boxscores/1915/1915-AR,1915,Rio Grande Association,rogers,P4139430,Rogers,,,Tucson,19150626,19150626,1,0,
-boxscores/1915/1915-EPH,1915,Rio Grande Association,rogers,P8836464,Rogers,,,Tucson,19150626,19150626,1,0,
 minoraverages/Nemec,1915,Rio Grande Association,rogers,B00771,Rogers,,0,Tucson,,,1,,c
-boxscores/1915/1915-AJ,1915,Rio Grande Association,ross,P9467494,Ross,,,Douglas,19150507,19150522,7,6,"p6,of1,lf1"
-boxscores/1915/1915-AR,1915,Rio Grande Association,ross,P4202606,Ross,,,Douglas,19150507,19150522,5,5,p5
-boxscores/1915/1915-EPH,1915,Rio Grande Association,ross,P7981304,Ross,,,Douglas,19150507,19150522,12,6,"p6,of5,lf3,rf2"
 minoraverages/Nemec,1915,Rio Grande Association,ross,B00783,Ross,Cy,0,Douglas,,,11,,"p,of"
 minoraverages/Nemec,1915,Rio Grande Association,ross,P10289,Ross,,0,Douglas,,,,6,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,russell,P1827423,Russell,,,Las Cruces,19150509,19150521,7,3,"p3,of4,rf4"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,russell,P8470758,Russell,,,Albuquerque,19150606,19150705,16,10,"p10,of5,lf3,rf2"
-boxscores/1915/1915-AR,1915,Rio Grande Association,russell,P0179182,Russell,,,Albuquerque,19150606,19150705,7,7,p7
-boxscores/1915/1915-AR,1915,Rio Grande Association,russell,P9454951,Russell,,,Las Cruces,19150502,19150522,5,4,"p4,of1,rf1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,russell,P0483128,Russell,,,Albuquerque,19150606,19150627,9,7,"p7,of2,lf1,rf1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,russell,P0979313,Russell,,,Las Cruces,19150502,19150522,10,4,"p4,of5,rf5"
 minoraverages/Nemec,1915,Rio Grande Association,russell,B00794,Russell,Lefty,1,Las Cruces,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,russell,B00794,Russell,Lefty,2,Albuquerque,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,russell,B00794,Russell,Lefty,T,,,,29,,"p,of"
 minoraverages/Nemec,1915,Rio Grande Association,russell,P10290,Russell,,1,Las Cruces,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,russell,P10290,Russell,,2,Albuquerque,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,russell,P10290,Russell,,T,,,,,13,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,salazar,P6260825,Salazar,,,Phoenix,19150611,19150611,1,0,"of1,rf1"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,salazar,P9777901,Salazar,,,Douglas,19150504,19150505,2,0,"of2,lf2"
-boxscores/1915/1915-AR,1915,Rio Grande Association,salazar,P1980769,Salazar,,,Phoenix,19150611,19150611,1,0,"of1,rf1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,salazar,P0567871,Salazar,,,Douglas,19150504,19150505,2,0,"of2,lf2"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,salazar,P7050795,Salazar,,,Phoenix,19150611,19150611,1,0,"of1,rf1"
 minoraverages/Nemec,1915,Rio Grande Association,salazar,B00806,Salazar,,0,Douglas,,,2,,of
-boxscores/1915/1915-AJ,1915,Rio Grande Association,scanlon,P6688569,Scanlon,,,Phoenix,19150525,19150613,13,0,3b13
-boxscores/1915/1915-AR,1915,Rio Grande Association,scanlon,P2408513,Scanlon,,,Phoenix,19150427,19150705,53,0,"c1,1b2,3b47,ss1,of4,rf4"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,scanlon,P7478539,Scanlon,,,Phoenix,19150427,19150624,44,0,"1b2,3b38,of4,rf4"
 minoraverages/Nemec,1915,Rio Grande Association,scanlon,B00811,Scanlon,C.,0,Phoenix,,,53,,3b
-boxscores/1915/1915-AJ,1915,Rio Grande Association,seaton,P8839167,Seaton,,,Las Cruces,19150511,19150516,6,0,3b6
-boxscores/1915/1915-AR,1915,Rio Grande Association,seaton,P7858183,Seaton,,,Las Cruces,19150519,19150523,6,0,2b6
-boxscores/1915/1915-EPH,1915,Rio Grande Association,seaton,P7799336,Seaton,,,Tucson,19150608,19150613,6,0,"2b5,of1,rf1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,seaton,P9116497,Seaton,,,Las Cruces,19150501,19150523,15,0,"2b7,3b8"
 minoraverages/Nemec,1915,Rio Grande Association,seaton,B00822,Seaton,,0,Las Cruces,,,25,,2b
-boxscores/1915/1915-EPH,1915,Rio Grande Association,streck,P3963953,Shreck,,,Douglas,19150521,19150521,1,0,"of1,lf1"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,knight,P9493131,Sikningts [Knight],,,El Paso,19150513,19150513,1,1,p1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,slagle,P9000214,Slagel,,,Tucson,19150625,19150625,1,0,"of1,rf1"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,slagle,P8530468,Slagle,,,Tucson,19150531,19150704,14,9,"p9,2b1,of5,rf5"
-boxscores/1915/1915-AR,1915,Rio Grande Association,slagle,P4789164,Slagle,,,Tucson,19150531,19150705,18,9,"p9,of9,rf9"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,slagle,P9486198,Slagle,,,Tucson,19150531,19150629,15,7,"p7,of8,rf8"
 minoraverages/Nemec,1915,Rio Grande Association,slagle,B00833,Slagle,Walter,0,Tucson,,,24,,"p,of"
 minoraverages/Nemec,1915,Rio Grande Association,slagle,P10304,Slagle,,0,Tucson,,,,9,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,sonoqui,P7993395,Soniqui,,,Phoenix,19150603,19150603,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,sonoqui,P5903161,Sonoqui,,,Phoenix,19150529,19150702,3,3,p3
-boxscores/1915/1915-AR,1915,Rio Grande Association,sonoqui,P1623105,Sonoqui,,,Phoenix,19150529,19150702,4,4,p4
-boxscores/1915/1915-EPH,1915,Rio Grande Association,sonoqui,P6693131,Sonoqui,,,Phoenix,19150531,19150603,2,2,p2
 minoraverages/Nemec,1915,Rio Grande Association,sonoqui,B00840,Sonoqui,Jose,0,Phoenix,,,4,,p
 minoraverages/Nemec,1915,Rio Grande Association,sonoqui,P10312,Sonoqui,,0,Phoenix,,,,4,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,stadelli,P3944222,Stadelli,,,Tucson,19150518,19150704,19,1,"p1,of18,lf18"
-boxscores/1915/1915-AR,1915,Rio Grande Association,stadelli,P9664166,Stadelli,,,Tucson,19150430,19150705,25,1,"p1,of25,lf25,cf1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,stadelli,P4734192,Stadelli,,,Tucson,19150427,19150629,45,0,"of45,lf44,cf2"
 minoraverages/Nemec,1915,Rio Grande Association,stadelli,B00854,Stadelli,,0,Tucson,,,60,,of
-boxscores/1915/1915-AR,1915,Rio Grande Association,stadelli,P0746571,Stadellie,,,Tucson,19150507,19150507,1,0,"of1,lf1"
-boxscores/1915/1915-AR,1915,Rio Grande Association,stadelli,P4571434,Stadilli,,,Tucson,19150502,19150502,1,0,"of1,cf1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,stadelli,P9641460,Stadilli,,,Tucson,19150429,19150429,1,0,"of1,lf1"
-boxscores/1915/1915-AR,1915,Rio Grande Association,stadelli,P2763695,Staedilli,,,Tucson,19150429,19150429,1,0,"of1,lf1"
-boxscores/1915/1915-AR,1915,Rio Grande Association,stadelli,P8586286,Stedilli,,,Tucson,19150427,19150427,1,0,"of1,lf1"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,sterling@ump,P4047306,Sterling,,,#umpire,19150508,19150613,,,
-boxscores/1915/1915-AR,1915,Rio Grande Association,sterling@ump,P9767250,Sterling,,,#umpire,19150508,19150613,,,
-boxscores/1915/1915-EPH,1915,Rio Grande Association,sterling@ump,P4837276,Sterling,,,#umpire,19150501,19150613,,,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,stevens,P2628148,Stevens,,,Tucson,19150429,19150429,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,stevens,P4353316,Stevens,,,Albuquerque,19150522,19150603,7,4,p4
-boxscores/1915/1915-AR,1915,Rio Grande Association,stevens,P6061740,Stevens,,,Albuquerque,19150522,19150602,6,4,p4
-boxscores/1915/1915-AR,1915,Rio Grande Association,stevens,P9165116,Stevens,,,Tucson,19150429,19150429,1,1,p1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,stevens,P4167238,Stevens,,,Tucson,19150429,19150429,1,1,p1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,stevens,P6365686,Stevens,,,Albuquerque,19150522,19150603,7,4,p4
 minoraverages/Nemec,1915,Rio Grande Association,stevens,B00865,Stevens,Roger,0,Tucson,,,8,,p
 minoraverages/Nemec,1915,Rio Grande Association,stevens,P10320,Stevens,,1,Tucson,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,stevens,P10320,Stevens,,2,Albuquerque,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,stevens,P10320,Stevens,,T,,,,,4,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,stewart,P2878217,Stewart,,,Douglas,19150504,19150509,6,0,"1b1,of5,cf5"
-boxscores/1915/1915-AR,1915,Rio Grande Association,stewart,P5081085,Stewart,,,Phoenix,19150617,19150705,17,0,"of17,lf5,cf7,rf5"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,stewart,P0151111,Stewart,,,Phoenix,19150617,19150629,12,0,"of12,lf5,cf7"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,stewart,P3668187,Stewart,,,Douglas,19150504,19150523,14,0,"of14,cf14"
 minoraverages/Nemec,1915,Rio Grande Association,stewart,B00879,Stewart,,1,Douglas,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,stewart,B00879,Stewart,,2,Phoenix,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,stewart,B00879,Stewart,,T,,,,34,,of
-boxscores/1915/1915-AR,1915,Rio Grande Association,stirling@ump,P3782102,Stirling,,,#umpire,19150522,19150522,,,
-boxscores/1915/1915-EPH,1915,Rio Grande Association,stirling@ump,P8852128,Stirling,,,#umpire,19150504,19150505,,,
-boxscores/1915/1915-EPH,1915,Rio Grande Association,stoloff,P6429326,Stolaroff,,,Tucson,19150522,19150522,1,0,2b1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,stoloff,P0601321,Stoloff,,,Tucson,19150518,19150523,6,0,2b6
-boxscores/1915/1915-AR,1915,Rio Grande Association,stoloff,P7138289,Stoloff,,,Tucson,19150629,19150705,8,0,2b8
 minoraverages/Nemec,1915,Rio Grande Association,stoloff,B00887,Stoloff,Benny,0,Tucson,,,50,,2b
 minoraverages/Nemec,1915,Rio Grande Association,streck,B00985,Streck,,0,Douglas,,,1,,of
-boxscores/1915/1915-AJ,1915,Rio Grande Association,stoloff,P0956539,Stroloff,,,Tucson,19150602,19150620,8,0,2b8
-boxscores/1915/1915-AR,1915,Rio Grande Association,stoloff,P6676483,Stroloff,,,Tucson,19150427,19150630,21,0,"2b12,ss9"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,stoloff,P1746509,Stroloff,,,Tucson,19150427,19150629,38,0,"2b29,ss9"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,sullinger,P4909953,Sullinger,,,Tucson,19150523,19150523,1,0,"of1,rf1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,sullinger,P0978963,Sullinger,,,Tucson,19150523,19150526,3,0,"of3,lf1,rf2"
 minoraverages/Nemec,1915,Rio Grande Association,sullinger,B00898,Sullinger,,0,Tucson,,,3,,of
-boxscores/1915/1915-AJ,1915,Rio Grande Association,thompson,P8578604,Thompson,,,El Paso,19150530,19150705,17,0,"c5,of13,rf13"
-boxscores/1915/1915-AR,1915,Rio Grande Association,thompson,P7336756,Thompson,,,El Paso,19150530,19150624,17,0,"c5,of13,lf4,rf13"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,thompson,P4647614,Thompson,,,El Paso,19150502,19150629,50,0,"c4,of48,lf10,cf1,rf42"
 minoraverages/Nemec,1915,Rio Grande Association,thompson,B00904,Thompson,George,0,El Paso,,,55,,of
-boxscores/1915/1915-AJ,1915,Rio Grande Association,toner,P7586227,Toner,,,Phoenix,19150501,19150704,23,21,"p21,1b2,of1,rf1"
-boxscores/1915/1915-AR,1915,Rio Grande Association,toner,P3844923,Toner,,,Phoenix,19150501,19150704,26,21,"p21,1b4,of1,rf1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,toner,P8541957,Toner,,,Phoenix,19150501,19150629,24,20,"p20,1b3"
 minoraverages/Nemec,1915,Rio Grande Association,toner,B00912,Toner,Tom,0,Phoenix,,,25,,p
 minoraverages/Nemec,1915,Rio Grande Association,toner,P10336,Toner,,0,Phoenix,,,,20,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,trekell,P7405763,Trekel,,,Albuquerque,19150529,19150529,1,1,p1
-boxscores/1915/1915-AR,1915,Rio Grande Association,trekell,P5033291,Trekel,,,Albuquerque,19150515,19150515,1,1,p1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,trekell,P6557653,Trekel,,,Albuquerque,19150529,19150529,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,trekell,P2947855,Trekell,,,Albuquerque,19150504,19150616,16,8,"p8,2b5,3b2"
-boxscores/1915/1915-AR,1915,Rio Grande Association,trekell,P4656279,Trekell,,,Albuquerque,19150509,19150613,9,8,"p8,2b1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,trekell,P4960225,Trekell,,,Albuquerque,19150504,19150616,11,7,"p7,2b2,3b2"
 minoraverages/Nemec,1915,Rio Grande Association,trekell,B00920,Trekell,Henry,0,Albuquerque,,,17,,p
 minoraverages/Nemec,1915,Rio Grande Association,trekell,P10348,Trekell,,0,Albuquerque,,,,9,
-boxscores/1915/1915-EPH,1915,Rio Grande Association,waldschmidt,P0706565,Waldenschmidt,,,Tucson,19150520,19150520,1,1,p1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,waldschmidt,P8466197,Waldenschmidt,,,Albuquerque,19150507,19150515,3,3,p3
-boxscores/1915/1915-AJ,1915,Rio Grande Association,waldschmidt,P2119264,Waldschmidt,,,Tucson,19150520,19150520,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,waldschmidt,P9021904,Waldschmidt,,,Albuquerque,19150507,19150515,4,4,p4
-boxscores/1915/1915-AR,1915,Rio Grande Association,waldschmidt,P4920408,Waldschmidt,,,Albuquerque,19150507,19150515,4,4,p4
-boxscores/1915/1915-EPH,1915,Rio Grande Association,waldschmidt,P0864674,Waldschmidt,,,Albuquerque,19150512,19150512,1,1,p1
 minoraverages/Nemec,1915,Rio Grande Association,waldschmidt,B00948,Waldschmidt,,1,Albuquerque,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,waldschmidt,B00948,Waldschmidt,,2,Tucson,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,waldschmidt,B00948,Waldschmidt,,T,,,,5,,p
 minoraverages/Nemec,1915,Rio Grande Association,waldschmidt,P10357,Waldschmidt,,1,Albuquerque,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,waldschmidt,P10357,Waldschmidt,,2,Tucson,,,,,
 minoraverages/Nemec,1915,Rio Grande Association,waldschmidt,P10357,Waldschmidt,,T,,,,,5,
-boxscores/1915/1915-AR,1915,Rio Grande Association,waldschmidt,P6062203,Waldsschmidt,,,Tucson,19150520,19150520,1,1,p1
-boxscores/1915/1915-AJ,1915,Rio Grande Association,ward,P0923117,Ward,,,Douglas,19150504,19150509,6,0,"2b1,of6,rf6"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,ward,P9436927,Ward,,,Douglas,19150504,19150513,5,0,"2b1,of5,rf5"
 minoraverages/Nemec,1915,Rio Grande Association,ward,B00936,Ward,Ed,0,Douglas,,,10,,of
-boxscores/1915/1915-AJ,1915,Rio Grande Association,wilde,P0629322,Wilde,,,Las Cruces,19150511,19150516,6,0,ss6
-boxscores/1915/1915-AR,1915,Rio Grande Association,wilde,P9387474,Wilde,,,Las Cruces,19150519,19150523,6,0,ss6
-boxscores/1915/1915-EPH,1915,Rio Grande Association,wilde,P6698332,Wilde,,,Las Cruces,19150504,19150523,13,0,ss13
 minoraverages/Nemec,1915,Rio Grande Association,wilde,B00957,Wilde,,0,Las Cruces,,,17,,ss
-boxscores/1915/1915-AR,1915,Rio Grande Association,young,P1409765,Young,,,Phoenix,19150427,19150502,3,0,"3b2,of1,rf1"
-boxscores/1915/1915-EPH,1915,Rio Grande Association,young,P6106799,Young,,,Phoenix,19150427,19150502,3,0,"3b2,of1,rf1"
 minoraverages/Nemec,1915,Rio Grande Association,young,B00973,Young,,0,Phoenix,,,3,,"3b,of"
-boxscores/1915/1915-AJ,1915,Rio Grande Association,zamloch,P0068106,Zamloch,,,Albuquerque,19150504,19150531,10,7,"p7,of1,rf1"
-boxscores/1915/1915-AR,1915,Rio Grande Association,zamloch,P1776530,Zamloch,,,Albuquerque,19150525,19150531,3,1,p1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,zamloch,P2080476,Zamloch,,,Albuquerque,19150504,19150531,5,2,"p2,of1,rf1"
 minoraverages/Nemec,1915,Rio Grande Association,zamloch,B00961,Zamloch,Carl,0,Albuquerque,,,12,,p
 minoraverages/Nemec,1915,Rio Grande Association,zamloch,P10361,Zamloch,,0,Albuquerque,,,,6,
-boxscores/1915/1915-AJ,1915,Rio Grande Association,zamloch,P5579245,Zamlock,,,Albuquerque,19150507,19150515,2,0,"of1,rf1"
-boxscores/1915/1915-AR,1915,Rio Grande Association,zamloch,P7287669,Zamlock,,,Albuquerque,19150509,19150523,5,5,p5
-boxscores/1915/1915-EPH,1915,Rio Grande Association,zamloch,P7591615,Zamlock,,,Albuquerque,19150509,19150523,6,5,p5
-boxscores/1915/1915-EPH,1915,Rio Grande Association,sonoqui,P0497330,Zonoqui,,,Phoenix,19150529,19150529,1,1,p1
-boxscores/1915/1915-EPH,1915,Rio Grande Association,,P2073620,,,,#umpire,19150505,19150505,,,

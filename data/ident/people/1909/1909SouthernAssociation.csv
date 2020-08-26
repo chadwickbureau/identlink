@@ -1,329 +1,147 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-boxscores/1909/1909-AG,1909,Southern Association,allen-lr,P0903932,Allen,,,Little Rock,19090623,19090623,1,1,p1
-boxscores/1909/1909-AG,1909,Southern Association,allen,P3262935,Allen,,,Mobile,19090828,19090918,7,6,"p6,of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,allen-lr,P3351237,Allen,,,Little Rock,19090623,19090623,1,1,p1
-boxscores/1909/1909-MCA,1909,Southern Association,allen,P8760320,Allen,,,Mobile,19090828,19090918,7,6,"p6,of1,rf1"
 minoraverages/1910Reach,1909,Southern Association,allen,B01546,Allen,,0,Mobile,,,5,,
 minoraverages/1910Reach,1909,Southern Association,allen,F21667,Allen,,0,Mobile,,,,,p5
 minoraverages/1910Reach,1909,Southern Association,allen,P10493,Allen,,0,Mobile,,,,5,
-boxscores/1909/1909-AG,1909,Southern Association,atkins,P7295330,Atkins,,,Atlanta,19090417,19090915,34,34,p34
-boxscores/1909/1909-MCA,1909,Southern Association,atkins,P3947595,Atkins,,,Atlanta,19090417,19090915,34,34,p34
 minoraverages/1910Reach,1909,Southern Association,atkins,B00811,Atkins,,0,Atlanta,,,34,,
 minoraverages/1910Reach,1909,Southern Association,atkins,F21158,Atkins,,0,Atlanta,,,,,p34
 minoraverages/1910Reach,1909,Southern Association,atkins,P10056,Atkins,,0,Atlanta,,,,32,
-boxscores/1909/1909-MCA,1909,Southern Association,buchanan,P7988554,B'chnan,,,Little Rock,19090913,19090913,1,0,"of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,buchanan,P1573352,B'hanan,,,Little Rock,19090720,19090720,1,0,"of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,baerwald,P1193586,B'rwald,,,Memphis,19090531,19090531,1,0,"of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,breitenstein,P3993711,B'teinst'n,,,New Orleans,19090605,19090605,1,0,"of1,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,breitenstein,P4406918,B'tenst'n,,,New Orleans,19090606,19090825,2,0,"of1,cf1"
-boxscores/1909/1909-AG,1909,Southern Association,babb,P6421165,Babb,,,Memphis,19090415,19090918,118,0,"1b1,3b38,ss78"
-boxscores/1909/1909-MCA,1909,Southern Association,babb,P1918550,Babb,,,Memphis,19090415,19090918,120,0,"1b3,3b37,ss79"
 minoraverages/1910Reach,1909,Southern Association,babb,B00502,Babb,,0,Memphis,,,124,,
 minoraverages/1910Reach,1909,Southern Association,babb,F20388,Babb,,0,Memphis,,,,,3b41
 minoraverages/1910Reach,1909,Southern Association,babb,F20496,Babb,,0,Memphis,,,,,ss80
-boxscores/1909/1909-MCA,1909,Southern Association,baerwald,P4595425,Baer'ald,,,Memphis,19090705,19090705,1,0,"of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,baerwald,P5671808,Baer'ld,,,Memphis,19090727,19090727,1,0,"of1,rf1"
-boxscores/1909/1909-AG,1909,Southern Association,baerwald,P8331383,Baerfald,,,Memphis,19090620,19090620,1,0,"of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,baerwald,P2647968,Baerfald,,,Memphis,19090620,19090620,1,0,"of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,baerwald,P0570187,Baerw'd,,,Memphis,19090419,19090907,3,0,"2b1,of2,cf1,rf1"
-boxscores/1909/1909-AG,1909,Southern Association,baerwald,P9075720,Baerwald,,,Memphis,19090415,19090918,111,0,"2b37,3b3,of70,cf8,rf62"
-boxscores/1909/1909-MCA,1909,Southern Association,baerwald,P3392305,Baerwald,,,Memphis,19090415,19090918,114,0,"2b48,3b3,of62,cf7,rf55"
 minoraverages/1910Reach,1909,Southern Association,baerwald,B00286,Baerwald,,0,Memphis,,,125,,
 minoraverages/1910Reach,1909,Southern Association,baerwald,F20287,Baerwald,,0,Memphis,,,,,2b51
 minoraverages/1910Reach,1909,Southern Association,baerwald,F20768,Baerwald,,0,Memphis,,,,,of71
-boxscores/1909/1909-MCA,1909,Southern Association,baerwald,P2284740,Baerwd,,,Memphis,19090629,19090629,1,0,"of1,rf1"
-boxscores/1909/1909-AG,1909,Southern Association,ball,P3085185,Ball,,,Memphis,19090709,19090806,6,0,c6
-boxscores/1909/1909-MCA,1909,Southern Association,ball,P8582570,Ball,,,Memphis,19090709,19090806,6,0,c6
 minoraverages/1910Reach,1909,Southern Association,ball,B01551,Ball,,0,Memphis,,,6,,
 minoraverages/1910Reach,1909,Southern Association,ball,F21566,Ball,,0,Memphis,,,,,c6
-boxscores/1909/1909-AG,1909,Southern Association,barr,P5336361,Ban,,,Atlanta,19090918,19090918,1,0,3b1
-boxscores/1909/1909-AG,1909,Southern Association,barr,P8780767,Barr,,,Atlanta,19090803,19090917,36,0,"3b3,ss1,of33,lf33"
-boxscores/1909/1909-MCA,1909,Southern Association,barr,P4278152,Barr,,,Atlanta,19090803,19090918,44,0,"3b7,ss1,of37,lf36,cf1,rf1"
 minoraverages/1910Reach,1909,Southern Association,barr,B00794,Barr,,0,Atlanta,,,40,,
 minoraverages/1910Reach,1909,Southern Association,barr,F21783,Barr,,0,Atlanta,,,,,3b6
 minoraverages/1910Reach,1909,Southern Association,bartley,F21045,Bartl'y,,1,New Orleans,,,,,p
 minoraverages/1910Reach,1909,Southern Association,bartley,F21045,Bartl'y,,2,Atlanta,,,,,p
 minoraverages/1910Reach,1909,Southern Association,bartley,F21045,Bartl'y,,T,,,,,,p32
-boxscores/1909/1909-AG,1909,Southern Association,bartley,P3102667,Bartley,,,Atlanta,19090522,19090918,28,28,p28
-boxscores/1909/1909-AG,1909,Southern Association,bartley,P9373316,Bartley,,,New Orleans,19090416,19090509,5,5,p5
-boxscores/1909/1909-MCA,1909,Southern Association,bartley,P2627412,Bartley,,,Atlanta,19090529,19090918,27,27,p27
-boxscores/1909/1909-MCA,1909,Southern Association,bartley,P4488461,Bartley,,,New Orleans,19090416,19090509,5,5,p5
 minoraverages/1910Reach,1909,Southern Association,bartley,B00854,Bartley,,1,New Orleans,,,,,
 minoraverages/1910Reach,1909,Southern Association,bartley,B00854,Bartley,,2,Atlanta,,,,,
 minoraverages/1910Reach,1909,Southern Association,bartley,B00854,Bartley,,T,,,,32,,
 minoraverages/1910Reach,1909,Southern Association,bartley,P10062,Bartley,,1,New Orleans,,,,,
 minoraverages/1910Reach,1909,Southern Association,bartley,P10062,Bartley,,2,Atlanta,,,,,
 minoraverages/1910Reach,1909,Southern Association,bartley,P10062,Bartley,,T,,,,,32,
-boxscores/1909/1909-AG,1909,Southern Association,bauer,P0550560,Bauer,,,Birmingham,19090422,19090521,7,7,p7
-boxscores/1909/1909-MCA,1909,Southern Association,bauer,P4867145,Bauer,,,Birmingham,19090422,19090521,7,7,p7
 minoraverages/1910Reach,1909,Southern Association,bauer,B01428,Bauer,,0,Birmingham,,,7,,
 minoraverages/1910Reach,1909,Southern Association,bauer,F21646,Bauer,,0,Birmingham,,,,,p7
 minoraverages/1910Reach,1909,Southern Association,bauer,P10455,Bauer,,0,Birmingham,,,,7,
-boxscores/1909/1909-AG,1909,Southern Association,baxter,P7030967,Baxter,,,New Orleans,19090522,19090522,1,0,
-boxscores/1909/1909-AG,1909,Southern Association,bay,P7243925,Bay,,,Nashville,19090415,19090918,116,0,"of116,lf116"
-boxscores/1909/1909-MCA,1909,Southern Association,bay,P8657630,Bay,,,Nashville,19090415,19090918,124,0,"of124,lf124"
 minoraverages/1910Reach,1909,Southern Association,bay,B00092,Bay,,0,Nashville,,,123,,
 minoraverages/1910Reach,1909,Southern Association,bay,F20776,Bay,,0,Nashville,,,,,of123
-boxscores/1909/1909-AG,1909,Southern Association,bayless,P1937176,Bayles,,,Atlanta,19090716,19090806,2,0,"of2,cf2"
-boxscores/1909/1909-MCA,1909,Southern Association,bayless,P8589441,Bayles,,,Atlanta,19090716,19090806,2,0,"of2,cf2"
-boxscores/1909/1909-AG,1909,Southern Association,bayless,P2482700,Bayless,,,Nashville,19090426,19090426,1,0,"of1,lf1"
-boxscores/1909/1909-AG,1909,Southern Association,bayless,P9951819,Bayless,,,Atlanta,19090415,19090918,129,0,"of129,cf128,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,bayless,P9476564,Bayless,,,Atlanta,19090415,19090918,136,0,"of136,cf135,rf1"
 minoraverages/1910Reach,1909,Southern Association,bayless,B00207,Bayless,,0,Atlanta,,,141,,
 minoraverages/1910Reach,1909,Southern Association,bayless,F20713,Bayless,,0,Atlanta,,,,,of141
-boxscores/1909/1909-AG,1909,Southern Association,beeker,P0560249,Beeker,,,Mobile,19090416,19090429,2,2,p2
-boxscores/1909/1909-MCA,1909,Southern Association,beeker,P1973954,Beeker,,,Mobile,19090416,19090429,2,2,p2
-boxscores/1909/1909-AG,1909,Southern Association,benson,P5763760,Benson,,,Mobile,19090419,19090602,40,0,3b40
-boxscores/1909/1909-MCA,1909,Southern Association,benson,P7177465,Benson,,,Mobile,19090419,19090602,38,0,3b38
 minoraverages/1910Reach,1909,Southern Association,benson,B01143,Benson,,0,Mobile,,,40,,
 minoraverages/1910Reach,1909,Southern Association,benson,F20417,Benson,,0,Mobile,,,,,3b40
-boxscores/1909/1909-MCA,1909,Southern Association,berg,P3800313,Berg,,,Little Rock,19090418,19090418,1,0,2b1
-boxscores/1909/1909-AG,1909,Southern Association,bernhard,P7468767,Bernhard,,,Nashville,19090419,19090828,7,6,"p6,1b1"
-boxscores/1909/1909-MCA,1909,Southern Association,bernhard,P8229832,Bernhard,,,Nashville,19090419,19090828,9,7,"p7,1b2"
 minoraverages/1910Reach,1909,Southern Association,bernhard,B01490,Bernhard,,0,Nashville,,,6,,
 minoraverages/1910Reach,1909,Southern Association,bernhard,F21638,Bernhard,,0,Nashville,,,,,p6
-boxscores/1909/1909-AG,1909,Southern Association,bernhard,P2975219,Bernhardt,,,Nashville,19090514,19090822,2,1,"p1,1b1"
-boxscores/1909/1909-AG,1909,Southern Association,berry,P2084500,Berry,,,Little Rock,19090804,19090918,18,0,"c12,of7,cf5,rf2"
-boxscores/1909/1909-MCA,1909,Southern Association,berry,P4531805,Berry,,,Little Rock,19090804,19090918,19,0,"c12,of8,cf6,rf2"
 minoraverages/1910Reach,1909,Southern Association,berry,B00037,Berry,,0,Little Rock,,,19,,
 minoraverages/1910Reach,1909,Southern Association,berry,F21544,Berry,,0,Little Rock,,,,,c10
 minoraverages/1910Reach,1909,Southern Association,berry,F21948,Berry,,0,Little Rock,,,,,of9
-boxscores/1909/1909-AG,1909,Southern Association,bittrolff,P9853187,Bitrolff,,,Mobile,19090420,19090820,10,10,p10
-boxscores/1909/1909-MCA,1909,Southern Association,bittrolff,P9377932,Bitrolff,,,Mobile,19090420,19090629,3,3,p3
-boxscores/1909/1909-MCA,1909,Southern Association,bittrolff,P2321652,Bittroff,,,Mobile,19090430,19090430,1,1,p1
-boxscores/1909/1909-AG,1909,Southern Association,bittrolff,P9208625,Bittrolf,,,Mobile,19090524,19090524,1,1,p1
-boxscores/1909/1909-MCA,1909,Southern Association,bittrolff,P8733370,Bittrolf,,,Mobile,19090910,19090910,1,1,p1
-boxscores/1909/1909-AG,1909,Southern Association,bittrolff,P9858743,Bittrolff,,,Mobile,19090415,19090918,25,24,"p24,of1,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,bittrolff,P4175328,Bittrolff,,,Mobile,19090415,19090918,32,30,"p30,of2,cf2"
 minoraverages/1910Reach,1909,Southern Association,bittrolff,B01041,Bittrolff,,0,Mobile,,,35,,
 minoraverages/1910Reach,1909,Southern Association,bittrolff,F21174,Bittrolff,,0,Mobile,,,,,p32
 minoraverages/1910Reach,1909,Southern Association,bittrolff,P10137,Bittrolff,,0,Mobile,,,,32,
-boxscores/1909/1909-AG,1909,Southern Association,bliss,P0858049,Bliss,,,Montgomery,19090417,19090911,48,26,"p26,1b14,2b1,of5,lf2,cf3"
-boxscores/1909/1909-MCA,1909,Southern Association,bliss,P5174634,Bliss,,,Montgomery,19090417,19090912,53,26,"p26,1b14,2b1,of10,lf5,cf5"
 minoraverages/1910Reach,1909,Southern Association,bliss,B01007,Bliss,,0,Montgomery,,,50,,
 minoraverages/1910Reach,1909,Southern Association,bliss,F21000,Bliss,,0,Montgomery,,,,,p27
 minoraverages/1910Reach,1909,Southern Association,bliss,F21695,Bliss,,0,Montgomery,,,,,1b13
 minoraverages/1910Reach,1909,Southern Association,bliss,F21936,Bliss,,0,Montgomery,,,,,of10
 minoraverages/1910Reach,1909,Southern Association,bliss,P10043,Bliss,,0,Montgomery,,,,23,
-boxscores/1909/1909-AG,1909,Southern Association,bokenfohr,P4712111,Bokenfohr,,,New Orleans,19090709,19090709,1,1,p1
-boxscores/1909/1909-MCA,1909,Southern Association,bokenfohr,P5105016,Bokenfohr,,,New Orleans,19090709,19090709,1,1,p1
-boxscores/1909/1909-AG,1909,Southern Association,boucher,P4714392,Boucher,,,Little Rock,19090415,19090721,71,0,ss71
-boxscores/1909/1909-MCA,1909,Southern Association,boucher,P9829537,Boucher,,,Little Rock,19090415,19090721,70,0,ss70
 minoraverages/1910Reach,1909,Southern Association,boucher,B00865,Boucher,,1,New Orleans,,,,,
 minoraverages/1910Reach,1909,Southern Association,boucher,B00865,Boucher,,2,Atlanta,,,,,
 minoraverages/1910Reach,1909,Southern Association,boucher,B00865,Boucher,,T,,,,71,,
 minoraverages/1910Reach,1909,Southern Association,boucher,F20539,Boucher,,0,Little Rock,,,,,ss71
-boxscores/1909/1909-AG,1909,Southern Association,bowen,P7464172,Bowen,,,Birmingham,19090415,19090727,86,0,2b86
-boxscores/1909/1909-MCA,1909,Southern Association,bowen,P1780757,Bowen,,,Birmingham,19090415,19090727,84,0,2b84
 minoraverages/1910Reach,1909,Southern Association,bowen,B00879,Bowen,,0,Birmingham,,,86,,
 minoraverages/1910Reach,1909,Southern Association,bowen,F20206,Bowen,,0,Birmingham,,,,,2b86
-boxscores/1909/1909-MCA,1909,Southern Association,breitenstein,P8827564,Br'tstein,,,New Orleans,19090611,19090611,2,0,"of2,rf2"
 minoraverages/1910Reach,1909,Southern Association,breitenstein,F21101,Breit'n'st'n,,0,New Orleans,,,,,p26
-boxscores/1909/1909-AG,1909,Southern Association,breitenstein,P5166410,Breit'st'n,,,New Orleans,19090514,19090514,1,0,"of1,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,breitenstein,P8132275,Breit'st'n,,,New Orleans,19090514,19090731,2,0,"of2,lf1,cf1"
 minoraverages/1910Reach,1909,Southern Association,breitenstein,P10159,Breitens'n,,0,New Orleans,,,,24,
-boxscores/1909/1909-AG,1909,Southern Association,breitenstein,P2124317,Breitenstein,,,New Orleans,19090419,19090915,34,26,"p26,of7,lf2,cf3,rf2"
-boxscores/1909/1909-MCA,1909,Southern Association,breitenstein,P1951302,Breitenstein,,,New Orleans,19090419,19090915,28,26,"p26,of2,lf1,cf1"
 minoraverages/1910Reach,1909,Southern Association,breitenstein,B00241,Breitenstein,,0,New Orleans,,,34,,
 minoraverages/1910Reach,1909,Southern Association,breitenstein,F21957,Breitenstein,,0,New Orleans,,,,,of8
-boxscores/1909/1909-AG,1909,Southern Association,buchanan,P0758288,Buchanan,,,Little Rock,19090418,19090918,38,34,"p34,of3,rf3"
-boxscores/1909/1909-MCA,1909,Southern Association,buchanan,P9558073,Buchanan,,,Little Rock,19090418,19090918,36,34,"p34,of1,rf1"
 minoraverages/1910Reach,1909,Southern Association,buchanan,B01203,Buchanan,,0,Little Rock,,,38,,
 minoraverages/1910Reach,1909,Southern Association,buchanan,F21308,Buchanan,,0,Little Rock,,,,,p35
 minoraverages/1910Reach,1909,Southern Association,buchanan,P10373,Buchanan,,0,Little Rock,,,,32,
-boxscores/1909/1909-AG,1909,Southern Association,berg,P8179040,Burg,,,Little Rock,19090415,19090419,5,0,2b5
-boxscores/1909/1909-MCA,1909,Southern Association,berg,P2495625,Burg,,,Little Rock,19090415,19090419,4,0,2b4
-boxscores/1909/1909-AG,1909,Southern Association,butler,P8566151,Butler,,,Nashville,19090415,19090918,132,0,ss132
-boxscores/1909/1909-MCA,1909,Southern Association,butler,P2882736,Butler,,,Nashville,19090415,19090918,138,0,ss138
 minoraverages/1910Reach,1909,Southern Association,butler,B00356,Butler,,0,Nashville,,,138,,
 minoraverages/1910Reach,1909,Southern Association,butler,F20463,Butler,,0,Nashville,,,,,ss138
-boxscores/1909/1909-MCA,1909,Southern Association,cranston,P6404747,C'nston,,,Memphis,19090420,19090420,1,0,2b1
-boxscores/1909/1909-AG,1909,Southern Association,carey,P4079972,Carey,,,Little Rock,19090614,19090831,74,0,1b74
-boxscores/1909/1909-AG,1909,Southern Association,carey,P4570746,Carey,,,Memphis,19090415,19090609,46,0,1b46
-boxscores/1909/1909-MCA,1909,Southern Association,carey,P5984451,Carey,,,Memphis,19090415,19090609,45,0,1b45
-boxscores/1909/1909-MCA,1909,Southern Association,carey,P6527277,Carey,,,Little Rock,19090614,19090830,72,0,1b72
 minoraverages/1910Reach,1909,Southern Association,carey,B00920,Carey,,1,Memphis,,,,,
 minoraverages/1910Reach,1909,Southern Association,carey,B00920,Carey,,2,Little Rock,,,,,
 minoraverages/1910Reach,1909,Southern Association,carey,B00920,Carey,,T,,,,121,,
 minoraverages/1910Reach,1909,Southern Association,carey,F20051,Carey,,1,Memphis,,,,,1b
 minoraverages/1910Reach,1909,Southern Association,carey,F20051,Carey,,2,Little Rock,,,,,1b
 minoraverages/1910Reach,1909,Southern Association,carey,F20051,Carey,,T,,,,,,1b121
-boxscores/1909/1909-AG,1909,Southern Association,carpenter@ump,P0333673,Carpenter,,,#umpire,19090415,19090918,,,
-boxscores/1909/1909-MCA,1909,Southern Association,carpenter@ump,P4650258,Carpenter,,,#umpire,19090415,19090918,,,
-boxscores/1909/1909-MCA,1909,Southern Association,carpenter@ump,P3817965,Carpentr,,,#umpire,19090824,19090824,,,
-boxscores/1909/1909-AG,1909,Southern Association,carpenter@ump,P4348525,Cartenter,,,#umpire,19090503,19090503,,,
-boxscores/1909/1909-MCA,1909,Southern Association,carpenter@ump,P8665110,Cartenter,,,#umpire,19090503,19090503,,,
-boxscores/1909/1909-AG,1909,Southern Association,case,P2365941,Case,,,Nashville,19090417,19090917,32,32,p32
-boxscores/1909/1909-MCA,1909,Southern Association,case,P9018206,Case,,,Nashville,19090417,19090917,31,31,p31
 minoraverages/1910Reach,1909,Southern Association,case,B01269,Case,,0,Nashville,,,32,,
 minoraverages/1910Reach,1909,Southern Association,case,F21196,Case,,0,Nashville,,,,,p32
 minoraverages/1910Reach,1909,Southern Association,case,P10097,Case,,0,Nashville,,,,32,
-boxscores/1909/1909-AG,1909,Southern Association,casey,P4623429,Casey,,,Little Rock,19090415,19090918,132,0,"c122,of8,cf1,rf7"
-boxscores/1909/1909-MCA,1909,Southern Association,casey,P7070734,Casey,,,Little Rock,19090415,19090918,132,0,"c122,of8,cf1,rf7"
 minoraverages/1910Reach,1909,Southern Association,casey,B00566,Casey,,0,Little Rock,,,133,,
 minoraverages/1910Reach,1909,Southern Association,casey,F21491,Casey,,0,Little Rock,,,,,c126
 minoraverages/1910Reach,1909,Southern Association,casey,F21961,Casey,,0,Little Rock,,,,,of7
-boxscores/1909/1909-AG,1909,Southern Association,castleton,P4321221,Castleton,,,Atlanta,19090415,19090507,5,5,p5
-boxscores/1909/1909-MCA,1909,Southern Association,castleton,P6768526,Castleton,,,Atlanta,19090415,19090507,5,5,p5
 minoraverages/1910Reach,1909,Southern Association,castleton,B01431,Castleton,,0,Atlanta,,,5,,
 minoraverages/1910Reach,1909,Southern Association,castleton,F21651,Castleton,,0,Atlanta,,,,,p5
 minoraverages/1910Reach,1909,Southern Association,castleton,P10486,Castleton,,0,Atlanta,,,,5,
-boxscores/1909/1909-AG,1909,Southern Association,cefalu,P1273569,Cefalu,,,New Orleans,19090424,19090424,1,1,p1
-boxscores/1909/1909-MCA,1909,Southern Association,cefalu,P2034634,Cefalu,,,New Orleans,19090424,19090424,1,1,p1
-boxscores/1909/1909-AG,1909,Southern Association,cobb,P1581564,Cobb,,,Memphis,19090516,19090525,6,0,"of4,rf4"
-boxscores/1909/1909-MCA,1909,Southern Association,cobb,P7078949,Cobb,,,Memphis,19090516,19090525,6,0,"of4,rf4"
 minoraverages/1910Reach,1909,Southern Association,cobb,B01392,Cobb,,0,Memphis,,,5,,
 minoraverages/1910Reach,1909,Southern Association,cobb,F21973,Cobb,,0,Memphis,,,,,of5
 minoraverages/1910Reach,1909,Southern Association,cocash,F20832,Coc'h,,1,Little Rock,,,,,of
 minoraverages/1910Reach,1909,Southern Association,cocash,F20832,Coc'h,,2,Mobile,,,,,of
 minoraverages/1910Reach,1909,Southern Association,cocash,F20832,Coc'h,,T,,,,,,of87
-boxscores/1909/1909-AG,1909,Southern Association,cocash,P2974817,Cocash,,,Little Rock,19090420,19090731,86,0,"2b21,ss1,of65,lf10,cf1,rf55"
-boxscores/1909/1909-AG,1909,Southern Association,cocash,P4260380,Cocash,,,Mobile,19090828,19090911,10,0,"of10,rf10"
-boxscores/1909/1909-MCA,1909,Southern Association,cocash,P3735882,Cocash,,,Little Rock,19090420,19090731,85,0,"2b20,ss1,of65,lf10,cf1,rf55"
-boxscores/1909/1909-MCA,1909,Southern Association,cocash,P5674085,Cocash,,,Mobile,19090828,19090917,23,0,"2b2,of21,rf21"
 minoraverages/1910Reach,1909,Southern Association,cocash,B00335,Cocash,,1,Little Rock,,,,,
 minoraverages/1910Reach,1909,Southern Association,cocash,B00335,Cocash,,2,Mobile,,,,,
 minoraverages/1910Reach,1909,Southern Association,cocash,B00335,Cocash,,T,,,,109,,
 minoraverages/1910Reach,1909,Southern Association,cocash,F20233,Cocash,,1,Little Rock,,,,,2b
 minoraverages/1910Reach,1909,Southern Association,cocash,F20233,Cocash,,2,Mobile,,,,,2b
 minoraverages/1910Reach,1909,Southern Association,cocash,F20233,Cocash,,T,,,,,,2b21
-boxscores/1909/1909-AG,1909,Southern Association,colen,P0413308,Colen,,,Mobile,19090422,19090422,1,0,"of1,cf1"
-boxscores/1909/1909-AG,1909,Southern Association,collins,P7615649,Coliins,,,Little Rock,19090628,19090628,1,0,"of1,lf1"
-boxscores/1909/1909-MCA,1909,Southern Association,collins,P2730794,Coliins,,,Little Rock,19090628,19090628,1,0,"of1,lf1"
-boxscores/1909/1909-AG,1909,Southern Association,collins,P1417892,Collins,,,Little Rock,19090415,19090918,138,0,"1b2,2b2,3b5,ss53,of79,lf67,cf12"
-boxscores/1909/1909-MCA,1909,Southern Association,collins,P6533037,Collins,,,Little Rock,19090415,19090918,137,0,"1b2,2b2,3b5,ss53,of78,lf66,cf12"
 minoraverages/1910Reach,1909,Southern Association,collins,B00319,Collins,,0,Little Rock,,,141,,
 minoraverages/1910Reach,1909,Southern Association,collins,F20547,Collins,,0,Little Rock,,,,,ss52
 minoraverages/1910Reach,1909,Southern Association,collins,F20612,Collins,,0,Little Rock,,,,,of80
 minoraverages/1910Reach,1909,Southern Association,collins,F21771,Collins,,0,Little Rock,,,,,3b5
-boxscores/1909/1909-AG,1909,Southern Association,compton,P9060880,Compton,,,Little Rock,19090501,19090611,6,6,"p6,of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,compton,P4176025,Compton,,,Little Rock,19090501,19090611,6,6,"p6,of1,rf1"
 minoraverages/1910Reach,1909,Southern Association,compton,B01415,Compton,,0,Little Rock,,,6,,
 minoraverages/1910Reach,1909,Southern Association,compton,F21614,Compton,,0,Little Rock,,,,,p6
-boxscores/1909/1909-AG,1909,Southern Association,coneson,P6185819,Coneson,,,Memphis,19090415,19090415,1,0,"of1,lf1"
 minoraverages/1910Reach,1909,Southern Association,connelly,B01444,Connelly,,0,Little Rock,,,8,,
 minoraverages/1910Reach,1909,Southern Association,connelly,F21590,Connelly,,0,Little Rock,,,,,p8
 minoraverages/1910Reach,1909,Southern Association,connelly,P10441,Connelly,,0,Little Rock,,,,7,
-boxscores/1909/1909-AG,1909,Southern Association,connelly,P5301726,Connolly,,,Little Rock,19090415,19090515,8,7,p7
-boxscores/1909/1909-MCA,1909,Southern Association,connelly,P4101511,Connolly,,,Little Rock,19090415,19090515,8,7,p7
-boxscores/1909/1909-AG,1909,Southern Association,cote,P6897238,Cote,,,Mobile,19090420,19090420,1,0,"of1,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,cote,P4639583,Cote,,,Mobile,19090420,19090422,2,0,"of2,cf2"
-boxscores/1909/1909-AG,1909,Southern Association,coulson,P6606537,Coulson,,,Memphis,19090416,19090918,127,1,"p1,of126,lf125,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,coulson,P6131282,Coulson,,,Memphis,19090415,19090918,138,1,"p1,of137,lf136,rf1"
 minoraverages/1910Reach,1909,Southern Association,coulson,B00515,Coulson,,0,Memphis,,,140,,
 minoraverages/1910Reach,1909,Southern Association,coulson,F20657,Coulson,,0,Memphis,,,,,of140
-boxscores/1909/1909-MCA,1909,Southern Association,cranston,P4854203,Crans'n,,,Memphis,19090727,19090727,1,0,2b1
-boxscores/1909/1909-MCA,1909,Southern Association,cranston,P3702415,Cranst'n,,,Memphis,19090531,19090531,1,0,2b1
-boxscores/1909/1909-AG,1909,Southern Association,cranston,P8426158,Cranston,,,Memphis,19090415,19090918,117,0,"2b94,3b6,ss17"
-boxscores/1909/1909-MCA,1909,Southern Association,cranston,P2742743,Cranston,,,Memphis,19090415,19090918,124,0,"2b90,3b6,ss28"
 minoraverages/1910Reach,1909,Southern Association,cranston,B00589,Cranston,,0,Memphis,,,128,,
 minoraverages/1910Reach,1909,Southern Association,cranston,F20190,Cranston,,0,Memphis,,,,,2b100
 minoraverages/1910Reach,1909,Southern Association,cranston,F20430,Cranston,,0,Memphis,,,,,ss23
 minoraverages/1910Reach,1909,Southern Association,cranston,F21833,Cranston,,0,Memphis,,,,,3b5
 minoraverages/1910Reach,1909,Southern Association,daubert,F20014,Da'b't,,0,Memphis,,,,,1b81
-boxscores/1909/1909-AG,1909,Southern Association,daley,P4335068,Dailey,,,Montgomery,19090417,19090417,1,0,"of1,lf1"
-boxscores/1909/1909-MCA,1909,Southern Association,daley,P6782373,Dailey,,,Montgomery,19090415,19090419,4,0,"of4,lf4"
-boxscores/1909/1909-MCA,1909,Southern Association,daley,P3448544,Daily,,,Montgomery,19090421,19090421,1,0,"of1,lf1"
-boxscores/1909/1909-AG,1909,Southern Association,daley,P1473555,Daley,,,Montgomery,19090501,19090918,115,0,"c1,2b1,of113,lf46,cf67,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,daley,P5790140,Daley,,,Montgomery,19090420,19090918,124,0,"c1,2b1,of122,lf56,cf66,rf1"
 minoraverages/1910Reach,1909,Southern Association,daley,B00182,Daley,,0,Montgomery,,,137,,
 minoraverages/1910Reach,1909,Southern Association,daley,F20673,Daley,,0,Montgomery,,,,,of137
-boxscores/1909/1909-AG,1909,Southern Association,daley,P0560398,Daly,,,Montgomery,19090415,19090605,12,0,"of12,lf11,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,daley,P0085143,Daly,,,Montgomery,19090422,19090503,6,0,"of6,lf5,cf1"
-boxscores/1909/1909-AG,1909,Southern Association,daubert,P8614605,Daubert,,,Memphis,19090614,19090911,71,0,1b71
-boxscores/1909/1909-MCA,1909,Southern Association,daubert,P8139350,Daubert,,,Memphis,19090614,19090914,79,0,"1b79,3b1"
 minoraverages/1910Reach,1909,Southern Association,daubert,B00013,Daubert,,0,Memphis,,,81,,
-boxscores/1909/1909-AG,1909,Southern Association,davis,P9546311,Davis,,,Little Rock,19090604,19090614,6,0,"of5,lf3,cf2"
-boxscores/1909/1909-MCA,1909,Southern Association,davis,P1993616,Davis,,,Little Rock,19090604,19090614,6,0,"of5,lf3,cf2"
 minoraverages/1910Reach,1909,Southern Association,davis,B01523,Davis,,0,Little Rock,,,6,,
 minoraverages/1910Reach,1909,Southern Association,davis,F21920,Davis,,0,Little Rock,,,,,of6
-boxscores/1909/1909-AG,1909,Southern Association,debalt,P2629936,DeBalt,,,Montgomery,19090417,19090417,1,1,p1
 minoraverages/1910Reach,1909,Southern Association,demontreville,F20189,DeMont'v'e,,0,New Orleans,,,,,2b72
 minoraverages/1910Reach,1909,Southern Association,demontreville,F20449,DeMont'v'e,,0,New Orleans,,,,,ss37
 minoraverages/1910Reach,1909,Southern Association,demontreville,B00614,DeMontreville,,0,New Orleans,,,109,,
-boxscores/1909/1909-AG,1909,Southern Association,debalt,P0020560,Debalt,,,Montgomery,19090421,19090501,3,3,p3
-boxscores/1909/1909-MCA,1909,Southern Association,debalt,P2467865,Debalt,,,Montgomery,19090417,19090501,4,4,p4
-boxscores/1909/1909-AG,1909,Southern Association,demontreville,P7376088,Demont,,,New Orleans,19090415,19090815,109,0,"2b76,ss35"
-boxscores/1909/1909-MCA,1909,Southern Association,demontreville,P8137153,Demont,,,New Orleans,19090415,19090815,108,0,"2b75,ss35"
-boxscores/1909/1909-AG,1909,Southern Association,dexter,P4758077,Dexter,,,New Orleans,19090415,19090918,125,1,"p1,1b123,2b2,ss1"
-boxscores/1909/1909-MCA,1909,Southern Association,dexter,P5519142,Dexter,,,New Orleans,19090415,19090918,138,1,"p1,1b130,2b9,ss1"
 minoraverages/1910Reach,1909,Southern Association,dexter,B00609,Dexter,,0,New Orleans,,,139,,
 minoraverages/1910Reach,1909,Southern Association,dexter,F20067,Dexter,,0,New Orleans,,,,,1b133
 minoraverages/1910Reach,1909,Southern Association,dexter,F21760,Dexter,,0,New Orleans,,,,,2b6
-boxscores/1909/1909-AG,1909,Southern Association,dick,P7087649,Dick,,,Memphis,19090417,19090915,42,42,p42
-boxscores/1909/1909-MCA,1909,Southern Association,dick,P2585034,Dick,,,Memphis,19090417,19090917,43,41,"p41,of2,cf1,rf1"
 minoraverages/1910Reach,1909,Southern Association,dick,B01181,Dick,,0,Memphis,,,39,,
 minoraverages/1910Reach,1909,Southern Association,dick,P10290,Dick,,0,Memphis,,,,36,
-boxscores/1909/1909-AG,1909,Southern Association,dickenson,P1493833,Dickenson,,,Mobile,19090426,19090426,1,1,p1
-boxscores/1909/1909-MCA,1909,Southern Association,dickenson,P5810418,Dickenson,,,Mobile,19090426,19090426,1,1,p1
-boxscores/1909/1909-AG,1909,Southern Association,dickson,P3642204,Dickson,,,Birmingham,19090417,19090918,35,34,"p34,1b1"
-boxscores/1909/1909-MCA,1909,Southern Association,dickson,P4403269,Dickson,,,Birmingham,19090417,19090918,35,34,"p34,1b1"
 minoraverages/1910Reach,1909,Southern Association,dickson,F20981,Dickson,,0,Birmingham,,,,,p33
 minoraverages/1910Reach,1909,Southern Association,dick,F21319,Dickson,,0,Memphis,,,,,p39
 minoraverages/1910Reach,1909,Southern Association,dickson,P10113,Dickson,,0,Birmingham,,,,31,
 minoraverages/1910Reach,1909,Southern Association,dickson,B01234,Dicson,,0,Birmingham,,,33,,
-boxscores/1909/1909-AG,1909,Southern Association,duggan,P6975759,Duggan,,,Nashville,19090415,19090915,32,31,p31
-boxscores/1909/1909-MCA,1909,Southern Association,duggan,P1292344,Duggan,,,Nashville,19090415,19090915,32,31,p31
 minoraverages/1910Reach,1909,Southern Association,duggan,B01055,Duggan,,0,Nashville,,,32,,
 minoraverages/1910Reach,1909,Southern Association,duggan,F21021,Duggan,,0,Nashville,,,,,p32
 minoraverages/1910Reach,1909,Southern Association,duggan,P10202,Duggan,,0,Nashville,,,,28,
-boxscores/1909/1909-AG,1909,Southern Association,dundon,P8127161,Dundon,,,New Orleans,19090415,19090609,33,0,2b33
-boxscores/1909/1909-MCA,1909,Southern Association,dundon,P8888226,Dundon,,,New Orleans,19090415,19090609,33,0,2b33
 minoraverages/1910Reach,1909,Southern Association,dundon,B01064,Dundon,,0,New Orleans,,,33,,
 minoraverages/1910Reach,1909,Southern Association,dundon,F20177,Dundon,,0,New Orleans,,,,,2b33
-boxscores/1909/1909-AG,1909,Southern Association,east,P9513254,East,,,Nashville,19090415,19090918,132,0,2b132
-boxscores/1909/1909-MCA,1909,Southern Association,east,P6165519,East,,,Nashville,19090415,19090918,138,0,"2b137,3b1"
 minoraverages/1910Reach,1909,Southern Association,east,B00196,East,,0,Nashville,,,138,,
 minoraverages/1910Reach,1909,Southern Association,east,F20279,East,,0,Nashville,,,,,2b138
-boxscores/1909/1909-AG,1909,Southern Association,ellam,P8828432,Elam,,,Birmingham,19090620,19090620,1,0,ss1
-boxscores/1909/1909-AG,1909,Southern Association,ellam,P5788412,Ellam,,,Birmingham,19090415,19090911,133,0,"c1,ss132"
-boxscores/1909/1909-MCA,1909,Southern Association,ellam,P0104997,Ellam,,,Birmingham,19090415,19090911,137,0,"c1,ss136"
 minoraverages/1910Reach,1909,Southern Association,ellam,B00961,Ellam,,0,Birmingham,,,141,,
 minoraverages/1910Reach,1909,Southern Association,ellam,F20474,Ellam,,0,Birmingham,,,,,ss141
-boxscores/1909/1909-AG,1909,Southern Association,emerson,P8298751,Emerson,,,Memphis,19090417,19090503,4,4,p4
-boxscores/1909/1909-MCA,1909,Southern Association,emerson,P7823496,Emerson,,,Memphis,19090417,19090503,4,4,p4
-boxscores/1909/1909-AG,1909,Southern Association,fisher,P5238009,Fisher,,,Atlanta,19090416,19090918,40,36,"p36,of4,lf1,rf3"
-boxscores/1909/1909-MCA,1909,Southern Association,fisher,P1890274,Fisher,,,Atlanta,19090416,19090918,40,36,"p36,of4,lf1,rf3"
 minoraverages/1910Reach,1909,Southern Association,fisher,B01093,Fisher,,0,Atlanta,,,40,,
 minoraverages/1910Reach,1909,Southern Association,fisher,F20997,Fisher,,0,Atlanta,,,,,p36
 minoraverages/1910Reach,1909,Southern Association,fisher,P10024,Fisher,,0,Atlanta,,,,34,
-boxscores/1909/1909-AG,1909,Southern Association,fitzsimmons@ump,P7392270,Fitsimmons,,,#umpire,19090706,19090706,,,
-boxscores/1909/1909-MCA,1909,Southern Association,fitzsimmons@ump,P9839575,Fitsimmons,,,#umpire,19090706,19090706,,,
-boxscores/1909/1909-AG,1909,Southern Association,fitzsimmons@ump,P0261640,Fitzsimmons,,,#umpire,19090415,19090918,,,
-boxscores/1909/1909-MCA,1909,Southern Association,fitzsimmons@ump,P1022705,Fitzsimmons,,,#umpire,19090415,19090918,,,
-boxscores/1909/1909-MCA,1909,Southern Association,flournoy,P1997576,Fl'noy,,,Little Rock,19090425,19090425,1,0,"of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,flournoy,P3161242,Fl'rnoy,,,Little Rock,19090419,19090420,2,0,"of2,rf2"
-boxscores/1909/1909-MCA,1909,Southern Association,fleharty,P6042234,Fleaharty,,,Birmingham,19090707,19090707,1,1,p1
-boxscores/1909/1909-AG,1909,Southern Association,fleharty,P3394320,Fleharty,,,Birmingham,19090416,19090918,37,37,p37
-boxscores/1909/1909-MCA,1909,Southern Association,fleharty,P8509465,Fleharty,,,Birmingham,19090416,19090918,36,35,"p35,of1,rf1"
 minoraverages/1910Reach,1909,Southern Association,fleharty,B00957,Fleharty,,0,Birmingham,,,35,,
 minoraverages/1910Reach,1909,Southern Association,fleharty,F21286,Fleharty,,0,Birmingham,,,,,p35
 minoraverages/1910Reach,1909,Southern Association,fleharty,P10277,Fleharty,,0,Birmingham,,,,31,
-boxscores/1909/1909-AG,1909,Southern Association,flood,P2845828,Flood,,,Little Rock,19090510,19090918,111,0,"1b1,2b110"
-boxscores/1909/1909-AG,1909,Southern Association,flood@ump,P5365401,Flood,,,#umpire,19090720,19090720,,,
-boxscores/1909/1909-MCA,1909,Southern Association,flood@ump,P0862786,Flood,,,#umpire,19090720,19090720,,,
-boxscores/1909/1909-MCA,1909,Southern Association,flood,P5293133,Flood,,,Little Rock,19090510,19090918,111,0,"1b1,2b110"
 minoraverages/1910Reach,1909,Southern Association,flood,B00651,Flood,,0,Little Rock,,,112,,
 minoraverages/1910Reach,1909,Southern Association,flood,F20240,Flood,,0,Little Rock,,,,,2b112
-boxscores/1909/1909-AG,1909,Southern Association,flournoy,P7434212,Flourney,,,Little Rock,19090517,19090517,1,0,"of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,flournoy,P6233997,Flourney,,,Little Rock,19090517,19090517,1,0,"of1,rf1"
-boxscores/1909/1909-AG,1909,Southern Association,flournoy,P3659502,Flournoy,,,Little Rock,19090417,19090601,30,0,"of30,rf30"
-boxscores/1909/1909-MCA,1909,Southern Association,flournoy,P2459287,Flournoy,,,Little Rock,19090417,19090601,26,0,"of26,rf26"
 minoraverages/1910Reach,1909,Southern Association,flournoy,B00822,Flournoy,,0,Little Rock,,,31,,
 minoraverages/1910Reach,1909,Southern Association,flournoy,F20878,Flournoy,,0,Little Rock,,,,,of31
-boxscores/1909/1909-AG,1909,Southern Association,folbre,P9433962,Folbre,,,Little Rock,19090417,19090713,18,12,"p12,of4,rf4"
-boxscores/1909/1909-MCA,1909,Southern Association,folbre,P0195027,Folbre,,,Little Rock,19090417,19090713,18,12,"p12,of4,rf4"
 minoraverages/1910Reach,1909,Southern Association,folbre,B00101,Folbre,,0,Little Rock,,,17,,
 minoraverages/1910Reach,1909,Southern Association,folbre,F20935,Folbre,,0,Little Rock,,,,,p14
 minoraverages/1910Reach,1909,Southern Association,folbre,P10253,Folbre,,0,Little Rock,,,,12,
-boxscores/1909/1909-AG,1909,Southern Association,ford,P8937948,Ford,,,Birmingham,19090419,19090424,2,2,p2
-boxscores/1909/1909-MCA,1909,Southern Association,ford,P8462693,Ford,,,Birmingham,19090419,19090424,2,2,p2
-boxscores/1909/1909-AG,1909,Southern Association,fritz-no+mem,P0653557,Fritz,,,Memphis,19090607,19090903,22,22,p22
-boxscores/1909/1909-AG,1909,Southern Association,fritz-no+mem,P3936576,Fritz,,,New Orleans,19090417,19090605,10,10,p10
-boxscores/1909/1909-AG,1909,Southern Association,fritz-mob,P4203482,Fritz,,,Mobile,19090710,19090825,18,0,c13
-boxscores/1909/1909-MCA,1909,Southern Association,fritz-no+mem,P2067262,Fritz,,,Memphis,19090607,19090903,22,22,p22
-boxscores/1909/1909-MCA,1909,Southern Association,fritz-no+mem,P6383881,Fritz,,,New Orleans,19090417,19090605,10,10,p10
-boxscores/1909/1909-MCA,1909,Southern Association,fritz-mob,P9700867,Fritz,,,Mobile,19090710,19090825,18,0,c14
 minoraverages/1910Reach,1909,Southern Association,fritz-mob,B00278,Fritz,,0,Mobile,,,15,,
 minoraverages/1910Reach,1909,Southern Association,fritz-no+mem,B01156,Fritz,,1,New Orleans,,,,,
 minoraverages/1910Reach,1909,Southern Association,fritz-no+mem,B01156,Fritz,,2,Memphis,,,,,
@@ -335,63 +153,22 @@ minoraverages/1910Reach,1909,Southern Association,fritz-mob,F21488,Fritz,,0,Mobi
 minoraverages/1910Reach,1909,Southern Association,fritz-no+mem,P10184,Fritz,,1,New Orleans,,,,,
 minoraverages/1910Reach,1909,Southern Association,fritz-no+mem,P10184,Fritz,,2,Memphis,,,,,
 minoraverages/1910Reach,1909,Southern Association,fritz-no+mem,P10184,Fritz,,T,,,,,28,
-boxscores/1909/1909-AG,1909,Southern Association,fullenwider,P8221937,Fullenwider,,,Little Rock,19090503,19090607,8,8,p8
-boxscores/1909/1909-MCA,1909,Southern Association,fullenwider,P6095482,Fullenwider,,,Little Rock,19090503,19090607,8,8,p8
 minoraverages/1910Reach,1909,Southern Association,fullenwider,B01509,Fullenwider,,0,Little Rock,,,7,,
 minoraverages/1910Reach,1909,Southern Association,fullenwider,F21609,Fullenwider,,0,Little Rock,,,,,p7
 minoraverages/1910Reach,1909,Southern Association,fullenwider,P10478,Fullenwider,,0,Little Rock,,,,5,
-boxscores/1909/1909-MCA,1909,Southern Association,greminger,P8968239,G'm'g'r,,,Montgomery,19090719,19090719,1,0,1b1
-boxscores/1909/1909-MCA,1909,Southern Association,greminger,P9194104,G'min'r,,,Montgomery,19090420,19090420,1,0,1b1
-boxscores/1909/1909-MCA,1909,Southern Association,greminger,P3706035,G'rmgr,,,Montgomery,19090830,19090830,1,0,1b1
-boxscores/1909/1909-AG,1909,Southern Association,george,P5849533,George,,,Montgomery,19090422,19090518,4,4,p4
-boxscores/1909/1909-MCA,1909,Southern Association,george,P8296838,George,,,Montgomery,19090422,19090518,4,4,p4
-boxscores/1909/1909-AG,1909,Southern Association,gilroy,P3694447,Gilroy,,,Nashville,19090415,19090508,2,2,p2
-boxscores/1909/1909-MCA,1909,Southern Association,gilroy,P8011032,Gilroy,,,Nashville,19090415,19090508,2,2,p2
-boxscores/1909/1909-AG,1909,Southern Association,mcgilvray,P4829647,Gilvray,,,Birmingham,19090610,19090610,1,0,"of1,rf1"
-boxscores/1909/1909-AG,1909,Southern Association,girard,P7257449,Girard,,,Little Rock,19090416,19090507,4,4,p4
-boxscores/1909/1909-MCA,1909,Southern Association,girard,P8018514,Girard,,,Little Rock,19090416,19090507,4,4,p4
-boxscores/1909/1909-MCA,1909,Southern Association,greminger,P8002835,Gr'mgr,,,Montgomery,19090503,19090901,2,0,1b2
-boxscores/1909/1909-MCA,1909,Southern Association,greminger,P7070369,Gr'mngr,,,Montgomery,19090426,19090915,6,0,1b6
-boxscores/1909/1909-AG,1909,Southern Association,grady,P6396743,Grady,,,Little Rock,19090825,19090918,22,0,"c3,1b18"
-boxscores/1909/1909-MCA,1909,Southern Association,grady,P8844048,Grady,,,Little Rock,19090825,19090918,23,0,"c3,1b19"
 minoraverages/1910Reach,1909,Southern Association,grady,B01124,Grady,,0,Little Rock,,,22,,
 minoraverages/1910Reach,1909,Southern Association,grady,F20131,Grady,,0,Little Rock,,,,,1b19
-boxscores/1909/1909-MCA,1909,Southern Association,greminger,P0318872,Gre'mgr,,,Montgomery,19090901,19090901,1,0,1b1
-boxscores/1909/1909-MCA,1909,Southern Association,greminger,P7776406,Grem'er,,,Montgomery,19090705,19090712,2,0,1b2
-boxscores/1909/1909-MCA,1909,Southern Association,greminger,P2247935,Grem'g'r,,,Montgomery,19090630,19090630,1,0,1b1
-boxscores/1909/1909-AG,1909,Southern Association,greminger,P4362996,Grem'ger,,,Montgomery,19090724,19090724,1,0,1b1
-boxscores/1909/1909-MCA,1909,Southern Association,greminger,P9478141,Grem'ger,,,Montgomery,19090416,19090918,43,0,"1b40,3b2,ss1"
 minoraverages/1910Reach,1909,Southern Association,greminger,F20072,Grem'ger,,0,Montgomery,,,,,1b114
-boxscores/1909/1909-MCA,1909,Southern Association,greminger,P0843270,Grem'ngr,,,Montgomery,19090610,19090610,1,0,1b1
-boxscores/1909/1909-AG,1909,Southern Association,greminger,P4289156,Greminger,,,Montgomery,19090415,19090918,104,0,"1b101,3b2,ss1"
-boxscores/1909/1909-MCA,1909,Southern Association,greminger,P3088941,Greminger,,,Montgomery,19090415,19090916,57,0,1b57
 minoraverages/1910Reach,1909,Southern Association,greminger,B00553,Greminger,,0,Montgomery,,,117,,
-boxscores/1909/1909-AG,1909,Southern Association,guese,P1139997,Guese,,,Montgomery,19090416,19090912,31,30,"p30,1b1"
-boxscores/1909/1909-MCA,1909,Southern Association,guese,P5456582,Guese,,,Montgomery,19090416,19090916,32,31,"p31,1b1"
 minoraverages/1910Reach,1909,Southern Association,guese,B01119,Guese,,0,Montgomery,,,31,,
 minoraverages/1910Reach,1909,Southern Association,guese,F21163,Guese,,0,Montgomery,,,,,p31
 minoraverages/1910Reach,1909,Southern Association,guese,P10145,Guese,,0,Montgomery,,,,30,
 minoraverages/1910Reach,1909,Southern Association,gygli,F21854,Gygil,,0,Birmingham,,,,,ss5
-boxscores/1909/1909-AG,1909,Southern Association,gygli,P7209869,Gygli,,,Birmingham,19090415,19090918,136,0,"1b95,2b40,ss3"
-boxscores/1909/1909-MCA,1909,Southern Association,gygli,P1526454,Gygli,,,Birmingham,19090415,19090918,138,0,"1b93,2b42,ss5"
 minoraverages/1910Reach,1909,Southern Association,gygli,B00381,Gygli,,0,Birmingham,,,140,,
 minoraverages/1910Reach,1909,Southern Association,gygli,F20115,Gygli,,0,Birmingham,,,,,1b94
 minoraverages/1910Reach,1909,Southern Association,gygli,F20254,Gygli,,0,Birmingham,,,,,2b41
-boxscores/1909/1909-MCA,1909,Southern Association,huelsman,P4001418,H'lsm'n,,,New Orleans,19090531,19090720,3,0,"of3,lf3"
-boxscores/1909/1909-MCA,1909,Southern Association,huelsman,P0108100,H'lsman,,,New Orleans,19090505,19090505,2,0,"of2,lf2"
-boxscores/1909/1909-MCA,1909,Southern Association,hall,P4567035,Hall,,,New Orleans,19090913,19090913,1,0,"of1,cf1"
-boxscores/1909/1909-AG,1909,Southern Association,hardy,P5148067,Hardy,,,Mobile,19090415,19090625,42,1,"p1,c36"
-boxscores/1909/1909-MCA,1909,Southern Association,hardy,P0645452,Hardy,,,Mobile,19090415,19090625,41,1,"p1,c35"
 minoraverages/1910Reach,1909,Southern Association,hardy,B00747,Hardy,,0,Mobile,,,41,,
 minoraverages/1910Reach,1909,Southern Association,hardy,F21475,Hardy,,0,Mobile,,,,,c41
-boxscores/1909/1909-AG,1909,Southern Association,hart-lr,P5044580,Hart,W.,,Little Rock,19090825,19090825,1,1,p1
-boxscores/1909/1909-AG,1909,Southern Association,hart-lr,P5462655,Hart,,,Little Rock,19090425,19090917,25,25,p25
-boxscores/1909/1909-AG,1909,Southern Association,hart-mon,P7984009,Hart,H.,,Montgomery,19090825,19090825,1,0,"of1,cf1"
-boxscores/1909/1909-AG,1909,Southern Association,hart-mon,P8831699,Hart,,,Montgomery,19090416,19090918,90,0,"c70,1b7,2b1,of10,cf10"
-boxscores/1909/1909-MCA,1909,Southern Association,hart-mon,P0431314,Hart,H.,,Montgomery,19090825,19090825,1,0,"of1,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,hart-lr,P5805645,Hart,W.,,Little Rock,19090825,19090825,1,1,p1
-boxscores/1909/1909-MCA,1909,Southern Association,hart-mon,P8356444,Hart,,,Montgomery,19090416,19090918,95,0,"c71,1b7,2b1,of14,cf14"
-boxscores/1909/1909-MCA,1909,Southern Association,hart-lr,P9779240,Hart,,,Little Rock,19090425,19090917,25,25,p25
 minoraverages/1910Reach,1909,Southern Association,hart-mon,B00045,Hart,,0,Montgomery,,,95,,
 minoraverages/1910Reach,1909,Southern Association,hart-lr,B01250,Hart,,0,Little Rock,,,28,,
 minoraverages/1910Reach,1909,Southern Association,hart-mon,F20924,Hart,,0,Montgomery,,,,,of15
@@ -399,299 +176,127 @@ minoraverages/1910Reach,1909,Southern Association,hart-lr,F21255,Hart,,0,Little 
 minoraverages/1910Reach,1909,Southern Association,hart-mon,F21450,Hart,,0,Montgomery,,,,,c74
 minoraverages/1910Reach,1909,Southern Association,hart-mon,F21739,Hart,,0,Montgomery,,,,,1b6
 minoraverages/1910Reach,1909,Southern Association,hart-lr,P10228,Hart,,0,Little Rock,,,,26,
-boxscores/1909/1909-AG,1909,Southern Association,hart-lr,P2303445,Hart [LR],,,Little Rock,19090604,19090604,1,1,p1
-boxscores/1909/1909-MCA,1909,Southern Association,hart-lr,P2696350,Hart [LR],,,Little Rock,19090604,19090604,1,1,p1
-boxscores/1909/1909-AG,1909,Southern Association,hart-mon,P0922549,Hart [Mon],,,Montgomery,19090604,19090604,1,0,c1
-boxscores/1909/1909-MCA,1909,Southern Association,hart-mon,P1315454,Hart [Mon],,,Montgomery,19090604,19090604,1,0,c1
-boxscores/1909/1909-AG,1909,Southern Association,hart-lr,P1459637,Hart[lr],,,Little Rock,19090621,19090621,1,1,p1
-boxscores/1909/1909-MCA,1909,Southern Association,hart-lr,P0259422,Hart[lr],,,Little Rock,19090621,19090621,1,1,p1
-boxscores/1909/1909-AG,1909,Southern Association,hart-mon,P0157813,Hart[mon],,,Montgomery,19090621,19090621,1,0,c1
-boxscores/1909/1909-MCA,1909,Southern Association,hart-mon,P8957598,Hart[mon],,,Montgomery,19090621,19090621,1,0,c1
-boxscores/1909/1909-AG,1909,Southern Association,reagan.s,P9561141,Heagan,,,New Orleans,19090507,19090507,1,0,"of1,cf1"
-boxscores/1909/1909-AG,1909,Southern Association,henline,P3425044,Henline,,,Birmingham,19090415,19090918,137,0,"of137,lf136,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,henline,P4186109,Henline,,,Birmingham,19090415,19090918,142,0,"of142,lf142"
 minoraverages/1910Reach,1909,Southern Association,henline,B00076,Henline,,0,Birmingham,,,146,,
 minoraverages/1910Reach,1909,Southern Association,henline,F20886,Henline,,0,Birmingham,,,,,of146
-boxscores/1909/1909-AG,1909,Southern Association,henn,P2932193,Henn,,,Atlanta,19090415,19090515,17,0,1b16
-boxscores/1909/1909-MCA,1909,Southern Association,henn,P8429578,Henn,,,Atlanta,19090415,19090515,17,0,1b16
 minoraverages/1910Reach,1909,Southern Association,henn,B01170,Henn,,0,Atlanta,,,15,,
 minoraverages/1910Reach,1909,Southern Association,henn,F20023,Henn,,0,Atlanta,,,,,1b15
-boxscores/1909/1909-AG,1909,Southern Association,hess-atl,P1264203,Hess,,,Atlanta,19090415,19090421,4,0,3b3
-boxscores/1909/1909-AG,1909,Southern Association,hess-no,P6307972,Hess,,,New Orleans,19090418,19090918,48,31,"p31,1b4,3b1,of4,cf2,rf2"
-boxscores/1909/1909-MCA,1909,Southern Association,hess-no,P0624557,Hess,,,New Orleans,19090418,19090918,51,31,"p31,1b8,of3,cf2,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,hess-atl,P6761588,Hess,,,Atlanta,19090415,19090421,4,0,3b3
 minoraverages/1910Reach,1909,Southern Association,hess-no,B00680,Hess,,0,New Orleans,,,49,,
 minoraverages/1910Reach,1909,Southern Association,hess-no,F21068,Hess,,0,New Orleans,,,,,p38
 minoraverages/1910Reach,1909,Southern Association,hess-no,F21747,Hess,,0,New Orleans,,,,,1b8
 minoraverages/1910Reach,1909,Southern Association,hess-no,P10100,Hess,,0,New Orleans,,,,30,
-boxscores/1909/1909-AG,1909,Southern Association,hickman,P2470758,Hickman,,,Mobile,19090418,19090918,32,31,"p31,2b1"
-boxscores/1909/1909-MCA,1909,Southern Association,hickman,P9123023,Hickman,,,Mobile,19090418,19090918,32,31,"p31,2b1"
 minoraverages/1910Reach,1909,Southern Association,hickman,B01275,Hickman,,0,Mobile,,,31,,
 minoraverages/1910Reach,1909,Southern Association,hickman,F21130,Hickman,,0,Mobile,,,,,p31
 minoraverages/1910Reach,1909,Southern Association,hickman,P10289,Hickman,,0,Mobile,,,,29,
-boxscores/1909/1909-AG,1909,Southern Association,higgins,P6683353,Higgins,,,Little Rock,19090705,19090826,11,11,p11
-boxscores/1909/1909-MCA,1909,Southern Association,higgins,P1798498,Higgins,,,Little Rock,19090705,19090826,11,11,p11
 minoraverages/1910Reach,1909,Southern Association,higgins,B01368,Higgins,,0,Little Rock,,,11,,
 minoraverages/1910Reach,1909,Southern Association,higgins,F21356,Higgins,,0,Little Rock,,,,,p11
 minoraverages/1910Reach,1909,Southern Association,higgins,P10399,Higgins,,0,Little Rock,,,,11,
-boxscores/1909/1909-AG,1909,Southern Association,hill,P4598106,Hill,,,New Orleans,19090629,19090918,62,0,"1b1,of61,cf61"
-boxscores/1909/1909-AG,1909,Southern Association,hill,P9056692,Hill,,,Mobile,19090610,19090618,3,1,"p1,of2,cf2"
-boxscores/1909/1909-MCA,1909,Southern Association,hill,P6799037,Hill,,,Mobile,19090610,19090618,3,1,"p1,of2,cf2"
-boxscores/1909/1909-MCA,1909,Southern Association,hill,P8914691,Hill,,,New Orleans,19090629,19090918,75,0,"1b1,of74,cf74"
 minoraverages/1910Reach,1909,Southern Association,hill,B00726,Hill,,1,Mobile,,,,,
 minoraverages/1910Reach,1909,Southern Association,hill,B00726,Hill,,2,New Orleans,,,,,
 minoraverages/1910Reach,1909,Southern Association,hill,B00726,Hill,,T,,,,78,,
 minoraverages/1910Reach,1909,Southern Association,hill,F20604,Hill,,1,Mobile,,,,,of
 minoraverages/1910Reach,1909,Southern Association,hill,F20604,Hill,,2,New Orleans,,,,,of
 minoraverages/1910Reach,1909,Southern Association,hill,F20604,Hill,,T,,,,,,of78
-boxscores/1909/1909-AG,1909,Southern Association,hixon,P0170129,Hixon,,,Mobile,19090415,19090706,16,16,p16
-boxscores/1909/1909-MCA,1909,Southern Association,hixon,P5667514,Hixon,,,Mobile,19090415,19090706,16,16,p16
 minoraverages/1910Reach,1909,Southern Association,hixon,B00973,Hixon,,0,Mobile,,,14,,
 minoraverages/1910Reach,1909,Southern Association,hixon,F21207,Hixon,,0,Mobile,,,,,p14
 minoraverages/1910Reach,1909,Southern Association,hixon,P10407,Hixon,,0,Mobile,,,,11,
-boxscores/1909/1909-AG,1909,Southern Association,hoey,P7496741,Hoey,,,Little Rock,19090722,19090918,50,0,"of49,lf11,rf38"
-boxscores/1909/1909-MCA,1909,Southern Association,hoey,P1813326,Hoey,,,Little Rock,19090722,19090918,50,0,"of49,lf11,rf38"
 minoraverages/1910Reach,1909,Southern Association,hoey,B00577,Hoey,,0,Little Rock,,,51,,
 minoraverages/1910Reach,1909,Southern Association,hoey,F20648,Hoey,,0,Little Rock,,,,,of51
-boxscores/1909/1909-AG,1909,Southern Association,hoffman,P6324912,Hoffman,,,New Orleans,19090729,19090814,7,0,ss5
-boxscores/1909/1909-MCA,1909,Southern Association,hoffman,P1440057,Hoffman,,,New Orleans,19090729,19090731,3,0,ss3
 minoraverages/1910Reach,1909,Southern Association,hoffman,B01453,Hoffman,,0,New Orleans,,,10,,
 minoraverages/1910Reach,1909,Southern Association,hoffman,F21840,Hoffman,,0,New Orleans,,,,,ss7
-boxscores/1909/1909-AG,1909,Southern Association,hoffman,P0739018,Hofman,,,New Orleans,19090816,19090818,3,0,2b3
-boxscores/1909/1909-MCA,1909,Southern Association,hoffman,P1500083,Hofman,,,New Orleans,19090801,19090818,6,0,"2b3,ss1"
-boxscores/1909/1909-MCA,1909,Southern Association,hoffman,P4532205,Homan,,,New Orleans,19090731,19090731,1,0,ss1
-boxscores/1909/1909-AG,1909,Southern Association,hopkins,P1556327,Hopkins,,,Mobile,19090415,19090513,25,0,"of24,cf16,rf8"
-boxscores/1909/1909-MCA,1909,Southern Association,hopkins,P8208592,Hopkins,,,Mobile,19090415,19090513,24,0,"of23,cf15,rf8"
 minoraverages/1910Reach,1909,Southern Association,hopkins,B01032,Hopkins,,0,Mobile,,,25,,
 minoraverages/1910Reach,1909,Southern Association,hopkins,F20893,Hopkins,,0,Mobile,,,,,of25
-boxscores/1909/1909-AG,1909,Southern Association,huelsman,P0544039,Huels'n,,,New Orleans,19090706,19090706,1,0,"of1,lf1"
-boxscores/1909/1909-MCA,1909,Southern Association,huelsman,P5659184,Huels'n,,,New Orleans,19090629,19090907,5,0,"of5,lf5"
-boxscores/1909/1909-MCA,1909,Southern Association,huelsman,P9642781,Huelsm'n,,,New Orleans,19090418,19090420,3,0,"of3,lf3"
-boxscores/1909/1909-AG,1909,Southern Association,huelsman,P6949678,Huelsman,,,New Orleans,19090415,19090918,124,0,"of123,lf122,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,huelsman,P5749463,Huelsman,,,New Orleans,19090415,19090918,123,0,"of122,lf121,rf1"
 minoraverages/1910Reach,1909,Southern Association,huelsman,B00491,Huelsman,,0,New Orleans,,,140,,
 minoraverages/1910Reach,1909,Southern Association,huelsman,F20841,Huelsman,,0,New Orleans,,,,,of140
-boxscores/1909/1909-MCA,1909,Southern Association,huelsman,P9236214,Huelsmn,,,New Orleans,19090425,19090425,1,0,"of1,lf1"
-boxscores/1909/1909-AG,1909,Southern Association,huelsman,P8449141,Hullsman,,,New Orleans,19090515,19090515,1,0,"of1,lf1"
-boxscores/1909/1909-AG,1909,Southern Association,hurlburt,P8490046,Hurlburt,,,Memphis,19090523,19090620,19,0,c18
-boxscores/1909/1909-MCA,1909,Southern Association,hurlburt,P2806631,Hurlburt,,,Memphis,19090523,19090620,19,0,c18
 minoraverages/1910Reach,1909,Southern Association,hurlburt,B00985,Hurlburt,,0,Memphis,,,19,,
 minoraverages/1910Reach,1909,Southern Association,hurlburt,F21515,Hurlburt,,0,Memphis,,,,,c19
-boxscores/1909/1909-AG,1909,Southern Association,johns,P7283514,Johns,,,Atlanta,19090419,19090914,30,30,p30
-boxscores/1909/1909-MCA,1909,Southern Association,johns,P8697219,Johns,,,Atlanta,19090419,19090914,29,29,p29
 minoraverages/1910Reach,1909,Southern Association,johns,B01321,Johns,,0,Atlanta,,,30,,
 minoraverages/1910Reach,1909,Southern Association,johns,F21241,Johns,,0,Atlanta,,,,,p30
 minoraverages/1910Reach,1909,Southern Association,johns,P10019,Johns,,0,Atlanta,,,,27,
-boxscores/1909/1909-AG,1909,Southern Association,jones,P4733711,Jones,,,Little Rock,19090902,19090911,12,0,"1b1,ss12"
-boxscores/1909/1909-MCA,1909,Southern Association,jones,P7181016,Jones,,,Little Rock,19090902,19090911,12,0,"1b1,ss12"
 minoraverages/1910Reach,1909,Southern Association,jones,B01514,Jones,,0,Little Rock,,,12,,
 minoraverages/1910Reach,1909,Southern Association,jones,F21865,Jones,,0,Little Rock,,,,,ss12
-boxscores/1909/1909-AG,1909,Southern Association,jordan,P2192566,Jordan,,,Atlanta,19090415,19090918,134,0,"2b132,3b2"
-boxscores/1909/1909-MCA,1909,Southern Association,jordan,P8844831,Jordan,,,Atlanta,19090415,19090918,141,0,"2b139,3b2"
 minoraverages/1910Reach,1909,Southern Association,jordan,B00469,Jordan,,0,Atlanta,,,144,,
 minoraverages/1910Reach,1909,Southern Association,jordan,F20166,Jordan,,0,Atlanta,,,,,2b144
-boxscores/1909/1909-AG,1909,Southern Association,joseph,P0233613,Joseph,,,Montgomery,19090918,19090918,1,0,"of1,lf1"
-boxscores/1909/1909-MCA,1909,Southern Association,joseph,P2680918,Joseph,,,Montgomery,19090918,19090918,1,0,"of1,lf1"
-boxscores/1909/1909-AG,1909,Southern Association,juul,P4000644,Juul,,,Montgomery,19090617,19090918,27,25,"p25,3b1,of2,cf2"
-boxscores/1909/1909-MCA,1909,Southern Association,juul,P3525389,Juul,,,Montgomery,19090617,19090918,30,25,"p25,3b1,of5,lf1,cf4"
 minoraverages/1910Reach,1909,Southern Association,juul,B00936,Juul,,0,Montgomery,,,25,,
 minoraverages/1910Reach,1909,Southern Association,juul,F21182,Juul,,0,Montgomery,,,,,p23
 minoraverages/1910Reach,1909,Southern Association,juul,P10070,Juul,,0,Montgomery,,,,22,
-boxscores/1909/1909-MCA,1909,Southern Association,kirkpatrick,P8875020,K'kpatrick,,,Atlanta,19090810,19090810,1,0,
-boxscores/1909/1909-MCA,1909,Southern Association,kirkpatrick,P7604304,K'kptck,,,Atlanta,19090505,19090505,1,0,3b1
-boxscores/1909/1909-MCA,1909,Southern Association,kirkpatrick,P7190753,K'patrick,,,Atlanta,19090421,19090814,6,0,"of6,lf1,cf2,rf3"
-boxscores/1909/1909-MCA,1909,Southern Association,kirkpatrick,P2891010,K'rkptck,,,Atlanta,19090611,19090615,2,0,"of2,cf1,rf1"
-boxscores/1909/1909-AG,1909,Southern Association,kane,P1909936,Kane,,,Birmingham,19090415,19090917,76,0,c71
-boxscores/1909/1909-MCA,1909,Southern Association,kane,P1434681,Kane,,,Birmingham,19090415,19090917,75,0,c71
 minoraverages/1910Reach,1909,Southern Association,kane,B00833,Kane,,0,Birmingham,,,72,,
 minoraverages/1910Reach,1909,Southern Association,kane,F21397,Kane,,0,Birmingham,,,,,c72
-boxscores/1909/1909-AG,1909,Southern Association,keiber,P4428120,Keiber,,,Memphis,19090416,19090918,31,30,"p30,of1,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,keiber,P1080385,Keiber,,,Memphis,19090416,19090918,36,35,"p35,of1,cf1"
 minoraverages/1910Reach,1909,Southern Association,keiber,B01242,Keiber,,0,Memphis,,,37,,
 minoraverages/1910Reach,1909,Southern Association,keiber,F21149,Keiber,,0,Memphis,,,,,p37
 minoraverages/1910Reach,1909,Southern Association,keiber,P10320,Keiber,,0,Memphis,,,,33,
-boxscores/1909/1909-AG,1909,Southern Association,keith,P0297381,Keith,,,Little Rock,19090817,19090913,10,6,p6
-boxscores/1909/1909-MCA,1909,Southern Association,keith,P2744686,Keith,,,Little Rock,19090817,19090913,9,6,p6
 minoraverages/1910Reach,1909,Southern Association,keith,B01489,Keith,,0,Little Rock,,,8,,
 minoraverages/1910Reach,1909,Southern Association,keith,F21577,Keith,,0,Little Rock,,,,,p8
 minoraverages/1910Reach,1909,Southern Association,keith,P10464,Keith,,0,Little Rock,,,,6,
-boxscores/1909/1909-AG,1909,Southern Association,kellum,P5422627,Kellum,,,Nashville,19090422,19090918,31,19,"p19,of8,lf7,rf1"
-boxscores/1909/1909-AG,1909,Southern Association,kellum@ump,P9333071,Kellum,,,#umpire,19090719,19090720,,,
-boxscores/1909/1909-MCA,1909,Southern Association,kellum@ump,P0746776,Kellum,,,#umpire,19090719,19090720,,,
-boxscores/1909/1909-MCA,1909,Southern Association,kellum,P9739212,Kellum,,,Nashville,19090422,19090918,37,19,"p19,of13,lf7,rf6"
 minoraverages/1910Reach,1909,Southern Association,kellum,B00771,Kellum,,0,Nashville,,,34,,
 minoraverages/1910Reach,1909,Southern Association,kellum,F20829,Kellum,,0,Nashville,,,,,of15
 minoraverages/1910Reach,1909,Southern Association,kellum,F21324,Kellum,,0,Nashville,,,,,p19
 minoraverages/1910Reach,1909,Southern Association,kellum,P10266,Kellum,,0,Nashville,,,,18,
-boxscores/1909/1909-AG,1909,Southern Association,kerwin,P4292968,Kerkin,,,Montgomery,19090606,19090606,1,0,"of1,rf1"
-boxscores/1909/1909-AG,1909,Southern Association,kerwin,P1763316,Kerwin,,,Montgomery,19090415,19090918,130,1,"p1,1b1,of128,lf1,cf1,rf127"
-boxscores/1909/1909-MCA,1909,Southern Association,kerwin,P4210621,Kerwin,,,Montgomery,19090415,19090918,142,1,"p1,1b1,of140,lf1,cf1,rf139"
 minoraverages/1910Reach,1909,Southern Association,kerwin,B00117,Kerwin,,0,Montgomery,,,143,,
 minoraverages/1910Reach,1909,Southern Association,kerwin,F20700,Kerwin,,0,Montgomery,,,,,of143
-boxscores/1909/1909-AG,1909,Southern Association,keiber,P6503128,Kieber,,,Memphis,19090426,19090909,5,5,p5
-boxscores/1909/1909-MCA,1909,Southern Association,keiber,P3155393,Kieber,,,Memphis,19090426,19090426,1,1,p1
-boxscores/1909/1909-MCA,1909,Southern Association,kirkpatrick,P1794263,Kirkp'ck,,,Atlanta,19090507,19090507,1,0,3b1
-boxscores/1909/1909-MCA,1909,Southern Association,kirkpatrick,P2518196,Kirkp'k,,,Atlanta,19090727,19090727,1,0,1b1
-boxscores/1909/1909-AG,1909,Southern Association,kirkpatrick,P6251191,Kirkpatrick,,,Atlanta,19090419,19090814,34,1,"p1,1b3,3b8,ss4,of8,lf1,cf3,rf4"
-boxscores/1909/1909-MCA,1909,Southern Association,kirkpatrick,P1366336,Kirkpatrick,,,Atlanta,19090419,19090812,20,0,"2b1,3b7,ss4,of1,rf1"
 minoraverages/1910Reach,1909,Southern Association,kirkpatrick,B00427,Kirkpatrick,,0,Atlanta,,,27,,
 minoraverages/1910Reach,1909,Southern Association,kirkpatrick,F21806,Kirkpatrick,,0,Atlanta,,,,,3b13
 minoraverages/1910Reach,1909,Southern Association,kirkpatrick,F21887,Kirkpatrick,,0,Atlanta,,,,,of6
-boxscores/1909/1909-MCA,1909,Southern Association,kirkpatrick,P7234498,Kirmpatrick,,,Atlanta,19090724,19090724,1,0,1b1
 minoraverages/1910Reach,1909,Southern Association,lindsay,F20518,L'd'y,,1,Memphis,,,,,ss
 minoraverages/1910Reach,1909,Southern Association,lindsay,F20518,L'd'y,,2,New Orleans,,,,,ss
 minoraverages/1910Reach,1909,Southern Association,lindsay,F20518,L'd'y,,T,,,,,,ss131
 minoraverages/1910Reach,1909,Southern Association,ludwig,F21502,L'wig,,1,Memphis,,,,,c
 minoraverages/1910Reach,1909,Southern Association,ludwig,F21502,L'wig,,2,Mobile,,,,,c
 minoraverages/1910Reach,1909,Southern Association,ludwig,F21502,L'wig,,T,,,,,,c101
-boxscores/1909/1909-AG,1909,Southern Association,larsen,P5583830,Larsen,,,Birmingham,19090501,19090918,55,1,"p1,2b7,3b46,of2,rf2"
-boxscores/1909/1909-MCA,1909,Southern Association,larsen,P8031135,Larsen,,,Birmingham,19090501,19090918,60,1,"p1,2b7,3b51,of2,rf2"
 minoraverages/1910Reach,1909,Southern Association,larsen,B00308,Larsen,,0,Birmingham,,,60,,
 minoraverages/1910Reach,1909,Southern Association,larsen,F20401,Larsen,,0,Birmingham,,,,,3b52
 minoraverages/1910Reach,1909,Southern Association,larsen,F21752,Larsen,,0,Birmingham,,,,,2b7
-boxscores/1909/1909-AG,1909,Southern Association,lee,P4044750,Lee,,,Atlanta,19090817,19090911,21,0,"of21,lf3,cf3,rf16"
-boxscores/1909/1909-MCA,1909,Southern Association,lee,P1787095,Lee,,,Atlanta,19090817,19090914,26,0,"of26,lf4,cf3,rf20"
 minoraverages/1910Reach,1909,Southern Association,lee,B00149,Lee,,0,Atlanta,,,27,,
 minoraverages/1910Reach,1909,Southern Association,lee,F20552,Lee,,0,Atlanta,,,,,of27
-boxscores/1909/1909-AG,1909,Southern Association,lelivelt,P4206956,Lelivelt,,,Mobile,19090419,19090712,15,14,"p14,of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,lelivelt,P3731701,Lelivelt,,,Mobile,19090423,19090712,12,11,"p11,of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,lelivelt,P2866830,Lelivelty,,,Mobile,19090419,19090419,1,1,p1
-boxscores/1909/1909-MCA,1909,Southern Association,lelivelt,P4531056,Lelvilt,,,Mobile,19090707,19090707,1,1,p1
-boxscores/1909/1909-MCA,1909,Southern Association,lelivelt,P4281973,Lilevelt,,,Mobile,19090430,19090430,1,1,p1
 minoraverages/1910Reach,1909,Southern Association,lelivelt,B00840,Lilivelt,,0,Mobile,,,14,,
 minoraverages/1910Reach,1909,Southern Association,lelivelt,F21229,Lillivelt,,0,Mobile,,,,,p14
 minoraverages/1910Reach,1909,Southern Association,lelivelt,P10081,Lillivelt,,0,Mobile,,,,13,
-boxscores/1909/1909-AG,1909,Southern Association,lindsay,P8846053,Lindsay,,,New Orleans,19090522,19090918,82,0,ss82
-boxscores/1909/1909-AG,1909,Southern Association,lindsay,P9075994,Lindsay,,,Memphis,19090415,19090519,22,0,ss22
-boxscores/1909/1909-MCA,1909,Southern Association,lindsay,P3961198,Lindsay,,,New Orleans,19090523,19090918,95,0,ss95
-boxscores/1909/1909-MCA,1909,Southern Association,lindsay,P8600739,Lindsay,,,Memphis,19090415,19090519,25,0,ss25
 minoraverages/1910Reach,1909,Southern Association,lindsay,B00264,Lindsay,,1,Memphis,,,,,
 minoraverages/1910Reach,1909,Southern Association,lindsay,B00264,Lindsay,,2,New Orleans,,,,,
 minoraverages/1910Reach,1909,Southern Association,lindsay,B00264,Lindsay,,T,,,,131,,
-boxscores/1909/1909-AG,1909,Southern Association,lindsay,P0133790,Lindsey,,,Memphis,19090417,19090511,8,0,ss8
-boxscores/1909/1909-AG,1909,Southern Association,lindsay,P1336169,Lindsey,,,New Orleans,19090528,19090612,5,0,ss5
-boxscores/1909/1909-MCA,1909,Southern Association,lindsay,P6451314,Lindsey,,,New Orleans,19090601,19090612,4,0,ss4
-boxscores/1909/1909-MCA,1909,Southern Association,lindsay,P9658535,Lindsey,,,Memphis,19090427,19090511,5,0,ss5
-boxscores/1909/1909-AG,1909,Southern Association,lively,P4638329,Lively,,,Montgomery,19090415,19090915,41,37,"p37,of2,rf2"
-boxscores/1909/1909-MCA,1909,Southern Association,lively,P7085634,Lively,,,Montgomery,19090415,19090915,40,36,"p36,of2,rf2"
 minoraverages/1910Reach,1909,Southern Association,lively,B00999,Lively,,0,Montgomery,,,39,,
 minoraverages/1910Reach,1909,Southern Association,lively,F20970,Lively,,0,Montgomery,,,,,p38
 minoraverages/1910Reach,1909,Southern Association,lively,P10192,Lively,,0,Montgomery,,,,36,
-boxscores/1909/1909-AG,1909,Southern Association,ludwig,P5610487,Ludwig,,,Mobile,19090526,19090913,80,0,c80
-boxscores/1909/1909-AG,1909,Southern Association,ludwig,P7084722,Ludwig,,,Memphis,19090415,19090518,25,0,"c22,1b1"
-boxscores/1909/1909-MCA,1909,Southern Association,ludwig,P3736987,Ludwig,,,Memphis,19090415,19090518,25,0,"c22,1b1"
-boxscores/1909/1909-MCA,1909,Southern Association,ludwig,P7024192,Ludwig,,,Mobile,19090526,19090913,78,0,"c78,1b1"
 minoraverages/1910Reach,1909,Southern Association,ludwig,B01029,Ludwig,,1,Memphis,,,,,
 minoraverages/1910Reach,1909,Southern Association,ludwig,B01029,Ludwig,,2,Mobile,,,,,
 minoraverages/1910Reach,1909,Southern Association,ludwig,B01029,Ludwig,,T,,,,101,,
-boxscores/1909/1909-MCA,1909,Southern Association,mcgilvray,P4216585,M'G'lvry,,,Birmingham,19090524,19090903,3,0,"1b2,of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,mcgilvray,P9953448,M'G'ray,,,Birmingham,19090420,19090420,1,0,"of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,mcgilvray,P9228210,M'G'v'y,,,Birmingham,19090419,19090419,1,0,"of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,mcgilvray,P3490848,M'Gilv,,,Birmingham,19090719,19090719,1,0,"of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,mcgilvray,P0087456,M'Gilv'y,,,Birmingham,19090601,19090601,1,0,"of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,mcgilvray,P0953036,M'Gilvray,,,Birmingham,19090415,19090916,56,0,"1b20,of37,rf37"
-boxscores/1909/1909-MCA,1909,Southern Association,mcgilvray,P7865931,M'Gilvry,,,Birmingham,19090731,19090731,1,0,1b1
-boxscores/1909/1909-MCA,1909,Southern Association,mcgilvray,P4505218,M'Glvry,,,Birmingham,19090609,19090914,5,0,"1b1,of4,rf4"
-boxscores/1909/1909-MCA,1909,Southern Association,mcmurray,P5039419,M'Murr'y,,,Atlanta,19090504,19090830,4,0,c4
-boxscores/1909/1909-MCA,1909,Southern Association,mcmurray,P0377461,M'Murray,,,Atlanta,19090421,19090916,38,0,c36
-boxscores/1909/1909-MCA,1909,Southern Association,molesworth,P1422401,M'lsworth,,,Birmingham,19090615,19090616,3,0,"of3,cf3"
-boxscores/1909/1909-MCA,1909,Southern Association,molesworth,P8756032,M'lswth,,,Birmingham,19090426,19090903,9,0,"of9,cf9"
-boxscores/1909/1909-MCA,1909,Southern Association,molesworth,P0744450,M'worth,,,Birmingham,19090419,19090601,3,0,"of3,cf3"
-boxscores/1909/1909-AG,1909,Southern Association,manuel,P0509811,Manuel,,,Birmingham,19090428,19090918,51,33,"p33,of16,lf1,cf5,rf10"
-boxscores/1909/1909-MCA,1909,Southern Association,manuel,P2957116,Manuel,,,Birmingham,19090428,19090918,53,33,"p33,of18,lf1,cf6,rf11"
 minoraverages/1910Reach,1909,Southern Association,manuel,B00084,Manuel,,0,Birmingham,,,53,,
 minoraverages/1910Reach,1909,Southern Association,manuel,F20571,Manuel,,0,Birmingham,,,,,of18
 minoraverages/1910Reach,1909,Southern Association,manuel,F21092,Manuel,,0,Birmingham,,,,,p35
 minoraverages/1910Reach,1909,Southern Association,manuel,P10348,Manuel,,0,Birmingham,,,,29,
-boxscores/1909/1909-AG,1909,Southern Association,manush,P7384816,Manush,,,Montgomery,19090416,19090507,16,0,3b16
-boxscores/1909/1909-MCA,1909,Southern Association,manush,P9832121,Manush,,,Montgomery,19090415,19090507,17,0,3b17
 minoraverages/1910Reach,1909,Southern Association,manush,B01345,Manush,,0,Montgomery,,,19,,
 minoraverages/1910Reach,1909,Southern Association,manush,F20425,Manush,,0,Montgomery,,,,,3b19
-boxscores/1909/1909-AG,1909,Southern Association,marcan,P3433187,Marcan,,,Birmingham,19090905,19090914,3,0,"3b2,ss1"
-boxscores/1909/1909-AG,1909,Southern Association,marcan@ump,P9960695,Marcan,,,#umpire,19090918,19090918,,,
-boxscores/1909/1909-MCA,1909,Southern Association,marcan@ump,P1374400,Marcan,,,#umpire,19090918,19090918,,,
-boxscores/1909/1909-MCA,1909,Southern Association,marcan,P5880492,Marcan,,,Birmingham,19090905,19090914,11,0,"2b4,3b5,ss2"
 minoraverages/1910Reach,1909,Southern Association,marcan,B01538,Marcan,,0,Birmingham,,,11,,
 minoraverages/1910Reach,1909,Southern Association,marcan,F21811,Marcan,,0,Birmingham,,,,,3b5
-boxscores/1909/1909-AG,1909,Southern Association,marcan,P7868872,Marcean,,,Birmingham,19090911,19090913,2,0,"2b1,ss1"
-boxscores/1909/1909-AG,1909,Southern Association,matthews,P1950602,Mathews,,,New Orleans,19090604,19090918,4,0,c4
-boxscores/1909/1909-MCA,1909,Southern Association,matthews,P7065747,Mathews,,,New Orleans,19090604,19090731,3,0,c3
-boxscores/1909/1909-MCA,1909,Southern Association,matthews,P8318922,Matt's,,,New Orleans,19090629,19090629,1,0,c1
-boxscores/1909/1909-MCA,1909,Southern Association,matthews,P8580385,Matt'ws,,,New Orleans,19090630,19090630,1,0,c1
-boxscores/1909/1909-AG,1909,Southern Association,matthews@ump,P4299570,Matthews,,,#umpire,19090720,19090814,,,
-boxscores/1909/1909-AG,1909,Southern Association,matthews,P4341918,Matthews,,,New Orleans,19090415,19090917,62,0,"c49,1b2"
-boxscores/1909/1909-MCA,1909,Southern Association,matthews,P3141703,Matthews,,,New Orleans,19090415,19090918,65,0,"c48,1b4"
-boxscores/1909/1909-MCA,1909,Southern Association,matthews@ump,P3824315,Matthews,,,#umpire,19090719,19090814,,,
 minoraverages/1910Reach,1909,Southern Association,matthews,B01078,Matthews,,0,New Orleans,,,66,,
 minoraverages/1910Reach,1909,Southern Association,matthews,F21381,Matthews,,0,New Orleans,,,,,c63
-boxscores/1909/1909-AG,1909,Southern Association,manush,P6790690,Maush,,,Montgomery,19090415,19090415,1,0,3b1
 minoraverages/1910Reach,1909,Southern Association,maxwell,F21084,Maxw'll,,1,Atlanta,,,,,p
 minoraverages/1910Reach,1909,Southern Association,maxwell,F21084,Maxw'll,,2,New Orleans,,,,,p
 minoraverages/1910Reach,1909,Southern Association,maxwell,F21084,Maxw'll,,T,,,,,,p36
-boxscores/1909/1909-AG,1909,Southern Association,maxwell,P1886699,Maxwell,,,New Orleans,19090515,19090917,31,31,p31
-boxscores/1909/1909-AG,1909,Southern Association,maxwell,P2595890,Maxwell,,,Atlanta,19090421,19090512,4,4,p4
-boxscores/1909/1909-MCA,1909,Southern Association,maxwell,P2120635,Maxwell,,,Atlanta,19090421,19090512,4,4,p4
-boxscores/1909/1909-MCA,1909,Southern Association,maxwell,P7001844,Maxwell,,,New Orleans,19090515,19090917,30,30,p30
 minoraverages/1910Reach,1909,Southern Association,maxwell,B01227,Maxwell,,1,Atlanta,,,,,
 minoraverages/1910Reach,1909,Southern Association,maxwell,B01227,Maxwell,,2,New Orleans,,,,,
 minoraverages/1910Reach,1909,Southern Association,maxwell,B01227,Maxwell,,T,,,,34,,
 minoraverages/1910Reach,1909,Southern Association,maxwell,P10244,Maxwell,,1,Atlanta,,,,,
 minoraverages/1910Reach,1909,Southern Association,maxwell,P10244,Maxwell,,2,New Orleans,,,,,
 minoraverages/1910Reach,1909,Southern Association,maxwell,P10244,Maxwell,,T,,,,,32,
-boxscores/1909/1909-AG,1909,Southern Association,mccay,P6891544,McCay,,,Mobile,19090619,19090917,71,1,"p1,c1,1b23,2b16,3b5,ss1,of27,lf1,cf11,rf16"
-boxscores/1909/1909-MCA,1909,Southern Association,mccay,P2388929,McCay,,,Mobile,19090619,19090917,81,1,"p1,c1,1b27,2b16,3b6,ss1,of34,lf3,cf16,rf16"
 minoraverages/1910Reach,1909,Southern Association,mccay,B00531,McCay,,0,Mobile,,,81,,
 minoraverages/1910Reach,1909,Southern Association,mccay,F20144,McCay,,0,Mobile,,,,,1b27
 minoraverages/1910Reach,1909,Southern Association,mccay,F20298,McCay,,0,Mobile,,,,,2b16
 minoraverages/1910Reach,1909,Southern Association,mccay,F20685,McCay,,0,Mobile,,,,,of34
-boxscores/1909/1909-MCA,1909,Southern Association,mcgilvray,P8351462,McGil'y,,,Birmingham,19090630,19090727,6,0,"of6,rf6"
 minoraverages/1910Reach,1909,Southern Association,mcgilvray,F20080,McGilv'y,,0,Birmingham,,,,,1b51
-boxscores/1909/1909-AG,1909,Southern Association,mcgilvray,P6287071,McGilvray,,,Birmingham,19090415,19090918,133,0,"1b42,2b2,of90,rf90"
-boxscores/1909/1909-MCA,1909,Southern Association,mcgilvray,P5086856,McGilvray,,,Birmingham,19090421,19090918,64,0,"1b25,2b3,of36,rf36"
 minoraverages/1910Reach,1909,Southern Association,mcgilvray,B00059,McGilvray,,0,Birmingham,,,143,,
 minoraverages/1910Reach,1909,Southern Association,mcgilvray,F20699,McGilvray,,0,Birmingham,,,,,of92
-boxscores/1909/1909-AG,1909,Southern Association,mcgilvray,P5603326,McGilvry,,,Birmingham,19090731,19090731,1,0,1b1
-boxscores/1909/1909-MCA,1909,Southern Association,mcgilvray,P3717007,McGlr'y,,,Birmingham,19090629,19090629,1,0,"of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,mcmurray,P4163141,McMur'y,,,Atlanta,19090705,19090706,2,0,c2
-boxscores/1909/1909-MCA,1909,Southern Association,mcmurray,P9501183,McMuray,,,Atlanta,19090707,19090707,1,0,c1
-boxscores/1909/1909-AG,1909,Southern Association,mcmurray,P8668296,McMurray,,,Atlanta,19090416,19090918,108,0,c105
-boxscores/1909/1909-MCA,1909,Southern Association,mcmurray,P2984881,McMurray,,,Atlanta,19090416,19090918,61,0,c61
 minoraverages/1910Reach,1909,Southern Association,mcmurray,B00718,McMurray,,0,Atlanta,,,107,,
 minoraverages/1910Reach,1909,Southern Association,mcmurray,F21403,McMurray,,0,Atlanta,,,,,c107
-boxscores/1909/1909-AG,1909,Southern Association,miller,P7393104,Miller,,,Mobile,19090427,19090918,20,2,"p2,c8,1b4,of4,rf4"
-boxscores/1909/1909-MCA,1909,Southern Association,miller,P8806809,Miller,,,Mobile,19090427,19090918,29,2,"p2,c10,1b13,of4,rf4"
 minoraverages/1910Reach,1909,Southern Association,miller,B00544,Miller,,0,Mobile,,,25,,
 minoraverages/1910Reach,1909,Southern Association,miller,F21553,Miller,,0,Mobile,,,,,c9
 minoraverages/1910Reach,1909,Southern Association,miller,F21726,Miller,,0,Mobile,,,,,1b12
-boxscores/1909/1909-AG,1909,Southern Association,milton,P4433443,Milton,,,Little Rock,19090605,19090731,13,12,"p12,1b1"
-boxscores/1909/1909-MCA,1909,Southern Association,milton,P5194508,Milton,,,Little Rock,19090605,19090731,13,12,"p12,1b1"
 minoraverages/1910Reach,1909,Southern Association,milton,B01337,Milton,,0,Little Rock,,,12,,
 minoraverages/1910Reach,1909,Southern Association,milton,F21210,Milton,,0,Little Rock,,,,,p12
 minoraverages/1910Reach,1909,Southern Association,milton,P10361,Milton,,0,Little Rock,,,,11,
-boxscores/1909/1909-MCA,1909,Southern Association,molesworth,P4050616,Mo'es'th,,,Birmingham,19090705,19090705,1,0,"of1,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,molesworth,P5052407,Mo'w'th,,,Birmingham,19090420,19090420,1,0,"of1,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,molesworth,P7842351,Mol'swth,,,Birmingham,19090503,19090503,1,0,"of1,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,molesworth,P5248073,Moles'h,,,Birmingham,19090630,19090802,2,0,"of2,cf2"
-boxscores/1909/1909-MCA,1909,Southern Association,molesworth,P9953053,Moles'th,,,Birmingham,19090706,19090706,1,0,"of1,cf1"
-boxscores/1909/1909-AG,1909,Southern Association,molesworth,P9854327,Molesw'h,,,Birmingham,19090810,19090810,1,0,"of1,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,molesworth,P4969472,Molesw'h,,,Birmingham,19090416,19090911,55,0,"of55,cf55"
-boxscores/1909/1909-MCA,1909,Southern Association,molesworth,P0759220,Molesw'th,,,Birmingham,19090707,19090707,1,0,"of1,cf1"
 minoraverages/1910Reach,1909,Southern Association,molesworth,F20636,Molesw'th,,0,Birmingham,,,,,of140
-boxscores/1909/1909-AG,1909,Southern Association,molesworth,P9311845,Molesworth,,,Birmingham,19090415,19090911,133,0,"of133,cf133"
-boxscores/1909/1909-MCA,1909,Southern Association,molesworth,P9704750,Molesworth,,,Birmingham,19090415,19090910,59,0,"of59,cf59"
 minoraverages/1910Reach,1909,Southern Association,molesworth,B00130,Molesworth,,0,Birmingham,,,140,,
-boxscores/1909/1909-AG,1909,Southern Association,moore,P3442451,Moore,,,Birmingham,19090420,19090420,1,1,p1
-boxscores/1909/1909-MCA,1909,Southern Association,moore,P7759036,Moore,,,Birmingham,19090420,19090420,1,1,p1
-boxscores/1909/1909-AG,1909,Southern Association,moran@ump,P7788994,Moran,,,#umpire,19090415,19090918,,,
-boxscores/1909/1909-AG,1909,Southern Association,moran,P9615221,Moran,,,Atlanta,19090415,19090918,98,0,"1b1,of97,lf97"
-boxscores/1909/1909-MCA,1909,Southern Association,moran,P1028926,Moran,,,Atlanta,19090415,19090918,104,0,"1b1,2b1,of102,lf100,rf3"
-boxscores/1909/1909-MCA,1909,Southern Association,moran@ump,P3286379,Moran,,,#umpire,19090415,19090918,,,
 minoraverages/1910Reach,1909,Southern Association,moran,B00623,Moran,,0,Atlanta,,,106,,
 minoraverages/1910Reach,1909,Southern Association,moran,F20810,Moran,,0,Atlanta,,,,,of106
-boxscores/1909/1909-AG,1909,Southern Association,morris,P2663778,Morris,,,Memphis,19090521,19090611,16,0,"3b1,ss10,of5,cf4,rf1"
-boxscores/1909/1909-AG,1909,Southern Association,morris,P6802765,Morris,,,Birmingham,19090511,19090519,7,0,"2b2,3b5"
-boxscores/1909/1909-MCA,1909,Southern Association,morris,P9250070,Morris,,,Birmingham,19090511,19090519,7,0,"2b2,3b5"
-boxscores/1909/1909-MCA,1909,Southern Association,morris,P9316043,Morris,,,Memphis,19090521,19090611,15,0,"3b1,ss9,of5,cf4,rf1"
 minoraverages/1910Reach,1909,Southern Association,morris,B01216,Morris,,1,Birmingham,,,,,
 minoraverages/1910Reach,1909,Southern Association,morris,B01216,Morris,,2,Memphis,,,,,
 minoraverages/1910Reach,1909,Southern Association,morris,B01216,Morris,,T,,,,22,,
@@ -704,475 +309,174 @@ minoraverages/1910Reach,1909,Southern Association,morris,F21879,Morris,,T,,,,,,s
 minoraverages/1910Reach,1909,Southern Association,morris,F21912,Morris,,1,Birmingham,,,,,of
 minoraverages/1910Reach,1909,Southern Association,morris,F21912,Morris,,2,Memphis,,,,,of
 minoraverages/1910Reach,1909,Southern Association,morris,F21912,Morris,,T,,,,,,of5
-boxscores/1909/1909-MCA,1909,Southern Association,huelsman,P2117468,Muelsman,,,New Orleans,19090417,19090417,1,0,"of1,lf1"
-boxscores/1909/1909-AG,1909,Southern Association,murphy,P0943317,Murphy,,,Little Rock,19090914,19090914,1,0,"of1,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,murphy,P1704382,Murphy,,,Little Rock,19090914,19090914,1,0,"of1,cf1"
-boxscores/1909/1909-AG,1909,Southern Association,murray@ump,P3427301,Murray,,,#umpire,19090901,19090901,,,
-boxscores/1909/1909-MCA,1909,Southern Association,neighbors,P2671597,N'gh'b'rs,,,Mobile,19090719,19090719,1,0,"of1,rf1"
 minoraverages/1910Reach,1909,Southern Association,neighbors,F20594,N'gh's,,1,Mobile,,,,,of
 minoraverages/1910Reach,1909,Southern Association,neighbors,F20594,N'gh's,,2,Memphis,,,,,of
 minoraverages/1910Reach,1909,Southern Association,neighbors,F20594,N'gh's,,T,,,,,,of83
-boxscores/1909/1909-MCA,1909,Southern Association,neighbors,P1258819,Neig'rs,,,Mobile,19090705,19090706,2,0,"of2,rf2"
-boxscores/1909/1909-MCA,1909,Southern Association,neighbors,P3129741,Neighb'rs,,,Mobile,19090601,19090712,2,0,"of2,rf2"
-boxscores/1909/1909-MCA,1909,Southern Association,neighbors,P5220104,Neighb'rs,,,Memphis,19090914,19090914,1,0,"of1,cf1"
-boxscores/1909/1909-AG,1909,Southern Association,neighbors,P1103623,Neighbors,,,Memphis,19090822,19090911,13,0,"of13,cf13"
-boxscores/1909/1909-AG,1909,Southern Association,neighbors,P7853484,Neighbors,,,Mobile,19090528,19090817,64,0,"c5,of59,rf59"
-boxscores/1909/1909-MCA,1909,Southern Association,neighbors,P2170069,Neighbors,,,Mobile,19090528,19090817,59,0,"c5,of54,rf54"
-boxscores/1909/1909-MCA,1909,Southern Association,neighbors,P3550928,Neighbors,,,Memphis,19090822,19090917,23,0,"of23,cf23"
 minoraverages/1910Reach,1909,Southern Association,neighbors,B00590,Neighbors,,1,Mobile,,,,,
 minoraverages/1910Reach,1909,Southern Association,neighbors,B00590,Neighbors,,2,Memphis,,,,,
 minoraverages/1910Reach,1909,Southern Association,neighbors,B00590,Neighbors,,T,,,,83,,
-boxscores/1909/1909-AG,1909,Southern Association,neighbors,P3637501,Neighbrs,,,Mobile,19090526,19090526,1,0,"of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,neighbors,P3162246,Neighbrs,,,Mobile,19090526,19090526,1,0,"of1,rf1"
-boxscores/1909/1909-AG,1909,Southern Association,newton,P9425244,Neton,,,Atlanta,19090419,19090419,1,0,ss1
-boxscores/1909/1909-AG,1909,Southern Association,newton,P7901715,Newton,,,Atlanta,19090415,19090918,130,0,ss130
-boxscores/1909/1909-MCA,1909,Southern Association,newton,P4553980,Newton,,,Atlanta,19090415,19090918,138,0,ss138
 minoraverages/1910Reach,1909,Southern Association,newton,B00887,Newton,,0,Atlanta,,,141,,
 minoraverages/1910Reach,1909,Southern Association,newton,F20458,Newton,,0,Atlanta,,,,,ss141
-boxscores/1909/1909-AG,1909,Southern Association,noyes,P1059716,Noves,,,Nashville,19090524,19090524,1,0,3b1
-boxscores/1909/1909-AG,1909,Southern Association,noyes,P9563429,Nowes,,,Nashville,19090611,19090611,1,0,3b1
-boxscores/1909/1909-AG,1909,Southern Association,noyes,P6570855,Noyes,,,Nashville,19090415,19090918,128,0,"2b1,3b127"
-boxscores/1909/1909-MCA,1909,Southern Association,noyes,P6095600,Noyes,,,Nashville,19090415,19090918,136,0,3b136
 minoraverages/1910Reach,1909,Southern Association,noyes,B00760,Noyes,,0,Nashville,,,136,,
 minoraverages/1910Reach,1909,Southern Association,noyes,F20391,Noyes,,0,Nashville,,,,,3b136
-boxscores/1909/1909-AG,1909,Southern Association,obrien@ump,P3264619,O'Brien,,,#umpire,19090415,19090918,,,
-boxscores/1909/1909-AG,1909,Southern Association,obrien@ump,P9091943,O'Brien,Rudderham,,#umpire,19090802,19090818,,,
-boxscores/1909/1909-MCA,1909,Southern Association,obrien,P2138421,O'Brien,,,Memphis,19090604,19090604,1,0,c1
-boxscores/1909/1909-MCA,1909,Southern Association,obrien@ump,P6965488,O'Brien,Rudderham,,#umpire,19090802,19090818,,,
-boxscores/1909/1909-MCA,1909,Southern Association,obrien@ump,P9916884,O'Brien,,,#umpire,19090415,19090918,,,
-boxscores/1909/1909-AG,1909,Southern Association,oconnor,P3732469,O'Connor,,,Little Rock,19090429,19090719,8,0,"c5,of1,lf1"
-boxscores/1909/1909-MCA,1909,Southern Association,oconnor,P2532254,O'Connor,,,Little Rock,19090429,19090719,8,0,"c5,of1,lf1"
 minoraverages/1910Reach,1909,Southern Association,oconnor,B01402,O'Connor,,0,Little Rock,,,7,,
 minoraverages/1910Reach,1909,Southern Association,oconnor,F21531,O'Connor,,0,Little Rock,,,,,c7
-boxscores/1909/1909-AG,1909,Southern Association,oleary,P5891097,O'Leary,,,Memphis,19090428,19090918,119,0,"c107,1b5,2b1,of3,lf1,cf1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,oleary,P5415842,O'Leary,,,Memphis,19090428,19090918,118,0,"c106,1b5,2b1,of3,lf2,rf1"
 minoraverages/1910Reach,1909,Southern Association,oleary,B00646,O'Leary,,0,Memphis,,,117,,
 minoraverages/1910Reach,1909,Southern Association,oleary,F21427,O'Leary,,0,Memphis,,,,,c109
 minoraverages/1910Reach,1909,Southern Association,oleary,F21680,O'Leary,,0,Memphis,,,,,1b5
-boxscores/1909/1909-AG,1909,Southern Association,osteen,P6005682,Osteen,,,Montgomery,19090508,19090918,100,2,"p2,c1,1b3,2b20,3b40,ss39"
-boxscores/1909/1909-MCA,1909,Southern Association,osteen,P8452987,Osteen,,,Montgomery,19090508,19090918,111,2,"p2,c1,1b3,2b28,3b43,ss39"
 minoraverages/1910Reach,1909,Southern Association,osteen,B00370,Osteen,,0,Montgomery,,,111,,
 minoraverages/1910Reach,1909,Southern Association,osteen,F20153,Osteen,,0,Montgomery,,,,,2b25
 minoraverages/1910Reach,1909,Southern Association,osteen,F20303,Osteen,,0,Montgomery,,,,,3b40
 minoraverages/1910Reach,1909,Southern Association,osteen,F20526,Osteen,,0,Montgomery,,,,,ss41
-boxscores/1909/1909-AG,1909,Southern Association,paige,P0633079,Paige,,,New Orleans,19090718,19090912,15,15,p15
-boxscores/1909/1909-MCA,1909,Southern Association,paige,P3080384,Paige,,,New Orleans,19090718,19090916,16,16,p16
 minoraverages/1910Reach,1909,Southern Association,paige,B01197,Paige,,0,New Orleans,,,16,,
 minoraverages/1910Reach,1909,Southern Association,paige,F21343,Paige,,0,New Orleans,,,,,p16
 minoraverages/1910Reach,1909,Southern Association,paige,P10385,Paige,,0,New Orleans,,,,14,
-boxscores/1909/1909-AG,1909,Southern Association,persons,P0670099,Peersons,,,Montgomery,19090622,19090622,1,0,"of1,lf1"
-boxscores/1909/1909-MCA,1909,Southern Association,persons,P5785244,Peersons,,,Montgomery,19090622,19090622,1,0,"of1,lf1"
-boxscores/1909/1909-AG,1909,Southern Association,pepe,P3887630,Pepe,,,Montgomery,19090415,19090918,109,0,"3b11,ss97,of1,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,pepe,P3412375,Pepe,,,Montgomery,19090415,19090918,121,0,"c1,3b11,ss109,of1,cf1"
 minoraverages/1910Reach,1909,Southern Association,pepe,B00362,Pepe,,0,Montgomery,,,120,,
 minoraverages/1910Reach,1909,Southern Association,pepe,F20482,Pepe,,0,Montgomery,,,,,ss109
 minoraverages/1910Reach,1909,Southern Association,pepe,F21794,Pepe,,0,Montgomery,,,,,3b11
-boxscores/1909/1909-AG,1909,Southern Association,perdue,P0983966,Perdue,,,Nashville,19090416,19090914,37,37,p37
-boxscores/1909/1909-MCA,1909,Southern Association,perdue,P5300551,Perdue,,,Nashville,19090416,19090916,38,38,p38
 minoraverages/1910Reach,1909,Southern Association,perdue,B01300,Perdue,,0,Nashville,,,27,,
 minoraverages/1910Reach,1909,Southern Association,perdue,F21293,Perdue,,0,Nashville,,,,,p37
 minoraverages/1910Reach,1909,Southern Association,perdue,P10035,Perdue,,0,Nashville,,,,36,
-boxscores/1909/1909-AG,1909,Southern Association,perry,P7629922,Perry,,,Little Rock,19090415,19090918,138,0,"2b4,3b135"
-boxscores/1909/1909-MCA,1909,Southern Association,perry,P0077227,Perry,,,Little Rock,19090415,19090918,137,0,"2b5,3b133"
 minoraverages/1910Reach,1909,Southern Association,perry,B00232,Perry,,0,Little Rock,,,140,,
 minoraverages/1910Reach,1909,Southern Association,perry,F20350,Perry,,0,Little Rock,,,,,3b136
-boxscores/1909/1909-AG,1909,Southern Association,persons,P0918810,Persons,,,Little Rock,19090801,19090918,47,0,"of47,lf47"
-boxscores/1909/1909-AG,1909,Southern Association,persons,P5966734,Persons,,,Montgomery,19090415,19090725,84,0,"of82,lf71,cf10,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,persons,P6033955,Persons,,,Little Rock,19090801,19090918,47,0,"of47,lf47"
-boxscores/1909/1909-MCA,1909,Southern Association,persons,P6727799,Persons,,,Montgomery,19090415,19090725,84,0,"of82,lf71,cf10,rf1"
 minoraverages/1910Reach,1909,Southern Association,persons,B00229,Persons,,1,Montgomery,,,,,
 minoraverages/1910Reach,1909,Southern Association,persons,B00229,Persons,,2,Little Rock,,,,,
 minoraverages/1910Reach,1909,Southern Association,persons,B00229,Persons,,T,,,,133,,
 minoraverages/1910Reach,1909,Southern Association,persons,F20745,Persons,,1,Montgomery,,,,,of
 minoraverages/1910Reach,1909,Southern Association,persons,F20745,Persons,,2,Little Rock,,,,,of
 minoraverages/1910Reach,1909,Southern Association,persons,F20745,Persons,,T,,,,,,of133
-boxscores/1909/1909-AG,1909,Southern Association,petit,P3382481,Petit,,,Mobile,19090415,19090525,18,0,c11
-boxscores/1909/1909-MCA,1909,Southern Association,petit,P8879866,Petit,,,Mobile,19090415,19090525,18,0,c11
 minoraverages/1910Reach,1909,Southern Association,petit,B00403,Petit,,0,Mobile,,,18,,
 minoraverages/1910Reach,1909,Southern Association,petit,F21528,Petit,,0,Mobile,,,,,c18
-boxscores/1909/1909-AG,1909,Southern Association,pfenniger@ump,P4595715,Pfeninger,,,#umpire,19090531,19090531,,,
-boxscores/1909/1909-MCA,1909,Southern Association,pfenniger@ump,P8912300,Pfeninger,,,#umpire,19090531,19090531,,,
-boxscores/1909/1909-AG,1909,Southern Association,pfenniger@ump,P0316727,Pfenninger,O'Brien,,#umpire,19090905,19090905,,,
-boxscores/1909/1909-AG,1909,Southern Association,pfenniger@ump,P4526385,Pfenninger,,,#umpire,19090415,19090915,,,
-boxscores/1909/1909-MCA,1909,Southern Association,pfenniger@ump,P0143712,Pfenninger,O'Brien,,#umpire,19090905,19090905,,,
-boxscores/1909/1909-MCA,1909,Southern Association,pfenniger@ump,P6973690,Pfenninger,,,#umpire,19090415,19090917,,,
-boxscores/1909/1909-AG,1909,Southern Association,pope,P0112920,Pope,,,Montgomery,19090416,19090416,1,0,ss1
-boxscores/1909/1909-AG,1909,Southern Association,pratt,P3937476,Pratt,,,Nashville,19090914,19090917,3,0,c3
-boxscores/1909/1909-MCA,1909,Southern Association,pratt,P3462221,Pratt,,,Nashville,19090914,19090917,3,0,c3
-boxscores/1909/1909-MCA,1909,Southern Association,pruitt,P8308871,Pruiett,,,New Orleans,19090420,19090420,1,1,p1
-boxscores/1909/1909-AG,1909,Southern Association,pruitt,P7614425,Pruitt,,,New Orleans,19090415,19090918,31,31,p31
-boxscores/1909/1909-MCA,1909,Southern Association,pruitt,P8375490,Pruitt,,,New Orleans,19090415,19090918,31,30,"p30,2b1"
 minoraverages/1910Reach,1909,Southern Association,pruitt,B01135,Pruitt,,0,New Orleans,,,29,,
 minoraverages/1910Reach,1909,Southern Association,pruitt,F21037,Pruitt,,0,New Orleans,,,,,p29
 minoraverages/1910Reach,1909,Southern Association,pruitt,P10215,Pruitt,,0,New Orleans,,,,29,
-boxscores/1909/1909-AG,1909,Southern Association,queisser,P2341719,Queisser,,,Memphis,19090418,19090918,25,22,"p22,of2,lf1,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,queisser,P6658304,Queisser,,,Memphis,19090415,19090918,36,30,"p30,of4,lf2,cf1,rf1"
 minoraverages/1910Reach,1909,Southern Association,queisser,B01162,Queisser,,0,Memphis,,,32,,
 minoraverages/1910Reach,1909,Southern Association,queisser,F21117,Queisser,,0,Memphis,,,,,p32
 minoraverages/1910Reach,1909,Southern Association,queisser,P10429,Queisser,,0,Memphis,,,,27,
-boxscores/1909/1909-AG,1909,Southern Association,queisser,P3507392,Quiess,,,Memphis,19090419,19090419,1,0,
-boxscores/1909/1909-AG,1909,Southern Association,queisser,P0816983,Quiesser,,,Memphis,19090415,19090910,10,9,"p9,ss1"
-boxscores/1909/1909-MCA,1909,Southern Association,queisser,P5133568,Quiesser,,,Memphis,19090804,19090804,1,0,ss1
-boxscores/1909/1909-MCA,1909,Southern Association,robinson,P0670067,R'bnson,,,Birmingham,19090915,19090915,1,0,"of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,robertson,P1144754,R'btsn,,,Nashville,19090504,19090610,3,0,1b3
-boxscores/1909/1909-MCA,1909,Southern Association,robertson,P4906849,R'btson,,,Nashville,19090503,19090524,2,0,1b2
-boxscores/1909/1909-MCA,1909,Southern Association,rockenfeld,P8070943,R'cknf'ld,,,Montgomery,19090607,19090607,1,0,2b1
-boxscores/1909/1909-MCA,1909,Southern Association,rockenfeld,P7352280,R'cknfld,,,Montgomery,19090504,19090611,5,0,2b5
-boxscores/1909/1909-MCA,1909,Southern Association,rockenfeld,P5375818,R'field,,,Montgomery,19090719,19090719,1,0,2b1
 minoraverages/1910Reach,1909,Southern Association,raftis,F20265,R'ftis,,1,Birmingham,,,,,2b
 minoraverages/1910Reach,1909,Southern Association,raftis,F20265,R'ftis,,2,New Orleans,,,,,2b
 minoraverages/1910Reach,1909,Southern Association,raftis,F20265,R'ftis,,T,,,,,,2b22
 minoraverages/1910Reach,1909,Southern Association,raftis,F20342,R'ftis,,1,Birmingham,,,,,3b
 minoraverages/1910Reach,1909,Southern Association,raftis,F20342,R'ftis,,2,New Orleans,,,,,3b
 minoraverages/1910Reach,1909,Southern Association,raftis,F20342,R'ftis,,T,,,,,,3b84
-boxscores/1909/1909-MCA,1909,Southern Association,rockenfeld,P7588981,R'kenf'd,,,Montgomery,19090428,19090823,7,0,2b7
-boxscores/1909/1909-AG,1909,Southern Association,rockenfeld,P0036792,R'kenf'ld,,,Montgomery,19090709,19090805,2,0,2b2
-boxscores/1909/1909-MCA,1909,Southern Association,rockenfeld,P8836577,R'kenf'ld,,,Montgomery,19090422,19090820,28,0,2b28
-boxscores/1909/1909-MCA,1909,Southern Association,rockenfeld,P4806499,R'kenf'lf,,,Montgomery,19090716,19090721,2,0,2b2
-boxscores/1909/1909-MCA,1909,Southern Association,rockenfeld,P7433375,R'kenfeld,,,Montgomery,19090417,19090417,1,0,2b1
-boxscores/1909/1909-MCA,1909,Southern Association,rockenfeld,P1517704,R'kenfield,,,Montgomery,19090701,19090701,1,0,
-boxscores/1909/1909-MCA,1909,Southern Association,rockenfeld,P2184924,R'knf'ld,,,Montgomery,19090614,19090614,1,0,2b1
-boxscores/1909/1909-AG,1909,Southern Association,raftis,P8638682,Raftis,,,New Orleans,19090820,19090911,14,0,"1b1,2b13"
-boxscores/1909/1909-AG,1909,Southern Association,raftis,P9572570,Raftis,,,Birmingham,19090417,19090807,81,0,"2b1,3b80"
-boxscores/1909/1909-MCA,1909,Southern Association,raftis,P2019875,Raftis,,,Birmingham,19090417,19090807,80,0,"2b1,3b79"
-boxscores/1909/1909-MCA,1909,Southern Association,raftis,P9399747,Raftis,,,New Orleans,19090820,19090912,21,0,"1b1,2b20"
 minoraverages/1910Reach,1909,Southern Association,raftis,B00705,Raftis,,1,Birmingham,,,,,
 minoraverages/1910Reach,1909,Southern Association,raftis,B00705,Raftis,,2,New Orleans,,,,,
 minoraverages/1910Reach,1909,Southern Association,raftis,B00705,Raftis,,T,,,,106,,
-boxscores/1909/1909-AG,1909,Southern Association,raftis,P1617126,Raftus,,,Birmingham,19090415,19090416,2,0,3b2
-boxscores/1909/1909-MCA,1909,Southern Association,raftis,P4064431,Raftus,,,Birmingham,19090415,19090416,2,0,3b2
-boxscores/1909/1909-AG,1909,Southern Association,raub,P6285243,Raub,,,Birmingham,19090420,19090918,88,0,"c78,of6,cf1,rf5"
-boxscores/1909/1909-MCA,1909,Southern Association,raub,P5809988,Raub,,,Birmingham,19090420,19090918,89,0,"c77,1b1,of7,cf2,rf5"
 minoraverages/1910Reach,1909,Southern Association,raub,B00739,Raub,,0,Birmingham,,,88,,
 minoraverages/1910Reach,1909,Southern Association,raub,F21416,Raub,,0,Birmingham,,,,,c81
 minoraverages/1910Reach,1909,Southern Association,raub,F21898,Raub,,0,Birmingham,,,,,of7
-boxscores/1909/1909-AG,1909,Southern Association,reagan.s,P1703231,Reagan,,,New Orleans,19090423,19090718,52,0,"of49,cf49"
-boxscores/1909/1909-AG,1909,Southern Association,reagan.s,P7708768,Reagan,S.,,New Orleans,19090415,19090426,10,0,"of10,cf10"
-boxscores/1909/1909-AG,1909,Southern Association,reagan.e,P8656786,Reagan,E.,,New Orleans,19090416,19090418,3,0,ss3
-boxscores/1909/1909-MCA,1909,Southern Association,reagan.s,P2464296,Reagan,,,New Orleans,19090415,19090718,53,0,"of50,cf50"
-boxscores/1909/1909-MCA,1909,Southern Association,reagan.s,P6508553,Reagan,S.,,New Orleans,19090416,19090425,8,0,"of8,cf8"
-boxscores/1909/1909-MCA,1909,Southern Association,reagan.e,P7456571,Reagan,E.,,New Orleans,19090416,19090418,3,0,ss3
 minoraverages/1910Reach,1909,Southern Association,reagan.s,F20908,Reagan,,0,New Orleans,,,,,of63
-boxscores/1909/1909-MCA,1909,Southern Association,reagan.s,P4942587,Reargan,S.,,New Orleans,19090426,19090426,1,0,"of1,cf1"
 minoraverages/1910Reach,1909,Southern Association,reagan.s,B00638,Regan,,0,New Orleans,,,63,,
-boxscores/1909/1909-MCA,1909,Southern Association,rhodes,P0946111,Rhoades,,,Little Rock,19090803,19090807,2,2,p2
-boxscores/1909/1909-AG,1909,Southern Association,rhodes,P5080021,Rhodes,,,Little Rock,19090706,19090915,19,17,"p17,of2,lf2"
-boxscores/1909/1909-MCA,1909,Southern Association,rhodes,P5841086,Rhodes,,,Little Rock,19090706,19090915,17,15,"p15,of2,lf2"
 minoraverages/1910Reach,1909,Southern Association,rhodes,B01359,Rhodes,,0,Little Rock,,,18,,
 minoraverages/1910Reach,1909,Southern Association,rhodes,F21335,Rhodes,,0,Little Rock,,,,,p17
 minoraverages/1910Reach,1909,Southern Association,rhodes,P10312,Rhodes,,0,Little Rock,,,,17,
-boxscores/1909/1909-MCA,1909,Southern Association,rohn,P4724088,Rhon,,,Atlanta,19090604,19090604,1,0,1b1
-boxscores/1909/1909-AG,1909,Southern Association,rhoton,P9769317,Rhoton,,,Mobile,19090415,19090918,117,0,"2b112,3b1,ss1,of1,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,rhoton,P1183022,Rhoton,,,Mobile,19090415,19090918,126,0,"2b119,3b2,ss1,of1,cf1"
 minoraverages/1910Reach,1909,Southern Association,rhoton,B00695,Rhoton,,0,Mobile,,,137,,
 minoraverages/1910Reach,1909,Southern Association,rhoton,F20222,Rhoton,,0,Mobile,,,,,2b127
-boxscores/1909/1909-MCA,1909,Southern Association,rohe,P6239394,Rihe,,,New Orleans,19090910,19090910,1,0,3b1
-boxscores/1909/1909-MCA,1909,Southern Association,robertson,P8225948,Rob'son,,,Nashville,19090705,19090802,4,0,1b4
-boxscores/1909/1909-MCA,1909,Southern Association,robertson,P3223632,Rob'tson,,,Nashville,19090421,19090814,25,0,1b25
 minoraverages/1910Reach,1909,Southern Association,robertson,F20095,Rob'tson,,0,Nashville,,,,,1b98
-boxscores/1909/1909-AG,1909,Southern Association,robertson,P3858167,Robertson,,,Nashville,19090415,19090814,100,0,1b100
-boxscores/1909/1909-AG,1909,Southern Association,robinson,P9324303,Robertson,,,Birmingham,19090621,19090621,1,1,p1
-boxscores/1909/1909-MCA,1909,Southern Association,robertson,P8973312,Robertson,,,Nashville,19090415,19090813,64,0,1b63
 minoraverages/1910Reach,1909,Southern Association,robertson,B00324,Robertson,,0,Nashville,,,98,,
-boxscores/1909/1909-AG,1909,Southern Association,robinson,P3658107,Robinson,,,Birmingham,19090605,19090918,26,22,"p22,of2,cf1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,robinson,P8773252,Robinson,,,Birmingham,19090605,19090918,27,24,"p24,of1,rf1"
 minoraverages/1910Reach,1909,Southern Association,robinson,B00434,Robinson,,0,Birmingham,,,27,,
 minoraverages/1910Reach,1909,Southern Association,robinson,F21264,Robinson,,0,Birmingham,,,,,p27
 minoraverages/1910Reach,1909,Southern Association,robinson,P10336,Robinson,,0,Birmingham,,,,25,
-boxscores/1909/1909-MCA,1909,Southern Association,robertson,P7135088,Robt'son,,,Nashville,19090714,19090714,1,0,1b1
-boxscores/1909/1909-MCA,1909,Southern Association,rockenfeld,P3567352,Rock'eld,,,Montgomery,19090726,19090726,1,0,2b1
-boxscores/1909/1909-MCA,1909,Southern Association,rockenfeld,P3711776,Rock'f'ld,,,Montgomery,19090601,19090601,1,0,2b1
-boxscores/1909/1909-MCA,1909,Southern Association,rockenfeld,P4189881,Rock'fld,,,Montgomery,19090630,19090630,1,0,2b1
-boxscores/1909/1909-MCA,1909,Southern Association,rockenfeld,P5440147,Rock'ld,,,Montgomery,19090802,19090802,1,0,2b1
 minoraverages/1910Reach,1909,Southern Association,rockenfeld,F20211,Rockenf'd,,0,Montgomery,,,,,2b119
-boxscores/1909/1909-AG,1909,Southern Association,rockenfeld,P6978369,Rockenfeld,,,Montgomery,19090417,19090417,1,0,2b1
-boxscores/1909/1909-MCA,1909,Southern Association,rockenfeld,P7371274,Rockenfeld,,,Montgomery,19090627,19090627,1,0,2b1
 minoraverages/1910Reach,1909,Southern Association,rockenfeld,B00210,Rockenfeld,,0,Montgomery,,,119,,
-boxscores/1909/1909-AG,1909,Southern Association,rockenfeld,P6502506,Rockenfield,,,Montgomery,19090415,19090824,113,0,"c2,2b112"
-boxscores/1909/1909-MCA,1909,Southern Association,rockenfeld,P9468371,Rockenfield,,,Montgomery,19090415,19090915,66,0,"c1,2b66"
-boxscores/1909/1909-MCA,1909,Southern Association,rockenfeld,P4659474,Rockfld,,,Montgomery,19090629,19090629,1,0,2b1
-boxscores/1909/1909-AG,1909,Southern Association,rogers,P9570442,Rogers,,,Atlanta,19090511,19090903,16,16,p16
-boxscores/1909/1909-MCA,1909,Southern Association,rogers,P6222707,Rogers,,,Atlanta,19090511,19090916,17,17,p17
 minoraverages/1910Reach,1909,Southern Association,rogers,B00293,Rogers,,0,Atlanta,,,17,,
 minoraverages/1910Reach,1909,Southern Association,rogers,F20943,Rogers,,0,Atlanta,,,,,p17
 minoraverages/1910Reach,1909,Southern Association,rogers,P10168,Rogers,,0,Atlanta,,,,14,
-boxscores/1909/1909-AG,1909,Southern Association,rohe,P5183551,Rohe,,,New Orleans,19090415,19090918,127,0,3b127
-boxscores/1909/1909-MCA,1909,Southern Association,rohn,P4343087,Rohe,,,Atlanta,19090428,19090428,1,0,1b1
-boxscores/1909/1909-MCA,1909,Southern Association,rohe,P9500136,Rohe,,,New Orleans,19090415,19090918,138,0,3b138
 minoraverages/1910Reach,1909,Southern Association,rohe,B00752,Rohe,,0,New Orleans,,,141,,
 minoraverages/1910Reach,1909,Southern Association,rohe,F20316,Rohe,,0,New Orleans,,,,,3b141
-boxscores/1909/1909-AG,1909,Southern Association,rohn,P5923412,Rohen,,,Atlanta,19090501,19090501,2,0,1b2
-boxscores/1909/1909-AG,1909,Southern Association,rohn,P8463279,Rohn,,,Atlanta,19090423,19090723,69,0,1b69
-boxscores/1909/1909-MCA,1909,Southern Association,rohn,P3960664,Rohn,,,Atlanta,19090423,19090723,67,0,1b67
 minoraverages/1910Reach,1909,Southern Association,rohn,B00904,Rohn,,0,Atlanta,,,72,,
 minoraverages/1910Reach,1909,Southern Association,rohn,F20038,Rohn,,0,Atlanta,,,,,1b72
-boxscores/1909/1909-AG,1909,Southern Association,raub,P8661563,Ruab,,,Birmingham,19090824,19090824,1,0,c1
-boxscores/1909/1909-MCA,1909,Southern Association,raub,P8186308,Ruab,,,Birmingham,19090824,19090824,1,0,c1
-boxscores/1909/1909-AG,1909,Southern Association,rudderham@ump,P0488929,Rudderham,,,#umpire,19090415,19090918,,,
-boxscores/1909/1909-MCA,1909,Southern Association,rudderham@ump,P4805514,Rudderham,,,#umpire,19090415,19090918,,,
-boxscores/1909/1909-MCA,1909,Southern Association,rudderham@ump,P4692041,Rudderhm,,,#umpire,19090422,19090422,,,
-boxscores/1909/1909-AG,1909,Southern Association,rudderham@ump,P5429415,Rudderman,,,#umpire,19090612,19090612,,,
-boxscores/1909/1909-MCA,1909,Southern Association,rudderham@ump,P9746000,Rudderman,,,#umpire,19090612,19090612,,,
-boxscores/1909/1909-MCA,1909,Southern Association,rudderham@ump,P4599999,Ruudderham,,,#umpire,19090906,19090906,,,
-boxscores/1909/1909-MCA,1909,Southern Association,seabaugh,P4385713,S'bough,,,Nashville,19090531,19090531,1,0,c1
 minoraverages/1910Reach,1909,Southern Association,sabrie,F20046,Sab'e,,1,Mobile,,,,,1b
 minoraverages/1910Reach,1909,Southern Association,sabrie,F20046,Sab'e,,2,Nashville,,,,,1b
 minoraverages/1910Reach,1909,Southern Association,sabrie,F20046,Sab'e,,T,,,,,,1b131
-boxscores/1909/1909-AG,1909,Southern Association,sabrie,P4424897,Sabrie,,,Mobile,19090415,19090815,105,0,1b105
-boxscores/1909/1909-AG,1909,Southern Association,sabrie,P5884367,Sabrie,,,Nashville,19090826,19090918,19,0,1b19
-boxscores/1909/1909-MCA,1909,Southern Association,sabrie,P0200952,Sabrie,,,Nashville,19090826,19090918,26,0,1b26
-boxscores/1909/1909-MCA,1909,Southern Association,sabrie,P5838602,Sabrie,,,Mobile,19090415,19090815,103,0,1b103
 minoraverages/1910Reach,1909,Southern Association,sabrie,B01010,Sabrie,,1,Mobile,,,,,
 minoraverages/1910Reach,1909,Southern Association,sabrie,B01010,Sabrie,,2,Nashville,,,,,
 minoraverages/1910Reach,1909,Southern Association,sabrie,B01010,Sabrie,,T,,,,131,,
 minoraverages/1910Reach,1909,Southern Association,schultz,F21125,Schltz,,0,Mobile,,,,,p11
-boxscores/1909/1909-AG,1909,Southern Association,schopp,P5810782,Schopp,,,Birmingham,19090415,19090817,25,25,p25
-boxscores/1909/1909-MCA,1909,Southern Association,schopp,P8258087,Schopp,,,Birmingham,19090415,19090817,25,25,p25
 minoraverages/1910Reach,1909,Southern Association,schopp,B01288,Schopp,,0,Birmingham,,,22,,
 minoraverages/1910Reach,1909,Southern Association,schopp,F21232,Schopp,,0,Birmingham,,,,,p22
 minoraverages/1910Reach,1909,Southern Association,schopp,P10410,Schopp,,0,Birmingham,,,,22,
-boxscores/1909/1909-AG,1909,Southern Association,schriver,P2813884,Schreiver,,,New Orleans,19090604,19090825,4,0,c4
-boxscores/1909/1909-MCA,1909,Southern Association,schriver,P3206789,Schreiver,,,New Orleans,19090707,19090707,1,0,c1
-boxscores/1909/1909-AG,1909,Southern Association,schriver,P8376252,Schriever,,,New Orleans,19090501,19090904,6,0,c6
-boxscores/1909/1909-AG,1909,Southern Association,schriver,P9365079,Schriver,,,New Orleans,19090418,19090915,85,0,"c80,2b1"
-boxscores/1909/1909-AG,1909,Southern Association,schriver,P9964953,Schriver,T.,,New Orleans,19090429,19090429,1,0,c1
-boxscores/1909/1909-MCA,1909,Southern Association,schriver,P8164864,Schriver,,,New Orleans,19090418,19090916,94,0,c90
 minoraverages/1910Reach,1909,Southern Association,schriver,B01108,Schriver,,0,New Orleans,,,96,,
 minoraverages/1910Reach,1909,Southern Association,schriver,F21434,Schriver,,0,New Orleans,,,,,c96
-boxscores/1909/1909-MCA,1909,Southern Association,schriver,P9300878,Schrivner,,,New Orleans,19090515,19090515,1,0,c1
-boxscores/1909/1909-AG,1909,Southern Association,schultz,P2280824,Schultz,,,Mobile,19090430,19090806,4,4,p4
-boxscores/1909/1909-MCA,1909,Southern Association,schultz,P8933089,Schultz,,,Mobile,19090730,19090731,2,2,p2
 minoraverages/1910Reach,1909,Southern Association,schultz,B01376,Schultz,,0,Mobile,,,11,,
 minoraverages/1910Reach,1909,Southern Association,schultz,P10432,Schultze,,0,Mobile,,,,8,
-boxscores/1909/1909-AG,1909,Southern Association,schultz,P2737988,Schulz,,,Mobile,19090419,19090719,7,7,p7
-boxscores/1909/1909-MCA,1909,Southern Association,schultz,P4151693,Schulz,,,Mobile,19090419,19090806,9,9,p9
-boxscores/1909/1909-AG,1909,Southern Association,schwenck,P7581116,Schwenck,,,Memphis,19090604,19090912,26,23,"p23,of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,schwenck,P1897701,Schwenck,,,Memphis,19090604,19090912,27,23,"p23,of1,rf1"
 minoraverages/1910Reach,1909,Southern Association,schwenck,B01313,Schwenck,,0,Memphis,,,23,,
 minoraverages/1910Reach,1909,Southern Association,schwenck,F21013,Schwenck,,0,Memphis,,,,,p23
 minoraverages/1910Reach,1909,Southern Association,schwenck,P10357,Schwenck,,0,Memphis,,,,21,
-boxscores/1909/1909-AG,1909,Southern Association,schwenck,P0883937,Schwencke,,,Memphis,19090905,19090905,1,1,p1
-boxscores/1909/1909-MCA,1909,Southern Association,seabaugh,P4372787,Seab'gh,,,Nashville,19090726,19090726,1,0,c1
-boxscores/1909/1909-AG,1909,Southern Association,seabaugh,P7498713,Seabaugh,,,Nashville,19090416,19090918,94,0,c91
 minoraverages/1910Reach,1909,Southern Association,seabaugh,B00163,Seabaugh,,0,Nashville,,,96,,
 minoraverages/1910Reach,1909,Southern Association,seabaugh,F21370,Seabaugh,,0,Nashville,,,,,c96
-boxscores/1909/1909-AG,1909,Southern Association,seabaugh,P6214119,Seabough,,,Nashville,19090415,19090822,5,0,c5
-boxscores/1909/1909-MCA,1909,Southern Association,seabaugh,P6975184,Seabough,,,Nashville,19090415,19090918,95,0,c92
-boxscores/1909/1909-MCA,1909,Southern Association,seigel,P9627958,Seible,,,Nashville,19090601,19090601,1,0,"of1,cf1"
-boxscores/1909/1909-AG,1909,Southern Association,seigel,P3022930,Seigel,,,Nashville,19090415,19090901,19,0,"of19,lf1,cf18"
-boxscores/1909/1909-MCA,1909,Southern Association,seigel,P7339515,Seigel,,,Nashville,19090421,19090901,10,0,"of10,lf1,cf9"
 minoraverages/1910Reach,1909,Southern Association,seigel,B00806,Seigel,,0,Nashville,,,138,,
 minoraverages/1910Reach,1909,Southern Association,seigel,F20620,Seigel,,0,Nashville,,,,,of138
-boxscores/1909/1909-AG,1909,Southern Association,seigel,P7829938,Seigle,,,Nashville,19090423,19090918,59,0,"c1,of58,cf58"
-boxscores/1909/1909-MCA,1909,Southern Association,seigel,P2146523,Seigle,,,Nashville,19090415,19090918,67,0,"of67,cf67"
-boxscores/1909/1909-MCA,1909,Southern Association,sentz,P0533364,Senta,,,Little Rock,19090430,19090430,1,0,"of1,cf1"
-boxscores/1909/1909-AG,1909,Southern Association,sentell,P0749058,Sentell,,,Mobile,19090415,19090918,129,1,"p1,ss128"
-boxscores/1909/1909-MCA,1909,Southern Association,sentell,P7401323,Sentell,,,Mobile,19090415,19090918,140,1,"p1,ss139"
 minoraverages/1910Reach,1909,Southern Association,sentell,B00174,Sentell,,0,Mobile,,,143,,
 minoraverages/1910Reach,1909,Southern Association,sentell,F20505,Sentell,,0,Mobile,,,,,ss143
-boxscores/1909/1909-AG,1909,Southern Association,sentz,P0678884,Sentz,,,Little Rock,19090415,19090828,117,0,"of117,cf116,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,sentz,P3126189,Sentz,,,Little Rock,19090415,19090828,115,0,"of115,cf113,rf2"
 minoraverages/1910Reach,1909,Southern Association,sentz,B00475,Sentz,,0,Little Rock,,,118,,
 minoraverages/1910Reach,1909,Southern Association,sentz,F20855,Sentz,,0,Little Rock,,,,,of118
-boxscores/1909/1909-MCA,1909,Southern Association,shannon,P6523660,Shan'n,,,Montgomery,19090814,19090814,1,0,"c1,1b1"
-boxscores/1909/1909-AG,1909,Southern Association,shannon@ump,P6464378,Shannon,,,#umpire,19090720,19090720,,,
-boxscores/1909/1909-AG,1909,Southern Association,shannon,P7443097,Shannon,,,Montgomery,19090415,19090912,87,0,"c74,1b10"
-boxscores/1909/1909-MCA,1909,Southern Association,shannon@ump,P3116643,Shannon,,,#umpire,19090719,19090720,,,
-boxscores/1909/1909-MCA,1909,Southern Association,shannon,P8204162,Shannon,,,Montgomery,19090415,19090912,86,0,"c73,1b9"
 minoraverages/1910Reach,1909,Southern Association,shannon,B00442,Shannon,,0,Montgomery,,,84,,
 minoraverages/1910Reach,1909,Southern Association,shannon,F21362,Shannon,,0,Montgomery,,,,,c75
 minoraverages/1910Reach,1909,Southern Association,shannon,F21672,Shannon,,0,Montgomery,,,,,1b9
-boxscores/1909/1909-AG,1909,Southern Association,shannon,P6343691,Shanon,,,Montgomery,19090514,19090514,1,0,c1
-boxscores/1909/1909-AG,1909,Southern Association,shields@ump,P0943537,Shields,,,#umpire,19090812,19090812,,,
-boxscores/1909/1909-AG,1909,Southern Association,shields,P6017970,Shields,,,Memphis,19090419,19090918,63,8,"p8,of52,lf4,cf4,rf44"
-boxscores/1909/1909-MCA,1909,Southern Association,shields,P5542715,Shields,,,Memphis,19090419,19090918,74,8,"p8,1b2,of62,lf3,cf5,rf54"
-boxscores/1909/1909-MCA,1909,Southern Association,shields@ump,P7595802,Shields,,,#umpire,19090812,19090812,,,
 minoraverages/1910Reach,1909,Southern Association,shields,B00255,Shields,,0,Memphis,,,68,,
 minoraverages/1910Reach,1909,Southern Association,shields,F20807,Shields,,0,Memphis,,,,,of63
 minoraverages/1910Reach,1909,Southern Association,shields,F21623,Shields,,0,Memphis,,,,,p5
-boxscores/1909/1909-AG,1909,Southern Association,seigel,P2706642,Siegel,,,Nashville,19090714,19090910,18,0,"c1,of17,cf17"
-boxscores/1909/1909-MCA,1909,Southern Association,seigel,P7023227,Siegel,,,Nashville,19090629,19090726,2,0,"c1,of1,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,seigel,P2370144,Siegele,,,Nashville,19090630,19090630,1,0,"of1,cf1"
-boxscores/1909/1909-AG,1909,Southern Association,seigel,P7513650,Siegle,,,Nashville,19090503,19090911,36,0,"c1,of35,lf1,cf34"
-boxscores/1909/1909-MCA,1909,Southern Association,seigel,P1830235,Siegle,,,Nashville,19090503,19090917,57,0,"c1,of56,lf1,cf55"
-boxscores/1909/1909-AG,1909,Southern Association,smith,P4739037,Smith,,,Atlanta,19090415,19090918,102,0,"c38,1b44,of15,cf1,rf15"
-boxscores/1909/1909-AG,1909,Southern Association,smith,P8259774,Smith,S.,,Atlanta,19090513,19090714,4,0,"c1,of3,rf3"
-boxscores/1909/1909-MCA,1909,Southern Association,smith,P6152742,Smith,,,Atlanta,19090415,19090918,115,0,"c40,1b53,of18,rf18"
 minoraverages/1910Reach,1909,Southern Association,smith,B00125,Smith,,0,Atlanta,,,103,,
 minoraverages/1910Reach,1909,Southern Association,smith,F20102,Smith,,0,Atlanta,,,,,1b54
 minoraverages/1910Reach,1909,Southern Association,smith,F20919,Smith,,0,Atlanta,,,,,of17
 minoraverages/1910Reach,1909,Southern Association,smith,F21469,Smith,,0,Atlanta,,,,,c42
-boxscores/1909/1909-AG,1909,Southern Association,stark,P3824405,Stark,,,Little Rock,19090415,19090416,2,0,"of2,rf2"
-boxscores/1909/1909-MCA,1909,Southern Association,stark,P6271710,Stark,,,Little Rock,19090415,19090416,2,0,"of2,rf2"
-boxscores/1909/1909-AG,1909,Southern Association,steiger,P3822947,Steiger,,,Little Rock,19090416,19090429,3,3,p3
-boxscores/1909/1909-MCA,1909,Southern Association,steiger,P8938092,Steiger,,,Little Rock,19090416,19090429,3,3,p3
-boxscores/1909/1909-AG,1909,Southern Association,stickney@ump,P6137967,Stickney,,,#umpire,19090721,19090721,,,
-boxscores/1909/1909-MCA,1909,Southern Association,stickney@ump,P5662712,Stickney,,,#umpire,19090721,19090721,,,
-boxscores/1909/1909-MCA,1909,Southern Association,stinson,P2824277,Stins'n,,,Memphis,19090420,19090420,1,0,1b1
-boxscores/1909/1909-AG,1909,Southern Association,stinson,P2339860,Stinson,,,Memphis,19090415,19090519,22,0,"1b3,of18,rf18"
-boxscores/1909/1909-MCA,1909,Southern Association,stinson,P1864605,Stinson,,,Memphis,19090415,19090519,21,0,"1b2,of18,rf18"
 minoraverages/1910Reach,1909,Southern Association,stinson,B00948,Stinson,,0,Memphis,,,21,,
 minoraverages/1910Reach,1909,Southern Association,stinson,F20583,Stinson,,0,Memphis,,,,,of18
-boxscores/1909/1909-AG,1909,Southern Association,stockdale,P1035205,Stockdale,,,Mobile,19090421,19090918,31,29,"p29,1b1"
-boxscores/1909/1909-MCA,1909,Southern Association,stockdale,P5351790,Stockdale,,,Mobile,19090421,19090918,32,29,"p29,1b2"
 minoraverages/1910Reach,1909,Southern Association,stockdale,B01086,Stockdale,,0,Mobile,,,30,,
 minoraverages/1910Reach,1909,Southern Association,stockdale,F20956,Stockdale,,0,Mobile,,,,,p30
 minoraverages/1910Reach,1909,Southern Association,stockdale,P10231,Stockdale,,0,Mobile,,,,28,
-boxscores/1909/1909-AG,1909,Southern Association,suggs,P6106452,Suggs,,,Mobile,19090721,19090912,15,15,p15
-boxscores/1909/1909-MCA,1909,Southern Association,suggs,P1603837,Suggs,,,Mobile,19090721,19090916,16,15,"p15,of1,cf1"
 minoraverages/1910Reach,1909,Southern Association,suggs,B01384,Suggs,,0,Mobile,,,15,,
 minoraverages/1910Reach,1909,Southern Association,suggs,F21059,Suggs,,0,Mobile,,,,,p15
 minoraverages/1910Reach,1909,Southern Association,suggs,P10304,Suggs,,0,Mobile,,,,13,
-boxscores/1909/1909-MCA,1909,Southern Association,tarleton,P6311267,T'rlton,,,Little Rock,19090505,19090505,1,0,1b1
-boxscores/1909/1909-MCA,1909,Southern Association,tarleton,P9416228,Tarl'ton,,,Little Rock,19090531,19090531,1,0,1b1
-boxscores/1909/1909-AG,1909,Southern Association,tarleton,P2529465,Tarleton,,,Little Rock,19090415,19090610,46,0,1b46
-boxscores/1909/1909-MCA,1909,Southern Association,tarleton,P1329250,Tarleton,,,Little Rock,19090415,19090610,43,0,1b43
 minoraverages/1910Reach,1909,Southern Association,tarleton,B00528,Tarlton,,0,Little Rock,,,46,,
 minoraverages/1910Reach,1909,Southern Association,tarleton,F20128,Tarlton,,0,Little Rock,,,,,1b45
-boxscores/1909/1909-MCA,1909,Southern Association,thornton,P0282695,Th'ntn,,,Mobile,19090426,19090426,1,0,"of1,lf1"
-boxscores/1909/1909-MCA,1909,Southern Association,thornton,P8650934,Th'nton,,,Mobile,19090426,19090525,2,0,"of2,lf1,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,thornton,P3981273,Th'rntn,,,Mobile,19090615,19090615,1,0,"of1,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,thornton,P0704008,Th'rnton,,,Mobile,19090524,19090524,1,0,"of1,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,thornton,P9859624,Th'ton,,,Mobile,19090420,19090420,1,0,"of1,lf1"
-boxscores/1909/1909-AG,1909,Southern Association,thomas,P1027056,Thomas,,,Montgomery,19090507,19090918,37,36,"p36,of1,lf1"
-boxscores/1909/1909-MCA,1909,Southern Association,thomas,P3474361,Thomas,,,Montgomery,19090507,19090918,37,36,"p36,of1,lf1"
 minoraverages/1910Reach,1909,Southern Association,thomas,B00912,Thomas,,0,Montgomery,,,33,,
 minoraverages/1910Reach,1909,Southern Association,thomas,F20962,Thomas,,0,Montgomery,,,,,p33
 minoraverages/1910Reach,1909,Southern Association,thomas,P10121,Thomas,,0,Montgomery,,,,31,
-boxscores/1909/1909-MCA,1909,Southern Association,thornton,P0720934,Thor'n,,,Mobile,19090705,19090726,3,0,"of3,cf3"
-boxscores/1909/1909-MCA,1909,Southern Association,thornton,P1426721,Thor't'n,,,Mobile,19090630,19090630,1,0,"of1,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,thornton,P9948084,Thorn'n,,,Mobile,19090802,19090802,2,0,"of2,cf2"
-boxscores/1909/1909-MCA,1909,Southern Association,thornton,P6030728,Thornt'n,,,Mobile,19090505,19090629,3,0,"of3,cf3"
 minoraverages/1910Reach,1909,Southern Association,thornton,F20661,Thornt'n,,0,Mobile,,,,,of122
-boxscores/1909/1909-AG,1909,Southern Association,thornton,P3446599,Thornton,,,Mobile,19090415,19090904,113,0,"ss1,of108,lf17,cf91"
-boxscores/1909/1909-MCA,1909,Southern Association,thornton,P2971344,Thornton,,,Mobile,19090415,19090916,105,0,"ss1,of100,lf13,cf85,rf2"
 minoraverages/1910Reach,1909,Southern Association,thornton,B00416,Thornton,,0,Mobile,,,122,,
-boxscores/1909/1909-MCA,1909,Southern Association,thornton,P1534778,Thort'n,,,Mobile,19090526,19090526,1,0,"of1,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,tonneman,P5096969,Ton'an,,,Nashville,19090802,19090802,1,0,c1
-boxscores/1909/1909-MCA,1909,Southern Association,tonneman,P6711355,Ton'eman,,,Nashville,19090511,19090816,11,0,"c4,1b1,3b1,of5,lf3,rf2"
-boxscores/1909/1909-MCA,1909,Southern Association,tonneman,P3374874,Ton'emn,,,Nashville,19090616,19090616,1,0,1b1
-boxscores/1909/1909-MCA,1909,Southern Association,tonneman,P5585046,Ton'man,,,Nashville,19090626,19090827,16,0,"c9,1b3,3b2,ss1"
-boxscores/1909/1909-MCA,1909,Southern Association,tonneman,P4524695,Tonn'an,,,Nashville,19090630,19090630,1,0,c1
-boxscores/1909/1909-MCA,1909,Southern Association,tonneman,P2169064,Tonnem'n,,,Nashville,19090503,19090610,3,0,c3
-boxscores/1909/1909-AG,1909,Southern Association,tonneman,P4535737,Tonneman,,,Nashville,19090421,19090828,72,0,"c42,1b14,2b1,3b3,ss1,of8,lf5,rf3"
-boxscores/1909/1909-MCA,1909,Southern Association,tonneman,P5296802,Tonneman,,,Nashville,19090417,19090828,38,0,"c25,1b8,2b1,of2,lf2"
 minoraverages/1910Reach,1909,Southern Association,tonneman,B00021,Tonneman,,0,Nashville,,,62,,
 minoraverages/1910Reach,1909,Southern Association,tonneman,F21442,Tonneman,,0,Nashville,,,,,c43
 minoraverages/1910Reach,1909,Southern Association,tonneman,F21718,Tonneman,,0,Nashville,,,,,1b12
 minoraverages/1910Reach,1909,Southern Association,tonneman,F21985,Tonneman,,0,Nashville,,,,,of5
-boxscores/1909/1909-AG,1909,Southern Association,tonneman,P3824327,Tonnemann,,,Nashville,19090417,19090417,1,0,c1
-boxscores/1909/1909-AG,1909,Southern Association,toren,P2635704,Toren,,,Little Rock,19090831,19090911,5,5,p5
-boxscores/1909/1909-MCA,1909,Southern Association,toren,P5083009,Toren,,,Little Rock,19090903,19090916,5,5,p5
 minoraverages/1910Reach,1909,Southern Association,toren,B01567,Toren,,0,Little Rock,,,5,,
 minoraverages/1910Reach,1909,Southern Association,toren,F21589,Toren,,0,Little Rock,,,,,p5
-boxscores/1909/1909-AG,1909,Southern Association,torrey,P9104144,Torrey,,,Mobile,19090416,19090416,1,1,p1
-boxscores/1909/1909-MCA,1909,Southern Association,torrey,P0517849,Torrey,,,Mobile,19090416,19090416,1,1,p1
 minoraverages/1910Reach,1909,Southern Association,viebahn,F21278,Vieb'n,,1,Atlanta,,,,,p
 minoraverages/1910Reach,1909,Southern Association,viebahn,F21278,Vieb'n,,2,Nashville,,,,,p
 minoraverages/1910Reach,1909,Southern Association,viebahn,F21278,Vieb'n,,T,,,,,,p25
-boxscores/1909/1909-AG,1909,Southern Association,viebahn,P1051349,Viebahn,,,Atlanta,19090421,19090514,5,5,p5
-boxscores/1909/1909-AG,1909,Southern Association,viebahn,P9870870,Viebahn,,,Nashville,19090525,19090918,23,23,p23
-boxscores/1909/1909-MCA,1909,Southern Association,viebahn,P0576094,Viebahn,,,Atlanta,19090421,19090514,5,5,p5
-boxscores/1909/1909-MCA,1909,Southern Association,viebahn,P2318175,Viebahn,,,Nashville,19090525,19090918,23,23,p23
 minoraverages/1910Reach,1909,Southern Association,viebahn,B01291,Viebahn,,1,Atlanta,,,,,
 minoraverages/1910Reach,1909,Southern Association,viebahn,B01291,Viebahn,,2,Nashville,,,,,
 minoraverages/1910Reach,1909,Southern Association,viebahn,B01291,Viebahn,,T,,,,25,,
 minoraverages/1910Reach,1909,Southern Association,viebahn,P10176,Viebahn,,1,Atlanta,,,,,
 minoraverages/1910Reach,1909,Southern Association,viebahn,P10176,Viebahn,,2,Nashville,,,,,
 minoraverages/1910Reach,1909,Southern Association,viebahn,P10176,Viebahn,,T,,,,,26,
-boxscores/1909/1909-MCA,1909,Southern Association,woodruff,P0382948,W'druff,,,Memphis,19090419,19090419,1,0,1b1
 minoraverages/1910Reach,1909,Southern Association,wagner,F20759,W'ner,,1,Memphis,,,,,of
 minoraverages/1910Reach,1909,Southern Association,wagner,F20759,W'ner,,2,Mobile,,,,,of
 minoraverages/1910Reach,1909,Southern Association,wagner,F20759,W'ner,,T,,,,,,of13
-boxscores/1909/1909-MCA,1909,Southern Association,wiseman,P1119316,W'seman,,,Nashville,19090503,19090503,1,0,"of1,rf1"
-boxscores/1909/1909-AG,1909,Southern Association,wagner,P0445359,Wagner,,,Mobile,19090825,19090918,16,0,"of16,lf2,cf10,rf4"
-boxscores/1909/1909-AG,1909,Southern Association,wagner,P6635498,Wagner,,,Memphis,19090417,19090821,110,1,"p1,of109,lf1,cf104,rf5"
-boxscores/1909/1909-MCA,1909,Southern Association,wagner,P1859064,Wagner,,,Mobile,19090825,19090918,27,0,"of26,lf13,cf9,rf4"
-boxscores/1909/1909-MCA,1909,Southern Association,wagner,P3287763,Wagner,,,Memphis,19090417,19090821,109,1,"p1,of108,lf1,cf103,rf5"
 minoraverages/1910Reach,1909,Southern Association,wagner,B00667,Wagner,,1,Memphis,,,,,
 minoraverages/1910Reach,1909,Southern Association,wagner,B00667,Wagner,,2,Mobile,,,,,
 minoraverages/1910Reach,1909,Southern Association,wagner,B00667,Wagner,,T,,,,139,,
-boxscores/1909/1909-AG,1909,Southern Association,walker,P8077022,Walker,,,Atlanta,19090421,19090911,121,0,3b120
-boxscores/1909/1909-MCA,1909,Southern Association,walker,P4729287,Walker,,,Atlanta,19090421,19090914,126,0,3b125
 minoraverages/1910Reach,1909,Southern Association,walker,B00898,Walker,,0,Atlanta,,,129,,
 minoraverages/1910Reach,1909,Southern Association,walker,F20327,Walker,,0,Atlanta,,,,,3b129
-boxscores/1909/1909-MCA,1909,Southern Association,walters,P8956131,Walters,,,Atlanta,19090916,19090916,1,0,"of1,rf1"
-boxscores/1909/1909-AG,1909,Southern Association,watson,P4762791,Watson,,,Mobile,19090415,19090918,104,0,"2b1,3b86,ss1,of12,rf12"
-boxscores/1909/1909-AG,1909,Southern Association,watson-lr,P4907340,Watson,,,Little Rock,19090830,19090901,4,0,"of4,cf4"
-boxscores/1909/1909-MCA,1909,Southern Association,watson-lr,P5668405,Watson,,,Little Rock,19090830,19090901,3,0,"of3,cf3"
-boxscores/1909/1909-MCA,1909,Southern Association,watson,P6176496,Watson,,,Mobile,19090415,19090918,115,0,"2b1,3b98,ss1,of11,rf11"
 minoraverages/1910Reach,1909,Southern Association,watson,B00343,Watson,,0,Mobile,,,114,,
 minoraverages/1910Reach,1909,Southern Association,watson,F20369,Watson,,0,Mobile,,,,,3b103
 minoraverages/1910Reach,1909,Southern Association,watson,F21904,Watson,,0,Mobile,,,,,of11
-boxscores/1909/1909-AG,1909,Southern Association,watt@ump,P0552101,Watt,,,#umpire,19090830,19090830,,,
-boxscores/1909/1909-MCA,1909,Southern Association,watt@ump,P8294446,Watt,,,#umpire,19090830,19090830,,,
-boxscores/1909/1909-AG,1909,Southern Association,weaver,P9695619,Weaver,,,Nashville,19090419,19090503,3,3,p3
-boxscores/1909/1909-MCA,1909,Southern Association,weaver,P4012204,Weaver,,,Nashville,19090419,19090503,3,3,p3
-boxscores/1909/1909-AG,1909,Southern Association,weimer,P6012634,Weimer,,,New Orleans,19090415,19090918,125,0,"of125,lf1,rf124"
-boxscores/1909/1909-MCA,1909,Southern Association,weimer,P6773699,Weimer,,,New Orleans,19090415,19090918,137,0,"of137,lf2,rf135"
 minoraverages/1910Reach,1909,Southern Association,weimer,B00068,Weimer,,0,New Orleans,,,139,,
 minoraverages/1910Reach,1909,Southern Association,weimer,F20737,Weimer,,0,New Orleans,,,,,of139
-boxscores/1909/1909-MCA,1909,Southern Association,wheeler,P4322616,Wh'ler,,,Memphis,19090705,19090705,1,0,3b1
-boxscores/1909/1909-MCA,1909,Southern Association,whiteman,P2470531,Wh'tman,,,Montgomery,19090524,19090524,1,0,"of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,whiteman,P1296930,Wh'tmn,,,Montgomery,19090609,19090609,1,0,3b1
-boxscores/1909/1909-AG,1909,Southern Association,wheat,P1275300,Wheat,,,Mobile,19090415,19090904,127,0,"of127,lf110,rf17"
-boxscores/1909/1909-MCA,1909,Southern Association,wheat,P6772685,Wheat,,,Mobile,19090415,19090904,125,0,"of125,lf109,rf16"
 minoraverages/1910Reach,1909,Southern Association,wheat,B00397,Wheat,,0,Mobile,,,129,,
 minoraverages/1910Reach,1909,Southern Association,wheat,F20864,Wheat,,0,Mobile,,,,,of129
-boxscores/1909/1909-AG,1909,Southern Association,wheeler,P5039442,Wheeler,,,Memphis,19090525,19090918,97,0,"1b8,2b1,3b86,ss1,of1,rf1"
-boxscores/1909/1909-AG,1909,Southern Association,wheeler@ump,P7277521,Wheeler,,,#umpire,19090814,19090814,,,
-boxscores/1909/1909-MCA,1909,Southern Association,wheeler@ump,P3929786,Wheeler,,,#umpire,19090814,19090814,,,
-boxscores/1909/1909-MCA,1909,Southern Association,wheeler,P4564187,Wheeler,,,Memphis,19090525,19090918,107,0,"1b8,2b1,3b96,ss1,of1,cf1"
 minoraverages/1910Reach,1909,Southern Association,wheeler,B00672,Wheeler,,0,Memphis,,,109,,
 minoraverages/1910Reach,1909,Southern Association,wheeler,F20334,Wheeler,,0,Memphis,,,,,3b101
 minoraverages/1910Reach,1909,Southern Association,wheeler,F21705,Wheeler,,0,Memphis,,,,,1b8
-boxscores/1909/1909-MCA,1909,Southern Association,whiteman,P4587403,Whit'mn,,,Montgomery,19090505,19090610,3,0,"3b2,of1,cf1"
-boxscores/1909/1909-MCA,1909,Southern Association,whiteman,P7924291,White'n,,,Montgomery,19090629,19090706,4,0,"3b3,of1,lf1"
-boxscores/1909/1909-MCA,1909,Southern Association,whiteman,P1535120,Whitem'n,,,Montgomery,19090504,19090913,10,0,"3b5,of5,cf4,rf1"
-boxscores/1909/1909-AG,1909,Southern Association,whiteman,P9635329,Whiteman,,,Montgomery,19090422,19090918,111,0,"c1,1b1,2b1,3b64,of47,lf2,cf40,rf5"
-boxscores/1909/1909-MCA,1909,Southern Association,whiteman,P4750474,Whiteman,,,Montgomery,19090422,19090918,102,0,"c1,1b1,3b61,of42,lf1,cf38,rf3"
 minoraverages/1910Reach,1909,Southern Association,whiteman,B00488,Whiteman,,0,Montgomery,,,128,,
 minoraverages/1910Reach,1909,Southern Association,whiteman,F20375,Whiteman,,0,Montgomery,,,,,3b74
 minoraverages/1910Reach,1909,Southern Association,whiteman,F20792,Whiteman,,0,Montgomery,,,,,of54
-boxscores/1909/1909-AG,1909,Southern Association,whiteman,P5358812,Whitman,,,Montgomery,19090428,19090627,6,0,"3b2,of4,cf4"
-boxscores/1909/1909-MCA,1909,Southern Association,whiteman,P6119877,Whitman,,,Montgomery,19090428,19090627,7,0,"3b3,of4,cf4"
-boxscores/1909/1909-AG,1909,Southern Association,winters,P2555536,Winers,,,Atlanta,19090623,19090623,1,0,"of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,winters,P9207801,Winers,,,Atlanta,19090623,19090623,1,0,"of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,winters,P2270266,Winter,,,Atlanta,19090911,19090911,1,0,
-boxscores/1909/1909-AG,1909,Southern Association,winters,P1419044,Winters,,,Atlanta,19090415,19090917,98,0,"of96,cf1,rf95"
-boxscores/1909/1909-MCA,1909,Southern Association,winters,P0943789,Winters,,,Atlanta,19090415,19090917,99,0,"of96,cf1,rf95"
 minoraverages/1910Reach,1909,Southern Association,winters,B00783,Winters,,0,Atlanta,,,105,,
 minoraverages/1910Reach,1909,Southern Association,winters,F20784,Winters,,0,Atlanta,,,,,of105
-boxscores/1909/1909-MCA,1909,Southern Association,wiseman,P6171864,Wis'man,,,Nashville,19090719,19090719,1,0,"of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,wiseman,P9508752,Wise'an,,,Nashville,19090907,19090907,1,0,"of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,wiseman,P2853583,Wise'n,,,Nashville,19090630,19090727,4,0,"of4,rf4"
 minoraverages/1910Reach,1909,Southern Association,wiseman,F20721,Wise'n,,0,Nashville,,,,,of132
-boxscores/1909/1909-MCA,1909,Southern Association,wiseman,P1640924,Wisem'n,,,Nashville,19090419,19090419,1,0,"of1,rf1"
-boxscores/1909/1909-AG,1909,Southern Association,wiseman,P2321357,Wiseman,,,Nashville,19090415,19090911,129,0,"of129,lf3,rf126"
-boxscores/1909/1909-MCA,1909,Southern Association,wiseman,P4768662,Wiseman,,,Nashville,19090415,19090911,122,0,"of122,lf2,rf120"
 minoraverages/1910Reach,1909,Southern Association,wiseman,B00450,Wiseman,,0,Nashville,,,132,,
-boxscores/1909/1909-AG,1909,Southern Association,wiseman,P7484268,Wisemn,,,Nashville,19090629,19090629,1,0,"of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,wiseman,P1800853,Wisemn,,,Nashville,19090629,19090629,1,0,"of1,rf1"
-boxscores/1909/1909-AG,1909,Southern Association,wiseman,P7725024,Wisesman,,,Nashville,19090811,19090811,1,0,"of1,rf1"
-boxscores/1909/1909-MCA,1909,Southern Association,wiseman,P8486089,Wisesman,,,Nashville,19090811,19090811,1,0,"of1,rf1"
-boxscores/1909/1909-AG,1909,Southern Association,woodruff,P7301874,Woodruff,,,Memphis,19090416,19090503,7,0,"1b1,of4,cf1,rf3"
-boxscores/1909/1909-MCA,1909,Southern Association,woodruff,P1618459,Woodruff,,,Memphis,19090416,19090503,6,0,"of4,cf1,rf3"
 minoraverages/1910Reach,1909,Southern Association,woodruff,B01466,Woodruff,,0,Memphis,,,6,,
-boxscores/1909/1909-AG,1909,Southern Association,wright,P8794981,Wright,,,Little Rock,19090723,19090731,6,0,"ss4,of2,rf2"
-boxscores/1909/1909-MCA,1909,Southern Association,wright,P9556046,Wright,,,Little Rock,19090723,19090731,6,0,"ss4,of2,rf2"
 minoraverages/1910Reach,1909,Southern Association,wright,B01477,Wright,,0,Little Rock,,,6,,
-boxscores/1909/1909-AG,1909,Southern Association,yancey,P0004858,Yancey,,,Birmingham,19090729,19090915,33,0,"1b1,2b2,of32,rf32"
-boxscores/1909/1909-MCA,1909,Southern Association,yancey,P2452163,Yancey,,,Birmingham,19090729,19090916,39,0,"1b1,2b3,of37,rf37"
 minoraverages/1910Reach,1909,Southern Association,yancey,B00158,Yancey,,0,Birmingham,,,40,,
 minoraverages/1910Reach,1909,Southern Association,yancey,F20560,Yancey,,0,Birmingham,,,,,of37
-boxscores/1909/1909-MCA,1909,Southern Association,yancey2,P5104150,Yancey [dubious],,,Birmingham,19090828,19090828,1,0,"of1,rf1"
-boxscores/1909/1909-AG,1909,Southern Association,larsen,P2560938,arsen,,,Birmingham,19090505,19090505,1,0,3b1
-boxscores/1909/1909-AG,1909,Southern Association,,P3667284,unknown,,,Montgomery,19090422,19090422,1,0,3b1
-boxscores/1909/1909-AG,1909,Southern Association,,P5435131,unknown,,,Mobile,19090518,19090521,2,0,"ss1,of1,lf1"
-boxscores/1909/1909-MCA,1909,Southern Association,,P4428349,unknown,,,Montgomery,19090419,19090419,1,0,3b1
-boxscores/1909/1909-MCA,1909,Southern Association,,P1408925,unknown[1b],,,Nashville,19090622,19090622,1,0,1b1
-boxscores/1909/1909-MCA,1909,Southern Association,,P6668660,unknown[1b],,,Little Rock,19090719,19090719,1,0,1b1
-boxscores/1909/1909-AG,1909,Southern Association,,P6778510,unknown[3b],,,Birmingham,19090612,19090612,1,0,3b1
-boxscores/1909/1909-AG,1909,Southern Association,,P5010754,unknown[cf],,,New Orleans,19090710,19090710,1,0,"of1,cf1"
-boxscores/1909/1909-AG,1909,Southern Association,,P5958449,unknown[mob],,,Mobile,19090901,19090901,1,0,"of1,rf1"
-boxscores/1909/1909-AG,1909,Southern Association,,P6428600,unknown[rf],,,Atlanta,19090611,19090611,1,0,"of1,rf1"

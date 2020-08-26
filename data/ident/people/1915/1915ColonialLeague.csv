@@ -1,11 +1,7 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-boxscores/1915/1915-HC,1915,Colonial League,adams,P8595322,Adams,,,Pawtucket,19150531,19150803,20,19,"p19,of1,lf1"
 minoraverages/1916Reach,1915,Colonial League,adams,B00879,Adams,,0,Pawtucket,,,17,,
 minoraverages/1916Reach,1915,Colonial League,adams,F21442,Adams,,0,Pawtucket,,,,,p19
 minoraverages/1916Reach,1915,Colonial League,adams,P10244,Adams,,0,Pawtucket,,,,19,
-boxscores/1915/1915-HC,1915,Colonial League,aldred,P0590474,Aldred,,,Brockton,19150610,19150710,24,0,"of24,rf24"
-boxscores/1915/1915-HC,1915,Colonial League,aldred,P4899584,Aldred,,,Pawtucket,19150520,19150607,11,0,"of11,lf10,rf1"
-boxscores/1915/1915-HC,1915,Colonial League,aldred,P8653096,Aldred,,,New Bedford,19150722,19150906,47,0,"of47,lf33,cf14"
 minoraverages/1916Reach,1915,Colonial League,aldred,B00614,Aldred,,1,Pawtucket,,,,,
 minoraverages/1916Reach,1915,Colonial League,aldred,B00614,Aldred,,2,Brockton,,,,,
 minoraverages/1916Reach,1915,Colonial League,aldred,B00614,Aldred,,3,New Bedford,,,,,
@@ -14,14 +10,8 @@ minoraverages/1916Reach,1915,Colonial League,aldred,F20737,Aldred,,1,Pawtucket,,
 minoraverages/1916Reach,1915,Colonial League,aldred,F20737,Aldred,,2,Brockton,,,,,of
 minoraverages/1916Reach,1915,Colonial League,aldred,F20737,Aldred,,3,New Bedford,,,,,of
 minoraverages/1916Reach,1915,Colonial League,aldred,F20737,Aldred,,T,,,,,,of84
-boxscores/1915/1915-HC,1915,Colonial League,aldred,P1933035,Aldrich,,,Pawtucket,19150523,19150523,1,0,"of1,lf1"
-boxscores/1915/1915-HC,1915,Colonial League,aldred,P9865305,Alward,,,Brockton,19150705,19150705,1,0,"of1,rf1"
-boxscores/1915/1915-HC,1915,Colonial League,bangs,P6196841,Bangs,,,Brockton,19150520,19150906,88,0,2b88
 minoraverages/1916Reach,1915,Colonial League,bangs,B00528,Bangs,,0,Brockton,,,82,,
 minoraverages/1916Reach,1915,Colonial League,bangs,F20254,Bangs,,0,Brockton,,,,,2b89
-boxscores/1915/1915-HC,1915,Colonial League,barry@ump,P0826862,Barry,,,#umpire,19150605,19150612,,,
-boxscores/1915/1915-HC,1915,Colonial League,barry,P5330661,Barry,,,Taunton,19150520,19150705,37,0,c37
-boxscores/1915/1915-HC,1915,Colonial League,barry,P9120020,Barry,,,Pawtucket,19150713,19150813,23,0,c22
 minoraverages/1916Reach,1915,Colonial League,barry,B00502,Barry,,1,Taunton,,,,,
 minoraverages/1916Reach,1915,Colonial League,barry,B00502,Barry,,2,Pawtucket,,,,,
 minoraverages/1916Reach,1915,Colonial League,barry,B00502,Barry,,T,,,,59,,
@@ -29,12 +19,8 @@ minoraverages/1916Reach,1915,Colonial League,barry,F21130,Barry,,1,Taunton,,,,,c
 minoraverages/1916Reach,1915,Colonial League,barry,F21130,Barry,,2,Pawtucket,,,,,c
 minoraverages/1916Reach,1915,Colonial League,barry,F21130,Barry,,T,,,,,,c59
 minoraverages/1916Reach,1915,Colonial League,beason,B01108,Beason,,0,Brockton,,,29,,
-boxscores/1915/1915-HC,1915,Colonial League,beason,P4710979,Benson,,,Brockton,19150521,19150906,30,27,"p27,of2,rf2"
-boxscores/1915/1915-HC,1915,Colonial League,benson@ump,P6973779,Benson,,,#umpire,19150623,19150720,,,
 minoraverages/1916Reach,1915,Colonial League,beason,F21544,Benson,,0,Brockton,,,,,p28
 minoraverages/1916Reach,1915,Colonial League,beason,P10176,Benson,,0,Brockton,,,,28,
-boxscores/1915/1915-HC,1915,Colonial League,bentley,P5919894,Bentley,,,Fall River,19150520,19150710,46,0,"3b37,ss9"
-boxscores/1915/1915-HC,1915,Colonial League,bentley,P8523942,Bentley,,,Springfield,19150712,19150906,54,0,"3b28,ss24"
 minoraverages/1916Reach,1915,Colonial League,bentley,B00241,Bentley,,1,Fall River,,,,,
 minoraverages/1916Reach,1915,Colonial League,bentley,B00241,Bentley,,2,Springfield,,,,,
 minoraverages/1916Reach,1915,Colonial League,bentley,B00241,Bentley,,T,,,,97,,
@@ -44,92 +30,49 @@ minoraverages/1916Reach,1915,Colonial League,bentley,F20375,Bentley,,T,,,,,,3b29
 minoraverages/1916Reach,1915,Colonial League,bentley,F20547,Bentley,,1,Fall River,,,,,ss
 minoraverages/1916Reach,1915,Colonial League,bentley,F20547,Bentley,,2,Springfield,,,,,ss
 minoraverages/1916Reach,1915,Colonial League,bentley,F20547,Bentley,,T,,,,,,ss68
-boxscores/1915/1915-HC,1915,Colonial League,bielmiller,P7305268,Bielmiller,,,Springfield,19150529,19150601,4,0,ss4
-boxscores/1915/1915-HC,1915,Colonial League,billiard,P3704793,Billiard,,,Hartford,19150520,19150806,23,17,"p17,of3,rf3"
-boxscores/1915/1915-HC,1915,Colonial League,billiard@ump,P7594449,Billiard,,,#umpire,19150621,19150720,,,
 minoraverages/1916Reach,1915,Colonial League,billiard,B01234,Billiard,,0,Hartford,,,23,,
 minoraverages/1916Reach,1915,Colonial League,billiard,F21335,Billiard,,0,Hartford,,,,,p17
 minoraverages/1916Reach,1915,Colonial League,billiard,P10043,Billiard,,0,Hartford,,,,17,
-boxscores/1915/1915-HC,1915,Colonial League,black,P3910331,Black,,,Brockton,19150630,19150710,11,0,"of11,cf11"
-boxscores/1915/1915-HC,1915,Colonial League,bottomley,P0247643,Bottomley,,,New Bedford,19150816,19150819,5,0,"of5,cf3,rf2"
-boxscores/1915/1915-HC,1915,Colonial League,bottomley,P9125107,Bottomley,,,Pawtucket,19150617,19150814,31,0,"c7,of22,lf8,cf12,rf2"
 minoraverages/1916Reach,1915,Colonial League,bottomley,F20878,Bottomley,,1,Brockton,,,,,of
 minoraverages/1916Reach,1915,Colonial League,bottomley,F20878,Bottomley,,2,New Bedford,,,,,of
 minoraverages/1916Reach,1915,Colonial League,bottomley,F20878,Bottomley,,T,,,,,,of30
 minoraverages/1916Reach,1915,Colonial League,bottomley,F21196,Bottomley,,1,Pawtucket,,,,,c
 minoraverages/1916Reach,1915,Colonial League,bottomley,F21196,Bottomley,,2,New Bedford,,,,,c
 minoraverages/1916Reach,1915,Colonial League,bottomley,F21196,Bottomley,,T,,,,,,c14
-boxscores/1915/1915-HC,1915,Colonial League,bottomley,P0795502,Bottomly,,,Pawtucket,19150610,19150811,11,0,"c6,ss1,of5,lf2,cf2,rf1"
-boxscores/1915/1915-HC,1915,Colonial League,bottomley,P9307798,Bottomly,,,New Bedford,19150820,19150820,1,0,"of1,rf1"
 minoraverages/1916Reach,1915,Colonial League,bottomley,B00491,Bottomly,,1,Pawtucket,,,,,
 minoraverages/1916Reach,1915,Colonial League,bottomley,B00491,Bottomly,,2,New Bedford,,,,,
 minoraverages/1916Reach,1915,Colonial League,bottomley,B00491,Bottomly,,T,,,,46,,
-boxscores/1915/1915-HC,1915,Colonial League,boucher,P2195164,Boucher,,,Pawtucket,19150529,19150722,42,0,"2b10,ss32"
 minoraverages/1916Reach,1915,Colonial League,boucher,B00158,Boucher,,0,Pawtucket,,,42,,
 minoraverages/1916Reach,1915,Colonial League,boucher,F20342,Boucher,,0,Pawtucket,,,,,2b10
 minoraverages/1916Reach,1915,Colonial League,boucher,F20496,Boucher,,0,Pawtucket,,,,,ss32
-boxscores/1915/1915-HC,1915,Colonial League,bourcier,P7925998,Bourcier,,,Springfield,19150807,19150807,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,boyle,P4915311,Boyle,,,Pawtucket,19150803,19150906,18,11,"p11,of7,lf3,cf3,rf1"
 minoraverages/1916Reach,1915,Colonial League,boyle,B00229,Boyle,,0,Pawtucket,,,18,,
 minoraverages/1916Reach,1915,Colonial League,boyle,F20657,Boyle,,0,Pawtucket,,,,,of7
 minoraverages/1916Reach,1915,Colonial League,boyle,F21232,Boyle,,0,Pawtucket,,,,,p11
 minoraverages/1916Reach,1915,Colonial League,boyle,P10336,Boyle,,0,Pawtucket,,,,11,
-boxscores/1915/1915-HC,1915,Colonial League,brickley,P4262232,Brickley,,,Fall River,19150527,19150527,1,0,"of1,rf1"
-boxscores/1915/1915-HC,1915,Colonial League,bridges,P1500435,Bridges,,,Springfield,19150520,19150601,6,0,c4
-boxscores/1915/1915-HC,1915,Colonial League,buckley@ump,P4344573,Buckley,,,#umpire,19150619,19150906,,,
-boxscores/1915/1915-HC,1915,Colonial League,buckley@ump,P8839179,Bulkeley,,,#umpire,19150614,19150618,,,
-boxscores/1915/1915-HC,1915,Colonial League,buckley@ump,P1209222,Bulkley,,,#umpire,19150720,19150720,,,
-boxscores/1915/1915-HC,1915,Colonial League,burke,P2500111,Burke,,,Hartford,19150626,19150626,1,0,c1
-boxscores/1915/1915-HC,1915,Colonial League,burns@p,P5093291,Burnes [p],,,Pawtucket,19150903,19150903,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,bangs,P4298664,Burns,,,Brockton,19150706,19150706,1,0,2b1
-boxscores/1915/1915-HC,1915,Colonial League,burns@1b,P7269854,Burns,,,Pawtucket,19150520,19150710,39,0,1b39
 minoraverages/1916Reach,1915,Colonial League,burns@1b,B00680,Burns,,0,Pawtucket,,,39,,
 minoraverages/1916Reach,1915,Colonial League,burns@p,B01242,Burns,,0,Pawtucket,,,5,,
 minoraverages/1916Reach,1915,Colonial League,burns@1b,F20115,Burns,,0,Pawtucket,,,,,1b39
 minoraverages/1916Reach,1915,Colonial League,burns@p,F21609,Burns,,0,Pawtucket,,,,,p6
 minoraverages/1916Reach,1915,Colonial League,burns@p,P10373,Burns,,0,Pawtucket,,,,6,
-boxscores/1915/1915-HC,1915,Colonial League,burns@p,P7316198,Burns [p],,,Pawtucket,19150821,19150906,5,5,p5
-boxscores/1915/1915-HC,1915,Colonial League,bush,P3387504,Bush,,,Brockton,19150621,19150621,1,0,ss1
-boxscores/1915/1915-HC,1915,Colonial League,cabrera,P7171331,Cabrera,,,Springfield,19150612,19150710,24,0,ss24
 minoraverages/1916Reach,1915,Colonial League,cabrera,B00021,Cabrera,,0,Springfield,,,24,,
 minoraverages/1916Reach,1915,Colonial League,cabrera,F20474,Cabrera,,0,Springfield,,,,,ss24
-boxscores/1915/1915-HC,1915,Colonial League,cannon,P0923699,Cannon,,,Hartford,19150525,19150628,25,0,"c24,2b1"
 minoraverages/1916Reach,1915,Colonial League,cannon,B01086,Cannon,,0,Hartford,,,26,,
 minoraverages/1916Reach,1915,Colonial League,cannon,F21174,Cannon,,0,Hartford,,,,,c25
-boxscores/1915/1915-HC,1915,Colonial League,carr,P2033052,Carr,,,Pawtucket,19150523,19150906,92,1,"p1,3b92,ss1"
 minoraverages/1916Reach,1915,Colonial League,carr,B00577,Carr,,0,Pawtucket,,,92,,
 minoraverages/1916Reach,1915,Colonial League,carr,F20401,Carr,,0,Pawtucket,,,,,3b92
-boxscores/1915/1915-HC,1915,Colonial League,cassavant,P6477421,Casavant,,,New Bedford,19150525,19150527,2,0,"of1,lf1"
-boxscores/1915/1915-HC,1915,Colonial League,cassavant,P8130432,Cassavant,,,New Bedford,19150520,19150612,14,1,"p1,ss1,of12,rf12"
 minoraverages/1916Reach,1915,Colonial League,cassavant,B00811,Cassavant,,0,New Bedford,,,16,,
 minoraverages/1916Reach,1915,Colonial League,cassavant,F20841,Cassavant,,0,New Bedford,,,,,of13
-boxscores/1915/1915-HC,1915,Colonial League,cavanaugh,P1018020,Cavanaugh,,,Hartford,19150706,19150709,4,0,"of4,rf4"
-boxscores/1915/1915-HC,1915,Colonial League,chappelle,P1786358,Chapelle,,,New Haven,19150629,19150629,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,chappelle,P5195905,Chappell,,,New Haven,19150622,19150622,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,chappelle,P5947110,Chappelle,,,New Haven,19150523,19150623,10,10,p10
 minoraverages/1916Reach,1915,Colonial League,chappelle,B00747,Chappelle,,0,New Haven,,,13,,
 minoraverages/1916Reach,1915,Colonial League,chappelle,F21319,Chappelle,,0,New Haven,,,,,p12
 minoraverages/1916Reach,1915,Colonial League,chappelle,P10202,Chappelle,,0,New Haven,,,,12,
-boxscores/1915/1915-HC,1915,Colonial League,chouinard,P6794899,Chouinard,,,Hartford,19150520,19150813,73,0,"2b7,ss42,of24,lf7,cf17"
 minoraverages/1916Reach,1915,Colonial League,chouinard,B00293,Chouinard,,0,Hartford,,,74,,
 minoraverages/1916Reach,1915,Colonial League,chouinard,F20571,Chouinard,,0,Hartford,,,,,ss45
 minoraverages/1916Reach,1915,Colonial League,chouinard,F20886,Chouinard,,0,Hartford,,,,,of24
-boxscores/1915/1915-HC,1915,Colonial League,chouinard,P1290145,Chouninard,,,Hartford,19150626,19150626,1,0,ss1
-boxscores/1915/1915-HC,1915,Colonial League,clermont,P2933838,Clairmont,,,Taunton,19150617,19150617,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,clancy,P0438358,Clancy,,,New Bedford,19150820,19150827,8,0,ss8
-boxscores/1915/1915-HC,1915,Colonial League,clermont,P7988330,Claremont,,,Taunton,19150528,19150528,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,clermont,P8378793,Clermont,,,Taunton,19150601,19150611,3,3,p3
-boxscores/1915/1915-HC,1915,Colonial League,coles,P0462715,Cole,,,New Haven,19150614,19150614,1,0,"of1,cf1"
-boxscores/1915/1915-HC,1915,Colonial League,coles,P1927278,Coles,,,New Haven,19150520,19150906,102,0,"2b4,of99,cf99,rf1"
 minoraverages/1916Reach,1915,Colonial League,coles,B00182,Coles,,0,New Haven,,,103,,
 minoraverages/1916Reach,1915,Colonial League,coles,F20768,Coles,,0,New Haven,,,,,of101
-boxscores/1915/1915-HC,1915,Colonial League,collins,P3563047,Collins,,,Springfield,19150715,19150906,51,1,"p1,of50,cf42,rf8"
 minoraverages/1916Reach,1915,Colonial League,collins,B00434,Collins,,0,Springfield,,,51,,
 minoraverages/1916Reach,1915,Colonial League,collins,F21059,Collins,,0,Springfield,,,,,of50
 minoraverages/emilbb,1915,Colonial League,connaughton,M92865,Connaughton,Frank,,Fall River,,,,,
-boxscores/1915/1915-HC,1915,Colonial League,oconnell,P4257168,Connell,,,Taunton,19150520,19150520,1,0,ss1
-boxscores/1915/1915-HC,1915,Colonial League,connell,P6815847,Connell,,,New Bedford,19150616,19150703,12,0,"c8,of4,rf4"
-boxscores/1915/1915-HC,1915,Colonial League,connell,P7483886,Connell,,,Fall River,19150520,19150710,20,0,"c17,1b2"
 minoraverages/1916Reach,1915,Colonial League,connell,B00646,Connell,,1,Fall River,,,,,
 minoraverages/1916Reach,1915,Colonial League,connell,B00646,Connell,,2,New Bedford,,,,,
 minoraverages/1916Reach,1915,Colonial League,connell,B00646,Connell,,T,,,,32,,
@@ -137,32 +80,17 @@ minoraverages/1916Reach,1915,Colonial League,connell,F21149,Connell,,1,Fall Rive
 minoraverages/1916Reach,1915,Colonial League,connell,F21149,Connell,,2,New Bedford,,,,,c
 minoraverages/1916Reach,1915,Colonial League,connell,F21149,Connell,,T,,,,,,c25
 minoraverages/emilbb,1915,Colonial League,connor,M92854,Connor,Jim,,Pawtucket,,,,,
-boxscores/1915/1915-HC,1915,Colonial League,cooney,P3494241,Cooney,,,Pawtucket,19150520,19150522,2,0,3b2
-boxscores/1915/1915-HC,1915,Colonial League,courtney,P3126199,Courtney,,,Brockton,19150616,19150906,69,0,"1b37,3b17,of15,cf10,rf6"
 minoraverages/1916Reach,1915,Colonial League,courtney,B00117,Courtney,,0,Brockton,,,69,,
 minoraverages/1916Reach,1915,Colonial League,courtney,F20131,Courtney,,0,Brockton,,,,,1b43
 minoraverages/1916Reach,1915,Colonial League,courtney,F20391,Courtney,,0,Brockton,,,,,3b16
 minoraverages/1916Reach,1915,Colonial League,courtney,F20636,Courtney,,0,Brockton,,,,,of10
-boxscores/1915/1915-HC,1915,Colonial League,crooke,P8862010,Crook,,,New Bedford,19150611,19150802,16,0,1b16
-boxscores/1915/1915-HC,1915,Colonial League,crooke,P7912959,Crooke,,,New Bedford,19150626,19150626,1,0,1b1
 minoraverages/1916Reach,1915,Colonial League,crooke,B00397,Crooke,,0,New Bedford,,,84,,
 minoraverages/1916Reach,1915,Colonial League,crooke,F20072,Crooke,,0,New Bedford,,,,,1b84
-boxscores/1915/1915-HC,1915,Colonial League,crooke,P6964941,Crooks,,,New Bedford,19150617,19150906,67,0,1b67
-boxscores/1915/1915-HC,1915,Colonial League,crowther,P2055330,Crowther,,,Pawtucket,19150520,19150528,6,0,ss6
-boxscores/1915/1915-HC,1915,Colonial League,haley,P2147789,Daly,,,Fall River,19150610,19150610,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,debridges,P1927805,De Bridges,,,Pawtucket,19150729,19150729,1,0,"of1,cf1"
-boxscores/1915/1915-HC,1915,Colonial League,dean,P6434333,Dean,,,Taunton,19150520,19150612,15,0,2b15
 minoraverages/1916Reach,1915,Colonial League,dean,B00623,Dean,,0,Taunton,,,15,,
 minoraverages/1916Reach,1915,Colonial League,dean,F20298,Dean,,0,Taunton,,,,,2b15
-boxscores/1915/1915-HC,1915,Colonial League,dean,P1825186,Deane,,,Taunton,19150522,19150522,1,0,2b1
-boxscores/1915/1915-HC,1915,Colonial League,delahanty,P2504464,Delahanty,,,Hartford,19150623,19150717,13,0,2b12
 minoraverages/1916Reach,1915,Colonial League,delahanty,B00013,Delahanty,,0,Hartford,,,76,,
 minoraverages/1916Reach,1915,Colonial League,delahanty,F20222,Delahanty,,0,Hartford,,,,,2b63
 minoraverages/emilbb,1915,Colonial League,delahanty,M92806,Delahanty,Jim,,Hartford,,,,,
-boxscores/1915/1915-HC,1915,Colonial League,delahanty,P4678292,Delehanty,,,Hartford,19150520,19150906,63,0,"1b1,2b51,of9,lf7,cf2"
-boxscores/1915/1915-HC,1915,Colonial League,demoe,P8483873,Demo,,,New Bedford,19150604,19150604,1,0,2b1
-boxscores/1915/1915-HC,1915,Colonial League,demoe,P5434438,Demoe,,,New Bedford,19150520,19150707,36,0,"2b36,ss1"
-boxscores/1915/1915-HC,1915,Colonial League,demoe,P7668224,Demoe,,,Hartford,19150715,19150906,56,0,"2b13,ss44"
 minoraverages/1916Reach,1915,Colonial League,demoe,B00590,Demoe,,1,New Bedford,,,,,
 minoraverages/1916Reach,1915,Colonial League,demoe,B00590,Demoe,,2,Hartford,,,,,
 minoraverages/1916Reach,1915,Colonial League,demoe,B00590,Demoe,,T,,,,93,,
@@ -172,33 +100,15 @@ minoraverages/1916Reach,1915,Colonial League,demoe,F20190,Demoe,,T,,,,,,2b50
 minoraverages/1916Reach,1915,Colonial League,demoe,F20560,Demoe,,1,New Bedford,,,,,ss
 minoraverages/1916Reach,1915,Colonial League,demoe,F20560,Demoe,,2,Hartford,,,,,ss
 minoraverages/1916Reach,1915,Colonial League,demoe,F20560,Demoe,,T,,,,,,ss43
-boxscores/1915/1915-HC,1915,Colonial League,dempsey,P8317077,Dempsey,,,Brockton,19150520,19150906,78,0,"c77,of1,rf1"
 minoraverages/1916Reach,1915,Colonial League,dempsey,B00783,Dempsey,,0,Brockton,,,78,,
 minoraverages/1916Reach,1915,Colonial League,dempsey,F21158,Dempsey,,0,Brockton,,,,,c78
-boxscores/1915/1915-HC,1915,Colonial League,devinney,P7751312,Deviney,,,New Bedford,19150529,19150906,5,5,p5
-boxscores/1915/1915-HC,1915,Colonial League,devinney@ump,P3103088,Devinney,,,#umpire,19150730,19150730,,,
-boxscores/1915/1915-HC,1915,Colonial League,devinney,P3774718,Devinney,,,New Bedford,19150601,19150902,31,18,"p18,of8,lf2,cf2,rf5"
 minoraverages/1916Reach,1915,Colonial League,devinney,B00806,Devinney,,0,New Bedford,,,44,,
 minoraverages/1916Reach,1915,Colonial League,devinney,F21528,Devinney,,0,New Bedford,,,,,p28
 minoraverages/1916Reach,1915,Colonial League,devinney,P10231,Devinney,,0,New Bedford,,,,28,
-boxscores/1915/1915-HC,1915,Colonial League,devlin@ump,P0532880,Devlin,,,#umpire,19150624,19150624,,,
-boxscores/1915/1915-HC,1915,Colonial League,devlin@ump,P8531292,Devron,,,#umpire,19150625,19150806,,,
-boxscores/1915/1915-HC,1915,Colonial League,dickinson,P1824128,Dickerson,,,Brockton,19150605,19150605,1,0,"of1,rf1"
-boxscores/1915/1915-HC,1915,Colonial League,dickinson,P0299392,Dickinson,,,Brockton,19150527,19150608,11,0,"of11,rf11"
 minoraverages/1916Reach,1915,Colonial League,dickinson,B00822,Dickinson,,0,Brockton,,,12,,
 minoraverages/1916Reach,1915,Colonial League,dickinson,F20864,Dickinson,,0,Brockton,,,,,of12
-boxscores/1915/1915-HC,1915,Colonial League,devinney,P8608148,Diviney,,,New Bedford,19150524,19150715,3,3,p3
-boxscores/1915/1915-HC,1915,Colonial League,devinney,P2050306,Divinney,,,New Bedford,19150625,19150721,3,2,"p2,of1,cf1"
-boxscores/1915/1915-HC,1915,Colonial League,doherty-bro,P0015453,Doherty,,,Brockton,19150520,19150906,100,0,ss100
-boxscores/1915/1915-HC,1915,Colonial League,doherty-nb,P4123419,Doherty,,,New Bedford,19150520,19150520,1,0,3b1
 minoraverages/1916Reach,1915,Colonial League,doherty-bro,B01007,Doherty,,0,Brockton,,,102,,
 minoraverages/1916Reach,1915,Colonial League,doherty-bro,F20482,Doherty,,0,Brockton,,,,,ss102
-boxscores/1915/1915-HC,1915,Colonial League,dolan,P7945521,Dolan,,,Fall River,19150610,19150612,3,1,"p1,of2,cf1,rf1"
-boxscores/1915/1915-HC,1915,Colonial League,doherty-bro,P8289177,Dougherty,,,Brockton,19150524,19150524,1,0,ss1
-boxscores/1915/1915-HC,1915,Colonial League,duggan@ump,P0852132,Duggan,,,#umpire,19150607,19150607,,,
-boxscores/1915/1915-HC,1915,Colonial League,dukette,P9588749,Dukett,,,New Bedford,19150624,19150624,1,0,"of1,rf1"
-boxscores/1915/1915-HC,1915,Colonial League,dukette,P1895346,Dukette,,,New Bedford,19150621,19150814,53,0,"2b4,of49,lf2,rf47"
-boxscores/1915/1915-HC,1915,Colonial League,dukette,P7629834,Dukette,,,Pawtucket,19150816,19150906,25,0,2b25
 minoraverages/1916Reach,1915,Colonial League,dukette,B00450,Dukette,,1,Pawtucket,,,,,
 minoraverages/1916Reach,1915,Colonial League,dukette,B00450,Dukette,,2,New Bedford,,,,,
 minoraverages/1916Reach,1915,Colonial League,dukette,B00450,Dukette,,T,,,,79,,
@@ -208,10 +118,6 @@ minoraverages/1916Reach,1915,Colonial League,dukette,F20287,Dukette,,T,,,,,,2b29
 minoraverages/1916Reach,1915,Colonial League,dukette,F20673,Dukette,,1,New Bedford,,,,,of
 minoraverages/1916Reach,1915,Colonial League,dukette,F20673,Dukette,,2,Pawtucket,,,,,of
 minoraverages/1916Reach,1915,Colonial League,dukette,F20673,Dukette,,T,,,,,,of50
-boxscores/1915/1915-HC,1915,Colonial League,eaton,P3544015,Eaton,,,New Haven,19150809,19150906,8,8,p8
-boxscores/1915/1915-HC,1915,Colonial League,eaton,P4080604,Eaton,,,Taunton,19150616,19150710,9,9,p9
-boxscores/1915/1915-HC,1915,Colonial League,eaton,P5860403,Eaton,,,New Bedford,19150520,19150611,7,7,p7
-boxscores/1915/1915-HC,1915,Colonial League,eaton,P7807947,Eaton,,,Pawtucket,19150713,19150729,5,5,"p5,1b1"
 minoraverages/1916Reach,1915,Colonial League,eaton,B01162,Eaton,,1,Taunton,,,,,
 minoraverages/1916Reach,1915,Colonial League,eaton,B01162,Eaton,,2,New Bedford,,,,,
 minoraverages/1916Reach,1915,Colonial League,eaton,B01162,Eaton,,3,New Haven,,,,,
@@ -224,63 +130,28 @@ minoraverages/1916Reach,1915,Colonial League,eaton,P10348,Eaton,,1,Pawtucket,,,,
 minoraverages/1916Reach,1915,Colonial League,eaton,P10348,Eaton,,2,New Bedford,,,,,
 minoraverages/1916Reach,1915,Colonial League,eaton,P10348,Eaton,,3,New Haven,,,,,
 minoraverages/1916Reach,1915,Colonial League,eaton,P10348,Eaton,,T,,,,,30,
-boxscores/1915/1915-HC,1915,Colonial League,edwards,P1751202,Edwards,,,New Haven,19150520,19150906,101,1,"p1,3b101"
 minoraverages/1916Reach,1915,Colonial League,edwards,B00515,Edwards,,0,New Haven,,,102,,
 minoraverages/1916Reach,1915,Colonial League,edwards,F20458,Edwards,,0,New Haven,,,,,3b101
-boxscores/1915/1915-HC,1915,Colonial League,erhart,P1993278,Erhart,,,New Haven,19150609,19150616,3,0,"1b1,ss1,of1,rf1"
-boxscores/1915/1915-HC,1915,Colonial League,finnell@ump,P6715698,Fennell,,,#umpire,19150529,19150810,,,
-boxscores/1915/1915-HC,1915,Colonial League,finnell@ump,P8783848,Finell,,,#umpire,19150630,19150630,,,
-boxscores/1915/1915-HC,1915,Colonial League,finnell@ump,P5350218,Finnel,,,#umpire,19150522,19150522,,,
-boxscores/1915/1915-HC,1915,Colonial League,finnell@ump,P0730550,Finnell,,,#umpire,19150520,19150906,,,
-boxscores/1915/1915-HC,1915,Colonial League,foley,P5049938,Foley,,,Springfield,19150605,19150608,5,0,1b5
-boxscores/1915/1915-HC,1915,Colonial League,forslund,P3685850,Forcelund,,,New Haven,19150827,19150827,1,0,"of1,rf1"
-boxscores/1915/1915-HC,1915,Colonial League,forslund,P4845669,Forslund,,,New Haven,19150817,19150906,15,0,"2b7,of6,rf6"
 minoraverages/1916Reach,1915,Colonial League,forslund,B01143,Forslund,,0,New Haven,,,15,,
 minoraverages/1916Reach,1915,Colonial League,forslund,F20334,Forslund,,0,New Haven,,,,,2b6
-boxscores/1915/1915-HC,1915,Colonial League,fraser,P2378363,Fraser,,,New Haven,19150529,19150904,16,0,2b16
 minoraverages/1916Reach,1915,Colonial League,fraser,B00278,Fraser,,0,New Haven,,,98,,
 minoraverages/1916Reach,1915,Colonial League,fraser,F20211,Fraser,,0,New Haven,,,,,2b98
-boxscores/1915/1915-HC,1915,Colonial League,fraser,P6627204,Frasier,,,New Haven,19150607,19150906,62,0,2b62
-boxscores/1915/1915-HC,1915,Colonial League,fraser,P1904354,Frazer,,,New Haven,19150525,19150623,4,0,2b4
-boxscores/1915/1915-HC,1915,Colonial League,fraser,P0984907,Frazier,,,New Haven,19150520,19150828,15,0,2b15
-boxscores/1915/1915-HC,1915,Colonial League,friedrich,P2305124,Frederich,,,New Haven,19150629,19150629,1,0,1b1
-boxscores/1915/1915-HC,1915,Colonial League,friedrich,P3485575,Frederick,,,New Haven,19150621,19150722,6,0,1b5
-boxscores/1915/1915-HC,1915,Colonial League,friedrich,P1681658,Fredericks,,,New Haven,19150720,19150726,7,0,1b7
-boxscores/1915/1915-HC,1915,Colonial League,friedrich,P1432072,Freidrich,,,New Haven,19150707,19150713,2,0,1b2
-boxscores/1915/1915-HC,1915,Colonial League,freitag,P2280455,Freitag,,,Taunton,19150520,19150520,1,0,"of1,rf1"
-boxscores/1915/1915-HC,1915,Colonial League,friedrich,P1114509,Friederich,,,New Haven,19150622,19150731,8,0,"1b6,3b2"
-boxscores/1915/1915-HC,1915,Colonial League,friedrich,P6994440,Friedrich,,,New Haven,19150625,19150727,16,0,1b16
 minoraverages/1916Reach,1915,Colonial League,friedrich,B00854,Friedrich,,0,New Haven,,,40,,
 minoraverages/1916Reach,1915,Colonial League,friedrich,F20144,Friedrich,,0,New Haven,,,,,1b37
-boxscores/1915/1915-HC,1915,Colonial League,fraser,P1093769,Froser,,,New Haven,19150522,19150522,1,0,2b1
-boxscores/1915/1915-HC,1915,Colonial League,fryer,P6510620,Fryer,,,Pawtucket,19150520,19150710,37,0,2b37
 minoraverages/1916Reach,1915,Colonial League,fryer,B01135,Fryer,,0,Pawtucket,,,39,,
 minoraverages/1916Reach,1915,Colonial League,fryer,F20240,Fryer,,0,Pawtucket,,,,,2b39
-boxscores/1915/1915-HC,1915,Colonial League,fryer,P0237437,Fryes,,,Pawtucket,19150603,19150603,1,0,2b1
-boxscores/1915/1915-HC,1915,Colonial League,gagnier,P3867175,Gagner,,,Springfield,19150811,19150811,1,0,ss1
-boxscores/1915/1915-HC,1915,Colonial League,gagnier,P1478032,Gagnier,,,Springfield,19150616,19150906,78,1,"p1,2b51,ss26"
 minoraverages/1916Reach,1915,Colonial League,gagnier,B00544,Gagnier,,0,Springfield,,,79,,
 minoraverages/1916Reach,1915,Colonial League,gagnier,F20189,Gagnier,,0,Springfield,,,,,2b51
 minoraverages/1916Reach,1915,Colonial League,gagnier,F20505,Gagnier,,0,Springfield,,,,,ss27
-boxscores/1915/1915-HC,1915,Colonial League,gammons,P8539374,Gammons,,,New Bedford,19150520,19150609,5,0,"c3,1b1,of2,lf1,rf1"
-boxscores/1915/1915-HC,1915,Colonial League,gaudette,P3755908,Gaudett,,,Hartford,19150614,19150614,1,0,"of1,rf1"
-boxscores/1915/1915-HC,1915,Colonial League,gaudette,P4683881,Gaudette,,,Hartford,19150520,19150902,94,15,"p15,of79,lf40,cf2,rf38"
 minoraverages/1916Reach,1915,Colonial League,gaudette,B00210,Gaudette,,0,Hartford,,,95,,
 minoraverages/1916Reach,1915,Colonial League,gaudette,F20919,Gaudette,,0,Hartford,,,,,of78
 minoraverages/1916Reach,1915,Colonial League,gaudette,F21491,Gaudette,,0,Hartford,,,,,p16
 minoraverages/1916Reach,1915,Colonial League,gaudette,P10277,Gaudette,,0,Hartford,,,,16,
-boxscores/1915/1915-HC,1915,Colonial League,gearin,P6040298,Gearin,,,Pawtucket,19150523,19150904,28,27,p27
 minoraverages/1916Reach,1915,Colonial League,gearin,B00865,Gearin,,0,Pawtucket,,,27,,
 minoraverages/1916Reach,1915,Colonial League,gearin,F21553,Gearin,,0,Pawtucket,,,,,p27
 minoraverages/1916Reach,1915,Colonial League,gearin,P10312,Gearin,,0,Pawtucket,,,,27,
-boxscores/1915/1915-HC,1915,Colonial League,genest,P7536153,Genest,,,Springfield,19150625,19150714,17,0,"of17,cf17"
 minoraverages/1916Reach,1915,Colonial League,genest,B00286,Genest,,0,Springfield,,,17,,
 minoraverages/1916Reach,1915,Colonial League,genest,F20776,Genest,,0,Springfield,,,,,of17
-boxscores/1915/1915-HC,1915,Colonial League,gearin,P2588097,Geran,,,Pawtucket,19150520,19150520,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,jiggs,P3455789,Giggs,,,New Bedford,19150531,19150605,4,0,3b4
-boxscores/1915/1915-HC,1915,Colonial League,gilhooley,P4623040,Gilhooley,,,Pawtucket,19150715,19150812,8,0,"1b8,3b1"
-boxscores/1915/1915-HC,1915,Colonial League,gilhooley,P5787490,Gilhooley,,,Hartford,19150903,19150903,1,0,ss1
-boxscores/1915/1915-HC,1915,Colonial League,gilhooley,P7201487,Gilhooley,,,Fall River,19150703,19150710,7,0,"1b5,3b2"
 minoraverages/1916Reach,1915,Colonial League,gilhooley,F20177,Gilhooley,,1,Pawtucket,,,,,1b
 minoraverages/1916Reach,1915,Colonial League,gilhooley,F20177,Gilhooley,,2,New Bedford,,,,,1b
 minoraverages/1916Reach,1915,Colonial League,gilhooley,F20177,Gilhooley,,3,Hartford,,,,,1b
@@ -293,100 +164,55 @@ minoraverages/1916Reach,1915,Colonial League,gilhooley,F20594,Gilhooley,,1,Pawtu
 minoraverages/1916Reach,1915,Colonial League,gilhooley,F20594,Gilhooley,,2,Hartford,,,,,ss
 minoraverages/1916Reach,1915,Colonial League,gilhooley,F20594,Gilhooley,,3,New Bedford,,,,,ss
 minoraverages/1916Reach,1915,Colonial League,gilhooley,F20594,Gilhooley,,T,,,,,,ss12
-boxscores/1915/1915-HC,1915,Colonial League,gilhooley,P6390666,Gilhooly,,,Fall River,19150628,19150707,4,0,"1b1,3b3"
-boxscores/1915/1915-HC,1915,Colonial League,gilhooley,P7931803,Gilhooly,,,Pawtucket,19150809,19150813,2,0,1b2
 minoraverages/1916Reach,1915,Colonial League,gilhooley,B00232,Gilhooly,,1,Pawtucket,,,,,
 minoraverages/1916Reach,1915,Colonial League,gilhooley,B00232,Gilhooly,,2,New Bedford,,,,,
 minoraverages/1916Reach,1915,Colonial League,gilhooley,B00232,Gilhooly,,3,Hartford,,,,,
 minoraverages/1916Reach,1915,Colonial League,gilhooley,B00232,Gilhooly,,T,,,,72,,
-boxscores/1915/1915-HC,1915,Colonial League,gilhooley,P6359364,Gillooley,,,Pawtucket,19150720,19150720,1,0,1b1
-boxscores/1915/1915-HC,1915,Colonial League,gilhooley,P7961318,Gillooley,,,Hartford,19150906,19150906,1,0,ss1
-boxscores/1915/1915-HC,1915,Colonial League,gilhooley,P0105631,Gillooly,,,Pawtucket,19150712,19150811,19,0,"1b18,3b1,of1,cf1"
-boxscores/1915/1915-HC,1915,Colonial League,gilhooley,P3832417,Gillooly,,,Hartford,19150816,19150906,20,0,"2b9,ss11,of1,cf1"
-boxscores/1915/1915-HC,1915,Colonial League,gilhooley,P8126990,Gillooly,,,Fall River,19150624,19150705,5,0,"1b1,3b4"
-boxscores/1915/1915-HC,1915,Colonial League,gilmore,P4930083,Gilmore,,,Pawtucket,19150520,19150906,90,0,"of90,cf1,rf89"
 minoraverages/1916Reach,1915,Colonial League,gilmore,B00589,Gilmore,,0,Pawtucket,,,90,,
 minoraverages/1916Reach,1915,Colonial League,gilmore,F20981,Gilmore,,0,Pawtucket,,,,,of90
-boxscores/1915/1915-HC,1915,Colonial League,gilhooley,P0657402,Gilooley,,,Hartford,19150823,19150823,1,0,2b1
-boxscores/1915/1915-HC,1915,Colonial League,gilhooley,P2398965,Gilooly,,,Hartford,19150824,19150824,1,0,2b1
-boxscores/1915/1915-HC,1915,Colonial League,gilhooley,P2801715,Gilooly,,,Pawtucket,19150814,19150814,2,0,1b2
-boxscores/1915/1915-HC,1915,Colonial League,gilroy,P4031163,Gilroy,,,Taunton,19150522,19150710,31,1,"p1,c1,of27,rf27"
 minoraverages/1916Reach,1915,Colonial League,gilroy,B00961,Gilroy,,0,Taunton,,,31,,
 minoraverages/1916Reach,1915,Colonial League,gilroy,F20956,Gilroy,,0,Taunton,,,,,of27
 minoraverages/emilbb,1915,Colonial League,gilroy,M92887,Gilroy,Thomas,,Taunton,,,,,
-boxscores/1915/1915-HC,1915,Colonial League,giroux,P4972673,Giroux,,,Fall River,19150520,19150524,4,0,"of4,rf4"
-boxscores/1915/1915-HC,1915,Colonial League,gleason,P1367109,Gleason,,,New Bedford,19150520,19150906,48,26,"p26,2b2,of16,lf7,cf2,rf7"
 minoraverages/1916Reach,1915,Colonial League,gleason,B00149,Gleason,,0,New Bedford,,,47,,
 minoraverages/1916Reach,1915,Colonial League,gleason,F20807,Gleason,,0,New Bedford,,,,,of16
 minoraverages/1916Reach,1915,Colonial League,gleason,F21255,Gleason,,0,New Bedford,,,,,p26
 minoraverages/1916Reach,1915,Colonial League,gleason,P10062,Gleason,,0,New Bedford,,,,26,
-boxscores/1915/1915-HC,1915,Colonial League,glennon,P8543796,Glennon,,,Fall River,19150520,19150710,36,0,ss35
 minoraverages/1916Reach,1915,Colonial League,glennon,B00904,Glennon,,0,Fall River,,,38,,
 minoraverages/1916Reach,1915,Colonial League,glennon,F20583,Glennon,,0,Fall River,,,,,ss37
-boxscores/1915/1915-HC,1915,Colonial League,golden,P6559580,Golden,,,Fall River,19150525,19150709,18,9,"p9,of9,rf9"
 minoraverages/1916Reach,1915,Colonial League,golden,B00898,Golden,,0,Fall River,,,18,,
 minoraverages/1916Reach,1915,Colonial League,golden,F21370,Golden,,0,Fall River,,,,,p9
 minoraverages/1916Reach,1915,Colonial League,golden,P10070,Golden,,0,Fall River,,,,9,
-boxscores/1915/1915-HC,1915,Colonial League,gough,P8076991,Gough,,,Taunton,19150621,19150621,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,graham@ump,P1693694,Graham,,,#umpire,19150520,19150630,,,
-boxscores/1915/1915-HC,1915,Colonial League,greenslade,P9988100,Greenalade,,,New Bedford,19150520,19150520,1,0,"of1,rf1"
-boxscores/1915/1915-HC,1915,Colonial League,greenslade,P2832214,Greenslade,,,New Bedford,19150522,19150710,38,0,"of38,lf30,rf8"
 minoraverages/1916Reach,1915,Colonial League,greenslade,B00356,Greenslade,,0,New Bedford,,,39,,
 minoraverages/1916Reach,1915,Colonial League,greenslade,F20784,Greenslade,,0,New Bedford,,,,,of39
-boxscores/1915/1915-HC,1915,Colonial League,gruber,P8092421,Gruber,,,Brockton,19150520,19150608,12,0,1b12
 minoraverages/1916Reach,1915,Colonial League,gruber,B01064,Gruber,,0,Brockton,,,14,,
 minoraverages/1916Reach,1915,Colonial League,gruber,F20051,Gruber,,0,Brockton,,,,,1b14
-boxscores/1915/1915-HC,1915,Colonial League,gruber,P3028170,Grueber,,,Brockton,19150529,19150531,2,0,1b2
-boxscores/1915/1915-HC,1915,Colonial League,haddock,P6654246,Haddock,,,New Haven,19150809,19150812,2,2,p2
 minoraverages/1916Reach,1915,Colonial League,haddock,B01216,Haddock,,0,New Haven,,,7,,
 minoraverages/1916Reach,1915,Colonial League,haddock,F21590,Haddock,,0,New Haven,,,,,p7
 minoraverages/1916Reach,1915,Colonial League,haddock,P10035,Haddock,,0,New Haven,,,,7,
-boxscores/1915/1915-HC,1915,Colonial League,haddock,P6247801,Haddocks,,,New Haven,19150719,19150719,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,haddock,P5530160,Haddox,,,New Haven,19150724,19150802,3,3,p3
-boxscores/1915/1915-HC,1915,Colonial League,haley,P8922870,Haley,,,Fall River,19150520,19150630,10,10,p10
 minoraverages/1916Reach,1915,Colonial League,haley,B01032,Haley,,0,Fall River,,,11,,
 minoraverages/1916Reach,1915,Colonial League,haley,F21293,Haley,,0,Fall River,,,,,p11
 minoraverages/1916Reach,1915,Colonial League,haley,P10357,Haley,,0,Fall River,,,,11,
-boxscores/1915/1915-HC,1915,Colonial League,hilfrich,P3375718,Hallfrick,,,Hartford,19150729,19150729,1,0,"of1,rf1"
-boxscores/1915/1915-HC,1915,Colonial League,heir,P9441715,Hare,,,Springfield,19150612,19150612,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,harlow,P5693385,Harlow,,,New Bedford,19150522,19150721,49,0,"ss47,of2,rf2"
 minoraverages/1916Reach,1915,Colonial League,harlow,B00705,Harlow,,0,New Bedford,,,50,,
 minoraverages/1916Reach,1915,Colonial League,harlow,F20518,Harlow,,0,New Bedford,,,,,ss50
-boxscores/1915/1915-HC,1915,Colonial League,harlow,P3348334,Harlowe,,,New Bedford,19150531,19150531,1,0,ss1
-boxscores/1915/1915-HC,1915,Colonial League,herring,P6753697,Harris,,,New Haven,19150719,19150719,1,0,
-boxscores/1915/1915-HC,1915,Colonial League,hart,P9374260,Hart,,,Taunton,19150520,19150531,7,0,"1b1,of6,rf6"
-boxscores/1915/1915-HC,1915,Colonial League,heir,P6561051,Heir,,,Springfield,19150622,19150626,2,2,p2
-boxscores/1915/1915-HC,1915,Colonial League,heir,P8031968,Heir,,,New Haven,19150709,19150726,7,7,"p7,3b1"
 minoraverages/1916Reach,1915,Colonial League,heir,B01300,Heir,,0,Springfield,,,11,,
 minoraverages/1916Reach,1915,Colonial League,heir,F21362,Heir,,1,Springfield,,,,,p
 minoraverages/1916Reach,1915,Colonial League,heir,F21362,Heir,,2,New Haven,,,,,p
 minoraverages/1916Reach,1915,Colonial League,heir,F21362,Heir,,T,,,,,,p11
 minoraverages/1916Reach,1915,Colonial League,hilfrich,P10056,Helfrich,,0,Hartford,,,,15,
-boxscores/1915/1915-HC,1915,Colonial League,hilfrich,P4881063,Hellfrich,,,Hartford,19150705,19150903,17,14,"p14,of3,lf1,rf2"
-boxscores/1915/1915-HC,1915,Colonial League,hilfrich,P0780731,Hellfricht,,,Hartford,19150811,19150811,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,herring,P1619399,Herring,,,New Haven,19150707,19150906,33,19,"p19,of3,cf2,rf1"
 minoraverages/1916Reach,1915,Colonial League,herring,B00101,Herring,,0,New Haven,,,31,,
 minoraverages/1916Reach,1915,Colonial League,herring,F21416,Herring,,0,New Haven,,,,,p19
 minoraverages/1916Reach,1915,Colonial League,herring,P10253,Herring,,0,New Haven,,,,19,
-boxscores/1915/1915-HC,1915,Colonial League,herring,P1608395,Hess,,,New Haven,19150705,19150705,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,hickman,P1508695,Hickman,,,New Bedford,19150710,19150906,56,0,"c2,ss41,of14,lf12,rf2"
 minoraverages/1916Reach,1915,Colonial League,hickman,B00416,Hickman,,0,New Bedford,,,57,,
 minoraverages/1916Reach,1915,Colonial League,hickman,F20539,Hickman,,0,New Bedford,,,,,ss41
 minoraverages/1916Reach,1915,Colonial League,hickman,F20935,Hickman,,0,New Bedford,,,,,of13
-boxscores/1915/1915-HC,1915,Colonial League,hickman,P5596750,Hicks,,,New Bedford,19150709,19150709,1,0,"of1,lf1"
 minoraverages/1916Reach,1915,Colonial League,hilfrich,B01197,Hilfrich,,0,Hartford,,,19,,
 minoraverages/1916Reach,1915,Colonial League,hilfrich,F21264,Hilfrich,,0,Hartford,,,,,p15
-boxscores/1915/1915-HC,1915,Colonial League,hoffman,P8266455,Hoffman,,,New Haven,19150902,19150902,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,hogan,P1552069,Hogan,,,New Haven,19150608,19150906,89,0,ss89
-boxscores/1915/1915-HC,1915,Colonial League,hogan,P9951040,Hogan,,,Springfield,19150524,19150528,4,0,ss4
 minoraverages/1916Reach,1915,Colonial League,hogan,B00752,Hogan,,1,New Haven,,,,,
 minoraverages/1916Reach,1915,Colonial League,hogan,B00752,Hogan,,2,Springfield,,,,,
 minoraverages/1916Reach,1915,Colonial League,hogan,B00752,Hogan,,T,,,,94,,
 minoraverages/1916Reach,1915,Colonial League,hogan,F20526,Hogan,,1,Springfield,,,,,ss
 minoraverages/1916Reach,1915,Colonial League,hogan,F20526,Hogan,,2,New Haven,,,,,ss
 minoraverages/1916Reach,1915,Colonial League,hogan,F20526,Hogan,,T,,,,,,ss94
-boxscores/1915/1915-HC,1915,Colonial League,houck,P5393522,Houck,,,New Haven,19150520,19150529,4,2,"p2,1b1,of1,lf1"
-boxscores/1915/1915-HC,1915,Colonial League,houck,P9657454,Houck,,,Pawtucket,19150531,19150906,49,26,"p26,3b1,of17,lf5,cf8,rf4"
 minoraverages/1916Reach,1915,Colonial League,houck,B00739,Houck,,1,New Haven,,,,,
 minoraverages/1916Reach,1915,Colonial League,houck,B00739,Houck,,2,Pawtucket,,,,,
 minoraverages/1916Reach,1915,Colonial League,houck,B00739,Houck,,T,,,,52,,
@@ -399,109 +225,54 @@ minoraverages/1916Reach,1915,Colonial League,houck,F21488,Houck,,T,,,,,,p27
 minoraverages/1916Reach,1915,Colonial League,houck,P10121,Houck,,1,New Haven,,,,,
 minoraverages/1916Reach,1915,Colonial League,houck,P10121,Houck,,2,Pawtucket,,,,,
 minoraverages/1916Reach,1915,Colonial League,houck,P10121,Houck,,T,,,,,27,
-boxscores/1915/1915-HC,1915,Colonial League,howe,P6409931,Howe,,,New Haven,19150826,19150826,1,0,1b1
-boxscores/1915/1915-HC,1915,Colonial League,howson,P0730428,Howson,,,Brockton,19150522,19150904,30,28,"p28,of2,rf2"
 minoraverages/1916Reach,1915,Colonial League,howson,B01055,Howson,,0,Brockton,,,30,,
 minoraverages/1916Reach,1915,Colonial League,howson,F21403,Howson,,0,Brockton,,,,,p26
 minoraverages/1916Reach,1915,Colonial League,howson,P10184,Howson,,0,Brockton,,,,26,
-boxscores/1915/1915-HC,1915,Colonial League,jacobson,P4389165,Jacobson,,,Brockton,19150520,19150903,98,0,"of98,lf98"
 minoraverages/1916Reach,1915,Colonial League,jacobson,B00037,Jacobson,,0,Brockton,,,98,,
 minoraverages/1916Reach,1915,Colonial League,jacobson,F20745,Jacobson,,0,Brockton,,,,,of98
-boxscores/1915/1915-HC,1915,Colonial League,jiggs,P6385930,Jakes,,,New Bedford,19150715,19150715,1,0,3b1
-boxscores/1915/1915-HC,1915,Colonial League,jiggs,P8929808,Jiggs,,,New Bedford,19150522,19150906,95,0,3b95
 minoraverages/1916Reach,1915,Colonial League,jiggs,B00488,Jiggs,,0,New Bedford,,,100,,
 minoraverages/1916Reach,1915,Colonial League,jiggs,F20417,Jiggs,,0,New Bedford,,,,,3b100
-boxscores/1915/1915-HC,1915,Colonial League,johnson,P5058611,Johnson,,,Pawtucket,19150705,19150906,53,1,"p1,2b22,ss2,of30,lf24,cf6"
 minoraverages/1916Reach,1915,Colonial League,johnson,B00672,Johnson,,0,Pawtucket,,,52,,
 minoraverages/1916Reach,1915,Colonial League,johnson,F20303,Johnson,,0,Pawtucket,,,,,2b21
 minoraverages/1916Reach,1915,Colonial League,johnson,F20908,Johnson,,0,Pawtucket,,,,,of30
-boxscores/1915/1915-HC,1915,Colonial League,jones,P5734722,Jones,,,Fall River,19150520,19150522,3,0,"of3,cf3"
-boxscores/1915/1915-HC,1915,Colonial League,justin,P7948240,Justin,,,Springfield,19150614,19150906,29,25,"p25,2b1,of3,rf3"
 minoraverages/1916Reach,1915,Colonial League,justin,B00920,Justin,,0,Springfield,,,29,,
 minoraverages/1916Reach,1915,Colonial League,justin,F21286,Justin,,0,Springfield,,,,,p25
 minoraverages/1916Reach,1915,Colonial League,justin,P10192,Justin,,0,Springfield,,,,25,
-boxscores/1915/1915-HC,1915,Colonial League,kane,P5794269,Kane,,,Brockton,19150904,19150906,3,0,"of3,rf3"
-boxscores/1915/1915-HC,1915,Colonial League,cavanaugh,P2731692,Kavanaugh,,,Hartford,19150710,19150710,1,0,"of1,cf1"
-boxscores/1915/1915-HC,1915,Colonial League,kelly,P0132185,Kelley,,,Springfield,19150731,19150807,4,0,"3b3,of1,cf1"
-boxscores/1915/1915-HC,1915,Colonial League,kelly,P2332265,Kelley,,,Fall River,19150525,19150607,5,0,c5
-boxscores/1915/1915-HC,1915,Colonial League,kelly,P4424932,Kelly,,,Fall River,19150520,19150612,7,0,"c1,of6,lf1,rf6"
-boxscores/1915/1915-HC,1915,Colonial League,kelly,P9190196,Kelly,,,Springfield,19150805,19150806,3,0,3b2
 minoraverages/1916Reach,1915,Colonial League,kelly,B01250,Kelly,,0,Fall River,,,12,,
 minoraverages/1916Reach,1915,Colonial League,kelly,F21210,Kelly,,0,Fall River,,,,,c6
 minoraverages/1916Reach,1915,Colonial League,keyes,F20425,Keyer,,0,Springfield,,,,,3b24
-boxscores/1915/1915-HC,1915,Colonial League,keyes,P0875156,Keyes,,,Springfield,19150520,19150622,22,0,3b22
 minoraverages/1916Reach,1915,Colonial League,keyes,B00760,Keyes,,0,Springfield,,,24,,
-boxscores/1915/1915-HC,1915,Colonial League,keyes,P8827471,Keys,,,Springfield,19150531,19150617,2,0,3b2
-boxscores/1915/1915-HC,1915,Colonial League,kiley,P4945027,Kiley,,,Taunton,19150520,19150710,41,0,"c1,of40,lf1,cf39"
-boxscores/1915/1915-HC,1915,Colonial League,kiley,P7992444,Kiley,,,Brockton,19150713,19150906,57,0,"of57,cf17,rf41"
 minoraverages/1916Reach,1915,Colonial League,kiley,B00196,Kiley,,1,Taunton,,,,,
 minoraverages/1916Reach,1915,Colonial League,kiley,B00196,Kiley,,2,Brockton,,,,,
 minoraverages/1916Reach,1915,Colonial League,kiley,B00196,Kiley,,T,,,,102,,
 minoraverages/1916Reach,1915,Colonial League,kiley,F20792,Kiley,,0,Brockton,,,,,of101
-boxscores/1915/1915-HC,1915,Colonial League,killian,P3380984,Killian,,,Pawtucket,19150520,19150717,45,0,"3b1,ss1,of44,lf25,cf19"
 minoraverages/1916Reach,1915,Colonial League,killian,B00531,Killian,,0,Pawtucket,,,45,,
 minoraverages/1916Reach,1915,Colonial League,killian,F20962,Killian,,0,Pawtucket,,,,,of43
-boxscores/1915/1915-HC,1915,Colonial League,klobedanz@ump,P9077608,Klobedanz,,,#umpire,19150703,19150703,,,
-boxscores/1915/1915-HC,1915,Colonial League,manning,P8439082,Lanning,,,Fall River,19150527,19150527,1,0,1b1
-boxscores/1915/1915-HC,1915,Colonial League,latham@ump,P4277445,Latham,,,#umpire,19150520,19150531,,,
-boxscores/1915/1915-HC,1915,Colonial League,lavigne,P8489785,Lavigne,,,Springfield,19150524,19150906,87,0,"c83,1b3"
 minoraverages/1916Reach,1915,Colonial League,lavigne,B00609,Lavigne,,0,Springfield,,,88,,
 minoraverages/1916Reach,1915,Colonial League,lavigne,F21076,Lavigne,,0,Springfield,,,,,c85
-boxscores/1915/1915-HC,1915,Colonial League,leach,P0087349,Leach,,,New Haven,19150819,19150906,7,7,p7
 minoraverages/1916Reach,1915,Colonial League,leach,B01288,Leach,,0,New Haven,,,7,,
 minoraverages/1916Reach,1915,Colonial League,leach,F21427,Leach,,0,New Haven,,,,,p7
 minoraverages/1916Reach,1915,Colonial League,leach,P10081,Leach,,0,New Haven,,,,7,
-boxscores/1915/1915-HC,1915,Colonial League,lied,P0790241,Leid,,,Fall River,19150525,19150707,31,0,"of31,lf31"
-boxscores/1915/1915-HC,1915,Colonial League,lied,P2610578,Leid,,,Pawtucket,19150712,19150731,12,0,"of12,lf12"
-boxscores/1915/1915-HC,1915,Colonial League,lied,P8346646,Leid,,,New Haven,19150809,19150906,26,0,"of26,lf20,cf2,rf4"
-boxscores/1915/1915-HC,1915,Colonial League,glennon,P8691469,Lennon,,,Fall River,19150528,19150531,2,0,ss2
-boxscores/1915/1915-HC,1915,Colonial League,leonard,P3277435,Leonard,,,Hartford,19150820,19150820,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,lavigne,P9346621,Levigne,,,Springfield,19150612,19150612,1,0,c1
-boxscores/1915/1915-HC,1915,Colonial League,lewis,P5785927,Lewis,,,Fall River,19150608,19150703,24,0,c24
 minoraverages/1916Reach,1915,Colonial League,lewis,B00469,Lewis,,0,Fall River,,,21,,
 minoraverages/1916Reach,1915,Colonial League,lewis,F21163,Lewis,,0,Fall River,,,,,c21
-boxscores/1915/1915-HC,1915,Colonial League,lied,P0421654,Lied,,,New Haven,19150802,19150904,12,0,"of12,lf6,rf6"
-boxscores/1915/1915-HC,1915,Colonial League,lied,P4685586,Lied,,,Pawtucket,19150717,19150729,7,0,"of6,lf6"
-boxscores/1915/1915-HC,1915,Colonial League,lied,P9265505,Lied,,,Fall River,19150601,19150710,11,0,"of11,lf11"
 minoraverages/1916Reach,1915,Colonial League,lied,B00403,Lied,,1,New Haven,,,,,
 minoraverages/1916Reach,1915,Colonial League,lied,B00403,Lied,,2,Fall River,,,,,
 minoraverages/1916Reach,1915,Colonial League,lied,B00403,Lied,,T,,,,97,,
 minoraverages/1916Reach,1915,Colonial League,lied,F20893,Lied,,1,Fall River,,,,,of
 minoraverages/1916Reach,1915,Colonial League,lied,F20893,Lied,,2,New Haven,,,,,of
 minoraverages/1916Reach,1915,Colonial League,lied,F20893,Lied,,T,,,,,,of97
-boxscores/1915/1915-HC,1915,Colonial League,linder,P6319770,Linder,,,New Bedford,19150520,19150826,84,0,"of83,lf1,cf82"
 minoraverages/1916Reach,1915,Colonial League,linder,B00427,Linder,,0,New Bedford,,,84,,
 minoraverages/1916Reach,1915,Colonial League,linder,F20810,Linder,,0,New Bedford,,,,,of84
-boxscores/1915/1915-HC,1915,Colonial League,longley,P9230382,Longley,,,Pawtucket,19150722,19150722,1,0,"1b1,of1,lf1"
-boxscores/1915/1915-HC,1915,Colonial League,loud,P3467240,Loud,,,Pawtucket,19150621,19150630,8,0,"of8,cf8"
-boxscores/1915/1915-HC,1915,Colonial League,loud,P6910706,Loud,,,Brockton,19150610,19150906,7,0,"of7,lf4,cf3"
 minoraverages/1916Reach,1915,Colonial League,loud,B00059,Loud,,1,Pawtucket,,,,,
 minoraverages/1916Reach,1915,Colonial League,loud,B00059,Loud,,2,Brockton,,,,,
 minoraverages/1916Reach,1915,Colonial League,loud,B00059,Loud,,T,,,,15,,
 minoraverages/1916Reach,1915,Colonial League,loud,F20713,Loud,,1,Pawtucket,,,,,of
 minoraverages/1916Reach,1915,Colonial League,loud,F20713,Loud,,2,Brockton,,,,,of
 minoraverages/1916Reach,1915,Colonial League,loud,F20713,Loud,,T,,,,,,of15
-boxscores/1915/1915-HC,1915,Colonial League,mcpherson,P7569998,Mac Pherson,,,Brockton,19150522,19150522,1,0,"of1,cf1"
-boxscores/1915/1915-HC,1915,Colonial League,mcpherson,P5395726,MacPherson,,,Brockton,19150521,19150604,3,0,"of3,cf3"
-boxscores/1915/1915-HC,1915,Colonial League,mcpherson,P9286318,Macpherson,,,Brockton,19150524,19150602,2,0,"of2,cf2"
-boxscores/1915/1915-HC,1915,Colonial League,manning,P8653291,Manning,,,Fall River,19150528,19150528,1,0,1b1
-boxscores/1915/1915-HC,1915,Colonial League,manser,P3408281,Manser,,,Springfield,19150607,19150904,28,22,"p22,1b3,of2,cf2"
 minoraverages/1916Reach,1915,Colonial League,manser,F21278,Manser,,0,Springfield,,,,,p25
 minoraverages/1916Reach,1915,Colonial League,manser,P10100,Manser,,0,Springfield,,,,25,
 minoraverages/1916Reach,1915,Colonial League,manser,B00936,Mansey,,0,Springfield,,,30,,
-boxscores/1915/1915-HC,1915,Colonial League,manser,P3368745,Mansur,,,Springfield,19150610,19150728,2,2,"p2,of1,rf1"
-boxscores/1915/1915-HC,1915,Colonial League,manser,P7212480,Manzer,,,Springfield,19150802,19150802,1,0,1b1
-boxscores/1915/1915-HC,1915,Colonial League,mattox,P1220437,Mattox,,,New Haven,19150721,19150721,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,manser,P8946848,Mauser,,,Springfield,19150820,19150820,1,1,p1
 minoraverages/emilbb,1915,Colonial League,maxwell,M92833,Maxwell,Bert,,New Haven,,,,,
-boxscores/1915/1915-HC,1915,Colonial League,mcaloon,P5449806,McAloon,,,Taunton,19150531,19150710,5,0,c4
-boxscores/1915/1915-HC,1915,Colonial League,mcelroy,P5375051,McAlroy,,,Pawtucket,19150520,19150520,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,mcelroy,P9756490,McAlroy,,,Springfield,19150818,19150818,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,mcgauley@ump,P3905054,McAuley,,,#umpire,19150628,19150710,,,
-boxscores/1915/1915-HC,1915,Colonial League,mcelroy,P5556547,McAvoy,,,Pawtucket,19150531,19150531,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,mcleod,P4356522,McCloud,,,Fall River,19150609,19150609,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,mcelroy,P7055182,McElroy,,,Springfield,19150810,19150903,6,6,p6
-boxscores/1915/1915-HC,1915,Colonial League,mcelroy,P7548879,McElroy,,,Pawtucket,19150527,19150619,4,4,p4
 minoraverages/1916Reach,1915,Colonial League,mcelroy,B01181,McElroy,,1,Pawtucket,,,,,
 minoraverages/1916Reach,1915,Colonial League,mcelroy,B01181,McElroy,,2,Springfield,,,,,
 minoraverages/1916Reach,1915,Colonial League,mcelroy,B01181,McElroy,,T,,,,14,,
@@ -511,17 +282,8 @@ minoraverages/1916Reach,1915,Colonial League,mcelroy,F21356,McElroy,,T,,,,,,p13
 minoraverages/1916Reach,1915,Colonial League,mcelroy,P10320,McElroy,,1,Pawtucket,,,,,
 minoraverages/1916Reach,1915,Colonial League,mcelroy,P10320,McElroy,,2,Springfield,,,,,
 minoraverages/1916Reach,1915,Colonial League,mcelroy,P10320,McElroy,,T,,,,,13,
-boxscores/1915/1915-HC,1915,Colonial League,mcgauley@ump,P2666046,McGanley,,,#umpire,19150629,19150629,,,
-boxscores/1915/1915-HC,1915,Colonial League,mcgauley@ump,P8753765,McGauley,,,#umpire,19150626,19150721,,,
-boxscores/1915/1915-HC,1915,Colonial League,mcgill,P1339948,McGill,,,Pawtucket,19150610,19150617,5,0,"of5,cf5"
-boxscores/1915/1915-HC,1915,Colonial League,mcginley,P8223084,McGinley,,,Pawtucket,19150520,19150906,36,0,c36
 minoraverages/1916Reach,1915,Colonial League,mcginley,B00718,McGinley,,0,Pawtucket,,,37,,
 minoraverages/1916Reach,1915,Colonial League,mcginley,F21101,McGinley,,0,Pawtucket,,,,,c36
-boxscores/1915/1915-HC,1915,Colonial League,mcginn,P0499572,McGinn,,,New Haven,19150523,19150523,1,0,1b1
-boxscores/1915/1915-HC,1915,Colonial League,mcginn,P7619323,McGuin,,,New Haven,19150528,19150528,1,0,1b1
-boxscores/1915/1915-HC,1915,Colonial League,mcginn,P9461257,McGuinn,,,New Haven,19150520,19150531,5,0,1b5
-boxscores/1915/1915-HC,1915,Colonial League,mcleod,P0718071,McLeod,,,Fall River,19150522,19150710,13,13,p13
-boxscores/1915/1915-HC,1915,Colonial League,mcleod,P3543952,McLeod,,,New Bedford,19150714,19150902,14,14,p14
 minoraverages/1916Reach,1915,Colonial League,mcleod,B01227,McLeod,,1,New Bedford,,,,,
 minoraverages/1916Reach,1915,Colonial League,mcleod,B01227,McLeod,,2,Fall River,,,,,
 minoraverages/1916Reach,1915,Colonial League,mcleod,B01227,McLeod,,T,,,,31,,
@@ -531,32 +293,16 @@ minoraverages/1916Reach,1915,Colonial League,mcleod,F21577,McLeod,,T,,,,,,p28
 minoraverages/1916Reach,1915,Colonial League,mcleod,P10304,McLeod,,1,Fall River,,,,,
 minoraverages/1916Reach,1915,Colonial League,mcleod,P10304,McLeod,,2,New Bedford,,,,,
 minoraverages/1916Reach,1915,Colonial League,mcleod,P10304,McLeod,,T,,,,,28,
-boxscores/1915/1915-HC,1915,Colonial League,mcpherson,P0426061,McPherson,,,Brockton,19150531,19150608,7,0,"of7,cf7"
 minoraverages/1916Reach,1915,Colonial League,mcpherson,B01041,McPherson,,0,Brockton,,,13,,
 minoraverages/1916Reach,1915,Colonial League,mcpherson,F20997,McPherson,,0,Brockton,,,,,of13
-boxscores/1915/1915-HC,1915,Colonial League,mcginn,P4895827,McQuinn,,,New Haven,19150527,19150527,1,0,1b1
-boxscores/1915/1915-HC,1915,Colonial League,mcsherry,P8637321,McSherry,,,New Bedford,19150828,19150906,11,0,"of11,lf10,cf2"
-boxscores/1915/1915-HC,1915,Colonial League,mcsherry,P9357264,McSherry,,,Fall River,19150521,19150703,38,0,"ss1,of38,lf2,cf27,rf10"
 minoraverages/1916Reach,1915,Colonial League,mcsherry,B00475,McSherry,,1,Fall River,,,,,
 minoraverages/1916Reach,1915,Colonial League,mcsherry,B00475,McSherry,,2,New Bedford,,,,,
 minoraverages/1916Reach,1915,Colonial League,mcsherry,B00475,McSherry,,T,,,,46,,
 minoraverages/1916Reach,1915,Colonial League,mcsherry,F21037,McSherry,,1,Fall River,,,,,of
 minoraverages/1916Reach,1915,Colonial League,mcsherry,F21037,McSherry,,2,New Bedford,,,,,of
 minoraverages/1916Reach,1915,Colonial League,mcsherry,F21037,McSherry,,T,,,,,,of46
-boxscores/1915/1915-HC,1915,Colonial League,melvin,P1624615,Melvin,,,New Bedford,19150520,19150525,4,0,"of4,lf3,cf1"
-boxscores/1915/1915-HC,1915,Colonial League,menosky,P4907331,Menoskey,,,New Haven,19150721,19150721,1,0,"of1,lf1"
-boxscores/1915/1915-HC,1915,Colonial League,menosky,P9866302,Menosky,,,New Haven,19150520,19150814,73,1,"p1,1b2,of71,lf70,rf1"
 minoraverages/1916Reach,1915,Colonial League,menosky,B00319,Menosky,,0,New Haven,,,77,,
 minoraverages/1916Reach,1915,Colonial League,menosky,F20661,Menosky,,0,New Haven,,,,,of75
-boxscores/1915/1915-HC,1915,Colonial League,menzer,P6109955,Menzel,,,New Haven,19150621,19150624,2,0,"of2,rf2"
-boxscores/1915/1915-HC,1915,Colonial League,menzer,P8470857,Menzer,,,New Haven,19150622,19150623,2,0,"of2,rf2"
-boxscores/1915/1915-HC,1915,Colonial League,merigan,P4072422,Merigan,,,Fall River,19150520,19150520,1,0,1b1
-boxscores/1915/1915-HC,1915,Colonial League,merigan,P5404346,Merrigan,,,Taunton,19150522,19150525,2,0,1b2
-boxscores/1915/1915-HC,1915,Colonial League,miller-nh,P0347645,Miller,,,New Haven,19150819,19150825,6,0,1b6
-boxscores/1915/1915-HC,1915,Colonial League,miller-nh,P1924248,Miller,M.,,New Haven,19150831,19150903,5,0,1b5
-boxscores/1915/1915-HC,1915,Colonial League,miller-tau+spr,P1947274,Miller,,,Taunton,19150527,19150710,39,0,1b39
-boxscores/1915/1915-HC,1915,Colonial League,miller-tau+spr,P2735406,Miller,H.,,Springfield,19150831,19150904,7,0,"1b6,ss1"
-boxscores/1915/1915-HC,1915,Colonial League,miller-tau+spr,P8333304,Miller,,,Springfield,19150712,19150906,47,0,"1b47,2b1"
 minoraverages/1916Reach,1915,Colonial League,miller-tau+spr,B00068,Miller,,1,Taunton,,,,,
 minoraverages/1916Reach,1915,Colonial League,miller-tau+spr,B00068,Miller,,2,Springfield,,,,,
 minoraverages/1916Reach,1915,Colonial League,miller-tau+spr,B00068,Miller,,T,,,,96,,
@@ -565,22 +311,11 @@ minoraverages/1916Reach,1915,Colonial League,miller-tau+spr,F20095,Miller,,1,Tau
 minoraverages/1916Reach,1915,Colonial League,miller-tau+spr,F20095,Miller,,2,Springfield,,,,,1b
 minoraverages/1916Reach,1915,Colonial League,miller-tau+spr,F20095,Miller,,T,,,,,,1b95
 minoraverages/1916Reach,1915,Colonial League,miller-nh,F20153,Miller,,0,New Haven,,,,,1b13
-boxscores/1915/1915-HC,1915,Colonial League,miller-nh,P8484203,Miller [NH],,,New Haven,19150816,19150818,3,0,1b3
-boxscores/1915/1915-HC,1915,Colonial League,miller-tau+spr,P6856453,Miller [SPR],,,Springfield,19150816,19150818,3,0,1b3
-boxscores/1915/1915-HC,1915,Colonial League,menosky,P9207112,Monosky,,,New Haven,19150525,19150609,3,0,"of3,lf3"
-boxscores/1915/1915-HC,1915,Colonial League,moore,P3765974,Moore,,,Pawtucket,19150529,19150531,3,0,"of3,lf3"
-boxscores/1915/1915-HC,1915,Colonial League,morgan,P6018362,Morgan,,,Hartford,19150602,19150602,1,0,2b1
-boxscores/1915/1915-HC,1915,Colonial League,morris,P8423423,Morris,,,Fall River,19150520,19150710,44,0,"1b33,of11,lf2,rf9"
 minoraverages/1916Reach,1915,Colonial League,morris,B00887,Morris,,0,Fall River,,,43,,
 minoraverages/1916Reach,1915,Colonial League,morris,F20102,Morris,,0,Fall River,,,,,1b36
 minoraverages/1916Reach,1915,Colonial League,morris,F21013,Morris,,0,Fall River,,,,,of11
-boxscores/1915/1915-HC,1915,Colonial League,mulcahey,P9259724,Mulcahey,,,Pawtucket,19150816,19150901,3,0,1b3
 minoraverages/1916Reach,1915,Colonial League,mulcahey,B00794,Mulcahey,,0,Pawtucket,,,24,,
 minoraverages/1916Reach,1915,Colonial League,mulcahey,F20128,Mulcahey,,0,Pawtucket,,,,,1b25
-boxscores/1915/1915-HC,1915,Colonial League,mulcahey,P0496551,Mulcahy,,,Pawtucket,19150817,19150906,22,0,"1b22,ss1"
-boxscores/1915/1915-HC,1915,Colonial League,murphy@ump,P1374899,Murphy,,,#umpire,19150624,19150624,,,
-boxscores/1915/1915-HC,1915,Colonial League,murphy,P3925689,Murphy,,,Pawtucket,19150803,19150906,37,0,"c6,3b1,of30,cf30"
-boxscores/1915/1915-HC,1915,Colonial League,murphy,P9661757,Murphy,,,New Haven,19150520,19150731,48,0,"c5,of42,rf42"
 minoraverages/1916Reach,1915,Colonial League,murphy,B00726,Murphy,,1,Pawtucket,,,,,
 minoraverages/1916Reach,1915,Colonial League,murphy,B00726,Murphy,,2,New Haven,,,,,
 minoraverages/1916Reach,1915,Colonial League,murphy,B00726,Murphy,,T,,,,85,,
@@ -590,37 +325,21 @@ minoraverages/1916Reach,1915,Colonial League,murphy,F20829,Murphy,,T,,,,,,of73
 minoraverages/1916Reach,1915,Colonial League,murphy,F21229,Murphy,,1,New Haven,,,,,c
 minoraverages/1916Reach,1915,Colonial League,murphy,F21229,Murphy,,2,Pawtucket,,,,,c
 minoraverages/1916Reach,1915,Colonial League,murphy,F21229,Murphy,,T,,,,,,c10
-boxscores/1915/1915-HC,1915,Colonial League,murray,P0497046,Murray,,,Hartford,19150817,19150906,23,0,"of23,lf2,rf21"
 minoraverages/1916Reach,1915,Colonial League,murray,B00370,Murray,,0,Hartford,,,23,,
 minoraverages/1916Reach,1915,Colonial League,murray,F20700,Murray,,0,Hartford,,,,,of26
-boxscores/1915/1915-HC,1915,Colonial League,neptune,P0846805,Neptune,,,Hartford,19150520,19150629,28,0,"2b8,3b1,ss1,of21,lf21"
-boxscores/1915/1915-HC,1915,Colonial League,neptune,P8271396,Neptune,,,Taunton,19150702,19150710,10,0,"of10,lf9,cf1"
 minoraverages/1916Reach,1915,Colonial League,neptune,B00638,Neptune,,0,Hartford,,,36,,
 minoraverages/1916Reach,1915,Colonial League,neptune,F20350,Neptune,,0,Hartford,,,,,2b6
 minoraverages/1916Reach,1915,Colonial League,neptune,F21000,Neptune,,0,Hartford,,,,,of29
-boxscores/1915/1915-HC,1915,Colonial League,obrien,P7461948,O'Brien,,,Hartford,19150520,19150710,40,0,3b40
 minoraverages/1916Reach,1915,Colonial League,obrien,B00695,O'Brien,,0,Hartford,,,40,,
 minoraverages/1916Reach,1915,Colonial League,obrien,F20449,O'Brien,,0,Hartford,,,,,3b40
 minoraverages/emilbb,1915,Colonial League,obrien-nb,M92822,O'Brien,John J.,,New Bedford,,,,,
-boxscores/1915/1915-HC,1915,Colonial League,oconnell,P0767206,O'Connell,,,Taunton,19150522,19150710,38,0,ss38
-boxscores/1915/1915-HC,1915,Colonial League,connell,P7590845,O'Connell,,,New Bedford,19150622,19150622,1,0,c1
-boxscores/1915/1915-HC,1915,Colonial League,oconnell,P9517525,O'Connell,,,Pawtucket,19150712,19150906,56,0,"1b1,ss56"
 minoraverages/1916Reach,1915,Colonial League,oconnell,B00174,O'Connell,,1,Pawtucket,,,,,
 minoraverages/1916Reach,1915,Colonial League,oconnell,B00174,O'Connell,,2,Taunton,,,,,
 minoraverages/1916Reach,1915,Colonial League,oconnell,B00174,O'Connell,,T,,,,98,,
 minoraverages/1916Reach,1915,Colonial League,oconnell,F20552,O'Connell,,1,Taunton,,,,,ss
 minoraverages/1916Reach,1915,Colonial League,oconnell,F20552,O'Connell,,2,Fall River,,,,,ss
 minoraverages/1916Reach,1915,Colonial League,oconnell,F20552,O'Connell,,T,,,,,,ss98
-boxscores/1915/1915-HC,1915,Colonial League,oconner,P2010103,O'Conner,,,New Bedford,19150524,19150524,1,0,c1
-boxscores/1915/1915-HC,1915,Colonial League,oconnell,P5130794,O'Connor,,,Taunton,19150616,19150617,3,0,ss3
-boxscores/1915/1915-HC,1915,Colonial League,doherty-bro,P4846707,O'Doherty,,,Brockton,19150529,19150529,1,0,ss1
-boxscores/1915/1915-HC,1915,Colonial League,oflaherty,P2480936,O'Flaherty,,,Springfield,19150524,19150601,3,3,p3
-boxscores/1915/1915-HC,1915,Colonial League,parks,P1119782,Parks,,,Taunton,19150610,19150610,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,pastor,P2039249,Pastor,,,New Haven,19150520,19150608,14,0,ss13
 minoraverages/1916Reach,1915,Colonial League,pastor,F20604,Pastor,,0,New Haven,,,,,ss14
-boxscores/1915/1915-HC,1915,Colonial League,peters@ump,P0981441,Peters,,,#umpire,19150720,19150720,,,
-boxscores/1915/1915-HC,1915,Colonial League,peters,P4084086,Peters,,,Fall River,19150528,19150710,15,11,"p11,of1,rf1"
-boxscores/1915/1915-HC,1915,Colonial League,peters,P9054897,Peters,,,Brockton,19150714,19150906,20,18,"p18,of2,rf2"
 minoraverages/1916Reach,1915,Colonial League,peters,B00381,Peters,,1,Fall River,,,,,
 minoraverages/1916Reach,1915,Colonial League,peters,B00381,Peters,,2,New Bedford,,,,,
 minoraverages/1916Reach,1915,Colonial League,peters,B00381,Peters,,T,,,,31,,
@@ -630,21 +349,11 @@ minoraverages/1916Reach,1915,Colonial League,peters,F21434,Peters,,T,,,,,,p29
 minoraverages/1916Reach,1915,Colonial League,peters,P10097,Peters,,1,Fall River,,,,,
 minoraverages/1916Reach,1915,Colonial League,peters,P10097,Peters,,2,Brockton,,,,,
 minoraverages/1916Reach,1915,Colonial League,peters,P10097,Peters,,T,,,,,29,
-boxscores/1915/1915-HC,1915,Colonial League,phoenix,P2892168,Phenix,,,New Bedford,19150720,19150720,1,0,2b1
-boxscores/1915/1915-HC,1915,Colonial League,phoenix,P3728623,Phenix,,,Fall River,19150528,19150601,2,0,2b2
-boxscores/1915/1915-HC,1915,Colonial League,phillips-spr,P0127702,Phillips,Joe,,Springfield,19150823,19150824,2,0,"of2,cf2"
-boxscores/1915/1915-HC,1915,Colonial League,phillips-nb,P4035417,Phillips,J.,,New Bedford,19150823,19150823,1,0,c1
-boxscores/1915/1915-HC,1915,Colonial League,phillips-nb,P4194017,Phillips,,,New Bedford,19150520,19150906,89,0,c88
-boxscores/1915/1915-HC,1915,Colonial League,phillips-spr,P7355248,Phillips,J.,,Springfield,19150825,19150825,1,0,"of1,cf1"
-boxscores/1915/1915-HC,1915,Colonial League,phillips-spr,P7513848,Phillips,,,Springfield,19150817,19150906,19,0,"2b6,of13,cf7,rf6"
-boxscores/1915/1915-HC,1915,Colonial League,phillips-nb,P9665281,Phillips,Jim,,New Bedford,19150824,19150825,2,0,c2
 minoraverages/1916Reach,1915,Colonial League,phillips-nb,B00566,Phillips,,0,New Bedford,,,92,,
 minoraverages/1916Reach,1915,Colonial League,phillips-spr,B01275,Phillips,,0,Springfield,,,22,,
 minoraverages/1916Reach,1915,Colonial League,phillips-spr,F20279,Phillips,,0,Springfield,,,,,2b6
 minoraverages/1916Reach,1915,Colonial League,phillips-spr,F20612,Phillips,,0,Springfield,,,,,of16
 minoraverages/1916Reach,1915,Colonial League,phillips-nb,F21068,Phillips,,0,New Bedford,,,,,c92
-boxscores/1915/1915-HC,1915,Colonial League,phoenix,P2698071,Phoenix,,,New Bedford,19150712,19150906,59,0,"2b58,ss1"
-boxscores/1915/1915-HC,1915,Colonial League,phoenix,P6450014,Phoenix,,,Fall River,19150520,19150710,44,0,2b44
 minoraverages/1916Reach,1915,Colonial League,phoenix,B00163,Phoenix,,1,Fall River,,,,,
 minoraverages/1916Reach,1915,Colonial League,phoenix,B00163,Phoenix,,2,New Bedford,,,,,
 minoraverages/1916Reach,1915,Colonial League,phoenix,B00163,Phoenix,,T,,,,104,,
@@ -652,13 +361,9 @@ minoraverages/1916Reach,1915,Colonial League,phoenix,F20233,Phoenix,,1,Fall Rive
 minoraverages/1916Reach,1915,Colonial League,phoenix,F20233,Phoenix,,2,New Bedford,,,,,2b
 minoraverages/1916Reach,1915,Colonial League,phoenix,F20233,Phoenix,,T,,,,,,2b104
 minoraverages/emilbb,1915,Colonial League,phoenix,M92879,Phoenix,William,,Fall River,,,,,
-boxscores/1915/1915-HC,1915,Colonial League,pjura,P1659480,Pjura,,,Hartford,19150520,19150714,35,0,"c11,2b1,of23,lf3,rf20"
 minoraverages/1916Reach,1915,Colonial League,pjura,B00442,Pjura,,0,Hartford,,,35,,
 minoraverages/1916Reach,1915,Colonial League,pjura,F20970,Pjura,,0,Hartford,,,,,of23
 minoraverages/1916Reach,1915,Colonial League,pjura,F21207,Pjura,,0,Hartford,,,,,c10
-boxscores/1915/1915-HC,1915,Colonial League,powers,P1579281,Powell,,,Brockton,19150527,19150527,1,0,1b1
-boxscores/1915/1915-HC,1915,Colonial League,powers,P0791326,Powers,,,Brockton,19150522,19150731,54,6,"p6,1b42,of6,cf1,rf5"
-boxscores/1915/1915-HC,1915,Colonial League,powers,P7263768,Powers,,,New Haven,19150805,19150906,36,1,"p1,1b18,of18,rf18"
 minoraverages/1916Reach,1915,Colonial League,powers,B00264,Powers,,1,Brockton,,,,,
 minoraverages/1916Reach,1915,Colonial League,powers,B00264,Powers,,2,New Haven,,,,,
 minoraverages/1916Reach,1915,Colonial League,powers,B00264,Powers,,T,,,,91,,
@@ -674,40 +379,21 @@ minoraverages/1916Reach,1915,Colonial League,powers,F21241,Powers,,T,,,,,,p7
 minoraverages/1916Reach,1915,Colonial League,powers,P10289,Powers,,1,Brockton,,,,,
 minoraverages/1916Reach,1915,Colonial League,powers,P10289,Powers,,2,New Haven,,,,,
 minoraverages/1916Reach,1915,Colonial League,powers,P10289,Powers,,T,,,,,7,
-boxscores/1915/1915-HC,1915,Colonial League,proulx,P0382130,Praulx,,,Hartford,19150827,19150827,1,0,3b1
-boxscores/1915/1915-HC,1915,Colonial League,proulx,P4317921,Praulx,,,Taunton,19150522,19150522,1,0,3b1
-boxscores/1915/1915-HC,1915,Colonial League,proulx,P6107375,Proulx,,,Taunton,19150520,19150710,41,0,3b41
-boxscores/1915/1915-HC,1915,Colonial League,proulx,P9434112,Proulx,,,Hartford,19150712,19150906,58,0,3b58
 minoraverages/1916Reach,1915,Colonial League,proulx,B00255,Proulx,,1,Taunton,,,,,
 minoraverages/1916Reach,1915,Colonial League,proulx,B00255,Proulx,,2,Hartford,,,,,
 minoraverages/1916Reach,1915,Colonial League,proulx,B00255,Proulx,,T,,,,101,,
 minoraverages/1916Reach,1915,Colonial League,proulx,F20430,Proulx,,1,Taunton,,,,,3b
 minoraverages/1916Reach,1915,Colonial League,proulx,F20430,Proulx,,2,Hartford,,,,,3b
 minoraverages/1916Reach,1915,Colonial League,proulx,F20430,Proulx,,T,,,,,,3b101
-boxscores/1915/1915-HC,1915,Colonial League,fryer,P1794800,Pryor,,,Pawtucket,19150601,19150601,1,0,2b1
-boxscores/1915/1915-HC,1915,Colonial League,quinn,P3157374,Quinn,,,Springfield,19150520,19150710,33,0,"1b32,of1,lf1"
 minoraverages/1916Reach,1915,Colonial League,quinn,B00130,Quinn,,0,Springfield,,,31,,
 minoraverages/1916Reach,1915,Colonial League,quinn,F20046,Quinn,,0,Springfield,,,,,1b31
 minoraverages/emilbb,1915,Colonial League,ramsey,M92840,Ramsey,Henry,,Springfield,,,,,
-boxscores/1915/1915-HC,1915,Colonial League,reddington,P9305250,Reddington,,,Pawtucket,19150612,19150612,1,0,ss1
-boxscores/1915/1915-HC,1915,Colonial League,reddington,P9743201,Reddington,,,Springfield,19150605,19150611,7,0,ss7
-boxscores/1915/1915-HC,1915,Colonial League,reynolds,P7893315,Reynolds,,,Springfield,19150608,19150608,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,kiley,P5046400,Riley [Kiley],,,Taunton,19150525,19150525,1,0,"of1,cf1"
-boxscores/1915/1915-HC,1915,Colonial League,roberts,P8854903,Roberts,,,Hartford,19150629,19150630,2,0,c2
-boxscores/1915/1915-HC,1915,Colonial League,russell,P0890654,Russell,,,Pawtucket,19150814,19150902,22,0,"c21,of1,cf1"
 minoraverages/1916Reach,1915,Colonial League,russell,B01029,Russell,,0,Pawtucket,,,22,,
 minoraverages/1916Reach,1915,Colonial League,russell,F21117,Russell,,0,Pawtucket,,,,,c21
-boxscores/1915/1915-HC,1915,Colonial League,rylander,P9283037,Rylander,,,New Bedford,19150828,19150906,11,0,"of11,rf11"
 minoraverages/1916Reach,1915,Colonial League,rylander,B00553,Rylander,,0,New Bedford,,,11,,
 minoraverages/1916Reach,1915,Colonial League,rylander,F20620,Rylander,,0,New Bedford,,,,,of11
-boxscores/1915/1915-HC,1915,Colonial League,saunders,P7814698,Saunders,,,Taunton,19150601,19150601,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,saunders,P9670808,Saunders,,,Springfield,19150805,19150807,2,2,p2
-boxscores/1915/1915-HC,1915,Colonial League,schmidt,P5874436,Schmidt,,,New Haven,19150522,19150614,8,0,"of8,lf2,rf6"
 minoraverages/1916Reach,1915,Colonial League,schmidt,B01203,Schmidt,,0,New Haven,,,15,,
 minoraverages/1916Reach,1915,Colonial League,schmidt,F21045,Schmidt,,0,New Haven,,,,,of15
-boxscores/1915/1915-HC,1915,Colonial League,schmidt,P3633812,Schmitt,,,New Haven,19150520,19150523,2,0,"of2,rf2"
-boxscores/1915/1915-HC,1915,Colonial League,senno,P5824609,Senno,,,Brockton,19150713,19150906,60,0,"2b13,3b4,of44,lf1,cf43"
-boxscores/1915/1915-HC,1915,Colonial League,senno,P6300454,Senno,,,Fall River,19150617,19150710,22,0,"ss1,of22,cf17,rf5"
 minoraverages/1916Reach,1915,Colonial League,senno,B00084,Senno,,1,Fall River,,,,,
 minoraverages/1916Reach,1915,Colonial League,senno,B00084,Senno,,2,Brockton,,,,,
 minoraverages/1916Reach,1915,Colonial League,senno,B00084,Senno,,T,,,,82,,
@@ -717,14 +403,8 @@ minoraverages/1916Reach,1915,Colonial League,senno,F20265,Senno,,T,,,,,,2b13
 minoraverages/1916Reach,1915,Colonial League,senno,F20685,Senno,,1,Fall River,,,,,of
 minoraverages/1916Reach,1915,Colonial League,senno,F20685,Senno,,2,Brockton,,,,,of
 minoraverages/1916Reach,1915,Colonial League,senno,F20685,Senno,,T,,,,,,of66
-boxscores/1915/1915-HC,1915,Colonial League,setley@ump,P7827780,Setley,,,#umpire,19150520,19150531,,,
-boxscores/1915/1915-HC,1915,Colonial League,sharpe,P8813553,Sharp,,,Springfield,19150531,19150531,1,0,"of1,cf1"
-boxscores/1915/1915-HC,1915,Colonial League,sharpe,P0079286,Sharpe,,,Springfield,19150520,19150816,32,0,"of32,lf1,cf26,rf5"
 minoraverages/1916Reach,1915,Colonial League,sharpe,B00948,Sharpe,,0,Springfield,,,33,,
 minoraverages/1916Reach,1915,Colonial League,sharpe,F20855,Sharpe,,0,Springfield,,,,,of32
-boxscores/1915/1915-HC,1915,Colonial League,shawkey,P2900255,Shawkey,,,Fall River,19150524,19150524,1,0,1b1
-boxscores/1915/1915-HC,1915,Colonial League,sherman,P3344068,Sherman,,,Hartford,19150713,19150906,34,18,"p18,2b5,of11,lf7,rf4"
-boxscores/1915/1915-HC,1915,Colonial League,sherman,P4710707,Sherman,,,Taunton,19150520,19150710,17,15,"p15,c1,of1,lf1"
 minoraverages/1916Reach,1915,Colonial League,sherman,B00833,Sherman,,1,Taunton,,,,,
 minoraverages/1916Reach,1915,Colonial League,sherman,B00833,Sherman,,2,Hartford,,,,,
 minoraverages/1916Reach,1915,Colonial League,sherman,B00833,Sherman,,T,,,,53,,
@@ -734,25 +414,11 @@ minoraverages/1916Reach,1915,Colonial League,sherman,F21531,Sherman,,T,,,,,,p33
 minoraverages/1916Reach,1915,Colonial League,sherman,P10266,Sherman,,1,Taunton,,,,,
 minoraverages/1916Reach,1915,Colonial League,sherman,P10266,Sherman,,2,Hartford,,,,,
 minoraverages/1916Reach,1915,Colonial League,sherman,P10266,Sherman,,T,,,,,33,
-boxscores/1915/1915-HC,1915,Colonial League,shields,P7156320,Shields,,,Pawtucket,19150527,19150527,1,0,c1
-boxscores/1915/1915-HC,1915,Colonial League,simmons,P7605210,Simmons,,,Pawtucket,19150726,19150727,2,0,"1b1,of1,cf1"
-boxscores/1915/1915-HC,1915,Colonial League,simon,P8401052,Simon,,,Hartford,19150831,19150906,8,0,c8
 minoraverages/1916Reach,1915,Colonial League,simon,B00324,Simon,,0,Hartford,,,9,,
 minoraverages/1916Reach,1915,Colonial League,simon,F21084,Simon,,0,Hartford,,,,,c9
-boxscores/1915/1915-HC,1915,Colonial League,simon,P1675919,Simons,,,Hartford,19150904,19150904,2,0,c2
-boxscores/1915/1915-HC,1915,Colonial League,smith.d-spr,P6046968,Smith,,,Springfield,19150601,19150805,16,15,p15
-boxscores/1915/1915-HC,1915,Colonial League,smith-nh,P7645821,Smith,,,New Haven,19150525,19150610,5,0,"2b1,of4,rf4"
-boxscores/1915/1915-HC,1915,Colonial League,smith-tau,P7867658,Smith,,,Taunton,19150529,19150705,5,5,p5
-boxscores/1915/1915-HC,1915,Colonial League,smith.r-spr,P7952632,Smith,R.,,Springfield,19150525,19150605,3,2,p2
-boxscores/1915/1915-HC,1915,Colonial League,smith.d-spr,P8900650,Smith,D.,,Springfield,19150528,19150611,5,5,p5
-boxscores/1915/1915-HC,1915,Colonial League,smith.r-spr,P9775331,Smith,R. [Bob],,Springfield,19150529,19150529,1,1,p1
 minoraverages/1916Reach,1915,Colonial League,smith.d-spr,B01269,Smith,D.,0,Springfield,,,19,,
 minoraverages/1916Reach,1915,Colonial League,smith.d-spr,F21566,Smith,D.,0,Springfield,,,,,p18
 minoraverages/1916Reach,1915,Colonial League,smith.d-spr,P10145,Smith,D.,0,Springfield,,,,13,
-boxscores/1915/1915-HC,1915,Colonial League,mulcahey,P7100013,Smith [Mulcahey],,,New Haven,19150814,19150814,2,0,"of2,rf2"
-boxscores/1915/1915-HC,1915,Colonial League,schmidt,P1479601,Smith [Schmitt],,,New Haven,19150525,19150525,1,0,"of1,rf1"
-boxscores/1915/1915-HC,1915,Colonial League,somers,P4840721,Somers,,,New Haven,19150531,19150811,45,19,"p19,1b10,of11,lf1,rf10"
-boxscores/1915/1915-HC,1915,Colonial League,somers,P9104653,Somers,,,Pawtucket,19150522,19150528,3,3,p3
 minoraverages/1916Reach,1915,Colonial League,somers,B00207,Somers,,1,Pawtucket,,,,,
 minoraverages/1916Reach,1915,Colonial League,somers,B00207,Somers,,2,New Haven,,,,,
 minoraverages/1916Reach,1915,Colonial League,somers,B00207,Somers,,T,,,,46,,
@@ -765,67 +431,35 @@ minoraverages/1916Reach,1915,Colonial League,somers,F21381,Somers,,T,,,,,,p22
 minoraverages/1916Reach,1915,Colonial League,somers,P10113,Somers,,1,Pawtucket,,,,,
 minoraverages/1916Reach,1915,Colonial League,somers,P10113,Somers,,2,New Haven,,,,,
 minoraverages/1916Reach,1915,Colonial League,somers,P10113,Somers,,T,,,,,22,
-boxscores/1915/1915-HC,1915,Colonial League,soper,P0910625,Soper,,,New Haven,19150520,19150906,102,0,"c88,1b16"
 minoraverages/1916Reach,1915,Colonial League,soper,B00651,Soper,,0,New Haven,,,102,,
 minoraverages/1916Reach,1915,Colonial League,soper,F20014,Soper,,0,New Haven,,,,,1b14
 minoraverages/1916Reach,1915,Colonial League,soper,F21125,Soper,,0,New Haven,,,,,c88
-boxscores/1915/1915-HC,1915,Colonial League,speraw,P6483792,Speraw,,,Brockton,19150520,19150906,81,0,3b81
 minoraverages/1916Reach,1915,Colonial League,speraw,B00667,Speraw,,0,Brockton,,,83,,
 minoraverages/1916Reach,1915,Colonial League,speraw,F20369,Speraw,,0,Brockton,,,,,3b83
-boxscores/1915/1915-HC,1915,Colonial League,speraw,P6912386,Sperraw,,,Brockton,19150601,19150601,1,0,3b1
-boxscores/1915/1915-HC,1915,Colonial League,speraw,P9087824,Sperrow,,,Brockton,19150527,19150527,1,0,3b1
-boxscores/1915/1915-HC,1915,Colonial League,sprague,P1451731,Sprague,,,New Bedford,19150522,19150610,16,0,1b16
 minoraverages/1916Reach,1915,Colonial League,sprague,B01170,Sprague,,0,New Bedford,,,17,,
 minoraverages/1916Reach,1915,Colonial League,sprague,F20023,Sprague,,0,New Bedford,,,,,1b17
-boxscores/1915/1915-HC,1915,Colonial League,stephens,P0128230,Stephens,,,New Bedford,19150809,19150811,3,0,ss3
-boxscores/1915/1915-HC,1915,Colonial League,steward,P8171453,Steward,,,Fall River,19150521,19150521,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,sullivan,P2848947,Sullivan,,,Taunton,19150616,19150710,26,0,2b26
 minoraverages/1916Reach,1915,Colonial League,sullivan,B01078,Sullivan,,0,Taunton,,,26,,
 minoraverages/1916Reach,1915,Colonial League,sullivan,F20316,Sullivan,,0,Taunton,,,,,2b26
-boxscores/1915/1915-HC,1915,Colonial League,swander,P3790353,Swanda,,,Springfield,19150819,19150819,1,0,"of1,lf1"
-boxscores/1915/1915-HC,1915,Colonial League,swander,P7352071,Swander,,,Springfield,19150520,19150906,97,1,"p1,of97,lf96,rf1"
 minoraverages/1916Reach,1915,Colonial League,swander,B00125,Swander,,0,Springfield,,,98,,
 minoraverages/1916Reach,1915,Colonial League,swander,F20759,Swander,,0,Springfield,,,,,of98
-boxscores/1915/1915-HC,1915,Colonial League,tecarr,P7833411,Tecan,,,New Haven,19150608,19150608,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,tecarr,P2740679,Tecar,,,New Haven,19150529,19150622,2,2,p2
 minoraverages/1916Reach,1915,Colonial League,tecarr,B00840,Tecar,,0,New Haven,,,10,,
 minoraverages/1916Reach,1915,Colonial League,tecarr,P10228,Tecar,,0,New Haven,,,,10,
-boxscores/1915/1915-HC,1915,Colonial League,tecarr,P3373273,Tecarr,,,New Haven,19150612,19150715,7,7,p7
 minoraverages/1916Reach,1915,Colonial League,tecarr,F21502,Tecarr,,0,New Haven,,,,,p10
-boxscores/1915/1915-HC,1915,Colonial League,texter,P9389106,Texter,,,Hartford,19150707,19150827,52,0,c52
 minoraverages/1916Reach,1915,Colonial League,texter,B00362,Texter,,0,Hartford,,,52,,
 minoraverages/1916Reach,1915,Colonial League,texter,F21182,Texter,,0,Hartford,,,,,c52
-boxscores/1915/1915-HC,1915,Colonial League,thompson,P7747979,Thompson,,,Springfield,19150520,19150612,17,0,"2b16,ss1"
 minoraverages/1916Reach,1915,Colonial League,thompson,B01119,Thompson,,0,Springfield,,,15,,
 minoraverages/1916Reach,1915,Colonial League,thompson,F20327,Thompson,,0,Springfield,,,,,2b14
-boxscores/1915/1915-HC,1915,Colonial League,thornton,P1593050,Thornton,,,Brockton,19150520,19150529,8,0,"of8,cf3,rf5"
-boxscores/1915/1915-HC,1915,Colonial League,thornton,P8132703,Thornton,,,Fall River,19150603,19150604,2,0,"of2,rf2"
 minoraverages/1916Reach,1915,Colonial League,thornton,B01010,Thornton,,0,Brockton,,,10,,
 minoraverages/1916Reach,1915,Colonial League,thornton,F21021,Thornton,,0,Brockton,,,,,of10
-boxscores/1915/1915-HC,1915,Colonial League,tillman,P0691597,Tillman,,,New Bedford,19150522,19150906,41,30,"p30,ss1,of8,lf7,rf1"
 minoraverages/1916Reach,1915,Colonial League,tillman,B01124,Tillman,,0,New Bedford,,,43,,
 minoraverages/1916Reach,1915,Colonial League,tillman,F21343,Tillman,,0,New Bedford,,,,,p31
 minoraverages/1916Reach,1915,Colonial League,tillman,P10019,Tillman,,0,New Bedford,,,,31,
-boxscores/1915/1915-HC,1915,Colonial League,tillman,P0551425,Tilman,,,New Bedford,19150713,19150713,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,trainor,P8465901,Trainer,,,New Haven,19150605,19150610,4,0,c4
-boxscores/1915/1915-HC,1915,Colonial League,trainor,P8315511,Trainor,,,New Haven,19150601,19150611,4,0,c4
-boxscores/1915/1915-HC,1915,Colonial League,trautman@ump,P1820826,Trautman,,,#umpire,19150720,19150720,,,
-boxscores/1915/1915-HC,1915,Colonial League,trautman.f,P2058390,Trautman,F.,,Hartford,19150703,19150703,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,trautman.l,P3645084,Trautman,L.,,Hartford,19150703,19150703,2,0,"of2,lf1,rf1"
-boxscores/1915/1915-HC,1915,Colonial League,trautman.f,P6229346,Trautman,,,Hartford,19150527,19150906,36,29,"p29,of6,lf1,rf5"
 minoraverages/1916Reach,1915,Colonial League,trautman.f,B01093,Trautman,,0,Hartford,,,37,,
 minoraverages/1916Reach,1915,Colonial League,trautman.f,P10159,Trautman,,0,Hartford,,,,30,
 minoraverages/1916Reach,1915,Colonial League,trautman.f,F21397,Troutman,,0,Hartford,,,,,p30
-boxscores/1915/1915-HC,1915,Colonial League,walker@ump,P4496116,Walker,,,#umpire,19150623,19150625,,,
-boxscores/1915/1915-HC,1915,Colonial League,walker,P6837086,Walker,,,New Haven,19150522,19150628,16,10,"p10,2b1,of2,lf1,rf1"
 minoraverages/1916Reach,1915,Colonial League,walker,B00343,Walker,,0,New Haven,,,17,,
 minoraverages/1916Reach,1915,Colonial League,walker,F21475,Walker,,0,New Haven,,,,,p11
 minoraverages/1916Reach,1915,Colonial League,walker,P10024,Walker,,0,New Haven,,,,11,
-boxscores/1915/1915-HC,1915,Colonial League,walker,P2369516,Walker [NH],,,New Haven,19150626,19150626,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,walsh,P6486157,Walker [TAU],,,Taunton,19150626,19150626,1,0,
-boxscores/1915/1915-HC,1915,Colonial League,wallace,P5781495,Wallace,,,Brockton,19150602,19150602,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,walsh,P1978980,Walsh,,,Taunton,19150522,19150707,18,17,p17
-boxscores/1915/1915-HC,1915,Colonial League,walsh,P4875479,Walsh,,,New Haven,19150714,19150906,17,17,"p17,of1,cf1"
 minoraverages/1916Reach,1915,Colonial League,walsh,B00092,Walsh,,1,Taunton,,,,,
 minoraverages/1916Reach,1915,Colonial League,walsh,B00092,Walsh,,2,New Haven,,,,,
 minoraverages/1916Reach,1915,Colonial League,walsh,B00092,Walsh,,T,,,,36,,
@@ -835,57 +469,32 @@ minoraverages/1916Reach,1915,Colonial League,walsh,F21450,Walsh,,T,,,,,,p34
 minoraverages/1916Reach,1915,Colonial League,walsh,P10215,Walsh,,1,Taunton,,,,,
 minoraverages/1916Reach,1915,Colonial League,walsh,P10215,Walsh,,2,New Haven,,,,,
 minoraverages/1916Reach,1915,Colonial League,walsh,P10215,Walsh,,T,,,,,34,
-boxscores/1915/1915-HC,1915,Colonial League,warwick@ump,P1587014,Warwick,,,#umpire,19150625,19150625,,,
-boxscores/1915/1915-HC,1915,Colonial League,warwick,P8523894,Warwick,,,Brockton,19150520,19150902,37,30,"p30,of4,cf1,rf3"
 minoraverages/1916Reach,1915,Colonial League,warwick,B00999,Warwick,,0,Brockton,,,38,,
 minoraverages/1916Reach,1915,Colonial League,warwick,F21469,Warwick,,0,Brockton,,,,,p33
 minoraverages/1916Reach,1915,Colonial League,warwick,P10168,Warwick,,0,Brockton,,,,33,
-boxscores/1915/1915-HC,1915,Colonial League,waters@ump,P6486865,Water,,,#umpire,19150715,19150715,,,
-boxscores/1915/1915-HC,1915,Colonial League,waters@ump,P8567588,Waters,,,#umpire,19150520,19150906,,,
-boxscores/1915/1915-HC,1915,Colonial League,watling,P8868842,Watling,,,Pawtucket,19150813,19150820,3,3,p3
-boxscores/1915/1915-HC,1915,Colonial League,weeden,P7547574,Weeden,,,Brockton,19150528,19150906,57,1,"p1,c30,1b16"
 minoraverages/1916Reach,1915,Colonial League,weeden,B00985,Weeden,,0,Brockton,,,56,,
 minoraverages/1916Reach,1915,Colonial League,weeden,F20080,Weeden,,0,Brockton,,,,,1b12
 minoraverages/1916Reach,1915,Colonial League,weeden,F21092,Weeden,,0,Brockton,,,,,c37
 minoraverages/emilbb,1915,Colonial League,weeden,M92811,Weeden,Bert,,Brockton,,,,,
-boxscores/1915/1915-HC,1915,Colonial League,weeden,P7073565,Welden,,,Brockton,19150601,19150601,1,0,c1
-boxscores/1915/1915-HC,1915,Colonial League,werre,P5601531,Werre,,,Hartford,19150601,19150906,85,0,1b85
 minoraverages/1916Reach,1915,Colonial League,werre,B00771,Werre,,0,Hartford,,,100,,
 minoraverages/1916Reach,1915,Colonial League,werre,F20067,Werre,,0,Hartford,,,,,1b100
-boxscores/1915/1915-HC,1915,Colonial League,werre,P5357379,Wherre,,,Hartford,19150520,19150612,15,0,1b15
-boxscores/1915/1915-HC,1915,Colonial League,white@ump,P8657807,White,,,#umpire,19150612,19150612,,,
-boxscores/1915/1915-HC,1915,Colonial League,whitehouse,P5466523,Whitehouse,,,Hartford,19150520,19150906,99,2,"p2,c3,of95,lf16,cf78,rf1"
 minoraverages/1916Reach,1915,Colonial League,whitehouse,B00045,Whitehouse,,0,Hartford,,,97,,
 minoraverages/1916Reach,1915,Colonial League,whitehouse,F20832,Whitehouse,,0,Hartford,,,,,of95
-boxscores/1915/1915-HC,1915,Colonial League,whiteside,P5213259,Whiteside,,,Taunton,19150520,19150619,22,1,"p1,of22,lf21,cf1"
 minoraverages/1916Reach,1915,Colonial League,whiteside,B01156,Whiteside,,0,Taunton,,,21,,
 minoraverages/1916Reach,1915,Colonial League,whiteside,F20699,Whiteside,,0,Taunton,,,,,of21
-boxscores/1915/1915-HC,1915,Colonial League,wilcox,P2831849,Wilcox,,,Springfield,19150520,19150520,1,0,2b1
-boxscores/1915/1915-HC,1915,Colonial League,woods-spr,P5690028,Wood,,,Springfield,19150714,19150714,1,0,3b1
-boxscores/1915/1915-HC,1915,Colonial League,woodcock,P7993615,Woodcock,,,Hartford,19150528,19150706,12,10,"p10,of1,lf1"
 minoraverages/1916Reach,1915,Colonial League,woodcock,B00973,Woodcock,,0,Hartford,,,11,,
 minoraverages/1916Reach,1915,Colonial League,woodcock,F21324,Woodcock,,0,Hartford,,,,,p9
 minoraverages/1916Reach,1915,Colonial League,woodcock,P10137,Woodcock,,0,Hartford,,,,9,
-boxscores/1915/1915-HC,1915,Colonial League,woodman,P8504744,Woodman,,,Springfield,19150520,19150823,32,17,"p17,2b1,3b1,ss6,of2,cf2"
 minoraverages/1916Reach,1915,Colonial League,woodman,B00957,Woodman,,0,Springfield,,,31,,
 minoraverages/1916Reach,1915,Colonial League,woodman,F21589,Woodman,,0,Springfield,,,,,p17
 minoraverages/1916Reach,1915,Colonial League,woodman,P10290,Woodman,,0,Springfield,,,,17,
-boxscores/1915/1915-HC,1915,Colonial League,woods-bro,P0126442,Woods,,,Brockton,19150611,19150705,3,2,"p2,of1,cf1"
-boxscores/1915/1915-HC,1915,Colonial League,woods-bro,P1588126,Woods,F.,,Brockton,19150706,19150706,1,1,p1
-boxscores/1915/1915-HC,1915,Colonial League,woods-spr,P6054943,Woods,,,Springfield,19150612,19150906,72,1,"p1,c10,2b23,3b38"
-boxscores/1915/1915-HC,1915,Colonial League,woods-spr,P9155972,Woods,W.,,Springfield,19150706,19150706,1,0,3b1
 minoraverages/1916Reach,1915,Colonial League,woods-spr,B00335,Woods,,0,Springfield,,,75,,
 minoraverages/1916Reach,1915,Colonial League,woods-spr,F20206,Woods,,0,Springfield,,,,,2b22
 minoraverages/1916Reach,1915,Colonial League,woods-spr,F20388,Woods,,0,Springfield,,,,,3b40
-boxscores/1915/1915-HC,1915,Colonial League,woodward,P4164812,Woodward,,,Taunton,19150621,19150710,20,0,"of20,lf11,rf9"
 minoraverages/1916Reach,1915,Colonial League,woodward,B00912,Woodward,,0,Taunton,,,15,,
 minoraverages/1916Reach,1915,Colonial League,woodward,F20648,Woodward,,0,Taunton,,,,,of15
-boxscores/1915/1915-HC,1915,Colonial League,wright,P6601933,Wright,,,New Haven,19150903,19150906,5,0,c5
-boxscores/1915/1915-HC,1915,Colonial League,young,P7145765,Young,,,Springfield,19150520,19150906,78,1,"p1,of76,lf1,rf75"
 minoraverages/1916Reach,1915,Colonial League,young,B00076,Young,,0,Springfield,,,78,,
 minoraverages/1916Reach,1915,Colonial League,young,F20721,Young,,0,Springfield,,,,,of75
-boxscores/1915/1915-HC,1915,Colonial League,yount,P4374203,Yount,,,New Bedford,19150617,19150706,5,5,p5
-boxscores/1915/1915-HC,1915,Colonial League,yount,P7694034,Yount,,,Springfield,19150716,19150723,2,2,p2
 minoraverages/1916Reach,1915,Colonial League,yount,B01291,Yount,,1,New Bedford,,,,,
 minoraverages/1916Reach,1915,Colonial League,yount,B01291,Yount,,2,Springfield,,,,,
 minoraverages/1916Reach,1915,Colonial League,yount,B01291,Yount,,T,,,,7,,
@@ -895,5 +504,3 @@ minoraverages/1916Reach,1915,Colonial League,yount,F21308,Yount,,T,,,,,,p7
 minoraverages/1916Reach,1915,Colonial League,yount,P10361,Yount,,1,New Bedford,,,,,
 minoraverages/1916Reach,1915,Colonial League,yount,P10361,Yount,,2,Springfield,,,,,
 minoraverages/1916Reach,1915,Colonial League,yount,P10361,Yount,,T,,,,,7,
-boxscores/1915/1915-HC,1915,Colonial League,zahn,P4544624,Zahan,,,Brockton,19150520,19150520,1,0,"of1,cf1"
-boxscores/1915/1915-HC,1915,Colonial League,zahn,P8369103,Zahn,,,Brockton,19150522,19150522,1,0,"of1,cf1"
