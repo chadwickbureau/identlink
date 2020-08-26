@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1949,Piedmont League,,M91610,Bolyard,Earl,,Norfolk,,,,,
-minoraverages/emilbb,1949,Piedmont League,,M91562,Griffin,Pug,,Lynchburg,,,,,
-minoraverages/emilbb,1949,Piedmont League,,M91570,Mackie,Vernon,,Lynchburg,,,,,
-minoraverages/emilbb,1949,Piedmont League,,M91607,Marion,"John ""Red""",,Roanoke,,,,,
-minoraverages/emilbb,1949,Piedmont League,,M91629,Novosel,Frank,,Norfolk,,,,,
-minoraverages/emilbb,1949,Piedmont League,,M91581,Scalzi,Frank,,Portsmouth,,,,,
-minoraverages/emilbb,1949,Piedmont League,,M91632,Schalk,Roy,,Newport News,,,,,
-minoraverages/emilbb,1949,Piedmont League,,M91597,Smith,Vince,,Richmond,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1949,Piedmont League,,M91610,Bolyard,Earl,,Norfolk,,
+minoraverages/emilbb,1949,Piedmont League,,M91562,Griffin,Pug,,Lynchburg,,
+minoraverages/emilbb,1949,Piedmont League,,M91570,Mackie,Vernon,,Lynchburg,,
+minoraverages/emilbb,1949,Piedmont League,,M91607,Marion,"John ""Red""",,Roanoke,,
+minoraverages/emilbb,1949,Piedmont League,,M91629,Novosel,Frank,,Norfolk,,
+minoraverages/emilbb,1949,Piedmont League,,M91581,Scalzi,Frank,,Portsmouth,,
+minoraverages/emilbb,1949,Piedmont League,,M91632,Schalk,Roy,,Newport News,,
+minoraverages/emilbb,1949,Piedmont League,,M91597,Smith,Vince,,Richmond,,

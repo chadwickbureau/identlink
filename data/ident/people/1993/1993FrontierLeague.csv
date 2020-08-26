@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1993,Frontier League,,M92092,Croche,Don,,West Virginia,,,,,
-minoraverages/emilbb,1993,Frontier League,,M92076,Cutwright,Roy,,Kentucky,,,,,
-minoraverages/emilbb,1993,Frontier League,,M92130,Hamilton,Jody,,Tri-State,,,,,
-minoraverages/emilbb,1993,Frontier League,,M92117,Jones,Mark,,Chillicothe,,,,,
-minoraverages/emilbb,1993,Frontier League,,M92068,Mrowicki,Lee,,Ohio Valley,,,,,
-minoraverages/emilbb,1993,Frontier League,,M92125,Simms,Scott,,Lancaster,,,,,
-minoraverages/emilbb,1993,Frontier League,,M92084,Throckmorton,Keith,,Portsmouth,,,,,
-minoraverages/emilbb,1993,Frontier League,,M92101,Venditelli,Tom,,Zanesville,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1993,Frontier League,,M92092,Croche,Don,,West Virginia,,
+minoraverages/emilbb,1993,Frontier League,,M92076,Cutwright,Roy,,Kentucky,,
+minoraverages/emilbb,1993,Frontier League,,M92130,Hamilton,Jody,,Tri-State,,
+minoraverages/emilbb,1993,Frontier League,,M92117,Jones,Mark,,Chillicothe,,
+minoraverages/emilbb,1993,Frontier League,,M92068,Mrowicki,Lee,,Ohio Valley,,
+minoraverages/emilbb,1993,Frontier League,,M92125,Simms,Scott,,Lancaster,,
+minoraverages/emilbb,1993,Frontier League,,M92084,Throckmorton,Keith,,Portsmouth,,
+minoraverages/emilbb,1993,Frontier League,,M92101,Venditelli,Tom,,Zanesville,,

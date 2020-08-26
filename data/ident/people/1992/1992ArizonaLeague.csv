@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1992,Arizona League,,M91774,Bannister,Alan,,Giants,,,,,
-minoraverages/emilbb,1992,Arizona League,,M91816,Berry,Ken,,Padres,,,,,
-minoraverages/emilbb,1992,Arizona League,,M91803,Cunningham,Joe,,Cardinals,,,,,
-minoraverages/emilbb,1992,Arizona League,,M91758,Hines,Bruce,,Athletics,,,,,
-minoraverages/emilbb,1992,Arizona League,,M91782,Jones,Tommy,,Brewers,,,,,
-minoraverages/emilbb,1992,Arizona League,,M91796,Lachemann,Bill,,Angels,,,,,
-minoraverages/emilbb,1992,Arizona League,,M91763,Lezcano,Carlos,,Mariners,,,,,
-minoraverages/emilbb,1992,Arizona League,,M91827,Zuvella,Paul,,Rockies/Cubs,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1992,Arizona League,,M91774,Bannister,Alan,,Giants,,
+minoraverages/emilbb,1992,Arizona League,,M91816,Berry,Ken,,Padres,,
+minoraverages/emilbb,1992,Arizona League,,M91803,Cunningham,Joe,,Cardinals,,
+minoraverages/emilbb,1992,Arizona League,,M91758,Hines,Bruce,,Athletics,,
+minoraverages/emilbb,1992,Arizona League,,M91782,Jones,Tommy,,Brewers,,
+minoraverages/emilbb,1992,Arizona League,,M91796,Lachemann,Bill,,Angels,,
+minoraverages/emilbb,1992,Arizona League,,M91763,Lezcano,Carlos,,Mariners,,
+minoraverages/emilbb,1992,Arizona League,,M91827,Zuvella,Paul,,Rockies/Cubs,,

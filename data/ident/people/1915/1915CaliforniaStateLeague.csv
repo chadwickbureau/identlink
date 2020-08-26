@@ -1,8 +1,8 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1915,California State League,brainard,M91763,Brainard,C. W.,,Berkeley/San Francisco,,,,,
-minoraverages/emilbb,1915,California State League,franks,M91758,Franks,Buck,,Stockton,,,,,
-minoraverages/emilbb,1915,California State League,hammond,M91749,Hammond,Billy,,Alameda,,,,,
-minoraverages/emilbb,1915,California State League,lesher,M91717,Lesher,Jack,,Modesto,,,,,
-minoraverages/emilbb,1915,California State League,mcmemony,M91730,McMemony,Walt,,Oakland,,,,,
-minoraverages/emilbb,1915,California State League,solari,M91774,Solari,Joe,,Berkeley/San Francisco,,,,,
-minoraverages/emilbb,1915,California State League,steffani,M91725,Steffani,Mike,,San Jose,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1915,California State League,brainard,M91763,Brainard,C. W.,,Berkeley/San Francisco,,
+minoraverages/emilbb,1915,California State League,franks,M91758,Franks,Buck,,Stockton,,
+minoraverages/emilbb,1915,California State League,hammond,M91749,Hammond,Billy,,Alameda,,
+minoraverages/emilbb,1915,California State League,lesher,M91717,Lesher,Jack,,Modesto,,
+minoraverages/emilbb,1915,California State League,mcmemony,M91730,McMemony,Walt,,Oakland,,
+minoraverages/emilbb,1915,California State League,solari,M91774,Solari,Joe,,Berkeley/San Francisco,,
+minoraverages/emilbb,1915,California State League,steffani,M91725,Steffani,Mike,,San Jose,,

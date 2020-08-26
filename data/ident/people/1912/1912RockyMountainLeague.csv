@@ -1,8 +1,8 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1912,Rocky Mountain League,,M93408,Annis,Bill,,La Junta,,,,,
-minoraverages/emilbb,1912,Rocky Mountain League,,M93377,Bidwell,Ira,,Pueblo/Trinidad/Cheyenne,,,,,
-minoraverages/emilbb,1912,Rocky Mountain League,,M93390,Brammell,C. H.,,Colorado Springs/Dawson,,,,,
-minoraverages/emilbb,1912,Rocky Mountain League,,M93389,Farrell,,,Canon City/Raton,,,,,
-minoraverages/emilbb,1912,Rocky Mountain League,,M93366,Galena,John,,Pueblo/Trinidad/Cheyenne,,,,,
-minoraverages/emilbb,1912,Rocky Mountain League,,M93424,Graves,Tubby,,La Junta,,,,,
-minoraverages/emilbb,1912,Rocky Mountain League,,M93419,Waller,J. F.,,La Junta,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1912,Rocky Mountain League,,M93408,Annis,Bill,,La Junta,,
+minoraverages/emilbb,1912,Rocky Mountain League,,M93377,Bidwell,Ira,,Pueblo/Trinidad/Cheyenne,,
+minoraverages/emilbb,1912,Rocky Mountain League,,M93390,Brammell,C. H.,,Colorado Springs/Dawson,,
+minoraverages/emilbb,1912,Rocky Mountain League,,M93389,Farrell,,,Canon City/Raton,,
+minoraverages/emilbb,1912,Rocky Mountain League,,M93366,Galena,John,,Pueblo/Trinidad/Cheyenne,,
+minoraverages/emilbb,1912,Rocky Mountain League,,M93424,Graves,Tubby,,La Junta,,
+minoraverages/emilbb,1912,Rocky Mountain League,,M93419,Waller,J. F.,,La Junta,,

@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1915,Central Texas League,akin,M91944,Akin,Roy,,Mexia,,,,,
-minoraverages/emilbb,1915,Central Texas League,cole,M91953,Cole,Anson,,Waxahachie,,,,,
-minoraverages/emilbb,1915,Central Texas League,griffin,M91928,Griffin,Hank,,Terrell,,,,,
-minoraverages/emilbb,1915,Central Texas League,morton,M91915,Morton,Roy,,Corsicana,,,,,
-minoraverages/emilbb,1915,Central Texas League,poindexter,M91931,Poindexter,Dee,,Kaufman,,,,,
-minoraverages/emilbb,1915,Central Texas League,wicker,M91902,Wicker,Ed,,Ennis,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1915,Central Texas League,akin,M91944,Akin,Roy,,Mexia,,
+minoraverages/emilbb,1915,Central Texas League,cole,M91953,Cole,Anson,,Waxahachie,,
+minoraverages/emilbb,1915,Central Texas League,griffin,M91928,Griffin,Hank,,Terrell,,
+minoraverages/emilbb,1915,Central Texas League,morton,M91915,Morton,Roy,,Corsicana,,
+minoraverages/emilbb,1915,Central Texas League,poindexter,M91931,Poindexter,Dee,,Kaufman,,
+minoraverages/emilbb,1915,Central Texas League,wicker,M91902,Wicker,Ed,,Ennis,,

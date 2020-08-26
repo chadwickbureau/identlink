@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1967,California League,,M90554,Anderson,"George ""Sparky""",,Modesto,,,,,
-minoraverages/emilbb,1967,California League,,M90579,Campbell,Nolan,,Bakersfield,,,,,
-minoraverages/emilbb,1967,California League,,M90616,Cavarretta,Phil,,Reno,,,,,
-minoraverages/emilbb,1967,California League,,M90598,Dixon,Walt,,Lodi,,,,,
-minoraverages/emilbb,1967,California League,,M90540,Dunlop,Harry,,San Jose,,,,,
-minoraverages/emilbb,1967,California League,,M90587,Garcia,Dave,,Fresno,,,,,
-minoraverages/emilbb,1967,California League,,M90603,Malmberg,Harry,,Stockton,,,,,
-minoraverages/emilbb,1967,California League,,M90565,Sherry,Norm,,Santa Barbara,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1967,California League,,M90554,Anderson,"George ""Sparky""",,Modesto,,
+minoraverages/emilbb,1967,California League,,M90579,Campbell,Nolan,,Bakersfield,,
+minoraverages/emilbb,1967,California League,,M90616,Cavarretta,Phil,,Reno,,
+minoraverages/emilbb,1967,California League,,M90598,Dixon,Walt,,Lodi,,
+minoraverages/emilbb,1967,California League,,M90540,Dunlop,Harry,,San Jose,,
+minoraverages/emilbb,1967,California League,,M90587,Garcia,Dave,,Fresno,,
+minoraverages/emilbb,1967,California League,,M90603,Malmberg,Harry,,Stockton,,
+minoraverages/emilbb,1967,California League,,M90565,Sherry,Norm,,Santa Barbara,,

@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1947,Southern Association,,M90301,Cuyler,Kiki,,Atlanta,,,,,
-minoraverages/emilbb,1947,Southern Association,,M90330,Dickey,Bill,,Little Rock,,,,,
-minoraverages/emilbb,1947,Southern Association,,M90285,Gilbert,Larry,,Nashville,,,,,
-minoraverages/emilbb,1947,Southern Association,,M90299,Niehoff,Bert,,Chattanooga,,,,,
-minoraverages/emilbb,1947,Southern Association,,M90317,Porter,Dick,,Birmingham,,,,,
-minoraverages/emilbb,1947,Southern Association,,M90325,Prothro,"Tommy ""Doc""",,Memphis,,,,,
-minoraverages/emilbb,1947,Southern Association,,M90261,Todd,Alfred,,Mobile,,,,,
-minoraverages/emilbb,1947,Southern Association,,M90273,Walters,Fred,,New Orleans,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1947,Southern Association,,M90301,Cuyler,Kiki,,Atlanta,,
+minoraverages/emilbb,1947,Southern Association,,M90330,Dickey,Bill,,Little Rock,,
+minoraverages/emilbb,1947,Southern Association,,M90285,Gilbert,Larry,,Nashville,,
+minoraverages/emilbb,1947,Southern Association,,M90299,Niehoff,Bert,,Chattanooga,,
+minoraverages/emilbb,1947,Southern Association,,M90317,Porter,Dick,,Birmingham,,
+minoraverages/emilbb,1947,Southern Association,,M90325,Prothro,"Tommy ""Doc""",,Memphis,,
+minoraverages/emilbb,1947,Southern Association,,M90261,Todd,Alfred,,Mobile,,
+minoraverages/emilbb,1947,Southern Association,,M90273,Walters,Fred,,New Orleans,,

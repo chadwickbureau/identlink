@@ -1,8 +1,8 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1957,Eastern League,,M90603,Calo,Frank,,Syracuse/Allentown,,,,,
-minoraverages/emilbb,1957,Eastern League,,M90579,Carter,Dick,,Schenectady,,,,,
-minoraverages/emilbb,1957,Eastern League,,M90616,McCormick,Mike,,Springfield,,,,,
-minoraverages/emilbb,1957,Eastern League,,M90627,Murray,Ray,,Springfield,,,,,
-minoraverages/emilbb,1957,Eastern League,,M90598,Popowski,Eddie,,Albany,,,,,
-minoraverages/emilbb,1957,Eastern League,,M90565,Souchock,Steve,,Binghamton,,,,,
-minoraverages/emilbb,1957,Eastern League,,M90587,White,Jo Jo,,Reading,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1957,Eastern League,,M90603,Calo,Frank,,Syracuse/Allentown,,
+minoraverages/emilbb,1957,Eastern League,,M90579,Carter,Dick,,Schenectady,,
+minoraverages/emilbb,1957,Eastern League,,M90616,McCormick,Mike,,Springfield,,
+minoraverages/emilbb,1957,Eastern League,,M90627,Murray,Ray,,Springfield,,
+minoraverages/emilbb,1957,Eastern League,,M90598,Popowski,Eddie,,Albany,,
+minoraverages/emilbb,1957,Eastern League,,M90565,Souchock,Steve,,Binghamton,,
+minoraverages/emilbb,1957,Eastern League,,M90587,White,Jo Jo,,Reading,,

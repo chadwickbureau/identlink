@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1979,Western Carolinas League,,M91446,Dancy,Bill,,Spartanburg,,,,,
-minoraverages/emilbb,1979,Western Carolinas League,,M91423,Gallagher,Al,,Greenwood,,,,,
-minoraverages/emilbb,1979,Western Carolinas League,,M91451,Lett,Jim,,Greensboro,,,,,
-minoraverages/emilbb,1979,Western Carolinas League,,M91467,Lewis,Johnny,,Gastonia,,,,,
-minoraverages/emilbb,1979,Western Carolinas League,,M91438,Terwilliger,Wayne,,Asheville,,,,,
-minoraverages/emilbb,1979,Western Carolinas League,,M91472,Zimmer,Tom,,Shelby,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1979,Western Carolinas League,,M91446,Dancy,Bill,,Spartanburg,,
+minoraverages/emilbb,1979,Western Carolinas League,,M91423,Gallagher,Al,,Greenwood,,
+minoraverages/emilbb,1979,Western Carolinas League,,M91451,Lett,Jim,,Greensboro,,
+minoraverages/emilbb,1979,Western Carolinas League,,M91467,Lewis,Johnny,,Gastonia,,
+minoraverages/emilbb,1979,Western Carolinas League,,M91438,Terwilliger,Wayne,,Asheville,,
+minoraverages/emilbb,1979,Western Carolinas League,,M91472,Zimmer,Tom,,Shelby,,

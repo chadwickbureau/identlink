@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1994,North Central League,,M92278,Felice,Jason,,Regina,,,,,
-minoraverages/emilbb,1994,North Central League,,M92293,Gulliver,Glenn,,Huron,,,,,
-minoraverages/emilbb,1994,North Central League,,M92286,Malcolm,Ron,,Saskatoon,,,,,
-minoraverages/emilbb,1994,North Central League,,M92255,Olson,Greg,,Minneapolis,,,,,
-minoraverages/emilbb,1994,North Central League,,M92264,Taylor,Mike,,Marshall,,,,,
-minoraverages/emilbb,1994,North Central League,,M92241,Zwolensky,Mitch,,Brainerd,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1994,North Central League,,M92278,Felice,Jason,,Regina,,
+minoraverages/emilbb,1994,North Central League,,M92293,Gulliver,Glenn,,Huron,,
+minoraverages/emilbb,1994,North Central League,,M92286,Malcolm,Ron,,Saskatoon,,
+minoraverages/emilbb,1994,North Central League,,M92255,Olson,Greg,,Minneapolis,,
+minoraverages/emilbb,1994,North Central League,,M92264,Taylor,Mike,,Marshall,,
+minoraverages/emilbb,1994,North Central League,,M92241,Zwolensky,Mitch,,Brainerd,,

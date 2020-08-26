@@ -1,6 +1,6 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1988,Arizona League,hudgens,M91850,Hudgens,Dave,,Athletics,,,,,
-minoraverages/emilbb,1988,Arizona League,moreno,M91869,Moreno,Jaime,,Padres,,,,,
-minoraverages/emilbb,1988,Arizona League,pines,M91888,Pines,Myron,,Red Sox/Mariners,,,,,
-minoraverages/emilbb,1988,Arizona League,taveras,M91842,Taveras,Alex,,Brewers,,,,,
-minoraverages/emilbb,1988,Arizona League,verdi,M91875,Verdi,Mike,,Red Sox/Mariners,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1988,Arizona League,hudgens,M91850,Hudgens,Dave,,Athletics,,
+minoraverages/emilbb,1988,Arizona League,moreno,M91869,Moreno,Jaime,,Padres,,
+minoraverages/emilbb,1988,Arizona League,pines,M91888,Pines,Myron,,Red Sox/Mariners,,
+minoraverages/emilbb,1988,Arizona League,taveras,M91842,Taveras,Alex,,Brewers,,
+minoraverages/emilbb,1988,Arizona League,verdi,M91875,Verdi,Mike,,Red Sox/Mariners,,

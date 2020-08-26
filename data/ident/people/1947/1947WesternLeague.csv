@@ -1,8 +1,8 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1947,Western League,,M90650,Alston,Walter,,Pueblo,,,,,
-minoraverages/emilbb,1947,Western League,,M90634,Becker,Joe,,Sioux City,,,,,
-minoraverages/emilbb,1947,Western League,,M90642,Keesey,James,,Des Moines,,,,,
-minoraverages/emilbb,1947,Western League,,M90675,McManus,Marty,,Denver,,,,,
-minoraverages/emilbb,1947,Western League,,M90691,Oliver,Tom,,Lincoln,,,,,
-minoraverages/emilbb,1947,Western League,,M90688,Schulte,Herman,,Lincoln,,,,,
-minoraverages/emilbb,1947,Western League,,M90669,Vanek,Ollie,,Omaha,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1947,Western League,,M90650,Alston,Walter,,Pueblo,,
+minoraverages/emilbb,1947,Western League,,M90634,Becker,Joe,,Sioux City,,
+minoraverages/emilbb,1947,Western League,,M90642,Keesey,James,,Des Moines,,
+minoraverages/emilbb,1947,Western League,,M90675,McManus,Marty,,Denver,,
+minoraverages/emilbb,1947,Western League,,M90691,Oliver,Tom,,Lincoln,,
+minoraverages/emilbb,1947,Western League,,M90688,Schulte,Herman,,Lincoln,,
+minoraverages/emilbb,1947,Western League,,M90669,Vanek,Ollie,,Omaha,,

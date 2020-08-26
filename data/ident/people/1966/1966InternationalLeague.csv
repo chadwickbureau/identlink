@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1966,International League,,M90047,Adair,Bill,,Richmond,,,,,
-minoraverages/emilbb,1966,International League,,M90060,Babe,Loren,,Toledo,,,,,
-minoraverages/emilbb,1966,International League,,M90083,Carswell,Frank,,Syracuse,,,,,
-minoraverages/emilbb,1966,International League,,M90052,Davis,"John ""Red""",,Buffalo,,,,,
-minoraverages/emilbb,1966,International League,,M90071,Hemus,Solly,,Jacksonville,,,,,
-minoraverages/emilbb,1966,International League,,M90026,Shepard,Larry,,Columbus,,,,,
-minoraverages/emilbb,1966,International League,,M90018,Weaver,Earl,,Rochester,,,,,
-minoraverages/emilbb,1966,International League,,M90039,Williams,Dick,,Toronto,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1966,International League,,M90047,Adair,Bill,,Richmond,,
+minoraverages/emilbb,1966,International League,,M90060,Babe,Loren,,Toledo,,
+minoraverages/emilbb,1966,International League,,M90083,Carswell,Frank,,Syracuse,,
+minoraverages/emilbb,1966,International League,,M90052,Davis,"John ""Red""",,Buffalo,,
+minoraverages/emilbb,1966,International League,,M90071,Hemus,Solly,,Jacksonville,,
+minoraverages/emilbb,1966,International League,,M90026,Shepard,Larry,,Columbus,,
+minoraverages/emilbb,1966,International League,,M90018,Weaver,Earl,,Rochester,,
+minoraverages/emilbb,1966,International League,,M90039,Williams,Dick,,Toronto,,

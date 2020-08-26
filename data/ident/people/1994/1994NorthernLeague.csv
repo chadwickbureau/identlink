@@ -1,8 +1,8 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1994,Northern League,,M92362,Bedell,Howie,,Duluth-Superior,,,,,
-minoraverages/emilbb,1994,Northern League,,M92335,Blackwell,Tim,,St. Paul,,,,,
-minoraverages/emilbb,1994,Northern League,,M92308,Nottle,Ed,,Sioux City,,,,,
-minoraverages/emilbb,1994,Northern League,,M92356,Shwam,Dan,,Thunder Bay,,,,,
-minoraverages/emilbb,1994,Northern League,,M92343,Simunic,Doug,,Winnipeg,,,,,
-minoraverages/emilbb,1994,Northern League,,M92324,Stavrenos,Harry,,Sioux Falls,,,,,
-minoraverages/emilbb,1994,Northern League,,M92319,Verdi,Frank,,Sioux Falls,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1994,Northern League,,M92362,Bedell,Howie,,Duluth-Superior,,
+minoraverages/emilbb,1994,Northern League,,M92335,Blackwell,Tim,,St. Paul,,
+minoraverages/emilbb,1994,Northern League,,M92308,Nottle,Ed,,Sioux City,,
+minoraverages/emilbb,1994,Northern League,,M92356,Shwam,Dan,,Thunder Bay,,
+minoraverages/emilbb,1994,Northern League,,M92343,Simunic,Doug,,Winnipeg,,
+minoraverages/emilbb,1994,Northern League,,M92324,Stavrenos,Harry,,Sioux Falls,,
+minoraverages/emilbb,1994,Northern League,,M92319,Verdi,Frank,,Sioux Falls,,

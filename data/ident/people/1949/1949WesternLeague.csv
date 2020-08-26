@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1949,Western League,,M90777,Browne,Earle,,Denver,,,,,
-minoraverages/emilbb,1949,Western League,,M90766,DeCarlo,William,,Denver,,,,,
-minoraverages/emilbb,1949,Western League,,M90744,DeShong,James,,Lincoln,,,,,
-minoraverages/emilbb,1949,Western League,,M90808,Durst,Cedric,,Omaha,,,,,
-minoraverages/emilbb,1949,Western League,,M90753,Gazella,Mike,,Denver,,,,,
-minoraverages/emilbb,1949,Western League,,M90790,Hack,Stan,,Des Moines,,,,,
-minoraverages/emilbb,1949,Western League,,M90789,Hathaway,Ray,,Pueblo,,,,,
-minoraverages/emilbb,1949,Western League,,M90819,Ramsay,Don,,Sioux City,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1949,Western League,,M90777,Browne,Earle,,Denver,,
+minoraverages/emilbb,1949,Western League,,M90766,DeCarlo,William,,Denver,,
+minoraverages/emilbb,1949,Western League,,M90744,DeShong,James,,Lincoln,,
+minoraverages/emilbb,1949,Western League,,M90808,Durst,Cedric,,Omaha,,
+minoraverages/emilbb,1949,Western League,,M90753,Gazella,Mike,,Denver,,
+minoraverages/emilbb,1949,Western League,,M90790,Hack,Stan,,Des Moines,,
+minoraverages/emilbb,1949,Western League,,M90789,Hathaway,Ray,,Pueblo,,
+minoraverages/emilbb,1949,Western League,,M90819,Ramsay,Don,,Sioux City,,

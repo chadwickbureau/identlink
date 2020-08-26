@@ -1,715 +1,715 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/1915Spalding,1914,Illinois-Missouri League,anderson-cha,B00255,Anderson,,0,Champaign,,,88,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,anderson-cha,F20924,Anderson,,0,Champaign,,,,,c88
-minoraverages/Nemec,1914,Illinois-Missouri League,anderson-str+kan,B00013,Anderson,Andy,1,Streator,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,anderson-str+kan,B00013,Anderson,Andy,2,Kankakee,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,anderson-str+kan,B00013,Anderson,Andy,T,,19140513,19140606,8,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,anderson-cha,B00021,Anderson,Robert,0,Champaign,19140513,19140809,89,,c
-minoraverages/Nemec,1914,Illinois-Missouri League,anderson-str+kan,B01711,Anderson,Andy,0,Streator,19140513,19140523,5,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,anderson-str+kan,B01722,Anderson,Andy,0,Kankakee,19140528,19140606,3,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,anderson-str+kan,P10019,Anderson,,1,Streator,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,anderson-str+kan,P10019,Anderson,,2,Kankakee,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,anderson-str+kan,P10019,Anderson,,T,,,,,5,
-minoraverages/Nemec,1914,Illinois-Missouri League,anderson-str+kan,P10738,Anderson,,0,Streator,,,,2,
-minoraverages/Nemec,1914,Illinois-Missouri League,anderson-str+kan,P10746,Anderson,,0,Kankakee,,,,3,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,baichley,B00705,Baichley,,0,Champaign,,,22,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,baichley,F20737,Baichley,,0,Champaign,,,,,p22
-minoraverages/1915Spalding,1914,Illinois-Missouri League,baichley,P10019,Baichley,,0,Champaign,,,,20,
-minoraverages/Nemec,1914,Illinois-Missouri League,baichley,B00037,Baichley,Grover C.,0,Champaign,19140519,19140719,22,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,baichley,P10024,Baichley,,0,Champaign,,,,20,
-minoraverages/Nemec,1914,Illinois-Missouri League,barton,B00045,Barton,,0,La Salle,19140514,19140514,1,,of
-minoraverages/1915Spalding,1914,Illinois-Missouri League,baxter,B00182,Baxter,,0,La Salle,,,17,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,baxter,F20023,Baxter,,0,La Salle,,,,,1b17
-minoraverages/1915Spalding,1914,Illinois-Missouri League,baxter,P10192,Baxter,,0,La Salle,,,,1,
-minoraverages/Nemec,1914,Illinois-Missouri League,baxter,B00059,Baxter,Bunk,0,La Salle,19140726,19140809,17,,"p,1b"
-minoraverages/Nemec,1914,Illinois-Missouri League,baxter,P10035,Baxter,,0,La Salle,,,,3,
-minoraverages/Nemec,1914,Illinois-Missouri League,beeson,B00068,Beeson,,0,Kankakee,19140630,19140630,1,,1b
-minoraverages/Nemec,1914,Illinois-Missouri League,bell,B00076,Bell,,0,Streator,19140621,19140621,1,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,bell,P10043,Bell,,0,Streator,,,,1,
-minoraverages/Nemec,1914,Illinois-Missouri League,bellew,B00084,Bellew,,0,La Salle,19140515,19140516,2,,ss
-minoraverages/1915Spalding,1914,Illinois-Missouri League,bierman,B00739,Bierman,,1,Lincoln,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,bierman,B00739,Bierman,,2,La Salle,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,bierman,B00739,Bierman,,T,,,,39,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,bierman,F20768,Bierman,,1,Lincoln,,,,,p
-minoraverages/1915Spalding,1914,Illinois-Missouri League,bierman,F20768,Bierman,,2,La Salle,,,,,p
-minoraverages/1915Spalding,1914,Illinois-Missouri League,bierman,F20768,Bierman,,T,,,,,,p39
-minoraverages/1915Spalding,1914,Illinois-Missouri League,bierman,P10113,Bierman,,0,La Salle,,,,25,
-minoraverages/Nemec,1914,Illinois-Missouri League,bierman,B00092,Bierman,Frank,1,Lincoln,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,bierman,B00092,Bierman,Frank,2,La Salle,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,bierman,B00092,Bierman,Frank,T,,19140516,19140814,24,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,bierman,B01733,Bierman,Frank,0,Lincoln,19140516,19140630,14,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,bierman,B01740,Bierman,Frank,0,La Salle,19140704,19140804,10,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,bierman,P10056,Bierman,,1,Lincoln,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,bierman,P10056,Bierman,,2,La Salle,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,bierman,P10056,Bierman,,T,,,,,24,
-minoraverages/Nemec,1914,Illinois-Missouri League,bierman,P10751,Bierman,,0,Lincoln,,,,14,
-minoraverages/Nemec,1914,Illinois-Missouri League,bierman,P10767,Bierman,,0,La Salle,,,,10,
-minoraverages/Nemec,1914,Illinois-Missouri League,billings,B00101,Billings,Charles,0,La Salle,19140513,19140525,8,,"c,of"
-minoraverages/1915Spalding,1914,Illinois-Missouri League,broadwell,B00680,Broadwell,,0,Streator,,,40,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,broadwell,F20388,Broadwell,,0,Streator,,,,,of12
-minoraverages/1915Spalding,1914,Illinois-Missouri League,broadwell,F20832,Broadwell,,0,Streator,,,,,p28
-minoraverages/1915Spalding,1914,Illinois-Missouri League,broadwell,P10097,Broadwell,,0,Streator,,,,28,
-minoraverages/Nemec,1914,Illinois-Missouri League,broadwell,B00117,Broadwell,Eugene T.,0,Streator,19140504,19140809,40,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,broadwell,P10062,Broadwell,,0,Streator,,,,28,
-minoraverages/Nemec,1914,Illinois-Missouri League,brock,B00125,Brock,,0,Streator,19140513,19140522,9,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,brock,P10070,Brock,,0,Streator,,,,1,
-minoraverages/Nemec,1914,Illinois-Missouri League,brown,B00130,Brown,,0,Kankakee,19140614,19140629,10,,"p,1b"
-minoraverages/Nemec,1914,Illinois-Missouri League,brown,P10081,Brown,,0,Kankakee,,,,7,
-minoraverages/Nemec,1914,Illinois-Missouri League,brownfield,B00149,Brownfield,Roy,0,Streator,19140518,19140614,9,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,brownfield,P10097,Brownfield,,0,Streator,,,,7,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,buerglin,B00021,Buerglin,,0,Kankakee,,,10,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,buerglin,F20657,Buerglin,,0,Kankakee,,,,,p10
-minoraverages/Nemec,1914,Illinois-Missouri League,buerglin,B00158,Buerglin,,0,Kankakee,19140513,19140522,10,,of
-minoraverages/Nemec,1914,Illinois-Missouri League,byrd,B00163,Byrd,,0,La Salle,19140515,19140520,4,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,byrd,P10100,Byrd,,0,La Salle,,,,4,
-minoraverages/Nemec,1914,Illinois-Missouri League,carlson,B00174,Carlson,,0,Kankakee,19140520,19140523,2,,c
-minoraverages/1915Spalding,1914,Illinois-Missouri League,carrow,B00434,Carrow,,0,Ottawa,,,34,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,carrow,F20807,Carrow,,0,Ottawa,,,,,p34
-minoraverages/1915Spalding,1914,Illinois-Missouri League,carrow,P10100,Carrow,,0,Ottawa,,,,28,
-minoraverages/Nemec,1914,Illinois-Missouri League,carrow,B00182,Carrow,Fred,0,Ottawa,19140517,19140809,34,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,carrow,P10113,Carrow,,0,Ottawa,,,,28,
-minoraverages/Nemec,1914,Illinois-Missouri League,cassidy,B00196,Cassidy,,0,La Salle,19140513,19140523,9,,"1b,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,clark,B00207,Clark,Samuel,0,La Salle,19140623,19140625,3,,of
-minoraverages/Nemec,1914,Illinois-Missouri League,coffey,B00210,Coffey,,0,La Salle,19140621,19140701,4,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,coffey,P10121,Coffey,,0,La Salle,,,,4,
-minoraverages/Nemec,1914,Illinois-Missouri League,collard,B00229,Collard,,0,La Salle,19140513,19140530,9,,"p,3b,ss"
-minoraverages/Nemec,1914,Illinois-Missouri League,collard,P10137,Collard,,0,La Salle,,,,4,
-minoraverages/Nemec,1914,Illinois-Missouri League,conley,B00232,Conley,Gene,0,Kankakee,19140526,19140621,8,,of
-minoraverages/Nemec,1914,Illinois-Missouri League,conley,M90039,Conley,Gene,,Kankakee,19140525,,,,
-minoraverages/emilbb,1914,Illinois-Missouri League,,M92752,Connelly,Gene,,Kankakee,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,cooley,B00241,Cooley,,0,Streator,19140513,19140519,2,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,cooley,P10145,Cooley,,0,Streator,,,,2,
-minoraverages/Nemec,1914,Illinois-Missouri League,cornell-ls,B00255,Cornell,,0,La Salle,19140517,19140517,1,,2b
-minoraverages/Nemec,1914,Illinois-Missouri League,cornell-kan,B00264,Cornell,,0,Kankakee,19140520,19140604,5,,of
-minoraverages/1915Spalding,1914,Illinois-Missouri League,cramer,B00286,Cramer,,0,Kankakee,,,47,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,cramer,F20265,Cramer,,0,Kankakee,,,,,3b47
-minoraverages/Nemec,1914,Illinois-Missouri League,cramer,B00278,Cramer,Lloyd,0,Kankakee,19140513,19140630,47,,3b
-minoraverages/1915Spalding,1914,Illinois-Missouri League,crangle,B00450,Crangle,,0,Ottawa,,,46,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,crangle,F20552,Crangle,,0,Ottawa,,,,,of46
-minoraverages/Nemec,1914,Illinois-Missouri League,crangle,B00286,Crangle,James P.,0,Ottawa,19140515,19140707,46,,"1b,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,creed,B00293,Creed,,0,Kankakee,19140513,19140513,1,,1b
-minoraverages/1915Spalding,1914,Illinois-Missouri League,cronin,B00614,Cronin,,0,La Salle,,,19,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,cronin,F20956,Cronin,,0,La Salle,,,,,c19
-minoraverages/Nemec,1914,Illinois-Missouri League,cronin,B00308,Cronin,,0,La Salle,19140611,19140713,19,,c
-minoraverages/1915Spalding,1914,Illinois-Missouri League,culver,B00760,Culver,,0,Champaign,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,culver,F20784,Culver,,0,Champaign,,,,,p5
-minoraverages/1915Spalding,1914,Illinois-Missouri League,culver,P10228,Culver,,0,Champaign,,,,5,
-minoraverages/Nemec,1914,Illinois-Missouri League,culver,B00319,Culver,A. M.,0,Champaign,19140727,19140809,5,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,culver,P10159,Culver,,0,Champaign,,,,5,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,curran,B00840,Curran,,0,La Salle,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,curran,F20685,Curran,,0,La Salle,,,,,p3
-minoraverages/1915Spalding,1914,Illinois-Missouri League,curran,P10231,Curran,,0,La Salle,,,,2,
-minoraverages/Nemec,1914,Illinois-Missouri League,curran,B00324,Curran,Bernard,0,La Salle,19140731,19140809,4,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,curran,P10168,Curran,,0,La Salle,,,,3,
-minoraverages/Nemec,1914,Illinois-Missouri League,dalstrom,B00335,Dalstrom,,0,La Salle,19140520,19140526,7,,"ss,of"
-minoraverages/1915Spalding,1914,Illinois-Missouri League,dark,B00577,Dark,,0,Ottawa,,,17,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,dark,F20776,Dark,,0,Ottawa,,,,,p17
-minoraverages/1915Spalding,1914,Illinois-Missouri League,dark,P10137,Dark,,0,Ottawa,,,,15,
-minoraverages/Nemec,1914,Illinois-Missouri League,dark,B00343,Dark,Ross,0,Ottawa,19140515,19140710,18,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,dark,P10176,Dark,,0,Ottawa,,,,15,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,dowd,B00442,Dawd,,0,Ottawa,,,51,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,dowd,F20072,Dawd,,0,Ottawa,,,,,1b31
-minoraverages/1915Spalding,1914,Illinois-Missouri League,dowd,F20102,Dawd,,0,Ottawa,,,,,2b20
-minoraverages/1915Spalding,1914,Illinois-Missouri League,diehl,B00515,Deihl,,0,Champaign,,,80,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,diehl,F20496,Deihl,,0,Champaign,,,,,of80
-minoraverages/1915Spalding,1914,Illinois-Missouri League,diehl,P10289,Deihl,,0,Champaign,,,,1,
-minoraverages/Nemec,1914,Illinois-Missouri League,demaree,B00356,Demaree,,1,Ottawa,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,demaree,B00356,Demaree,,2,La Salle,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,demaree,B00356,Demaree,,T,,19140519,19140606,17,,of
-minoraverages/Nemec,1914,Illinois-Missouri League,demaree,B01754,Demaree,,0,Ottawa,19140519,19140602,14,,of
-minoraverages/Nemec,1914,Illinois-Missouri League,demaree,B01765,Demaree,,0,La Salle,19140603,19140606,3,,of
-minoraverages/1915Spalding,1914,Illinois-Missouri League,desmond,B00092,Desmond,,0,Ottawa,,,73,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,desmond,F20254,Desmond,,0,Ottawa,,,,,3b46
-minoraverages/1915Spalding,1914,Illinois-Missouri League,desmond,F20327,Desmond,,0,Ottawa,,,,,ss27
-minoraverages/Nemec,1914,Illinois-Missouri League,desmond,B00362,Desmond,S.,0,Ottawa,19140515,19140729,73,,"3b,ss"
-minoraverages/Nemec,1914,Illinois-Missouri League,diehl,B00370,Diehl,Walter (Spider),0,Champaign,19140513,19140804,81,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,diehl,P10184,Diehl,,0,Champaign,,,,1,
-minoraverages/Nemec,1914,Illinois-Missouri League,diemer,B01706,Diemer,,0,Lincoln,19140523,19140523,1,,c
-minoraverages/Nemec,1914,Illinois-Missouri League,dolan,B00381,Dolan,,0,Kankakee,19140604,19140604,1,,of
-minoraverages/Nemec,1914,Illinois-Missouri League,doud,B00397,Doud,,0,Kankakee,19140520,19140520,1,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,doud,P10192,Doud,,0,Kankakee,,,,1,
-minoraverages/Nemec,1914,Illinois-Missouri League,dowd,B00403,Dowd,Alfred,0,Ottawa,19140515,19140705,51,,"1b,2b,of"
-minoraverages/1915Spalding,1914,Illinois-Missouri League,edwards,B00117,Edwards,,1,Streator,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,edwards,B00117,Edwards,,2,Kankakee,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,edwards,B00117,Edwards,,T,,,,99,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,edwards,F20334,Edwards,,1,Streator,,,,,ss
-minoraverages/1915Spalding,1914,Illinois-Missouri League,edwards,F20334,Edwards,,2,Kankakee,,,,,ss
-minoraverages/1915Spalding,1914,Illinois-Missouri League,edwards,F20334,Edwards,,T,,,,,,ss99
-minoraverages/Nemec,1914,Illinois-Missouri League,edwards,B00416,Edwards,Chief,1,Kankakee,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,edwards,B00416,Edwards,Chief,2,Streator,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,edwards,B00416,Edwards,Chief,T,,19140513,19140705,52,,ss
-minoraverages/Nemec,1914,Illinois-Missouri League,edwards,B01779,Edwards,Chief,0,Kankakee,19140513,19140630,47,,ss
-minoraverages/Nemec,1914,Illinois-Missouri League,edwards,B01787,Edwards,Chief,0,Streator,19140703,19140705,5,,ss
-minoraverages/1915Spalding,1914,Illinois-Missouri League,ehrgott,B00241,Ehrgott,,1,Lincoln,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,ehrgott,B00241,Ehrgott,,2,Ottawa,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,ehrgott,B00241,Ehrgott,,T,,,,114,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,ehrgott,F20943,Ehrgott,,1,Lincoln,,,,,c
-minoraverages/1915Spalding,1914,Illinois-Missouri League,ehrgott,F20943,Ehrgott,,2,Ottawa,,,,,c
-minoraverages/1915Spalding,1914,Illinois-Missouri League,ehrgott,F20943,Ehrgott,,T,,,,,,c114
-minoraverages/Nemec,1914,Illinois-Missouri League,ehrgott,B00427,Ehrgott,Louis E.,1,Lincoln,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,ehrgott,B00427,Ehrgott,Louis E.,2,Ottawa,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,ehrgott,B00427,Ehrgott,Louis E.,T,,19140515,19140809,66,,"c,1b,ss,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,ehrgott,B01798,Ehrgott,Louis E.,0,Lincoln,19140515,19140701,47,,"c,1b,ss,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,ehrgott,B01804,Ehrgott,Louis E.,0,Ottawa,19140724,19140809,19,,c
-minoraverages/Nemec,1914,Illinois-Missouri League,ehrgott,M90071,Ehrgott,Louis E.,,Lincoln,,,,,
-minoraverages/emilbb,1914,Illinois-Missouri League,,M92739,Ehrgott,Louis,,Lincoln,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,eith,B00434,Eith,,1,Ottawa,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,eith,B00434,Eith,,2,Kankakee,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,eith,B00434,Eith,,3,La Salle,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,eith,B00434,Eith,,T,,19140516,19140625,20,,"c,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,eith,B00442,Eith,Lewis,0,Streator,19140513,19140622,22,,"ss,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,eith,B01812,Eith,,0,Ottawa,19140516,19140527,10,,"c,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,eith,B01820,Eith,,0,Kankakee,19140607,19140607,1,,of
-minoraverages/Nemec,1914,Illinois-Missouri League,eith,B01836,Eith,,0,La Salle,19140612,19140625,9,,of
-minoraverages/1915Spalding,1914,Illinois-Missouri League,fisher,B00651,Fisher,,0,La Salle,,,14,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,fisher,F20222,Fisher,,0,La Salle,,,,,3b14
-minoraverages/Nemec,1914,Illinois-Missouri League,fisher,B00450,Fisher,,0,La Salle,19160616,19140703,15,,3b
-minoraverages/1915Spalding,1914,Illinois-Missouri League,fisse,B00488,Fisse,,0,Champaign,,,58,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,fisse,F20144,Fisse,,0,Champaign,,,,,2b11
-minoraverages/1915Spalding,1914,Illinois-Missouri League,fisse,F20190,Fisse,,0,Champaign,,,,,3b21
-minoraverages/1915Spalding,1914,Illinois-Missouri League,fisse,F20369,Fisse,,0,Champaign,,,,,ss26
-minoraverages/Nemec,1914,Illinois-Missouri League,fisse,B00469,Fisse,Carl,0,Champaign,19140513,19140809,59,,"2b,3b,ss,of"
-minoraverages/1915Spalding,1914,Illinois-Missouri League,fitzpatrick,B00130,Fitzpatrick,,0,La Salle,,,76,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,fitzpatrick,F20095,Fitzpatrick,,0,La Salle,,,,,2b47
-minoraverages/1915Spalding,1914,Illinois-Missouri League,fitzpatrick,F20206,Fitzpatrick,,0,La Salle,,,,,3b29
-minoraverages/Nemec,1914,Illinois-Missouri League,fitzpatrick,B00475,Fitzpatrick,John,0,La Salle,19140519,19140809,78,,"2b,3b"
-minoraverages/Nemec,1914,Illinois-Missouri League,fitzpatrick,M90060,Fitzpatrick,John,,La Salle,19140517,,,,
-minoraverages/emilbb,1914,Illinois-Missouri League,,M92726,Fitzpatrick,John,,La Salle,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,fleming,B00293,Fleming,,0,Ottawa,,,87,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,fleming,F20189,Fleming,,0,Ottawa,,,,,3b40
-minoraverages/1915Spalding,1914,Illinois-Missouri League,fleming,F20303,Fleming,,0,Ottawa,,,,,ss47
-minoraverages/Nemec,1914,Illinois-Missouri League,fleming,B00488,Fleming,Charles (Chuck),0,Ottawa,19140515,19140809,86,,"3b,ss"
-minoraverages/Nemec,1914,Illinois-Missouri League,fleming,M90083,Fleming,Charles (Chuck,,Ottawa,,,,,
-minoraverages/emilbb,1914,Illinois-Missouri League,,M92680,Fleming,Chuck,,Ottawa,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,flood,B00491,Flood,,0,Lincoln,19140518,19140523,2,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,flood,P10202,Flood,,0,Lincoln,,,,2,
-minoraverages/Nemec,1914,Illinois-Missouri League,forrest,B00502,Forrest,Grieg,0,La Salle,19160616,19140625,4,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,forrest,P10215,Forrest,,0,La Salle,,,,3,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,fowler,B00590,Fowler,,0,La Salle,,,46,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,fowler,F20375,Fowler,,0,La Salle,,,,,of14
-minoraverages/1915Spalding,1914,Illinois-Missouri League,fowler,F21000,Fowler,,0,La Salle,,,,,c32
-minoraverages/Nemec,1914,Illinois-Missouri League,fowler,B00515,Fowler,Carl,1,Lincoln,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,fowler,B00515,Fowler,Carl,2,La Salle,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,fowler,B00515,Fowler,Carl,T,,19140617,19140809,47,,"c,1b,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,fowler,B01848,Fowler,Carl,0,Lincoln,19140615,19140630,8,,"c,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,fowler,B01857,Fowler,Carl,0,La Salle,19140704,19140809,39,,"c,1b,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,gerard,B00528,Gerard,,1,Streator,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,gerard,B00528,Gerard,,2,Lincoln,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,gerard,B00528,Gerard,,T,,19140516,19140528,5,,"p,2b"
-minoraverages/Nemec,1914,Illinois-Missouri League,gerard,B01861,Gerard,,0,Streator,19140516,19140523,4,,"p,2b"
-minoraverages/Nemec,1914,Illinois-Missouri League,gerard,B01873,Gerard,,0,Lincoln,19140528,19140528,1,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,gerard,P10228,Gerard,,1,Streator,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,gerard,P10228,Gerard,,2,Lincoln,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,gerard,P10228,Gerard,,T,,,,,4,
-minoraverages/Nemec,1914,Illinois-Missouri League,gerard,P10772,Gerard,,0,Streator,,,,3,
-minoraverages/Nemec,1914,Illinois-Missouri League,gerard,P10780,Gerard,,0,Lincoln,,,,1,
-minoraverages/Nemec,1914,Illinois-Missouri League,girth,B00531,Girth,F.,0,Kankakee,19140623,19140630,4,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,girth,P10231,Girth,,0,Kankakee,,,,3,
-minoraverages/Nemec,1914,Illinois-Missouri League,good,B00544,Good,,0,La Salle,19140527,19140527,1,,of
-minoraverages/1915Spalding,1914,Illinois-Missouri League,grady,B00469,Grady,,0,La Salle,,,55,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,grady,F20962,Grady,,0,La Salle,,,,,c55
-minoraverages/Nemec,1914,Illinois-Missouri League,grady,B00553,Grady,W. A.,1,Kankakee,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,grady,B00553,Grady,W. A.,2,Ottawa,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,grady,B00553,Grady,W. A.,3,La Salle,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,grady,B00553,Grady,W. A.,T,,19140614,19140809,56,,"c,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,grady,B01885,Grady,W. A.,0,Kankakee,19140614,19140621,8,,c
-minoraverages/Nemec,1914,Illinois-Missouri League,grady,B01899,Grady,W. A.,0,Ottawa,19140624,19140722,30,,"c,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,grady,B01905,Grady,W. A.,0,La Salle,19140725,19140809,18,,"c,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,graham-ls,B00566,Graham,,0,La Salle,19140513,19140525,6,,"c,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,graham-kan,B00577,Graham,Lee,0,Kankakee,19140518,19140608,6,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,graham-kan,P10244,Graham,L.,0,Kankakee,,,,6,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,griffin,B00646,Griffin,,0,Champaign,,,34,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,griffin,F20721,Griffin,,0,Champaign,,,,,p34
-minoraverages/1915Spalding,1914,Illinois-Missouri League,griffin,P10024,Griffin,,0,Champaign,,,,25,
-minoraverages/Nemec,1914,Illinois-Missouri League,griffin,B00589,Griffin,W. H.,0,Champaign,19140514,19140808,35,,"p,1b,2b,3b,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,griffin,P10253,Griffin,,0,Champaign,,,,25,
-minoraverages/Nemec,1914,Illinois-Missouri League,gruver,B00590,Gruver,,0,Kankakee,19140514,19140518,2,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,gruver,P10266,Gruver,,0,Kankakee,,,,2,
-minoraverages/Nemec,1914,Illinois-Missouri League,hamill,B00609,Hamill,Ed,0,La Salle,19140603,19140615,4,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,hamill,P10277,Hamill,,0,La Salle,,,,4,
-minoraverages/Nemec,1914,Illinois-Missouri League,hanna,B00614,Hanna,John,1,La Salle,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,hanna,B00614,Hanna,John,2,Ottawa,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,hanna,B00614,Hanna,John,T,,19140516,19140610,20,,"c,1b,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,hanna,B01918,Hanna,John,0,La Salle,19140516,19140531,12,,"c,1b,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,hanna,B01926,Hanna,John,0,Ottawa,19140603,19140610,8,,c
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hannigan,B00566,Hannigan,,0,Ottawa,,,88,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hannigan,F20177,Hannigan,,0,Ottawa,,,,,2b88
-minoraverages/Nemec,1914,Illinois-Missouri League,hannigan,B00623,Hannigan,George,1,Streator,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,hannigan,B00623,Hannigan,George,2,Ottawa,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,hannigan,B00623,Hannigan,George,T,,19140513,19140809,88,,"2b,3b,ss"
-minoraverages/Nemec,1914,Illinois-Missouri League,hannigan,B01939,Hannigan,George,0,Streator,19140513,19140602,20,,"2b,3b"
-minoraverages/Nemec,1914,Illinois-Missouri League,hannigan,B01947,Hannigan,George,0,Ottawa,19140603,19140809,68,,"2b,ss"
-minoraverages/Nemec,1914,Illinois-Missouri League,hardin,B00638,Hardin,,0,La Salle,19140515,19140515,1,,c
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hardy,B00531,Hardy,,1,Streator,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hardy,B00531,Hardy,,2,Lincoln,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hardy,B00531,Hardy,,T,,,,112,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hardy,F20115,Hardy,,1,Streator,,,,,2b
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hardy,F20115,Hardy,,2,Lincoln,,,,,2b
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hardy,F20115,Hardy,,T,,,,,,2b102
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hardy,F20604,Hardy,,0,Streator,,,,,of10
-minoraverages/Nemec,1914,Illinois-Missouri League,hardy,B00646,Hardy,Walter F.,1,Lincoln,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,hardy,B00646,Hardy,Walter F.,2,Streator,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,hardy,B00646,Hardy,Walter F.,T,,19140515,19140723,66,,"p,2b,3b,ss,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,hardy,B01952,Hardy,Walter F.,0,Lincoln,19140515,19140701,47,,"p,2b"
-minoraverages/Nemec,1914,Illinois-Missouri League,hardy,B01960,Hardy,Walter F.,0,Streator,19140704,19140723,19,,"2b,3b,ss,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,hardy,P10289,Hardy,,0,Lincoln,,,,1,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,henrihan,B00822,Haurihan,,0,Streator,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,hay,B00651,Hay,Harry,1,Kankakee,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,hay,B00651,Hay,Harry,2,Streator,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,hay,B00651,Hay,Harry,3,Lincoln,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,hay,B00651,Hay,Harry,T,,19140513,19140629,15,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,hay,B01971,Hay,Harry,0,Kankakee,19140513,19140618,13,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,hay,B01983,Hay,Harry,0,Streator,19140624,19140624,1,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,hay,B01994,Hay,Harry,0,Lincoln,19140629,19140629,1,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,hay,P10290,Hay,,1,Kankakee,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,hay,P10290,Hay,,2,Streator,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,hay,P10290,Hay,,3,Lincoln,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,hay,P10290,Hay,,T,,,,,14,
-minoraverages/Nemec,1914,Illinois-Missouri League,hay,P10795,Hay,,0,Kankakee,,,,12,
-minoraverages/Nemec,1914,Illinois-Missouri League,hay,P10805,Hay,,0,Streator,,,,1,
-minoraverages/Nemec,1914,Illinois-Missouri League,hay,P10818,Hay,,0,Lincoln,,,,1,
-minoraverages/Nemec,1914,Illinois-Missouri League,henrihan,B00667,Henrihan,,0,Streator,19140804,19140804,1,,ss
-minoraverages/1915Spalding,1914,Illinois-Missouri League,higgins,B00370,Higgins,,0,Streator,,,19,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,higgins,F20829,Higgins,,0,Streator,,,,,p19
-minoraverages/1915Spalding,1914,Illinois-Missouri League,higgins,P10043,Higgins,,0,Streator,,,,16,
-minoraverages/Nemec,1914,Illinois-Missouri League,higgins,B00672,Higgins,Doc,0,Streator,19140515,19140726,20,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,higgins,P10304,Higgins,,0,Streator,,,,16,
-minoraverages/Nemec,1914,Illinois-Missouri League,hindley,B00680,Hindley,,0,La Salle,19140513,19140516,4,,1b
-minoraverages/Nemec,1914,Illinois-Missouri League,hindley,M90052,Hindley,,,La Salle,,,,,
-minoraverages/emilbb,1914,Illinois-Missouri League,,M92718,Hinley,Tony,,La Salle,,,,,
-minoraverages/emilbb,1914,Illinois-Missouri League,,M92771,Hinley,William,,Kankakee,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,hollingsworth,B00695,Hollingsworth,,0,Streator,19140528,19140605,5,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,hollingsworth,P10312,Hollingsworth,,0,Streator,,,,4,
-minoraverages/Nemec,1914,Illinois-Missouri League,holly,B00705,Holly,,0,Kankakee,19140606,19140606,1,,of
-minoraverages/Nemec,1914,Illinois-Missouri League,holmes,B00718,Holmes,Walter,0,Lincoln,19140612,19140625,5,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,holmes,P10320,Holmes,,0,Lincoln,,,,4,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,holzhauser,B00229,Holzhauser,,1,Kankakee,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,holzhauser,B00229,Holzhauser,,2,Ottawa,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,holzhauser,B00229,Holzhauser,,T,,,,134,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,holzhauser,F20038,Holzhauser,,1,Kankakee,,,,,1b
-minoraverages/1915Spalding,1914,Illinois-Missouri League,holzhauser,F20038,Holzhauser,,2,Ottawa,,,,,1b
-minoraverages/1915Spalding,1914,Illinois-Missouri League,holzhauser,F20038,Holzhauser,,T,,,,,,1b93
-minoraverages/1915Spalding,1914,Illinois-Missouri League,holzhauser,F20612,Holzhauser,,0,Ottawa,,,,,of41
-minoraverages/Nemec,1914,Illinois-Missouri League,holzhauser,B00726,Holzhauser,A. J. (Dutch),1,Kankakee,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,holzhauser,B00726,Holzhauser,A. J. (Dutch),2,Ottawa,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,holzhauser,B00726,Holzhauser,A. J. (Dutch),T,,19140513,19140809,87,,"1b,2b,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,holzhauser,B02008,Holzhauser,A. J.,0,Kankakee,19140513,19140630,47,,"c,1b,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,holzhauser,B02019,Holzhauser,A. J.,0,Ottawa,19140703,19140809,40,,"1b,2b,of"
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hook,B00264,Hook,,1,Lincoln,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hook,B00264,Hook,,2,Streator,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hook,B00264,Hook,,T,,,,59,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hook,F20636,Hook,,0,Streator,,,,,of12
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hook,F20886,Hook,,1,La Salle,,,,,p
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hook,F20886,Hook,,2,Streator,,,,,p
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hook,F20886,Hook,,T,,,,,,p47
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hook,P10121,Hook,,1,Lincoln,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hook,P10121,Hook,,2,Streator,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hook,P10121,Hook,,T,,,,,27,
-minoraverages/Nemec,1914,Illinois-Missouri League,hook,B00739,Hook,Ernest Clyde,1,Lincoln,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,hook,B00739,Hook,Ernest Clyde,2,Streator,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,hook,B00739,Hook,Ernest Clyde,T,,19140515,19140809,40,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,hook,B02024,Hook,Ernest Clyde,0,Lincoln,19140515,19140630,20,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,hook,B02035,Hook,Ernest Clyde,0,Streator,19140704,19140809,20,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,hook,P10336,Hook,,1,Lincoln,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,hook,P10336,Hook,,2,Streator,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,hook,P10336,Hook,,T,,,,,25,
-minoraverages/Nemec,1914,Illinois-Missouri League,hook,P10826,Hook,,0,Lincoln,,,,15,
-minoraverages/Nemec,1914,Illinois-Missouri League,hook,P10839,Hook,,0,Streator,,,,10,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hughes,B00045,Hughes,,0,Streator,,,89,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hughes,F20014,Hughes,,0,Streator,,,,,1b89
-minoraverages/Nemec,1914,Illinois-Missouri League,hughes,B00747,Hughes,James C. (Dummy),0,Streator,19140513,19140809,89,,1b
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hurst,B00068,Hurst,,0,Ottawa,,,75,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hurst,F20594,Hurst,,0,Ottawa,,,,,of75
-minoraverages/Nemec,1914,Illinois-Missouri League,hurst,B00752,Hurst,James (Red),0,Ottawa,19140515,19140809,75,,of
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hyzer,B00037,Hyzer,,0,Kankakee,,,44,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hyzer,F20067,Hyzer,,0,Kankakee,,,,,1b10
-minoraverages/1915Spalding,1914,Illinois-Missouri League,hyzer,F20458,Hyzer,,0,Kankakee,,,,,of34
-minoraverages/Nemec,1914,Illinois-Missouri League,hyzer,B00760,Hyzer,J. B.,1,Streator,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,hyzer,B00760,Hyzer,J. B.,2,La Salle,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,hyzer,B00760,Hyzer,J. B.,3,Kankakee,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,hyzer,B00760,Hyzer,J. B.,T,,19140513,19140629,44,,"1b,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,hyzer,B02043,Hyzer,J. B.,0,Streator,19140513,19140519,7,,of
-minoraverages/Nemec,1914,Illinois-Missouri League,hyzer,B02056,Hyzer,J. B.,0,La Salle,19140521,19140618,27,,"1b,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,hyzer,B02062,Hyzer,J. B.,0,Kankakee,19140620,19140629,10,,of
-minoraverages/1915Spalding,1914,Illinois-Missouri League,jaeger,B00794,Jaeger,,0,Ottawa,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,jaeger,F20700,Jaeger,,0,Ottawa,,,,,p1
-minoraverages/1915Spalding,1914,Illinois-Missouri League,jaeger,P10215,Jaeger,,0,Ottawa,,,,1,
-minoraverages/Nemec,1914,Illinois-Missouri League,jaeger,B00771,Jaeger,Charles T.,0,Ottawa,19140711,19140711,1,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,jaeger,P10348,Jaeger,,0,Ottawa,,,,1,
-minoraverages/Nemec,1914,Illinois-Missouri League,kasper,B00783,Kasper,,0,Kankakee,19140515,19140527,3,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,kasper,P10357,Kasper,,0,Kankakee,,,,3,
-minoraverages/Nemec,1914,Illinois-Missouri League,keenan,B00794,Keenan,,0,Ottawa,19140615,19140701,3,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,keenan,P10361,Keenan,,0,Ottawa,,,,3,
-minoraverages/Nemec,1914,Illinois-Missouri League,kelly,B00806,Kelly,Bert,0,Streator,19140617,19140617,1,,of
-minoraverages/1915Spalding,1914,Illinois-Missouri League,kennedy,B00059,Kennedy,,0,Champaign,,,51,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,kennedy,F20539,Kennedy,,0,Champaign,,,,,of51
-minoraverages/Nemec,1914,Illinois-Missouri League,kennedy,B00811,Kennedy,,0,Streator,19140603,19140606,4,,2b
-minoraverages/Nemec,1914,Illinois-Missouri League,kennedy,B00822,Kennedy,C. H. (Red),1,Streator,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,kennedy,B00822,Kennedy,C. H. (Red),2,Champaign,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,kennedy,B00822,Kennedy,C. H. (Red),T,,19140624,19140809,48,,of
-minoraverages/Nemec,1914,Illinois-Missouri League,kennedy,B02070,Kennedy,C. H. (Red),0,Streator,19140624,19140722,28,,of
-minoraverages/Nemec,1914,Illinois-Missouri League,kennedy,B02081,Kennedy,C. H. (Red),0,Champaign,19140723,19140809,20,,of
-minoraverages/Nemec,1914,Illinois-Missouri League,kleine,B00833,Kleine,,0,Streator,19140618,19140618,1,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,kleine,P10373,Kleine,,0,Streator,,,,1,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,knight,B00783,Knight,,0,Ottawa,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,knight,F20699,Knight,,0,Ottawa,,,,,p1
-minoraverages/1915Spalding,1914,Illinois-Missouri League,knight,P10202,Knight,,0,Ottawa,,,,1,
-minoraverages/Nemec,1914,Illinois-Missouri League,knight,B00840,Knight,,0,Ottawa,19140703,19140703,1,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,knight,P10385,Knight,,0,Ottawa,,,,1,
-minoraverages/Nemec,1914,Illinois-Missouri League,koehler,B00854,Koehler,,0,La Salle,19140610,19140612,2,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,koehler,P10399,Koehler,,0,La Salle,,,,2,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,lanigan,B00833,Lanigan,,0,La Salle,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,lanigan,B00865,Lanigan,Sport,0,La Salle,19140724,19140724,1,,1b
-minoraverages/Nemec,1914,Illinois-Missouri League,lentz,B00879,Lentz,Lefty,0,La Salle,19140513,19140615,13,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,lentz,P10407,Lentz,,0,La Salle,,,,11,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,leydecker,B00544,Leydecker,,0,Ottawa,,,31,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,leydecker,F20482,Leydecker,,0,Ottawa,,,,,of31
-minoraverages/Nemec,1914,Illinois-Missouri League,leydecker,B00887,Leydecker,,0,Ottawa,19140528,19140717,32,,"c,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,leydecker,B00898,Long,,0,Ottawa,19140515,19140518,4,,of
-minoraverages/1915Spalding,1914,Illinois-Missouri League,lotshaw,B00232,Lotshaw,,0,Champaign,,,89,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,lotshaw,F20046,Lotshaw,,0,Champaign,,,,,1b89
-minoraverages/Nemec,1914,Illinois-Missouri League,lotshaw,B00904,Lotshaw,Andred D.,0,Champaign,19140513,19140809,89,,"c,1b,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,lucas,B00912,Lucas,,0,Ottawa,19140521,19140521,1,,c
-minoraverages/Nemec,1914,Illinois-Missouri League,ludwig,B00920,Ludwick (Ludwig),Ray,1,La Salle,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,ludwig,B00920,Ludwick (Ludwig),Ray,2,Streator,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,ludwig,B00920,Ludwick (Ludwig),Ray,T,,19140529,19140731,30,,"c,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,ludwig,B02097,Ludwick (Ludwig),Ray,0,La Salle,19140529,19140611,11,,"c,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,ludwig,B02100,Ludwick (Ludwig),Ray,0,Streator,19140710,19140731,19,,c
-minoraverages/1915Spalding,1914,Illinois-Missouri League,ludwig,B00207,Ludwig,,0,Streator,,,30,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,ludwig,F20997,Ludwig,,0,Streator,,,,,c30
-minoraverages/1915Spalding,1914,Illinois-Missouri League,luvisi,B00335,Luvisi,,0,Streator,,,71,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,luvisi,F20350,Luvisi,,0,Streator,,,,,ss10
-minoraverages/1915Spalding,1914,Illinois-Missouri League,luvisi,F20571,Luvisi,,0,Streator,,,,,of26
-minoraverages/1915Spalding,1914,Illinois-Missouri League,luvisi,F20970,Luvisi,,0,Streator,,,,,c35
-minoraverages/Nemec,1914,Illinois-Missouri League,luvisi,B00936,Luvisi,Alfred,0,Streator,19140518,19140809,71,,"c,2b,ss,of"
-minoraverages/1915Spalding,1914,Illinois-Missouri League,lyons,B00667,Lyons,,0,Ottawa,,,25,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,lyons,F20893,Lyons,,0,Ottawa,,,,,p25
-minoraverages/1915Spalding,1914,Illinois-Missouri League,lyons,P10062,Lyons,,0,Ottawa,,,,25,
-minoraverages/Nemec,1914,Illinois-Missouri League,lyons,B00948,Lyons,Geo. T (Tony),0,Ottawa,19140518,19140809,25,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,lyons,P10410,Lyons,,0,Ottawa,,,,25,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,mahoney,B00528,Mahoney,,0,Kankakee,,,26,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,mahoney,F20474,Mahoney,,0,Kankakee,,,,,of26
-minoraverages/Nemec,1914,Illinois-Missouri League,mahoney,B00957,Mahoney,,0,Kankakee,19140522,19140622,26,,of
-minoraverages/Nemec,1914,Illinois-Missouri League,mcewen,B00961,McEwen,,0,La Salle,19140603,19140603,1,,c
-minoraverages/Nemec,1914,Illinois-Missouri League,mcgill,B00973,McGill,Wee Willie,0,Champaign,19140513,19140524,2,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,mcgill,P10429,McGill,,0,Champaign,,,,2,
-minoraverages/Nemec,1914,Illinois-Missouri League,mcglynn,B00985,McGlynn,,0,Kankakee,19140606,19140621,11,,"c,1b"
-minoraverages/Nemec,1914,Illinois-Missouri League,mcgough,B00999,McGough,Ed,0,La Salle,19140514,19140520,3,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,mcgough,P10432,McGough,,0,La Salle,,,,3,
-minoraverages/Nemec,1914,Illinois-Missouri League,mcguffy,B01007,McGuffy,Oscar,0,Lincoln,19140521,19140611,6,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,mcguffy,P10441,McGuffy,,0,Lincoln,,,,6,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,mcintyre,B00771,McIntyre,,0,Ottawa,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,mcintyre,F20919,McIntyre,,0,Ottawa,,,,,p5
-minoraverages/1915Spalding,1914,Illinois-Missouri League,mcintyre,P10277,McIntyre,,1,Kankakee,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,mcintyre,P10277,McIntyre,,2,Ottawa,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,mcintyre,P10277,McIntyre,,T,,,,,5,
-minoraverages/Nemec,1914,Illinois-Missouri League,mcintyre,B01010,McIntyre,Bullet,0,Kankakee,19140619,19140628,4,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,mcintyre,B01029,McIntyre,Steve,0,Ottawa,19140808,19140808,1,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,mcintyre,P10455,McIntyre,Bullet,0,Kankakee,,,,4,
-minoraverages/Nemec,1914,Illinois-Missouri League,mcintyre,P10464,McIntyre,S.,0,Ottawa,,,,1,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,moore-lin+str,B00210,Moore,,1,Champaign,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,moore-lin+str,B00210,Moore,,2,Lincoln,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,moore-lin+str,B00210,Moore,,T,,,,107,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,moore-lin+str,F20526,Moore,,1,Champaign,,,,,of
-minoraverages/1915Spalding,1914,Illinois-Missouri League,moore-lin+str,F20526,Moore,,2,Lincoln,,,,,of
-minoraverages/1915Spalding,1914,Illinois-Missouri League,moore-lin+str,F20526,Moore,,T,,,,,,of107
-minoraverages/Nemec,1914,Illinois-Missouri League,moore-lin+str,B01032,Moore,Charles,1,Lincoln,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,moore-lin+str,B01032,Moore,Charles,2,Streator,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,moore-lin+str,B01032,Moore,Charles,T,,19140515,19140801,63,,"c,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,moore-cha,B01041,Moore,William (Bill),0,Champaign,19140802,19140809,7,,1b
-minoraverages/Nemec,1914,Illinois-Missouri League,moore-lin+str,B02113,Moore,Charles,0,Lincoln,19140515,19140701,39,,of
-minoraverages/Nemec,1914,Illinois-Missouri League,moore-lin+str,B02121,Moore,Charles,0,Streator,19140707,19140801,24,,"c,of"
-minoraverages/1915Spalding,1914,Illinois-Missouri League,morgan.j,B00278,Morgan,J.,0,Champaign,,,66,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,morgan.b,B00403,Morgan,B.,0,La Salle,,,47,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,morgan.j,F20233,Morgan,J.,0,Champaign,,,,,3b66
-minoraverages/Nemec,1914,Illinois-Missouri League,morgan.b,B01055,Morgan,Billy,1,Champaign,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,morgan.b,B01055,Morgan,Billy,2,La Salle,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,morgan.b,B01055,Morgan,Billy,T,,19140513,19140705,48,,"2b,ss,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,morgan.j,B01064,Morgan,John,0,Champaign,19140513,19140719,67,,"p,ss"
-minoraverages/Nemec,1914,Illinois-Missouri League,morgan.b,B02137,Morgan,Billy,0,Champaign,19140513,19140526,11,,"ss,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,morgan.b,B02145,Morgan,Billy,0,La Salle,19140528,19140705,37,,"2b,ss,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,morgan.j,P10478,Morgan,J.,0,Champaign,,,,1,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,morris,B00343,Morris,,0,La Salle,,,59,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,morris,F20547,Morris,,0,La Salle,,,,,of59
-minoraverages/Nemec,1914,Illinois-Missouri League,morris,B01078,Morris,Rat,1,Champaign,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,morris,B01078,Morris,Rat,2,La Salle,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,morris,B01078,Morris,Rat,T,,19140513,19140724,59,,"p,1b,3b,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,morris,B02159,Morris,Rat,0,Champaign,19140513,19140615,32,,"2b,3b,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,morris,B02168,Morris,Ray,0,La Salle,19140628,19140724,27,,"p,1b,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,morris,P10486,Morris,,0,La Salle,,,,1,
-minoraverages/Nemec,1914,Illinois-Missouri League,muneke,B01086,Muneke,,0,Ottawa,19140519,19140525,4,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,muneke,P10493,Muneke,,0,Ottawa,,,,2,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,murphy,B00623,Murphy,,0,Kankakee,,,33,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,murphy,F20560,Murphy,,0,Kankakee,,,,,of15
-minoraverages/1915Spalding,1914,Illinois-Missouri League,murphy,F20935,Murphy,,0,Kankakee,,,,,c18
-minoraverages/Nemec,1914,Illinois-Missouri League,murphy,B01093,Murphy,,0,Kankakee,19140518,19140630,33,,"c,1b,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,neithammer,B01108,Neithammer,,1,Ottawa,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,neithammer,B01108,Neithammer,,2,Kankakee,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,neithammer,B01108,Neithammer,,T,,19140515,19140527,6,,"c,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,neithammer,B02176,Neithammer,,0,Ottawa,19140515,19140519,4,,c
-minoraverages/Nemec,1914,Illinois-Missouri League,neithammer,B02184,Neithammer,,0,Kankakee,19140525,19140527,2,,of
-minoraverages/1915Spalding,1914,Illinois-Missouri League,nelson,B00695,Nelson,,1,Kankakee,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,nelson,B00695,Nelson,,2,Ottawa,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,nelson,B00695,Nelson,,T,,,,58,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,nelson,F20620,Nelson,,0,Ottawa,,,,,of14
-minoraverages/1915Spalding,1914,Illinois-Missouri League,nelson,F20878,Nelson,,1,Kankakee,,,,,p
-minoraverages/1915Spalding,1914,Illinois-Missouri League,nelson,F20878,Nelson,,2,Ottawa,,,,,p
-minoraverages/1915Spalding,1914,Illinois-Missouri League,nelson,F20878,Nelson,,T,,,,,,p44
-minoraverages/1915Spalding,1914,Illinois-Missouri League,nelson,P10056,Nelson,,1,Kankakee,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,nelson,P10056,Nelson,,2,Ottawa,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,nelson,P10056,Nelson,,T,,,,,25,
-minoraverages/Nemec,1914,Illinois-Missouri League,nelson,B01119,Nelson,Elmer (Rube),1,Kankakee,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,nelson,B01119,Nelson,Elmer (Rube),2,Ottawa,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,nelson,B01119,Nelson,Elmer (Rube),T,,19140516,19140809,39,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,nelson,B02192,Nelson,Elmer (Rube),0,Kankakee,19140516,19140628,19,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,nelson,B02202,Nelson,Elmer (Rube),0,Ottawa,19140704,19140809,20,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,nelson,P10503,Nelson,,1,Kankakee,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,nelson,P10503,Nelson,,2,Ottawa,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,nelson,P10503,Nelson,,T,,,,,26,
-minoraverages/Nemec,1914,Illinois-Missouri League,nelson,P10847,Nelson,,0,Kankakee,,,,17,
-minoraverages/Nemec,1914,Illinois-Missouri League,nelson,P10852,Nelson,,0,Ottawa,,,,9,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,netherton,B00356,Netherton,,0,Ottawa,,,58,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,netherton,F20449,Netherton,,0,Ottawa,,,,,of58
-minoraverages/Nemec,1914,Illinois-Missouri League,netherton,B01124,Netherton,William,1,Streator,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,netherton,B01124,Netherton,William,2,Ottawa,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,netherton,B01124,Netherton,William,T,,19140524,19140809,58,,"ss,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,netherton,B02215,Netherton,William,0,Streator,19140524,19140717,34,,"ss,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,netherton,B02228,Netherton,William,0,Ottawa,19140718,19140809,24,,of
-minoraverages/Nemec,1914,Illinois-Missouri League,newell,B01135,Newell,,0,La Salle,19140513,19140530,19,,of
-minoraverages/Nemec,1914,Illinois-Missouri League,newkirk,B01143,Newkirk,,0,Streator,19140517,19140522,2,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,newkirk,P10516,Newkirk,,0,Streator,,,,2,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,nolan,B00319,Nolan,,0,Lincoln,,,39,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,nolan,F20279,Nolan,,0,Lincoln,,,,,ss39
-minoraverages/Nemec,1914,Illinois-Missouri League,nolan,B01156,Nolan,John,0,Lincoln,19140515,19140624,39,,ss
-minoraverages/1915Spalding,1914,Illinois-Missouri League,oleary,B00196,O'Leary,,0,Streator,,,42,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,oleary,F20417,O'Leary,,0,Streator,,,,,of42
-minoraverages/Nemec,1914,Illinois-Missouri League,oleary,B01162,O'Leary,Ed,0,Streator,19140513,19140809,42,,"ss,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,orme,B01170,Orme,George W.,0,Champaign,19140522,19140809,74,,of
-minoraverages/1915Spalding,1914,Illinois-Missouri League,orme,B00397,Orms,,0,Champaign,,,73,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,orme,F20430,Orms,,0,Champaign,,,,,of73
-minoraverages/1915Spalding,1914,Illinois-Missouri League,paderni,B00638,Paderni,,1,Lincoln,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,paderni,B00638,Paderni,,2,La Salle,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,paderni,B00638,Paderni,,T,,,,129,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,paderni,F20211,Paderni,,1,Lincoln,,,,,3b
-minoraverages/1915Spalding,1914,Illinois-Missouri League,paderni,F20211,Paderni,,2,La Salle,,,,,3b
-minoraverages/1915Spalding,1914,Illinois-Missouri League,paderni,F20211,Paderni,,T,,,,,,3b129
-minoraverages/Nemec,1914,Illinois-Missouri League,paderni,B01181,Paderni,R. S.,1,Lincoln,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,paderni,B01181,Paderni,R. S.,2,La Salle,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,paderni,B01181,Paderni,R. S.,T,,19140515,19140809,86,,3b
-minoraverages/Nemec,1914,Illinois-Missouri League,paderni,B02231,Paderni,R. S.,0,Lincoln,19140515,19140701,47,,3b
-minoraverages/Nemec,1914,Illinois-Missouri League,paderni,B02244,Paderni,R. S.,0,La Salle,19140704,19140809,39,,3b
-minoraverages/1915Spalding,1914,Illinois-Missouri League,pearce,B00491,Pearce,,0,Kankakee,,,47,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,pearce,F20131,Pearce,,0,Kankakee,,,,,2b47
-minoraverages/Nemec,1914,Illinois-Missouri League,pearce,B01197,Pearce,,0,Kankakee,19140513,19140630,47,,2b
-minoraverages/1915Spalding,1914,Illinois-Missouri League,perry,B00609,Perry,,1,Lincoln,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,perry,B00609,Perry,,2,La Salle,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,perry,B00609,Perry,,T,,,,97,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,perry,F20518,Perry,,1,Lincoln,,,,,of
-minoraverages/1915Spalding,1914,Illinois-Missouri League,perry,F20518,Perry,,2,La Salle,,,,,of
-minoraverages/1915Spalding,1914,Illinois-Missouri League,perry,F20518,Perry,,T,,,,,,of97
-minoraverages/Nemec,1914,Illinois-Missouri League,perry,B01203,Perry,Frederick (Pete),1,Lincoln,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,perry,B01203,Perry,Frederick (Pete),2,La Salle,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,perry,B01203,Perry,Frederick (Pete),T,,19140515,19140802,50,,of
-minoraverages/Nemec,1914,Illinois-Missouri League,perry,B02253,Perry,Frederick (Pete),0,Lincoln,19140515,19140701,47,,of
-minoraverages/Nemec,1914,Illinois-Missouri League,perry,B02266,Perry,Frederick (Pete),0,La Salle,19140704,19140802,3,,of
-minoraverages/1915Spalding,1914,Illinois-Missouri League,phillips,B00427,Phillips,,0,Streator,,,42,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,phillips,F20981,Phillips,,0,Streator,,,,,c42
-minoraverages/Nemec,1914,Illinois-Missouri League,phillips,B01216,Phillips,Roy,0,Streator,19140513,19140705,43,,c
-minoraverages/Nemec,1914,Illinois-Missouri League,quirey,B01227,Quiery,J. A. ,0,Streator,19140729,19140809,13,,"2b,3b,ss,of"
-minoraverages/1915Spalding,1914,Illinois-Missouri League,quinn,B00381,Quinn,,0,Champaign,,,48,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,quinn,F20463,Quinn,,0,Champaign,,,,,of48
-minoraverages/Nemec,1914,Illinois-Missouri League,quinn,B01234,Quinn,Ray,0,Champaign,19140514,19140719,50,,"c,of"
-minoraverages/1915Spalding,1914,Illinois-Missouri League,quirey,B00084,Quirey,,0,Streator,,,13,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,rafferty,B00149,Rafferty,,1,Lincoln,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,rafferty,B00149,Rafferty,,2,La Salle,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,rafferty,B00149,Rafferty,,T,,,,127,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,rafferty,F20391,Rafferty,,0,La Salle,,,,,of81
-minoraverages/1915Spalding,1914,Illinois-Missouri League,rafferty,F20648,Rafferty,,0,La Salle,,,,,p46
-minoraverages/Nemec,1914,Illinois-Missouri League,rafferty,B01242,Raftery,Sylvester,1,Lincoln,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,rafferty,B01242,Raftery,Sylvester,2,La Salle,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,rafferty,B01242,Raftery,Sylvester,T,,19140515,19140809,82,,"ss,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,rafferty,B02277,Raftrey,Sylvester,0,Lincoln,19140515,19140701,47,,"ss,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,rafferty,B02289,Raftrey,Sylvester,0,La Salle,19140707,19140809,35,,of
-minoraverages/emilbb,1914,Illinois-Missouri League,,M92760,Raines,Teddy,,Kankakee,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,rains,B01250,Rains,Teddy,0,Kankakee,19140622,19140630,9,,c
-minoraverages/Nemec,1914,Illinois-Missouri League,rains,M90047,Rains,Teddy,,Kankakee,19140622,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,randall,B00324,Randall,,0,Kankakee,,,45,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,randall,F20759,Randall,,0,Kankakee,,,,,p45
-minoraverages/Nemec,1914,Illinois-Missouri League,randall,B01269,Randall,Harry (Eph),0,Kankakee,19140513,19140630,45,,of
-minoraverages/Nemec,1914,Illinois-Missouri League,randall,M90026,Randall,Harry (Eph),,Kankakee,,,,,
-minoraverages/emilbb,1914,Illinois-Missouri League,,M92747,Randall,Harry,,Kankakee,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,ratczyzak,B01275,Ratczyzak,Joseph,0,La Salle,19140516,19140604,7,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,ratczyzak,P10527,Ratczyzak,,0,La Salle,,,,7,
-minoraverages/Nemec,1914,Illinois-Missouri League,ray,M90094,Ray,John,,Streator,,,,,
-minoraverages/emilbb,1914,Illinois-Missouri League,,M92695,Ray,John,,Streator,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,remark,B00308,Remark,,0,Streator,,,22,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,remark,F20810,Remark,,0,Streator,,,,,p22
-minoraverages/1915Spalding,1914,Illinois-Missouri League,remark,P10159,Remark,,0,Streator,,,,18,
-minoraverages/Nemec,1914,Illinois-Missouri League,remark,B01288,Remark,F. T.,1,Champaign,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,remark,B01288,Remark,F. T.,2,Streator,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,remark,B01288,Remark,F. T.,T,,19140516,19140809,23,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,remark,B02290,Remark,F. T.,0,Champaign,19140516,19140726,19,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,remark,B02304,Remark,F. T.,0,Streator,19140801,19140809,4,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,remark,P10534,Remark,,1,Champaign,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,remark,P10534,Remark,,2,Streator,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,remark,P10534,Remark,,T,,,,,18,
-minoraverages/Nemec,1914,Illinois-Missouri League,remark,P10860,Remark,,0,Champaign,,,,15,
-minoraverages/Nemec,1914,Illinois-Missouri League,remark,P10871,Remark,,0,Streator,,,,3,
-minoraverages/Nemec,1914,Illinois-Missouri League,reuille,B01291,Reuille,,0,Streator,19140526,19140531,2,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,reuille,P10542,Reuille,,0,Streator,,,,2,
-minoraverages/Nemec,1914,Illinois-Missouri League,rodman,B01300,Rodman,,0,Ottawa,19140515,19140528,14,,"1b,2b"
-minoraverages/1915Spalding,1914,Illinois-Missouri League,rogerson,B00475,Rogerson,,0,Ottawa,,,43,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,rogerson,F20425,Rogerson,,0,Ottawa,,,,,of43
-minoraverages/Nemec,1914,Illinois-Missouri League,rogerson,B01313,Rogerson,,0,Ottawa,19140530,19140712,43,,of
-minoraverages/Nemec,1914,Illinois-Missouri League,ronan,B01321,Ronan,Thomas,0,La Salle,19140518,19140615,24,,2b
-minoraverages/1915Spalding,1914,Illinois-Missouri League,saillard,B00158,Saillard,,1,Lincoln,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,saillard,B00158,Saillard,,2,Ottawa,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,saillard,B00158,Saillard,,T,,,,128,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,saillard,F20080,Saillard,,1,Lincoln,,,,,1b
-minoraverages/1915Spalding,1914,Illinois-Missouri League,saillard,F20080,Saillard,,2,Ottawa,,,,,1b
-minoraverages/1915Spalding,1914,Illinois-Missouri League,saillard,F20080,Saillard,,T,,,,,,1b116
-minoraverages/1915Spalding,1914,Illinois-Missouri League,saillard,F20153,Saillard,,0,Ottawa,,,,,2b12
-minoraverages/Nemec,1914,Illinois-Missouri League,saillard,B01337,Salliard,Harrison H.,1,Lincoln,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,saillard,B01337,Salliard,Harrison H.,2,Ottawa,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,saillard,B01337,Salliard,Harrison H.,T,,19140515,19140809,82,,"1b,2b"
-minoraverages/Nemec,1914,Illinois-Missouri League,saillard,B02312,Salliard,Harrison H.,0,Lincoln,19140515,19140701,47,,1b
-minoraverages/Nemec,1914,Illinois-Missouri League,saillard,B02320,Salliard,Harrison H.,0,Ottawa,19140707,19140809,35,,"1b,2b"
-minoraverages/1915Spalding,1914,Illinois-Missouri League,schrenk,B00811,Schrenk,,0,Streator,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,schrenk,F20661,Schrenk,,0,Streator,,,,,p8
-minoraverages/1915Spalding,1914,Illinois-Missouri League,schrenk,P10244,Schrenk,,0,Streator,,,,8,
-minoraverages/Nemec,1914,Illinois-Missouri League,schrenk,B01345,Schrenk,Walter,0,Streator,19140608,19140704,9,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,schrenk,P10550,Schrenk,,0,Streator,,,,8,
-minoraverages/Nemec,1914,Illinois-Missouri League,sears,B01359,Sears,John William,0,Streator,19140627,19140807,43,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,sears,P10569,Sears,,0,Streator,,,,3,
-minoraverages/Nemec,1914,Illinois-Missouri League,secker,B01368,Secker,,0,La Salle,19140514,19140514,1,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,secker,P10575,Secker,,0,La Salle,,,,1,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,seebach,B00101,Seebach,,0,Streator,,,62,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,seebach,F20128,Seebach,,0,Streator,,,,,2b62
-minoraverages/Nemec,1914,Illinois-Missouri League,seebach,B01376,Seebach,Heine,0,Streator,19140607,19140809,62,,"2b,ss,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,seebach,M90107,Seebach,Heine,,Streator,19140620,,,,
-minoraverages/emilbb,1914,Illinois-Missouri League,,M92705,Seebach,Heine,,Streator,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,sears,B00013,Seers,,0,Streator,,,43,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,sears,F20505,Seers,,0,Streator,,,,,of43
-minoraverages/1915Spalding,1914,Illinois-Missouri League,sears,P10184,Seers,,0,Streator,,,,3,
-minoraverages/Nemec,1914,Illinois-Missouri League,shannabrook,B01384,Shannabrook,,0,Kankakee,19140513,19140519,7,,of
-minoraverages/Nemec,1914,Illinois-Missouri League,simpson,B01392,Simpson,,0,La Salle,19140518,19140519,2,,of
-minoraverages/1915Spalding,1914,Illinois-Missouri League,smith,B00752,Smith,,0,Champaign,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,smith,B01402,Smith,,0,Champaign,19140722,19140805,10,,"p,2b,ss,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,smith,P10588,Smith,,0,Champaign,,,,1,
-minoraverages/Nemec,1914,Illinois-Missouri League,sommers,B01415,Sommers,Charles,0,La Salle,19140521,19140722,22,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,sommers,P10591,Sommers,,0,La Salle,,,,21,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,sommers,B00416,Somners,,0,La Salle,,,22,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,sommers,F20841,Somners,,0,La Salle,,,,,p22
-minoraverages/1915Spalding,1914,Illinois-Missouri League,sommers,P10176,Somners,,0,La Salle,,,,21,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,spicer,B00502,Spicer,,0,La Salle,,,80,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,spicer,F20342,Spicer,,0,La Salle,,,,,ss15
-minoraverages/1915Spalding,1914,Illinois-Missouri League,spicer,F20401,Spicer,,0,La Salle,,,,,of15
-minoraverages/Nemec,1914,Illinois-Missouri League,spicer,B01428,Spicer,Bert S. (Rabbit),0,La Salle,19140518,19140809,82,,"2b,ss,of"
-minoraverages/1915Spalding,1914,Illinois-Missouri League,stadfeldt,B00865,Stadfeldt,,0,La Salle,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,stadfeldt,B01431,Stadfeldt,Nicholas,0,La Salle,19140627,19140703,6,,of
-minoraverages/Nemec,1914,Illinois-Missouri League,stanley,B01444,Stanley,,0,Kankakee,19140602,19140603,2,,1b
-minoraverages/1915Spalding,1914,Illinois-Missouri League,stevenson,B00163,Stevenson,,0,La Salle,,,78,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,stevenson,F20287,Stevenson,,0,La Salle,,,,,ss68
-minoraverages/1915Spalding,1914,Illinois-Missouri League,stevenson,F21013,Stevenson,,0,La Salle,,,,,c10
-minoraverages/Nemec,1914,Illinois-Missouri League,stevenson,B01453,Stevenson,,0,Kankakee,19140519,19140604,12,,"c,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,stevenson,B01466,Stevenson,Robert,0,La Salle,19140602,19140809,67,,"2b,ss"
-minoraverages/1915Spalding,1914,Illinois-Missouri League,stewart,B00553,Stewart,,1,Champaign,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,stewart,B00553,Stewart,,2,Streator,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,stewart,B00553,Stewart,,T,,,,55,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,stewart,F20316,Stewart,,0,Champaign,,,,,ss54
-minoraverages/Nemec,1914,Illinois-Missouri League,stewart,B01477,Stewart,,0,Streator,19140804,19140804,1,,c
-minoraverages/Nemec,1914,Illinois-Missouri League,stewart,B01489,Stewart,Ed,0,Champaign,19140617,19140809,56,,"2b,ss"
-minoraverages/Nemec,1914,Illinois-Missouri League,sullivan,B01490,Sullivan,,0,Kankakee,19140610,19140612,1,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,sullivan,P10606,Sullivan,,0,Kankakee,,,,1,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,suttles,B00589,Suttles,,0,Streator,,,51,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,suttles,F20240,Suttles,,0,Streator,,,,,3b51
-minoraverages/Nemec,1914,Illinois-Missouri League,suttles,B01509,Suttles,Claude Tom,0,Streator,19140621,19140809,51,,"2b,3b,ss,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,sweeney,B01514,Sweeney,Neal,0,Lincoln,19140627,19140701,6,,"2b,ss"
-minoraverages/1915Spalding,1914,Illinois-Missouri League,tadlock,B00076,Tadlock,,0,Champaign,,,25,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,tadlock,F20864,Tadlock,,0,Champaign,,,,,p25
-minoraverages/1915Spalding,1914,Illinois-Missouri League,tadlock,P10035,Tadlock,,0,Champaign,,,,25,
-minoraverages/Nemec,1914,Illinois-Missouri League,tadlock,B01523,Tadlock,Everett (Ziggy),0,Champaign,19140513,19140801,26,,"p,2b"
-minoraverages/Nemec,1914,Illinois-Missouri League,tadlock,P10611,Tadlock,,0,Champaign,,,,26,
-minoraverages/Nemec,1914,Illinois-Missouri League,taylor,B01538,Taylor,,0,La Salle,19140618,19140618,1,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,taylor,P10622,Taylor,,0,La Salle,,,,1,
-minoraverages/Nemec,1914,Illinois-Missouri League,teaney,B01546,Teaney,Emile,1,Ottawa,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,teaney,B01546,Teaney,Emile,2,Kankakee,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,teaney,B01546,Teaney,Emile,T,,19140530,19140610,6,,"2b,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,teaney,B02336,Teaney,Emile,0,Ottawa,19140530,19140530,1,,2b
-minoraverages/Nemec,1914,Illinois-Missouri League,teaney,B02348,Teaney,Emile,0,Kankakee,19140606,19140610,5,,of
-minoraverages/1915Spalding,1914,Illinois-Missouri League,ukey,B00125,Ukey,,0,Streator,,,59,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,ukey,F20298,Ukey,,0,Streator,,,,,ss26
-minoraverages/1915Spalding,1914,Illinois-Missouri League,ukey,F20583,Ukey,,0,Streator,,,,,of33
-minoraverages/1915Spalding,1914,Illinois-Missouri League,ukey,P10266,Ukey,,0,Streator,,,,8,
-minoraverages/Nemec,1914,Illinois-Missouri League,ukey,B01551,Ukey (Ukuavge),W.,0,Streator,19140530,19140809,59,,"p,1b,ss,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,ukey,P10633,Ukey (Ukuavge),,0,Streator,,,,8,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,underhill,B00806,Underhill,,0,Ottawa,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,underhill,F20673,Underhill,,0,Ottawa,,,,,p3
-minoraverages/1915Spalding,1914,Illinois-Missouri League,underhill,P10253,Underhill,,0,Ottawa,,,,3,
-minoraverages/Nemec,1914,Illinois-Missouri League,underhill,B01567,Underhill,Lester,0,Ottawa,19140721,19140729,3,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,underhill,P10640,Underhill,,0,Ottawa,,,,3,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,whaley,B00718,Wahley,,0,Streator,,,19,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,walker,B00726,Walker,,0,La Salle,,,24,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,walker,F20792,Walker,,0,La Salle,,,,,p24
-minoraverages/1915Spalding,1914,Illinois-Missouri League,walker,P10168,Walker,,0,La Salle,,,,22,
-minoraverages/Nemec,1914,Illinois-Missouri League,walker,B01572,Walker,Theodore (Pete),1,Ottawa,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,walker,B01572,Walker,Theodore (Pete),2,La Salle,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,walker,B01572,Walker,Theodore (Pete),T,,19140520,19140807,24,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,walker,B02357,Walker,Theodore (Pete),0,Ottawa,19140520,19140608,8,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,walker,B02361,Walker,Theodore (Pete),0,La Salle,19140612,19140807,16,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,walker,P10654,Walker,,1,Ottawa,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,walker,P10654,Walker,,2,La Salle,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,walker,P10654,Walker,,T,,,,,21,
-minoraverages/Nemec,1914,Illinois-Missouri League,walker,P10883,Walker,,0,Ottawa,,,,7,
-minoraverages/Nemec,1914,Illinois-Missouri League,walker,P10894,Walker,,0,La Salle,,,,14,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,walsh,B00672,Walsh,,1,Lincoln,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,walsh,B00672,Walsh,,2,La Salle,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,walsh,B00672,Walsh,,T,,,,34,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,walsh,F20745,Walsh,,1,Lincoln,,,,,p
-minoraverages/1915Spalding,1914,Illinois-Missouri League,walsh,F20745,Walsh,,2,La Salle,,,,,p
-minoraverages/1915Spalding,1914,Illinois-Missouri League,walsh,F20745,Walsh,,T,,,,,,p34
-minoraverages/1915Spalding,1914,Illinois-Missouri League,walsh,P10145,Walsh,,1,Lincoln,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,walsh,P10145,Walsh,,2,La Salle,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,walsh,P10145,Walsh,,T,,,,,22,
-minoraverages/Nemec,1914,Illinois-Missouri League,walsh,B01580,Walsh,Joseph (Joey),1,Lincoln,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,walsh,B01580,Walsh,Joseph (Joey),2,La Salle,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,walsh,B01580,Walsh,Joseph (Joey),T,,19140517,19140808,23,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,walsh,B02373,Walsh,Joseph (Joey),0,Lincoln,19140517,19140627,11,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,walsh,B02385,Walsh,Joseph (Joey),0,La Salle,19140704,19140808,12,,"p,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,walsh,P10665,Walsh,,1,Lincoln,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,walsh,P10665,Walsh,,2,La Salle,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,walsh,P10665,Walsh,,T,,,,,21,
-minoraverages/Nemec,1914,Illinois-Missouri League,walsh,P10901,Walsh,,0,Lincoln,,,,10,
-minoraverages/Nemec,1914,Illinois-Missouri League,walsh,P10917,Walsh,,0,La Salle,,,,11,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,walters,B00174,Walters,,0,La Salle,,,48,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,walters,F20051,Walters,,0,La Salle,,,,,1b48
-minoraverages/1915Spalding,1914,Illinois-Missouri League,walters,P10304,Walters,,0,La Salle,,,,2,
-minoraverages/Nemec,1914,Illinois-Missouri League,walters,B01595,Walters,Roxy,0,La Salle,19140526,19140722,55,,"p,1b"
-minoraverages/Nemec,1914,Illinois-Missouri League,walters,P10679,Walters,,0,La Salle,,,,6,
-minoraverages/Nemec,1914,Illinois-Missouri League,weberus,B01601,Weberus,,0,La Salle,19140513,19140525,13,,"2b,3b,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,wenz,B01617,Wenz,,0,Streator,19140513,19140628,44,,"2b,3b"
-minoraverages/1915Spalding,1914,Illinois-Missouri League,whaley,F20908,Whaley,,0,Streator,,,,,p19
-minoraverages/1915Spalding,1914,Illinois-Missouri League,whaley,P10081,Whaley,,0,Streator,,,,15,
-minoraverages/Nemec,1914,Illinois-Missouri League,whaley,B01625,Whaley,William,0,Streator,19140623,19140809,22,,"p,2b,ss,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,whaley,P10687,Whaley,,0,Streator,,,,15,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,whitehouse,B00747,Whitehouse,,0,Champaign,,,28,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,whitehouse,F20855,Whitehouse,,0,Champaign,,,,,p28
-minoraverages/1915Spalding,1914,Illinois-Missouri League,whitehouse,P10070,Whitehouse,,0,Champaign,,,,27,
-minoraverages/Nemec,1914,Illinois-Missouri League,whitehouse,B01630,Whitehouse,Charles E.,0,Champaign,19140514,19140809,28,,"p,3b,ss"
-minoraverages/Nemec,1914,Illinois-Missouri League,whitehouse,P10698,Whitehouse,,0,Champaign,,,,27,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,wilmeroth,B00854,Wilmeroth,,0,La Salle,,,,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,wilmeroth,F20713,Wilmeroth,,0,La Salle,,,,,p1
-minoraverages/1915Spalding,1914,Illinois-Missouri League,wilmeroth,P10290,Wilmeroth,,0,La Salle,,,,1,
-minoraverages/Nemec,1914,Illinois-Missouri League,wilmeroth,B01649,Wilmeroth,Eddie,0,La Salle,19140809,19140809,1,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,wilmeroth,P10709,Wilmeroth,,0,La Salle,,,,1,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,wilson-cha,B00362,Wilson,,0,Champaign,,,81,,
-minoraverages/1915Spalding,1914,Illinois-Missouri League,wilson-cha,F20166,Wilson,,0,Champaign,,,,,2b73
-minoraverages/Nemec,1914,Illinois-Missouri League,wilson-kan,B01658,Wilson,,0,Kankakee,19140524,19140524,1,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,wilson-cha,B01663,Wilson,Fred (Blackie),0,Champaign,19140513,19140809,82,,"2b,of"
-minoraverages/Nemec,1914,Illinois-Missouri League,wilson-cha,M90018,Wilson,Fred (Blackie),,Champaign,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,wilson-kan,P10714,Wilson,,0,Kankakee,,,,1,
-minoraverages/emilbb,1914,Illinois-Missouri League,,M92672,Wilson,"Fred ""Blackie""",,Champaign-Urbana,,,,,
-minoraverages/Nemec,1914,Illinois-Missouri League,wise-ott,B01674,Wise,,0,Ottawa,19140516,19140516,1,,p
-minoraverages/Nemec,1914,Illinois-Missouri League,wise-las,B01682,Wise,,0,La Salle,19140513,19140514,2,,2b
-minoraverages/Nemec,1914,Illinois-Missouri League,wise-ott,P10723,Wise,,0,Ottawa,,,,1,
-minoraverages/Nemec,1914,Illinois-Missouri League,zell,B01696,Zell (Sell),,0,Kankakee,19140513,19140515,3,,c
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/1915Spalding,1914,Illinois-Missouri League,anderson-cha,B00255,Anderson,,0,Champaign,,B88
+minoraverages/1915Spalding,1914,Illinois-Missouri League,anderson-cha,F20924,Anderson,,0,Champaign,,c88
+minoraverages/Nemec,1914,Illinois-Missouri League,anderson-str+kan,B00013,Anderson,Andy,1,Streator,,
+minoraverages/Nemec,1914,Illinois-Missouri League,anderson-str+kan,B00013,Anderson,Andy,2,Kankakee,,
+minoraverages/Nemec,1914,Illinois-Missouri League,anderson-str+kan,B00013,Anderson,Andy,T,,19140513/19140606,"B8p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,anderson-cha,B00021,Anderson,Robert,0,Champaign,19140513/19140809,B89c
+minoraverages/Nemec,1914,Illinois-Missouri League,anderson-str+kan,B01711,Anderson,Andy,0,Streator,19140513/19140523,"B5p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,anderson-str+kan,B01722,Anderson,Andy,0,Kankakee,19140528/19140606,B3p
+minoraverages/Nemec,1914,Illinois-Missouri League,anderson-str+kan,P10019,Anderson,,1,Streator,,
+minoraverages/Nemec,1914,Illinois-Missouri League,anderson-str+kan,P10019,Anderson,,2,Kankakee,,
+minoraverages/Nemec,1914,Illinois-Missouri League,anderson-str+kan,P10019,Anderson,,T,,,P5
+minoraverages/Nemec,1914,Illinois-Missouri League,anderson-str+kan,P10738,Anderson,,0,Streator,,P2
+minoraverages/Nemec,1914,Illinois-Missouri League,anderson-str+kan,P10746,Anderson,,0,Kankakee,,P3
+minoraverages/1915Spalding,1914,Illinois-Missouri League,baichley,B00705,Baichley,,0,Champaign,,B22
+minoraverages/1915Spalding,1914,Illinois-Missouri League,baichley,F20737,Baichley,,0,Champaign,,p22
+minoraverages/1915Spalding,1914,Illinois-Missouri League,baichley,P10019,Baichley,,0,Champaign,,P20
+minoraverages/Nemec,1914,Illinois-Missouri League,baichley,B00037,Baichley,Grover C.,0,Champaign,19140519/19140719,"B22p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,baichley,P10024,Baichley,,0,Champaign,,P20
+minoraverages/Nemec,1914,Illinois-Missouri League,barton,B00045,Barton,,0,La Salle,19140514/19140514,B1of
+minoraverages/1915Spalding,1914,Illinois-Missouri League,baxter,B00182,Baxter,,0,La Salle,,B17
+minoraverages/1915Spalding,1914,Illinois-Missouri League,baxter,F20023,Baxter,,0,La Salle,,1b17
+minoraverages/1915Spalding,1914,Illinois-Missouri League,baxter,P10192,Baxter,,0,La Salle,,P1
+minoraverages/Nemec,1914,Illinois-Missouri League,baxter,B00059,Baxter,Bunk,0,La Salle,19140726/19140809,"B17p,1b"
+minoraverages/Nemec,1914,Illinois-Missouri League,baxter,P10035,Baxter,,0,La Salle,,P3
+minoraverages/Nemec,1914,Illinois-Missouri League,beeson,B00068,Beeson,,0,Kankakee,19140630/19140630,B11b
+minoraverages/Nemec,1914,Illinois-Missouri League,bell,B00076,Bell,,0,Streator,19140621/19140621,B1p
+minoraverages/Nemec,1914,Illinois-Missouri League,bell,P10043,Bell,,0,Streator,,P1
+minoraverages/Nemec,1914,Illinois-Missouri League,bellew,B00084,Bellew,,0,La Salle,19140515/19140516,B2ss
+minoraverages/1915Spalding,1914,Illinois-Missouri League,bierman,B00739,Bierman,,1,Lincoln,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,bierman,B00739,Bierman,,2,La Salle,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,bierman,B00739,Bierman,,T,,,B39
+minoraverages/1915Spalding,1914,Illinois-Missouri League,bierman,F20768,Bierman,,1,Lincoln,,p
+minoraverages/1915Spalding,1914,Illinois-Missouri League,bierman,F20768,Bierman,,2,La Salle,,p
+minoraverages/1915Spalding,1914,Illinois-Missouri League,bierman,F20768,Bierman,,T,,,p39
+minoraverages/1915Spalding,1914,Illinois-Missouri League,bierman,P10113,Bierman,,0,La Salle,,P25
+minoraverages/Nemec,1914,Illinois-Missouri League,bierman,B00092,Bierman,Frank,1,Lincoln,,
+minoraverages/Nemec,1914,Illinois-Missouri League,bierman,B00092,Bierman,Frank,2,La Salle,,
+minoraverages/Nemec,1914,Illinois-Missouri League,bierman,B00092,Bierman,Frank,T,,19140516/19140814,B24p
+minoraverages/Nemec,1914,Illinois-Missouri League,bierman,B01733,Bierman,Frank,0,Lincoln,19140516/19140630,B14p
+minoraverages/Nemec,1914,Illinois-Missouri League,bierman,B01740,Bierman,Frank,0,La Salle,19140704/19140804,B10p
+minoraverages/Nemec,1914,Illinois-Missouri League,bierman,P10056,Bierman,,1,Lincoln,,
+minoraverages/Nemec,1914,Illinois-Missouri League,bierman,P10056,Bierman,,2,La Salle,,
+minoraverages/Nemec,1914,Illinois-Missouri League,bierman,P10056,Bierman,,T,,,P24
+minoraverages/Nemec,1914,Illinois-Missouri League,bierman,P10751,Bierman,,0,Lincoln,,P14
+minoraverages/Nemec,1914,Illinois-Missouri League,bierman,P10767,Bierman,,0,La Salle,,P10
+minoraverages/Nemec,1914,Illinois-Missouri League,billings,B00101,Billings,Charles,0,La Salle,19140513/19140525,"B8c,of"
+minoraverages/1915Spalding,1914,Illinois-Missouri League,broadwell,B00680,Broadwell,,0,Streator,,B40
+minoraverages/1915Spalding,1914,Illinois-Missouri League,broadwell,F20388,Broadwell,,0,Streator,,of12
+minoraverages/1915Spalding,1914,Illinois-Missouri League,broadwell,F20832,Broadwell,,0,Streator,,p28
+minoraverages/1915Spalding,1914,Illinois-Missouri League,broadwell,P10097,Broadwell,,0,Streator,,P28
+minoraverages/Nemec,1914,Illinois-Missouri League,broadwell,B00117,Broadwell,Eugene T.,0,Streator,19140504/19140809,"B40p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,broadwell,P10062,Broadwell,,0,Streator,,P28
+minoraverages/Nemec,1914,Illinois-Missouri League,brock,B00125,Brock,,0,Streator,19140513/19140522,"B9p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,brock,P10070,Brock,,0,Streator,,P1
+minoraverages/Nemec,1914,Illinois-Missouri League,brown,B00130,Brown,,0,Kankakee,19140614/19140629,"B10p,1b"
+minoraverages/Nemec,1914,Illinois-Missouri League,brown,P10081,Brown,,0,Kankakee,,P7
+minoraverages/Nemec,1914,Illinois-Missouri League,brownfield,B00149,Brownfield,Roy,0,Streator,19140518/19140614,"B9p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,brownfield,P10097,Brownfield,,0,Streator,,P7
+minoraverages/1915Spalding,1914,Illinois-Missouri League,buerglin,B00021,Buerglin,,0,Kankakee,,B10
+minoraverages/1915Spalding,1914,Illinois-Missouri League,buerglin,F20657,Buerglin,,0,Kankakee,,p10
+minoraverages/Nemec,1914,Illinois-Missouri League,buerglin,B00158,Buerglin,,0,Kankakee,19140513/19140522,B10of
+minoraverages/Nemec,1914,Illinois-Missouri League,byrd,B00163,Byrd,,0,La Salle,19140515/19140520,B4p
+minoraverages/Nemec,1914,Illinois-Missouri League,byrd,P10100,Byrd,,0,La Salle,,P4
+minoraverages/Nemec,1914,Illinois-Missouri League,carlson,B00174,Carlson,,0,Kankakee,19140520/19140523,B2c
+minoraverages/1915Spalding,1914,Illinois-Missouri League,carrow,B00434,Carrow,,0,Ottawa,,B34
+minoraverages/1915Spalding,1914,Illinois-Missouri League,carrow,F20807,Carrow,,0,Ottawa,,p34
+minoraverages/1915Spalding,1914,Illinois-Missouri League,carrow,P10100,Carrow,,0,Ottawa,,P28
+minoraverages/Nemec,1914,Illinois-Missouri League,carrow,B00182,Carrow,Fred,0,Ottawa,19140517/19140809,"B34p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,carrow,P10113,Carrow,,0,Ottawa,,P28
+minoraverages/Nemec,1914,Illinois-Missouri League,cassidy,B00196,Cassidy,,0,La Salle,19140513/19140523,"B91b,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,clark,B00207,Clark,Samuel,0,La Salle,19140623/19140625,B3of
+minoraverages/Nemec,1914,Illinois-Missouri League,coffey,B00210,Coffey,,0,La Salle,19140621/19140701,B4p
+minoraverages/Nemec,1914,Illinois-Missouri League,coffey,P10121,Coffey,,0,La Salle,,P4
+minoraverages/Nemec,1914,Illinois-Missouri League,collard,B00229,Collard,,0,La Salle,19140513/19140530,"B9p,3b,ss"
+minoraverages/Nemec,1914,Illinois-Missouri League,collard,P10137,Collard,,0,La Salle,,P4
+minoraverages/Nemec,1914,Illinois-Missouri League,conley,B00232,Conley,Gene,0,Kankakee,19140526/19140621,B8of
+minoraverages/Nemec,1914,Illinois-Missouri League,conley,M90039,Conley,Gene,,Kankakee,19140525/,
+minoraverages/emilbb,1914,Illinois-Missouri League,,M92752,Connelly,Gene,,Kankakee,,
+minoraverages/Nemec,1914,Illinois-Missouri League,cooley,B00241,Cooley,,0,Streator,19140513/19140519,B2p
+minoraverages/Nemec,1914,Illinois-Missouri League,cooley,P10145,Cooley,,0,Streator,,P2
+minoraverages/Nemec,1914,Illinois-Missouri League,cornell-ls,B00255,Cornell,,0,La Salle,19140517/19140517,B12b
+minoraverages/Nemec,1914,Illinois-Missouri League,cornell-kan,B00264,Cornell,,0,Kankakee,19140520/19140604,B5of
+minoraverages/1915Spalding,1914,Illinois-Missouri League,cramer,B00286,Cramer,,0,Kankakee,,B47
+minoraverages/1915Spalding,1914,Illinois-Missouri League,cramer,F20265,Cramer,,0,Kankakee,,3b47
+minoraverages/Nemec,1914,Illinois-Missouri League,cramer,B00278,Cramer,Lloyd,0,Kankakee,19140513/19140630,B473b
+minoraverages/1915Spalding,1914,Illinois-Missouri League,crangle,B00450,Crangle,,0,Ottawa,,B46
+minoraverages/1915Spalding,1914,Illinois-Missouri League,crangle,F20552,Crangle,,0,Ottawa,,of46
+minoraverages/Nemec,1914,Illinois-Missouri League,crangle,B00286,Crangle,James P.,0,Ottawa,19140515/19140707,"B461b,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,creed,B00293,Creed,,0,Kankakee,19140513/19140513,B11b
+minoraverages/1915Spalding,1914,Illinois-Missouri League,cronin,B00614,Cronin,,0,La Salle,,B19
+minoraverages/1915Spalding,1914,Illinois-Missouri League,cronin,F20956,Cronin,,0,La Salle,,c19
+minoraverages/Nemec,1914,Illinois-Missouri League,cronin,B00308,Cronin,,0,La Salle,19140611/19140713,B19c
+minoraverages/1915Spalding,1914,Illinois-Missouri League,culver,B00760,Culver,,0,Champaign,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,culver,F20784,Culver,,0,Champaign,,p5
+minoraverages/1915Spalding,1914,Illinois-Missouri League,culver,P10228,Culver,,0,Champaign,,P5
+minoraverages/Nemec,1914,Illinois-Missouri League,culver,B00319,Culver,A. M.,0,Champaign,19140727/19140809,B5p
+minoraverages/Nemec,1914,Illinois-Missouri League,culver,P10159,Culver,,0,Champaign,,P5
+minoraverages/1915Spalding,1914,Illinois-Missouri League,curran,B00840,Curran,,0,La Salle,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,curran,F20685,Curran,,0,La Salle,,p3
+minoraverages/1915Spalding,1914,Illinois-Missouri League,curran,P10231,Curran,,0,La Salle,,P2
+minoraverages/Nemec,1914,Illinois-Missouri League,curran,B00324,Curran,Bernard,0,La Salle,19140731/19140809,"B4p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,curran,P10168,Curran,,0,La Salle,,P3
+minoraverages/Nemec,1914,Illinois-Missouri League,dalstrom,B00335,Dalstrom,,0,La Salle,19140520/19140526,"B7ss,of"
+minoraverages/1915Spalding,1914,Illinois-Missouri League,dark,B00577,Dark,,0,Ottawa,,B17
+minoraverages/1915Spalding,1914,Illinois-Missouri League,dark,F20776,Dark,,0,Ottawa,,p17
+minoraverages/1915Spalding,1914,Illinois-Missouri League,dark,P10137,Dark,,0,Ottawa,,P15
+minoraverages/Nemec,1914,Illinois-Missouri League,dark,B00343,Dark,Ross,0,Ottawa,19140515/19140710,"B18p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,dark,P10176,Dark,,0,Ottawa,,P15
+minoraverages/1915Spalding,1914,Illinois-Missouri League,dowd,B00442,Dawd,,0,Ottawa,,B51
+minoraverages/1915Spalding,1914,Illinois-Missouri League,dowd,F20072,Dawd,,0,Ottawa,,1b31
+minoraverages/1915Spalding,1914,Illinois-Missouri League,dowd,F20102,Dawd,,0,Ottawa,,2b20
+minoraverages/1915Spalding,1914,Illinois-Missouri League,diehl,B00515,Deihl,,0,Champaign,,B80
+minoraverages/1915Spalding,1914,Illinois-Missouri League,diehl,F20496,Deihl,,0,Champaign,,of80
+minoraverages/1915Spalding,1914,Illinois-Missouri League,diehl,P10289,Deihl,,0,Champaign,,P1
+minoraverages/Nemec,1914,Illinois-Missouri League,demaree,B00356,Demaree,,1,Ottawa,,
+minoraverages/Nemec,1914,Illinois-Missouri League,demaree,B00356,Demaree,,2,La Salle,,
+minoraverages/Nemec,1914,Illinois-Missouri League,demaree,B00356,Demaree,,T,,19140519/19140606,B17of
+minoraverages/Nemec,1914,Illinois-Missouri League,demaree,B01754,Demaree,,0,Ottawa,19140519/19140602,B14of
+minoraverages/Nemec,1914,Illinois-Missouri League,demaree,B01765,Demaree,,0,La Salle,19140603/19140606,B3of
+minoraverages/1915Spalding,1914,Illinois-Missouri League,desmond,B00092,Desmond,,0,Ottawa,,B73
+minoraverages/1915Spalding,1914,Illinois-Missouri League,desmond,F20254,Desmond,,0,Ottawa,,3b46
+minoraverages/1915Spalding,1914,Illinois-Missouri League,desmond,F20327,Desmond,,0,Ottawa,,ss27
+minoraverages/Nemec,1914,Illinois-Missouri League,desmond,B00362,Desmond,S.,0,Ottawa,19140515/19140729,"B733b,ss"
+minoraverages/Nemec,1914,Illinois-Missouri League,diehl,B00370,Diehl,Walter (Spider),0,Champaign,19140513/19140804,"B81p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,diehl,P10184,Diehl,,0,Champaign,,P1
+minoraverages/Nemec,1914,Illinois-Missouri League,diemer,B01706,Diemer,,0,Lincoln,19140523/19140523,B1c
+minoraverages/Nemec,1914,Illinois-Missouri League,dolan,B00381,Dolan,,0,Kankakee,19140604/19140604,B1of
+minoraverages/Nemec,1914,Illinois-Missouri League,doud,B00397,Doud,,0,Kankakee,19140520/19140520,B1p
+minoraverages/Nemec,1914,Illinois-Missouri League,doud,P10192,Doud,,0,Kankakee,,P1
+minoraverages/Nemec,1914,Illinois-Missouri League,dowd,B00403,Dowd,Alfred,0,Ottawa,19140515/19140705,"B511b,2b,of"
+minoraverages/1915Spalding,1914,Illinois-Missouri League,edwards,B00117,Edwards,,1,Streator,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,edwards,B00117,Edwards,,2,Kankakee,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,edwards,B00117,Edwards,,T,,,B99
+minoraverages/1915Spalding,1914,Illinois-Missouri League,edwards,F20334,Edwards,,1,Streator,,ss
+minoraverages/1915Spalding,1914,Illinois-Missouri League,edwards,F20334,Edwards,,2,Kankakee,,ss
+minoraverages/1915Spalding,1914,Illinois-Missouri League,edwards,F20334,Edwards,,T,,,ss99
+minoraverages/Nemec,1914,Illinois-Missouri League,edwards,B00416,Edwards,Chief,1,Kankakee,,
+minoraverages/Nemec,1914,Illinois-Missouri League,edwards,B00416,Edwards,Chief,2,Streator,,
+minoraverages/Nemec,1914,Illinois-Missouri League,edwards,B00416,Edwards,Chief,T,,19140513/19140705,B52ss
+minoraverages/Nemec,1914,Illinois-Missouri League,edwards,B01779,Edwards,Chief,0,Kankakee,19140513/19140630,B47ss
+minoraverages/Nemec,1914,Illinois-Missouri League,edwards,B01787,Edwards,Chief,0,Streator,19140703/19140705,B5ss
+minoraverages/1915Spalding,1914,Illinois-Missouri League,ehrgott,B00241,Ehrgott,,1,Lincoln,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,ehrgott,B00241,Ehrgott,,2,Ottawa,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,ehrgott,B00241,Ehrgott,,T,,,B114
+minoraverages/1915Spalding,1914,Illinois-Missouri League,ehrgott,F20943,Ehrgott,,1,Lincoln,,c
+minoraverages/1915Spalding,1914,Illinois-Missouri League,ehrgott,F20943,Ehrgott,,2,Ottawa,,c
+minoraverages/1915Spalding,1914,Illinois-Missouri League,ehrgott,F20943,Ehrgott,,T,,,c114
+minoraverages/Nemec,1914,Illinois-Missouri League,ehrgott,B00427,Ehrgott,Louis E.,1,Lincoln,,
+minoraverages/Nemec,1914,Illinois-Missouri League,ehrgott,B00427,Ehrgott,Louis E.,2,Ottawa,,
+minoraverages/Nemec,1914,Illinois-Missouri League,ehrgott,B00427,Ehrgott,Louis E.,T,,19140515/19140809,"B66c,1b,ss,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,ehrgott,B01798,Ehrgott,Louis E.,0,Lincoln,19140515/19140701,"B47c,1b,ss,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,ehrgott,B01804,Ehrgott,Louis E.,0,Ottawa,19140724/19140809,B19c
+minoraverages/Nemec,1914,Illinois-Missouri League,ehrgott,M90071,Ehrgott,Louis E.,,Lincoln,,
+minoraverages/emilbb,1914,Illinois-Missouri League,,M92739,Ehrgott,Louis,,Lincoln,,
+minoraverages/Nemec,1914,Illinois-Missouri League,eith,B00434,Eith,,1,Ottawa,,
+minoraverages/Nemec,1914,Illinois-Missouri League,eith,B00434,Eith,,2,Kankakee,,
+minoraverages/Nemec,1914,Illinois-Missouri League,eith,B00434,Eith,,3,La Salle,,
+minoraverages/Nemec,1914,Illinois-Missouri League,eith,B00434,Eith,,T,,19140516/19140625,"B20c,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,eith,B00442,Eith,Lewis,0,Streator,19140513/19140622,"B22ss,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,eith,B01812,Eith,,0,Ottawa,19140516/19140527,"B10c,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,eith,B01820,Eith,,0,Kankakee,19140607/19140607,B1of
+minoraverages/Nemec,1914,Illinois-Missouri League,eith,B01836,Eith,,0,La Salle,19140612/19140625,B9of
+minoraverages/1915Spalding,1914,Illinois-Missouri League,fisher,B00651,Fisher,,0,La Salle,,B14
+minoraverages/1915Spalding,1914,Illinois-Missouri League,fisher,F20222,Fisher,,0,La Salle,,3b14
+minoraverages/Nemec,1914,Illinois-Missouri League,fisher,B00450,Fisher,,0,La Salle,19160616/19140703,B153b
+minoraverages/1915Spalding,1914,Illinois-Missouri League,fisse,B00488,Fisse,,0,Champaign,,B58
+minoraverages/1915Spalding,1914,Illinois-Missouri League,fisse,F20144,Fisse,,0,Champaign,,2b11
+minoraverages/1915Spalding,1914,Illinois-Missouri League,fisse,F20190,Fisse,,0,Champaign,,3b21
+minoraverages/1915Spalding,1914,Illinois-Missouri League,fisse,F20369,Fisse,,0,Champaign,,ss26
+minoraverages/Nemec,1914,Illinois-Missouri League,fisse,B00469,Fisse,Carl,0,Champaign,19140513/19140809,"B592b,3b,ss,of"
+minoraverages/1915Spalding,1914,Illinois-Missouri League,fitzpatrick,B00130,Fitzpatrick,,0,La Salle,,B76
+minoraverages/1915Spalding,1914,Illinois-Missouri League,fitzpatrick,F20095,Fitzpatrick,,0,La Salle,,2b47
+minoraverages/1915Spalding,1914,Illinois-Missouri League,fitzpatrick,F20206,Fitzpatrick,,0,La Salle,,3b29
+minoraverages/Nemec,1914,Illinois-Missouri League,fitzpatrick,B00475,Fitzpatrick,John,0,La Salle,19140519/19140809,"B782b,3b"
+minoraverages/Nemec,1914,Illinois-Missouri League,fitzpatrick,M90060,Fitzpatrick,John,,La Salle,19140517/,
+minoraverages/emilbb,1914,Illinois-Missouri League,,M92726,Fitzpatrick,John,,La Salle,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,fleming,B00293,Fleming,,0,Ottawa,,B87
+minoraverages/1915Spalding,1914,Illinois-Missouri League,fleming,F20189,Fleming,,0,Ottawa,,3b40
+minoraverages/1915Spalding,1914,Illinois-Missouri League,fleming,F20303,Fleming,,0,Ottawa,,ss47
+minoraverages/Nemec,1914,Illinois-Missouri League,fleming,B00488,Fleming,Charles (Chuck),0,Ottawa,19140515/19140809,"B863b,ss"
+minoraverages/Nemec,1914,Illinois-Missouri League,fleming,M90083,Fleming,Charles (Chuck,,Ottawa,,
+minoraverages/emilbb,1914,Illinois-Missouri League,,M92680,Fleming,Chuck,,Ottawa,,
+minoraverages/Nemec,1914,Illinois-Missouri League,flood,B00491,Flood,,0,Lincoln,19140518/19140523,B2p
+minoraverages/Nemec,1914,Illinois-Missouri League,flood,P10202,Flood,,0,Lincoln,,P2
+minoraverages/Nemec,1914,Illinois-Missouri League,forrest,B00502,Forrest,Grieg,0,La Salle,19160616/19140625,B4p
+minoraverages/Nemec,1914,Illinois-Missouri League,forrest,P10215,Forrest,,0,La Salle,,P3
+minoraverages/1915Spalding,1914,Illinois-Missouri League,fowler,B00590,Fowler,,0,La Salle,,B46
+minoraverages/1915Spalding,1914,Illinois-Missouri League,fowler,F20375,Fowler,,0,La Salle,,of14
+minoraverages/1915Spalding,1914,Illinois-Missouri League,fowler,F21000,Fowler,,0,La Salle,,c32
+minoraverages/Nemec,1914,Illinois-Missouri League,fowler,B00515,Fowler,Carl,1,Lincoln,,
+minoraverages/Nemec,1914,Illinois-Missouri League,fowler,B00515,Fowler,Carl,2,La Salle,,
+minoraverages/Nemec,1914,Illinois-Missouri League,fowler,B00515,Fowler,Carl,T,,19140617/19140809,"B47c,1b,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,fowler,B01848,Fowler,Carl,0,Lincoln,19140615/19140630,"B8c,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,fowler,B01857,Fowler,Carl,0,La Salle,19140704/19140809,"B39c,1b,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,gerard,B00528,Gerard,,1,Streator,,
+minoraverages/Nemec,1914,Illinois-Missouri League,gerard,B00528,Gerard,,2,Lincoln,,
+minoraverages/Nemec,1914,Illinois-Missouri League,gerard,B00528,Gerard,,T,,19140516/19140528,"B5p,2b"
+minoraverages/Nemec,1914,Illinois-Missouri League,gerard,B01861,Gerard,,0,Streator,19140516/19140523,"B4p,2b"
+minoraverages/Nemec,1914,Illinois-Missouri League,gerard,B01873,Gerard,,0,Lincoln,19140528/19140528,B1p
+minoraverages/Nemec,1914,Illinois-Missouri League,gerard,P10228,Gerard,,1,Streator,,
+minoraverages/Nemec,1914,Illinois-Missouri League,gerard,P10228,Gerard,,2,Lincoln,,
+minoraverages/Nemec,1914,Illinois-Missouri League,gerard,P10228,Gerard,,T,,,P4
+minoraverages/Nemec,1914,Illinois-Missouri League,gerard,P10772,Gerard,,0,Streator,,P3
+minoraverages/Nemec,1914,Illinois-Missouri League,gerard,P10780,Gerard,,0,Lincoln,,P1
+minoraverages/Nemec,1914,Illinois-Missouri League,girth,B00531,Girth,F.,0,Kankakee,19140623/19140630,"B4p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,girth,P10231,Girth,,0,Kankakee,,P3
+minoraverages/Nemec,1914,Illinois-Missouri League,good,B00544,Good,,0,La Salle,19140527/19140527,B1of
+minoraverages/1915Spalding,1914,Illinois-Missouri League,grady,B00469,Grady,,0,La Salle,,B55
+minoraverages/1915Spalding,1914,Illinois-Missouri League,grady,F20962,Grady,,0,La Salle,,c55
+minoraverages/Nemec,1914,Illinois-Missouri League,grady,B00553,Grady,W. A.,1,Kankakee,,
+minoraverages/Nemec,1914,Illinois-Missouri League,grady,B00553,Grady,W. A.,2,Ottawa,,
+minoraverages/Nemec,1914,Illinois-Missouri League,grady,B00553,Grady,W. A.,3,La Salle,,
+minoraverages/Nemec,1914,Illinois-Missouri League,grady,B00553,Grady,W. A.,T,,19140614/19140809,"B56c,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,grady,B01885,Grady,W. A.,0,Kankakee,19140614/19140621,B8c
+minoraverages/Nemec,1914,Illinois-Missouri League,grady,B01899,Grady,W. A.,0,Ottawa,19140624/19140722,"B30c,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,grady,B01905,Grady,W. A.,0,La Salle,19140725/19140809,"B18c,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,graham-ls,B00566,Graham,,0,La Salle,19140513/19140525,"B6c,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,graham-kan,B00577,Graham,Lee,0,Kankakee,19140518/19140608,B6p
+minoraverages/Nemec,1914,Illinois-Missouri League,graham-kan,P10244,Graham,L.,0,Kankakee,,P6
+minoraverages/1915Spalding,1914,Illinois-Missouri League,griffin,B00646,Griffin,,0,Champaign,,B34
+minoraverages/1915Spalding,1914,Illinois-Missouri League,griffin,F20721,Griffin,,0,Champaign,,p34
+minoraverages/1915Spalding,1914,Illinois-Missouri League,griffin,P10024,Griffin,,0,Champaign,,P25
+minoraverages/Nemec,1914,Illinois-Missouri League,griffin,B00589,Griffin,W. H.,0,Champaign,19140514/19140808,"B35p,1b,2b,3b,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,griffin,P10253,Griffin,,0,Champaign,,P25
+minoraverages/Nemec,1914,Illinois-Missouri League,gruver,B00590,Gruver,,0,Kankakee,19140514/19140518,B2p
+minoraverages/Nemec,1914,Illinois-Missouri League,gruver,P10266,Gruver,,0,Kankakee,,P2
+minoraverages/Nemec,1914,Illinois-Missouri League,hamill,B00609,Hamill,Ed,0,La Salle,19140603/19140615,B4p
+minoraverages/Nemec,1914,Illinois-Missouri League,hamill,P10277,Hamill,,0,La Salle,,P4
+minoraverages/Nemec,1914,Illinois-Missouri League,hanna,B00614,Hanna,John,1,La Salle,,
+minoraverages/Nemec,1914,Illinois-Missouri League,hanna,B00614,Hanna,John,2,Ottawa,,
+minoraverages/Nemec,1914,Illinois-Missouri League,hanna,B00614,Hanna,John,T,,19140516/19140610,"B20c,1b,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,hanna,B01918,Hanna,John,0,La Salle,19140516/19140531,"B12c,1b,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,hanna,B01926,Hanna,John,0,Ottawa,19140603/19140610,B8c
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hannigan,B00566,Hannigan,,0,Ottawa,,B88
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hannigan,F20177,Hannigan,,0,Ottawa,,2b88
+minoraverages/Nemec,1914,Illinois-Missouri League,hannigan,B00623,Hannigan,George,1,Streator,,
+minoraverages/Nemec,1914,Illinois-Missouri League,hannigan,B00623,Hannigan,George,2,Ottawa,,
+minoraverages/Nemec,1914,Illinois-Missouri League,hannigan,B00623,Hannigan,George,T,,19140513/19140809,"B882b,3b,ss"
+minoraverages/Nemec,1914,Illinois-Missouri League,hannigan,B01939,Hannigan,George,0,Streator,19140513/19140602,"B202b,3b"
+minoraverages/Nemec,1914,Illinois-Missouri League,hannigan,B01947,Hannigan,George,0,Ottawa,19140603/19140809,"B682b,ss"
+minoraverages/Nemec,1914,Illinois-Missouri League,hardin,B00638,Hardin,,0,La Salle,19140515/19140515,B1c
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hardy,B00531,Hardy,,1,Streator,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hardy,B00531,Hardy,,2,Lincoln,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hardy,B00531,Hardy,,T,,,B112
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hardy,F20115,Hardy,,1,Streator,,2b
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hardy,F20115,Hardy,,2,Lincoln,,2b
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hardy,F20115,Hardy,,T,,,2b102
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hardy,F20604,Hardy,,0,Streator,,of10
+minoraverages/Nemec,1914,Illinois-Missouri League,hardy,B00646,Hardy,Walter F.,1,Lincoln,,
+minoraverages/Nemec,1914,Illinois-Missouri League,hardy,B00646,Hardy,Walter F.,2,Streator,,
+minoraverages/Nemec,1914,Illinois-Missouri League,hardy,B00646,Hardy,Walter F.,T,,19140515/19140723,"B66p,2b,3b,ss,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,hardy,B01952,Hardy,Walter F.,0,Lincoln,19140515/19140701,"B47p,2b"
+minoraverages/Nemec,1914,Illinois-Missouri League,hardy,B01960,Hardy,Walter F.,0,Streator,19140704/19140723,"B192b,3b,ss,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,hardy,P10289,Hardy,,0,Lincoln,,P1
+minoraverages/1915Spalding,1914,Illinois-Missouri League,henrihan,B00822,Haurihan,,0,Streator,,
+minoraverages/Nemec,1914,Illinois-Missouri League,hay,B00651,Hay,Harry,1,Kankakee,,
+minoraverages/Nemec,1914,Illinois-Missouri League,hay,B00651,Hay,Harry,2,Streator,,
+minoraverages/Nemec,1914,Illinois-Missouri League,hay,B00651,Hay,Harry,3,Lincoln,,
+minoraverages/Nemec,1914,Illinois-Missouri League,hay,B00651,Hay,Harry,T,,19140513/19140629,"B15p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,hay,B01971,Hay,Harry,0,Kankakee,19140513/19140618,"B13p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,hay,B01983,Hay,Harry,0,Streator,19140624/19140624,B1p
+minoraverages/Nemec,1914,Illinois-Missouri League,hay,B01994,Hay,Harry,0,Lincoln,19140629/19140629,B1p
+minoraverages/Nemec,1914,Illinois-Missouri League,hay,P10290,Hay,,1,Kankakee,,
+minoraverages/Nemec,1914,Illinois-Missouri League,hay,P10290,Hay,,2,Streator,,
+minoraverages/Nemec,1914,Illinois-Missouri League,hay,P10290,Hay,,3,Lincoln,,
+minoraverages/Nemec,1914,Illinois-Missouri League,hay,P10290,Hay,,T,,,P14
+minoraverages/Nemec,1914,Illinois-Missouri League,hay,P10795,Hay,,0,Kankakee,,P12
+minoraverages/Nemec,1914,Illinois-Missouri League,hay,P10805,Hay,,0,Streator,,P1
+minoraverages/Nemec,1914,Illinois-Missouri League,hay,P10818,Hay,,0,Lincoln,,P1
+minoraverages/Nemec,1914,Illinois-Missouri League,henrihan,B00667,Henrihan,,0,Streator,19140804/19140804,B1ss
+minoraverages/1915Spalding,1914,Illinois-Missouri League,higgins,B00370,Higgins,,0,Streator,,B19
+minoraverages/1915Spalding,1914,Illinois-Missouri League,higgins,F20829,Higgins,,0,Streator,,p19
+minoraverages/1915Spalding,1914,Illinois-Missouri League,higgins,P10043,Higgins,,0,Streator,,P16
+minoraverages/Nemec,1914,Illinois-Missouri League,higgins,B00672,Higgins,Doc,0,Streator,19140515/19140726,"B20p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,higgins,P10304,Higgins,,0,Streator,,P16
+minoraverages/Nemec,1914,Illinois-Missouri League,hindley,B00680,Hindley,,0,La Salle,19140513/19140516,B41b
+minoraverages/Nemec,1914,Illinois-Missouri League,hindley,M90052,Hindley,,,La Salle,,
+minoraverages/emilbb,1914,Illinois-Missouri League,,M92718,Hinley,Tony,,La Salle,,
+minoraverages/emilbb,1914,Illinois-Missouri League,,M92771,Hinley,William,,Kankakee,,
+minoraverages/Nemec,1914,Illinois-Missouri League,hollingsworth,B00695,Hollingsworth,,0,Streator,19140528/19140605,B5p
+minoraverages/Nemec,1914,Illinois-Missouri League,hollingsworth,P10312,Hollingsworth,,0,Streator,,P4
+minoraverages/Nemec,1914,Illinois-Missouri League,holly,B00705,Holly,,0,Kankakee,19140606/19140606,B1of
+minoraverages/Nemec,1914,Illinois-Missouri League,holmes,B00718,Holmes,Walter,0,Lincoln,19140612/19140625,B5p
+minoraverages/Nemec,1914,Illinois-Missouri League,holmes,P10320,Holmes,,0,Lincoln,,P4
+minoraverages/1915Spalding,1914,Illinois-Missouri League,holzhauser,B00229,Holzhauser,,1,Kankakee,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,holzhauser,B00229,Holzhauser,,2,Ottawa,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,holzhauser,B00229,Holzhauser,,T,,,B134
+minoraverages/1915Spalding,1914,Illinois-Missouri League,holzhauser,F20038,Holzhauser,,1,Kankakee,,1b
+minoraverages/1915Spalding,1914,Illinois-Missouri League,holzhauser,F20038,Holzhauser,,2,Ottawa,,1b
+minoraverages/1915Spalding,1914,Illinois-Missouri League,holzhauser,F20038,Holzhauser,,T,,,1b93
+minoraverages/1915Spalding,1914,Illinois-Missouri League,holzhauser,F20612,Holzhauser,,0,Ottawa,,of41
+minoraverages/Nemec,1914,Illinois-Missouri League,holzhauser,B00726,Holzhauser,A. J. (Dutch),1,Kankakee,,
+minoraverages/Nemec,1914,Illinois-Missouri League,holzhauser,B00726,Holzhauser,A. J. (Dutch),2,Ottawa,,
+minoraverages/Nemec,1914,Illinois-Missouri League,holzhauser,B00726,Holzhauser,A. J. (Dutch),T,,19140513/19140809,"B871b,2b,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,holzhauser,B02008,Holzhauser,A. J.,0,Kankakee,19140513/19140630,"B47c,1b,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,holzhauser,B02019,Holzhauser,A. J.,0,Ottawa,19140703/19140809,"B401b,2b,of"
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hook,B00264,Hook,,1,Lincoln,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hook,B00264,Hook,,2,Streator,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hook,B00264,Hook,,T,,,B59
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hook,F20636,Hook,,0,Streator,,of12
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hook,F20886,Hook,,1,La Salle,,p
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hook,F20886,Hook,,2,Streator,,p
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hook,F20886,Hook,,T,,,p47
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hook,P10121,Hook,,1,Lincoln,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hook,P10121,Hook,,2,Streator,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hook,P10121,Hook,,T,,,P27
+minoraverages/Nemec,1914,Illinois-Missouri League,hook,B00739,Hook,Ernest Clyde,1,Lincoln,,
+minoraverages/Nemec,1914,Illinois-Missouri League,hook,B00739,Hook,Ernest Clyde,2,Streator,,
+minoraverages/Nemec,1914,Illinois-Missouri League,hook,B00739,Hook,Ernest Clyde,T,,19140515/19140809,"B40p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,hook,B02024,Hook,Ernest Clyde,0,Lincoln,19140515/19140630,"B20p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,hook,B02035,Hook,Ernest Clyde,0,Streator,19140704/19140809,"B20p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,hook,P10336,Hook,,1,Lincoln,,
+minoraverages/Nemec,1914,Illinois-Missouri League,hook,P10336,Hook,,2,Streator,,
+minoraverages/Nemec,1914,Illinois-Missouri League,hook,P10336,Hook,,T,,,P25
+minoraverages/Nemec,1914,Illinois-Missouri League,hook,P10826,Hook,,0,Lincoln,,P15
+minoraverages/Nemec,1914,Illinois-Missouri League,hook,P10839,Hook,,0,Streator,,P10
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hughes,B00045,Hughes,,0,Streator,,B89
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hughes,F20014,Hughes,,0,Streator,,1b89
+minoraverages/Nemec,1914,Illinois-Missouri League,hughes,B00747,Hughes,James C. (Dummy),0,Streator,19140513/19140809,B891b
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hurst,B00068,Hurst,,0,Ottawa,,B75
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hurst,F20594,Hurst,,0,Ottawa,,of75
+minoraverages/Nemec,1914,Illinois-Missouri League,hurst,B00752,Hurst,James (Red),0,Ottawa,19140515/19140809,B75of
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hyzer,B00037,Hyzer,,0,Kankakee,,B44
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hyzer,F20067,Hyzer,,0,Kankakee,,1b10
+minoraverages/1915Spalding,1914,Illinois-Missouri League,hyzer,F20458,Hyzer,,0,Kankakee,,of34
+minoraverages/Nemec,1914,Illinois-Missouri League,hyzer,B00760,Hyzer,J. B.,1,Streator,,
+minoraverages/Nemec,1914,Illinois-Missouri League,hyzer,B00760,Hyzer,J. B.,2,La Salle,,
+minoraverages/Nemec,1914,Illinois-Missouri League,hyzer,B00760,Hyzer,J. B.,3,Kankakee,,
+minoraverages/Nemec,1914,Illinois-Missouri League,hyzer,B00760,Hyzer,J. B.,T,,19140513/19140629,"B441b,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,hyzer,B02043,Hyzer,J. B.,0,Streator,19140513/19140519,B7of
+minoraverages/Nemec,1914,Illinois-Missouri League,hyzer,B02056,Hyzer,J. B.,0,La Salle,19140521/19140618,"B271b,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,hyzer,B02062,Hyzer,J. B.,0,Kankakee,19140620/19140629,B10of
+minoraverages/1915Spalding,1914,Illinois-Missouri League,jaeger,B00794,Jaeger,,0,Ottawa,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,jaeger,F20700,Jaeger,,0,Ottawa,,p1
+minoraverages/1915Spalding,1914,Illinois-Missouri League,jaeger,P10215,Jaeger,,0,Ottawa,,P1
+minoraverages/Nemec,1914,Illinois-Missouri League,jaeger,B00771,Jaeger,Charles T.,0,Ottawa,19140711/19140711,B1p
+minoraverages/Nemec,1914,Illinois-Missouri League,jaeger,P10348,Jaeger,,0,Ottawa,,P1
+minoraverages/Nemec,1914,Illinois-Missouri League,kasper,B00783,Kasper,,0,Kankakee,19140515/19140527,B3p
+minoraverages/Nemec,1914,Illinois-Missouri League,kasper,P10357,Kasper,,0,Kankakee,,P3
+minoraverages/Nemec,1914,Illinois-Missouri League,keenan,B00794,Keenan,,0,Ottawa,19140615/19140701,B3p
+minoraverages/Nemec,1914,Illinois-Missouri League,keenan,P10361,Keenan,,0,Ottawa,,P3
+minoraverages/Nemec,1914,Illinois-Missouri League,kelly,B00806,Kelly,Bert,0,Streator,19140617/19140617,B1of
+minoraverages/1915Spalding,1914,Illinois-Missouri League,kennedy,B00059,Kennedy,,0,Champaign,,B51
+minoraverages/1915Spalding,1914,Illinois-Missouri League,kennedy,F20539,Kennedy,,0,Champaign,,of51
+minoraverages/Nemec,1914,Illinois-Missouri League,kennedy,B00811,Kennedy,,0,Streator,19140603/19140606,B42b
+minoraverages/Nemec,1914,Illinois-Missouri League,kennedy,B00822,Kennedy,C. H. (Red),1,Streator,,
+minoraverages/Nemec,1914,Illinois-Missouri League,kennedy,B00822,Kennedy,C. H. (Red),2,Champaign,,
+minoraverages/Nemec,1914,Illinois-Missouri League,kennedy,B00822,Kennedy,C. H. (Red),T,,19140624/19140809,B48of
+minoraverages/Nemec,1914,Illinois-Missouri League,kennedy,B02070,Kennedy,C. H. (Red),0,Streator,19140624/19140722,B28of
+minoraverages/Nemec,1914,Illinois-Missouri League,kennedy,B02081,Kennedy,C. H. (Red),0,Champaign,19140723/19140809,B20of
+minoraverages/Nemec,1914,Illinois-Missouri League,kleine,B00833,Kleine,,0,Streator,19140618/19140618,B1p
+minoraverages/Nemec,1914,Illinois-Missouri League,kleine,P10373,Kleine,,0,Streator,,P1
+minoraverages/1915Spalding,1914,Illinois-Missouri League,knight,B00783,Knight,,0,Ottawa,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,knight,F20699,Knight,,0,Ottawa,,p1
+minoraverages/1915Spalding,1914,Illinois-Missouri League,knight,P10202,Knight,,0,Ottawa,,P1
+minoraverages/Nemec,1914,Illinois-Missouri League,knight,B00840,Knight,,0,Ottawa,19140703/19140703,B1p
+minoraverages/Nemec,1914,Illinois-Missouri League,knight,P10385,Knight,,0,Ottawa,,P1
+minoraverages/Nemec,1914,Illinois-Missouri League,koehler,B00854,Koehler,,0,La Salle,19140610/19140612,B2p
+minoraverages/Nemec,1914,Illinois-Missouri League,koehler,P10399,Koehler,,0,La Salle,,P2
+minoraverages/1915Spalding,1914,Illinois-Missouri League,lanigan,B00833,Lanigan,,0,La Salle,,
+minoraverages/Nemec,1914,Illinois-Missouri League,lanigan,B00865,Lanigan,Sport,0,La Salle,19140724/19140724,B11b
+minoraverages/Nemec,1914,Illinois-Missouri League,lentz,B00879,Lentz,Lefty,0,La Salle,19140513/19140615,"B13p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,lentz,P10407,Lentz,,0,La Salle,,P11
+minoraverages/1915Spalding,1914,Illinois-Missouri League,leydecker,B00544,Leydecker,,0,Ottawa,,B31
+minoraverages/1915Spalding,1914,Illinois-Missouri League,leydecker,F20482,Leydecker,,0,Ottawa,,of31
+minoraverages/Nemec,1914,Illinois-Missouri League,leydecker,B00887,Leydecker,,0,Ottawa,19140528/19140717,"B32c,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,leydecker,B00898,Long,,0,Ottawa,19140515/19140518,B4of
+minoraverages/1915Spalding,1914,Illinois-Missouri League,lotshaw,B00232,Lotshaw,,0,Champaign,,B89
+minoraverages/1915Spalding,1914,Illinois-Missouri League,lotshaw,F20046,Lotshaw,,0,Champaign,,1b89
+minoraverages/Nemec,1914,Illinois-Missouri League,lotshaw,B00904,Lotshaw,Andred D.,0,Champaign,19140513/19140809,"B89c,1b,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,lucas,B00912,Lucas,,0,Ottawa,19140521/19140521,B1c
+minoraverages/Nemec,1914,Illinois-Missouri League,ludwig,B00920,Ludwick (Ludwig),Ray,1,La Salle,,
+minoraverages/Nemec,1914,Illinois-Missouri League,ludwig,B00920,Ludwick (Ludwig),Ray,2,Streator,,
+minoraverages/Nemec,1914,Illinois-Missouri League,ludwig,B00920,Ludwick (Ludwig),Ray,T,,19140529/19140731,"B30c,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,ludwig,B02097,Ludwick (Ludwig),Ray,0,La Salle,19140529/19140611,"B11c,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,ludwig,B02100,Ludwick (Ludwig),Ray,0,Streator,19140710/19140731,B19c
+minoraverages/1915Spalding,1914,Illinois-Missouri League,ludwig,B00207,Ludwig,,0,Streator,,B30
+minoraverages/1915Spalding,1914,Illinois-Missouri League,ludwig,F20997,Ludwig,,0,Streator,,c30
+minoraverages/1915Spalding,1914,Illinois-Missouri League,luvisi,B00335,Luvisi,,0,Streator,,B71
+minoraverages/1915Spalding,1914,Illinois-Missouri League,luvisi,F20350,Luvisi,,0,Streator,,ss10
+minoraverages/1915Spalding,1914,Illinois-Missouri League,luvisi,F20571,Luvisi,,0,Streator,,of26
+minoraverages/1915Spalding,1914,Illinois-Missouri League,luvisi,F20970,Luvisi,,0,Streator,,c35
+minoraverages/Nemec,1914,Illinois-Missouri League,luvisi,B00936,Luvisi,Alfred,0,Streator,19140518/19140809,"B71c,2b,ss,of"
+minoraverages/1915Spalding,1914,Illinois-Missouri League,lyons,B00667,Lyons,,0,Ottawa,,B25
+minoraverages/1915Spalding,1914,Illinois-Missouri League,lyons,F20893,Lyons,,0,Ottawa,,p25
+minoraverages/1915Spalding,1914,Illinois-Missouri League,lyons,P10062,Lyons,,0,Ottawa,,P25
+minoraverages/Nemec,1914,Illinois-Missouri League,lyons,B00948,Lyons,Geo. T (Tony),0,Ottawa,19140518/19140809,B25p
+minoraverages/Nemec,1914,Illinois-Missouri League,lyons,P10410,Lyons,,0,Ottawa,,P25
+minoraverages/1915Spalding,1914,Illinois-Missouri League,mahoney,B00528,Mahoney,,0,Kankakee,,B26
+minoraverages/1915Spalding,1914,Illinois-Missouri League,mahoney,F20474,Mahoney,,0,Kankakee,,of26
+minoraverages/Nemec,1914,Illinois-Missouri League,mahoney,B00957,Mahoney,,0,Kankakee,19140522/19140622,B26of
+minoraverages/Nemec,1914,Illinois-Missouri League,mcewen,B00961,McEwen,,0,La Salle,19140603/19140603,B1c
+minoraverages/Nemec,1914,Illinois-Missouri League,mcgill,B00973,McGill,Wee Willie,0,Champaign,19140513/19140524,B2p
+minoraverages/Nemec,1914,Illinois-Missouri League,mcgill,P10429,McGill,,0,Champaign,,P2
+minoraverages/Nemec,1914,Illinois-Missouri League,mcglynn,B00985,McGlynn,,0,Kankakee,19140606/19140621,"B11c,1b"
+minoraverages/Nemec,1914,Illinois-Missouri League,mcgough,B00999,McGough,Ed,0,La Salle,19140514/19140520,B3p
+minoraverages/Nemec,1914,Illinois-Missouri League,mcgough,P10432,McGough,,0,La Salle,,P3
+minoraverages/Nemec,1914,Illinois-Missouri League,mcguffy,B01007,McGuffy,Oscar,0,Lincoln,19140521/19140611,B6p
+minoraverages/Nemec,1914,Illinois-Missouri League,mcguffy,P10441,McGuffy,,0,Lincoln,,P6
+minoraverages/1915Spalding,1914,Illinois-Missouri League,mcintyre,B00771,McIntyre,,0,Ottawa,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,mcintyre,F20919,McIntyre,,0,Ottawa,,p5
+minoraverages/1915Spalding,1914,Illinois-Missouri League,mcintyre,P10277,McIntyre,,1,Kankakee,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,mcintyre,P10277,McIntyre,,2,Ottawa,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,mcintyre,P10277,McIntyre,,T,,,P5
+minoraverages/Nemec,1914,Illinois-Missouri League,mcintyre,B01010,McIntyre,Bullet,0,Kankakee,19140619/19140628,B4p
+minoraverages/Nemec,1914,Illinois-Missouri League,mcintyre,B01029,McIntyre,Steve,0,Ottawa,19140808/19140808,B1p
+minoraverages/Nemec,1914,Illinois-Missouri League,mcintyre,P10455,McIntyre,Bullet,0,Kankakee,,P4
+minoraverages/Nemec,1914,Illinois-Missouri League,mcintyre,P10464,McIntyre,S.,0,Ottawa,,P1
+minoraverages/1915Spalding,1914,Illinois-Missouri League,moore-lin+str,B00210,Moore,,1,Champaign,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,moore-lin+str,B00210,Moore,,2,Lincoln,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,moore-lin+str,B00210,Moore,,T,,,B107
+minoraverages/1915Spalding,1914,Illinois-Missouri League,moore-lin+str,F20526,Moore,,1,Champaign,,of
+minoraverages/1915Spalding,1914,Illinois-Missouri League,moore-lin+str,F20526,Moore,,2,Lincoln,,of
+minoraverages/1915Spalding,1914,Illinois-Missouri League,moore-lin+str,F20526,Moore,,T,,,of107
+minoraverages/Nemec,1914,Illinois-Missouri League,moore-lin+str,B01032,Moore,Charles,1,Lincoln,,
+minoraverages/Nemec,1914,Illinois-Missouri League,moore-lin+str,B01032,Moore,Charles,2,Streator,,
+minoraverages/Nemec,1914,Illinois-Missouri League,moore-lin+str,B01032,Moore,Charles,T,,19140515/19140801,"B63c,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,moore-cha,B01041,Moore,William (Bill),0,Champaign,19140802/19140809,B71b
+minoraverages/Nemec,1914,Illinois-Missouri League,moore-lin+str,B02113,Moore,Charles,0,Lincoln,19140515/19140701,B39of
+minoraverages/Nemec,1914,Illinois-Missouri League,moore-lin+str,B02121,Moore,Charles,0,Streator,19140707/19140801,"B24c,of"
+minoraverages/1915Spalding,1914,Illinois-Missouri League,morgan.j,B00278,Morgan,J.,0,Champaign,,B66
+minoraverages/1915Spalding,1914,Illinois-Missouri League,morgan.b,B00403,Morgan,B.,0,La Salle,,B47
+minoraverages/1915Spalding,1914,Illinois-Missouri League,morgan.j,F20233,Morgan,J.,0,Champaign,,3b66
+minoraverages/Nemec,1914,Illinois-Missouri League,morgan.b,B01055,Morgan,Billy,1,Champaign,,
+minoraverages/Nemec,1914,Illinois-Missouri League,morgan.b,B01055,Morgan,Billy,2,La Salle,,
+minoraverages/Nemec,1914,Illinois-Missouri League,morgan.b,B01055,Morgan,Billy,T,,19140513/19140705,"B482b,ss,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,morgan.j,B01064,Morgan,John,0,Champaign,19140513/19140719,"B67p,ss"
+minoraverages/Nemec,1914,Illinois-Missouri League,morgan.b,B02137,Morgan,Billy,0,Champaign,19140513/19140526,"B11ss,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,morgan.b,B02145,Morgan,Billy,0,La Salle,19140528/19140705,"B372b,ss,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,morgan.j,P10478,Morgan,J.,0,Champaign,,P1
+minoraverages/1915Spalding,1914,Illinois-Missouri League,morris,B00343,Morris,,0,La Salle,,B59
+minoraverages/1915Spalding,1914,Illinois-Missouri League,morris,F20547,Morris,,0,La Salle,,of59
+minoraverages/Nemec,1914,Illinois-Missouri League,morris,B01078,Morris,Rat,1,Champaign,,
+minoraverages/Nemec,1914,Illinois-Missouri League,morris,B01078,Morris,Rat,2,La Salle,,
+minoraverages/Nemec,1914,Illinois-Missouri League,morris,B01078,Morris,Rat,T,,19140513/19140724,"B59p,1b,3b,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,morris,B02159,Morris,Rat,0,Champaign,19140513/19140615,"B322b,3b,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,morris,B02168,Morris,Ray,0,La Salle,19140628/19140724,"B27p,1b,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,morris,P10486,Morris,,0,La Salle,,P1
+minoraverages/Nemec,1914,Illinois-Missouri League,muneke,B01086,Muneke,,0,Ottawa,19140519/19140525,"B4p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,muneke,P10493,Muneke,,0,Ottawa,,P2
+minoraverages/1915Spalding,1914,Illinois-Missouri League,murphy,B00623,Murphy,,0,Kankakee,,B33
+minoraverages/1915Spalding,1914,Illinois-Missouri League,murphy,F20560,Murphy,,0,Kankakee,,of15
+minoraverages/1915Spalding,1914,Illinois-Missouri League,murphy,F20935,Murphy,,0,Kankakee,,c18
+minoraverages/Nemec,1914,Illinois-Missouri League,murphy,B01093,Murphy,,0,Kankakee,19140518/19140630,"B33c,1b,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,neithammer,B01108,Neithammer,,1,Ottawa,,
+minoraverages/Nemec,1914,Illinois-Missouri League,neithammer,B01108,Neithammer,,2,Kankakee,,
+minoraverages/Nemec,1914,Illinois-Missouri League,neithammer,B01108,Neithammer,,T,,19140515/19140527,"B6c,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,neithammer,B02176,Neithammer,,0,Ottawa,19140515/19140519,B4c
+minoraverages/Nemec,1914,Illinois-Missouri League,neithammer,B02184,Neithammer,,0,Kankakee,19140525/19140527,B2of
+minoraverages/1915Spalding,1914,Illinois-Missouri League,nelson,B00695,Nelson,,1,Kankakee,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,nelson,B00695,Nelson,,2,Ottawa,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,nelson,B00695,Nelson,,T,,,B58
+minoraverages/1915Spalding,1914,Illinois-Missouri League,nelson,F20620,Nelson,,0,Ottawa,,of14
+minoraverages/1915Spalding,1914,Illinois-Missouri League,nelson,F20878,Nelson,,1,Kankakee,,p
+minoraverages/1915Spalding,1914,Illinois-Missouri League,nelson,F20878,Nelson,,2,Ottawa,,p
+minoraverages/1915Spalding,1914,Illinois-Missouri League,nelson,F20878,Nelson,,T,,,p44
+minoraverages/1915Spalding,1914,Illinois-Missouri League,nelson,P10056,Nelson,,1,Kankakee,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,nelson,P10056,Nelson,,2,Ottawa,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,nelson,P10056,Nelson,,T,,,P25
+minoraverages/Nemec,1914,Illinois-Missouri League,nelson,B01119,Nelson,Elmer (Rube),1,Kankakee,,
+minoraverages/Nemec,1914,Illinois-Missouri League,nelson,B01119,Nelson,Elmer (Rube),2,Ottawa,,
+minoraverages/Nemec,1914,Illinois-Missouri League,nelson,B01119,Nelson,Elmer (Rube),T,,19140516/19140809,"B39p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,nelson,B02192,Nelson,Elmer (Rube),0,Kankakee,19140516/19140628,"B19p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,nelson,B02202,Nelson,Elmer (Rube),0,Ottawa,19140704/19140809,"B20p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,nelson,P10503,Nelson,,1,Kankakee,,
+minoraverages/Nemec,1914,Illinois-Missouri League,nelson,P10503,Nelson,,2,Ottawa,,
+minoraverages/Nemec,1914,Illinois-Missouri League,nelson,P10503,Nelson,,T,,,P26
+minoraverages/Nemec,1914,Illinois-Missouri League,nelson,P10847,Nelson,,0,Kankakee,,P17
+minoraverages/Nemec,1914,Illinois-Missouri League,nelson,P10852,Nelson,,0,Ottawa,,P9
+minoraverages/1915Spalding,1914,Illinois-Missouri League,netherton,B00356,Netherton,,0,Ottawa,,B58
+minoraverages/1915Spalding,1914,Illinois-Missouri League,netherton,F20449,Netherton,,0,Ottawa,,of58
+minoraverages/Nemec,1914,Illinois-Missouri League,netherton,B01124,Netherton,William,1,Streator,,
+minoraverages/Nemec,1914,Illinois-Missouri League,netherton,B01124,Netherton,William,2,Ottawa,,
+minoraverages/Nemec,1914,Illinois-Missouri League,netherton,B01124,Netherton,William,T,,19140524/19140809,"B58ss,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,netherton,B02215,Netherton,William,0,Streator,19140524/19140717,"B34ss,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,netherton,B02228,Netherton,William,0,Ottawa,19140718/19140809,B24of
+minoraverages/Nemec,1914,Illinois-Missouri League,newell,B01135,Newell,,0,La Salle,19140513/19140530,B19of
+minoraverages/Nemec,1914,Illinois-Missouri League,newkirk,B01143,Newkirk,,0,Streator,19140517/19140522,B2p
+minoraverages/Nemec,1914,Illinois-Missouri League,newkirk,P10516,Newkirk,,0,Streator,,P2
+minoraverages/1915Spalding,1914,Illinois-Missouri League,nolan,B00319,Nolan,,0,Lincoln,,B39
+minoraverages/1915Spalding,1914,Illinois-Missouri League,nolan,F20279,Nolan,,0,Lincoln,,ss39
+minoraverages/Nemec,1914,Illinois-Missouri League,nolan,B01156,Nolan,John,0,Lincoln,19140515/19140624,B39ss
+minoraverages/1915Spalding,1914,Illinois-Missouri League,oleary,B00196,O'Leary,,0,Streator,,B42
+minoraverages/1915Spalding,1914,Illinois-Missouri League,oleary,F20417,O'Leary,,0,Streator,,of42
+minoraverages/Nemec,1914,Illinois-Missouri League,oleary,B01162,O'Leary,Ed,0,Streator,19140513/19140809,"B42ss,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,orme,B01170,Orme,George W.,0,Champaign,19140522/19140809,B74of
+minoraverages/1915Spalding,1914,Illinois-Missouri League,orme,B00397,Orms,,0,Champaign,,B73
+minoraverages/1915Spalding,1914,Illinois-Missouri League,orme,F20430,Orms,,0,Champaign,,of73
+minoraverages/1915Spalding,1914,Illinois-Missouri League,paderni,B00638,Paderni,,1,Lincoln,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,paderni,B00638,Paderni,,2,La Salle,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,paderni,B00638,Paderni,,T,,,B129
+minoraverages/1915Spalding,1914,Illinois-Missouri League,paderni,F20211,Paderni,,1,Lincoln,,3b
+minoraverages/1915Spalding,1914,Illinois-Missouri League,paderni,F20211,Paderni,,2,La Salle,,3b
+minoraverages/1915Spalding,1914,Illinois-Missouri League,paderni,F20211,Paderni,,T,,,3b129
+minoraverages/Nemec,1914,Illinois-Missouri League,paderni,B01181,Paderni,R. S.,1,Lincoln,,
+minoraverages/Nemec,1914,Illinois-Missouri League,paderni,B01181,Paderni,R. S.,2,La Salle,,
+minoraverages/Nemec,1914,Illinois-Missouri League,paderni,B01181,Paderni,R. S.,T,,19140515/19140809,B863b
+minoraverages/Nemec,1914,Illinois-Missouri League,paderni,B02231,Paderni,R. S.,0,Lincoln,19140515/19140701,B473b
+minoraverages/Nemec,1914,Illinois-Missouri League,paderni,B02244,Paderni,R. S.,0,La Salle,19140704/19140809,B393b
+minoraverages/1915Spalding,1914,Illinois-Missouri League,pearce,B00491,Pearce,,0,Kankakee,,B47
+minoraverages/1915Spalding,1914,Illinois-Missouri League,pearce,F20131,Pearce,,0,Kankakee,,2b47
+minoraverages/Nemec,1914,Illinois-Missouri League,pearce,B01197,Pearce,,0,Kankakee,19140513/19140630,B472b
+minoraverages/1915Spalding,1914,Illinois-Missouri League,perry,B00609,Perry,,1,Lincoln,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,perry,B00609,Perry,,2,La Salle,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,perry,B00609,Perry,,T,,,B97
+minoraverages/1915Spalding,1914,Illinois-Missouri League,perry,F20518,Perry,,1,Lincoln,,of
+minoraverages/1915Spalding,1914,Illinois-Missouri League,perry,F20518,Perry,,2,La Salle,,of
+minoraverages/1915Spalding,1914,Illinois-Missouri League,perry,F20518,Perry,,T,,,of97
+minoraverages/Nemec,1914,Illinois-Missouri League,perry,B01203,Perry,Frederick (Pete),1,Lincoln,,
+minoraverages/Nemec,1914,Illinois-Missouri League,perry,B01203,Perry,Frederick (Pete),2,La Salle,,
+minoraverages/Nemec,1914,Illinois-Missouri League,perry,B01203,Perry,Frederick (Pete),T,,19140515/19140802,B50of
+minoraverages/Nemec,1914,Illinois-Missouri League,perry,B02253,Perry,Frederick (Pete),0,Lincoln,19140515/19140701,B47of
+minoraverages/Nemec,1914,Illinois-Missouri League,perry,B02266,Perry,Frederick (Pete),0,La Salle,19140704/19140802,B3of
+minoraverages/1915Spalding,1914,Illinois-Missouri League,phillips,B00427,Phillips,,0,Streator,,B42
+minoraverages/1915Spalding,1914,Illinois-Missouri League,phillips,F20981,Phillips,,0,Streator,,c42
+minoraverages/Nemec,1914,Illinois-Missouri League,phillips,B01216,Phillips,Roy,0,Streator,19140513/19140705,B43c
+minoraverages/Nemec,1914,Illinois-Missouri League,quirey,B01227,Quiery,J. A. ,0,Streator,19140729/19140809,"B132b,3b,ss,of"
+minoraverages/1915Spalding,1914,Illinois-Missouri League,quinn,B00381,Quinn,,0,Champaign,,B48
+minoraverages/1915Spalding,1914,Illinois-Missouri League,quinn,F20463,Quinn,,0,Champaign,,of48
+minoraverages/Nemec,1914,Illinois-Missouri League,quinn,B01234,Quinn,Ray,0,Champaign,19140514/19140719,"B50c,of"
+minoraverages/1915Spalding,1914,Illinois-Missouri League,quirey,B00084,Quirey,,0,Streator,,B13
+minoraverages/1915Spalding,1914,Illinois-Missouri League,rafferty,B00149,Rafferty,,1,Lincoln,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,rafferty,B00149,Rafferty,,2,La Salle,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,rafferty,B00149,Rafferty,,T,,,B127
+minoraverages/1915Spalding,1914,Illinois-Missouri League,rafferty,F20391,Rafferty,,0,La Salle,,of81
+minoraverages/1915Spalding,1914,Illinois-Missouri League,rafferty,F20648,Rafferty,,0,La Salle,,p46
+minoraverages/Nemec,1914,Illinois-Missouri League,rafferty,B01242,Raftery,Sylvester,1,Lincoln,,
+minoraverages/Nemec,1914,Illinois-Missouri League,rafferty,B01242,Raftery,Sylvester,2,La Salle,,
+minoraverages/Nemec,1914,Illinois-Missouri League,rafferty,B01242,Raftery,Sylvester,T,,19140515/19140809,"B82ss,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,rafferty,B02277,Raftrey,Sylvester,0,Lincoln,19140515/19140701,"B47ss,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,rafferty,B02289,Raftrey,Sylvester,0,La Salle,19140707/19140809,B35of
+minoraverages/emilbb,1914,Illinois-Missouri League,,M92760,Raines,Teddy,,Kankakee,,
+minoraverages/Nemec,1914,Illinois-Missouri League,rains,B01250,Rains,Teddy,0,Kankakee,19140622/19140630,B9c
+minoraverages/Nemec,1914,Illinois-Missouri League,rains,M90047,Rains,Teddy,,Kankakee,19140622/,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,randall,B00324,Randall,,0,Kankakee,,B45
+minoraverages/1915Spalding,1914,Illinois-Missouri League,randall,F20759,Randall,,0,Kankakee,,p45
+minoraverages/Nemec,1914,Illinois-Missouri League,randall,B01269,Randall,Harry (Eph),0,Kankakee,19140513/19140630,B45of
+minoraverages/Nemec,1914,Illinois-Missouri League,randall,M90026,Randall,Harry (Eph),,Kankakee,,
+minoraverages/emilbb,1914,Illinois-Missouri League,,M92747,Randall,Harry,,Kankakee,,
+minoraverages/Nemec,1914,Illinois-Missouri League,ratczyzak,B01275,Ratczyzak,Joseph,0,La Salle,19140516/19140604,B7p
+minoraverages/Nemec,1914,Illinois-Missouri League,ratczyzak,P10527,Ratczyzak,,0,La Salle,,P7
+minoraverages/Nemec,1914,Illinois-Missouri League,ray,M90094,Ray,John,,Streator,,
+minoraverages/emilbb,1914,Illinois-Missouri League,,M92695,Ray,John,,Streator,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,remark,B00308,Remark,,0,Streator,,B22
+minoraverages/1915Spalding,1914,Illinois-Missouri League,remark,F20810,Remark,,0,Streator,,p22
+minoraverages/1915Spalding,1914,Illinois-Missouri League,remark,P10159,Remark,,0,Streator,,P18
+minoraverages/Nemec,1914,Illinois-Missouri League,remark,B01288,Remark,F. T.,1,Champaign,,
+minoraverages/Nemec,1914,Illinois-Missouri League,remark,B01288,Remark,F. T.,2,Streator,,
+minoraverages/Nemec,1914,Illinois-Missouri League,remark,B01288,Remark,F. T.,T,,19140516/19140809,"B23p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,remark,B02290,Remark,F. T.,0,Champaign,19140516/19140726,"B19p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,remark,B02304,Remark,F. T.,0,Streator,19140801/19140809,"B4p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,remark,P10534,Remark,,1,Champaign,,
+minoraverages/Nemec,1914,Illinois-Missouri League,remark,P10534,Remark,,2,Streator,,
+minoraverages/Nemec,1914,Illinois-Missouri League,remark,P10534,Remark,,T,,,P18
+minoraverages/Nemec,1914,Illinois-Missouri League,remark,P10860,Remark,,0,Champaign,,P15
+minoraverages/Nemec,1914,Illinois-Missouri League,remark,P10871,Remark,,0,Streator,,P3
+minoraverages/Nemec,1914,Illinois-Missouri League,reuille,B01291,Reuille,,0,Streator,19140526/19140531,B2p
+minoraverages/Nemec,1914,Illinois-Missouri League,reuille,P10542,Reuille,,0,Streator,,P2
+minoraverages/Nemec,1914,Illinois-Missouri League,rodman,B01300,Rodman,,0,Ottawa,19140515/19140528,"B141b,2b"
+minoraverages/1915Spalding,1914,Illinois-Missouri League,rogerson,B00475,Rogerson,,0,Ottawa,,B43
+minoraverages/1915Spalding,1914,Illinois-Missouri League,rogerson,F20425,Rogerson,,0,Ottawa,,of43
+minoraverages/Nemec,1914,Illinois-Missouri League,rogerson,B01313,Rogerson,,0,Ottawa,19140530/19140712,B43of
+minoraverages/Nemec,1914,Illinois-Missouri League,ronan,B01321,Ronan,Thomas,0,La Salle,19140518/19140615,B242b
+minoraverages/1915Spalding,1914,Illinois-Missouri League,saillard,B00158,Saillard,,1,Lincoln,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,saillard,B00158,Saillard,,2,Ottawa,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,saillard,B00158,Saillard,,T,,,B128
+minoraverages/1915Spalding,1914,Illinois-Missouri League,saillard,F20080,Saillard,,1,Lincoln,,1b
+minoraverages/1915Spalding,1914,Illinois-Missouri League,saillard,F20080,Saillard,,2,Ottawa,,1b
+minoraverages/1915Spalding,1914,Illinois-Missouri League,saillard,F20080,Saillard,,T,,,1b116
+minoraverages/1915Spalding,1914,Illinois-Missouri League,saillard,F20153,Saillard,,0,Ottawa,,2b12
+minoraverages/Nemec,1914,Illinois-Missouri League,saillard,B01337,Salliard,Harrison H.,1,Lincoln,,
+minoraverages/Nemec,1914,Illinois-Missouri League,saillard,B01337,Salliard,Harrison H.,2,Ottawa,,
+minoraverages/Nemec,1914,Illinois-Missouri League,saillard,B01337,Salliard,Harrison H.,T,,19140515/19140809,"B821b,2b"
+minoraverages/Nemec,1914,Illinois-Missouri League,saillard,B02312,Salliard,Harrison H.,0,Lincoln,19140515/19140701,B471b
+minoraverages/Nemec,1914,Illinois-Missouri League,saillard,B02320,Salliard,Harrison H.,0,Ottawa,19140707/19140809,"B351b,2b"
+minoraverages/1915Spalding,1914,Illinois-Missouri League,schrenk,B00811,Schrenk,,0,Streator,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,schrenk,F20661,Schrenk,,0,Streator,,p8
+minoraverages/1915Spalding,1914,Illinois-Missouri League,schrenk,P10244,Schrenk,,0,Streator,,P8
+minoraverages/Nemec,1914,Illinois-Missouri League,schrenk,B01345,Schrenk,Walter,0,Streator,19140608/19140704,B9p
+minoraverages/Nemec,1914,Illinois-Missouri League,schrenk,P10550,Schrenk,,0,Streator,,P8
+minoraverages/Nemec,1914,Illinois-Missouri League,sears,B01359,Sears,John William,0,Streator,19140627/19140807,"B43p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,sears,P10569,Sears,,0,Streator,,P3
+minoraverages/Nemec,1914,Illinois-Missouri League,secker,B01368,Secker,,0,La Salle,19140514/19140514,B1p
+minoraverages/Nemec,1914,Illinois-Missouri League,secker,P10575,Secker,,0,La Salle,,P1
+minoraverages/1915Spalding,1914,Illinois-Missouri League,seebach,B00101,Seebach,,0,Streator,,B62
+minoraverages/1915Spalding,1914,Illinois-Missouri League,seebach,F20128,Seebach,,0,Streator,,2b62
+minoraverages/Nemec,1914,Illinois-Missouri League,seebach,B01376,Seebach,Heine,0,Streator,19140607/19140809,"B622b,ss,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,seebach,M90107,Seebach,Heine,,Streator,19140620/,
+minoraverages/emilbb,1914,Illinois-Missouri League,,M92705,Seebach,Heine,,Streator,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,sears,B00013,Seers,,0,Streator,,B43
+minoraverages/1915Spalding,1914,Illinois-Missouri League,sears,F20505,Seers,,0,Streator,,of43
+minoraverages/1915Spalding,1914,Illinois-Missouri League,sears,P10184,Seers,,0,Streator,,P3
+minoraverages/Nemec,1914,Illinois-Missouri League,shannabrook,B01384,Shannabrook,,0,Kankakee,19140513/19140519,B7of
+minoraverages/Nemec,1914,Illinois-Missouri League,simpson,B01392,Simpson,,0,La Salle,19140518/19140519,B2of
+minoraverages/1915Spalding,1914,Illinois-Missouri League,smith,B00752,Smith,,0,Champaign,,
+minoraverages/Nemec,1914,Illinois-Missouri League,smith,B01402,Smith,,0,Champaign,19140722/19140805,"B10p,2b,ss,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,smith,P10588,Smith,,0,Champaign,,P1
+minoraverages/Nemec,1914,Illinois-Missouri League,sommers,B01415,Sommers,Charles,0,La Salle,19140521/19140722,"B22p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,sommers,P10591,Sommers,,0,La Salle,,P21
+minoraverages/1915Spalding,1914,Illinois-Missouri League,sommers,B00416,Somners,,0,La Salle,,B22
+minoraverages/1915Spalding,1914,Illinois-Missouri League,sommers,F20841,Somners,,0,La Salle,,p22
+minoraverages/1915Spalding,1914,Illinois-Missouri League,sommers,P10176,Somners,,0,La Salle,,P21
+minoraverages/1915Spalding,1914,Illinois-Missouri League,spicer,B00502,Spicer,,0,La Salle,,B80
+minoraverages/1915Spalding,1914,Illinois-Missouri League,spicer,F20342,Spicer,,0,La Salle,,ss15
+minoraverages/1915Spalding,1914,Illinois-Missouri League,spicer,F20401,Spicer,,0,La Salle,,of15
+minoraverages/Nemec,1914,Illinois-Missouri League,spicer,B01428,Spicer,Bert S. (Rabbit),0,La Salle,19140518/19140809,"B822b,ss,of"
+minoraverages/1915Spalding,1914,Illinois-Missouri League,stadfeldt,B00865,Stadfeldt,,0,La Salle,,
+minoraverages/Nemec,1914,Illinois-Missouri League,stadfeldt,B01431,Stadfeldt,Nicholas,0,La Salle,19140627/19140703,B6of
+minoraverages/Nemec,1914,Illinois-Missouri League,stanley,B01444,Stanley,,0,Kankakee,19140602/19140603,B21b
+minoraverages/1915Spalding,1914,Illinois-Missouri League,stevenson,B00163,Stevenson,,0,La Salle,,B78
+minoraverages/1915Spalding,1914,Illinois-Missouri League,stevenson,F20287,Stevenson,,0,La Salle,,ss68
+minoraverages/1915Spalding,1914,Illinois-Missouri League,stevenson,F21013,Stevenson,,0,La Salle,,c10
+minoraverages/Nemec,1914,Illinois-Missouri League,stevenson,B01453,Stevenson,,0,Kankakee,19140519/19140604,"B12c,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,stevenson,B01466,Stevenson,Robert,0,La Salle,19140602/19140809,"B672b,ss"
+minoraverages/1915Spalding,1914,Illinois-Missouri League,stewart,B00553,Stewart,,1,Champaign,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,stewart,B00553,Stewart,,2,Streator,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,stewart,B00553,Stewart,,T,,,B55
+minoraverages/1915Spalding,1914,Illinois-Missouri League,stewart,F20316,Stewart,,0,Champaign,,ss54
+minoraverages/Nemec,1914,Illinois-Missouri League,stewart,B01477,Stewart,,0,Streator,19140804/19140804,B1c
+minoraverages/Nemec,1914,Illinois-Missouri League,stewart,B01489,Stewart,Ed,0,Champaign,19140617/19140809,"B562b,ss"
+minoraverages/Nemec,1914,Illinois-Missouri League,sullivan,B01490,Sullivan,,0,Kankakee,19140610/19140612,B1p
+minoraverages/Nemec,1914,Illinois-Missouri League,sullivan,P10606,Sullivan,,0,Kankakee,,P1
+minoraverages/1915Spalding,1914,Illinois-Missouri League,suttles,B00589,Suttles,,0,Streator,,B51
+minoraverages/1915Spalding,1914,Illinois-Missouri League,suttles,F20240,Suttles,,0,Streator,,3b51
+minoraverages/Nemec,1914,Illinois-Missouri League,suttles,B01509,Suttles,Claude Tom,0,Streator,19140621/19140809,"B512b,3b,ss,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,sweeney,B01514,Sweeney,Neal,0,Lincoln,19140627/19140701,"B62b,ss"
+minoraverages/1915Spalding,1914,Illinois-Missouri League,tadlock,B00076,Tadlock,,0,Champaign,,B25
+minoraverages/1915Spalding,1914,Illinois-Missouri League,tadlock,F20864,Tadlock,,0,Champaign,,p25
+minoraverages/1915Spalding,1914,Illinois-Missouri League,tadlock,P10035,Tadlock,,0,Champaign,,P25
+minoraverages/Nemec,1914,Illinois-Missouri League,tadlock,B01523,Tadlock,Everett (Ziggy),0,Champaign,19140513/19140801,"B26p,2b"
+minoraverages/Nemec,1914,Illinois-Missouri League,tadlock,P10611,Tadlock,,0,Champaign,,P26
+minoraverages/Nemec,1914,Illinois-Missouri League,taylor,B01538,Taylor,,0,La Salle,19140618/19140618,B1p
+minoraverages/Nemec,1914,Illinois-Missouri League,taylor,P10622,Taylor,,0,La Salle,,P1
+minoraverages/Nemec,1914,Illinois-Missouri League,teaney,B01546,Teaney,Emile,1,Ottawa,,
+minoraverages/Nemec,1914,Illinois-Missouri League,teaney,B01546,Teaney,Emile,2,Kankakee,,
+minoraverages/Nemec,1914,Illinois-Missouri League,teaney,B01546,Teaney,Emile,T,,19140530/19140610,"B62b,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,teaney,B02336,Teaney,Emile,0,Ottawa,19140530/19140530,B12b
+minoraverages/Nemec,1914,Illinois-Missouri League,teaney,B02348,Teaney,Emile,0,Kankakee,19140606/19140610,B5of
+minoraverages/1915Spalding,1914,Illinois-Missouri League,ukey,B00125,Ukey,,0,Streator,,B59
+minoraverages/1915Spalding,1914,Illinois-Missouri League,ukey,F20298,Ukey,,0,Streator,,ss26
+minoraverages/1915Spalding,1914,Illinois-Missouri League,ukey,F20583,Ukey,,0,Streator,,of33
+minoraverages/1915Spalding,1914,Illinois-Missouri League,ukey,P10266,Ukey,,0,Streator,,P8
+minoraverages/Nemec,1914,Illinois-Missouri League,ukey,B01551,Ukey (Ukuavge),W.,0,Streator,19140530/19140809,"B59p,1b,ss,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,ukey,P10633,Ukey (Ukuavge),,0,Streator,,P8
+minoraverages/1915Spalding,1914,Illinois-Missouri League,underhill,B00806,Underhill,,0,Ottawa,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,underhill,F20673,Underhill,,0,Ottawa,,p3
+minoraverages/1915Spalding,1914,Illinois-Missouri League,underhill,P10253,Underhill,,0,Ottawa,,P3
+minoraverages/Nemec,1914,Illinois-Missouri League,underhill,B01567,Underhill,Lester,0,Ottawa,19140721/19140729,B3p
+minoraverages/Nemec,1914,Illinois-Missouri League,underhill,P10640,Underhill,,0,Ottawa,,P3
+minoraverages/1915Spalding,1914,Illinois-Missouri League,whaley,B00718,Wahley,,0,Streator,,B19
+minoraverages/1915Spalding,1914,Illinois-Missouri League,walker,B00726,Walker,,0,La Salle,,B24
+minoraverages/1915Spalding,1914,Illinois-Missouri League,walker,F20792,Walker,,0,La Salle,,p24
+minoraverages/1915Spalding,1914,Illinois-Missouri League,walker,P10168,Walker,,0,La Salle,,P22
+minoraverages/Nemec,1914,Illinois-Missouri League,walker,B01572,Walker,Theodore (Pete),1,Ottawa,,
+minoraverages/Nemec,1914,Illinois-Missouri League,walker,B01572,Walker,Theodore (Pete),2,La Salle,,
+minoraverages/Nemec,1914,Illinois-Missouri League,walker,B01572,Walker,Theodore (Pete),T,,19140520/19140807,"B24p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,walker,B02357,Walker,Theodore (Pete),0,Ottawa,19140520/19140608,"B8p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,walker,B02361,Walker,Theodore (Pete),0,La Salle,19140612/19140807,"B16p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,walker,P10654,Walker,,1,Ottawa,,
+minoraverages/Nemec,1914,Illinois-Missouri League,walker,P10654,Walker,,2,La Salle,,
+minoraverages/Nemec,1914,Illinois-Missouri League,walker,P10654,Walker,,T,,,P21
+minoraverages/Nemec,1914,Illinois-Missouri League,walker,P10883,Walker,,0,Ottawa,,P7
+minoraverages/Nemec,1914,Illinois-Missouri League,walker,P10894,Walker,,0,La Salle,,P14
+minoraverages/1915Spalding,1914,Illinois-Missouri League,walsh,B00672,Walsh,,1,Lincoln,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,walsh,B00672,Walsh,,2,La Salle,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,walsh,B00672,Walsh,,T,,,B34
+minoraverages/1915Spalding,1914,Illinois-Missouri League,walsh,F20745,Walsh,,1,Lincoln,,p
+minoraverages/1915Spalding,1914,Illinois-Missouri League,walsh,F20745,Walsh,,2,La Salle,,p
+minoraverages/1915Spalding,1914,Illinois-Missouri League,walsh,F20745,Walsh,,T,,,p34
+minoraverages/1915Spalding,1914,Illinois-Missouri League,walsh,P10145,Walsh,,1,Lincoln,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,walsh,P10145,Walsh,,2,La Salle,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,walsh,P10145,Walsh,,T,,,P22
+minoraverages/Nemec,1914,Illinois-Missouri League,walsh,B01580,Walsh,Joseph (Joey),1,Lincoln,,
+minoraverages/Nemec,1914,Illinois-Missouri League,walsh,B01580,Walsh,Joseph (Joey),2,La Salle,,
+minoraverages/Nemec,1914,Illinois-Missouri League,walsh,B01580,Walsh,Joseph (Joey),T,,19140517/19140808,"B23p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,walsh,B02373,Walsh,Joseph (Joey),0,Lincoln,19140517/19140627,"B11p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,walsh,B02385,Walsh,Joseph (Joey),0,La Salle,19140704/19140808,"B12p,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,walsh,P10665,Walsh,,1,Lincoln,,
+minoraverages/Nemec,1914,Illinois-Missouri League,walsh,P10665,Walsh,,2,La Salle,,
+minoraverages/Nemec,1914,Illinois-Missouri League,walsh,P10665,Walsh,,T,,,P21
+minoraverages/Nemec,1914,Illinois-Missouri League,walsh,P10901,Walsh,,0,Lincoln,,P10
+minoraverages/Nemec,1914,Illinois-Missouri League,walsh,P10917,Walsh,,0,La Salle,,P11
+minoraverages/1915Spalding,1914,Illinois-Missouri League,walters,B00174,Walters,,0,La Salle,,B48
+minoraverages/1915Spalding,1914,Illinois-Missouri League,walters,F20051,Walters,,0,La Salle,,1b48
+minoraverages/1915Spalding,1914,Illinois-Missouri League,walters,P10304,Walters,,0,La Salle,,P2
+minoraverages/Nemec,1914,Illinois-Missouri League,walters,B01595,Walters,Roxy,0,La Salle,19140526/19140722,"B55p,1b"
+minoraverages/Nemec,1914,Illinois-Missouri League,walters,P10679,Walters,,0,La Salle,,P6
+minoraverages/Nemec,1914,Illinois-Missouri League,weberus,B01601,Weberus,,0,La Salle,19140513/19140525,"B132b,3b,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,wenz,B01617,Wenz,,0,Streator,19140513/19140628,"B442b,3b"
+minoraverages/1915Spalding,1914,Illinois-Missouri League,whaley,F20908,Whaley,,0,Streator,,p19
+minoraverages/1915Spalding,1914,Illinois-Missouri League,whaley,P10081,Whaley,,0,Streator,,P15
+minoraverages/Nemec,1914,Illinois-Missouri League,whaley,B01625,Whaley,William,0,Streator,19140623/19140809,"B22p,2b,ss,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,whaley,P10687,Whaley,,0,Streator,,P15
+minoraverages/1915Spalding,1914,Illinois-Missouri League,whitehouse,B00747,Whitehouse,,0,Champaign,,B28
+minoraverages/1915Spalding,1914,Illinois-Missouri League,whitehouse,F20855,Whitehouse,,0,Champaign,,p28
+minoraverages/1915Spalding,1914,Illinois-Missouri League,whitehouse,P10070,Whitehouse,,0,Champaign,,P27
+minoraverages/Nemec,1914,Illinois-Missouri League,whitehouse,B01630,Whitehouse,Charles E.,0,Champaign,19140514/19140809,"B28p,3b,ss"
+minoraverages/Nemec,1914,Illinois-Missouri League,whitehouse,P10698,Whitehouse,,0,Champaign,,P27
+minoraverages/1915Spalding,1914,Illinois-Missouri League,wilmeroth,B00854,Wilmeroth,,0,La Salle,,
+minoraverages/1915Spalding,1914,Illinois-Missouri League,wilmeroth,F20713,Wilmeroth,,0,La Salle,,p1
+minoraverages/1915Spalding,1914,Illinois-Missouri League,wilmeroth,P10290,Wilmeroth,,0,La Salle,,P1
+minoraverages/Nemec,1914,Illinois-Missouri League,wilmeroth,B01649,Wilmeroth,Eddie,0,La Salle,19140809/19140809,B1p
+minoraverages/Nemec,1914,Illinois-Missouri League,wilmeroth,P10709,Wilmeroth,,0,La Salle,,P1
+minoraverages/1915Spalding,1914,Illinois-Missouri League,wilson-cha,B00362,Wilson,,0,Champaign,,B81
+minoraverages/1915Spalding,1914,Illinois-Missouri League,wilson-cha,F20166,Wilson,,0,Champaign,,2b73
+minoraverages/Nemec,1914,Illinois-Missouri League,wilson-kan,B01658,Wilson,,0,Kankakee,19140524/19140524,B1p
+minoraverages/Nemec,1914,Illinois-Missouri League,wilson-cha,B01663,Wilson,Fred (Blackie),0,Champaign,19140513/19140809,"B822b,of"
+minoraverages/Nemec,1914,Illinois-Missouri League,wilson-cha,M90018,Wilson,Fred (Blackie),,Champaign,,
+minoraverages/Nemec,1914,Illinois-Missouri League,wilson-kan,P10714,Wilson,,0,Kankakee,,P1
+minoraverages/emilbb,1914,Illinois-Missouri League,,M92672,Wilson,"Fred ""Blackie""",,Champaign-Urbana,,
+minoraverages/Nemec,1914,Illinois-Missouri League,wise-ott,B01674,Wise,,0,Ottawa,19140516/19140516,B1p
+minoraverages/Nemec,1914,Illinois-Missouri League,wise-las,B01682,Wise,,0,La Salle,19140513/19140514,B22b
+minoraverages/Nemec,1914,Illinois-Missouri League,wise-ott,P10723,Wise,,0,Ottawa,,P1
+minoraverages/Nemec,1914,Illinois-Missouri League,zell,B01696,Zell (Sell),,0,Kankakee,19140513/19140515,B3c

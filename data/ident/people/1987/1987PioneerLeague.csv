@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1987,Pioneer League,dennis,M91796,Dennis,Eddie,,Medicine Hat,,,,,
-minoraverages/emilbb,1987,Pioneer League,gilbreath,M91816,Gilbreath,Rod,,Idaho Falls,,,,,
-minoraverages/emilbb,1987,Pioneer League,gilligan,M91803,Gilligan,Jim,,Salt Lake City,,,,,
-minoraverages/emilbb,1987,Pioneer League,huppert,M91763,Huppert,Dave,,Helena,,,,,
-minoraverages/emilbb,1987,Pioneer League,,M91782,Johnson,Tim,,Great Falls,,,,,
-minoraverages/emilbb,1987,Pioneer League,keller,M91774,Keller,Dave,,Billings,,,,,
-minoraverages/emilbb,1987,Pioneer League,landestoy,M91827,Landestoy,Rafael,,Pocatello,,,,,
-minoraverages/emilbb,1987,Pioneer League,rodriguez,M91834,Rodriguez,Ernie,,Butte,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1987,Pioneer League,dennis,M91796,Dennis,Eddie,,Medicine Hat,,
+minoraverages/emilbb,1987,Pioneer League,gilbreath,M91816,Gilbreath,Rod,,Idaho Falls,,
+minoraverages/emilbb,1987,Pioneer League,gilligan,M91803,Gilligan,Jim,,Salt Lake City,,
+minoraverages/emilbb,1987,Pioneer League,huppert,M91763,Huppert,Dave,,Helena,,
+minoraverages/emilbb,1987,Pioneer League,,M91782,Johnson,Tim,,Great Falls,,
+minoraverages/emilbb,1987,Pioneer League,keller,M91774,Keller,Dave,,Billings,,
+minoraverages/emilbb,1987,Pioneer League,landestoy,M91827,Landestoy,Rafael,,Pocatello,,
+minoraverages/emilbb,1987,Pioneer League,rodriguez,M91834,Rodriguez,Ernie,,Butte,,

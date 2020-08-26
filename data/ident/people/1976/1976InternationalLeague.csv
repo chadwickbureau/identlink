@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1976,International League,,M90094,Altobelli,Joe,,Rochester,,,,,
-minoraverages/emilbb,1976,International League,,M90110,Beauchamp,Jim,,Memphis,,,,,
-minoraverages/emilbb,1976,International League,,M90155,Burgess,Tom,,Tidewater,,,,,
-minoraverages/emilbb,1976,International League,,M90107,Cox,Bobby,,Syracuse,,,,,
-minoraverages/emilbb,1976,International League,,M90129,McKeon,Jack,,Richmond,,,,,
-minoraverages/emilbb,1976,International League,,M90132,Morgan,Joe M.,,Pawtucket,,,,,
-minoraverages/emilbb,1976,International League,,M90141,Murtaugh,Tim,,Charleston,,,,,
-minoraverages/emilbb,1976,International League,,M90164,Sparks,Joe,,Toledo,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1976,International League,,M90094,Altobelli,Joe,,Rochester,,
+minoraverages/emilbb,1976,International League,,M90110,Beauchamp,Jim,,Memphis,,
+minoraverages/emilbb,1976,International League,,M90155,Burgess,Tom,,Tidewater,,
+minoraverages/emilbb,1976,International League,,M90107,Cox,Bobby,,Syracuse,,
+minoraverages/emilbb,1976,International League,,M90129,McKeon,Jack,,Richmond,,
+minoraverages/emilbb,1976,International League,,M90132,Morgan,Joe M.,,Pawtucket,,
+minoraverages/emilbb,1976,International League,,M90141,Murtaugh,Tim,,Charleston,,
+minoraverages/emilbb,1976,International League,,M90164,Sparks,Joe,,Toledo,,

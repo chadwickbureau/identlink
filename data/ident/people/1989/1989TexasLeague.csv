@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1989,Texas League,,M90744,Bombard,Marc,,El Paso,,,,,
-minoraverages/emilbb,1989,Texas League,,M90691,Evers,Bill,,Shreveport,,,,,
-minoraverages/emilbb,1989,Texas League,,M90728,Kelly,Pat,,Wichita,,,,,
-minoraverages/emilbb,1989,Texas League,,M90731,Oliveras,Max,,Midland,,,,,
-minoraverages/emilbb,1989,Texas League,,M90688,Pitts,Gaylen,,Arkansas,,,,,
-minoraverages/emilbb,1989,Texas League,,M90753,Shoemaker,John,,San Antonio,,,,,
-minoraverages/emilbb,1989,Texas League,,M90715,Swisher,Steve,,Jackson,,,,,
-minoraverages/emilbb,1989,Texas League,,M90702,Thompson,Tommy,,Tulsa,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1989,Texas League,,M90744,Bombard,Marc,,El Paso,,
+minoraverages/emilbb,1989,Texas League,,M90691,Evers,Bill,,Shreveport,,
+minoraverages/emilbb,1989,Texas League,,M90728,Kelly,Pat,,Wichita,,
+minoraverages/emilbb,1989,Texas League,,M90731,Oliveras,Max,,Midland,,
+minoraverages/emilbb,1989,Texas League,,M90688,Pitts,Gaylen,,Arkansas,,
+minoraverages/emilbb,1989,Texas League,,M90753,Shoemaker,John,,San Antonio,,
+minoraverages/emilbb,1989,Texas League,,M90715,Swisher,Steve,,Jackson,,
+minoraverages/emilbb,1989,Texas League,,M90702,Thompson,Tommy,,Tulsa,,

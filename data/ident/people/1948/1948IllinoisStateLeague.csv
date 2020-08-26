@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1948,Illinois State League,,M94593,Contini,Harold,,West Frankfort,,,,,
-minoraverages/emilbb,1948,Illinois State League,,M94624,Crespi,Frank,,Mount Vernon,,,,,
-minoraverages/emilbb,1948,Illinois State League,,M94643,Deniston,Shannon,,Belleville,,,,,
-minoraverages/emilbb,1948,Illinois State League,,M94608,Hawley,Chuck,,Mattoon,,,,,
-minoraverages/emilbb,1948,Illinois State League,,M94619,Ivy,Melvin,,Marion,,,,,
-minoraverages/emilbb,1948,Illinois State League,,M94635,Nemitz,Gerald,,Belleville,,,,,
-minoraverages/emilbb,1948,Illinois State League,,M94662,Passeau,Claude,,Centralia,,,,,
-minoraverages/emilbb,1948,Illinois State League,,M94656,Sellergren,Willard,,Centralia,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1948,Illinois State League,,M94593,Contini,Harold,,West Frankfort,,
+minoraverages/emilbb,1948,Illinois State League,,M94624,Crespi,Frank,,Mount Vernon,,
+minoraverages/emilbb,1948,Illinois State League,,M94643,Deniston,Shannon,,Belleville,,
+minoraverages/emilbb,1948,Illinois State League,,M94608,Hawley,Chuck,,Mattoon,,
+minoraverages/emilbb,1948,Illinois State League,,M94619,Ivy,Melvin,,Marion,,
+minoraverages/emilbb,1948,Illinois State League,,M94635,Nemitz,Gerald,,Belleville,,
+minoraverages/emilbb,1948,Illinois State League,,M94662,Passeau,Claude,,Centralia,,
+minoraverages/emilbb,1948,Illinois State League,,M94656,Sellergren,Willard,,Centralia,,

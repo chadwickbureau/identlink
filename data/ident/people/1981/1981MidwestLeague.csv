@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1981,Midwest League,,M91087,Bevington,Terry,,Burlington,,,,,
-minoraverages/emilbb,1981,Midwest League,,M91079,Davidson,Randy,,Cedar Rapids,,,,,
-minoraverages/emilbb,1981,Midwest League,,M91054,Ewing,Sam,,Appleton,,,,,
-minoraverages/emilbb,1981,Midwest League,,M91033,Hodge,Gomer,,Waterloo,,,,,
-minoraverages/emilbb,1981,Midwest League,,M91098,Kim,Wendell,,Clinton,,,,,
-minoraverages/emilbb,1981,Midwest League,,M91065,Morales,Rich,,Quad Cities,,,,,
-minoraverages/emilbb,1981,Midwest League,,M91022,Plummer,Bill,,Wausau,,,,,
-minoraverages/emilbb,1981,Midwest League,,M91040,Staples,Ken,,Wisconsin Rapids,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1981,Midwest League,,M91087,Bevington,Terry,,Burlington,,
+minoraverages/emilbb,1981,Midwest League,,M91079,Davidson,Randy,,Cedar Rapids,,
+minoraverages/emilbb,1981,Midwest League,,M91054,Ewing,Sam,,Appleton,,
+minoraverages/emilbb,1981,Midwest League,,M91033,Hodge,Gomer,,Waterloo,,
+minoraverages/emilbb,1981,Midwest League,,M91098,Kim,Wendell,,Clinton,,
+minoraverages/emilbb,1981,Midwest League,,M91065,Morales,Rich,,Quad Cities,,
+minoraverages/emilbb,1981,Midwest League,,M91022,Plummer,Bill,,Wausau,,
+minoraverages/emilbb,1981,Midwest League,,M91040,Staples,Ken,,Wisconsin Rapids,,

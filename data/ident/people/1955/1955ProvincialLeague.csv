@@ -1,8 +1,8 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1955,Provincial League,,M92308,Barillari,Al,,Trois-Rivieres,,,,,
-minoraverages/emilbb,1955,Provincial League,,M92319,Hartness,Edgar,,Sherbrooke,,,,,
-minoraverages/emilbb,1955,Provincial League,,M92278,Luciano,Fred,,St. Jean,,,,,
-minoraverages/emilbb,1955,Provincial League,,M92324,Lutz,Barney,,Thetford Mines,,,,,
-minoraverages/emilbb,1955,Provincial League,,M92264,Mizerak,Steve,,St. Jean,,,,,
-minoraverages/emilbb,1955,Provincial League,,M92293,Plumbo,Vince,,Burlington,,,,,
-minoraverages/emilbb,1955,Provincial League,,M92286,Sisti,Sibby,,Quebec,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1955,Provincial League,,M92308,Barillari,Al,,Trois-Rivieres,,
+minoraverages/emilbb,1955,Provincial League,,M92319,Hartness,Edgar,,Sherbrooke,,
+minoraverages/emilbb,1955,Provincial League,,M92278,Luciano,Fred,,St. Jean,,
+minoraverages/emilbb,1955,Provincial League,,M92324,Lutz,Barney,,Thetford Mines,,
+minoraverages/emilbb,1955,Provincial League,,M92264,Mizerak,Steve,,St. Jean,,
+minoraverages/emilbb,1955,Provincial League,,M92293,Plumbo,Vince,,Burlington,,
+minoraverages/emilbb,1955,Provincial League,,M92286,Sisti,Sibby,,Quebec,,

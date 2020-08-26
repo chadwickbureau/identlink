@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1981,Carolina League,,M90881,Dancy,Bill,,Peninsula,,,,,
-minoraverages/emilbb,1981,Carolina League,,M90856,Dusan,Gene,,Lynchburg,,,,,
-minoraverages/emilbb,1981,Carolina League,,M90862,Ezell,Glenn,,Salem,,,,,
-minoraverages/emilbb,1981,Carolina League,,M90914,Gallagher,Al,,Durham,,,,,
-minoraverages/emilbb,1981,Carolina League,,M90897,Hunter,Buddy,,Winston-Salem,,,,,
-minoraverages/emilbb,1981,Carolina League,,M90843,Little,Grady,,Hagerstown,,,,,
-minoraverages/emilbb,1981,Carolina League,,M90909,McLaren,John,,Kinston,,,,,
-minoraverages/emilbb,1981,Carolina League,,M90870,Toomey,Mike,,Alexandria,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1981,Carolina League,,M90881,Dancy,Bill,,Peninsula,,
+minoraverages/emilbb,1981,Carolina League,,M90856,Dusan,Gene,,Lynchburg,,
+minoraverages/emilbb,1981,Carolina League,,M90862,Ezell,Glenn,,Salem,,
+minoraverages/emilbb,1981,Carolina League,,M90914,Gallagher,Al,,Durham,,
+minoraverages/emilbb,1981,Carolina League,,M90897,Hunter,Buddy,,Winston-Salem,,
+minoraverages/emilbb,1981,Carolina League,,M90843,Little,Grady,,Hagerstown,,
+minoraverages/emilbb,1981,Carolina League,,M90909,McLaren,John,,Kinston,,
+minoraverages/emilbb,1981,Carolina League,,M90870,Toomey,Mike,,Alexandria,,

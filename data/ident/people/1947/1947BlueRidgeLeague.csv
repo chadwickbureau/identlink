@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1947,Blue Ridge League,,M93027,Casbier,Noel,,Lenoir,,,,,
-minoraverages/emilbb,1947,Blue Ridge League,,M92999,Dean,Alfred,,Mount Airy,,,,,
-minoraverages/emilbb,1947,Blue Ridge League,,M93016,Gibson,Sam,,Radford,,,,,
-minoraverages/emilbb,1947,Blue Ridge League,,M93003,Guinther,Eddie,,Radford,,,,,
-minoraverages/1947TSN,1947,Blue Ridge League,,F20474,Leonard,,0,Radford,,,,,of21
-minoraverages/emilbb,1947,Blue Ridge League,,M92985,Morgan,Eddie,,Galax,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1947,Blue Ridge League,,M93027,Casbier,Noel,,Lenoir,,
+minoraverages/emilbb,1947,Blue Ridge League,,M92999,Dean,Alfred,,Mount Airy,,
+minoraverages/emilbb,1947,Blue Ridge League,,M93016,Gibson,Sam,,Radford,,
+minoraverages/emilbb,1947,Blue Ridge League,,M93003,Guinther,Eddie,,Radford,,
+minoraverages/1947TSN,1947,Blue Ridge League,,F20474,Leonard,,0,Radford,,of21
+minoraverages/emilbb,1947,Blue Ridge League,,M92985,Morgan,Eddie,,Galax,,

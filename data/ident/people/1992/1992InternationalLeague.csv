@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1992,International League,,M90155,Chambliss,Chris,,Richmond,,,,,
-minoraverages/emilbb,1992,International League,,M90141,Down,Rick,,Columbus,,,,,
-minoraverages/emilbb,1992,International League,,M90107,Elia,Lee,,Scranton/Wilkes-Barre,,,,,
-minoraverages/emilbb,1992,International League,,M90178,Hurdle,Clint,,Tidewater,,,,,
-minoraverages/emilbb,1992,International League,,M90132,Leyva,Nick,,Syracuse,,,,,
-minoraverages/emilbb,1992,International League,,M90129,Narron,Jerry,,Rochester,,,,,
-minoraverages/emilbb,1992,International League,,M90110,Petrocelli,Rico,,Pawtucket,,,,,
-minoraverages/emilbb,1992,International League,,M90164,Sparks,Joe,,Toledo,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1992,International League,,M90155,Chambliss,Chris,,Richmond,,
+minoraverages/emilbb,1992,International League,,M90141,Down,Rick,,Columbus,,
+minoraverages/emilbb,1992,International League,,M90107,Elia,Lee,,Scranton/Wilkes-Barre,,
+minoraverages/emilbb,1992,International League,,M90178,Hurdle,Clint,,Tidewater,,
+minoraverages/emilbb,1992,International League,,M90132,Leyva,Nick,,Syracuse,,
+minoraverages/emilbb,1992,International League,,M90129,Narron,Jerry,,Rochester,,
+minoraverages/emilbb,1992,International League,,M90110,Petrocelli,Rico,,Pawtucket,,
+minoraverages/emilbb,1992,International League,,M90164,Sparks,Joe,,Toledo,,

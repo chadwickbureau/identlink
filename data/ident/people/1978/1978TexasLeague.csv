@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1978,Texas League,,M90728,Demeter,Steve,,Shreveport,,,,,
-minoraverages/emilbb,1978,Texas League,,M90766,Ezell,Glenn,,Amarillo,,,,,
-minoraverages/emilbb,1978,Texas League,,M90744,LeJohn,Don Sr.,,San Antonio,,,,,
-minoraverages/emilbb,1978,Texas League,,M90715,Martinez,"Orlando ""Marty""",,Tulsa,,,,,
-minoraverages/emilbb,1978,Texas League,,M90753,Saul,Jim,,Midland,,,,,
-minoraverages/emilbb,1978,Texas League,,M90731,Stubing,"Larry ""Moose""",,El Paso,,,,,
-minoraverages/emilbb,1978,Texas League,,M90691,Thompson,Tommy,,Arkansas,,,,,
-minoraverages/emilbb,1978,Texas League,,M90702,Wellman,Bob,,Jackson,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1978,Texas League,,M90728,Demeter,Steve,,Shreveport,,
+minoraverages/emilbb,1978,Texas League,,M90766,Ezell,Glenn,,Amarillo,,
+minoraverages/emilbb,1978,Texas League,,M90744,LeJohn,Don Sr.,,San Antonio,,
+minoraverages/emilbb,1978,Texas League,,M90715,Martinez,"Orlando ""Marty""",,Tulsa,,
+minoraverages/emilbb,1978,Texas League,,M90753,Saul,Jim,,Midland,,
+minoraverages/emilbb,1978,Texas League,,M90731,Stubing,"Larry ""Moose""",,El Paso,,
+minoraverages/emilbb,1978,Texas League,,M90691,Thompson,Tommy,,Arkansas,,
+minoraverages/emilbb,1978,Texas League,,M90702,Wellman,Bob,,Jackson,,

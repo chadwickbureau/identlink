@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1995,Texas League,,M90824,Ireland,Tim,,El Paso,,,,,
-minoraverages/emilbb,1995,Texas League,,M90819,Johnson,Ron,,Wichita,,,,,
-minoraverages/emilbb,1995,Texas League,,M90808,Jones,Bobby,,Tulsa,,,,,
-minoraverages/emilbb,1995,Texas League,,M90835,Mendoza,Mario,,Midland,,,,,
-minoraverages/emilbb,1995,Texas League,,M90789,Ramsey,Mike,,Arkansas,,,,,
-minoraverages/emilbb,1995,Texas League,,M90843,Shelby,John,,San Antonio,,,,,
-minoraverages/emilbb,1995,Texas League,,M90790,Tolman,Tim,,Jackson,,,,,
-minoraverages/emilbb,1995,Texas League,,M90777,Wotus,Ron,,Shreveport,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1995,Texas League,,M90824,Ireland,Tim,,El Paso,,
+minoraverages/emilbb,1995,Texas League,,M90819,Johnson,Ron,,Wichita,,
+minoraverages/emilbb,1995,Texas League,,M90808,Jones,Bobby,,Tulsa,,
+minoraverages/emilbb,1995,Texas League,,M90835,Mendoza,Mario,,Midland,,
+minoraverages/emilbb,1995,Texas League,,M90789,Ramsey,Mike,,Arkansas,,
+minoraverages/emilbb,1995,Texas League,,M90843,Shelby,John,,San Antonio,,
+minoraverages/emilbb,1995,Texas League,,M90790,Tolman,Tim,,Jackson,,
+minoraverages/emilbb,1995,Texas League,,M90777,Wotus,Ron,,Shreveport,,

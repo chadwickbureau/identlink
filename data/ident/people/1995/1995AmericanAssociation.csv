@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1995,American Association,,M90071,Bando,Chris,,New Orleans,,,,,
-minoraverages/emilbb,1995,American Association,,M90083,Biagini,Greg,,Oklahoma City,,,,,
-minoraverages/emilbb,1995,American Association,,M90018,Bombard,Marc,,Indianapolis,,,,,
-minoraverages/emilbb,1995,American Association,,M90052,Clark,Ron,,Iowa,,,,,
-minoraverages/emilbb,1995,American Association,,M90026,Graham,Brian,,Buffalo,,,,,
-minoraverages/emilbb,1995,American Association,,M90039,Jerschele,Mike,,Omaha,,,,,
-minoraverages/emilbb,1995,American Association,,M90047,Pettini,Joe,,Louisville,,,,,
-minoraverages/emilbb,1995,American Association,,M90060,Renick,Rick,,Nashville,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1995,American Association,,M90071,Bando,Chris,,New Orleans,,
+minoraverages/emilbb,1995,American Association,,M90083,Biagini,Greg,,Oklahoma City,,
+minoraverages/emilbb,1995,American Association,,M90018,Bombard,Marc,,Indianapolis,,
+minoraverages/emilbb,1995,American Association,,M90052,Clark,Ron,,Iowa,,
+minoraverages/emilbb,1995,American Association,,M90026,Graham,Brian,,Buffalo,,
+minoraverages/emilbb,1995,American Association,,M90039,Jerschele,Mike,,Omaha,,
+minoraverages/emilbb,1995,American Association,,M90047,Pettini,Joe,,Louisville,,
+minoraverages/emilbb,1995,American Association,,M90060,Renick,Rick,,Nashville,,

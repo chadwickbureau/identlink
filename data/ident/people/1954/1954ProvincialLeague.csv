@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1954,Provincial League,,M92416,Barillari,Al,,Trois-Rivieres,,,,,
-minoraverages/emilbb,1954,Provincial League,,M92434,Bissatti,Hank,,Drummondville,,,,,
-minoraverages/emilbb,1954,Provincial League,,M92442,Detore,George,,St. Jean,,,,,
-minoraverages/emilbb,1954,Provincial League,,M92469,Krueger,Bill,,Thetford Mines,,,,,
-minoraverages/emilbb,1954,Provincial League,,M92397,McQuinn,George,,Quebec,,,,,
-minoraverages/emilbb,1954,Provincial League,,M92450,Mizerak,Steve,,St. Jean,,,,,
-minoraverages/emilbb,1954,Provincial League,,M92427,Stirnweiss,George,,Trois-Rivieres,,,,,
-minoraverages/emilbb,1954,Provincial League,,M92403,Wylie,Mark,,Sherbrooke,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1954,Provincial League,,M92416,Barillari,Al,,Trois-Rivieres,,
+minoraverages/emilbb,1954,Provincial League,,M92434,Bissatti,Hank,,Drummondville,,
+minoraverages/emilbb,1954,Provincial League,,M92442,Detore,George,,St. Jean,,
+minoraverages/emilbb,1954,Provincial League,,M92469,Krueger,Bill,,Thetford Mines,,
+minoraverages/emilbb,1954,Provincial League,,M92397,McQuinn,George,,Quebec,,
+minoraverages/emilbb,1954,Provincial League,,M92450,Mizerak,Steve,,St. Jean,,
+minoraverages/emilbb,1954,Provincial League,,M92427,Stirnweiss,George,,Trois-Rivieres,,
+minoraverages/emilbb,1954,Provincial League,,M92403,Wylie,Mark,,Sherbrooke,,

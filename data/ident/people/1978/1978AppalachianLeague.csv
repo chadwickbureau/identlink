@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1978,Appalachian League,,M91535,Haas,Eddie,,Kingsport,,,,,
-minoraverages/emilbb,1978,Appalachian League,,M91519,Lewis,Joe,,Bristol,,,,,
-minoraverages/emilbb,1978,Appalachian League,,M91508,Leyva,Nick,,Johnson City,,,,,
-minoraverages/emilbb,1978,Appalachian League,,M91524,Mihal,Ron,,Paintsville,,,,,
-minoraverages/emilbb,1978,Appalachian League,,M91543,Miner,Junior,,Bluefield,,,,,
-minoraverages/emilbb,1978,Appalachian League,,M91495,Waters,Fred,,Elizabethton,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1978,Appalachian League,,M91535,Haas,Eddie,,Kingsport,,
+minoraverages/emilbb,1978,Appalachian League,,M91519,Lewis,Joe,,Bristol,,
+minoraverages/emilbb,1978,Appalachian League,,M91508,Leyva,Nick,,Johnson City,,
+minoraverages/emilbb,1978,Appalachian League,,M91524,Mihal,Ron,,Paintsville,,
+minoraverages/emilbb,1978,Appalachian League,,M91543,Miner,Junior,,Bluefield,,
+minoraverages/emilbb,1978,Appalachian League,,M91495,Waters,Fred,,Elizabethton,,

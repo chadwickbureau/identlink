@@ -1,8 +1,8 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1959,Texas League,,M90540,Benson,Vern,,Tulsa,,,,,
-minoraverages/emilbb,1959,Texas League,,M90554,Hutton,Grady,,San Antonio,,,,,
-minoraverages/emilbb,1959,Texas League,,M90565,Lutz,Barney,,Amarillo,,,,,
-minoraverages/emilbb,1959,Texas League,,M90587,Murray,Ray,,Corpus Christi,,,,,
-minoraverages/emilbb,1959,Texas League,,M90522,Reiser,Pete,,Victoria,,,,,
-minoraverages/emilbb,1959,Texas League,,M90579,Staller,George,,Amarillo,,,,,
-minoraverages/emilbb,1959,Texas League,,M90533,White,Ernie,,Austin,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1959,Texas League,,M90540,Benson,Vern,,Tulsa,,
+minoraverages/emilbb,1959,Texas League,,M90554,Hutton,Grady,,San Antonio,,
+minoraverages/emilbb,1959,Texas League,,M90565,Lutz,Barney,,Amarillo,,
+minoraverages/emilbb,1959,Texas League,,M90587,Murray,Ray,,Corpus Christi,,
+minoraverages/emilbb,1959,Texas League,,M90522,Reiser,Pete,,Victoria,,
+minoraverages/emilbb,1959,Texas League,,M90579,Staller,George,,Amarillo,,
+minoraverages/emilbb,1959,Texas League,,M90533,White,Ernie,,Austin,,

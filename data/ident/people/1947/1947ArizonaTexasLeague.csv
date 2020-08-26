@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1947,Arizona-Texas League,,M91495,Biggs,Alton,,Phoenix,,,,,
-minoraverages/emilbb,1947,Arizona-Texas League,,M91535,Brown,Lloyd,,Globe-Miami,,,,,
-minoraverages/emilbb,1947,Arizona-Texas League,,M91543,Cohen,Syd,,El Paso,,,,,
-minoraverages/emilbb,1947,Arizona-Texas League,,M91524,Fortes,Manuel,,Juarez/Mesa,,,,,
-minoraverages/emilbb,1947,Arizona-Texas League,,M91519,Metro,Charlie,,Bisbee,,,,,
-minoraverages/emilbb,1947,Arizona-Texas League,,M91508,Vosmik,Joe,,Tucson,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1947,Arizona-Texas League,,M91495,Biggs,Alton,,Phoenix,,
+minoraverages/emilbb,1947,Arizona-Texas League,,M91535,Brown,Lloyd,,Globe-Miami,,
+minoraverages/emilbb,1947,Arizona-Texas League,,M91543,Cohen,Syd,,El Paso,,
+minoraverages/emilbb,1947,Arizona-Texas League,,M91524,Fortes,Manuel,,Juarez/Mesa,,
+minoraverages/emilbb,1947,Arizona-Texas League,,M91519,Metro,Charlie,,Bisbee,,
+minoraverages/emilbb,1947,Arizona-Texas League,,M91508,Vosmik,Joe,,Tucson,,

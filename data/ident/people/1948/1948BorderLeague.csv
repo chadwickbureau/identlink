@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1948,Border League,,M91842,Gerken,Fred,,Watertown,,,,,
-minoraverages/emilbb,1948,Border League,,M91869,Hearn,Barney,,Auburn,,,,,
-minoraverages/emilbb,1948,Border League,,M91850,Lady,Ben,,Kingston,,,,,
-minoraverages/emilbb,1948,Border League,,M91816,Metzig,Bill,,Ottawa,,,,,
-minoraverages/emilbb,1948,Border League,,M91827,Small,Charles,,Geneva,,,,,
-minoraverages/emilbb,1948,Border League,,M91834,Wein,Russ,,Ogdensburg,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1948,Border League,,M91842,Gerken,Fred,,Watertown,,
+minoraverages/emilbb,1948,Border League,,M91869,Hearn,Barney,,Auburn,,
+minoraverages/emilbb,1948,Border League,,M91850,Lady,Ben,,Kingston,,
+minoraverages/emilbb,1948,Border League,,M91816,Metzig,Bill,,Ottawa,,
+minoraverages/emilbb,1948,Border League,,M91827,Small,Charles,,Geneva,,
+minoraverages/emilbb,1948,Border League,,M91834,Wein,Russ,,Ogdensburg,,

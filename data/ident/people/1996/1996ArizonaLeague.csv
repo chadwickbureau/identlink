@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1996,Arizona League,,M91869,Eppard,Jim,,Rockies,,,,,
-minoraverages/emilbb,1996,Arizona League,,M91875,Hines,Bruce,,Angels,,,,,
-minoraverages/emilbb,1996,Arizona League,,M91850,LeVasseur,Tom,,Mariners,,,,,
-minoraverages/emilbb,1996,Arizona League,,M91888,Murphy,Dwayne,,Diamondbacks,,,,,
-minoraverages/emilbb,1996,Arizona League,,M91842,Navarrete,Juan,,Athletics,,,,,
-minoraverages/emilbb,1996,Arizona League,,M91834,See,Larry,,Padres,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1996,Arizona League,,M91869,Eppard,Jim,,Rockies,,
+minoraverages/emilbb,1996,Arizona League,,M91875,Hines,Bruce,,Angels,,
+minoraverages/emilbb,1996,Arizona League,,M91850,LeVasseur,Tom,,Mariners,,
+minoraverages/emilbb,1996,Arizona League,,M91888,Murphy,Dwayne,,Diamondbacks,,
+minoraverages/emilbb,1996,Arizona League,,M91842,Navarrete,Juan,,Athletics,,
+minoraverages/emilbb,1996,Arizona League,,M91834,See,Larry,,Padres,,

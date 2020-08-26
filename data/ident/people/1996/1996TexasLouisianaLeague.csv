@@ -1,8 +1,8 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1996,Texas-Louisiana League,,M92771,Cliburn,Stan,,Alexandria,,,,,
-minoraverages/emilbb,1996,Texas-Louisiana League,,M92783,Hilton,Dave,,Tyler,,,,,
-minoraverages/emilbb,1996,Texas-Louisiana League,,M92760,Lacey,Bob,,Amarillo,,,,,
-minoraverages/emilbb,1996,Texas-Louisiana League,,M92739,Minton,Greg,,Lubbock,,,,,
-minoraverages/emilbb,1996,Texas-Louisiana League,,M92752,Nettles,Jim,,Amarillo,,,,,
-minoraverages/emilbb,1996,Texas-Louisiana League,,M92747,Pacella,John,,Rio Grande Valley,,,,,
-minoraverages/emilbb,1996,Texas-Louisiana League,,M92726,Stephenson,Phil,,Abilene,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1996,Texas-Louisiana League,,M92771,Cliburn,Stan,,Alexandria,,
+minoraverages/emilbb,1996,Texas-Louisiana League,,M92783,Hilton,Dave,,Tyler,,
+minoraverages/emilbb,1996,Texas-Louisiana League,,M92760,Lacey,Bob,,Amarillo,,
+minoraverages/emilbb,1996,Texas-Louisiana League,,M92739,Minton,Greg,,Lubbock,,
+minoraverages/emilbb,1996,Texas-Louisiana League,,M92752,Nettles,Jim,,Amarillo,,
+minoraverages/emilbb,1996,Texas-Louisiana League,,M92747,Pacella,John,,Rio Grande Valley,,
+minoraverages/emilbb,1996,Texas-Louisiana League,,M92726,Stephenson,Phil,,Abilene,,

@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1954,American Association,,M90083,Becker,Joe,,Charleston,,,,,
-minoraverages/emilbb,1954,American Association,,M90052,Bryant,Clay,,St. Paul,,,,,
-minoraverages/emilbb,1954,American Association,,M90071,Craft,Harry,,Kansas City,,,,,
-minoraverages/emilbb,1954,American Association,,M90018,Farrell,Kerby,,Indianapolis,,,,,
-minoraverages/emilbb,1954,American Association,,M90026,Higgins,Pinky,,Louisville,,,,,
-minoraverages/emilbb,1954,American Association,,M90047,Keane,Johnny,,Columbus,,,,,
-minoraverages/emilbb,1954,American Association,,M90039,Rigney,Bill,,Minneapolis,,,,,
-minoraverages/emilbb,1954,American Association,,M90060,Selkirk,George,,Toledo,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1954,American Association,,M90083,Becker,Joe,,Charleston,,
+minoraverages/emilbb,1954,American Association,,M90052,Bryant,Clay,,St. Paul,,
+minoraverages/emilbb,1954,American Association,,M90071,Craft,Harry,,Kansas City,,
+minoraverages/emilbb,1954,American Association,,M90018,Farrell,Kerby,,Indianapolis,,
+minoraverages/emilbb,1954,American Association,,M90026,Higgins,Pinky,,Louisville,,
+minoraverages/emilbb,1954,American Association,,M90047,Keane,Johnny,,Columbus,,
+minoraverages/emilbb,1954,American Association,,M90039,Rigney,Bill,,Minneapolis,,
+minoraverages/emilbb,1954,American Association,,M90060,Selkirk,George,,Toledo,,

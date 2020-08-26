@@ -1,8 +1,8 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1956,Northwest League,,M91157,Dapper,Cliff,,Eugene,,,,,
-minoraverages/emilbb,1956,Northwest League,,M91120,Kittle,Hub,,Yakima,,,,,
-minoraverages/emilbb,1956,Northwest League,,M91136,Layne,Hillis,,Lewiston,,,,,
-minoraverages/emilbb,1956,Northwest League,,M91148,Luby,Hugh,,Salem,,,,,
-minoraverages/emilbb,1956,Northwest League,,M91173,Pries,Don,,Tri-City,,,,,
-minoraverages/emilbb,1956,Northwest League,,M91185,Rossi,Joseph,,Spokane,,,,,
-minoraverages/emilbb,1956,Northwest League,,M91161,Vanni,Edo,,Wenatchee,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1956,Northwest League,,M91157,Dapper,Cliff,,Eugene,,
+minoraverages/emilbb,1956,Northwest League,,M91120,Kittle,Hub,,Yakima,,
+minoraverages/emilbb,1956,Northwest League,,M91136,Layne,Hillis,,Lewiston,,
+minoraverages/emilbb,1956,Northwest League,,M91148,Luby,Hugh,,Salem,,
+minoraverages/emilbb,1956,Northwest League,,M91173,Pries,Don,,Tri-City,,
+minoraverages/emilbb,1956,Northwest League,,M91185,Rossi,Joseph,,Spokane,,
+minoraverages/emilbb,1956,Northwest League,,M91161,Vanni,Edo,,Wenatchee,,

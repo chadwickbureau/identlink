@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1967,Western Carolinas League,,M91339,Hicks,Buddy,,Lexington,,,,,
-minoraverages/emilbb,1967,Western Carolinas League,,M91305,Leppert,Don,,Gastonia,,,,,
-minoraverages/emilbb,1967,Western Carolinas League,,M91347,May,Pinky,,Rock Hill,,,,,
-minoraverages/emilbb,1967,Western Carolinas League,,M91326,Okrie,Len,,Statesville,,,,,
-minoraverages/emilbb,1967,Western Carolinas League,,M91318,Sczesny,Matt,,Greenville,,,,,
-minoraverages/emilbb,1967,Western Carolinas League,,M91292,Teed,Dick,,Spartanburg,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1967,Western Carolinas League,,M91339,Hicks,Buddy,,Lexington,,
+minoraverages/emilbb,1967,Western Carolinas League,,M91305,Leppert,Don,,Gastonia,,
+minoraverages/emilbb,1967,Western Carolinas League,,M91347,May,Pinky,,Rock Hill,,
+minoraverages/emilbb,1967,Western Carolinas League,,M91326,Okrie,Len,,Statesville,,
+minoraverages/emilbb,1967,Western Carolinas League,,M91318,Sczesny,Matt,,Greenville,,
+minoraverages/emilbb,1967,Western Carolinas League,,M91292,Teed,Dick,,Spartanburg,,

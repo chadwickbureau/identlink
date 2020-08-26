@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1991,Texas League,,M90702,Evers,Bill,,Shreveport,,,,,
-minoraverages/emilbb,1991,Texas League,,M90744,Huppert,Dave,,El Paso,,,,,
-minoraverages/emilbb,1991,Texas League,,M90728,Jones,Bobby,,Tulsa,,,,,
-minoraverages/emilbb,1991,Texas League,,M90766,Long,Don,,Midland,,,,,
-minoraverages/emilbb,1991,Texas League,,M90753,Lubratich,Steve,,Wichita,,,,,
-minoraverages/emilbb,1991,Texas League,,M90731,Pettini,Joe,,Arkansas,,,,,
-minoraverages/emilbb,1991,Texas League,,M90777,Shoemaker,John,,San Antonio,,,,,
-minoraverages/emilbb,1991,Texas League,,M90715,Sweet,Rick,,Jackson,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1991,Texas League,,M90702,Evers,Bill,,Shreveport,,
+minoraverages/emilbb,1991,Texas League,,M90744,Huppert,Dave,,El Paso,,
+minoraverages/emilbb,1991,Texas League,,M90728,Jones,Bobby,,Tulsa,,
+minoraverages/emilbb,1991,Texas League,,M90766,Long,Don,,Midland,,
+minoraverages/emilbb,1991,Texas League,,M90753,Lubratich,Steve,,Wichita,,
+minoraverages/emilbb,1991,Texas League,,M90731,Pettini,Joe,,Arkansas,,
+minoraverages/emilbb,1991,Texas League,,M90777,Shoemaker,John,,San Antonio,,
+minoraverages/emilbb,1991,Texas League,,M90715,Sweet,Rick,,Jackson,,

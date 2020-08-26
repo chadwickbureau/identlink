@@ -1,8 +1,8 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1954,Mountain States League,,M92163,Bonura,Zeke,,Lexington,,,,,
-minoraverages/emilbb,1954,Mountain States League,,M92117,Dixon,Walt,,Middlesboro,,,,,
-minoraverages/emilbb,1954,Mountain States League,,M92174,McWilliams,Tuck,,Maryville-Alcoa/Morristown,,,,,
-minoraverages/emilbb,1954,Mountain States League,,M92149,Niehoff,Bert,,Oak Ridge,,,,,
-minoraverages/emilbb,1954,Mountain States League,,M92158,Reyes,Napoleon,,Morristown,,,,,
-minoraverages/emilbb,1954,Mountain States League,,M92130,Shoals,"Leo ""Muscle""",,Kingsport,,,,,
-minoraverages/emilbb,1954,Mountain States League,,M92125,Steinecke,Bill,,Harlan,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1954,Mountain States League,,M92163,Bonura,Zeke,,Lexington,,
+minoraverages/emilbb,1954,Mountain States League,,M92117,Dixon,Walt,,Middlesboro,,
+minoraverages/emilbb,1954,Mountain States League,,M92174,McWilliams,Tuck,,Maryville-Alcoa/Morristown,,
+minoraverages/emilbb,1954,Mountain States League,,M92149,Niehoff,Bert,,Oak Ridge,,
+minoraverages/emilbb,1954,Mountain States League,,M92158,Reyes,Napoleon,,Morristown,,
+minoraverages/emilbb,1954,Mountain States League,,M92130,Shoals,"Leo ""Muscle""",,Kingsport,,
+minoraverages/emilbb,1954,Mountain States League,,M92125,Steinecke,Bill,,Harlan,,

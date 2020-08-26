@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1978,Midwest League,,M91161,Lund,Gordon,,Appleton,,,,,
-minoraverages/emilbb,1978,Midwest League,,M91221,McLaughlin,Dick,,Clinton,,,,,
-minoraverages/emilbb,1978,Midwest League,,M91199,Monzon,Danny,,Wausau,,,,,
-minoraverages/emilbb,1978,Midwest League,,M91237,Mull,Jack,,Cedar Rapids,,,,,
-minoraverages/emilbb,1978,Midwest League,,M91213,Nash,Cotton,,Quad Cities,,,,,
-minoraverages/emilbb,1978,Midwest League,,M91200,Sigman,Lee,,Burlington,,,,,
-minoraverages/emilbb,1978,Midwest League,,M91173,Smith,Woody,,Waterloo,,,,,
-minoraverages/emilbb,1978,Midwest League,,M91185,Stelmaszek,Dick,,Wisconsin Rapids,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1978,Midwest League,,M91161,Lund,Gordon,,Appleton,,
+minoraverages/emilbb,1978,Midwest League,,M91221,McLaughlin,Dick,,Clinton,,
+minoraverages/emilbb,1978,Midwest League,,M91199,Monzon,Danny,,Wausau,,
+minoraverages/emilbb,1978,Midwest League,,M91237,Mull,Jack,,Cedar Rapids,,
+minoraverages/emilbb,1978,Midwest League,,M91213,Nash,Cotton,,Quad Cities,,
+minoraverages/emilbb,1978,Midwest League,,M91200,Sigman,Lee,,Burlington,,
+minoraverages/emilbb,1978,Midwest League,,M91173,Smith,Woody,,Waterloo,,
+minoraverages/emilbb,1978,Midwest League,,M91185,Stelmaszek,Dick,,Wisconsin Rapids,,

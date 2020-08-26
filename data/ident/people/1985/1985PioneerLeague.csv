@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1985,Pioneer League,dyer,M91796,Dyer,Hal,,Butte,,,,,
-minoraverages/emilbb,1985,Pioneer League,easom,M91774,Easom,Mike,,Helena,,,,,
-minoraverages/emilbb,1985,Pioneer League,gattis,M91803,Gattis,Jim,,Salt Lake City,,,,,
-minoraverages/emilbb,1985,Pioneer League,hudgens,M91827,Hudgens,Dave,,Pocatello,,,,,
-minoraverages/emilbb,1985,Pioneer League,kennedy,M91763,Kennedy,Kevin,,Great Falls,,,,,
-minoraverages/emilbb,1985,Pioneer League,lett,M91816,Lett,James,,Billings,,,,,
-minoraverages/emilbb,1985,Pioneer League,rodriguez,M91834,Rodriguez,Reuben,,Idaho Falls,,,,,
-minoraverages/emilbb,1985,Pioneer League,young,M91782,Young,Mike,,Medicine Hat,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1985,Pioneer League,dyer,M91796,Dyer,Hal,,Butte,,
+minoraverages/emilbb,1985,Pioneer League,easom,M91774,Easom,Mike,,Helena,,
+minoraverages/emilbb,1985,Pioneer League,gattis,M91803,Gattis,Jim,,Salt Lake City,,
+minoraverages/emilbb,1985,Pioneer League,hudgens,M91827,Hudgens,Dave,,Pocatello,,
+minoraverages/emilbb,1985,Pioneer League,kennedy,M91763,Kennedy,Kevin,,Great Falls,,
+minoraverages/emilbb,1985,Pioneer League,lett,M91816,Lett,James,,Billings,,
+minoraverages/emilbb,1985,Pioneer League,rodriguez,M91834,Rodriguez,Reuben,,Idaho Falls,,
+minoraverages/emilbb,1985,Pioneer League,young,M91782,Young,Mike,,Medicine Hat,,

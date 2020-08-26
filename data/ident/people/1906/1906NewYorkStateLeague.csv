@@ -1,582 +1,582 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/Nemec,1906,New York State League,ashenback,B00013,Ashenback,Edward M.,0,Scranton,19060513,19060902,2,,"1b,of"
-minoraverages/Nemec,1906,New York State League,ashenback,M90047,Ashenback,Edward M.,,Scranton,,,,,
-minoraverages/1907Reach,1906,New York State League,aubrey,B00319,Aubrey,,0,all,,,132,,
-minoraverages/1907Reach,1906,New York State League,aubrey,F20864,Aubrey,,0,all,,,,,ss132
-minoraverages/Nemec,1906,New York State League,aubrey,B00021,Aubrey,Harry H.*,0,Syracuse,19060510,19060923,131,,"c,3b,ss,of"
-minoraverages/Nemec,1906,New York State League,barber,B00037,Barber,David M.,0,Utica,19060811,19060829,7,,"c,1b,of"
-minoraverages/Nemec,1906,New York State League,barnett,B00045,Barnett,F. John,1,Albany,19060603,19060705,7,,p
-minoraverages/Nemec,1906,New York State League,barnett,B00059,Barnett,F. John,2,Wilkes-Barre,19060902,19060922,6,,p
-minoraverages/Nemec,1906,New York State League,barnett,B00068,Barnett,F. John,T,,,,13,,p
-minoraverages/Nemec,1906,New York State League,barnett,P10019,Barnett,F. John,1,Albany,,,,7,
-minoraverages/Nemec,1906,New York State League,barnett,P10024,Barnett,F. John,2,Wilkes-Barre,,,,6,
-minoraverages/Nemec,1906,New York State League,barnett,P10035,Barnett,F. John,T,,,,,13,
-minoraverages/1907Reach,1906,New York State League,bayne,B00182,Bayne,,0,all,,,41,,
-minoraverages/1907Reach,1906,New York State League,bayne,F20316,Bayne,,0,all,,,,,p41
-minoraverages/Nemec,1906,New York State League,bayne,B00076,Bayne,Alvin B. (Brindle),0,Binghamton,19060511,19060919,45,,"p,1b,of"
-minoraverages/Nemec,1906,New York State League,bayne,P10043,Bayne,A. B. (Brindle),0,Binghamton,,,,41,
-minoraverages/Nemec,1906,New York State League,beckel,B00084,Beckel,Lawrence C.,0,Utica,19060514,19060604,4,,p
-minoraverages/Nemec,1906,New York State League,beckel,P10056,Beckel,Lawrence C.,0,Utica,,,,4,
-minoraverages/1907Reach,1906,New York State League,betts,B00278,Betts,,0,all,,,111,,
-minoraverages/1907Reach,1906,New York State League,betts,F21101,Betts,,0,all,,,,,rf111
-minoraverages/Nemec,1906,New York State League,betts,B00092,Betts,Frederick,1,Scranton,19060510,19060519,10,,of
-minoraverages/Nemec,1906,New York State League,betts,B00101,Betts,Frederick,2,Albany,19060523,19060923,111,,of
-minoraverages/Nemec,1906,New York State League,betts,B00117,Betts,Frederick,T,,,,121,,of
-minoraverages/1907Reach,1906,New York State League,birmingham,B00092,Birmingham,,0,all,,,117,,
-minoraverages/1907Reach,1906,New York State League,birmingham,F21163,Birmingham,,0,all,,,,,rf117
-minoraverages/Nemec,1906,New York State League,birmingham,B00125,Birmingham,Joseph L.*,0,Amsterdam-Johnstown-Gloversville,19060511,19060908,119,,"1b,2b,3b,ss,of"
-minoraverages/1907Reach,1906,New York State League,blanchard,B01032,Blanchard,,0,all,,,16,,
-minoraverages/1907Reach,1906,New York State League,blanchard,F20254,Blanchard,,0,all,,,,,p16
-minoraverages/Nemec,1906,New York State League,blanchard,B00130,Blanchard,Foster L.,0,Utica,19060511,19060828,16,,p
-minoraverages/Nemec,1906,New York State League,blanchard,P10062,Blanchard,Foster L.,0,Utica,,,,16,
-minoraverages/1907Reach,1906,New York State League,boucher,B00854,Boucher,,0,all,,,50,,
-minoraverages/1907Reach,1906,New York State League,boucher,F20832,Boucher,,0,all,,,,,3b50
-minoraverages/Nemec,1906,New York State League,boucher,B00149,Boucher,Alexander F.*,0,Albany,19060710,19060923,69,,3b
-minoraverages/1907Reach,1906,New York State League,bowen,B01029,Bowen,,0,all,,,32,,
-minoraverages/Nemec,1906,New York State League,bowen,B00158,Bowen,Sutherland M. (Cy)*,0,Wilkes-Barre,19060511,19060917,33,,"p,of"
-minoraverages/Nemec,1906,New York State League,bowen,P10070,Bowen,Sutherland M. (Cy),0,Wilkes-Barre,,,,32,
-minoraverages/1907Reach,1906,New York State League,bowers,F20482,Bowers,,0,all,,,,,p32
-minoraverages/Nemec,1906,New York State League,boyle,B00163,Boyle,Fred C. (Lefty),0,Albany,19060608,19060618,3,,"p,of"
-minoraverages/Nemec,1906,New York State League,boyle,P10081,Boyle,Fred (Lefty),0,Albany,,,,2,
-minoraverages/Nemec,1906,New York State League,briger,B00174,Briger,Joseph,0,Binghamton,19060716,19060716,1,,c
-minoraverages/Nemec,1906,New York State League,briger,B00182,Briger,Joseph,0,Albany,19060518,19060518,1,,c
-minoraverages/Nemec,1906,New York State League,brown,B00196,Brown,Delmar,0,Wilkes-Barre,19060707,19060917,10,,2b
-minoraverages/Nemec,1906,New York State League,burton,B00207,Burton,Harry,0,Wilkes-Barre,19060918,19060922,5,,2b
-minoraverages/Nemec,1906,New York State League,cargo,B00210,Cargo,Charles G. (Chic),0,Troy,19060919,19060923,5,,"c,3b,ss,of"
-minoraverages/1907Reach,1906,New York State League,carr,B00822,Carr,,0,all,,,102,,
-minoraverages/1907Reach,1906,New York State League,carr,F20829,Carr,,0,all,,,,,3b102
-minoraverages/Nemec,1906,New York State League,carr,B00229,Carr,Lewis S.*,0,Syracuse,19060510,19060915,102,,3b
-minoraverages/Nemec,1906,New York State League,carriveau,B00232,Carriveau,Frank,0,Wilkes-Barre,19060809,19060812,2,,p
-minoraverages/Nemec,1906,New York State League,carriveau,P10097,Carriveau,Frank,0,Wilkes-Barre,,,,2,
-minoraverages/Nemec,1906,New York State League,carroll-wb,B00241,Carroll,Frank J.,0,Wilkes-Barre,19060913,19060915,3,,"2b,3b"
-minoraverages/Nemec,1906,New York State League,carroll-alb,B00255,Carroll,William John,0,Albany,19060512,19060614,6,,p
-minoraverages/Nemec,1906,New York State League,carroll-alb,P10100,Carroll,William John,0,Albany,,,,6,
-minoraverages/1907Reach,1906,New York State League,carter,B01162,Carter,,0,all,,,37,,
-minoraverages/1907Reach,1906,New York State League,carter,F20287,Carter,,0,all,,,,,p37
-minoraverages/Nemec,1906,New York State League,carter,B00264,Carter,Conrad P. (Nick)*,0,Syracuse,19060510,19060922,38,,"p,of"
-minoraverages/Nemec,1906,New York State League,carter,P10113,Carter,Conrad P.,0,Syracuse,,,,35,
-minoraverages/1907Reach,1906,New York State League,chappelle,B00887,Chappell,,0,all,,,42,,
-minoraverages/Nemec,1906,New York State League,chappelle,B00278,Chappelle,Robert Olin,0,Scranton,19060510,19060823,48,,"p,1b,2b,of"
-minoraverages/Nemec,1906,New York State League,chappelle,P10121,Chappelle,Robert O.,0,Scranton,,,,37,
-minoraverages/1907Reach,1906,New York State League,chappelle,F20206,Chapple,,0,all,,,,,p42
-minoraverages/Nemec,1906,New York State League,childs,B00286,Childs,Peter P.*,0,Amsterdam-Johnstown-Gloversville,19060511,19060923,105,,2b
-minoraverages/1907Reach,1906,New York State League,childs,B00638,Chiles,,0,all,,,102,,
-minoraverages/1907Reach,1906,New York State League,childs,F20657,Chiles,,0,all,,,,,2b102
-minoraverages/1907Reach,1906,New York State League,clark-scr,F20102,Clark,,0,all,,,,,c85
-minoraverages/Nemec,1906,New York State League,clark-bin,B00293,Clark,,0,Binghamton,19060711,19060711,1,,of
-minoraverages/Nemec,1906,New York State League,clark-scr,B00308,Clark,Wilkie Collins,0,Scranton,19060510,19060922,88,,"c,1b"
-minoraverages/1907Reach,1906,New York State League,clark-scr,B00335,Clarke,,0,all,,,85,,
-minoraverages/1907Reach,1906,New York State League,clay,B01170,Clay,,0,all,,,26,,
-minoraverages/1907Reach,1906,New York State League,clay,F20211,Clay,,0,all,,,,,p26
-minoraverages/Nemec,1906,New York State League,clay,B00319,Clay,Waldo H.,0,Amsterdam-Johnstown-Gloversville,19060514,19060921,30,,"p,of"
-minoraverages/Nemec,1906,New York State League,clay,P10137,Clay,Waldo H.,0,Amsterdam-Johnstown-Gloversville,,,,29,
-minoraverages/Nemec,1906,New York State League,cline,B00324,Cline,,0,Binghamton,19060714,19060716,3,,1b
-minoraverages/Nemec,1906,New York State League,cobean,B00335,Cobean,Samuel,0,Utica,19060729,19060729,1,,p
-minoraverages/Nemec,1906,New York State League,cobean,P10145,Cobean,Sam,0,Utica,,,,1,
-minoraverages/Nemec,1906,New York State League,cockill,B00343,Cockill,George,0,Albany,19060510,19060923,137,,1b
-minoraverages/1907Reach,1906,New York State League,connors,B00491,Connor,,0,Wilkes-Barre,,,84,,
-minoraverages/1907Reach,1906,New York State League,connors,F20721,Connor,,0,all,,,,,2b84
-minoraverages/Nemec,1906,New York State League,connors,B00356,Connors,Edward,1,Wilkes-Barre,19060510,19060812,84,,"1b,2b"
-minoraverages/Nemec,1906,New York State League,connors,B00362,Connors,Edward,2,Albany,19060906,19060915,9,,"2b,of"
-minoraverages/Nemec,1906,New York State League,connors,B00370,Connors,Edward,T,,,,93,,"1b,2b,of"
-minoraverages/Nemec,1906,New York State League,conroy,B00381,Conroy,Martin Francis,0,Troy,19060915,19060921,3,,c
-minoraverages/1907Reach,1906,New York State League,coogan,B01010,Coogan,,0,all,,,26,,
-minoraverages/1907Reach,1906,New York State League,coogan,F20023,Coogan,,0,all,,,,,c26
-minoraverages/Nemec,1906,New York State League,coogan,B00397,Coogan,Daniel G.*,0,Wilkes-Barre,19060727,19060922,29,,"p,c,of"
-minoraverages/Nemec,1906,New York State League,coogan,P10159,Coogan,Daniel,0,Wilkes-Barre,,,,1,
-minoraverages/Nemec,1906,New York State League,corbett,B00403,Corbett,James J.,0,Scranton,19060902,19060902,1,,1b
-minoraverages/Nemec,1906,New York State League,corcoran,B00416,Corcoran,,0,Binghamton,19060913,19060915,3,,of
-minoraverages/Nemec,1906,New York State League,cranston,B00427,Cranston,William,0,Syracuse,19060511,19060511,1,,
-minoraverages/1907Reach,1906,New York State League,crisham,B00695,Crisham,,0,all,,,135,,
-minoraverages/1907Reach,1906,New York State League,crisham,F20547,Crisham,,0,all,,,,,1b136
-minoraverages/Nemec,1906,New York State League,crisham,B00434,Crisham,Patrick J.*,0,Syracuse,19060510,19060923,136,,"c,1b"
-minoraverages/1907Reach,1906,New York State League,cristall,B00667,Cristall,,0,all,,,44,,
-minoraverages/1907Reach,1906,New York State League,cristall,F20417,Cristall,,0,all,,,,,p44
-minoraverages/Nemec,1906,New York State League,cristall,B00442,Cristall,William A.,0,Syracuse,19060628,19060921,53,,"p,of"
-minoraverages/Nemec,1906,New York State League,cristall,P10168,Cristall,William A.,0,Syracuse,,,,20,
-minoraverages/Nemec,1906,New York State League,crossman,B00450,Crossman,,1,Wilkes-Barre,19060705,19060705,1,,p
-minoraverages/Nemec,1906,New York State League,crossman,B00469,Crossman,,2,Scranton,19060902,19060902,1,,p
-minoraverages/Nemec,1906,New York State League,crossman,B00475,Crossman,,T,,,,2,,p
-minoraverages/Nemec,1906,New York State League,crossman,P10176,Crossman,,1,Wilkes-Barre,,,,1,
-minoraverages/Nemec,1906,New York State League,crossman,P10184,Crossman,,2,Scranton,,,,1,
-minoraverages/Nemec,1906,New York State League,crossman,P10192,Crossman,,T,,,,,2,
-minoraverages/Nemec,1906,New York State League,croughn,P10202,Croughan,Leo,0,Wilkes-Barre,,,,1,
-minoraverages/Nemec,1906,New York State League,croughn,B00488,Croughn,Leo James,0,Wilkes-Barre,19060804,19060807,3,,"p,of"
-minoraverages/Nemec,1906,New York State League,crum,B00491,Crum,Walter S.,0,Albany,19060510,19060512,2,,2b
-minoraverages/1907Reach,1906,New York State League,cummings,B00680,Cummings,,0,all,,,38,,
-minoraverages/1907Reach,1906,New York State League,cummings,F20893,Cummings,,0,all,,,,,ss38
-minoraverages/Nemec,1906,New York State League,cummings,B00502,Cummings,Andrew (Andy),0,Amsterdam-Johnstown-Gloversville,19060812,19060923,45,,ss
-minoraverages/Nemec,1906,New York State League,curtis,B00515,Curtis,Harry Albert*,0,Utica,19060512,19060609,7,,"c,1b"
-minoraverages/Nemec,1906,New York State League,davis,B00528,Davis,,0,Syracuse,19060911,19060912,2,,of
-minoraverages/1907Reach,1906,New York State League,degroff,B00059,DeGroff,,0,all,,,132,,
-minoraverages/1907Reach,1906,New York State League,degroff,F20962,DeGroff,,0,all,,,,,cf132
-minoraverages/Nemec,1906,New York State League,degroff,B00531,DeGroff,Edward A. (Art)*,0,Troy,19060511,19060923,136,,"p,of"
-minoraverages/Nemec,1906,New York State League,degroff,P10215,DeGroff,Edward Arthur (Art),0,Troy,,,,1,
-minoraverages/Nemec,1906,New York State League,delave,B00544,DeLave,Edwin K.,0,Wilkes-Barre,19060822,19060825,5,,"2b,3b"
-minoraverages/1907Reach,1906,New York State League,doherty,B00577,Doherty,,0,all,,,125,,
-minoraverages/1907Reach,1906,New York State League,doherty,F20636,Doherty,,0,all,,,,,2b125
-minoraverages/Nemec,1906,New York State League,doherty,B00553,Doherty,Michael J.,0,Albany,19060511,19060923,122,,"2b,3b"
-minoraverages/Nemec,1906,New York State League,doherty,M90018,Doherty,Michael J.,,Albany,,,,,
-minoraverages/1907Reach,1906,New York State League,donnelly,B01227,Donnelly,,0,all,,,26,,
-minoraverages/1907Reach,1906,New York State League,donnelly,F20425,Donnelly,,0,all,,,,,p26
-minoraverages/Nemec,1906,New York State League,donnelly,B00566,Donnelly,Edward,0,Troy,19060522,19060922,30,,p
-minoraverages/Nemec,1906,New York State League,donnelly,P10228,Donnelly,Edward,0,Troy,,,,30,
-minoraverages/1907Reach,1906,New York State League,donovan-tro,B00293,Donovan,,0,Troy,,,116,,
-minoraverages/1907Reach,1906,New York State League,donovan-wb,B00416,Donovan,,0,Wilkes-Barre,,,128,,
-minoraverages/1907Reach,1906,New York State League,donovan-wb,F20935,Donovan,,0,Wilkes-Barre,,,,,ss128
-minoraverages/1907Reach,1906,New York State League,donovan-tro,F21210,Donovan,,0,Troy,,,,,lf116
-minoraverages/Nemec,1906,New York State League,donovan-wb,B00577,Donovan,Michael B.*,0,Wilkes-Barre,19060510,19060922,129,,"3b,ss"
-minoraverages/Nemec,1906,New York State League,donovan-tro,B00589,Donovan,Thomas J.*,0,Troy,19060511,19060923,117,,"3b,of"
-minoraverages/Nemec,1906,New York State League,donovan-wb,M90094,Donovan,Mike*,,Wilkes-Barre,,,,,
-minoraverages/1907Reach,1906,New York State League,doran,B00381,Doran,,0,all,,,87,,
-minoraverages/1907Reach,1906,New York State League,doran,F20080,Doran,,0,all,,,,,c87
-minoraverages/Nemec,1906,New York State League,doran,B00590,Doran,Frank L.,0,Wilkes-Barre,19060511,19060921,90,,"c,1b,ss,of"
-minoraverages/Nemec,1906,New York State League,dowling,B00609,Dowling,Patrick V.,0,Scranton,19060604,19060620,15,,of
-minoraverages/1907Reach,1906,New York State League,downey,B01055,Downey,,0,all,,,36,,
-minoraverages/1907Reach,1906,New York State League,downey,F20685,Downey,,0,all,,,,,2b36
-minoraverages/Nemec,1906,New York State League,downey,B00614,Downey,James,1,Troy,19060511,19060519,8,,"3b,ss"
-minoraverages/Nemec,1906,New York State League,downey,B00623,Downey,James,2,Amsterdam-Johnstown-Gloversville,19060623,19060711,21,,2b
-minoraverages/Nemec,1906,New York State League,downey,B00638,Downey,James,3,Utica,19060716,19060716,1,,2b
-minoraverages/Nemec,1906,New York State League,downey,B00646,Downey,James,4,Wilkes-Barre,19060722,19060812,21,,ss
-minoraverages/Nemec,1906,New York State League,downey,B00651,Downey,James Aloysius,T,,,,51,,"2b,3b,ss"
-minoraverages/Nemec,1906,New York State League,drennan,P10231,Drenna,L.,0,Scranton,,,,2,
-minoraverages/Nemec,1906,New York State League,drennan,B00667,Drennan,L.,0,Scranton,19060816,19060819,2,,p
-minoraverages/1907Reach,1906,New York State League,drury,B00811,Drury,,0,all,,,76,,
-minoraverages/1907Reach,1906,New York State League,drury,F20612,Drury,,0,all,,,,,1b76
-minoraverages/Nemec,1906,New York State League,drury,B00672,Drury,Robert B.,0,Binghamton,19060517,19060923,79,,"c,1b,2b,of"
-minoraverages/Nemec,1906,New York State League,drury,M90039,Drury,Robert Blu,,Binghamton,,,,,
-minoraverages/1907Reach,1906,New York State League,durrett,B00149,Durrett,,0,all,,,54,,
-minoraverages/1907Reach,1906,New York State League,durrett,F21000,Durrett,,0,all,,,,,cf54
-minoraverages/Nemec,1906,New York State League,durrett,B00680,Durrett,Isaac H. (Ike),0,Wilkes-Barre,19060531,19060921,58,,"p,of"
-minoraverages/Nemec,1906,New York State League,durrett,P10244,Durrett,Isaac,0,Wilkes-Barre,,,,6,
-minoraverages/1907Reach,1906,New York State League,dwyer,B01197,Dwyer,,0,all,,,15,,
-minoraverages/1907Reach,1906,New York State League,dwyer,F20841,Dwyer,,0,all,,,,,3b15
-minoraverages/Nemec,1906,New York State League,dwyer,B00695,Dwyer,Timothy J.,0,Albany,19060510,19060530,19,,3b
-minoraverages/1907Reach,1906,New York State League,eagan,B00308,Eagan,,0,all,,,132,,
-minoraverages/1907Reach,1906,New York State League,eagan,F21229,Eagan,,0,all,,,,,lf132
-minoraverages/Nemec,1906,New York State League,eagan,B00705,Eagan,Patrick Peter (Pete),0,Amsterdam-Johnstown-Gloversville,19060511,19060923,135,,of
-minoraverages/1907Reach,1906,New York State League,earl,B00370,Earl,,0,all,,,131,,
-minoraverages/1907Reach,1906,New York State League,earl,F20571,Earl,,0,all,,,,,1b131
-minoraverages/Nemec,1906,New York State League,earl,B00718,Earl,Howard J.*,0,Amsterdam-Johnstown-Gloversville,19060511,19060923,134,,1b
-minoraverages/Nemec,1906,New York State League,earl,M90026,Earl,Howard J.*,,Amsterdam-Johnstown-Gloversville,,,,,
-minoraverages/Nemec,1906,New York State League,ely,B00726,Ely,Frederick W.,0,Syracuse,19060513,19060526,14,,of
-minoraverages/Nemec,1906,New York State League,fairbank,B00739,Fairbank,James Lee*,0,Utica,19060510,19060921,44,,"p,of"
-minoraverages/Nemec,1906,New York State League,fairbank,P10253,Fairbank,James Lee,0,Utica,,,,39,
-minoraverages/1907Reach,1906,New York State League,fairbank,B00241,Fairbanks,,0,all,,,40,,
-minoraverages/1907Reach,1906,New York State League,fairbank,F20369,Fairbanks,,0,all,,,,,p40
-minoraverages/1907Reach,1906,New York State League,fifield,B01181,Fifield,,0,all,,,33,,
-minoraverages/1907Reach,1906,New York State League,fifield,F20222,Fifield,,0,all,,,,,p33
-minoraverages/Nemec,1906,New York State League,fifield,B00747,Fifield,John P.*,0,Syracuse,19060511,19060918,34,,"p,of"
-minoraverages/Nemec,1906,New York State League,fifield,P10266,Fifield,John P.,0,Syracuse,,,,33,
-minoraverages/1907Reach,1906,New York State League,fitzgerald,B00771,Fitzgerald,,0,all,,,51,,
-minoraverages/1907Reach,1906,New York State League,fitzgerald,F20153,Fitzgerald,,0,all,,,,,c51
-minoraverages/Nemec,1906,New York State League,fitzgerald,B00752,Fitzgerald,Matthew W.*,0,Utica,19060611,19060808,51,,c
-minoraverages/1907Reach,1906,New York State League,flater,B01108,Flater,,0,all,,,44,,
-minoraverages/1907Reach,1906,New York State League,flater,F20350,Flater,,0,all,,,,,p44
-minoraverages/Nemec,1906,New York State League,flater,B00760,Flater,John W.*,0,Utica,19060510,19060921,48,,"p,of"
-minoraverages/Nemec,1906,New York State League,flater,P10277,Flater,John W.,0,Utica,,,,40,
-minoraverages/1907Reach,1906,New York State League,fox,B00264,Fox,,0,all,,,135,,
-minoraverages/1907Reach,1906,New York State League,fox,F21207,Fox,,0,all,,,,,lf135
-minoraverages/Nemec,1906,New York State League,fox,B00771,Fox,John T.,0,Albany,19060510,19060923,133,,of
-minoraverages/1907Reach,1906,New York State League,galaski,B00718,Galaski,,0,all,,,25,,
-minoraverages/1907Reach,1906,New York State League,galaski,F20189,Galaski,,0,all,,,,,p25
-minoraverages/Nemec,1906,New York State League,galaski,B00783,Galaski,Joseph,0,Albany,19060702,19060922,25,,p
-minoraverages/Nemec,1906,New York State League,galaski,P10289,Galaski,Joseph,0,Albany,,,,24,
-minoraverages/Nemec,1906,New York State League,gannon,B00794,Gannon,William P.*,0,Albany,19060810,19060826,17,,of
-minoraverages/Nemec,1906,New York State League,garahan,B00806,Garahan (Garrighan),Martin,0,Binghamton,19060921,19060923,3,,of
-minoraverages/1907Reach,1906,New York State League,garry,B00362,Garry,,0,all,,,30,,
-minoraverages/1907Reach,1906,New York State League,garry,F21149,Garry,,0,all,,,,,rf30
-minoraverages/Nemec,1906,New York State League,garry,B00811,Garry,James,1,Troy,19060511,19060616,32,,of
-minoraverages/Nemec,1906,New York State League,garry,B00822,Garry,James,2,Albany,19060913,19060914,2,,of
-minoraverages/Nemec,1906,New York State League,garry,B00833,Garry,James,T,,,,34,,of
-minoraverages/1907Reach,1906,New York State League,graham,B00037,Graham,,0,all,,,124,,
-minoraverages/1907Reach,1906,New York State League,graham,F21255,Graham,,0,all,,,,,lf124
-minoraverages/Nemec,1906,New York State League,graham,B00840,Graham,Archibald W.*,0,Scranton,19060510,19060922,122,,of
-minoraverages/Nemec,1906,New York State League,griffin,M90052,Griffin,"Tobias C. ""Sandy"" *",,Syracuse,,,,,
-minoraverages/1907Reach,1906,New York State League,hafford,B00705,Hafford,,0,all,,,129,,
-minoraverages/1907Reach,1906,New York State League,hafford,F20807,Hafford,,0,all,,,,,3b129
-minoraverages/Nemec,1906,New York State League,hafford,B00854,Hafford,Francis A.,0,Amsterdam-Johnstown-Gloversville,19060511,19060923,133,,3b
-minoraverages/1907Reach,1906,New York State League,hallman,B00324,Hallman,,0,all,,,43,,
-minoraverages/1907Reach,1906,New York State League,hallman,F20620,Hallman,,0,all,,,,,2b43
-minoraverages/Nemec,1906,New York State League,hallman,B00865,Hallman,William W.*,0,Albany,19060531,19060712,43,,2b
-minoraverages/1907Reach,1906,New York State League,hannifan,B00840,Hanifan,,0,all,,,66,,
-minoraverages/1907Reach,1906,New York State League,hannifan,F21182,Hanifan,,0,all,,,,,rf66
-minoraverages/1907Reach,1906,New York State League,hanley,B00196,Hanley,,0,all,,,119,,
-minoraverages/1907Reach,1906,New York State League,hanley,F21232,Hanley,,0,all,,,,,lf119
-minoraverages/Nemec,1906,New York State League,hanley,B00879,Hanley,George,0,Wilkes-Barre,19060510,19060922,119,,of
-minoraverages/Nemec,1906,New York State League,hannifan,P10290,Hannifan,Lawrence (Larry),0,Scranton,,,,17,
-minoraverages/Nemec,1906,New York State League,hannifan,B00887,Hannifin,Lawrence J. (Larry),0,Scranton,19060514,19060922,70,,"p,3b,of"
-minoraverages/1907Reach,1906,New York State League,hannivan,B00450,Hannivan,,0,all,,,100,,
-minoraverages/1907Reach,1906,New York State League,hannivan,F21241,Hannivan,,0,all,,,,,lf100
-minoraverages/Nemec,1906,New York State League,hannivan,B00898,Hannivan,P. James*,0,Binghamton,19060511,19060902,100,,"1b,of"
-minoraverages/1907Reach,1906,New York State League,hardy,B00475,Hardy,,0,all,,,53,,
-minoraverages/1907Reach,1906,New York State League,hardy,F20449,Hardy,,0,all,,,,,p53
-minoraverages/Nemec,1906,New York State League,hardy,B00904,Hardy,David Alex.*,0,Troy,19060512,19060923,64,,"p,of"
-minoraverages/Nemec,1906,New York State League,hardy,P10304,Hardy,Alex,0,Troy,,,,38,
-minoraverages/1907Reach,1906,New York State League,hollingsworth,B00898,Hatfield,,0,all,,,104,,
-minoraverages/1907Reach,1906,New York State League,hollingsworth,F20981,Hatfield,,0,all,,,,,cf104
-minoraverages/1907Reach,1906,New York State League,hayes,B01093,Hayes,,0,all,,,24,,
-minoraverages/1907Reach,1906,New York State League,hayes,F21037,Hayes,,0,all,,,,,cf24
-minoraverages/Nemec,1906,New York State League,hayes,B00920,Hayes,,0,Albany,19060818,19060923,24,,of
-minoraverages/1907Reach,1906,New York State League,helmund,B00515,Helmund,,0,all,,,135,,
-minoraverages/1907Reach,1906,New York State League,helmund,F21196,Helmund,,0,all,,,,,lf135
-minoraverages/Nemec,1906,New York State League,helmund,B00936,Helmund,George,0,Syracuse,19060510,19060923,134,,"2b,3b,ss,of"
-minoraverages/1907Reach,1906,New York State League,hennessy,B00125,Hennessy,,0,all,,,132,,
-minoraverages/1907Reach,1906,New York State League,hennessy,F21045,Hennessy,,0,all,,,,,cf132
-minoraverages/Nemec,1906,New York State League,hennessy,B00948,Hennessy,Joseph C.,0,Syracuse,19060510,19060922,132,,"p,of"
-minoraverages/Nemec,1906,New York State League,hennessy,P10312,Hennessy,Joseph,0,Scranton,,,,1,
-minoraverages/Nemec,1906,New York State League,hessling,B00957,Hessling,Benjamin Joseph (Ben),0,Scranton,19060912,19060912,1,,p
-minoraverages/Nemec,1906,New York State League,hessling,P10320,Hessling,Ben,0,Scranton,,,,1,
-minoraverages/1907Reach,1906,New York State League,hinchman,B00531,Hinchman,,0,all,,,135,,
-minoraverages/1907Reach,1906,New York State League,hinchman,F20700,Hinchman,,0,all,,,,,2b135
-minoraverages/Nemec,1906,New York State League,hinchman,B00961,Hinchman,Harry S.*,0,Binghamton,19060511,19060923,136,,"2b,of"
-minoraverages/Nemec,1906,New York State League,hollingsworth,B00912,Hollingsworth (Hatfield),Wallace,0,Syracuse,19060609,19060923,105,,"c,2b,3b,ss,of"
-minoraverages/Nemec,1906,New York State League,hurlburt,B00973,Hurlburt,George,0,Wilkes-Barre,19060511,19060526,14,,of
-minoraverages/1907Reach,1906,New York State League,hurley,B00528,Hurley,,0,all,,,91,,
-minoraverages/1907Reach,1906,New York State League,hurley,F20115,Hurley,,0,all,,,,,c91
-minoraverages/Nemec,1906,New York State League,hurley,B00985,Hurley,Jeremiah*,0,Amsterdam-Johnstown-Gloversville,19060511,19060923,97,,c
-minoraverages/1907Reach,1906,New York State League,james,B00130,James,,0,all,,,105,,
-minoraverages/1907Reach,1906,New York State League,james,F20699,James,,0,all,,,,,2b105
-minoraverages/Nemec,1906,New York State League,james,B00999,James,Richard,0,Troy,19060519,19060923,114,,"2b,3b,ss"
-minoraverages/Nemec,1906,New York State League,jarrett,B01007,Jarrett,Thomas J.*,0,Troy,19060519,19060519,1,,p
-minoraverages/Nemec,1906,New York State League,jarrett,P10336,Jarrett,Thomas J.,0,Troy,,,,1,
-minoraverages/Nemec,1906,New York State League,jennette,B01010,Jennette,,0,Amsterdam-Johnstown-Gloversville,19060826,19060901,2,,p
-minoraverages/Nemec,1906,New York State League,jennette,P10348,Jennette,,0,Amsterdam-Johnstown-Gloversville,,,,2,
-minoraverages/Nemec,1906,New York State League,jennis,B01029,Jennis,Jacob Charles,0,Wilkes-Barre,19060813,19060816,4,,ss
-minoraverages/Nemec,1906,New York State League,kelley-scr,B01041,Kelley,,0,Scranton,19060904,19060904,1,,p
-minoraverages/Nemec,1906,New York State League,kelley-scr,P10357,Kelley,,0,Scranton,,,,1,
-minoraverages/Nemec,1906,New York State League,kelly-wb,B01032,Kelly,James,0,Wilkes-Barre,19060510,19060522,11,,of
-minoraverages/Nemec,1906,New York State League,kelly-syr,B01055,Kelly,,0,Syracuse,19060705,19060705,1,,c
-minoraverages/Nemec,1906,New York State League,kelly-tro,B01064,Kelly (Kelley),,0,Troy,19060614,19060615,2,,of
-minoraverages/Nemec,1906,New York State League,kenner,B01078,Kenner (Kehner),Henry,0,Wilkes-Barre,19060821,19060821,1,,ss
-minoraverages/1907Reach,1906,New York State League,kockill,B00255,Kockill,,0,all,,,139,,
-minoraverages/1907Reach,1906,New York State League,kockill,F20539,Kockill,,0,all,,,,,1b136
-minoraverages/1907Reach,1906,New York State League,kroh,B01124,Kroh,,0,all,,,30,,
-minoraverages/1907Reach,1906,New York State League,kroh,F20496,Kroh,,0,all,,,,,p30
-minoraverages/Nemec,1906,New York State League,kroh,B01086,Kroh,Floyd M.,0,Albany,19060510,19060920,30,,p
-minoraverages/Nemec,1906,New York State League,kroh,P10361,Kroh,Floyd M.,0,Albany,,,,30,
-minoraverages/1907Reach,1906,New York State League,krug,B00210,Krug,,0,all,,,127,,
-minoraverages/1907Reach,1906,New York State League,krug,F20784,Krug,,0,all,,,,,3b127
-minoraverages/Nemec,1906,New York State League,krug,B01093,Krug,Henry C.*,0,Scranton,19060510,19060922,127,,"3b,of"
-minoraverages/Nemec,1906,New York State League,krug,P10373,Krug,Henry C.,0,Scranton,,,,1,
-minoraverages/1907Reach,1906,New York State League,lauterborn,B00343,Lauterborn,,0,all,,,134,,
-minoraverages/1907Reach,1906,New York State League,lauterborn,F20924,Lauterborn,,0,all,,,,,ss134
-minoraverages/Nemec,1906,New York State League,lauterborn,B01108,Lauterborn,William (Bill)*,0,Binghamton,19060511,19060923,134,,ss
-minoraverages/Nemec,1906,New York State League,lawlor,M90071,Lawler,John J.,,Utica,,,,,
-minoraverages/1907Reach,1906,New York State League,lawlor,B00833,Lawlor,,0,all,,,48,,
-minoraverages/1907Reach,1906,New York State League,lawlor,F20970,Lawlor,,0,all,,,,,cf48
-minoraverages/Nemec,1906,New York State League,lawlor,B01119,Lawlor,John J.,0,Utica,19060511,19060906,49,,of
-minoraverages/1907Reach,1906,New York State League,lezotte,B01135,Lazotte,,0,all,,,23,,
-minoraverages/1907Reach,1906,New York State League,lezotte,F21174,Lazotte,,0,all,,,,,rf23
-minoraverages/Nemec,1906,New York State League,lennon,B01124,Lennon,Patrick Francis,0,Albany,19060519,19060525,2,,p
-minoraverages/Nemec,1906,New York State League,lennon,P10385,Lennon,Patrick F.,0,Albany,,,,2,
-minoraverages/Nemec,1906,New York State League,leonard,B01135,Leonard,"William ""Billy""",0,Syracuse,19060630,19060703,3,,of
-minoraverages/Nemec,1906,New York State League,lezotte,B01143,Lezotte (Lizotte),Abel,1,Albany,19060510,19060521,11,,of
-minoraverages/Nemec,1906,New York State League,lezotte,B01156,Lezotte (Lizotte),Abel,2,Syracuse,19060529,19060608,12,,of
-minoraverages/Nemec,1906,New York State League,lezotte,B01162,Lizotte,Abel (Abe)*,T,,,,23,,of
-minoraverages/Nemec,1906,New York State League,luskey,B01170,Luskey,Charles M.*,0,Syracuse,19060510,19060824,75,,"c,1b"
-minoraverages/1907Reach,1906,New York State League,luskey,B00760,Lusky,,0,all,,,73,,
-minoraverages/1907Reach,1906,New York State League,luskey,F20067,Lusky,,0,all,,,,,c73
-minoraverages/Nemec,1906,New York State League,macgamwell,B01402,MacGamwell,Edward M.*,0,Utica,19060519,19060923,117,,1b
-minoraverages/1907Reach,1906,New York State League,madison,B01156,Madison,,0,all,,,25,,
-minoraverages/1907Reach,1906,New York State League,madison,F20768,Madison,,0,all,,,,,3b25
-minoraverages/Nemec,1906,New York State League,madison,B01181,Madison,Arthur M.*,0,Utica,19060510,19060622,25,,"1b,3b,ss"
-minoraverages/1907Reach,1906,New York State League,magee.j,B00544,Magee,J.,0,all,,,100,,
-minoraverages/1907Reach,1906,New York State League,magee.w,B00957,Magee,W.,0,all,,,23,,
-minoraverages/1907Reach,1906,New York State League,magee.w,F20388,Magee,W.,0,all,,,,,p23
-minoraverages/1907Reach,1906,New York State League,magee.j,F21092,Magee,J.,0,all,,,,,rf100
-minoraverages/Nemec,1906,New York State League,magee.j,B01197,Magee,James M.,0,Wilkes-Barre,19060510,19060922,105,,"1b,2b,of"
-minoraverages/Nemec,1906,New York State League,magee.w,B01203,Magee,William J.*,0,Wilkes-Barre,19060517,19060819,26,,"p,of"
-minoraverages/Nemec,1906,New York State League,magee.w,P10399,Magee,William,0,Wilkes-Barre,,,,21,
-minoraverages/1907Reach,1906,New York State League,magie,B00566,Magie,,0,all,,,109,,
-minoraverages/1907Reach,1906,New York State League,magie,F21084,Magie,,0,all,,,,,rf109
-minoraverages/Nemec,1906,New York State League,magie,B01216,Magie,Jacob D.,0,Syracuse,19060529,19060923,109,,"1b,of"
-minoraverages/Nemec,1906,New York State League,mahaffey,B01227,Mahaffey,John,0,Binghamton,19060519,19060613,3,,p
-minoraverages/Nemec,1906,New York State League,mahaffey,P10407,Mahaffey,John,0,Binghamton,,,,3,
-minoraverages/Nemec,1906,New York State League,mains,B01234,Mains,Willard,1,Syracuse,19060515,19060625,10,,p
-minoraverages/Nemec,1906,New York State League,mains,B01242,Mains,Willard,2,Binghamton,19060629,19060629,1,,p
-minoraverages/Nemec,1906,New York State League,mains,B01250,Mains,Williard E. (Willie)*,T,,19060515,19060625,11,,p
-minoraverages/Nemec,1906,New York State League,mains,P10410,Mains,Willard,1,Syracuse,,,,9,
-minoraverages/Nemec,1906,New York State League,mains,P10429,Mains,Willard,2,Binghamton,,,,1,
-minoraverages/Nemec,1906,New York State League,mains,P10432,Mains,Willard,T,,,,,10,
-minoraverages/1907Reach,1906,New York State League,manning.j,B00434,Manning,,0,all,,,123,,
-minoraverages/1907Reach,1906,New York State League,manning.j,F21264,Manning,J.,0,all,,,,,lf123
-minoraverages/Nemec,1906,New York State League,manning.e,B01269,Manning,Edward R. (Rabbit),0,Utica,19060521,19060923,21,,"ss,of"
-minoraverages/Nemec,1906,New York State League,manning.j,B01275,Manning,John (Jack),0,Utica,19060510,19060923,123,,of
-minoraverages/1907Reach,1906,New York State League,mason,B00553,Mason,,0,all,,,115,,
-minoraverages/1907Reach,1906,New York State League,mason,F20604,Mason,,0,all,,,,,1b115
-minoraverages/Nemec,1906,New York State League,mason,B01288,Mason,Harry J.,0,Troy,19060511,19060923,126,,1b
-minoraverages/1907Reach,1906,New York State League,maurer,B01143,Maurer,,0,all,,,33,,
-minoraverages/1907Reach,1906,New York State League,maurer,F20334,Maurer,,0,all,,,,,p33
-minoraverages/Nemec,1906,New York State League,maurer,B01291,Maurer,Bernard F. (Bernie),0,Syracuse,19060514,19060923,31,,p
-minoraverages/Nemec,1906,New York State League,maurer,P10441,Maurer,Bernie,0,Syracuse,,,,31,
-minoraverages/1907Reach,1906,New York State League,mcallister,B00590,McAllister,,0,all,,,115,,
-minoraverages/1907Reach,1906,New York State League,mcallister,F21021,McAllister,,0,all,,,,,cf115
-minoraverages/Nemec,1906,New York State League,mcallister,B01300,McAllister,John Jacob,0,Binghamton,19060511,19060919,116,,of
-minoraverages/1907Reach,1906,New York State League,mcandrews,B00806,McAndrews,,0,all,,,132,,
-minoraverages/1907Reach,1906,New York State League,mcandrews,F20810,McAndrews,,0,all,,,,,3b132
-minoraverages/Nemec,1906,New York State League,mcandrews,B01313,McAndrews,Thomas,1,Utica,19060510,19060604,24,,3b
-minoraverages/Nemec,1906,New York State League,mcandrews,B01321,McAndrews,Thomas,2,Troy,19060608,19060923,111,,3b
-minoraverages/Nemec,1906,New York State League,mcandrews,B01337,McAndrews,Thomas,T,,,,135,,3b
-minoraverages/1907Reach,1906,New York State League,mcbirney,B01064,McBirney,,0,all,,,17,,
-minoraverages/1907Reach,1906,New York State League,mcbirney,F20190,McBirney,,0,all,,,,,p17
-minoraverages/Nemec,1906,New York State League,mcbirney,B01345,McBirney,Walter,0,Utica,19060613,19060807,18,,p
-minoraverages/Nemec,1906,New York State League,mcbirney,P10455,McBirney,Walter,0,Utica,,,,18,
-minoraverages/1907Reach,1906,New York State League,mccarthy,B00076,McCarthy,,0,all,,,19,,
-minoraverages/1907Reach,1906,New York State League,mccarthy,F20014,McCarthy,,0,all,,,,,c19
-minoraverages/Nemec,1906,New York State League,mccarthy,B01359,McCarthy,Joseph N.*,0,Syracuse,19060831,19060923,19,,c
-minoraverages/1907Reach,1906,New York State League,mcconnell,B00163,McConnell,,0,all,,,132,,
-minoraverages/1907Reach,1906,New York State League,mcconnell,F20661,McConnell,,0,all,,,,,2b132
-minoraverages/Nemec,1906,New York State League,mcconnell,B01368,McConnell,Ambrose M.*,0,Utica,19060510,19060923,135,,2b
-minoraverages/Nemec,1906,New York State League,mccormick,B01376,McCormick,Frank A.,0,Amsterdam-Johnstown-Gloversville,19060909,19060923,15,,"2b,3b,of"
-minoraverages/1907Reach,1906,New York State League,mcdonald,B00232,McDonald,,0,all,,,93,,
-minoraverages/1907Reach,1906,New York State League,mcdonald,F20776,McDonald,,0,all,,,,,3b93
-minoraverages/Nemec,1906,New York State League,mcdonald,B01384,McDonald,Edward C.*,0,Utica,19060624,19060923,96,,3b
-minoraverages/Nemec,1906,New York State League,mcdougal,B01392,McDougal,John A.*,0,Scranton,19060511,19060921,46,,"p,2b,3b,ss"
-minoraverages/Nemec,1906,New York State League,mcdougal,P10464,McDougal,John A.,0,Scranton,,,,29,
-minoraverages/1907Reach,1906,New York State League,mcdougal,B00672,McDougall,,0,all,,,45,,
-minoraverages/1907Reach,1906,New York State League,mcdougal,F20474,McDougall,,0,all,,,,,p45
-minoraverages/1907Reach,1906,New York State League,macgamwell,B00403,McGamwell,,0,all,,,118,,
-minoraverages/1907Reach,1906,New York State League,macgamwell,F20583,McGamwell,,0,all,,,,,1b118
-minoraverages/Nemec,1906,New York State League,mcginley,B01415,McGinley,William H.,0,Utica,19060616,19060701,3,,"c,of"
-minoraverages/1907Reach,1906,New York State League,mckeon,B00469,McKeon,,0,all,,,33,,
-minoraverages/1907Reach,1906,New York State League,mckeon,F20997,McKeon,,0,all,,,,,cf33
-minoraverages/Nemec,1906,New York State League,mckeon,B01428,McKeon,Frank Patrick,0,Utica,19060510,19060719,33,,of
-minoraverages/1907Reach,1906,New York State League,mcnamara,B00614,McNamara,,0,all,,,81,,
-minoraverages/1907Reach,1906,New York State League,mcnamara,F20128,McNamara,,0,all,,,,,c81
-minoraverages/Nemec,1906,New York State League,mcnamara,B01431,McNamara,William,1,Utica,19060510,19060609,24,,c
-minoraverages/Nemec,1906,New York State League,mcnamara,B01444,McNamara,William,2,Albany,19060611,19060923,59,,"c,of"
-minoraverages/Nemec,1906,New York State League,mcnamara,B01453,McNamara,William,T,,,,83,,"c,of"
-minoraverages/1907Reach,1906,New York State League,mcneil,B00356,McNeil,,0,all,,,30,,
-minoraverages/1907Reach,1906,New York State League,mcneil,F20526,McNeil,,0,all,,,,,p30
-minoraverages/Nemec,1906,New York State League,mcneil,B01466,McNeil,Bernard F. ,0,Amsterdam-Johnstown-Gloversville,19060514,19060923,32,,"p,of"
-minoraverages/Nemec,1906,New York State League,mcneil,P10478,McNeil,Bernard F.,0,Amsterdam-Johnstown-Gloversville,,,,30,
-minoraverages/Nemec,1906,New York State League,mcpherson,B01477,McPherson,John J.*,0,Troy,19060511,19060613,9,,p
-minoraverages/Nemec,1906,New York State League,mcpherson,P10486,McPherson,John,0,Troy,,,,8,
-minoraverages/1907Reach,1906,New York State League,mcsurdy,B00207,McSurdy,,0,all,,,37,,
-minoraverages/1907Reach,1906,New York State League,mcsurdy,F20342,McSurdy,,0,all,,,,,p37
-minoraverages/Nemec,1906,New York State League,mcsurdy,B01489,McSurdy,Daniel Jerome,0,Troy,19060514,19060922,39,,"p,of"
-minoraverages/Nemec,1906,New York State League,mcsurdy,P10493,McSurdy,Daniel,0,Troy,,,,37,
-minoraverages/1907Reach,1906,New York State League,messerly,B00752,Messerly,,0,all,,,54,,
-minoraverages/1907Reach,1906,New York State League,messerly,F20560,Messerly,,0,all,,,,,1b54
-minoraverages/Nemec,1906,New York State League,messerly,B01490,Messerly,John A. (Jack),0,Binghamton,19060511,19060711,54,,1b
-minoraverages/Nemec,1906,New York State League,miller,B01509,Miller,,0,Amsterdam-Johnstown-Gloversville,19060516,19060516,1,,p
-minoraverages/Nemec,1906,New York State League,miller,P10503,Miller,,0,Amsterdam-Johnstown-Gloversville,,,,1,
-minoraverages/1907Reach,1906,New York State League,millerick,B00609,Millerick,,0,all,,,97,,
-minoraverages/1907Reach,1906,New York State League,millerick,F20144,Millerick,,0,all,,,,,c97
-minoraverages/Nemec,1906,New York State League,millerick,B01514,Millerick,Patrick T.,0,Albany,19060510,19060921,97,,"c,1b"
-minoraverages/Nemec,1906,New York State League,moeller,B01523,Moeller (Moore),Daniel*,0,Troy,19060829,19060923,30,,"c,of"
-minoraverages/1907Reach,1906,New York State League,moeller,B00013,Moore,,0,Troy,,,28,,
-minoraverages/1907Reach,1906,New York State League,moeller,F21125,Moore,,0,all,,,,,rf28
-minoraverages/Nemec,1906,New York State League,moran,B01538,Moran,,0,Syracuse,19060510,19060511,2,,of
-minoraverages/1907Reach,1906,New York State League,moss,B00589,Moss,,0,all,,,79,,
-minoraverages/1907Reach,1906,New York State League,moss,F20919,Moss,,0,all,,,,,ss79
-minoraverages/Nemec,1906,New York State League,moss,B01546,Moss,Charles E.,0,Amsterdam-Johnstown-Gloversville,19060511,19060811,81,,ss
-minoraverages/Nemec,1906,New York State League,moughan,B01551,Moughan,Martin Sylvester,0,Scranton,19060910,19060910,1,,p
-minoraverages/Nemec,1906,New York State League,moughan,P10516,Moughan,Martin,0,Scranton,,,,1,
-minoraverages/Nemec,1906,New York State League,murphy-alb,B01567,Murphy,David Francis*,0,Albany,19060510,19060521,11,,ss
-minoraverages/Nemec,1906,New York State League,murphy-tro,B01572,Murphy,Patrick J.,0,Troy,19060509,19060919,17,,"3b,ss"
-minoraverages/1907Reach,1906,New York State League,murray-syr,B00488,Murray,,0,Syracuse,,,132,,
-minoraverages/1907Reach,1906,New York State League,murray-scr+bin,B01242,Murray,,0,Scranton,,,17,,
-minoraverages/1907Reach,1906,New York State League,murray-scr+bin,F20233,Murray,,0,all,,,,,p17
-minoraverages/1907Reach,1906,New York State League,murray-syr,F20713,Murray,,0,all,,,,,2b132
-minoraverages/Nemec,1906,New York State League,murray-syr,B01580,Murray,Alexander (Sandy),0,Syracuse,19060510,19060923,131,,"2b,of"
-minoraverages/Nemec,1906,New York State League,murray-scr+bin,B01595,Murray,Ernest,1,Scranton,19060512,19060812,21,,p
-minoraverages/Nemec,1906,New York State League,murray-scr+bin,B01601,Murray,Ernest,2,Binghamton,19060819,19060923,13,,p
-minoraverages/Nemec,1906,New York State League,murray-scr+bin,B01617,Murray,Ernest M.,T,,,,34,,p
-minoraverages/Nemec,1906,New York State League,murray-scr+bin,P10527,Murray,Ernest M.,1,Scranton,,,,21,
-minoraverages/Nemec,1906,New York State League,murray-scr+bin,P10534,Murray,Ernest M.,2,Binghamton,,,,13,
-minoraverages/Nemec,1906,New York State League,murray-scr+bin,P10542,Murray,Ernest M.,T,,,,,34,
-minoraverages/1907Reach,1906,New York State League,mylett,B01119,Mylett,,0,all,,,16,,
-minoraverages/1907Reach,1906,New York State League,mylett,F20855,Mylett,,0,all,,,,,3b16
-minoraverages/Nemec,1906,New York State League,mylett,B01625,Mylett,Thomas,1,Albany,19060814,19060825,12,,3b
-minoraverages/Nemec,1906,New York State League,mylett,B01630,Mylett,Thomas,2,Wilkes-Barre,19060830,19060905,8,,ss
-minoraverages/Nemec,1906,New York State League,mylett,B01649,Mylett,Thomas,T,,,,20,,"3b,ss"
-minoraverages/1907Reach,1906,New York State League,obrien-tro,B00045,O'Brien,,0,all,,,45,,
-minoraverages/1907Reach,1906,New York State League,obrien-tro,F20648,O'Brien,,0,all,,,,,2b45
-minoraverages/Nemec,1906,New York State League,obrien-bin,B01658,O'Brien,Michael S.,0,Binghamton,19060719,19060817,20,,of
-minoraverages/Nemec,1906,New York State League,obrien-tro,B01663,O'Brien,John Jos.*,0,Troy,19060511,19060904,50,,"1b,2b,3b,of"
-minoraverages/Nemec,1906,New York State League,obrien-tro,M90060,O'Brien,John J.,,Troy,,,,,
-minoraverages/Nemec,1906,New York State League,oconnor,B01674,O'Connor,Andrew J.,0,Syracuse,19060512,19060703,12,,p
-minoraverages/Nemec,1906,New York State League,oconnor,P10550,O'Connor,Andrew J.,0,Syracuse,,,,12,
-minoraverages/Nemec,1906,New York State League,parrot,B01682,Parrot,,0,Scranton,19060517,19060517,1,,p
-minoraverages/Nemec,1906,New York State League,parrot,P10569,Parrot,,0,Scranton,,,,1,
-minoraverages/Nemec,1906,New York State League,peacock,B01696,Peacock,John J.,0,Albany,19060519,19060524,2,,c
-minoraverages/1907Reach,1906,New York State League,peartree,B00920,Peartree,,0,all,,,113,,
-minoraverages/1907Reach,1906,New York State League,peartree,F20737,Peartree,,0,all,,,,,2b113
-minoraverages/Nemec,1906,New York State League,peartree,B01706,Peartree,Jos. Oswald,0,Troy,19060511,19060922,118,,"2b,ss,of"
-minoraverages/Nemec,1906,New York State League,pender,B01711,Pender,John F.,0,Utica,19060828,19060916,5,,p
-minoraverages/Nemec,1906,New York State League,pender,P10575,Pender,John F.,0,Utica,,,,5,
-minoraverages/Nemec,1906,New York State League,persons,B01722,Persons,Edward,0,Scranton,19060513,19060713,4,,p
-minoraverages/Nemec,1906,New York State League,persons,P10588,Persons,Edward,0,Scranton,,,,4,
-minoraverages/1907Reach,1906,New York State League,pinnance,B01078,Pinnance,,0,all,,,34,,
-minoraverages/1907Reach,1906,New York State League,pinnance,F20240,Pinnance,,0,all,,,,,p34
-minoraverages/Nemec,1906,New York State League,pinnance,B01733,Pinnance,E. Edward*,0,Albany,19060520,19060923,45,,"p,2b,of"
-minoraverages/Nemec,1906,New York State League,pinnance,P10591,Pinnance,Edward D.,0,Albany,,,,19,
-minoraverages/1907Reach,1906,New York State League,polchow,B01269,Polchow,,0,all,,,31,,
-minoraverages/1907Reach,1906,New York State League,polchow,F20458,Polchow,,0,all,,,,,p31
-minoraverages/Nemec,1906,New York State League,polchow,B01740,Polchow,Louis W.*,0,Scranton,19060515,19060920,33,,p
-minoraverages/Nemec,1906,New York State League,polchow,P10606,Polchow,Louis,0,Scranton,,,,33,
-minoraverages/Nemec,1906,New York State League,poole,B01754,Poole,William H. (Billy),0,Amsterdam-Johnstown-Gloversville,19060912,19060915,2,,"c,2b"
-minoraverages/1907Reach,1906,New York State League,pounds,B00739,Pounds,,0,all,,,32,,
-minoraverages/1907Reach,1906,New York State League,pounds,F20265,Pounds,,0,all,,,,,p32
-minoraverages/Nemec,1906,New York State League,pounds,B01765,Pounds,Jeared W. (Bill)*,0,Wilkes-Barre,19060512,19060919,34,,p
-minoraverages/Nemec,1906,New York State League,pounds,P10611,Pounds,Jeared W. (Bill),0,Wilkes-Barre,,,,34,
-minoraverages/1907Reach,1906,New York State League,purcell,B00427,Purcell,,0,all,,,28,,
-minoraverages/1907Reach,1906,New York State League,purcell,F20303,Purcell,,0,all,,,,,p28
-minoraverages/Nemec,1906,New York State League,purcell,B01779,Purcell,"Fred. ""Teddy""",0,Amsterdam-Johnstown-Gloversville,19060513,19060918,31,,"p,of"
-minoraverages/Nemec,1906,New York State League,purcell,P10622,Purcell,Theodore,0,Amsterdam-Johnstown-Gloversville,,,,30,
-minoraverages/1907Reach,1906,New York State League,rafter,B00794,Rafter,,0,all,,,70,,
-minoraverages/1907Reach,1906,New York State League,rafter,F20131,Rafter,,0,all,,,,,c70
-minoraverages/Nemec,1906,New York State League,rafter,B01787,Rafter,John C. (Jack)*,0,Amsterdam-Johnstown-Gloversville,19060529,19060823,73,,"c,of"
-minoraverages/1907Reach,1906,New York State League,raidy,B00442,Raidy,,0,all,,,131,,
-minoraverages/1907Reach,1906,New York State League,raidy,F20886,Raidy,,0,all,,,,,ss131
-minoraverages/Nemec,1906,New York State League,raidy,B01798,Raidy,Joseph Michael,0,Albany,19060522,19060923,127,,ss
-minoraverages/Nemec,1906,New York State League,ramsey,B01804,Ramsey,George W. (Buck),0,Binghamton,19060626,19060819,8,,p
-minoraverages/Nemec,1906,New York State League,ramsey,P10633,Ramsey,George W. (Buck),0,Binghamton,,,,8,
-minoraverages/1907Reach,1906,New York State League,reed,B01216,Reed,,0,all,,,32,,
-minoraverages/1907Reach,1906,New York State League,reed,F20518,Reed,,0,all,,,,,p32
-minoraverages/Nemec,1906,New York State League,reed,B01812,Reed,Francis S. (Frank),0,Albany,19060511,19060919,36,,p
-minoraverages/Nemec,1906,New York State League,reed,P10640,Reed,Francis,0,Albany,,,,36,
-minoraverages/1907Reach,1906,New York State League,riggs,B00502,Riggs,,0,all,,,124,,
-minoraverages/1907Reach,1906,New York State League,riggs,F21013,Riggs,,0,all,,,,,cf124
-minoraverages/Nemec,1906,New York State League,riggs,B01820,Riggs,Robert M.,1,Albany,19060517,19060809,82,,of
-minoraverages/Nemec,1906,New York State League,riggs,B01836,Riggs,Robert M.,2,Troy,19060811,19060829,20,,of
-minoraverages/Nemec,1906,New York State League,riggs,B01848,Riggs,Robert M.,3,Syracuse,19060904,19060923,21,,of
-minoraverages/Nemec,1906,New York State League,riggs,B01857,Riggs,Robert M.,T,,,,123,,of
-minoraverages/1907Reach,1906,New York State League,roach,B00783,Roach,,0,all,,,105,,
-minoraverages/1907Reach,1906,New York State League,roach,F20038,Roach,,0,all,,,,,c105
-minoraverages/Nemec,1906,New York State League,roach,B01873,Roach,Michael S.*,0,Binghamton,19060511,19060923,106,,c
-minoraverages/1907Reach,1906,New York State League,robertson,B00084,Robertson,,0,all,,,122,,
-minoraverages/1907Reach,1906,New York State League,robertson,F20594,Robertson,,0,all,,,,,1b122
-minoraverages/Nemec,1906,New York State League,robertson,B01861,Robertson,James A.,0,Wilkes-Barre,19060510,19060922,123,,1b
-minoraverages/Nemec,1906,New York State League,rockford,B01885,Rockford,Michael,0,Utica,19060510,19060518,8,,1b
-minoraverages/Nemec,1906,New York State League,romer,B01899,Romer,A. J.,0,Wilkes-Barre,19060821,19060830,3,,p
-minoraverages/Nemec,1906,New York State League,romer,P10654,Romer,A. J.,0,Wilkes-Barre,,,,3,
-minoraverages/Nemec,1906,New York State League,ross,B01905,Ross,William A.,0,Utica,19060515,19060515,1,,c
-minoraverages/1907Reach,1906,New York State League,roth,B01086,Roth,,0,all,,,57,,
-minoraverages/1907Reach,1906,New York State League,roth,F20072,Roth,,0,all,,,,,c57
-minoraverages/Nemec,1906,New York State League,roth,B01918,Roth,Andrew E. (Andy),0,Scranton,19060518,19060921,57,,"c,1b,of"
-minoraverages/1907Reach,1906,New York State League,rothgeb,B00158,Rothgeb,,0,all,,,52,,
-minoraverages/1907Reach,1906,New York State League,rothgeb,F21158,Rothgeb,,0,all,,,,,rf52
-minoraverages/Nemec,1906,New York State League,rothgeb,B01926,Rothgeb,Claude J.*,0,Troy,19060616,19060807,53,,of
-minoraverages/1907Reach,1906,New York State League,rutherford,B00747,Rutherford,,0,all,,,115,,
-minoraverages/1907Reach,1906,New York State League,rutherford,F20908,Rutherford,,0,all,,,,,ss115
-minoraverages/Nemec,1906,New York State League,rutherford,B01939,Rutherford,Austin Grant,0,Utica,19060604,19060921,111,,ss
-minoraverages/Nemec,1906,New York State League,scheibeck,B01947,Scheibeck,Frank S.*,0,Troy,19060514,19060602,19,,ss
-minoraverages/1907Reach,1906,New York State League,scheibeck,F20943,Schiebeck,,0,all,,,,,ss18
-minoraverages/1907Reach,1906,New York State League,schlitzer,B01203,Schlitzer,,0,all,,,33,,
-minoraverages/1907Reach,1906,New York State League,schlitzer,F20430,Schlitzer,,0,all,,,,,p33
-minoraverages/Nemec,1906,New York State League,schlitzer,B01952,Schlitzer,Victor J.*,0,Utica,19060511,19060923,33,,p
-minoraverages/Nemec,1906,New York State League,schlitzer,P10665,Schlitzer,Victor J.,0,Utica,,,,33,
-minoraverages/Nemec,1906,New York State League,schrall,B01960,Schrall,Joseph E.,0,Scranton,19060519,19060527,9,,of
-minoraverages/Nemec,1906,New York State League,schweitzer,B01971,Schweitzer,Albert C.*,0,Syracuse,19060510,19060526,15,,of
-minoraverages/1907Reach,1906,New York State League,sharpe,B00101,Sharpe,,0,all,,,131,,
-minoraverages/1907Reach,1906,New York State League,sharpe,F20552,Sharpe,,0,all,,,,,1b131
-minoraverages/Nemec,1906,New York State League,sharpe,B01983,Sharpe,Bayard H.*,0,Scranton,19060510,19060922,131,,"c,1b,3b,ss"
-minoraverages/Nemec,1906,New York State League,sharpe,P10679,Sharpe,Bayard H. (Bud),0,Scranton,,,,2,
-minoraverages/Nemec,1906,New York State League,sharrott,M90083,Sharrott,John H.*,,Wilkes-Barre,,19060816,,,
-minoraverages/1907Reach,1906,New York State League,shaw,B00936,Shaw,,0,all,,,114,,
-minoraverages/1907Reach,1906,New York State League,shaw,F20792,Shaw,,0,all,,,,,3b117
-minoraverages/Nemec,1906,New York State League,shaw,B01994,Shaw,John,1,Wilkes-Barre,19060510,19060720,64,,3b
-minoraverages/Nemec,1906,New York State League,shaw,B02008,Shaw,John,2,Binghamton,19060723,19060923,68,,"2b,3b,of"
-minoraverages/Nemec,1906,New York State League,shaw,B02019,Shaw,John W.*,T,,,,132,,"2b,3b,of"
-minoraverages/1907Reach,1906,New York State League,scheibeck,B00229,Sheibeck,,0,all,,,18,,
-minoraverages/Nemec,1906,New York State League,shields,B02024,Shields,,0,Scranton,19060908,19060908,1,,p
-minoraverages/Nemec,1906,New York State League,shields,P10687,Shields,,0,Scranton,,,,1,
-minoraverages/1907Reach,1906,New York State League,shortell,B00623,Shortell,,0,all,,,129,,
-minoraverages/1907Reach,1906,New York State League,shortell,F20673,Shortell,,0,all,,,,,2b129
-minoraverages/Nemec,1906,New York State League,shortell,B02035,Shortell,Edward J.,0,Scranton,19060510,19060922,129,,2b
-minoraverages/1907Reach,1906,New York State League,smith-bin,B00068,Smith,,0,all,,,119,,
-minoraverages/1907Reach,1906,New York State League,smith-bin,F21076,Smith,,0,all,,,,,rf119
-minoraverages/Nemec,1906,New York State League,smith-alb,B02043,Smith,Arthur S.,0,Albany,19060510,19060523,10,,of
-minoraverages/Nemec,1906,New York State League,smith-bin,B02056,Smith,Elmer E.*,0,Binghamton,19060511,19060918,120,,"1b,of"
-minoraverages/1907Reach,1906,New York State League,spiesman,B00904,Spiesman,,0,all,,,111,,
-minoraverages/1907Reach,1906,New York State League,spiesman,F20046,Spiesman,,0,all,,,,,c111
-minoraverages/Nemec,1906,New York State League,spiesman,B02062,Spiesman,Matthew J.,0,Troy,19060511,19060923,113,,"c,1b"
-minoraverages/Nemec,1906,New York State League,starkel,B02070,Starkel,Conrad*,0,Albany,19060615,19060921,30,,p
-minoraverages/1907Reach,1906,New York State League,starkel,B01007,Starkell,,0,all,,,27,,
-minoraverages/1907Reach,1906,New York State League,starkel,F20463,Starkell,,0,all,,,,,p27
-minoraverages/Nemec,1906,New York State League,starkel,P10698,Starkell,Conrad,0,Albany,,,,30,
-minoraverages/1907Reach,1906,New York State League,streit,F20327,Street,,0,all,,,,,p26
-minoraverages/1907Reach,1906,New York State League,streit,B01250,Streit,,0,all,,,26,,
-minoraverages/Nemec,1906,New York State League,streit,B02081,Streit,Oscar W.*,0,Binghamton,19060514,19060906,27,,"p,of"
-minoraverages/Nemec,1906,New York State League,streit,P10709,Streit,Oscar,0,Binghamton,,,,26,
-minoraverages/1907Reach,1906,New York State League,stroh,B00865,Stroh,,0,all,,,75,,
-minoraverages/1907Reach,1906,New York State League,stroh,F20166,Stroh,,0,all,,,,,c75
-minoraverages/Nemec,1906,New York State League,stroh,B02097,Stroh,George J.,1,Amsterdam-Johnstown-Gloversville,19060513,19060526,6,,"c,2b,of"
-minoraverages/Nemec,1906,New York State League,stroh,B02100,Stroh,George J.,2,Albany,19060603,19060609,6,,"c,3b,of"
-minoraverages/Nemec,1906,New York State League,stroh,B02113,Stroh,George J.,3,Utica,19060702,19060923,65,,"c,3b,of"
-minoraverages/Nemec,1906,New York State League,stroh,B02121,Stroh,George J.,T,,,,77,,"c,3b,of"
-minoraverages/Nemec,1906,New York State League,sullivan,B02137,Sullivan,Neil,0,Binghamton,19060913,19060923,8,,"p,of"
-minoraverages/Nemec,1906,New York State League,sullivan,P10714,Sullivan,Neil,0,Binghamton,,,,2,
-minoraverages/1907Reach,1906,New York State League,swayne,B00174,Swayne,,0,all,,,132,,
-minoraverages/1907Reach,1906,New York State League,swayne,F21130,Swayne,,0,all,,,,,rf133
-minoraverages/Nemec,1906,New York State League,swayne,B02145,Swayne,Frank Peter,0,Utica,19060510,19060923,132,,of
-minoraverages/1907Reach,1906,New York State League,swormstedt,F20298,Swormstead,,0,all,,,,,p38
-minoraverages/1907Reach,1906,New York State League,swormstedt,B00912,Swormsted,,0,all,,,38,,
-minoraverages/Nemec,1906,New York State League,swormstedt,B02159,Swormstedt,Leonard J.*,0,Troy,19060515,19060921,41,,p
-minoraverages/Nemec,1906,New York State League,swormstedt,P10723,Swormstedt,Leonard J.,0,Troy,,,,41,
-minoraverages/Nemec,1906,New York State League,terry,B02168,Terry,,0,Binghamton,19060520,19060611,2,,p
-minoraverages/Nemec,1906,New York State League,terry,P10738,Terry,,0,Binghamton,,,,2,
-minoraverages/1907Reach,1906,New York State League,therre,B00985,Therre,,0,all,,,26,,
-minoraverages/1907Reach,1906,New York State League,therre,F20095,Therre,,0,all,,,,,c26
-minoraverages/Nemec,1906,New York State League,therre,B02176,Therre,George Matthew,0,Wilkes-Barre,19060510,19060710,27,,c
-minoraverages/Nemec,1906,New York State League,tibbitts,B02184,Tibbitts,,0,Binghamton,19060713,19060713,1,,1b
-minoraverages/1907Reach,1906,New York State League,trainor,B00651,Trainon,,0,all,,,58,,
-minoraverages/1907Reach,1906,New York State League,trainor,F20177,Trainor,,0,all,,,,,c58
-minoraverages/Nemec,1906,New York State League,trainor,B02192,Trainor,James T. (Dick),0,Syracuse,19060511,19060923,62,,"c,of"
-minoraverages/Nemec,1906,New York State League,urbach,B02202,Urbach,Roy Hubner,0,Albany,19060523,19060523,1,,p
-minoraverages/Nemec,1906,New York State League,urbach,P10746,Urbach,Roy H.,0,Albany,,,,1,
-minoraverages/1907Reach,1906,New York State League,viau,B01234,Viau,,0,all,,,23,,
-minoraverages/1907Reach,1906,New York State League,viau,F20401,Viau,,0,all,,,,,p23
-minoraverages/Nemec,1906,New York State League,viau,B02215,Viau,Leon A. (Lee)*,0,Binghamton,19060520,19060909,24,,p
-minoraverages/Nemec,1906,New York State League,viau,P10751,Viau,Leon,0,Binghamton,,,,24,
-minoraverages/Nemec,1906,New York State League,villeman,B02228,Villeman,George (Ginger),0,Amsterdam-Johnstown-Gloversville,19060511,19060825,26,,p
-minoraverages/Nemec,1906,New York State League,villeman,P10767,Villeman,George (Ginger),0,Amsterdam-Johnstown-Gloversville,,,,26,
-minoraverages/1907Reach,1906,New York State League,villeman,B00999,Villman,,0,all,,,24,,
-minoraverages/1907Reach,1906,New York State League,villeman,F20391,Villman,,0,all,,,,,p24
-minoraverages/1907Reach,1906,New York State League,wagner,B00879,Wagner,,0,all,,,48,,
-minoraverages/1907Reach,1906,New York State League,wagner,F20375,Wagner,,0,all,,,,,p48
-minoraverages/Nemec,1906,New York State League,wagner,B02231,Wagner,Ivor E.,0,Binghamton,19060512,19060923,54,,"p,1b,2b,3b,ss,of"
-minoraverages/Nemec,1906,New York State League,wagner,P10772,Wagner,Ivor,0,Binghamton,,,,36,
-minoraverages/Nemec,1906,New York State League,walsh-bin,B02244,Walsh,Martin (Marty),0,Binghamton,19060921,19060921,1,,p
-minoraverages/Nemec,1906,New York State League,walsh-uti,B02253,Walsh,"Joseph R. ""Red""",0,Utica,19060913,19060916,4,,c
-minoraverages/Nemec,1906,New York State League,walsh-bin,P10780,Walsh,Martin,0,Binghamton,,,,1,
-minoraverages/Nemec,1906,New York State League,washer,B02266,Washer,William (Buck)*,0,Amsterdam-Johnstown-Gloversville,19060518,19060520,2,,p
-minoraverages/Nemec,1906,New York State League,washer,P10795,Washer,William (Buck),0,Amsterdam-Johnstown-Gloversville,,,,2,
-minoraverages/1907Reach,1906,New York State League,weaver,B00021,Weaver,,0,all,,,127,,
-minoraverages/1907Reach,1906,New York State League,weaver,F20956,Weaver,,0,all,,,,,cf127
-minoraverages/Nemec,1906,New York State League,weaver,B02277,Weaver,John H. (Buck),0,Amsterdam-Johnstown-Gloversville,19060511,19060923,131,,of
-minoraverages/1907Reach,1906,New York State League,weeden,B00973,Weeden,,0,all,,,32,,
-minoraverages/1907Reach,1906,New York State League,weeden,F20051,Weeden,,0,all,,,,,c32
-minoraverages/Nemec,1906,New York State League,weeden,B02289,Weeden,Charles A. (Bert)*,0,Troy,19060514,19060915,36,,"c,of"
-minoraverages/1907Reach,1906,New York State League,welch,B00726,Welch,,0,all,,,129,,
-minoraverages/1907Reach,1906,New York State League,welch,F20759,Welch,,0,all,,,,,3b129
-minoraverages/Nemec,1906,New York State League,welch,B02290,Welch,Harry A.,0,Binghamton,19060511,19060923,134,,3b
-minoraverages/1907Reach,1906,New York State League,weller,B01041,Weller,,0,all,,,32,,
-minoraverages/1907Reach,1906,New York State League,weller,F20279,Weller,,0,all,,,,,p32
-minoraverages/Nemec,1906,New York State League,weller,B02304,Weller,Burns Mcneil,0,Amsterdam-Johnstown-Gloversville,19060512,19060921,33,,p
-minoraverages/Nemec,1906,New York State League,weller,P10805,Weller,Burns M.,0,Amsterdam-Johnstown-Gloversville,,,,33,
-minoraverages/1907Reach,1906,New York State League,west,B00948,West,,0,all,,,53,,
-minoraverages/1907Reach,1906,New York State League,west,F20505,West,,0,all,,,,,p53
-minoraverages/Nemec,1906,New York State League,west,B02312,West,James H. (Hi)*,0,Wilkes-Barre,19060510,19060920,56,,"p,ss,of"
-minoraverages/Nemec,1906,New York State League,west,P10818,West,James H. (Hi),0,Wilkes-Barre,,,,43,
-minoraverages/Nemec,1906,New York State League,wilbur,B02320,Wilbur,,0,Binghamton,19060727,19060917,16,,1b
-minoraverages/1907Reach,1906,New York State League,wilson,B00646,Wilson,,0,all,,,56,,
-minoraverages/1907Reach,1906,New York State League,wilson,F21068,Wilson,,0,all,,,,,cf56
-minoraverages/Nemec,1906,New York State League,wilson,B02336,Wilson,James T. (Dick),0,Utica,19060726,19060923,56,,"1b,of"
-minoraverages/1907Reach,1906,New York State League,yancey,B00117,Yancey,,0,all,,,62,,
-minoraverages/1907Reach,1906,New York State League,yancey,F21059,Yancey,,0,all,,,,,cf62
-minoraverages/Nemec,1906,New York State League,yancey,B02348,Yancey,Hogan Lowndes,0,Scranton,19060724,19060922,61,,"1b,2b,of"
-minoraverages/Nemec,1906,New York State League,yerkes,B02357,Yerkes,William (Will),0,Wilkes-Barre,19060803,19060803,1,,p
-minoraverages/Nemec,1906,New York State League,yerkes,P10826,Yerkes,,0,Wilkes-Barre,,,,1,
-minoraverages/1907Reach,1906,New York State League,zeimer,B00286,Zeimer,,0,all,,,130,,
-minoraverages/1907Reach,1906,New York State League,zeimer,F20878,Zeimer,,0,all,,,,,ss130
-minoraverages/Nemec,1906,New York State League,zeimer,B02373,Zeimer,Gustave T. (Gus),0,Scranton,19060510,19060922,130,,ss
-minoraverages/1907Reach,1906,New York State League,zimmerman,B00961,Zimmerman,,0,all,,,35,,
-minoraverages/1907Reach,1906,New York State League,zimmerman,F20745,Zimmerman,,0,all,,,,,2b35
-minoraverages/Nemec,1906,New York State League,zimmerman,B02361,Zimmerman,Henry*,0,Wilkes-Barre,19060821,19060922,35,,"2b,ss"
-minoraverages/1907Reach,1906,New York State League,zinzer,B00397,Zinzer,,0,all,,,107,,
-minoraverages/1907Reach,1906,New York State League,zinzer,F21117,Zinzer,,0,all,,,,,rf107
-minoraverages/Nemec,1906,New York State League,zinzer,B02385,Zinzer,Charles,0,Wilkes-Barre,19060523,19060922,108,,"1b,2b,ss,of"
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/Nemec,1906,New York State League,ashenback,B00013,Ashenback,Edward M.,0,Scranton,19060513/19060902,"B21b,of"
+minoraverages/Nemec,1906,New York State League,ashenback,M90047,Ashenback,Edward M.,,Scranton,,
+minoraverages/1907Reach,1906,New York State League,aubrey,B00319,Aubrey,,0,all,,B132
+minoraverages/1907Reach,1906,New York State League,aubrey,F20864,Aubrey,,0,all,,ss132
+minoraverages/Nemec,1906,New York State League,aubrey,B00021,Aubrey,Harry H.*,0,Syracuse,19060510/19060923,"B131c,3b,ss,of"
+minoraverages/Nemec,1906,New York State League,barber,B00037,Barber,David M.,0,Utica,19060811/19060829,"B7c,1b,of"
+minoraverages/Nemec,1906,New York State League,barnett,B00045,Barnett,F. John,1,Albany,19060603/19060705,B7p
+minoraverages/Nemec,1906,New York State League,barnett,B00059,Barnett,F. John,2,Wilkes-Barre,19060902/19060922,B6p
+minoraverages/Nemec,1906,New York State League,barnett,B00068,Barnett,F. John,T,,,B13p
+minoraverages/Nemec,1906,New York State League,barnett,P10019,Barnett,F. John,1,Albany,,P7
+minoraverages/Nemec,1906,New York State League,barnett,P10024,Barnett,F. John,2,Wilkes-Barre,,P6
+minoraverages/Nemec,1906,New York State League,barnett,P10035,Barnett,F. John,T,,,P13
+minoraverages/1907Reach,1906,New York State League,bayne,B00182,Bayne,,0,all,,B41
+minoraverages/1907Reach,1906,New York State League,bayne,F20316,Bayne,,0,all,,p41
+minoraverages/Nemec,1906,New York State League,bayne,B00076,Bayne,Alvin B. (Brindle),0,Binghamton,19060511/19060919,"B45p,1b,of"
+minoraverages/Nemec,1906,New York State League,bayne,P10043,Bayne,A. B. (Brindle),0,Binghamton,,P41
+minoraverages/Nemec,1906,New York State League,beckel,B00084,Beckel,Lawrence C.,0,Utica,19060514/19060604,B4p
+minoraverages/Nemec,1906,New York State League,beckel,P10056,Beckel,Lawrence C.,0,Utica,,P4
+minoraverages/1907Reach,1906,New York State League,betts,B00278,Betts,,0,all,,B111
+minoraverages/1907Reach,1906,New York State League,betts,F21101,Betts,,0,all,,rf111
+minoraverages/Nemec,1906,New York State League,betts,B00092,Betts,Frederick,1,Scranton,19060510/19060519,B10of
+minoraverages/Nemec,1906,New York State League,betts,B00101,Betts,Frederick,2,Albany,19060523/19060923,B111of
+minoraverages/Nemec,1906,New York State League,betts,B00117,Betts,Frederick,T,,,B121of
+minoraverages/1907Reach,1906,New York State League,birmingham,B00092,Birmingham,,0,all,,B117
+minoraverages/1907Reach,1906,New York State League,birmingham,F21163,Birmingham,,0,all,,rf117
+minoraverages/Nemec,1906,New York State League,birmingham,B00125,Birmingham,Joseph L.*,0,Amsterdam-Johnstown-Gloversville,19060511/19060908,"B1191b,2b,3b,ss,of"
+minoraverages/1907Reach,1906,New York State League,blanchard,B01032,Blanchard,,0,all,,B16
+minoraverages/1907Reach,1906,New York State League,blanchard,F20254,Blanchard,,0,all,,p16
+minoraverages/Nemec,1906,New York State League,blanchard,B00130,Blanchard,Foster L.,0,Utica,19060511/19060828,B16p
+minoraverages/Nemec,1906,New York State League,blanchard,P10062,Blanchard,Foster L.,0,Utica,,P16
+minoraverages/1907Reach,1906,New York State League,boucher,B00854,Boucher,,0,all,,B50
+minoraverages/1907Reach,1906,New York State League,boucher,F20832,Boucher,,0,all,,3b50
+minoraverages/Nemec,1906,New York State League,boucher,B00149,Boucher,Alexander F.*,0,Albany,19060710/19060923,B693b
+minoraverages/1907Reach,1906,New York State League,bowen,B01029,Bowen,,0,all,,B32
+minoraverages/Nemec,1906,New York State League,bowen,B00158,Bowen,Sutherland M. (Cy)*,0,Wilkes-Barre,19060511/19060917,"B33p,of"
+minoraverages/Nemec,1906,New York State League,bowen,P10070,Bowen,Sutherland M. (Cy),0,Wilkes-Barre,,P32
+minoraverages/1907Reach,1906,New York State League,bowers,F20482,Bowers,,0,all,,p32
+minoraverages/Nemec,1906,New York State League,boyle,B00163,Boyle,Fred C. (Lefty),0,Albany,19060608/19060618,"B3p,of"
+minoraverages/Nemec,1906,New York State League,boyle,P10081,Boyle,Fred (Lefty),0,Albany,,P2
+minoraverages/Nemec,1906,New York State League,briger,B00174,Briger,Joseph,0,Binghamton,19060716/19060716,B1c
+minoraverages/Nemec,1906,New York State League,briger,B00182,Briger,Joseph,0,Albany,19060518/19060518,B1c
+minoraverages/Nemec,1906,New York State League,brown,B00196,Brown,Delmar,0,Wilkes-Barre,19060707/19060917,B102b
+minoraverages/Nemec,1906,New York State League,burton,B00207,Burton,Harry,0,Wilkes-Barre,19060918/19060922,B52b
+minoraverages/Nemec,1906,New York State League,cargo,B00210,Cargo,Charles G. (Chic),0,Troy,19060919/19060923,"B5c,3b,ss,of"
+minoraverages/1907Reach,1906,New York State League,carr,B00822,Carr,,0,all,,B102
+minoraverages/1907Reach,1906,New York State League,carr,F20829,Carr,,0,all,,3b102
+minoraverages/Nemec,1906,New York State League,carr,B00229,Carr,Lewis S.*,0,Syracuse,19060510/19060915,B1023b
+minoraverages/Nemec,1906,New York State League,carriveau,B00232,Carriveau,Frank,0,Wilkes-Barre,19060809/19060812,B2p
+minoraverages/Nemec,1906,New York State League,carriveau,P10097,Carriveau,Frank,0,Wilkes-Barre,,P2
+minoraverages/Nemec,1906,New York State League,carroll-wb,B00241,Carroll,Frank J.,0,Wilkes-Barre,19060913/19060915,"B32b,3b"
+minoraverages/Nemec,1906,New York State League,carroll-alb,B00255,Carroll,William John,0,Albany,19060512/19060614,B6p
+minoraverages/Nemec,1906,New York State League,carroll-alb,P10100,Carroll,William John,0,Albany,,P6
+minoraverages/1907Reach,1906,New York State League,carter,B01162,Carter,,0,all,,B37
+minoraverages/1907Reach,1906,New York State League,carter,F20287,Carter,,0,all,,p37
+minoraverages/Nemec,1906,New York State League,carter,B00264,Carter,Conrad P. (Nick)*,0,Syracuse,19060510/19060922,"B38p,of"
+minoraverages/Nemec,1906,New York State League,carter,P10113,Carter,Conrad P.,0,Syracuse,,P35
+minoraverages/1907Reach,1906,New York State League,chappelle,B00887,Chappell,,0,all,,B42
+minoraverages/Nemec,1906,New York State League,chappelle,B00278,Chappelle,Robert Olin,0,Scranton,19060510/19060823,"B48p,1b,2b,of"
+minoraverages/Nemec,1906,New York State League,chappelle,P10121,Chappelle,Robert O.,0,Scranton,,P37
+minoraverages/1907Reach,1906,New York State League,chappelle,F20206,Chapple,,0,all,,p42
+minoraverages/Nemec,1906,New York State League,childs,B00286,Childs,Peter P.*,0,Amsterdam-Johnstown-Gloversville,19060511/19060923,B1052b
+minoraverages/1907Reach,1906,New York State League,childs,B00638,Chiles,,0,all,,B102
+minoraverages/1907Reach,1906,New York State League,childs,F20657,Chiles,,0,all,,2b102
+minoraverages/1907Reach,1906,New York State League,clark-scr,F20102,Clark,,0,all,,c85
+minoraverages/Nemec,1906,New York State League,clark-bin,B00293,Clark,,0,Binghamton,19060711/19060711,B1of
+minoraverages/Nemec,1906,New York State League,clark-scr,B00308,Clark,Wilkie Collins,0,Scranton,19060510/19060922,"B88c,1b"
+minoraverages/1907Reach,1906,New York State League,clark-scr,B00335,Clarke,,0,all,,B85
+minoraverages/1907Reach,1906,New York State League,clay,B01170,Clay,,0,all,,B26
+minoraverages/1907Reach,1906,New York State League,clay,F20211,Clay,,0,all,,p26
+minoraverages/Nemec,1906,New York State League,clay,B00319,Clay,Waldo H.,0,Amsterdam-Johnstown-Gloversville,19060514/19060921,"B30p,of"
+minoraverages/Nemec,1906,New York State League,clay,P10137,Clay,Waldo H.,0,Amsterdam-Johnstown-Gloversville,,P29
+minoraverages/Nemec,1906,New York State League,cline,B00324,Cline,,0,Binghamton,19060714/19060716,B31b
+minoraverages/Nemec,1906,New York State League,cobean,B00335,Cobean,Samuel,0,Utica,19060729/19060729,B1p
+minoraverages/Nemec,1906,New York State League,cobean,P10145,Cobean,Sam,0,Utica,,P1
+minoraverages/Nemec,1906,New York State League,cockill,B00343,Cockill,George,0,Albany,19060510/19060923,B1371b
+minoraverages/1907Reach,1906,New York State League,connors,B00491,Connor,,0,Wilkes-Barre,,B84
+minoraverages/1907Reach,1906,New York State League,connors,F20721,Connor,,0,all,,2b84
+minoraverages/Nemec,1906,New York State League,connors,B00356,Connors,Edward,1,Wilkes-Barre,19060510/19060812,"B841b,2b"
+minoraverages/Nemec,1906,New York State League,connors,B00362,Connors,Edward,2,Albany,19060906/19060915,"B92b,of"
+minoraverages/Nemec,1906,New York State League,connors,B00370,Connors,Edward,T,,,"B931b,2b,of"
+minoraverages/Nemec,1906,New York State League,conroy,B00381,Conroy,Martin Francis,0,Troy,19060915/19060921,B3c
+minoraverages/1907Reach,1906,New York State League,coogan,B01010,Coogan,,0,all,,B26
+minoraverages/1907Reach,1906,New York State League,coogan,F20023,Coogan,,0,all,,c26
+minoraverages/Nemec,1906,New York State League,coogan,B00397,Coogan,Daniel G.*,0,Wilkes-Barre,19060727/19060922,"B29p,c,of"
+minoraverages/Nemec,1906,New York State League,coogan,P10159,Coogan,Daniel,0,Wilkes-Barre,,P1
+minoraverages/Nemec,1906,New York State League,corbett,B00403,Corbett,James J.,0,Scranton,19060902/19060902,B11b
+minoraverages/Nemec,1906,New York State League,corcoran,B00416,Corcoran,,0,Binghamton,19060913/19060915,B3of
+minoraverages/Nemec,1906,New York State League,cranston,B00427,Cranston,William,0,Syracuse,19060511/19060511,B1
+minoraverages/1907Reach,1906,New York State League,crisham,B00695,Crisham,,0,all,,B135
+minoraverages/1907Reach,1906,New York State League,crisham,F20547,Crisham,,0,all,,1b136
+minoraverages/Nemec,1906,New York State League,crisham,B00434,Crisham,Patrick J.*,0,Syracuse,19060510/19060923,"B136c,1b"
+minoraverages/1907Reach,1906,New York State League,cristall,B00667,Cristall,,0,all,,B44
+minoraverages/1907Reach,1906,New York State League,cristall,F20417,Cristall,,0,all,,p44
+minoraverages/Nemec,1906,New York State League,cristall,B00442,Cristall,William A.,0,Syracuse,19060628/19060921,"B53p,of"
+minoraverages/Nemec,1906,New York State League,cristall,P10168,Cristall,William A.,0,Syracuse,,P20
+minoraverages/Nemec,1906,New York State League,crossman,B00450,Crossman,,1,Wilkes-Barre,19060705/19060705,B1p
+minoraverages/Nemec,1906,New York State League,crossman,B00469,Crossman,,2,Scranton,19060902/19060902,B1p
+minoraverages/Nemec,1906,New York State League,crossman,B00475,Crossman,,T,,,B2p
+minoraverages/Nemec,1906,New York State League,crossman,P10176,Crossman,,1,Wilkes-Barre,,P1
+minoraverages/Nemec,1906,New York State League,crossman,P10184,Crossman,,2,Scranton,,P1
+minoraverages/Nemec,1906,New York State League,crossman,P10192,Crossman,,T,,,P2
+minoraverages/Nemec,1906,New York State League,croughn,P10202,Croughan,Leo,0,Wilkes-Barre,,P1
+minoraverages/Nemec,1906,New York State League,croughn,B00488,Croughn,Leo James,0,Wilkes-Barre,19060804/19060807,"B3p,of"
+minoraverages/Nemec,1906,New York State League,crum,B00491,Crum,Walter S.,0,Albany,19060510/19060512,B22b
+minoraverages/1907Reach,1906,New York State League,cummings,B00680,Cummings,,0,all,,B38
+minoraverages/1907Reach,1906,New York State League,cummings,F20893,Cummings,,0,all,,ss38
+minoraverages/Nemec,1906,New York State League,cummings,B00502,Cummings,Andrew (Andy),0,Amsterdam-Johnstown-Gloversville,19060812/19060923,B45ss
+minoraverages/Nemec,1906,New York State League,curtis,B00515,Curtis,Harry Albert*,0,Utica,19060512/19060609,"B7c,1b"
+minoraverages/Nemec,1906,New York State League,davis,B00528,Davis,,0,Syracuse,19060911/19060912,B2of
+minoraverages/1907Reach,1906,New York State League,degroff,B00059,DeGroff,,0,all,,B132
+minoraverages/1907Reach,1906,New York State League,degroff,F20962,DeGroff,,0,all,,cf132
+minoraverages/Nemec,1906,New York State League,degroff,B00531,DeGroff,Edward A. (Art)*,0,Troy,19060511/19060923,"B136p,of"
+minoraverages/Nemec,1906,New York State League,degroff,P10215,DeGroff,Edward Arthur (Art),0,Troy,,P1
+minoraverages/Nemec,1906,New York State League,delave,B00544,DeLave,Edwin K.,0,Wilkes-Barre,19060822/19060825,"B52b,3b"
+minoraverages/1907Reach,1906,New York State League,doherty,B00577,Doherty,,0,all,,B125
+minoraverages/1907Reach,1906,New York State League,doherty,F20636,Doherty,,0,all,,2b125
+minoraverages/Nemec,1906,New York State League,doherty,B00553,Doherty,Michael J.,0,Albany,19060511/19060923,"B1222b,3b"
+minoraverages/Nemec,1906,New York State League,doherty,M90018,Doherty,Michael J.,,Albany,,
+minoraverages/1907Reach,1906,New York State League,donnelly,B01227,Donnelly,,0,all,,B26
+minoraverages/1907Reach,1906,New York State League,donnelly,F20425,Donnelly,,0,all,,p26
+minoraverages/Nemec,1906,New York State League,donnelly,B00566,Donnelly,Edward,0,Troy,19060522/19060922,B30p
+minoraverages/Nemec,1906,New York State League,donnelly,P10228,Donnelly,Edward,0,Troy,,P30
+minoraverages/1907Reach,1906,New York State League,donovan-tro,B00293,Donovan,,0,Troy,,B116
+minoraverages/1907Reach,1906,New York State League,donovan-wb,B00416,Donovan,,0,Wilkes-Barre,,B128
+minoraverages/1907Reach,1906,New York State League,donovan-wb,F20935,Donovan,,0,Wilkes-Barre,,ss128
+minoraverages/1907Reach,1906,New York State League,donovan-tro,F21210,Donovan,,0,Troy,,lf116
+minoraverages/Nemec,1906,New York State League,donovan-wb,B00577,Donovan,Michael B.*,0,Wilkes-Barre,19060510/19060922,"B1293b,ss"
+minoraverages/Nemec,1906,New York State League,donovan-tro,B00589,Donovan,Thomas J.*,0,Troy,19060511/19060923,"B1173b,of"
+minoraverages/Nemec,1906,New York State League,donovan-wb,M90094,Donovan,Mike*,,Wilkes-Barre,,
+minoraverages/1907Reach,1906,New York State League,doran,B00381,Doran,,0,all,,B87
+minoraverages/1907Reach,1906,New York State League,doran,F20080,Doran,,0,all,,c87
+minoraverages/Nemec,1906,New York State League,doran,B00590,Doran,Frank L.,0,Wilkes-Barre,19060511/19060921,"B90c,1b,ss,of"
+minoraverages/Nemec,1906,New York State League,dowling,B00609,Dowling,Patrick V.,0,Scranton,19060604/19060620,B15of
+minoraverages/1907Reach,1906,New York State League,downey,B01055,Downey,,0,all,,B36
+minoraverages/1907Reach,1906,New York State League,downey,F20685,Downey,,0,all,,2b36
+minoraverages/Nemec,1906,New York State League,downey,B00614,Downey,James,1,Troy,19060511/19060519,"B83b,ss"
+minoraverages/Nemec,1906,New York State League,downey,B00623,Downey,James,2,Amsterdam-Johnstown-Gloversville,19060623/19060711,B212b
+minoraverages/Nemec,1906,New York State League,downey,B00638,Downey,James,3,Utica,19060716/19060716,B12b
+minoraverages/Nemec,1906,New York State League,downey,B00646,Downey,James,4,Wilkes-Barre,19060722/19060812,B21ss
+minoraverages/Nemec,1906,New York State League,downey,B00651,Downey,James Aloysius,T,,,"B512b,3b,ss"
+minoraverages/Nemec,1906,New York State League,drennan,P10231,Drenna,L.,0,Scranton,,P2
+minoraverages/Nemec,1906,New York State League,drennan,B00667,Drennan,L.,0,Scranton,19060816/19060819,B2p
+minoraverages/1907Reach,1906,New York State League,drury,B00811,Drury,,0,all,,B76
+minoraverages/1907Reach,1906,New York State League,drury,F20612,Drury,,0,all,,1b76
+minoraverages/Nemec,1906,New York State League,drury,B00672,Drury,Robert B.,0,Binghamton,19060517/19060923,"B79c,1b,2b,of"
+minoraverages/Nemec,1906,New York State League,drury,M90039,Drury,Robert Blu,,Binghamton,,
+minoraverages/1907Reach,1906,New York State League,durrett,B00149,Durrett,,0,all,,B54
+minoraverages/1907Reach,1906,New York State League,durrett,F21000,Durrett,,0,all,,cf54
+minoraverages/Nemec,1906,New York State League,durrett,B00680,Durrett,Isaac H. (Ike),0,Wilkes-Barre,19060531/19060921,"B58p,of"
+minoraverages/Nemec,1906,New York State League,durrett,P10244,Durrett,Isaac,0,Wilkes-Barre,,P6
+minoraverages/1907Reach,1906,New York State League,dwyer,B01197,Dwyer,,0,all,,B15
+minoraverages/1907Reach,1906,New York State League,dwyer,F20841,Dwyer,,0,all,,3b15
+minoraverages/Nemec,1906,New York State League,dwyer,B00695,Dwyer,Timothy J.,0,Albany,19060510/19060530,B193b
+minoraverages/1907Reach,1906,New York State League,eagan,B00308,Eagan,,0,all,,B132
+minoraverages/1907Reach,1906,New York State League,eagan,F21229,Eagan,,0,all,,lf132
+minoraverages/Nemec,1906,New York State League,eagan,B00705,Eagan,Patrick Peter (Pete),0,Amsterdam-Johnstown-Gloversville,19060511/19060923,B135of
+minoraverages/1907Reach,1906,New York State League,earl,B00370,Earl,,0,all,,B131
+minoraverages/1907Reach,1906,New York State League,earl,F20571,Earl,,0,all,,1b131
+minoraverages/Nemec,1906,New York State League,earl,B00718,Earl,Howard J.*,0,Amsterdam-Johnstown-Gloversville,19060511/19060923,B1341b
+minoraverages/Nemec,1906,New York State League,earl,M90026,Earl,Howard J.*,,Amsterdam-Johnstown-Gloversville,,
+minoraverages/Nemec,1906,New York State League,ely,B00726,Ely,Frederick W.,0,Syracuse,19060513/19060526,B14of
+minoraverages/Nemec,1906,New York State League,fairbank,B00739,Fairbank,James Lee*,0,Utica,19060510/19060921,"B44p,of"
+minoraverages/Nemec,1906,New York State League,fairbank,P10253,Fairbank,James Lee,0,Utica,,P39
+minoraverages/1907Reach,1906,New York State League,fairbank,B00241,Fairbanks,,0,all,,B40
+minoraverages/1907Reach,1906,New York State League,fairbank,F20369,Fairbanks,,0,all,,p40
+minoraverages/1907Reach,1906,New York State League,fifield,B01181,Fifield,,0,all,,B33
+minoraverages/1907Reach,1906,New York State League,fifield,F20222,Fifield,,0,all,,p33
+minoraverages/Nemec,1906,New York State League,fifield,B00747,Fifield,John P.*,0,Syracuse,19060511/19060918,"B34p,of"
+minoraverages/Nemec,1906,New York State League,fifield,P10266,Fifield,John P.,0,Syracuse,,P33
+minoraverages/1907Reach,1906,New York State League,fitzgerald,B00771,Fitzgerald,,0,all,,B51
+minoraverages/1907Reach,1906,New York State League,fitzgerald,F20153,Fitzgerald,,0,all,,c51
+minoraverages/Nemec,1906,New York State League,fitzgerald,B00752,Fitzgerald,Matthew W.*,0,Utica,19060611/19060808,B51c
+minoraverages/1907Reach,1906,New York State League,flater,B01108,Flater,,0,all,,B44
+minoraverages/1907Reach,1906,New York State League,flater,F20350,Flater,,0,all,,p44
+minoraverages/Nemec,1906,New York State League,flater,B00760,Flater,John W.*,0,Utica,19060510/19060921,"B48p,of"
+minoraverages/Nemec,1906,New York State League,flater,P10277,Flater,John W.,0,Utica,,P40
+minoraverages/1907Reach,1906,New York State League,fox,B00264,Fox,,0,all,,B135
+minoraverages/1907Reach,1906,New York State League,fox,F21207,Fox,,0,all,,lf135
+minoraverages/Nemec,1906,New York State League,fox,B00771,Fox,John T.,0,Albany,19060510/19060923,B133of
+minoraverages/1907Reach,1906,New York State League,galaski,B00718,Galaski,,0,all,,B25
+minoraverages/1907Reach,1906,New York State League,galaski,F20189,Galaski,,0,all,,p25
+minoraverages/Nemec,1906,New York State League,galaski,B00783,Galaski,Joseph,0,Albany,19060702/19060922,B25p
+minoraverages/Nemec,1906,New York State League,galaski,P10289,Galaski,Joseph,0,Albany,,P24
+minoraverages/Nemec,1906,New York State League,gannon,B00794,Gannon,William P.*,0,Albany,19060810/19060826,B17of
+minoraverages/Nemec,1906,New York State League,garahan,B00806,Garahan (Garrighan),Martin,0,Binghamton,19060921/19060923,B3of
+minoraverages/1907Reach,1906,New York State League,garry,B00362,Garry,,0,all,,B30
+minoraverages/1907Reach,1906,New York State League,garry,F21149,Garry,,0,all,,rf30
+minoraverages/Nemec,1906,New York State League,garry,B00811,Garry,James,1,Troy,19060511/19060616,B32of
+minoraverages/Nemec,1906,New York State League,garry,B00822,Garry,James,2,Albany,19060913/19060914,B2of
+minoraverages/Nemec,1906,New York State League,garry,B00833,Garry,James,T,,,B34of
+minoraverages/1907Reach,1906,New York State League,graham,B00037,Graham,,0,all,,B124
+minoraverages/1907Reach,1906,New York State League,graham,F21255,Graham,,0,all,,lf124
+minoraverages/Nemec,1906,New York State League,graham,B00840,Graham,Archibald W.*,0,Scranton,19060510/19060922,B122of
+minoraverages/Nemec,1906,New York State League,griffin,M90052,Griffin,"Tobias C. ""Sandy"" *",,Syracuse,,
+minoraverages/1907Reach,1906,New York State League,hafford,B00705,Hafford,,0,all,,B129
+minoraverages/1907Reach,1906,New York State League,hafford,F20807,Hafford,,0,all,,3b129
+minoraverages/Nemec,1906,New York State League,hafford,B00854,Hafford,Francis A.,0,Amsterdam-Johnstown-Gloversville,19060511/19060923,B1333b
+minoraverages/1907Reach,1906,New York State League,hallman,B00324,Hallman,,0,all,,B43
+minoraverages/1907Reach,1906,New York State League,hallman,F20620,Hallman,,0,all,,2b43
+minoraverages/Nemec,1906,New York State League,hallman,B00865,Hallman,William W.*,0,Albany,19060531/19060712,B432b
+minoraverages/1907Reach,1906,New York State League,hannifan,B00840,Hanifan,,0,all,,B66
+minoraverages/1907Reach,1906,New York State League,hannifan,F21182,Hanifan,,0,all,,rf66
+minoraverages/1907Reach,1906,New York State League,hanley,B00196,Hanley,,0,all,,B119
+minoraverages/1907Reach,1906,New York State League,hanley,F21232,Hanley,,0,all,,lf119
+minoraverages/Nemec,1906,New York State League,hanley,B00879,Hanley,George,0,Wilkes-Barre,19060510/19060922,B119of
+minoraverages/Nemec,1906,New York State League,hannifan,P10290,Hannifan,Lawrence (Larry),0,Scranton,,P17
+minoraverages/Nemec,1906,New York State League,hannifan,B00887,Hannifin,Lawrence J. (Larry),0,Scranton,19060514/19060922,"B70p,3b,of"
+minoraverages/1907Reach,1906,New York State League,hannivan,B00450,Hannivan,,0,all,,B100
+minoraverages/1907Reach,1906,New York State League,hannivan,F21241,Hannivan,,0,all,,lf100
+minoraverages/Nemec,1906,New York State League,hannivan,B00898,Hannivan,P. James*,0,Binghamton,19060511/19060902,"B1001b,of"
+minoraverages/1907Reach,1906,New York State League,hardy,B00475,Hardy,,0,all,,B53
+minoraverages/1907Reach,1906,New York State League,hardy,F20449,Hardy,,0,all,,p53
+minoraverages/Nemec,1906,New York State League,hardy,B00904,Hardy,David Alex.*,0,Troy,19060512/19060923,"B64p,of"
+minoraverages/Nemec,1906,New York State League,hardy,P10304,Hardy,Alex,0,Troy,,P38
+minoraverages/1907Reach,1906,New York State League,hollingsworth,B00898,Hatfield,,0,all,,B104
+minoraverages/1907Reach,1906,New York State League,hollingsworth,F20981,Hatfield,,0,all,,cf104
+minoraverages/1907Reach,1906,New York State League,hayes,B01093,Hayes,,0,all,,B24
+minoraverages/1907Reach,1906,New York State League,hayes,F21037,Hayes,,0,all,,cf24
+minoraverages/Nemec,1906,New York State League,hayes,B00920,Hayes,,0,Albany,19060818/19060923,B24of
+minoraverages/1907Reach,1906,New York State League,helmund,B00515,Helmund,,0,all,,B135
+minoraverages/1907Reach,1906,New York State League,helmund,F21196,Helmund,,0,all,,lf135
+minoraverages/Nemec,1906,New York State League,helmund,B00936,Helmund,George,0,Syracuse,19060510/19060923,"B1342b,3b,ss,of"
+minoraverages/1907Reach,1906,New York State League,hennessy,B00125,Hennessy,,0,all,,B132
+minoraverages/1907Reach,1906,New York State League,hennessy,F21045,Hennessy,,0,all,,cf132
+minoraverages/Nemec,1906,New York State League,hennessy,B00948,Hennessy,Joseph C.,0,Syracuse,19060510/19060922,"B132p,of"
+minoraverages/Nemec,1906,New York State League,hennessy,P10312,Hennessy,Joseph,0,Scranton,,P1
+minoraverages/Nemec,1906,New York State League,hessling,B00957,Hessling,Benjamin Joseph (Ben),0,Scranton,19060912/19060912,B1p
+minoraverages/Nemec,1906,New York State League,hessling,P10320,Hessling,Ben,0,Scranton,,P1
+minoraverages/1907Reach,1906,New York State League,hinchman,B00531,Hinchman,,0,all,,B135
+minoraverages/1907Reach,1906,New York State League,hinchman,F20700,Hinchman,,0,all,,2b135
+minoraverages/Nemec,1906,New York State League,hinchman,B00961,Hinchman,Harry S.*,0,Binghamton,19060511/19060923,"B1362b,of"
+minoraverages/Nemec,1906,New York State League,hollingsworth,B00912,Hollingsworth (Hatfield),Wallace,0,Syracuse,19060609/19060923,"B105c,2b,3b,ss,of"
+minoraverages/Nemec,1906,New York State League,hurlburt,B00973,Hurlburt,George,0,Wilkes-Barre,19060511/19060526,B14of
+minoraverages/1907Reach,1906,New York State League,hurley,B00528,Hurley,,0,all,,B91
+minoraverages/1907Reach,1906,New York State League,hurley,F20115,Hurley,,0,all,,c91
+minoraverages/Nemec,1906,New York State League,hurley,B00985,Hurley,Jeremiah*,0,Amsterdam-Johnstown-Gloversville,19060511/19060923,B97c
+minoraverages/1907Reach,1906,New York State League,james,B00130,James,,0,all,,B105
+minoraverages/1907Reach,1906,New York State League,james,F20699,James,,0,all,,2b105
+minoraverages/Nemec,1906,New York State League,james,B00999,James,Richard,0,Troy,19060519/19060923,"B1142b,3b,ss"
+minoraverages/Nemec,1906,New York State League,jarrett,B01007,Jarrett,Thomas J.*,0,Troy,19060519/19060519,B1p
+minoraverages/Nemec,1906,New York State League,jarrett,P10336,Jarrett,Thomas J.,0,Troy,,P1
+minoraverages/Nemec,1906,New York State League,jennette,B01010,Jennette,,0,Amsterdam-Johnstown-Gloversville,19060826/19060901,B2p
+minoraverages/Nemec,1906,New York State League,jennette,P10348,Jennette,,0,Amsterdam-Johnstown-Gloversville,,P2
+minoraverages/Nemec,1906,New York State League,jennis,B01029,Jennis,Jacob Charles,0,Wilkes-Barre,19060813/19060816,B4ss
+minoraverages/Nemec,1906,New York State League,kelley-scr,B01041,Kelley,,0,Scranton,19060904/19060904,B1p
+minoraverages/Nemec,1906,New York State League,kelley-scr,P10357,Kelley,,0,Scranton,,P1
+minoraverages/Nemec,1906,New York State League,kelly-wb,B01032,Kelly,James,0,Wilkes-Barre,19060510/19060522,B11of
+minoraverages/Nemec,1906,New York State League,kelly-syr,B01055,Kelly,,0,Syracuse,19060705/19060705,B1c
+minoraverages/Nemec,1906,New York State League,kelly-tro,B01064,Kelly (Kelley),,0,Troy,19060614/19060615,B2of
+minoraverages/Nemec,1906,New York State League,kenner,B01078,Kenner (Kehner),Henry,0,Wilkes-Barre,19060821/19060821,B1ss
+minoraverages/1907Reach,1906,New York State League,kockill,B00255,Kockill,,0,all,,B139
+minoraverages/1907Reach,1906,New York State League,kockill,F20539,Kockill,,0,all,,1b136
+minoraverages/1907Reach,1906,New York State League,kroh,B01124,Kroh,,0,all,,B30
+minoraverages/1907Reach,1906,New York State League,kroh,F20496,Kroh,,0,all,,p30
+minoraverages/Nemec,1906,New York State League,kroh,B01086,Kroh,Floyd M.,0,Albany,19060510/19060920,B30p
+minoraverages/Nemec,1906,New York State League,kroh,P10361,Kroh,Floyd M.,0,Albany,,P30
+minoraverages/1907Reach,1906,New York State League,krug,B00210,Krug,,0,all,,B127
+minoraverages/1907Reach,1906,New York State League,krug,F20784,Krug,,0,all,,3b127
+minoraverages/Nemec,1906,New York State League,krug,B01093,Krug,Henry C.*,0,Scranton,19060510/19060922,"B1273b,of"
+minoraverages/Nemec,1906,New York State League,krug,P10373,Krug,Henry C.,0,Scranton,,P1
+minoraverages/1907Reach,1906,New York State League,lauterborn,B00343,Lauterborn,,0,all,,B134
+minoraverages/1907Reach,1906,New York State League,lauterborn,F20924,Lauterborn,,0,all,,ss134
+minoraverages/Nemec,1906,New York State League,lauterborn,B01108,Lauterborn,William (Bill)*,0,Binghamton,19060511/19060923,B134ss
+minoraverages/Nemec,1906,New York State League,lawlor,M90071,Lawler,John J.,,Utica,,
+minoraverages/1907Reach,1906,New York State League,lawlor,B00833,Lawlor,,0,all,,B48
+minoraverages/1907Reach,1906,New York State League,lawlor,F20970,Lawlor,,0,all,,cf48
+minoraverages/Nemec,1906,New York State League,lawlor,B01119,Lawlor,John J.,0,Utica,19060511/19060906,B49of
+minoraverages/1907Reach,1906,New York State League,lezotte,B01135,Lazotte,,0,all,,B23
+minoraverages/1907Reach,1906,New York State League,lezotte,F21174,Lazotte,,0,all,,rf23
+minoraverages/Nemec,1906,New York State League,lennon,B01124,Lennon,Patrick Francis,0,Albany,19060519/19060525,B2p
+minoraverages/Nemec,1906,New York State League,lennon,P10385,Lennon,Patrick F.,0,Albany,,P2
+minoraverages/Nemec,1906,New York State League,leonard,B01135,Leonard,"William ""Billy""",0,Syracuse,19060630/19060703,B3of
+minoraverages/Nemec,1906,New York State League,lezotte,B01143,Lezotte (Lizotte),Abel,1,Albany,19060510/19060521,B11of
+minoraverages/Nemec,1906,New York State League,lezotte,B01156,Lezotte (Lizotte),Abel,2,Syracuse,19060529/19060608,B12of
+minoraverages/Nemec,1906,New York State League,lezotte,B01162,Lizotte,Abel (Abe)*,T,,,B23of
+minoraverages/Nemec,1906,New York State League,luskey,B01170,Luskey,Charles M.*,0,Syracuse,19060510/19060824,"B75c,1b"
+minoraverages/1907Reach,1906,New York State League,luskey,B00760,Lusky,,0,all,,B73
+minoraverages/1907Reach,1906,New York State League,luskey,F20067,Lusky,,0,all,,c73
+minoraverages/Nemec,1906,New York State League,macgamwell,B01402,MacGamwell,Edward M.*,0,Utica,19060519/19060923,B1171b
+minoraverages/1907Reach,1906,New York State League,madison,B01156,Madison,,0,all,,B25
+minoraverages/1907Reach,1906,New York State League,madison,F20768,Madison,,0,all,,3b25
+minoraverages/Nemec,1906,New York State League,madison,B01181,Madison,Arthur M.*,0,Utica,19060510/19060622,"B251b,3b,ss"
+minoraverages/1907Reach,1906,New York State League,magee.j,B00544,Magee,J.,0,all,,B100
+minoraverages/1907Reach,1906,New York State League,magee.w,B00957,Magee,W.,0,all,,B23
+minoraverages/1907Reach,1906,New York State League,magee.w,F20388,Magee,W.,0,all,,p23
+minoraverages/1907Reach,1906,New York State League,magee.j,F21092,Magee,J.,0,all,,rf100
+minoraverages/Nemec,1906,New York State League,magee.j,B01197,Magee,James M.,0,Wilkes-Barre,19060510/19060922,"B1051b,2b,of"
+minoraverages/Nemec,1906,New York State League,magee.w,B01203,Magee,William J.*,0,Wilkes-Barre,19060517/19060819,"B26p,of"
+minoraverages/Nemec,1906,New York State League,magee.w,P10399,Magee,William,0,Wilkes-Barre,,P21
+minoraverages/1907Reach,1906,New York State League,magie,B00566,Magie,,0,all,,B109
+minoraverages/1907Reach,1906,New York State League,magie,F21084,Magie,,0,all,,rf109
+minoraverages/Nemec,1906,New York State League,magie,B01216,Magie,Jacob D.,0,Syracuse,19060529/19060923,"B1091b,of"
+minoraverages/Nemec,1906,New York State League,mahaffey,B01227,Mahaffey,John,0,Binghamton,19060519/19060613,B3p
+minoraverages/Nemec,1906,New York State League,mahaffey,P10407,Mahaffey,John,0,Binghamton,,P3
+minoraverages/Nemec,1906,New York State League,mains,B01234,Mains,Willard,1,Syracuse,19060515/19060625,B10p
+minoraverages/Nemec,1906,New York State League,mains,B01242,Mains,Willard,2,Binghamton,19060629/19060629,B1p
+minoraverages/Nemec,1906,New York State League,mains,B01250,Mains,Williard E. (Willie)*,T,,19060515/19060625,B11p
+minoraverages/Nemec,1906,New York State League,mains,P10410,Mains,Willard,1,Syracuse,,P9
+minoraverages/Nemec,1906,New York State League,mains,P10429,Mains,Willard,2,Binghamton,,P1
+minoraverages/Nemec,1906,New York State League,mains,P10432,Mains,Willard,T,,,P10
+minoraverages/1907Reach,1906,New York State League,manning.j,B00434,Manning,,0,all,,B123
+minoraverages/1907Reach,1906,New York State League,manning.j,F21264,Manning,J.,0,all,,lf123
+minoraverages/Nemec,1906,New York State League,manning.e,B01269,Manning,Edward R. (Rabbit),0,Utica,19060521/19060923,"B21ss,of"
+minoraverages/Nemec,1906,New York State League,manning.j,B01275,Manning,John (Jack),0,Utica,19060510/19060923,B123of
+minoraverages/1907Reach,1906,New York State League,mason,B00553,Mason,,0,all,,B115
+minoraverages/1907Reach,1906,New York State League,mason,F20604,Mason,,0,all,,1b115
+minoraverages/Nemec,1906,New York State League,mason,B01288,Mason,Harry J.,0,Troy,19060511/19060923,B1261b
+minoraverages/1907Reach,1906,New York State League,maurer,B01143,Maurer,,0,all,,B33
+minoraverages/1907Reach,1906,New York State League,maurer,F20334,Maurer,,0,all,,p33
+minoraverages/Nemec,1906,New York State League,maurer,B01291,Maurer,Bernard F. (Bernie),0,Syracuse,19060514/19060923,B31p
+minoraverages/Nemec,1906,New York State League,maurer,P10441,Maurer,Bernie,0,Syracuse,,P31
+minoraverages/1907Reach,1906,New York State League,mcallister,B00590,McAllister,,0,all,,B115
+minoraverages/1907Reach,1906,New York State League,mcallister,F21021,McAllister,,0,all,,cf115
+minoraverages/Nemec,1906,New York State League,mcallister,B01300,McAllister,John Jacob,0,Binghamton,19060511/19060919,B116of
+minoraverages/1907Reach,1906,New York State League,mcandrews,B00806,McAndrews,,0,all,,B132
+minoraverages/1907Reach,1906,New York State League,mcandrews,F20810,McAndrews,,0,all,,3b132
+minoraverages/Nemec,1906,New York State League,mcandrews,B01313,McAndrews,Thomas,1,Utica,19060510/19060604,B243b
+minoraverages/Nemec,1906,New York State League,mcandrews,B01321,McAndrews,Thomas,2,Troy,19060608/19060923,B1113b
+minoraverages/Nemec,1906,New York State League,mcandrews,B01337,McAndrews,Thomas,T,,,B1353b
+minoraverages/1907Reach,1906,New York State League,mcbirney,B01064,McBirney,,0,all,,B17
+minoraverages/1907Reach,1906,New York State League,mcbirney,F20190,McBirney,,0,all,,p17
+minoraverages/Nemec,1906,New York State League,mcbirney,B01345,McBirney,Walter,0,Utica,19060613/19060807,B18p
+minoraverages/Nemec,1906,New York State League,mcbirney,P10455,McBirney,Walter,0,Utica,,P18
+minoraverages/1907Reach,1906,New York State League,mccarthy,B00076,McCarthy,,0,all,,B19
+minoraverages/1907Reach,1906,New York State League,mccarthy,F20014,McCarthy,,0,all,,c19
+minoraverages/Nemec,1906,New York State League,mccarthy,B01359,McCarthy,Joseph N.*,0,Syracuse,19060831/19060923,B19c
+minoraverages/1907Reach,1906,New York State League,mcconnell,B00163,McConnell,,0,all,,B132
+minoraverages/1907Reach,1906,New York State League,mcconnell,F20661,McConnell,,0,all,,2b132
+minoraverages/Nemec,1906,New York State League,mcconnell,B01368,McConnell,Ambrose M.*,0,Utica,19060510/19060923,B1352b
+minoraverages/Nemec,1906,New York State League,mccormick,B01376,McCormick,Frank A.,0,Amsterdam-Johnstown-Gloversville,19060909/19060923,"B152b,3b,of"
+minoraverages/1907Reach,1906,New York State League,mcdonald,B00232,McDonald,,0,all,,B93
+minoraverages/1907Reach,1906,New York State League,mcdonald,F20776,McDonald,,0,all,,3b93
+minoraverages/Nemec,1906,New York State League,mcdonald,B01384,McDonald,Edward C.*,0,Utica,19060624/19060923,B963b
+minoraverages/Nemec,1906,New York State League,mcdougal,B01392,McDougal,John A.*,0,Scranton,19060511/19060921,"B46p,2b,3b,ss"
+minoraverages/Nemec,1906,New York State League,mcdougal,P10464,McDougal,John A.,0,Scranton,,P29
+minoraverages/1907Reach,1906,New York State League,mcdougal,B00672,McDougall,,0,all,,B45
+minoraverages/1907Reach,1906,New York State League,mcdougal,F20474,McDougall,,0,all,,p45
+minoraverages/1907Reach,1906,New York State League,macgamwell,B00403,McGamwell,,0,all,,B118
+minoraverages/1907Reach,1906,New York State League,macgamwell,F20583,McGamwell,,0,all,,1b118
+minoraverages/Nemec,1906,New York State League,mcginley,B01415,McGinley,William H.,0,Utica,19060616/19060701,"B3c,of"
+minoraverages/1907Reach,1906,New York State League,mckeon,B00469,McKeon,,0,all,,B33
+minoraverages/1907Reach,1906,New York State League,mckeon,F20997,McKeon,,0,all,,cf33
+minoraverages/Nemec,1906,New York State League,mckeon,B01428,McKeon,Frank Patrick,0,Utica,19060510/19060719,B33of
+minoraverages/1907Reach,1906,New York State League,mcnamara,B00614,McNamara,,0,all,,B81
+minoraverages/1907Reach,1906,New York State League,mcnamara,F20128,McNamara,,0,all,,c81
+minoraverages/Nemec,1906,New York State League,mcnamara,B01431,McNamara,William,1,Utica,19060510/19060609,B24c
+minoraverages/Nemec,1906,New York State League,mcnamara,B01444,McNamara,William,2,Albany,19060611/19060923,"B59c,of"
+minoraverages/Nemec,1906,New York State League,mcnamara,B01453,McNamara,William,T,,,"B83c,of"
+minoraverages/1907Reach,1906,New York State League,mcneil,B00356,McNeil,,0,all,,B30
+minoraverages/1907Reach,1906,New York State League,mcneil,F20526,McNeil,,0,all,,p30
+minoraverages/Nemec,1906,New York State League,mcneil,B01466,McNeil,Bernard F. ,0,Amsterdam-Johnstown-Gloversville,19060514/19060923,"B32p,of"
+minoraverages/Nemec,1906,New York State League,mcneil,P10478,McNeil,Bernard F.,0,Amsterdam-Johnstown-Gloversville,,P30
+minoraverages/Nemec,1906,New York State League,mcpherson,B01477,McPherson,John J.*,0,Troy,19060511/19060613,B9p
+minoraverages/Nemec,1906,New York State League,mcpherson,P10486,McPherson,John,0,Troy,,P8
+minoraverages/1907Reach,1906,New York State League,mcsurdy,B00207,McSurdy,,0,all,,B37
+minoraverages/1907Reach,1906,New York State League,mcsurdy,F20342,McSurdy,,0,all,,p37
+minoraverages/Nemec,1906,New York State League,mcsurdy,B01489,McSurdy,Daniel Jerome,0,Troy,19060514/19060922,"B39p,of"
+minoraverages/Nemec,1906,New York State League,mcsurdy,P10493,McSurdy,Daniel,0,Troy,,P37
+minoraverages/1907Reach,1906,New York State League,messerly,B00752,Messerly,,0,all,,B54
+minoraverages/1907Reach,1906,New York State League,messerly,F20560,Messerly,,0,all,,1b54
+minoraverages/Nemec,1906,New York State League,messerly,B01490,Messerly,John A. (Jack),0,Binghamton,19060511/19060711,B541b
+minoraverages/Nemec,1906,New York State League,miller,B01509,Miller,,0,Amsterdam-Johnstown-Gloversville,19060516/19060516,B1p
+minoraverages/Nemec,1906,New York State League,miller,P10503,Miller,,0,Amsterdam-Johnstown-Gloversville,,P1
+minoraverages/1907Reach,1906,New York State League,millerick,B00609,Millerick,,0,all,,B97
+minoraverages/1907Reach,1906,New York State League,millerick,F20144,Millerick,,0,all,,c97
+minoraverages/Nemec,1906,New York State League,millerick,B01514,Millerick,Patrick T.,0,Albany,19060510/19060921,"B97c,1b"
+minoraverages/Nemec,1906,New York State League,moeller,B01523,Moeller (Moore),Daniel*,0,Troy,19060829/19060923,"B30c,of"
+minoraverages/1907Reach,1906,New York State League,moeller,B00013,Moore,,0,Troy,,B28
+minoraverages/1907Reach,1906,New York State League,moeller,F21125,Moore,,0,all,,rf28
+minoraverages/Nemec,1906,New York State League,moran,B01538,Moran,,0,Syracuse,19060510/19060511,B2of
+minoraverages/1907Reach,1906,New York State League,moss,B00589,Moss,,0,all,,B79
+minoraverages/1907Reach,1906,New York State League,moss,F20919,Moss,,0,all,,ss79
+minoraverages/Nemec,1906,New York State League,moss,B01546,Moss,Charles E.,0,Amsterdam-Johnstown-Gloversville,19060511/19060811,B81ss
+minoraverages/Nemec,1906,New York State League,moughan,B01551,Moughan,Martin Sylvester,0,Scranton,19060910/19060910,B1p
+minoraverages/Nemec,1906,New York State League,moughan,P10516,Moughan,Martin,0,Scranton,,P1
+minoraverages/Nemec,1906,New York State League,murphy-alb,B01567,Murphy,David Francis*,0,Albany,19060510/19060521,B11ss
+minoraverages/Nemec,1906,New York State League,murphy-tro,B01572,Murphy,Patrick J.,0,Troy,19060509/19060919,"B173b,ss"
+minoraverages/1907Reach,1906,New York State League,murray-syr,B00488,Murray,,0,Syracuse,,B132
+minoraverages/1907Reach,1906,New York State League,murray-scr+bin,B01242,Murray,,0,Scranton,,B17
+minoraverages/1907Reach,1906,New York State League,murray-scr+bin,F20233,Murray,,0,all,,p17
+minoraverages/1907Reach,1906,New York State League,murray-syr,F20713,Murray,,0,all,,2b132
+minoraverages/Nemec,1906,New York State League,murray-syr,B01580,Murray,Alexander (Sandy),0,Syracuse,19060510/19060923,"B1312b,of"
+minoraverages/Nemec,1906,New York State League,murray-scr+bin,B01595,Murray,Ernest,1,Scranton,19060512/19060812,B21p
+minoraverages/Nemec,1906,New York State League,murray-scr+bin,B01601,Murray,Ernest,2,Binghamton,19060819/19060923,B13p
+minoraverages/Nemec,1906,New York State League,murray-scr+bin,B01617,Murray,Ernest M.,T,,,B34p
+minoraverages/Nemec,1906,New York State League,murray-scr+bin,P10527,Murray,Ernest M.,1,Scranton,,P21
+minoraverages/Nemec,1906,New York State League,murray-scr+bin,P10534,Murray,Ernest M.,2,Binghamton,,P13
+minoraverages/Nemec,1906,New York State League,murray-scr+bin,P10542,Murray,Ernest M.,T,,,P34
+minoraverages/1907Reach,1906,New York State League,mylett,B01119,Mylett,,0,all,,B16
+minoraverages/1907Reach,1906,New York State League,mylett,F20855,Mylett,,0,all,,3b16
+minoraverages/Nemec,1906,New York State League,mylett,B01625,Mylett,Thomas,1,Albany,19060814/19060825,B123b
+minoraverages/Nemec,1906,New York State League,mylett,B01630,Mylett,Thomas,2,Wilkes-Barre,19060830/19060905,B8ss
+minoraverages/Nemec,1906,New York State League,mylett,B01649,Mylett,Thomas,T,,,"B203b,ss"
+minoraverages/1907Reach,1906,New York State League,obrien-tro,B00045,O'Brien,,0,all,,B45
+minoraverages/1907Reach,1906,New York State League,obrien-tro,F20648,O'Brien,,0,all,,2b45
+minoraverages/Nemec,1906,New York State League,obrien-bin,B01658,O'Brien,Michael S.,0,Binghamton,19060719/19060817,B20of
+minoraverages/Nemec,1906,New York State League,obrien-tro,B01663,O'Brien,John Jos.*,0,Troy,19060511/19060904,"B501b,2b,3b,of"
+minoraverages/Nemec,1906,New York State League,obrien-tro,M90060,O'Brien,John J.,,Troy,,
+minoraverages/Nemec,1906,New York State League,oconnor,B01674,O'Connor,Andrew J.,0,Syracuse,19060512/19060703,B12p
+minoraverages/Nemec,1906,New York State League,oconnor,P10550,O'Connor,Andrew J.,0,Syracuse,,P12
+minoraverages/Nemec,1906,New York State League,parrot,B01682,Parrot,,0,Scranton,19060517/19060517,B1p
+minoraverages/Nemec,1906,New York State League,parrot,P10569,Parrot,,0,Scranton,,P1
+minoraverages/Nemec,1906,New York State League,peacock,B01696,Peacock,John J.,0,Albany,19060519/19060524,B2c
+minoraverages/1907Reach,1906,New York State League,peartree,B00920,Peartree,,0,all,,B113
+minoraverages/1907Reach,1906,New York State League,peartree,F20737,Peartree,,0,all,,2b113
+minoraverages/Nemec,1906,New York State League,peartree,B01706,Peartree,Jos. Oswald,0,Troy,19060511/19060922,"B1182b,ss,of"
+minoraverages/Nemec,1906,New York State League,pender,B01711,Pender,John F.,0,Utica,19060828/19060916,B5p
+minoraverages/Nemec,1906,New York State League,pender,P10575,Pender,John F.,0,Utica,,P5
+minoraverages/Nemec,1906,New York State League,persons,B01722,Persons,Edward,0,Scranton,19060513/19060713,B4p
+minoraverages/Nemec,1906,New York State League,persons,P10588,Persons,Edward,0,Scranton,,P4
+minoraverages/1907Reach,1906,New York State League,pinnance,B01078,Pinnance,,0,all,,B34
+minoraverages/1907Reach,1906,New York State League,pinnance,F20240,Pinnance,,0,all,,p34
+minoraverages/Nemec,1906,New York State League,pinnance,B01733,Pinnance,E. Edward*,0,Albany,19060520/19060923,"B45p,2b,of"
+minoraverages/Nemec,1906,New York State League,pinnance,P10591,Pinnance,Edward D.,0,Albany,,P19
+minoraverages/1907Reach,1906,New York State League,polchow,B01269,Polchow,,0,all,,B31
+minoraverages/1907Reach,1906,New York State League,polchow,F20458,Polchow,,0,all,,p31
+minoraverages/Nemec,1906,New York State League,polchow,B01740,Polchow,Louis W.*,0,Scranton,19060515/19060920,B33p
+minoraverages/Nemec,1906,New York State League,polchow,P10606,Polchow,Louis,0,Scranton,,P33
+minoraverages/Nemec,1906,New York State League,poole,B01754,Poole,William H. (Billy),0,Amsterdam-Johnstown-Gloversville,19060912/19060915,"B2c,2b"
+minoraverages/1907Reach,1906,New York State League,pounds,B00739,Pounds,,0,all,,B32
+minoraverages/1907Reach,1906,New York State League,pounds,F20265,Pounds,,0,all,,p32
+minoraverages/Nemec,1906,New York State League,pounds,B01765,Pounds,Jeared W. (Bill)*,0,Wilkes-Barre,19060512/19060919,B34p
+minoraverages/Nemec,1906,New York State League,pounds,P10611,Pounds,Jeared W. (Bill),0,Wilkes-Barre,,P34
+minoraverages/1907Reach,1906,New York State League,purcell,B00427,Purcell,,0,all,,B28
+minoraverages/1907Reach,1906,New York State League,purcell,F20303,Purcell,,0,all,,p28
+minoraverages/Nemec,1906,New York State League,purcell,B01779,Purcell,"Fred. ""Teddy""",0,Amsterdam-Johnstown-Gloversville,19060513/19060918,"B31p,of"
+minoraverages/Nemec,1906,New York State League,purcell,P10622,Purcell,Theodore,0,Amsterdam-Johnstown-Gloversville,,P30
+minoraverages/1907Reach,1906,New York State League,rafter,B00794,Rafter,,0,all,,B70
+minoraverages/1907Reach,1906,New York State League,rafter,F20131,Rafter,,0,all,,c70
+minoraverages/Nemec,1906,New York State League,rafter,B01787,Rafter,John C. (Jack)*,0,Amsterdam-Johnstown-Gloversville,19060529/19060823,"B73c,of"
+minoraverages/1907Reach,1906,New York State League,raidy,B00442,Raidy,,0,all,,B131
+minoraverages/1907Reach,1906,New York State League,raidy,F20886,Raidy,,0,all,,ss131
+minoraverages/Nemec,1906,New York State League,raidy,B01798,Raidy,Joseph Michael,0,Albany,19060522/19060923,B127ss
+minoraverages/Nemec,1906,New York State League,ramsey,B01804,Ramsey,George W. (Buck),0,Binghamton,19060626/19060819,B8p
+minoraverages/Nemec,1906,New York State League,ramsey,P10633,Ramsey,George W. (Buck),0,Binghamton,,P8
+minoraverages/1907Reach,1906,New York State League,reed,B01216,Reed,,0,all,,B32
+minoraverages/1907Reach,1906,New York State League,reed,F20518,Reed,,0,all,,p32
+minoraverages/Nemec,1906,New York State League,reed,B01812,Reed,Francis S. (Frank),0,Albany,19060511/19060919,B36p
+minoraverages/Nemec,1906,New York State League,reed,P10640,Reed,Francis,0,Albany,,P36
+minoraverages/1907Reach,1906,New York State League,riggs,B00502,Riggs,,0,all,,B124
+minoraverages/1907Reach,1906,New York State League,riggs,F21013,Riggs,,0,all,,cf124
+minoraverages/Nemec,1906,New York State League,riggs,B01820,Riggs,Robert M.,1,Albany,19060517/19060809,B82of
+minoraverages/Nemec,1906,New York State League,riggs,B01836,Riggs,Robert M.,2,Troy,19060811/19060829,B20of
+minoraverages/Nemec,1906,New York State League,riggs,B01848,Riggs,Robert M.,3,Syracuse,19060904/19060923,B21of
+minoraverages/Nemec,1906,New York State League,riggs,B01857,Riggs,Robert M.,T,,,B123of
+minoraverages/1907Reach,1906,New York State League,roach,B00783,Roach,,0,all,,B105
+minoraverages/1907Reach,1906,New York State League,roach,F20038,Roach,,0,all,,c105
+minoraverages/Nemec,1906,New York State League,roach,B01873,Roach,Michael S.*,0,Binghamton,19060511/19060923,B106c
+minoraverages/1907Reach,1906,New York State League,robertson,B00084,Robertson,,0,all,,B122
+minoraverages/1907Reach,1906,New York State League,robertson,F20594,Robertson,,0,all,,1b122
+minoraverages/Nemec,1906,New York State League,robertson,B01861,Robertson,James A.,0,Wilkes-Barre,19060510/19060922,B1231b
+minoraverages/Nemec,1906,New York State League,rockford,B01885,Rockford,Michael,0,Utica,19060510/19060518,B81b
+minoraverages/Nemec,1906,New York State League,romer,B01899,Romer,A. J.,0,Wilkes-Barre,19060821/19060830,B3p
+minoraverages/Nemec,1906,New York State League,romer,P10654,Romer,A. J.,0,Wilkes-Barre,,P3
+minoraverages/Nemec,1906,New York State League,ross,B01905,Ross,William A.,0,Utica,19060515/19060515,B1c
+minoraverages/1907Reach,1906,New York State League,roth,B01086,Roth,,0,all,,B57
+minoraverages/1907Reach,1906,New York State League,roth,F20072,Roth,,0,all,,c57
+minoraverages/Nemec,1906,New York State League,roth,B01918,Roth,Andrew E. (Andy),0,Scranton,19060518/19060921,"B57c,1b,of"
+minoraverages/1907Reach,1906,New York State League,rothgeb,B00158,Rothgeb,,0,all,,B52
+minoraverages/1907Reach,1906,New York State League,rothgeb,F21158,Rothgeb,,0,all,,rf52
+minoraverages/Nemec,1906,New York State League,rothgeb,B01926,Rothgeb,Claude J.*,0,Troy,19060616/19060807,B53of
+minoraverages/1907Reach,1906,New York State League,rutherford,B00747,Rutherford,,0,all,,B115
+minoraverages/1907Reach,1906,New York State League,rutherford,F20908,Rutherford,,0,all,,ss115
+minoraverages/Nemec,1906,New York State League,rutherford,B01939,Rutherford,Austin Grant,0,Utica,19060604/19060921,B111ss
+minoraverages/Nemec,1906,New York State League,scheibeck,B01947,Scheibeck,Frank S.*,0,Troy,19060514/19060602,B19ss
+minoraverages/1907Reach,1906,New York State League,scheibeck,F20943,Schiebeck,,0,all,,ss18
+minoraverages/1907Reach,1906,New York State League,schlitzer,B01203,Schlitzer,,0,all,,B33
+minoraverages/1907Reach,1906,New York State League,schlitzer,F20430,Schlitzer,,0,all,,p33
+minoraverages/Nemec,1906,New York State League,schlitzer,B01952,Schlitzer,Victor J.*,0,Utica,19060511/19060923,B33p
+minoraverages/Nemec,1906,New York State League,schlitzer,P10665,Schlitzer,Victor J.,0,Utica,,P33
+minoraverages/Nemec,1906,New York State League,schrall,B01960,Schrall,Joseph E.,0,Scranton,19060519/19060527,B9of
+minoraverages/Nemec,1906,New York State League,schweitzer,B01971,Schweitzer,Albert C.*,0,Syracuse,19060510/19060526,B15of
+minoraverages/1907Reach,1906,New York State League,sharpe,B00101,Sharpe,,0,all,,B131
+minoraverages/1907Reach,1906,New York State League,sharpe,F20552,Sharpe,,0,all,,1b131
+minoraverages/Nemec,1906,New York State League,sharpe,B01983,Sharpe,Bayard H.*,0,Scranton,19060510/19060922,"B131c,1b,3b,ss"
+minoraverages/Nemec,1906,New York State League,sharpe,P10679,Sharpe,Bayard H. (Bud),0,Scranton,,P2
+minoraverages/Nemec,1906,New York State League,sharrott,M90083,Sharrott,John H.*,,Wilkes-Barre,/19060816,
+minoraverages/1907Reach,1906,New York State League,shaw,B00936,Shaw,,0,all,,B114
+minoraverages/1907Reach,1906,New York State League,shaw,F20792,Shaw,,0,all,,3b117
+minoraverages/Nemec,1906,New York State League,shaw,B01994,Shaw,John,1,Wilkes-Barre,19060510/19060720,B643b
+minoraverages/Nemec,1906,New York State League,shaw,B02008,Shaw,John,2,Binghamton,19060723/19060923,"B682b,3b,of"
+minoraverages/Nemec,1906,New York State League,shaw,B02019,Shaw,John W.*,T,,,"B1322b,3b,of"
+minoraverages/1907Reach,1906,New York State League,scheibeck,B00229,Sheibeck,,0,all,,B18
+minoraverages/Nemec,1906,New York State League,shields,B02024,Shields,,0,Scranton,19060908/19060908,B1p
+minoraverages/Nemec,1906,New York State League,shields,P10687,Shields,,0,Scranton,,P1
+minoraverages/1907Reach,1906,New York State League,shortell,B00623,Shortell,,0,all,,B129
+minoraverages/1907Reach,1906,New York State League,shortell,F20673,Shortell,,0,all,,2b129
+minoraverages/Nemec,1906,New York State League,shortell,B02035,Shortell,Edward J.,0,Scranton,19060510/19060922,B1292b
+minoraverages/1907Reach,1906,New York State League,smith-bin,B00068,Smith,,0,all,,B119
+minoraverages/1907Reach,1906,New York State League,smith-bin,F21076,Smith,,0,all,,rf119
+minoraverages/Nemec,1906,New York State League,smith-alb,B02043,Smith,Arthur S.,0,Albany,19060510/19060523,B10of
+minoraverages/Nemec,1906,New York State League,smith-bin,B02056,Smith,Elmer E.*,0,Binghamton,19060511/19060918,"B1201b,of"
+minoraverages/1907Reach,1906,New York State League,spiesman,B00904,Spiesman,,0,all,,B111
+minoraverages/1907Reach,1906,New York State League,spiesman,F20046,Spiesman,,0,all,,c111
+minoraverages/Nemec,1906,New York State League,spiesman,B02062,Spiesman,Matthew J.,0,Troy,19060511/19060923,"B113c,1b"
+minoraverages/Nemec,1906,New York State League,starkel,B02070,Starkel,Conrad*,0,Albany,19060615/19060921,B30p
+minoraverages/1907Reach,1906,New York State League,starkel,B01007,Starkell,,0,all,,B27
+minoraverages/1907Reach,1906,New York State League,starkel,F20463,Starkell,,0,all,,p27
+minoraverages/Nemec,1906,New York State League,starkel,P10698,Starkell,Conrad,0,Albany,,P30
+minoraverages/1907Reach,1906,New York State League,streit,F20327,Street,,0,all,,p26
+minoraverages/1907Reach,1906,New York State League,streit,B01250,Streit,,0,all,,B26
+minoraverages/Nemec,1906,New York State League,streit,B02081,Streit,Oscar W.*,0,Binghamton,19060514/19060906,"B27p,of"
+minoraverages/Nemec,1906,New York State League,streit,P10709,Streit,Oscar,0,Binghamton,,P26
+minoraverages/1907Reach,1906,New York State League,stroh,B00865,Stroh,,0,all,,B75
+minoraverages/1907Reach,1906,New York State League,stroh,F20166,Stroh,,0,all,,c75
+minoraverages/Nemec,1906,New York State League,stroh,B02097,Stroh,George J.,1,Amsterdam-Johnstown-Gloversville,19060513/19060526,"B6c,2b,of"
+minoraverages/Nemec,1906,New York State League,stroh,B02100,Stroh,George J.,2,Albany,19060603/19060609,"B6c,3b,of"
+minoraverages/Nemec,1906,New York State League,stroh,B02113,Stroh,George J.,3,Utica,19060702/19060923,"B65c,3b,of"
+minoraverages/Nemec,1906,New York State League,stroh,B02121,Stroh,George J.,T,,,"B77c,3b,of"
+minoraverages/Nemec,1906,New York State League,sullivan,B02137,Sullivan,Neil,0,Binghamton,19060913/19060923,"B8p,of"
+minoraverages/Nemec,1906,New York State League,sullivan,P10714,Sullivan,Neil,0,Binghamton,,P2
+minoraverages/1907Reach,1906,New York State League,swayne,B00174,Swayne,,0,all,,B132
+minoraverages/1907Reach,1906,New York State League,swayne,F21130,Swayne,,0,all,,rf133
+minoraverages/Nemec,1906,New York State League,swayne,B02145,Swayne,Frank Peter,0,Utica,19060510/19060923,B132of
+minoraverages/1907Reach,1906,New York State League,swormstedt,F20298,Swormstead,,0,all,,p38
+minoraverages/1907Reach,1906,New York State League,swormstedt,B00912,Swormsted,,0,all,,B38
+minoraverages/Nemec,1906,New York State League,swormstedt,B02159,Swormstedt,Leonard J.*,0,Troy,19060515/19060921,B41p
+minoraverages/Nemec,1906,New York State League,swormstedt,P10723,Swormstedt,Leonard J.,0,Troy,,P41
+minoraverages/Nemec,1906,New York State League,terry,B02168,Terry,,0,Binghamton,19060520/19060611,B2p
+minoraverages/Nemec,1906,New York State League,terry,P10738,Terry,,0,Binghamton,,P2
+minoraverages/1907Reach,1906,New York State League,therre,B00985,Therre,,0,all,,B26
+minoraverages/1907Reach,1906,New York State League,therre,F20095,Therre,,0,all,,c26
+minoraverages/Nemec,1906,New York State League,therre,B02176,Therre,George Matthew,0,Wilkes-Barre,19060510/19060710,B27c
+minoraverages/Nemec,1906,New York State League,tibbitts,B02184,Tibbitts,,0,Binghamton,19060713/19060713,B11b
+minoraverages/1907Reach,1906,New York State League,trainor,B00651,Trainon,,0,all,,B58
+minoraverages/1907Reach,1906,New York State League,trainor,F20177,Trainor,,0,all,,c58
+minoraverages/Nemec,1906,New York State League,trainor,B02192,Trainor,James T. (Dick),0,Syracuse,19060511/19060923,"B62c,of"
+minoraverages/Nemec,1906,New York State League,urbach,B02202,Urbach,Roy Hubner,0,Albany,19060523/19060523,B1p
+minoraverages/Nemec,1906,New York State League,urbach,P10746,Urbach,Roy H.,0,Albany,,P1
+minoraverages/1907Reach,1906,New York State League,viau,B01234,Viau,,0,all,,B23
+minoraverages/1907Reach,1906,New York State League,viau,F20401,Viau,,0,all,,p23
+minoraverages/Nemec,1906,New York State League,viau,B02215,Viau,Leon A. (Lee)*,0,Binghamton,19060520/19060909,B24p
+minoraverages/Nemec,1906,New York State League,viau,P10751,Viau,Leon,0,Binghamton,,P24
+minoraverages/Nemec,1906,New York State League,villeman,B02228,Villeman,George (Ginger),0,Amsterdam-Johnstown-Gloversville,19060511/19060825,B26p
+minoraverages/Nemec,1906,New York State League,villeman,P10767,Villeman,George (Ginger),0,Amsterdam-Johnstown-Gloversville,,P26
+minoraverages/1907Reach,1906,New York State League,villeman,B00999,Villman,,0,all,,B24
+minoraverages/1907Reach,1906,New York State League,villeman,F20391,Villman,,0,all,,p24
+minoraverages/1907Reach,1906,New York State League,wagner,B00879,Wagner,,0,all,,B48
+minoraverages/1907Reach,1906,New York State League,wagner,F20375,Wagner,,0,all,,p48
+minoraverages/Nemec,1906,New York State League,wagner,B02231,Wagner,Ivor E.,0,Binghamton,19060512/19060923,"B54p,1b,2b,3b,ss,of"
+minoraverages/Nemec,1906,New York State League,wagner,P10772,Wagner,Ivor,0,Binghamton,,P36
+minoraverages/Nemec,1906,New York State League,walsh-bin,B02244,Walsh,Martin (Marty),0,Binghamton,19060921/19060921,B1p
+minoraverages/Nemec,1906,New York State League,walsh-uti,B02253,Walsh,"Joseph R. ""Red""",0,Utica,19060913/19060916,B4c
+minoraverages/Nemec,1906,New York State League,walsh-bin,P10780,Walsh,Martin,0,Binghamton,,P1
+minoraverages/Nemec,1906,New York State League,washer,B02266,Washer,William (Buck)*,0,Amsterdam-Johnstown-Gloversville,19060518/19060520,B2p
+minoraverages/Nemec,1906,New York State League,washer,P10795,Washer,William (Buck),0,Amsterdam-Johnstown-Gloversville,,P2
+minoraverages/1907Reach,1906,New York State League,weaver,B00021,Weaver,,0,all,,B127
+minoraverages/1907Reach,1906,New York State League,weaver,F20956,Weaver,,0,all,,cf127
+minoraverages/Nemec,1906,New York State League,weaver,B02277,Weaver,John H. (Buck),0,Amsterdam-Johnstown-Gloversville,19060511/19060923,B131of
+minoraverages/1907Reach,1906,New York State League,weeden,B00973,Weeden,,0,all,,B32
+minoraverages/1907Reach,1906,New York State League,weeden,F20051,Weeden,,0,all,,c32
+minoraverages/Nemec,1906,New York State League,weeden,B02289,Weeden,Charles A. (Bert)*,0,Troy,19060514/19060915,"B36c,of"
+minoraverages/1907Reach,1906,New York State League,welch,B00726,Welch,,0,all,,B129
+minoraverages/1907Reach,1906,New York State League,welch,F20759,Welch,,0,all,,3b129
+minoraverages/Nemec,1906,New York State League,welch,B02290,Welch,Harry A.,0,Binghamton,19060511/19060923,B1343b
+minoraverages/1907Reach,1906,New York State League,weller,B01041,Weller,,0,all,,B32
+minoraverages/1907Reach,1906,New York State League,weller,F20279,Weller,,0,all,,p32
+minoraverages/Nemec,1906,New York State League,weller,B02304,Weller,Burns Mcneil,0,Amsterdam-Johnstown-Gloversville,19060512/19060921,B33p
+minoraverages/Nemec,1906,New York State League,weller,P10805,Weller,Burns M.,0,Amsterdam-Johnstown-Gloversville,,P33
+minoraverages/1907Reach,1906,New York State League,west,B00948,West,,0,all,,B53
+minoraverages/1907Reach,1906,New York State League,west,F20505,West,,0,all,,p53
+minoraverages/Nemec,1906,New York State League,west,B02312,West,James H. (Hi)*,0,Wilkes-Barre,19060510/19060920,"B56p,ss,of"
+minoraverages/Nemec,1906,New York State League,west,P10818,West,James H. (Hi),0,Wilkes-Barre,,P43
+minoraverages/Nemec,1906,New York State League,wilbur,B02320,Wilbur,,0,Binghamton,19060727/19060917,B161b
+minoraverages/1907Reach,1906,New York State League,wilson,B00646,Wilson,,0,all,,B56
+minoraverages/1907Reach,1906,New York State League,wilson,F21068,Wilson,,0,all,,cf56
+minoraverages/Nemec,1906,New York State League,wilson,B02336,Wilson,James T. (Dick),0,Utica,19060726/19060923,"B561b,of"
+minoraverages/1907Reach,1906,New York State League,yancey,B00117,Yancey,,0,all,,B62
+minoraverages/1907Reach,1906,New York State League,yancey,F21059,Yancey,,0,all,,cf62
+minoraverages/Nemec,1906,New York State League,yancey,B02348,Yancey,Hogan Lowndes,0,Scranton,19060724/19060922,"B611b,2b,of"
+minoraverages/Nemec,1906,New York State League,yerkes,B02357,Yerkes,William (Will),0,Wilkes-Barre,19060803/19060803,B1p
+minoraverages/Nemec,1906,New York State League,yerkes,P10826,Yerkes,,0,Wilkes-Barre,,P1
+minoraverages/1907Reach,1906,New York State League,zeimer,B00286,Zeimer,,0,all,,B130
+minoraverages/1907Reach,1906,New York State League,zeimer,F20878,Zeimer,,0,all,,ss130
+minoraverages/Nemec,1906,New York State League,zeimer,B02373,Zeimer,Gustave T. (Gus),0,Scranton,19060510/19060922,B130ss
+minoraverages/1907Reach,1906,New York State League,zimmerman,B00961,Zimmerman,,0,all,,B35
+minoraverages/1907Reach,1906,New York State League,zimmerman,F20745,Zimmerman,,0,all,,2b35
+minoraverages/Nemec,1906,New York State League,zimmerman,B02361,Zimmerman,Henry*,0,Wilkes-Barre,19060821/19060922,"B352b,ss"
+minoraverages/1907Reach,1906,New York State League,zinzer,B00397,Zinzer,,0,all,,B107
+minoraverages/1907Reach,1906,New York State League,zinzer,F21117,Zinzer,,0,all,,rf107
+minoraverages/Nemec,1906,New York State League,zinzer,B02385,Zinzer,Charles,0,Wilkes-Barre,19060523/19060922,"B1081b,2b,ss,of"

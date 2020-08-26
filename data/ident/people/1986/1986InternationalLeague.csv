@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1986,International League,ault,M90155,Ault,Doug,,Syracuse,,,,,
-minoraverages/emilbb,1986,International League,foote,M90178,Foote,Barry,,Columbus,,,,,
-minoraverages/emilbb,1986,International League,hart.j,M90129,Hart,John,,Rochester,,,,,
-minoraverages/emilbb,1986,International League,majtyka,M90110,Majtyka,Roy,,Richmond,,,,,
-minoraverages/emilbb,1986,International League,manuel,M90164,Manuel,Charlie,,Toledo,,,,,
-minoraverages/emilbb,1986,International League,napier,M90186,Napier,Jim,,Maine,,,,,
-minoraverages/emilbb,1986,International League,nottle,M90132,Nottle,Ed,,Pawtucket,,,,,
-minoraverages/emilbb,1986,International League,perlozzo,M90141,Perlozzo,Sam,,Tidewater,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1986,International League,ault,M90155,Ault,Doug,,Syracuse,,
+minoraverages/emilbb,1986,International League,foote,M90178,Foote,Barry,,Columbus,,
+minoraverages/emilbb,1986,International League,hart.j,M90129,Hart,John,,Rochester,,
+minoraverages/emilbb,1986,International League,majtyka,M90110,Majtyka,Roy,,Richmond,,
+minoraverages/emilbb,1986,International League,manuel,M90164,Manuel,Charlie,,Toledo,,
+minoraverages/emilbb,1986,International League,napier,M90186,Napier,Jim,,Maine,,
+minoraverages/emilbb,1986,International League,nottle,M90132,Nottle,Ed,,Pawtucket,,
+minoraverages/emilbb,1986,International League,perlozzo,M90141,Perlozzo,Sam,,Tidewater,,

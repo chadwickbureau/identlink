@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1982,Eastern League,,M90506,Bowers,Mickey,,Lynn,,,,,
-minoraverages/emilbb,1982,Eastern League,,M90540,Didier,Bob,,West Haven,,,,,
-minoraverages/emilbb,1982,Eastern League,,M90565,Felske,John,,Reading,,,,,
-minoraverages/emilbb,1982,Eastern League,,M90522,Hiatt,Jack,,Holyoke,,,,,
-minoraverages/emilbb,1982,Eastern League,,M90579,Lett,Jim,,Waterbury,,,,,
-minoraverages/emilbb,1982,Eastern League,,M90511,Maloney,Jim,,Glens Falls,,,,,
-minoraverages/emilbb,1982,Eastern League,,M90533,Sandt,Tommy,,Buffalo,,,,,
-minoraverages/emilbb,1982,Eastern League,,M90554,Torchia,Tony,,Bristol,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1982,Eastern League,,M90506,Bowers,Mickey,,Lynn,,
+minoraverages/emilbb,1982,Eastern League,,M90540,Didier,Bob,,West Haven,,
+minoraverages/emilbb,1982,Eastern League,,M90565,Felske,John,,Reading,,
+minoraverages/emilbb,1982,Eastern League,,M90522,Hiatt,Jack,,Holyoke,,
+minoraverages/emilbb,1982,Eastern League,,M90579,Lett,Jim,,Waterbury,,
+minoraverages/emilbb,1982,Eastern League,,M90511,Maloney,Jim,,Glens Falls,,
+minoraverages/emilbb,1982,Eastern League,,M90533,Sandt,Tommy,,Buffalo,,
+minoraverages/emilbb,1982,Eastern League,,M90554,Torchia,Tony,,Bristol,,

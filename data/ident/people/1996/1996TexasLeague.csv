@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1996,Texas League,,M90824,Cacciatore,Frank,,Shreveport,,,,,
-minoraverages/emilbb,1996,Texas League,,M90835,Engle,Dave,,Jackson,,,,,
-minoraverages/emilbb,1996,Texas League,,M90862,Johnson,Ron,,Wichita,,,,,
-minoraverages/emilbb,1996,Texas League,,M90819,Jones,Bobby,,Tulsa,,,,,
-minoraverages/emilbb,1996,Texas League,,M90856,Machemer,Dave,,El Paso,,,,,
-minoraverages/emilbb,1996,Texas League,,M90843,Mahler,Rick,,Arkansas,,,,,
-minoraverages/emilbb,1996,Texas League,,M90881,Mendoza,Mario,,Midland,,,,,
-minoraverages/emilbb,1996,Texas League,,M90870,Shelby,John,,San Antonio,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1996,Texas League,,M90824,Cacciatore,Frank,,Shreveport,,
+minoraverages/emilbb,1996,Texas League,,M90835,Engle,Dave,,Jackson,,
+minoraverages/emilbb,1996,Texas League,,M90862,Johnson,Ron,,Wichita,,
+minoraverages/emilbb,1996,Texas League,,M90819,Jones,Bobby,,Tulsa,,
+minoraverages/emilbb,1996,Texas League,,M90856,Machemer,Dave,,El Paso,,
+minoraverages/emilbb,1996,Texas League,,M90843,Mahler,Rick,,Arkansas,,
+minoraverages/emilbb,1996,Texas League,,M90881,Mendoza,Mario,,Midland,,
+minoraverages/emilbb,1996,Texas League,,M90870,Shelby,John,,San Antonio,,

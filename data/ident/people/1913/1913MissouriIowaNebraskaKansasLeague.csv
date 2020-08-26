@@ -1,5 +1,5 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1913,Missouri-Iowa-Nebraska-Kansas League,,M92904,Bidwell,Ira,,Falls City,,,,,
-minoraverages/emilbb,1913,Missouri-Iowa-Nebraska-Kansas League,,M92912,Cummings,Warren,,Humboldt,,,,,
-minoraverages/emilbb,1913,Missouri-Iowa-Nebraska-Kansas League,,M92898,Forrester,Jack,,Nebraska City,,,,,
-minoraverages/emilbb,1913,Missouri-Iowa-Nebraska-Kansas League,,M92887,Kraninger,Jack,,Auburn,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1913,Missouri-Iowa-Nebraska-Kansas League,,M92904,Bidwell,Ira,,Falls City,,
+minoraverages/emilbb,1913,Missouri-Iowa-Nebraska-Kansas League,,M92912,Cummings,Warren,,Humboldt,,
+minoraverages/emilbb,1913,Missouri-Iowa-Nebraska-Kansas League,,M92898,Forrester,Jack,,Nebraska City,,
+minoraverages/emilbb,1913,Missouri-Iowa-Nebraska-Kansas League,,M92887,Kraninger,Jack,,Auburn,,

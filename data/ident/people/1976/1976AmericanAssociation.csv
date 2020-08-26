@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1976,American Association,,M90026,Babe,Loren,,Iowa,,,,,
-minoraverages/emilbb,1976,American Association,,M90071,Boyer,Ken,,Tulsa,,,,,
-minoraverages/emilbb,1976,American Association,,M90060,Bunning,Jim,,Oklahoma City,,,,,
-minoraverages/emilbb,1976,American Association,,M90083,Edwards,Doc,,Wichita,,,,,
-minoraverages/emilbb,1976,American Association,,M90018,Gardner,Billy Sr.,,Omaha,,,,,
-minoraverages/emilbb,1976,American Association,,M90047,Hatfield,Fred,,Evansville,,,,,
-minoraverages/emilbb,1976,American Association,,M90052,Rapp,Vern,,Denver,,,,,
-minoraverages/emilbb,1976,American Association,,M90039,Snyder,Jim,,Indianapolis,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1976,American Association,,M90026,Babe,Loren,,Iowa,,
+minoraverages/emilbb,1976,American Association,,M90071,Boyer,Ken,,Tulsa,,
+minoraverages/emilbb,1976,American Association,,M90060,Bunning,Jim,,Oklahoma City,,
+minoraverages/emilbb,1976,American Association,,M90083,Edwards,Doc,,Wichita,,
+minoraverages/emilbb,1976,American Association,,M90018,Gardner,Billy Sr.,,Omaha,,
+minoraverages/emilbb,1976,American Association,,M90047,Hatfield,Fred,,Evansville,,
+minoraverages/emilbb,1976,American Association,,M90052,Rapp,Vern,,Denver,,
+minoraverages/emilbb,1976,American Association,,M90039,Snyder,Jim,,Indianapolis,,

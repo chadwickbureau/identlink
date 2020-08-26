@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1983,American Association,,M90071,Alou,Felipe,,Wichita,,,,,
-minoraverages/emilbb,1983,American Association,,M90060,Burgess,Tom,,Oklahoma City,,,,,
-minoraverages/emilbb,1983,American Association,,M90018,Fregosi,Jim,,Louisville,,,,,
-minoraverages/emilbb,1983,American Association,,M90039,Hartsfield,Roy,,Indianapolis,,,,,
-minoraverages/emilbb,1983,American Association,,M90047,MacKenzie,Gordy,,Evansville,,,,,
-minoraverages/emilbb,1983,American Association,,M90052,Mahoney,Jim,,Denver,,,,,
-minoraverages/emilbb,1983,American Association,,M90026,Napier,Jim,,Iowa,,,,,
-minoraverages/emilbb,1983,American Association,,M90083,Sparks,Joe,,Omaha,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1983,American Association,,M90071,Alou,Felipe,,Wichita,,
+minoraverages/emilbb,1983,American Association,,M90060,Burgess,Tom,,Oklahoma City,,
+minoraverages/emilbb,1983,American Association,,M90018,Fregosi,Jim,,Louisville,,
+minoraverages/emilbb,1983,American Association,,M90039,Hartsfield,Roy,,Indianapolis,,
+minoraverages/emilbb,1983,American Association,,M90047,MacKenzie,Gordy,,Evansville,,
+minoraverages/emilbb,1983,American Association,,M90052,Mahoney,Jim,,Denver,,
+minoraverages/emilbb,1983,American Association,,M90026,Napier,Jim,,Iowa,,
+minoraverages/emilbb,1983,American Association,,M90083,Sparks,Joe,,Omaha,,

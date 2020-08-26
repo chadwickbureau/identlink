@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1979,Midwest League,,M91185,Breazeale,Jim,,Appleton,,,,,
-minoraverages/emilbb,1979,Midwest League,,M91221,Cato,Wayne,,Cedar Rapids,,,,,
-minoraverages/emilbb,1979,Midwest League,,M91161,Emery,Cal,,Waterloo,,,,,
-minoraverages/emilbb,1979,Midwest League,,M91237,Espy,Duane,,Burlington,,,,,
-minoraverages/emilbb,1979,Midwest League,,M91213,McLaughlin,Dick,,Clinton,,,,,
-minoraverages/emilbb,1979,Midwest League,,M91200,Napier,Jim,,Quad Cities,,,,,
-minoraverages/emilbb,1979,Midwest League,,M91173,Robson,Tom,,Wausau,,,,,
-minoraverages/emilbb,1979,Midwest League,,M91199,Stelmaszek,Rick,,Wisconsin Rapids,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1979,Midwest League,,M91185,Breazeale,Jim,,Appleton,,
+minoraverages/emilbb,1979,Midwest League,,M91221,Cato,Wayne,,Cedar Rapids,,
+minoraverages/emilbb,1979,Midwest League,,M91161,Emery,Cal,,Waterloo,,
+minoraverages/emilbb,1979,Midwest League,,M91237,Espy,Duane,,Burlington,,
+minoraverages/emilbb,1979,Midwest League,,M91213,McLaughlin,Dick,,Clinton,,
+minoraverages/emilbb,1979,Midwest League,,M91200,Napier,Jim,,Quad Cities,,
+minoraverages/emilbb,1979,Midwest League,,M91173,Robson,Tom,,Wausau,,
+minoraverages/emilbb,1979,Midwest League,,M91199,Stelmaszek,Rick,,Wisconsin Rapids,,

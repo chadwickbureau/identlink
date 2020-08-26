@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1912,Mountain States League,,M92806,Kitler,James,,Ashland-Catlettsburg,,,,,
-minoraverages/emilbb,1912,Mountain States League,,M92811,Knoessell,Albert,,Huntington,,,,,
-minoraverages/emilbb,1912,Mountain States League,,M92840,Mack,"Joe ""Reddy""",,Middleport-Pomeroy/Montgomery,,,,,
-minoraverages/emilbb,1912,Mountain States League,,M92794,Moore,"""Peg""",,Ironton,,,,,
-minoraverages/emilbb,1912,Mountain States League,,M92822,Runser,Henry,,Williamson,,,,,
-minoraverages/emilbb,1912,Mountain States League,,M92833,Stockton,Charles,,Charleston,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1912,Mountain States League,,M92806,Kitler,James,,Ashland-Catlettsburg,,
+minoraverages/emilbb,1912,Mountain States League,,M92811,Knoessell,Albert,,Huntington,,
+minoraverages/emilbb,1912,Mountain States League,,M92840,Mack,"Joe ""Reddy""",,Middleport-Pomeroy/Montgomery,,
+minoraverages/emilbb,1912,Mountain States League,,M92794,Moore,"""Peg""",,Ironton,,
+minoraverages/emilbb,1912,Mountain States League,,M92822,Runser,Henry,,Williamson,,
+minoraverages/emilbb,1912,Mountain States League,,M92833,Stockton,Charles,,Charleston,,

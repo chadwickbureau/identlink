@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1947,Pennsylvania-Ontario-New York League,,M94346,Carey,Tom,,Wellsville,,,,,
-minoraverages/emilbb,1947,Pennsylvania-Ontario-New York League,,M94380,Doll,Arthur,,Hornell,,,,,
-minoraverages/emilbb,1947,Pennsylvania-Ontario-New York League,,M94338,Mulleavy,Greg,,Olean,,,,,
-minoraverages/emilbb,1947,Pennsylvania-Ontario-New York League,,M94372,Newman,John,,Hamilton,,,,,
-minoraverages/emilbb,1947,Pennsylvania-Ontario-New York League,,M94314,Olson,Marvin,,Jamestown,,,,,
-minoraverages/emilbb,1947,Pennsylvania-Ontario-New York League,,M94323,Savino,George,,Bradford,,,,,
-minoraverages/emilbb,1947,Pennsylvania-Ontario-New York League,,M94351,Scheffel,Cecil,,Lockport,,,,,
-minoraverages/emilbb,1947,Pennsylvania-Ontario-New York League,,M94367,Tighe,Jack,,Batavia,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1947,Pennsylvania-Ontario-New York League,,M94346,Carey,Tom,,Wellsville,,
+minoraverages/emilbb,1947,Pennsylvania-Ontario-New York League,,M94380,Doll,Arthur,,Hornell,,
+minoraverages/emilbb,1947,Pennsylvania-Ontario-New York League,,M94338,Mulleavy,Greg,,Olean,,
+minoraverages/emilbb,1947,Pennsylvania-Ontario-New York League,,M94372,Newman,John,,Hamilton,,
+minoraverages/emilbb,1947,Pennsylvania-Ontario-New York League,,M94314,Olson,Marvin,,Jamestown,,
+minoraverages/emilbb,1947,Pennsylvania-Ontario-New York League,,M94323,Savino,George,,Bradford,,
+minoraverages/emilbb,1947,Pennsylvania-Ontario-New York League,,M94351,Scheffel,Cecil,,Lockport,,
+minoraverages/emilbb,1947,Pennsylvania-Ontario-New York League,,M94367,Tighe,Jack,,Batavia,,

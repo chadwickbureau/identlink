@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1947,New England League,,M91011,Bissonette,Del,,Portland,,,,,
-minoraverages/emilbb,1947,New England League,,M90995,Boyle,Ralph,,Providence,,,,,
-minoraverages/emilbb,1947,New England League,,M90967,Dantonio,John,,Nashua,,,,,
-minoraverages/emilbb,1947,New England League,,M90980,Fox,Pete,,Pawtucket,,,,,
-minoraverages/emilbb,1947,New England League,,M90972,Gruber,Harold,,Manchester,,,,,
-minoraverages/emilbb,1947,New England League,,M91006,Holden,Joe,,Fall River,,,,,
-minoraverages/emilbb,1947,New England League,,M91022,Kissell,George,,Lawrence/Lowell,,,,,
-minoraverages/emilbb,1947,New England League,,M90951,Ryba,Mike,,Lynn,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1947,New England League,,M91011,Bissonette,Del,,Portland,,
+minoraverages/emilbb,1947,New England League,,M90995,Boyle,Ralph,,Providence,,
+minoraverages/emilbb,1947,New England League,,M90967,Dantonio,John,,Nashua,,
+minoraverages/emilbb,1947,New England League,,M90980,Fox,Pete,,Pawtucket,,
+minoraverages/emilbb,1947,New England League,,M90972,Gruber,Harold,,Manchester,,
+minoraverages/emilbb,1947,New England League,,M91006,Holden,Joe,,Fall River,,
+minoraverages/emilbb,1947,New England League,,M91022,Kissell,George,,Lawrence/Lowell,,
+minoraverages/emilbb,1947,New England League,,M90951,Ryba,Mike,,Lynn,,

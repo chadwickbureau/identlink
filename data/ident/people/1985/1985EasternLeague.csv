@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1985,Eastern League,aker,M90579,Aker,Jack,,Waterbury,,,,,
-minoraverages/emilbb,1985,Eastern League,dillard,M90603,Dillard,Steve,,Glens Falls,,,,,
-minoraverages/emilbb,1985,Eastern League,foote,M90565,Foote,Barry,,Albany-Colonie,,,,,
-minoraverages/emilbb,1985,Eastern League,lind,M90598,Lind,Jack,,Vermont,,,,,
-minoraverages/emilbb,1985,Eastern League,lipon,M90616,Lipon,John,,Nashua,,,,,
-minoraverages/emilbb,1985,Eastern League,nottle,M90587,Nottle,Ed,,New Britain,,,,,
-minoraverages/emilbb,1985,Eastern League,spencer,M90627,Spencer,Tom,,Pittsfield,,,,,
-minoraverages/emilbb,1985,Eastern League,taylor-rea,M90634,Taylor,Tony,,Reading,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1985,Eastern League,aker,M90579,Aker,Jack,,Waterbury,,
+minoraverages/emilbb,1985,Eastern League,dillard,M90603,Dillard,Steve,,Glens Falls,,
+minoraverages/emilbb,1985,Eastern League,foote,M90565,Foote,Barry,,Albany-Colonie,,
+minoraverages/emilbb,1985,Eastern League,lind,M90598,Lind,Jack,,Vermont,,
+minoraverages/emilbb,1985,Eastern League,lipon,M90616,Lipon,John,,Nashua,,
+minoraverages/emilbb,1985,Eastern League,nottle,M90587,Nottle,Ed,,New Britain,,
+minoraverages/emilbb,1985,Eastern League,spencer,M90627,Spencer,Tom,,Pittsfield,,
+minoraverages/emilbb,1985,Eastern League,taylor-rea,M90634,Taylor,Tony,,Reading,,

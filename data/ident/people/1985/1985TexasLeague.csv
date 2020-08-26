@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1985,Texas League,bevington,M90819,Bevington,Terry,,El Paso,,,,,
-minoraverages/emilbb,1985,Texas League,espy-shr,M90789,Espy,Duane,,Shreveport,,,,,
-minoraverages/emilbb,1985,Texas League,gomez,M90808,Gomez,Orlando,,Tulsa,,,,,
-minoraverages/emilbb,1985,Texas League,larocque,M90835,LaRocque,Gary,,San Antonio,,,,,
-minoraverages/emilbb,1985,Texas League,maddon,M90843,Maddon,Joe,,Midland,,,,,
-minoraverages/emilbb,1985,Texas League,perlozzo,M90777,Perlozzo,Sam,,Jackson,,,,,
-minoraverages/emilbb,1985,Texas League,riggleman,M90790,Riggleman,Jim,,Arkansas,,,,,
-minoraverages/emilbb,1985,Texas League,tolan,M90824,Tolan,Bobby,,Beaumont,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1985,Texas League,bevington,M90819,Bevington,Terry,,El Paso,,
+minoraverages/emilbb,1985,Texas League,espy-shr,M90789,Espy,Duane,,Shreveport,,
+minoraverages/emilbb,1985,Texas League,gomez,M90808,Gomez,Orlando,,Tulsa,,
+minoraverages/emilbb,1985,Texas League,larocque,M90835,LaRocque,Gary,,San Antonio,,
+minoraverages/emilbb,1985,Texas League,maddon,M90843,Maddon,Joe,,Midland,,
+minoraverages/emilbb,1985,Texas League,perlozzo,M90777,Perlozzo,Sam,,Jackson,,
+minoraverages/emilbb,1985,Texas League,riggleman,M90790,Riggleman,Jim,,Arkansas,,
+minoraverages/emilbb,1985,Texas League,tolan,M90824,Tolan,Bobby,,Beaumont,,

@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1967,Appalachian League,,M91352,Altobelli,Joe,,Bluefield,,,,,
-minoraverages/emilbb,1967,Appalachian League,,M91371,Berardino,Dick,,Johnson City,,,,,
-minoraverages/emilbb,1967,Appalachian League,,M91409,Breeden,Scott,,Wytheville,,,,,
-minoraverages/emilbb,1967,Appalachian League,,M91383,Pacheco,Tony,,Covington,,,,,
-minoraverages/emilbb,1967,Appalachian League,,M91394,Pritchard,Bob,,Salem,,,,,
-minoraverages/emilbb,1967,Appalachian League,,M91360,Tebbetts,Birdie,,Marion,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1967,Appalachian League,,M91352,Altobelli,Joe,,Bluefield,,
+minoraverages/emilbb,1967,Appalachian League,,M91371,Berardino,Dick,,Johnson City,,
+minoraverages/emilbb,1967,Appalachian League,,M91409,Breeden,Scott,,Wytheville,,
+minoraverages/emilbb,1967,Appalachian League,,M91383,Pacheco,Tony,,Covington,,
+minoraverages/emilbb,1967,Appalachian League,,M91394,Pritchard,Bob,,Salem,,
+minoraverages/emilbb,1967,Appalachian League,,M91360,Tebbetts,Birdie,,Marion,,

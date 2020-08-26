@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1982,Carolina League,,M90914,Darcy,Bill,,Peninsula,,,,,
-minoraverages/emilbb,1982,Carolina League,,M90923,Dews,Bobby,,Durham,,,,,
-minoraverages/emilbb,1982,Carolina League,,M90870,Lipon,John,,Alexandria,,,,,
-minoraverages/emilbb,1982,Carolina League,,M90881,Little,Grady,,Hagerstown,,,,,
-minoraverages/emilbb,1982,Carolina League,,M90938,McLaren,John,,Kinston,,,,,
-minoraverages/emilbb,1982,Carolina League,,M90897,Monzon,Danny,,Lynchburg,,,,,
-minoraverages/emilbb,1982,Carolina League,,M90946,Slider,Rac,,Winston-Salem,,,,,
-minoraverages/emilbb,1982,Carolina League,,M90909,Zerilla,Jim,,Salem,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1982,Carolina League,,M90914,Darcy,Bill,,Peninsula,,
+minoraverages/emilbb,1982,Carolina League,,M90923,Dews,Bobby,,Durham,,
+minoraverages/emilbb,1982,Carolina League,,M90870,Lipon,John,,Alexandria,,
+minoraverages/emilbb,1982,Carolina League,,M90881,Little,Grady,,Hagerstown,,
+minoraverages/emilbb,1982,Carolina League,,M90938,McLaren,John,,Kinston,,
+minoraverages/emilbb,1982,Carolina League,,M90897,Monzon,Danny,,Lynchburg,,
+minoraverages/emilbb,1982,Carolina League,,M90946,Slider,Rac,,Winston-Salem,,
+minoraverages/emilbb,1982,Carolina League,,M90909,Zerilla,Jim,,Salem,,

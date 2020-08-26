@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1955,Eastern League,,M90675,Haas,Bert,,Albany,,,,,
-minoraverages/emilbb,1955,Eastern League,,M90669,Hathaway,Ray,,Elmira,,,,,
-minoraverages/emilbb,1955,Eastern League,,M90650,McCormick,Mike,,Wilkes-Barre/Johnstown,,,,,
-minoraverages/emilbb,1955,Eastern League,,M90634,Osborn,Don,,Schenectady,,,,,
-minoraverages/emilbb,1955,Eastern League,,M90616,Ott,Harold,,Allentown,,,,,
-minoraverages/emilbb,1955,Eastern League,,M90642,Sheperd,Larry,,Williamsport,,,,,
-minoraverages/emilbb,1955,Eastern League,,M90627,Stirnweiss,George,,Binghamton,,,,,
-minoraverages/emilbb,1955,Eastern League,,M90603,White,Jo Jo,,Reading,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1955,Eastern League,,M90675,Haas,Bert,,Albany,,
+minoraverages/emilbb,1955,Eastern League,,M90669,Hathaway,Ray,,Elmira,,
+minoraverages/emilbb,1955,Eastern League,,M90650,McCormick,Mike,,Wilkes-Barre/Johnstown,,
+minoraverages/emilbb,1955,Eastern League,,M90634,Osborn,Don,,Schenectady,,
+minoraverages/emilbb,1955,Eastern League,,M90616,Ott,Harold,,Allentown,,
+minoraverages/emilbb,1955,Eastern League,,M90642,Sheperd,Larry,,Williamsport,,
+minoraverages/emilbb,1955,Eastern League,,M90627,Stirnweiss,George,,Binghamton,,
+minoraverages/emilbb,1955,Eastern League,,M90603,White,Jo Jo,,Reading,,

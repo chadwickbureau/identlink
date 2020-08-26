@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1987,International League,ault,M90164,Ault,Doug,,Syracuse,,,,,
-minoraverages/emilbb,1987,International League,cubbage,M90110,Cubbage,Mike,,Tidewater,,,,,
-minoraverages/emilbb,1987,International League,dancy,M90178,Dancy,Bill,,Maine,,,,,
-minoraverages/emilbb,1987,International League,dent,M90129,Dent,Bucky,,Columbus,,,,,
-minoraverages/emilbb,1987,International League,,M90132,Hart,John,,Rochester,,,,,
-minoraverages/emilbb,1987,International League,majtyka,M90186,Majtyka,Roy,,Richmond,,,,,
-minoraverages/emilbb,1987,International League,nottle,M90141,Nottle,Ed,,Pawtucket,,,,,
-minoraverages/emilbb,1987,International League,roberts,M90155,Roberts,Leon,,Toledo,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1987,International League,ault,M90164,Ault,Doug,,Syracuse,,
+minoraverages/emilbb,1987,International League,cubbage,M90110,Cubbage,Mike,,Tidewater,,
+minoraverages/emilbb,1987,International League,dancy,M90178,Dancy,Bill,,Maine,,
+minoraverages/emilbb,1987,International League,dent,M90129,Dent,Bucky,,Columbus,,
+minoraverages/emilbb,1987,International League,,M90132,Hart,John,,Rochester,,
+minoraverages/emilbb,1987,International League,majtyka,M90186,Majtyka,Roy,,Richmond,,
+minoraverages/emilbb,1987,International League,nottle,M90141,Nottle,Ed,,Pawtucket,,
+minoraverages/emilbb,1987,International League,roberts,M90155,Roberts,Leon,,Toledo,,

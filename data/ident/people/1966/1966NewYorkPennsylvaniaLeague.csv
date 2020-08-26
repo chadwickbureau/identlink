@@ -1,7 +1,7 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1966,New York-Pennsylvania League,,M91199,Berrier,Bill,,Jamestown,,,,,
-minoraverages/emilbb,1966,New York-Pennsylvania League,,M91221,Lanier,Max,,Batavia,,,,,
-minoraverages/emilbb,1966,New York-Pennsylvania League,,M91237,MacKenzie,Gordon,,Geneva,,,,,
-minoraverages/emilbb,1966,New York-Pennsylvania League,,M91185,McCullough,Clyde,,Auburn,,,,,
-minoraverages/emilbb,1966,New York-Pennsylvania League,,M91213,Sczesny,Matt,,Oneonta,,,,,
-minoraverages/emilbb,1966,New York-Pennsylvania League,,M91200,Verdi,Frank,,Binghamton,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1966,New York-Pennsylvania League,,M91199,Berrier,Bill,,Jamestown,,
+minoraverages/emilbb,1966,New York-Pennsylvania League,,M91221,Lanier,Max,,Batavia,,
+minoraverages/emilbb,1966,New York-Pennsylvania League,,M91237,MacKenzie,Gordon,,Geneva,,
+minoraverages/emilbb,1966,New York-Pennsylvania League,,M91185,McCullough,Clyde,,Auburn,,
+minoraverages/emilbb,1966,New York-Pennsylvania League,,M91213,Sczesny,Matt,,Oneonta,,
+minoraverages/emilbb,1966,New York-Pennsylvania League,,M91200,Verdi,Frank,,Binghamton,,

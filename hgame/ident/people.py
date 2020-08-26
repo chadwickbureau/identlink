@@ -60,7 +60,7 @@ def clean_sources(df):
     """
     # Fill in an indicator for records which indicate a position played
     # but not games at that position
-    df["pos"] = ""
+    df["pos"] = ("B"+df["B_G"]).fillna("") + ("P"+df["P_G"]).fillna("")
     for pos in ["P", "C", "1B", "2B", "3B", "SS", "OF", "LF", "CF", "RF"]:
         if f"F_{pos}_G" in df and f"F_{pos}_POS" in df:
             df[f"F_{pos}_G"] = (
@@ -79,11 +79,10 @@ def clean_sources(df):
     df["pos"] = df["pos"].str.rstrip(",")
     for col in ['person.name.given', 'S_STINT']:
         df[col] = df[col].fillna("")
-    # We convert dates to YYYYMMDD. This way, ident files can be loaded
-    # into e.g. Excel for editing, without messing up the formatting.
-    # YYYYMMDD is considered a valid ISO date format as well.
-    for col in ['S_FIRST', 'S_LAST']:
-        df[col] = df[col].str.replace("-", "")
+    df = df.assign(span=lambda x:
+                   (x['S_FIRST'].fillna("").str.replace("-", "") + "/" +
+                    x['S_LAST'].fillna("").str.replace("-", ""))
+                   .replace("/", ""))
     return df
 
 
@@ -99,10 +98,11 @@ def merge_idents(df, idents):
     else:
         df['ident'] = None
     return (
-        df[['source', 'league.year', 'league.name', 'ident', 'person.ref',
+        df.reindex(columns=[
+            'source', 'league.year', 'league.name', 'ident', 'person.ref',
             'person.name.last', 'person.name.given',
-            'S_STINT', 'entry.name',
-            'S_FIRST', 'S_LAST', 'B_G', 'P_G', 'pos']]
+            'S_STINT', 'entry.name', 'span', 'pos'
+        ])
         .drop_duplicates()
         .sort_values(['league.year', 'league.name',
                       'person.name.last', 'source', 'person.ref'])

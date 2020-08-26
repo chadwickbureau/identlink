@@ -1,8 +1,8 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1985,Appalachian League,ashford,M91655,Ashford,Tucker,,Kingsport,,,,,
-minoraverages/emilbb,1985,Appalachian League,burgess,M91597,Burgess,Tom,,Bristol,,,,,
-minoraverages/emilbb,1985,Appalachian League,conde,M91610,Conde,Ramon,,Wytheville,,,,,
-minoraverages/emilbb,1985,Appalachian League,hacker,M91607,Hacker,Rich,,Johnson City,,,,,
-minoraverages/emilbb,1985,Appalachian League,robinson,M91641,Robinson,Craig,,Pulaski,,,,,
-minoraverages/emilbb,1985,Appalachian League,verdi,M91629,Verdi,Mike,,Bluefield,,,,,
-minoraverages/emilbb,1985,Appalachian League,waters,M91632,Waters,Fred,,Elizabethton,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1985,Appalachian League,ashford,M91655,Ashford,Tucker,,Kingsport,,
+minoraverages/emilbb,1985,Appalachian League,burgess,M91597,Burgess,Tom,,Bristol,,
+minoraverages/emilbb,1985,Appalachian League,conde,M91610,Conde,Ramon,,Wytheville,,
+minoraverages/emilbb,1985,Appalachian League,hacker,M91607,Hacker,Rich,,Johnson City,,
+minoraverages/emilbb,1985,Appalachian League,robinson,M91641,Robinson,Craig,,Pulaski,,
+minoraverages/emilbb,1985,Appalachian League,verdi,M91629,Verdi,Mike,,Bluefield,,
+minoraverages/emilbb,1985,Appalachian League,waters,M91632,Waters,Fred,,Elizabethton,,

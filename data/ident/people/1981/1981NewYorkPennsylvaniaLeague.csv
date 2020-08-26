@@ -1,9 +1,9 @@
-source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
-minoraverages/emilbb,1981,New York-Pennsylvania League,,M91136,Berardino,Dick,,Elmira,,,,,
-minoraverages/emilbb,1981,New York-Pennsylvania League,,M91148,Dougherty,Pat,,Jamestown,,,,,
-minoraverages/emilbb,1981,New York-Pennsylvania League,,M91112,Gattis,Jim,,Utica,,,,,
-minoraverages/emilbb,1981,New York-Pennsylvania League,,M91161,Hartsfield,Bob,,Geneva,,,,,
-minoraverages/emilbb,1981,New York-Pennsylvania League,,M91104,Mazmanian,Art,,Oneonta,,,,,
-minoraverages/emilbb,1981,New York-Pennsylvania League,,M91120,Miller,Rick,,Little Falls,,,,,
-minoraverages/emilbb,1981,New York-Pennsylvania League,,M91173,Oliver,Dave,,Batavia,,,,,
-minoraverages/emilbb,1981,New York-Pennsylvania League,,M91157,Ruberto,Sonny,,Erie,,,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+minoraverages/emilbb,1981,New York-Pennsylvania League,,M91136,Berardino,Dick,,Elmira,,
+minoraverages/emilbb,1981,New York-Pennsylvania League,,M91148,Dougherty,Pat,,Jamestown,,
+minoraverages/emilbb,1981,New York-Pennsylvania League,,M91112,Gattis,Jim,,Utica,,
+minoraverages/emilbb,1981,New York-Pennsylvania League,,M91161,Hartsfield,Bob,,Geneva,,
+minoraverages/emilbb,1981,New York-Pennsylvania League,,M91104,Mazmanian,Art,,Oneonta,,
+minoraverages/emilbb,1981,New York-Pennsylvania League,,M91120,Miller,Rick,,Little Falls,,
+minoraverages/emilbb,1981,New York-Pennsylvania League,,M91173,Oliver,Dave,,Batavia,,
+minoraverages/emilbb,1981,New York-Pennsylvania League,,M91157,Ruberto,Sonny,,Erie,,
