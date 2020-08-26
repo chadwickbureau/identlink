@@ -1,6 +1,6 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,alsop,B00163,Alsop,Charles,0,Carthage,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,alsop,P10622,Alsop,Charles,0,Carthage,,,,2,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,alsop,P10622,Alsop,Charles,0,Carthage,,,,2,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,ananias,B00726,Ananias,Nicholas,0,Independence,,,59,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,ananias,F20102,Ananias,,0,Independence,,,,,1b59
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,anderson-mia,B00149,Anderson,James,0,Miami,,,25,,
@@ -11,8 +11,9 @@ minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,anderson-car,F20240,A
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,anderson-iol,F20287,Anderson,,0,Iola,,,,,2b123
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,anderson-mia,F21319,Anderson,J.,0,Miami,,,,,c19
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,anderson-car,M90071,Anderson,Donald,,Carthage,,,,,
+minoraverages/emilbb,1949,Kansas-Oklahoma-Missouri League,,M94712,Anderson,Don,,Carthage,,,,,
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,antonson,B00822,Antonson,Dean,0,Ponca City,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,antonson,P10137,Antonson,Dean,0,Ponca City,,,,4,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,antonson,P10137,Antonson,Dean,0,Ponca City,,,,4,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,atchley,B00833,Atchley,Burl,0,Ponca City,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bagley,B01514,Bagley,Walter,0,Bartlesville,,,10,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bale,B01376,Bale,Lawrence,0,Pittsburg,,,22,,
@@ -22,14 +23,17 @@ minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,barclay,F20832,Barcla
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,barkus,B00488,Barkus,Albert,0,Pittsburg,,,43,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,barkus,F21806,Barkus,,0,Pittsburg,,,,,p18
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,barkus,M90094,Barkus,Albert,,Pittsburg,,,,,
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,barkus,P10168,Barkus,,0,Pittsburg,,,,18,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,barkus,P10168,Barkus,,0,Pittsburg,,,,18,p
+minoraverages/emilbb,1949,Kansas-Oklahoma-Missouri League,,M94736,Barkus,Albert,,Pittsburg,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bartley,B00434,Bartley,Boyd,0,Ponca City,,,28,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bartley,F20594,Bartley,,0,Ponca City,,,,,ss18
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bartley,M90047,Bartley,Boyd,,Ponca City,,,,,
+minoraverages/emilbb,1949,Kansas-Oklahoma-Missouri League,,M94681,Bartley,Boyd,,Ponca City,,,,,
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,barton,B00013,Barton,Samuel,0,Bartlesville,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bates,B01509,Bates,Charles,0,Chanute,,,19,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bates,M90060,Bates,Charles,,Chanute,19490630,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,bates,P10723,Bates,Charles,0,Chanute,,,,1,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,bates,P10723,Bates,Charles,0,Chanute,,,,1,p
+minoraverages/emilbb,1949,Kansas-Oklahoma-Missouri League,,M94704,Bates,Charles,,Chanute,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,beaman,B00469,Beaman,Gerald,0,Pittsburg,,,101,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,beaman,F20962,Beaman,,0,Pittsburg,,,,,of57
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,beaman,F21475,Beaman,,0,Pittsburg,,,,,c42
@@ -38,16 +42,16 @@ minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bello,B00130,Bello,Ja
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bello,F20166,Bello,,0,Independence,,,,,1b41
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bello,F20864,Bello,,0,Independence,,,,,of86
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,bellotte,B00638,Bellotte,Anthony,0,Pittsburg,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,bellotte,P10698,Bellotte,Anthony,0,Pittsburg,,,,1,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,bellotte,P10698,Bellotte,Anthony,0,Pittsburg,,,,1,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,belrose,B00442,Belrose,Edsel,0,Miami,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,belrose,P10611,Belrose,Edsel,0,Miami,,,,3,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,belrose,P10611,Belrose,Edsel,0,Miami,,,,3,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bennett,B01368,Bennett,Kenneth,0,Independence,,,33,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bennett,F21726,Bennett,,0,Independence,,,,,p33
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bennett,P10399,Bennett,,0,Independence,,,,33,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bennett,P10399,Bennett,,0,Independence,,,,33,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,beran,B00840,Beran,Robert,0,Ponca City,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,beran,P10192,Beran,Robert,0,Ponca City,,,,4,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,beran,P10192,Beran,Robert,0,Ponca City,,,,4,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,boeschen,B00822,Boeschen,Vernon,0,Pittsburg,,,16,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,boeschen,P10277,Boeschen,Vernon,0,Pittsburg,,,,9,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,boeschen,P10277,Boeschen,Vernon,0,Pittsburg,,,,9,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,bogatie,B00646,Bogatie,George,0,Pittsburg,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bonebrake,B00747,Bonebrake,Robert,0,Ponca City,,,121,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bonebrake,F20699,Bonebrake,,0,Ponca City,,,,,ss10
@@ -56,21 +60,21 @@ minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,boselo,B00158,Boselo,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,boselo,F21182,Boselo,,0,Iola,,,,,of117
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,boston,B01275,Boston,Elmer,0,Chanute,,,10,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,boston,F21566,Boston,,0,Chanute,,,,,p10
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,boston,P10266,Boston,Elmer,0,Chanute,,,,10,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,boston,P10266,Boston,Elmer,0,Chanute,,,,10,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bottorff,B01453,Bottorff,Thomas,0,Pittsburg,,,29,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bottorff,F20080,Bottorff,,0,Pittsburg,,,,,1b27
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bowers,B01696,Bowers,Kyle,0,Bartlesville,,,12,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bowers,F21553,Bowers,,0,Bartlesville,,,,,p11
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bowers,P10035,Bowers,,0,Bartlesville,,,,11,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bowers,P10035,Bowers,,0,Bartlesville,,,,11,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,boyd,B00037,Boyd,Kenneth,0,Bartlesville,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,boyd,P10516,Boyd,Kenneth,0,Bartlesville,,,,2,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,boyd,P10516,Boyd,Kenneth,0,Bartlesville,,,,2,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bradshaw,B00210,Bradshaw,Hugh,0,Bartlesville,,,12,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bradshaw,F21293,Bradshaw,,0,Bartlesville,,,,,c11
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,brennan,B01384,Brennan,Edward,0,Miami,,,20,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,brennan,F20721,Brennan,,0,Miami,,,,,of17
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,brennan,P10486,Brennan,Edward,0,Miami,,,,2,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,brennan,P10486,Brennan,Edward,0,Miami,,,,2,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,briggs,B00021,Briggs,Forrest,0,Bartlesville,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,briggs,P10772,Briggs,Forrest,0,Bartlesville,,,,1,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,briggs,P10772,Briggs,Forrest,0,Bartlesville,,,,1,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bright-mia,B00308,Bright,Harry,0,Miami,,,122,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bright-mia,F20254,Bright,,0,Miami,,,,,2b22
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bright-mia,F20388,Bright,,0,Miami,,,,,3b99
@@ -79,13 +83,13 @@ minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,brown-car,B01617,Brow
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,brown-car,F21450,Brown,,0,Carthage,,,,,c23
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,brown.m-mia,B00450,Brown,A. Marvin,0,Miami,,,,,
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,brown.d-mia,B00469,Brown,David,0,Miami,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,brown.d-mia,P10070,Brown,David,0,Miami,,,,6,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,brown.m-mia,P10145,Brown,A. Marvin,0,Miami,,,,5,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,brown.d-mia,P10070,Brown,David,0,Miami,,,,6,p
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,brown.m-mia,P10145,Brown,A. Marvin,0,Miami,,,,5,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,brydle,B01740,Brydle,Harold,0,Iola,,,30,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,brydle,F21488,Brydle,,0,Iola,,,,,p27
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,brydle,P10121,Brydle,,0,Iola,,,,27,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,brydle,P10121,Brydle,,0,Iola,,,,27,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,buckner,B00475,Buckner,Raymond,0,Miami,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,buckner,P10348,Buckner,Raynold,0,Miami,,,,7,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,buckner,P10348,Buckner,Raynold,0,Miami,,,,7,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bulkley,B00241,Bulkley,John,0,Miami,,,28,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,bulkley,F20189,Bulkley,,0,Miami,,,,,2b25
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,burger,B00936,Burger,Allen,0,Carthage,,,74,,
@@ -101,15 +105,15 @@ minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,butler.r,F21609,Butle
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,butler.j,F22073,Butler,,1,Miami,,,,,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,butler.j,F22073,Butler,,2,Chanute,,,,,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,butler.j,F22073,Butler,,T,,,,,,p18
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,butler.r,P10253,Butler,,0,Miami,,,,18,
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,butler.j,P10527,Butler,,1,Miami,,,,2,
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,butler.j,P10527,Butler,,2,Chanute,,,,16,
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,butler.j,P10527,Butler,,T,,,,,18,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,butler.r,P10253,Butler,,0,Miami,,,,18,p
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,butler.j,P10527,Butler,,1,Miami,,,,2,p
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,butler.j,P10527,Butler,,2,Chanute,,,,16,p
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,butler.j,P10527,Butler,,T,,,,,18,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,byrd,B00667,Byrd,Charles,0,Pittsburg,,,,,
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,callahan,B00278,Callahan,George,0,Chanute,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,callahan,P10373,Callahan,George,0,Chanute,,,,2,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,callahan,P10373,Callahan,George,0,Chanute,,,,2,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,carle,B00672,Carle,Robert,0,Pittsburg,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,carle,P10633,Carle,Robert,0,Pittsburg,,,,1,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,carle,P10633,Carle,Robert,0,Pittsburg,,,,1,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,carlson,B01124,Carlson,Wayne,0,Pittsburg,,,30,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,carlson,F20375,Carlson,,0,Pittsburg,,,,,3b29
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,carney,B01029,Carney,James,0,Ponca City,,,92,,
@@ -118,7 +122,7 @@ minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,castiglione,B00397,Ca
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,castiglione,F20206,Castiglione,,0,Ponca City,,,,,2b115
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,catalano,B00286,Catalano,Salvatore,0,Bartlesville,,,30,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,catalano,F20115,Catalano,,0,Bartlesville,,,,,1b28
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,catalano,P10665,Catalano,Salvatore,0,Bartlesville,,,,1,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,catalano,P10665,Catalano,Salvatore,0,Bartlesville,,,,1,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,chambers,B01300,Chambers,William,0,Independence,,,108,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,chambers,F20919,Chambers,,0,Independence,,,,,of104
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,changley,B00948,Chandler,Troy,0,Bartlesville,,,76,,
@@ -133,32 +137,33 @@ minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,cimino,F20327,Cimino,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,cimino,F20463,Cimino,,0,Independence,,,,,3b26
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,cimino,F20956,Cimino,,0,Independence,,,,,of79
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,claussen,B00491,Claussen,Darrell,0,Miami,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,claussen,P10687,Claussen,Darrell,0,Miami,,,,2,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,claussen,P10687,Claussen,Darrell,0,Miami,,,,2,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,closs,B00013,Closs,Charles,0,Bartlesville,,,10,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,closs,F22020,Closs,,0,Bartlesville,,,,,p10
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,closs,P10215,Closs,Charles,0,Bartlesville,,,,10,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,closs,P10215,Closs,Charles,0,Bartlesville,,,,10,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,clyde,B00680,Clyde,Patrick,0,Pittsburg,,,,,
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,cobb,B00362,Cobb,James,0,Independence,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,cobb,P10588,Cobb,James,0,Independence,,,,4,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,cobb,P10588,Cobb,James,0,Independence,,,,4,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,contreras,B00174,Contreras,Domingo,0,Carthage,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,contreras,P10184,Contreras,Domingo,0,Carthage,,,,6,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,contreras,P10184,Contreras,Domingo,0,Carthage,,,,6,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,cooley,B00695,Cooley,John,0,Pittsburg,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,costa,B00544,Costa,Philip,0,Carthage,,,106,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,costa,F20792,Costa,,0,Carthage,,,,,of100
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,costa,P10542,Costa,Philip,0,Carthage,,,,4,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,costa,P10542,Costa,Philip,0,Carthage,,,,4,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,coulter,B01787,Coulter,Bernard,0,Chanute,,,14,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,coulter,F20539,Coulter,,0,Chanute,,,,,3b11
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,courtney,B01156,Courtney,William,0,Carthage,,,13,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,courtney,F20700,Courtney,,0,Carthage,,,,,ss13
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,craft,M90018,Craft,Harry,,Independence,,,,,
+minoraverages/emilbb,1949,Kansas-Oklahoma-Missouri League,,M94656,Craft,Harry,,Independence,,,,,
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,craig,B00045,Craig,William,0,Bartlesville,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,craig,P10336,Craig,William,0,Bartlesville,,,,4,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,craig,P10336,Craig,William,0,Bartlesville,,,,4,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,creech,B00182,Creech,William,0,Iola,,,29,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,creech,F21961,Creech,,0,Iola,,,,,p25
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,creech,P10304,Creech,,0,Iola,,,,25,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,creech,P10304,Creech,,0,Iola,,,,25,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,crowder,B01836,Crowder,Joseph,0,Independence,,,41,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,crowder,F21904,Crowder,,0,Independence,,,,,p41
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,crowder,P10056,Crowder,,0,Independence,,,,41,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,crowder,P10056,Crowder,,0,Independence,,,,41,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,dahms,B00293,Dahms,Gerald,0,Bartlesville,,,55,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,dahms,F21324,Dahms,,0,Bartlesville,,,,,c40
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,daily,B00638,Daily,Eugene,0,Iola,,,80,,
@@ -182,13 +187,13 @@ minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,dunterman,B00771,Dunt
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,dunterman,F21427,Dunterman,,0,Iola,,,,,c58
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,ehlers,B00232,Ehlers,Dean,0,Ponca City,,,56,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,ehlers,F21286,Ehlers,,0,Ponca City,,,,,c44
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,ehlers,P10606,Ehlers,O. Dean,0,Ponca City,,,,1,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,ehlers,P10606,Ehlers,O. Dean,0,Ponca City,,,,1,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,erath,B00879,Erath,George,0,Carthage,,,15,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,erath,F21589,Erath,,0,Carthage,,,,,p14
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,erath,P10081,Erath,,0,Carthage,,,,14,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,erath,P10081,Erath,,0,Carthage,,,,14,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,fadell,B01804,Fadell,Albert,0,Chanute,,,19,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,fadell,F22061,Fadell,,0,Chanute,,,,,p19
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,fadell,P10410,Fadell,,0,Chanute,,,,19,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,fadell,P10410,Fadell,,0,Chanute,,,,19,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,fall,B00705,Fall,Ralph,0,Pittsburg,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,flauto,B00502,Flauto,Gilbert,0,Iola,,,121,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,flauto,F20067,Flauto,,0,Iola,,,,,1b121
@@ -198,57 +203,59 @@ minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,fowler,B00718,Fowler
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,frazer,B00515,Frazer,Calvin,0,Bartlesville,,,123,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,frazer,F20571,Frazer,,0,Bartlesville,,,,,ss123
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,furgal,B00865,Furgal,Norman,0,Ponca City,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,furgal,P10289,Furgal,Norman,0,Ponca City,,,,5,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,furgal,P10289,Furgal,Norman,0,Ponca City,,,,5,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,garner,B00059,Garner,Fred,0,Bartlesville,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,garner,P10399,Garner,Fred,0,Bartlesville,,,,5,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,garner,P10399,Garner,Fred,0,Bartlesville,,,,5,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,garrett-car,B01567,Garrett,Edward,0,Carthage,,,29,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,garrett-car,F21833,Garrett,,0,Carthage,,,,,p29
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,garrett-car,P10429,Garrett,,0,Carthage,,,,29,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,garrett-car,P10429,Garrett,,0,Carthage,,,,29,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,garrett-mia,B00502,Garrett,Emerson,0,Miami,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,garrett-mia,P10159,Garrett,Emerson,0,Miami,,,,6,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,garrett-mia,P10159,Garrett,Emerson,0,Miami,,,,6,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,geer,B01580,Geer,Kenneth,0,Iola,,,25,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,geer,F21912,Geer,,0,Iola,,,,,p25
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,geer,P10455,Geer,,0,Iola,,,,25,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,geer,P10455,Geer,,0,Iola,,,,25,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,getter,B00255,Getter,Richard,0,Iola,,,111,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,getter,F21125,Getter,,0,Iola,,,,,of106
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,getter,P10097,Getter,Richard,0,Iola,,,,3,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,getter,P10097,Getter,Richard,0,Iola,,,,3,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,gilmer,B00068,Gilmer,William,0,Bartlesville,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,glaze,B01162,Glaze,Robert,0,Pittsburg,,,72,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,glaze,F21403,Glaze,,0,Pittsburg,,,,,c69
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,gray,B00726,Gray,Madison,0,Pittsburg,,,,,
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,green,B00515,Green,Fred,0,Miami,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,green,P10503,Green,Fred,0,Miami,,,,2,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,green,P10503,Green,Fred,0,Miami,,,,2,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,grove.e,B01754,Grove,Edward,0,Ponca City,,,26,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,grove.e,F21794,Grove,,0,Ponca City,,,,,p26
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,grove.e,P10228,Grove,,0,Ponca City,,,,26,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,grove.e,P10228,Grove,,0,Ponca City,,,,26,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,grove.d,B00076,Grove,Donald,0,Bartlesville,,,,,
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,grove.r,B00879,Grove,Robert,0,Ponca City,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,grove.d,P10527,Grove,Donald,0,Bartlesville,,,,3,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,grove.d,P10527,Grove,Donald,0,Bartlesville,,,,3,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,groves,B00370,Groves,Harold,0,Independence,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,gullic,M90026,Gullic,Tedd,,Bartlesville,,,,,
+minoraverages/emilbb,1949,Kansas-Oklahoma-Missouri League,,M94662,Gullic,Tedd,,Bartlesville,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,gwinn,B00362,Gwinn,Stanley,0,Ponca City,,,81,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,gwinn,F20908,Gwinn,,0,Ponca City,,,,,of79
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,haines,B00623,Haines,Donn,0,Bartlesville,,,76,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,haines,F20342,Haines,,0,Bartlesville,,,,,3b73
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,haines,B00528,Haines,,0,Miami,,,,,
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,hames,B00887,Hames,Richard,0,Ponca City,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,hames,P10121,Hames,Richard,0,Ponca City,,,,6,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,hames,P10121,Hames,Richard,0,Ponca City,,,,6,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,hansen,B00646,Hansen,James,0,Chanute,,,111,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,hansen,F21308,Hansen,,0,Chanute,,,,,c109
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,hansen,M90052,Hansen,James,,Chanute,,,,,
+minoraverages/emilbb,1949,Kansas-Oklahoma-Missouri League,,M94697,Hansen,James,,Chanute,,,,,
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,harmon,B00739,Harmon,Millard C.,0,Pittsburg,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,hays,B00589,Hays,Earl,0,Miami,,,75,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,hays,F21255,Hays,,0,Miami,,,,,of39
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,hays,F21718,Hays,,0,Miami,,,,,p26
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,hays,P10486,Hays,,0,Miami,,,,26,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,hays,P10486,Hays,,0,Miami,,,,26,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,herring,B00264,Herring,William,0,Bartlesville,,,76,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,herring,F21356,Herring,,0,Bartlesville,,,,,c65
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,hirlbach,B00531,Hirlbach,Carl,0,Miami,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,hirlbach,P10176,Hirlback,Carl,0,Miami,,,,6,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,hirlbach,P10176,Hirlback,Carl,0,Miami,,,,6,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,hodges,B00370,Hodges,William,0,Ponca City,,,102,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,hodges,F20604,Hodges,,0,Ponca City,,,,,ss99
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,hoffmeister,B00182,Hoffmeister,Paul,0,Carthage,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,hoffmeister,P10304,Hoffmeister,Paul,0,Carthage,,,,4,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,hoffmeister,P10304,Hoffmeister,Paul,0,Carthage,,,,4,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,holderness,B01551,Holderness,William,0,Independence,,,52,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,holderness,F20316,Holderness,,0,Independence,,,,,2b51
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,hopkins,B01078,Hopkins,William,0,Ponca City,,,70,,
@@ -260,36 +267,37 @@ minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,huff,B01288,Huff,Neil
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,huff,F20417,Huff,,0,Bartlesville,,,,,3b32
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,hulu,B01359,Hulu,Lewis,0,Ponca City,,,13,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,hulu,F21760,Hulu,,0,Ponca City,,,,,p13
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,hulu,P10407,Hulu,,0,Ponca City,,,,13,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,hulu,P10407,Hulu,,0,Ponca City,,,,13,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,iacovelli,B00084,Iacovelli,Carl,0,Bartlesville,,,,,
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,imbeau,B00293,Imbeau,James,0,Chanute,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,imbeau,P10202,Imbeau,James,0,Chanute,,,,5,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,imbeau,P10202,Imbeau,James,0,Chanute,,,,5,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,imfeld,B00961,Imfeld,Thomas,0,Chanute,,,64,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,imfeld,F20935,Imfeld,,0,Chanute,,,,,of64
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,irland,B01055,Irland,Donald,0,Pittsburg,,,44,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,irland,F20458,Irland,,0,Pittsburg,,,,,3b36
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,irland,P10441,Irland,Donald,0,Pittsburg,,,,5,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,irland,P10441,Irland,Donald,0,Pittsburg,,,,5,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,jansen,B00092,Jansen,Udo,0,Bartlesville,,,34,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,jansen,F20072,Jansen,,0,Bartlesville,,,,,1b34
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,jaros,B00904,Jaros,Lawrence,0,Chanute,,,36,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,jaros,F21491,Jaros,,0,Chanute,,,,,p34
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,jaros,P10266,Jaros,,0,Chanute,,,,34,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,jaros,P10266,Jaros,,0,Chanute,,,,34,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,jenkins,B00427,Jenkins,Robert,0,Pittsburg,,,90,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,jenkins,F21084,Jenkins,,0,Pittsburg,,,,,of89
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,johnson-iol,B01143,Johnson,Winlow,0,Iola,,,31,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,johnson-iol,F21623,Johnson,,0,Iola,,,,,p31
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,johnson-iol,M90039,Johnson,Winslow,,Iola,,,,,
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,johnson-iol,P10024,Johnson,,0,Iola,,,,31,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,johnson-iol,P10024,Johnson,,0,Iola,,,,31,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,johnson-car,B00196,Johnson,Leslie,0,Carthage,,,,,
+minoraverages/emilbb,1949,Kansas-Oklahoma-Missouri League,,M94670,Johnson,Winlow,,Iola,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,jones,B01861,Jones,Charles E.,0,Chanute,,,12,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,jones,F21117,Jones,,0,Chanute,,,,,of10
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,jongewaard,B01466,Jongewaard,Dean,0,Bartlesville,,,28,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,jongewaard,F20014,Jongewaard,,0,Bartlesville,,,,,1b27
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,joyce,B01658,Joyce,Arnold,0,Independence,,,10,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,joyce,P10113,Joyce,Arnold,0,Independence,,,,9,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,joyce,P10113,Joyce,Arnold,0,Independence,,,,9,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,jurcic,B01269,Jurcic,Emil,0,Pittsburg,,,13,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,jurcic,F21502,Jurcic,,0,Pittsburg,,,,,p13
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,jurcic,P10289,Jurcic,,0,Pittsburg,,,,13,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,jurcic,P10289,Jurcic,,0,Pittsburg,,,,13,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,kantor,B01108,Kantor,Daniel,0,Pittsburg,,,21,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,kantor,F21076,Kantor,,0,Pittsburg,,,,,of21
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,karr,B01041,Karr,Ralph,0,Independence,,,20,,
@@ -299,13 +307,13 @@ minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,keeter,F21343,Keeter,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,kelly,B01490,Kelly,Harry,0,Pittsburg,,,64,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,kelly,F21196,Kelly,,0,Pittsburg,,,,,of64
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,ketchum,B00308,Ketchum,Albert,0,Chanute,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,ketchum,P10231,Ketchum,Albert,0,Chanute,,,,8,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,ketchum,P10231,Ketchum,Albert,0,Chanute,,,,8,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,kirschner,B00207,Kirschner,Gordyn,0,Carthage,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,kirschner,P10361,Kirschner,Gordyn,0,Carthage,,,,3,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,kirschner,P10361,Kirschner,Gordyn,0,Carthage,,,,3,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,knapton,B00210,Knapton,William,0,Carthage,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,kraley,B01321,Kraley,Steve,0,Independence,,,29,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,kraley,F21667,Kraley,,0,Independence,,,,,p27
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,kraley,P10100,Kraley,,0,Independence,,,,27,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,kraley,P10100,Kraley,,0,Independence,,,,27,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,kustich,B00898,Kustich,John,0,Ponca City,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,lacarra,B01674,LaCarra,Richard,0,Independence,,,15,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,lacarra,F21174,LaCarra,,0,Independence,,,,,of12
@@ -314,93 +322,96 @@ minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,lagrace,F21068,LaGrac
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,laporta,B00985,LaPorta,John,0,Carthage,,,81,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,laporta,F20369,LaPorta,,0,Carthage,,,,,3b79
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,lamberti,F21638,Lamberti,,0,Ponca City,,,,,p20
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,lamberti,P10113,Lamberti,,0,Ponca City,,,,20,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,lamberti,P10113,Lamberti,,0,Ponca City,,,,20,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,lane,B00403,Lane,Omar,0,Miami,,,120,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,lane,F20038,Lane,,0,Miami,,,,,1b120
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,lane,F21948,Lane,,0,Miami,,,,,p11
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,lane,M90083,Lane,Omar,,Miami,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,lane,P10385,Lane,Omar,0,Miami,,,,11,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,lang,P10640,Lang,Vernon,0,Ponca City,,,,2,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,lane,P10385,Lane,Omar,0,Miami,,,,11,p
+minoraverages/emilbb,1949,Kansas-Oklahoma-Missouri League,,M94720,Lane,Omar,,Miami,,,,,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,lang,P10640,Lang,Vernon,0,Ponca City,,,,2,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,leonard,B00229,Leonard,Bernard,0,Iola,,,114,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,leonard,F20496,Leonard,,0,Iola,,,,,3b51
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,leonard,F21013,Leonard,,0,Iola,,,,,of53
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,leslie,B01711,Leslie,A. John,0,Carthage,,,26,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,leslie,F21680,Leslie,,0,Carthage,,,,,p25
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,leslie,P10348,Leslie,,0,Carthage,,,,25,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,leslie,P10348,Leslie,,0,Carthage,,,,25,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,long-ind,B01905,Long,Alvin,0,Independence,,,13,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,long-ind,F21528,Long,,0,Independence,,,,,p13
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,long-ind,P10516,Long,,0,Independence,,,,13,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,long-ind,P10516,Long,,0,Independence,,,,13,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,lang,B00904,Long,Vernon,0,Ponca City,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,lorance,B01572,Lorance,Darrell,0,Carthage,,,20,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,lorance,F21614,Lorance,,0,Carthage,,,,,p13
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,lorance,P10493,Lorance,,0,Carthage,,,,13,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,lorance,P10493,Lorance,,0,Carthage,,,,13,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,lyles,B01242,Lyles,Joseph,0,Pittsburg,,,25,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,lyles,F21210,Lyles,,0,Pittsburg,,,,,of15
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,lyles,P10290,Lyles,Joseph,0,Pittsburg,,,,6,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,lyles,P10290,Lyles,Joseph,0,Pittsburg,,,,6,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mallon,B01733,Mallon,Robert,0,Independence,,,18,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mallon,F21515,Mallon,,0,Independence,,,,,p14
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mallon,P10534,Mallon,,0,Independence,,,,14,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mallon,P10534,Mallon,,0,Independence,,,,14,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,malott,B01663,Malott,Joseph,0,Iola,,,10,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,malott,F22057,Malott,,0,Iola,,,,,p10
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,malott,P10550,Malott,,0,Iola,,,,10,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,malott,P10550,Malott,,0,Iola,,,,10,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,manns,B00207,Manns,Louis,0,Carthage,,,111,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,manns,F21397,Manns,,0,Carthage,,,,,c107
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mantle,B00084,Mantle,Charles,0,Independence,,,89,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mantle,F20620,Mantle,,0,Independence,,,,,ss89
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,marcil,B00319,Marcil,Lee,0,Chanute,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,marcil,P10100,Marcil,Leo,0,Chanute,,,,7,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,marcil,P10100,Marcil,Leo,0,Chanute,,,,7,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,marks,B00811,Marks,James,0,Chanute,,,117,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,marks,F20474,Marks,,0,Chanute,,,,,3b115
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,maropis,B00021,Maropis,Peter,0,Bartlesville,,,33,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,maropis,F20768,Maropis,,0,Bartlesville,,,,,of33
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,martinez,B00544,Martinez,Richard,0,Independence,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,martinez,P10550,Martinez,Richard,1,Independence,,,,2,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,martinez,P10550,Martinez,Richard,2,Miami,,,,1,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,martinez,P10550,Martinez,Richard,T,,,,,3,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,,B00544,Martinez,Richard,1,Independence,,,,,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,,B00544,Martinez,Richard,2,Miami,,,,,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,,B00544,Martinez,Richard,T,,,,,,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,martinez,P10550,Martinez,Richard,1,Independence,,,,2,p
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,martinez,P10550,Martinez,Richard,2,Miami,,,,1,p
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,martinez,P10550,Martinez,Richard,T,,,,,3,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,mathews,B00381,Mathews,Donald,0,Independence,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mazzucco,B01885,Mazzucco,Raymond,0,Chanute,,,16,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mazzucco,F21840,Mazzucco,,0,Chanute,,,,,p16
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mazzucco,P10159,Mazzucco,,0,Chanute,,,,16,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mazzucco,P10159,Mazzucco,,0,Chanute,,,,16,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,mccalman,B00229,McCalman,John,0,Carthage,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,mccalman,P10081,McCalman,John,0,Carthage,,,,6,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,mccalman,P10081,McCalman,John,0,Carthage,,,,6,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mccormick,B01250,McCormick,Jeptha W.,0,Pittsburg,,,25,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mccormick,F21973,McCormick,,0,Pittsburg,,,,,p12
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mccormick,P10503,McCormick,,0,Pittsburg,,,,12,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mccormick,P10503,McCormick,,0,Pittsburg,,,,12,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mccoy,B01706,McCoy,Richard,0,Ponca City,,,37,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mccoy,F21705,McCoy,,0,Ponca City,,,,,p28
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mccoy,P10361,McCoy,,0,Ponca City,,,,28,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mccoy,P10361,McCoy,,0,Ponca City,,,,28,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mchugh,B00973,McHugh,James,0,Pittsburg,,,123,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mchugh,F20222,McHugh,,0,Pittsburg,,,,,2b121
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mclish,B00760,McLish,Edward,0,Bartlesville,,,35,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mclish,F22004,McLish,,0,Bartlesville,,,,,p28
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mclish,P10192,McLish,,0,Bartlesville,,,,28,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,mclish,P10192,McLish,,0,Bartlesville,,,,28,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,mehan,B00092,Mehan,James,0,Bartlesville,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,mehan,P10464,Mehan,James,0,Bartlesville,,,,4,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,mehan,P10464,Mehan,James,0,Bartlesville,,,,4,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,meier,B00232,Meier,Allan,0,Carthage,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,meier,P10035,Meier,Allan,0,Carthage,,,,4,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,meier,P10035,Meier,Allan,0,Carthage,,,,4,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,melvin,B00887,Melvin,Duane,0,Miami,,,97,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,melvin,F20657,Melvin,,0,Miami,,,,,ss95
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,melvin,P10746,Melvin,Duane,0,Miami,,,,1,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,melvin,P10746,Melvin,Duane,0,Miami,,,,1,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,meyers,B00747,Meyers,Robert,0,Pittsburg,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,miller,B00163,Miller,Stanley,0,Bartlesville,,,76,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,miller,F20233,Miller,,0,Bartlesville,,,,,2b76
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,moeller,B01392,Moeller,Rolf,0,Bartlesville,,,26,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,moeller,F21898,Moeller,,0,Bartlesville,,,,,p26
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,moeller,P10231,Moeller,,0,Bartlesville,,,,26,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,moeller,P10231,Moeller,,0,Bartlesville,,,,26,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,moffitt-car,B00680,Moffitt,Dennis,0,Carthage,,,14,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,moffitt-car,F21783,Moffitt,,0,Carthage,,,,,p14
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,moffitt-car,P10373,Moffitt,,0,Carthage,,,,14,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,moffitt-car,P10373,Moffitt,,0,Carthage,,,,14,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,moffitt-ind,B00397,Moffitt,Burl,0,Independence,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,moffitt-ind,P10043,Moffitt,Burl,0,Independence,,,,3,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,moffitt-ind,P10043,Moffitt,Burl,0,Independence,,,,3,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,monteil,B00101,Monteil,Paul,0,Bartlesville,,,,,
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,montgomery,B00553,Montgomery,Robert,0,Miami,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,montgomery,P10429,Montgomery,Robert,0,Miami,,,,2,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,montgomery,P10429,Montgomery,Robert,0,Miami,,,,2,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,morgenthaler,B00324,Morgenthaler,Edward,0,Chanute,,,107,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,morgenthaler,F20893,Morgenthaler,,0,Chanute,,,,,of107
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,morrow,B01170,Morrow,Frank,0,Carthage,,,52,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,morrow,F20943,Morrow,,0,Carthage,,,,,of48
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,nacchio,B00752,Nacchio,John,0,Pittsburg,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,nacchio,P10357,Nacchio,John,0,Pittsburg,,,,4,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,nacchio,P10357,Nacchio,John,0,Pittsburg,,,,4,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,nardello,B01538,Nardello,Salvatore,0,Pittsburg,,,119,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,nardello,F20612,Nardello,,0,Pittsburg,,,,,ss118
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,nassif,B00475,Nassif,Ameal,0,Pittsburg,,,29,,
@@ -409,18 +420,18 @@ minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,neighbors,B00117,Neig
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,neighbors,F21059,Neighbors,,0,Bartlesville,,,,,of93
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,new,B01415,New,Eugene,0,Chanute,,,32,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,new,F21577,New,,0,Chanute,,,,,p30
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,new,P10202,New,,0,Chanute,,,,30,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,new,P10202,New,,0,Chanute,,,,30,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,newbill,B01313,Newbill,Robert,0,Independence,,,57,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,newbill,F20153,Newbill,,0,Independence,,,,,1b24
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,newbill,F21434,Newbill,,0,Independence,,,,,c20
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,newkirk,B00324,Newkirk,Dave,0,Chanute,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,newkirk,P10432,Newkirk,Dave,0,Chanute,,,,3,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,newkirk,P10432,Newkirk,Dave,0,Chanute,,,,3,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,nichols-pon,B01291,Nichols,Ernest,0,Ponca City,,,31,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,nichols-iol,B01798,Nichols,Robert,0,Iola,,,30,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,nichols-iol,F21646,Nichols,,0,Iola,,,,,p30
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,nichols-pon,F21739,Nichols,,0,Ponca City,,,,,p31
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,nichols-iol,P10184,Nichols,N.,0,Iola,,,,30,
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,nichols-pon,P10320,Nichols,E.,0,Ponca City,,,,31,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,nichols-iol,P10184,Nichols,N.,0,Iola,,,,30,p
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,nichols-pon,P10320,Nichols,E.,0,Ponca City,,,,31,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,nixon,B00528,Nixon,John,0,Ponca City,,,28,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,nixon,F20776,Nixon,,0,Ponca City,,,,,of28
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,noel,B01812,Noel,William,0,Miami,,,10,,
@@ -428,14 +439,14 @@ minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,norbut,B01135,Norbut,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,norbut,F20051,Norbut,,0,Chanute,,,,,1b125
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,novak,B01546,Novak,Louis,0,Pittsburg,,,23,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,novak,F21822,Novak,,0,Pittsburg,,,,,p22
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,novak,P10441,Novak,,0,Pittsburg,,,,22,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,novak,P10441,Novak,,0,Pittsburg,,,,22,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,oakes,B00912,Oakes,Paul,0,Ponca City,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,oakes,P10244,Oakes,Paul,0,Ponca City,,,,6,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,oakes,P10244,Oakes,Paul,0,Ponca City,,,,6,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,ott,B00491,Ott,Edward,0,Iola,,,116,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,ott,F20970,Ott,,0,Iola,,,,,of108
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,paine,B01779,Paine,William,0,Bartlesville,,,31,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,paine,F21985,Paine,,0,Bartlesville,,,,,p30
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,paine,P10244,Paine,,0,Bartlesville,,,,30,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,paine,P10244,Paine,,0,Bartlesville,,,,30,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,paskiewicz,B00335,Paskiewicz,Henry,0,Carthage,,,126,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,paskiewicz,F20211,Paskiewicz,,0,Carthage,,,,,2b41
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,paskiewicz,F20583,Paskiewicz,,0,Carthage,,,,,ss88
@@ -444,11 +455,11 @@ minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,passarella,F20673,Pas
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,paulausky,B00045,Paulausky,Robert,0,Miami,,,42,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,paulausky,F21370,Paulausky,,0,Miami,,,,,c42
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,peacock,B00566,Peacock,Elmer,0,Miami,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,peacock,P10024,Peacock,Elmer,0,Miami,,,,4,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,peacock,P10024,Peacock,Elmer,0,Miami,,,,4,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,peake,B00117,Peake,Ralph,0,Bartlesville,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,peake,P10410,Peake,Ralph,0,Bartlesville,,,,7,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,peake,P10410,Peake,Ralph,0,Bartlesville,,,,7,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,pearson,B00920,Pearson,Lawrence,0,Ponca City,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,pearson,P10493,Pearson,Lawrence,0,Ponca City,,,,1,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,pearson,P10493,Pearson,Lawrence,0,Ponca City,,,,1,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,perry,B01181,Perry,Benjamin,0,Bartlesville,,,24,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,perry,F20737,Perry,,0,Bartlesville,,,,,of21
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,pflasterer,B00068,Pflasterer,Kent,0,Chanute,,,124,,
@@ -456,26 +467,26 @@ minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,pflasterer,F20636,Pfl
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,pinard,B01431,Pinard,Robert,0,Bartlesville,,,44,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,pinard,F20759,Pinard,,0,Bartlesville,,,,,of12
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,pinard,F21811,Pinard,,0,Bartlesville,,,,,p32
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,pinard,P10277,Pinard,,0,Bartlesville,,,,32,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,pinard,P10277,Pinard,,0,Bartlesville,,,,32,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,ponikiewski,B00760,Ponikiewski,Theodore,0,Pittsburg,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,puetz,B00898,Puetz,Eugene,0,Pittsburg,,,25,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,puetz,F20526,Puetz,,0,Pittsburg,,,,,3b24
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,raines,B00936,Raines,Jesse,0,Ponca City,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,raines,P10738,Raines,Jesse,0,Ponca City,,,,1,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,raines,P10738,Raines,Jesse,0,Ponca City,,,,1,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,reaugh,B00356,Reaugh,James,0,Miami,,,104,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,reaugh,F20810,Reaugh,,0,Miami,,,,,of103
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,reimold,B00381,Reimold,John,0,Bartlesville,,,29,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,reimold,F21092,Reimold,,0,Bartlesville,,,,,of27
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,reyes,B00771,Reyes,John,0,Pittsburg,,,,,
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,roach,B00577,Roach,Raymond,0,Miami,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,roach,P10534,Roach,Raymond,0,Miami,,,,2,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,roach,P10534,Roach,Raymond,0,Miami,,,,2,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,robbins.i,B00442,Robbins,Ike,0,Miami,,,86,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,robbins.i,F20095,Robbins,,0,Miami,,,,,1b10
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,robbins.i,F20401,Robbins,,0,Miami,,,,,3b21
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,robbins.i,F21207,Robbins,,0,Miami,,,,,of47
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,robbins.i,B00589,Robbins,Norman,0,Miami,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,rogers,B01064,Rogers,Eugene,0,Ponca City,,,22,,
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,rogers,P10176,Rogers,,0,Ponca City,,,,8,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,rogers,P10176,Rogers,,0,Ponca City,,,,8,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,rolfs,B01093,Rolfs,Frank,0,Pittsburg,,,37,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,rolfs,F20046,Rolfs,,0,Pittsburg,,,,,1b37
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,roman,B01032,Roman,Robert,0,Carthage,,,20,,
@@ -483,26 +494,28 @@ minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,roman,F21101,Roman,,0
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,rose-ind,B00705,Rose,Kenneth,0,Independence,,,21,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,rose-ind,F20661,Rose,,0,Independence,,,,,ss17
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,rose-pit,B00783,Rose,Robert,0,Pittsburg,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,rose-pit,P10714,Rose,Robert,0,Pittsburg,,,,1,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,rose-pit,P10714,Rose,Robert,0,Pittsburg,,,,1,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,rothrock,B01899,Rothrock,Dean,0,Iola,,,12,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,rothrock,F21879,Rothrock,,0,Iola,,,,,p10
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,rothrock,P10228,Rothrock,Dean,0,Iola,,,,10,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,rothrock,P10228,Rothrock,Dean,0,Iola,,,,10,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,saban,B00450,Saban,Matthew,0,Carthage,,,16,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,saban,F21957,Saban,,0,Carthage,,,,,p15
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,saban,P10542,Saban,,0,Carthage,,,,15,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,saban,P10542,Saban,,0,Carthage,,,,15,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,sadich,B00794,Sadich,Stanley,0,Pittsburg,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,sartain,B00672,Sartain,William,0,Miami,,,11,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,schaening,B01216,Schaening,John,0,Miami,,,31,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,schaening,F21747,Schaening,,0,Miami,,,,,p30
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,schaening,P10097,Schaening,,0,Miami,,,,30,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,schaening,P10097,Schaening,,0,Miami,,,,30,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,scheele,B00590,Scheele,Donald,0,Miami,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,scheele,P10320,Scheele,Donald,0,Miami,,,,7,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,scheele,P10320,Scheele,Donald,0,Miami,,,,7,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,schmitt,B00590,Schmitt,Donald,0,Carthage,,,123,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,schmitt,F20190,Schmitt,,0,Carthage,,,,,2b11
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,schmitt,F20505,Schmitt,,0,Carthage,,,,,3b45
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,schmitt,F20981,Schmitt,,0,Carthage,,,,,of70
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,schmitt,P10709,Schmitt,Donald,0,Carthage,,,,1,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,scott,B00427,Scott,Edward,0,Bartlesville,,,,,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,schmitt,P10709,Schmitt,Donald,0,Carthage,,,,1,p
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,,B00427,Scott,Edward,1,Bartlesville,,,,,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,,B00427,Scott,Edward,2,Iola,,,,,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,,B00427,Scott,Edward,T,,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,scotten,B00343,Scotten,Ttusten,0,Bartlesville,,,119,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,scotten,F20303,Scotten,,0,Bartlesville,,,,,2b35
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,scotten,F20391,Scotten,,0,Bartlesville,,,,,3b23
@@ -519,28 +532,29 @@ minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,smith-pit,M90107,Smit
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,smith-bar,B00125,Smith,John B.,0,Bartlesville,,,,,
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,smith-cha,B00335,Smith,Jean W.,0,Chanute,,,,,
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,smith.t-mia,B00609,Smith,Thomas F.,0,Miami,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,smith-cha,P10591,Smith,Jean,0,Chanute,,,,2,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,smith.t-mia,P10654,Smith,Thomas F.,0,Miami,,,,2,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,smith-cha,P10591,Smith,Jean,0,Chanute,,,,2,p
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,smith.t-mia,P10654,Smith,Thomas F.,0,Miami,,,,2,p
+minoraverages/emilbb,1949,Kansas-Oklahoma-Missouri League,,M94748,Smith,Olan,,Pittsburg,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,sommers,B01630,Sommers,Judd,0,Miami,,,14,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,sommers,F21544,Sommers,,0,Miami,,,,,p14
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,sommers,P10569,Sommers,,0,Miami,,,,14,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,sommers,P10569,Sommers,,0,Miami,,,,14,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,speake,B00651,Speake,Robert,0,Carthage,,,93,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,speake,F20144,Speake,,0,Carthage,,,,,1b95
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,speck,B01402,Speck,Keith,0,Independence,,,31,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,speck,F21854,Speck,,0,Independence,,,,,p29
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,speck,P10357,Speck,,0,Independence,,,,29,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,speck,P10357,Speck,,0,Independence,,,,29,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,stackpole,B00806,Stackpole,Cecil,0,Pittsburg,,,,,
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,stadvec,B00434,Stadveo,Robert,0,Iola,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stanek,B01649,Stanek,Joseph,0,Ponca City,,,13,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stanek,F21531,Stanek,,0,Ponca City,,,,,p13
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,stanek,P10253,Stanek,Joseph,0,Ponca City,,,,13,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,stadvec,P10478,Stavac,Robert,0,Iola,,,,3,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,stanek,P10253,Stanek,Joseph,0,Ponca City,,,,13,p
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,stadvec,P10478,Stavac,Robert,0,Iola,,,,3,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,stemmo,B00403,Stemmo,Lynne,0,Independence,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stephens-car,B01682,Stephens,Frederick,0,Carthage,,,14,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stephens-mia,B01873,Stephens,Edward,0,Miami,,,17,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stephens-car,F20560,Stephens,,0,Carthage,,,,,ss11
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stephens-mia,F21920,Stephens,,0,Miami,,,,,p16
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stephens-mia,P10478,Stephens,,0,Miami,,,,16,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stephens-mia,P10478,Stephens,,0,Miami,,,,16,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stevens,B01007,Stevens,James,0,Pittsburg,,,58,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stevens,F20518,Stevens,,0,Pittsburg,,,,,3b27
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stevens,F21264,Stevens,,0,Pittsburg,,,,,of38
@@ -555,69 +569,69 @@ minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stewart.a,F21865,Stew
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stewart.a,F21865,Stewart,,2,Chanute,,,,,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stewart.a,F21865,Stewart,,T,,,,,,p23
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stewart.l,F21887,Stewart,,0,Pittsburg,,,,,p32
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stewart.l,P10215,Stewart,L.,0,Pittsburg,,,,32,
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stewart.a,P10312,Stewart,A.,1,Bartlesville,,,,11,
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stewart.a,P10312,Stewart,A.,2,Chanute,,,,2,
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stewart.a,P10312,Stewart,A.,T,,,,,23,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stewart.l,P10215,Stewart,L.,0,Pittsburg,,,,32,p
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stewart.a,P10312,Stewart,A.,1,Bartlesville,,,,11,p
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stewart.a,P10312,Stewart,A.,2,Chanute,,,,2,p
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stewart.a,P10312,Stewart,A.,T,,,,,23,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stockton,B01345,Stockton,Raymond,0,Miami,,,40,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stockton,F21590,Stockton,,0,Miami,,,,,p35
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stockton,P10464,Stockton,,0,Miami,,,,35,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,stockton,P10464,Stockton,,0,Miami,,,,35,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,stoops,B00130,Stoops,William,0,Bartlesville,,,,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,swensson,B01625,Swensson,Conrad,0,Ponca City,,,21,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,swensson,F21936,Swensson,,0,Ponca City,,,,,p21
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,swensson,P10019,Swensson,,0,Ponca City,,,,21,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,swensson,P10019,Swensson,,0,Ponca City,,,,21,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,tarascio,B00920,Tarascio,Gaetano,0,Chanute,,,119,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,tarascio,F20265,Tarascio,,0,Chanute,,,,,2b119
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,theis,B01086,Theis,Vernon,0,Chanute,,,56,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,theis,F20713,Thies,,0,Chanute,,,,,of24
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,theis,F22012,Thies,,0,Chanute,,,,,p30
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,theis,P10070,Thies,,0,Chanute,,,,30,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,theis,P10070,Thies,,0,Chanute,,,,30,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,thomas,B00241,Thomas,Harrison,0,Carthage,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,thomas,P10407,Thomas,Harrison,0,Carthage,,,,4,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,thomas,P10407,Thomas,Harrison,0,Carthage,,,,4,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,thompson,B00806,Thompson,Adam,0,Miami,,,81,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,thompson,F20886,Thompson,,0,Miami,,,,,of76
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,tkac,B00865,Tkac,Andrew,0,Bartlesville,,,28,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,tkac,F21241,Tkac,,0,Bartlesville,,,,,of28
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,tond,B00149,Tond,Louis,0,Bartlesville,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,tond,P10062,Tond,Louis,0,Bartlesville,,,,5,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,tond,P10062,Tond,Louis,0,Bartlesville,,,,5,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,tretter,B00948,Tretter,Richard,0,Ponca City,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,tretter,P10455,Tretter,Richard,0,Ponca City,,,,3,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,tretter,P10455,Tretter,Richard,0,Ponca City,,,,3,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,tripod,B01444,Tripod,Jerry,0,Chanute,,,14,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,tripod,F21469,Tripod,,0,Chanute,,,,,c12
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,tye,B00101,Tye,Bernard,0,Chanute,,,46,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,tye,F21021,Tye,,0,Chanute,,,,,of42
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,upton,B00566,Upton,William,0,Iola,,,32,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,upton,F21695,Upton,,0,Iola,,,,,p29
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,upton,P10145,Upton,,0,Iola,,,,29,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,upton,P10145,Upton,,0,Iola,,,,29,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,urban,B00343,Urban,Francis,0,Chanute,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,urban,P10569,Urban,Francis,0,Chanute,,,,2,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,urban,P10569,Urban,Francis,0,Chanute,,,,2,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,verbanic,B00957,Verbanic,Joseph,0,Miami,,,75,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,verbanic,F20298,Verbanic,,0,Miami,,,,,2b74
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,walden,B00667,Walden,Glenn,0,Carthage,,,19,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,walden,F21771,Walden,,0,Carthage,,,,,p18
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,walden,P10137,Walden,,0,Carthage,,,,18,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,walden,P10137,Walden,,0,Carthage,,,,18,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,waltman,B01227,Waltman,John,0,Pittsburg,,,38,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,waltman,F21651,Waltman,,0,Pittsburg,,,,,p32
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,waltman,P10062,Waltman,,0,Pittsburg,,,,32,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,waltman,P10062,Waltman,,0,Pittsburg,,,,32,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,ware,B00553,Ware,Ralph,0,Chanute,,,43,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,ware,F20924,Ware,,0,Chanute,,,,,of41
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,waska,B00739,Waska,Darrell,0,Independence,,,13,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,waska,F20547,Waska,,0,Independence,,,,,ss13
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,watson,B01857,Watson,Charles,0,Pittsburg,,,19,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,watson,F21999,Watson,,0,Pittsburg,,,,,p19
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,watson,P10575,Watson,,0,Pittsburg,,,,19,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,watson,P10575,Watson,,0,Pittsburg,,,,19,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,waugh,B01489,Waugh,James,0,Pittsburg,,,29,,
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,waugh,P10336,Waugh,,0,Pittsburg,,,,21,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,waugh,P10336,Waugh,,0,Pittsburg,,,,21,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,weber,B00319,Weber,Charles,0,Independence,,,106,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,weber,F20279,Weber,,0,Independence,,,,,2b56
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,weber,F20855,Weber,,0,Independence,,,,,of49
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,wehunt,B00416,Wehunt,Rex,0,Independence,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,wehunt,P10312,Wehunt,Rex,0,Independence,,,,6,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,wehunt,P10312,Wehunt,Rex,0,Independence,,,,6,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,weinheimer,B00614,Weinheimer,Robert,0,Miami,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,weinheimer,P10056,Weinheimer,Robert,0,Miami,,,,1,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,weinheimer,P10056,Weinheimer,Robert,0,Miami,,,,1,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,weisler,B01197,Weisler,Robert,0,Independence,,,28,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,weisler,F22036,Weisler,,0,Independence,,,,,p26
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,weisler,P10385,Weisler,,0,Independence,,,,26,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,weisler,P10385,Weisler,,0,Independence,,,,26,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,weisner,B00695,Weisner,Leonard,0,Independence,,,29,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,weisner,F21045,Weisner,,0,Independence,,,,,of29
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,werling,B00255,Werling,Ralph,0,Carthage,,,,,
@@ -626,30 +640,30 @@ minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,whalen,F20449,Whalen,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,whalen,F20685,Whalen,,0,Iola,,,,,ss24
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,wheeler,B01848,Wheeler,Robert,0,Bartlesville,,,29,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,wheeler,F22048,Wheeler,,0,Bartlesville,,,,,p28
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,wheeler,P10290,Wheeler,,0,Bartlesville,,,,28,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,wheeler,P10290,Wheeler,,0,Bartlesville,,,,28,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,whitaker,B00609,Whitaker,Andrew,0,Independence,,,101,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,whitaker,F21442,Whitaker,,0,Independence,,,,,c95
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,white,B00623,White,Robert,0,Miami,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,white,P10019,White,Robert,0,Miami,,,,7,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,white,P10019,White,Robert,0,Miami,,,,7,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,wilfong,B00811,Wilfong,Harold,0,Pittsburg,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,wilfong,P10575,Wilfong,Harold,0,Pittsburg,,,,7,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,wilfong,P10575,Wilfong,Harold,0,Pittsburg,,,,7,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,williams,B00957,Williams,David,0,Ponca City,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,williams,P10168,Williams,David,0,Ponca City,,,,8,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,williams,P10168,Williams,David,0,Ponca City,,,,8,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,witwicki,B00854,Witwicki,Michael,0,Ponca City,,,23,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,witwicki,F20807,Witwicki,,0,Ponca City,,,,,of20
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,wolfe,B00037,Wolfe,Edward,0,Bartlesville,,,16,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,wolfe,F21752,Wolfe,,0,Bartlesville,,,,,p16
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,wolfe,P10432,Wolfe,,0,Bartlesville,,,,16,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,wolfe,P10432,Wolfe,,0,Bartlesville,,,,16,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,wonka,B00076,Wonka,Frank,0,Miami,,,101,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,wonka,F20648,Wonka,,0,Miami,,,,,ss13
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,wonka,F20784,Wonka,,0,Miami,,,,,of88
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,wonka,P10751,Wonka,Frank,0,Miami,,,,1,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,wonka,P10751,Wonka,Frank,0,Miami,,,,1,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,wuethrich,B01203,Wuethrich,Merle,0,Carthage,,,42,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,wuethrich,F21672,Wuethrich,,0,Carthage,,,,,p26
-minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,wuethrich,P10043,Wuethrich,,0,Carthage,,,,26,
+minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,wuethrich,P10043,Wuethrich,,0,Carthage,,,,26,p
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,zawatzki,B00356,Zawatzki,John,0,Chanute,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,zawatzki,P10679,Zawatzki,John,0,Chanute,,,,1,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,zawatzki,P10679,Zawatzki,John,0,Chanute,,,,1,p
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,zender,B00577,Zender,Nicholas,0,Ponca City,,,72,,
 minoraverages/1950TSN,1949,Kansas-Oklahoma-Missouri League,zender,F20841,Zender,,0,Ponca City,,,,,of68
 minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,zugay,B00158,Zugay,Joseph,0,Bartlesville,,,,,
-minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,zugay,P10767,Zugay,Joseph,0,Bartlesville,,,,1,
+minoraverages/Hamilton,1949,Kansas-Oklahoma-Missouri League,zugay,P10767,Zugay,Joseph,0,Bartlesville,,,,1,p

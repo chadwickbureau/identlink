@@ -1,20 +1,20 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
 minoraverages/Hamilton,1949,North Atlantic League,albertson,B00718,Albertson,Frank,0,Mahanoy City,,,3,,
 minoraverages/1950TSN,1949,North Atlantic League,allabaugh,F21865,Allabaugh,,0,Stroudsburg,,,,,p21
-minoraverages/1950TSN,1949,North Atlantic League,allabaugh,P10184,Allabaugh,,0,Stroudsburg,,,,21,
+minoraverages/1950TSN,1949,North Atlantic League,allabaugh,P10184,Allabaugh,,0,Stroudsburg,,,,21,p
 minoraverages/Hamilton,1949,North Atlantic League,allabaugh,B01197,Allabaugh,Walter,0,Stroudsburg,,,21,,
 minoraverages/1950TSN,1949,North Atlantic League,allen,B00013,Allen,Ralph,0,Nazareth,,,29,,
 minoraverages/1950TSN,1949,North Atlantic League,allen,F21747,Allen,,0,Nazareth,,,,,p25
-minoraverages/1950TSN,1949,North Atlantic League,allen,P10441,Allen,,0,Nazareth,,,,25,
+minoraverages/1950TSN,1949,North Atlantic League,allen,P10441,Allen,,0,Nazareth,,,,25,p
 minoraverages/1950TSN,1949,North Atlantic League,ambrose.j-mc,B00021,Ambrose,John,0,Mahanoy City,,,32,,
 minoraverages/1950TSN,1949,North Atlantic League,ambrose.p-bb,B00037,Ambrose,Philip,0,Bangor,,,133,,
 minoraverages/1950TSN,1949,North Atlantic League,ambrose.t-mc,B00045,Ambrose,Thomas,0,Mahanoy City,,,135,,
 minoraverages/1950TSN,1949,North Atlantic League,ambrose.t-mc,F20254,Ambrose,T.,0,Mahanoy City,,,,,2b135
 minoraverages/1950TSN,1949,North Atlantic League,ambrose.p-bb,F20583,Ambrose,P.,0,Bangor,,,,,ss133
 minoraverages/1950TSN,1949,North Atlantic League,ambrose.j-mc,F21469,Ambrose,J.,0,Mahanoy City,,,,,p24
-minoraverages/1950TSN,1949,North Atlantic League,ambrose.j-mc,P10159,Ambrose,J.,0,Mahanoy City,,,,24,
+minoraverages/1950TSN,1949,North Atlantic League,ambrose.j-mc,P10159,Ambrose,J.,0,Mahanoy City,,,,24,p
 minoraverages/Hamilton,1949,North Atlantic League,ambrose.j-bb,B00013,Ambrose,Joseph,0,Bangor,,,3,,
-minoraverages/Hamilton,1949,North Atlantic League,ambrose.j-bb,P10019,Ambrose,T.,0,Bangor,,,,1,
+minoraverages/Hamilton,1949,North Atlantic League,ambrose.j-bb,P10019,Ambrose,T.,0,Bangor,,,,1,p
 minoraverages/1950TSN,1949,North Atlantic League,andrews-car,B00059,Andrews,George,0,Carbondale,,,138,,
 minoraverages/1950TSN,1949,North Atlantic League,andrews-naz,B00068,Andrews,John,0,Nazareth,,,134,,
 minoraverages/1950TSN,1949,North Atlantic League,andrews-car,F20449,Andrews,,0,Carbondale,,,,,3b79
@@ -23,17 +23,17 @@ minoraverages/1950TSN,1949,North Atlantic League,andrews-naz,F20810,Andrews,,0,N
 minoraverages/1950TSN,1949,North Atlantic League,baker-naz,B00076,Baker,Clarence,0,Nazareth,,,80,,
 minoraverages/1950TSN,1949,North Atlantic League,baker-haz,B00084,Baker,Paul,0,Hazleton,,,15,,
 minoraverages/1950TSN,1949,North Atlantic League,baker-naz,F20636,Baker,,0,Nazareth,,,,,ss79
-minoraverages/1950TSN,1949,North Atlantic League,baker-haz,P10478,Baker,,0,Hazleton,,,,7,
+minoraverages/1950TSN,1949,North Atlantic League,baker-haz,P10478,Baker,,0,Hazleton,,,,7,p
 minoraverages/Hamilton,1949,North Atlantic League,banks,B00021,Banks,George,0,Bangor,,,1,,
-minoraverages/Hamilton,1949,North Atlantic League,banks,P10024,Banks,,0,Bangor,,,,1,
+minoraverages/Hamilton,1949,North Atlantic League,banks,P10024,Banks,,0,Bangor,,,,1,p
 minoraverages/1950TSN,1949,North Atlantic League,barr,B00101,Barr,Edward,0,Stroudsburg,,,29,,
 minoraverages/1950TSN,1949,North Atlantic League,barr,F20287,Barr,,0,Stroudsburg,,,,,2b27
 minoraverages/1950TSN,1949,North Atlantic League,baselici,B00117,Baselici,Alphonse,0,Lebanon,,,138,,
 minoraverages/1950TSN,1949,North Atlantic League,baselici,F20829,Baselici,,0,Lebanon,,,,,of136
 minoraverages/Hamilton,1949,North Atlantic League,becker,B00566,Becker,William,0,Lebanon,,,4,,
-minoraverages/Hamilton,1949,North Atlantic League,becker,P10035,Becker,,0,Lebanon,,,,4,
+minoraverages/Hamilton,1949,North Atlantic League,becker,P10035,Becker,,0,Lebanon,,,,4,p
 minoraverages/1950TSN,1949,North Atlantic League,benson,F21589,Benson,,0,Lebanon,,,,,p16
-minoraverages/1950TSN,1949,North Atlantic League,benson,P10289,Benson,,0,Lebanon,,,,16,
+minoraverages/1950TSN,1949,North Atlantic League,benson,P10289,Benson,,0,Lebanon,,,,16,p
 minoraverages/Hamilton,1949,North Atlantic League,benson,B00577,Benson,Paul,0,Lebanon,,,16,,
 minoraverages/1950TSN,1949,North Atlantic League,bernhart,B00092,Bernhart,Bruce,1,Carbondale,,,,,
 minoraverages/1950TSN,1949,North Atlantic League,bernhart,B00092,Bernhart,Bruce,2,Bangor,,,,,
@@ -41,28 +41,28 @@ minoraverages/1950TSN,1949,North Atlantic League,bernhart,B00092,Bernhart,Bruce,
 minoraverages/1950TSN,1949,North Atlantic League,bernhart,F21667,Bernhart,,1,Carbondale,,,,,p
 minoraverages/1950TSN,1949,North Atlantic League,bernhart,F21667,Bernhart,,2,Bangor,,,,,p
 minoraverages/1950TSN,1949,North Atlantic League,bernhart,F21667,Bernhart,,T,,,,,,p25
-minoraverages/1950TSN,1949,North Atlantic League,bernhart,P10550,Bernhart,,1,Carbondale,,,,,
-minoraverages/1950TSN,1949,North Atlantic League,bernhart,P10550,Bernhart,,2,Bangor,,,,,
-minoraverages/1950TSN,1949,North Atlantic League,bernhart,P10550,Bernhart,,T,,,,,25,
+minoraverages/1950TSN,1949,North Atlantic League,bernhart,P10550,Bernhart,,1,Carbondale,,,,,p
+minoraverages/1950TSN,1949,North Atlantic League,bernhart,P10550,Bernhart,,2,Bangor,,,,,p
+minoraverages/1950TSN,1949,North Atlantic League,bernhart,P10550,Bernhart,,T,,,,,25,p
 minoraverages/1950TSN,1949,North Atlantic League,billett,B00125,Billett,Paul,0,Lebanon,,,22,,
 minoraverages/1950TSN,1949,North Atlantic League,billett,F21973,Billett,,0,Lebanon,,,,,p22
-minoraverages/1950TSN,1949,North Atlantic League,billett,P10056,Billett,,0,Lebanon,,,,22,
+minoraverages/1950TSN,1949,North Atlantic League,billett,P10056,Billett,,0,Lebanon,,,,22,p
 minoraverages/Hamilton,1949,North Atlantic League,bio,B00370,Bio,Frank,0,Hazleton,,,7,,
 minoraverages/1950TSN,1949,North Atlantic League,bittner,B00130,Bittner,Donald,0,Peekskill,,,61,,
 minoraverages/1950TSN,1949,North Atlantic League,bittner,F21084,Bittner,,0,Peekskill,,,,,of32
 minoraverages/1950TSN,1949,North Atlantic League,bittner,F21718,Bittner,,0,Peekskill,,,,,p26
-minoraverages/1950TSN,1949,North Atlantic League,bittner,P10464,Bittner,,0,Peekskill,,,,26,
+minoraverages/1950TSN,1949,North Atlantic League,bittner,P10464,Bittner,,0,Peekskill,,,,26,p
 minoraverages/1950TSN,1949,North Atlantic League,bjornberg,B00149,Bjornberg,Philip,0,Hazleton,,,55,,
 minoraverages/1950TSN,1949,North Atlantic League,bjornberg,F21174,Bjornberg,,0,Hazleton,,,,,of53
-minoraverages/Hamilton,1949,North Atlantic League,bjornberg,P10043,Bjornberg,,0,Hazleton,,,,1,
+minoraverages/Hamilton,1949,North Atlantic League,bjornberg,P10043,Bjornberg,,0,Hazleton,,,,1,p
 minoraverages/Hamilton,1949,North Atlantic League,bobchak,B00381,Bobchak,John,0,Hazleton,,,5,,
 minoraverages/1950TSN,1949,North Atlantic League,boyer,B00158,Boyer,Kent,0,Lebanon,,,16,,
 minoraverages/1950TSN,1949,North Atlantic League,boyer,F22127,Boyer,,0,Lebanon,,,,,p12
-minoraverages/1950TSN,1949,North Atlantic League,boyer,P10176,Boyer,,0,Lebanon,,,,12,
+minoraverages/1950TSN,1949,North Atlantic League,boyer,P10176,Boyer,,0,Lebanon,,,,12,p
 minoraverages/Hamilton,1949,North Atlantic League,bradley,B01203,Bradley,Eugene,0,Stroudsburg,,,1,,
 minoraverages/Hamilton,1949,North Atlantic League,braun.p,B00865,Braun,Phillip,0,Nazareth,,,5,,
 minoraverages/Hamilton,1949,North Atlantic League,braun.j,B00879,Braun,James,0,Nazareth,,,7,,
-minoraverages/Hamilton,1949,North Atlantic League,braun.p,P10056,Braun,,0,Nazareth,,,,5,
+minoraverages/Hamilton,1949,North Atlantic League,braun.p,P10056,Braun,,0,Nazareth,,,,5,p
 minoraverages/1950TSN,1949,North Atlantic League,breslin,B00163,Breslin,Joseph,0,Mahanoy City,,,129,,
 minoraverages/1950TSN,1949,North Atlantic League,breslin,F20855,Breslin,,0,Mahanoy City,,,,,of129
 minoraverages/1950TSN,1949,North Atlantic League,brielmaier,B00174,Brielmaier,Frank,0,Lebanon,,,133,,
@@ -71,8 +71,8 @@ minoraverages/1950TSN,1949,North Atlantic League,brock-haz,B00182,Brock,Leon,0,H
 minoraverages/1950TSN,1949,North Atlantic League,brock-haz,F21381,Brock,,0,Hazleton,,,,,c76
 minoraverages/Hamilton,1949,North Atlantic League,brock-mc,B00726,Brock,Henry,0,Mahanoy City,,,2,,
 minoraverages/Hamilton,1949,North Atlantic League,brong,B00037,Brong,Robert,0,Bangor,,,2,,
-minoraverages/Hamilton,1949,North Atlantic League,brong,P10062,Brong,,0,Bangor,,,,2,
-minoraverages/Hamilton,1949,North Atlantic League,brown,P10070,Brown,,0,Nazareth,,,,6,
+minoraverages/Hamilton,1949,North Atlantic League,brong,P10062,Brong,,0,Bangor,,,,2,p
+minoraverages/Hamilton,1949,North Atlantic League,brown,P10070,Brown,,0,Nazareth,,,,6,p
 minoraverages/1950TSN,1949,North Atlantic League,browne,B00196,Browne,Prentiss,0,Peekskill,,,133,,
 minoraverages/1950TSN,1949,North Atlantic League,browne,F20153,Browne,,0,Peekskill,,,,,1b37
 minoraverages/1950TSN,1949,North Atlantic League,browne,F21021,Browne,,0,Peekskill,,,,,of123
@@ -80,13 +80,13 @@ minoraverages/Hamilton,1949,North Atlantic League,brunn,B00045,Brunn,Herman,0,Ba
 minoraverages/Hamilton,1949,North Atlantic League,bruno-mc,B00739,Bruno,John,0,Mahanoy City,,,,,
 minoraverages/Hamilton,1949,North Atlantic League,bruno-pee,B01029,Bruno,Frank,0,Peekskill,,,1,,
 minoraverages/Hamilton,1949,North Atlantic League,bryant,B00887,Bryant,Richard,0,Nazareth,,,,,
-minoraverages/Hamilton,1949,North Atlantic League,bryant,P10081,Bryant,,0,Nazareth,,,,1,
+minoraverages/Hamilton,1949,North Atlantic League,bryant,P10081,Bryant,,0,Nazareth,,,,1,p
 minoraverages/1950TSN,1949,North Atlantic League,burnett,F22073,Burnett,,0,Hazleton,,,,,p11
-minoraverages/1950TSN,1949,North Atlantic League,burnett,P10019,Burnett,,0,Hazleton,,,,11,
+minoraverages/1950TSN,1949,North Atlantic League,burnett,P10019,Burnett,,0,Hazleton,,,,11,p
 minoraverages/Hamilton,1949,North Atlantic League,burnett,B00397,Burnett,Eugene,0,Hazleton,,,11,,
 minoraverages/1950TSN,1949,North Atlantic League,burt,B00207,Burt,Roland,0,Mahanoy City,,,30,,
 minoraverages/1950TSN,1949,North Atlantic League,burt,F21695,Burt,,0,Mahanoy City,,,,,p30
-minoraverages/1950TSN,1949,North Atlantic League,burt,P10348,Burt,,0,Mahanoy City,,,,30,
+minoraverages/1950TSN,1949,North Atlantic League,burt,P10348,Burt,,0,Mahanoy City,,,,30,p
 minoraverages/1950TSN,1949,North Atlantic League,bush,B00210,Bush,Lawrence,0,Mahanoy City,,,86,,
 minoraverages/1950TSN,1949,North Atlantic League,bush,F21045,Bush,,0,Mahanoy City,,,,,of20
 minoraverages/1950TSN,1949,North Atlantic League,bush,F21370,Bush,,0,Mahanoy City,,,,,c56
@@ -98,12 +98,13 @@ minoraverages/1950TSN,1949,North Atlantic League,caravello,B00241,Caravello,Aldo
 minoraverages/1950TSN,1949,North Atlantic League,caravello,F20539,Caravello,,0,Carbondale,,,,,ss64
 minoraverages/1950TSN,1949,North Atlantic League,cardoni,B00255,Cardoni,Benjamin,0,Hazleton,,,14,,
 minoraverages/1950TSN,1949,North Atlantic League,cardoni,M90094,Cardoni,Armond,,Hazleton,19490705,,,,
-minoraverages/Hamilton,1949,North Atlantic League,cardoni,P10097,Cardoni,,0,Hazleton,,,,4,
+minoraverages/Hamilton,1949,North Atlantic League,cardoni,P10097,Cardoni,,0,Hazleton,,,,4,p
+minoraverages/emilbb,1949,North Atlantic League,,M95303,Cardoni,Armond,,Hazleton,,,,,
 minoraverages/1950TSN,1949,North Atlantic League,casey-car,B00264,Casey,Thomas,0,Carbondale,,,34,,
 minoraverages/1950TSN,1949,North Atlantic League,casey-car,F21434,Casey,,0,Carbondale,,,,,c20
 minoraverages/Hamilton,1949,North Atlantic League,casey-pee,B01032,Casey,John,0,Peekskill,,,4,,
 minoraverages/1950TSN,1949,North Atlantic League,catudai,F22020,Catudal,,0,Bangor,,,,,p21
-minoraverages/1950TSN,1949,North Atlantic League,catudai,P10640,Catudal,,0,Bangor,,,,21,
+minoraverages/1950TSN,1949,North Atlantic League,catudai,P10640,Catudal,,0,Bangor,,,,21,p
 minoraverages/Hamilton,1949,North Atlantic League,catudai,B00059,Catudal,Steve,0,Bangor,,,24,,
 minoraverages/1950TSN,1949,North Atlantic League,chesnick,B00278,Chesnick,Francis,1,Mahanoy City,,,,,
 minoraverages/1950TSN,1949,North Atlantic League,chesnick,B00278,Chesnick,Francis,2,Nazareth,,,,,
@@ -111,32 +112,34 @@ minoraverages/1950TSN,1949,North Atlantic League,chesnick,B00278,Chesnick,Franci
 minoraverages/1950TSN,1949,North Atlantic League,chesnick,F21638,Chesnick,,1,Mahanoy City,,,,,p
 minoraverages/1950TSN,1949,North Atlantic League,chesnick,F21638,Chesnick,,2,Nazareth,,,,,p
 minoraverages/1950TSN,1949,North Atlantic League,chesnick,F21638,Chesnick,,T,,,,,,p19
-minoraverages/1950TSN,1949,North Atlantic League,chesnick,P10429,Chesnick,,1,Mahanoy City,,,,,
-minoraverages/1950TSN,1949,North Atlantic League,chesnick,P10429,Chesnick,,2,Nazareth,,,,,
-minoraverages/1950TSN,1949,North Atlantic League,chesnick,P10429,Chesnick,,T,,,,,19,
+minoraverages/1950TSN,1949,North Atlantic League,chesnick,P10429,Chesnick,,1,Mahanoy City,,,,,p
+minoraverages/1950TSN,1949,North Atlantic League,chesnick,P10429,Chesnick,,2,Nazareth,,,,,p
+minoraverages/1950TSN,1949,North Atlantic League,chesnick,P10429,Chesnick,,T,,,,,19,p
 minoraverages/Hamilton,1949,North Atlantic League,cisco,B00747,Cisco,Randolph,0,Mahanoy City,,,2,,
 minoraverages/1950TSN,1949,North Atlantic League,clark,B00286,Clark,John,0,Lebanon,,,68,,
 minoraverages/1950TSN,1949,North Atlantic League,clark,F21343,Clark,,0,Lebanon,,,,,c50
 minoraverages/1950TSN,1949,North Atlantic League,coma,F21936,Coma,,0,Stroudsburg,,,,,p31
-minoraverages/1950TSN,1949,North Atlantic League,coma,P10168,Coma,,0,Stroudsburg,,,,31,
+minoraverages/1950TSN,1949,North Atlantic League,coma,P10168,Coma,,0,Stroudsburg,,,,31,p
 minoraverages/Hamilton,1949,North Atlantic League,coma,B01216,Coma,Michael,0,Stroudsburg,,,31,,
 minoraverages/1950TSN,1949,North Atlantic League,condrick,B00293,Condrick,George,0,Stroudsburg,,,31,,
 minoraverages/1950TSN,1949,North Atlantic League,condrick,F21957,Condrick,,0,Stroudsburg,,,,,p24
-minoraverages/1950TSN,1949,North Atlantic League,condrick,P10097,Condrick,,0,Stroudsburg,,,,24,
+minoraverages/1950TSN,1949,North Atlantic League,condrick,P10097,Condrick,,0,Stroudsburg,,,,24,p
 minoraverages/1950TSN,1949,North Atlantic League,connor,B00308,Connor,Neal,0,Lebanon,,,45,,
 minoraverages/1950TSN,1949,North Atlantic League,connor,F20240,Connor,,0,Lebanon,,,,,2b45
 minoraverages/1950TSN,1949,North Atlantic League,contini,B00319,Contini,Harold,0,Lebanon,,,131,,
 minoraverages/1950TSN,1949,North Atlantic League,contini,F20560,Contini,,0,Lebanon,,,,,ss124
 minoraverages/1950TSN,1949,North Atlantic League,contini,M90026,Contini,Harold,,Lebanon,,,,,
-minoraverages/Hamilton,1949,North Atlantic League,contini,P10100,Contini,,0,Lebanon,,,,8,
-minoraverages/1950TSN,1949,North Atlantic League,coperna,P10654,Coperna,,0,Bangor,,,,,
+minoraverages/Hamilton,1949,North Atlantic League,contini,P10100,Contini,,0,Lebanon,,,,8,p
+minoraverages/emilbb,1949,North Atlantic League,,M95233,Contini,Harold,,Lebanon,,,,,
+minoraverages/emilbb,1949,North Atlantic League,,M95240,Coons,Michael,,Mahanoy City,,,,,
+minoraverages/1950TSN,1949,North Atlantic League,coperna,P10654,Coperna,,0,Bangor,,,,,p
 minoraverages/Hamilton,1949,North Atlantic League,coperna,B00068,Coperna,William,0,Bangor,,,6,,
-minoraverages/Hamilton,1949,North Atlantic League,coperna,P10113,Coperna,,0,Bangor,,,,6,
+minoraverages/Hamilton,1949,North Atlantic League,coperna,P10113,Coperna,,0,Bangor,,,,6,p
 minoraverages/1950TSN,1949,North Atlantic League,creasney,F21948,Creaney,,0,Hazleton,,,,,p24
-minoraverages/1950TSN,1949,North Atlantic League,creasney,P10266,Creaney,,0,Hazleton,,,,24,
+minoraverages/1950TSN,1949,North Atlantic League,creasney,P10266,Creaney,,0,Hazleton,,,,24,p
 minoraverages/Hamilton,1949,North Atlantic League,creasney,B00403,Creaney,Jack,0,Hazleton,,,24,,
 minoraverages/Hamilton,1949,North Atlantic League,cromleigh,B01227,Cromleigh,Theodore,0,Stroudsburg,,,1,,
-minoraverages/Hamilton,1949,North Atlantic League,cromleigh,P10121,Cromleigh,,0,Stroudsburg,,,,1,
+minoraverages/Hamilton,1949,North Atlantic League,cromleigh,P10121,Cromleigh,,0,Stroudsburg,,,,1,p
 minoraverages/1950TSN,1949,North Atlantic League,daum,B00324,Daum,Daniel,0,Hazleton,,,74,,
 minoraverages/1950TSN,1949,North Atlantic League,daum,F20886,Daum,,0,Hazleton,,,,,of74
 minoraverages/Hamilton,1949,North Atlantic League,defeo,B01041,DeFeo,Robert,0,Peekskill,,,3,,
@@ -145,35 +148,36 @@ minoraverages/1950TSN,1949,North Atlantic League,dean,F21356,Dean,,0,Carbondale,
 minoraverages/1950TSN,1949,North Atlantic League,dellarocca,B00343,DellaRocca,Dominic,0,Stroudsburg,,,136,,
 minoraverages/1950TSN,1949,North Atlantic League,dellarocca,F20552,DellaRocca,,0,Stroudsburg,,,,,ss136
 minoraverages/Hamilton,1949,North Atlantic League,dennis,B00898,Dennis,Edward,0,Nazareth,,,9,,
-minoraverages/Hamilton,1949,North Atlantic League,dennis,P10137,Dennis,,0,Nazareth,,,,9,
+minoraverages/Hamilton,1949,North Atlantic League,dennis,P10137,Dennis,,0,Nazareth,,,,9,p
 minoraverages/1950TSN,1949,North Atlantic League,devlin,B00356,Devlin,Patrick,0,Bangor,,,28,,
 minoraverages/1950TSN,1949,North Atlantic League,devlin,F21488,Devlin,,0,Bangor,,,,,p24
-minoraverages/1950TSN,1949,North Atlantic League,devlin,P10410,Devlin,,0,Bangor,,,,24,
+minoraverages/1950TSN,1949,North Atlantic League,devlin,P10410,Devlin,,0,Bangor,,,,24,p
 minoraverages/Hamilton,1949,North Atlantic League,dimartini,B01055,DiMartini,Joseph,0,Peekskill,,,2,,
 minoraverages/1950TSN,1949,North Atlantic League,disalvo,B00362,DiSalvo,Joseph,0,Peekskill,,,48,,
 minoraverages/1950TSN,1949,North Atlantic League,disalvo,F21182,DiSalvo,,0,Peekskill,,,,,of46
 minoraverages/Hamilton,1949,North Atlantic League,divok,B00904,Divok,Edward,0,Nazareth,,,4,,
 minoraverages/1950TSN,1949,North Atlantic League,doll,F22012,Doll,,0,Nazareth,,,,,p19
-minoraverages/1950TSN,1949,North Atlantic League,doll,P10493,Doll,,0,Nazareth,,,,19,
+minoraverages/1950TSN,1949,North Atlantic League,doll,P10493,Doll,,0,Nazareth,,,,19,p
 minoraverages/Hamilton,1949,North Atlantic League,doll,B00912,Doll,Roger,0,Nazareth,,,19,,
 minoraverages/1950TSN,1949,North Atlantic League,dorsey,B00370,Dorsey,Walter,0,Hazleton,,,39,,
 minoraverages/1950TSN,1949,North Atlantic League,dorsey,F20908,Dorsey,,0,Hazleton,,,,,of39
 minoraverages/Hamilton,1949,North Atlantic League,duckett,B00416,Duckett,Mahlon,0,Hazleton,,,4,,
 minoraverages/1950TSN,1949,North Atlantic League,dunn,B00381,Dunn,J. C.,0,Lebanon,,,134,,
 minoraverages/1950TSN,1949,North Atlantic League,dunn,F20864,Dunn,,0,Lebanon,,,,,of127
-minoraverages/1950TSN,1949,North Atlantic League,durn,P10665,Durn,,0,Stroudsburg,,,,,
+minoraverages/1950TSN,1949,North Atlantic League,durn,P10665,Durn,,0,Stroudsburg,,,,,p
 minoraverages/Hamilton,1949,North Atlantic League,durn,B01234,Durn,Larue,0,Stroudsburg,,,7,,
-minoraverages/Hamilton,1949,North Atlantic League,durn,P10145,Durn,,0,Stroudsburg,,,,7,
+minoraverages/Hamilton,1949,North Atlantic League,durn,P10145,Durn,,0,Stroudsburg,,,,7,p
 minoraverages/1950TSN,1949,North Atlantic League,eraca,B00397,Eraca,Frank,0,Nazareth,,,49,,
 minoraverages/1950TSN,1949,North Atlantic League,eraca,F21293,Eraca,,0,Nazareth,,,,,c49
 minoraverages/Hamilton,1949,North Atlantic League,ernst,B01242,Ernst,George,0,Stroudsburg,,,1,,
 minoraverages/1950TSN,1949,North Atlantic League,errickson,F21760,Errickson,,0,Nazareth,,,,,p14
 minoraverages/1950TSN,1949,North Atlantic League,errickson,M90107,Errickson,Richard,,Nazareth,,,,,
-minoraverages/1950TSN,1949,North Atlantic League,errickson,P10070,Errickson,,0,Nazareth,,,,14,
+minoraverages/1950TSN,1949,North Atlantic League,errickson,P10070,Errickson,,0,Nazareth,,,,14,p
 minoraverages/Hamilton,1949,North Atlantic League,errickson,B00920,Errickson,Richard,0,Nazareth,,,14,,
+minoraverages/emilbb,1949,North Atlantic League,,M95316,Errickson,Richard,,Nazareth,,,,,
 minoraverages/1950TSN,1949,North Atlantic League,faverio,B00403,Faverio,Louis,0,Hazleton,,,10,,
-minoraverages/1950TSN,1949,North Atlantic League,faverio,P10709,Faverio,,0,Hazleton,,,,,
-minoraverages/Hamilton,1949,North Atlantic League,faverio,P10159,Faverio,,0,Hazleton,,,,8,
+minoraverages/1950TSN,1949,North Atlantic League,faverio,P10709,Faverio,,0,Hazleton,,,,,p
+minoraverages/Hamilton,1949,North Atlantic League,faverio,P10159,Faverio,,0,Hazleton,,,,8,p
 minoraverages/Hamilton,1949,North Atlantic League,ferguson,B01064,Ferguson,Robert,0,Peekskill,,,7,,
 minoraverages/1950TSN,1949,North Atlantic League,finn,B00416,Finn,James,0,Stroudsburg,,,127,,
 minoraverages/1950TSN,1949,North Atlantic League,finn,F20768,Finn,,0,Stroudsburg,,,,,of126
@@ -183,18 +187,19 @@ minoraverages/1950TSN,1949,North Atlantic League,funk,B00434,Funk,Fred,0,Nazaret
 minoraverages/1950TSN,1949,North Atlantic League,galioto,B00442,Galioto,Joseph,0,Peekskill,,,65,,
 minoraverages/1950TSN,1949,North Atlantic League,galioto,F20841,Galioto,,0,Peekskill,,,,,of50
 minoraverages/1950TSN,1949,North Atlantic League,galioto,F21531,Galioto,,0,Peekskill,,,,,p14
-minoraverages/1950TSN,1949,North Atlantic League,galioto,P10357,Galioto,,0,Peekskill,,,,13,
+minoraverages/1950TSN,1949,North Atlantic League,galioto,P10357,Galioto,,0,Peekskill,,,,13,p
 minoraverages/1950TSN,1949,North Atlantic League,gallagher,F21920,Gallagher,,0,Bangor,,,,,p35
-minoraverages/1950TSN,1949,North Atlantic League,gallagher,P10542,Gallagher,,0,Bangor,,,,35,
+minoraverages/1950TSN,1949,North Atlantic League,gallagher,P10542,Gallagher,,0,Bangor,,,,35,p
 minoraverages/Hamilton,1949,North Atlantic League,gallagher,B00076,Gallagher,Thomas,0,Bangor,,,38,,
 minoraverages/1950TSN,1949,North Atlantic League,gardella,B00450,Gardella,Alfred,0,Peekskill,,,139,,
 minoraverages/1950TSN,1949,North Atlantic League,gardella,F20067,Gardella,,0,Peekskill,,,,,1b131
 minoraverages/1950TSN,1949,North Atlantic League,gardella,F21491,Gardella,,0,Peekskill,,,,,p44
 minoraverages/1950TSN,1949,North Atlantic League,gardella,M90047,Gardella,Alfred,,Peekskill,,,,,
-minoraverages/1950TSN,1949,North Atlantic League,gardella,P10588,Gardella,,0,Peekskill,,,,44,
+minoraverages/1950TSN,1949,North Atlantic League,gardella,P10588,Gardella,,0,Peekskill,,,,44,p
+minoraverages/emilbb,1949,North Atlantic League,,M95254,Gardella,Al,,Peekskill,,,,,
 minoraverages/1950TSN,1949,North Atlantic League,gatski,B00469,Gatski,Carl,0,Mahanoy City,,,132,,
 minoraverages/1950TSN,1949,North Atlantic League,gatski,F20401,Gatski,,0,Mahanoy City,,,,,3b132
-minoraverages/Hamilton,1949,North Atlantic League,gatski,P10168,Gatski,,0,Mahanoy City,,,,1,
+minoraverages/Hamilton,1949,North Atlantic League,gatski,P10168,Gatski,,0,Mahanoy City,,,,1,p
 minoraverages/1950TSN,1949,North Atlantic League,george,B00475,George,Nathan,0,Mahanoy City,,,34,,
 minoraverages/1950TSN,1949,North Atlantic League,george,F20685,George,,0,Mahanoy City,,,,,ss31
 minoraverages/Hamilton,1949,North Atlantic League,gold,B00590,Gold,David,0,Lebanon,,,4,,
@@ -205,38 +210,39 @@ minoraverages/1950TSN,1949,North Atlantic League,grassetti,F20745,Grassetti,,0,H
 minoraverages/1950TSN,1949,North Atlantic League,greenamoyer,B00491,Greenamoyer,William,0,Nazareth,,,42,,
 minoraverages/1950TSN,1949,North Atlantic League,greenamoyer,F21101,Greenamoyer,,0,Nazareth,,,,,of15
 minoraverages/1950TSN,1949,North Atlantic League,greenamoyer,F21672,Greenamoyer,,0,Nazareth,,,,,p15
-minoraverages/1950TSN,1949,North Atlantic League,greenamoyer,P10202,Greenamoyer,,0,Nazareth,,,,15,
+minoraverages/1950TSN,1949,North Atlantic League,greenamoyer,P10202,Greenamoyer,,0,Nazareth,,,,15,p
 minoraverages/1950TSN,1949,North Atlantic League,guidon,B00515,Guidon,John,0,Peekskill,,,122,,
 minoraverages/1950TSN,1949,North Atlantic League,guidon,F20547,Guidon,,0,Peekskill,,,,,ss122
-minoraverages/Hamilton,1949,North Atlantic League,guidon,P10176,Guidon,,0,Peekskill,,,,1,
+minoraverages/Hamilton,1949,North Atlantic League,guidon,P10176,Guidon,,0,Peekskill,,,,1,p
 minoraverages/1950TSN,1949,North Atlantic League,hagan,B00528,Hagan,William,0,Nazareth,,,103,,
 minoraverages/1950TSN,1949,North Atlantic League,hagan,F20233,Hagan,,0,Nazareth,,,,,2b25
 minoraverages/1950TSN,1949,North Atlantic League,hagan,F21362,Hagan,,0,Nazareth,,,,,c69
 minoraverages/Hamilton,1949,North Atlantic League,haggerty,B00293,Haggerty,James,1,Carbondale,,,,,
 minoraverages/Hamilton,1949,North Atlantic League,haggerty,B00293,Haggerty,James,2,Bangor,,,,,
 minoraverages/Hamilton,1949,North Atlantic League,haggerty,B00293,Haggerty,James,T,,,,6,,
-minoraverages/Hamilton,1949,North Atlantic League,haggerty,P10184,Haggerty,,1,Carbondale,,,,,
-minoraverages/Hamilton,1949,North Atlantic League,haggerty,P10184,Haggerty,,2,Bangor,,,,,
-minoraverages/Hamilton,1949,North Atlantic League,haggerty,P10184,Haggerty,,T,,,,,5,
+minoraverages/Hamilton,1949,North Atlantic League,haggerty,P10184,Haggerty,,1,Carbondale,,,,,p
+minoraverages/Hamilton,1949,North Atlantic League,haggerty,P10184,Haggerty,,2,Bangor,,,,,p
+minoraverages/Hamilton,1949,North Atlantic League,haggerty,P10184,Haggerty,,T,,,,,5,p
 minoraverages/1950TSN,1949,North Atlantic League,hasler,B00531,Hasler,Richard,0,Stroudsburg,,,22,,
 minoraverages/1950TSN,1949,North Atlantic League,hasler,F20721,Hasler,,0,Stroudsburg,,,,,of11
 minoraverages/1950TSN,1949,North Atlantic League,hasler,F21232,Hasler,,0,Stroudsburg,,,,,c10
 minoraverages/1950TSN,1949,North Atlantic League,heath,M90110,Heath,Charles,,Nazareth,19490625,,,,
 minoraverages/Hamilton,1949,North Atlantic League,heath,B00936,Heath,Charles,0,Nazareth,,,3,,
+minoraverages/emilbb,1949,North Atlantic League,,M95327,Heath,Charles,,Nazareth,,,,,
 minoraverages/1950TSN,1949,North Atlantic League,heffelfinger,B00544,Heffelfinger,Clarence,0,Bangor,,,33,,
 minoraverages/1950TSN,1949,North Atlantic League,heffelfinger,F21840,Heffelfinger,,0,Bangor,,,,,p32
-minoraverages/1950TSN,1949,North Atlantic League,heffelfinger,P10432,Heffelfinger,,0,Bangor,,,,32,
+minoraverages/1950TSN,1949,North Atlantic League,heffelfinger,P10432,Heffelfinger,,0,Bangor,,,,32,p
 minoraverages/1950TSN,1949,North Atlantic League,heffner.p,B00553,Heffner,Paul,0,Nazareth,,,63,,
 minoraverages/1950TSN,1949,North Atlantic League,heffner.w,B00566,Heffner,William,0,Nazareth,,,27,,
 minoraverages/1950TSN,1949,North Atlantic League,heffner.p,F20190,Heffner,P.,0,Nazareth,,,,,2b16
 minoraverages/1950TSN,1949,North Atlantic League,heffner.w,F20265,Heffner,W.,0,Nazareth,,,,,2b27
 minoraverages/1950TSN,1949,North Atlantic League,heffner.p,F20648,Heffner,P.,0,Nazareth,,,,,ss44
-minoraverages/1950TSN,1949,North Atlantic League,held,P10714,Held,,0,Bangor,,,,,
+minoraverages/1950TSN,1949,North Atlantic League,held,P10714,Held,,0,Bangor,,,,,p
 minoraverages/Hamilton,1949,North Atlantic League,held,B00084,Held,Cletus,0,Bangor,,,1,,
-minoraverages/Hamilton,1949,North Atlantic League,held,P10192,Held,,0,Bangor,,,,1,
-minoraverages/1950TSN,1949,North Atlantic League,helmer,P10679,Helmer,,0,,,,,,
+minoraverages/Hamilton,1949,North Atlantic League,held,P10192,Held,,0,Bangor,,,,1,p
+minoraverages/1950TSN,1949,North Atlantic League,helmer,P10679,Helmer,,0,,,,,,p
 minoraverages/1950TSN,1949,North Atlantic League,higham,F21794,Higham,,0,Hazleton,,,,,p31
-minoraverages/1950TSN,1949,North Atlantic League,higham,P10081,Higham,,0,Hazleton,,,,31,
+minoraverages/1950TSN,1949,North Atlantic League,higham,P10081,Higham,,0,Hazleton,,,,31,p
 minoraverages/Hamilton,1949,North Atlantic League,higham,B00427,Higham,Charles,0,Hazleton,,,31,,
 minoraverages/1950TSN,1949,North Atlantic League,hille,B00577,Hille,Frank,0,Lebanon,,,41,,
 minoraverages/1950TSN,1949,North Atlantic League,hille,F20657,Hille,,0,Lebanon,,,,,ss25
@@ -244,39 +250,39 @@ minoraverages/1950TSN,1949,North Atlantic League,hockenberry,B00589,Hockenberry,
 minoraverages/1950TSN,1949,North Atlantic League,hockenberry,F21278,Hockenberry,,0,Peekskill,,,,,c31
 minoraverages/Hamilton,1949,North Atlantic League,hoilwell,B01078,Hoilweil,John,0,Peekskill,,,4,,
 minoraverages/Hamilton,1949,North Atlantic League,holt,B01086,Holt,William,0,Peekskill,,,3,,
-minoraverages/Hamilton,1949,North Atlantic League,holt,P10202,Holt,,0,Peekskill,,,,3,
+minoraverages/Hamilton,1949,North Atlantic League,holt,P10202,Holt,,0,Peekskill,,,,3,p
 minoraverages/1950TSN,1949,North Atlantic League,hoover,F21566,Hoover,,0,Nazareth,,,,,p10
-minoraverages/1950TSN,1949,North Atlantic League,hoover,P10723,Hoover,,0,Nazareth,,,,,
+minoraverages/1950TSN,1949,North Atlantic League,hoover,P10723,Hoover,,0,Nazareth,,,,,p
 minoraverages/Hamilton,1949,North Atlantic League,hoover,B00948,Hoover,John,0,Nazareth,,,11,,
-minoraverages/Hamilton,1949,North Atlantic League,hoover,P10215,Hoover,,0,Nazareth,,,,10,
+minoraverages/Hamilton,1949,North Atlantic League,hoover,P10215,Hoover,,0,Nazareth,,,,10,p
 minoraverages/1950TSN,1949,North Atlantic League,howells,B00590,Howells,Arthur,0,Stroudsburg,,,11,,
 minoraverages/1950TSN,1949,North Atlantic League,howells,F20369,Howells,,0,Stroudsburg,,,,,2b11
 minoraverages/1950TSN,1949,North Atlantic League,hricinak,F21887,Hricinak,,0,Carbondale,,,,,p22
-minoraverages/1950TSN,1949,North Atlantic League,hricinak,P10145,Hricinak,,0,Carbondale,,,,22,
+minoraverages/1950TSN,1949,North Atlantic League,hricinak,P10145,Hricinak,,0,Carbondale,,,,22,p
 minoraverages/Hamilton,1949,North Atlantic League,hricinak,B00308,Hricinak,John,0,Carbondale,,,22,,
 minoraverages/Hamilton,1949,North Atlantic League,hricko,B01093,Hricko,Stephen,0,Peekskill,,,8,,
 minoraverages/1950TSN,1949,North Atlantic League,hughes,B00609,Hughes,Russell,0,Carbondale,,,38,,
 minoraverages/1950TSN,1949,North Atlantic League,hughes,F20505,Hughes,,0,Carbondale,,,,,3b37
 minoraverages/Hamilton,1949,North Atlantic League,jamiola,B00434,Jamiola,John,0,Hazleton,,,3,,
-minoraverages/Hamilton,1949,North Atlantic League,jamiola,P10228,Jemiola,,0,Hazleton,,,,3,
+minoraverages/Hamilton,1949,North Atlantic League,jamiola,P10228,Jemiola,,0,Hazleton,,,,3,p
 minoraverages/Hamilton,1949,North Atlantic League,johnson,B00092,Johnson,Elwood,0,Bangor,,,8,,
 minoraverages/1950TSN,1949,North Atlantic League,jones-leb,B00614,Jones,Leroy,0,Lebanon,,,29,,
 minoraverages/1950TSN,1949,North Atlantic League,jones-leb,F21651,Jones,,0,Lebanon,,,,,p23
-minoraverages/1950TSN,1949,North Atlantic League,jones-leb,P10100,Jones,,0,Lebanon,,,,23,
+minoraverages/1950TSN,1949,North Atlantic League,jones-leb,P10100,Jones,,0,Lebanon,,,,23,p
 minoraverages/Hamilton,1949,North Atlantic League,jones-naz,B00957,Jones,Robert,0,Nazareth,,,5,,
-minoraverages/Hamilton,1949,North Atlantic League,jones-naz,P10231,Jones,,0,Nazareth,,,,5,
-minoraverages/1950TSN,1949,North Atlantic League,jordan,P10687,Jordan,,0,Lebanon,,,,,
+minoraverages/Hamilton,1949,North Atlantic League,jones-naz,P10231,Jones,,0,Nazareth,,,,5,p
+minoraverages/1950TSN,1949,North Atlantic League,jordan,P10687,Jordan,,0,Lebanon,,,,,p
 minoraverages/Hamilton,1949,North Atlantic League,jordan,B00609,Jordan,Edward,0,Lebanon,,,6,,
-minoraverages/Hamilton,1949,North Atlantic League,jordan,P10244,Jordan,,0,Lebanon,,,,6,
+minoraverages/Hamilton,1949,North Atlantic League,jordan,P10244,Jordan,,0,Lebanon,,,,6,p
 minoraverages/1950TSN,1949,North Atlantic League,kardash,B00623,Kardash,Joseph,0,Bangor,,,77,,
 minoraverages/1950TSN,1949,North Atlantic League,kardash,F20792,Kardash,,0,Bangor,,,,,of76
 minoraverages/1950TSN,1949,North Atlantic League,katulka,B00638,Katulka,Daniel,0,Carbondale,,,26,,
 minoraverages/1950TSN,1949,North Atlantic League,katulka,F21879,Katulka,,0,Carbondale,,,,,p22
-minoraverages/1950TSN,1949,North Atlantic League,katulka,P10244,Katulka,,0,Carbondale,,,,22,
+minoraverages/1950TSN,1949,North Atlantic League,katulka,P10244,Katulka,,0,Carbondale,,,,22,p
 minoraverages/1950TSN,1949,North Atlantic League,keating,F22057,Keating,,0,Peekskill,,,,,p10
-minoraverages/1950TSN,1949,North Atlantic League,keating,P10738,Keating,,0,Peekskill,,,,,
+minoraverages/1950TSN,1949,North Atlantic League,keating,P10738,Keating,,0,Peekskill,,,,,p
 minoraverages/Hamilton,1949,North Atlantic League,keating,B01108,Keating,Thomas,0,Peekskill,,,15,,
-minoraverages/Hamilton,1949,North Atlantic League,keating,P10253,Keating,,0,Peekskill,,,,10,
+minoraverages/Hamilton,1949,North Atlantic League,keating,P10253,Keating,,0,Peekskill,,,,10,p
 minoraverages/1950TSN,1949,North Atlantic League,kern,B00646,Kern,Walter,0,Mahanoy City,,,25,,
 minoraverages/1950TSN,1949,North Atlantic League,kern,F21000,Kern,,0,Mahanoy City,,,,,of25
 minoraverages/Hamilton,1949,North Atlantic League,ketchick,B00442,Ketchick,Jack,0,Hazleton,,,9,,
@@ -290,38 +296,39 @@ minoraverages/1950TSN,1949,North Atlantic League,koons,F20131,Koons,,0,Mahanoy C
 minoraverages/1950TSN,1949,North Atlantic League,koons,F20956,Koons,,0,Mahanoy City,,,,,of32
 minoraverages/1950TSN,1949,North Atlantic League,koons,F21726,Koons,,0,Mahanoy City,,,,,p24
 minoraverages/1950TSN,1949,North Atlantic League,koons,M90039,Koons,Michael,,Mahanoy City,,,,,
-minoraverages/1950TSN,1949,North Atlantic League,koons,P10113,Koons,,0,Mahanoy City,,,,24,
+minoraverages/1950TSN,1949,North Atlantic League,koons,P10113,Koons,,0,Mahanoy City,,,,24,p
 minoraverages/Hamilton,1949,North Atlantic League,kostic,B00450,Kostic,John,0,Hazleton,,,9,,
-minoraverages/Hamilton,1949,North Atlantic League,ketchick,P10266,Kotchick,,0,Hazleton,,,,8,
+minoraverages/Hamilton,1949,North Atlantic League,ketchick,P10266,Kotchick,,0,Hazleton,,,,8,p
 minoraverages/1950TSN,1949,North Atlantic League,kowaleski,F21833,Kowaleski,,0,Bangor,,,,,p13
-minoraverages/1950TSN,1949,North Atlantic League,kowaleski,P10534,Kowaleski,,0,Bangor,,,,13,
+minoraverages/1950TSN,1949,North Atlantic League,kowaleski,P10534,Kowaleski,,0,Bangor,,,,13,p
 minoraverages/Hamilton,1949,North Atlantic League,kowaleski,B00101,Kowaleski,Leonard,0,Bangor,,,13,,
 minoraverages/Hamilton,1949,North Atlantic League,kranberg,B01119,Kranberg,J,0,Peekskill,,,1,,
 minoraverages/Hamilton,1949,North Atlantic League,kropoewniski,B01250,Kropoewniski,Joseph,0,Stroudsburg,,,1,,
-minoraverages/1950TSN,1949,North Atlantic League,kryniskie,P10746,Kryniskie,,0,,,,,,
+minoraverages/1950TSN,1949,North Atlantic League,kryniskie,P10746,Kryniskie,,0,,,,,,p
 minoraverages/Hamilton,1949,North Atlantic League,kryniskie,B00752,Kryniskie,Stephen,0,Mahanoy City,,,2,,
-minoraverages/Hamilton,1949,North Atlantic League,kryniskie,P10277,Kryniskie,,0,Mahanoy City,,,,2,
+minoraverages/Hamilton,1949,North Atlantic League,kryniskie,P10277,Kryniskie,,0,Mahanoy City,,,,2,p
 minoraverages/Hamilton,1949,North Atlantic League,kull,B00319,Kull,Henry,0,Carbondale,,,8,,
 minoraverages/1950TSN,1949,North Atlantic League,kunec,B00680,Kunec,Peter,0,Stroudsburg,,,18,,
 minoraverages/1950TSN,1949,North Atlantic League,kunec,F20166,Kunec,,0,Stroudsburg,,,,,2b12
 minoraverages/1950TSN,1949,North Atlantic League,kushner,F21739,Kushner,,0,Hazleton,,,,,p19
-minoraverages/1950TSN,1949,North Atlantic League,kushner,P10373,Kushner,,0,Hazleton,,,,19,
+minoraverages/1950TSN,1949,North Atlantic League,kushner,P10373,Kushner,,0,Hazleton,,,,19,p
 minoraverages/Hamilton,1949,North Atlantic League,kushner,B00469,Kushner,Michael,0,Hazleton,,,19,,
 minoraverages/1950TSN,1949,North Atlantic League,lange,F21783,Lange,,0,Mahanoy City,,,,,p30
-minoraverages/1950TSN,1949,North Atlantic League,lange,P10320,Lange,,0,Mahanoy City,,,,30,
+minoraverages/1950TSN,1949,North Atlantic League,lange,P10320,Lange,,0,Mahanoy City,,,,30,p
 minoraverages/Hamilton,1949,North Atlantic League,lange,B00760,Lange,Herman,0,Mahanoy City,,,,,
 minoraverages/1950TSN,1949,North Atlantic League,langworthy,B00695,Langworthy,Joseph,0,Hazleton,,,28,,
 minoraverages/1950TSN,1949,North Atlantic League,langworthy,F21397,Langworthy,,0,Hazleton,,,,,c24
 minoraverages/1950TSN,1949,North Atlantic League,langworthy,M90071,Langworthy,Joseph,,Hazleton,,,,,
+minoraverages/emilbb,1949,North Atlantic League,,M95287,Langworthy,Joe,,Hazleton,,,,,
 minoraverages/1950TSN,1949,North Atlantic League,larker,B00705,Larker,Norman,0,Hazleton,,,109,,
 minoraverages/1950TSN,1949,North Atlantic League,larker,F20102,Larker,,0,Hazleton,,,,,1b109
 minoraverages/Hamilton,1949,North Atlantic League,laslo,B00475,Laslo,John,0,Hazleton,,,5,,
 minoraverages/1950TSN,1949,North Atlantic League,law,B00718,Law,Eugene,0,Stroudsburg,,,34,,
 minoraverages/1950TSN,1949,North Atlantic League,law,F21590,Law,,0,Stroudsburg,,,,,p34
-minoraverages/1950TSN,1949,North Atlantic League,law,P10277,Law,,0,Stroudsburg,,,,34,
+minoraverages/1950TSN,1949,North Atlantic League,law,P10277,Law,,0,Stroudsburg,,,,34,p
 minoraverages/1950TSN,1949,North Atlantic League,lawson,B00726,Lawson,Earl,0,Carbondale,,,50,,
 minoraverages/1950TSN,1949,North Atlantic League,lawson,F21609,Lawson,,0,Carbondale,,,,,p32
-minoraverages/1950TSN,1949,North Atlantic League,lawson,P10121,Lawson,,0,Carbondale,,,,32,
+minoraverages/1950TSN,1949,North Atlantic League,lawson,P10121,Lawson,,0,Carbondale,,,,32,p
 minoraverages/1950TSN,1949,North Atlantic League,leary,B00739,Leary,William,0,Stroudsburg,,,127,,
 minoraverages/1950TSN,1949,North Atlantic League,leary,F20303,Leary,,0,Stroudsburg,,,,,2b75
 minoraverages/1950TSN,1949,North Atlantic League,leary,F20518,Leary,,0,Stroudsburg,,,,,3b43
@@ -330,78 +337,80 @@ minoraverages/1950TSN,1949,North Atlantic League,leonardo,B00747,Leonardo,Anthon
 minoraverages/1950TSN,1949,North Atlantic League,leonardo,F21207,Leonardo,,0,Nazareth,,,,,of50
 minoraverages/1950TSN,1949,North Atlantic League,lewis,F21515,Lewis,,0,Hazleton,,,,,p12
 minoraverages/Hamilton,1949,North Atlantic League,lewis,B00488,Lewis,William,0,Hazleton,,,12,,
-minoraverages/Hamilton,1949,North Atlantic League,lewis,P10289,Lewis,,0,Hazleton,,,,12,
+minoraverages/Hamilton,1949,North Atlantic League,lewis,P10289,Lewis,,0,Hazleton,,,,12,p
 minoraverages/1950TSN,1949,North Atlantic League,lieb,B00752,Lieb,Ronald,0,Mahanoy City,,,78,,
 minoraverages/1950TSN,1949,North Atlantic League,lieb,F21196,Lieb,,0,Mahanoy City,,,,,of77
 minoraverages/1950TSN,1949,North Atlantic League,linsky,F21854,Linskey,,0,Carbondale,,,,,p33
-minoraverages/1950TSN,1949,North Atlantic League,linsky,P10407,Linskey,,0,Carbondale,,,,33,
+minoraverages/1950TSN,1949,North Atlantic League,linsky,P10407,Linskey,,0,Carbondale,,,,33,p
 minoraverages/Hamilton,1949,North Atlantic League,linsky,B00324,Linsky,Robert,0,Carbondale,,,35,,
 minoraverages/1950TSN,1949,North Atlantic League,loffredo,B00760,Loffredo,Richard,0,Peekskill,,,14,,
 minoraverages/1950TSN,1949,North Atlantic League,loffredo,F22103,Loffredo,,0,Peekskill,,,,,p14
-minoraverages/1950TSN,1949,North Atlantic League,loffredo,P10569,Loffredo,,0,Peekskill,,,,14,
+minoraverages/1950TSN,1949,North Atlantic League,loffredo,P10569,Loffredo,,0,Peekskill,,,,14,p
 minoraverages/Hamilton,1949,North Atlantic League,lombardi,B01269,Lombardi,Herman,0,Stroudsburg,,,5,,
 minoraverages/1950TSN,1949,North Atlantic League,long,B00771,Long,William,0,Bangor,,,133,,
 minoraverages/1950TSN,1949,North Atlantic League,long,F20206,Long,,0,Bangor,,,,,2b115
 minoraverages/1950TSN,1949,North Atlantic League,long,F20463,Long,,0,Bangor,,,,,3b18
 minoraverages/1950TSN,1949,North Atlantic League,long,F21553,Long,,0,Bangor,,,,,p10
 minoraverages/1950TSN,1949,North Atlantic League,long,M90060,Long,William,,Bangor,,,,,
-minoraverages/Hamilton,1949,North Atlantic League,long,P10290,Long,,0,Bangor,,,,10,
+minoraverages/Hamilton,1949,North Atlantic League,long,P10290,Long,,0,Bangor,,,,10,p
+minoraverages/emilbb,1949,North Atlantic League,,M95279,Long,Bill,,Bangor/Berwick,,,,,
 minoraverages/1950TSN,1949,North Atlantic League,longo,B00783,Longo,Angelo,0,Bangor,,,126,,
 minoraverages/1950TSN,1949,North Atlantic League,longo,F20177,Longo,,0,Bangor,,,,,2b20
 minoraverages/1950TSN,1949,North Atlantic League,longo,F20388,Longo,,0,Bangor,,,,,3b109
-minoraverages/Hamilton,1949,North Atlantic League,longo,P10304,Longo,,0,Bangor,,,,1,
+minoraverages/Hamilton,1949,North Atlantic League,longo,P10304,Longo,,0,Bangor,,,,1,p
 minoraverages/1950TSN,1949,North Atlantic League,lovell,B00794,Lovell,Richard,0,Hazleton,,,12,,
 minoraverages/1950TSN,1949,North Atlantic League,lovell,F21577,Lovell,,0,Hazleton,,,,,p12
-minoraverages/1950TSN,1949,North Atlantic League,lovell,P10591,Lovell,,0,Hazleton,,,,12,
+minoraverages/1950TSN,1949,North Atlantic League,lovell,P10591,Lovell,,0,Hazleton,,,,12,p
 minoraverages/Hamilton,1949,North Atlantic League,lucki,B00961,Lucki,Chester,0,Nazareth,,,6,,
-minoraverages/Hamilton,1949,North Atlantic League,lucki,P10312,Lucki,,0,Nazareth,,,,6,
+minoraverages/Hamilton,1949,North Atlantic League,lucki,P10312,Lucki,,0,Nazareth,,,,6,p
 minoraverages/1950TSN,1949,North Atlantic League,lutz,B00806,Lutz,Bernard,0,Carbondale,,,140,,
 minoraverages/1950TSN,1949,North Atlantic League,lutz,F20298,Lutz,,0,Carbondale,,,,,2b18
 minoraverages/1950TSN,1949,North Atlantic League,lutz,F20737,Lutz,,0,Carbondale,,,,,of120
 minoraverages/1950TSN,1949,North Atlantic League,lutz,M90052,Lutz,Bernard,,Carbondale,,,,,
+minoraverages/emilbb,1949,North Atlantic League,,M95265,Lutz,Barney,,Carbondale,,,,,
 minoraverages/Hamilton,1949,North Atlantic League,macarthur,B00335,MacArthur,Donald,0,Carbondale,,,7,,
 minoraverages/1950TSN,1949,North Atlantic League,magnusson,B00811,Magnusson,Gerald,0,Nazareth,,,20,,
 minoraverages/1950TSN,1949,North Atlantic League,magnusson,F21149,Magnusson,,0,Nazareth,,,,,of17
 minoraverages/Hamilton,1949,North Atlantic League,maier,B00973,Maier,Elmer,0,Nazareth,,,6,,
-minoraverages/Hamilton,1949,North Atlantic League,maier,P10320,Maier,,0,Nazareth,,,,6,
+minoraverages/Hamilton,1949,North Atlantic League,maier,P10320,Maier,,0,Nazareth,,,,6,p
 minoraverages/1950TSN,1949,North Atlantic League,majikes,B00822,Majikes,Joseph,0,Nazareth,,,27,,
 minoraverages/1950TSN,1949,North Atlantic League,majikes,F22036,Majikes,,0,Nazareth,,,,,p20
-minoraverages/1950TSN,1949,North Atlantic League,majikes,P10633,Majikes,,0,Nazareth,,,,20,
+minoraverages/1950TSN,1949,North Atlantic League,majikes,P10633,Majikes,,0,Nazareth,,,,20,p
 minoraverages/1950TSN,1949,North Atlantic League,marc,B00833,Marc,Curtis,0,Nazareth,,,15,,
 minoraverages/1950TSN,1949,North Atlantic League,marc,F21059,Marc,,0,Nazareth,,,,,of14
 minoraverages/1950TSN,1949,North Atlantic League,march,F21771,March,,0,Bangor,,,,,p10
 minoraverages/Hamilton,1949,North Atlantic League,march,B00117,March,Kenneth,0,Bangor,,,10,,
-minoraverages/Hamilton,1949,North Atlantic League,march,P10336,March,,0,Bangor,,,,10,
+minoraverages/Hamilton,1949,North Atlantic League,march,P10336,March,,0,Bangor,,,,10,p
 minoraverages/1950TSN,1949,North Atlantic League,marek,B00840,Marek,Martin,0,Mahanoy City,,,21,,
 minoraverages/1950TSN,1949,North Atlantic League,margeit,F21806,Margeit,,0,Hazleton,,,,,p16
-minoraverages/1950TSN,1949,North Atlantic League,margeit,P10385,Margeit,,0,Hazleton,,,,16,
+minoraverages/1950TSN,1949,North Atlantic League,margeit,P10385,Margeit,,0,Hazleton,,,,16,p
 minoraverages/Hamilton,1949,North Atlantic League,margeit,B00491,Margeit,Thomas,0,Hazleton,,,16,,
 minoraverages/1950TSN,1949,North Atlantic League,marini,B00854,Marini,Louis,0,Hazleton,,,18,,
 minoraverages/Hamilton,1949,North Atlantic League,marlow,B00614,Marlow,Walter,0,Lebanon,,,4,,
-minoraverages/1950TSN,1949,North Atlantic League,marlow,P10751,Marlowe,,0,,,,,,
-minoraverages/Hamilton,1949,North Atlantic League,marlow,P10348,Marlowe,,0,Lebanon,,,,4,
+minoraverages/1950TSN,1949,North Atlantic League,marlow,P10751,Marlowe,,0,,,,,,p
+minoraverages/Hamilton,1949,North Atlantic League,marlow,P10348,Marlowe,,0,Lebanon,,,,4,p
 minoraverages/1950TSN,1949,North Atlantic League,mccarron,B00865,McCarron,Michael,0,Peekskill,,,30,,
 minoraverages/1950TSN,1949,North Atlantic League,mccarron,F21646,McCarron,,0,Peekskill,,,,,p29
-minoraverages/1950TSN,1949,North Atlantic League,mccarron,P10253,McCarron,,0,Peekskill,,,,29,
+minoraverages/1950TSN,1949,North Atlantic League,mccarron,P10253,McCarron,,0,Peekskill,,,,29,p
 minoraverages/1950TSN,1949,North Atlantic League,mccarthy-pee,B00879,McCarthy,Michael,0,Peekskill,,,115,,
 minoraverages/1950TSN,1949,North Atlantic League,mccarthy-mc,B00887,McCarthy,William,0,Mahanoy City,,,76,,
 minoraverages/1950TSN,1949,North Atlantic League,mccarthy-mc,F20038,McCarthy,,0,Mahanoy City,,,,,1b76
 minoraverages/1950TSN,1949,North Atlantic League,mccarthy-pee,F20316,McCarthy,,0,Peekskill,,,,,2b113
 minoraverages/Hamilton,1949,North Atlantic League,mccormick,B01124,McCormick,Michael,0,Peekskill,,,1,,
 minoraverages/1950TSN,1949,North Atlantic League,mccrea,F21822,McCrea,,0,Nazareth,,,,,p20
-minoraverages/1950TSN,1949,North Atlantic League,mccrea,P10606,McCrea,,0,Nazareth,,,,20,
+minoraverages/1950TSN,1949,North Atlantic League,mccrea,P10606,McCrea,,0,Nazareth,,,,20,p
 minoraverages/Hamilton,1949,North Atlantic League,mccrea,B00985,McCrea,James,0,Nazareth,,,22,,
 minoraverages/1950TSN,1949,North Atlantic League,mclean,B00898,McLean,Charles,0,Lebanon,,,138,,
 minoraverages/1950TSN,1949,North Atlantic League,mclean,F20924,McLean,,0,Lebanon,,,,,of134
 minoraverages/1950TSN,1949,North Atlantic League,mcleod,B00904,McLeod,John,0,Bangor,,,47,,
 minoraverages/1950TSN,1949,North Atlantic League,mcleod,F21158,McLeod,,0,Bangor,,,,,of47
 minoraverages/Hamilton,1949,North Atlantic League,mellinger,B01275,Mellinger,,0,Stroudsburg,,,23,,
-minoraverages/Hamilton,1949,North Atlantic League,mellinger,P10357,Mellinger,,0,Stroudsburg,,,,2,
+minoraverages/Hamilton,1949,North Atlantic League,mellinger,P10357,Mellinger,,0,Stroudsburg,,,,2,p
 minoraverages/1950TSN,1949,North Atlantic League,melms,F21450,Melms,,0,Stroudsburg,,,,,p24
-minoraverages/1950TSN,1949,North Atlantic League,melms,P10035,Melms,,0,Stroudsburg,,,,24,
+minoraverages/1950TSN,1949,North Atlantic League,melms,P10035,Melms,,0,Stroudsburg,,,,24,p
 minoraverages/Hamilton,1949,North Atlantic League,melms,B01288,Melms,Dale,0,Stroudsburg,,,26,,
 minoraverages/Hamilton,1949,North Atlantic League,miller,B00125,Miller,John,0,Bangor,,,2,,
-minoraverages/Hamilton,1949,North Atlantic League,miller,P10373,Miller,,0,Bangor,,,,1,
+minoraverages/Hamilton,1949,North Atlantic League,miller,P10373,Miller,,0,Bangor,,,,1,p
 minoraverages/Hamilton,1949,North Atlantic League,minnella,B00623,Minnella,John,0,Lebanon,,,7,,
 minoraverages/1950TSN,1949,North Atlantic League,misero,B00912,Misero,Albert,0,Nazareth,,,25,,
 minoraverages/1950TSN,1949,North Atlantic League,misero,F20350,Misero,,0,Nazareth,,,,,2b14
@@ -413,22 +422,22 @@ minoraverages/1950TSN,1949,North Atlantic League,monarchi,B00936,Monarchi,Peter,
 minoraverages/1950TSN,1949,North Atlantic League,monarchi,F20417,Monarchi,,0,Hazleton,,,,,3b120
 minoraverages/1950TSN,1949,North Atlantic League,montalto,B00948,Montalto,Nicholas,0,Carbondale,,,13,,
 minoraverages/1950TSN,1949,North Atlantic League,montalto,F22116,Montalto,,0,Carbondale,,,,,p13
-minoraverages/1950TSN,1949,North Atlantic League,montalto,P10575,Montalto,,0,Carbondale,,,,13,
+minoraverages/1950TSN,1949,North Atlantic League,montalto,P10575,Montalto,,0,Carbondale,,,,13,p
 minoraverages/1950TSN,1949,North Atlantic League,moscrey,B00957,Moscrey,Robert,0,Lebanon,,,93,,
 minoraverages/1950TSN,1949,North Atlantic League,moscrey,F20189,Moscrey,,0,Lebanon,,,,,2b92
 minoraverages/Hamilton,1949,North Atlantic League,mowrey,B00999,Mowrey,William,0,Nazareth,,,8,,
-minoraverages/Hamilton,1949,North Atlantic League,mowrey,P10361,Mowrey,,0,Nazareth,,,,1,
+minoraverages/Hamilton,1949,North Atlantic League,mowrey,P10361,Mowrey,,0,Nazareth,,,,1,p
 minoraverages/Hamilton,1949,North Atlantic League,mozook,B00502,Mozook,Benjamin,0,Hazleton,,,1,,
 minoraverages/1950TSN,1949,North Atlantic League,mronzinski,B00961,Mronzinski,Ronald,0,Carbondale,,,25,,
 minoraverages/1950TSN,1949,North Atlantic League,mronzinski,F21999,Mronzinski,,0,Carbondale,,,,,p25
-minoraverages/1950TSN,1949,North Atlantic League,mronzinski,P10336,Mronzinski,,0,Carbondale,,,,25,
+minoraverages/1950TSN,1949,North Atlantic League,mronzinski,P10336,Mronzinski,,0,Carbondale,,,,25,p
 minoraverages/1950TSN,1949,North Atlantic League,murphy-car,B00973,Murphy,Jerry,0,Carbondale,,,24,,
 minoraverages/1950TSN,1949,North Atlantic League,murphy-mc,B00985,Murphy,Thomas,0,Mahanoy City,,,124,,
 minoraverages/1950TSN,1949,North Atlantic League,murphy-mc,F20144,Murphy,,0,Mahanoy City,,,,,1b14
 minoraverages/1950TSN,1949,North Atlantic League,murphy-mc,F20661,Murphy,,0,Mahanoy City,,,,,ss20
 minoraverages/1950TSN,1949,North Atlantic League,murphy-mc,F21037,Murphy,,0,Mahanoy City,,,,,of90
 minoraverages/1950TSN,1949,North Atlantic League,murphy-car,F21680,Murphy,,0,Carbondale,,,,,p24
-minoraverages/1950TSN,1949,North Atlantic League,murphy-car,P10290,Murphy,,0,Carbondale,,,,24,
+minoraverages/1950TSN,1949,North Atlantic League,murphy-car,P10290,Murphy,,0,Carbondale,,,,24,p
 minoraverages/1950TSN,1949,North Atlantic League,neborak,B00999,Neborak,John,0,Carbondale,,,42,,
 minoraverages/1950TSN,1949,North Atlantic League,neborak,F20482,Neborak,,0,Carbondale,,,,,3b23
 minoraverages/1950TSN,1949,North Atlantic League,neborak,F20673,Neborak,,0,Carbondale,,,,,ss18
@@ -437,14 +446,14 @@ minoraverages/1950TSN,1949,North Atlantic League,nerino,F20832,Nerino,,0,Bangor,
 minoraverages/1950TSN,1949,North Atlantic League,newman,B01010,Newman,Donald,0,Bangor,,,29,,
 minoraverages/1950TSN,1949,North Atlantic League,newman,F21130,Newman,,0,Bangor,,,,,of29
 minoraverages/Hamilton,1949,North Atlantic League,newton,B00130,Newton,Don,0,Bangor,,,2,,
-minoraverages/Hamilton,1949,North Atlantic League,newton,P10385,Newton,,0,Bangor,,,,2,
+minoraverages/Hamilton,1949,North Atlantic League,newton,P10385,Newton,,0,Bangor,,,,2,p
 minoraverages/1950TSN,1949,North Atlantic League,niklas,B01029,Niklas,Rodger,0,Mahanoy City,,,17,,
 minoraverages/1950TSN,1949,North Atlantic League,niklas,F20699,Niklas,,0,Mahanoy City,,,,,of16
 minoraverages/1950TSN,1949,North Atlantic League,nixon,B01032,Nixon,George,0,Lebanon,,,31,,
 minoraverages/1950TSN,1949,North Atlantic League,nixon,F22099,Nixon,,0,Lebanon,,,,,p30
-minoraverages/1950TSN,1949,North Atlantic League,nixon,P10399,Nixon,,0,Lebanon,,,,30,
+minoraverages/1950TSN,1949,North Atlantic League,nixon,P10399,Nixon,,0,Lebanon,,,,30,p
 minoraverages/1950TSN,1949,North Atlantic League,noll,F21904,Noll,,0,Carbondale,,,,,p25
-minoraverages/1950TSN,1949,North Atlantic League,noll,P10486,Noll,,0,Carbondale,,,,25,
+minoraverages/1950TSN,1949,North Atlantic League,noll,P10486,Noll,,0,Carbondale,,,,25,p
 minoraverages/Hamilton,1949,North Atlantic League,noll,B00343,Noll,Harold,0,Carbondale,,,27,,
 minoraverages/1950TSN,1949,North Atlantic League,novak,B01041,Novak,Eugene,0,Hazleton,,,25,,
 minoraverages/1950TSN,1949,North Atlantic League,novak,F21163,Novak,,0,Hazleton,,,,,of23
@@ -453,9 +462,9 @@ minoraverages/1950TSN,1949,North Atlantic League,orourke,B01064,O'Rourke,Donald,
 minoraverages/1950TSN,1949,North Atlantic League,orourke,F20342,O'Rourke,,0,Nazareth,,,,,2b18
 minoraverages/1950TSN,1949,North Atlantic League,orourke,F20425,O'Rourke,,0,Nazareth,,,,,3b57
 minoraverages/Hamilton,1949,North Atlantic League,oliver,B00149,Oliver,Benjamin,0,Bangor,,,8,,
-minoraverages/Hamilton,1949,North Atlantic League,oliver,P10399,Oliver,,0,Bangor,,,,7,
+minoraverages/Hamilton,1949,North Atlantic League,oliver,P10399,Oliver,,0,Bangor,,,,7,p
 minoraverages/Hamilton,1949,North Atlantic League,omahundro,B00638,Omahundro,Frank,0,Lebanon,,,3,,
-minoraverages/Hamilton,1949,North Atlantic League,omahundro,P10407,Omahundro,,0,Lebanon,,,,3,
+minoraverages/Hamilton,1949,North Atlantic League,omahundro,P10407,Omahundro,,0,Lebanon,,,,3,p
 minoraverages/1950TSN,1949,North Atlantic League,opanel,B01055,Opanel,Vincent,0,Mahanoy City,,,14,,
 minoraverages/1950TSN,1949,North Atlantic League,opanel,F21092,Opanel,,0,Mahanoy City,,,,,of14
 minoraverages/Hamilton,1949,North Atlantic League,panaro,B00163,Panaro,Albert,0,Bangor,,,3,,
@@ -464,22 +473,22 @@ minoraverages/Hamilton,1949,North Atlantic League,passarella,B00182,Passarella,R
 minoraverages/1950TSN,1949,North Atlantic League,pawloski,B01078,Pawloski,Stanley,0,Stroudsburg,,,87,,
 minoraverages/1950TSN,1949,North Atlantic League,pawloski,F20375,Pawloski,,0,Stroudsburg,,,,,3b87
 minoraverages/Hamilton,1949,North Atlantic League,pelleschi,B01135,Pelleschi,Nevio,0,Peekskill,,,7,,
-minoraverages/Hamilton,1949,North Atlantic League,pelleschi,P10410,Pelleschi,,0,Peekskill,,,,7,
+minoraverages/Hamilton,1949,North Atlantic League,pelleschi,P10410,Pelleschi,,0,Peekskill,,,,7,p
 minoraverages/1950TSN,1949,North Atlantic League,penczak,B01086,Penczak,Joseph,0,Peekskill,,,128,,
 minoraverages/1950TSN,1949,North Atlantic League,penczak,F20458,Penczak,,0,Peekskill,,,,,3b128
 minoraverages/Hamilton,1949,North Atlantic League,penza,B00771,Penza,Gale,0,Mahanoy City,,,2,,
-minoraverages/1950TSN,1949,North Atlantic League,peterson.u,P10698,Peterson,,0,,,,,,
+minoraverages/1950TSN,1949,North Atlantic League,peterson.u,P10698,Peterson,,0,,,,,,p
 minoraverages/Hamilton,1949,North Atlantic League,peterson-bb,B00196,Peterson,Helmar,0,Bangor,,,7,,
 minoraverages/Hamilton,1949,North Atlantic League,peterson-leb,B00646,Peterson,John,0,Lebanon,,,7,,
-minoraverages/Hamilton,1949,North Atlantic League,peterson-bb,P10429,Peterson,,0,Bangor,,,,7,
-minoraverages/Hamilton,1949,North Atlantic League,peterson-leb,P10432,Peterson,,0,Lebanon,,,,7,
+minoraverages/Hamilton,1949,North Atlantic League,peterson-bb,P10429,Peterson,,0,Bangor,,,,7,p
+minoraverages/Hamilton,1949,North Atlantic League,peterson-leb,P10432,Peterson,,0,Lebanon,,,,7,p
 minoraverages/1950TSN,1949,North Atlantic League,petty,B01093,Petty,James,0,Bangor,,,132,,
 minoraverages/1950TSN,1949,North Atlantic League,petty,F20072,Petty,,0,Bangor,,,,,1b21
 minoraverages/1950TSN,1949,North Atlantic League,petty,F20935,Petty,,0,Bangor,,,,,of112
 minoraverages/Hamilton,1949,North Atlantic League,pfeiffer,B00651,Pfeiffer,James,0,Lebanon,,,1,,
 minoraverages/1950TSN,1949,North Atlantic League,pica,B01108,Pica,Vincent,0,Hazleton,,,10,,
 minoraverages/Hamilton,1949,North Atlantic League,plant,B00667,Plant,Clayton,0,Lebanon,,,9,,
-minoraverages/Hamilton,1949,North Atlantic League,plant,P10441,Plant,,0,Lebanon,,,,9,
+minoraverages/Hamilton,1949,North Atlantic League,plant,P10441,Plant,,0,Lebanon,,,,9,p
 minoraverages/1950TSN,1949,North Atlantic League,poleta,B01119,Poleta,Andrew,0,Nazareth,,,26,,
 minoraverages/1950TSN,1949,North Atlantic League,poleta,F20496,Poleta,,0,Nazareth,,,,,3b26
 minoraverages/1950TSN,1949,North Atlantic League,porreca,B01124,Porreca,Frank,0,Lebanon,,,127,,
@@ -490,18 +499,19 @@ minoraverages/1950TSN,1949,North Atlantic League,povenski,F21427,Povenski,,0,Naz
 minoraverages/1950TSN,1949,North Atlantic League,powers,B01143,Powers,Martin,0,Peekskill,,,116,,
 minoraverages/1950TSN,1949,North Atlantic League,powers,F21308,Powers,,0,Peekskill,,,,,c103
 minoraverages/1950TSN,1949,North Atlantic League,quattrini,F21528,Quattrini,,0,Peekskill,,,,,p30
-minoraverages/1950TSN,1949,North Atlantic League,quattrini,P10455,Quattrini,,0,Peekskill,,,,30,
+minoraverages/1950TSN,1949,North Atlantic League,quattrini,P10455,Quattrini,,0,Peekskill,,,,30,p
 minoraverages/Hamilton,1949,North Atlantic League,quattrini,B01143,Quattrini,Rino,0,Peekskill,,,30,,
 minoraverages/1950TSN,1949,North Atlantic League,quinn,F21544,Quinn,,0,Mahanoy City,,,,,p13
-minoraverages/1950TSN,1949,North Atlantic League,quinn,P10231,Quinn,,0,Mahanoy City,,,,13,
+minoraverages/1950TSN,1949,North Atlantic League,quinn,P10231,Quinn,,0,Mahanoy City,,,,13,p
 minoraverages/Hamilton,1949,North Atlantic League,quinn,B00783,Quinn,Edwin,0,Mahanoy City,,,15,,
 minoraverages/Hamilton,1949,North Atlantic League,quirk,B00207,Quirk,John,0,Bangor,,,5,,
 minoraverages/Hamilton,1949,North Atlantic League,radick,B00356,Radick,George,0,Carbondale,,,3,,
-minoraverages/Hamilton,1949,North Atlantic League,radick,P10455,Radick,,0,Carbondale,,,,3,
+minoraverages/Hamilton,1949,North Atlantic League,radick,P10455,Radick,,0,Carbondale,,,,3,p
 minoraverages/1950TSN,1949,North Atlantic League,radler,B01156,Radler,Frank,0,Stroudsburg,,,30,,
 minoraverages/1950TSN,1949,North Atlantic League,radler,F21752,Radler,,0,Stroudsburg,,,,,p21
 minoraverages/1950TSN,1949,North Atlantic League,radler,M90018,Radler,Frank,,Stroudsburg,,,,,
-minoraverages/1950TSN,1949,North Atlantic League,radler,P10024,Radler,,0,Stroudsburg,,,,21,
+minoraverages/1950TSN,1949,North Atlantic League,radler,P10024,Radler,,0,Stroudsburg,,,,21,p
+minoraverages/emilbb,1949,North Atlantic League,,M95222,Radler,Frank,,Stroudsburg,,,,,
 minoraverages/1950TSN,1949,North Atlantic League,reese,B01162,Reese,Carmen,0,Hazleton,,,45,,
 minoraverages/1950TSN,1949,North Atlantic League,reese,F20115,Reese,,0,Hazleton,,,,,1b11
 minoraverages/1950TSN,1949,North Atlantic League,reese,F21324,Reese,,0,Hazleton,,,,,c22
@@ -513,30 +523,30 @@ minoraverages/Hamilton,1949,North Atlantic League,repepi,B00794,Repepi,Michael,1
 minoraverages/Hamilton,1949,North Atlantic League,repepi,B00794,Repepi,Michael,2,Mahanoy City,,,,,
 minoraverages/Hamilton,1949,North Atlantic League,repepi,B00794,Repepi,Michael,T,,,,4,,
 minoraverages/Hamilton,1949,North Atlantic League,reynolds,B01156,Reynolds,Douglas,0,Peekskill,,,2,,
-minoraverages/Hamilton,1949,North Atlantic League,reynolds,P10464,Reynolds,,0,Peekskill,,,,2,
+minoraverages/Hamilton,1949,North Atlantic League,reynolds,P10464,Reynolds,,0,Peekskill,,,,2,p
 minoraverages/Hamilton,1949,North Atlantic League,rinaldi,B01162,Rinaldi,Charles,0,Peekskill,,,,,
-minoraverages/Hamilton,1949,North Atlantic League,rinaldi,P10478,Rinaldi,,0,Peekskill,,,,4,
+minoraverages/Hamilton,1949,North Atlantic League,rinaldi,P10478,Rinaldi,,0,Peekskill,,,,4,p
 minoraverages/Hamilton,1949,North Atlantic League,ring,B00806,Ring,Daniel,0,Mahanoy City,,,2,,
-minoraverages/Hamilton,1949,North Atlantic League,ring,P10486,Ring,,0,Mahanoy City,,,,2,
-minoraverages/Hamilton,1949,North Atlantic League,repepi,P10493,Ripepi,,1,Mahanoy City,,,,,
-minoraverages/Hamilton,1949,North Atlantic League,repepi,P10493,Ripepi,,2,Bangor,,,,,
-minoraverages/Hamilton,1949,North Atlantic League,repepi,P10493,Ripepi,,T,,,,,4,
-minoraverages/1950TSN,1949,North Atlantic League,roach,P10611,Roach,,0,Hazleton,,,,9,
+minoraverages/Hamilton,1949,North Atlantic League,ring,P10486,Ring,,0,Mahanoy City,,,,2,p
+minoraverages/Hamilton,1949,North Atlantic League,repepi,P10493,Ripepi,,1,Mahanoy City,,,,,p
+minoraverages/Hamilton,1949,North Atlantic League,repepi,P10493,Ripepi,,2,Bangor,,,,,p
+minoraverages/Hamilton,1949,North Atlantic League,repepi,P10493,Ripepi,,T,,,,,4,p
+minoraverages/1950TSN,1949,North Atlantic League,roach,P10611,Roach,,0,Hazleton,,,,9,p
 minoraverages/Hamilton,1949,North Atlantic League,roach,B00515,Roach,Gordon,0,Hazleton,,,9,,
-minoraverages/Hamilton,1949,North Atlantic League,romanko,P10503,Romanko,,0,Nazareth,,,,2,
+minoraverages/Hamilton,1949,North Atlantic League,romanko,P10503,Romanko,,0,Nazareth,,,,2,p
 minoraverages/1950TSN,1949,North Atlantic League,romanko,B01197,Romenko,Edward,0,Nazareth,,,57,,
 minoraverages/1950TSN,1949,North Atlantic League,romanko,F20327,Romenko,,0,Nazareth,,,,,2b43
 minoraverages/1950TSN,1949,North Atlantic League,romanko,F20700,Romenko,,0,Nazareth,,,,,of14
 minoraverages/1950TSN,1949,North Atlantic League,rothenhausler,B01203,Rothenhausler,John,0,Stroudsburg,,,137,,
 minoraverages/1950TSN,1949,North Atlantic League,rothenhausler,F20962,Rothenhausler,,0,Stroudsburg,,,,,of137
 minoraverages/Hamilton,1949,North Atlantic League,russell,B00811,Russell,Stanley,0,Mahanoy City,,,3,,
-minoraverages/Hamilton,1949,North Atlantic League,russell,P10516,Russell,,0,Mahanoy City,,,,3,
+minoraverages/Hamilton,1949,North Atlantic League,russell,P10516,Russell,,0,Mahanoy City,,,,3,p
 minoraverages/1950TSN,1949,North Atlantic League,russo,B01216,Russo,Samuel,0,Hazleton,,,114,,
 minoraverages/1950TSN,1949,North Atlantic League,russo,F20222,Russo,,0,Hazleton,,,,,2b111
 minoraverages/1950TSN,1949,North Atlantic League,santorsa,B01227,Santorsa,Frank,0,Hazleton,,,72,,
 minoraverages/1950TSN,1949,North Atlantic League,santorsa,F21210,Santorsa,,0,Hazleton,,,,,of68
 minoraverages/1950TSN,1949,North Atlantic League,sassaman,F21898,Sassaman,,0,Mahanoy City,,,,,p31
-minoraverages/1950TSN,1949,North Atlantic League,sassaman,P10312,Sassaman,,0,Mahanoy City,,,,30,
+minoraverages/1950TSN,1949,North Atlantic League,sassaman,P10312,Sassaman,,0,Mahanoy City,,,,30,p
 minoraverages/Hamilton,1949,North Atlantic League,sassaman,B00822,Sassaman,Karl,0,Mahanoy City,,,32,,
 minoraverages/1950TSN,1949,North Atlantic League,saverio,B01234,Saverio,Lee,0,Mahanoy City,,,91,,
 minoraverages/1950TSN,1949,North Atlantic League,saverio,F21241,Saverio,,0,Mahanoy City,,,,,c87
@@ -546,17 +556,17 @@ minoraverages/1950TSN,1949,North Atlantic League,schiavone,B01242,Schiavone,Davi
 minoraverages/1950TSN,1949,North Atlantic League,schiavone,F22061,Schiavone,,1,Bangor,,,,,p
 minoraverages/1950TSN,1949,North Atlantic League,schiavone,F22061,Schiavone,,2,Nazareth,,,,,p
 minoraverages/1950TSN,1949,North Atlantic League,schiavone,F22061,Schiavone,,T,,,,,,p13
-minoraverages/1950TSN,1949,North Atlantic League,schiavone,P10516,Schiavone,,1,Bangor,,,,,
-minoraverages/1950TSN,1949,North Atlantic League,schiavone,P10516,Schiavone,,2,Nazareth,,,,,
-minoraverages/1950TSN,1949,North Atlantic League,schiavone,P10516,Schiavone,,T,,,,,13,
+minoraverages/1950TSN,1949,North Atlantic League,schiavone,P10516,Schiavone,,1,Bangor,,,,,p
+minoraverages/1950TSN,1949,North Atlantic League,schiavone,P10516,Schiavone,,2,Nazareth,,,,,p
+minoraverages/1950TSN,1949,North Atlantic League,schiavone,P10516,Schiavone,,T,,,,,13,p
 minoraverages/1950TSN,1949,North Atlantic League,schindler,B01250,Schindler,Alfred,0,Carbondale,,,121,,
 minoraverages/1950TSN,1949,North Atlantic League,schindler,F20279,Schindler,,0,Carbondale,,,,,2b121
 minoraverages/Hamilton,1949,North Atlantic League,schisser,B00528,Schisser,Edward,0,Hazleton,,,2,,
-minoraverages/Hamilton,1949,North Atlantic League,schisser,P10527,Schisser,,0,Hazleton,,,,2,
+minoraverages/Hamilton,1949,North Atlantic League,schisser,P10527,Schisser,,0,Hazleton,,,,2,p
 minoraverages/1950TSN,1949,North Atlantic League,schneider,B01269,Schneider,Russell,0,Stroudsburg,,,31,,
 minoraverages/1950TSN,1949,North Atlantic League,schneider,F21416,Schneider,,0,Stroudsburg,,,,,c23
 minoraverages/Hamilton,1949,North Atlantic League,scholz,B01300,Scholz,William,0,Stroudsburg,,,2,,
-minoraverages/Hamilton,1949,North Atlantic League,scholz,P10534,Scholz,,0,Stroudsburg,,,,2,
+minoraverages/Hamilton,1949,North Atlantic League,scholz,P10534,Scholz,,0,Stroudsburg,,,,2,p
 minoraverages/1950TSN,1949,North Atlantic League,schulte,B01275,Schulte,Richard,0,Carbondale,,,71,,
 minoraverages/1950TSN,1949,North Atlantic League,schulte,F20095,Schulte,,0,Carbondale,,,,,1b71
 minoraverages/1950TSN,1949,North Atlantic League,schultz,B01288,Schultz,Robert,1,Stroudsburg,,,,,
@@ -565,26 +575,26 @@ minoraverages/1950TSN,1949,North Atlantic League,schultz,B01288,Schultz,Robert,T
 minoraverages/1950TSN,1949,North Atlantic League,schultz,F21811,Schultz,,1,Stroudsburg,,,,,p
 minoraverages/1950TSN,1949,North Atlantic League,schultz,F21811,Schultz,,2,Nazareth,,,,,p
 minoraverages/1950TSN,1949,North Atlantic League,schultz,F21811,Schultz,,T,,,,,,p28
-minoraverages/1950TSN,1949,North Atlantic League,schultz,P10062,Schultz,,1,Stroudsburg,,,,,
-minoraverages/1950TSN,1949,North Atlantic League,schultz,P10062,Schultz,,2,Nazareth,,,,,
-minoraverages/1950TSN,1949,North Atlantic League,schultz,P10062,Schultz,,T,,,,,28,
+minoraverages/1950TSN,1949,North Atlantic League,schultz,P10062,Schultz,,1,Stroudsburg,,,,,p
+minoraverages/1950TSN,1949,North Atlantic League,schultz,P10062,Schultz,,2,Nazareth,,,,,p
+minoraverages/1950TSN,1949,North Atlantic League,schultz,P10062,Schultz,,T,,,,,28,p
 minoraverages/Hamilton,1949,North Atlantic League,schuman,B00210,Schuman,Herbert,0,Bangor,,,5,,
-minoraverages/Hamilton,1949,North Atlantic League,schuman,P10542,Schuman,,0,Bangor,,,,5,
+minoraverages/Hamilton,1949,North Atlantic League,schuman,P10542,Schuman,,0,Bangor,,,,5,p
 minoraverages/Hamilton,1949,North Atlantic League,serman,B01007,Serman,Richard,0,Nazareth,,,4,,
 minoraverages/Hamilton,1949,North Atlantic League,shedletsky,B00229,Shedletsky,John,0,Bangor,,,9,,
 minoraverages/1950TSN,1949,North Atlantic League,sheekey,B01291,Sheekey,Vincent,0,Peekskill,,,138,,
 minoraverages/1950TSN,1949,North Atlantic League,sheekey,F20211,Sheekey,,0,Peekskill,,,,,2b16
 minoraverages/1950TSN,1949,North Atlantic League,sheekey,F20759,Sheekey,,0,Peekskill,,,,,of123
-minoraverages/Hamilton,1949,North Atlantic League,sheekey,P10569,Sheekey,,0,Peekskill,,,,1,
+minoraverages/Hamilton,1949,North Atlantic League,sheekey,P10569,Sheekey,,0,Peekskill,,,,1,p
 minoraverages/1950TSN,1949,North Atlantic League,shook,B01300,Shook,Robert,0,Peekskill,,,78,,
 minoraverages/1950TSN,1949,North Atlantic League,shook,F20997,Shook,,0,Peekskill,,,,,of20
 minoraverages/1950TSN,1949,North Atlantic League,shook,F21229,Shook,,0,Peekskill,,,,,c13
 minoraverages/1950TSN,1949,North Atlantic League,shook,F21623,Shook,,0,Peekskill,,,,,p38
-minoraverages/1950TSN,1949,North Atlantic League,shook,P10192,Shook,,0,Peekskill,,,,38,
+minoraverages/1950TSN,1949,North Atlantic League,shook,P10192,Shook,,0,Peekskill,,,,38,p
 minoraverages/Hamilton,1949,North Atlantic League,sica,B00232,Sica,Joseph,0,Bangor,,,1,,
 minoraverages/1950TSN,1949,North Atlantic League,sillette,B01313,Sillette,Al,0,Bangor,,,16,,
 minoraverages/1950TSN,1949,North Atlantic League,slog,F21475,Slog,,0,Bangor,,,,,p15
-minoraverages/1950TSN,1949,North Atlantic League,slog,P10215,Slog,,0,Bangor,,,,15,
+minoraverages/1950TSN,1949,North Atlantic League,slog,P10215,Slog,,0,Bangor,,,,15,p
 minoraverages/Hamilton,1949,North Atlantic League,slog,B00241,Slog,Walter,0,Bangor,,,15,,
 minoraverages/1950TSN,1949,North Atlantic League,smith,B01321,Smith,Robert,0,Carbondale,,,123,,
 minoraverages/1950TSN,1949,North Atlantic League,smith,F20981,Smith,,0,Carbondale,,,,,of121
@@ -594,11 +604,12 @@ minoraverages/1950TSN,1949,North Atlantic League,sorber,B01345,Sorber,Duane,0,Ba
 minoraverages/1950TSN,1949,North Atlantic League,sorber,F21335,Sorber,,0,Bangor,,,,,c79
 minoraverages/1950TSN,1949,North Atlantic League,sparagna,B01359,Sparagna,Francis,0,Nazareth,,,35,,
 minoraverages/1950TSN,1949,North Atlantic League,sparagna,F20430,Sparagna,,0,Nazareth,,,,,3b32
+minoraverages/emilbb,1949,North Atlantic League,,M95298,Stack,Earl,,Hazleton,,,,,
 minoraverages/1950TSN,1949,North Atlantic League,staff,F21985,Staff,,0,Lebanon,,,,,p28
-minoraverages/1950TSN,1949,North Atlantic League,staff,P10503,Staff,,0,Lebanon,,,,28,
+minoraverages/1950TSN,1949,North Atlantic League,staff,P10503,Staff,,0,Lebanon,,,,28,p
 minoraverages/Hamilton,1949,North Atlantic League,staff,B00672,Staff,Floyd,0,Lebanon,,,30,,
 minoraverages/Hamilton,1949,North Atlantic League,stanley,B01170,Stanley,John,0,Peekskill,,,4,,
-minoraverages/Hamilton,1949,North Atlantic League,stanley,P10550,Stanley,,0,Peekskill,,,,4,
+minoraverages/Hamilton,1949,North Atlantic League,stanley,P10550,Stanley,,0,Peekskill,,,,4,p
 minoraverages/Hamilton,1949,North Atlantic League,stauffer,B00255,Stauffer,Joseph,0,Bangor,,,8,,
 minoraverages/1950TSN,1949,North Atlantic League,stehlin,B01368,Stehlin,Jack,0,Stroudsburg,,,75,,
 minoraverages/1950TSN,1949,North Atlantic League,stehlin,F21286,Stehlin,,0,Stroudsburg,,,,,c75
@@ -606,22 +617,22 @@ minoraverages/1950TSN,1949,North Atlantic League,stiles,B01376,Stiles,James,0,Pe
 minoraverages/1950TSN,1949,North Atlantic League,stiles,F20474,Stiles,,0,Peekskill,,,,,3b11
 minoraverages/1950TSN,1949,North Atlantic League,strack,M90083,Strack,Earl,,Hazleton,19490619,,,,
 minoraverages/Hamilton,1949,North Atlantic League,strayer,B00833,Strayer,,0,Mahanoy City,,,1,,
-minoraverages/Hamilton,1949,North Atlantic League,strayer,P10575,Strayer,,0,Mahanoy City,,,,1,
+minoraverages/Hamilton,1949,North Atlantic League,strayer,P10575,Strayer,,0,Mahanoy City,,,,1,p
 minoraverages/1950TSN,1949,North Atlantic League,stroecker,B01384,Stroecker,Arnold,0,Stroudsburg,,,37,,
 minoraverages/1950TSN,1949,North Atlantic League,stroecker,F21255,Stroecker,,0,Stroudsburg,,,,,c31
 minoraverages/1950TSN,1949,North Atlantic League,sweda,B01392,Sweda,Donald,0,Stroudsburg,,,124,,
 minoraverages/1950TSN,1949,North Atlantic League,sweda,F20334,Sweda,,0,Stroudsburg,,,,,2b18
 minoraverages/1950TSN,1949,North Atlantic League,sweda,F20943,Sweda,,0,Stroudsburg,,,,,of102
 minoraverages/1950TSN,1949,North Atlantic League,swinger,F22085,Swinger,,0,Lebanon,,,,,p11
-minoraverages/1950TSN,1949,North Atlantic League,swinger,P10304,Swinger,,0,Lebanon,,,,11,
+minoraverages/1950TSN,1949,North Atlantic League,swinger,P10304,Swinger,,0,Lebanon,,,,11,p
 minoraverages/Hamilton,1949,North Atlantic League,swinger,B00680,Swinger,Eugene,0,Lebanon,,,11,,
 minoraverages/Hamilton,1949,North Atlantic League,taussig,B00264,Taussig,William,0,Bangor,,,1,,
 minoraverages/1950TSN,1949,North Atlantic League,thomas-haz,B01402,Thomas,Arthur,0,Hazleton,,,10,,
 minoraverages/1950TSN,1949,North Atlantic League,thomas-naz,B01415,Thomas,Lawrence,0,Nazareth,,,138,,
 minoraverages/1950TSN,1949,North Atlantic League,thomas-naz,F20051,Thomas,,0,Nazareth,,,,,1b136
 minoraverages/1950TSN,1949,North Atlantic League,thomas-haz,F21961,Thomas,,0,Hazleton,,,,,p10
-minoraverages/Hamilton,1949,North Atlantic League,thomas-haz,P10588,Thomas,,0,Hazleton,,,,10,
-minoraverages/Hamilton,1949,North Atlantic League,thomas-naz,P10591,Thomas,,0,Nazareth,,,,4,
+minoraverages/Hamilton,1949,North Atlantic League,thomas-haz,P10588,Thomas,,0,Hazleton,,,,10,p
+minoraverages/Hamilton,1949,North Atlantic League,thomas-naz,P10591,Thomas,,0,Nazareth,,,,4,p
 minoraverages/1950TSN,1949,North Atlantic League,tisch,B01428,Tisch,Louis,0,Carbondale,,,48,,
 minoraverages/1950TSN,1949,North Atlantic League,tisch,F20128,Tisch,,0,Carbondale,,,,,1b47
 minoraverages/1950TSN,1949,North Atlantic League,tondora,B01431,Tondora,John,0,Hazleton,,,107,,
@@ -634,15 +645,15 @@ minoraverages/1950TSN,1949,North Atlantic League,trippenaro,F20604,Trippenaro,,0
 minoraverages/1950TSN,1949,North Atlantic League,trout,B01466,Trout,Robert,0,Stroudsburg,,,33,,
 minoraverages/1950TSN,1949,North Atlantic League,trout,F20014,Trout,,0,Stroudsburg,,,,,1b10
 minoraverages/1950TSN,1949,North Atlantic League,trout,F20970,Trout,,0,Stroudsburg,,,,,of22
-minoraverages/Hamilton,1949,North Atlantic League,troy,P10606,Troy,,0,Bangor,,,,1,
+minoraverages/Hamilton,1949,North Atlantic League,troy,P10606,Troy,,0,Bangor,,,,1,p
 minoraverages/1950TSN,1949,North Atlantic League,turner,B01477,Turner,Robert,1,Peekskill,,,,,
 minoraverages/1950TSN,1949,North Atlantic League,turner,B01477,Turner,Robert,2,Bangor,,,,,
 minoraverages/1950TSN,1949,North Atlantic League,turner,B01477,Turner,Robert,T,,,,12,,
 minoraverages/1950TSN,1949,North Atlantic League,umberger,B01489,Umberger,Richard,0,Lebanon,,,32,,
 minoraverages/1950TSN,1949,North Atlantic League,umberger,F22048,Umberger,,0,Lebanon,,,,,p31
-minoraverages/1950TSN,1949,North Atlantic League,umberger,P10137,Umberger,,0,Lebanon,,,,31,
+minoraverages/1950TSN,1949,North Atlantic League,umberger,P10137,Umberger,,0,Lebanon,,,,31,p
 minoraverages/1950TSN,1949,North Atlantic League,varhely,F21705,Varhely,,0,Stroudsburg,,,,,p29
-minoraverages/1950TSN,1949,North Atlantic League,varhely,P10043,Varhely,,0,Stroudsburg,,,,29,
+minoraverages/1950TSN,1949,North Atlantic League,varhely,P10043,Varhely,,0,Stroudsburg,,,,29,p
 minoraverages/Hamilton,1949,North Atlantic League,varhely,B01313,Varhely,Edward,0,Stroudsburg,,,29,,
 minoraverages/Hamilton,1949,North Atlantic League,walther,B01181,Walther,Howard,0,Peekskill,,,5,,
 minoraverages/1950TSN,1949,North Atlantic League,warke,B01490,Warke,William,1,Hazleton,,,,,
@@ -654,10 +665,10 @@ minoraverages/1950TSN,1949,North Atlantic League,warke,F20526,Warke,,T,,,,,,3b17
 minoraverages/1950TSN,1949,North Atlantic League,warner,B01509,Warner,Harry,0,Stroudsburg,,,127,,
 minoraverages/1950TSN,1949,North Atlantic League,warner,F20046,Warner,,0,Stroudsburg,,,,,1b126
 minoraverages/1950TSN,1949,North Atlantic League,webb,F21912,Webb,,0,Mahanoy City,,,,,p31
-minoraverages/1950TSN,1949,North Atlantic League,webb,P10228,Webb,,0,Mahanoy City,,,,32,
+minoraverages/1950TSN,1949,North Atlantic League,webb,P10228,Webb,,0,Mahanoy City,,,,32,p
 minoraverages/Hamilton,1949,North Atlantic League,webb,B00840,Webb,John,0,Mahanoy City,,,33,,
 minoraverages/Hamilton,1949,North Atlantic League,weidman,B00695,Weidman,Henry,0,Lebanon,,,6,,
-minoraverages/Hamilton,1949,North Atlantic League,weidman,P10611,Weidman,,0,Lebanon,,,,6,
+minoraverages/Hamilton,1949,North Atlantic League,weidman,P10611,Weidman,,0,Lebanon,,,,6,p
 minoraverages/1950TSN,1949,North Atlantic League,weiss-str+naz,B01514,Weiss,Victor,1,Stroudsburg,,,,,
 minoraverages/1950TSN,1949,North Atlantic League,weiss-str+naz,B01514,Weiss,Victor,2,Nazareth,,,,,
 minoraverages/1950TSN,1949,North Atlantic League,weiss-str+naz,B01514,Weiss,Victor,T,,,,49,,
@@ -665,7 +676,7 @@ minoraverages/1950TSN,1949,North Atlantic League,weiss-str+naz,F21125,Weiss,,1,S
 minoraverages/1950TSN,1949,North Atlantic League,weiss-str+naz,F21125,Weiss,,2,Nazareth,,,,,of
 minoraverages/1950TSN,1949,North Atlantic League,weiss-str+naz,F21125,Weiss,,T,,,,,,of49
 minoraverages/1950TSN,1949,North Atlantic League,weiss-mc,F21502,Weiss,,0,Mahanoy City,,,,,p16
-minoraverages/1950TSN,1949,North Atlantic League,weiss-mc,P10527,Weiss,,0,Mahanoy City,,,,16,
+minoraverages/1950TSN,1949,North Atlantic League,weiss-mc,P10527,Weiss,,0,Mahanoy City,,,,16,p
 minoraverages/Hamilton,1949,North Atlantic League,weiss-mc,B00854,Weiss,Ronald,0,Mahanoy City,,,16,,
 minoraverages/1950TSN,1949,North Atlantic League,werst,B01523,Werst,John,0,Mahanoy City,,,13,,
 minoraverages/1950TSN,1949,North Atlantic League,werst,F20878,Werst,,0,Mahanoy City,,,,,of13
@@ -675,20 +686,20 @@ minoraverages/1950TSN,1949,North Atlantic League,williams,B01546,Williams,Frank,
 minoraverages/1950TSN,1949,North Atlantic League,williams,F20893,Williams,,0,Carbondale,,,,,of54
 minoraverages/1950TSN,1949,North Atlantic League,wincek,B01551,Wincek,Walter,0,Peekskill,,,43,,
 minoraverages/1950TSN,1949,North Atlantic League,wincek,F21614,Wincek,,0,Peekskill,,,,,p30
-minoraverages/1950TSN,1949,North Atlantic League,wincek,P10361,Wincek,,0,Peekskill,,,,30,
+minoraverages/1950TSN,1949,North Atlantic League,wincek,P10361,Wincek,,0,Peekskill,,,,30,p
 minoraverages/1950TSN,1949,North Atlantic League,wojcik,B01567,Wojcik,Joseph,0,Hazleton,,,21,,
 minoraverages/1950TSN,1949,North Atlantic League,wojcik,F22004,Wojcik,,0,Hazleton,,,,,p21
-minoraverages/1950TSN,1949,North Atlantic League,wojcik,P10622,Wojcik,,0,Hazleton,,,,21,
+minoraverages/1950TSN,1949,North Atlantic League,wojcik,P10622,Wojcik,,0,Hazleton,,,,21,p
 minoraverages/Hamilton,1949,North Atlantic League,wood.c,B00531,Wood,Charles,0,Hazleton,,,9,,
 minoraverages/Hamilton,1949,North Atlantic League,wood.j,B00544,Wood,Joseph,0,Hazleton,,,3,,
-minoraverages/Hamilton,1949,North Atlantic League,wood.j,P10622,Wood,J.,0,Hazleton,,,,3,
-minoraverages/1950TSN,1949,North Atlantic League,wrightstone,P10767,Wrightstone,,0,,,,,,
+minoraverages/Hamilton,1949,North Atlantic League,wood.j,P10622,Wood,J.,0,Hazleton,,,,3,p
+minoraverages/1950TSN,1949,North Atlantic League,wrightstone,P10767,Wrightstone,,0,,,,,,p
 minoraverages/Hamilton,1949,North Atlantic League,wrightstone,B00705,Wrightstone,Robert,0,Lebanon,,,9,,
-minoraverages/Hamilton,1949,North Atlantic League,wrightstone,P10633,Wrightstone,,0,Lebanon,,,,9,
+minoraverages/Hamilton,1949,North Atlantic League,wrightstone,P10633,Wrightstone,,0,Lebanon,,,,9,p
 minoraverages/Hamilton,1949,North Atlantic League,wynings,B00553,Wynings,Earl,0,Hazleton,,,4,,
 minoraverages/Hamilton,1949,North Atlantic League,yarling,B00362,Yarling,Charles,0,Carbondale,,,7,,
 minoraverages/Hamilton,1949,North Atlantic League,yorck,B01010,Yorck,Sylvester,0,Nazareth,,,4,,
-minoraverages/Hamilton,1949,North Atlantic League,yorck,P10640,Yorck,,0,Nazareth,,,,4,
+minoraverages/Hamilton,1949,North Atlantic League,yorck,P10640,Yorck,,0,Nazareth,,,,4,p
 minoraverages/1950TSN,1949,North Atlantic League,zazzera,B01572,Zazzera,Marino,1,Carbondale,,,,,
 minoraverages/1950TSN,1949,North Atlantic League,zazzera,B01572,Zazzera,Marino,2,Mahanoy City,,,,,
 minoraverages/1950TSN,1949,North Atlantic League,zazzera,B01572,Zazzera,Marino,T,,,,23,,

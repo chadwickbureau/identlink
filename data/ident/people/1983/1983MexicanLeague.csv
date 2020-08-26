@@ -1,7 +1,7 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
 minoraverages/1984TSN,1983,Mexican League,abarca,B03009,Abarca,David,0,Aguascalientes,,,16,,
 minoraverages/1984TSN,1983,Mexican League,abarca,F23730,Abarca,D.,0,Monclova,,,,,p16
-minoraverages/1984TSN,1983,Mexican League,abarca,P10019,Abarca,,0,Aguascalientes,,,,16,
+minoraverages/1984TSN,1983,Mexican League,abarca,P10019,Abarca,,0,Aguascalientes,,,,16,p
 minoraverages/1984TSN,1983,Mexican League,aceves,B00013,Aceves,Alfredo,0,Yucatan,,,88,,
 minoraverages/1984TSN,1983,Mexican League,aceves,F20072,Aceves,,0,Yucatan,,,,,1b42
 minoraverages/1984TSN,1983,Mexican League,aceves,F22618,Aceves,,0,Yucatan,,,,,of18
@@ -11,8 +11,8 @@ minoraverages/1984TSN,1983,Mexican League,acosta-pr,B04513,Acosta,Cecilio,0,Poza
 minoraverages/1984TSN,1983,Mexican League,acosta-tam,F21985,Acosta,L.,0,Tampico,,,,,of15
 minoraverages/1984TSN,1983,Mexican League,acosta-ver,F22992,Acosta,F.,0,Veracruz,,,,,of6
 minoraverages/1984TSN,1983,Mexican League,acosta-pr,F24035,Acosta,C.,0,Poza Rica,,,,,p27
-minoraverages/1984TSN,1983,Mexican League,acosta-pr,P10024,Acosta,C.,0,Poza Rica,,,,27,
-minoraverages/1984TSN,1983,Mexican League,acosta-ver,P10035,Acosta,F.,0,Veracruz,,,,1,
+minoraverages/1984TSN,1983,Mexican League,acosta-pr,P10024,Acosta,C.,0,Poza Rica,,,,27,p
+minoraverages/1984TSN,1983,Mexican League,acosta-ver,P10035,Acosta,F.,0,Veracruz,,,,1,p
 minoraverages/1984TSN,1983,Mexican League,adams,B00045,Adams,Calvin,1,Monterrey,,,18,,
 minoraverages/1984TSN,1983,Mexican League,adams,B00045,Adams,Calvin,2,Monclova,,,91,,
 minoraverages/1984TSN,1983,Mexican League,adams,B00045,Adams,Calvin,T,,,,109,,
@@ -29,17 +29,17 @@ minoraverages/1984TSN,1983,Mexican League,aguilar-agu,F22708,Aguilar,E.,0,Aguasc
 minoraverages/1984TSN,1983,Mexican League,aguilar-mct,F23842,Aguilar,J. M.,0,Mexico City Tigers,,,,,p21
 minoraverages/1984TSN,1983,Mexican League,aguilar-tam,F24818,Aguilar,R.,0,Tampico,,,,,p16
 minoraverages/1984TSN,1983,Mexican League,aguilar-yuc,F25082,Aguilar,V.,0,Yucatan,,,,,p3
-minoraverages/1984TSN,1983,Mexican League,aguilar-mct,P10043,Aguilar,J.,0,Mexico City Tigers,,,,21,
-minoraverages/1984TSN,1983,Mexican League,aguilar-tam,P10056,Aguilar,R. ,0,Tampico,,,,16,
-minoraverages/1984TSN,1983,Mexican League,aguilar-yuc,P10062,Aguilar,V.,0,Yucatan,,,,3,
+minoraverages/1984TSN,1983,Mexican League,aguilar-mct,P10043,Aguilar,J.,0,Mexico City Tigers,,,,21,p
+minoraverages/1984TSN,1983,Mexican League,,P10056,Aguilar,R.,0,Tampico,,,,16,p
+minoraverages/1984TSN,1983,Mexican League,aguilar-yuc,P10062,Aguilar,V.,0,Yucatan,,,,3,p
 minoraverages/1984TSN,1983,Mexican League,alcala,B03014,Alcala,Santo,0,Aguascalientes,,,15,,
 minoraverages/1984TSN,1983,Mexican League,alcala,B04602,Alcala,Santo,0,Saltillo,,,7,,
 minoraverages/1984TSN,1983,Mexican League,alcala,F24070,Alcala,S.,1,Saltillo,,,,,p7
 minoraverages/1984TSN,1983,Mexican League,alcala,F24070,Alcala,S.,2,Aguascalientes,,,,,p15
 minoraverages/1984TSN,1983,Mexican League,alcala,F24070,Alcala,S.,T,,,,,,p22
-minoraverages/1984TSN,1983,Mexican League,alcala,P10070,Alcala,,1,Saltillo,,,,7,
-minoraverages/1984TSN,1983,Mexican League,alcala,P10070,Alcala,,2,Aguascalientes,,,,15,
-minoraverages/1984TSN,1983,Mexican League,alcala,P10070,Alcala,,T,,,,,22,
+minoraverages/1984TSN,1983,Mexican League,alcala,P10070,Alcala,,1,Saltillo,,,,7,p
+minoraverages/1984TSN,1983,Mexican League,alcala,P10070,Alcala,,2,Aguascalientes,,,,15,p
+minoraverages/1984TSN,1983,Mexican League,alcala,P10070,Alcala,,T,,,,,22,p
 minoraverages/1984TSN,1983,Mexican League,alcaraz,B00068,Alcaraz,Florencio,0,Leon,,,2,,
 minoraverages/1984TSN,1983,Mexican League,alexander-coa,B00076,Alexander,Gary,0,Coatzacoalcos,,,40,,
 minoraverages/1984TSN,1983,Mexican League,alexander-mct,B00084,Alexander,Matthew,0,Mexico City Tigers,,,116,,
@@ -49,7 +49,7 @@ minoraverages/1984TSN,1983,Mexican League,alexander-coa,F21904,Alexander,G.,0,Co
 minoraverages/1984TSN,1983,Mexican League,alexander-mct,F22719,Alexander,M.,0,Mexico City Tigers,,,,,of110
 minoraverages/1984TSN,1983,Mexican League,alicea,B03388,Alicea,Miguel,0,Ciudad Juarez,,,32,,
 minoraverages/1984TSN,1983,Mexican League,alicea,F23953,Alicea,,0,Ciudad Juarez,,,,,p32
-minoraverages/1984TSN,1983,Mexican League,alicea,P10081,Alicea,,0,Ciudad Juarez,,,,32,
+minoraverages/1984TSN,1983,Mexican League,alicea,P10081,Alicea,,0,Ciudad Juarez,,,,32,p
 minoraverages/1984TSN,1983,Mexican League,almeida,B00101,Almeida,Reynaldo,0,Leon,,,54,,
 minoraverages/1984TSN,1983,Mexican League,almeida,F20864,Almeida,,0,Leon,,,,,2b4
 minoraverages/1984TSN,1983,Mexican League,almeida,F21232,Almeida,,0,Leon,,,,,3b23
@@ -69,14 +69,14 @@ minoraverages/1984TSN,1983,Mexican League,arano.w,B00174,Arano,Wilfredo,0,Coatza
 minoraverages/1984TSN,1983,Mexican League,arano.r,B03474,Arano,Ramon,0,Coatzacoalcos,,,27,,
 minoraverages/1984TSN,1983,Mexican League,arano.r,F23570,Arano,R.,0,Coatzacoalcos,,,,,p27
 minoraverages/1984TSN,1983,Mexican League,arano.r,M90047,Arano,Ramon,,Coatzacoalcos,,,,,
-minoraverages/1984TSN,1983,Mexican League,arano.r,P10097,Arano,,0,Coatzacoalcos,,,,27,
+minoraverages/1984TSN,1983,Mexican League,arano.r,P10097,Arano,,0,Coatzacoalcos,,,,27,p
 minoraverages/emilbb,1983,Mexican League,,M90358,Arano,Ramon,,Coatzacoalcos,,,,,
 minoraverages/1984TSN,1983,Mexican League,arce,B00182,Arce,Fco. Javier,0,Leon,,,6,,
 minoraverages/1984TSN,1983,Mexican League,arceo,B05099,Arceo,Luis,0,Yucatan,,,4,,
 minoraverages/1984TSN,1983,Mexican League,arceo,F25118,Arceo,L.,0,Yucatan,,,,,p4
-minoraverages/1984TSN,1983,Mexican League,arceo,P10100,Arceo,,0,Yucatan,,,,4,
+minoraverages/1984TSN,1983,Mexican League,arceo,P10100,Arceo,,0,Yucatan,,,,4,p
 minoraverages/1984TSN,1983,Mexican League,armas,B03482,Armas,Isidro,0,Coatzacoalcos,,,5,,
-minoraverages/1984TSN,1983,Mexican League,armas,P10113,Armas,,0,Coatzacoalcos,,,,5,
+minoraverages/1984TSN,1983,Mexican League,armas,P10113,Armas,,0,Coatzacoalcos,,,,5,p
 minoraverages/1984TSN,1983,Mexican League,arnold,B00196,Arnold,Ron,0,Nuevo Laredo,,,118,,
 minoraverages/1984TSN,1983,Mexican League,arnold,F21811,Arnold,,0,Nuevo Laredo,,,,,of118
 minoraverages/1984TSN,1983,Mexican League,arzate,B00207,Arzate,Martin,1,Nuevo Laredo,,,8,,
@@ -85,7 +85,7 @@ minoraverages/1984TSN,1983,Mexican League,arzate,B00207,Arzate,Martin,T,,,,94,,
 minoraverages/1984TSN,1983,Mexican League,arzate,F22251,Arzate,,1,Nuevo Laredo,,,,,of8
 minoraverages/1984TSN,1983,Mexican League,arzate,F22251,Arzate,,2,Monclova,,,,,of86
 minoraverages/1984TSN,1983,Mexican League,arzate,F22251,Arzate,,T,,,,,,of94
-minoraverages/1984TSN,1983,Mexican League,arzate,P10121,Arzate,,0,Monclova,,,,1,
+minoraverages/1984TSN,1983,Mexican League,arzate,P10121,Arzate,,0,Monclova,,,,1,p
 minoraverages/1984TSN,1983,Mexican League,avila,B00210,Avila,Ruben,0,Tampico,,,72,,
 minoraverages/1984TSN,1983,Mexican League,avila,F20051,Avila,,0,Tampico,,,,,1b72
 minoraverages/1984TSN,1983,Mexican League,avina,B00229,Avina,Fco. Javier,0,Campeche,,,11,,
@@ -94,7 +94,7 @@ minoraverages/1984TSN,1983,Mexican League,ayala-mty,B00232,Ayala,Javier,0,Monter
 minoraverages/1984TSN,1983,Mexican League,ayala-tam,B04880,Ayala,David,0,Tampico,,,21,,
 minoraverages/1984TSN,1983,Mexican League,ayala-mty,F22694,Ayala,J.,0,Monterrey,,,,,of61
 minoraverages/1984TSN,1983,Mexican League,ayala-tam,F24441,Ayala,D.,0,Tampico,,,,,p21
-minoraverages/1984TSN,1983,Mexican League,ayala-tam,P10137,Ayala,,0,Tampico,,,,21,
+minoraverages/1984TSN,1983,Mexican League,ayala-tam,P10137,Ayala,,0,Tampico,,,,21,p
 minoraverages/1984TSN,1983,Mexican League,baca,B00241,Baca,Manuel,0,Veracruz,,,34,,
 minoraverages/1984TSN,1983,Mexican League,baca,F22756,Baca,,0,Veracruz,,,,,of32
 minoraverages/1984TSN,1983,Mexican League,barrera-nl,B00255,Barrera,Jose Antonio,0,Nuevo Laredo,,,87,,
@@ -107,7 +107,7 @@ minoraverages/1984TSN,1983,Mexican League,barrera-nl,F21590,Barrera,J. A.,0,Nuev
 minoraverages/1984TSN,1983,Mexican League,barrera-mcr,F23006,Barrera,N.,0,Mexico City Reds,,,,,of3
 minoraverages/1984TSN,1983,Mexican League,baruch,B04521,Baruch,Matias,0,Poza Rica,,,28,,
 minoraverages/1984TSN,1983,Mexican League,baruch,F23535,Baruch,,0,Poza Rica,,,,,p28
-minoraverages/1984TSN,1983,Mexican League,baruch,P10145,Baruch,,0,Poza Rica,,,,28,
+minoraverages/1984TSN,1983,Mexican League,baruch,P10145,Baruch,,0,Poza Rica,,,,28,p
 minoraverages/1984TSN,1983,Mexican League,batista,B00278,Batista,Rafael,0,Tampico,,,105,,
 minoraverages/1984TSN,1983,Mexican League,batista,F20115,Batista,,0,Tampico,,,,,1b54
 minoraverages/1984TSN,1983,Mexican League,bazan,B00286,Bazan,Pedro,0,Yucatan,,,113,,
@@ -124,10 +124,10 @@ minoraverages/1984TSN,1983,Mexican League,beltran-tam,F23977,Beltran,E.,0,Tampic
 minoraverages/1984TSN,1983,Mexican League,beltran-tab+leo,F24176,Beltran,J.,1,Tabasco,,,,,p9
 minoraverages/1984TSN,1983,Mexican League,beltran-tab+leo,F24176,Beltran,J.,2,Leon,,,,,p13
 minoraverages/1984TSN,1983,Mexican League,beltran-tab+leo,F24176,Beltran,J.,T,,,,,,p22
-minoraverages/1984TSN,1983,Mexican League,beltran-tam,P10159,Beltran,E.,0,Tampico,,,,20,
-minoraverages/1984TSN,1983,Mexican League,beltran-tab+leo,P10168,Beltran,J.,1,Tabasco,,,,9,
-minoraverages/1984TSN,1983,Mexican League,beltran-tab+leo,P10168,Beltran,J.,2,Leon,,,,13,
-minoraverages/1984TSN,1983,Mexican League,beltran-tab+leo,P10168,Beltran,J.,T,,,,,22,
+minoraverages/1984TSN,1983,Mexican League,beltran-tam,P10159,Beltran,E.,0,Tampico,,,,20,p
+minoraverages/1984TSN,1983,Mexican League,beltran-tab+leo,P10168,Beltran,J.,1,Tabasco,,,,9,p
+minoraverages/1984TSN,1983,Mexican League,beltran-tab+leo,P10168,Beltran,J.,2,Leon,,,,13,p
+minoraverages/1984TSN,1983,Mexican League,beltran-tab+leo,P10168,Beltran,J.,T,,,,,22,p
 minoraverages/1984TSN,1983,Mexican League,benitez-tam+mct,B00319,Benitez,J. L.,1,Tampico,,,16,,
 minoraverages/1984TSN,1983,Mexican League,benitez-tam+mct,B00319,Benitez,J. L.,2,Mexico City Tigers,,,41,,
 minoraverages/1984TSN,1983,Mexican League,benitez-tam+mct,B00319,Benitez,J. L.,T,,,,57,,
@@ -151,20 +151,20 @@ minoraverages/1984TSN,1983,Mexican League,blanks,F21450,Blanks,,1,Coatzacoalcos,
 minoraverages/1984TSN,1983,Mexican League,blanks,F21450,Blanks,,2,Tabasco,,,,,ss27
 minoraverages/1984TSN,1983,Mexican League,blanks,F21450,Blanks,,T,,,,,,ss95
 minoraverages/1984TSN,1983,Mexican League,bloonfiels,B04074,Bloonfiels,Mark,0,Monclova,,,5,,
-minoraverages/1984TSN,1983,Mexican League,bloonfiels,P10176,Bloonfiels,,0,Monclova,,,,5,
+minoraverages/1984TSN,1983,Mexican League,bloonfiels,P10176,Bloonfiels,,0,Monclova,,,,5,p
 minoraverages/1984TSN,1983,Mexican League,bobadilla,B00362,Bobadilla,Manuel,0,Ciudad Juarez,,,89,,
 minoraverages/1984TSN,1983,Mexican League,bobadilla,F21021,Bobadilla,,0,Ciudad Juarez,,,,,3b89
 minoraverages/1984TSN,1983,Mexican League,bojorquez,B00370,Bojorquez,Jose,0,Nuevo Laredo,,,40,,
 minoraverages/1984TSN,1983,Mexican League,bojorquez,F20327,Bojorquez,,0,Nuevo Laredo,,,,,1b40
 minoraverages/1984TSN,1983,Mexican League,bordley,B04082,Bordley,Bill,0,Monclova,,,2,,
-minoraverages/1984TSN,1983,Mexican League,bordley,P10184,Bordley,,0,Monclova,,,,2,
+minoraverages/1984TSN,1983,Mexican League,bordley,P10184,Bordley,,0,Monclova,,,,2,p
 minoraverages/1984TSN,1983,Mexican League,bosley,B00381,Bosley,Thad,0,Mexico City Tigers,,,31,,
 minoraverages/1984TSN,1983,Mexican League,bosley,F21961,Bosley,,0,Mexico City Tigers,,,,,of16
 minoraverages/1984TSN,1983,Mexican League,briones,B00397,Briones,Antonio,0,Ciudad Juarez,,,117,,
 minoraverages/1984TSN,1983,Mexican League,briones,F20518,Briones,,0,Ciudad Juarez,,,,,2b117
 minoraverages/1984TSN,1983,Mexican League,brunet,B03023,Brunet,George,0,Aguascalientes,,,24,,
 minoraverages/1984TSN,1983,Mexican League,brunet,F23931,Brunet,,0,Veracruz,,,,,p24
-minoraverages/1984TSN,1983,Mexican League,brunet,P10192,Brunet,,0,Veracruz,,,,24,
+minoraverages/1984TSN,1983,Mexican League,brunet,P10192,Brunet,,0,Veracruz,,,,24,p
 minoraverages/1984TSN,1983,Mexican League,bryant,B00403,Bryant,Derek,0,Mexico City Tigers,,,114,,
 minoraverages/1984TSN,1983,Mexican League,bryant,F22582,Bryant,,0,Mexico City Tigers,,,,,of103
 minoraverages/1984TSN,1983,Mexican League,buenrostro,B00416,Buenrostro,Jose Luis,0,Yucatan,,,51,,
@@ -191,7 +191,7 @@ minoraverages/1984TSN,1983,Mexican League,canedo-tam+mon,F21531,Canedo,,1,Tampic
 minoraverages/1984TSN,1983,Mexican League,canedo-tam+mon,F21531,Canedo,,2,Monclova,,,,,ss49
 minoraverages/1984TSN,1983,Mexican League,canedo-tam+mon,F21531,Canedo,,T,,,,,,ss90
 minoraverages/1984TSN,1983,Mexican League,canedo-agu,F25224,Canedo,,0,Aguascalientes,,,,,p5
-minoraverages/1984TSN,1983,Mexican League,canedo-agu,P10202,Canedo,,0,Aguascalientes,,,,5,
+minoraverages/1984TSN,1983,Mexican League,canedo-agu,P10202,Canedo,,0,Aguascalientes,,,,5,p
 minoraverages/1984TSN,1983,Mexican League,carreno,B00475,Carreno,Luis Alberto,0,Monclova,,,21,,
 minoraverages/1984TSN,1983,Mexican League,carreno,F21973,Carreno,,0,Monclova,,,,,of21
 minoraverages/1984TSN,1983,Mexican League,carrillo-agu,B00488,Carrillo,Francisco,0,Aguascalientes,,,43,,
@@ -200,24 +200,24 @@ minoraverages/1984TSN,1983,Mexican League,carrillo-pr,F22246,Carrillo,,0,Poza Ri
 minoraverages/1984TSN,1983,Mexican League,carrillo-agu,F22797,Carrillo,,0,Aguascalientes,,,,,of43
 minoraverages/1984TSN,1983,Mexican League,casas,B03046,Casas,Arturo,0,Aguascalientes,,,1,,
 minoraverages/1984TSN,1983,Mexican League,casas,B03943,Casas,Arturo,0,Mexico City Tigers,,,3,,
-minoraverages/1984TSN,1983,Mexican League,casas,P10215,Casas,,1,Aguascalientes,,,,1,
-minoraverages/1984TSN,1983,Mexican League,casas,P10215,Casas,,2,Mexico City Tigers,,,,3,
-minoraverages/1984TSN,1983,Mexican League,casas,P10215,Casas,,T,,,,,4,
+minoraverages/1984TSN,1983,Mexican League,casas,P10215,Casas,,1,Aguascalientes,,,,1,p
+minoraverages/1984TSN,1983,Mexican League,casas,P10215,Casas,,2,Mexico City Tigers,,,,3,p
+minoraverages/1984TSN,1983,Mexican League,casas,P10215,Casas,,T,,,,,4,p
 minoraverages/1984TSN,1983,Mexican League,castaneda,B04615,Castaneda,Mario,0,Saltillo,,,7,,
 minoraverages/1984TSN,1983,Mexican League,castaneda,F24949,Castaneda,,0,Saltillo,,,,,p7
-minoraverages/1984TSN,1983,Mexican League,castaneda,P10228,Castaneda,,0,Saltillo,,,,7,
+minoraverages/1984TSN,1983,Mexican League,castaneda,P10228,Castaneda,,0,Saltillo,,,,7,p
 minoraverages/1984TSN,1983,Mexican League,castelan,B00502,Castelan,Miguel Angel,0,Campeche,,,91,,
 minoraverages/1984TSN,1983,Mexican League,castelan,F22175,Castelan,,0,Campeche,,,,,of92
 minoraverages/1984TSN,1983,Mexican League,castellon,M90220,Castellon,Roberto,,Tampico,,,,,
 minoraverages/emilbb,1983,Mexican League,,M90204,Castellon,Roberto,,Tampico,,,,,
 minoraverages/1984TSN,1983,Mexican League,castillejos,B03051,Castillejos,Jose,0,Aguascalientes,,,29,,
 minoraverages/1984TSN,1983,Mexican League,castillejos,F23944,Castillejos,,0,Aguascalientes,,,,,p29
-minoraverages/1984TSN,1983,Mexican League,castillejos,P10231,Castillejos,,0,Aguascalientes,,,,29,
+minoraverages/1984TSN,1983,Mexican League,castillejos,P10231,Castillejos,,0,Aguascalientes,,,,29,p
 minoraverages/1984TSN,1983,Mexican League,castillo-jua,B03391,Castillo,Humberto,0,Ciudad Juarez,,,11,,
 minoraverages/1984TSN,1983,Mexican League,castillo-nl,B04322,Castillo,Luis,0,Nuevo Laredo,,,15,,
-minoraverages/1984TSN,1983,Mexican League,castillo-nl,F24723,Castillo,L. T. ,0,Nuevo Laredo,,,,,p15
-minoraverages/1984TSN,1983,Mexican League,castillo-jua,P10244,Castillo,H.,0,Ciudad Juarez,,,,11,
-minoraverages/1984TSN,1983,Mexican League,castillo-nl,P10253,Castillo,L.,0,Nuevo Laredo,,,,15,
+minoraverages/1984TSN,1983,Mexican League,,F24723,Castillo,L. T.,0,Nuevo Laredo,,,,,p15
+minoraverages/1984TSN,1983,Mexican League,castillo-jua,P10244,Castillo,H.,0,Ciudad Juarez,,,,11,p
+minoraverages/1984TSN,1983,Mexican League,castillo-nl,P10253,Castillo,L.,0,Nuevo Laredo,,,,15,p
 minoraverages/1984TSN,1983,Mexican League,castro-mct+tam,B00515,Castro,Antonio,1,Mexico City Tigers,,,19,,
 minoraverages/1984TSN,1983,Mexican League,castro-mct+tam,B00515,Castro,Antonio,2,Tampico,,,97,,
 minoraverages/1984TSN,1983,Mexican League,castro-mct+tam,B00515,Castro,Antonio,T,,,,116,,
@@ -238,7 +238,7 @@ minoraverages/1984TSN,1983,Mexican League,castro-tab,F23213,Castro,E.,0,Tabasco,
 minoraverages/1984TSN,1983,Mexican League,cervantes,B00566,Cervantes,Eduardo,0,Aguascalientes,,,116,,
 minoraverages/1984TSN,1983,Mexican League,cervantes,F20604,Cervantes,,0,Aguascalientes,,,,,2b116
 minoraverages/1984TSN,1983,Mexican League,cesena,B00577,Cesena,Jose Isabel,0,Saltillo,,,1,,
-minoraverages/1984TSN,1983,Mexican League,cesena,P10266,Cesena,,0,Saltillo,,,,16,
+minoraverages/1984TSN,1983,Mexican League,cesena,P10266,Cesena,,0,Saltillo,,,,16,p
 minoraverages/1984TSN,1983,Mexican League,chavez-nl,B00590,Chavez,Jose Santos,0,Nuevo Laredo,,,61,,
 minoraverages/1984TSN,1983,Mexican League,chavez-mva,B00609,Chavez,Juan de Dios,0,Monclova,,,93,,
 minoraverages/1984TSN,1983,Mexican League,chavez-tam,B04910,Chavez,Guadalupe,0,Tampico,,,25,,
@@ -247,34 +247,34 @@ minoraverages/1984TSN,1983,Mexican League,chavez-mva,F20657,Chavez,J.,0,Monclova
 minoraverages/1984TSN,1983,Mexican League,chavez-sal,F21544,Chavez,G.,0,Saltillo,,,,,ss72
 minoraverages/1984TSN,1983,Mexican League,chavez-tam,F24097,Chavez,G.,0,Tampico,,,,,p25
 minoraverages/1984TSN,1983,Mexican League,chavez-yuc,F25194,Chavez,C.,0,Yucatan,,,,,p8
-minoraverages/1984TSN,1983,Mexican League,chavez-tab,P10277,Chavez,C.,0,Tabasco,,,,4,
-minoraverages/1984TSN,1983,Mexican League,chavez-yuc,P10289,Chavez,E.,0,Yucatan,,,,8,
-minoraverages/1984TSN,1983,Mexican League,chavez-tam,P10290,Chavez,G.,0,Tampico,,,,25,
+minoraverages/1984TSN,1983,Mexican League,chavez-tab,P10277,Chavez,C.,0,Tabasco,,,,4,p
+minoraverages/1984TSN,1983,Mexican League,chavez-yuc,P10289,Chavez,E.,0,Yucatan,,,,8,p
+minoraverages/1984TSN,1983,Mexican League,chavez-tam,P10290,Chavez,G.,0,Tampico,,,,25,p
 minoraverages/1984TSN,1983,Mexican League,chavez-sal,B00589,Chavez Baeza,Guadalupe,0,Saltillo,,,72,,
 minoraverages/1984TSN,1983,Mexican League,chevez,B04727,Chevez,Carlos,0,Tabasco,,,4,,
 minoraverages/1984TSN,1983,Mexican League,chevolek,B04235,Chevolek,Tom,0,Monterrey,,,8,,
 minoraverages/1984TSN,1983,Mexican League,chevolek,F24894,Chevolek,,0,Monterrey,,,,,p8
-minoraverages/1984TSN,1983,Mexican League,chevolek,P10304,Chevolek,,0,Monterrey,,,,8,
+minoraverages/1984TSN,1983,Mexican League,chevolek,P10304,Chevolek,,0,Monterrey,,,,8,p
 minoraverages/1984TSN,1983,Mexican League,clayton,F20046,Clayton,,0,Saltillo,,,,,1b81
 minoraverages/1984TSN,1983,Mexican League,collins.j,B00614,Collins,James,0,Coatzacoalcos,,,117,,
 minoraverages/1984TSN,1983,Mexican League,collins.c,B00623,Collins,Silvester,0,Coatzacoalcos,,,10,,
 minoraverages/1984TSN,1983,Mexican League,collins.c,F22036,Collins,,0,Coatzacoalcos,,,,,of10
 minoraverages/1984TSN,1983,Mexican League,collins.j,F22169,Collins,,0,Coatzacoalcos,,,,,of117
-minoraverages/1984TSN,1983,Mexican League,collins.j,P10312,Collins,,0,Coatzacoalcos,,,,1,
+minoraverages/1984TSN,1983,Mexican League,collins.j,P10312,Collins,,0,Coatzacoalcos,,,,1,p
 minoraverages/1984TSN,1983,Mexican League,colorado,B03496,Colorado,Salvador,0,Coatzacoalcos,,,23,,
 minoraverages/1984TSN,1983,Mexican League,colorado,F24503,Colorado,,0,Coatzacoalcos,,,,,p23
-minoraverages/1984TSN,1983,Mexican League,colorado,P10320,Colorado,,0,Coatzacoalcos,,,,23,
+minoraverages/1984TSN,1983,Mexican League,colorado,P10320,Colorado,,0,Coatzacoalcos,,,,23,p
 minoraverages/1984TSN,1983,Mexican League,contreras.j-tam,B00638,Contreras,Juan Carlos,0,Tampico,,,35,,
 minoraverages/1984TSN,1983,Mexican League,contreras-agu,B03067,Contreras,Patricio,0,Aguascalientes,,,3,,
 minoraverages/1984TSN,1983,Mexican League,contreras.r-tam,B04907,Contreras,Roberto,0,Tampico,,,4,,
-minoraverages/1984TSN,1983,Mexican League,contreras-ver,P10336,Contreras,P.,0,Veracruz,,,,3,
-minoraverages/1984TSN,1983,Mexican League,contreras.r-tam,P10348,Contreras,R. ,0,Tampico,,,,4,
+minoraverages/1984TSN,1983,Mexican League,contreras-ver,P10336,Contreras,P.,0,Veracruz,,,,3,p
+minoraverages/1984TSN,1983,Mexican League,,P10348,Contreras,R.,0,Tampico,,,,4,p
 minoraverages/1984TSN,1983,Mexican League,cordova-agu,F23597,Cordoba,E.,0,Aguascalientes,,,,,p17
 minoraverages/1984TSN,1983,Mexican League,cordova-pr,B00646,Cordova,Ignacio,0,Poza Rica,,,8,,
 minoraverages/1984TSN,1983,Mexican League,cordova-agu,B03072,Cordova,Ernesto,0,Aguascalientes,,,17,,
-minoraverages/1984TSN,1983,Mexican League,cordova-agu,P10357,Cordova,,0,Aguascalientes,,,,17,
+minoraverages/1984TSN,1983,Mexican League,cordova-agu,P10357,Cordova,,0,Aguascalientes,,,,17,p
 minoraverages/1984TSN,1983,Mexican League,corona,B03612,Corona,Benjamin,0,Leon,,,2,,
-minoraverages/1984TSN,1983,Mexican League,corona,P10361,Corona,,0,Leon,,,,2,
+minoraverages/1984TSN,1983,Mexican League,corona,P10361,Corona,,0,Leon,,,,2,p
 minoraverages/1984TSN,1983,Mexican League,cesena,F24373,Cosena,,0,Saltillo,,,,,p16
 minoraverages/1984TSN,1983,Mexican League,cosey,B00651,Cosey,Donald Ray,0,Saltillo,,,113,,
 minoraverages/1984TSN,1983,Mexican League,cosey,F22238,Cosey,,0,Saltillo,,,,,of113
@@ -286,14 +286,14 @@ minoraverages/1984TSN,1983,Mexican League,cruz-mty,B04219,Cruz,Victor,0,Monterre
 minoraverages/1984TSN,1983,Mexican League,cruz-leo,F20128,Cruz,H.,0,Leon,,,,,1b114
 minoraverages/1984TSN,1983,Mexican League,cruz-tab,F22411,Cruz,D.,0,Tabasco,,,,,of44
 minoraverages/1984TSN,1983,Mexican League,cruz-mty,F24575,Cruz,V.,0,Monterrey,,,,,p32
-minoraverages/1984TSN,1983,Mexican League,cruz-mty,P10373,Cruz,,0,Monterrey,,,,32,
+minoraverages/1984TSN,1983,Mexican League,cruz-mty,P10373,Cruz,,0,Monterrey,,,,32,p
 minoraverages/1984TSN,1983,Mexican League,cruz-tab,B00680,Cruz De La O,Domingo,0,Tabasco,,,88,,
 minoraverages/1984TSN,1983,Mexican League,crysler,B04224,Crysler,Joel,0,Monterrey,,,5,,
-minoraverages/1984TSN,1983,Mexican League,crysler,P10385,Crysler,,0,Monterrey,,,,5,
+minoraverages/1984TSN,1983,Mexican League,crysler,P10385,Crysler,,0,Monterrey,,,,5,p
 minoraverages/1984TSN,1983,Mexican League,crysler,F25001,Crysley,,0,Monterrey,,,,,p5
 minoraverages/1984TSN,1983,Mexican League,cutty,B04096,Cutty,Francis,0,Monclova,,,30,,
 minoraverages/1984TSN,1983,Mexican League,cutty,F23467,Cutty,,0,Monclova,,,,,p30
-minoraverages/1984TSN,1983,Mexican League,cutty,P10399,Cutty,,0,Monclova,,,,30,
+minoraverages/1984TSN,1983,Mexican League,cutty,P10399,Cutty,,0,Monclova,,,,30,p
 minoraverages/1984TSN,1983,Mexican League,daut,B00705,Daut,Manuel,0,Monterrey,,,37,,
 minoraverages/1984TSN,1983,Mexican League,daut,F23360,Daut,,0,Monterrey,,,,,c37
 minoraverages/1984TSN,1983,Mexican League,davis,B00718,Davis,Stanley,0,Ciudad Juarez,,,60,,
@@ -304,9 +304,9 @@ minoraverages/1984TSN,1983,Mexican League,defreites,F20166,DeFreites,,0,Tabasco,
 minoraverages/1984TSN,1983,Mexican League,defreites,F20745,DeFreites,,0,Tabasco,,,,,2b11
 minoraverages/1984TSN,1983,Mexican League,defreites,F22913,Defrietes,,0,Tabasco,,,,,of6
 minoraverages/1984TSN,1983,Mexican League,delfin,B04243,Delfin,Juan,0,Monterrey,,,22,,
-minoraverages/1984TSN,1983,Mexican League,delfin,P10407,Delfin,,0,Monterrey,,,,22,
+minoraverages/1984TSN,1983,Mexican League,delfin,P10407,Delfin,,0,Monterrey,,,,22,p
 minoraverages/1984TSN,1983,Mexican League,delgadillo,B03080,Delgadillo,Gustavo,0,Aguascalientes,,,2,,
-minoraverages/1984TSN,1983,Mexican League,delgadillo,P10410,Delgadillo,,0,Aguascalientes,,,,2,
+minoraverages/1984TSN,1983,Mexican League,delgadillo,P10410,Delgadillo,,0,Aguascalientes,,,,2,p
 minoraverages/1984TSN,1983,Mexican League,deliza,B00739,Deliza,Juan Ernesto,0,Poza Rica,,,12,,
 minoraverages/1984TSN,1983,Mexican League,diaz.a-cam,B00752,Diaz,Albino,0,Campeche,,,67,,
 minoraverages/1984TSN,1983,Mexican League,diaz-tab,B00760,Diaz,Gustavo,0,Tabasco,,,29,,
@@ -316,22 +316,22 @@ minoraverages/1984TSN,1983,Mexican League,diaz-tab,F21638,Diaz,G.,0,Tabasco,,,,,
 minoraverages/1984TSN,1983,Mexican League,diaz.a-cam,F22743,Diaz,A.,0,Campeche,,,,,of58
 minoraverages/1984TSN,1983,Mexican League,diaz.n-cam,F23629,Diaz,A.,0,Campeche,,,,,p20
 minoraverages/1984TSN,1983,Mexican League,diaz-coa,F24289,Diaz,C.,0,Coatzacoalcos,,,,,p23
-minoraverages/1984TSN,1983,Mexican League,diaz.n-cam,P10429,Diaz,A.,0,Campeche,,,,20,
-minoraverages/1984TSN,1983,Mexican League,diaz-coa,P10432,Diaz,C.,0,Coatzacoalcos,,,,23,
+minoraverages/1984TSN,1983,Mexican League,diaz.n-cam,P10429,Diaz,A.,0,Campeche,,,,20,p
+minoraverages/1984TSN,1983,Mexican League,diaz-coa,P10432,Diaz,C.,0,Coatzacoalcos,,,,23,p
 minoraverages/1984TSN,1983,Mexican League,dimas,B03956,Dimas,Rodolfo,0,Mexico City Tigers,,,42,,
 minoraverages/1984TSN,1983,Mexican League,dimas,F24113,Dimas,,0,Mexico City Tigers,,,,,p42
-minoraverages/1984TSN,1983,Mexican League,dimas,P10441,Dimas,,0,Mexico City Tigers,,,,42,
+minoraverages/1984TSN,1983,Mexican League,dimas,P10441,Dimas,,0,Mexico City Tigers,,,,42,p
 minoraverages/1984TSN,1983,Mexican League,division,B03298,Divison,Julie,0,Campeche,,,35,,
 minoraverages/1984TSN,1983,Mexican League,division,F24698,Divison,,0,Campeche,,,,,p35
-minoraverages/1984TSN,1983,Mexican League,division,P10455,Divison,,0,Campeche,,,,35,
+minoraverages/1984TSN,1983,Mexican League,division,P10455,Divison,,0,Campeche,,,,35,p
 minoraverages/1984TSN,1983,Mexican League,dominguez-cam,B03303,Dominguez,Herminio,0,Campeche,,,26,,
 minoraverages/1984TSN,1983,Mexican League,dominguez-tab,B04734,Dominguez,Manuel,0,Tabasco,,,1,,
 minoraverages/1984TSN,1983,Mexican League,dominguez-cam,F24215,Dominguez,H.,0,Campeche,,,,,p26
-minoraverages/1984TSN,1983,Mexican League,dominguez-cam,P10464,Dominguez,H.,0,Campeche,,,,26,
-minoraverages/1984TSN,1983,Mexican League,dominguez-tab,P10478,Dominguez,M.,0,Tabasco,,,,1,
+minoraverages/1984TSN,1983,Mexican League,dominguez-cam,P10464,Dominguez,H.,0,Campeche,,,,26,p
+minoraverages/1984TSN,1983,Mexican League,dominguez-tab,P10478,Dominguez,M.,0,Tabasco,,,,1,p
 minoraverages/1984TSN,1983,Mexican League,dorin,B03401,Dorin,Matt,0,Ciudad Juarez,,,9,,
 minoraverages/1984TSN,1983,Mexican League,dorin,F24883,Dorin,,0,Ciudad Juarez,,,,,p9
-minoraverages/1984TSN,1983,Mexican League,dorin,P10486,Dorin,,0,Ciudad Juarez,,,,9,
+minoraverages/1984TSN,1983,Mexican League,dorin,P10486,Dorin,,0,Ciudad Juarez,,,,9,p
 minoraverages/1984TSN,1983,Mexican League,duncan,B00771,Duncan,Taylor,1,Coatzacoalcos,,,24,,
 minoraverages/1984TSN,1983,Mexican League,duncan,B00771,Duncan,Taylor,2,Poza Rica,,,89,,
 minoraverages/1984TSN,1983,Mexican League,duncan,B00771,Duncan,Taylor,T,,,,113,,
@@ -350,10 +350,10 @@ minoraverages/1984TSN,1983,Mexican League,edwards,F22422,Edwards,,0,Monterrey,,,
 minoraverages/1984TSN,1983,Mexican League,elizondo,B00822,Elizondo,Fernando,0,Veracruz,,,112,,
 minoraverages/1984TSN,1983,Mexican League,elizondo,F21397,Elizondo,,0,Veracruz,,,,,ss112
 minoraverages/1984TSN,1983,Mexican League,ellis,B04105,Ellis,Duane,0,Monclova,,,7,,
-minoraverages/1984TSN,1983,Mexican League,ellis,P10493,Ellis,,0,Monclova,,,,7,
+minoraverages/1984TSN,1983,Mexican League,ellis,P10493,Ellis,,0,Monclova,,,,7,p
 minoraverages/1984TSN,1983,Mexican League,escarrega,B03784,Escarrega,Ernesto,0,Mexico City Reds,,,19,,
 minoraverages/1984TSN,1983,Mexican League,escarrega,F24852,Escarrega,,0,Mexico City Reds,,,,,p19
-minoraverages/1984TSN,1983,Mexican League,escarrega,P10503,Escarrega,,0,Mexico City Reds,,,,19,
+minoraverages/1984TSN,1983,Mexican League,escarrega,P10503,Escarrega,,0,Mexico City Reds,,,,19,p
 minoraverages/1984TSN,1983,Mexican League,esparza,B00833,Esparza,Julio,0,Poza Rica,,,6,,
 minoraverages/1984TSN,1983,Mexican League,esparza,F21783,Esparza,,0,Poza Rica,,,,,ss6
 minoraverages/1984TSN,1983,Mexican League,espino,B00840,Espino,Hector,0,Monterrey,,,70,,
@@ -361,7 +361,7 @@ minoraverages/1984TSN,1983,Mexican League,espino,F20177,Espino,,0,Monterrey,,,,,
 minoraverages/1984TSN,1983,Mexican League,espinosa,F21999,Espinosa,,0,Coatzacoalcos,,,,,of38
 minoraverages/1984TSN,1983,Mexican League,espinosa,B00854,Espinosa Ramos,Ernesto,0,Coatzacoalcos,,,38,,
 minoraverages/1984TSN,1983,Mexican League,esquivel,B05048,Esquivel,Leonardo,0,Veracruz,,,3,,
-minoraverages/1984TSN,1983,Mexican League,esquivel,P10516,Esquivel,,0,Veracruz,,,,3,
+minoraverages/1984TSN,1983,Mexican League,esquivel,P10516,Esquivel,,0,Veracruz,,,,3,p
 minoraverages/1984TSN,1983,Mexican League,estrada,M90026,Estrad,Francisco,,Campeche,,,,,
 minoraverages/1984TSN,1983,Mexican League,estrada,B00865,Estrada,Francisco,0,Campeche,,,81,,
 minoraverages/1984TSN,1983,Mexican League,estrada,F23033,Estrada,,0,Campeche,,,,,c74
@@ -381,10 +381,10 @@ minoraverages/1984TSN,1983,Mexican League,feola,F24767,Feola,,1,Aguascalientes,,
 minoraverages/1984TSN,1983,Mexican League,feola,F24767,Feola,,2,Veracruz,,,,,p5
 minoraverages/1984TSN,1983,Mexican League,feola,F24767,Feola,,3,Tabasco,,,,,p11
 minoraverages/1984TSN,1983,Mexican League,feola,F24767,Feola,,T,,,,,,p18
-minoraverages/1984TSN,1983,Mexican League,feola,P10527,Feola,,1,Aguascalientes,,,,2,
-minoraverages/1984TSN,1983,Mexican League,feola,P10527,Feola,,2,Veracruz,,,,5,
-minoraverages/1984TSN,1983,Mexican League,feola,P10527,Feola,,3,Tabasco,,,,11,
-minoraverages/1984TSN,1983,Mexican League,feola,P10527,Feola,,T,,,,,18,
+minoraverages/1984TSN,1983,Mexican League,feola,P10527,Feola,,1,Aguascalientes,,,,2,p
+minoraverages/1984TSN,1983,Mexican League,feola,P10527,Feola,,2,Veracruz,,,,5,p
+minoraverages/1984TSN,1983,Mexican League,feola,P10527,Feola,,3,Tabasco,,,,11,p
+minoraverages/1984TSN,1983,Mexican League,feola,P10527,Feola,,T,,,,,18,p
 minoraverages/1984TSN,1983,Mexican League,fernandez,B00912,Fernandez,Daniel,0,Mexico City Reds,,,5,,
 minoraverages/1984TSN,1983,Mexican League,fernandez,F22959,Fernandez,D.,0,Mexico City Reds,,,,,of4
 minoraverages/1984TSN,1983,Mexican League,fierro,B00920,Fierro,Javier,0,Mexico City Tigers,,,6,,
@@ -394,8 +394,8 @@ minoraverages/1984TSN,1983,Mexican League,figueroa-ver,B05061,Figueroa,Miguel,0,
 minoraverages/1984TSN,1983,Mexican League,figueroa-yuc,B05116,Figueroa,Eduardo,0,Yucatan,,,9,,
 minoraverages/1984TSN,1983,Mexican League,figueroa-jua,F22433,Figueroa,L.,0,Ciudad Juarez,,,,,of30
 minoraverages/1984TSN,1983,Mexican League,figueroa-yuc,F24958,Figueroa,E.,0,Yucatan,,,,,p9
-minoraverages/1984TSN,1983,Mexican League,figueroa-yuc,P10534,Figueroa,E.,0,Yucatan,,,,9,
-minoraverages/1984TSN,1983,Mexican League,figueroa-ver,P10542,Figueroa,M.,0,Veracruz,,,,4,
+minoraverages/1984TSN,1983,Mexican League,figueroa-yuc,P10534,Figueroa,E.,0,Yucatan,,,,9,p
+minoraverages/1984TSN,1983,Mexican League,figueroa-ver,P10542,Figueroa,M.,0,Veracruz,,,,4,p
 minoraverages/1984TSN,1983,Mexican League,firova,F23268,Firoba,,0,Nuevo Laredo,,,,,c72
 minoraverages/1984TSN,1983,Mexican League,firova,B00948,Firova,Dan,0,Nuevo Laredo,,,72,,
 minoraverages/1984TSN,1983,Mexican League,flores-yuc,B00957,Flores,Mario,0,Yucatan,,,19,,
@@ -412,8 +412,8 @@ minoraverages/1984TSN,1983,Mexican League,franco-pr,B00999,Franco,Francisco,0,Po
 minoraverages/1984TSN,1983,Mexican League,franco-tab,B04750,Franco,David,0,Tabasco,,,3,,
 minoraverages/1984TSN,1983,Mexican League,franco-pr,F24357,Franco,,0,Poza Rica,,,,,p27
 minoraverages/1984TSN,1983,Mexican League,franco-tab,F25063,Franco,D.,0,Tabasco,,,,,p3
-minoraverages/1984TSN,1983,Mexican League,franco-tab,P10550,Franco,D.,0,Tabasco,,,,3,
-minoraverages/1984TSN,1983,Mexican League,franco-pr,P10569,Franco,F.,0,Poza Rica,,,,27,
+minoraverages/1984TSN,1983,Mexican League,franco-tab,P10550,Franco,D.,0,Tabasco,,,,3,p
+minoraverages/1984TSN,1983,Mexican League,franco-pr,P10569,Franco,F.,0,Poza Rica,,,,27,p
 minoraverages/1984TSN,1983,Mexican League,frias,B01007,Frias,Jesus,0,Tampico,,,103,,
 minoraverages/1984TSN,1983,Mexican League,frias,F21427,Frias,,0,Tampico,,,,,ss103
 minoraverages/1984TSN,1983,Mexican League,funderburk,B01010,Funderburk,Mark,0,Mexico City Tigers,,,36,,
@@ -428,12 +428,12 @@ minoraverages/1984TSN,1983,Mexican League,gage,F22150,Gage,,2,Monterrey,,,,,of72
 minoraverages/1984TSN,1983,Mexican League,gage,F22150,Gage,,T,,,,,,of103
 minoraverages/1984TSN,1983,Mexican League,galindo,B04929,Galindo,Jose,0,Tampico,,,15,,
 minoraverages/1984TSN,1983,Mexican League,galindo,F23758,Galindo,,0,Tampico,,,,,p15
-minoraverages/1984TSN,1983,Mexican League,galindo,P10575,Galindo,,0,Tampico,,,,15,
+minoraverages/1984TSN,1983,Mexican League,galindo,P10575,Galindo,,0,Tampico,,,,15,p
 minoraverages/1984TSN,1983,Mexican League,gamez,B03316,Gamez,Carlos,0,Campeche,,,1,,
-minoraverages/1984TSN,1983,Mexican League,gamez,P10588,Gamez,,0,Campeche,,,,1,
+minoraverages/1984TSN,1983,Mexican League,gamez,P10588,Gamez,,0,Campeche,,,,1,p
 minoraverages/1984TSN,1983,Mexican League,gamundi,B01032,Gamundi,Timoteo,0,Poza Rica,,,104,,
 minoraverages/1984TSN,1983,Mexican League,gamundi,F22329,Gamundi,,0,Poza Rica,,,,,of104
-minoraverages/1984TSN,1983,Mexican League,gamundi,P10591,Gamundi,,0,Poza Rica,,,,2,
+minoraverages/1984TSN,1983,Mexican League,gamundi,P10591,Gamundi,,0,Poza Rica,,,,2,p
 minoraverages/1984TSN,1983,Mexican League,garcia-leo,B01041,Garcia,Enrique,0,Leon,,,1,,
 minoraverages/1984TSN,1983,Mexican League,garcia-pr,B01055,Garcia,Sabino,0,Poza Rica,,,13,,
 minoraverages/1984TSN,1983,Mexican League,garcia-mva,B04118,Garcia,Rogelio,0,Monclova,,,42,,
@@ -446,19 +446,19 @@ minoraverages/1984TSN,1983,Mexican League,garcia.l-lar,F24464,Garcia,L.,0,Nuevo 
 minoraverages/1984TSN,1983,Mexican League,garcia.v-lar,F24606,Garcia,V.,0,Nuevo Laredo,,,,,p21
 minoraverages/1984TSN,1983,Mexican League,garcia-leo,F24679,Garcia,E.,0,Leon,,,,,p29
 minoraverages/1984TSN,1983,Mexican League,garcia.d-pr,M90155,Garcia,David,,Poza Rica,,,,,
-minoraverages/1984TSN,1983,Mexican League,garcia-leo,P10606,Garcia,E.,0,Leon,,,,29,
-minoraverages/1984TSN,1983,Mexican League,garcia-ver,P10611,Garcia,J.,0,Veracruz,,,,25,
-minoraverages/1984TSN,1983,Mexican League,garcia.l-lar,P10622,Garcia,L.,0,Nuevo Laredo,,,,22,
-minoraverages/1984TSN,1983,Mexican League,garcia-mva,P10633,Garcia,R. ,0,Monclova,,,,42,
-minoraverages/1984TSN,1983,Mexican League,garcia.v-lar,P10640,Garcia,V.,0,Nuevo Laredo,,,,21,
+minoraverages/1984TSN,1983,Mexican League,garcia-leo,P10606,Garcia,E.,0,Leon,,,,29,p
+minoraverages/1984TSN,1983,Mexican League,garcia-ver,P10611,Garcia,J.,0,Veracruz,,,,25,p
+minoraverages/1984TSN,1983,Mexican League,garcia.l-lar,P10622,Garcia,L.,0,Nuevo Laredo,,,,22,p
+minoraverages/1984TSN,1983,Mexican League,,P10633,Garcia,R.,0,Monclova,,,,42,p
+minoraverages/1984TSN,1983,Mexican League,garcia.v-lar,P10640,Garcia,V.,0,Nuevo Laredo,,,,21,p
 minoraverages/emilbb,1983,Mexican League,,M90382,Garcia,Jose Luis,,Veracruz,,,,,
 minoraverages/emilbb,1983,Mexican League,,M90396,Garcia,David,,Poza Rica,,,,,
 minoraverages/1984TSN,1983,Mexican League,garcia-ver,M90236,Garcia Cobos,Jose Luis,,Veracruz,,,,,
 minoraverages/1984TSN,1983,Mexican League,garcia.l-lar,B04333,Garciz,Leonel,0,Nuevo Laredo,,,20,,
 minoraverages/1984TSN,1983,Mexican League,garduza.jm,B04537,Garduza,Jose,0,Poza Rica,,,4,,
 minoraverages/1984TSN,1983,Mexican League,garduza.ja,B04545,Garduza,Jose,0,Poza Rica,,,7,,
-minoraverages/1984TSN,1983,Mexican League,garduza.ja,P10654,Garduza,J. A.,0,Poza Rica,,,,7,
-minoraverages/1984TSN,1983,Mexican League,garduza.jm,P10665,Garduza,J. M.,0,Poza Rica,,,,4,
+minoraverages/1984TSN,1983,Mexican League,garduza.ja,P10654,Garduza,J. A.,0,Poza Rica,,,,7,p
+minoraverages/1984TSN,1983,Mexican League,garduza.jm,P10665,Garduza,J. M.,0,Poza Rica,,,,4,p
 minoraverages/1984TSN,1983,Mexican League,garza-yuc+tab,B01064,Garza,Adolfo,1,Yucatan,,,17,,
 minoraverages/1984TSN,1983,Mexican League,garza-yuc+tab,B01064,Garza,Adolfo,2,Tabasco,,,86,,
 minoraverages/1984TSN,1983,Mexican League,garza-yuc+tab,B01064,Garza,Adolfo,T,,,,103,,
@@ -473,7 +473,7 @@ minoraverages/1984TSN,1983,Mexican League,garzon,F20206,Garzon,,0,Coatzacoalcos,
 minoraverages/1984TSN,1983,Mexican League,garzon,F20935,Garzon,,0,Coatzacoalcos,,,,,3b11
 minoraverages/1984TSN,1983,Mexican League,gaxiola,B04256,Gaxiola,Fernando,0,Monterrey,,,24,,
 minoraverages/1984TSN,1983,Mexican League,gaxiola,F24542,Gaxiola,,0,Monterrey,,,,,p24
-minoraverages/1984TSN,1983,Mexican League,gaxiola,P10679,Gaxiola,,0,Monterrey,,,,24,
+minoraverages/1984TSN,1983,Mexican League,gaxiola,P10679,Gaxiola,,0,Monterrey,,,,24,p
 minoraverages/1984TSN,1983,Mexican League,gomez-lar,B01093,Gomez,Alejandro,0,Nuevo Laredo,,,82,,
 minoraverages/1984TSN,1983,Mexican League,gomez-tab,B01108,Gomez,Arturo,0,Tabasco,,,2,,
 minoraverages/1984TSN,1983,Mexican League,gomez-mva,B01119,Gomez,Graciano,0,Monclova,,,111,,
@@ -484,7 +484,7 @@ minoraverages/1984TSN,1983,Mexican League,gomez-lar,F21488,Gomez,Ale.,0,Nuevo La
 minoraverages/1984TSN,1983,Mexican League,gomez-agu,F21589,Gomez,M.,0,Aguascalientes,,,,,ss53
 minoraverages/1984TSN,1983,Mexican League,gomez-mva,F21912,Gomez,G.,0,Monclova,,,,,of58
 minoraverages/1984TSN,1983,Mexican League,gomez-tab,F22968,Gomez,A.,0,Tabasco,,,,,of2
-minoraverages/1984TSN,1983,Mexican League,gomez-leo,P10687,Gomez,,0,Leon,,,,2,
+minoraverages/1984TSN,1983,Mexican League,gomez-leo,P10687,Gomez,,0,Leon,,,,2,p
 minoraverages/1984TSN,1983,Mexican League,gonzalez-mva,B01135,Gonzalez,Arturo,0,Monclova,,,101,,
 minoraverages/1984TSN,1983,Mexican League,gonzalez-yuc,B01143,Gonzalez,Efrain,0,Yucatan,,,10,,
 minoraverages/1984TSN,1983,Mexican League,gonzalez-tam,B01156,Gonzalez,Fernando,0,Tampico,,,88,,
@@ -511,13 +511,13 @@ minoraverages/1984TSN,1983,Mexican League,gonzalez-jua,F23318,Gonzalez,Ri.,0,Ciu
 minoraverages/1984TSN,1983,Mexican League,gonzalez.c-mty,F23543,Gonzalez,C.,0,Monterrey,,,,,p30
 minoraverages/1984TSN,1983,Mexican League,gonzalez.a-mty,F23556,Gonzalez,A.,0,Monterrey,,,,,p23
 minoraverages/1984TSN,1983,Mexican League,gonzalez.i-mty,F25058,Gonzalez,I.,0,Monterrey,,,,,p4
-minoraverages/1984TSN,1983,Mexican League,gonzalez.c-mty,P10698,Gonzalez,C.,0,Monterrey,,,,30,
-minoraverages/1984TSN,1983,Mexican League,gonzalez-mva,P10709,Gonzalez,G. A.,0,Monclova,,,,5,
-minoraverages/1984TSN,1983,Mexican League,gonzalez.i-mty,P10714,Gonzalez,I.,0,Monterrey,,,,4,
-minoraverages/1984TSN,1983,Mexican League,gonzalez.a-mty,P10723,Gonzalez,M. A.,0,Monterrey,,,,23,
+minoraverages/1984TSN,1983,Mexican League,gonzalez.c-mty,P10698,Gonzalez,C.,0,Monterrey,,,,30,p
+minoraverages/1984TSN,1983,Mexican League,gonzalez-mva,P10709,Gonzalez,G. A.,0,Monclova,,,,5,p
+minoraverages/1984TSN,1983,Mexican League,gonzalez.i-mty,P10714,Gonzalez,I.,0,Monterrey,,,,4,p
+minoraverages/1984TSN,1983,Mexican League,gonzalez.a-mty,P10723,Gonzalez,M. A.,0,Monterrey,,,,23,p
 minoraverages/1984TSN,1983,Mexican League,granillo,B05127,Granillo,Carlos,0,Yucatan,,,20,,
 minoraverages/1984TSN,1983,Mexican League,granillo,F24312,Granillo,,0,Yucatan,,,,,p20
-minoraverages/1984TSN,1983,Mexican League,granillo,P10738,Granillo,,0,Yucatan,,,,20,
+minoraverages/1984TSN,1983,Mexican League,granillo,P10738,Granillo,,0,Yucatan,,,,20,p
 minoraverages/1984TSN,1983,Mexican League,gray,B01203,Gray,Gary,0,Mexico City Reds,,,96,,
 minoraverages/1984TSN,1983,Mexican League,gray,F20038,Gray,,0,Mexico City Reds,,,,,1b58
 minoraverages/1984TSN,1983,Mexican League,greene-coa,B01216,Greene,Altar,0,Coatzacoalcos,,,106,,
@@ -529,10 +529,10 @@ minoraverages/1984TSN,1983,Mexican League,greene-yuc+tam+lar,F24202,Greene,,1,Yu
 minoraverages/1984TSN,1983,Mexican League,greene-yuc+tam+lar,F24202,Greene,,2,Tampico,,,,,p1
 minoraverages/1984TSN,1983,Mexican League,greene-yuc+tam+lar,F24202,Greene,,3,Nuevo Laredo,,,,,p19
 minoraverages/1984TSN,1983,Mexican League,greene-yuc+tam+lar,F24202,Greene,,T,,,,,,p23
-minoraverages/1984TSN,1983,Mexican League,greene-yuc+tam+lar,P10746,Greene,,1,Yucatan,,,,3,
-minoraverages/1984TSN,1983,Mexican League,greene-yuc+tam+lar,P10746,Greene,,2,Tampico,,,,1,
-minoraverages/1984TSN,1983,Mexican League,greene-yuc+tam+lar,P10746,Greene,,3,Nuevo Laredo,,,,19,
-minoraverages/1984TSN,1983,Mexican League,greene-yuc+tam+lar,P10746,Greene,,T,,,,,23,
+minoraverages/1984TSN,1983,Mexican League,greene-yuc+tam+lar,P10746,Greene,,1,Yucatan,,,,3,p
+minoraverages/1984TSN,1983,Mexican League,greene-yuc+tam+lar,P10746,Greene,,2,Tampico,,,,1,p
+minoraverages/1984TSN,1983,Mexican League,greene-yuc+tam+lar,P10746,Greene,,3,Nuevo Laredo,,,,19,p
+minoraverages/1984TSN,1983,Mexican League,greene-yuc+tam+lar,P10746,Greene,,T,,,,,23,p
 minoraverages/1984TSN,1983,Mexican League,guerra,B01227,Guerra,Ricardo,1,Mexico City Reds,,,43,,
 minoraverages/1984TSN,1983,Mexican League,guerra,B01227,Guerra,Ricardo,2,Yucatan,,,59,,
 minoraverages/1984TSN,1983,Mexican League,guerra,B01227,Guerra,Ricardo,T,,,,102,,
@@ -549,7 +549,7 @@ minoraverages/emilbb,1983,Mexican League,,M90186,Guerrero,Jose,,Ciudad Juarez,,,
 minoraverages/1984TSN,1983,Mexican League,gutierrez-jua,B03417,Gutierrez,Perfirio,0,Ciudad Juarez,,,26,,
 minoraverages/1984TSN,1983,Mexican League,gutierrez-jua,F24432,Gutierrez,,0,Ciudad Juarez,,,,,p26
 minoraverages/1984TSN,1983,Mexican League,gutierrez-sal,M90178,Gutierrez,Cesar,,Saltillo,,,,,
-minoraverages/1984TSN,1983,Mexican League,gutierrez-jua,P10751,Gutierrez,,0,Ciudad Juarez,,,,26,
+minoraverages/1984TSN,1983,Mexican League,gutierrez-jua,P10751,Gutierrez,,0,Ciudad Juarez,,,,26,p
 minoraverages/emilbb,1983,Mexican League,,M90212,Gutierrez,Cesar,,Saltillo,,,,,
 minoraverages/1984TSN,1983,Mexican League,guzman.a-cam,B01242,Guzman,Andres,0,Campeche,,,57,,
 minoraverages/1984TSN,1983,Mexican League,guzman-mcr,B01250,Guzman,Marco Antonio,0,Mexico City Reds,,,44,,
@@ -565,13 +565,13 @@ minoraverages/1984TSN,1983,Mexican League,guzman-ver+coa,F23816,Guzman,J. R.,1,V
 minoraverages/1984TSN,1983,Mexican League,guzman-ver+coa,F23816,Guzman,J. R.,2,Coatzacoalcos,,,,,p4
 minoraverages/1984TSN,1983,Mexican League,guzman-ver+coa,F23816,Guzman,J. R.,T,,,,,,p19
 minoraverages/1984TSN,1983,Mexican League,guzman.g-cam,F25126,Guzman,G.,0,Campeche,,,,,p3
-minoraverages/1984TSN,1983,Mexican League,guzman.g-cam,P10767,Guzman,G.,0,Campeche,,,,3,
-minoraverages/1984TSN,1983,Mexican League,guzman-ver+coa,P10772,Guzman,J.,1,Veracruz,,,,15,
-minoraverages/1984TSN,1983,Mexican League,guzman-ver+coa,P10772,Guzman,J.,2,Coatzacoalcos,,,,4,
-minoraverages/1984TSN,1983,Mexican League,guzman-ver+coa,P10772,Guzman,J.,T,,,,,19,
-minoraverages/1984TSN,1983,Mexican League,guzman-mva,P10780,Guzman,R. ,0,Monclova,,,,39,
+minoraverages/1984TSN,1983,Mexican League,guzman.g-cam,P10767,Guzman,G.,0,Campeche,,,,3,p
+minoraverages/1984TSN,1983,Mexican League,guzman-ver+coa,P10772,Guzman,J.,1,Veracruz,,,,15,p
+minoraverages/1984TSN,1983,Mexican League,guzman-ver+coa,P10772,Guzman,J.,2,Coatzacoalcos,,,,4,p
+minoraverages/1984TSN,1983,Mexican League,guzman-ver+coa,P10772,Guzman,J.,T,,,,,19,p
+minoraverages/1984TSN,1983,Mexican League,,P10780,Guzman,R.,0,Monclova,,,,39,p
 minoraverages/1984TSN,1983,Mexican League,hallgreen,B04365,Hallgreen,Tim,0,Nuevo Laredo,,,4,,
-minoraverages/1984TSN,1983,Mexican League,hallgreen,P10795,Hallgreen,,0,Nuevo Laredo,,,,4,
+minoraverages/1984TSN,1983,Mexican League,hallgreen,P10795,Hallgreen,,0,Nuevo Laredo,,,,4,p
 minoraverages/1984TSN,1983,Mexican League,hansen,B01269,Hansen,John,0,Aguascalientes,,,40,,
 minoraverages/1984TSN,1983,Mexican League,hansen,F22530,Hansen,,0,Aguascalientes,,,,,of36
 minoraverages/1984TSN,1983,Mexican League,harris,B01275,Harris,Dario,1,Tabasco,,,22,,
@@ -604,8 +604,8 @@ minoraverages/1984TSN,1983,Mexican League,hernandez-mva,F23120,Hernandez,P.,0,Mo
 minoraverages/1984TSN,1983,Mexican League,hernandez-coa,F23157,Hernandez,M.,0,Coatzacoalcos,,,,,c103
 minoraverages/1984TSN,1983,Mexican League,hernandez.a-tam,F23581,Hernandez,A.,0,Tampico,,,,,p20
 minoraverages/1984TSN,1983,Mexican League,hernandez.f-tam,M90212,Hernandez,Felipe,,Tampico,,,,,
-minoraverages/1984TSN,1983,Mexican League,hernandez.a-tam,P10805,Hernandez,A.,0,Tampico,,,,20,
-minoraverages/1984TSN,1983,Mexican League,hernandez.m-mcr,P10818,Hernandez,M.,0,Mexico City Reds,,,,1,
+minoraverages/1984TSN,1983,Mexican League,hernandez.a-tam,P10805,Hernandez,A.,0,Tampico,,,,20,p
+minoraverages/1984TSN,1983,Mexican League,hernandez.m-mcr,P10818,Hernandez,M.,0,Mexico City Reds,,,,1,p
 minoraverages/emilbb,1983,Mexican League,,M90193,Hernandez,Felipe,,Tampico,,,,,
 minoraverages/1984TSN,1983,Mexican League,herrera,B01384,Herrera,Ricardo,0,Campeche,,,99,,
 minoraverages/1984TSN,1983,Mexican League,herrera,F20583,Herrera,,0,Campeche,,,,,2b11
@@ -615,43 +615,43 @@ minoraverages/1984TSN,1983,Mexican League,herring,B01392,Herring,Paul,0,Tabasco,
 minoraverages/1984TSN,1983,Mexican League,herring,F22127,Herring,,0,Tabasco,,,,,of115
 minoraverages/1984TSN,1983,Mexican League,higueras,B03425,Higueras,Teodoro,0,Ciudad Juarez,,,27,,
 minoraverages/1984TSN,1983,Mexican League,higueras,F23607,Higueras,,0,Ciudad Juarez,,,,,p27
-minoraverages/1984TSN,1983,Mexican League,higueras,P10826,Higueras,,0,Ciudad Juarez,,,,27,
+minoraverages/1984TSN,1983,Mexican League,higueras,P10826,Higueras,,0,Ciudad Juarez,,,,27,p
 minoraverages/1984TSN,1983,Mexican League,hinrichs,B03115,Hinrichs,Phillip,0,Aguascalientes,,,5,,
 minoraverages/1984TSN,1983,Mexican League,hinrichs,F24996,Hinrichs,,0,Aguascalientes,,,,,p5
-minoraverages/1984TSN,1983,Mexican League,hinrichs,P10839,Hinrichs,,0,Aguascalientes,,,,5,
+minoraverages/1984TSN,1983,Mexican League,hinrichs,P10839,Hinrichs,,0,Aguascalientes,,,,5,p
 minoraverages/1984TSN,1983,Mexican League,horton,B01402,Horton,Willie,0,Nuevo Laredo,,,49,,
 minoraverages/1984TSN,1983,Mexican League,horton,F22937,Horton,,0,Nuevo Laredo,,,,,of3
 minoraverages/1984TSN,1983,Mexican League,howard-yuc,B01415,Howard,Wilbur,0,Yucatan,,,36,,
 minoraverages/1984TSN,1983,Mexican League,howard-mcr,B03807,Howard,Fred,0,Mexico City Reds,,,3,,
 minoraverages/1984TSN,1983,Mexican League,howard-yuc,F21948,Howard,,0,Yucatan,,,,,of36
 minoraverages/1984TSN,1983,Mexican League,howard-mcr,F24930,Howard,,0,Mexico City Reds,,,,,p3
-minoraverages/1984TSN,1983,Mexican League,howard-mcr,P10847,Howard,,0,Mexico City Reds,,,,3,
+minoraverages/1984TSN,1983,Mexican League,howard-mcr,P10847,Howard,,0,Mexico City Reds,,,,3,p
 minoraverages/1984TSN,1983,Mexican League,huerta-mva,B01428,Huerta,Juan Pedro,0,Monclova,,,20,,
 minoraverages/1984TSN,1983,Mexican League,huerta-lar,B04379,Huerta,Luis,0,Nuevo Laredo,,,4,,
 minoraverages/1984TSN,1983,Mexican League,huerta-mva,F21651,Huerta,,0,Monclova,,,,,ss20
-minoraverages/1984TSN,1983,Mexican League,huerta-lar,P10852,Huerta,,0,Nuevo Laredo,,,,4,
+minoraverages/1984TSN,1983,Mexican League,huerta-lar,P10852,Huerta,,0,Nuevo Laredo,,,,4,p
 minoraverages/1984TSN,1983,Mexican League,ibarra,B03636,Ibarra,Carlos,0,Leon,,,18,,
 minoraverages/1984TSN,1983,Mexican League,ibarra,B03810,Ibarra,Carlos,0,Mexico City Reds,,,7,,
 minoraverages/1984TSN,1983,Mexican League,ibarra,F23990,Ibarra,,1,Leon,,,,,p18
 minoraverages/1984TSN,1983,Mexican League,ibarra,F23990,Ibarra,,2,Mexico City Reds,,,,,p7
 minoraverages/1984TSN,1983,Mexican League,ibarra,F23990,Ibarra,,T,,,,,,p25
-minoraverages/1984TSN,1983,Mexican League,ibarra,P10860,Ibarra,,1,Leon,,,,18,
-minoraverages/1984TSN,1983,Mexican League,ibarra,P10860,Ibarra,,2,Mexico City Reds,,,,7,
-minoraverages/1984TSN,1983,Mexican League,ibarra,P10860,Ibarra,,T,,,,,25,
+minoraverages/1984TSN,1983,Mexican League,ibarra,P10860,Ibarra,,1,Leon,,,,18,p
+minoraverages/1984TSN,1983,Mexican League,ibarra,P10860,Ibarra,,2,Mexico City Reds,,,,7,p
+minoraverages/1984TSN,1983,Mexican League,ibarra,P10860,Ibarra,,T,,,,,25,p
 minoraverages/1984TSN,1983,Mexican League,inzunza,B03648,Inzunza,Sergio,0,Leon,,,40,,
 minoraverages/1984TSN,1983,Mexican League,inzunza,F23989,Inzunza,,0,Leon,,,,,p40
-minoraverages/1984TSN,1983,Mexican League,inzunza,P10871,Inzunza,,0,Leon,,,,40,
+minoraverages/1984TSN,1983,Mexican League,inzunza,P10871,Inzunza,,0,Leon,,,,40,p
 minoraverages/1984TSN,1983,Mexican League,irvine,B01431,Irvine,Edward,0,Nuevo Laredo,,,112,,
 minoraverages/1984TSN,1983,Mexican League,irvine,F22454,Irvine,,0,Ciudad Juarez,,,,,of112
 minoraverages/1984TSN,1983,Mexican League,jackson,B03128,Jackson,Darrell,0,Aguascalientes,,,6,,
 minoraverages/1984TSN,1983,Mexican League,jackson,F25160,Jackson,,0,Aguascalientes,,,,,p6
-minoraverages/1984TSN,1983,Mexican League,jackson,P10883,Jackson,,0,Aguascalientes,,,,6,
+minoraverages/1984TSN,1983,Mexican League,jackson,P10883,Jackson,,0,Aguascalientes,,,,6,p
 minoraverages/1984TSN,1983,Mexican League,jaime,F23827,Jaime,,0,Mexico City Tigers,,,,,p16
-minoraverages/1984TSN,1983,Mexican League,jaime,P10894,Jaime,,0,Mexico City Tigers,,,,16,
+minoraverages/1984TSN,1983,Mexican League,jaime,P10894,Jaime,,0,Mexico City Tigers,,,,16,p
 minoraverages/1984TSN,1983,Mexican League,jaime,B03962,Jamie,Ismael,0,Mexico City Tigers,,,16,,
 minoraverages/1984TSN,1983,Mexican League,jefferson,B03657,Jefferson,Jesse,0,Leon,,,16,,
 minoraverages/1984TSN,1983,Mexican League,jefferson,F24795,Jefferson,,0,Leon,,,,,p16
-minoraverages/1984TSN,1983,Mexican League,jefferson,P10901,Jefferson,,0,Leon,,,,16,
+minoraverages/1984TSN,1983,Mexican League,jefferson,P10901,Jefferson,,0,Leon,,,,16,p
 minoraverages/1984TSN,1983,Mexican League,jimenez-cam,B01444,Jimenez,German,0,Campeche,,,1,,
 minoraverages/1984TSN,1983,Mexican League,jimenez-tam,B01453,Jimenez,Leopoldo,0,Tampico,,,62,,
 minoraverages/1984TSN,1983,Mexican League,jimenez-mva,B04139,Jimenez,Raymundo,0,Monclova,,,23,,
@@ -659,8 +659,8 @@ minoraverages/1984TSN,1983,Mexican League,jimenez-tam,F21210,Jimenez,L.,0,Tampic
 minoraverages/1984TSN,1983,Mexican League,jimenez-tam,F21442,Jimenez,L.,0,Tampico,,,,,ss16
 minoraverages/1984TSN,1983,Mexican League,jimenez-mva,F23632,Jimenez,R.,0,Monclova,,,,,p23
 minoraverages/1984TSN,1983,Mexican League,jimenez-cam,F23875,Jimenez,G.,0,Campeche,,,,,p25
-minoraverages/1984TSN,1983,Mexican League,jimenez-cam,P10917,Jimenez,G.,0,Campeche,,,,25,
-minoraverages/1984TSN,1983,Mexican League,jimenez-mva,P10925,Jimenez,R. ,0,Monclova,,,,23,
+minoraverages/1984TSN,1983,Mexican League,jimenez-cam,P10917,Jimenez,G.,0,Campeche,,,,25,p
+minoraverages/1984TSN,1983,Mexican League,,P10925,Jimenez,R.,0,Monclova,,,,23,p
 minoraverages/1984TSN,1983,Mexican League,johnson,B01466,Johnson,Lorenzo,0,Nuevo Laredo,,,50,,
 minoraverages/1984TSN,1983,Mexican League,johnson,F20648,Johnson,,0,Nuevo Laredo,,,,,2b50
 minoraverages/1984TSN,1983,Mexican League,juarez,B04147,Juarez,Esteban,0,Monclova,,,11,,
@@ -668,9 +668,9 @@ minoraverages/1984TSN,1983,Mexican League,juarez,B04955,Juarez,Esteban,0,Tampico
 minoraverages/1984TSN,1983,Mexican League,juarez,F23519,Juarez,,1,Monclova,,,,,p11
 minoraverages/1984TSN,1983,Mexican League,juarez,F23519,Juarez,,2,Tampico,,,,,p12
 minoraverages/1984TSN,1983,Mexican League,juarez,F23519,Juarez,,T,,,,,,p23
-minoraverages/1984TSN,1983,Mexican League,juarez,P10930,Juarez,,1,Monclova,,,,11,
-minoraverages/1984TSN,1983,Mexican League,juarez,P10930,Juarez,,2,Tampico,,,,12,
-minoraverages/1984TSN,1983,Mexican League,juarez,P10930,Juarez,,T,,,,,23,
+minoraverages/1984TSN,1983,Mexican League,juarez,P10930,Juarez,,1,Monclova,,,,11,p
+minoraverages/1984TSN,1983,Mexican League,juarez,P10930,Juarez,,2,Tampico,,,,12,p
+minoraverages/1984TSN,1983,Mexican League,juarez,P10930,Juarez,,T,,,,,23,p
 minoraverages/1984TSN,1983,Mexican League,lara,B01477,Lara,Francisco,0,Veracruz,,,88,,
 minoraverages/1984TSN,1983,Mexican League,lara,F20369,Lara,,0,Veracruz,,,,,1b9
 minoraverages/1984TSN,1983,Mexican League,lara,F21854,Lara,,0,Veracruz,,,,,of45
@@ -684,7 +684,7 @@ minoraverages/1984TSN,1983,Mexican League,leon-yuc,F20776,Leon,,0,Yucatan,,,,,2b
 minoraverages/1984TSN,1983,Mexican League,leon-yuc,F21125,Leon,,0,Yucatan,,,,,3b58
 minoraverages/1984TSN,1983,Mexican League,leon-yuc,F21416,Leon,,0,Yucatan,,,,,ss18
 minoraverages/1984TSN,1983,Mexican League,leon-mcr,F24336,Leon,,0,Mexico City Reds,,,,,p20
-minoraverages/1984TSN,1983,Mexican League,leon-mcr,P10949,Leon,,0,Mexico City Reds,,,,20,
+minoraverages/1984TSN,1983,Mexican League,leon-mcr,P10949,Leon,,0,Mexico City Reds,,,,20,p
 minoraverages/1984TSN,1983,Mexican League,limon-tab+ver,B01514,Limon,Arturo,1,Tabasco,,,21,,
 minoraverages/1984TSN,1983,Mexican League,limon-tab+ver,B01514,Limon,Arturo,2,Veracruz,,,19,,
 minoraverages/1984TSN,1983,Mexican League,limon-tab+ver,B01514,Limon,Arturo,T,,,,40,,
@@ -714,21 +714,21 @@ minoraverages/1984TSN,1983,Mexican League,lopez.h-mct+sal,F23562,Lopez,H.,T,,,,,
 minoraverages/1984TSN,1983,Mexican League,lopez.t-yuc+mty,F23782,Lopez,T.,1,Yucatan,,,,,p2
 minoraverages/1984TSN,1983,Mexican League,lopez.t-yuc+mty,F23782,Lopez,T.,2,Monterrey,,,,,p11
 minoraverages/1984TSN,1983,Mexican League,lopez.t-yuc+mty,F23782,Lopez,T.,T,,,,,,p13
-minoraverages/1984TSN,1983,Mexican League,lopez.t-yuc+mty,F25049,Lopez,F. ,0,Saltillo,,,,,p4
-minoraverages/1984TSN,1983,Mexican League,lopez-pr,P10958,Lopez,E.,0,Poza Rica,,,,2,
-minoraverages/1984TSN,1983,Mexican League,lopez.f-sal,P10963,Lopez,F.,0,Saltillo,,,,4,
-minoraverages/1984TSN,1983,Mexican League,lopez.h-mct+sal,P10974,Lopez,H.,1,Mexico City Tigers,,,,16,
-minoraverages/1984TSN,1983,Mexican League,lopez.h-mct+sal,P10974,Lopez,H.,2,Saltillo,,,,17,
-minoraverages/1984TSN,1983,Mexican League,lopez.h-mct+sal,P10974,Lopez,H.,T,,,,,33,
-minoraverages/1984TSN,1983,Mexican League,lopez.t-yuc+mty,P10982,Lopez,T.,1,Yucatan,,,,2,
-minoraverages/1984TSN,1983,Mexican League,lopez.t-yuc+mty,P10982,Lopez,T.,2,Monterrey,,,,11,
-minoraverages/1984TSN,1983,Mexican League,lopez.t-yuc+mty,P10982,Lopez,T.,T,,,,,13,
+minoraverages/1984TSN,1983,Mexican League,,F25049,Lopez,F.,0,Saltillo,,,,,p4
+minoraverages/1984TSN,1983,Mexican League,lopez-pr,P10958,Lopez,E.,0,Poza Rica,,,,2,p
+minoraverages/1984TSN,1983,Mexican League,lopez.f-sal,P10963,Lopez,F.,0,Saltillo,,,,4,p
+minoraverages/1984TSN,1983,Mexican League,lopez.h-mct+sal,P10974,Lopez,H.,1,Mexico City Tigers,,,,16,p
+minoraverages/1984TSN,1983,Mexican League,lopez.h-mct+sal,P10974,Lopez,H.,2,Saltillo,,,,17,p
+minoraverages/1984TSN,1983,Mexican League,lopez.h-mct+sal,P10974,Lopez,H.,T,,,,,33,p
+minoraverages/1984TSN,1983,Mexican League,lopez.t-yuc+mty,P10982,Lopez,T.,1,Yucatan,,,,2,p
+minoraverages/1984TSN,1983,Mexican League,lopez.t-yuc+mty,P10982,Lopez,T.,2,Monterrey,,,,11,p
+minoraverages/1984TSN,1983,Mexican League,lopez.t-yuc+mty,P10982,Lopez,T.,T,,,,,13,p
 minoraverages/1984TSN,1983,Mexican League,lora,B01580,Lora,Ramon,0,Campeche,,,93,,
 minoraverages/1984TSN,1983,Mexican League,lora,F20265,Lora,R.,0,Campeche,,,,,1b43
 minoraverages/1984TSN,1983,Mexican League,lora,F23022,Lora,R.,0,Campeche,,,,,c12
 minoraverages/1984TSN,1983,Mexican League,low,B03131,Low,Gabriel,0,Aguascalientes,,,24,,
 minoraverages/1984TSN,1983,Mexican League,low,F23610,Low,,0,Aguascalientes,,,,,p24
-minoraverages/1984TSN,1983,Mexican League,low,P10996,Low,,0,Aguascalientes,,,,24,
+minoraverages/1984TSN,1983,Mexican League,low,P10996,Low,,0,Aguascalientes,,,,24,p
 minoraverages/1984TSN,1983,Mexican League,lugo-agu,B01595,Lugo,Gabriel,0,Aguascalientes,,,76,,
 minoraverages/1984TSN,1983,Mexican League,lugo-pr,B01601,Lugo,Pedro,0,Poza Rica,,,72,,
 minoraverages/1984TSN,1983,Mexican League,lugo-agu,F20298,Lugo,G.,0,Aguascalientes,,,,,1b26
@@ -741,7 +741,7 @@ minoraverages/1984TSN,1983,Mexican League,luna-jua+mva,F23112,Luna,,1,Ciudad Jua
 minoraverages/1984TSN,1983,Mexican League,luna-jua+mva,F23112,Luna,,2,Monclova,,,,,c58
 minoraverages/1984TSN,1983,Mexican League,luna-jua+mva,F23112,Luna,,T,,,,,,c65
 minoraverages/1984TSN,1983,Mexican League,luna-tam,F24839,Luna,,0,Tampico,,,,,p18
-minoraverages/1984TSN,1983,Mexican League,luna-tam,P11009,Luna,,0,Tampico,,,,18,
+minoraverages/1984TSN,1983,Mexican League,luna-tam,P11009,Luna,,0,Tampico,,,,18,p
 minoraverages/1984TSN,1983,Mexican League,luque,M90083,Luque,Gregorio,,Mexico City Tigers,,,,,
 minoraverages/emilbb,1983,Mexican League,,M90325,Luque,Gregorio,,Mexico City Tigers,,,,,
 minoraverages/1984TSN,1983,Mexican League,madero,B01625,Madero,Carlos,0,Poza Rica,,,50,,
@@ -753,13 +753,13 @@ minoraverages/1984TSN,1983,Mexican League,madrigal-agu+leo,F23774,Madrigal,H.,1,
 minoraverages/1984TSN,1983,Mexican League,madrigal-agu+leo,F23774,Madrigal,H.,2,Leon,,,,,p3
 minoraverages/1984TSN,1983,Mexican League,madrigal-agu+leo,F23774,Madrigal,H.,T,,,,,,p13
 minoraverages/1984TSN,1983,Mexican League,madrigal-pr,F24527,Madrigal,J.,0,Poza Rica,,,,,p22
-minoraverages/1984TSN,1983,Mexican League,madrigal-agu+leo,P11014,Madrigal,H.,1,Veracruz,,,,10,
-minoraverages/1984TSN,1983,Mexican League,madrigal-agu+leo,P11014,Madrigal,H.,2,Leon,,,,3,
-minoraverages/1984TSN,1983,Mexican League,madrigal-agu+leo,P11014,Madrigal,H.,T,,,,,13,
-minoraverages/1984TSN,1983,Mexican League,madrigal-pr,P11023,Madrigal,J.,0,Poza Rica,,,,22,
+minoraverages/1984TSN,1983,Mexican League,madrigal-agu+leo,P11014,Madrigal,H.,1,Veracruz,,,,10,p
+minoraverages/1984TSN,1983,Mexican League,madrigal-agu+leo,P11014,Madrigal,H.,2,Leon,,,,3,p
+minoraverages/1984TSN,1983,Mexican League,madrigal-agu+leo,P11014,Madrigal,H.,T,,,,,13,p
+minoraverages/1984TSN,1983,Mexican League,madrigal-pr,P11023,Madrigal,J.,0,Poza Rica,,,,22,p
 minoraverages/1984TSN,1983,Mexican League,mariscal,B04306,Mariscal,Tomas,0,Monterrey,,,26,,
 minoraverages/1984TSN,1983,Mexican League,mariscal,F23717,Mariscal,,0,Monterrey,,,,,p26
-minoraverages/1984TSN,1983,Mexican League,mariscal,P11038,Mariscal,,0,Monterrey,,,,26,
+minoraverages/1984TSN,1983,Mexican League,mariscal,P11038,Mariscal,,0,Monterrey,,,,26,p
 minoraverages/1984TSN,1983,Mexican League,marquez,B01630,Marquez,Francisco,0,Veracruz,,,6,,
 minoraverages/1984TSN,1983,Mexican League,marquez,F23409,Marquez,,0,Veracruz,,,,,c5
 minoraverages/1984TSN,1983,Mexican League,martinez-tam,B01649,Martinez,Alfonso,0,Tampico,,,1,,
@@ -781,16 +781,16 @@ minoraverages/1984TSN,1983,Mexican League,martinez.o-mcr+coa,F21806,Martinez,O.,
 minoraverages/1984TSN,1983,Mexican League,martinez-leo,F23087,Martinez,R.,0,Leon,,,,,c63
 minoraverages/1984TSN,1983,Mexican League,martinez-jua,F23693,Martinez,F.,0,Ciudad Juarez,,,,,p16
 minoraverages/1984TSN,1983,Mexican League,martinez-agu,F24407,Martinez,G.,0,Aguascalientes,,,,,p25
-minoraverages/1984TSN,1983,Mexican League,martinez-jua,P11046,Martinez,F.,0,Ciudad Juarez,,,,16,
-minoraverages/1984TSN,1983,Mexican League,martinez-agu,P11051,Martinez,G.,0,Aguascalientes,,,,25,
+minoraverages/1984TSN,1983,Mexican League,martinez-jua,P11046,Martinez,F.,0,Ciudad Juarez,,,,16,p
+minoraverages/1984TSN,1983,Mexican League,martinez-agu,P11051,Martinez,G.,0,Aguascalientes,,,,25,p
 minoraverages/1984TSN,1983,Mexican League,matos,B04769,Matos,Nelson,0,Tabasco,,,18,,
 minoraverages/1984TSN,1983,Mexican League,matos,B03673,Matus,Nelson,0,Leon,,,7,,
 minoraverages/1984TSN,1983,Mexican League,matos,F24622,Matus,,1,Leon,,,,,p7
 minoraverages/1984TSN,1983,Mexican League,matos,F24622,Matus,,2,Tabasco,,,,,p18
 minoraverages/1984TSN,1983,Mexican League,matos,F24622,Matus,,T,,,,,,p25
-minoraverages/1984TSN,1983,Mexican League,matos,P11067,Matus,,1,Leon,,,,7,
-minoraverages/1984TSN,1983,Mexican League,matos,P11067,Matus,,2,Tabasco,,,,18,
-minoraverages/1984TSN,1983,Mexican League,matos,P11067,Matus,,T,,,,,25,
+minoraverages/1984TSN,1983,Mexican League,matos,P11067,Matus,,1,Leon,,,,7,p
+minoraverages/1984TSN,1983,Mexican League,matos,P11067,Matus,,2,Tabasco,,,,18,p
+minoraverages/1984TSN,1983,Mexican League,matos,P11067,Matus,,T,,,,,25,p
 minoraverages/1984TSN,1983,Mexican League,mcdonald-tab,B01696,McDonald,Anthony,0,Tabasco,,,51,,
 minoraverages/1984TSN,1983,Mexican League,mcdonald-ver,B01706,McDonald,James,0,Veracruz,,,109,,
 minoraverages/1984TSN,1983,Mexican League,mcdonald-ver,F20153,McDonald,,0,Veracruz,,,,,1b21
@@ -800,7 +800,7 @@ minoraverages/1984TSN,1983,Mexican League,mendez-mct,B01711,Mendez,Roberto,0,Mex
 minoraverages/1984TSN,1983,Mexican League,mendez-mcr,B03832,Mendez,Luis,0,Mexico City Reds,,,27,,
 minoraverages/1984TSN,1983,Mexican League,mendez-mct,F20496,Mendez,,0,Mexico City Tigers,,,,,2b33
 minoraverages/1984TSN,1983,Mexican League,mendez-mcr,F24751,Mendez,L. F.,0,Mexico City Reds,,,,,p27
-minoraverages/1984TSN,1983,Mexican League,mendez-mcr,P11072,Mendez,,0,Mexico City Reds,,,,27,
+minoraverages/1984TSN,1983,Mexican League,mendez-mcr,P11072,Mendez,,0,Mexico City Reds,,,,27,p
 minoraverages/1984TSN,1983,Mexican League,mendoza-jua,B01722,Mendoza,Margarito,0,Ciudad Juarez,,,8,,
 minoraverages/1984TSN,1983,Mexican League,mendoza-cam,B01733,Mendoza,Porfirio,0,Campeche,,,59,,
 minoraverages/1984TSN,1983,Mexican League,mendoza-tam,B01740,Mendoza,Ricardo,0,Tampico,,,4,,
@@ -814,15 +814,15 @@ minoraverages/1984TSN,1983,Mexican League,mendoza-cam,F21667,Mendoza,P.,0,Campec
 minoraverages/1984TSN,1983,Mexican League,mendoza-tab,F23104,Mendoza,Sant.,0,Tabasco,,,,,c61
 minoraverages/1984TSN,1983,Mexican League,menendez,B04644,Menendez,Rolando,0,Saltillo,,,27,,
 minoraverages/1984TSN,1983,Mexican League,menendez,F24805,Menendez,R.,0,Saltillo,,,,,p27
-minoraverages/1984TSN,1983,Mexican League,menene,P11080,Menendez,,0,Saltillo,,,,27,
+minoraverages/1984TSN,1983,Mexican League,menene,P11080,Menendez,,0,Saltillo,,,,27,p
 minoraverages/1984TSN,1983,Mexican League,meza,B04387,Meza,Rigobert,0,Nuevo Laredo,,,2,,
-minoraverages/1984TSN,1983,Mexican League,meza,P11095,Meza,,0,Nuevo Laredo,,,,2,
+minoraverages/1984TSN,1983,Mexican League,meza,P11095,Meza,,0,Nuevo Laredo,,,,2,p
 minoraverages/1984TSN,1983,Mexican League,milanez,B03685,Milanez,Luis,0,Leon,,,9,,
 minoraverages/1984TSN,1983,Mexican League,milanez,F25017,Milanez,,0,Leon,,,,,p9
-minoraverages/1984TSN,1983,Mexican League,milanez,P11102,Milanez,,0,Leon,,,,9,
+minoraverages/1984TSN,1983,Mexican League,milanez,P11102,Milanez,,0,Leon,,,,9,p
 minoraverages/1984TSN,1983,Mexican League,miranda,B03526,Miranda,Francisco,0,Coatzacoalcos,,,29,,
 minoraverages/1984TSN,1983,Mexican League,miranda,F24486,Miranda,,0,Coatzacoalcos,,,,,p29
-minoraverages/1984TSN,1983,Mexican League,miranda,P11115,Miranda,,0,Coatzacoalcos,,,,29,
+minoraverages/1984TSN,1983,Mexican League,miranda,P11115,Miranda,,0,Coatzacoalcos,,,,29,p
 minoraverages/1984TSN,1983,Mexican League,molina,B01779,Molina,Jose Maria,1,Tabasco,,,43,,
 minoraverages/1984TSN,1983,Mexican League,molina,B01779,Molina,Jose Maria,2,Poza Rica,,,17,,
 minoraverages/1984TSN,1983,Mexican League,molina,B01779,Molina,Jose Maria,T,,,,60,,
@@ -835,12 +835,12 @@ minoraverages/1984TSN,1983,Mexican League,monreal,F22660,Monreal,,0,Mexico City 
 minoraverages/1984TSN,1983,Mexican League,montano-jua,B01798,Montano,Nicolas,0,Ciudad Juarez,,,5,,
 minoraverages/1984TSN,1983,Mexican League,montano-mct,B03981,Montano,Francisco,0,Mexico City Tigers,,,29,,
 minoraverages/1984TSN,1983,Mexican League,montano-jua,F22984,Montano,,0,Ciudad Juarez,,,,,of5
-minoraverages/1984TSN,1983,Mexican League,montano-mct,F24665,Montano,F. ,0,Mexico City Tigers,,,,,p29
-minoraverages/1984TSN,1983,Mexican League,montano-mct,P11128,Montano,F.,0,Mexico City Tigers,,,,29,
-minoraverages/1984TSN,1983,Mexican League,montano-jua,P11131,Montano,N.,0,Ciudad Juarez,,,,27,
+minoraverages/1984TSN,1983,Mexican League,,F24665,Montano,F.,0,Mexico City Tigers,,,,,p29
+minoraverages/1984TSN,1983,Mexican League,montano-mct,P11128,Montano,F.,0,Mexico City Tigers,,,,29,p
+minoraverages/1984TSN,1983,Mexican League,montano-jua,P11131,Montano,N.,0,Ciudad Juarez,,,,27,p
 minoraverages/1984TSN,1983,Mexican League,montenegro,B03449,Montenegro,Francisco,0,Ciudad Juarez,,,24,,
 minoraverages/1984TSN,1983,Mexican League,montenegro,F24192,Montenegro,,0,Ciudad Juarez,,,,,p24
-minoraverages/1984TSN,1983,Mexican League,montenegro,P11144,Montenegro,,0,Ciudad Juarez,,,,24,
+minoraverages/1984TSN,1983,Mexican League,montenegro,P11144,Montenegro,,0,Ciudad Juarez,,,,24,p
 minoraverages/1984TSN,1983,Mexican League,montiel,B01804,Montiel,Julio,1,Monclova,,,38,,
 minoraverages/1984TSN,1983,Mexican League,montiel,B01804,Montiel,Julio,2,Yucatan,,,75,,
 minoraverages/1984TSN,1983,Mexican League,montiel,B01804,Montiel,Julio,T,,,,113,,
@@ -855,7 +855,7 @@ minoraverages/1984TSN,1983,Mexican League,moore.a-mct,F21068,Moore,A.,0,Mexico C
 minoraverages/1984TSN,1983,Mexican League,moore-sal,F22355,Moore,S.,0,Saltillo,,,,,of111
 minoraverages/1984TSN,1983,Mexican League,moore.a-mct,F22639,Moore,A.,0,Mexico City Tigers,,,,,of24
 minoraverages/1984TSN,1983,Mexican League,moore.e.mct,F25074,Moore,E.,0,Mexico City Tigers,,,,,p4
-minoraverages/1984TSN,1983,Mexican League,moore.e.mct,P11153,Moore,,0,Mexico City Tigers,,,,4,
+minoraverages/1984TSN,1983,Mexican League,moore.e.mct,P11153,Moore,,0,Mexico City Tigers,,,,4,p
 minoraverages/1984TSN,1983,Mexican League,mora,B01848,Mora,Andres,0,Nuevo Laredo,,,118,,
 minoraverages/1984TSN,1983,Mexican League,mora,F22341,Mora,,0,Nuevo Laredo,,,,,of114
 minoraverages/1984TSN,1983,Mexican League,morales-sal,B01857,Morales,Carlos,0,Saltillo,,,16,,
@@ -864,7 +864,7 @@ minoraverages/1984TSN,1983,Mexican League,morales-agu,B03166,Morales,Mario,0,Agu
 minoraverages/1984TSN,1983,Mexican League,morales-mct,F21553,Morales,M.,0,Mexico City Tigers,,,,,ss110
 minoraverages/1984TSN,1983,Mexican League,morales-sal,F22061,Morales,C.,0,Saltillo,,,,,of16
 minoraverages/1984TSN,1983,Mexican League,moralez,F24168,Moralez,,0,Veracruz,,,,,p35
-minoraverages/1984TSN,1983,Mexican League,moralez,P11166,Moralez,,0,Veracruz,,,,35,
+minoraverages/1984TSN,1983,Mexican League,moralez,P11166,Moralez,,0,Veracruz,,,,35,p
 minoraverages/1984TSN,1983,Mexican League,moreno-mcr,B01873,Moreno,Jose,0,Mexico City Reds,,,47,,
 minoraverages/1984TSN,1983,Mexican League,moreno-agu,B03177,Moreno,Jesus,0,Aguascalientes,,,27,,
 minoraverages/1984TSN,1983,Mexican League,moreno-cam,B03334,Moreno,Domingo,0,Campeche,,,2,,
@@ -874,17 +874,17 @@ minoraverages/1984TSN,1983,Mexican League,moreno-mcr,F21840,Moreno,,0,Mexico Cit
 minoraverages/1984TSN,1983,Mexican League,moreno-ver,F24738,Moreno,J.,0,Veracruz,,,,,p27
 minoraverages/1984TSN,1983,Mexican League,moreno-sal,F24826,Moreno,,0,Saltillo,,,,,p21
 minoraverages/1984TSN,1983,Mexican League,moreno-cam,F25147,Moreno,D.,0,Campeche,,,,,p2
-minoraverages/1984TSN,1983,Mexican League,moreno-sal,P11177,Moreno,C.,0,Saltillo,,,,21,
-minoraverages/1984TSN,1983,Mexican League,moreno-cam,P11189,Moreno,D.,0,Campeche,,,,2,
-minoraverages/1984TSN,1983,Mexican League,moreno-ver,P11190,Moreno,J.,0,Veracruz,,,,27,
+minoraverages/1984TSN,1983,Mexican League,moreno-sal,P11177,Moreno,C.,0,Saltillo,,,,21,p
+minoraverages/1984TSN,1983,Mexican League,moreno-cam,P11189,Moreno,D.,0,Campeche,,,,2,p
+minoraverages/1984TSN,1983,Mexican League,moreno-ver,P11190,Moreno,J.,0,Veracruz,,,,27,p
 minoraverages/1984TSN,1983,Mexican League,morris,B01885,Morris,Angel,0,Monclova,,,18,,
 minoraverages/1984TSN,1983,Mexican League,morris,F23383,Morris,,0,Monclova,,,,,c18
 minoraverages/1984TSN,1983,Mexican League,moya,B04666,Moya,Ramon,0,Saltillo,,,16,,
 minoraverages/1984TSN,1983,Mexican League,moya,F24780,Moya,,0,Saltillo,,,,,p16
-minoraverages/1984TSN,1983,Mexican League,moya,P11206,Moya,,0,Saltillo,,,,16,
+minoraverages/1984TSN,1983,Mexican League,moya,P11206,Moya,,0,Saltillo,,,,16,p
 minoraverages/1984TSN,1983,Mexican League,mundo,B03189,Mundo,Jesus,0,Aguascalientes,,,21,,
 minoraverages/1984TSN,1983,Mexican League,mundo,F24550,Mundo,,0,Veracruz,,,,,p21
-minoraverages/1984TSN,1983,Mexican League,mundo,P11211,Mundo,,0,Veracruz,,,,21,
+minoraverages/1984TSN,1983,Mexican League,mundo,P11211,Mundo,,0,Veracruz,,,,21,p
 minoraverages/1984TSN,1983,Mexican League,munoz-agu,B03190,Munez,Miguel,0,Aguascalientes,,,5,,
 minoraverages/1984TSN,1983,Mexican League,munoz-yuc,B01899,Munoz,Eduardo,0,Yucatan,,,89,,
 minoraverages/1984TSN,1983,Mexican League,munoz-mty,B01905,Munoz,Jose Luis,0,Monterrey,,,86,,
@@ -893,10 +893,10 @@ minoraverages/1984TSN,1983,Mexican League,munoz-leo+tam,B04978,Munoz,Emeterio,0,
 minoraverages/1984TSN,1983,Mexican League,munoz-mty,F20713,Munoz,J. L.,0,Monterrey,,,,,2b86
 minoraverages/1984TSN,1983,Mexican League,munoz-yuc,F22501,Munoz,E.,0,Yucatan,,,,,of86
 minoraverages/1984TSN,1983,Mexican League,munoz-agu,F25171,Munoz,M.,0,Aguascalientes,,,,,p5
-minoraverages/1984TSN,1983,Mexican League,munoz-leo+tam,P11222,Munoz,E.,1,Leon,,,,7,
-minoraverages/1984TSN,1983,Mexican League,munoz-leo+tam,P11222,Munoz,E.,2,Tampico,,,,1,
-minoraverages/1984TSN,1983,Mexican League,munoz-leo+tam,P11222,Munoz,E.,T,,,,,8,
-minoraverages/1984TSN,1983,Mexican League,munoz-agu,P11233,Munoz,M.,0,Aguascalientes,,,,5,
+minoraverages/1984TSN,1983,Mexican League,munoz-leo+tam,P11222,Munoz,E.,1,Leon,,,,7,p
+minoraverages/1984TSN,1983,Mexican League,munoz-leo+tam,P11222,Munoz,E.,2,Tampico,,,,1,p
+minoraverages/1984TSN,1983,Mexican League,munoz-leo+tam,P11222,Munoz,E.,T,,,,,8,p
+minoraverages/1984TSN,1983,Mexican League,munoz-agu,P11233,Munoz,M.,0,Aguascalientes,,,,5,p
 minoraverages/1984TSN,1983,Mexican League,murrell,B01918,Murrell,Ivan,0,Leon,,,96,,
 minoraverages/1984TSN,1983,Mexican League,murrell,F22563,Murrell,,0,Leon,,,,,of96
 minoraverages/1984TSN,1983,Mexican League,navarrete-sal,B01926,Navarrete,Juan,0,Saltillo,,,118,,
@@ -904,25 +904,25 @@ minoraverages/1984TSN,1983,Mexican League,navarrete-yuc,B05150,Navarrete,Jorge,0
 minoraverages/1984TSN,1983,Mexican League,navarrete-sal,F20547,Navarrete,J.,0,Saltillo,,,,,2b117
 minoraverages/1984TSN,1983,Mexican League,navarrete-yuc,F25096,Navarrete,Jo.,0,Yucatan,,,,,p2
 minoraverages/1984TSN,1983,Mexican League,navarette-sal,M90186,Navarrete,Juan,,Saltillo,,,,,
-minoraverages/1984TSN,1983,Mexican League,navarette-yuc,P11240,Navarrete,,0,Yucatan,,,,2,
+minoraverages/1984TSN,1983,Mexican League,navarette-yuc,P11240,Navarrete,,0,Yucatan,,,,2,p
 minoraverages/emilbb,1983,Mexican League,,M90220,Navarrete,Juan,,Saltillo,,,,,
 minoraverages/1984TSN,1983,Mexican League,navarro,B04398,Navarro,Adolfo,0,Nuevo Laredo,,,12,,
 minoraverages/1984TSN,1983,Mexican League,navarro,F23725,Navarro,A.,0,Nuevo Laredo,,,,,p12
-minoraverages/1984TSN,1983,Mexican League,navarro,P11254,Navarro,,0,Nuevo Laredo,,,,12,
+minoraverages/1984TSN,1983,Mexican League,navarro,P11254,Navarro,,0,Nuevo Laredo,,,,12,p
 minoraverages/1984TSN,1983,Mexican League,nunez-ver,B01939,Nunez,Arturo,0,Veracruz,,,40,,
 minoraverages/1984TSN,1983,Mexican League,nunez-tab,B04775,Nunez,Mario,0,Tabasco,,,22,,
 minoraverages/1984TSN,1983,Mexican League,nunez-ver,F23040,Nunez,,0,Veracruz,,,,,c40
 minoraverages/1984TSN,1983,Mexican League,nunez-tab,F24516,Nunez,,0,Tabasco,,,,,p22
-minoraverages/1984TSN,1983,Mexican League,nunez-tab,P11265,Nunez,,0,Tabasco,,,,22,
+minoraverages/1984TSN,1983,Mexican League,nunez-tab,P11265,Nunez,,0,Tabasco,,,,22,p
 minoraverages/1984TSN,1983,Mexican League,ochoa-coa,B03539,Ochea,Domingo,0,Coatzacoalcos,,,29,,
 minoraverages/1984TSN,1983,Mexican League,ochoa.p-lar,B01947,Ochoa,Porfirio,0,Nuevo Laredo,,,1,,
 minoraverages/1984TSN,1983,Mexican League,ochoa.j-lar,B04404,Ochoa,Julio,0,Nuevo Laredo,,,27,,
 minoraverages/1984TSN,1983,Mexican League,ochoa.p-lar,F23902,Ochoa,P.,0,Nuevo Laredo,,,,,p41
 minoraverages/1984TSN,1983,Mexican League,ochoa.j-lar,F24137,Ochoa,J.,0,Nuevo Laredo,,,,,p27
 minoraverages/1984TSN,1983,Mexican League,ochoa-coa,F24290,Ochoa,D.,0,Coatzacoalcos,,,,,p29
-minoraverages/1984TSN,1983,Mexican League,ochoa-coa,P11279,Ochoa,D.,0,Coatzacoalcos,,,,29,
-minoraverages/1984TSN,1983,Mexican League,ochoa.j-lar,P11287,Ochoa,J.,0,Nuevo Laredo,,,,27,
-minoraverages/1984TSN,1983,Mexican League,ochoa.p-lar,P11298,Ochoa,P.,0,Nuevo Laredo,,,,41,
+minoraverages/1984TSN,1983,Mexican League,ochoa-coa,P11279,Ochoa,D.,0,Coatzacoalcos,,,,29,p
+minoraverages/1984TSN,1983,Mexican League,ochoa.j-lar,P11287,Ochoa,J.,0,Nuevo Laredo,,,,27,p
+minoraverages/1984TSN,1983,Mexican League,ochoa.p-lar,P11298,Ochoa,P.,0,Nuevo Laredo,,,,41,p
 minoraverages/1984TSN,1983,Mexican League,olivares,B01952,Olivares,Oswaldo,1,Coatzacoalcos,,,36,,
 minoraverages/1984TSN,1983,Mexican League,olivares,B01952,Olivares,Oswaldo,2,Ciudad Juarez,,,48,,
 minoraverages/1984TSN,1983,Mexican League,olivares,B01952,Olivares,Oswaldo,T,,,,84,,
@@ -931,11 +931,11 @@ minoraverages/1984TSN,1983,Mexican League,olivares,F21822,Olivares,,2,Ciudad Jua
 minoraverages/1984TSN,1983,Mexican League,olivares,F21822,Olivares,,T,,,,,,of71
 minoraverages/1984TSN,1983,Mexican League,ontiveros-cam,B03342,Ontiveros,Juan,0,Campeche,,,3,,
 minoraverages/1984TSN,1983,Mexican League,ontiveros-mva,B04152,Ontiveros,Francisco,0,Monclova,,,8,,
-minoraverages/1984TSN,1983,Mexican League,ontiveros-mva,F24974,Ontiveros,F. ,0,Monclova,,,,,p8
-minoraverages/1984TSN,1983,Mexican League,ontiveros-mva,P11303,Ontiveros,F.,0,Monclova,,,,8,
-minoraverages/1984TSN,1983,Mexican League,ontiveros-cam,P11316,Ontiveros,J.,0,Campeche,,,,3,
+minoraverages/1984TSN,1983,Mexican League,,F24974,Ontiveros,F.,0,Monclova,,,,,p8
+minoraverages/1984TSN,1983,Mexican League,ontiveros-mva,P11303,Ontiveros,F.,0,Monclova,,,,8,p
+minoraverages/1984TSN,1983,Mexican League,ontiveros-cam,P11316,Ontiveros,J.,0,Campeche,,,,3,p
 minoraverages/1984TSN,1983,Mexican League,orozco,B03350,Orozco,Jaime,0,Campeche,,,25,,
-minoraverages/1984TSN,1983,Mexican League,orozco,P11327,Orozco,,0,Campeche,,,,25,
+minoraverages/1984TSN,1983,Mexican League,orozco,P11327,Orozco,,0,Campeche,,,,25,p
 minoraverages/1984TSN,1983,Mexican League,ortiz-lar,B01960,Ortiz,Alejandro,0,Nuevo Laredo,,,117,,
 minoraverages/1984TSN,1983,Mexican League,ortiz-mcr,B01971,Ortiz,Alfredo,0,Mexico City Reds,,,15,,
 minoraverages/1984TSN,1983,Mexican League,ortiz-ver,B01983,Ortiz,Jose Manuel,0,Veracruz,,,113,,
@@ -943,7 +943,7 @@ minoraverages/1984TSN,1983,Mexican League,ortiz-mcr,F20449,Ortiz,Alf.,0,Mexico C
 minoraverages/1984TSN,1983,Mexican League,ortiz-ver,F20482,Ortiz,J.,0,Veracruz,,,,,2b113
 minoraverages/1984TSN,1983,Mexican League,ortiz-lar,F21101,Ortiz,Ale.,0,Nuevo Laredo,,,,,3b117
 minoraverages/1984TSN,1983,Mexican League,ortiz-mcr,F23891,Ortiz,Alf.,0,Mexico City Reds,,,,,p26
-minoraverages/1984TSN,1983,Mexican League,ortiz-mcr,P11334,Ortiz,,0,Mexico City Reds,,,,26,
+minoraverages/1984TSN,1983,Mexican League,ortiz-mcr,P11334,Ortiz,,0,Mexico City Reds,,,,26,p
 minoraverages/1984TSN,1983,Mexican League,osuna,B01994,Osuna,Elpidio,0,Ciudad Juarez,,,1,,
 minoraverages/1984TSN,1983,Mexican League,osuna,F22976,Osuna,,0,Ciudad Juarez,,,,,of1
 minoraverages/1984TSN,1983,Mexican League,pacheco,B02008,Pacheco,Claudio,0,Mexico City Tigers,,,63,,
@@ -953,13 +953,13 @@ minoraverages/1984TSN,1983,Mexican League,palacios-agu,B03206,Palacios,Vicente,0
 minoraverages/1984TSN,1983,Mexican League,palacios-tab,B04788,Palacios,Raul,0,Tabasco,,,9,,
 minoraverages/1984TSN,1983,Mexican League,palacios-ver,F24019,Palacios,,0,Veracruz,,,,,p22
 minoraverages/1984TSN,1983,Mexican League,palacios-tab,F25208,Palacios,R.,0,Tabasco,,,,,p9
-minoraverages/1984TSN,1983,Mexican League,palacios-tab,P11342,Palacios,R. ,0,Tabasco,,,,9,
-minoraverages/1984TSN,1983,Mexican League,palacios-ver,P11350,Palacios,V.,0,Veracruz,,,,22,
+minoraverages/1984TSN,1983,Mexican League,,P11342,Palacios,R.,0,Tabasco,,,,9,p
+minoraverages/1984TSN,1983,Mexican League,palacios-ver,P11350,Palacios,V.,0,Veracruz,,,,22,p
 minoraverages/1984TSN,1983,Mexican League,palafox,B04001,Palafox,Juan,0,Mexico City Tigers,,,21,,
 minoraverages/1984TSN,1983,Mexican League,palafox,F24361,Palafox,,0,Mexico City Tigers,,,,,p21
-minoraverages/1984TSN,1983,Mexican League,palafox,P11369,Palafox,,0,Mexico City Tigers,,,,21,
+minoraverages/1984TSN,1983,Mexican League,palafox,P11369,Palafox,,0,Mexico City Tigers,,,,21,p
 minoraverages/1984TSN,1983,Mexican League,palomares,B04986,Palomares,Hernan,0,Tampico,,,3,,
-minoraverages/1984TSN,1983,Mexican League,palomares,P11375,Palomares,,0,Tampico,,,,3,
+minoraverages/1984TSN,1983,Mexican League,palomares,P11375,Palomares,,0,Tampico,,,,3,p
 minoraverages/1984TSN,1983,Mexican League,paredes,B02019,Paredes,Jesus,1,Mexico City Tigers,,,63,,
 minoraverages/1984TSN,1983,Mexican League,paredes,B02019,Paredes,Jesus,2,Nuevo Laredo,,,28,,
 minoraverages/1984TSN,1983,Mexican League,paredes,B02019,Paredes,Jesus,T,,,,91,,
@@ -969,7 +969,7 @@ minoraverages/1984TSN,1983,Mexican League,paredes,F22498,Paredes,,T,,,,,,of77
 minoraverages/1984TSN,1983,Mexican League,parra,B02024,Parra,Salomon,0,Monclova,,,58,,
 minoraverages/1984TSN,1983,Mexican League,parra,F22626,Parra,,0,Monclova,,,,,of48
 minoraverages/1984TSN,1983,Mexican League,partida,B03700,Partida,Gustavo,0,Leon,,,2,,
-minoraverages/1984TSN,1983,Mexican League,partida,P11388,Partida,,0,Leon,,,,2,
+minoraverages/1984TSN,1983,Mexican League,partida,P11388,Partida,,0,Leon,,,,2,p
 minoraverages/1984TSN,1983,Mexican League,pasillas,B02035,Pasillas,Andy,1,Mexico City Tigers,,,10,,
 minoraverages/1984TSN,1983,Mexican League,pasillas,B02035,Pasillas,Andy,2,Tampico,,,83,,
 minoraverages/1984TSN,1983,Mexican League,pasillas,B02035,Pasillas,Andy,T,,,,93,,
@@ -987,15 +987,15 @@ minoraverages/1984TSN,1983,Mexican League,pena-mva,B04160,Pena,Manuel,0,Monclova
 minoraverages/1984TSN,1983,Mexican League,pena-mct,F23966,Pena,J.,0,Mexico City Tigers,,,,,p26
 minoraverages/1984TSN,1983,Mexican League,pena-agu,F24772,Pena,H.,0,Aguascalientes,,,,,p17
 minoraverages/1984TSN,1983,Mexican League,pena-mva,F24925,Pena,,0,Monclova,,,,,p6
-minoraverages/1984TSN,1983,Mexican League,pena-agu,P11391,Pena,H.,0,Aguascalientes,,,,17,
-minoraverages/1984TSN,1983,Mexican League,pena-mct,P11401,Pena,J.,0,Mexico City Tigers,,,,26,
-minoraverages/1984TSN,1983,Mexican League,pena-mva,P11417,Pena,M.,0,Monclova,,,,6,
+minoraverages/1984TSN,1983,Mexican League,pena-agu,P11391,Pena,H.,0,Aguascalientes,,,,17,p
+minoraverages/1984TSN,1983,Mexican League,pena-mct,P11401,Pena,J.,0,Mexico City Tigers,,,,26,p
+minoraverages/1984TSN,1983,Mexican League,pena-mva,P11417,Pena,M.,0,Monclova,,,,6,p
 minoraverages/1984TSN,1983,Mexican League,peralta-mty,B02043,Peralta,Amado,0,Monclova,,,85,,
 minoraverages/1984TSN,1983,Mexican League,peralta-cam,B03369,Peralta,Alvaro,0,Campeche,,,26,,
 minoraverages/1984TSN,1983,Mexican League,peralta-mty,F20350,Peralta,,0,Monterrey,,,,,1b28
 minoraverages/1984TSN,1983,Mexican League,peralta-mty,F23292,Peralta,,0,Monterrey,,,,,c41
 minoraverages/1984TSN,1983,Mexican League,peralta-cam,F24860,Peralta,,0,Campeche,,,,,p26
-minoraverages/1984TSN,1983,Mexican League,peralta-cam,P11425,Peralta,,0,Campeche,,,,26,
+minoraverages/1984TSN,1983,Mexican League,peralta-cam,P11425,Peralta,,0,Campeche,,,,26,p
 minoraverages/1984TSN,1983,Mexican League,peraza,B02056,Peraza,Jose,0,Yucatan,,,11,,
 minoraverages/1984TSN,1983,Mexican League,peraza,F23423,Peraza,,0,Yucatan,,,,,c5
 minoraverages/1984TSN,1983,Mexican League,perez-pr+coa,B02062,Perez,Alfredo,1,Poza Rica,,,50,,
@@ -1010,13 +1010,13 @@ minoraverages/1984TSN,1983,Mexican League,perez-pr+coa,F22683,Perez,A.,2,Coatzac
 minoraverages/1984TSN,1983,Mexican League,perez-pr+coa,F22683,Perez,A.,T,,,,,,of70
 minoraverages/1984TSN,1983,Mexican League,perez-tab,F24493,Perez,C.,0,Tabasco,,,,,p19
 minoraverages/1984TSN,1983,Mexican League,perez-tam,F25025,Perez,A.,0,Tampico,,,,,p6
-minoraverages/1984TSN,1983,Mexican League,perez-tam,P11430,Perez,A.,0,Tampico,,,,6,
-minoraverages/1984TSN,1983,Mexican League,perez-tab,P11449,Perez,C.,0,Tabasco,,,,19,
+minoraverages/1984TSN,1983,Mexican League,perez-tam,P11430,Perez,A.,0,Tampico,,,,6,p
+minoraverages/1984TSN,1983,Mexican League,perez-tab,P11449,Perez,C.,0,Tabasco,,,,19,p
 minoraverages/1984TSN,1983,Mexican League,petters,B02081,Petters,Jay,0,Monclova,,,82,,
 minoraverages/1984TSN,1983,Mexican League,petters,F22487,Petters,,0,Monclova,,,,,of82
-minoraverages/1984TSN,1983,Mexican League,petters,P11458,Petters,,0,Monclova,,,,1,
+minoraverages/1984TSN,1983,Mexican League,petters,P11458,Petters,,0,Monclova,,,,1,p
 minoraverages/1984TSN,1983,Mexican League,pettigren,B04412,Pettigren,William,0,Nuevo Laredo,,,6,,
-minoraverages/1984TSN,1983,Mexican League,pettigren,P11463,Pettigren,,0,Nuevo Laredo,,,,6,
+minoraverages/1984TSN,1983,Mexican League,pettigren,P11463,Pettigren,,0,Nuevo Laredo,,,,6,p
 minoraverages/1984TSN,1983,Mexican League,pierce,B02097,Pierce,Jack,1,Campeche,,,15,,
 minoraverages/1984TSN,1983,Mexican League,pierce,B02097,Pierce,Jack,2,Veracruz,,,48,,
 minoraverages/1984TSN,1983,Mexican League,pierce,B02097,Pierce,Jack,3,Saltillo,,,48,,
@@ -1028,46 +1028,46 @@ minoraverages/1984TSN,1983,Mexican League,pierce,F20222,Pierce,,T,,,,,,1b109
 minoraverages/1984TSN,1983,Mexican League,poe,B02100,Poe,Richard,0,Leon,,,107,,
 minoraverages/1984TSN,1983,Mexican League,poe,F20425,Poe,,0,Leon,,,,,1b4
 minoraverages/1984TSN,1983,Mexican League,poe,F22214,Poe,,0,Leon,,,,,of107
-minoraverages/1984TSN,1983,Mexican League,poe,P11474,Poe,,0,Leon,,,,1,
+minoraverages/1984TSN,1983,Mexican League,poe,P11474,Poe,,0,Leon,,,,1,p
 minoraverages/1984TSN,1983,Mexican League,pollorena-tab,B04809,Pollorena,Oscar,0,Tabasco,,,8,,
 minoraverages/1984TSN,1983,Mexican League,pollorena-sal,F23850,Pollorena,,0,Saltillo,,,,,p23
 minoraverages/1984TSN,1983,Mexican League,pollorena-tab,F25152,Pollorena,,0,Tabasco,,,,,p8
-minoraverages/1984TSN,1983,Mexican League,pollorena-sal,P11482,Pollorena,A.,0,Saltillo,,,,23,
-minoraverages/1984TSN,1983,Mexican League,pollorena-tab,P11496,Pollorena,O.,0,Tabasco,,,,8,
+minoraverages/1984TSN,1983,Mexican League,pollorena-sal,P11482,Pollorena,A.,0,Saltillo,,,,23,p
+minoraverages/1984TSN,1983,Mexican League,pollorena-tab,P11496,Pollorena,O.,0,Tabasco,,,,8,p
 minoraverages/1984TSN,1983,Mexican League,ponce-coa,B03547,Ponce,Jorge Luis,0,Coatzacoalcos,,,4,,
 minoraverages/1984TSN,1983,Mexican League,ponce-yuc,B05169,Ponce,Javier,0,Yucatan,,,6,,
 minoraverages/1984TSN,1983,Mexican League,ponce-yuc,F25030,Ponce,,0,Yucatan,,,,,p6
-minoraverages/1984TSN,1983,Mexican League,ponce-yuc,P11505,Ponce,Ja.,0,Yucatan,,,,6,
-minoraverages/1984TSN,1983,Mexican League,ponce-coa,P11518,Ponce,Jo,0,Coatzacoalcos,,,,4,
+minoraverages/1984TSN,1983,Mexican League,ponce-yuc,P11505,Ponce,Ja.,0,Yucatan,,,,6,p
+minoraverages/1984TSN,1983,Mexican League,ponce-coa,P11518,Ponce,Jo,0,Coatzacoalcos,,,,4,p
 minoraverages/1984TSN,1983,Mexican League,posadas,B04576,Posadas,Rafael,0,Poza Rica,,,20,,
 minoraverages/1984TSN,1983,Mexican League,posadas,F24640,Posadas,,0,Poza Rica,,,,,p20
-minoraverages/1984TSN,1983,Mexican League,posadas,P11526,Posadas,,0,Poza Rica,,,,20,
+minoraverages/1984TSN,1983,Mexican League,posadas,P11526,Posadas,,0,Poza Rica,,,,20,p
 minoraverages/1984TSN,1983,Mexican League,preciado,B03375,Preciado,Ignacio,0,Campeche,,,13,,
 minoraverages/1984TSN,1983,Mexican League,preciado,F24320,Preciado,,0,Campeche,,,,,p13
-minoraverages/1984TSN,1983,Mexican League,preciado,P11539,Preciado,,0,Campeche,,,,13,
+minoraverages/1984TSN,1983,Mexican League,preciado,P11539,Preciado,,0,Campeche,,,,13,p
 minoraverages/1984TSN,1983,Mexican League,prevost,B02113,Prevost,Eric,0,Monterrey,,,1,,
 minoraverages/1984TSN,1983,Mexican League,prevost,F24633,Prevost,,0,Monterrey,,,,,p25
-minoraverages/1984TSN,1983,Mexican League,prevost,P11547,Prevost,,0,Monterrey,,,,25,
+minoraverages/1984TSN,1983,Mexican League,prevost,P11547,Prevost,,0,Monterrey,,,,25,p
 minoraverages/1984TSN,1983,Mexican League,orozco,F24534,Prozco,,0,Campeche,,,,,p25
 minoraverages/1984TSN,1983,Mexican League,pruneda,B03841,Pruneda,Armando,0,Mexico City Reds,,,20,,
 minoraverages/1984TSN,1983,Mexican League,pruneda,F24145,Pruneda,,0,Mexico City Reds,,,,,p20
-minoraverages/1984TSN,1983,Mexican League,pruneda,P11552,Pruneda,,0,Mexico City Reds,,,,20,
+minoraverages/1984TSN,1983,Mexican League,pruneda,P11552,Pruneda,,0,Mexico City Reds,,,,20,p
 minoraverages/1984TSN,1983,Mexican League,pulido.alf,B03855,Pulido,Alfonso,0,Mexico City Reds,,,29,,
 minoraverages/1984TSN,1983,Mexican League,pulido.ant,B03864,Pulido,Antonio,0,Mexico City Reds,,,40,,
 minoraverages/1984TSN,1983,Mexican League,pulido.ant,F24228,Pulido,Ant.,1,Coatzacoalcos,,,,,p31
 minoraverages/1984TSN,1983,Mexican League,pulido.ant,F24228,Pulido,Ant.,2,Mexico City Reds,,,,,p9
 minoraverages/1984TSN,1983,Mexican League,pulido.ant,F24228,Pulido,Ant.,T,,,,,,p40
 minoraverages/1984TSN,1983,Mexican League,pulido.alf,F24385,Pulido,Alf.,0,Mexico City Reds,,,,,p29
-minoraverages/1984TSN,1983,Mexican League,pulido.alf,P11560,Pulido,Alf.,0,Mexico City Reds,,,,29,
-minoraverages/1984TSN,1983,Mexican League,pulido.ant,P11571,Pulido,Ant.,1,Coatzacoalcos,,,,31,
-minoraverages/1984TSN,1983,Mexican League,pulido.ant,P11571,Pulido,Ant.,2,Mexico City Reds,,,,9,
-minoraverages/1984TSN,1983,Mexican League,pulido.ant,P11571,Pulido,Ant.,T,,,,,40,
+minoraverages/1984TSN,1983,Mexican League,pulido.alf,P11560,Pulido,Alf.,0,Mexico City Reds,,,,29,p
+minoraverages/1984TSN,1983,Mexican League,pulido.ant,P11571,Pulido,Ant.,1,Coatzacoalcos,,,,31,p
+minoraverages/1984TSN,1983,Mexican League,pulido.ant,P11571,Pulido,Ant.,2,Mexico City Reds,,,,9,p
+minoraverages/1984TSN,1983,Mexican League,pulido.ant,P11571,Pulido,Ant.,T,,,,,40,p
 minoraverages/1984TSN,1983,Mexican League,purata,B02121,Purata,Julio,0,Poza Rica,,,1,,
 minoraverages/1984TSN,1983,Mexican League,purata,F24253,Purata,,0,Poza Rica,,,,,p28
-minoraverages/1984TSN,1983,Mexican League,purata,P11583,Purata,,0,Poza Rica,,,,28,
+minoraverages/1984TSN,1983,Mexican League,purata,P11583,Purata,,0,Poza Rica,,,,28,p
 minoraverages/1984TSN,1983,Mexican League,quijada,B03552,Quijada,Armando,0,Coatzacoalcos,,,9,,
 minoraverages/1984TSN,1983,Mexican League,quijada,F24982,Quijada,,0,Coatzacoalcos,,,,,p9
-minoraverages/1984TSN,1983,Mexican League,quijada,P11594,Quijada,,0,Coatzacoalcos,,,,9,
+minoraverages/1984TSN,1983,Mexican League,quijada,P11594,Quijada,,0,Coatzacoalcos,,,,9,p
 minoraverages/1984TSN,1983,Mexican League,quinonez-mty+mva,B02145,Quinonez,Ventura,1,Monterrey,,,8,,
 minoraverages/1984TSN,1983,Mexican League,quinonez-mty+mva,B02145,Quinonez,Ventura,2,Monclova,,,49,,
 minoraverages/1984TSN,1983,Mexican League,quinonez-mty+mva,B02145,Quinonez,Ventura,T,,,,57,,
@@ -1076,12 +1076,12 @@ minoraverages/1984TSN,1983,Mexican League,quinonez-mty+mva,F21623,Quinonez,,1,Mo
 minoraverages/1984TSN,1983,Mexican League,quinonez-mty+mva,F21623,Quinonez,,2,Monclova,,,,,ss49
 minoraverages/1984TSN,1983,Mexican League,quinonez-mty+mva,F21623,Quinonez,,T,,,,,,ss57
 minoraverages/1984TSN,1983,Mexican League,quinonez-jua,F24901,Quinonez,,0,Ciudad Juarez,,,,,p6
-minoraverages/1984TSN,1983,Mexican League,quinonez-jua,P11604,Quinonez,,0,Ciudad Juarez,,,,6,
+minoraverages/1984TSN,1983,Mexican League,quinonez-jua,P11604,Quinonez,,0,Ciudad Juarez,,,,6,p
 minoraverages/1984TSN,1983,Mexican League,quintero,B02137,Quintero,Victor,0,Saltillo,,,76,,
 minoraverages/1984TSN,1983,Mexican League,quintero,F21491,Quintero,,0,Saltillo,,,,,ss76
 minoraverages/1984TSN,1983,Mexican League,quiroz,B02159,Quiroz,Jose Julian,0,Nuevo Laredo,,,99,,
 minoraverages/1984TSN,1983,Mexican League,quiroz,F22647,Quiroz,,0,Nuevo Laredo,,,,,of99
-minoraverages/1984TSN,1983,Mexican League,quiroz,P11612,Quiroz,,0,Nuevo Laredo,,,,6,
+minoraverages/1984TSN,1983,Mexican League,quiroz,P11612,Quiroz,,0,Nuevo Laredo,,,,6,p
 minoraverages/1984TSN,1983,Mexican League,ramirez-mva,B02168,Ramirez,Manuel,0,Monclova,,,101,,
 minoraverages/1984TSN,1983,Mexican League,ramirez-agu,B03222,Ramirez,Pedro,0,Aguascalientes,,,1,,
 minoraverages/1984TSN,1983,Mexican League,ramirez-leo,B03713,Ramirez,Jose,0,Leon,,,22,,
@@ -1089,19 +1089,19 @@ minoraverages/1984TSN,1983,Mexican League,ramirez-mty,B04311,Ramirez,Hermenegild
 minoraverages/1984TSN,1983,Mexican League,ramirez-mva,F21158,Ramirez,,0,Monclova,,,,,3b101
 minoraverages/1984TSN,1983,Mexican League,ramirez-mty,F23655,Ramirez,H.,0,Monterrey,,,,,p20
 minoraverages/1984TSN,1983,Mexican League,ramirez-leo,F24081,Ramirez,J.,0,Leon,,,,,p22
-minoraverages/1984TSN,1983,Mexican League,ramirez-mty,P11620,Ramirez,H.,0,Monterrey,,,,20,
-minoraverages/1984TSN,1983,Mexican League,ramirez-leo,P11636,Ramirez,J.,0,Leon,,,,22,
-minoraverages/1984TSN,1983,Mexican League,ramirez-ver,P11648,Ramirez,P.,0,Veracruz,,,,1,
+minoraverages/1984TSN,1983,Mexican League,ramirez-mty,P11620,Ramirez,H.,0,Monterrey,,,,20,p
+minoraverages/1984TSN,1983,Mexican League,ramirez-leo,P11636,Ramirez,J.,0,Leon,,,,22,p
+minoraverages/1984TSN,1983,Mexican League,ramirez-ver,P11648,Ramirez,P.,0,Veracruz,,,,1,p
 minoraverages/1984TSN,1983,Mexican League,randolph,B04420,Randolph,Robert,0,Nuevo Laredo,,,3,,
-minoraverages/1984TSN,1983,Mexican League,randolph,P11657,Randolph,,0,Nuevo Laredo,,,,3,
+minoraverages/1984TSN,1983,Mexican League,randolph,P11657,Randolph,,0,Nuevo Laredo,,,,3,p
 minoraverages/1984TSN,1983,Mexican League,raygoza,B03721,Raygoza,Jose,0,Leon,,,5,,
 minoraverages/1984TSN,1983,Mexican League,raygoza,B04814,Raygoza,Jose,0,Tabasco,,,7,,
 minoraverages/1984TSN,1983,Mexican League,raygoza,F23664,Raygoza,,1,Tabasco,,,,,p7
 minoraverages/1984TSN,1983,Mexican League,raygoza,F23664,Raygoza,,2,Leon,,,,,p5
 minoraverages/1984TSN,1983,Mexican League,raygoza,F23664,Raygoza,,T,,,,,,p12
-minoraverages/1984TSN,1983,Mexican League,raygoza,P11661,Raygoza,,1,Tabasco,,,,7,
-minoraverages/1984TSN,1983,Mexican League,raygoza,P11661,Raygoza,,2,Leon,,,,5,
-minoraverages/1984TSN,1983,Mexican League,raygoza,P11661,Raygoza,,T,,,,,12,
+minoraverages/1984TSN,1983,Mexican League,raygoza,P11661,Raygoza,,1,Tabasco,,,,7,p
+minoraverages/1984TSN,1983,Mexican League,raygoza,P11661,Raygoza,,2,Leon,,,,5,p
+minoraverages/1984TSN,1983,Mexican League,raygoza,P11661,Raygoza,,T,,,,,12,p
 minoraverages/1984TSN,1983,Mexican League,raymundo,B02176,Raymundo,Oscar,0,Yucatan,,,2,,
 minoraverages/1984TSN,1983,Mexican League,raymundo,F23394,Raymundo,,0,Yucatan,,,,,c2
 minoraverages/emilbb,1983,Mexican League,,M90330,Remes,Fernando,,Mexico City Tigers,,,,,
@@ -1117,7 +1117,7 @@ minoraverages/1984TSN,1983,Mexican League,reyes-mcr,M90071,Reyes,Benjamin,,Mexic
 minoraverages/emilbb,1983,Mexican League,,M90301,Reyes,Ben,,Mexico City Reds,,,,,
 minoraverages/1984TSN,1983,Mexican League,rincon,F23888,Ricon,,0,Yucatan,,,,,p20
 minoraverages/1984TSN,1983,Mexican League,rincon,B05175,Rincon,Juan,0,Yucatan,,,20,,
-minoraverages/1984TSN,1983,Mexican League,rincon,P11673,Rincon,,0,Yucatan,,,,20,
+minoraverages/1984TSN,1983,Mexican League,rincon,P11673,Rincon,,0,Yucatan,,,,20,p
 minoraverages/1984TSN,1983,Mexican League,rios-mct,B02228,Rios,Carlos,0,Mexico City Tigers,,,105,,
 minoraverages/1984TSN,1983,Mexican League,rios-mcr+leo,B03737,Rios,Rogelio,0,Leon,,,9,,
 minoraverages/1984TSN,1983,Mexican League,rios-mcr+leo,B03878,Rios,Rogelio,0,Mexico City Reds,,,5,,
@@ -1129,16 +1129,16 @@ minoraverages/1984TSN,1983,Mexican League,rios-lar,F23796,Rios,,0,Nuevo Laredo,,
 minoraverages/1984TSN,1983,Mexican League,rios-mcr+leo,F24687,Rios,,1,Mexico City Reds,,,,,p5
 minoraverages/1984TSN,1983,Mexican League,rios-mcr+leo,F24687,Rios,,2,Leon,,,,,p9
 minoraverages/1984TSN,1983,Mexican League,rios-mcr+leo,F24687,Rios,,T,,,,,,p14
-minoraverages/1984TSN,1983,Mexican League,rios-lar,P11685,Rios,H.,0,Nuevo Laredo,,,,10,
-minoraverages/1984TSN,1983,Mexican League,rios-mcr+leo,P11699,Rios,R. ,1,Mexico City Reds,,,,5,
-minoraverages/1984TSN,1983,Mexican League,rios-mcr+leo,P11699,Rios,R. ,2,Leon,,,,9,
-minoraverages/1984TSN,1983,Mexican League,rios-mcr+leo,P11699,Rios,R. ,T,,,,,14,
+minoraverages/1984TSN,1983,Mexican League,rios-lar,P11685,Rios,H.,0,Nuevo Laredo,,,,10,p
+minoraverages/1984TSN,1983,Mexican League,,P11699,Rios,R.,1,Mexico City Reds,,,,5,p
+minoraverages/1984TSN,1983,Mexican League,,P11699,Rios,R.,2,Leon,,,,9,p
+minoraverages/1984TSN,1983,Mexican League,,P11699,Rios,R.,T,,,,,14,p
 minoraverages/1984TSN,1983,Mexican League,rivas-mva,B04171,Rivas,Lorenzo,0,Monclova,,,20,,
 minoraverages/1984TSN,1983,Mexican League,rivas-tam,B05004,Rivas,Martin,0,Tampico,,,46,,
 minoraverages/1984TSN,1983,Mexican League,rivas-tam,F23451,Rivas,M.,0,Tampico,,,,,p46
 minoraverages/1984TSN,1983,Mexican League,rivas-mva,F24244,Rivas,L.,0,Monclova,,,,,p20
-minoraverages/1984TSN,1983,Mexican League,rivas-mva,P11700,Rivas,L.,0,Monclova,,,,20,
-minoraverages/1984TSN,1983,Mexican League,rivas-tam,P11713,Rivas,M.,0,Tampico,,,,46,
+minoraverages/1984TSN,1983,Mexican League,rivas-mva,P11700,Rivas,L.,0,Monclova,,,,20,p
+minoraverages/1984TSN,1983,Mexican League,rivas-tam,P11713,Rivas,M.,0,Tampico,,,,46,p
 minoraverages/1984TSN,1983,Mexican League,rivera.c-tab,B02231,Rivera,Carlos,0,Tabasco,,,96,,
 minoraverages/1984TSN,1983,Mexican League,rivera-jua,B02244,Rivera,Eduardo,0,Ciudad Juarez,,,98,,
 minoraverages/1984TSN,1983,Mexican League,rivera.a-tab,B04823,Rivera,Abraham,0,Tabasco,,,22,,
@@ -1146,7 +1146,7 @@ minoraverages/1984TSN,1983,Mexican League,rivera.c-tab,F21037,Rivera,C.,0,Tabasc
 minoraverages/1984TSN,1983,Mexican League,rivera-jua,F23054,Rivera,E.,0,Ciudad Juarez,,,,,c98
 minoraverages/1984TSN,1983,Mexican League,rivera.a-tab,F23508,Rivera,A.,0,Tabasco,,,,,p22
 minoraverages/1984TSN,1983,Mexican League,rivera-leo,M90052,Rivera,Abraham,,Leon,,,,,
-minoraverages/1984TSN,1983,Mexican League,rivera.a-tab,P11721,Rivera,,0,Tabasco,,,,22,
+minoraverages/1984TSN,1983,Mexican League,rivera.a-tab,P11721,Rivera,,0,Tabasco,,,,22,p
 minoraverages/emilbb,1983,Mexican League,,M90257,Rivera,Domingo,,Leon,,,,,
 minoraverages/1984TSN,1983,Mexican League,rivero,B02253,Rivero,Gener,0,Leon,,,113,,
 minoraverages/1984TSN,1983,Mexican League,rivero,F21362,Rivero,,0,Leon,,,,,ss113
@@ -1185,15 +1185,15 @@ minoraverages/1984TSN,1983,Mexican League,rodriguez-lar,F24100,Rodriguez,J. M.,0
 minoraverages/1984TSN,1983,Mexican League,rodriguez.a-leo,F24159,Rodriguez,Art.,0,Leon,,,,,p46
 minoraverages/1984TSN,1983,Mexican League,rodriguez-mva,F24591,Rodriguez,M. A.,0,Monclova,,,,,p24
 minoraverages/1984TSN,1983,Mexican League,rodriguez-mcr,F25139,Rodriguez,A.,0,Mexico City Reds,,,,,p2
-minoraverages/1984TSN,1983,Mexican League,rodriguez-mcr,P11737,Rodriguez,An.,0,Mexico City Reds,,,,2,
-minoraverages/1984TSN,1983,Mexican League,rodriguez.a-leo,P11745,Rodriguez,Ar.,0,Leon,,,,46,
-minoraverages/1984TSN,1983,Mexican League,rodriguez-lar,P11759,Rodriguez,J.,0,Nuevo Laredo,,,,28,
-minoraverages/1984TSN,1983,Mexican League,rodriguez-mva,P11768,Rodriguez,M.,0,Monclova,,,,24,
-minoraverages/1984TSN,1983,Mexican League,rodriguez-yuc,P11776,Rodriguez,P.,0,Yucatan,,,,37,
-minoraverages/1984TSN,1983,Mexican League,rodriguez.r-pr,P11784,Rodriguez,R. ,0,Poza Rica,,,,32,
+minoraverages/1984TSN,1983,Mexican League,rodriguez-mcr,P11737,Rodriguez,An.,0,Mexico City Reds,,,,2,p
+minoraverages/1984TSN,1983,Mexican League,rodriguez.a-leo,P11745,Rodriguez,Ar.,0,Leon,,,,46,p
+minoraverages/1984TSN,1983,Mexican League,rodriguez-lar,P11759,Rodriguez,J.,0,Nuevo Laredo,,,,28,p
+minoraverages/1984TSN,1983,Mexican League,rodriguez-mva,P11768,Rodriguez,M.,0,Monclova,,,,24,p
+minoraverages/1984TSN,1983,Mexican League,rodriguez-yuc,P11776,Rodriguez,P.,0,Yucatan,,,,37,p
+minoraverages/1984TSN,1983,Mexican League,,P11784,Rodriguez,R.,0,Poza Rica,,,,32,p
 minoraverages/1984TSN,1983,Mexican League,rogers,B04838,Rogers,Charles,0,Tabasco,,,26,,
 minoraverages/1984TSN,1983,Mexican League,rogers,F23472,Rogers,,0,Tabasco,,,,,p26
-minoraverages/1984TSN,1983,Mexican League,rogers,P11792,Rogers,,0,Tabasco,,,,26,
+minoraverages/1984TSN,1983,Mexican League,rogers,P11792,Rogers,,0,Tabasco,,,,26,p
 minoraverages/1984TSN,1983,Mexican League,rojas,B02373,Rojas,Omar,0,Monterrey,,,95,,
 minoraverages/1984TSN,1983,Mexican League,rojas,F23173,Rojas,,0,Monterrey,,,,,c95
 minoraverages/1984TSN,1983,Mexican League,rojo,B02385,Rojo,Gonzalo,0,Saltillo,,,37,,
@@ -1201,12 +1201,12 @@ minoraverages/1984TSN,1983,Mexican League,rojo,F23352,Rojo,,0,Saltillo,,,,,c35
 minoraverages/1984TSN,1983,Mexican League,romero-mty,B02407,Romero,Felipe,0,Monterrey,,,1,,
 minoraverages/1984TSN,1983,Mexican League,romero-pr,B02410,Romero,Pedro,0,Poza Rica,,,5,,
 minoraverages/1984TSN,1983,Mexican League,romero-mty,F23834,Romero,,0,Monterrey,,,,,p15
-minoraverages/1984TSN,1983,Mexican League,romero-mty,P11807,Romero,,0,Monterrey,,,,15,
+minoraverages/1984TSN,1983,Mexican League,romero-mty,P11807,Romero,,0,Monterrey,,,,15,p
 minoraverages/1984TSN,1983,Mexican League,romo-pr,B02429,Romo,Jose Maria,0,Poza Rica,,,83,,
 minoraverages/1984TSN,1983,Mexican League,romo-mct,B04025,Romo,Vicente,0,Mexico City Tigers,,,26,,
 minoraverages/1984TSN,1983,Mexican League,romo-pr,F22574,Romo,,0,Poza Rica,,,,,of83
 minoraverages/1984TSN,1983,Mexican League,romo-mct,F23446,Romo,,0,Mexico City Tigers,,,,,p26
-minoraverages/1984TSN,1983,Mexican League,romo-mct,P11810,Romo,,0,Mexico City Tigers,,,,26,
+minoraverages/1984TSN,1983,Mexican League,romo-mct,P11810,Romo,,0,Mexico City Tigers,,,,26,p
 minoraverages/1984TSN,1983,Mexican League,rosas,B02399,Rosas,Clements,0,Aguascalientes,,,89,,
 minoraverages/1984TSN,1983,Mexican League,rosas,F23136,Rosas,,0,Aguascalientes,,,,,c85
 minoraverages/1984TSN,1983,Mexican League,rubio,B02432,Rubio,Arturo,0,Tabasco,,,72,,
@@ -1221,7 +1221,7 @@ minoraverages/1984TSN,1983,Mexican League,ruiz-leo+ver,F23148,Ruiz,P.,2,Veracruz
 minoraverages/1984TSN,1983,Mexican League,ruiz-leo+ver,F23148,Ruiz,P.,T,,,,,,c82
 minoraverages/1984TSN,1983,Mexican League,ruiz-coa,F23326,Ruiz,D.,0,Coatzacoalcos,,,,,c20
 minoraverages/1984TSN,1983,Mexican League,ruiz-mva,F23524,Ruiz,P.,0,Monclova,,,,,p20
-minoraverages/1984TSN,1983,Mexican League,ruiz-mva,P11829,Ruiz,,0,Monclova,,,,20,
+minoraverages/1984TSN,1983,Mexican League,ruiz-mva,P11829,Ruiz,,0,Monclova,,,,20,p
 minoraverages/1984TSN,1983,Mexican League,rush,B02464,Rush,Lawrence,0,Ciudad Juarez,,,23,,
 minoraverages/1984TSN,1983,Mexican League,rush,F22004,Rush,,0,Ciudad Juarez,,,,,of23
 minoraverages/1984TSN,1983,Mexican League,saenz,B02478,Saenz,Ricardo,0,Leon,,,68,,
@@ -1234,7 +1234,7 @@ minoraverages/1984TSN,1983,Mexican League,saiz-jua,F20919,Saiz,,0,Ciudad Juarez,
 minoraverages/1984TSN,1983,Mexican League,saiz-jua,F21752,Saiz,,0,Ciudad Juarez,,,,,ss5
 minoraverages/1984TSN,1983,Mexican League,salais,B02493,Salais,Ricardo,0,Nuevo Laredo,,,4,,
 minoraverages/1984TSN,1983,Mexican League,salas,B04457,Salas,Ernesto,0,Nuevo Laredo,,,1,,
-minoraverages/1984TSN,1983,Mexican League,salas,P11832,Salas,,0,Nuevo Laredo,,,,1,
+minoraverages/1984TSN,1983,Mexican League,salas,P11832,Salas,,0,Nuevo Laredo,,,,1,p
 minoraverages/1984TSN,1983,Mexican League,salazar-leo,B02503,Salazar,Ronaldo,0,Leon,,,49,,
 minoraverages/1984TSN,1983,Mexican League,salazar-leo,F21324,Salazar,,0,Leon,,,,,3b8
 minoraverages/1984TSN,1983,Mexican League,salazar-leo,F21887,Salazar,,0,Leon,,,,,of49
@@ -1244,7 +1244,7 @@ minoraverages/1984TSN,1983,Mexican League,saldana,M90193,Saldana,Mario,,Tabasco,
 minoraverages/emilbb,1983,Mexican League,,M90363,Saldano,Mario,,Tabasco,,,,,
 minoraverages/1984TSN,1983,Mexican League,salinas,B05191,Salinas,Guadalupe,0,Yucatan,,,13,,
 minoraverages/1984TSN,1983,Mexican League,salinas,F23701,Salinas,,0,Yucatan,,,,,p13
-minoraverages/1984TSN,1983,Mexican League,salinas,P11841,Salinas,,0,Yucatan,,,,13,
+minoraverages/1984TSN,1983,Mexican League,salinas,P11841,Salinas,,0,Yucatan,,,,13,p
 minoraverages/1984TSN,1983,Mexican League,sanchez-mcr,B02516,Sanchez,Armando,0,Mexico City Reds,,,106,,
 minoraverages/1984TSN,1983,Mexican League,sanchez.g-lar,B02527,Sanchez,Gerardo,0,Nuevo Laredo,,,88,,
 minoraverages/1984TSN,1983,Mexican League,sanchez.f-lar,B04461,Sanchez,Felipe,0,Nuevo Laredo,,,24,,
@@ -1253,7 +1253,7 @@ minoraverages/1984TSN,1983,Mexican League,sanchez.g-lar,F20721,Sanchez,,0,Nuevo 
 minoraverages/1984TSN,1983,Mexican League,sanchez-mcr,F21286,Sanchez,A.,0,Mexico City Reds,,,,,3b1
 minoraverages/1984TSN,1983,Mexican League,sanchez-mcr,F21718,Sanchez,A.,0,Mexico City Reds,,,,,ss1
 minoraverages/1984TSN,1983,Mexican League,sanchez.f-lar,F23641,Sanchez,F.,0,Nuevo Laredo,,,,,p24
-minoraverages/1984TSN,1983,Mexican League,sanchez.f-lar,P11855,Sanchez,,0,Nuevo Laredo,,,,24,
+minoraverages/1984TSN,1983,Mexican League,sanchez.f-lar,P11855,Sanchez,,0,Nuevo Laredo,,,,24,p
 minoraverages/1984TSN,1983,Mexican League,sarabia,B02534,Sarabia,Antonio,0,Veracruz,,,77,,
 minoraverages/1984TSN,1983,Mexican League,sarabia,F20970,Sarabia,,0,Veracruz,,,,,3b25
 minoraverages/1984TSN,1983,Mexican League,sarabia,F23276,Sarabia,,0,Veracruz,,,,,c24
@@ -1264,12 +1264,12 @@ minoraverages/1984TSN,1983,Mexican League,sauceda-jua,F22191,Sauceda,V.,0,Ciudad
 minoraverages/1984TSN,1983,Mexican League,sauceda-mct+tam,F24654,Sauceda,R.,1,Mexico City Tigers,,,,,p11
 minoraverages/1984TSN,1983,Mexican League,sauceda-mct+tam,F24654,Sauceda,R.,2,Tampico,,,,,p10
 minoraverages/1984TSN,1983,Mexican League,sauceda-mct+tam,F24654,Sauceda,R.,T,,,,,,p21
-minoraverages/1984TSN,1983,Mexican League,sauceda-mct+tam,P11864,Sauceda,,1,Mexico City Tigers,,,,11,
-minoraverages/1984TSN,1983,Mexican League,sauceda-mct+tam,P11864,Sauceda,,2,Tampico,,,,10,
-minoraverages/1984TSN,1983,Mexican League,sauceda-mct+tam,P11864,Sauceda,,T,,,,,21,
+minoraverages/1984TSN,1983,Mexican League,sauceda-mct+tam,P11864,Sauceda,,1,Mexico City Tigers,,,,11,p
+minoraverages/1984TSN,1983,Mexican League,sauceda-mct+tam,P11864,Sauceda,,2,Tampico,,,,10,p
+minoraverages/1984TSN,1983,Mexican League,sauceda-mct+tam,P11864,Sauceda,,T,,,,,21,p
 minoraverages/1984TSN,1983,Mexican League,schattinger,B03893,Schattinger,Jeff,0,Mexico City Reds,,,6,,
 minoraverages/1984TSN,1983,Mexican League,schattinger,F25105,Schattinger,,0,Mexico City Reds,,,,,p6
-minoraverages/1984TSN,1983,Mexican League,schattinger,P11878,Schattinger,,0,Mexico City Reds,,,,6,
+minoraverages/1984TSN,1983,Mexican League,schattinger,P11878,Schattinger,,0,Mexico City Reds,,,,6,p
 minoraverages/1984TSN,1983,Mexican League,scott,B02550,Scott,George,1,Poza Rica,,,83,,
 minoraverages/1984TSN,1983,Mexican League,scott,B02550,Scott,George,2,Veracruz,,,31,,
 minoraverages/1984TSN,1983,Mexican League,scott,B02550,Scott,George,T,,,,114,,
@@ -1278,37 +1278,37 @@ minoraverages/1984TSN,1983,Mexican League,scott,F20211,Scott,,2,Veracruz,,,,,1b1
 minoraverages/1984TSN,1983,Mexican League,scott,F20211,Scott,,T,,,,,,1b99
 minoraverages/1984TSN,1983,Mexican League,segui,B05209,Segui,Diego,0,Yucatan,,,22,,
 minoraverages/1984TSN,1983,Mexican League,segui,F24056,Segui,,0,Yucatan,,,,,p22
-minoraverages/1984TSN,1983,Mexican League,segui,P11886,Segui,,0,Yucatan,,,,22,
+minoraverages/1984TSN,1983,Mexican League,segui,P11886,Segui,,0,Yucatan,,,,22,p
 minoraverages/1984TSN,1983,Mexican League,serafin,B04846,Serafin,Hector,0,Tabasco,,,27,,
 minoraverages/1984TSN,1983,Mexican League,serafin,F24008,Serafin,,0,Tabasco,,,,,p27
-minoraverages/1984TSN,1983,Mexican League,serafin,P11893,Serafin,,0,Tabasco,,,,27,
+minoraverages/1984TSN,1983,Mexican League,serafin,P11893,Serafin,,0,Tabasco,,,,27,p
 minoraverages/1984TSN,1983,Mexican League,serna-mty,B02569,Serna,Joel,0,Monterrey,,,114,,
 minoraverages/1984TSN,1983,Mexican League,serna-jua,B03463,Serna,Ramon,0,Ciudad Juarez,,,27,,
 minoraverages/1984TSN,1983,Mexican League,serna-mty,F21174,Serna,,0,Monterrey,,,,,3b114
 minoraverages/1984TSN,1983,Mexican League,serna-jua,F24569,Serna,,0,Ciudad Juarez,,,,,p27
-minoraverages/1984TSN,1983,Mexican League,serna-jua,P11908,Serna,,0,Ciudad Juarez,,,,27,
+minoraverages/1984TSN,1983,Mexican League,serna-jua,P11908,Serna,,0,Ciudad Juarez,,,,27,p
 minoraverages/1984TSN,1983,Mexican League,serratos,B02575,Serratos,Miguel,0,Coatzacoalcos,,,68,,
 minoraverages/1984TSN,1983,Mexican League,serratos,F22020,Serratos,,0,Coatzacoalcos,,,,,of49
 minoraverages/1984TSN,1983,Mexican League,sigman,B04208,Sigman,Lee,0,Monclova,,,2,,
 minoraverages/1984TSN,1983,Mexican League,sigman,M90107,Sigman,Lee,,Monclova,,,,,
-minoraverages/1984TSN,1983,Mexican League,sigman,P11919,Sigman,,0,Monclova,,,,2,
+minoraverages/1984TSN,1983,Mexican League,sigman,P11919,Sigman,,0,Monclova,,,,2,p
 minoraverages/emilbb,1983,Mexican League,,M90285,Sigman,Lee,,Monclova,,,,,
 minoraverages/1984TSN,1983,Mexican League,silva,B02588,Silva,Eduardo,0,Ciudad Juarez,,,1,,
 minoraverages/1984TSN,1983,Mexican League,silva,F23495,Silva,,0,Ciudad Juarez,,,,,p22
-minoraverages/1984TSN,1983,Mexican League,silva,P11924,Silva,,0,Ciudad Juarez,,,,21,
+minoraverages/1984TSN,1983,Mexican League,silva,P11924,Silva,,0,Ciudad Juarez,,,,21,p
 minoraverages/1984TSN,1983,Mexican League,smith,B04473,Smith,Billy,0,Nuevo Laredo,,,8,,
 minoraverages/1984TSN,1983,Mexican League,smith,F25183,Smith,,0,Nuevo Laredo,,,,,p8
-minoraverages/1984TSN,1983,Mexican League,smith,P11935,Smith,,0,Nuevo Laredo,,,,8,
+minoraverages/1984TSN,1983,Mexican League,smith,P11935,Smith,,0,Nuevo Laredo,,,,8,p
 minoraverages/1984TSN,1983,Mexican League,solis-coa,B03560,Solis,Ricardo,0,Coatzacoalcos,,,27,,
 minoraverages/1984TSN,1983,Mexican League,solis-leo,B03759,Solis,Jesus,0,Leon,,,1,,
 minoraverages/1984TSN,1983,Mexican League,solis-sal,B04689,Solis,Miguel,0,Saltillo,,,26,,
 minoraverages/1984TSN,1983,Mexican League,solis-coa,F23749,Solis,R.,0,Coatzacoalcos,,,,,p27
 minoraverages/1984TSN,1983,Mexican League,solis-sal,F24709,Solis,,0,Saltillo,,,,,p26
-minoraverages/1984TSN,1983,Mexican League,solis-leo,P11943,Solis,J.,0,Leon,,,,1,
-minoraverages/1984TSN,1983,Mexican League,solis-sal,P11956,Solis,M.,0,Saltillo,,,,26,
-minoraverages/1984TSN,1983,Mexican League,solis-coa,P11962,Solis,R. ,0,Coatzacoalcos,,,,27,
+minoraverages/1984TSN,1983,Mexican League,solis-leo,P11943,Solis,J.,0,Leon,,,,1,p
+minoraverages/1984TSN,1983,Mexican League,solis-sal,P11956,Solis,M.,0,Saltillo,,,,26,p
+minoraverages/1984TSN,1983,Mexican League,,P11962,Solis,R.,0,Coatzacoalcos,,,,27,p
 minoraverages/1984TSN,1983,Mexican League,solomon,B04485,Solomon,Eddie,0,Nuevo Laredo,,,5,,
-minoraverages/1984TSN,1983,Mexican League,solomon,P11970,Solomon,,0,Nuevo Laredo,,,,5,
+minoraverages/1984TSN,1983,Mexican League,solomon,P11970,Solomon,,0,Nuevo Laredo,,,,5,p
 minoraverages/1984TSN,1983,Mexican League,sommers,B02591,Sommers,Jesus,1,Mexico City Reds,,,67,,
 minoraverages/1984TSN,1983,Mexican League,sommers,B02591,Sommers,Jesus,2,Leon,,,37,,
 minoraverages/1984TSN,1983,Mexican League,sommers,B02591,Sommers,Jesus,T,,,,104,,
@@ -1320,7 +1320,7 @@ minoraverages/1984TSN,1983,Mexican League,sosa.a,B02606,Sosa,Arturo,0,Tampico,,,
 minoraverages/1984TSN,1983,Mexican League,sosa.c,B05020,Sosa,Carlos,0,Tampico,,,26,,
 minoraverages/1984TSN,1983,Mexican League,sosa.a,F23161,Sosa,,0,Tampico,,,,,c20
 minoraverages/1984TSN,1983,Mexican League,sosa.c,F24455,Sosa,C.,0,Tampico,,,,,p26
-minoraverages/1984TSN,1983,Mexican League,sosa.c,P11981,Sosa,,0,Tampico,,,,26,
+minoraverages/1984TSN,1983,Mexican League,sosa.c,P11981,Sosa,,0,Tampico,,,,26,p
 minoraverages/1984TSN,1983,Mexican League,sotelo,B02611,Sotelo,Emilio,0,Leon,,,95,,
 minoraverages/1984TSN,1983,Mexican League,sotelo,F22549,Sotelo,,0,Leon,,,,,of95
 minoraverages/1984TSN,1983,Mexican League,soto-lar,B02622,Soto,Carlos,0,Nuevo Laredo,,,112,,
@@ -1334,9 +1334,9 @@ minoraverages/1984TSN,1983,Mexican League,soto-lar,F23339,Soto,C.,0,Nuevo Laredo
 minoraverages/1984TSN,1983,Mexican League,soto-mcr+leo,F24184,Soto,A.,1,Mexico City Reds,,,,,p21
 minoraverages/1984TSN,1983,Mexican League,soto-mcr+leo,F24184,Soto,A.,2,Leon,,,,,p10
 minoraverages/1984TSN,1983,Mexican League,soto-mcr+leo,F24184,Soto,A.,T,,,,,,p31
-minoraverages/1984TSN,1983,Mexican League,soto-mcr+leo,P11997,Soto,,1,Mexico City Reds,,,,21,
-minoraverages/1984TSN,1983,Mexican League,soto-mcr+leo,P11997,Soto,,2,Leon,,,,10,
-minoraverages/1984TSN,1983,Mexican League,soto-mcr+leo,P11997,Soto,,T,,,,,31,
+minoraverages/1984TSN,1983,Mexican League,soto-mcr+leo,P11997,Soto,,1,Mexico City Reds,,,,21,p
+minoraverages/1984TSN,1983,Mexican League,soto-mcr+leo,P11997,Soto,,2,Leon,,,,10,p
+minoraverages/1984TSN,1983,Mexican League,soto-mcr+leo,P11997,Soto,,T,,,,,31,p
 minoraverages/1984TSN,1983,Mexican League,stenholm,B02654,Stenholm,Richard,0,Mexico City Reds,,,35,,
 minoraverages/1984TSN,1983,Mexican League,stenholm,F20430,Stenholm,,0,Mexico City Reds,,,,,1b1
 minoraverages/1984TSN,1983,Mexican League,suarez,B02665,Suarez,Miguel,0,Tabasco,,,113,,
@@ -1345,19 +1345,19 @@ minoraverages/1984TSN,1983,Mexican League,tapia,B02679,Tapia,Noe,0,Mexico City R
 minoraverages/1984TSN,1983,Mexican League,tapia,F22889,Tapia,,0,Mexico City Reds,,,,,of5
 minoraverages/1984TSN,1983,Mexican League,tejeda,B03571,Tejeda,Felix,0,Coatzacoalcos,,,24,,
 minoraverages/1984TSN,1983,Mexican League,tejeda,F24410,Tejeda,,0,Coatzacoalcos,,,,,p24
-minoraverages/1984TSN,1983,Mexican League,tejeda,P12001,Tejeda,,0,Coatzacoalcos,,,,24,
+minoraverages/1984TSN,1983,Mexican League,tejeda,P12001,Tejeda,,0,Coatzacoalcos,,,,24,p
 minoraverages/1984TSN,1983,Mexican League,tiant,B03919,Tiant,Luis,0,Mexico City Reds,,,5,,
 minoraverages/1984TSN,1983,Mexican League,tiant,B05214,Tiant,Luis,0,Yucatan,,,12,,
 minoraverages/1984TSN,1983,Mexican League,tiant,F24714,Tiant,,1,Mexico City Reds,,,,,p5
 minoraverages/1984TSN,1983,Mexican League,tiant,F24714,Tiant,,2,Yucatan,,,,,p12
 minoraverages/1984TSN,1983,Mexican League,tiant,F24714,Tiant,,T,,,,,,p17
-minoraverages/1984TSN,1983,Mexican League,tiant,P12017,Tiant,,1,Mexico City Reds,,,,5,
-minoraverages/1984TSN,1983,Mexican League,tiant,P12017,Tiant,,2,Yucatan,,,,12,
-minoraverages/1984TSN,1983,Mexican League,tiant,P12017,Tiant,,T,,,,,17,
+minoraverages/1984TSN,1983,Mexican League,tiant,P12017,Tiant,,1,Mexico City Reds,,,,5,p
+minoraverages/1984TSN,1983,Mexican League,tiant,P12017,Tiant,,2,Yucatan,,,,12,p
+minoraverages/1984TSN,1983,Mexican League,tiant,P12017,Tiant,,T,,,,,17,p
 minoraverages/1984TSN,1983,Mexican League,tiburcio,B02687,Tiburcio,Zeferino,0,Poza Rica,,,13,,
 minoraverages/1984TSN,1983,Mexican League,tiburcio,F20334,Tiburcio,,0,Poza Rica,,,,,1b13
 minoraverages/1984TSN,1983,Mexican League,tinajero,B04592,Tinajero,Juan,0,Poza Rica,,,7,,
-minoraverages/1984TSN,1983,Mexican League,tinajero,P12025,Tinajero,,0,Poza Rica,,,,7,
+minoraverages/1984TSN,1983,Mexican League,tinajero,P12025,Tinajero,,0,Poza Rica,,,,7,p
 minoraverages/1984TSN,1983,Mexican League,tisdale,B02698,Tisdale,Alfredo,0,Veracruz,,,18,,
 minoraverages/1984TSN,1983,Mexican League,tisdale,F21957,Tisdale,,0,Veracruz,,,,,of14
 minoraverages/1984TSN,1983,Mexican League,torres-tam,B02709,Torres,Antonio,0,Tampico,,,65,,
@@ -1369,27 +1369,27 @@ minoraverages/1984TSN,1983,Mexican League,torres-mty,F20552,Torres,N.,0,Monterre
 minoraverages/1984TSN,1983,Mexican League,torres-agu,F21264,Torres,R.,0,Aguascalientes,,,,,3b2
 minoraverages/1984TSN,1983,Mexican League,torres-mty,F21293,Torres,N.,0,Monterrey,,,,,3b8
 minoraverages/1984TSN,1983,Mexican League,torres-tam,F21833,Torres,A.,0,Tampico,,,,,of65
-minoraverages/1984TSN,1983,Mexican League,torres-mcr,F22652,Torres,R. ,0,Mexico City Reds,,,,,of94
+minoraverages/1984TSN,1983,Mexican League,,F22652,Torres,R.,0,Mexico City Reds,,,,,of94
 minoraverages/1984TSN,1983,Mexican League,torres-agu,F22853,Torres,R.,0,Aguascalientes,,,,,of19
 minoraverages/1984TSN,1983,Mexican League,torres-coa,F23803,Torres,M.,0,Coatzacoalcos,,,,,p16
-minoraverages/1984TSN,1983,Mexican League,torres-coa,P12030,Torres,,0,Coatzacoalcos,,,,16,
+minoraverages/1984TSN,1983,Mexican League,torres-coa,P12030,Torres,,0,Coatzacoalcos,,,,16,p
 minoraverages/1984TSN,1983,Mexican League,tutt,B02746,Tutt,John Edward,0,Veracruz,,,48,,
 minoraverages/1984TSN,1983,Mexican League,tutt,F22605,Tutt,,0,Veracruz,,,,,of43
 minoraverages/1984TSN,1983,Mexican League,uresti,B02751,Uresti,Guadalupe,0,Leon,,,11,,
 minoraverages/1984TSN,1983,Mexican League,uresti,F22099,Uresti,,0,Leon,,,,,of10
 minoraverages/1984TSN,1983,Mexican League,uresti,F23686,Uresti,,0,Leon,,,,,p16
-minoraverages/1984TSN,1983,Mexican League,uresti,P12049,Uresti,,0,Leon,,,,16,
+minoraverages/1984TSN,1983,Mexican League,uresti,P12049,Uresti,,0,Leon,,,,16,p
 minoraverages/1984TSN,1983,Mexican League,urias-cam,B02767,Urias,Reyes,0,Campeche,,,1,,
 minoraverages/1984TSN,1983,Mexican League,urias-cam,F23678,Urias,,0,Campeche,,,,,p27
 minoraverages/1984TSN,1983,Mexican League,urias-agu,M90018,Urias,Eladio,,Aguascalientes,,,,,
-minoraverages/1984TSN,1983,Mexican League,urias-cam,P12058,Urias,,0,Campeche,,,,27,
+minoraverages/1984TSN,1983,Mexican League,urias-cam,P12058,Urias,,0,Campeche,,,,27,p
 minoraverages/emilbb,1983,Mexican League,,M90178,Urias,Eladio,,Aguascalientes,,,,,
 minoraverages/1984TSN,1983,Mexican League,uribe,B04851,Uribe,Carlos,0,Tabasco,,,4,,
 minoraverages/1984TSN,1983,Mexican League,uribe,F25219,Uribe,,0,Tabasco,,,,,p4
-minoraverages/1984TSN,1983,Mexican League,uribe,P12063,Uribe,,0,Tabasco,,,,4,
+minoraverages/1984TSN,1983,Mexican League,uribe,P12063,Uribe,,0,Tabasco,,,,4,p
 minoraverages/1984TSN,1983,Mexican League,urrea,B04690,Urrea,Leonel,0,Saltillo,,,37,,
 minoraverages/1984TSN,1983,Mexican League,urrea,F24266,Urrea,,0,Saltillo,,,,,p37
-minoraverages/1984TSN,1983,Mexican League,urru,P12074,Urrea,,0,Saltillo,,,,37,
+minoraverages/1984TSN,1983,Mexican League,urru,P12074,Urrea,,0,Saltillo,,,,37,p
 minoraverages/1984TSN,1983,Mexican League,uzcanga,B02772,Uzcanga,Ali,0,Monterrey,,,114,,
 minoraverages/1984TSN,1983,Mexican League,uzcanga,F21469,Uzcanga,,0,Monterrey,,,,,ss114
 minoraverages/1984TSN,1983,Mexican League,valdez-mva,B02780,Valdez,Baltazar,0,Monclova,,,35,,
@@ -1398,8 +1398,8 @@ minoraverages/1984TSN,1983,Mexican League,valdez-lar,B04499,Valdez,Humberto,0,Nu
 minoraverages/1984TSN,1983,Mexican League,valdez-mva,F20316,Valdez,B.,0,Monclova,,,,,1b35
 minoraverages/1984TSN,1983,Mexican League,valdez-agu,F24588,Valdez,H.,0,Veracruz,,,,,p23
 minoraverages/1984TSN,1983,Mexican League,valdez-lar,F24847,Valdez,H.,0,Nuevo Laredo,,,,,p12
-minoraverages/1984TSN,1983,Mexican League,valdez-ver,P12082,Valdez,H.,0,Veracruz,,,,23,
-minoraverages/1984TSN,1983,Mexican League,valdez-lar,P12096,Valdez,H.,0,Nuevo Laredo,,,,12,
+minoraverages/1984TSN,1983,Mexican League,valdez-ver,P12082,Valdez,H.,0,Veracruz,,,,23,p
+minoraverages/1984TSN,1983,Mexican League,valdez-lar,P12096,Valdez,H.,0,Nuevo Laredo,,,,12,p
 minoraverages/1984TSN,1983,Mexican League,valenzuela-mct,B02795,Valenzuela,Ricardo,0,Mexico City Tigers,,,5,,
 minoraverages/1984TSN,1983,Mexican League,valenzuela-sal,B04703,Valenzuela,Jairo,0,Saltillo,,,25,,
 minoraverages/1984TSN,1983,Mexican League,valenzuela-yuc,B05223,Valenzuela,Humberto,0,Yucatan,,,19,,
@@ -1407,14 +1407,14 @@ minoraverages/1984TSN,1983,Mexican League,valenzuela-mct,F21771,Valenzuela,,0,Me
 minoraverages/1984TSN,1983,Mexican League,valenzuela-yuc,F24231,Valenzuela,H.,0,Yucatan,,,,,p19
 minoraverages/1984TSN,1983,Mexican League,valenzuela-sal,F24871,Valenzuela,J.,0,Saltillo,,,,,p25
 minoraverages/1984TSN,1983,Mexican League,valenzuela-leo,M90060,Valenzuela,Benjamin,,Leon,,,,,
-minoraverages/1984TSN,1983,Mexican League,valenzuela-yuc,P12105,Valenzuela,H.,0,Yucatan,,,,19,
-minoraverages/1984TSN,1983,Mexican League,valenzuela-sal,P12118,Valenzuela,J.,0,Saltillo,,,,25,
+minoraverages/1984TSN,1983,Mexican League,valenzuela-yuc,P12105,Valenzuela,H.,0,Yucatan,,,,19,p
+minoraverages/1984TSN,1983,Mexican League,valenzuela-sal,P12118,Valenzuela,J.,0,Saltillo,,,,25,p
 minoraverages/emilbb,1983,Mexican League,,M90261,Valenzuela,Ben,,Leon,,,,,
 minoraverages/1984TSN,1983,Mexican League,valle,B02805,Valle,Guadalupe,0,Ciudad Juarez,,,115,,
 minoraverages/1984TSN,1983,Mexican League,valle,F21381,Valle,,0,Ciudad Juarez,,,,,ss115
 minoraverages/1984TSN,1983,Mexican League,vargas,B02818,Vargas,Antonio,0,Monclova,,,18,,
 minoraverages/1984TSN,1983,Mexican League,vargas,F21920,Vargas,,0,Monclova,,,,,of18
-minoraverages/1984TSN,1983,Mexican League,vazquez-pr,P12147,Vasquez,R. ,0,Poza Rica,,,,27,
+minoraverages/1984TSN,1983,Mexican League,,P12147,Vasquez,R.,0,Poza Rica,,,,27,p
 minoraverages/1984TSN,1983,Mexican League,vazquez-mva,B02826,Vazquez,Nicolas,0,Monclova,,,18,,
 minoraverages/1984TSN,1983,Mexican League,vazquez-pr,B02839,Vazquez,Rafael,0,Poza Rica,,,1,,
 minoraverages/1984TSN,1983,Mexican League,vazquez-agu,B03240,Vazquez,Jessie,0,Aguascalientes,,,33,,
@@ -1426,17 +1426,17 @@ minoraverages/1984TSN,1983,Mexican League,vazquez-pr,F24024,Vazquez,R.,0,Poza Ri
 minoraverages/1984TSN,1983,Mexican League,vazquez-coa+mcr,F24121,Vazquez,M. A.,1,Coatzacoalcos,,,,,p10
 minoraverages/1984TSN,1983,Mexican League,vazquez-coa+mcr,F24121,Vazquez,M. A.,2,Mexico City Reds,,,,,p5
 minoraverages/1984TSN,1983,Mexican League,vazquez-coa+mcr,F24121,Vazquez,M. A.,T,,,,,,p15
-minoraverages/1984TSN,1983,Mexican League,vazquez-agu,P12126,Vazquez,J.,0,Aguascalientes,,,,33,
-minoraverages/1984TSN,1983,Mexican League,vazquez-coa+mcr,P12139,Vazquez,M.,1,Coatzacoalcos,,,,10,
-minoraverages/1984TSN,1983,Mexican League,vazquez-coa+mcr,P12139,Vazquez,M.,2,Mexico City Reds,,,,5,
-minoraverages/1984TSN,1983,Mexican League,vazquez-coa+mcr,P12139,Vazquez,M.,T,,,,,15,
+minoraverages/1984TSN,1983,Mexican League,vazquez-agu,P12126,Vazquez,J.,0,Aguascalientes,,,,33,p
+minoraverages/1984TSN,1983,Mexican League,vazquez-coa+mcr,P12139,Vazquez,M.,1,Coatzacoalcos,,,,10,p
+minoraverages/1984TSN,1983,Mexican League,vazquez-coa+mcr,P12139,Vazquez,M.,2,Mexico City Reds,,,,5,p
+minoraverages/1984TSN,1983,Mexican League,vazquez-coa+mcr,P12139,Vazquez,M.,T,,,,,15,p
 minoraverages/1984TSN,1983,Mexican League,vega-mcr,B02847,Vega,Abelardo,0,Mexico City Reds,,,142,,
 minoraverages/1984TSN,1983,Mexican League,vega-agu,B02852,Vega,Ramon,0,Aguascalientes,,,45,,
 minoraverages/1984TSN,1983,Mexican League,vega-tam,B05036,Vega,Gustavo,0,Tampico,,,5,,
 minoraverages/1984TSN,1983,Mexican League,vega-mcr,F20956,Vega,A.,0,Mexico City Reds,,,,,3b30
 minoraverages/1984TSN,1983,Mexican League,vega-mcr,F21739,Vega,A.,0,Mexico City Reds,,,,,ss1
 minoraverages/1984TSN,1983,Mexican League,vega-agu,F23371,Vega,R.,0,Aguascalientes,,,,,c40
-minoraverages/1984TSN,1983,Mexican League,vega-tam,P12152,Vega,,0,Tampico,,,,5,
+minoraverages/1984TSN,1983,Mexican League,vega-tam,P12152,Vega,,0,Tampico,,,,5,p
 minoraverages/1984TSN,1983,Mexican League,velarde,B02860,Velarde,Roman,0,Tabasco,,,60,,
 minoraverages/1984TSN,1983,Mexican League,velarde,F21207,Velarde,,0,Tabasco,,,,,3b11
 minoraverages/1984TSN,1983,Mexican League,velarde,F21528,Velarde,,0,Tabasco,,,,,ss16
@@ -1445,20 +1445,20 @@ minoraverages/1984TSN,1983,Mexican League,velasquez.a-yuc,B05238,Velazquez,Agust
 minoraverages/1984TSN,1983,Mexican League,velasquez.l-yuc,B05246,Velazquez,Luis,0,Yucatan,,,23,,
 minoraverages/1984TSN,1983,Mexican League,velasquez-mct,F24478,Velazquez,I.,0,Mexico City Tigers,,,,,p17
 minoraverages/1984TSN,1983,Mexican League,velasquez.a-yuc,F24917,Velazquez,A.,0,Yucatan,,,,,p8
-minoraverages/1984TSN,1983,Mexican League,velasquez.a-yuc,P12160,Velazquez,A.,0,Yucatan,,,,8,
-minoraverages/1984TSN,1983,Mexican League,velasquez-mct,P12171,Velazquez,I.,0,Mexico City Tigers,,,,17,
-minoraverages/1984TSN,1983,Mexican League,velasquez.l-yuc,P12183,Velazquez,L.,0,Yucatan,,,,23,
+minoraverages/1984TSN,1983,Mexican League,velasquez.a-yuc,P12160,Velazquez,A.,0,Yucatan,,,,8,p
+minoraverages/1984TSN,1983,Mexican League,velasquez-mct,P12171,Velazquez,I.,0,Mexico City Tigers,,,,17,p
+minoraverages/1984TSN,1983,Mexican League,velasquez.l-yuc,P12183,Velazquez,L.,0,Yucatan,,,,23,p
 minoraverages/1984TSN,1983,Mexican League,vergara,B02871,Vergara,Salvador,0,Veracruz,,,34,,
 minoraverages/1984TSN,1983,Mexican League,vergara,F20023,Vergara,,0,Veracruz,,,,,1b13
 minoraverages/1984TSN,1983,Mexican League,vergara,F22815,Vergara,,0,Veracruz,,,,,of21
-minoraverages/1984TSN,1983,Mexican League,vergara,P12194,Vergara,,0,Veracruz,,,,1,
+minoraverages/1984TSN,1983,Mexican League,vergara,P12194,Vergara,,0,Veracruz,,,,1,p
 minoraverages/1984TSN,1983,Mexican League,vidana,B02883,Vidana,Alejandro,0,Saltillo,,,1,,
 minoraverages/1984TSN,1983,Mexican League,vidana,F24277,Vidana,,1,Leon,,,,,p18
 minoraverages/1984TSN,1983,Mexican League,vidana,F24277,Vidana,,2,Saltillo,,,,,p9
 minoraverages/1984TSN,1983,Mexican League,vidana,F24277,Vidana,,T,,,,,,p27
-minoraverages/1984TSN,1983,Mexican League,vidana,P12208,Vidana,,1,Leon,,,,18,
-minoraverages/1984TSN,1983,Mexican League,vidana,P12208,Vidana,,2,Saltillo,,,,9,
-minoraverages/1984TSN,1983,Mexican League,vidana,P12208,Vidana,,T,,,,,27,
+minoraverages/1984TSN,1983,Mexican League,vidana,P12208,Vidana,,1,Leon,,,,18,p
+minoraverages/1984TSN,1983,Mexican League,vidana,P12208,Vidana,,2,Saltillo,,,,9,p
+minoraverages/1984TSN,1983,Mexican League,vidana,P12208,Vidana,,T,,,,,27,p
 minoraverages/1984TSN,1983,Mexican League,villaescusa,B02894,Villaescusa,Fernando,0,Yucatan,,,102,,
 minoraverages/1984TSN,1983,Mexican League,villaescusa,F20505,Villaescusa,,0,Yucatan,,,,,2b88
 minoraverages/1984TSN,1983,Mexican League,villaescusa,F21502,Villaescusa,,0,Yucatan,,,,,ss34
@@ -1469,37 +1469,37 @@ minoraverages/1984TSN,1983,Mexican League,villalobos-yuc,B05251,Villalobos,Ernes
 minoraverages/1984TSN,1983,Mexican League,villalobos-yuc,F21130,Villalobos,,0,Yucatan,,,,,3b38
 minoraverages/1984TSN,1983,Mexican League,villalobos-leo,F23185,Villalobos,,0,Leon,,,,,c28
 minoraverages/1984TSN,1983,Mexican League,villalobos-yuc,F24399,Villalobos,,0,Yucatan,,,,,p20
-minoraverages/1984TSN,1983,Mexican League,villalobos-yuc,P12219,Villalobos,,0,Yucatan,,,,20,
+minoraverages/1984TSN,1983,Mexican League,villalobos-yuc,P12219,Villalobos,,0,Yucatan,,,,20,p
 minoraverages/1984TSN,1983,Mexican League,villanueva,B04058,Villanueva,Luis,0,Mexico City Tigers,,,29,,
 minoraverages/1984TSN,1983,Mexican League,villanueva,F24043,Villanueva,,0,Mexico City Tigers,,,,,p29
-minoraverages/1984TSN,1983,Mexican League,villanueva,P12224,Villanueva,,0,Mexico City Tigers,,,,29,
+minoraverages/1984TSN,1983,Mexican League,villanueva,P12224,Villanueva,,0,Mexico City Tigers,,,,29,p
 minoraverages/1984TSN,1983,Mexican League,villegas.d-agu,B03254,Villegas,David,0,Aguascalientes,,,17,,
 minoraverages/1984TSN,1983,Mexican League,villegas.m-agu,B03265,Villegas,Mike,0,Aguascalientes,,,21,,
 minoraverages/1984TSN,1983,Mexican League,villegas-mct,B04063,Villegas,Ramon,0,Mexico City Tigers,,,25,,
 minoraverages/1984TSN,1983,Mexican League,villegas-mct,F24304,Villegas,R.,0,Mexico City Tigers,,,,,p25
 minoraverages/1984TSN,1983,Mexican League,villegas.d-agu,F24611,Villegas,D.,0,Aguascalientes,,,,,p17
 minoraverages/1984TSN,1983,Mexican League,villegas.m-agu,F24746,Villegas,M.,0,Aguascalientes,,,,,p21
-minoraverages/1984TSN,1983,Mexican League,villegas.d-agu,P12235,Villegas,D.,0,Aguascalientes,,,,17,
-minoraverages/1984TSN,1983,Mexican League,villegas.m-agu,P12243,Villegas,M.,0,Aguascalientes,,,,21,
-minoraverages/1984TSN,1983,Mexican League,villegas-mct,P12256,Villegas,R. ,0,Mexico City Tigers,,,,25,
+minoraverages/1984TSN,1983,Mexican League,villegas.d-agu,P12235,Villegas,D.,0,Aguascalientes,,,,17,p
+minoraverages/1984TSN,1983,Mexican League,villegas.m-agu,P12243,Villegas,M.,0,Aguascalientes,,,,21,p
+minoraverages/1984TSN,1983,Mexican League,,P12256,Villegas,R.,0,Mexico City Tigers,,,,25,p
 minoraverages/1984TSN,1983,Mexican League,villela-tam,B02925,Villela,Carlos,0,Tampico,,,112,,
 minoraverages/1984TSN,1983,Mexican League,villela-mty,B02930,Villela,Rigoberto P.,0,Monterrey,,,58,,
 minoraverages/1984TSN,1983,Mexican League,villela-tam,F20612,Villela,,0,Tampico,,,,,2b112
 minoraverages/1984TSN,1983,Mexican League,villela-mty,F22378,Villela,,0,Monterrey,,,,,of58
 minoraverages/1984TSN,1983,Mexican League,widales,B04500,Widales,Oscar,0,Nuevo Laredo,,,1,,
-minoraverages/1984TSN,1983,Mexican League,widales,P12262,Widales,,0,Nuevo Laredo,,,,1,
+minoraverages/1984TSN,1983,Mexican League,widales,P12262,Widales,,0,Nuevo Laredo,,,,1,p
 minoraverages/1984TSN,1983,Mexican League,williams,B02949,Williams,Ellis,0,Monterrey,,,38,,
 minoraverages/1984TSN,1983,Mexican League,williams,F21865,Williams,,0,Monterrey,,,,,of28
 minoraverages/1984TSN,1983,Mexican League,yepez,B02958,Yepez,Francisco,0,Poza Rica,,,91,,
 minoraverages/1984TSN,1983,Mexican League,yucupicio,B04867,Yucupicio,Javier,0,Tabasco,,,25,,
 minoraverages/1984TSN,1983,Mexican League,yucupicio,F24429,Yucupicio,,0,Tabasco,,,,,p25
-minoraverages/1984TSN,1983,Mexican League,yucupicio,P12270,Yucupicio,,0,Tabasco,,,,25,
+minoraverages/1984TSN,1983,Mexican League,yucupicio,P12270,Yucupicio,,0,Tabasco,,,,25,p
 minoraverages/1984TSN,1983,Mexican League,zaguren,B02963,Zaguren,Andres,0,Monterrey,,,1,,
 minoraverages/1984TSN,1983,Mexican League,zambrano-mty,B02974,Zambrano,Rosario,0,Monterrey,,,95,,
 minoraverages/1984TSN,1983,Mexican League,zambrano-leo,B03776,Zambrano,Rogelio,0,Leon,,,8,,
 minoraverages/1984TSN,1983,Mexican League,zambrano-mty,F22525,Zambrano,,0,Monterrey,,,,,of93
 minoraverages/1984TSN,1983,Mexican League,zambrano-leo,F24963,Zambrano,,0,Leon,,,,,p8
-minoraverages/1984TSN,1983,Mexican League,zambrano-leo,P12281,Zambrano,,0,Leon,,,,8,
+minoraverages/1984TSN,1983,Mexican League,zambrano-leo,P12281,Zambrano,,0,Leon,,,,8,p
 minoraverages/1984TSN,1983,Mexican League,zamora,B02982,Zamora,Roberto,1,Mexico City Tigers,,,3,,
 minoraverages/1984TSN,1983,Mexican League,zamora,B02982,Zamora,Roberto,2,Veracruz,,,36,,
 minoraverages/1984TSN,1983,Mexican League,zamora,B02982,Zamora,Roberto,T,,,,39,,
@@ -1509,7 +1509,7 @@ minoraverages/1984TSN,1983,Mexican League,zamora,F21084,Zamora,,2,Veracruz,,,,,3
 minoraverages/1984TSN,1983,Mexican League,zamora,F21084,Zamora,,T,,,,,,3b19
 minoraverages/1984TSN,1983,Mexican League,zamudio,B03279,Zamudio,Aurelio,0,Aguascalientes,,,15,,
 minoraverages/1984TSN,1983,Mexican League,zamudio,F23763,Zamudio,,0,Veracruz,,,,,p15
-minoraverages/1984TSN,1983,Mexican League,zamudio,P12297,Zamudio,,0,Veracruz,,,,15,
+minoraverages/1984TSN,1983,Mexican League,zamudio,P12297,Zamudio,,0,Veracruz,,,,15,p
 minoraverages/1984TSN,1983,Mexican League,zavala,B02996,Zavala,Marcos,0,Tabasco,,,3,,
 minoraverages/1984TSN,1983,Mexican League,zavala,F21319,Zavala,,0,Tabasco,,,,,3b3
 minoraverages/1984TSN,1983,Mexican League,delossantos,F21076,de los Santos,,0,Coatzacoalcos,,,,,3b18

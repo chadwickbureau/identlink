@@ -2,15 +2,17 @@ source,league.year,league.name,ident,person.ref,person.name.last,person.name.giv
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,adlam,B00324,Adlam,James,0,Quincy,,,52,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,adlam,F20166,Adlam,,0,Quincy,,,,,2b41
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,adlam,M90060,Adlam,James,,Quincy,,,,,
+minoraverages/emilbb,1949,Illinois-Indiana-Iowa League,,M91796,Adlam,James,,Quincy,,,,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,allen,B01321,Allen,John H.,0,Evansville,,,34,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,allen,F21076,Allen,,0,Evansville,,,,,c16
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,allen,F21286,Allen,,0,Evansville,,,,,p13
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,allen,P10550,Allen,,0,Evansville,,,,13,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,allen,P10550,Allen,,0,Evansville,,,,13,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,anderlik,B00264,Anderlik,Robert,0,Decatur,,,125,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,anderlik,F20685,Anderlik,,0,Decatur,,,,,of124
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,anjeski,B00783,Anjeski,Elmer,0,Davenport,,,83,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,anjeski,F21021,Anjeski,,0,Davenport,,,,,of73
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,arnovich,M90071,Arnovich,Morris,,Decatur,,,,,
+minoraverages/emilbb,1949,Illinois-Indiana-Iowa League,,M91803,Arnovich,Morris,,Decatur,,,,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,bass,B01392,Bass,Earl,0,Evansville,,,10,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,baud,B00255,Baud,Andrew R.,0,Waterloo,,,45,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,baud,F20699,Baud,,0,Waterloo,,,,,of42
@@ -20,10 +22,10 @@ minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,berdella,B01156,Berdella
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,berdella,F20014,Berdella,,0,Terre Haute,,,,,1b42
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,boemler,B01722,Boemler,Willard,0,Quincy,,,19,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,boemler,F21794,Boemler,,0,Quincy,,,,,p18
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,boemler,P10441,Boemler,,0,Quincy,,,,18,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,boemler,P10441,Boemler,,0,Quincy,,,,18,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,boim,B00232,Boim,Irving,0,Waterloo,,,10,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,boim,F21879,Boim,,0,Waterloo,,,,,p10
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,boim,P10312,Boim,,0,Waterloo,,,,10,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,boim,P10312,Boim,,0,Waterloo,,,,10,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,boles,B00528,Boles,Howard,0,Decatur,,,93,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,boles,F20128,Boles,,0,Decatur,,,,,1b93
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,bortolotti,B00806,Bortolotti,Fred,0,Davenport,,,64,,
@@ -32,46 +34,48 @@ minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,boudreau,B00356,Boudreau
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,boudreau,F20095,Boudreau,,0,Danville,,,,,1b125
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,bowdell,B01538,Bowdell,Gordon,0,Decatur,,,17,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,bowdell,F21397,Bowdell,,0,Decatur,,,,,p17
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,bowdell,P10516,Bowdell,,0,Decatur,,,,17,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,bowdell,P10516,Bowdell,,0,Decatur,,,,17,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,box,B00092,Box,Paul,0,Waterloo,,,37,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,box,F20080,Box,,0,Waterloo,,,,,1b33
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,breeding,B01812,Breeding,Harold,0,Davenport,,,11,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,breeding,F21356,Breeding,,0,Davenport,,,,,p11
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,breeding,P10070,Breeding,,0,Davenport,,,,11,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,breeding,P10070,Breeding,,0,Davenport,,,,11,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,brookey,B00488,Brookey,Melvin,0,Terre Haute,,,109,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,brookey,F21182,Brookey,,0,Terre Haute,,,,,c106
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,bruner,B00335,Bruner,John,0,Waterloo,,,25,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,bruner,F21865,Bruner,J.,0,Waterloo,,,,,p21
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,bruner,P10081,Bruner,J.,0,Waterloo,,,,21,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,bruner,P10081,Bruner,J.,0,Waterloo,,,,21,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,brunner,B01658,Brunner,Robert,0,Springfield,,,28,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,brunner,F21491,Brunner,R.,0,Springfield,,,,,p28
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,brunner,P10503,Brunner,R.,0,Springfield,,,,28,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,brunner,P10503,Brunner,R.,0,Springfield,,,,28,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,burwell,M90052,Burwell,William,,Davenport,,,,,
+minoraverages/emilbb,1949,Illinois-Indiana-Iowa League,,M91782,Burwell,Bill,,Davenport,,,,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,busby,B00068,Busby,James,0,Waterloo,,,78,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,busby,F20810,Busby,,0,Waterloo,,,,,of74
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,byrne,B01836,Byrne,John,0,Danville,,,29,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,byrne,F21811,Byrne,,0,Danville,,,,,p29
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,byrne,P10486,Byrne,,0,Danville,,,,29,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,byrne,P10486,Byrne,,0,Danville,,,,29,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,cabaniss,B01765,Cabaniss,Proctor,0,Davenport,,,10,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,carlson,B00854,Carlson,Mashall V.,0,Quincy,,,115,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,carlson,F20908,Carlson,M.,0,Quincy,,,,,of109
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,castro,B01108,Castro,Elias,0,Davenport,,,19,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,castro,F21783,Castro,,0,Davenport,,,,,p19
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,castro,P10137,Castro,,0,Davenport,,,,19,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,castro,P10137,Castro,,0,Davenport,,,,19,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,cato,B00130,Cato,Leon,0,Waterloo,,,56,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,cato,F21059,Cato,,0,Waterloo,,,,,of54
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,chancellor,P10024,Chancellor,,0,Springfield,,,,6,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,chancellor,P10024,Chancellor,,0,Springfield,,,,6,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,chandler,B00381,Chandler,Floyd,0,Davenport,,,40,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,chandler,F20505,Chandler,,0,Davenport,,,,,ss36
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,clark,B00229,Clark,Melvin,0,Terre Haute,,,33,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,clark,F20962,Clark,,0,Terre Haute,,,,,of33
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,clendenin,B01444,Clendenin,Harold,0,Quincy,,,33,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,clendenin,F21609,Clendenin,,0,Quincy,,,,,p33
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,clendenin,P10527,Clendenin,,0,Quincy,,,,33,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,clendenin,P10527,Clendenin,,0,Quincy,,,,33,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,coakley,B01787,Coakley,John,0,Springfield,,,28,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,coakley,F21680,Coakley,,0,Springfield,,,,,p28
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,coakley,P10373,Coakley,,0,Springfield,,,,28,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,coakley,P10373,Coakley,,0,Springfield,,,,28,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,coleman,M90018,Coleman,Robert,,Evansville,,,,,
+minoraverages/emilbb,1949,Illinois-Indiana-Iowa League,,M91749,Coleman,Bob,,Evansville,,,,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,command,B00416,Command,James,0,Terre Haute,,,125,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,command,F20737,Command,,0,Terre Haute,,,,,of119
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,cope,B01143,Cope,William,0,Quincy,,,69,,
@@ -79,6 +83,7 @@ minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,cope,F20552,Cope,,0,Quin
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,crandall-eva,B00021,Crandall,Delmar,0,Evansville,,,38,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,crandall-eva,F21084,Crandall,,0,Evansville,,,,,c38
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,crandall-spr,M90094,Crandall,James,,Springfield,,,,,
+minoraverages/emilbb,1949,Illinois-Indiana-Iowa League,,M91827,Crandall,James,,Springfield,,,,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,dant,B01376,Dant,Robert,0,Decatur,,,20,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,debenedetti,B00705,DeBenedetti,Reno,0,Davenport,,,123,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,debenedetti,F20342,DeBenedetti,,0,Davenport,,,,,3b122
@@ -94,47 +99,47 @@ minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,duchaney,B00278,Duchaney
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,duchaney,F21000,Duchaney,,0,Danville,,,,,of28
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,duffy,B00936,Duffy,Richard,0,Waterloo,,,25,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,duffy,F21544,Duffy,,0,Waterloo,,,,,p25
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,duffy,P10606,Duffy,,0,Waterloo,,,,25,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,duffy,P10606,Duffy,,0,Waterloo,,,,25,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,dunnack,B00999,Dunnack,Delton,0,Davenport,,,47,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,dunnack,F21174,Dunnack,,0,Davenport,,,,,c40
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,edwards,B00695,Edwards,William,0,Evansville,,,72,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,edwards,F21125,Edwards,,0,Evansville,,,,,c70
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,feldman,B01740,Feldman,Stanley,0,Springfield,,,16,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,feldman,F21577,Feldman,,0,Springfield,,,,,p16
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,feldman,P10407,Feldman,,0,Springfield,,,,16,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,feldman,P10407,Feldman,,0,Springfield,,,,16,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,ferullo,B01368,Ferullo,Carmen,0,Springfield,,,24,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,ferullo,F21760,Ferullo,,0,Springfield,,,,,p23
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,ferullo,P10097,Ferullo,,0,Springfield,,,,23,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,ferullo,P10097,Ferullo,,0,Springfield,,,,23,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,finlayson,B01490,Finlayson,Hugh S.,0,Danville,,,14,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,finlayson,F21822,Finlayson,,0,Danville,,,,,p14
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,finlayson,P10385,Finlayson,,0,Danville,,,,14,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,finlayson,P10385,Finlayson,,0,Danville,,,,14,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,fiscalini,B00544,Fiscalini,John,0,Davenport,,,35,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,fiscalini,F20594,Fiscalini,,0,Davenport,,,,,of33
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,fogg,B01674,Fogg,William,0,Terre Haute,,,11,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,fogg,F21718,Fogg,,0,Terre Haute,,,,,p11
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,franks,B01649,Frank,William,0,Decatur,,,22,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,franks,F21695,Franks,,0,Decatur,,,,,p22
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,franks,P10534,Franks,,0,Decatur,,,,22,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,franks,P10534,Franks,,0,Decatur,,,,22,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,freese,B01706,Freese,William,0,Quincy,,,33,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,freese,F21434,Freese,,0,Quincy,,,,,p33
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,freese,P10228,Freese,,0,Quincy,,,,33,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,freese,P10228,Freese,,0,Quincy,,,,33,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,funk,B00045,Funk,Charles Wm.,0,Springfield,,,21,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,funk,F21319,Funk,,0,Springfield,,,,,p14
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,funk,P10542,Funk,,0,Springfield,,,,14,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,funk,P10542,Funk,,0,Springfield,,,,14,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,fustin,B01291,Fustin,Kenneth,0,Danville,,,17,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,fustin,F21623,Fustin,,0,Danville,,,,,p15
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,fustin,P10304,Fustin,,0,Danville,,,,15,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,fustin,P10304,Fustin,,0,Danville,,,,15,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,gallatin,B00985,Gallatin,Harry,0,Decatur,,,33,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,gallatin,F21264,Gallatin,,0,Decatur,,,,,p32
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,gallatin,P10455,Gallatin,,0,Decatur,,,,32,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,gallatin,P10455,Gallatin,,0,Decatur,,,,32,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,garber,B01601,Garber,Robert,0,Davenport,,,22,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,garber,F21531,Garber,,0,Davenport,,,,,p22
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,garber,P10043,Garber,,0,Davenport,,,,22,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,garber,P10043,Garber,,0,Davenport,,,,22,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,giebel,B01007,Giebel,Arlyn,0,Quincy,,,95,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,giebel,F21130,Giebel,,0,Quincy,,,,,c80
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,gordon,B01466,Gordon,Robert,0,Evansville,,,34,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,gordon,F21705,Gordon,,0,Evansville,,,,,p33
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,gordon,P10253,Gordon,,0,Evansville,,,,33,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,gordon,P10253,Gordon,,0,Evansville,,,,33,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,gray,B01029,Gray,Elmer,0,Springfield,,,126,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,gray,F20153,Gray,,0,Springfield,,,,,2b126
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,graybill,B00898,Graybill,Bernard,0,Decatur,,,65,,
@@ -151,33 +156,34 @@ minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,haschak,B00059,Haschak,W
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,haschak,F20115,Haschak,,0,Waterloo,,,,,1b80
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,held,B01275,Held,Melvin,0,Springfield,,,37,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,held,F21255,Held,,0,Springfield,,,,,p37
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,held,P10432,Held,,0,Springfield,,,,37,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,held,P10432,Held,,0,Springfield,,,,37,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,hennerich,B01288,Hennerich,John,0,Evansville,,,48,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,hennerich,F20316,Hennerich,,0,Evansville,,,,,2b13
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,hennerich,F20970,Hennerich,,0,Evansville,,,,,of17
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,herndon,B01861,Herndon,James,0,Evansville,,,22,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,herndon,F21833,Herndon,,0,Evansville,,,,,p20
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,herndon,P10410,Herndon,,0,Evansville,,,,20,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,herndon,P10410,Herndon,,0,Evansville,,,,20,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,hill.r,B00163,Hill,Robert,0,Terre Haute,,,83,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,hill.f,B01431,Hill,Frank,0,Terre Haute,,,27,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,hill.r,F20046,Hill,R.,0,Terre Haute,,,,,1b83
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,hill.f,F21566,Hill,F.,0,Terre Haute,,,,,p27
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,hill.f,P10569,Hill,F.,0,Terre Haute,,,,27,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,hill.f,P10569,Hill,F.,0,Terre Haute,,,,27,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,hopkins,B00904,Hopkins,Charles,0,Springfield,,,91,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,hopkins,F21196,Hopkins,,0,Springfield,,,,,c86
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,howe.j,B00013,Howe,John,0,Decatur,,,13,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,howe.c,B01848,Howe,Calvin,0,Decatur,,,19,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,howe.c,F21308,Howe,C.,0,Decatur,,,,,p16
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,howe.j,F21840,Howe,J.,0,Decatur,,,,,p12
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,howe.c,P10361,Howe,C.,0,Decatur,,,,16,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,howe.c,P10361,Howe,C.,0,Decatur,,,,16,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,howerton,B01227,Howerton,Carlson,0,Springfield,,,13,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,howerton,F20832,Howerton,,0,Springfield,,,,,of13
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,huffman,B00149,Huffman,Benjamin,0,Waterloo,,,30,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,huffman,F21241,Huffman,,0,Waterloo,,,,,c15
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,huffman,M90026,Huffman,Bennie,,Waterloo,,,,,
+minoraverages/emilbb,1949,Illinois-Indiana-Iowa League,,M91758,Huffman,Bennie,,Waterloo,,,,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,hurd,B00739,Hurd,Thomas,0,Waterloo,,,43,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,hurd,F21528,Hurd,,0,Waterloo,,,,,p36
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,hurd,P10035,Hurd,,0,Waterloo,,,,36,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,hurd,P10035,Hurd,,0,Waterloo,,,,36,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,imbra,B00833,Imbra,John,0,Decatur,,,57,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,imbra,F20222,Imbra,,0,Decatur,,,,,2b57
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,irwin,B01384,Irwin,Leon,0,Danville,,,69,,
@@ -194,15 +200,15 @@ minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,johnston-qui,B00590,John
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,johnston-th,B01754,Johnston,D. Neil,0,Terre Haute,,,29,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,johnston-qui,F21293,Johnston,,0,Quincy,,,,,p19
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,johnston-th,F21752,Johnston,N.,0,Terre Haute,,,,,p29
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,johnston-th,P10215,Johnston,N.,0,Terre Haute,,,,29,
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,johnston-qui,P10575,Johnston,A.,0,Quincy,,,,19,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,johnston-th,P10215,Johnston,N.,0,Terre Haute,,,,29,p
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,johnston-qui,P10575,Johnston,A.,0,Quincy,,,,19,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,jordan,B00174,Jordan,Ford,0,Evansville,,,113,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,jordan,F20401,Jordan,,0,Evansville,,,,,3b113
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,kaelin,B00319,Kaelin,Martin,0,Waterloo,,,35,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,kaelin,F20240,Kaelin,,0,Waterloo,,,,,2b35
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,kamis,B01733,Kamis,James,0,Waterloo,,,27,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,kamis,F21278,Kamis,,0,Waterloo,,,,,p25
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,kamis,P10202,Kamis,,0,Waterloo,,,,25,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,kamis,P10202,Kamis,,0,Waterloo,,,,25,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,king,B01078,King,Francis,0,Terre Haute,,,114,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,king,F20177,King,,0,Terre Haute,,,,,2b113
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,koblosh,B00286,Koblosh,Peter,0,Decatur,,,24,,
@@ -213,21 +219,21 @@ minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,konitzki,B01032,Konitzki
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,konitzki,F21229,Konitzki,,0,Danville,,,,,c11
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,koszarek,B00961,Koszarek,William,0,Terre Haute,,,19,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,koszarek,F21488,Koszarek,,0,Terre Haute,,,,,p19
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,koszarek,P10019,Koszarek,,0,Terre Haute,,,,19,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,koszarek,P10019,Koszarek,,0,Terre Haute,,,,19,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,kozlik,B00370,Kozlik,Benedict,0,Decatur,,,45,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,kozlik,F20206,Kozlik,,0,Decatur,,,,,2b44
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,kuncl,B01572,Kuncl,Joseph,0,Decatur,,,20,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,kuncl,F21771,Kuncl,,0,Decatur,,,,,p20
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,kuncl,P10266,Kuncl,,0,Decatur,,,,20,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,kuncl,P10266,Kuncl,,0,Decatur,,,,20,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,lathorpe,B01820,LaThorpe,William,0,Davenport,,,34,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,lathorpe,F21651,LaThorpe,,0,Davenport,,,,,p34
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,lathorpe,P10290,LaThorpe,,0,Davenport,,,,34,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,lathorpe,P10290,LaThorpe,,0,Davenport,,,,34,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,larsen,B01010,Larsen,Donald,0,Springfield,,,35,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,larsen,F21854,Larsen,,0,Springfield,,,,,p18
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,larsen,P10493,Larsen,,0,Springfield,,,,18,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,larsen,P10493,Larsen,,0,Springfield,,,,18,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,law,B00515,Law,Vernon,0,Davenport,,,34,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,law,F21747,Law,,0,Davenport,,,,,p31
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,law,P10192,Law,,0,Davenport,,,,31,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,law,P10192,Law,,0,Davenport,,,,31,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,lee,B00475,Lee,Robert E.,0,Decatur,,,24,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,lee,F20864,Lee,,0,Decatur,,,,,of24
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,levy,F21037,Levy,,0,Springfield,,,,,of25
@@ -252,7 +258,7 @@ minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,maisch,F20072,Maisch,,0,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,maisch,F20924,Maisch,,0,Waterloo,,,,,of45
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,mandel,B01162,Mandel,Jan,0,Decatur,,,33,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,mandel,F21590,Mandel,,0,Decatur,,,,,p32
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,mandel,P10244,Mandel,,0,Decatur,,,,32,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,mandel,P10244,Mandel,,0,Decatur,,,,32,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,mankey,B00726,Mankey,Everett,0,Terre Haute,,,89,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,mankey,F21045,Mankey,,0,Terre Haute,,,,,of89
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,marier,B00531,Marier,Thomas,0,Terre Haute,,,80,,
@@ -263,14 +269,14 @@ minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,martin,B01086,Martin,Joh
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,martin,F21158,Martin,,0,Waterloo,,,,,c93
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,may,B00076,May,Roger,0,Terre Haute,,,24,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,may,F21672,May,,0,Terre Haute,,,,,p23
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,may,P10591,May,,0,Terre Haute,,,,23,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,may,P10591,May,,0,Terre Haute,,,,23,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,mccarthy,B00362,McCarthy,Jerome,0,Springfield,,,89,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,mccarthy,F20038,McCarthy,,0,Springfield,,,,,1b89
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,mcghee,B00158,McGhee,W. Edward,0,Waterloo,,,122,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,mcghee,F20713,McGhee,,0,Waterloo,,,,,of115
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,miller,B00450,Miller,Robert,0,Terre Haute,,,42,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,miller,F21469,Miller,,0,Terre Haute,,,,,p34
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,miller,P10121,Miller,,0,Terre Haute,,,,34,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,miller,P10121,Miller,,0,Terre Haute,,,,34,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,minnis,B00553,Minnis,Virl,0,Danville,,,125,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,minnis,F20190,Minnis,,0,Danville,,,,,2b122
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,moryn,B00101,Moryn,Walter,0,Danville,,,94,,
@@ -283,7 +289,7 @@ minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,nichols-eva,B01580,Nicho
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,nichols-qui,B01617,Nichols,Charles,0,Quincy,,,12,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,nichols-qui,F21343,Nichols,,0,Quincy,,,,,p12
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,nichols-eva,F21362,Nichols,,0,Evansville,,,,,p27
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,nichols-eva,P10056,Nichols,,0,Evansville,,,,27,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,nichols-eva,P10056,Nichols,,0,Evansville,,,,27,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,novosel,B00207,Novosel,John,0,Springfield,,,107,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,novosel,F20784,Novosel,,0,Springfield,,,,,of106
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,parker,B00840,Parker,Joseph,0,Danville,,,20,,
@@ -294,23 +300,23 @@ minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,pennell,B01313,Pennell,L
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,pennell,F20102,Pennell,,0,Evansville,,,,,1b75
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,peters,B01857,Peters,Clarence,0,Evansville,,,32,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,peters,F21450,Peters,,0,Evansville,,,,,p27
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,peters,P10168,Peters,,0,Evansville,,,,27,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,peters,P10168,Peters,,0,Evansville,,,,27,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,pfeiffer,B01197,Pfeiffer,Harold,0,Evansville,,,55,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,pfeiffer,F20144,Pfeiffer,,0,Evansville,,,,,1b50
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,picchiotti,B01546,Picchiotti,John,0,Decatur,,,17,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,pilgram,B01798,Pilgram,William,0,Springfield,,,33,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,pilgram,F21739,Pilgram,,0,Springfield,,,,,p32
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,pilgram,P10357,Pilgram,,0,Springfield,,,,32,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,pilgram,P10357,Pilgram,,0,Springfield,,,,32,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,pritts,B01509,Pritts,Harry,0,Davenport,,,11,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,pritts,F21553,Pritts,,0,Davenport,,,,,p11
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,pritts,P10145,Pritts,,0,Davenport,,,,11,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,pritts,P10145,Pritts,,0,Davenport,,,,11,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,purkey,B01402,Purkey,Robert,0,Davenport,,,33,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,purkey,F21667,Purkey,,0,Davenport,,,,,p31
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,purkey,P10184,Purkey,,0,Davenport,,,,31,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,purkey,P10184,Purkey,,0,Davenport,,,,31,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,queen,B01489,Queen,William,0,Evansville,,,14,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,reardon,B00865,Reardon,Joseph,0,Evansville,,,13,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,reardon,F21515,Reardon,,0,Evansville,,,,,p11
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,reardon,P10348,Reardon,,0,Evansville,,,,11,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,reardon,P10348,Reardon,,0,Evansville,,,,11,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,reed,B01269,Reed,Wallace,0,Quincy,,,49,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,reed,F20279,Reed,,0,Quincy,,,,,2b47
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,rhodes,B00614,Rhodes,Herman,0,Waterloo,,,126,,
@@ -318,17 +324,19 @@ minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,rhodes,F20189,Rhodes,,0,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,rhodes,F20583,Rhodes,,0,Waterloo,,,,,ss41
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,rich,B01453,Rich,C. Gifford,0,Quincy,,,47,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,rich,F21589,Rich,,0,Quincy,,,,,p47
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,rich,P10289,Rich,,0,Quincy,,,,47,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,rich,P10289,Rich,,0,Quincy,,,,47,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,riley,M90047,Riley,Leon,,Terre Haute,,,,,
+minoraverages/emilbb,1949,Illinois-Indiana-Iowa League,,M91774,Riley,Leon,,Terre Haute,,,,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,riolo,B00442,Riolo,Joseph,0,Danville,,,87,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,riolo,F20768,Riolo,,0,Danville,,,,,of83
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,rochelli,B00469,Rochelli,Louis,0,Danville,,,97,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,rochelli,F20369,Rochelli,,0,Danville,,,,,3b81
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,rochelli,F20458,Rochelli,,0,Danville,,,,,ss15
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,rochelli,M90083,Rochelli,Louis,,Danville,,,,,
+minoraverages/emilbb,1949,Illinois-Indiana-Iowa League,,M91816,Rochelli,Lou,,Danville,,,,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,rutherford,B01551,Rutherford,John,0,Danville,,,54,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,rutherford,F21416,Rutherford,,0,Danville,,,,,p29
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,rutherford,P10113,Rutherford,,0,Danville,,,,29,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,rutherford,P10113,Rutherford,,0,Danville,,,,29,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,sabol,B01345,Sabol,Anthony,0,Davenport,,,55,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,sabol,F20287,Sabol,,0,Davenport,,,,,2b45
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,samson,B00609,Samson,Charles,0,Evansville,,,114,,
@@ -337,10 +345,10 @@ minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,schaeffer,F20878,Schaefe
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,schaeffer,B01428,Schaeffer,John,0,Quincy,,,18,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,schmidt,B01514,Schmidt,Donald E.,0,Danville,,,28,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,schmidt,F21381,Schmidt,,0,Danville,,,,,p28
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,schmidt,P10320,Schmidt,,0,Danville,,,,28,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,schmidt,P10320,Schmidt,,0,Danville,,,,28,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,schneiders,B01663,Schneiders,Paul,0,Decatur,,,14,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,schneiders,F21403,Schneiders,,0,Decatur,,,,,p14
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,schneiders,P10159,Schneiders,,0,Decatur,,,,14,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,schneiders,P10159,Schneiders,,0,Decatur,,,,14,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,schumm,B00646,Schumm,William,0,Quincy,,,112,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,schumm,F20417,Schumm,,0,Quincy,,,,,3b41
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,schumm,F20547,Schumm,,0,Quincy,,,,,ss56
@@ -353,12 +361,13 @@ minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,seltzer,F20886,Seltzer,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,severin,B00125,Severin,Lester,0,Danville,,,119,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,severin,F20829,Severin,,0,Danville,,,,,of115
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,shaffer,M90039,Shaffer,Frederick,,Waterloo,19490528,,,,
+minoraverages/emilbb,1949,Illinois-Indiana-Iowa League,,M91763,Shaffer,Frederick,,Waterloo,,,,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,shandor,B01250,Shandor,Theodore,0,Waterloo,,,33,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,shandor,F21442,Shandor,,0,Waterloo,,,,,p32
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,shandor,P10100,Shandor,,0,Waterloo,,,,32,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,shandor,P10100,Shandor,,0,Waterloo,,,,32,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,sheehan,B01477,Sheehan,David,0,Evansville,,,27,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,sheehan,F21475,Sheehan,,0,Evansville,,,,,p24
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,sheehan,P10062,Sheehan,,0,Evansville,,,,24,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,sheehan,P10062,Sheehan,,0,Evansville,,,,24,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,signaigo,B00589,Signaigo,Robert,0,Quincy,,,116,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,signaigo,F20919,Signaigo,,0,Quincy,,,,,of110
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,smith,B00887,Smith,John J.,0,Decatur,,,123,,
@@ -372,20 +381,20 @@ minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,starasta,B00427,Starasta
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,starasta,F20620,Starasta,,0,Decatur,,,,,of20
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,stewart,B01415,Stewart,Frank R.,0,Danville,,,34,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,stewart,F21646,Stewart,,0,Danville,,,,,p28
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,stewart,P10464,Stewart,,0,Danville,,,,28,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,stewart,P10464,Stewart,,0,Danville,,,,28,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,storck,B00182,Storck,Frederick,0,Decatur,,,95,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,storck,F20759,Storck,,0,Decatur,,,,,of95
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,strahs,B01041,Strahs,Richard,0,Waterloo,,,14,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,strahs,F21638,Strahs,,0,Waterloo,,,,,p14
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,strahs,P10478,Strahs,,0,Waterloo,,,,14,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,strahs,P10478,Strahs,,0,Waterloo,,,,14,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,stretton,B01804,Stretton,William,0,Waterloo,,,12,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,stretton,F21887,Stretton,,0,Waterloo,,,,,p12
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,strobel,B01359,Strobel,Fred,0,Davenport,,,31,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,strobel,F21502,Strobel,,0,Davenport,,,,,p30
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,strobel,P10176,Strobel,,0,Davenport,,,,30,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,strobel,P10176,Strobel,,0,Davenport,,,,30,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,stuffel,B01567,Stuffel,Paul,0,Terre Haute,,,36,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,stuffel,F21370,Stuffel,,0,Terre Haute,,,,,p36
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,stuffel,P10231,Stuffell,,0,Terre Haute,,,,36,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,stuffel,P10231,Stuffell,,0,Terre Haute,,,,36,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,sturdivant,B00638,Sturdivant,Thomas,0,Quincy,,,109,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,sturdivant,F20298,Sturdivant,,0,Quincy,,,,,2b19
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,sturdivant,F20425,Sturdivant,,0,Quincy,,,,,3b90
@@ -397,7 +406,7 @@ minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,thomas-dav,B00957,Thomas
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,thomas-wat,F20776,Thomas,,0,Waterloo,,,,,of44
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,thune,B01203,Thune,Alan,0,Danville,,,14,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,thune,F21806,Thune,,0,Danville,,,,,p10
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,thune,P10277,Thune,,0,Danville,,,,10,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,thune,P10277,Thune,,0,Danville,,,,10,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,tolson,B00879,Tolson,Omer,0,Springfield,,,20,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,tolson,F20636,Tolson,,0,Springfield,,,,,of19
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,tond,B01300,Tond,Louis,0,Davenport,,,14,,
@@ -415,12 +424,12 @@ minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,vital,B00672,Vital,Duri,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,vital,F20943,Vital,,0,Evansville,,,,,of116
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,vondrashek,B01779,Vondrashek,George,0,Quincy,,,26,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,vondrashek,F21427,Vondrashek,,0,Quincy,,,,,p26
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,vondrashek,P10588,Vondrashek,,0,Quincy,,,,26,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,vondrashek,P10588,Vondrashek,,0,Quincy,,,,26,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,vrablik,B00397,Vrablik,John,0,Waterloo,,,25,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,vrablik,F21207,Vrablik,,0,Waterloo,,,,,c24
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,walsh,B01630,Walsh,John,0,Evansville,,,33,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,walsh,F21614,Walsh,,0,Evansville,,,,,p30
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,walsh,P10336,Walsh,,0,Evansville,,,,30,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,walsh,P10336,Walsh,,0,Evansville,,,,30,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,welker,B00403,Welker,Richard,0,Terre Haute,,,101,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,welker,F20997,Welker,,0,Terre Haute,,,,,of101
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,weygant,B01234,Weygant,Robert,0,Davenport,,,67,,
@@ -435,10 +444,10 @@ minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,williams,B00912,Williams
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,williams,F20067,Williams,,0,Springfield,,,,,1b37
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,winterhalter,B01696,Winterhalter,Eugene,0,Quincy,,,12,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,winterhalter,F21324,Winterhalter,,0,Quincy,,,,,p12
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,winterhalter,P10429,Winterhalter,,0,Quincy,,,,12,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,winterhalter,P10429,Winterhalter,,0,Quincy,,,,12,p
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,young,B01170,Young,Richard,0,Terre Haute,,,45,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,young,F20449,Young,,0,Terre Haute,,,,,3b45
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,zielinski,B01682,Zielinski,Edward,0,Decatur,,,10,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,zoeterman,B01711,Zoeterman,George,0,Decatur,,,30,,
 minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,zoeterman,F21726,Zoeterman,,0,Decatur,,,,,p30
-minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,zoeterman,P10399,Zoeterman,,0,Decatur,,,,30,
+minoraverages/1950TSN,1949,Illinois-Indiana-Iowa League,zoeterman,P10399,Zoeterman,,0,Decatur,,,,30,p

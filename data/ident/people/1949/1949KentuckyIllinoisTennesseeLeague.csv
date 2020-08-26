@@ -2,34 +2,35 @@ source,league.year,league.name,ident,person.ref,person.name.last,person.name.giv
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,adair,B00101,Adair,Marion,0,Owensboro,,,101,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,adair,F20189,Adair,,0,Owensboro,,,,,2b92
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,adair,M90018,Adair,Marion (Bill),,Owensboro,,,,,
+minoraverages/emilbb,1949,Kentucky-Illinois-Tennessee League,,M94757,Adair,Bill,,Owensboro,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,adams,B00370,Adams,Eugene,0,Owensboro,,,15,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,adams,F20721,Adams,,0,Owensboro,,,,,c15
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,addison,B00590,Addison,Leonard,0,Clarksville,,,94,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,addison,F20893,Addison,,0,Clarksville,,,,,c58
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,addison,F21264,Addison,,0,Clarksville,,,,,of27
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,addison,P10100,Addison,,0,Clarksville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,addison,P10100,Addison,,0,Clarksville,,,,,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,adduci,B00680,Adduci,Cal,0,Union City,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,afremow,B00362,Afremow,Buddy,0,Hopkinsville,,,91,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,afremow,F20505,Afremow,,0,Hopkinsville,,,,,ss91
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,aldridge,B01674,Aldridge,Lee,0,Union City,,,34,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,aldridge,F21771,Aldridge,,0,Union City,,,,,p34
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,aldridge,P10062,Aldridge,,0,Union City,,,,34,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,aldridge,P10062,Aldridge,,0,Union City,,,,34,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,arnett,B01368,Arnett,Ernest,0,Hopkinsville,,,19,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,arnett,F21912,Arnett,,0,Hopkinsville,,,,,p17
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,arnett,P10320,Arnett,,0,Hopkinsville,,,,17,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,arnett,P10320,Arnett,,0,Hopkinsville,,,,17,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,ashford,B00695,Ashford,Carl,0,Fulton,,,121,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,ashford,F20206,Ashford,,0,Fulton,,,,,2b121
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bailey,B01779,Bailey,Leonard,0,Cairo,,,20,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bailey,F21491,Bailey,,0,Cairo,,,,,p20
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bailey,P10100,Bailey,,0,Cairo,,,,20,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bailey,P10100,Bailey,,0,Cairo,,,,20,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,baity,B01453,Baity,Donald,0,Owensboro,,,81,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,baity,F20713,Baity,,0,Owensboro,,,,,c81
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,balunek,B00308,Balunek,Andrew,1,Union City,,,,,
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,balunek,B00308,Balunek,Andrew,2,Hopkinsville,,,,,
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,balunek,B00308,Balunek,Andrew,T,,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,balunek,P10312,Balunek,,1,Hopkinsville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,balunek,P10312,Balunek,,2,Union City,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,balunek,P10312,Balunek,,T,,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,balunek,P10312,Balunek,,1,Hopkinsville,,,,,p
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,balunek,P10312,Balunek,,2,Union City,,,,,p
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,balunek,P10312,Balunek,,T,,,,,,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,bardol,B00695,Bardol,Pete,0,Union City,,,,,
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,bawel,B00491,Bawel,Edward,0,Mayfield,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bellers,B00566,Bellers,Carl,0,Union City,,,122,,
@@ -38,45 +39,45 @@ minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,berg,B00739,Berg,D
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,berg,F22103,Berg,,0,Madisonville,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,beyl,B01812,Beyl,Paul,0,Clarksville,,,11,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,beyl,F21450,Beyl,,0,Clarksville,,,,,p11
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,beyl,P10019,Beyl,,0,Clarksville,,,,11,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,beyl,P10019,Beyl,,0,Clarksville,,,,11,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bickering,B00130,Bickering,Ralph,1,Mayfield,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bickering,B00130,Bickering,Ralph,2,Fulton,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bickering,B00130,Bickering,Ralph,T,,,,44,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bickering,F21718,Bickering,,1,Mayfield,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bickering,F21718,Bickering,,2,Fulton,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bickering,F21718,Bickering,,T,,,,,,p27
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bickering,P10591,Bickering,,1,Mayfield,,,,,
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bickering,P10591,Bickering,,2,Fulton,,,,,
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bickering,P10591,Bickering,,T,,,,,27,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bickering,P10591,Bickering,,1,Mayfield,,,,,p
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bickering,P10591,Bickering,,2,Fulton,,,,,p
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bickering,P10591,Bickering,,T,,,,,27,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,bishop,B00207,Bishop,William,0,Fulton,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,bishop,P10244,Bishop,,0,Fulton,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,bishop,P10244,Bishop,,0,Fulton,,,,,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,blank,B00013,Blank,,0,Clarksville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,blank,P10113,Blank,,0,Clarksville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,blank,P10113,Blank,,0,Clarksville,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bohna,B00502,Bohna,John,0,Fulton,,,48,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bohna,F21370,Bohna,,0,Fulton,,,,,of10
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bohna,F21879,Bohna,,0,Fulton,,,,,p21
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bohna,P10455,Bohna,,0,Fulton,,,,21,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bohna,P10455,Bohna,,0,Fulton,,,,21,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,bone,B00021,Bone,L.C.,0,Clarksville,,,,,
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,boston,B00196,Boston,,0,Fulton,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,boston,P10231,Boston,,0,Fulton,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,boston,P10231,Boston,,0,Fulton,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,brawner,B00528,Brawner,Ralph,0,Fulton,,,107,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,brawner,F21084,Brawner,,0,Fulton,,,,,of103
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,brown-ful,B00609,Brown,Perry,0,Fulton,,,121,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,brown-owe,B01649,Brown,Robert,0,Owensboro,,,10,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,brown-ful,F20560,Brown,,0,Fulton,,,,,ss121
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,brown-owe,F21469,Brown,,0,Owensboro,,,,,p10
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,brown-owe,P10019,Brown,,0,Owensboro,,,,10,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,brown-owe,P10019,Brown,,0,Owensboro,,,,10,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,brown-may,B00502,Brown,Al,0,Mayfield,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,brown-may,P10478,Brown,,0,Mayfield,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,brown-may,P10478,Brown,,0,Mayfield,,,,,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,browning,B00609,Browning,Eugene,0,Owensboro,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,brticevich,B01580,Brticevich,Michael,0,Hopkinsville,,,14,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,brticevich,F21638,Brticevich,,0,Hopkinsville,,,,,p14
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,brticevich,P10654,Brticevich,,0,Hopkinsville,,,,14,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,brticevich,P10654,Brticevich,,0,Hopkinsville,,,,14,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,buchanan,B00130,Buchanan,William,0,Cairo,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,buchanan,P10043,Buchanan,,0,Cairo,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,buchanan,P10043,Buchanan,,0,Cairo,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bunch,B00667,Bunch,Junior,0,Owensboro,,,28,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bunch,F21553,Bunch,,0,Owensboro,,,,,p26
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bunch,P10043,Bunch,,0,Owensboro,,,,26,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bunch,P10043,Bunch,,0,Owensboro,,,,26,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,burns,B00528,Burns,Carl,0,Mayfield,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,wurthman,B01345,Burthman,Leonard,1,Cairo,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,wurthman,B01345,Burthman,Leonard,2,Union City,,,,,
@@ -84,55 +85,55 @@ minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,wurthman,B01345,Bu
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bush,B00117,Bush,Carl,0,Union City,,,19,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,bush,F20080,Bush,,0,Union City,,,,,1b19
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,bussam,B00515,Bussam,,0,Mayfield,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,bussam,P10486,Bussam,,0,Mayfield,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,bussam,P10486,Bussam,,0,Mayfield,,,,,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,camara,B00381,Camara,Arthur,0,Madisonville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,camara,P10385,Camara,,0,Madisonville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,camara,P10385,Camara,,0,Madisonville,,,,,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,camhill,B00531,Camhill,James,0,Mayfield,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,canterna,B00324,Canterna,Oland,0,Owensboro,,,52,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,canterna,F21000,Canterna,,0,Owensboro,,,,,of50
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,cantor,B01275,Cantor,Charles,0,Mayfield,,,25,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,cantor,F20841,Cantor,,0,Mayfield,,,,,c18
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,cantor,P10493,Cantor,,0,Mayfield,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,cantor,P10493,Cantor,,0,Mayfield,,,,,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,carlson,B00319,Carlson,Arne,0,Hopkinsville,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,cattaneo,B00286,Cattaneo,Ray,0,Owensboro,,,110,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,cattaneo,F20327,Cattaneo,,0,Owensboro,,,,,3b106
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,chambers,B01227,Chambers,William,0,Madisonville,,,33,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,chambers,F21811,Chambers,,0,Madisonville,,,,,p27
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,chambers,P10348,Chambers,,0,Madisonville,,,,27,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,chambers,P10348,Chambers,,0,Madisonville,,,,27,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,ciacchi,B00207,Ciacchi,Richard,0,Hopkinsville,,,14,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,ciacchi,F22073,Ciacchi,,0,Hopkinsville,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,ciofani,B00811,Ciofani,Anthony,0,Hopkinsville,,,23,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,ciofani,F20908,Ciofani,,0,Hopkinsville,,,,,c22
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,coker,B00898,Coker,Robert,0,Fulton,,,74,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,coker,F20855,Coker,,0,Fulton,,,,,c74
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,collins,P10464,Collins,,0,Fulton,,,,8,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,collins,P10464,Collins,,0,Fulton,,,,8,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,collins,B00210,Collins,Andy,0,Fulton,,,,,
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,combs,B00149,Combs,Ken,0,Cairo,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,combs,P10056,Combs,,0,Cairo,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,combs,P10056,Combs,,0,Cairo,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,conner,B01041,Conner,John,0,Mayfield,,,71,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,conner,F20417,Conner,,0,Mayfield,,,,,3b12
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,conner,F20547,Conner,,0,Mayfield,,,,,ss27
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,conner,F21068,Conner,,0,Mayfield,,,,,of25
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,conovan,B01722,Conovan,Michael,0,Fulton,,,11,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,conovan,F21760,Conovan,,0,Fulton,,,,,p11
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,conovan,P10410,Conovan,,0,Fulton,,,,11,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,conovan,P10410,Conovan,,0,Fulton,,,,11,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,cooper,B00324,Cooper,William,0,Hopkinsville,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,crone,B01696,Crone,Ray,0,Owensboro,,,14,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,crone,F21427,Crone,,0,Owensboro,,,,,p14
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,crone,P10056,Crone,,0,Owensboro,,,,14,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,crone,P10056,Crone,,0,Owensboro,,,,14,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,cunningham,B00783,Cunningham,Wilford,0,Fulton,,,31,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,cunningham,F21502,Cunningham,,0,Fulton,,,,,p28
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,cunningham,P10493,Cunningham,,0,Fulton,,,,28,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,cunningham,P10493,Cunningham,,0,Fulton,,,,28,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,dambach,B01682,Dambach,James,1,Fulton,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,dambach,B01682,Dambach,James,2,Union City,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,dambach,B01682,Dambach,James,T,,,,22,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,dambach,F21695,Dambach,,1,Fulton,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,dambach,F21695,Dambach,,2,Union City,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,dambach,F21695,Dambach,,T,,,,,,p21
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,dambach,P10097,Dambach,,1,Fulton,,,,,
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,dambach,P10097,Dambach,,2,Union City,,,,,
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,dambach,P10097,Dambach,,T,,,,,21,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,daniel,P10611,Daniel,,0,Union City,,,,,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,dambach,P10097,Dambach,,1,Fulton,,,,,p
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,dambach,P10097,Dambach,,2,Union City,,,,,p
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,dambach,P10097,Dambach,,T,,,,,21,p
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,daniel,P10611,Daniel,,0,Union City,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,demasi,B00045,De Masi,Joseph,0,Madisonville,,,122,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,demasi,F21229,De Masi,,0,Madisonville,,,,,of122
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,degrazia,B00515,DeGrazia,Joseph,0,Hopkinsville,,,103,,
@@ -141,14 +142,15 @@ minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,degrazia,F20699,De
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,degrazia,F20919,DeGrazia,,0,Hopkinsville,,,,,c13
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,degrazia,F21207,DeGrazia,,0,Hopkinsville,,,,,of38
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,degrazia,F22061,DeGrazia,,0,Hopkinsville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,degrazia,P10320,DeGrazia,,0,Hopkinsville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,degrazia,P10320,DeGrazia,,0,Hopkinsville,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,demasi,M90047,DeMasi,Joseph,,Madisonville,,,,,
+minoraverages/emilbb,1949,Kentucky-Illinois-Tennessee League,,M94785,DeMasi,Joe,,Madisonville,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,deckert,B00854,Deckert,Robert,0,Clarksville,,,67,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,deckert,F20970,Deckert,,0,Clarksville,,,,,of51
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,deckert,F22127,Deckert,,0,Clarksville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,deckert,P10228,Deckert,,0,Clarksville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,deckert,P10228,Deckert,,0,Clarksville,,,,,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,dempster,B00229,Dempster,Thomas,0,Fulton,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,dempster,P10253,Dempster,,0,Fulton,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,dempster,P10253,Dempster,,0,Fulton,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,desjardin,B01064,Des Jardin,Wilfred,1,Fulton,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,desjardin,B01064,Des Jardin,Wilfred,2,Hopkinsville,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,desjardin,B01064,Des Jardin,Wilfred,T,,,,113,,
@@ -156,19 +158,19 @@ minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,desjardin,F20886,D
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,desjardin,F20886,Des Jardin,,2,Hopkinsville,,,,,c
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,desjardin,F20886,Des Jardin,,T,,,,,,c113
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,dickherber,B00544,Dickherber,Vince,0,Mayfield,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,dickherber,P10503,Dickherber,,0,Mayfield,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,dickherber,P10503,Dickherber,,0,Mayfield,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,dobbins.e,B00068,Dobbins,Edward,0,Owensboro,,,10,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,dobbins.e,F21475,Dobbins,,0,Owensboro,,,,,p10
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,dobbins.e,P10289,Dobbins,,0,Owensboro,,,,10,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,dobbins.e,P10289,Dobbins,,0,Owensboro,,,,10,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,dobbins.c,B00614,Dobbins,Carey L.,0,Owensboro,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,doehring,B01444,Doehring,Delbert,0,Madisonville,,,26,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,doehring,F21667,Doehring,,0,Madisonville,,,,,p24
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,doehring,P10231,Doehring,,0,Madisonville,,,,24,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,doehring,P10231,Doehring,,0,Madisonville,,,,24,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,donald,B00397,Donald,,0,Madisonville,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,donofrio,B00531,Donofrio,Anthony,0,Madisonville,,,36,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,donofrio,F20388,Donofrio,,0,Madisonville,,,,,3b29
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,duckworth,B00553,Duckworth,Melvin,0,Mayfield,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,duckworth,P10516,Duckworth,,0,Mayfield,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,duckworth,P10516,Duckworth,,0,Mayfield,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,dutton,B00794,Dutton,Richard,0,Union City,,,108,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,dutton,F20303,Dutton,,0,Union City,,,,,3b19
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,dutton,F20620,Dutton,,0,Union City,,,,,ss89
@@ -176,10 +178,10 @@ minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,dyer,B01392,Dyer,T
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,dyer,F20878,Dyer,,0,Mayfield,,,,,c35
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,ellison,B00397,Ellison,John,0,Union City,,,33,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,ellison,F21840,Ellison,,0,Union City,,,,,p25
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,ellison,P10266,Ellison,,0,Union City,,,,25,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,ellison,P10266,Ellison,,0,Union City,,,,25,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,elzinga,B01523,Elzinga,John,0,Madisonville,,,15,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,elzinga,F22004,Elzinga,,0,Madisonville,,,,,p15
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,elzinga,P10588,Elzinga,,0,Madisonville,,,,15,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,elzinga,P10588,Elzinga,,0,Madisonville,,,,15,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,englebright-ful,B00553,Englebright,Curtis,0,Fulton,,,123,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,englebright-cla,B01216,Englebright,Clyde,0,Clarksville,,,28,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,englebright-cla,F20298,Englebright,,0,Clarksville,,,,,2b23
@@ -187,17 +189,18 @@ minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,englebright-ful,F2
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,enos,B00491,Enos,William,0,Mayfield,,,116,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,enos,F20023,Enos,,0,Mayfield,,,,,1b116
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,enos,M90094,Enos,William,,Mayfield,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,enos,P10534,Enos,,0,Mayfield,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,enos,P10534,Enos,,0,Mayfield,,,,,p
+minoraverages/emilbb,1949,Kentucky-Illinois-Tennessee League,,M94837,Enoss,Bill,,Mayfield,,,,,
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,errickson,B00335,Errickson,Malcolm,0,Hopkinsville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,errickson,P10336,Errickson,,0,Hopkinsville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,errickson,P10336,Errickson,,0,Hopkinsville,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,evans,B01242,Evans,Billy,0,Mayfield,,,25,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,evans,F20496,Evans,,0,Mayfield,,,,,3b18
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,evans,P10527,Evans,,0,Mayfield,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,evans,P10527,Evans,,0,Mayfield,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,fahringer,B00241,Fahringer,Allen,0,Madisonville,,,119,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,fahringer,F21117,Fahringer,,0,Madisonville,,,,,of119
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,finch,B00973,Finch,Jack,0,Clarksville,,,48,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,finch,F21623,Finch,,0,Clarksville,,,,,p19
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,finch,P10304,Finch,,0,Clarksville,,,,19,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,finch,P10304,Finch,,0,Clarksville,,,,19,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,firestone,B00840,Firestone,Leo,0,Madisonville,,,112,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,firestone,F20539,Firestone,,0,Madisonville,,,,,ss112
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,fisher-uc+cai,B00319,Fisher,LeRoy,1,Union City,,,,,
@@ -208,9 +211,9 @@ minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,fisher-ful,F20737,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,fisher-uc+cai,F21241,Fisher,,1,Union City,,,,,of
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,fisher-uc+cai,F21241,Fisher,,2,Cairo,,,,,of
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,fisher-uc+cai,F21241,Fisher,,T,,,,,,of102
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,fisher-uc+cai,P10622,Fisher,,1,Union City,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,fisher-uc+cai,P10622,Fisher,,2,Cairo,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,fisher-uc+cai,P10622,Fisher,,T,,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,fisher-uc+cai,P10622,Fisher,,1,Union City,,,,,p
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,fisher-uc+cai,P10622,Fisher,,2,Cairo,,,,,p
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,fisher-uc+cai,P10622,Fisher,,T,,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,forrest,B00705,Forrest,Billy Joe,0,Union City,,,112,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,forrest,F20369,Forrest,,0,Union City,,,,,3b76
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,forrest,F20648,Forrest,,0,Union City,,,,,ss28
@@ -228,80 +231,81 @@ minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,gabrys,B00747,Gabr
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,gabrys,F20072,Gabrys,,0,Madisonville,,,,,1b125
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,gehringer,B01490,Gehringer,Paul,0,Mayfield,,,53,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,gehringer,F21920,Gehringer,,0,Mayfield,,,,,p39
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,gehringer,P10373,Gehringer,,0,Mayfield,,,,39,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,gehringer,P10373,Gehringer,,0,Mayfield,,,,39,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,gerrish,B00705,Gerrish,Charles,0,Union City,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,gerrish,P10633,Gerrish,,0,Union City,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,gerrish,P10633,Gerrish,,0,Union City,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,gorman,B01376,Gorman,James,0,Mayfield,,,68,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,gorman,F20350,Gorman,,0,Mayfield,,,,,3b64
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,green,B01538,Green,Robert,0,Clarksville,,,21,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,green,F21589,Green,,0,Clarksville,,,,,p20
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,green,P10606,Green,,0,Clarksville,,,,20,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,green,P10606,Green,,0,Clarksville,,,,20,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,grossman,B01010,Grossman,Harley,0,Fulton,,,39,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,grossman,F21614,Grossman,,0,Fulton,,,,,p36
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,grossman,P10121,Grossman,,0,Fulton,,,,36,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,grossman,P10121,Grossman,,0,Fulton,,,,36,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,guisti,B00623,Guisti,Robert,0,Owensboro,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,guisti,P10569,Guisti,,0,Owensboro,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,guisti,P10569,Guisti,,0,Owensboro,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,gura,B00961,Gura,Frank,0,Madisonville,,,65,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,gura,F21278,Gura,,0,Madisonville,,,,,of11
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,gura,F21544,Gura,,0,Madisonville,,,,,p28
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,gura,P10407,Gura,,0,Madisonville,,,,28,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,gura,P10407,Gura,,0,Madisonville,,,,28,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,halamek,B01601,Halamek,Louis,0,Cairo,,,33,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,halamek,F21957,Halamek,,0,Cairo,,,,,p30
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,halamek,P10145,Halamek,,0,Cairo,,,,30,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,halamek,P10145,Halamek,,0,Cairo,,,,30,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,hamman,F20287,Haman,,0,Owensboro,,,,,2b38
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,hamman,B01055,Hamman,Earl,0,Owensboro,,,48,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,hammons,B00833,Hammons,Norman,0,Clarksville,,,114,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,hammons,F20604,Hammons,,0,Clarksville,,,,,ss99
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,hammons,F22116,Hammons,,0,Clarksville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,hammons,P10121,Hammons,,0,Clarksville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,hammons,P10121,Hammons,,0,Clarksville,,,,,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,harslik,B00718,Harslik,Norman,0,Union City,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,harslik,P10640,Harslik,,0,Union City,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,harslik,P10640,Harslik,,0,Union City,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,hart,B00013,Hart,William,0,Cairo,,,110,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,hart,F20316,Hart,,0,Cairo,,,,,3b103
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,hart,M90026,Hart,William,,Cairo,,,,,
+minoraverages/emilbb,1949,Kentucky-Illinois-Tennessee League,,M94761,Hart,William,,Cairo,,,,,
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,hartman,B00241,Hartman,Richard,0,Fulton,,,,,
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,hayes,B00037,Hayes,Lawson,0,Clarksville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,hayes,P10137,Hayes,,0,Clarksville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,hayes,P10137,Hayes,,0,Clarksville,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,hazelton,B00125,Hazelton,Don,0,Owensboro,,,98,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,hazelton,F20128,Hazelton,,0,Owensboro,,,,,1b98
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,hedges,B01321,Hedges,Billy,0,Clarksville,,,18,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,hedges,F20685,Hedges,,0,Clarksville,,,,,ss18
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,hedges,P10145,Hedges,,0,Clarksville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,hedges,P10145,Hedges,,0,Clarksville,,,,,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,herman,B00045,Herman,Billy,0,Clarksville,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,hines,B01288,Hines,Thomas,0,Clarksville,,,14,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,hines,F21999,Hines,,0,Clarksville,,,,,p12
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,hines,P10575,Hines,,0,Clarksville,,,,12,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,hines,P10575,Hines,,0,Clarksville,,,,12,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,hinton,B00638,Hinton,Jack,0,Mayfield,,,43,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,hinton,F20482,Hinton,,0,Mayfield,,,,,3b15
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,hinton,F20673,Hinton,,0,Mayfield,,,,,ss19
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,hodson,B00999,Hodson,Russell,0,Owensboro,,,51,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,hodson,F20745,Hodson,,0,Owensboro,,,,,c31
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,hughes,B00403,Hughes,Norman,0,Madisonville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,hughes,P10399,Hughes,,0,Madisonville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,hughes,P10399,Hughes,,0,Madisonville,,,,,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,hynes,B00416,Hynes,Pat,0,Madisonville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,hynes,P10407,Hynes,,0,Madisonville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,hynes,P10407,Hynes,,0,Madisonville,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,imler,B00651,Imler,Ray,0,Hopkinsville,,,90,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,imler,F20474,Imler,,0,Hopkinsville,,,,,3b90
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,intindola,B01572,Intindola,Orest,0,Fulton,,,20,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,intindola,F21531,Intindola,,0,Fulton,,,,,p17
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,intindola,P10357,Intindola,,0,Fulton,,,,17,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,intindola,P10357,Intindola,,0,Fulton,,,,17,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,irwin,B00255,Irwin,Raul,0,Fulton,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,irwin,P10266,Irwin,,0,Fulton,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,irwin,P10266,Irwin,,0,Fulton,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,iwakiri,B01415,Iwakiri,Brooks,0,Mayfield,,,10,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,iwakiri,F20657,Iwakiri,,0,Mayfield,,,,,ss10
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,jadwin,B00623,Jadwin,James,0,Union City,,,112,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,jadwin,F20166,Jadwin,,0,Union City,,,,,1b13
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,jadwin,F20776,Jadwin,,0,Union City,,,,,c100
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,janasky,P10290,Janalsky,,0,Clarksville,,,,31,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,janasky,P10290,Janalsky,,0,Clarksville,,,,31,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,janasky,B01402,Janasky,Richard,0,Clarksville,,,34,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,janasky,F21488,Janasky,,0,Clarksville,,,,,p31
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,johnson,B00638,Johnson,Eugene,0,Owensboro,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,johnson,P10575,Johnson,,0,Owensboro,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,johnson,P10575,Johnson,,0,Owensboro,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,jones,B00544,Jones,Wayne,0,Union City,,,14,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,jones,F21356,Jones,,0,Union City,,,,,of14
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,kanaley,B01740,Kanaley,James,0,Madisonville,,,33,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,kanaley,F21577,Kanaley,,0,Madisonville,,,,,p33
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,kanaley,P10215,Kanaley,,0,Madisonville,,,,33,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,kanaley,P10215,Kanaley,,0,Madisonville,,,,33,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,kaye,B01234,Kaye,Charles,0,Union City,,,20,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,kaye,F21335,Kaye,,0,Union City,,,,,of17
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,keller,B00174,Keller,James,0,Owensboro,,,99,,
@@ -310,16 +314,17 @@ minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,kelly,B00084,Kelly
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,kelly,F20458,Kelly,,0,Mayfield,,,,,3b10
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,kincaid,B01359,Kincaid,Shelby,0,Union City,,,32,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,kincaid,F21651,Kincaid,,0,Union City,,,,,p31
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,kincaid,P10385,Kincaid,,0,Union City,,,,31,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,kincaid,P10385,Kincaid,,0,Union City,,,,31,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,kinney,B00059,Kinney,Richard,0,Clarksville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,kinney,P10159,Kinney,,0,Clarksville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,kinney,P10159,Kinney,,0,Clarksville,,,,,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,koresell,B00343,Koresell,Leonard,0,Hopkinsville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,koresell,P10348,Koresell,,0,Hopkinsville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,koresell,P10348,Koresell,,0,Hopkinsville,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,kuester,B00255,Kuester,Ivan,0,Fulton,,,109,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,kuester,F21021,Kuester,,0,Fulton,,,,,of109
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,kuester,M90071,Kuester,Ivan,,Fulton,,,,,
+minoraverages/emilbb,1949,Kentucky-Illinois-Tennessee League,,M94813,Kuester,Ivan,,Fulton,,,,,
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,lagrega,B00232,LaGrega,Mike,0,Fulton,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,lagrega,P10277,LaGrega,,0,Fulton,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,lagrega,P10277,LaGrega,,0,Fulton,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,lampas,B00920,Lampas,Edward,0,Hopkinsville,,,123,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,laslo,B01291,Laslo,John,0,Cairo,,,15,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,laslo,F21149,Laslo,,0,Cairo,,,,,of15
@@ -331,26 +336,27 @@ minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,lewis-hop,B00021,L
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,lewis-cai,B01630,Lewis,William,0,Cairo,,,12,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,lewis-hop,F21416,Lewis,,0,Hopkinsville,,,,,p15
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,lewis-cai,F21794,Lewis,,0,Cairo,,,,,p12
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,lewis-hop,P10277,Lewis,,0,Hopkinsville,,,,15,
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,lewis-cai,P10569,Lewis,,0,Cairo,,,,12,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,lewis-hop,P10277,Lewis,,0,Hopkinsville,,,,15,p
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,lewis-cai,P10569,Lewis,,0,Cairo,,,,12,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,lindsay,B00450,Lindsay,Walter,0,Cairo,,,118,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,lindsay,F20222,Lindsay,,0,Cairo,,,,,2b118
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,linn,B01108,Linn,Joseph,0,Union City,,,40,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,linn,F21822,Linn,,0,Union City,,,,,p29
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,linn,P10035,Linn,,0,Union City,,,,29,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,linn,P10035,Linn,,0,Union City,,,,29,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,lisenbee,B01711,Lisenbee,Horace,0,Clarksville,,,13,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,lisenbee,F21705,Lisenbee,,0,Clarksville,,,,,p13
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,lisenbee,M90083,Lisenbee,Horace,,Clarksville,,,,,
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,lisenbee,P10253,Lisenbee,,0,Clarksville,,,,13,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,lisenbee,P10253,Lisenbee,,0,Clarksville,,,,13,p
+minoraverages/emilbb,1949,Kentucky-Illinois-Tennessee League,,M94821,Lisenbee,Hod,,Clarkesville,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,litzelfelner,B00308,Litzelfelner,Jack,0,Cairo,,,90,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,litzelfelner,F20784,Litzelfelner,,0,Cairo,,,,,c80
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,ludy,B00646,Ludy,Paul,0,Owensboro,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,ludy,P10588,Ludy,,0,Owensboro,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,ludy,P10588,Ludy,,0,Owensboro,,,,,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,mader,B00726,Mader,Karl,0,Union City,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,mahlke,B00037,Mahlke,William,0,Owensboro,,,47,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,mahlke,F20981,Mahlke,,0,Owensboro,,,,,of47
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,malchitaki,B00427,Malchitaki,Tom,0,Madisonville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,malchitaki,P10429,Malchitaki,,0,Madisonville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,malchitaki,P10429,Malchitaki,,0,Madisonville,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,marinkovich,B00427,Marinkovich,Frank,0,Cairo,,,122,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,marinkovich,F21210,Marinkovich,,0,Cairo,,,,,of122
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,marok,B01119,Marok,Harold,1,Hopkinsville,,,,,
@@ -362,9 +368,9 @@ minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,marok,F20131,Marok
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,marok,F22085,Marok,,1,Hopkinsville,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,marok,F22085,Marok,,2,Union City,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,marok,F22085,Marok,,T,,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,marok,P10357,Marok,,1,Hopkinsville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,marok,P10357,Marok,,2,Union City,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,marok,P10357,Marok,,T,,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,marok,P10357,Marok,,1,Hopkinsville,,,,,p
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,marok,P10357,Marok,,2,Union City,,,,,p
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,marok,P10357,Marok,,T,,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,martak,B00278,Martak,George,0,Union City,,,113,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,martak,F20095,Martak,,0,Union City,,,,,1b26
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,martak,F20463,Martak,,0,Union City,,,,,3b15
@@ -372,90 +378,91 @@ minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,martak,F20612,Mart
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,martak,F21182,Martak,,0,Union City,,,,,of55
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,mason,B00985,Mason,Robert,0,Owensboro,,,30,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,mason,F21973,Mason,,0,Owensboro,,,,,p23
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,mason,P10527,Mason,,0,Owensboro,,,,23,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,mason,P10527,Mason,,0,Owensboro,,,,23,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,matschat,B00068,Matschat,Richard,0,Clarksville,,,,,
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,mattis,B00739,Mattis,Joe,0,Union City,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,mattis,P10665,Mattis,,0,Union City,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,mattis,P10665,Mattis,,0,Union City,,,,,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,mays,B00264,Mays,Rex,0,Fulton,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,mays,P10289,Mays,,0,Fulton,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,mays,P10289,Mays,,0,Fulton,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,mcdonald,B01625,McDonald,William,0,Union City,,,14,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,mcdonald,F21434,McDonald,,0,Union City,,,,,p13
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,mcdonald,P10024,McDonald,,0,Union City,,,,13,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,mcdonald,P10024,McDonald,,0,Union City,,,,13,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,mcgrath,B00651,McGrath,Jerry,0,Owensboro,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,mcgrath,P10591,McGrath,,0,Owensboro,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,mcgrath,P10591,McGrath,,0,Owensboro,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,mestan,B01706,Mestan,Walter,0,Clarksville,,,36,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,mestan,F21961,Mestan,,0,Clarksville,,,,,p34
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,mestan,P10184,Mestan,,0,Clarksville,,,,34,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,mestan,P10184,Mestan,,0,Clarksville,,,,34,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,meyer,B00158,Meyer,Paul,0,Cairo,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,meyer,P10062,Meyer,,0,Cairo,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,meyer,P10062,Meyer,,0,Cairo,,,,,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,mikaloff,B00747,Mikaloff,Thomas,0,Union City,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,mikaloff,P10654,Mikaloff,,0,Union City,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,mikaloff,P10654,Mikaloff,,0,Union City,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,milburn,B01170,Milburn,Morris,0,Cairo,,,38,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,milburn,F22012,Milburn,,0,Cairo,,,,,p36
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,milburn,P10429,Milburn,,0,Cairo,,,,36,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,milburn,P10429,Milburn,,0,Cairo,,,,36,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,miller,B00076,Miller,Leonard,0,Clarksville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,miller,P10168,Miller,,0,Clarksville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,miller,P10168,Miller,,0,Clarksville,,,,,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,molinari,B00450,Molinari,,0,Madisonville,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,moore,B00680,Moore,Lloyd,0,Cairo,,,14,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,moore,F20177,Moore,,0,Cairo,,,,,1b13
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,morris,B01269,Morris,James,0,Union City,,,29,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,morris,F20046,Morris,,0,Union City,,,,,1b22
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,morrow,P10542,Morrow,,0,Hopkinsville,,,,9,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,morrow,P10542,Morrow,,0,Hopkinsville,,,,9,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,morrow,B00356,Morrow,,0,Hopkinsville,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,mueller,B00059,Mueller,John,0,Hopkinsville,,,115,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,mueller,F21232,Mueller,,0,Hopkinsville,,,,,of86
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,mueller,F21442,Mueller,,0,Hopkinsville,,,,,p13
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,mueller,F22099,Mueller,,0,Hopkinsville,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,mueller,M90039,Mueller,John,,Hopkinsville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,mueller,P10024,Mueller,,0,Hopkinsville,,,,13,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,mueller,P10024,Mueller,,0,Hopkinsville,,,,13,p
+minoraverages/emilbb,1949,Kentucky-Illinois-Tennessee League,,M94773,Mueller,Jon,,Hopkinsville,,,,,
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,muldowney,B00434,Muldowney,William,0,Madisonville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,muldowney,P10410,Muldowney,,0,Madisonville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,muldowney,P10410,Muldowney,,0,Madisonville,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,murphy,B00806,Murphy,Charles,0,Mayfield,,,23,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,murphy,F21403,Murphy,,0,Mayfield,,,,,p23
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,murphy,P10633,Murphy,,0,Mayfield,,,,23,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,murphy,P10633,Murphy,,0,Mayfield,,,,23,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,nelson-hop,B01551,Nelson,Eugene,0,Hopkinsville,,,28,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,nelson-hop,F21515,Nelson,,0,Hopkinsville,,,,,p21
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,nelson-hop,P10244,Nelson,,0,Hopkinsville,,,,21,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,nelson-hop,P10244,Nelson,,0,Hopkinsville,,,,21,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,nelson-uc,B00752,Nelson,Walter,0,Union City,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,nixon,B00149,Nixon,Jack,0,Cairo,,,87,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,nixon,F21163,Nixon,,0,Cairo,,,,,of87
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,norris,B01197,Norris,Ralph,0,Cairo,,,27,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,norris,F21013,Norris,,0,Cairo,,,,,of27
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,obrien,B00667,O'Brien,Eugene,0,Owensboro,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,obrien,P10606,O'Brien,,0,Owensboro,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,obrien,P10606,O'Brien,,0,Owensboro,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,odonnell,B01477,O'Donnell,George,0,Mayfield,,,29,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,odonnell,F21854,O'Donnell,,0,Mayfield,,,,,p22
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,odonnell,P10159,O'Donnell,,0,Mayfield,,,,22,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,odonnell,P10159,O'Donnell,,0,Mayfield,,,,22,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,odasz,B00957,O'dasz,Bernard,0,Mayfield,,,69,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,odasz,F20829,O'dasz,,0,Mayfield,,,,,c61
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,olinger,B01804,Olinger,Bernard,0,Union City,,,10,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,olinger,F22048,Olinger,,0,Union City,,,,,p10
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,olinger,P10336,Olinger,,0,Union City,,,,10,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,olinger,P10336,Olinger,,0,Union City,,,,10,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,oraham,B00469,Oraham,Sargon,0,Madisonville,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,owens,B00879,Owens,Vernon,0,Mayfield,,,41,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,owens,F21833,Owens,,0,Mayfield,,,,,p13
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,owens,F22057,Owens,,0,Mayfield,,,,,
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,owens,P10622,Owens,,0,Mayfield,,,,13,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,owens,P10622,Owens,,0,Mayfield,,,,13,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,padgett,B00278,Padgett,William,0,Fulton,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,padgett,P10290,Padgett,,0,Fulton,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,padgett,P10290,Padgett,,0,Fulton,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,pence,F20430,Pance,,0,Mayfield,,,,,3b12
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,partain,B00293,Partain,Maurice,0,Clarksville,,,98,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,partain,F21196,Partain,,0,Clarksville,,,,,of98
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,partain,P10176,Partain,,0,Clarksville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,partain,P10176,Partain,,0,Clarksville,,,,,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,pearston,B00672,Pearston,John,0,Owensboro,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,pence,B01489,Pence,Bruce,0,Mayfield,,,22,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,pence,F20661,Pence,,0,Mayfield,,,,,ss11
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,pendar,B01124,Pendar,Wilbert,0,Hopkinsville,,,16,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,pendar,F21948,Pender,,0,Hopkinsville,,,,,p14
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,pendar,P10611,Pender,,0,Hopkinsville,,,,14,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,pendar,P10611,Pender,,0,Hopkinsville,,,,14,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,perego,B01203,Perego,Louie,0,Union City,,,56,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,perego,F21286,Perego,,0,Union City,,,,,of51
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,peterson,B00076,Peterson,Carol,0,Fulton,,,43,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,peterson,F20924,Peterson,,0,Fulton,,,,,of43
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,petrovich,B00362,Petrovich,Frank,0,Hopkinsville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,petrovich,P10361,Petrovich,,0,Hopkinsville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,petrovich,P10361,Petrovich,,0,Hopkinsville,,,,,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,pinelli,B00475,Pinelli,James,0,Madisonville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,pinelli,P10432,Pinelli,,0,Madisonville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,pinelli,P10432,Pinelli,,0,Madisonville,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,pisoni,B00403,Pisoni,James,0,Mayfield,,,104,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,pisoni,F21101,Pisoni,,0,Mayfield,,,,,of95
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,podoley,B00196,Podoley,Joseph,0,Hopkinsville,,,110,,
@@ -464,7 +471,7 @@ minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,porter,B00488,Port
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,porter,F20425,Porter,,0,Cairo,,,,,3b28
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,porter,F21174,Porter,,0,Cairo,,,,,of85
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,prouty,B00163,Prouty,Jerry,0,Cairo,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,prouty,P10070,Prouty,,0,Cairo,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,prouty,P10070,Prouty,,0,Cairo,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,pruett,B00904,Pruett,Doyle,0,Clarksville,,,108,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,pruett,F20449,Pruett,,0,Clarksville,,,,,3b108
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,randolph,B00589,Randolph,William,0,Fulton,,,44,,
@@ -475,36 +482,37 @@ minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,reach,B00092,Reach
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,reding,B00577,Reding,George,0,Hopkinsville,,,102,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,reding,F21037,Reding,,0,Hopkinsville,,,,,of102
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,reif,B00442,Reif,William,0,Madisonville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,reif,P10441,Reif,,0,Madisonville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,reif,P10441,Reif,,0,Madisonville,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,reinagel,B00416,Reinagel,Victor,0,Clarksville,,,17,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,reinagel,F20571,Reinagel,,0,Clarksville,,,,,ss16
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,rensa,B01250,Rensa,George (Tony),0,Union City,,,38,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,rensa,F20759,Rensa,,0,Union City,,,,,c28
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,rensa,M90052,Rensa,George (Tony),,Union City,,,,,
+minoraverages/emilbb,1949,Kentucky-Illinois-Tennessee League,,M94799,Rensa,Tony,,Union City,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,reynolds-owe,B00434,Reynolds,Robert,0,Owensboro,,,109,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,reynolds-owe,F20997,Reynolds,,0,Owensboro,,,,,of106
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,reynolds-uc,B00760,Reynolds,John,0,Union City,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,riley,B01567,Riley,V.J.,0,Mayfield,,,38,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,riley,F21747,Riley,,0,Mayfield,,,,,p38
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,riley,P10312,Riley,,0,Mayfield,,,,38,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,riley,P10312,Riley,,0,Mayfield,,,,38,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,reach,F21985,Roach,,0,Cairo,,,,,p11
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,reach,P10534,Roach,,0,Cairo,,,,11,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,reach,P10534,Roach,,0,Cairo,,,,11,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,roberts-owe,B00232,Roberts,Buddy,0,Owensboro,,,59,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,roberts-may,B01546,Roberts,Howard,0,Mayfield,,,19,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,roberts-owe,F21293,Roberts,,0,Owensboro,,,,,of59
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,roberts-may,F22036,Roberts,,0,Mayfield,,,,,p14
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,roberts-may,P10640,Roberts,,0,Mayfield,,,,14,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,roberts-may,P10640,Roberts,,0,Mayfield,,,,14,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,robinson,B00286,Robinson,Jack,0,Fulton,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,robinson,P10304,Robinson,,0,Fulton,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,robinson,P10304,Robinson,,0,Fulton,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,rossi,B01337,Rossi,Marion,0,Cairo,,,123,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,rossi,F20594,Rossi,,0,Cairo,,,,,ss123
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,roulo,B01765,Roulo,Ronald,0,Madisonville,,,38,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,roulo,F21609,Roulo,,0,Madisonville,,,,,p37
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,roulo,P10113,Roulo,,0,Madisonville,,,,37,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,roulo,P10113,Roulo,,0,Madisonville,,,,37,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,ruark,B00577,Ruark,Patrick,0,Mayfield,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,ruark,P10542,Ruark,,0,Mayfield,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,ruark,P10542,Ruark,,0,Mayfield,,,,,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,ruby,B00084,Ruby,James,0,Clarksville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,ruby,P10184,Ruby,,0,Clarksville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,ruby,P10184,Ruby,,0,Clarksville,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,ryder,B00865,Ryder,Robert,0,Mayfield,,,58,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,ryder,F20943,Ryder,,0,Mayfield,,,,,of53
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,sadich,B01156,Sadich,Stanley,0,Mayfield,,,42,,
@@ -515,18 +523,18 @@ minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,sanford,B00092,Sa
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,saviano,B01135,Saviano,Pat,0,Hopkinsville,,,42,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,saviano,F21059,Saviano,,0,Hopkinsville,,,,,of15
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,saviano,F21904,Saviano,,0,Hopkinsville,,,,,p11
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,saviano,P10361,Saviano,,0,Hopkinsville,,,,11,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,saviano,P10361,Saviano,,0,Hopkinsville,,,,11,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,schaedig,B00182,Schaedig,Willard,0,Hopkinsville,,,23,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,schaedig,F20526,Schaedig,,0,Hopkinsville,,,,,ss23
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,schisser,B01658,Schisser,Eddie,0,Cairo,,,13,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,schisser,F22020,Schisser,,0,Cairo,,,,,p13
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,schisser,P10035,Schisser,,0,Cairo,,,,13,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,schisser,P10035,Schisser,,0,Cairo,,,,13,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,schnitkey,B00589,Schnitkey,Nick,0,Mayfield,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,sefcik,B01595,Sefcik,Ray,0,Hopkinsville,,,44,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,sefcik,F21397,Sefcik,,0,Hopkinsville,,,,,p39
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,sefcik,P10192,Sefcik,,0,Hopkinsville,,,,39,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,sefcik,P10192,Sefcik,,0,Hopkinsville,,,,39,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,sengstock,B01466,Sengstock,Wayne,0,Hopkinsville,,,12,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,sengstock,P10455,Sengstock,,0,Madisonville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,sengstock,P10455,Sengstock,,0,Madisonville,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,serefini,B00442,Serefini,Dominic,1,Hopkinsville,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,serefini,B00442,Serefini,Dominic,2,Union City,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,serefini,B00442,Serefini,Dominic,T,,,,90,,
@@ -534,23 +542,23 @@ minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,serefini,F21076,Se
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,serefini,F21076,Serefini,,2,Union City,,,,,of
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,serefini,F21076,Serefini,,T,,,,,,of88
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,severod,B00174,Severod,Ken,0,Cairo,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,severod,P10081,Severod,,0,Cairo,,,,,
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,shannahan,P10168,Shanahan,,0,Cairo,,,,29,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,severod,P10081,Severod,,0,Cairo,,,,,p
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,shannahan,P10168,Shanahan,,0,Cairo,,,,29,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,shannahan,B01078,Shannahan,Jack,0,Cairo,,,30,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,shannahan,F21726,Shannahan,,0,Cairo,,,,,p29
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,shoff,B01300,Shoff,Willis,0,Cairo,,,25,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,shoff,F21680,Shoff,,0,Cairo,,,,,p25
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,shoff,P10486,Shoff,,0,Cairo,,,,25,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,shoff,P10486,Shoff,,0,Cairo,,,,25,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,simmons,B00752,Simmons,Jay,0,Owensboro,,,114,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,simmons,F20518,Simmons,,0,Owensboro,,,,,ss114
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,smith-may,B01798,Smith,James,0,Mayfield,,,19,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,smith-may,F21566,Smith,,0,Mayfield,,,,,p18
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,smith-may,P10441,Smith,,0,Mayfield,,,,18,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,smith-may,P10441,Smith,,0,Mayfield,,,,18,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,smith-hop,B00370,Smith,Jean,0,Hopkinsville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,smith-hop,P10373,Smith,,0,Hopkinsville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,smith-hop,P10373,Smith,,0,Hopkinsville,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,smolinski,B01754,Smolinski,Carl,0,Cairo,,,21,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,smolinski,F21898,Smolinski,,0,Cairo,,,,,p21
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,smolinski,P10228,Smolinski,,0,Cairo,,,,21,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,smolinski,P10228,Smolinski,,0,Cairo,,,,21,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,sojka,B00948,Sojka,George,0,Madisonville,,,74,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,sojka,F20792,Sojka,,0,Madisonville,,,,,c67
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,sokol,B01143,Sokol,Charles,0,Mayfield,,,72,,
@@ -560,7 +568,7 @@ minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,spellman,B00726,Sp
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,spellman,F20211,Spellman,,0,Madisonville,,,,,2b121
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,spiceland,B01733,Spiceland,Jack,0,Clarksville,,,37,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,spiceland,F21646,Spiceland,,0,Clarksville,,,,,p37
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,spiceland,P10516,Spiceland,,0,Clarksville,,,,37,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,spiceland,P10516,Spiceland,,0,Clarksville,,,,37,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,steele,B01431,Steele,Porter,0,Madisonville,,,12,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,steele,F20552,Steele,,0,Madisonville,,,,,ss12
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,stell,B00356,Stell,Sam,0,Mayfield,,,68,,
@@ -569,29 +577,29 @@ minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,stevens,B01032,Ste
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,stevens,F20051,Stevens,,0,Clarksville,,,,,1b125
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,stone,B00912,Stone,Larry,0,Owensboro,,,33,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,stone,F21752,Stone,,0,Owensboro,,,,,p21
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,stone,P10399,Stone,,0,Owensboro,,,,22,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,stone,P10399,Stone,,0,Owensboro,,,,22,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,strong,B00672,Strong,Marlon,0,Madisonville,,,17,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,strong,F20807,Strong,,0,Madisonville,,,,,c13
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,sturdivant,B00760,Sturdivant,Joseph,0,Madisonville,,,95,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,sturdivant,F20334,Sturdivant,,0,Madisonville,,,,,3b95
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,sventko,B01384,Sventko,Andrew,0,Clarksville,,,66,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,sventko,F20810,Sventko,,0,Clarksville,,,,,c57
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,sventko,P10192,Sventko,,0,Clarksville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,sventko,P10192,Sventko,,0,Clarksville,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,swope,B00264,Swope,Robert,0,Clarksville,,,36,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,swope,F20279,Swope,,0,Clarksville,,,,,2b25
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,swope,F20342,Swope,,0,Clarksville,,,,,3b11
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,tabor,B00101,Tabor,William,0,Clarksville,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,tamaska,B01007,Tamaska,Joseph,0,Owensboro,,,15,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,tamaska,F21590,Tamaska,,0,Owensboro,,,,,p13
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,tamaska,P10070,Tamaska,,0,Owensboro,,,,13,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,tamaska,P10070,Tamaska,,0,Owensboro,,,,13,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,tarver,B00182,Tarver,,0,Cairo,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,tarver,P10097,Tarver,,0,Cairo,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,tarver,P10097,Tarver,,0,Cairo,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,tate,B01617,Tate,Charles,0,Fulton,,,38,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,tate,F21865,Tate,,0,Fulton,,,,,p38
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,tate,P10478,Tate,,0,Fulton,,,,38,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,tate,P10478,Tate,,0,Fulton,,,,38,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,thaxton,B00210,Thaxton,Ned,0,Hopkinsville,,,44,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,thaxton,F21672,Thaxton,,0,Hopkinsville,,,,,p29
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,thaxton,P10176,Thaxton,,0,Hopkinsville,,,,29,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,thaxton,P10176,Thaxton,,0,Hopkinsville,,,,29,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,thomas-mad,B00163,Thomas,Terry,0,Madisonville,,,27,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,thomas-may,B01181,Thomas,Carol,0,Mayfield,,,61,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,thomas-may,F20583,Thomas,,0,Mayfield,,,,,ss44
@@ -599,19 +607,19 @@ minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,thomas-mad,F20962,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,thomas-may,F22134,Thomas,,0,Mayfield,,,,,
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,thompson,B00293,Thompson,,0,Fulton,,,,,
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,todd,B00771,Todd,James,0,Union City,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,todd,P10679,Todd,,0,Union City,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,todd,P10679,Todd,,0,Union City,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,toole,B00936,Toole,Robert,0,Cairo,,,116,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,toole,F20115,Toole,,0,Cairo,,,,,1b116
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,toth,B01514,Toth,Elmer,0,Owensboro,,,24,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,toth,F21528,Toth,,0,Owensboro,,,,,p22
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,toth,P10081,Toth,,0,Owensboro,,,,22,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,toth,P10081,Toth,,0,Owensboro,,,,22,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,trificano,F20254,Trificane,,0,Clarksville,,,,,2b49
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,trificano,B00614,Trificano,Frank,0,Clarksville,,,60,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,trificano,F21381,Trificano,,0,Clarksville,,,,,of12
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,troop,B00117,Troop,James,0,Clarksville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,troop,P10202,Troop,,0,Clarksville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,troop,P10202,Troop,,0,Clarksville,,,,,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,trout,B00590,Trout,Samuel,0,Mayfield,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,trout,P10550,Trout,,0,Mayfield,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,trout,P10550,Trout,,0,Mayfield,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,tuite,B00343,Tuite,Leo,0,Cairo,,,75,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,tuite,F20832,Tuite,,0,Cairo,,,,,c54
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,valadez,B00475,Valadez,Lee,0,Clarksville,,,113,,
@@ -621,10 +629,10 @@ minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,valadez,F20636,Val
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,valadez,F21092,Valadez,,0,Clarksville,,,,,of67
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,virkstis,B01162,Virkstis,Jack,0,Madisonville,,,19,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,virkstis,F21783,Virkstis,,0,Madisonville,,,,,p18
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,virkstis,P10137,Virkstis,,0,Madisonville,,,,18,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,virkstis,P10137,Virkstis,,0,Madisonville,,,,18,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,wagner,B01663,Wagner,Fred,0,Owensboro,,,31,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,wagner,F21739,Wagner,,0,Owensboro,,,,,p31
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,wagner,P10202,Wagner,,0,Owensboro,,,,31,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,wagner,P10202,Wagner,,0,Owensboro,,,,31,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,waldrop,B00229,Waldrop,Ned,0,Fulton,,,79,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,waldrop,F20067,Waldrop,,0,Fulton,,,,,1b79
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,wasiluk,B00469,Wasiluk,Fred,0,Madisonville,,,64,,
@@ -634,19 +642,19 @@ minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,werner,F20014,Wern
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,wick,B00783,Wick,Gilbert,1,Union City,,,,,
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,wick,B00783,Wick,Gilbert,2,Hopkinsville,,,,,
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,wick,B00783,Wick,Gilbert,T,,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,wick,P10687,Wick,,1,Union City,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,wick,P10687,Wick,,2,Hopkinsville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,wick,P10687,Wick,,T,,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,wick,P10687,Wick,,1,Union City,,,,,p
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,wick,P10687,Wick,,2,Hopkinsville,,,,,p
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,wick,P10687,Wick,,T,,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,wile,B01787,Wile,Donald,0,Madisonville,,,15,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,wile,F21887,Wile,,0,Madisonville,,,,,p14
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,wile,P10503,Wile,,0,Madisonville,,,,14,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,wile,P10503,Wile,,0,Madisonville,,,,14,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,williams,B00794,Williams,Dwight (Red),0,Union City,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,wolan,B01093,Wolan,Harod,0,Mayfield,,,119,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,wolan,F20233,Wolan,,0,Mayfield,,,,,2b112
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,wregg,B00488,Wregg,Marvin,0,Madisonville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,wregg,P10464,Wregg,,0,Madisonville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,wregg,P10464,Wregg,,0,Madisonville,,,,,p
 minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,wright,B00125,Wright,William,0,Clarksville,,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,wright,P10215,Wright,,0,Clarksville,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,wright,P10215,Wright,,0,Clarksville,,,,,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,wurthman,F21130,Wurthman,,1,Cairo,,,,,of
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,wurthman,F21130,Wurthman,,2,Union City,,,,,of
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,wurthman,F21130,Wurthman,,T,,,,,,of32
@@ -654,10 +662,11 @@ minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,york,B01086,York,R
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,york,F20038,York,,0,Union City,,,,,1b14
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,york,F20700,York,,0,Union City,,,,,c13
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,york,M90060,York,Rudolph,,Union City,19490802,,,,
-minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,york,P10698,York,,0,Union City,,,,,
+minoraverages/Hamilton,1949,Kentucky-Illinois-Tennessee League,york,P10698,York,,0,Union City,,,,,p
+minoraverages/emilbb,1949,Kentucky-Illinois-Tennessee League,,M94800,York,Rudy,,Union City,,,,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,yount,B01509,Yount,Robert,0,Mayfield,,,47,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,yount,F21806,Yount,,0,Mayfield,,,,,p31
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,yount,P10432,Yount,,0,Mayfield,,,,31,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,yount,P10432,Yount,,0,Mayfield,,,,31,p
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,zakany,B00158,Zakany,Steve,0,Hopkinsville,,,25,,
 minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,zakany,F21936,Zakany,,0,Hopkinsville,,,,,p20
-minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,zakany,P10550,Zakany,,0,Hopkinsville,,,,20,
+minoraverages/1950TSN,1949,Kentucky-Illinois-Tennessee League,zakany,P10550,Zakany,,0,Hopkinsville,,,,20,p

@@ -1,7 +1,7 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
 minoraverages/1950TSN,1949,Arizona-Texas League,abernathie,B01156,Abernathie,Wm. E.,0,Tucson,,,39,,
 minoraverages/1950TSN,1949,Arizona-Texas League,abernathie,F21084,Abernathie,,0,Tucson,,,,,p37
-minoraverages/1950TSN,1949,Arizona-Texas League,abernathie,P10215,Abernathie,,0,Tucson,,,,37,
+minoraverages/1950TSN,1949,Arizona-Texas League,abernathie,P10215,Abernathie,,0,Tucson,,,,37,p
 minoraverages/1950TSN,1949,Arizona-Texas League,acosta,B00747,Acosta,Robert,0,Tucson,,,89,,
 minoraverages/1950TSN,1949,Arizona-Texas League,acosta,F20265,Acosta,,0,Tucson,,,,,3b70
 minoraverages/1950TSN,1949,Arizona-Texas League,aguilar.a,B00961,Aguilar,Alwin,0,Tucson,,,46,,
@@ -13,20 +13,20 @@ minoraverages/1950TSN,1949,Arizona-Texas League,aguilar.j,F21068,Aguilar,J.,1,Tu
 minoraverages/1950TSN,1949,Arizona-Texas League,aguilar.j,F21068,Aguilar,J.,2,Juarez,,,,,p
 minoraverages/1950TSN,1949,Arizona-Texas League,aguilar.j,F21068,Aguilar,J.,T,,,,,,p13
 minoraverages/1950TSN,1949,Arizona-Texas League,aguilar.a,F21130,Aguilar,A.,0,Tucson,,,,,p35
-minoraverages/1950TSN,1949,Arizona-Texas League,aguilar.j,P10070,Aguilar,J.,1,Tucson,,,,5,
-minoraverages/1950TSN,1949,Arizona-Texas League,aguilar.j,P10070,Aguilar,J.,2,Juarez,,,,8,
-minoraverages/1950TSN,1949,Arizona-Texas League,aguilar.j,P10070,Aguilar,J.,T,,,,,13,
-minoraverages/1950TSN,1949,Arizona-Texas League,aguilar.a,P10277,Aguilar,A.,0,Tucson,,,,35,
+minoraverages/1950TSN,1949,Arizona-Texas League,aguilar.j,P10070,Aguilar,J.,1,Tucson,,,,5,p
+minoraverages/1950TSN,1949,Arizona-Texas League,aguilar.j,P10070,Aguilar,J.,2,Juarez,,,,8,p
+minoraverages/1950TSN,1949,Arizona-Texas League,aguilar.j,P10070,Aguilar,J.,T,,,,,13,p
+minoraverages/1950TSN,1949,Arizona-Texas League,aguilar.a,P10277,Aguilar,A.,0,Tucson,,,,35,p
 minoraverages/1950TSN,1949,Arizona-Texas League,alcaraz,B00973,Alcaraz,Francisco,0,Juarez,,,52,,
 minoraverages/1950TSN,1949,Arizona-Texas League,alcaraz,F20102,Alcaraz,,0,Juarez,,,,,1b40
 minoraverages/1950TSN,1949,Arizona-Texas League,azamar,B00045,Azamar,Hector,0,Juarez,,,53,,
 minoraverages/1950TSN,1949,Arizona-Texas League,azamar,F21488,Azamar,,0,Juarez,,,,,p47
-minoraverages/1950TSN,1949,Arizona-Texas League,azamar,P10168,Azamar,,0,Juarez,,,,47,
+minoraverages/1950TSN,1949,Arizona-Texas League,azamar,P10168,Azamar,,0,Juarez,,,,47,p
 minoraverages/1950TSN,1949,Arizona-Texas League,bacciocco,B00614,Bacciocco,Jack,0,Phoenix,,,113,,
 minoraverages/1950TSN,1949,Arizona-Texas League,bacciocco,F20526,Bacciocco,,0,Phoenix,,,,,of111
 minoraverages/1950TSN,1949,Arizona-Texas League,barron,B01216,Barron,Talmadge,0,Phoenix,,,21,,
 minoraverages/1950TSN,1949,Arizona-Texas League,barron,F21502,Barron,,0,Phoenix,,,,,p21
-minoraverages/1950TSN,1949,Arizona-Texas League,barron,P10385,Barron,,0,Phoenix,,,,21,
+minoraverages/1950TSN,1949,Arizona-Texas League,barron,P10385,Barron,,0,Phoenix,,,,21,p
 minoraverages/1950TSN,1949,Arizona-Texas League,baxes,B00210,Baxes,Michael,0,Phoenix,,,146,,
 minoraverages/1950TSN,1949,Arizona-Texas League,baxes,F20369,Baxes,,0,Phoenix,,,,,ss146
 minoraverages/1950TSN,1949,Arizona-Texas League,beeson,B00999,Beeson,Hillard,0,Bisbee-Douglas,,,17,,
@@ -35,7 +35,7 @@ minoraverages/1950TSN,1949,Arizona-Texas League,bell,B00806,Bell,Donald,0,Tucson
 minoraverages/1950TSN,1949,Arizona-Texas League,bell,F20401,Bell,,0,Tucson,,,,,ss143
 minoraverages/1950TSN,1949,Arizona-Texas League,bello,B00718,Bello,Gustavo,0,Bisbee-Douglas,,,32,,
 minoraverages/1950TSN,1949,Arizona-Texas League,bello,F21196,Bello,,0,Bisbee-Douglas,,,,,p30
-minoraverages/1950TSN,1949,Arizona-Texas League,bello,P10113,Bello,,0,Bisbee-Douglas,,,,30,
+minoraverages/1950TSN,1949,Arizona-Texas League,bello,P10113,Bello,,0,Bisbee-Douglas,,,,30,p
 minoraverages/1950TSN,1949,Arizona-Texas League,bernedette,F20350,Bernadett,,0,Globe-Miami,,,,,ss75
 minoraverages/1950TSN,1949,Arizona-Texas League,bernedette,B00811,Bernedette,Michael,0,Globe-Miami,,,79,,
 minoraverages/1950TSN,1949,Arizona-Texas League,billings,B01055,Billings,Jack,0,Bisbee-Douglas,,,24,,
@@ -52,6 +52,7 @@ minoraverages/1950TSN,1949,Arizona-Texas League,camacho,F20430,Camacho,,0,Globe-
 minoraverages/1950TSN,1949,Arizona-Texas League,canales,B00149,Canales,Victor,0,Phoenix,,,147,,
 minoraverages/1950TSN,1949,Arizona-Texas League,canales,F20233,Canales,,0,Phoenix,,,,,3b146
 minoraverages/1950TSN,1949,Arizona-Texas League,canales,M90039,Canales,Victor,,Juarez,19490804,,,,
+minoraverages/emilbb,1949,Arizona-Texas League,,M92037,Canales,Victor,,Juarez,,,,,
 minoraverages/1950TSN,1949,Arizona-Texas League,cannuli,B01007,Cannuli,Dominic,1,Phoenix,,,33,,
 minoraverages/1950TSN,1949,Arizona-Texas League,cannuli,B01007,Cannuli,Dominic,2,Bisbee-Douglas,,,62,,
 minoraverages/1950TSN,1949,Arizona-Texas League,cannuli,B01007,Cannuli,Dominic,T,,,,95,,
@@ -71,12 +72,13 @@ minoraverages/1950TSN,1949,Arizona-Texas League,clough,F20482,Clough,,0,Bisbee-D
 minoraverages/1950TSN,1949,Arizona-Texas League,cohen,B00450,Cohen,Sydney,0,El Paso,,,51,,
 minoraverages/1950TSN,1949,Arizona-Texas League,cohen,F21158,Cohen,,0,El Paso,,,,,p32
 minoraverages/1950TSN,1949,Arizona-Texas League,cohen,M90052,Cohen,Sydney,,El Paso,,,,,
-minoraverages/1950TSN,1949,Arizona-Texas League,cohen,P10192,Cohen,,0,El Paso,,,,32,
+minoraverages/1950TSN,1949,Arizona-Texas League,cohen,P10192,Cohen,,0,El Paso,,,,32,p
+minoraverages/emilbb,1949,Arizona-Texas League,,M92059,Cohen,Syd,,El Paso,,,,,
 minoraverages/1950TSN,1949,Arizona-Texas League,cooley,B00865,Cooley,Jack,0,Globe-Miami,,,40,,
 minoraverages/1950TSN,1949,Arizona-Texas League,cooley,F20254,Cooley,,0,Globe-Miami,,,,,3b40
 minoraverages/1950TSN,1949,Arizona-Texas League,cordova,B01321,Cordova,Trinidad,0,Bisbee-Douglas,,,13,,
 minoraverages/1950TSN,1949,Arizona-Texas League,cordova,F21416,Cordova,,0,Bisbee-Douglas,,,,,p13
-minoraverages/1950TSN,1949,Arizona-Texas League,cordova,P10231,Cordova,,0,Bisbee-Douglas,,,,13,
+minoraverages/1950TSN,1949,Arizona-Texas League,cordova,P10231,Cordova,,0,Bisbee-Douglas,,,,13,p
 minoraverages/1950TSN,1949,Arizona-Texas League,cramer,B00076,Cramer,Robert,0,Tucson,,,15,,
 minoraverages/1950TSN,1949,Arizona-Texas League,cramer,F20745,Cramer,,0,Tucson,,,,,of15
 minoraverages/1950TSN,1949,Arizona-Texas League,crossley,B01368,Crossley,Thomas,0,Globe-Miami,,,15,,
@@ -84,6 +86,7 @@ minoraverages/1950TSN,1949,Arizona-Texas League,crossley,F21356,Crossley,,0,Glob
 minoraverages/1950TSN,1949,Arizona-Texas League,cummins,B00531,Cummins,Robert,0,El Paso,,,72,,
 minoraverages/1950TSN,1949,Arizona-Texas League,cummins,F20571,Cummins,,0,El Paso,,,,,of72
 minoraverages/1950TSN,1949,Arizona-Texas League,dancisak,M90107,Dancisak,Edward,,Globe-Miami,19490714,,,,
+minoraverages/emilbb,1949,Arizona-Texas League,,M92101,Dancisak,Edward,,Globe-Miami,,,,,
 minoraverages/1950TSN,1949,Arizona-Texas League,dewitt,B01032,DeWitt,Clyde,1,El Paso,,,5,,
 minoraverages/1950TSN,1949,Arizona-Texas League,dewitt,B01032,DeWitt,Clyde,2,Bisbee-Douglas,,,6,,
 minoraverages/1950TSN,1949,Arizona-Texas League,dewitt,B01032,DeWitt,Clyde,T,,,,11,,
@@ -93,41 +96,42 @@ minoraverages/1950TSN,1949,Arizona-Texas League,donaghey,B00739,Donaghey,Wm.,T,,
 minoraverages/1950TSN,1949,Arizona-Texas League,donaghey,F21491,Donaghey,,1,Globe-Miami,,,,,p
 minoraverages/1950TSN,1949,Arizona-Texas League,donaghey,F21491,Donaghey,,2,El Paso,,,,,p
 minoraverages/1950TSN,1949,Arizona-Texas League,donaghey,F21491,Donaghey,,T,,,,,,p37
-minoraverages/1950TSN,1949,Arizona-Texas League,donaghey,P10289,Donaghey,,1,Globe-Miami,,,,15,
-minoraverages/1950TSN,1949,Arizona-Texas League,donaghey,P10289,Donaghey,,2,El Paso,,,,22,
-minoraverages/1950TSN,1949,Arizona-Texas League,donaghey,P10289,Donaghey,,T,,,,,37,
+minoraverages/1950TSN,1949,Arizona-Texas League,donaghey,P10289,Donaghey,,1,Globe-Miami,,,,15,p
+minoraverages/1950TSN,1949,Arizona-Texas League,donaghey,P10289,Donaghey,,2,El Paso,,,,22,p
+minoraverages/1950TSN,1949,Arizona-Texas League,donaghey,P10289,Donaghey,,T,,,,,37,p
 minoraverages/1950TSN,1949,Arizona-Texas League,dosser,B01197,Dosser,Barry,0,Globe-Miami,,,23,,
 minoraverages/1950TSN,1949,Arizona-Texas League,dosser,F21319,Dosser,,0,Globe-Miami,,,,,p22
-minoraverages/1950TSN,1949,Arizona-Texas League,dosser,P10361,Dosser,,0,Globe-Miami,,,,22,
+minoraverages/1950TSN,1949,Arizona-Texas League,dosser,P10361,Dosser,,0,Globe-Miami,,,,22,p
 minoraverages/1950TSN,1949,Arizona-Texas League,drilling,B00068,Drilling,Rich.,0,Phoenix,,,15,,
 minoraverages/1950TSN,1949,Arizona-Texas League,drilling,F21286,Drilling,,0,Phoenix,,,,,p15
-minoraverages/1950TSN,1949,Arizona-Texas League,drilling,P10019,Drilling,,0,Phoenix,,,,15,
+minoraverages/1950TSN,1949,Arizona-Texas League,drilling,P10019,Drilling,,0,Phoenix,,,,15,p
 minoraverages/1950TSN,1949,Arizona-Texas League,dudley,B01313,Dudley,Willis,0,Bisbee-Douglas,,,38,,
 minoraverages/1950TSN,1949,Arizona-Texas League,dudley,F21450,Dudley,,0,Bisbee-Douglas,,,,,p38
-minoraverages/1950TSN,1949,Arizona-Texas League,dudley,P10373,Dudley,,0,Bisbee-Douglas,,,,38,
+minoraverages/1950TSN,1949,Arizona-Texas League,dudley,P10373,Dudley,,0,Bisbee-Douglas,,,,38,p
 minoraverages/1950TSN,1949,Arizona-Texas League,eastwood,B00427,Eastwood,Harry,0,Phoenix,,,129,,
 minoraverages/1950TSN,1949,Arizona-Texas League,eastwood,F20864,Eastwood,,0,Phoenix,,,,,c116
 minoraverages/1950TSN,1949,Arizona-Texas League,ehrler,B01275,Ehrler,Clifford,0,Tucson,,,34,,
 minoraverages/1950TSN,1949,Arizona-Texas League,ehrler,F21278,Ehrler,,0,Tucson,,,,,p27
-minoraverages/1950TSN,1949,Arizona-Texas League,ehrler,P10410,Ehrler,,0,Tucson,,,,27,
+minoraverages/1950TSN,1949,Arizona-Texas League,ehrler,P10410,Ehrler,,0,Tucson,,,,27,p
+minoraverages/emilbb,1949,Arizona-Texas League,,M92084,Elliot,Buck,,Bisbee-Douglas,,,,,
 minoraverages/1950TSN,1949,Arizona-Texas League,elliott,B00182,Elliott,Albert,0,Bisbee-Douglas,,,85,,
 minoraverages/1950TSN,1949,Arizona-Texas League,elliott,F20014,Elliott,,0,Bisbee-Douglas,,,,,1b73
 minoraverages/1950TSN,1949,Arizona-Texas League,elliott,M90083,Elliott,A. W. (Buck),,Bisbee-Douglas,19490526,,,,
 minoraverages/1950TSN,1949,Arizona-Texas League,elton,B01124,Elton,Edwin,0,Phoenix,,,17,,
 minoraverages/1950TSN,1949,Arizona-Texas League,elton,F20759,Elton,,0,Phoenix,,,,,of12
 minoraverages/1950TSN,1949,Arizona-Texas League,entwisle,B01135,Entwisle,Thomas,0,El Paso,,,14,,
-minoraverages/1950TSN,1949,Arizona-Texas League,entwisle,P10100,Entwisle,,0,El Paso,,,,9,
+minoraverages/1950TSN,1949,Arizona-Texas League,entwisle,P10100,Entwisle,,0,El Paso,,,,9,p
 minoraverages/1950TSN,1949,Arizona-Texas League,erickson,B01162,Erickson,Leonard,0,Phoenix,,,23,,
 minoraverages/1950TSN,1949,Arizona-Texas League,erickson,F21229,Erickson,,0,Phoenix,,,,,p22
-minoraverages/1950TSN,1949,Arizona-Texas League,erickson,P10081,Erickson,,0,Phoenix,,,,22,
+minoraverages/1950TSN,1949,Arizona-Texas League,erickson,P10081,Erickson,,0,Phoenix,,,,22,p
 minoraverages/1950TSN,1949,Arizona-Texas League,fink,B01242,Fink,Robert,0,Globe-Miami,,,38,,
 minoraverages/1950TSN,1949,Arizona-Texas League,fink,F21343,Fink,,0,Globe-Miami,,,,,p36
-minoraverages/1950TSN,1949,Arizona-Texas League,fink,P10357,Fink,,0,Globe-Miami,,,,36,
+minoraverages/1950TSN,1949,Arizona-Texas League,fink,P10357,Fink,,0,Globe-Miami,,,,36,p
 minoraverages/1950TSN,1949,Arizona-Texas League,flynn,B01392,Flynn,William,0,Globe-Miami,,,11,,
 minoraverages/1950TSN,1949,Arizona-Texas League,fortes,B00092,Fortes,Manuel,0,Juarez,,,111,,
 minoraverages/1950TSN,1949,Arizona-Texas League,fortes,F20832,Fortes,,0,Juarez,,,,,of59
 minoraverages/1950TSN,1949,Arizona-Texas League,fortes,F21264,Fortes,,0,Juarez,,,,,p35
-minoraverages/1950TSN,1949,Arizona-Texas League,fortes,P10159,Fortes,,0,Juarez,,,,35,
+minoraverages/1950TSN,1949,Arizona-Texas League,fortes,P10159,Fortes,,0,Juarez,,,,35,p
 minoraverages/1950TSN,1949,Arizona-Texas League,fracchia,B00207,Fracchia,Donald,0,Phoenix,,,150,,
 minoraverages/1950TSN,1949,Arizona-Texas League,fracchia,F20279,Fracchia,,0,Phoenix,,,,,3b148
 minoraverages/1950TSN,1949,Arizona-Texas League,frost,B01119,Frost,Robert,0,El Paso,,,24,,
@@ -145,10 +149,10 @@ minoraverages/1950TSN,1949,Arizona-Texas League,graham.e,B01078,Graham,Edward,0,
 minoraverages/1950TSN,1949,Arizona-Texas League,graham.w,F20334,Graham,,0,Tucson,,,,,3b29
 minoraverages/1950TSN,1949,Arizona-Texas League,graham.w,F20673,Graham,,0,Tucson,,,,,of24
 minoraverages/1950TSN,1949,Arizona-Texas League,graham.e,F21241,Graham,,0,Phoenix,,,,,p37
-minoraverages/1950TSN,1949,Arizona-Texas League,graham.e,P10056,Graham,,0,Phoenix,,,,37,
+minoraverages/1950TSN,1949,Arizona-Texas League,graham.e,P10056,Graham,,0,Phoenix,,,,37,p
 minoraverages/1950TSN,1949,Arizona-Texas League,greenwood,B00771,Greenwood,Robert,0,Phoenix,,,18,,
 minoraverages/1950TSN,1949,Arizona-Texas League,greenwood,F21403,Greenwood,,0,Phoenix,,,,,p16
-minoraverages/1950TSN,1949,Arizona-Texas League,greenwood,P10304,Greenwood,,0,Phoenix,,,,16,
+minoraverages/1950TSN,1949,Arizona-Texas League,greenwood,P10304,Greenwood,,0,Phoenix,,,,16,p
 minoraverages/1950TSN,1949,Arizona-Texas League,grunwald,B01345,Grunwald,Roger,0,Globe-Miami,,,11,,
 minoraverages/1950TSN,1949,Arizona-Texas League,grunwald,F21255,Grunwald,,0,Globe-Miami,,,,,p10
 minoraverages/1950TSN,1949,Arizona-Texas League,guzman,B00553,Guzman,Blas,0,Juarez,,,101,,
@@ -158,15 +162,15 @@ minoraverages/1950TSN,1949,Arizona-Texas League,hamilton,B01269,Hamilton,Cecil,0
 minoraverages/1950TSN,1949,Arizona-Texas League,hamilton,F21000,Hamilton,,0,Bisbee-Douglas,,,,,c12
 minoraverages/1950TSN,1949,Arizona-Texas League,henderson,B01108,Henderson,Othman,0,Tucson,,,34,,
 minoraverages/1950TSN,1949,Arizona-Texas League,henderson,F21163,Henderson,,0,Tucson,,,,,p31
-minoraverages/1950TSN,1949,Arizona-Texas League,henderson,P10312,Henderson,,0,Tucson,,,,31,
+minoraverages/1950TSN,1949,Arizona-Texas League,henderson,P10312,Henderson,,0,Tucson,,,,31,p
 minoraverages/1950TSN,1949,Arizona-Texas League,henry,B01010,Henry,John,0,Bisbee-Douglas,,,44,,
 minoraverages/1950TSN,1949,Arizona-Texas League,henry,F21293,Henry,,0,Bisbee-Douglas,,,,,p43
-minoraverages/1950TSN,1949,Arizona-Texas League,henry,P10320,Henry,,0,Bisbee-Douglas,,,,43,
+minoraverages/1950TSN,1949,Arizona-Texas League,henry,P10320,Henry,,0,Bisbee-Douglas,,,,43,p
 minoraverages/1950TSN,1949,Arizona-Texas League,hernandez,B01093,Hernandez,Carmelo,0,Juarez,,,34,,
 minoraverages/1950TSN,1949,Arizona-Texas League,hernandez,F20776,Hernandez,C.,0,Juarez,,,,,of30
 minoraverages/1950TSN,1949,Arizona-Texas League,hicks,B01337,Hicks,Joseph,0,Globe-Miami,,,17,,
 minoraverages/1950TSN,1949,Arizona-Texas League,hicks,F21531,Hicks,,0,Globe-Miami,,,,,p13
-minoraverages/1950TSN,1949,Arizona-Texas League,hicks,P10455,Hicks,,0,Globe-Miami,,,,13,
+minoraverages/1950TSN,1949,Arizona-Texas League,hicks,P10455,Hicks,,0,Globe-Miami,,,,13,p
 minoraverages/1950TSN,1949,Arizona-Texas League,hogan,B00760,Hogan,Thomas E.,0,Bisbee-Douglas,,,75,,
 minoraverages/1950TSN,1949,Arizona-Texas League,hogan,F20189,Hogan,,0,Bisbee-Douglas,,,,,2b20
 minoraverages/1950TSN,1949,Arizona-Texas League,hogan,F20287,Hogan,,0,Bisbee-Douglas,,,,,3b14
@@ -177,6 +181,7 @@ minoraverages/1950TSN,1949,Arizona-Texas League,johnson,F20327,Johnson,,0,Bisbee
 minoraverages/1950TSN,1949,Arizona-Texas League,jones,B00370,Jones,Paul Edw.,0,Bisbee-Douglas,,,47,,
 minoraverages/1950TSN,1949,Arizona-Texas League,jones,F20095,Jones,,0,Bisbee-Douglas,,,,,1b44
 minoraverages/1950TSN,1949,Arizona-Texas League,jones,M90071,Jones,Paul,,Bisbee-Douglas,19490523,,,,
+minoraverages/emilbb,1949,Arizona-Texas League,,M92076,Jones,Paul,,Bisbee-Douglas,,,,,
 minoraverages/1950TSN,1949,Arizona-Texas League,juarez,B00783,Juarez,Manuel,1,El Paso,,,21,,
 minoraverages/1950TSN,1949,Arizona-Texas League,juarez,B00783,Juarez,Manuel,2,Juarez,,,39,,
 minoraverages/1950TSN,1949,Arizona-Texas League,juarez,B00783,Juarez,Manuel,T,,,,60,,
@@ -185,7 +190,7 @@ minoraverages/1950TSN,1949,Arizona-Texas League,juarez,F20391,Juarez,,2,Juarez,,
 minoraverages/1950TSN,1949,Arizona-Texas League,juarez,F20391,Juarez,,T,,,,,,ss56
 minoraverages/1950TSN,1949,Arizona-Texas League,jurkovic,B01234,Jurkovic,John,0,Phoenix,,,28,,
 minoraverages/1950TSN,1949,Arizona-Texas League,jurkovic,F21335,Jurkovic,,0,Phoenix,,,,,p26
-minoraverages/1950TSN,1949,Arizona-Texas League,jurkovic,P10336,Jurkovic,,0,Phoenix,,,,26,
+minoraverages/1950TSN,1949,Arizona-Texas League,jurkovic,P10336,Jurkovic,,0,Phoenix,,,,26,p
 minoraverages/1950TSN,1949,Arizona-Texas League,kelly,B01288,Kelly,Leonard C.,0,Bisbee-Douglas,,,15,,
 minoraverages/1950TSN,1949,Arizona-Texas League,kelly,F20303,Kelly,,0,Bisbee-Douglas,,,,,3b15
 minoraverages/1950TSN,1949,Arizona-Texas League,kruta,B00985,Kruta,Thomas,1,Tucson,,,11,,
@@ -194,18 +199,18 @@ minoraverages/1950TSN,1949,Arizona-Texas League,kruta,B00985,Kruta,Thomas,T,,,,2
 minoraverages/1950TSN,1949,Arizona-Texas League,kruta,F21427,Kruta,,1,Tucson,,,,,p
 minoraverages/1950TSN,1949,Arizona-Texas League,kruta,F21427,Kruta,,2,El Paso,,,,,p
 minoraverages/1950TSN,1949,Arizona-Texas League,kruta,F21427,Kruta,,T,,,,,,p23
-minoraverages/1950TSN,1949,Arizona-Texas League,kruta,P10429,Kruta,,1,Tucson,,,,11,
-minoraverages/1950TSN,1949,Arizona-Texas League,kruta,P10429,Kruta,,2,El Paso,,,,12,
-minoraverages/1950TSN,1949,Arizona-Texas League,kruta,P10429,Kruta,,T,,,,,23,
+minoraverages/1950TSN,1949,Arizona-Texas League,kruta,P10429,Kruta,,1,Tucson,,,,11,p
+minoraverages/1950TSN,1949,Arizona-Texas League,kruta,P10429,Kruta,,2,El Paso,,,,12,p
+minoraverages/1950TSN,1949,Arizona-Texas League,kruta,P10429,Kruta,,T,,,,,23,p
 minoraverages/1950TSN,1949,Arizona-Texas League,lamer,B00589,Lamer,Joseph,1,El Paso,,,16,,
 minoraverages/1950TSN,1949,Arizona-Texas League,lamer,B00589,Lamer,Joseph,2,Tucson,,,4,,
 minoraverages/1950TSN,1949,Arizona-Texas League,lamer,B00589,Lamer,Joseph,T,,,,20,,
 minoraverages/1950TSN,1949,Arizona-Texas League,lamer,F21045,Lamer,,1,El Paso,,,,,p
 minoraverages/1950TSN,1949,Arizona-Texas League,lamer,F21045,Lamer,,2,Tucson,,,,,p
 minoraverages/1950TSN,1949,Arizona-Texas League,lamer,F21045,Lamer,,T,,,,,,p18
-minoraverages/1950TSN,1949,Arizona-Texas League,lamer,P10464,Lamer,,1,El Paso,,,,14,
-minoraverages/1950TSN,1949,Arizona-Texas League,lamer,P10464,Lamer,,2,Tucson,,,,4,
-minoraverages/1950TSN,1949,Arizona-Texas League,lamer,P10464,Lamer,,T,,,,,18,
+minoraverages/1950TSN,1949,Arizona-Texas League,lamer,P10464,Lamer,,1,El Paso,,,,14,p
+minoraverages/1950TSN,1949,Arizona-Texas League,lamer,P10464,Lamer,,2,Tucson,,,,4,p
+minoraverages/1950TSN,1949,Arizona-Texas League,lamer,P10464,Lamer,,T,,,,,18,p
 minoraverages/1950TSN,1949,Arizona-Texas League,lara,B00158,Lara,Hector,0,El Paso,,,125,,
 minoraverages/1950TSN,1949,Arizona-Texas League,lara,F20685,Lara,,0,El Paso,,,,,of122
 minoraverages/1950TSN,1949,Arizona-Texas League,larsen,B00912,Larsen,Donald,0,Globe-Miami,,,42,,
@@ -214,6 +219,7 @@ minoraverages/1950TSN,1949,Arizona-Texas League,leal,F20128,Leal,H.,0,Juarez,,,,
 minoraverages/1950TSN,1949,Arizona-Texas League,leal,F20505,Leal,H.,0,Juarez,,,,,of57
 minoraverages/1950TSN,1949,Arizona-Texas League,leal,F20924,Leal,H.,0,Juarez,,,,,c66
 minoraverages/1950TSN,1949,Arizona-Texas League,leal,M90026,Leal,Hector,,Juarez,,,,,
+minoraverages/emilbb,1949,Arizona-Texas League,,M92021,Leal,Hector,,Juarez,,,,,
 minoraverages/1950TSN,1949,Arizona-Texas League,leal,B00163,Leal (Rivera),Hector,0,Juarez,,,137,,
 minoraverages/1950TSN,1949,Arizona-Texas League,lee,B00705,Lee,Thornton S.,0,Phoenix,,,11,,
 minoraverages/1950TSN,1949,Arizona-Texas League,lee,F21434,Lee,,0,Phoenix,,,,,p11
@@ -222,11 +228,12 @@ minoraverages/1950TSN,1949,Arizona-Texas League,lillard,F20298,Lillard,,0,Tucson
 minoraverages/1950TSN,1949,Arizona-Texas League,lillard,F20518,Lillard,,0,Tucson,,,,,of56
 minoraverages/1950TSN,1949,Arizona-Texas League,lillard,F20956,Lillard,,0,Tucson,,,,,c24
 minoraverages/1950TSN,1949,Arizona-Texas League,lillard,M90047,Lillard,Eugene,,Tucson,,,,,
+minoraverages/emilbb,1949,Arizona-Texas League,,M92045,Lillard,Gene,,Tucson,,,,,
 minoraverages/1950TSN,1949,Arizona-Texas League,longaker,B00343,Longaker,Daniel,0,Globe-Miami,,,50,,
 minoraverages/1950TSN,1949,Arizona-Texas League,longaker,F20240,Longaker,,0,Globe-Miami,,,,,3b43
 minoraverages/1950TSN,1949,Arizona-Texas League,luna,B01143,Luna,Guillermo,0,Juarez,,,42,,
 minoraverages/1950TSN,1949,Arizona-Texas League,luna,F21308,Luna,,0,Juarez,,,,,p41
-minoraverages/1950TSN,1949,Arizona-Texas League,luna,P10184,Luna,,0,Juarez,,,,41,
+minoraverages/1950TSN,1949,Arizona-Texas League,luna,P10184,Luna,,0,Juarez,,,,41,p
 minoraverages/1950TSN,1949,Arizona-Texas League,magallon,B00241,Magallon,Manuel,0,Juarez,,,135,,
 minoraverages/1950TSN,1949,Arizona-Texas League,magallon,F20072,Magallon,,0,Juarez,,,,,1b101
 minoraverages/1950TSN,1949,Arizona-Texas League,magallon,F20768,Magallon,,0,Juarez,,,,,of38
@@ -240,14 +247,14 @@ minoraverages/1950TSN,1949,Arizona-Texas League,martinez.l,F20417,Martinez,L.,2,
 minoraverages/1950TSN,1949,Arizona-Texas League,martinez.l,F20417,Martinez,L.,3,El Paso,,,,,ss
 minoraverages/1950TSN,1949,Arizona-Texas League,martinez.l,F20417,Martinez,L.,T,,,,,,ss44
 minoraverages/1950TSN,1949,Arizona-Texas League,martinez.r,F21362,Martinez,R.,0,El Paso,,,,,p20
-minoraverages/1950TSN,1949,Arizona-Texas League,martinez.r,P10399,Martinez,R.,0,El Paso,,,,20,
+minoraverages/1950TSN,1949,Arizona-Texas League,martinez.r,P10399,Martinez,R.,0,El Paso,,,,20,p
 minoraverages/1950TSN,1949,Arizona-Texas League,mason,B00278,Mason,Donald,0,El Paso,,,127,,
 minoraverages/1950TSN,1949,Arizona-Texas League,mason,F20051,Mason,,0,El Paso,,,,,1b12
 minoraverages/1950TSN,1949,Arizona-Texas League,mason,F20552,Mason,,0,El Paso,,,,,of111
 minoraverages/1950TSN,1949,Arizona-Texas League,may,B00887,May,Bruce,0,Globe-Miami,,,56,,
 minoraverages/1950TSN,1949,Arizona-Texas League,may,F20463,May,,0,Globe-Miami,,,,,ss15
 minoraverages/1950TSN,1949,Arizona-Texas League,may,F21149,May,,0,Globe-Miami,,,,,p36
-minoraverages/1950TSN,1949,Arizona-Texas League,may,P10244,May,,0,Globe-Miami,,,,36,
+minoraverages/1950TSN,1949,Arizona-Texas League,may,P10244,May,,0,Globe-Miami,,,,36,p
 minoraverages/1950TSN,1949,Arizona-Texas League,mayer,F20425,Mayer,,1,Juarez,,,,,ss
 minoraverages/1950TSN,1949,Arizona-Texas League,mayer,F20425,Mayer,,2,El Paso,,,,,ss
 minoraverages/1950TSN,1949,Arizona-Texas League,mayer,F20425,Mayer,,T,,,,,,ss40
@@ -262,10 +269,10 @@ minoraverages/1950TSN,1949,Arizona-Texas League,mcdaniel,F20661,McDaniel,,2,Bisb
 minoraverages/1950TSN,1949,Arizona-Texas League,mcdaniel,F20661,McDaniel,,T,,,,,,of130
 minoraverages/1950TSN,1949,Arizona-Texas League,medina,B01250,Medina,Jose,0,Juarez,,,42,,
 minoraverages/1950TSN,1949,Arizona-Texas League,medina,F21013,Medina,,0,Juarez,,,,,p42
-minoraverages/1950TSN,1949,Arizona-Texas League,medina,P10137,Medina,,0,Juarez,,,,42,
+minoraverages/1950TSN,1949,Arizona-Texas League,medina,P10137,Medina,,0,Juarez,,,,42,p
 minoraverages/1950TSN,1949,Arizona-Texas League,melendez,B00442,Melendez,Jose,0,El Paso,,,36,,
 minoraverages/1950TSN,1949,Arizona-Texas League,melendez,F21232,Melendez,,0,El Paso,,,,,p36
-minoraverages/1950TSN,1949,Arizona-Texas League,melendez,P10024,Melendez,,0,El Paso,,,,36,
+minoraverages/1950TSN,1949,Arizona-Texas League,melendez,P10024,Melendez,,0,El Paso,,,,36,p
 minoraverages/1950TSN,1949,Arizona-Texas League,mendoza,B00286,Mendoza,Ramon,1,Juarez,,,5,,
 minoraverages/1950TSN,1949,Arizona-Texas League,mendoza,B00286,Mendoza,Ramon,2,El Paso,,,143,,
 minoraverages/1950TSN,1949,Arizona-Texas League,mendoza,B00286,Mendoza,Ramon,T,,,,148,,
@@ -274,7 +281,7 @@ minoraverages/1950TSN,1949,Arizona-Texas League,mendoza,F20166,Mendoza,,2,El Pas
 minoraverages/1950TSN,1949,Arizona-Texas League,mendoza,F20166,Mendoza,,T,,,,,,2b143
 minoraverages/1950TSN,1949,Arizona-Texas League,morales,B01029,Morales,Manuel,0,Bisbee-Douglas,,,30,,
 minoraverages/1950TSN,1949,Arizona-Texas League,morales,F21117,Morales,,0,Bisbee-Douglas,,,,,p29
-minoraverages/1950TSN,1949,Arizona-Texas League,morales,P10035,Morales,,0,Bisbee-Douglas,,,,29,
+minoraverages/1950TSN,1949,Arizona-Texas League,morales,P10035,Morales,,0,Bisbee-Douglas,,,,29,p
 minoraverages/1950TSN,1949,Arizona-Texas League,morjoseph,B00680,Morjoseph,Jos.,0,Tucson,,,47,,
 minoraverages/1950TSN,1949,Arizona-Texas League,morjoseph,F20648,Morjoseph,,0,Tucson,,,,,of45
 minoraverages/1950TSN,1949,Arizona-Texas League,nesbit,B00416,Nesbit,Jack,0,Globe-Miami,,,112,,
@@ -283,10 +290,10 @@ minoraverages/1950TSN,1949,Arizona-Texas League,newman,B00833,Newman,Charles W.,
 minoraverages/1950TSN,1949,Arizona-Texas League,newman,F20067,Newman,,0,Phoenix,,,,,1b142
 minoraverages/1950TSN,1949,Arizona-Texas League,noah,B01203,Noah,Charles,0,Phoenix,,,20,,
 minoraverages/1950TSN,1949,Arizona-Texas League,noah,F21021,Noah,,0,Phoenix,,,,,p20
-minoraverages/1950TSN,1949,Arizona-Texas League,noah,P10253,Noah,,0,Phoenix,,,,20,
+minoraverages/1950TSN,1949,Arizona-Texas League,noah,P10253,Noah,,0,Phoenix,,,,20,p
 minoraverages/1950TSN,1949,Arizona-Texas League,ochoa,B00948,Ochoa,James,0,El Paso,,,41,,
 minoraverages/1950TSN,1949,Arizona-Texas League,ochoa,F21125,Ochoa,,0,El Paso,,,,,p33
-minoraverages/1950TSN,1949,Arizona-Texas League,ochoa,P10348,Ochoa,,0,El Paso,,,,33,
+minoraverages/1950TSN,1949,Arizona-Texas League,ochoa,P10348,Ochoa,,0,El Paso,,,,33,p
 minoraverages/1950TSN,1949,Arizona-Texas League,olbera,B00898,Olbera,Simon,0,El Paso,,,20,,
 minoraverages/1950TSN,1949,Arizona-Texas League,olbera,F20080,Olbera,,0,El Paso,,,,,1b20
 minoraverages/1950TSN,1949,Arizona-Texas League,ortiz,F20737,Ortiz,,1,Juarez,,,,,of
@@ -297,21 +304,21 @@ minoraverages/1950TSN,1949,Arizona-Texas League,ortiz,B00794,Ortiz (Tabanico),Lo
 minoraverages/1950TSN,1949,Arizona-Texas League,ortiz,B00794,Ortiz (Tabanico),Lornzo,T,,,,38,,
 minoraverages/1950TSN,1949,Arizona-Texas League,padilla,B01376,Padilla,Gabriel,0,Bisbee-Douglas,,,16,,
 minoraverages/1950TSN,1949,Arizona-Texas League,padilla,F21037,Padilla,,0,Bisbee-Douglas,,,,,p16
-minoraverages/1950TSN,1949,Arizona-Texas League,padilla,P10266,Padilla,,0,Bisbee-Douglas,,,,16,
+minoraverages/1950TSN,1949,Arizona-Texas League,padilla,P10266,Padilla,,0,Bisbee-Douglas,,,,16,p
 minoraverages/1950TSN,1949,Arizona-Texas League,palacios,B01181,Palacios,Jacinto,0,Bisbee-Douglas,,,47,,
 minoraverages/1950TSN,1949,Arizona-Texas League,palacios,F20211,Palacios,,0,Bisbee-Douglas,,,,,2b46
 minoraverages/1950TSN,1949,Arizona-Texas League,paredes,B00491,Paredes,Fern,0,Bisbee-Douglas,,,147,,
 minoraverages/1950TSN,1949,Arizona-Texas League,paredes,F20375,Paredes,,0,Bisbee-Douglas,,,,,ss140
 minoraverages/1950TSN,1949,Arizona-Texas League,peraza,B00502,Peraza,Jose,0,El Paso,,,55,,
 minoraverages/1950TSN,1949,Arizona-Texas League,peraza,F21381,Peraza,,0,El Paso,,,,,p37
-minoraverages/1950TSN,1949,Arizona-Texas League,peraza,P10062,Peraza,,0,El Paso,,,,37,
+minoraverages/1950TSN,1949,Arizona-Texas League,peraza,P10062,Peraza,,0,El Paso,,,,37,p
 minoraverages/1950TSN,1949,Arizona-Texas League,perez,B00397,Perez,Alfredo,0,Tucson,,,138,,
 minoraverages/1950TSN,1949,Arizona-Texas League,perez,F20792,Perez,,0,Tucson,,,,,of136
 minoraverages/1950TSN,1949,Arizona-Texas League,pettit,B00822,Pettit,Dane S.,0,Phoenix,,,21,,
 minoraverages/1950TSN,1949,Arizona-Texas League,pettit,F20612,Pettit,,0,Phoenix,,,,,of21
 minoraverages/1950TSN,1949,Arizona-Texas League,ponce,B00130,Ponce,Anthony,0,Phoenix,,,50,,
 minoraverages/1950TSN,1949,Arizona-Texas League,ponce,F21101,Ponce,,0,Phoenix,,,,,p35
-minoraverages/1950TSN,1949,Arizona-Texas League,ponce,P10121,Ponce,,0,Phoenix,,,,35,
+minoraverages/1950TSN,1949,Arizona-Texas League,ponce,P10121,Ponce,,0,Phoenix,,,,35,p
 minoraverages/1950TSN,1949,Arizona-Texas League,quigley,B01086,Quigley,Arthur,0,Phoenix,,,10,,
 minoraverages/1950TSN,1949,Arizona-Texas League,quigley,F21515,Quigley,,0,Phoenix,,,,,p10
 minoraverages/1950TSN,1949,Arizona-Texas League,quincy,B01402,Quincy,James,0,Phoenix,,,15,,
@@ -345,7 +352,7 @@ minoraverages/1950TSN,1949,Arizona-Texas League,smith-tuc,B00434,Smith,Wilbur L.
 minoraverages/1950TSN,1949,Arizona-Texas League,smith-bd,B01291,Smith,Richard Ray,0,Bisbee-Douglas,,,19,,
 minoraverages/1950TSN,1949,Arizona-Texas League,smith-tuc,F20908,Smith,,0,Tucson,,,,,c124
 minoraverages/1950TSN,1949,Arizona-Texas League,smith-bd,F21324,Smith,R.,0,Bisbee-Douglas,,,,,p15
-minoraverages/1950TSN,1949,Arizona-Texas League,smith-bd,P10097,Smith,,0,Bisbee-Douglas,,,,15,
+minoraverages/1950TSN,1949,Arizona-Texas League,smith-bd,P10097,Smith,,0,Bisbee-Douglas,,,,15,p
 minoraverages/1950TSN,1949,Arizona-Texas League,sosa,B00362,Sosa,Jose,0,Juarez,,,102,,
 minoraverages/1950TSN,1949,Arizona-Texas League,sosa,F20962,Sosa,,0,Juarez,,,,,c97
 minoraverages/1950TSN,1949,Arizona-Texas League,specht,B00879,Specht,Wayne,0,Tucson,,,13,,
@@ -355,14 +362,14 @@ minoraverages/1950TSN,1949,Arizona-Texas League,sunseri,B00117,Sunseri,Nicholas,
 minoraverages/1950TSN,1949,Arizona-Texas League,sunseri,F20038,Sunseri,,0,Tucson,,,,,1b143
 minoraverages/1950TSN,1949,Arizona-Texas League,swartz,B00013,Swartz,Sherwin,0,Globe-Miami,,,17,,
 minoraverages/1950TSN,1949,Arizona-Texas League,swartz,F21528,Swartz,,0,Globe-Miami,,,,,p17
-minoraverages/1950TSN,1949,Arizona-Texas League,swartz,P10407,Swartz,,0,Globe-Miami,,,,17,
+minoraverages/1950TSN,1949,Arizona-Texas League,swartz,P10407,Swartz,,0,Globe-Miami,,,,17,p
 minoraverages/1950TSN,1949,Arizona-Texas League,tamone,B00293,Tamone,Louis,0,El Paso,,,149,,
 minoraverages/1950TSN,1949,Arizona-Texas League,tamone,F20222,Tamone,,0,El Paso,,,,,3b148
 minoraverages/1950TSN,1949,Arizona-Texas League,thomas,B00638,Thomas,James L.,0,Globe-Miami,,,150,,
 minoraverages/1950TSN,1949,Arizona-Texas League,thomas,F20496,Thomas,,0,Globe-Miami,,,,,of150
 minoraverages/1950TSN,1949,Arizona-Texas League,thorne,B00957,Thorne,James,0,Globe-Miami,,,45,,
 minoraverages/1950TSN,1949,Arizona-Texas League,thorne,F21092,Thorne,,0,Globe-Miami,,,,,p31
-minoraverages/1950TSN,1949,Arizona-Texas League,thorne,P10202,Thorne,,0,Globe-Miami,,,,31,
+minoraverages/1950TSN,1949,Arizona-Texas League,thorne,P10202,Thorne,,0,Globe-Miami,,,,31,p
 minoraverages/1950TSN,1949,Arizona-Texas League,torchia,B00229,Torchia,Thomas,0,Tucson,,,145,,
 minoraverages/1950TSN,1949,Arizona-Texas League,torchia,F20190,Torchia,,0,Tucson,,,,,2b140
 minoraverages/1950TSN,1949,Arizona-Texas League,trower,B00255,Trower,Donald,0,Phoenix,,,146,,
@@ -370,12 +377,13 @@ minoraverages/1950TSN,1949,Arizona-Texas League,trower,F20131,Trower,,0,Phoenix,
 minoraverages/1950TSN,1949,Arizona-Texas League,trower,M90018,Trower,Don,,Phoenix,,,,,
 minoraverages/1950TSN,1949,Arizona-Texas League,trujillo,B00840,Trujillo,Ernest,0,Tucson,,,46,,
 minoraverages/1950TSN,1949,Arizona-Texas League,trujillo,F21174,Trujillo,,0,Tucson,,,,,p44
-minoraverages/1950TSN,1949,Arizona-Texas League,trujillo,P10290,Trujillo,,0,Tucson,,,,44,
+minoraverages/1950TSN,1949,Arizona-Texas League,trujillo,P10290,Trujillo,,0,Tucson,,,,44,p
 minoraverages/1950TSN,1949,Arizona-Texas League,trusky,B00037,Trusky,Victor,0,Bisbee-Douglas,,,18,,
 minoraverages/1950TSN,1949,Arizona-Texas League,trusky,F20841,Trusky,,0,Bisbee-Douglas,,,,,of18
+minoraverages/emilbb,1949,Arizona-Texas League,,M92013,Twoer,Don,,Phoenix,,,,,
 minoraverages/1950TSN,1949,Arizona-Texas League,valenzuela,B00667,Valenzuela,Jesus,0,Juarez,,,46,,
 minoraverages/1950TSN,1949,Arizona-Texas League,valenzuela,F21207,Valenzuela,,0,Juarez,,,,,p39
-minoraverages/1950TSN,1949,Arizona-Texas League,valenzuela,P10043,Valenzuela,,0,Juarez,,,,39,
+minoraverages/1950TSN,1949,Arizona-Texas League,valenzuela,P10043,Valenzuela,,0,Juarez,,,,39,p
 minoraverages/1950TSN,1949,Arizona-Texas League,vargas,B00381,Vargas,Ramon,0,Tucson,,,129,,
 minoraverages/1950TSN,1949,Arizona-Texas League,vargas,F20583,Vargas,,0,Tucson,,,,,of124
 minoraverages/1950TSN,1949,Arizona-Texas League,villarreal,B00854,Villarreal,Roberto,0,Juarez,,,112,,
@@ -383,27 +391,29 @@ minoraverages/1950TSN,1949,Arizona-Texas League,villarreal,F20657,Villarreal,,0,
 minoraverages/1950TSN,1949,Arizona-Texas League,volpi,B00264,Volpi,Frank,0,Globe-Miami,,,55,,
 minoraverages/1950TSN,1949,Arizona-Texas League,volpi,F20886,Volpi,,0,Globe-Miami,,,,,c37
 minoraverages/1950TSN,1949,Arizona-Texas League,volpi,M90094,Volpi,Frank,,Globe-Miami,,,,,
+minoraverages/emilbb,1949,Arizona-Texas League,,M92092,Volpi,Frank,,Globe-Miami,,,,,
 minoraverages/1950TSN,1949,Arizona-Texas League,waters,B01170,Waters,Howard,0,Globe-Miami,,,38,,
 minoraverages/1950TSN,1949,Arizona-Texas League,waters,F21182,Waters,,0,Globe-Miami,,,,,p20
-minoraverages/1950TSN,1949,Arizona-Texas League,waters,P10432,Waters,,0,Globe-Miami,,,,20,
+minoraverages/1950TSN,1949,Arizona-Texas League,waters,P10432,Waters,,0,Globe-Miami,,,,20,p
 minoraverages/1950TSN,1949,Arizona-Texas League,wearne,B00651,Wearne,Harold,0,Tucson,,,29,,
 minoraverages/1950TSN,1949,Arizona-Texas League,wearne,F21397,Wearne,,0,Tucson,,,,,p29
-minoraverages/1950TSN,1949,Arizona-Texas League,wearne,P10176,Wearne,,0,Tucson,,,,29,
+minoraverages/1950TSN,1949,Arizona-Texas League,wearne,P10176,Wearne,,0,Tucson,,,,29,p
 minoraverages/1950TSN,1949,Arizona-Texas League,whitehorn,B00646,Whitehorn,William,0,Phoenix,,,93,,
 minoraverages/1950TSN,1949,Arizona-Texas League,whitehorn,F20636,Whitehorn,,0,Phoenix,,,,,of36
 minoraverages/1950TSN,1949,Arizona-Texas League,whitehorn,F20935,Whitehorn,,0,Phoenix,,,,,c42
 minoraverages/1950TSN,1949,Arizona-Texas League,whitt,B00403,Whitt,Irvin,0,Bisbee-Douglas,,,21,,
 minoraverages/1950TSN,1949,Arizona-Texas League,whitt,F21469,Whitt,,0,Bisbee-Douglas,,,,,p12
-minoraverages/1950TSN,1949,Arizona-Texas League,whitt,P10441,Whitt,,0,Bisbee-Douglas,,,,12,
+minoraverages/1950TSN,1949,Arizona-Texas League,whitt,P10441,Whitt,,0,Bisbee-Douglas,,,,12,p
 minoraverages/1950TSN,1949,Arizona-Texas League,wigman,B00515,Wigman,Oscar,0,Globe-Miami,,,146,,
 minoraverages/1950TSN,1949,Arizona-Texas League,wigman,F20115,Wigman,,0,Globe-Miami,,,,,1b106
 minoraverages/1950TSN,1949,Arizona-Texas League,wigman,F20784,Wigman,,0,Globe-Miami,,,,,of40
 minoraverages/1950TSN,1949,Arizona-Texas League,williamson,M90060,Williamson,Elmer,,Bisbee-Douglas,,,,,
+minoraverages/emilbb,1949,Arizona-Texas League,,M92068,Williamson,Elmer,,Bisbee-Douglas,,,,,
 minoraverages/1950TSN,1949,Arizona-Texas League,wilson,B01064,Wilson,David,0,Tucson,,,75,,
 minoraverages/1950TSN,1949,Arizona-Texas League,wilson,F20620,Wilson,,0,Tucson,,,,,of38
 minoraverages/1950TSN,1949,Arizona-Texas League,wilson,F21210,Wilson,,0,Tucson,,,,,p18
-minoraverages/1950TSN,1949,Arizona-Texas League,wilson,P10228,Wilson,,0,Tucson,,,,18,
+minoraverages/1950TSN,1949,Arizona-Texas League,wilson,P10228,Wilson,,0,Tucson,,,,18,p
 minoraverages/1950TSN,1949,Arizona-Texas League,zamora,F21370,Zamora,,0,Juarez,,,,,p42
-minoraverages/1950TSN,1949,Arizona-Texas League,zamora,P10145,Zamora,,0,Juarez,,,,42,
+minoraverages/1950TSN,1949,Arizona-Texas League,zamora,P10145,Zamora,,0,Juarez,,,,42,p
 minoraverages/1950TSN,1949,Arizona-Texas League,zamora,B00590,Zamora (Ramos),Ladislao,0,Juarez,,,46,,
 minoraverages/1950TSN,1949,Arizona-Texas League,zender,B00752,Zender,Nicholas,0,Bisbee-Douglas,,,18,,

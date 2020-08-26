@@ -1,28 +1,28 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
 minoraverages/1950TSN,1949,Northern League,adkisson,B00811,Adkisson,Sam E.,0,Grand Forks,,,11,,
 minoraverages/1950TSN,1949,Northern League,adkisson,F21469,Adkisson,,0,Grand Forks,,,,,p10
-minoraverages/1950TSN,1949,Northern League,adkisson,P10767,Adkisson,Sam E.,0,Grand Forks,,,,10,
-minoraverages/Hamilton,1949,Northern League,adkisson,P10184,Adkisson,Sam E.,0,Grand Forks,,,,10,
+minoraverages/1950TSN,1949,Northern League,adkisson,P10767,Adkisson,Sam E.,0,Grand Forks,,,,10,p
+minoraverages/Hamilton,1949,Northern League,adkisson,P10184,Adkisson,Sam E.,0,Grand Forks,,,,10,p
 minoraverages/Hamilton,1949,Northern League,afremow,B00589,Afremow,Buddy,0,Superior,,,,,
 minoraverages/Hamilton,1949,Northern League,ahlstrom,B00059,Ahlstrom,Robert,0,Duluth,,,,,
-minoraverages/Hamilton,1949,Northern League,ahlstrom,P10591,Ahlstrom,Robert,0,Duluth,,,,2,
+minoraverages/Hamilton,1949,Northern League,ahlstrom,P10591,Ahlstrom,Robert,0,Duluth,,,,2,p
 minoraverages/1950TSN,1949,Northern League,allen,B01055,Allen,John H.,0,Eau Claire,,,19,,
 minoraverages/1950TSN,1949,Northern League,allen,F21207,Allen,,0,Eau Claire,,,,,c19
 minoraverages/1950TSN,1949,Northern League,anderson.hen,B01359,Anderson,Henry B.,0,Grand Forks,,,11,,
 minoraverages/1950TSN,1949,Northern League,anderson.hen,F21502,Anderson,,0,Grand Forks,,,,,p11
-minoraverages/1950TSN,1949,Northern League,anderson.hen,P10871,Anderson,Henry B.,0,Grand Forks,,,,11,
+minoraverages/1950TSN,1949,Northern League,anderson.hen,P10871,Anderson,Henry B.,0,Grand Forks,,,,11,p
 minoraverages/Hamilton,1949,Northern League,anderson.har,B00381,Anderson,Harold C.,0,Grand Forks,,,,,
 minoraverages/Hamilton,1949,Northern League,anderson.ric,B00590,Anderson,Richard,0,Superior,,,,,
-minoraverages/Hamilton,1949,Northern League,anderson.hen,P10290,Anderson,Henry B.,0,Grand Forks,,,,11,
-minoraverages/Hamilton,1949,Northern League,anderson.har,P10534,Anderson,Harold C.,0,Grand Forks,,,,4,
+minoraverages/Hamilton,1949,Northern League,anderson.hen,P10290,Anderson,Henry B.,0,Grand Forks,,,,11,p
+minoraverages/Hamilton,1949,Northern League,anderson.har,P10534,Anderson,Harold C.,0,Grand Forks,,,,4,p
 minoraverages/1950TSN,1949,Northern League,arbucho,B00794,Arbucho,James,0,St. Cloud,,,25,,
 minoraverages/1950TSN,1949,Northern League,arbucho,F21948,Arbucho,,0,St. Cloud,,,,,p24
-minoraverages/1950TSN,1949,Northern League,arbucho,P10137,Arbucho,,0,St. Cloud,,,,24,
+minoraverages/1950TSN,1949,Northern League,arbucho,P10137,Arbucho,,0,St. Cloud,,,,24,p
 minoraverages/1950TSN,1949,Northern League,arend,B00544,Arend,James,0,Grand Forks,,,126,,
 minoraverages/1950TSN,1949,Northern League,arend,F20547,Arend,,0,Grand Forks,,,,,ss125
 minoraverages/1950TSN,1949,Northern League,banicki,B00973,Banicki,Joseph,0,Sioux Falls,,,13,,
-minoraverages/1950TSN,1949,Northern League,banicki,P10925,Banicki,Joseph,0,Sioux Falls,,,,5,
-minoraverages/Hamilton,1949,Northern League,banicki,P10348,Banicki,Joseph,0,Sioux Falls,,,,5,
+minoraverages/1950TSN,1949,Northern League,banicki,P10925,Banicki,Joseph,0,Sioux Falls,,,,5,p
+minoraverages/Hamilton,1949,Northern League,banicki,P10348,Banicki,Joseph,0,Sioux Falls,,,,5,p
 minoraverages/1950TSN,1949,Northern League,bass,B00324,Bass,Earl,0,Eau Claire,,,84,,
 minoraverages/1950TSN,1949,Northern League,bass,F20776,Bass,,0,Eau Claire,,,,,of83
 minoraverages/1950TSN,1949,Northern League,battaglia,B01313,Battaglia,John,0,St. Cloud,,,39,,
@@ -32,54 +32,55 @@ minoraverages/1950TSN,1949,Northern League,baud,B00068,Baud,Andrew,0,Superior,,,
 minoraverages/1950TSN,1949,Northern League,baud,F20375,Baud,,0,Superior,,,,,3b12
 minoraverages/1950TSN,1949,Northern League,baud,F20810,Baud,,0,Superior,,,,,of67
 minoraverages/Hamilton,1949,Northern League,baxter,B00068,Baxter,Robert J.,0,Duluth,,,,,
-minoraverages/Hamilton,1949,Northern League,baxter,P10611,Baxter,Robert J.,0,Duluth,,,,1,
+minoraverages/Hamilton,1949,Northern League,baxter,P10611,Baxter,Robert J.,0,Duluth,,,,1,p
 minoraverages/1950TSN,1949,Northern League,belz,B01402,Belz,James,0,Duluth,,,33,,
 minoraverages/1950TSN,1949,Northern League,belz,F20737,Belz,,0,Duluth,,,,,of23
 minoraverages/1950TSN,1949,Northern League,bench,B01546,Bench,John,0,Eau Claire,,,32,,
 minoraverages/1950TSN,1949,Northern League,bench,F21718,Bench,,0,Eau Claire,,,,,p31
-minoraverages/1950TSN,1949,Northern League,bench,P10266,Bench,,0,Eau Claire,,,,31,
+minoraverages/1950TSN,1949,Northern League,bench,P10266,Bench,,0,Eau Claire,,,,31,p
 minoraverages/1950TSN,1949,Northern League,berger,M90129,Berger,Walter,,Grand Forks,19490720,,,,
-minoraverages/1950TSN,1949,Northern League,berglund,P11009,Berglund,Robert,0,St. Cloud,,,,2,
+minoraverages/emilbb,1949,Northern League,,M93003,Berger,Wally,,Grand Forks,,,,,
+minoraverages/1950TSN,1949,Northern League,berglund,P11009,Berglund,Robert,0,St. Cloud,,,,2,p
 minoraverages/Hamilton,1949,Northern League,berglund,B00442,Berglund,Robert,0,St. Cloud,,,,,
-minoraverages/Hamilton,1949,Northern League,berglund,P10429,Berglund,Robert,0,St. Cloud,,,,2,
+minoraverages/Hamilton,1949,Northern League,berglund,P10429,Berglund,Robert,0,St. Cloud,,,,2,p
 minoraverages/1950TSN,1949,Northern League,best,B01135,Best,William,0,Superior,,,39,,
 minoraverages/1950TSN,1949,Northern League,best,F21726,Best,,0,Superior,,,,,p29
-minoraverages/1950TSN,1949,Northern League,best,P10056,Best,,0,Superior,,,,29,
+minoraverages/1950TSN,1949,Northern League,best,P10056,Best,,0,Superior,,,,29,p
 minoraverages/1950TSN,1949,Northern League,billingsley,B00076,Billingsley,Albert,0,Grand Forks,,,125,,
 minoraverages/1950TSN,1949,Northern League,billingsley,F20222,Billingsley,,0,Grand Forks,,,,,2b124
 minoraverages/1950TSN,1949,Northern League,boim,B00806,Boim,Irving,0,Superior,,,19,,
 minoraverages/1950TSN,1949,Northern League,boim,F21961,Boim,,0,Superior,,,,,p13
-minoraverages/1950TSN,1949,Northern League,boim,P10516,Boim,,0,Superior,,,,13,
+minoraverages/1950TSN,1949,Northern League,boim,P10516,Boim,,0,Superior,,,,13,p
 minoraverages/Hamilton,1949,Northern League,booth,B00278,Booth,Edward,0,Fargo-Moorhead,,,,,
-minoraverages/Hamilton,1949,Northern League,booth,P10432,Booth,Edward,0,Fargo-Moorhead,,,,6,
+minoraverages/Hamilton,1949,Northern League,booth,P10432,Booth,Edward,0,Fargo-Moorhead,,,,6,p
 minoraverages/1950TSN,1949,Northern League,borgini,B00590,Borgini,Emil,0,Sioux Falls,,,89,,
 minoraverages/1950TSN,1949,Northern League,borgini,F21130,Borgini,,0,Sioux Falls,,,,,c79
 minoraverages/1950TSN,1949,Northern League,bortz,B01064,Bortz,Raymond,0,Eau Claire,,,77,,
 minoraverages/1950TSN,1949,Northern League,bortz,F20287,Bortz,,0,Eau Claire,,,,,2b25
 minoraverages/1950TSN,1949,Northern League,bortz,F20458,Bortz,,0,Eau Claire,,,,,ss46
-minoraverages/1950TSN,1949,Northern League,boyer,P10963,Boyer,Milton,0,Duluth,,,,2,
+minoraverages/1950TSN,1949,Northern League,boyer,P10963,Boyer,Milton,0,Duluth,,,,2,p
 minoraverages/Hamilton,1949,Northern League,boyer,B00076,Boyer,Milton,0,Duluth,,,,,
-minoraverages/Hamilton,1949,Northern League,boyer,P10385,Boyer,Milton,0,Duluth,,,,2,
+minoraverages/Hamilton,1949,Northern League,boyer,P10385,Boyer,Milton,0,Duluth,,,,2,p
 minoraverages/1950TSN,1949,Northern League,branca,B00442,Branca,Louis,0,Duluth,,,10,,
 minoraverages/1950TSN,1949,Northern League,branca,F21442,Branca,,0,Duluth,,,,,p10
-minoraverages/1950TSN,1949,Northern League,branca,P10304,Branca,,0,Duluth,,,,10,
+minoraverages/1950TSN,1949,Northern League,branca,P10304,Branca,,0,Duluth,,,,10,p
 minoraverages/1950TSN,1949,Northern League,brozovich,B00059,Brozovich,Peter,0,St. Cloud,,,95,,
 minoraverages/1950TSN,1949,Northern League,brozovich,F20661,Brozovich,,0,St. Cloud,,,,,of94
 minoraverages/1950TSN,1949,Northern League,burns-abe,B00747,Burns,James G.,0,Aberdeen,,,36,,
 minoraverages/1950TSN,1949,Northern League,burns-sf,B01580,Burns,Robert L.,0,Sioux Falls,,,13,,
 minoraverages/1950TSN,1949,Northern League,burns-abe,F20014,Burns,,0,Aberdeen,,,,,1b36
 minoraverages/1950TSN,1949,Northern League,burns-sf,F21973,Burns,,0,Sioux Falls,,,,,p13
-minoraverages/1950TSN,1949,Northern League,burns-sf,P10399,Burns,,0,Sioux Falls,,,,13,
-minoraverages/1950TSN,1949,Northern League,burnside,P10996,Burnside,Peter,0,St. Cloud,,,,1,
+minoraverages/1950TSN,1949,Northern League,burns-sf,P10399,Burns,,0,Sioux Falls,,,,13,p
+minoraverages/1950TSN,1949,Northern League,burnside,P10996,Burnside,Peter,0,St. Cloud,,,,1,p
 minoraverages/Hamilton,1949,Northern League,burnside,B00450,Burnside,Peter,0,St. Cloud,,,,,
-minoraverages/Hamilton,1949,Northern League,burnside,P10410,Burnside,Peter,0,St. Cloud,,,,1,
+minoraverages/Hamilton,1949,Northern League,burnside,P10410,Burnside,Peter,0,St. Cloud,,,,1,p
 minoraverages/1950TSN,1949,Northern League,burrichter,B00609,Burrichter,Robert,0,Duluth,,,126,,
 minoraverages/1950TSN,1949,Northern League,burrichter,F20279,Burrichter,,0,Duluth,,,,,2b126
 minoraverages/Hamilton,1949,Northern League,busfield,B00196,Busfield,David,0,Eau Claire,,,,,
 minoraverages/1950TSN,1949,Northern League,canfield,B00739,Canfield,Otis,0,Grand Forks,,,74,,
 minoraverages/1950TSN,1949,Northern League,canfield,F20981,Canfield,,0,Grand Forks,,,,,of72
 minoraverages/Hamilton,1949,Northern League,cassidy,B00397,Cassidy,Richard,0,Grand Forks,,,,,
-minoraverages/Hamilton,1949,Northern League,cassidy,P10464,Cassidy,Richard,0,Grand Forks,,,,3,
+minoraverages/Hamilton,1949,Northern League,cassidy,P10464,Cassidy,Richard,0,Grand Forks,,,,3,p
 minoraverages/1950TSN,1949,Northern League,catallo,B01392,Catallo,John,0,Duluth,,,11,,
 minoraverages/1950TSN,1949,Northern League,catallo,F20997,Catallo,,0,Duluth,,,,,of11
 minoraverages/1950TSN,1949,Northern League,chanaka,B01162,Chanaka,Nicholas,0,St. Cloud,,,33,,
@@ -89,8 +90,9 @@ minoraverages/1950TSN,1949,Northern League,clark,F20784,Clark,,0,Duluth,,,,,of42
 minoraverages/1950TSN,1949,Northern League,coats,B00084,Coats,Robert,0,Sioux Falls,,,123,,
 minoraverages/1950TSN,1949,Northern League,coats,F20924,Coats,,0,Sioux Falls,,,,,of117
 minoraverages/1950TSN,1949,Northern League,cohen,M90018,Cohen,Andrew,,Eau Claire,,,,,
+minoraverages/emilbb,1949,Northern League,,M92898,Cohen,Andy,,Eau Claire,,,,,
 minoraverages/Hamilton,1949,Northern League,combs,B00084,Combs,Kenneth,0,Duluth,,,,,
-minoraverages/Hamilton,1949,Northern League,combs,P10455,Combs,Kenneth,0,Duluth,,,,3,
+minoraverages/Hamilton,1949,Northern League,combs,P10455,Combs,Kenneth,0,Duluth,,,,3,p
 minoraverages/1950TSN,1949,Northern League,corcoran,B00232,Corcoran,Donald,0,Fargo-Moorhead,,,14,,
 minoraverages/1950TSN,1949,Northern League,corcoran,F20648,Corcoran,,0,Fargo-Moorhead,,,,,of14
 minoraverages/Hamilton,1949,Northern League,costa,B00544,Costa,Philip,0,Sioux Falls,,,,,
@@ -102,12 +104,12 @@ minoraverages/1950TSN,1949,Northern League,cox,B00264,Cox,Wallace B.,0,Eau Clair
 minoraverages/1950TSN,1949,Northern League,cox,F20673,Cox,,0,Eau Claire,,,,,of75
 minoraverages/1950TSN,1949,Northern League,crichton,B00278,Crichton,Richard,0,Grand Forks,,,34,,
 minoraverages/1950TSN,1949,Northern League,crichton,F21936,Crichton,,0,Grand Forks,,,,,p25
-minoraverages/1950TSN,1949,Northern League,crichton,P10043,Crichton,,0,Grand Forks,,,,25,
+minoraverages/1950TSN,1949,Northern League,crichton,P10043,Crichton,,0,Grand Forks,,,,25,p
 minoraverages/1950TSN,1949,Northern League,currin,B00491,Currin,Perry,0,Aberdeen,,,125,,
 minoraverages/1950TSN,1949,Northern League,currin,F20505,Currin,,0,Aberdeen,,,,,ss125
 minoraverages/1950TSN,1949,Northern League,delisola,B01108,Del Isola,Salvatore,0,Fargo-Moorhead,,,25,,
 minoraverages/1950TSN,1949,Northern League,delisola,F21833,Del Isola,,0,Fargo-Moorhead,,,,,p24
-minoraverages/1950TSN,1949,Northern League,delisola,P10575,Del Isola,,0,Fargo-Moorhead,,,,24,
+minoraverages/1950TSN,1949,Northern League,delisola,P10575,Del Isola,,0,Fargo-Moorhead,,,,24,p
 minoraverages/1950TSN,1949,Northern League,dipillo,B00879,DiPillo,George,0,Fargo-Moorhead,,,113,,
 minoraverages/1950TSN,1949,Northern League,dipillo,F20919,DiPillo,,0,Fargo-Moorhead,,,,,of111
 minoraverages/1950TSN,1949,Northern League,dinyer,B00434,Dinyer,Frank,0,St. Cloud,,,110,,
@@ -116,67 +118,71 @@ minoraverages/1950TSN,1949,Northern League,dinyer,F20612,Dinyer,,0,St. Cloud,,,,
 minoraverages/1950TSN,1949,Northern League,doll,B00589,Doll,Arthur,0,Fargo-Moorhead,,,28,,
 minoraverages/1950TSN,1949,Northern League,doll,F21667,Doll,,0,Fargo-Moorhead,,,,,p16
 minoraverages/1950TSN,1949,Northern League,doll,M90094,Doll,Arthur,,Fargo-Moorhead,,,,,
-minoraverages/1950TSN,1949,Northern League,doll,P10168,Doll,,0,Fargo-Moorhead,,,,16,
+minoraverages/1950TSN,1949,Northern League,doll,P10168,Doll,,0,Fargo-Moorhead,,,,16,p
+minoraverages/emilbb,1949,Northern League,,M92973,Doll,Arthur,,Fargo-Moorhead,,,,,
 minoraverages/Hamilton,1949,Northern League,donnally,B00092,Donnally,Ralph,0,Duluth,,,,,
-minoraverages/Hamilton,1949,Northern League,donnally,P10503,Donnally,Ralph,0,Duluth,,,,2,
+minoraverages/Hamilton,1949,Northern League,donnally,P10503,Donnally,Ralph,0,Duluth,,,,2,p
 minoraverages/1950TSN,1949,Northern League,doran,B01345,Doran,Donald,0,Duluth,,,15,,
 minoraverages/1950TSN,1949,Northern League,doran,F21182,Doran,,0,Duluth,,,,,c12
 minoraverages/Hamilton,1949,Northern League,drury,B00286,Drury,John,0,Fargo-Moorhead,,,,,
-minoraverages/Hamilton,1949,Northern League,drury,P10441,Drury,John,0,Fargo-Moorhead,,,,3,
-minoraverages/1950TSN,1949,Northern League,duncan,P10930,Duncan,Charles,0,Duluth,,,,1,
+minoraverages/Hamilton,1949,Northern League,drury,P10441,Drury,John,0,Fargo-Moorhead,,,,3,p
+minoraverages/1950TSN,1949,Northern League,duncan,P10930,Duncan,Charles,0,Duluth,,,,1,p
 minoraverages/Hamilton,1949,Northern League,duncan,B00101,Duncan,Charles,0,Duluth,,,,,
-minoraverages/Hamilton,1949,Northern League,duncan,P10357,Duncan,Charles,0,Duluth,,,,1,
-minoraverages/1950TSN,1949,Northern League,eads,P10805,Eads,Walter,0,Grand Forks,,,,3,
+minoraverages/Hamilton,1949,Northern League,duncan,P10357,Duncan,Charles,0,Duluth,,,,1,p
+minoraverages/1950TSN,1949,Northern League,eads,P10805,Eads,Walter,0,Grand Forks,,,,3,p
 minoraverages/Hamilton,1949,Northern League,eads,B00416,Eads,Walter,0,Grand Forks,,,,,
-minoraverages/Hamilton,1949,Northern League,eads,P10228,Eads,Walter,0,Grand Forks,,,,3,
+minoraverages/Hamilton,1949,Northern League,eads,P10228,Eads,Walter,0,Grand Forks,,,,3,p
 minoraverages/1950TSN,1949,Northern League,eberhard,B01630,Eberhard,Teddy,0,Grand Forks,,,50,,
 minoraverages/1950TSN,1949,Northern League,eberhard,F20886,Eberhard,,0,Grand Forks,,,,,of23
 minoraverages/1950TSN,1949,Northern League,eberhard,F21865,Eberhard,,0,Grand Forks,,,,,p21
-minoraverages/1950TSN,1949,Northern League,eberhard,P10542,Eberhard,,0,Grand Forks,,,,21,
+minoraverages/1950TSN,1949,Northern League,eberhard,P10542,Eberhard,,0,Grand Forks,,,,21,p
 minoraverages/1950TSN,1949,Northern League,ehlers,B01787,Ehlers,Donald,0,Superior,,,10,,
 minoraverages/1950TSN,1949,Northern League,ehlers,F21794,Ehlers,,0,Superior,,,,,p10
-minoraverages/1950TSN,1949,Northern League,ehlers,P10714,Ehlers,Donald,0,Superior,,,,10,
-minoraverages/Hamilton,1949,Northern League,ehlers,P10137,Ehlers,Donald,0,Superior,,,,10,
+minoraverages/1950TSN,1949,Northern League,ehlers,P10714,Ehlers,Donald,0,Superior,,,,10,p
+minoraverages/Hamilton,1949,Northern League,ehlers,P10137,Ehlers,Donald,0,Superior,,,,10,p
 minoraverages/1950TSN,1949,Northern League,eilbracht,B01041,Eilbracht,Lee,0,Sioux Falls,,,23,,
 minoraverages/1950TSN,1949,Northern League,eilbracht,F21149,Eilbracht,,0,Sioux Falls,,,,,c16
 minoraverages/1950TSN,1949,Northern League,eilbracht,M90083,Eilbracht,Lee,,Sioux Falls,19490804,,,,
+minoraverages/emilbb,1949,Northern League,,M92961,Elbracht,Lee,,Sioux Falls,,,,,
 minoraverages/1950TSN,1949,Northern League,enright,B01733,Enright,William,0,Superior,,,30,,
 minoraverages/1950TSN,1949,Northern League,enright,F21695,Enright,,0,Superior,,,,,p27
-minoraverages/1950TSN,1949,Northern League,enright,P10464,Enright,,0,Superior,,,,27,
+minoraverages/1950TSN,1949,Northern League,enright,P10464,Enright,,0,Superior,,,,27,p
 minoraverages/1950TSN,1949,Northern League,erath,B01572,Erath,George,0,Sioux Falls,,,17,,
 minoraverages/1950TSN,1949,Northern League,erath,F21370,Erath,,0,Sioux Falls,,,,,p17
-minoraverages/1950TSN,1949,Northern League,erath,P10550,Erath,,0,Sioux Falls,,,,17,
+minoraverages/1950TSN,1949,Northern League,erath,P10550,Erath,,0,Sioux Falls,,,,17,p
 minoraverages/1950TSN,1949,Northern League,evert,B01466,Evert,Robert,0,Aberdeen,,,50,,
 minoraverages/1950TSN,1949,Northern League,evert,F21241,Evert,,0,Aberdeen,,,,,c34
 minoraverages/1950TSN,1949,Northern League,facchini,B01415,Facchini,Alfred,0,Eau Claire,,,60,,
 minoraverages/1950TSN,1949,Northern League,facchini,F20583,Facchini,,0,Eau Claire,,,,,ss58
 minoraverages/1950TSN,1949,Northern League,farmer,B01170,Farmer,Joe,0,Sioux Falls,,,32,,
 minoraverages/1950TSN,1949,Northern League,farmer,F21680,Farmer,,0,Sioux Falls,,,,,p32
-minoraverages/1950TSN,1949,Northern League,farmer,P10455,Farmer,,0,Sioux Falls,,,,32,
+minoraverages/1950TSN,1949,Northern League,farmer,P10455,Farmer,,0,Sioux Falls,,,,32,p
 minoraverages/1950TSN,1949,Northern League,fassero,B00760,Fassero,Victor,0,Aberdeen,,,120,,
 minoraverages/1950TSN,1949,Northern League,fassero,F20792,Fassero,,0,Aberdeen,,,,,of119
 minoraverages/1950TSN,1949,Northern League,fassler,B01836,Fassler,Leonard,0,St. Cloud,,,15,,
 minoraverages/1950TSN,1949,Northern League,fassler,F21912,Fassler,,0,St. Cloud,,,,,p12
-minoraverages/1950TSN,1949,Northern League,fassler,P10429,Fassler,,0,St. Cloud,,,,12,
+minoraverages/1950TSN,1949,Northern League,fassler,P10429,Fassler,,0,St. Cloud,,,,12,p
 minoraverages/1950TSN,1949,Northern League,feauto,B01848,Feauto,Eugene,0,Sioux Falls,,,11,,
 minoraverages/1950TSN,1949,Northern League,feauto,F21488,Feauto,,0,Sioux Falls,,,,,p11
-minoraverages/1950TSN,1949,Northern League,feauto,P10738,Feauto,Eugene,0,Sioux Falls,,,,11,
-minoraverages/Hamilton,1949,Northern League,feauto,P10159,Feauto,Eugene,0,Sioux Falls,,,,11,
+minoraverages/1950TSN,1949,Northern League,feauto,P10738,Feauto,Eugene,0,Sioux Falls,,,,11,p
+minoraverages/Hamilton,1949,Northern League,feauto,P10159,Feauto,Eugene,0,Sioux Falls,,,,11,p
 minoraverages/1950TSN,1949,Northern League,fontana,B00174,Fontana,Charles,0,Grand Forks,,,125,,
 minoraverages/1950TSN,1949,Northern League,fontana,F20878,Fontana,,0,Grand Forks,,,,,of125
 minoraverages/1950TSN,1949,Northern League,fortune,B00370,Fortune,Irwin,0,Sioux Falls,,,51,,
 minoraverages/1950TSN,1949,Northern League,fortune,F21264,Fortune,,0,Sioux Falls,,,,,c34
 minoraverages/1950TSN,1949,Northern League,fortune,M90071,Fortune,Irvin,,Sioux Falls,,,,,
+minoraverages/emilbb,1949,Northern League,,M92957,Fortune,Irvin,,Sioux Falls,,,,,
 minoraverages/1950TSN,1949,Northern League,fowler,B00999,Fowler,Charles,0,St. Cloud,,,30,,
 minoraverages/1950TSN,1949,Northern League,fowler,F21811,Fowler,,0,St. Cloud,,,,,p31
-minoraverages/1950TSN,1949,Northern League,fowler,P10100,Fowler,,0,St. Cloud,,,,31,
+minoraverages/1950TSN,1949,Northern League,fowler,P10100,Fowler,,0,St. Cloud,,,,31,p
 minoraverages/1950TSN,1949,Northern League,fox.c,B00293,Fox,Charles,0,St. Cloud,,,109,,
 minoraverages/1950TSN,1949,Northern League,fox.c,F21229,Fox,,0,St. Cloud,,,,,c100
 minoraverages/1950TSN,1949,Northern League,fox.c,M90039,Fox,Charles,,St. Cloud,,,,,
 minoraverages/Hamilton,1949,Northern League,fox.w,B00469,Fox,William,0,St. Cloud,,,,,
-minoraverages/1950TSN,1949,Northern League,francis,P10818,Francis,John,0,Aberdeen,,,,5,
+minoraverages/emilbb,1949,Northern League,,M92912,Fox,Charlie,,St. Cloud,,,,,
+minoraverages/1950TSN,1949,Northern League,francis,P10818,Francis,John,0,Aberdeen,,,,5,p
 minoraverages/Hamilton,1949,Northern League,francis,B00013,Francis,John,0,Aberdeen,,,,,
-minoraverages/Hamilton,1949,Northern League,francis,P10231,Francis,John,0,Aberdeen,,,,5,
+minoraverages/Hamilton,1949,Northern League,francis,P10231,Francis,John,0,Aberdeen,,,,5,p
 minoraverages/1950TSN,1949,Northern League,freund,B01086,Freund,John,0,Sioux Falls,,,111,,
 minoraverages/1950TSN,1949,Northern League,freund,F20254,Freund,,0,Sioux Falls,,,,,2b78
 minoraverages/1950TSN,1949,Northern League,freund,F20620,Freund,,0,Sioux Falls,,,,,ss29
@@ -192,23 +198,23 @@ minoraverages/1950TSN,1949,Northern League,gee,B01617,Gee,Samuel,0,Sioux Falls,,
 minoraverages/1950TSN,1949,Northern League,gee,F20594,Gee,,0,Sioux Falls,,,,,ss11
 minoraverages/1950TSN,1949,Northern League,geske,B01431,Geske,J. Wallace,0,Aberdeen,,,25,,
 minoraverages/1950TSN,1949,Northern League,geske,F21920,Geske,,0,Aberdeen,,,,,p23
-minoraverages/1950TSN,1949,Northern League,geske,P10527,Geske,,0,Aberdeen,,,,23,
+minoraverages/1950TSN,1949,Northern League,geske,P10527,Geske,,0,Aberdeen,,,,23,p
 minoraverages/Hamilton,1949,Northern League,glass,B00117,Glass,Charles,0,Duluth,,,,,
-minoraverages/Hamilton,1949,Northern League,glass,P10527,Glass,Charles,0,Duluth,,,,2,
-minoraverages/1950TSN,1949,Northern League,glenn,P10665,Glenn,Donald,0,Duluth,,,,9,
+minoraverages/Hamilton,1949,Northern League,glass,P10527,Glass,Charles,0,Duluth,,,,2,p
+minoraverages/1950TSN,1949,Northern League,glenn,P10665,Glenn,Donald,0,Duluth,,,,9,p
 minoraverages/Hamilton,1949,Northern League,glenn,B00125,Glenn,Donald,0,Duluth,,,,,
-minoraverages/Hamilton,1949,Northern League,glenn,P10081,Glenn,Donald,0,Duluth,,,,9,
+minoraverages/Hamilton,1949,Northern League,glenn,P10081,Glenn,Donald,0,Duluth,,,,9,p
 minoraverages/1950TSN,1949,Northern League,gott,B00241,Gott,Thomas,0,Grand Forks,,,124,,
 minoraverages/1950TSN,1949,Northern League,gott,F20768,Gott,,0,Grand Forks,,,,,of124
-minoraverages/1950TSN,1949,Northern League,greco,P10795,Greco,Joseph,0,St. Cloud,,,,7,
+minoraverages/1950TSN,1949,Northern League,greco,P10795,Greco,Joseph,0,St. Cloud,,,,7,p
 minoraverages/Hamilton,1949,Northern League,greco,B00475,Greco,Joseph,0,St. Cloud,,,,,
-minoraverages/Hamilton,1949,Northern League,greco,P10215,Greco,Joseph,0,St. Cloud,,,,7,
+minoraverages/Hamilton,1949,Northern League,greco,P10215,Greco,Joseph,0,St. Cloud,,,,7,p
 minoraverages/Hamilton,1949,Northern League,greenhaw,B00207,Greenhaw,H.T.,0,Eau Claire,,,,,
 minoraverages/Hamilton,1949,Northern League,gregory,B00210,Gregory,Marion,0,Eau Claire,,,,,
-minoraverages/Hamilton,1949,Northern League,gregory,P10486,Gregory,Marion,0,Eau Claire,,,,2,
+minoraverages/Hamilton,1949,Northern League,gregory,P10486,Gregory,Marion,0,Eau Claire,,,,2,p
 minoraverages/1950TSN,1949,Northern League,griggs,B00416,Griggs,John,0,Duluth,,,42,,
 minoraverages/1950TSN,1949,Northern League,griggs,F21343,Griggs,,0,Duluth,,,,,p22
-minoraverages/1950TSN,1949,Northern League,griggs,P10184,Griggs,,0,Duluth,,,,22,
+minoraverages/1950TSN,1949,Northern League,griggs,P10184,Griggs,,0,Duluth,,,,22,p
 minoraverages/1950TSN,1949,Northern League,grimes,B00667,Grimes,James,0,Superior,,,95,,
 minoraverages/1950TSN,1949,Northern League,grimes,F20864,Grimes,,0,Superior,,,,,of94
 minoraverages/1950TSN,1949,Northern League,gugala,B00362,Gugala,Chester,0,Superior,,,67,,
@@ -219,35 +225,36 @@ minoraverages/1950TSN,1949,Northern League,gustafson,B01754,Gustafson,Marvin,T,,
 minoraverages/1950TSN,1949,Northern League,gustafson,F21760,Gustafson,,1,Superior,,,,,p
 minoraverages/1950TSN,1949,Northern League,gustafson,F21760,Gustafson,,2,Duluth,,,,,p
 minoraverages/1950TSN,1949,Northern League,gustafson,F21760,Gustafson,,T,,,,,,p10
-minoraverages/1950TSN,1949,Northern League,gustafson,P10746,Gustafson,Marvin,1,Superior,,,,1,
-minoraverages/1950TSN,1949,Northern League,gustafson,P10746,Gustafson,Marvin,2,Duluth,,,,9,
-minoraverages/1950TSN,1949,Northern League,gustafson,P10746,Gustafson,Marvin,T,,,,,10,
-minoraverages/Hamilton,1949,Northern League,gustafson,P10168,Gustafson,Marvin,1,Superior,,,,1,
-minoraverages/Hamilton,1949,Northern League,gustafson,P10168,Gustafson,Marvin,2,Duluth,,,,9,
-minoraverages/Hamilton,1949,Northern League,gustafson,P10168,Gustafson,Marvin,T,,,,,10,
+minoraverages/1950TSN,1949,Northern League,gustafson,P10746,Gustafson,Marvin,1,Superior,,,,1,p
+minoraverages/1950TSN,1949,Northern League,gustafson,P10746,Gustafson,Marvin,2,Duluth,,,,9,p
+minoraverages/1950TSN,1949,Northern League,gustafson,P10746,Gustafson,Marvin,T,,,,,10,p
+minoraverages/Hamilton,1949,Northern League,gustafson,P10168,Gustafson,Marvin,1,Superior,,,,1,p
+minoraverages/Hamilton,1949,Northern League,gustafson,P10168,Gustafson,Marvin,2,Duluth,,,,9,p
+minoraverages/Hamilton,1949,Northern League,gustafson,P10168,Gustafson,Marvin,T,,,,,10,p
 minoraverages/1950TSN,1949,Northern League,haas,B00752,Haas,Elmer,0,Eau Claire,,,33,,
 minoraverages/1950TSN,1949,Northern League,haas,F21609,Haas,,0,Eau Claire,,,,,p32
-minoraverages/1950TSN,1949,Northern League,haas,P10361,Haas,,0,Eau Claire,,,,32,
+minoraverages/1950TSN,1949,Northern League,haas,P10361,Haas,,0,Eau Claire,,,,32,p
 minoraverages/1950TSN,1949,Northern League,hacay,B00125,Hacay,Marvin,0,Duluth,,,121,,
 minoraverages/1950TSN,1949,Northern League,hacay,F20425,Hacay,,0,Duluth,,,,,3b117
 minoraverages/1950TSN,1949,Northern League,hackbarth,B00207,Hackbarth,Wilbert,0,Superior,,,94,,
 minoraverages/1950TSN,1949,Northern League,hackbarth,F20128,Hackbarth,,0,Superior,,,,,1b64
-minoraverages/1950TSN,1949,Northern League,hackbarth,P10640,Hackbarth,Wilbert,0,Superior,,,,6,
-minoraverages/Hamilton,1949,Northern League,hackbarth,P10062,Hackbarth,Wilbert,0,Superior,,,,6,
+minoraverages/1950TSN,1949,Northern League,hackbarth,P10640,Hackbarth,Wilbert,0,Superior,,,,6,p
+minoraverages/Hamilton,1949,Northern League,hackbarth,P10062,Hackbarth,Wilbert,0,Superior,,,,6,p
 minoraverages/1950TSN,1949,Northern League,hall,B00021,Hall,Irvin,0,Aberdeen,,,125,,
 minoraverages/1950TSN,1949,Northern League,hall,F20189,Hall,,0,Aberdeen,,,,,2b125
 minoraverages/1950TSN,1949,Northern League,hall,M90026,Hall,Irvin,,Aberdeen,,,,,
-minoraverages/1950TSN,1949,Northern League,hanabury,P10622,Hanabury,James,0,Eau Claire,,,,7,
+minoraverages/emilbb,1949,Northern League,,M92904,Hall,Irvin,,Aberdeen,,,,,
+minoraverages/1950TSN,1949,Northern League,hanabury,P10622,Hanabury,James,0,Eau Claire,,,,7,p
 minoraverages/Hamilton,1949,Northern League,hanabury,B00229,Hanabury,James,0,Eau Claire,,,,,
-minoraverages/Hamilton,1949,Northern League,hanabury,P10043,Hanabury,James,0,Eau Claire,,,,7,
+minoraverages/Hamilton,1949,Northern League,hanabury,P10043,Hanabury,James,0,Eau Claire,,,,7,p
 minoraverages/1950TSN,1949,Northern League,harris-abe,B01798,Harris,Donald R.,0,Aberdeen,,,32,,
 minoraverages/1950TSN,1949,Northern League,harris-abe,F21381,Harris,,0,Aberdeen,,,,,p32
-minoraverages/1950TSN,1949,Northern League,harris-abe,P10441,Harris,,0,Aberdeen,,,,32,
+minoraverages/1950TSN,1949,Northern League,harris-abe,P10441,Harris,,0,Aberdeen,,,,32,p
 minoraverages/Hamilton,1949,Northern League,harris-sc,B00488,Harris,,0,St. Cloud,,,,,
 minoraverages/1950TSN,1949,Northern League,hart,B00531,Hart,William,0,Sioux Falls,,,12,,
 minoraverages/1950TSN,1949,Northern League,hawley,B01779,Hawley,Lloyd,0,Duluth,,,25,,
 minoraverages/1950TSN,1949,Northern League,hawley,F21771,Hawley,,0,Duluth,,,,,p25
-minoraverages/1950TSN,1949,Northern League,hawley,P10253,Hawley,,0,Duluth,,,,25,
+minoraverages/1950TSN,1949,Northern League,hawley,P10253,Hawley,,0,Duluth,,,,25,p
 minoraverages/1950TSN,1949,Northern League,heitholt,B00948,Heitholt,Richard,0,Sioux Falls,,,84,,
 minoraverages/1950TSN,1949,Northern League,heitholt,F20095,Heitholt,,0,Sioux Falls,,,,,1b84
 minoraverages/1950TSN,1949,Northern League,hicks,B01538,Hicks,William R.,0,Eau Claire,,,37,,
@@ -266,19 +273,19 @@ minoraverages/1950TSN,1949,Northern League,howig,F21059,Howig,,0,Sioux Falls,,,,
 minoraverages/1950TSN,1949,Northern League,hubbard,B01663,Hubbard,Richard,0,Duluth,,,12,,
 minoraverages/1950TSN,1949,Northern League,hubbard,F21092,Hubbard,,0,Duluth,,,,,of12
 minoraverages/Hamilton,1949,Northern League,huber,B00614,Huber,Chester,0,Superior,,,,,
-minoraverages/Hamilton,1949,Northern League,huber,P10550,Huber,Chester,0,Superior,,,,2,
+minoraverages/Hamilton,1949,Northern League,huber,P10550,Huber,Chester,0,Superior,,,,2,p
 minoraverages/1950TSN,1949,Northern League,hughes,B00672,Hughes,Robert E.,0,Fargo-Moorhead,,,37,,
 minoraverages/1950TSN,1949,Northern League,hughes,F21904,Hughes,,0,Fargo-Moorhead,,,,,p24
-minoraverages/1950TSN,1949,Northern League,hughes,P10145,Hughes,,0,Fargo-Moorhead,,,,24,
-minoraverages/1950TSN,1949,Northern League,hunter,P10917,Hunter,Samuel,0,Duluth,,,,1,
+minoraverages/1950TSN,1949,Northern League,hughes,P10145,Hughes,,0,Fargo-Moorhead,,,,24,p
+minoraverages/1950TSN,1949,Northern League,hunter,P10917,Hunter,Samuel,0,Duluth,,,,1,p
 minoraverages/Hamilton,1949,Northern League,hunter,B00130,Hunter,Samuel,0,Duluth,,,,,
-minoraverages/Hamilton,1949,Northern League,hunter,P10336,Hunter,Samuel,0,Duluth,,,,1,
+minoraverages/Hamilton,1949,Northern League,hunter,P10336,Hunter,Samuel,0,Duluth,,,,1,p
 minoraverages/1950TSN,1949,Northern League,hyde,B01682,Hyde,Billy,0,Aberdeen,,,28,,
 minoraverages/1950TSN,1949,Northern League,hyde,F21672,Hyde,,0,Aberdeen,,,,,p28
-minoraverages/1950TSN,1949,Northern League,hyde,P10277,Hyde,,0,Aberdeen,,,,28,
+minoraverages/1950TSN,1949,Northern League,hyde,P10277,Hyde,,0,Aberdeen,,,,28,p
 minoraverages/1950TSN,1949,Northern League,jeanneau,B01337,Jeanneau,Jacques,0,St. Cloud,,,26,,
 minoraverages/1950TSN,1949,Northern League,jeanneau,F21638,Jeanneau,,0,St. Cloud,,,,,p21
-minoraverages/1950TSN,1949,Northern League,jeanneau,P10348,Jeanneau,,0,St. Cloud,,,,21,
+minoraverages/1950TSN,1949,Northern League,jeanneau,P10348,Jeanneau,,0,St. Cloud,,,,21,p
 minoraverages/1950TSN,1949,Northern League,jefferies,B00726,Jefferies,Walter,0,Duluth,,,121,,
 minoraverages/1950TSN,1949,Northern League,jefferies,F20038,Jeffries,,0,Duluth,,,,,1b121
 minoraverages/1950TSN,1949,Northern League,johnson-sf,B00286,Johnson,Clayton,0,Sioux Falls,,,77,,
@@ -287,8 +294,8 @@ minoraverages/1950TSN,1949,Northern League,johnson-fm,B01696,Johnson,Philip,0,Fa
 minoraverages/1950TSN,1949,Northern League,johnson-sf,F20482,Johnson,,0,Sioux Falls,,,,,ss73
 minoraverages/1950TSN,1949,Northern League,johnson-fm,F21362,Johnson,,0,Fargo-Moorhead,,,,,p16
 minoraverages/1950TSN,1949,Northern League,johnson-sup,F21623,Johnson,,0,Superior,,,,,p33
-minoraverages/1950TSN,1949,Northern League,johnson-sup,P10070,Johnson,A.,0,Superior,,,,33,
-minoraverages/1950TSN,1949,Northern League,johnson-fm,P10410,Johnson,P.,0,Fargo-Moorhead,,,,16,
+minoraverages/1950TSN,1949,Northern League,johnson-sup,P10070,Johnson,A.,0,Superior,,,,33,p
+minoraverages/1950TSN,1949,Northern League,johnson-fm,P10410,Johnson,P.,0,Fargo-Moorhead,,,,16,p
 minoraverages/1950TSN,1949,Northern League,kaires,B01124,Kaires,Gerald,0,Superior,,,38,,
 minoraverages/1950TSN,1949,Northern League,kaires,F20265,Kaires,,0,Superior,,,,,2b10
 minoraverages/1950TSN,1949,Northern League,kaires,F20417,Kaires,,0,Superior,,,,,3b14
@@ -298,20 +305,21 @@ minoraverages/1950TSN,1949,Northern League,karson,F21084,Karson,,0,St. Cloud,,,,
 minoraverages/1950TSN,1949,Northern League,kearse,B00117,Kearse,Edward,0,Grand Forks,,,47,,
 minoraverages/1950TSN,1949,Northern League,kearse,F21308,Kearse,,0,Grand Forks,,,,,c27
 minoraverages/1950TSN,1949,Northern League,kearse,M90107,Kearse,Edward,,Grand Forks,,,,,
-minoraverages/Hamilton,1949,Northern League,kearse,P10640,Kearse,Edward,0,Grand Forks,,,,1,
+minoraverages/Hamilton,1949,Northern League,kearse,P10640,Kearse,Edward,0,Grand Forks,,,,1,p
+minoraverages/emilbb,1949,Northern League,,M92985,Kearse,Ed,,Grand Forks,,,,,
 minoraverages/1950TSN,1949,Northern League,kenyon,B01711,Kenyon,Arthur,0,Eau Claire,,,15,,
 minoraverages/1950TSN,1949,Northern League,kenyon,F21397,Kenyon,,0,Eau Claire,,,,,p15
-minoraverages/1950TSN,1949,Northern League,kenyon,P10228,Kenyon,,0,Eau Claire,,,,15,
-minoraverages/1950TSN,1949,Northern League,ketchum,P10894,Ketchum,Albert,0,St. Cloud,,,,2,
+minoraverages/1950TSN,1949,Northern League,kenyon,P10228,Kenyon,,0,Eau Claire,,,,15,p
+minoraverages/1950TSN,1949,Northern League,ketchum,P10894,Ketchum,Albert,0,St. Cloud,,,,2,p
 minoraverages/Hamilton,1949,Northern League,ketchum,B00491,Ketchum,Albert,0,St. Cloud,,,,,
-minoraverages/Hamilton,1949,Northern League,ketchum,P10312,Ketchum,Albert,0,St. Cloud,,,,2,
+minoraverages/Hamilton,1949,Northern League,ketchum,P10312,Ketchum,Albert,0,St. Cloud,,,,2,p
 minoraverages/1950TSN,1949,Northern League,kirschner,B01523,Kirschner,Gordyn,0,Sioux Falls,,,12,,
 minoraverages/1950TSN,1949,Northern League,kirschner,F21475,Kirschner,,0,Sioux Falls,,,,,p12
-minoraverages/1950TSN,1949,Northern League,kirschner,P10723,Kirschner,Gordyn,0,Sioux Falls,,,,12,
-minoraverages/Hamilton,1949,Northern League,kirschner,P10145,Kirschner,Gordyn,0,Sioux Falls,,,,12,
-minoraverages/1950TSN,1949,Northern League,kish,P10839,Kish,Elmer,0,Fargo-Moorhead,,,,3,
+minoraverages/1950TSN,1949,Northern League,kirschner,P10723,Kirschner,Gordyn,0,Sioux Falls,,,,12,p
+minoraverages/Hamilton,1949,Northern League,kirschner,P10145,Kirschner,Gordyn,0,Sioux Falls,,,,12,p
+minoraverages/1950TSN,1949,Northern League,kish,P10839,Kish,Elmer,0,Fargo-Moorhead,,,,3,p
 minoraverages/Hamilton,1949,Northern League,kish,B00293,Kish,Elmer,0,Fargo-Moorhead,,,,,
-minoraverages/Hamilton,1949,Northern League,kish,P10253,Kish,Elmer,0,Fargo-Moorhead,,,,3,
+minoraverages/Hamilton,1949,Northern League,kish,P10253,Kish,Elmer,0,Fargo-Moorhead,,,,3,p
 minoraverages/1950TSN,1949,Northern League,kobrin,B00854,Kobrin,Theodore,0,Grand Forks,,,42,,
 minoraverages/1950TSN,1949,Northern League,kobrin,F20334,Kobrin,,0,Grand Forks,,,,,3b42
 minoraverages/1950TSN,1949,Northern League,kozub,B00515,Kozub,Bernard,0,Sioux Falls,,,125,,
@@ -322,27 +330,27 @@ minoraverages/Hamilton,1949,Northern League,kuykendall,B00021,Kuykendall,Raymond
 minoraverages/1950TSN,1949,Northern League,kwak,B00887,Kwak,Karol,0,Eau Claire,,,119,,
 minoraverages/1950TSN,1949,Northern League,kwak,F20855,Kwak,,0,Eau Claire,,,,,of118
 minoraverages/Hamilton,1949,Northern League,lacroix,B00149,LaCroix,Anthony,0,Duluth,,,,,
-minoraverages/Hamilton,1949,Northern League,lacroix,P10633,LaCroix,Anthony,0,Duluth,,,,1,
+minoraverages/Hamilton,1949,Northern League,lacroix,P10633,LaCroix,Anthony,0,Duluth,,,,1,p
 minoraverages/1950TSN,1949,Northern League,lageman,B01093,Lageman,Ralph,0,Duluth,,,65,,
 minoraverages/1950TSN,1949,Northern League,lageman,F20935,Lageman,,0,Duluth,,,,,of58
-minoraverages/1950TSN,1949,Northern League,lageman,P10772,Lageman,Ralph,0,Duluth,,,,7,
-minoraverages/Hamilton,1949,Northern League,lageman,P10192,Lageman,Ralph,0,Duluth,,,,7,
+minoraverages/1950TSN,1949,Northern League,lageman,P10772,Lageman,Ralph,0,Duluth,,,,7,p
+minoraverages/Hamilton,1949,Northern League,lageman,P10192,Lageman,Ralph,0,Duluth,,,,7,p
 minoraverages/1950TSN,1949,Northern League,lang,B00646,Lang,Del,0,Superior,,,66,,
 minoraverages/1950TSN,1949,Northern League,lang,F20571,Lang,,0,Superior,,,,,ss65
 minoraverages/1950TSN,1949,Northern League,larson,B01489,Larson,Jack,0,St. Cloud,,,23,,
 minoraverages/1950TSN,1949,Northern League,larson,F21957,Larson,,0,St. Cloud,,,,,p23
-minoraverages/1950TSN,1949,Northern League,larson,P10215,Larson,,0,St. Cloud,,,,23,
+minoraverages/1950TSN,1949,Northern League,larson,P10215,Larson,,0,St. Cloud,,,,23,p
 minoraverages/1950TSN,1949,Northern League,lawrence,B01275,Lawrence,Clarence,0,Sioux Falls,,,28,,
 minoraverages/1950TSN,1949,Northern League,lawrence,F21806,Lawrence,,0,Sioux Falls,,,,,p26
-minoraverages/1950TSN,1949,Northern League,lawrence,P10320,Lawrence,,0,Sioux Falls,,,,26,
+minoraverages/1950TSN,1949,Northern League,lawrence,P10320,Lawrence,,0,Sioux Falls,,,,26,p
 minoraverages/1950TSN,1949,Northern League,leachman,B01288,Leachman,Gail,0,St. Cloud,,,75,,
 minoraverages/1950TSN,1949,Northern League,leachman,F20759,Leachman,,0,St. Cloud,,,,,of75
-minoraverages/1950TSN,1949,Northern League,leckrone,P10687,Leckrone,Dale,0,Superior,,,,7,
+minoraverages/1950TSN,1949,Northern League,leckrone,P10687,Leckrone,Dale,0,Superior,,,,7,p
 minoraverages/Hamilton,1949,Northern League,leckrone,B00623,Leckrone,Dale,0,Superior,,,,,
-minoraverages/Hamilton,1949,Northern League,leckrone,P10100,Leckrone,Dale,0,Superior,,,,7,
+minoraverages/Hamilton,1949,Northern League,leckrone,P10100,Leckrone,Dale,0,Superior,,,,7,p
 minoraverages/1950TSN,1949,Northern League,lettau,B01300,Lettau,Neil,0,Grand Forks,,,27,,
 minoraverages/1950TSN,1949,Northern League,lettau,F21590,Lettau,,0,Grand Forks,,,,,p26
-minoraverages/1950TSN,1949,Northern League,lettau,P10113,Lettau,,0,Grand Forks,,,,26,
+minoraverages/1950TSN,1949,Northern League,lettau,P10113,Lettau,,0,Grand Forks,,,,26,p
 minoraverages/1950TSN,1949,Northern League,linehan,F20943,Lineham,,0,Eau Claire,,,,,of71
 minoraverages/1950TSN,1949,Northern League,linehan,B00182,Linehan,James,0,Eau Claire,,,99,,
 minoraverages/1950TSN,1949,Northern League,linehan,F21293,Linehan,,0,Eau Claire,,,,,c18
@@ -350,77 +358,79 @@ minoraverages/1950TSN,1949,Northern League,lotz,B00092,Lotz,Theodore,0,Sioux Fal
 minoraverages/1950TSN,1949,Northern League,lotz,F20721,Lotz,,0,Sioux Falls,,,,,of101
 minoraverages/1950TSN,1949,Northern League,luddy,B01181,Luddy,Harold,0,Eau Claire,,,25,,
 minoraverages/1950TSN,1949,Northern League,luddy,F21822,Luddy,,0,Eau Claire,,,,,p24
-minoraverages/1950TSN,1949,Northern League,luddy,P10407,Luddy,,0,Eau Claire,,,,24,
+minoraverages/1950TSN,1949,Northern League,luddy,P10407,Luddy,,0,Eau Claire,,,,24,p
 minoraverages/1950TSN,1949,Northern League,madjeski,B00783,Madjeski,Theodore,0,Duluth,,,64,,
 minoraverages/1950TSN,1949,Northern League,madjeski,F21174,Madjeski,,0,Duluth,,,,,c56
 minoraverages/1950TSN,1949,Northern League,madjeski,M90052,Madjeski,Theodore,,Duluth,,,,,
-minoraverages/Hamilton,1949,Northern League,madjeski,P10569,Madjeski,Theodore,0,Duluth,,,,1,
+minoraverages/Hamilton,1949,Northern League,madjeski,P10569,Madjeski,Theodore,0,Duluth,,,,1,p
+minoraverages/emilbb,1949,Northern League,,M92936,Madjeski,Ted,,Duluth,,,,,
 minoraverages/1950TSN,1949,Northern League,mansfield,B01601,Mansfield,William,0,Duluth,,,16,,
 minoraverages/1950TSN,1949,Northern League,mansfield,F21450,Mansfield,,0,Duluth,,,,,p16
-minoraverages/1950TSN,1949,Northern League,mansfield,P10432,Mansfield,,0,Duluth,,,,16,
+minoraverages/1950TSN,1949,Northern League,mansfield,P10432,Mansfield,,0,Duluth,,,,16,p
 minoraverages/1950TSN,1949,Northern League,marinari,B01197,Marinari,Leonard,0,Duluth,,,38,,
 minoraverages/1950TSN,1949,Northern League,marinari,F21324,Marinari,,0,Duluth,,,,,c24
 minoraverages/Hamilton,1949,Northern League,marino,B00502,Marino,Neal,0,St. Cloud,,,,,
-minoraverages/Hamilton,1949,Northern League,marino,P10622,Marino,Neal,0,St. Cloud,,,,3,
+minoraverages/Hamilton,1949,Northern League,marino,P10622,Marino,Neal,0,St. Cloud,,,,3,p
 minoraverages/Hamilton,1949,Northern League,marquardt,B00403,Marquardt,Delmar,0,Grand Forks,,,,,
-minoraverages/1950TSN,1949,Northern League,marshall,P10958,Marshall,Robert W.,0,Fargo-Moorhead,,,,3,
+minoraverages/1950TSN,1949,Northern League,marshall,P10958,Marshall,Robert W.,0,Fargo-Moorhead,,,,3,p
 minoraverages/Hamilton,1949,Northern League,marshall,B00308,Marshall,Robert W.,0,Fargo-Moorhead,,,,,
-minoraverages/Hamilton,1949,Northern League,marshall,P10373,Marshall,Robert W.,0,Fargo-Moorhead,,,,3,
+minoraverages/Hamilton,1949,Northern League,marshall,P10373,Marshall,Robert W.,0,Fargo-Moorhead,,,,3,p
 minoraverages/1950TSN,1949,Northern League,mathey,B00705,Mathey,Maurice,0,Duluth,,,50,,
 minoraverages/1950TSN,1949,Northern League,mathey,F20829,Mathey,,0,Duluth,,,,,of50
 minoraverages/1950TSN,1949,Northern League,mcalister,B00833,McAlister,Fred,0,Duluth,,,124,,
 minoraverages/1950TSN,1949,Northern League,mcalister,F20518,McAlister,,0,Duluth,,,,,ss124
-minoraverages/1950TSN,1949,Northern League,mccrary,P10847,McCrary,William,0,Fargo-Moorhead,,,,7,
+minoraverages/1950TSN,1949,Northern League,mccrary,P10847,McCrary,William,0,Fargo-Moorhead,,,,7,p
 minoraverages/Hamilton,1949,Northern League,mccrary,B00319,McCrary,William,0,Fargo-Moorhead,,,,,
-minoraverages/Hamilton,1949,Northern League,mccrary,P10266,McCrary,William,0,Fargo-Moorhead,,,,7,
+minoraverages/Hamilton,1949,Northern League,mccrary,P10266,McCrary,William,0,Fargo-Moorhead,,,,7,p
 minoraverages/1950TSN,1949,Northern League,mcdermott,M90110,McDermott,Joe,,Grand Forks,19490716,,,,
+minoraverages/emilbb,1949,Northern League,,M92999,McDermott,Joe,,Grand Forks,,,,,
 minoraverages/Hamilton,1949,Northern League,mcgrath,B00232,McGrath,Gerald,0,Eau Claire,,,,,
-minoraverages/Hamilton,1949,Northern League,mcgrath,P10575,McGrath,Gerald,0,Eau Claire,,,,1,
+minoraverages/Hamilton,1949,Northern League,mcgrath,P10575,McGrath,Gerald,0,Eau Claire,,,,1,p
 minoraverages/1950TSN,1949,Northern League,menke,B01453,Menke,Charles,0,St. Cloud,,,28,,
 minoraverages/1950TSN,1949,Northern League,menke,F21528,Menke,,0,St. Cloud,,,,,p28
-minoraverages/1950TSN,1949,Northern League,menke,P10357,Menke,,0,St. Cloud,,,,28,
+minoraverages/1950TSN,1949,Northern League,menke,P10357,Menke,,0,St. Cloud,,,,28,p
 minoraverages/1950TSN,1949,Northern League,menking,B01595,Menking,Paul,0,Sioux Falls,,,37,,
 minoraverages/1950TSN,1949,Northern League,menking,F21335,Menking,,0,Sioux Falls,,,,,p37
-minoraverages/1950TSN,1949,Northern League,menking,P10035,Menking,,0,Sioux Falls,,,,37,
-minoraverages/1950TSN,1949,Northern League,meshelski,P10606,Meshelski,Joseph,0,Grand Forks,,,,5,
+minoraverages/1950TSN,1949,Northern League,menking,P10035,Menking,,0,Sioux Falls,,,,37,p
+minoraverages/1950TSN,1949,Northern League,meshelski,P10606,Meshelski,Joseph,0,Grand Forks,,,,5,p
 minoraverages/Hamilton,1949,Northern League,meshelski,B00427,Meshelski,Joseph,0,Grand Forks,,,,,
-minoraverages/Hamilton,1949,Northern League,meshelski,P10024,Meshelski,Joseph,0,Grand Forks,,,,5,
+minoraverages/Hamilton,1949,Northern League,meshelski,P10024,Meshelski,Joseph,0,Grand Forks,,,,5,p
 minoraverages/1950TSN,1949,Northern League,meyer,B01119,Meyer,Ray,0,St. Cloud,,,12,,
 minoraverages/1950TSN,1949,Northern League,meyer,F20303,Meyer,,0,St. Cloud,,,,,2b12
 minoraverages/1950TSN,1949,Northern League,michael,B01156,Michael,Kenneth,0,Aberdeen,,,28,,
 minoraverages/1950TSN,1949,Northern League,michael,F21614,Michael,,0,Aberdeen,,,,,p28
-minoraverages/1950TSN,1949,Northern League,michael,P10312,Michael,,0,Aberdeen,,,,28,
+minoraverages/1950TSN,1949,Northern League,michael,P10312,Michael,,0,Aberdeen,,,,28,p
 minoraverages/1950TSN,1949,Northern League,miller-sup,B01242,Miller,Ralph,0,Superior,,,34,,
 minoraverages/1950TSN,1949,Northern League,miller-dul,B01384,Miller,Herman A.,0,Duluth,,,37,,
 minoraverages/1950TSN,1949,Northern League,miller-dul,F21531,Miller,,0,Duluth,,,,,p37
 minoraverages/1950TSN,1949,Northern League,miller-sup,F21646,Miller,,0,Superior,,,,,p32
-minoraverages/1950TSN,1949,Northern League,miller-dul,P10478,Miller,H.,0,Duluth,,,,37,
-minoraverages/1950TSN,1949,Northern League,miller-sup,P10534,Miller,R.,0,Superior,,,,32,
+minoraverages/1950TSN,1949,Northern League,miller-dul,P10478,Miller,H.,0,Duluth,,,,37,p
+minoraverages/1950TSN,1949,Northern League,miller-sup,P10534,Miller,R.,0,Superior,,,,32,p
 minoraverages/Hamilton,1949,Northern League,montgomery,B00434,Montgomery,Robert,0,Grand Forks,,,,,
 minoraverages/1950TSN,1949,Northern League,morrow,B01658,Morrow,Frank,0,Sioux Falls,,,15,,
-minoraverages/1950TSN,1949,Northern League,nemet,P10633,Nemet,Albert,0,Fargo-Moorhead,,,,6,
+minoraverages/1950TSN,1949,Northern League,nemet,P10633,Nemet,Albert,0,Fargo-Moorhead,,,,6,p
 minoraverages/Hamilton,1949,Northern League,nemet,B00324,Nemet,Albert,0,Fargo-Moorhead,,,,,
-minoraverages/Hamilton,1949,Northern League,nemet,P10056,Nemet,Albert,0,Fargo-Moorhead,,,,6,
+minoraverages/Hamilton,1949,Northern League,nemet,P10056,Nemet,Albert,0,Fargo-Moorhead,,,,6,p
 minoraverages/1950TSN,1949,Northern League,nichols,B01740,Nichols,Paul,0,Grand Forks,,,31,,
 minoraverages/1950TSN,1949,Northern League,nichols,F21589,Nichols,,0,Grand Forks,,,,,p30
-minoraverages/1950TSN,1949,Northern League,nichols,P10385,Nichols,,0,Grand Forks,,,,30,
+minoraverages/1950TSN,1949,Northern League,nichols,P10385,Nichols,,0,Grand Forks,,,,30,p
 minoraverages/1950TSN,1949,Northern League,nordgren,B01234,Nordgren,Allen,0,Grand Forks,,,78,,
 minoraverages/1950TSN,1949,Northern League,nordgren,F21319,Nordgren,,0,Grand Forks,,,,,c58
 minoraverages/1950TSN,1949,Northern League,nuss,B01010,Nuss,Fred,0,Fargo-Moorhead,,,40,,
 minoraverages/1950TSN,1949,Northern League,nuss,F21577,Nuss,,0,Fargo-Moorhead,,,,,p40
-minoraverages/1950TSN,1949,Northern League,nuss,P10336,Nuss,,0,Fargo-Moorhead,,,,40,
-minoraverages/1950TSN,1949,Northern League,obrien,P10611,O'Brien,Jack J.,0,Fargo-Moorhead,,,,7,
+minoraverages/1950TSN,1949,Northern League,nuss,P10336,Nuss,,0,Fargo-Moorhead,,,,40,p
+minoraverages/1950TSN,1949,Northern League,obrien,P10611,O'Brien,Jack J.,0,Fargo-Moorhead,,,,7,p
 minoraverages/Hamilton,1949,Northern League,obrien,B00335,O'Brien,Jack J.,0,Fargo-Moorhead,,,,,
-minoraverages/Hamilton,1949,Northern League,obrien,P10035,O'Brien,Jack J.,0,Fargo-Moorhead,,,,7,
+minoraverages/Hamilton,1949,Northern League,obrien,P10035,O'Brien,Jack J.,0,Fargo-Moorhead,,,,7,p
 minoraverages/1950TSN,1949,Northern League,olcott,B01203,Olcott,Peter,0,Aberdeen,,,125,,
 minoraverages/1950TSN,1949,Northern League,olcott,F20388,Olcott,,0,Aberdeen,,,,,3b125
-minoraverages/1950TSN,1949,Northern League,oley,P10982,Oley,Edwin,0,Sioux Falls,,,,2,
+minoraverages/1950TSN,1949,Northern League,oley,P10982,Oley,Edwin,0,Sioux Falls,,,,2,p
 minoraverages/Hamilton,1949,Northern League,oley,B00553,Oley,Edwin,0,Sioux Falls,,,,,
-minoraverages/Hamilton,1949,Northern League,oley,P10407,Oley,Edwin,0,Sioux Falls,,,,2,
-minoraverages/1950TSN,1949,Northern League,olinger,P10709,Olinger,Bernard,0,Fargo-Moorhead,,,,6,
+minoraverages/Hamilton,1949,Northern League,oley,P10407,Oley,Edwin,0,Sioux Falls,,,,2,p
+minoraverages/1950TSN,1949,Northern League,olinger,P10709,Olinger,Bernard,0,Fargo-Moorhead,,,,6,p
 minoraverages/Hamilton,1949,Northern League,olinger,B00343,Olinger,Bernard,0,Fargo-Moorhead,,,,,
-minoraverages/Hamilton,1949,Northern League,olinger,P10121,Olinger,Bernard,0,Fargo-Moorhead,,,,6,
-minoraverages/Hamilton,1949,Northern League,olson,P10478,Olsen,Kenneth,0,St. Cloud,,,,4,
+minoraverages/Hamilton,1949,Northern League,olinger,P10121,Olinger,Bernard,0,Fargo-Moorhead,,,,6,p
+minoraverages/Hamilton,1949,Northern League,olson,P10478,Olsen,Kenneth,0,St. Cloud,,,,4,p
 minoraverages/Hamilton,1949,Northern League,olson,B00515,Olson,Kenneth,0,St. Cloud,,,,,
 minoraverages/1950TSN,1949,Northern League,ottesen,B00210,Ottesen,Robert,0,Aberdeen,,,52,,
 minoraverages/1950TSN,1949,Northern League,ottesen,F20144,Ottesen,,0,Aberdeen,,,,,1b12
@@ -428,9 +438,9 @@ minoraverages/1950TSN,1949,Northern League,ottesen,F20745,Ottesen,,0,Aberdeen,,,
 minoraverages/1950TSN,1949,Northern League,ozark,B00158,Ozark,Norwood,0,Eau Claire,,,65,,
 minoraverages/1950TSN,1949,Northern League,ozark,F20177,Ozark,,0,Eau Claire,,,,,2b64
 minoraverages/Hamilton,1949,Northern League,palamara,B00638,Palamara,Sam,0,Superior,,,,,
-minoraverages/1950TSN,1949,Northern League,pallitto,P10780,Pallitto,Michael,0,Fargo-Moorhead,,,,5,
+minoraverages/1950TSN,1949,Northern League,pallitto,P10780,Pallitto,Michael,0,Fargo-Moorhead,,,,5,p
 minoraverages/Hamilton,1949,Northern League,pallitto,B00356,Pallitto,Michael,0,Fargo-Moorhead,,,,,
-minoraverages/Hamilton,1949,Northern League,pallitto,P10202,Pallitto,Michael,0,Fargo-Moorhead,,,,5,
+minoraverages/Hamilton,1949,Northern League,pallitto,P10202,Pallitto,Michael,0,Fargo-Moorhead,,,,5,p
 minoraverages/1950TSN,1949,Northern League,palmer,B00961,Palmer,Austin,0,Superior,,,16,,
 minoraverages/1950TSN,1949,Northern League,palmer,F20316,Palmer,,0,Superior,,,,,3b12
 minoraverages/1950TSN,1949,Northern League,parrish,B01078,Parrish,Eugene,0,St. Cloud,,,35,,
@@ -439,31 +449,31 @@ minoraverages/1950TSN,1949,Northern League,patterson,B00229,Patterson,George,0,E
 minoraverages/1950TSN,1949,Northern League,patterson,F20211,Patterson,,0,Eau Claire,,,,,2b34
 minoraverages/1950TSN,1949,Northern League,pavlica,B00623,Pavlica,James,0,Aberdeen,,,48,,
 minoraverages/1950TSN,1949,Northern League,pavlica,F21887,Pavlica,,0,Aberdeen,,,,,p29
-minoraverages/1950TSN,1949,Northern League,pavlica,P10081,Pavlica,,0,Aberdeen,,,,29,
+minoraverages/1950TSN,1949,Northern League,pavlica,P10081,Pavlica,,0,Aberdeen,,,,29,p
 minoraverages/1950TSN,1949,Northern League,peden,B00614,Peden,James D.,0,Fargo-Moorhead,,,126,,
 minoraverages/1950TSN,1949,Northern League,peden,F20067,Peden,,0,Fargo-Moorhead,,,,,1b126
 minoraverages/Hamilton,1949,Northern League,pilbeam,B00362,Pilbeam,Byron,0,Fargo-Moorhead,,,,,
-minoraverages/Hamilton,1949,Northern League,pilbeam,P10588,Pilbeam,Byron,0,Fargo-Moorhead,,,,2,
+minoraverages/Hamilton,1949,Northern League,pilbeam,P10588,Pilbeam,Byron,0,Fargo-Moorhead,,,,2,p
 minoraverages/1950TSN,1949,Northern League,poltrock,B01567,Poltrock,Gerald,0,Superior,,,22,,
 minoraverages/1950TSN,1949,Northern League,poltrock,F21255,Poltrock,,0,Superior,,,,,c21
 minoraverages/Hamilton,1949,Northern League,porubski,B00158,Porubski,Paul,0,Duluth,,,,,
-minoraverages/Hamilton,1949,Northern League,porubski,P10516,Porubski,Paul,0,Duluth,,,,2,
+minoraverages/Hamilton,1949,Northern League,porubski,P10516,Porubski,Paul,0,Duluth,,,,2,p
 minoraverages/1950TSN,1949,Northern League,post,B01029,Post,Carlton,0,Aberdeen,,,30,,
 minoraverages/1950TSN,1949,Northern League,post,F21705,Post,,0,Aberdeen,,,,,p26
-minoraverages/1950TSN,1949,Northern League,post,P10176,Post,,0,Aberdeen,,,,26,
+minoraverages/1950TSN,1949,Northern League,post,P10176,Post,,0,Aberdeen,,,,26,p
 minoraverages/1950TSN,1949,Northern League,pottenger,B00335,Pottenger,Robert,0,Eau Claire,,,55,,
 minoraverages/1950TSN,1949,Northern League,pottenger,F21125,Pottenger,,0,Eau Claire,,,,,c55
-minoraverages/1950TSN,1949,Northern League,potter,P10591,Potter,Arden,0,St. Cloud,,,,3,
+minoraverages/1950TSN,1949,Northern League,potter,P10591,Potter,Arden,0,St. Cloud,,,,3,p
 minoraverages/Hamilton,1949,Northern League,potter,B00528,Potter,Arden,0,St. Cloud,,,,,
-minoraverages/Hamilton,1949,Northern League,potter,P10019,Potter,Arden,0,St. Cloud,,,,3,
+minoraverages/Hamilton,1949,Northern League,potter,P10019,Potter,Arden,0,St. Cloud,,,,3,p
 minoraverages/Hamilton,1949,Northern League,potts,B00163,Potts,John,0,Duluth,,,,,
 minoraverages/1950TSN,1949,Northern League,reed,B00920,Reek,Walter,0,Fargo-Moorhead,,,21,,
 minoraverages/1950TSN,1949,Northern League,reed,F21021,Reek,,0,Fargo-Moorhead,,,,,of14
 minoraverages/Hamilton,1949,Northern League,regan,B00241,Regan,Francis,0,Eau Claire,,,,,
 minoraverages/1950TSN,1949,Northern League,regelsky,B00149,Regelsky,Adolph,0,Sioux Falls,,,26,,
 minoraverages/1950TSN,1949,Northern League,regelsky,F20526,Regelsky,,0,Sioux Falls,,,,,ss10
-minoraverages/1950TSN,1949,Northern League,regelsky,P10826,Regelsky,Adolph,0,Sioux Falls,,,,6,
-minoraverages/Hamilton,1949,Northern League,regelsky,P10244,Regelsky,Adolph,0,Sioux Falls,,,,6,
+minoraverages/1950TSN,1949,Northern League,regelsky,P10826,Regelsky,Adolph,0,Sioux Falls,,,,6,p
+minoraverages/Hamilton,1949,Northern League,regelsky,P10244,Regelsky,Adolph,0,Sioux Falls,,,,6,p
 minoraverages/1950TSN,1949,Northern League,rhyne,B00771,Rhyne,James,0,St. Cloud,,,49,,
 minoraverages/1950TSN,1949,Northern League,rhyne,F20046,Rhyne,,0,St. Cloud,,,,,1b49
 minoraverages/1950TSN,1949,Northern League,ries,B00037,Ries,Robert,0,Eau Claire,,,124,,
@@ -472,58 +482,59 @@ minoraverages/1950TSN,1949,Northern League,rinehart,B01625,Rinehart,James,0,Farg
 minoraverages/1950TSN,1949,Northern League,rinehart,F20657,Rinehart,,0,Fargo-Moorhead,,,,,of12
 minoraverages/1950TSN,1949,Northern League,rinker,B01649,Rinker,Wesley,0,St. Cloud,,,26,,
 minoraverages/1950TSN,1949,Northern League,rinker,F21783,Rinker,,0,St. Cloud,,,,,p26
-minoraverages/1950TSN,1949,Northern League,rinker,P10202,Rinker,,0,St. Cloud,,,,26,
+minoraverages/1950TSN,1949,Northern League,rinker,P10202,Rinker,,0,St. Cloud,,,,26,p
 minoraverages/1950TSN,1949,Northern League,robertson,B00822,Robertson,Alfred,0,Grand Forks,,,44,,
 minoraverages/1950TSN,1949,Northern League,robertson,F21286,Robertson,,0,Grand Forks,,,,,c42
 minoraverages/1950TSN,1949,Northern League,rolandson,B00045,Rolandson,Russell,0,Duluth,,,50,,
 minoraverages/1950TSN,1949,Northern League,rolandson,F21196,Rolandson,,0,Duluth,,,,,c48
 minoraverages/1950TSN,1949,Northern League,rolandson,M90060,Rolandson,Russell,,Duluth,19490723,,,,
+minoraverages/emilbb,1949,Northern League,,M92948,Rolandson,Russell,,Duluth,,,,,
 minoraverages/1950TSN,1949,Northern League,rothrock,B01477,Rothrock,Darrell,0,Sioux Falls,,,30,,
 minoraverages/1950TSN,1949,Northern League,rothrock,F21566,Rothrock,,0,Sioux Falls,,,,,p29
-minoraverages/1950TSN,1949,Northern League,rothrock,P10231,Rothrock,,0,Sioux Falls,,,,29,
+minoraverages/1950TSN,1949,Northern League,rothrock,P10231,Rothrock,,0,Sioux Falls,,,,29,p
 minoraverages/1950TSN,1949,Northern League,russo,B00912,Russo,Raeford,0,Superior,,,28,,
 minoraverages/1950TSN,1949,Northern League,russo,F21045,Russo,,0,Superior,,,,,of25
 minoraverages/1950TSN,1949,Northern League,ryan,B01227,Ryan,Robert R.,0,Fargo-Moorhead,,,90,,
 minoraverages/1950TSN,1949,Northern League,ryan,F20240,Ryan,,0,Fargo-Moorhead,,,,,2b83
-minoraverages/1950TSN,1949,Northern League,saffer,P10852,Saffer,Leslie,0,Eau Claire,,,,4,
+minoraverages/1950TSN,1949,Northern League,saffer,P10852,Saffer,Leslie,0,Eau Claire,,,,4,p
 minoraverages/Hamilton,1949,Northern League,saffer,B00255,Saffer,Leslie,0,Eau Claire,,,,,
-minoraverages/Hamilton,1949,Northern League,saffer,P10277,Saffer,Leslie,0,Eau Claire,,,,4,
+minoraverages/Hamilton,1949,Northern League,saffer,P10277,Saffer,Leslie,0,Eau Claire,,,,4,p
 minoraverages/1950TSN,1949,Northern League,salreno,B01216,Salreno,Louis,0,Fargo-Moorhead,,,46,,
 minoraverages/1950TSN,1949,Northern League,salreno,F20841,Salreno,,0,Fargo-Moorhead,,,,,of31
 minoraverages/1950TSN,1949,Northern League,sandusky,B01812,Sandusky,Edward,0,Grand Forks,,,28,,
 minoraverages/1950TSN,1949,Northern League,sandusky,F21840,Sandusky,,0,Grand Forks,,,,,p28
-minoraverages/1950TSN,1949,Northern League,sandusky,P10503,Sandusky,,0,Grand Forks,,,,28,
+minoraverages/1950TSN,1949,Northern League,sandusky,P10503,Sandusky,,0,Grand Forks,,,,28,p
 minoraverages/1950TSN,1949,Northern League,savage,B00638,Savage,W. Henry,0,Aberdeen,,,123,,
 minoraverages/1950TSN,1949,Northern League,savage,F20699,Savage,,0,Aberdeen,,,,,of123
 minoraverages/1950TSN,1949,Northern League,schanz,B01722,Schanz,Edward,0,Duluth,,,30,,
 minoraverages/1950TSN,1949,Northern League,schanz,F21553,Schanz,,0,Duluth,,,,,p30
-minoraverages/1950TSN,1949,Northern League,schanz,P10159,Schanz,,0,Duluth,,,,30,
+minoraverages/1950TSN,1949,Northern League,schanz,P10159,Schanz,,0,Duluth,,,,30,p
 minoraverages/1950TSN,1949,Northern League,schermerhorn,B01857,Schermerhorn,Howard,0,Grand Forks,,,12,,
 minoraverages/1950TSN,1949,Northern League,schermerhorn,F21747,Schermerhorn,,0,Grand Forks,,,,,p12
-minoraverages/1950TSN,1949,Northern League,schermerhorn,P10569,Schermerhorn,,0,Grand Forks,,,,12,
+minoraverages/1950TSN,1949,Northern League,schermerhorn,P10569,Schermerhorn,,0,Grand Forks,,,,12,p
 minoraverages/1950TSN,1949,Northern League,schymanski,B00488,Schymanski,James,0,Superior,,,99,,
 minoraverages/1950TSN,1949,Northern League,schymanski,F20636,Schymanski,,0,Superior,,,,,of46
 minoraverages/1950TSN,1949,Northern League,schymanski,F21232,Schymanski,,0,Superior,,,,,c47
-minoraverages/1950TSN,1949,Northern League,seeley,P10974,Seeley,George,0,Superior,,,,2,
+minoraverages/1950TSN,1949,Northern League,seeley,P10974,Seeley,George,0,Superior,,,,2,p
 minoraverages/Hamilton,1949,Northern League,seeley,B00646,Seeley,George,0,Superior,,,,,
-minoraverages/Hamilton,1949,Northern League,seeley,P10399,Seeley,George,0,Superior,,,,2,
+minoraverages/Hamilton,1949,Northern League,seeley,P10399,Seeley,George,0,Superior,,,,2,p
 minoraverages/1950TSN,1949,Northern League,sheckler,B01804,Sheckler,William,0,Fargo-Moorhead,,,29,,
 minoraverages/1950TSN,1949,Northern League,sheckler,F21854,Sheckler,,0,Fargo-Moorhead,,,,,p29
-minoraverages/1950TSN,1949,Northern League,sheckler,P10588,Sheckler,,0,Fargo-Moorhead,,,,29,
+minoraverages/1950TSN,1949,Northern League,sheckler,P10588,Sheckler,,0,Fargo-Moorhead,,,,29,p
 minoraverages/1950TSN,1949,Northern League,shields,B00502,Shields,Charles,0,Duluth,,,112,,
 minoraverages/1950TSN,1949,Northern League,shields,F20700,Shields,,0,Duluth,,,,,of112
 minoraverages/1950TSN,1949,Northern League,shotliff,B01861,Shotliff,Robert,0,Superior,,,10,,
 minoraverages/1950TSN,1949,Northern League,shotliff,F21491,Shotliff,,0,Superior,,,,,p10
-minoraverages/1950TSN,1949,Northern League,shotliff,P10654,Shotliff,Robert,0,Superior,,,,10,
-minoraverages/Hamilton,1949,Northern League,shotliff,P10070,Shotliff,Robert,0,Superior,,,,10,
+minoraverages/1950TSN,1949,Northern League,shotliff,P10654,Shotliff,Robert,0,Superior,,,,10,p
+minoraverages/Hamilton,1949,Northern League,shotliff,P10070,Shotliff,Robert,0,Superior,,,,10,p
 minoraverages/1950TSN,1949,Northern League,simanovsky,B01674,Simanovsky,Frank,0,Grand Forks,,,30,,
 minoraverages/1950TSN,1949,Northern League,simanovsky,F21739,Simanovsky,,0,Grand Forks,,,,,p27
-minoraverages/1950TSN,1949,Northern League,simanovsky,P10121,Simanovsky,,0,Grand Forks,,,,27,
+minoraverages/1950TSN,1949,Northern League,simanovsky,P10121,Simanovsky,,0,Grand Forks,,,,27,p
 minoraverages/1950TSN,1949,Northern League,sklodowski,B01007,Sklodowski,Ziggy,0,Fargo-Moorhead,,,16,,
 minoraverages/1950TSN,1949,Northern League,sklodowski,F21013,Sklodowski,,0,Fargo-Moorhead,,,,,of16
-minoraverages/1950TSN,1949,Northern League,smejkal,P10860,Smejkal,Joseph,0,Duluth,,,,2,
+minoraverages/1950TSN,1949,Northern League,smejkal,P10860,Smejkal,Joseph,0,Duluth,,,,2,p
 minoraverages/Hamilton,1949,Northern League,smejkal,B00174,Smejkal,Joseph,0,Duluth,,,,,
-minoraverages/Hamilton,1949,Northern League,smejkal,P10289,Smejkal,Joseph,0,Duluth,,,,2,
+minoraverages/Hamilton,1949,Northern League,smejkal,P10289,Smejkal,Joseph,0,Duluth,,,,2,p
 minoraverages/1950TSN,1949,Northern League,smith,B00718,Smith,Gene B.,0,Superior,,,13,,
 minoraverages/1950TSN,1949,Northern League,smith,F21117,Smith,,0,Superior,,,,,c12
 minoraverages/1950TSN,1949,Northern League,smotherman,B00308,Smotherman,G. Cromer,0,Grand Forks,,,125,,
@@ -531,8 +542,9 @@ minoraverages/1950TSN,1949,Northern League,smotherman,F20051,Smotherman,,0,Grand
 minoraverages/1950TSN,1949,Northern League,sobek,B00865,Sobek,George,0,Superior,,,118,,
 minoraverages/1950TSN,1949,Northern League,sobek,F20233,Sobek,,0,Superior,,,,,2b117
 minoraverages/1950TSN,1949,Northern League,sobek,M90047,Sobek,George,,Superior,,,,,
+minoraverages/emilbb,1949,Northern League,,M92920,Sobek,George,,Superior,,,,,
 minoraverages/1950TSN,1949,Northern League,sorrels,F21898,Sorrells,,0,Eau Claire,,,,,p29
-minoraverages/1950TSN,1949,Northern League,sorrels,P10192,Sorrells,,0,Eau Claire,,,,29,
+minoraverages/1950TSN,1949,Northern League,sorrels,P10192,Sorrells,,0,Eau Claire,,,,29,p
 minoraverages/1950TSN,1949,Northern League,sorrels,B01269,Sorrels,William,0,Eau Claire,,,38,,
 minoraverages/1950TSN,1949,Northern League,speake,B01368,Speake,Robert,0,Sioux Falls,,,28,,
 minoraverages/1950TSN,1949,Northern League,speake,F20072,Speake,,0,Sioux Falls,,,,,1b26
@@ -545,30 +557,30 @@ minoraverages/1950TSN,1949,Northern League,stefano,F20327,Stefano,,0,Fargo-Moorh
 minoraverages/1950TSN,1949,Northern League,stefano,F20463,Stefano,,0,Fargo-Moorhead,,,,,ss53
 minoraverages/1950TSN,1949,Northern League,steger,B00651,Steger,Donald,0,Eau Claire,,,122,,
 minoraverages/1950TSN,1949,Northern League,steger,F20023,Steger,,0,Eau Claire,,,,,1b122
-minoraverages/1950TSN,1949,Northern League,stiglich,P10751,Stiglich,Charles,0,Superior,,,,6,
+minoraverages/1950TSN,1949,Northern League,stiglich,P10751,Stiglich,Charles,0,Superior,,,,6,p
 minoraverages/Hamilton,1949,Northern League,stiglich,B00651,Stiglich,Charles,0,Superior,,,,,
-minoraverages/Hamilton,1949,Northern League,stiglich,P10176,Stiglich,Charles,0,Superior,,,,6,
+minoraverages/Hamilton,1949,Northern League,stiglich,P10176,Stiglich,Charles,0,Superior,,,,6,p
 minoraverages/1950TSN,1949,Northern League,stretton,B01820,Stretton,William,0,Superior,,,21,,
 minoraverages/1950TSN,1949,Northern League,stretton,F21356,Stretton,,0,Superior,,,,,p21
-minoraverages/1950TSN,1949,Northern League,stretton,P10244,Stretton,,0,Superior,,,,21,
+minoraverages/1950TSN,1949,Northern League,stretton,P10244,Stretton,,0,Superior,,,,21,p
 minoraverages/1950TSN,1949,Northern League,svetlick,B01250,Svetlick,Joseph,0,Duluth,,,38,,
 minoraverages/1950TSN,1949,Northern League,svetlick,F21515,Svetlick,,0,Duluth,,,,,p38
-minoraverages/1950TSN,1949,Northern League,svetlick,P10062,Svetlick,,0,Duluth,,,,38,
+minoraverages/1950TSN,1949,Northern League,svetlick,P10062,Svetlick,,0,Duluth,,,,38,p
 minoraverages/1950TSN,1949,Northern League,tamaska,B00957,Tamaska,Joseph,0,Eau Claire,,,18,,
 minoraverages/1950TSN,1949,Northern League,tamaska,F21416,Tamaska,,0,Eau Claire,,,,,p15
-minoraverages/1950TSN,1949,Northern League,tamaska,P10493,Tamaska,,0,Eau Claire,,,,15,
+minoraverages/1950TSN,1949,Northern League,tamaska,P10493,Tamaska,,0,Eau Claire,,,,15,p
 minoraverages/1950TSN,1949,Northern League,thomas,B00680,Thomas,Terry,0,Superior,,,10,,
 minoraverages/1950TSN,1949,Northern League,thompson,B00196,Thompson,James,0,Superior,,,117,,
 minoraverages/1950TSN,1949,Northern League,thompson,F20131,Thompson,,0,Superior,,,,,1b62
 minoraverages/1950TSN,1949,Northern League,thompson,F20962,Thompson,,0,Superior,,,,,of48
-minoraverages/1950TSN,1949,Northern League,tremel,P10883,Tremel,William,0,Eau Claire,,,,6,
+minoraverages/1950TSN,1949,Northern League,tremel,P10883,Tremel,William,0,Eau Claire,,,,6,p
 minoraverages/Hamilton,1949,Northern League,tremel,B00264,Tremel,William,0,Eau Claire,,,,,
-minoraverages/Hamilton,1949,Northern League,tremel,P10304,Tremel,William,0,Eau Claire,,,,6,
+minoraverages/Hamilton,1949,Northern League,tremel,P10304,Tremel,William,0,Eau Claire,,,,6,p
 minoraverages/1950TSN,1949,Northern League,turcy,B01428,Turcy,Frank,0,St. Cloud,,,26,,
 minoraverages/1950TSN,1949,Northern League,turcy,F20908,Turcy,,0,St. Cloud,,,,,of26
 minoraverages/1950TSN,1949,Northern League,turley,B00130,Turley,Robert,0,Aberdeen,,,36,,
 minoraverages/1950TSN,1949,Northern League,turley,F21544,Turley,,0,Aberdeen,,,,,p33
-minoraverages/1950TSN,1949,Northern League,turley,P10024,Turley,,0,Aberdeen,,,,33,
+minoraverages/1950TSN,1949,Northern League,turley,P10024,Turley,,0,Aberdeen,,,,33,p
 minoraverages/1950TSN,1949,Northern League,vallone,B00898,Vallone,Edward,0,Fargo-Moorhead,,,122,,
 minoraverages/1950TSN,1949,Northern League,vallone,F20552,Vallone,,0,Fargo-Moorhead,,,,,ss10
 minoraverages/1950TSN,1949,Northern League,vallone,F20685,Vallone,,0,Fargo-Moorhead,,,,,of93
@@ -579,56 +591,56 @@ minoraverages/1950TSN,1949,Northern League,venditto,F20604,Venditto,,0,Fargo-Moo
 minoraverages/1950TSN,1949,Northern League,venn,B00566,Venn,Thomas,0,Fargo-Moorhead,,,126,,
 minoraverages/1950TSN,1949,Northern League,venn,F21210,Venn,,0,Fargo-Moorhead,,,,,c125
 minoraverages/Hamilton,1949,Northern League,vogt,B00566,Vogt,Alfred,0,Sioux Falls,,,,,
-minoraverages/Hamilton,1949,Northern League,vogt,P10542,Vogt,Alfred,0,Sioux Falls,,,,2,
+minoraverages/Hamilton,1949,Northern League,vogt,P10542,Vogt,Alfred,0,Sioux Falls,,,,2,p
 minoraverages/1950TSN,1949,Northern League,vrablik,B00356,Vrablik,John,0,Superior,,,47,,
 minoraverages/1950TSN,1949,Northern League,vrablik,F21278,Vrablik,,0,Superior,,,,,c45
-minoraverages/1950TSN,1949,Northern League,walden,P10698,Walden,Flenn,0,Sioux Falls,,,,7,
+minoraverages/1950TSN,1949,Northern League,walden,P10698,Walden,Flenn,0,Sioux Falls,,,,7,p
 minoraverages/Hamilton,1949,Northern League,walden,B00577,Walden,Flenn,0,Sioux Falls,,,,,
-minoraverages/Hamilton,1949,Northern League,walden,P10113,Walden,Flenn,0,Sioux Falls,,,,7,
+minoraverages/Hamilton,1949,Northern League,walden,P10113,Walden,Flenn,0,Sioux Falls,,,,7,p
 minoraverages/1950TSN,1949,Northern League,walter,B00163,Walter,Dale,0,Grand Forks,,,71,,
 minoraverages/1950TSN,1949,Northern League,walter,F20430,Walter,,0,Grand Forks,,,,,3b71
 minoraverages/1950TSN,1949,Northern League,waters,B00255,Waters,David,0,Grand Forks,,,29,,
 minoraverages/1950TSN,1949,Northern League,waters,F21037,Waters,,0,Grand Forks,,,,,of27
-minoraverages/1950TSN,1949,Northern League,waugh,P10949,Waugh,James,0,Aberdeen,,,,6,
+minoraverages/1950TSN,1949,Northern League,waugh,P10949,Waugh,James,0,Aberdeen,,,,6,p
 minoraverages/Hamilton,1949,Northern League,waugh,B00037,Waugh,James,0,Aberdeen,,,,,
-minoraverages/Hamilton,1949,Northern League,waugh,P10361,Waugh,James,0,Aberdeen,,,,6,
-minoraverages/1950TSN,1949,Northern League,wesolich,P10679,Wesolich,John,0,St. Cloud,,,,4,
+minoraverages/Hamilton,1949,Northern League,waugh,P10361,Waugh,James,0,Aberdeen,,,,6,p
+minoraverages/1950TSN,1949,Northern League,wesolich,P10679,Wesolich,John,0,St. Cloud,,,,4,p
 minoraverages/Hamilton,1949,Northern League,wesolich,B00531,Wesolich,John,0,St. Cloud,,,,,
-minoraverages/Hamilton,1949,Northern League,wesolich,P10097,Wesolich,John,0,St. Cloud,,,,4,
+minoraverages/Hamilton,1949,Northern League,wesolich,P10097,Wesolich,John,0,St. Cloud,,,,4,p
 minoraverages/1950TSN,1949,Northern League,wetzel,B00904,Wetzel,Donald,0,St. Cloud,,,76,,
 minoraverages/1950TSN,1949,Northern League,wetzel,F20474,Wetzel,,0,St. Cloud,,,,,ss76
 minoraverages/1950TSN,1949,Northern League,weyman,B00695,Weyman,Charles,0,St. Cloud,,,124,,
 minoraverages/1950TSN,1949,Northern League,weyman,F20391,Weymann,,0,St. Cloud,,,,,3b124
 minoraverages/1950TSN,1949,Northern League,whitney,B01706,Whitney,Harry,0,Eau Claire,,,18,,
 minoraverages/1950TSN,1949,Northern League,whitney,F21403,Whitney,,0,Eau Claire,,,,,p18
-minoraverages/1950TSN,1949,Northern League,whitney,P10097,Whitney,,0,Eau Claire,,,,18,
+minoraverages/1950TSN,1949,Northern League,whitney,P10097,Whitney,,0,Eau Claire,,,,18,p
 minoraverages/1950TSN,1949,Northern League,wilcox,B01509,Wilcox,John,0,Fargo-Moorhead,,,28,,
 minoraverages/1950TSN,1949,Northern League,wilcox,F21879,Wilcox,,0,Fargo-Moorhead,,,,,p25
-minoraverages/1950TSN,1949,Northern League,wilcox,P10289,Wilcox,,0,Fargo-Moorhead,,,,25,
-minoraverages/1950TSN,1949,Northern League,wilfong,P10901,Wilfong,Harold,0,Aberdeen,,,,7,
+minoraverages/1950TSN,1949,Northern League,wilcox,P10289,Wilcox,,0,Fargo-Moorhead,,,,25,p
+minoraverages/1950TSN,1949,Northern League,wilfong,P10901,Wilfong,Harold,0,Aberdeen,,,,7,p
 minoraverages/Hamilton,1949,Northern League,wilfong,B00045,Wilfong,Harold,0,Aberdeen,,,,,
-minoraverages/Hamilton,1949,Northern League,wilfong,P10320,Wilfong,Harold,0,Aberdeen,,,,7,
+minoraverages/Hamilton,1949,Northern League,wilfong,P10320,Wilfong,Harold,0,Aberdeen,,,,7,p
 minoraverages/1950TSN,1949,Northern League,willis,B00553,Willis,T. Richard,0,Aberdeen,,,103,,
 minoraverages/1950TSN,1949,Northern League,willis,F21163,Willis,,0,Aberdeen,,,,,c102
 minoraverages/1950TSN,1949,Northern League,wilson,B00577,Wilson,George F.,0,Duluth,,,63,,
 minoraverages/1950TSN,1949,Northern League,wilson,F21068,Wilson,,0,Duluth,,,,,of63
 minoraverages/Hamilton,1949,Northern League,wojcik,B00182,Wojcik,John,0,Duluth,,,,,
-minoraverages/Hamilton,1949,Northern League,wojcik,P10493,Wojcik,John,0,Duluth,,,,2,
+minoraverages/Hamilton,1949,Northern League,wojcik,P10493,Wojcik,John,0,Duluth,,,,2,p
 minoraverages/1950TSN,1949,Northern League,wood,B01376,Wood,Robert M.,0,St. Cloud,,,46,,
 minoraverages/1950TSN,1949,Northern League,wood,F21752,Wood,,0,St. Cloud,,,,,p32
-minoraverages/1950TSN,1949,Northern League,wood,P10486,Wood,,0,St. Cloud,,,,32,
+minoraverages/1950TSN,1949,Northern League,wood,P10486,Wood,,0,St. Cloud,,,,32,p
 minoraverages/Hamilton,1949,Northern League,wrege,B00667,Wrege,Marvin,0,Superior,,,,,
-minoraverages/Hamilton,1949,Northern League,wrege,P10606,Wrege,Marvin,0,Superior,,,,2,
+minoraverages/Hamilton,1949,Northern League,wrege,P10606,Wrege,Marvin,0,Superior,,,,2,p
 minoraverages/1950TSN,1949,Northern League,yorke,B01444,Yorke,George,0,Eau Claire,,,27,,
 minoraverages/1950TSN,1949,Northern League,yorke,F21651,Yorke,,0,Eau Claire,,,,,p27
-minoraverages/1950TSN,1949,Northern League,yorke,P10019,Yorke,,0,Eau Claire,,,,27,
+minoraverages/1950TSN,1949,Northern League,yorke,P10019,Yorke,,0,Eau Claire,,,,27,p
 minoraverages/1950TSN,1949,Northern League,zajac,B00403,Zajac,John,0,Eau Claire,,,24,,
 minoraverages/1950TSN,1949,Northern League,zajac,F20832,Zajac,,0,Eau Claire,,,,,of23
 minoraverages/1950TSN,1949,Northern League,zollo,B01514,Zollo,William,0,Fargo-Moorhead,,,18,,
 minoraverages/1950TSN,1949,Northern League,zollo,F21427,Zollo,,0,Fargo-Moorhead,,,,,p18
-minoraverages/1950TSN,1949,Northern League,zollo,P10373,Zollo,,0,Fargo-Moorhead,,,,18,
+minoraverages/1950TSN,1949,Northern League,zollo,P10373,Zollo,,0,Fargo-Moorhead,,,,18,p
 minoraverages/1950TSN,1949,Northern League,zubak,B00319,Zubak,Paul,0,Fargo-Moorhead,,,95,,
 minoraverages/1950TSN,1949,Northern League,zubak,F20956,Zubak,,0,Fargo-Moorhead,,,,,of91
 minoraverages/1950TSN,1949,Northern League,zuchnick,B01765,Zuchnick,John,0,Superior,,,24,,
 minoraverages/1950TSN,1949,Northern League,zuchnick,F21434,Zuchnick,,0,Superior,,,,,p24
-minoraverages/1950TSN,1949,Northern League,zuchnick,P10290,Zuchnick,,0,Superior,,,,24,
+minoraverages/1950TSN,1949,Northern League,zuchnick,P10290,Zuchnick,,0,Superior,,,,24,p

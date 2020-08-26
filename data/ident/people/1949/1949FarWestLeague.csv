@@ -1,5 +1,6 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,S_FIRST,S_LAST,B_G,P_G,pos
 minoraverages/1950TSN,1949,Far West League,abreu,M90083,Abreu,Joseph,,Santa Rosa,,,,,
+minoraverages/emilbb,1949,Far West League,,M94066,Abreu,Joe,,Santa Rosa,,,,,
 minoraverages/1950TSN,1949,Far West League,adams,B00488,Adams,Raymond,1,Santa Rosa,,,84,,
 minoraverages/1950TSN,1949,Far West League,adams,B00488,Adams,Raymond,2,Redding,,,3,,
 minoraverages/1950TSN,1949,Far West League,adams,B00488,Adams,Raymond,T,,,,87,,
@@ -14,7 +15,7 @@ minoraverages/1950TSN,1949,Far West League,anthony,F20369,Anthony,,0,Marysville,
 minoraverages/1950TSN,1949,Far West League,anthony,F20526,Anthony,,0,Marysville,,,,,3b65
 minoraverages/1950TSN,1949,Far West League,appleby,B01477,Appleby,Donald,0,Willows,,,23,,
 minoraverages/1950TSN,1949,Far West League,appleby,F21752,Appleby,,0,Willows,,,,,p23
-minoraverages/1950TSN,1949,Far West League,appleby,P10373,Appleby,,0,Willows,,,,23,
+minoraverages/1950TSN,1949,Far West League,appleby,P10373,Appleby,,0,Willows,,,,23,p
 minoraverages/1950TSN,1949,Far West League,ardito,B01250,Ardito,Jas. Del,1,Santa Rosa,,,10,,
 minoraverages/1950TSN,1949,Far West League,ardito,B01250,Ardito,Jas. Del,2,Pittsburg,,,4,,
 minoraverages/1950TSN,1949,Far West League,ardito,B01250,Ardito,Jas. Del,T,,,,14,,
@@ -50,9 +51,9 @@ minoraverages/1950TSN,1949,Far West League,berry,B01733,Berry,Mike,T,,,,22,,
 minoraverages/1950TSN,1949,Far West League,berry,F21811,Berry,,1,Vallejo,,,,,p
 minoraverages/1950TSN,1949,Far West League,berry,F21811,Berry,,2,Santa Rosa,,,,,p
 minoraverages/1950TSN,1949,Far West League,berry,F21811,Berry,,T,,,,,,p19
-minoraverages/1950TSN,1949,Far West League,berry,P10290,Berry,,1,Vallejo,,,,17,
-minoraverages/1950TSN,1949,Far West League,berry,P10290,Berry,,2,Santa Rosa,,,,2,
-minoraverages/1950TSN,1949,Far West League,berry,P10290,Berry,,T,,,,,19,
+minoraverages/1950TSN,1949,Far West League,berry,P10290,Berry,,1,Vallejo,,,,17,p
+minoraverages/1950TSN,1949,Far West League,berry,P10290,Berry,,2,Santa Rosa,,,,2,p
+minoraverages/1950TSN,1949,Far West League,berry,P10290,Berry,,T,,,,,19,p
 minoraverages/1950TSN,1949,Far West League,biggs,B01674,Biggs,Edward,1,Vallejo,,,18,,
 minoraverages/1950TSN,1949,Far West League,biggs,B01674,Biggs,Edward,2,Santa Rosa,,,1,,
 minoraverages/1950TSN,1949,Far West League,biggs,B01674,Biggs,Edward,T,,,,19,,
@@ -65,15 +66,16 @@ minoraverages/1950TSN,1949,Far West League,blackman,B01658,Blackman,Don,0,Willow
 minoraverages/1950TSN,1949,Far West League,blengino,B01453,Blengino,Robert,0,Santa Rosa,,,41,,
 minoraverages/1950TSN,1949,Far West League,blengino,F21059,Blengino,,0,Santa Rosa,,,,,of12
 minoraverages/1950TSN,1949,Far West League,blengino,F21475,Blengino,,0,Santa Rosa,,,,,p18
-minoraverages/1950TSN,1949,Far West League,blengino,P10516,Blengino,,0,Santa Rosa,,,,18,
+minoraverages/1950TSN,1949,Far West League,blengino,P10516,Blengino,,0,Santa Rosa,,,,18,p
 minoraverages/1950TSN,1949,Far West League,bonomi,B00397,Bonomi,Bert,0,Willows,,,84,,
 minoraverages/1950TSN,1949,Far West League,bonomi,F20023,Bonomi,,0,Willows,,,,,1b77
 minoraverages/1950TSN,1949,Far West League,bonomi,M90039,Bonomi,Bert,,Willows,,,,,
+minoraverages/emilbb,1949,Far West League,,M94015,Bonomi,Bert,,Willows,,,,,
 minoraverages/1950TSN,1949,Far West League,boone,B00531,Boone,Glenn,0,Marysville,,,64,,
 minoraverages/1950TSN,1949,Far West League,boone,F20594,Boone,,0,Marysville,,,,,ss64
 minoraverages/1950TSN,1949,Far West League,bronzan,B01402,Bronzan,Louis,0,Pittsburg,,,20,,
 minoraverages/1950TSN,1949,Far West League,bronzan,F21695,Bronzan,,0,Pittsburg,,,,,p17
-minoraverages/1950TSN,1949,Far West League,bronzan,P10137,Bronzan,,0,Pittsburg,,,,17,
+minoraverages/1950TSN,1949,Far West League,bronzan,P10137,Bronzan,,0,Pittsburg,,,,17,p
 minoraverages/1950TSN,1949,Far West League,brown,B01384,Brown,Jack,0,Redding,,,93,,
 minoraverages/1950TSN,1949,Far West League,brown,F20334,Brown,J.,0,Redding,,,,,2b29
 minoraverages/1950TSN,1949,Far West League,brown,F20699,Brown,J.,0,Redding,,,,,ss63
@@ -89,10 +91,11 @@ minoraverages/1950TSN,1949,Far West League,carr-pit,B01572,Carr,William,0,Pittsb
 minoraverages/1950TSN,1949,Far West League,carr-mar,F21324,Carr,C. R.,0,Marysville,,,,,c51
 minoraverages/1950TSN,1949,Far West League,carr-pit,F21718,Carr,W.,0,Pittsburg,,,,,p34
 minoraverages/1950TSN,1949,Far West League,carr-mar,M90060,Carr,Rex,,Marysville,,,,,
-minoraverages/1950TSN,1949,Far West League,carr-pit,P10019,Carr,W.,0,Pittsburg,,,,34,
+minoraverages/1950TSN,1949,Far West League,carr-pit,P10019,Carr,W.,0,Pittsburg,,,,34,p
+minoraverages/emilbb,1949,Far West League,,M94044,Carr,Rex,,Marysville,,,,,
 minoraverages/1950TSN,1949,Far West League,carter,B01181,Carter,Glen,0,Vallejo,,,26,,
 minoraverages/1950TSN,1949,Far West League,carter,F21822,Carter,,0,Vallejo,,,,,p23
-minoraverages/1950TSN,1949,Far West League,carter,P10176,Carter,,0,Vallejo,,,,23,
+minoraverages/1950TSN,1949,Far West League,carter,P10176,Carter,,0,Vallejo,,,,23,p
 minoraverages/1950TSN,1949,Far West League,caselli,B00232,Caselli,Robert,0,Klamath Falls,,,100,,
 minoraverages/1950TSN,1949,Far West League,caselli,F20981,Caselli,,0,Klamath Falls,,,,,of98
 minoraverages/1950TSN,1949,Far West League,casey,B00985,Casey,Carl,0,Marysville,,,90,,
@@ -109,10 +112,10 @@ minoraverages/1950TSN,1949,Far West League,cook,F20935,Cook,,2,Santa Rosa,,,,,of
 minoraverages/1950TSN,1949,Far West League,cook,F20935,Cook,,T,,,,,,of89
 minoraverages/1950TSN,1949,Far West League,cox,B00293,Cox,William,0,Willows,,,39,,
 minoraverages/1950TSN,1949,Far West League,cox,F21672,Cox,,0,Willows,,,,,p33
-minoraverages/1950TSN,1949,Far West League,cox,P10192,Cox,,0,Willows,,,,33,
+minoraverages/1950TSN,1949,Far West League,cox,P10192,Cox,,0,Willows,,,,33,p
 minoraverages/1950TSN,1949,Far West League,davis,B00149,Davis,Donald,0,Willows,,,113,,
 minoraverages/1950TSN,1949,Far West League,davis,F20265,Davis,,0,Willows,,,,,2b112
-minoraverages/1950TSN,1949,Far West League,debarnabo,P10081,De Barnabe,,0,Santa Rosa,,,,12,
+minoraverages/1950TSN,1949,Far West League,debarnabo,P10081,De Barnabe,,0,Santa Rosa,,,,12,p
 minoraverages/1950TSN,1949,Far West League,demarco,B00158,De Marco,Ralph,0,Santa Rosa,,,21,,
 minoraverages/1950TSN,1949,Far West League,debarnabo,B00783,DeBarnabo,Reno,0,Santa Rosa,,,34,,
 minoraverages/1950TSN,1949,Far West League,debarnabo,F21416,DeBarnabo,,0,Santa Rosa,,,,,c14
@@ -126,9 +129,10 @@ minoraverages/1950TSN,1949,Far West League,dimaggio-val,B00207,DiMaggio,Vincent 
 minoraverages/1950TSN,1949,Far West League,dimaggio-pit,F20832,DiMaggio,V. P.,0,Pittsburg,,,,,of95
 minoraverages/1950TSN,1949,Far West League,dimaggio-val,F21528,DiMaggio,V. S.,0,Vallejo,,,,,p10
 minoraverages/1950TSN,1949,Far West League,dimaggio-pit,M90018,DiMaggio,Vincent,,Pittsburg,,,,,
+minoraverages/emilbb,1949,Far West League,,M93998,DiMaggion,Vince,,Pittsburg,,,,,
 minoraverages/1950TSN,1949,Far West League,dudrey,B01682,Dudrey,Kenneth,0,Willows,,,31,,
 minoraverages/1950TSN,1949,Far West League,dudrey,F21760,Dudrey,,0,Willows,,,,,p30
-minoraverages/1950TSN,1949,Far West League,dudrey,P10202,Dudrey,,0,Willows,,,,30,
+minoraverages/1950TSN,1949,Far West League,dudrey,P10202,Dudrey,,0,Willows,,,,30,p
 minoraverages/1950TSN,1949,Far West League,dumont,B01078,Dumont,Henry,0,Medford,,,34,,
 minoraverages/1950TSN,1949,Far West League,dumont,F20190,Dumont,,0,Medford,,,,,1b28
 minoraverages/1950TSN,1949,Far West League,dykes,B01567,Dykes,Ralph,1,Klamath Falls,,,6,,
@@ -137,9 +141,9 @@ minoraverages/1950TSN,1949,Far West League,dykes,B01567,Dykes,Ralph,T,,,,27,,
 minoraverages/1950TSN,1949,Far West League,dykes,F21973,Dykes,,1,Klamath Falls,,,,,p
 minoraverages/1950TSN,1949,Far West League,dykes,F21973,Dykes,,2,Medford,,,,,p
 minoraverages/1950TSN,1949,Far West League,dykes,F21973,Dykes,,T,,,,,,p27
-minoraverages/1950TSN,1949,Far West League,dykes,P10320,Dykes,,1,Klamath Falls,,,,6,
-minoraverages/1950TSN,1949,Far West League,dykes,P10320,Dykes,,2,Medford,,,,21,
-minoraverages/1950TSN,1949,Far West League,dykes,P10320,Dykes,,T,,,,,27,
+minoraverages/1950TSN,1949,Far West League,dykes,P10320,Dykes,,1,Klamath Falls,,,,6,p
+minoraverages/1950TSN,1949,Far West League,dykes,P10320,Dykes,,2,Medford,,,,21,p
+minoraverages/1950TSN,1949,Far West League,dykes,P10320,Dykes,,T,,,,,27,p
 minoraverages/1950TSN,1949,Far West League,elton,B00163,Elton,Elwin,0,Klamath Falls,,,26,,
 minoraverages/1950TSN,1949,Far West League,elton,F21117,Elton,,0,Klamath Falls,,,,,of21
 minoraverages/1950TSN,1949,Far West League,emerson,B00442,Emerson,Paul,0,Marysville,,,37,,
@@ -150,26 +154,27 @@ minoraverages/1950TSN,1949,Far West League,enos,F20829,Enos,,0,Pittsburg,,,,,of9
 minoraverages/1950TSN,1949,Far West League,faller,B00566,Faller,William,0,Klamath Falls,,,74,,
 minoraverages/1950TSN,1949,Far West League,faller,F20240,Faller,,0,Klamath Falls,,,,,2b67
 minoraverages/1950TSN,1949,Far West League,fass,M90047,Fass,Fred,,Willows,19490803,,,,
+minoraverages/emilbb,1949,Far West League,,M94028,Fass,Fred,,Willows,,,,,
 minoraverages/1950TSN,1949,Far West League,fernandez,B00822,Fernandez,Michael,0,Klamath Falls,,,37,,
 minoraverages/1950TSN,1949,Far West League,fernandez,F20046,Fernandez,,0,Klamath Falls,,,,,1b15
 minoraverages/1950TSN,1949,Far West League,fernandez,F21021,Fernandez,,0,Klamath Falls,,,,,of21
 minoraverages/1950TSN,1949,Far West League,fierro,B01711,Fierro,Manuel,1,Vallejo,,,9,,
 minoraverages/1950TSN,1949,Far West League,fierro,B01711,Fierro,Manuel,2,Santa Rosa,,,1,,
 minoraverages/1950TSN,1949,Far West League,fierro,B01711,Fierro,Manuel,T,,,,10,,
-minoraverages/1950TSN,1949,Far West League,fierro,P10486,Fierro,,1,Vallejo,,,,8,
-minoraverages/1950TSN,1949,Far West League,fierro,P10486,Fierro,,2,Santa Rosa,,,,1,
-minoraverages/1950TSN,1949,Far West League,fierro,P10486,Fierro,,T,,,,,9,
+minoraverages/1950TSN,1949,Far West League,fierro,P10486,Fierro,,1,Vallejo,,,,8,p
+minoraverages/1950TSN,1949,Far West League,fierro,P10486,Fierro,,2,Santa Rosa,,,,1,p
+minoraverages/1950TSN,1949,Far West League,fierro,P10486,Fierro,,T,,,,,9,p
 minoraverages/1950TSN,1949,Far West League,filippo,B00416,Filippo,Anthony,0,Pittsburg,,,117,,
 minoraverages/1950TSN,1949,Far West League,filippo,F20962,Filippo,,0,Pittsburg,,,,,of116
 minoraverages/1950TSN,1949,Far West League,fisher,B00999,Fisher,Percy,0,Redding,,,26,,
 minoraverages/1950TSN,1949,Far West League,fisher,F21912,Fisher,,0,Redding,,,,,p26
-minoraverages/1950TSN,1949,Far West League,fisher,P10266,Fisher,,0,Redding,,,,26,
+minoraverages/1950TSN,1949,Far West League,fisher,P10266,Fisher,,0,Redding,,,,26,p
 minoraverages/1950TSN,1949,Far West League,ford,B01595,Ford,Lonnie Joe,0,Willows,,,17,,
 minoraverages/1950TSN,1949,Far West League,ford,F21590,Ford,,0,Willows,,,,,p16
-minoraverages/1950TSN,1949,Far West League,ford,P10385,Ford,,0,Willows,,,,16,
+minoraverages/1950TSN,1949,Far West League,ford,P10385,Ford,,0,Willows,,,,16,p
 minoraverages/1950TSN,1949,Far West League,freeze,B01415,Freeze,Lee James,0,Willows,,,34,,
 minoraverages/1950TSN,1949,Far West League,freeze,F21427,Freeze,L.,0,Willows,,,,,p33
-minoraverages/1950TSN,1949,Far West League,freeze,P10348,Freeze,L.,0,Willows,,,,33,
+minoraverages/1950TSN,1949,Far West League,freeze,P10348,Freeze,L.,0,Willows,,,,33,p
 minoraverages/1950TSN,1949,Far West League,friedrich,B00726,Friedrich,Henry,0,Willows,,,38,,
 minoraverages/1950TSN,1949,Far West League,friedrich,F21092,Friedrich,,0,Willows,,,,,of36
 minoraverages/1950TSN,1949,Far West League,fucile,B01032,Fucile,Salvatore Jr.,0,Santa Rosa,,,68,,
@@ -178,26 +183,26 @@ minoraverages/1950TSN,1949,Far West League,gale,B00904,Gale,Jerome,0,Santa Rosa,
 minoraverages/1950TSN,1949,Far West League,gale,F20131,Gale,,0,Santa Rosa,,,,,1b39
 minoraverages/1950TSN,1949,Far West League,gilson,B00241,Gilson,Stanley,0,Klamath Falls,,,27,,
 minoraverages/1950TSN,1949,Far West League,gilson,F21680,Gilson,,0,Klamath Falls,,,,,p22
-minoraverages/1950TSN,1949,Far West League,gilson,P10228,Gilson,,0,Klamath Falls,,,,22,
+minoraverages/1950TSN,1949,Far West League,gilson,P10228,Gilson,,0,Klamath Falls,,,,22,p
 minoraverages/1950TSN,1949,Far West League,godshall,B00705,Godshall,Charles,0,Redding,,,121,,
 minoraverages/1950TSN,1949,Far West League,godshall,F20144,Godshall,,0,Redding,,,,,1b19
 minoraverages/1950TSN,1949,Far West League,godshall,F20997,Godshall,,0,Redding,,,,,of99
 minoraverages/1950TSN,1949,Far West League,gonzales,B01625,Gonzales,August,0,Pittsburg,,,24,,
 minoraverages/1950TSN,1949,Far West League,gonzales,F21739,Gonzales,,0,Pittsburg,,,,,p24
-minoraverages/1950TSN,1949,Far West League,gonzales,P10503,Gonzales,,0,Pittsburg,,,,24,
+minoraverages/1950TSN,1949,Far West League,gonzales,P10503,Gonzales,,0,Pittsburg,,,,24,p
 minoraverages/1950TSN,1949,Far West League,gorbous,B00130,Gorbous,Glen,0,Medford,,,119,,
 minoraverages/1950TSN,1949,Far West League,gorbous,F20539,Gorbous,,0,Medford,,,,,3b119
 minoraverages/1950TSN,1949,Far West League,graves,B01337,Graves,Walter,0,Willows,,,84,,
 minoraverages/1950TSN,1949,Far West League,graves,F21319,Graves,,0,Willows,,,,,c83
 minoraverages/1950TSN,1949,Far West League,gray,B01754,Gray,George,0,Santa Rosa,,,19,,
 minoraverages/1950TSN,1949,Far West League,gray,F21985,Gray,,0,Santa Rosa,,,,,p19
-minoraverages/1950TSN,1949,Far West League,gray,P10253,Gray,,0,Santa Rosa,,,,19,
+minoraverages/1950TSN,1949,Far West League,gray,P10253,Gray,,0,Santa Rosa,,,,19,p
 minoraverages/1950TSN,1949,Far West League,green,B00502,Green,Russell,0,Willows,,,27,,
 minoraverages/1950TSN,1949,Far West League,green,F21840,Green,,0,Willows,,,,,p26
-minoraverages/1950TSN,1949,Far West League,green,P10407,Green,,0,Willows,,,,26,
+minoraverages/1950TSN,1949,Far West League,green,P10407,Green,,0,Willows,,,,26,p
 minoraverages/1950TSN,1949,Far West League,grosvenor,B01706,Grosvenor,Harry D.,0,Medford,,,17,,
 minoraverages/1950TSN,1949,Far West League,grosvenor,F21638,Grosvenor,,0,Medford,,,,,p14
-minoraverages/1950TSN,1949,Far West League,grosvenor,P10493,Grosvenor,,0,Medford,,,,14,
+minoraverages/1950TSN,1949,Far West League,grosvenor,P10493,Grosvenor,,0,Medford,,,,14,p
 minoraverages/1950TSN,1949,Far West League,guelfo,B01779,Guelfo,Lawrence,1,Klamath Falls,,,3,,
 minoraverages/1950TSN,1949,Far West League,guelfo,B01779,Guelfo,Lawrence,2,Medford,,,15,,
 minoraverages/1950TSN,1949,Far West League,guelfo,B01779,Guelfo,Lawrence,3,Redding,,,6,,
@@ -206,23 +211,23 @@ minoraverages/1950TSN,1949,Far West League,guelfo,F21469,Guelfo,,1,Klamath Falls
 minoraverages/1950TSN,1949,Far West League,guelfo,F21469,Guelfo,,2,Medford,,,,,p
 minoraverages/1950TSN,1949,Far West League,guelfo,F21469,Guelfo,,3,Redding,,,,,p
 minoraverages/1950TSN,1949,Far West League,guelfo,F21469,Guelfo,,T,,,,,,p24
-minoraverages/1950TSN,1949,Far West League,guelfo,P10575,Guelfo,,1,Klamath Falls,,,,3,
-minoraverages/1950TSN,1949,Far West League,guelfo,P10575,Guelfo,,2,Medford,,,,15,
-minoraverages/1950TSN,1949,Far West League,guelfo,P10575,Guelfo,,3,Redding,,,,6,
-minoraverages/1950TSN,1949,Far West League,guelfo,P10575,Guelfo,,T,,,,,24,
+minoraverages/1950TSN,1949,Far West League,guelfo,P10575,Guelfo,,1,Klamath Falls,,,,3,p
+minoraverages/1950TSN,1949,Far West League,guelfo,P10575,Guelfo,,2,Medford,,,,15,p
+minoraverages/1950TSN,1949,Far West League,guelfo,P10575,Guelfo,,3,Redding,,,,6,p
+minoraverages/1950TSN,1949,Far West League,guelfo,P10575,Guelfo,,T,,,,,24,p
 minoraverages/1950TSN,1949,Far West League,haddock,B00623,Haddock,Robert,0,Pittsburg,,,121,,
 minoraverages/1950TSN,1949,Far West League,haddock,F20496,Haddock,,0,Pittsburg,,,,,3b110
 minoraverages/1950TSN,1949,Far West League,haley,B00718,Haley,John Joseph,0,Santa Rosa,,,86,,
 minoraverages/1950TSN,1949,Far West League,haley,F21013,Haley,,0,Santa Rosa,,,,,of85
 minoraverages/1950TSN,1949,Far West League,hamilt,B01722,Hamilt,Herbert,0,Marysville,,,34,,
 minoraverages/1950TSN,1949,Far West League,hamilt,F21726,Hamilt,,0,Marysville,,,,,p34
-minoraverages/1950TSN,1949,Far West League,hamilt,P10312,Hamilt,,0,Marysville,,,,34,
+minoraverages/1950TSN,1949,Far West League,hamilt,P10312,Hamilt,,0,Marysville,,,,34,p
 minoraverages/1950TSN,1949,Far West League,harding,B01538,Harding,Alfred,1,Vallejo,,,9,,
 minoraverages/1950TSN,1949,Far West League,harding,B01538,Harding,Alfred,2,Santa Rosa,,,1,,
 minoraverages/1950TSN,1949,Far West League,harding,B01538,Harding,Alfred,T,,,,10,,
 minoraverages/1950TSN,1949,Far West League,heck,B01162,Heck,Clarence,0,Pittsburg,,,37,,
 minoraverages/1950TSN,1949,Far West League,heck,F21442,Heck,,0,Pittsburg,,,,,p37
-minoraverages/1950TSN,1949,Far West League,heck,P10357,Heck,,0,Pittsburg,,,,37,
+minoraverages/1950TSN,1949,Far West League,heck,P10357,Heck,,0,Pittsburg,,,,37,p
 minoraverages/1950TSN,1949,Far West League,heist,B00264,Heist,Alfred,0,Redding,,,122,,
 minoraverages/1950TSN,1949,Far West League,heist,F20463,Heist,,0,Redding,,,,,3b37
 minoraverages/1950TSN,1949,Far West League,heist,F20792,Heist,,0,Redding,,,,,of86
@@ -232,12 +237,12 @@ minoraverages/1950TSN,1949,Far West League,hernandez.f-pit,B01275,Hernandez,Fred
 minoraverages/1950TSN,1949,Far West League,hernandez-kf,F20388,Hernandez,G.,0,Klamath Falls,,,,,2b16
 minoraverages/1950TSN,1949,Far West League,hernandez-kf,F20878,Hernandez,G.,0,Klamath Falls,,,,,of103
 minoraverages/1950TSN,1949,Far West League,hernandez.p-pit,F21667,Hernandez,P.,0,Pittsburg,,,,,p30
-minoraverages/1950TSN,1949,Far West League,hernandez.p-pit,P10070,Hernandez,P.,0,Pittsburg,,,,30,
+minoraverages/1950TSN,1949,Far West League,hernandez.p-pit,P10070,Hernandez,P.,0,Pittsburg,,,,30,p
 minoraverages/1950TSN,1949,Far West League,hesse,B00092,Hesse,Theodore,0,Klamath Falls,,,124,,
 minoraverages/1950TSN,1949,Far West League,hesse,F20810,Hesse,,0,Klamath Falls,,,,,of118
 minoraverages/1950TSN,1949,Far West League,howard,B01601,Howard,James,0,Redding,,,34,,
 minoraverages/1950TSN,1949,Far West League,howard,F21904,Howard,,0,Redding,,,,,p34
-minoraverages/1950TSN,1949,Far West League,howard,P10304,Howard,,0,Redding,,,,34,
+minoraverages/1950TSN,1949,Far West League,howard,P10304,Howard,,0,Redding,,,,34,p
 minoraverages/1950TSN,1949,Far West League,hughes,B00182,Hughes,James,1,Vallejo,,,84,,
 minoraverages/1950TSN,1949,Far West League,hughes,B00182,Hughes,James,2,Santa Rosa,,,3,,
 minoraverages/1950TSN,1949,Far West League,hughes,B00182,Hughes,James,T,,,,87,,
@@ -247,7 +252,7 @@ minoraverages/1950TSN,1949,Far West League,hughes,F20303,Hughes,,T,,,,,,2b14
 minoraverages/1950TSN,1949,Far West League,hughes,F20893,Hughes,,0,Vallejo,,,,,of63
 minoraverages/1950TSN,1949,Far West League,hurn,B01376,Hurn,Harold,0,Redding,,,13,,
 minoraverages/1950TSN,1949,Far West League,hurn,F21502,Hurn,,0,Redding,,,,,p12
-minoraverages/1950TSN,1949,Far West League,hurn,P10361,Hurn,,0,Redding,,,,12,
+minoraverages/1950TSN,1949,Far West League,hurn,P10361,Hurn,,0,Redding,,,,12,p
 minoraverages/1950TSN,1949,Far West League,hurst,B00609,Hurst,William,0,Pittsburg,,,92,,
 minoraverages/1950TSN,1949,Far West League,hurst,F20391,Hurst,,0,Pittsburg,,,,,2b45
 minoraverages/1950TSN,1949,Far West League,hurst,F20552,Hurst,,0,Pittsburg,,,,,3b13
@@ -263,23 +268,24 @@ minoraverages/1950TSN,1949,Far West League,johnson,B00695,Johnson,Darrell,0,Redd
 minoraverages/1950TSN,1949,Far West League,johnson,F21264,Johnson,,0,Redding,,,,,c76
 minoraverages/1950TSN,1949,Far West League,jones,B00912,Jones,Lloyd,0,Medford,,,30,,
 minoraverages/1950TSN,1949,Far West League,jones,F21566,Jones,,0,Medford,,,,,p24
-minoraverages/1950TSN,1949,Far West League,jones,P10024,Jones,,0,Medford,,,,24,
+minoraverages/1950TSN,1949,Far West League,jones,P10024,Jones,,0,Medford,,,,24,p
 minoraverages/1950TSN,1949,Far West League,jordan,B00854,Jordan,Niles,0,Klamath Falls,,,42,,
 minoraverages/1950TSN,1949,Far West League,jordan,F21646,Jordan,,0,Klamath Falls,,,,,p31
-minoraverages/1950TSN,1949,Far West League,jordan,P10159,Jordan,,0,Klamath Falls,,,,31,
+minoraverages/1950TSN,1949,Far West League,jordan,P10159,Jordan,,0,Klamath Falls,,,,31,p
 minoraverages/1950TSN,1949,Far West League,kast,B00255,Kast,Lee,0,Marysville,,,74,,
 minoraverages/1950TSN,1949,Far West League,kast,F20970,Kast,,0,Marysville,,,,,of46
 minoraverages/1950TSN,1949,Far West League,kast,F21961,Kast,,0,Marysville,,,,,p16
-minoraverages/1950TSN,1949,Far West League,kast,P10231,Kast,,0,Marysville,,,,16,
+minoraverages/1950TSN,1949,Far West League,kast,P10231,Kast,,0,Marysville,,,,16,p
 minoraverages/1950TSN,1949,Far West League,kinnard,B00590,Kinnard,Robert,0,Willows,,,126,,
 minoraverages/1950TSN,1949,Far West League,kinnard,F20943,Kinnard,,0,Willows,,,,,of125
 minoraverages/1950TSN,1949,Far West League,kittle,B01313,Kittle,Hubert,0,Klamath Falls,,,17,,
 minoraverages/1950TSN,1949,Far West League,kittle,F21589,Kittle,,0,Klamath Falls,,,,,p17
 minoraverages/1950TSN,1949,Far West League,kittle,M90026,Kittle,Hubert,,Klamath Falls,,,,,
-minoraverages/1950TSN,1949,Far West League,kittle,P10062,Kittle,,0,Klamath Falls,,,,17,
+minoraverages/1950TSN,1949,Far West League,kittle,P10062,Kittle,,0,Klamath Falls,,,,17,p
+minoraverages/emilbb,1949,Far West League,,M94002,Kittle,Hub,,Klamath Falls,,,,,
 minoraverages/1950TSN,1949,Far West League,kornahrens,B01630,Kornahrens,Donald,0,Santa Rosa,,,18,,
 minoraverages/1950TSN,1949,Far West League,kornahrens,F21806,Kornahrens,,0,Santa Rosa,,,,,p18
-minoraverages/1950TSN,1949,Far West League,kornahrens,P10542,Kornahrens,,0,Santa Rosa,,,,18,
+minoraverages/1950TSN,1949,Far West League,kornahrens,P10542,Kornahrens,,0,Santa Rosa,,,,18,p
 minoraverages/1950TSN,1949,Far West League,kruk,B00840,Kruk,Alvin,1,Santa Rosa,,,27,,
 minoraverages/1950TSN,1949,Far West League,kruk,B00840,Kruk,Alvin,2,Redding,,,30,,
 minoraverages/1950TSN,1949,Far West League,kruk,B00840,Kruk,Alvin,T,,,,57,,
@@ -290,9 +296,10 @@ minoraverages/1950TSN,1949,Far West League,kruk,F21577,Kruk,,1,Santa Rosa,,,,,p
 minoraverages/1950TSN,1949,Far West League,kruk,F21577,Kruk,,2,Redding,,,,,p
 minoraverages/1950TSN,1949,Far West League,kruk,F21577,Kruk,,T,,,,,,p23
 minoraverages/1950TSN,1949,Far West League,kruk,M90094,Kruk,Alvin,,Santa Rosa,19490708,,,,
-minoraverages/1950TSN,1949,Far West League,kruk,P10184,Kruk,,1,Santa Rosa,,,,15,
-minoraverages/1950TSN,1949,Far West League,kruk,P10184,Kruk,,2,Redding,,,,8,
-minoraverages/1950TSN,1949,Far West League,kruk,P10184,Kruk,,T,,,,,23,
+minoraverages/1950TSN,1949,Far West League,kruk,P10184,Kruk,,1,Santa Rosa,,,,15,p
+minoraverages/1950TSN,1949,Far West League,kruk,P10184,Kruk,,2,Redding,,,,8,p
+minoraverages/1950TSN,1949,Far West League,kruk,P10184,Kruk,,T,,,,,23,p
+minoraverages/emilbb,1949,Far West League,,M94077,Kruk,Alvin,,Santa Rosa,,,,,
 minoraverages/1950TSN,1949,Far West League,lagorio,B01064,Lagorio,George,0,Vallejo,,,49,,
 minoraverages/1950TSN,1949,Far West League,lagorio,F21229,Lagorio,,0,Vallejo,,,,,c10
 minoraverages/1950TSN,1949,Far West League,lagorio,F21045,Largori,,0,Vallejo,,,,,of36
@@ -302,7 +309,7 @@ minoraverages/1950TSN,1949,Far West League,lindberg,B00308,Lindberg,Milton,0,Med
 minoraverages/1950TSN,1949,Far West League,lindberg,F21149,Lindberg,,0,Medford,,,,,of102
 minoraverages/1950TSN,1949,Far West League,lineberger,B00747,Lineberger,Ralph,0,Redding,,,29,,
 minoraverages/1950TSN,1949,Far West League,lineberger,F21783,Lineberger,,0,Redding,,,,,p23
-minoraverages/1950TSN,1949,Far West League,lineberger,P10168,Lineberger,,0,Redding,,,,23,
+minoraverages/1950TSN,1949,Far West League,lineberger,P10168,Lineberger,,0,Redding,,,,23,p
 minoraverages/1950TSN,1949,Far West League,lloyd,B01216,Lloyd,Milton,0,Santa Rosa,,,14,,
 minoraverages/1950TSN,1949,Far West League,logan,B01242,Logan,Willard,0,Pittsburg,,,35,,
 minoraverages/1950TSN,1949,Far West League,logan,F20713,Logan,,0,Pittsburg,,,,,ss26
@@ -310,7 +317,7 @@ minoraverages/1950TSN,1949,Far West League,lohbeck,B01551,Lohbeck,Aurelius,0,Med
 minoraverages/1950TSN,1949,Far West League,lohbeck,F21174,Lohbeck,,0,Medford,,,,,of16
 minoraverages/1950TSN,1949,Far West League,lopeman,B01489,Lopeman,John,0,Klamath Falls,,,34,,
 minoraverages/1950TSN,1949,Far West League,lopeman,F21833,Lopeman,,0,Klamath Falls,,,,,p34
-minoraverages/1950TSN,1949,Far West League,lopeman,P10277,Lopeman,,0,Klamath Falls,,,,34,
+minoraverages/1950TSN,1949,Far West League,lopeman,P10277,Lopeman,,0,Klamath Falls,,,,34,p
 minoraverages/1950TSN,1949,Far West League,lucich,B01359,Lucich,Norman,0,Medford,,,15,,
 minoraverages/1950TSN,1949,Far West League,lucich,F21068,Lucich,,0,Medford,,,,,of15
 minoraverages/1950TSN,1949,Far West League,lucido,B00469,Lucido,Thomas,0,Pittsburg,,,90,,
@@ -320,7 +327,7 @@ minoraverages/1950TSN,1949,Far West League,maddern,B00434,Maddern,Donald,0,Marys
 minoraverages/1950TSN,1949,Far West League,maddern,F21125,Maddern,,0,Marysville,,,,,of108
 minoraverages/1950TSN,1949,Far West League,madsen,B01300,Madsen,Peter,0,Medford,,,22,,
 minoraverages/1950TSN,1949,Far West League,madsen,F20759,Madsen,,0,Medford,,,,,ss18
-minoraverages/1950TSN,1949,Far West League,maguire,P10569,Maguire,,0,Vallejo,,,,9,
+minoraverages/1950TSN,1949,Far West League,maguire,P10569,Maguire,,0,Vallejo,,,,9,p
 minoraverages/1950TSN,1949,Far West League,mann,B00879,Mann,Charles,0,Redding,,,10,,
 minoraverages/1950TSN,1949,Far West League,mann,F20128,Mann,,0,Redding,,,,,1b10
 minoraverages/1950TSN,1949,Far West League,martin,B00589,Martin,Milton,0,Pittsburg,,,79,,
@@ -338,10 +345,10 @@ minoraverages/1950TSN,1949,Far West League,mcdonnell,F21196,McDonnell,,2,Santa R
 minoraverages/1950TSN,1949,Far West League,mcdonnell,F21196,McDonnell,,T,,,,,,of23
 minoraverages/1950TSN,1949,Far West League,mcmillan,B01156,McMillan,John,0,Medford,,,15,,
 minoraverages/1950TSN,1949,Far West League,mcmillan,F21879,McMillan,,0,Medford,,,,,p15
-minoraverages/1950TSN,1949,Far West League,mcmillan,P10100,McMillan,,0,Medford,,,,15,
+minoraverages/1950TSN,1949,Far West League,mcmillan,P10100,McMillan,,0,Medford,,,,15,p
 minoraverages/1950TSN,1949,Far West League,mcneil,B00961,McNeil,Clinton,0,Redding,,,38,,
 minoraverages/1950TSN,1949,Far West League,mcneil,F21865,McNeil,,0,Redding,,,,,p36
-minoraverages/1950TSN,1949,Far West League,mcneil,P10441,McNeill,,0,Redding,,,,36,
+minoraverages/1950TSN,1949,Far West League,mcneil,P10441,McNeill,,0,Redding,,,,36,p
 minoraverages/1950TSN,1949,Far West League,milberger,B01291,Milberger,Kenneth,0,Medford,,,111,,
 minoraverages/1950TSN,1949,Far West League,milberger,F20375,Milberger,,0,Medford,,,,,2b13
 minoraverages/1950TSN,1949,Far West League,milberger,F20648,Milberger,,0,Medford,,,,,ss99
@@ -358,10 +365,10 @@ minoraverages/1950TSN,1949,Far West League,muti,F20206,Muti,,0,Vallejo,,,,,2b38
 minoraverages/1950TSN,1949,Far West League,muti,F20518,Muti,,0,Vallejo,,,,,3b36
 minoraverages/1950TSN,1949,Far West League,neal,B01649,Neal,Everette,0,Redding,,,36,,
 minoraverages/1950TSN,1949,Far West League,neal,F21771,Neal,,0,Redding,,,,,p34
-minoraverages/1950TSN,1949,Far West League,neal,P10097,Neal,,0,Redding,,,,34,
+minoraverages/1950TSN,1949,Far West League,neal,P10097,Neal,,0,Redding,,,,34,p
 minoraverages/1950TSN,1949,Far West League,nicholas,B00286,Nicholas,Joseph,0,Klamath Falls,,,28,,
 minoraverages/1950TSN,1949,Far West League,nicholas,F21623,Nicholas,,0,Klamath Falls,,,,,p28
-minoraverages/1950TSN,1949,Far West League,nicholas,P10215,Nicholas,,0,Klamath Falls,,,,28,
+minoraverages/1950TSN,1949,Far West League,nicholas,P10215,Nicholas,,0,Klamath Falls,,,,28,p
 minoraverages/1950TSN,1949,Far West League,norby,B00059,Norby,Stanley,0,Medford,,,11,,
 minoraverages/1950TSN,1949,Far West League,nordell,B00381,Nordell,Maurice,0,Klamath Falls,,,122,,
 minoraverages/1950TSN,1949,Far West League,nordell,F20661,Nordell,,0,Klamath Falls,,,,,ss121
@@ -369,18 +376,18 @@ minoraverages/1950TSN,1949,Far West League,oshea,B00752,O'Shea,Con,0,Medford,,,1
 minoraverages/1950TSN,1949,Far West League,oshea,F21210,O'Shea,,0,Medford,,,,,of12
 minoraverages/1950TSN,1949,Far West League,olsson,B00865,Olsson,William,0,Medford,,,15,,
 minoraverages/1950TSN,1949,Far West League,olsson,F21898,Olsson,,0,Medford,,,,,p15
-minoraverages/1950TSN,1949,Far West League,olsson,P10399,Olsson,,0,Medford,,,,15,
+minoraverages/1950TSN,1949,Far West League,olsson,P10399,Olsson,,0,Medford,,,,15,p
 minoraverages/1950TSN,1949,Far West League,pager,B01663,Pager,Edwin,0,Santa Rosa,,,10,,
 minoraverages/1950TSN,1949,Far West League,pager,F21515,Pager,,0,Santa Rosa,,,,,p10
-minoraverages/1950TSN,1949,Far West League,pager,P10527,Pager,,0,Santa Rosa,,,,10,
+minoraverages/1950TSN,1949,Far West League,pager,P10527,Pager,,0,Santa Rosa,,,,10,p
 minoraverages/1950TSN,1949,Far West League,pain,B01392,Pain,George,0,Medford,,,33,,
 minoraverages/1950TSN,1949,Far West League,pain,F21747,Pain,,0,Medford,,,,,p31
-minoraverages/1950TSN,1949,Far West League,pain,P10244,Pain,,0,Medford,,,,31,
+minoraverages/1950TSN,1949,Far West League,pain,P10244,Pain,,0,Medford,,,,31,p
 minoraverages/1950TSN,1949,Far West League,painter,B00672,Painter,Eugene Neil,0,Willows,,,72,,
 minoraverages/1950TSN,1949,Far West League,painter,F20737,Painter,,0,Willows,,,,,ss72
 minoraverages/1950TSN,1949,Far West League,park,B00957,Park,Paul,0,Marysville,,,24,,
 minoraverages/1950TSN,1949,Far West League,park,F21609,Park,,0,Marysville,,,,,p24
-minoraverages/1950TSN,1949,Far West League,park,P10550,Park,,0,Marysville,,,,24,
+minoraverages/1950TSN,1949,Far West League,park,P10550,Park,,0,Marysville,,,,24,p
 minoraverages/1950TSN,1949,Far West League,pascale,B01135,Pascale,Vincent,0,Santa Rosa,,,50,,
 minoraverages/1950TSN,1949,Far West League,pascale,F20014,Pascale,,0,Santa Rosa,,,,,1b50
 minoraverages/1950TSN,1949,Far West League,perotto,B00370,Perotto,Remo,0,Santa Rosa,,,12,,
@@ -389,6 +396,7 @@ minoraverages/1950TSN,1949,Far West League,perry,F20287,Perry,,0,Redding,,,,,2b2
 minoraverages/1950TSN,1949,Far West League,perry,F20425,Perry,,0,Redding,,,,,3b69
 minoraverages/1950TSN,1949,Far West League,perry,F20657,Perry,,0,Redding,,,,,ss20
 minoraverages/1950TSN,1949,Far West League,perry,M90052,Perry,Ray,,Redding,,,,,
+minoraverages/emilbb,1949,Far West League,,M94031,Perry,Ray,,Redding,,,,,
 minoraverages/1950TSN,1949,Far West League,petty,B00794,Petty,Emory,0,Medford,,,123,,
 minoraverages/1950TSN,1949,Far West League,petty,F20908,Petty,,0,Medford,,,,,of122
 minoraverages/1950TSN,1949,Far West League,phipps,B01143,Phipps,Donnell,1,Klamath Falls,,,10,,
@@ -404,11 +412,12 @@ minoraverages/1950TSN,1949,Far West League,plouff,F20685,Plouff,,0,Vallejo,,,,,s
 minoraverages/1950TSN,1949,Far West League,poitevint,B01490,Poitevint,Roland,0,Medford,,,10,,
 minoraverages/1950TSN,1949,Far West League,raymond,B01798,Raymond,Russell,0,Marysville,,,21,,
 minoraverages/1950TSN,1949,Far West League,raymond,F21920,Raymond,,0,Marysville,,,,,p21
-minoraverages/1950TSN,1949,Far West League,raymond,P10464,Raymond,,0,Marysville,,,,21,
+minoraverages/1950TSN,1949,Far West League,raymond,P10464,Raymond,,0,Marysville,,,,21,p
 minoraverages/1950TSN,1949,Far West League,reagan,B00125,Reagan,Daniel,0,Medford,,,91,,
 minoraverages/1950TSN,1949,Far West League,reagan,F20115,Reagan,,0,Medford,,,,,1b31
 minoraverages/1950TSN,1949,Far West League,reagan,F21286,Reagan,,0,Medford,,,,,c44
 minoraverages/1950TSN,1949,Far West League,reagan,M90071,Reagan,Daniel,,Medford,,,,,
+minoraverages/emilbb,1949,Far West League,,M94053,Reagan,Dan,,Medford,,,,,
 minoraverages/1950TSN,1949,Far West League,reese,B00174,Reese,William,0,Klamath Falls,,,112,,
 minoraverages/1950TSN,1949,Far West League,reese,F20080,Reese,,0,Klamath Falls,,,,,1b109
 minoraverages/1950TSN,1949,Far West League,rhinehart,B01514,Rhinehart,Vernon,0,Willows,,,15,,
@@ -418,7 +427,7 @@ minoraverages/1950TSN,1949,Far West League,rice,F20067,Rice,,0,Willows,,,,,1b45
 minoraverages/1950TSN,1949,Far West League,rice,F20919,Rice,,0,Willows,,,,,of19
 minoraverages/1950TSN,1949,Far West League,ristau,B00101,Ristau,Melvin,0,Santa Rosa,,,15,,
 minoraverages/1950TSN,1949,Far West League,ristau,F21705,Ristau,,0,Santa Rosa,,,,,p15
-minoraverages/1950TSN,1949,Far West League,ristau,P10056,Ristau,,0,Santa Rosa,,,,15,
+minoraverages/1950TSN,1949,Far West League,ristau,P10056,Ristau,,0,Santa Rosa,,,,15,p
 minoraverages/1950TSN,1949,Far West League,rivera-wil,B00117,Rivera,Miguel,0,Willows,,,110,,
 minoraverages/1950TSN,1949,Far West League,rivera-val+red,B01345,Rivera,David,1,Vallejo,,,15,,
 minoraverages/1950TSN,1949,Far West League,rivera-val+red,B01345,Rivera,David,2,Redding,,,5,,
@@ -441,7 +450,7 @@ minoraverages/1950TSN,1949,Far West League,rose,F20560,Rose,,T,,,,,,3b13
 minoraverages/1950TSN,1949,Far West League,rose,F20583,Rose,,0,Pittsburg,,,,,ss14
 minoraverages/1950TSN,1949,Far West League,rysavy,B01617,Rysavy,Bob Lee,0,Marysville,,,19,,
 minoraverages/1950TSN,1949,Far West League,rysavy,F21434,Rysavy,,0,Marysville,,,,,p19
-minoraverages/1950TSN,1949,Far West League,rysavy,P10429,Rysavy,,0,Marysville,,,,19,
+minoraverages/1950TSN,1949,Far West League,rysavy,P10429,Rysavy,,0,Marysville,,,,19,p
 minoraverages/1950TSN,1949,Far West League,sandberg,B00450,Sandberg,Otis,0,Redding,,,116,,
 minoraverages/1950TSN,1949,Far West League,sandberg,F20864,Sandberg,,0,Redding,,,,,of112
 minoraverages/1950TSN,1949,Far West League,santillanes,B00973,Santillanes,George,1,Willows,,,2,,
@@ -452,14 +461,14 @@ minoraverages/1950TSN,1949,Far West League,santillanes,F20721,Santillanes,,2,Pit
 minoraverages/1950TSN,1949,Far West League,santillanes,F20721,Santillanes,,T,,,,,,ss12
 minoraverages/1950TSN,1949,Far West League,schildmeyer,B00739,Schildmeyer,Charles,0,Klamath Falls,,,26,,
 minoraverages/1950TSN,1949,Far West League,schildmeyer,F21794,Schildmeyer,,0,Klamath Falls,,,,,p26
-minoraverages/1950TSN,1949,Far West League,schildmeyer,P10534,Schildmeyer,,0,Klamath Falls,,,,26,
+minoraverages/1950TSN,1949,Far West League,schildmeyer,P10534,Schildmeyer,,0,Klamath Falls,,,,26,p
 minoraverages/1950TSN,1949,Far West League,schmidt,B00210,Schmidt,Curtis,0,Willows,,,55,,
 minoraverages/1950TSN,1949,Far West League,schmidt,F21651,Schmidt,,0,Willows,,,,,p26
-minoraverages/1950TSN,1949,Far West League,schmidt,P10121,Schmidt,,0,Willows,,,,26,
+minoraverages/1950TSN,1949,Far West League,schmidt,P10121,Schmidt,,0,Willows,,,,26,p
 minoraverages/1950TSN,1949,Far West League,schober,B01288,Schober,Peter,0,Redding,,,48,,
 minoraverages/1950TSN,1949,Far West League,schober,F20189,Schober,,0,Redding,,,,,1b34
 minoraverages/1950TSN,1949,Far West League,schober,F21936,Schober,,0,Redding,,,,,p10
-minoraverages/1950TSN,1949,Far West League,schober,P10455,Schober,,0,Redding,,,,10,
+minoraverages/1950TSN,1949,Far West League,schober,P10455,Schober,,0,Redding,,,,10,p
 minoraverages/1950TSN,1949,Far West League,scott,B01029,Scott,Wallace R.,1,Santa Rosa,,,75,,
 minoraverages/1950TSN,1949,Far West League,scott,B01029,Scott,Wallace R.,2,Redding,,,40,,
 minoraverages/1950TSN,1949,Far West League,scott,B01029,Scott,Wallace R.,T,,,,115,,
@@ -469,17 +478,18 @@ minoraverages/1950TSN,1949,Far West League,scott,F20604,Scott,,T,,,,,,ss115
 minoraverages/1950TSN,1949,Far West League,serpa,B00343,Serpa,Lembert,0,Santa Rosa,,,84,,
 minoraverages/1950TSN,1949,Far West League,serpa,F20841,Serpa,,0,Santa Rosa,,,,,of80
 minoraverages/1950TSN,1949,Far West League,serpa,M90107,Serpa,Lembert,,Santa Rosa,19490721,,,,
+minoraverages/emilbb,1949,Far West League,,M94089,Serpa,Lembert,,Santa Rosa,,,,,
 minoraverages/1950TSN,1949,Far West League,sherratt,B00806,Sherratt,John,0,Marysville,,,125,,
 minoraverages/1950TSN,1949,Far West League,sherratt,F21037,Sherratt,,0,Marysville,,,,,of125
 minoraverages/1950TSN,1949,Far West League,shortlidge,B01523,Shortlidge,Eugene,0,Santa Rosa,,,13,,
 minoraverages/1950TSN,1949,Far West League,shortlidge,F21488,Shortlidge,,0,Santa Rosa,,,,,p13
-minoraverages/1950TSN,1949,Far West League,shortlidge,P10289,Shortlidge,,0,Santa Rosa,,,,13,
+minoraverages/1950TSN,1949,Far West League,shortlidge,P10289,Shortlidge,,0,Santa Rosa,,,,13,p
 minoraverages/1950TSN,1949,Far West League,simons,B01203,Simons,George,0,Redding,,,16,,
 minoraverages/1950TSN,1949,Far West League,simons,F21450,Simons,,0,Redding,,,,,p15
-minoraverages/1950TSN,1949,Far West League,simons,P10145,Simons,,0,Redding,,,,15,
+minoraverages/1950TSN,1949,Far West League,simons,P10145,Simons,,0,Redding,,,,15,p
 minoraverages/1950TSN,1949,Far West League,simpson,B01055,Simpson,Blair,0,Pittsburg,,,25,,
 minoraverages/1950TSN,1949,Far West League,simpson,F21544,Simpson,,0,Pittsburg,,,,,p21
-minoraverages/1950TSN,1949,Far West League,simpson,P10113,Simpson,,0,Pittsburg,,,,21,
+minoraverages/1950TSN,1949,Far West League,simpson,P10113,Simpson,,0,Pittsburg,,,,21,p
 minoraverages/1950TSN,1949,Far West League,smith-med,B00013,Smith,Richard,0,Medford,,,12,,
 minoraverages/1950TSN,1949,Far West League,smith.a-sr,B00515,Smith,Alfred,0,Santa Rosa,,,67,,
 minoraverages/1950TSN,1949,Far West League,smith.c-sr+val,B01227,Smith,Charles,1,Santa Rosa,,,47,,
@@ -493,8 +503,8 @@ minoraverages/1950TSN,1949,Far West League,smith.c-sr+val,F20547,Smith,C. S.,2,V
 minoraverages/1950TSN,1949,Far West League,smith.c-sr+val,F20547,Smith,C. S.,T,,,,,,3b80
 minoraverages/1950TSN,1949,Far West League,smith.r-mar,F21553,Smith,R. L.,0,Marysville,,,,,p19
 minoraverages/1950TSN,1949,Far West League,smith.c-mar,F21957,Smith,C. A.,0,Marysville,,,,,p20
-minoraverages/1950TSN,1949,Far West League,smith.r-mar,P10043,Smith,R. L.,0,Marysville,,,,19,
-minoraverages/1950TSN,1949,Far West League,smith.c-mar,P10478,Smith,C. A.,0,Marysville,,,,20,
+minoraverages/1950TSN,1949,Far West League,smith.r-mar,P10043,Smith,R. L.,0,Marysville,,,,19,p
+minoraverages/1950TSN,1949,Far West League,smith.c-mar,P10478,Smith,C. A.,0,Marysville,,,,20,p
 minoraverages/1950TSN,1949,Far West League,soroky,B01787,Soroky,Larry,1,Pittsburg,,,6,,
 minoraverages/1950TSN,1949,Far West League,soroky,B01787,Soroky,Larry,2,Vallejo,,,7,,
 minoraverages/1950TSN,1949,Far West League,soroky,B01787,Soroky,Larry,3,Santa Rosa,,,2,,
@@ -503,10 +513,10 @@ minoraverages/1950TSN,1949,Far West League,soroky,F22004,Soroky,,1,Pittsburg,,,,
 minoraverages/1950TSN,1949,Far West League,soroky,F22004,Soroky,,2,Vallejo,,,,,p
 minoraverages/1950TSN,1949,Far West League,soroky,F22004,Soroky,,3,Santa Rosa,,,,,p
 minoraverages/1950TSN,1949,Far West League,soroky,F22004,Soroky,,T,,,,,,p15
-minoraverages/1950TSN,1949,Far West League,soroky,P10588,Soroky,,1,Pittsburg,,,,5,
-minoraverages/1950TSN,1949,Far West League,soroky,P10588,Soroky,,2,Vallejo,,,,7,
-minoraverages/1950TSN,1949,Far West League,soroky,P10588,Soroky,,3,Santa Rosa,,,,2,
-minoraverages/1950TSN,1949,Far West League,soroky,P10588,Soroky,,T,,,,,14,
+minoraverages/1950TSN,1949,Far West League,soroky,P10588,Soroky,,1,Pittsburg,,,,5,p
+minoraverages/1950TSN,1949,Far West League,soroky,P10588,Soroky,,2,Vallejo,,,,7,p
+minoraverages/1950TSN,1949,Far West League,soroky,P10588,Soroky,,3,Santa Rosa,,,,2,p
+minoraverages/1950TSN,1949,Far West League,soroky,P10588,Soroky,,T,,,,,14,p
 minoraverages/1950TSN,1949,Far West League,south,B00403,South,Lynn,0,Medford,,,30,,
 minoraverages/1950TSN,1949,Far West League,south,F20784,South,,0,Medford,,,,,of11
 minoraverages/1950TSN,1949,Far West League,souza,B01007,Souza,Robert,1,Willows,,,43,,
@@ -519,22 +529,22 @@ minoraverages/1950TSN,1949,Far West League,souza,F20700,Souza,,3,Pittsburg,,,,,s
 minoraverages/1950TSN,1949,Far West League,souza,F20700,Souza,,T,,,,,,ss51
 minoraverages/1950TSN,1949,Far West League,spurlock,B01466,Spurlock,Paul,0,Medford,,,19,,
 minoraverages/1950TSN,1949,Far West League,spurlock,F21887,Spurlock,,0,Medford,,,,,p19
-minoraverages/1950TSN,1949,Far West League,spurlock,P10432,Spurlock,,0,Medford,,,,19,
+minoraverages/1950TSN,1949,Far West League,spurlock,P10432,Spurlock,,0,Medford,,,,19,p
 minoraverages/1950TSN,1949,Far West League,stratton,B01431,Stratton,Frank,0,Medford,,,17,,
 minoraverages/1950TSN,1949,Far West League,stratton,F21854,Stratton,,0,Medford,,,,,p12
-minoraverages/1950TSN,1949,Far West League,stratton,P10410,Stratton,,0,Medford,,,,12,
+minoraverages/1950TSN,1949,Far West League,stratton,P10410,Stratton,,0,Medford,,,,12,p
 minoraverages/1950TSN,1949,Far West League,surprenant,B01368,Surprenant,George,1,Pittsburg,,,1,,
 minoraverages/1950TSN,1949,Far West League,surprenant,B01368,Surprenant,George,2,Vallejo,,,16,,
 minoraverages/1950TSN,1949,Far West League,surprenant,B01368,Surprenant,George,T,,,,17,,
 minoraverages/1950TSN,1949,Far West League,surprenant,F21614,Surprenant,,1,Pittsburg,,,,,p
 minoraverages/1950TSN,1949,Far West League,surprenant,F21614,Surprenant,,2,Vallejo,,,,,p
 minoraverages/1950TSN,1949,Far West League,surprenant,F21614,Surprenant,,T,,,,,,p17
-minoraverages/1950TSN,1949,Far West League,surprenant,P10336,Surprenant,,1,Pittsburg,,,,1,
-minoraverages/1950TSN,1949,Far West League,surprenant,P10336,Surprenant,,2,Vallejo,,,,16,
-minoraverages/1950TSN,1949,Far West League,surprenant,P10336,Surprenant,,T,,,,,17,
+minoraverages/1950TSN,1949,Far West League,surprenant,P10336,Surprenant,,1,Pittsburg,,,,1,p
+minoraverages/1950TSN,1949,Far West League,surprenant,P10336,Surprenant,,2,Vallejo,,,,16,p
+minoraverages/1950TSN,1949,Far West League,surprenant,P10336,Surprenant,,T,,,,,17,p
 minoraverages/1950TSN,1949,Far West League,swain,B00936,Swain,Peter,0,Marysville,,,45,,
 minoraverages/1950TSN,1949,Far West League,swain,F21531,Swain,,0,Marysville,,,,,p31
-minoraverages/1950TSN,1949,Far West League,swain,P10035,Swain,,0,Marysville,,,,31,
+minoraverages/1950TSN,1949,Far West League,swain,P10035,Swain,,0,Marysville,,,,31,p
 minoraverages/1950TSN,1949,Far West League,tate,B00811,Tate,Robert,0,Pittsburg,,,58,,
 minoraverages/1950TSN,1949,Far West League,tate,F20254,Tate,,0,Pittsburg,,,,,2b57
 minoraverages/1950TSN,1949,Far West League,tavares,B00760,Tavares,Lawrence,0,Redding,,,83,,
@@ -555,6 +565,8 @@ minoraverages/1950TSN,1949,Far West League,valenti,B01740,Valenti,Eugene,0,Valle
 minoraverages/1950TSN,1949,Far West League,valenti,F20636,Valenti,,0,Vallejo,,,,,ss14
 minoraverages/1950TSN,1949,Far West League,valletta,B01108,Valletta,Louis,0,Pittsburg,,,25,,
 minoraverages/1950TSN,1949,Far West League,valletta,F21255,Valletta,,0,Pittsburg,,,,,c23
+minoraverages/emilbb,1949,Far West League,,M94090,Vezelich,Lou,,Santa Rosa,,,,,
+minoraverages/emilbb,1949,Far West League,,M94106,Vezelich,Lou,,Vallejo,,,,,
 minoraverages/1950TSN,1949,Far West League,vezilich,B00021,Vezilich,Louis,1,Vallejo,,,87,,
 minoraverages/1950TSN,1949,Far West League,vezilich,B00021,Vezilich,Louis,2,Santa Rosa,,,2,,
 minoraverages/1950TSN,1949,Far West League,vezilich,B00021,Vezilich,Louis,T,,,,89,,
