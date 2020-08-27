@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1916,Potomac League,M92207,Brophy,Pat,,Frostburg,,,
-emilbb,1916,Potomac League,M92210,Harris,"Owen ""Cy""",,Piedmont,,,
-emilbb,1916,Potomac League,M92229,Kane,Dutch,,Piedmont,,,
-emilbb,1916,Potomac League,M92255,Keener,Roy,,Lonaconing,,,
-emilbb,1916,Potomac League,M92241,McGuire,James,,Lonaconing,,,
-emilbb,1916,Potomac League,M92232,Russler,Tom,,Cumberland,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1916,Potomac League,,M92207,Brophy,Pat,,Frostburg,,
+emilbb,1916,Potomac League,,M92210,Harris,"Owen ""Cy""",,Piedmont,,
+emilbb,1916,Potomac League,,M92229,Kane,Dutch,,Piedmont,,
+emilbb,1916,Potomac League,,M92255,Keener,Roy,,Lonaconing,,
+emilbb,1916,Potomac League,,M92241,McGuire,James,,Lonaconing,,
+emilbb,1916,Potomac League,,M92232,Russler,Tom,,Cumberland,,

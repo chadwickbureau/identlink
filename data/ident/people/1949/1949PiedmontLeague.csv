@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1949,Piedmont League,M91610,Bolyard,Earl,,Norfolk,,,
-emilbb,1949,Piedmont League,M91562,Griffin,Pug,,Lynchburg,,,
-emilbb,1949,Piedmont League,M91570,Mackie,Vernon,,Lynchburg,,,
-emilbb,1949,Piedmont League,M91607,Marion,"John ""Red""",,Roanoke,,,
-emilbb,1949,Piedmont League,M91629,Novosel,Frank,,Norfolk,,,
-emilbb,1949,Piedmont League,M91581,Scalzi,Frank,,Portsmouth,,,
-emilbb,1949,Piedmont League,M91632,Schalk,Roy,,Newport News,,,
-emilbb,1949,Piedmont League,M91597,Smith,Vince,,Richmond,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1949,Piedmont League,,M91610,Bolyard,Earl,,Norfolk,,
+emilbb,1949,Piedmont League,,M91562,Griffin,Pug,,Lynchburg,,
+emilbb,1949,Piedmont League,,M91570,Mackie,Vernon,,Lynchburg,,
+emilbb,1949,Piedmont League,,M91607,Marion,"John ""Red""",,Roanoke,,
+emilbb,1949,Piedmont League,,M91629,Novosel,Frank,,Norfolk,,
+emilbb,1949,Piedmont League,,M91581,Scalzi,Frank,,Portsmouth,,
+emilbb,1949,Piedmont League,,M91632,Schalk,Roy,,Newport News,,
+emilbb,1949,Piedmont League,,M91597,Smith,Vince,,Richmond,,

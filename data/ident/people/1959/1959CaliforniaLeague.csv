@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1959,California League,M91033,Bristol,Dave,,Visalia,,,
-emilbb,1959,California League,M90995,Charnofsky,Hal,,Modesto,,,
-emilbb,1959,California League,M91011,DeMars,Billy,,Stockton,,,
-emilbb,1959,California League,M91040,McCormick,Myron,,Fresno,,,
-emilbb,1959,California League,M91022,Owens,Paul,,Bakersfield,,,
-emilbb,1959,California League,M91006,Perry,Ray,,Reno,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1959,California League,,M91033,Bristol,Dave,,Visalia,,
+emilbb,1959,California League,,M90995,Charnofsky,Hal,,Modesto,,
+emilbb,1959,California League,,M91011,DeMars,Billy,,Stockton,,
+emilbb,1959,California League,,M91040,McCormick,Myron,,Fresno,,
+emilbb,1959,California League,,M91022,Owens,Paul,,Bakersfield,,
+emilbb,1959,California League,,M91006,Perry,Ray,,Reno,,

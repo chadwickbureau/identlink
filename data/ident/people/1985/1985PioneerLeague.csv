@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1985,Pioneer League,M91796,Dyer,Hal,,Butte,,,dyer
-emilbb,1985,Pioneer League,M91774,Easom,Mike,,Helena,,,easom
-emilbb,1985,Pioneer League,M91803,Gattis,Jim,,Salt Lake City,,,gattis
-emilbb,1985,Pioneer League,M91827,Hudgens,Dave,,Pocatello,,,hudgens
-emilbb,1985,Pioneer League,M91763,Kennedy,Kevin,,Great Falls,,,kennedy
-emilbb,1985,Pioneer League,M91816,Lett,James,,Billings,,,lett
-emilbb,1985,Pioneer League,M91834,Rodriguez,Reuben,,Idaho Falls,,,rodriguez
-emilbb,1985,Pioneer League,M91782,Young,Mike,,Medicine Hat,,,young
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1985,Pioneer League,dyer,M91796,Dyer,Hal,,Butte,,
+emilbb,1985,Pioneer League,easom,M91774,Easom,Mike,,Helena,,
+emilbb,1985,Pioneer League,gattis,M91803,Gattis,Jim,,Salt Lake City,,
+emilbb,1985,Pioneer League,hudgens,M91827,Hudgens,Dave,,Pocatello,,
+emilbb,1985,Pioneer League,kennedy,M91763,Kennedy,Kevin,,Great Falls,,
+emilbb,1985,Pioneer League,lett,M91816,Lett,James,,Billings,,
+emilbb,1985,Pioneer League,rodriguez,M91834,Rodriguez,Reuben,,Idaho Falls,,
+emilbb,1985,Pioneer League,young,M91782,Young,Mike,,Medicine Hat,,

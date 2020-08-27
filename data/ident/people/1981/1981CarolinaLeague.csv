@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1981,Carolina League,M90881,Dancy,Bill,,Peninsula,,,
-emilbb,1981,Carolina League,M90856,Dusan,Gene,,Lynchburg,,,
-emilbb,1981,Carolina League,M90862,Ezell,Glenn,,Salem,,,
-emilbb,1981,Carolina League,M90914,Gallagher,Al,,Durham,,,
-emilbb,1981,Carolina League,M90897,Hunter,Buddy,,Winston-Salem,,,
-emilbb,1981,Carolina League,M90843,Little,Grady,,Hagerstown,,,
-emilbb,1981,Carolina League,M90909,McLaren,John,,Kinston,,,
-emilbb,1981,Carolina League,M90870,Toomey,Mike,,Alexandria,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1981,Carolina League,,M90881,Dancy,Bill,,Peninsula,,
+emilbb,1981,Carolina League,,M90856,Dusan,Gene,,Lynchburg,,
+emilbb,1981,Carolina League,,M90862,Ezell,Glenn,,Salem,,
+emilbb,1981,Carolina League,,M90914,Gallagher,Al,,Durham,,
+emilbb,1981,Carolina League,,M90897,Hunter,Buddy,,Winston-Salem,,
+emilbb,1981,Carolina League,,M90843,Little,Grady,,Hagerstown,,
+emilbb,1981,Carolina League,,M90909,McLaren,John,,Kinston,,
+emilbb,1981,Carolina League,,M90870,Toomey,Mike,,Alexandria,,

@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1995,Arizona League,M91803,Dickenson,Ralph,,Brewers,,,
-emilbb,1995,Arizona League,M91796,Hines,Bruce,,Angels,,,
-emilbb,1995,Arizona League,M91827,LaVasseur,Tom,,Mariners,,,
-emilbb,1995,Arizona League,M91834,Maloof,Jack,,Rockies,,,
-emilbb,1995,Arizona League,M91782,Navarrete,Juan,,Athletics,,,
-emilbb,1995,Arizona League,M91816,Norman,Dan,,Padres,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1995,Arizona League,,M91803,Dickenson,Ralph,,Brewers,,
+emilbb,1995,Arizona League,,M91796,Hines,Bruce,,Angels,,
+emilbb,1995,Arizona League,,M91827,LaVasseur,Tom,,Mariners,,
+emilbb,1995,Arizona League,,M91834,Maloof,Jack,,Rockies,,
+emilbb,1995,Arizona League,,M91782,Navarrete,Juan,,Athletics,,
+emilbb,1995,Arizona League,,M91816,Norman,Dan,,Padres,,

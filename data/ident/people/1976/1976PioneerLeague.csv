@@ -1,5 +1,5 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1976,Pioneer League,M91543,Himes,Larry,,Idaho Falls,,,
-emilbb,1976,Pioneer League,M91535,Hoff,James,,Billings,,,
-emilbb,1976,Pioneer League,M91556,Hriniak,Walt,,Lethbridge,,,
-emilbb,1976,Pioneer League,M91524,Rodriguez,Ernest,,Great Falls,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1976,Pioneer League,,M91543,Himes,Larry,,Idaho Falls,,
+emilbb,1976,Pioneer League,,M91535,Hoff,James,,Billings,,
+emilbb,1976,Pioneer League,,M91556,Hriniak,Walt,,Lethbridge,,
+emilbb,1976,Pioneer League,,M91524,Rodriguez,Ernest,,Great Falls,,

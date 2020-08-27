@@ -1,5 +1,5 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1996,Heartland League,M92319,Holmes,Paul,,Lafayette,,,
-emilbb,1996,Heartland League,M92343,Lichtenstein,R. C.,,Dubois County,,,
-emilbb,1996,Heartland League,M92335,Slutsky,Gregg,,Will County,,,
-emilbb,1996,Heartland League,M92324,Walker,Jay,,Anderson,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1996,Heartland League,,M92319,Holmes,Paul,,Lafayette,,
+emilbb,1996,Heartland League,,M92343,Lichtenstein,R. C.,,Dubois County,,
+emilbb,1996,Heartland League,,M92335,Slutsky,Gregg,,Will County,,
+emilbb,1996,Heartland League,,M92324,Walker,Jay,,Anderson,,

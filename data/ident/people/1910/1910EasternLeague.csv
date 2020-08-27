@@ -1,519 +1,519 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-1911Reach,1910,Eastern League,F20046,Abstein,,0,Jersey City,,1b118,abstein
-1911Reach,1910,Eastern League,B00450,Abstiein,,0,Jersey City,,B118,abstein
-1911Reach,1910,Eastern League,B01625,Adkins,,0,Baltimore,,B37,adkins
-1911Reach,1910,Eastern League,F21672,Adkins,,0,Baltimore,,p37,adkins
-1911Reach,1910,Eastern League,P10336,Adkins,,0,Baltimore,,,adkins
-1911Reach,1910,Eastern League,F20095,Agier,,0,Newark,,1b144,agier
-1911Reach,1910,Eastern League,B01143,Agler,,0,Newark,,B144,agier
-1911Reach,1910,Eastern League,B00491,Alperman,,0,Rochester,,B149,alperman
-1911Reach,1910,Eastern League,F20334,Alperman,,0,Rochester,,2b89,alperman
-1911Reach,1910,Eastern League,F20463,Alperman,,0,Rochester,,3b59,alperman
-1911Reach,1910,Eastern League,B01546,Anderson,,0,Rochester,,B48,anderson
-1911Reach,1910,Eastern League,F20721,Anderson,,0,Rochester,,lf34,anderson
-1911Reach,1910,Eastern League,B00577,Arndt,,0,Providence,,B120,arndt
-1911Reach,1910,Eastern League,F20014,Arndt,,0,Providence,,1b42,arndt
-1911Reach,1910,Eastern League,F20279,Arndt,,0,Providence,,2b26,arndt
-1911Reach,1910,Eastern League,F20518,Arndt,,0,Providence,,3b36,arndt
-1911Reach,1910,Eastern League,B00566,Atz,,0,Providence,,B129,atz
-1911Reach,1910,Eastern League,F20233,Atz,,0,Providence,,2b101,atz
-1911Reach,1910,Eastern League,F20594,Atz,,0,Providence,,ss25,atz
-1911Reach,1910,Eastern League,B01359,Bailey,,0,Montreal,,B21,bailey
-1911Reach,1910,Eastern League,F21182,Bailey,,0,Montreal,,rf18,bailey
-1911Reach,1910,Eastern League,B01663,Barberich,,0,Providence,,B24,barberich
-1911Reach,1910,Eastern League,F21528,Barberich,,0,Providence,,p21,barberich
-1911Reach,1910,Eastern League,P10478,Barberich,,0,Providence,,,barberich
-1911Reach,1910,Eastern League,B01798,Bartley,,0,Jersey City,,B23,bartley
-1911Reach,1910,Eastern League,F21553,Bartley,,0,Jersey City,,p23,bartley
-1911Reach,1910,Eastern League,P10441,Bartley,,0,Jersey City,,,bartley
-1911Reach,1910,Eastern League,B00232,Batch,,0,Rochester,,B134,batch
-1911Reach,1910,Eastern League,F20430,Batch,,0,Rochester,,3b30,batch
-1911Reach,1910,Eastern League,F20792,Batch,,0,Rochester,,lf75,batch
-1911Reach,1910,Eastern League,F21174,Batch,,0,Rochester,,rf25,batch
-1911Reach,1910,Eastern League,B00319,Beecher,,0,Rochester,,B18,beecher
-1911Reach,1910,Eastern League,F21747,Beecher,,0,Rochester,,p10,beecher
-1911Reach,1910,Eastern League,P10062,Beecher,,0,Rochester,,,beecher
-1911Reach,1910,Eastern League,B00502,Blair,,0,Rochester,,B146,blair
-1911Reach,1910,Eastern League,F21912,Blair,,0,Rochester,,c145,blair
-1911Reach,1910,Eastern League,B00887,Brain,,0,Buffalo,,B31,brain
-1911Reach,1910,Eastern League,F20505,Brain,,0,Buffalo,,3b31,brain
-1911Reach,1910,Eastern League,B01041,Brodie,,0,Newark,,B11,brodie
-1911Reach,1910,Eastern League,B00623,Browne,,0,Newark,,B40,browne
-1911Reach,1910,Eastern League,F21068,Browne,,0,Newark,,cf24,browne
-1911Reach,1910,Eastern League,F21232,Browne,,0,Newark,,rf13,browne
-1911Reach,1910,Eastern League,B01711,Burchell,,1,Buffalo,,,burchell
-1911Reach,1910,Eastern League,B01711,Burchell,,2,Montreal,,,burchell
-1911Reach,1910,Eastern League,B01711,Burchell,,T,,,B41,burchell
-1911Reach,1910,Eastern League,F21695,Burchell,,1,Buffalo,,p,burchell
-1911Reach,1910,Eastern League,F21695,Burchell,,2,Montreal,,p,burchell
-1911Reach,1910,Eastern League,F21695,Burchell,,T,,,p37,burchell
-1911Reach,1910,Eastern League,P10253,Burchell,,1,Buffalo,,,burchell
-1911Reach,1910,Eastern League,P10253,Burchell,,2,Montreal,,,burchell
-1911Reach,1910,Eastern League,P10253,Burchell,,T,,,,burchell
-1911Reach,1910,Eastern League,B01162,Butler,,0,Jersey City,,B65,butler
-1911Reach,1910,Eastern League,F22012,Butler,,0,Jersey City,,c59,butler
-1911Reach,1910,Eastern League,B00651,Byers,,0,Baltimore,,B79,byers
-1911Reach,1910,Eastern League,F22004,Byers,,0,Baltimore,,c69,byers
-1911Reach,1910,Eastern League,B01415,Camnitz,,0,Jersey City,,B31,camnitz
-1911Reach,1910,Eastern League,F21667,Camnitz,,0,Jersey City,,p31,camnitz
-1911Reach,1910,Eastern League,P10486,Camnitz,,0,Jersey City,,,camnitz
-1911Reach,1910,Eastern League,B01010,Carmichael,,0,Buffalo,,B40,carmichael
-1911Reach,1910,Eastern League,F21718,Carmichael,,0,Buffalo,,p29,carmichael
-1911Reach,1910,Eastern League,P10289,Carmichael,,0,Buffalo,,,carmichael
-1911Reach,1910,Eastern League,B01444,Carroll,,0,Toronto,,B27,carroll
-1911Reach,1910,Eastern League,F21806,Carroll,,0,Toronto,,p26,carroll
-1911Reach,1910,Eastern League,P10231,Carroll,,0,Toronto,,,carroll
-1911Reach,1910,Eastern League,B00416,Castle,,0,Rochester,,B11,castle
-1911Reach,1910,Eastern League,F20878,Castle,,0,Rochester,,lf10,castle
-1911Reach,1910,Eastern League,B01392,Catiz,,0,Baltimore,,B22,catiz
-1911Reach,1910,Eastern League,F20560,Catiz,,0,Baltimore,,3b22,catiz
-1911Reach,1910,Eastern League,B00739,Clancy,,0,Baltimore,,B107,clancy
-1911Reach,1910,Eastern League,F20115,Clancy,,0,Baltimore,,1b107,clancy
-1911Reach,1910,Eastern League,B00999,Cleary,,0,Montreal,,B5,cleary
-1911Reach,1910,Eastern League,B01428,Cleary,,0,Newark,,B10,cleary
-1911Reach,1910,Eastern League,P10192,Cleary,,0,Newark,,,cleary
-1911Reach,1910,Eastern League,B00403,Clement,,0,Jersey City,,B122,clement
-1911Reach,1910,Eastern League,F20810,Clement,,0,Jersey City,,lf110,clement
-1911Reach,1910,Eastern League,B01156,Cockill,,0,Montreal,,B132,cockill
-1911Reach,1910,Eastern League,F20051,Cockill,,0,Montreal,,1b121,cockill
-1911Reach,1910,Eastern League,B00912,Collins,,0,Providence,,B121,collins
-1911Reach,1910,Eastern League,F20458,Collins,,0,Providence,,3b117,collins
-1911Reach,1910,Eastern League,B00264,Corcoran,,1,Montreal,,,corcoran
-1911Reach,1910,Eastern League,B00264,Corcoran,,2,Buffalo,,,corcoran
-1911Reach,1910,Eastern League,B00264,Corcoran,,T,,,B128,corcoran
-1911Reach,1910,Eastern League,F20539,Corcoran,,1,Montreal,,3b,corcoran
-1911Reach,1910,Eastern League,F20539,Corcoran,,2,Buffalo,,3b,corcoran
-1911Reach,1910,Eastern League,F20539,Corcoran,,T,,,3b95,corcoran
-1911Reach,1910,Eastern League,F21324,Corcoran,,0,Montreal,,rf23,corcoran
-1911Reach,1910,Eastern League,B00638,Corey,,0,Toronto,,B20,corey
-1911Reach,1910,Eastern League,F21840,Corey,,0,Toronto,,p20,corey
-1911Reach,1910,Eastern League,P10215,Corey,,0,Toronto,,,corey
-1911Reach,1910,Eastern League,B01029,Courtney,,0,Providence,,B78,courtney
-1911Reach,1910,Eastern League,F20153,Courtney,,0,Providence,,1b75,courtney
-1911Reach,1910,Eastern League,B01368,Crisp,,0,Newark,,B60,crisp
-1911Reach,1910,Eastern League,F21973,Crisp,,0,Newark,,c60,crisp
-1911Reach,1910,Eastern League,B01345,Crist,,0,Jersey City,,B66,crist
-1911Reach,1910,Eastern League,F21957,Crist,,0,Jersey City,,c66,crist
-1911Reach,1910,Eastern League,B01119,Cronin,,1,Providence,,,cronin
-1911Reach,1910,Eastern League,B01119,Cronin,,2,Buffalo,,,cronin
-1911Reach,1910,Eastern League,B01119,Cronin,,T,,,B19,cronin
-1911Reach,1910,Eastern League,F21854,Cronin,,1,Providence,,p,cronin
-1911Reach,1910,Eastern League,F21854,Cronin,,2,Buffalo,,p,cronin
-1911Reach,1910,Eastern League,F21854,Cronin,,T,,,p18,cronin
-1911Reach,1910,Eastern League,P10464,Cronin,,1,Providence,,,cronin
-1911Reach,1910,Eastern League,P10464,Cronin,,2,Buffalo,,,cronin
-1911Reach,1910,Eastern League,P10464,Cronin,,T,,,,cronin
-1911Reach,1910,Eastern League,B01086,Crooks,,0,Jersey City,,B21,crooks
-1911Reach,1910,Eastern League,F20144,Crooks,,0,Jersey City,,1b20,crooks
-1911Reach,1910,Eastern League,B01181,Crowley,,1,Providence,,,crowley
-1911Reach,1910,Eastern League,B01181,Crowley,,2,Montreal,,,crowley
-1911Reach,1910,Eastern League,B01181,Crowley,,T,,,B16,crowley
-1911Reach,1910,Eastern League,F21822,Crowley,,1,Providence,,p,crowley
-1911Reach,1910,Eastern League,F21822,Crowley,,2,Montreal,,p,crowley
-1911Reach,1910,Eastern League,F21822,Crowley,,T,,,p16,crowley
-1911Reach,1910,Eastern League,P10399,Crowley,,1,Providence,,,crowley
-1911Reach,1910,Eastern League,P10399,Crowley,,2,Montreal,,,crowley
-1911Reach,1910,Eastern League,P10399,Crowley,,T,,,,crowley
-1911Reach,1910,Eastern League,B00985,Curtis,,0,Montreal,,B70,curtis
-1911Reach,1910,Eastern League,F21961,Curtis,,0,Montreal,,c49,curtis
-1911Reach,1910,Eastern League,B01658,Dank,,0,Buffalo,,B7,dank
-1911Reach,1910,Eastern League,B01288,Deal,,1,Toronto,,,deal
-1911Reach,1910,Eastern League,B01288,Deal,,2,Montreal,,,deal
-1911Reach,1910,Eastern League,B01288,Deal,,T,,,B56,deal
-1911Reach,1910,Eastern League,F20072,Deal,,1,Toronto,,1b,deal
-1911Reach,1910,Eastern League,F20072,Deal,,2,Montreal,,1b,deal
-1911Reach,1910,Eastern League,F20072,Deal,,3,Buffalo,,1b,deal
-1911Reach,1910,Eastern League,F20072,Deal,,T,,,1b56,deal
-1911Reach,1910,Eastern League,B00130,Deininger,,1,Rochester,,,deininger
-1911Reach,1910,Eastern League,B00130,Deininger,,2,Jersey City,,,deininger
-1911Reach,1910,Eastern League,B00130,Deininger,,T,,,B154,deininger
-1911Reach,1910,Eastern League,F21037,Deininger,,1,Rochester,,cf,deininger
-1911Reach,1910,Eastern League,F21037,Deininger,,2,Jersey City,,cf,deininger
-1911Reach,1910,Eastern League,F21037,Deininger,,T,,,cf127,deininger
-1911Reach,1910,Eastern League,F21125,Deininger,,0,Rochester,,rf11,deininger
-1911Reach,1910,Eastern League,B00182,Delahanty,,0,Toronto,,B144,delahanty
-1911Reach,1910,Eastern League,F20784,Delehanty,,0,Toronto,,lf136,delahanty
-1911Reach,1910,Eastern League,B00609,Demmitt,,0,Montreal,,B130,demmitt
-1911Reach,1910,Eastern League,F20829,Demmitt,,0,Montreal,,lf105,demmitt
-1911Reach,1910,Eastern League,F21076,Demmitt,,0,Montreal,,rf25,demmitt
-1911Reach,1910,Eastern League,B01402,Donnelly,,0,Baltimore,,B34,donnelly
-1911Reach,1910,Eastern League,F21614,Donnelly,,0,Baltimore,,p34,donnelly
-1911Reach,1910,Eastern League,P10019,Donnelly,,0,Baltimore,,,donnelly
-1911Reach,1910,Eastern League,F21469,Dubec,,1,Buffalo,,p,dubuc
-1911Reach,1910,Eastern League,F21469,Dubec,,2,Montreal,,p,dubuc
-1911Reach,1910,Eastern League,F21469,Dubec,,T,,,p30,dubuc
-1911Reach,1910,Eastern League,P10373,Dubec,,1,Buffalo,,,dubuc
-1911Reach,1910,Eastern League,P10373,Dubec,,2,Montreal,,,dubuc
-1911Reach,1910,Eastern League,P10373,Dubec,,T,,,,dubuc
-1911Reach,1910,Eastern League,B00037,Dubuc,,0,Montreal,,B58,dubuc
-1911Reach,1910,Eastern League,B00531,Dunn,,0,Baltimore,,B76,dunn
-1911Reach,1910,Eastern League,F20342,Dunn,,0,Baltimore,,2b55,dunn
-1911Reach,1910,Eastern League,F20391,Dunn,,0,Baltimore,,3b12,dunn
-1911Reach,1910,Eastern League,B00879,East,,0,Buffalo,,B73,east
-1911Reach,1910,Eastern League,F20265,East,,1,Buffalo,,2b,east
-1911Reach,1910,Eastern League,F20265,East,,2,Montreal,,2b,east
-1911Reach,1910,Eastern League,F20265,East,,T,,,2b61,east
-1911Reach,1910,Eastern League,B00865,Egan,,0,Baltimore,,B106,egan-bal
-1911Reach,1910,Eastern League,B01489,Egan,,0,Newark,,B14,egan-new
-1911Reach,1910,Eastern League,F21609,Egan,,0,Newark,,p14,egan-new
-1911Reach,1910,Eastern League,F21936,Egan,,0,Baltimore,,c101,egan-bal
-1911Reach,1910,Eastern League,P10516,Egan,,0,Newark,,,egan-new
-1911Reach,1910,Eastern League,B00614,Elston,,0,Providence,,B148,elston
-1911Reach,1910,Eastern League,F20841,Elston,,0,Providence,,lf145,elston
-1911Reach,1910,Eastern League,B00718,Esmond,,0,Jersey City,,B157,esmond
-1911Reach,1910,Eastern League,F20482,Esmond,,0,Jersey City,,3b157,esmond
-1911Reach,1910,Eastern League,B00904,Ferry,,0,Jersey City,,B35,ferry
-1911Reach,1910,Eastern League,F21680,Ferry,,0,Jersey City,,p26,ferry
-1911Reach,1910,Eastern League,P10348,Ferry,,0,Jersey City,,,ferry
-1911Reach,1910,Eastern League,B00806,Fitzgerald,,0,Providence,,B95,fitzgerald
-1911Reach,1910,Eastern League,B00898,Fitzpatrick,,0,Toronto,,B119,fitzpatrick
-1911Reach,1910,Eastern League,F20206,Fitzpatrick,,0,Toronto,,2b16,fitzpatrick
-1911Reach,1910,Eastern League,F20496,Fitzpatrick,,0,Toronto,,3b65,fitzpatrick
-1911Reach,1910,Eastern League,F20583,Fitzpatrick,,0,Toronto,,ss30,fitzpatrick
-1911Reach,1910,Eastern League,B00475,Frick,,0,Baltimore,,B69,frick
-1911Reach,1910,Eastern League,F20526,Frick,,0,Baltimore,,3b37,frick
-1911Reach,1910,Eastern League,F20657,Frick,,0,Baltimore,,ss21,frick
-1911Reach,1910,Eastern League,B01765,Frill,,0,Jersey City,,B19,frill
-1911Reach,1910,Eastern League,F21403,Frill,,0,Jersey City,,p19,frill
-1911Reach,1910,Eastern League,P10159,Frill,,0,Jersey City,,,frill
-1911Reach,1910,Eastern League,B00794,Ganley,,0,Newark,,B114,ganley
-1911Reach,1910,Eastern League,F21255,Ganley,,0,Newark,,rf100,ganley
-1911Reach,1910,Eastern League,B00920,Ganzel,,0,Rochester,,B29,ganzel
-1911Reach,1910,Eastern League,B00335,Gettman,,0,Newark,,B132,gettman
-1911Reach,1910,Eastern League,F20128,Gettman,,0,Newark,,1b13,gettman
-1911Reach,1910,Eastern League,F20943,Gettman,,0,Newark,,cf121,gettman
-1911Reach,1910,Eastern League,B00101,Goode,,0,Baltimore,,B130,goode
-1911Reach,1910,Eastern League,F21210,Goode,,0,Buffalo,,rf118,goode
-1911Reach,1910,Eastern League,B00196,Grimshaw,,0,Toronto,,B62,grimshaw
-1911Reach,1910,Eastern League,F20080,Grimshaw,,0,Toronto,,1b35,grimshaw
-1911Reach,1910,Eastern League,F21241,Grimshaw,,0,Toronto,,rf26,grimshaw
-1911Reach,1910,Eastern League,B01135,Hall,,0,Baltimore,,B106,hall
-1911Reach,1910,Eastern League,F20388,Hall,,0,Baltimore,,2b22,hall
-1911Reach,1910,Eastern League,F20474,Hall,,0,Baltimore,,3b79,hall
-1911Reach,1910,Eastern League,F21196,Handford,,0,Jersey City,,rf78,hanford
-1911Reach,1910,Eastern League,B00680,Hanford,,0,Jersey City,,B133,hanford
-1911Reach,1910,Eastern League,F20855,Hanford,,0,Jersey City,,lf50,hanford
-1911Reach,1910,Eastern League,B01093,Hannifan,,0,Jersey City,,B153,hannifan
-1911Reach,1910,Eastern League,F20287,Hannifan,,0,Jersey City,,2b114,hannifan
-1911Reach,1910,Eastern League,F20648,Hannifan,,0,Jersey City,,ss36,hannifan
-1911Reach,1910,Eastern League,B00068,Hardy,,0,Montreal,,B31,hardy
-1911Reach,1910,Eastern League,F22020,Hardy,,0,Montreal,,c16,hardy
-1911Reach,1910,Eastern League,B00515,Hearne,,0,Newark,,B94,hearne
-1911Reach,1910,Eastern League,F21904,Hearne,,0,Newark,,c74,hearne
-1911Reach,1910,Eastern League,B00059,Heitmuller,,0,Baltimore,,B39,heitmuller
-1911Reach,1910,Eastern League,F20908,Heitmuller,,0,Baltimore,,lf12,heitmuller
-1911Reach,1910,Eastern League,F21059,Heitmuller,,0,Baltimore,,cf10,heitmuller
-1911Reach,1910,Eastern League,F21264,Heitmuller,,0,Buffalo,,rf10,heitmuller
-1911Reach,1910,Eastern League,B00241,Henline,,0,Buffalo,,B151,henline
-1911Reach,1910,Eastern League,F20956,Henline,,0,Buffalo,,cf137,henline
-1911Reach,1910,Eastern League,F21117,Henline,,0,Buffalo,,rf12,henline
-1911Reach,1910,Eastern League,B00397,Hoffman,,0,Providence,,B137,hoffman
-1911Reach,1910,Eastern League,F21319,Hoffman,,0,Providence,,rf130,hoffman
-1911Reach,1910,Eastern League,B00961,Holly,,0,Rochester,,B129,holly
-1911Reach,1910,Eastern League,F20604,Holly,,1,Rochester,,ss,holly
-1911Reach,1910,Eastern League,F20604,Holly,,2,Montreal,,ss,holly
-1911Reach,1910,Eastern League,F20604,Holly,,T,,,ss124,holly
-1911Reach,1910,Eastern League,B01551,Holmes,,0,Newark,,B20,holmes-new
-1911Reach,1910,Eastern League,B01740,Holmes,,0,Rochester,,B33,holmes-roc
-1911Reach,1910,Eastern League,F21752,Holmes,,0,Rochester,,p33,holmes-roc
-1911Reach,1910,Eastern League,F21811,Holmes,,0,Newark,,p20,holmes-new
-1911Reach,1910,Eastern League,P10100,Holmes,,0,Rochester,,,holmes-roc
-1911Reach,1910,Eastern League,P10493,Holmes,,0,Newark,,,holmes-new
-1911Reach,1910,Eastern League,B00356,Holtz,,0,Newark,,B28,holtz
-1911Reach,1910,Eastern League,F21879,Holtz,,0,Newark,,c11,holtz
-1911Reach,1910,Eastern League,B01227,Hunter,,0,Montreal,,B17,hunter
-1911Reach,1910,Eastern League,F21308,Hunter,,0,Montreal,,rf10,hunter
-1911Reach,1910,Eastern League,B00957,Johnson,,0,Jersey City,,B140,johnson
-1911Reach,1910,Eastern League,F20190,Johnson,,0,Jersey City,,1b11,johnson
-1911Reach,1910,Eastern League,F20661,Johnson,,0,Jersey City,,ss120,johnson
-1911Reach,1910,Eastern League,F21101,Johnson,,0,Buffalo,,rf13,johnston
-1911Reach,1910,Eastern League,B01108,Johnston,,0,Buffalo,,B29,johnston
-1911Reach,1910,Eastern League,F20166,Johnston,,0,Buffalo,,1b11,johnston
-1911Reach,1910,Eastern League,B00854,Jones,J.,0,Montreal,,B147,jones.j
-1911Reach,1910,Eastern League,B01291,Jones,E.,0,Montreal,,B34,jones.e
-1911Reach,1910,Eastern League,F20962,Jones,,0,Newark,,cf143,jones.j
-1911Reach,1910,Eastern League,F21589,Jones,,0,Montreal,,p34,jones.e
-1911Reach,1910,Eastern League,P10266,Jones,,0,Montreal,,,jones.j
-1911Reach,1910,Eastern League,B01269,Joyce,,0,Montreal,,B27,joyce
-1911Reach,1910,Eastern League,F20776,Joyce,,0,Montreal,,lf22,joyce
-1911Reach,1910,Eastern League,B00973,Jube,,0,Montreal,,B55,jube
-1911Reach,1910,Eastern League,F21278,Jube,,0,Montreal,,rf55,jube
-1911Reach,1910,Eastern League,B01696,Keefe,,0,Montreal,,B42,keefe
-1911Reach,1910,Eastern League,F21726,Keefe,,0,Montreal,,p42,keefe
-1911Reach,1910,Eastern League,P10081,Keefe,,0,Montreal,,,keefe
-1911Reach,1910,Eastern League,B00229,Kelley,,0,Toronto,,B46,kelley
-1911Reach,1910,Eastern League,F20737,Kelley,,0,Toronto,,lf18,kelley
-1911Reach,1910,Eastern League,F21013,Kelley,,0,Toronto,,cf10,kelley
-1911Reach,1910,Eastern League,B00163,Kelly,,0,Newark,,B145,kelly
-1911Reach,1910,Eastern League,F20745,Kelly,,0,Newark,,lf144,kelly
-1911Reach,1910,Eastern League,B01682,Kieber,,0,Newark,,B6,kieber
-1911Reach,1910,Eastern League,P10503,Killan,,0,Toronto,,,killian
-1911Reach,1910,Eastern League,B00125,Killian,,0,Toronto,,B10,killian
-1911Reach,1910,Eastern League,B01674,Kissinger,,1,Buffalo,,,kissinger
-1911Reach,1910,Eastern League,B01674,Kissinger,,2,Jersey City,,,kissinger
-1911Reach,1910,Eastern League,B01674,Kissinger,,T,,,B34,kissinger
-1911Reach,1910,Eastern League,F21638,Kissinger,,1,Buffalo,,p,kissinger
-1911Reach,1910,Eastern League,F21638,Kissinger,,2,Jersey City,,p,kissinger
-1911Reach,1910,Eastern League,F21638,Kissinger,,T,,,p34,kissinger
-1911Reach,1910,Eastern League,P10024,Kissinger,,1,Buffalo,,,kissinger
-1911Reach,1910,Eastern League,P10024,Kissinger,,2,Jersey City,,,kissinger
-1911Reach,1910,Eastern League,P10024,Kissinger,,T,,,,kissinger
-1911Reach,1910,Eastern League,B00667,Konnick,,0,Buffalo,,B30,konnick
-1911Reach,1910,Eastern League,B00646,Kritchell,,0,Montreal,,B102,kritchell
-1911Reach,1910,Eastern League,F22061,Kritchell,,0,Montreal,,c88,kritchell
-1911Reach,1910,Eastern League,B01567,Lafitte,,0,Rochester,,B43,lafitte
-1911Reach,1910,Eastern League,F21442,Lafitte,,0,Rochester,,p42,lafitte
-1911Reach,1910,Eastern League,P10145,Lafitte,,0,Rochester,,,lafitte
-1911Reach,1910,Eastern League,B01754,Lavender,,0,Providence,,B45,lavender
-1911Reach,1910,Eastern League,F21491,Lavender,,0,Providence,,p45,lavender
-1911Reach,1910,Eastern League,P10385,Lavender,,0,Providence,,,lavender
-1911Reach,1910,Eastern League,B00370,Lee,,1,Toronto,,,lee
-1911Reach,1910,Eastern League,B00370,Lee,,2,Newark,,,lee
-1911Reach,1910,Eastern League,B00370,Lee,,T,,,B72,lee
-1911Reach,1910,Eastern League,F21335,Lee,,0,Newark,,p38,lee
-1911Reach,1910,Eastern League,P10035,Lee,,0,Newark,,,lee
-1911Reach,1910,Eastern League,B01124,Londrigan,,0,Jersey City,,B27,londrigan
-1911Reach,1910,Eastern League,F21229,Londrigan,,0,Jersey City,,rf19,londrigan
-1911Reach,1910,Eastern League,B00783,Louden,,0,Newark,,B142,louden
-1911Reach,1910,Eastern League,F20612,Louden,,0,Newark,,ss142,louden
-1911Reach,1910,Eastern League,B01203,Loudenslager,,0,Newark,,B19,loudenslager
-1911Reach,1910,Eastern League,F20254,Loudenslager,,0,Jersey City,,2b19,loudenslager
-1911Reach,1910,Eastern League,B01580,Lundgren,,0,Toronto,,B10,lundgren
-1911Reach,1910,Eastern League,F21833,Lundgren,,0,Toronto,,p10,lundgren
-1911Reach,1910,Eastern League,P10527,Lundgren,,0,Toronto,,,lundgren
-1911Reach,1910,Eastern League,B01275,Madden,,0,Montreal,,B13,madden
-1911Reach,1910,Eastern League,F20864,Madden,,0,Montreal,,lf10,madden
-1911Reach,1910,Eastern League,B00488,Malarkey,,0,Buffalo,,B20,malarkey
-1911Reach,1910,Eastern League,F21577,Malarkey,,0,Buffalo,,p20,malarkey
-1911Reach,1910,Eastern League,P10121,Malarky,,0,Buffalo,,,malarkey
-1911Reach,1910,Eastern League,B00936,Malloy,,0,Baltimore,,B28,malloy
-1911Reach,1910,Eastern League,F21623,Malloy,,0,Baltimore,,p28,malloy
-1911Reach,1910,Eastern League,P10357,Malloy,,0,Baltimore,,,malloy
-1911Reach,1910,Eastern League,B00822,Manning,,0,Rochester,,B7,manning
-1911Reach,1910,Eastern League,B01514,Manser,,0,Jersey City,,B38,manser
-1911Reach,1910,Eastern League,F21760,Manser,,0,Jersey City,,p36,manser
-1911Reach,1910,Eastern League,B01787,Maroney,,0,Baltimore,,B11,maroney
-1911Reach,1910,Eastern League,F21771,Maroney,,0,Baltimore,,p11,maroney
-1911Reach,1910,Eastern League,P10228,Maroney,,0,Baltimore,,,maroney
-1911Reach,1910,Eastern League,B01250,Martel,,0,Rochester,,B16,martel
-1911Reach,1910,Eastern League,F21898,Martel,,0,Rochester,,c13,martel
-1911Reach,1910,Eastern League,B00362,Martini,,0,Providence,,B23,martini
-1911Reach,1910,Eastern League,P10410,Mauser,,0,Jersey City,,,manser
-1911Reach,1910,Eastern League,B00544,McAllister,,1,Buffalo,,,mcallister
-1911Reach,1910,Eastern League,B00544,McAllister,,2,Toronto,,,mcallister
-1911Reach,1910,Eastern League,B00544,McAllister,,4,Newark,,,mcallister
-1911Reach,1910,Eastern League,B00544,McAllister,,T,,,B110,mcallister
-1911Reach,1910,Eastern League,F21985,McAllister,,1,Buffalo,,c,mcallister
-1911Reach,1910,Eastern League,F21985,McAllister,,2,Toronto,,c,mcallister
-1911Reach,1910,Eastern League,F21985,McAllister,,3,Montreal,,c,mcallister
-1911Reach,1910,Eastern League,F21985,McAllister,,4,Newark,,c,mcallister
-1911Reach,1910,Eastern League,F21985,McAllister,,T,,,c96,mcallister
-1911Reach,1910,Eastern League,B00760,McCabe,,0,Buffalo,,B117,mccabe
-1911Reach,1910,Eastern League,F20768,McCabe,,0,Buffalo,,lf15,mccabe
-1911Reach,1910,Eastern League,F21149,McCabe,,0,Buffalo,,rf101,mccabe
-1911Reach,1910,Eastern League,B00045,McConnell,,0,Rochester,,B45,mcconnell
-1911Reach,1910,Eastern League,F21450,McConnell,,0,Rochester,,p36,mcconnell
-1911Reach,1910,Eastern League,P10168,McConnell,,0,Rochester,,,mcconnell
-1911Reach,1910,Eastern League,B00695,McDonald,,0,Toronto,,B128,mcdonald
-1911Reach,1910,Eastern League,F20547,McDonald,,0,Toronto,,3b97,mcdonald
-1911Reach,1910,Eastern League,F21084,McDonald,,0,Toronto,,rf17,mcdonald
-1911Reach,1910,Eastern League,B01617,McGinley,,0,Toronto,,B41,mcginley
-1911Reach,1910,Eastern League,F21416,McGinley,,0,Toronto,,p41,mcginley
-1911Reach,1910,Eastern League,P10320,McGinley,,0,Toronto,,,mcginley
-1911Reach,1910,Eastern League,B01197,McGinnity,,0,Newark,,B64,mcginnity
-1911Reach,1910,Eastern League,F21515,McGinnity,,0,Newark,,p61,mcginnity
-1911Reach,1910,Eastern League,P10176,McGinnity,,0,Newark,,,mcginnity
-1911Reach,1910,Eastern League,B01313,Merritt,,1,Jersey City,,,merritt
-1911Reach,1910,Eastern League,B01313,Merritt,,2,Buffalo,,,merritt
-1911Reach,1910,Eastern League,B01313,Merritt,,T,,,B40,merritt
-1911Reach,1910,Eastern League,F21544,Merritt,,1,Jersey City,,p,merritt
-1911Reach,1910,Eastern League,F21544,Merritt,,2,Buffalo,,p,merritt
-1911Reach,1910,Eastern League,F21544,Merritt,,T,,,p25,merritt
-1911Reach,1910,Eastern League,P10113,Merritt,,1,Jersey City,,,merritt
-1911Reach,1910,Eastern League,P10113,Merritt,,2,Buffalo,,,merritt
-1911Reach,1910,Eastern League,P10113,Merritt,,T,,,,merritt
-1911Reach,1910,Eastern League,B00434,Meyer,,0,Newark,,B119,meyer
-1911Reach,1910,Eastern League,F20369,Meyers,,0,Newark,,2b35,meyer
-1911Reach,1910,Eastern League,F20886,Meyers,,0,Newark,,lf12,meyer
-1911Reach,1910,Eastern League,F20919,Meyers,,0,Newark,,cf14,meyer
-1911Reach,1910,Eastern League,F21163,Meyers,,0,Newark,,rf39,meyer
-1911Reach,1910,Eastern League,B01722,Milligan,,0,Jersey City,,B11,milligan
-1911Reach,1910,Eastern League,B00293,Moeller,,1,Jersey City,,,moeller
-1911Reach,1910,Eastern League,B00293,Moeller,,2,Rochester,,,moeller
-1911Reach,1910,Eastern League,B00293,Moeller,,T,,,B158,moeller
-1911Reach,1910,Eastern League,F21021,Moeller,,1,Jersey City,,cf,moeller
-1911Reach,1910,Eastern League,F21021,Moeller,,2,Rochester,,cf,moeller
-1911Reach,1910,Eastern League,F21021,Moeller,,T,,,cf40,moeller
-1911Reach,1910,Eastern League,F21293,Moeller,,0,Jersey City,,rf117,moeller
-1911Reach,1910,Eastern League,B00158,Moran,,0,Rochester,,B29,moran
-1911Reach,1910,Eastern League,F20759,Moran,,0,Rochester,,lf28,moran
-1911Reach,1910,Eastern League,B01078,Mueller,,1,Newark,,,mueller
-1911Reach,1910,Eastern League,B01078,Mueller,,2,Toronto,,,mueller
-1911Reach,1910,Eastern League,B01078,Mueller,,T,,,B45,mueller
-1911Reach,1910,Eastern League,F21381,Mueller,,1,Newark,,p,mueller
-1911Reach,1910,Eastern League,F21381,Mueller,,2,Toronto,,p,mueller
-1911Reach,1910,Eastern League,F21381,Mueller,,T,,,p35,mueller
-1911Reach,1910,Eastern League,B00747,Mullen,,0,Toronto,,B138,mullen
-1911Reach,1910,Eastern League,F20240,Mullen,,0,Toronto,,2b138,mullen
-1911Reach,1910,Eastern League,B01804,Murray,,0,Baltimore,,B13,murray
-1911Reach,1910,Eastern League,B01055,Nattress,,0,Montreal,,B149,nattress
-1911Reach,1910,Eastern League,F20327,Nattress,,0,Montreal,,2b74,nattress
-1911Reach,1910,Eastern League,F20699,Nattress,,0,Montreal,,ss66,nattress
-1911Reach,1910,Eastern League,B01321,Newton,,0,Toronto,,B37,newton
-1911Reach,1910,Eastern League,F21783,Newton,,0,Toronto,,p37,newton
-1911Reach,1910,Eastern League,P10244,Newton,,0,Toronto,,,newton
-1911Reach,1910,Eastern League,B00528,Nichols,,0,Baltimore,,B124,nichols
-1911Reach,1910,Eastern League,F20685,Nichols,,0,Baltimore,,ss124,nichols
-1911Reach,1910,Eastern League,B00427,O'Hara,,0,Toronto,,B122,ohara-tor
-1911Reach,1910,Eastern League,B01337,O'Hara,,0,Jersey City,,B10,ohara-jc
-1911Reach,1910,Eastern League,F20935,O'Hara,,0,Toronto,,cf118,ohara-tor
-1911Reach,1910,Eastern League,B00084,Osborn,,0,Rochester,,B156,osborn
-1911Reach,1910,Eastern League,F20997,Osborne,,0,Rochester,,cf144,osborn
-1911Reach,1910,Eastern League,B01630,Parkins,,0,Newark,,B31,parkins
-1911Reach,1910,Eastern League,F21794,Parkins,,0,Newark,,p30,parkins
-1911Reach,1910,Eastern League,P10043,Parkins,,0,Newark,,,parkins
-1911Reach,1910,Eastern League,B01007,Pattee,,0,Rochester,,B124,pattee
-1911Reach,1910,Eastern League,F20316,Pattee,,1,Rochester,,2b,pattee
-1911Reach,1910,Eastern League,F20316,Pattee,,2,Buffalo,,2b,pattee
-1911Reach,1910,Eastern League,F20316,Pattee,,T,,,2b65,pattee
-1911Reach,1910,Eastern League,F20636,Pattee,,1,Rochester,,ss,pattee
-1911Reach,1910,Eastern League,F20636,Pattee,,2,Buffalo,,ss,pattee
-1911Reach,1910,Eastern League,F20636,Pattee,,T,,,ss45,pattee
-1911Reach,1910,Eastern League,B01384,Peterson,,0,Providence,,B102,peterson
-1911Reach,1910,Eastern League,F20375,Peterson,,0,Providence,,2b16,peterson
-1911Reach,1910,Eastern League,F22048,Peterson,,0,Providence,,c73,peterson
-1911Reach,1910,Eastern League,B01300,Phelan,,0,Providence,,B101,phelan
-1911Reach,1910,Eastern League,F20981,Phelan,,0,Providence,,cf99,phelan
-1911Reach,1910,Eastern League,B01523,Ragan,,0,Rochester,,B35,ragan
-1911Reach,1910,Eastern League,F21590,Ragan,,0,Rochester,,p33,ragan
-1911Reach,1910,Eastern League,P10202,Ragan,,0,Rochester,,,ragan
-1911Reach,1910,Eastern League,B01733,Randolph,,0,Providence,,B6,randolph
-1911Reach,1910,Eastern League,B00021,Rath,,0,Baltimore,,B28,rath
-1911Reach,1910,Eastern League,F20222,Rath,,0,Baltimore,,2b19,rath
-1911Reach,1910,Eastern League,B00726,Rock,,0,Providence,,B125,rock
-1911Reach,1910,Eastern League,F20571,Rock,,0,Providence,,ss125,rock
-1911Reach,1910,Eastern League,B00811,Rudolph,,0,Toronto,,B44,rudolph
-1911Reach,1910,Eastern League,F21397,Rudolph,,0,Toronto,,p41,rudolph
-1911Reach,1910,Eastern League,P10184,Rudolph,,0,Toronto,,,rudolph
-1911Reach,1910,Eastern League,B00442,Russell,,0,Baltimore,,B47,russell
-1911Reach,1910,Eastern League,F21646,Russell,,0,Baltimore,,p44,russell
-1911Reach,1910,Eastern League,P10070,Russell,,0,Baltimore,,,russell
-1911Reach,1910,Eastern League,B01431,Ryan,,0,Jersey City,,B18,ryan
-1911Reach,1910,Eastern League,F21865,Ryan,,0,Jersey City,,c13,ryan
-1911Reach,1910,Eastern League,B00343,Sabrie,,0,Buffalo,,B118,sabrie
-1911Reach,1910,Eastern League,F20067,Sabrie,,0,Buffalo,,1b118,sabrie
-1911Reach,1910,Eastern League,B01595,Savidge,,0,Rochester,,B31,savidge
-1911Reach,1910,Eastern League,F21362,Savidge,,0,Rochester,,p31,savidge
-1911Reach,1910,Eastern League,P10277,Savidge,,0,Rochester,,,savidge
-1911Reach,1910,Eastern League,F20189,Schafly,,0,Newark,,1b10,schlafly
-1911Reach,1910,Eastern League,F20298,Schafly,,0,Newark,,2b137,schlafly
-1911Reach,1910,Eastern League,B00117,Schirm,,0,Buffalo,,B39,schirm
-1911Reach,1910,Eastern League,B00948,Schlafly,,0,Newark,,B142,schlafly
-1911Reach,1910,Eastern League,B00149,Schmidt,,0,Baltimore,,B85,schmidt
-1911Reach,1910,Eastern League,F20177,Schmidt,,0,Baltimore,,1b49,schmidt
-1911Reach,1910,Eastern League,F21092,Schmidt,,0,Baltimore,,rf17,schmidt
-1911Reach,1910,Eastern League,P10455,Schmidt,,0,Baltimore,,,schmidt
-1911Reach,1910,Eastern League,F21000,Schrim,,0,Buffalo,,cf11,schirm
-1911Reach,1910,Eastern League,F21158,Schrim,,0,Buffalo,,rf18,schirm
-1911Reach,1910,Eastern League,B00207,Seymour,,0,Baltimore,,B15,seymour
-1911Reach,1910,Eastern League,F20893,Seymour,,0,Baltimore,,lf12,seymour
-1911Reach,1910,Eastern League,B00210,Shaw,,0,Toronto,,B139,shaw
-1911Reach,1910,Eastern League,F20924,Shaw,,0,Toronto,,cf27,shaw
-1911Reach,1910,Eastern League,F21286,Shaw,,0,Toronto,,rf107,shaw
-1911Reach,1910,Eastern League,B00286,Simmons,,0,Rochester,,B36,simmons
-1911Reach,1910,Eastern League,F20552,Simmons,,0,Rochester,,3b25,simmons
-1911Reach,1910,Eastern League,B01649,Sitton,,0,Jersey City,,B31,sitton
-1911Reach,1910,Eastern League,F21475,Sitton,,0,Jersey City,,p31,sitton
-1911Reach,1910,Eastern League,P10407,Sitton,,0,Jersey City,,,sitton
-1911Reach,1910,Eastern League,B00308,Slagle,,0,Baltimore,,B146,slagle
-1911Reach,1910,Eastern League,F20970,Slagle,,0,Baltimore,,cf146,slagle
-1911Reach,1910,Eastern League,B00076,Slattery,,0,Toronto,,B100,slattery
-1911Reach,1910,Eastern League,F20038,Slattery,,0,Toronto,,1b83,slattery
-1911Reach,1910,Eastern League,F21999,Slattery,,0,Toronto,,c11,slattery
-1911Reach,1910,Eastern League,B01466,Sline,,0,Providence,,B39,sline
-1911Reach,1910,Eastern League,F21566,Sline,,0,Providence,,p39,sline
-1911Reach,1910,Eastern League,P10429,Sline,,0,Providence,,,sline
-1911Reach,1910,Eastern League,B00381,Smith,,1,Montreal,,,smith-mon+buf
-1911Reach,1910,Eastern League,B00381,Smith,,2,Buffalo,,,smith-mon+buf
-1911Reach,1910,Eastern League,B00381,Smith,,T,,,B145,smith-mon+buf
-1911Reach,1910,Eastern League,B01538,Smith,,0,Toronto,,B20,smith-tor
-1911Reach,1910,Eastern League,F20211,Smith,,1,Montreal,,2b,smith-mon+buf
-1911Reach,1910,Eastern League,F20211,Smith,,2,Buffalo,,2b,smith-mon+buf
-1911Reach,1910,Eastern League,F20211,Smith,,T,,,2b141,smith-mon+buf
-1911Reach,1910,Eastern League,F21488,Smith,,0,Toronto,,p20,smith-tor
-1911Reach,1910,Eastern League,P10056,Smith,,0,Toronto,,,smith-tor
-1911Reach,1910,Eastern League,B00013,Spade,,0,Newark,,B13,spade
-1911Reach,1910,Eastern League,F21739,Spade,,0,Newark,,p10,spade
-1911Reach,1910,Eastern League,P10534,Spade,,0,Newark,,,spade
-1911Reach,1910,Eastern League,B01216,Spahr,,0,Jersey City,,B29,spahr
-1911Reach,1910,Eastern League,F21887,Spahr,,0,Jersey City,,c25,spahr
-1911Reach,1910,Eastern League,B01490,Speer,,0,Buffalo,,B10,speer
-1911Reach,1910,Eastern League,F21651,Speer,,0,Buffalo,,p10,speer
-1911Reach,1910,Eastern League,P10312,Speer,,0,Buffalo,,,speer
-1911Reach,1910,Eastern League,B00752,Spencer,,0,Rochester,,B139,spencer
-1911Reach,1910,Eastern League,F20102,Spencer,,0,Rochester,,1b136,spencer
-1911Reach,1910,Eastern League,B01572,Starnagle,,0,Rochester,,B11,starnagle
-1911Reach,1910,Eastern League,F21948,Starnagle,,0,Rochester,,c10,starnagle
-1911Reach,1910,Eastern League,B00278,Starr,,0,Buffalo,,B93,starr
-1911Reach,1910,Eastern League,F20673,Starr,,0,Buffalo,,ss92,starr
-1911Reach,1910,Eastern League,B00553,Steele,,0,Providence,,B36,steele
-1911Reach,1910,Eastern League,F21370,Steele,,0,Providence,,p35,steele
-1911Reach,1910,Eastern League,P10097,Steele,,0,Providence,,,steele
-1911Reach,1910,Eastern League,B00705,Strang,,0,Baltimore,,B61,strang
-1911Reach,1910,Eastern League,F20303,Strang,,0,Baltimore,,2b59,strang
-1911Reach,1910,Eastern League,B01453,Sullivan,,0,Providence,,B47,sullivan
-1911Reach,1910,Eastern League,F20131,Sullivan,,0,Providence,,1b30,sullivan
-1911Reach,1910,Eastern League,F20350,Sullivan,,0,Providence,,2b17,sullivan
-1911Reach,1910,Eastern League,B01477,Taylor,,0,Buffalo,,B34,taylor
-1911Reach,1910,Eastern League,F21356,Taylor,,0,Buffalo,,p34,taylor
-1911Reach,1910,Eastern League,P10304,Taylor,,0,Buffalo,,,taylor
-1911Reach,1910,Eastern League,B01509,Thompson,,0,Providence,,B8,thompson
-1911Reach,1910,Eastern League,B00174,Tonneman,,0,Toronto,,B51,tonneman
-1911Reach,1910,Eastern League,F22073,Tonneman,,0,Toronto,,c45,tonneman
-1911Reach,1910,Eastern League,B00590,Tooley,,0,Rochester,,B138,tooley
-1911Reach,1910,Eastern League,F20700,Tooley,,0,Rochester,,ss133,tooley
-1911Reach,1910,Eastern League,B00840,Vandegrift,,0,Toronto,,B64,vandegrift
-1911Reach,1910,Eastern League,F22057,Vandegrift,,0,Toronto,,c63,vandegrift
-1911Reach,1910,Eastern League,B01032,Vaughn,,0,Toronto,,B128,vaughn
-1911Reach,1910,Eastern League,F20620,Vaughn,,0,Toronto,,ss128,vaughn
-1911Reach,1910,Eastern League,B01242,Vickers,,0,Baltimore,,B55,vickers
-1911Reach,1910,Eastern League,F21343,Vickers,,0,Baltimore,,p55,vickers
-1911Reach,1910,Eastern League,P10290,Vickers,,0,Baltimore,,,vickers
-1911Reach,1910,Eastern League,B01376,Vowinkle,,0,Buffalo,,B40,vowinkle
-1911Reach,1910,Eastern League,F21427,Vowinkle,,0,Buffalo,,p40,vowinkle
-1911Reach,1910,Eastern League,P10361,Vowinkle,,0,Buffalo,,,vowinkle
-1911Reach,1910,Eastern League,B01706,Waddell,,0,Newark,,B15,waddell
-1911Reach,1910,Eastern League,F21531,Waddell,,0,Newark,,p15,waddell
-1911Reach,1910,Eastern League,P10137,Waddell,,0,Newark,,,waddell
-1911Reach,1910,Eastern League,B00324,Walsh,,0,Baltimore,,B140,walsh-bal
-1911Reach,1910,Eastern League,B01064,Walsh,,0,Jersey City,,B17,walsh-jc
-1911Reach,1910,Eastern League,F20807,Walsh,,0,Baltimore,,lf133,walsh-bal
-1911Reach,1910,Eastern League,B00092,Ward,,0,Rochester,,B45,ward
-1911Reach,1910,Eastern League,F20449,Ward,,0,Rochester,,3b45,ward
-1911Reach,1910,Eastern League,B00771,Welday,,0,Providence,,B85,welday
-1911Reach,1910,Eastern League,F21045,Welday,,0,Providence,,cf50,welday
-1911Reach,1910,Eastern League,F21207,Welday,,0,Providence,,rf17,welday
-1911Reach,1910,Eastern League,B00469,Wheeler,,0,Jersey City,,B48,wheeler
-1911Reach,1910,Eastern League,F21130,Wheeler,,0,Jersey City,,rf41,wheeler
-1911Reach,1910,Eastern League,B00255,White,,0,Buffalo,,B146,white
-1911Reach,1910,Eastern League,F20832,White,,0,Buffalo,,lf138,white
-1911Reach,1910,Eastern League,B01601,Wiggs,,0,Montreal,,B35,wiggs
-1911Reach,1910,Eastern League,F21502,Wiggs,,0,Montreal,,p35,wiggs
-1911Reach,1910,Eastern League,P10432,Wiggs,,0,Montreal,,,wiggs
-1911Reach,1910,Eastern League,B00833,Williams,,0,Buffalo,,B117,williams
-1911Reach,1910,Eastern League,F20023,Williams,,0,Buffalo,,1b15,williams
-1911Reach,1910,Eastern League,F22036,Williams,,0,Buffalo,,c84,williams
-1911Reach,1910,Eastern League,B01779,Wilson,,0,Providence,,B13,wilson
-1911Reach,1910,Eastern League,F21705,Wilson,,0,Providence,,p11,wilson
-1911Reach,1910,Eastern League,P10550,Wilson,,0,Providence,,,wilson
-1911Reach,1910,Eastern League,B01170,Winter,,0,Montreal,,B36,winter
-1911Reach,1910,Eastern League,F21434,Winter,,0,Montreal,,p35,winter
-1911Reach,1910,Eastern League,P10542,Winter,,0,Montreal,,,winter
-1911Reach,1910,Eastern League,B01234,Wood,,0,Buffalo,,B73,wood
-1911Reach,1910,Eastern League,F20425,Wood,,0,Buffalo,,3b13,wood
-1911Reach,1910,Eastern League,F20713,Wood,,0,Buffalo,,ss17,wood
-1911Reach,1910,Eastern League,F21920,Wood,,0,Buffalo,,c40,wood
-1911Reach,1910,Eastern League,B00589,Yeager,,0,Montreal,,B145,yeager
-1911Reach,1910,Eastern League,F20417,Yeager,,0,Montreal,,3b134,yeager
-1911Reach,1910,Eastern League,B00672,Zimmerman,,0,Newark,,B156,zimmerman
-1911Reach,1910,Eastern League,F20401,Zimmerman,,0,Newark,,3b155,zimmerman
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+1911Reach,1910,Eastern League,abstein,F20046,Abstein,,0,Jersey City,,1b118
+1911Reach,1910,Eastern League,abstein,B00450,Abstiein,,0,Jersey City,,B118
+1911Reach,1910,Eastern League,adkins,B01625,Adkins,,0,Baltimore,,B37
+1911Reach,1910,Eastern League,adkins,F21672,Adkins,,0,Baltimore,,p37
+1911Reach,1910,Eastern League,adkins,P10336,Adkins,,0,Baltimore,,
+1911Reach,1910,Eastern League,agier,F20095,Agier,,0,Newark,,1b144
+1911Reach,1910,Eastern League,agier,B01143,Agler,,0,Newark,,B144
+1911Reach,1910,Eastern League,alperman,B00491,Alperman,,0,Rochester,,B149
+1911Reach,1910,Eastern League,alperman,F20334,Alperman,,0,Rochester,,2b89
+1911Reach,1910,Eastern League,alperman,F20463,Alperman,,0,Rochester,,3b59
+1911Reach,1910,Eastern League,anderson,B01546,Anderson,,0,Rochester,,B48
+1911Reach,1910,Eastern League,anderson,F20721,Anderson,,0,Rochester,,lf34
+1911Reach,1910,Eastern League,arndt,B00577,Arndt,,0,Providence,,B120
+1911Reach,1910,Eastern League,arndt,F20014,Arndt,,0,Providence,,1b42
+1911Reach,1910,Eastern League,arndt,F20279,Arndt,,0,Providence,,2b26
+1911Reach,1910,Eastern League,arndt,F20518,Arndt,,0,Providence,,3b36
+1911Reach,1910,Eastern League,atz,B00566,Atz,,0,Providence,,B129
+1911Reach,1910,Eastern League,atz,F20233,Atz,,0,Providence,,2b101
+1911Reach,1910,Eastern League,atz,F20594,Atz,,0,Providence,,ss25
+1911Reach,1910,Eastern League,bailey,B01359,Bailey,,0,Montreal,,B21
+1911Reach,1910,Eastern League,bailey,F21182,Bailey,,0,Montreal,,rf18
+1911Reach,1910,Eastern League,barberich,B01663,Barberich,,0,Providence,,B24
+1911Reach,1910,Eastern League,barberich,F21528,Barberich,,0,Providence,,p21
+1911Reach,1910,Eastern League,barberich,P10478,Barberich,,0,Providence,,
+1911Reach,1910,Eastern League,bartley,B01798,Bartley,,0,Jersey City,,B23
+1911Reach,1910,Eastern League,bartley,F21553,Bartley,,0,Jersey City,,p23
+1911Reach,1910,Eastern League,bartley,P10441,Bartley,,0,Jersey City,,
+1911Reach,1910,Eastern League,batch,B00232,Batch,,0,Rochester,,B134
+1911Reach,1910,Eastern League,batch,F20430,Batch,,0,Rochester,,3b30
+1911Reach,1910,Eastern League,batch,F20792,Batch,,0,Rochester,,lf75
+1911Reach,1910,Eastern League,batch,F21174,Batch,,0,Rochester,,rf25
+1911Reach,1910,Eastern League,beecher,B00319,Beecher,,0,Rochester,,B18
+1911Reach,1910,Eastern League,beecher,F21747,Beecher,,0,Rochester,,p10
+1911Reach,1910,Eastern League,beecher,P10062,Beecher,,0,Rochester,,
+1911Reach,1910,Eastern League,blair,B00502,Blair,,0,Rochester,,B146
+1911Reach,1910,Eastern League,blair,F21912,Blair,,0,Rochester,,c145
+1911Reach,1910,Eastern League,brain,B00887,Brain,,0,Buffalo,,B31
+1911Reach,1910,Eastern League,brain,F20505,Brain,,0,Buffalo,,3b31
+1911Reach,1910,Eastern League,brodie,B01041,Brodie,,0,Newark,,B11
+1911Reach,1910,Eastern League,browne,B00623,Browne,,0,Newark,,B40
+1911Reach,1910,Eastern League,browne,F21068,Browne,,0,Newark,,cf24
+1911Reach,1910,Eastern League,browne,F21232,Browne,,0,Newark,,rf13
+1911Reach,1910,Eastern League,burchell,B01711,Burchell,,1,Buffalo,,
+1911Reach,1910,Eastern League,burchell,B01711,Burchell,,2,Montreal,,
+1911Reach,1910,Eastern League,burchell,B01711,Burchell,,T,,,B41
+1911Reach,1910,Eastern League,burchell,F21695,Burchell,,1,Buffalo,,p
+1911Reach,1910,Eastern League,burchell,F21695,Burchell,,2,Montreal,,p
+1911Reach,1910,Eastern League,burchell,F21695,Burchell,,T,,,p37
+1911Reach,1910,Eastern League,burchell,P10253,Burchell,,1,Buffalo,,
+1911Reach,1910,Eastern League,burchell,P10253,Burchell,,2,Montreal,,
+1911Reach,1910,Eastern League,burchell,P10253,Burchell,,T,,,
+1911Reach,1910,Eastern League,butler,B01162,Butler,,0,Jersey City,,B65
+1911Reach,1910,Eastern League,butler,F22012,Butler,,0,Jersey City,,c59
+1911Reach,1910,Eastern League,byers,B00651,Byers,,0,Baltimore,,B79
+1911Reach,1910,Eastern League,byers,F22004,Byers,,0,Baltimore,,c69
+1911Reach,1910,Eastern League,camnitz,B01415,Camnitz,,0,Jersey City,,B31
+1911Reach,1910,Eastern League,camnitz,F21667,Camnitz,,0,Jersey City,,p31
+1911Reach,1910,Eastern League,camnitz,P10486,Camnitz,,0,Jersey City,,
+1911Reach,1910,Eastern League,carmichael,B01010,Carmichael,,0,Buffalo,,B40
+1911Reach,1910,Eastern League,carmichael,F21718,Carmichael,,0,Buffalo,,p29
+1911Reach,1910,Eastern League,carmichael,P10289,Carmichael,,0,Buffalo,,
+1911Reach,1910,Eastern League,carroll,B01444,Carroll,,0,Toronto,,B27
+1911Reach,1910,Eastern League,carroll,F21806,Carroll,,0,Toronto,,p26
+1911Reach,1910,Eastern League,carroll,P10231,Carroll,,0,Toronto,,
+1911Reach,1910,Eastern League,castle,B00416,Castle,,0,Rochester,,B11
+1911Reach,1910,Eastern League,castle,F20878,Castle,,0,Rochester,,lf10
+1911Reach,1910,Eastern League,catiz,B01392,Catiz,,0,Baltimore,,B22
+1911Reach,1910,Eastern League,catiz,F20560,Catiz,,0,Baltimore,,3b22
+1911Reach,1910,Eastern League,clancy,B00739,Clancy,,0,Baltimore,,B107
+1911Reach,1910,Eastern League,clancy,F20115,Clancy,,0,Baltimore,,1b107
+1911Reach,1910,Eastern League,cleary,B00999,Cleary,,0,Montreal,,B5
+1911Reach,1910,Eastern League,cleary,B01428,Cleary,,0,Newark,,B10
+1911Reach,1910,Eastern League,cleary,P10192,Cleary,,0,Newark,,
+1911Reach,1910,Eastern League,clement,B00403,Clement,,0,Jersey City,,B122
+1911Reach,1910,Eastern League,clement,F20810,Clement,,0,Jersey City,,lf110
+1911Reach,1910,Eastern League,cockill,B01156,Cockill,,0,Montreal,,B132
+1911Reach,1910,Eastern League,cockill,F20051,Cockill,,0,Montreal,,1b121
+1911Reach,1910,Eastern League,collins,B00912,Collins,,0,Providence,,B121
+1911Reach,1910,Eastern League,collins,F20458,Collins,,0,Providence,,3b117
+1911Reach,1910,Eastern League,corcoran,B00264,Corcoran,,1,Montreal,,
+1911Reach,1910,Eastern League,corcoran,B00264,Corcoran,,2,Buffalo,,
+1911Reach,1910,Eastern League,corcoran,B00264,Corcoran,,T,,,B128
+1911Reach,1910,Eastern League,corcoran,F20539,Corcoran,,1,Montreal,,3b
+1911Reach,1910,Eastern League,corcoran,F20539,Corcoran,,2,Buffalo,,3b
+1911Reach,1910,Eastern League,corcoran,F20539,Corcoran,,T,,,3b95
+1911Reach,1910,Eastern League,corcoran,F21324,Corcoran,,0,Montreal,,rf23
+1911Reach,1910,Eastern League,corey,B00638,Corey,,0,Toronto,,B20
+1911Reach,1910,Eastern League,corey,F21840,Corey,,0,Toronto,,p20
+1911Reach,1910,Eastern League,corey,P10215,Corey,,0,Toronto,,
+1911Reach,1910,Eastern League,courtney,B01029,Courtney,,0,Providence,,B78
+1911Reach,1910,Eastern League,courtney,F20153,Courtney,,0,Providence,,1b75
+1911Reach,1910,Eastern League,crisp,B01368,Crisp,,0,Newark,,B60
+1911Reach,1910,Eastern League,crisp,F21973,Crisp,,0,Newark,,c60
+1911Reach,1910,Eastern League,crist,B01345,Crist,,0,Jersey City,,B66
+1911Reach,1910,Eastern League,crist,F21957,Crist,,0,Jersey City,,c66
+1911Reach,1910,Eastern League,cronin,B01119,Cronin,,1,Providence,,
+1911Reach,1910,Eastern League,cronin,B01119,Cronin,,2,Buffalo,,
+1911Reach,1910,Eastern League,cronin,B01119,Cronin,,T,,,B19
+1911Reach,1910,Eastern League,cronin,F21854,Cronin,,1,Providence,,p
+1911Reach,1910,Eastern League,cronin,F21854,Cronin,,2,Buffalo,,p
+1911Reach,1910,Eastern League,cronin,F21854,Cronin,,T,,,p18
+1911Reach,1910,Eastern League,cronin,P10464,Cronin,,1,Providence,,
+1911Reach,1910,Eastern League,cronin,P10464,Cronin,,2,Buffalo,,
+1911Reach,1910,Eastern League,cronin,P10464,Cronin,,T,,,
+1911Reach,1910,Eastern League,crooks,B01086,Crooks,,0,Jersey City,,B21
+1911Reach,1910,Eastern League,crooks,F20144,Crooks,,0,Jersey City,,1b20
+1911Reach,1910,Eastern League,crowley,B01181,Crowley,,1,Providence,,
+1911Reach,1910,Eastern League,crowley,B01181,Crowley,,2,Montreal,,
+1911Reach,1910,Eastern League,crowley,B01181,Crowley,,T,,,B16
+1911Reach,1910,Eastern League,crowley,F21822,Crowley,,1,Providence,,p
+1911Reach,1910,Eastern League,crowley,F21822,Crowley,,2,Montreal,,p
+1911Reach,1910,Eastern League,crowley,F21822,Crowley,,T,,,p16
+1911Reach,1910,Eastern League,crowley,P10399,Crowley,,1,Providence,,
+1911Reach,1910,Eastern League,crowley,P10399,Crowley,,2,Montreal,,
+1911Reach,1910,Eastern League,crowley,P10399,Crowley,,T,,,
+1911Reach,1910,Eastern League,curtis,B00985,Curtis,,0,Montreal,,B70
+1911Reach,1910,Eastern League,curtis,F21961,Curtis,,0,Montreal,,c49
+1911Reach,1910,Eastern League,dank,B01658,Dank,,0,Buffalo,,B7
+1911Reach,1910,Eastern League,deal,B01288,Deal,,1,Toronto,,
+1911Reach,1910,Eastern League,deal,B01288,Deal,,2,Montreal,,
+1911Reach,1910,Eastern League,deal,B01288,Deal,,T,,,B56
+1911Reach,1910,Eastern League,deal,F20072,Deal,,1,Toronto,,1b
+1911Reach,1910,Eastern League,deal,F20072,Deal,,2,Montreal,,1b
+1911Reach,1910,Eastern League,deal,F20072,Deal,,3,Buffalo,,1b
+1911Reach,1910,Eastern League,deal,F20072,Deal,,T,,,1b56
+1911Reach,1910,Eastern League,deininger,B00130,Deininger,,1,Rochester,,
+1911Reach,1910,Eastern League,deininger,B00130,Deininger,,2,Jersey City,,
+1911Reach,1910,Eastern League,deininger,B00130,Deininger,,T,,,B154
+1911Reach,1910,Eastern League,deininger,F21037,Deininger,,1,Rochester,,cf
+1911Reach,1910,Eastern League,deininger,F21037,Deininger,,2,Jersey City,,cf
+1911Reach,1910,Eastern League,deininger,F21037,Deininger,,T,,,cf127
+1911Reach,1910,Eastern League,deininger,F21125,Deininger,,0,Rochester,,rf11
+1911Reach,1910,Eastern League,delahanty,B00182,Delahanty,,0,Toronto,,B144
+1911Reach,1910,Eastern League,delahanty,F20784,Delehanty,,0,Toronto,,lf136
+1911Reach,1910,Eastern League,demmitt,B00609,Demmitt,,0,Montreal,,B130
+1911Reach,1910,Eastern League,demmitt,F20829,Demmitt,,0,Montreal,,lf105
+1911Reach,1910,Eastern League,demmitt,F21076,Demmitt,,0,Montreal,,rf25
+1911Reach,1910,Eastern League,donnelly,B01402,Donnelly,,0,Baltimore,,B34
+1911Reach,1910,Eastern League,donnelly,F21614,Donnelly,,0,Baltimore,,p34
+1911Reach,1910,Eastern League,donnelly,P10019,Donnelly,,0,Baltimore,,
+1911Reach,1910,Eastern League,dubuc,F21469,Dubec,,1,Buffalo,,p
+1911Reach,1910,Eastern League,dubuc,F21469,Dubec,,2,Montreal,,p
+1911Reach,1910,Eastern League,dubuc,F21469,Dubec,,T,,,p30
+1911Reach,1910,Eastern League,dubuc,P10373,Dubec,,1,Buffalo,,
+1911Reach,1910,Eastern League,dubuc,P10373,Dubec,,2,Montreal,,
+1911Reach,1910,Eastern League,dubuc,P10373,Dubec,,T,,,
+1911Reach,1910,Eastern League,dubuc,B00037,Dubuc,,0,Montreal,,B58
+1911Reach,1910,Eastern League,dunn,B00531,Dunn,,0,Baltimore,,B76
+1911Reach,1910,Eastern League,dunn,F20342,Dunn,,0,Baltimore,,2b55
+1911Reach,1910,Eastern League,dunn,F20391,Dunn,,0,Baltimore,,3b12
+1911Reach,1910,Eastern League,east,B00879,East,,0,Buffalo,,B73
+1911Reach,1910,Eastern League,east,F20265,East,,1,Buffalo,,2b
+1911Reach,1910,Eastern League,east,F20265,East,,2,Montreal,,2b
+1911Reach,1910,Eastern League,east,F20265,East,,T,,,2b61
+1911Reach,1910,Eastern League,egan-bal,B00865,Egan,,0,Baltimore,,B106
+1911Reach,1910,Eastern League,egan-new,B01489,Egan,,0,Newark,,B14
+1911Reach,1910,Eastern League,egan-new,F21609,Egan,,0,Newark,,p14
+1911Reach,1910,Eastern League,egan-bal,F21936,Egan,,0,Baltimore,,c101
+1911Reach,1910,Eastern League,egan-new,P10516,Egan,,0,Newark,,
+1911Reach,1910,Eastern League,elston,B00614,Elston,,0,Providence,,B148
+1911Reach,1910,Eastern League,elston,F20841,Elston,,0,Providence,,lf145
+1911Reach,1910,Eastern League,esmond,B00718,Esmond,,0,Jersey City,,B157
+1911Reach,1910,Eastern League,esmond,F20482,Esmond,,0,Jersey City,,3b157
+1911Reach,1910,Eastern League,ferry,B00904,Ferry,,0,Jersey City,,B35
+1911Reach,1910,Eastern League,ferry,F21680,Ferry,,0,Jersey City,,p26
+1911Reach,1910,Eastern League,ferry,P10348,Ferry,,0,Jersey City,,
+1911Reach,1910,Eastern League,fitzgerald,B00806,Fitzgerald,,0,Providence,,B95
+1911Reach,1910,Eastern League,fitzpatrick,B00898,Fitzpatrick,,0,Toronto,,B119
+1911Reach,1910,Eastern League,fitzpatrick,F20206,Fitzpatrick,,0,Toronto,,2b16
+1911Reach,1910,Eastern League,fitzpatrick,F20496,Fitzpatrick,,0,Toronto,,3b65
+1911Reach,1910,Eastern League,fitzpatrick,F20583,Fitzpatrick,,0,Toronto,,ss30
+1911Reach,1910,Eastern League,frick,B00475,Frick,,0,Baltimore,,B69
+1911Reach,1910,Eastern League,frick,F20526,Frick,,0,Baltimore,,3b37
+1911Reach,1910,Eastern League,frick,F20657,Frick,,0,Baltimore,,ss21
+1911Reach,1910,Eastern League,frill,B01765,Frill,,0,Jersey City,,B19
+1911Reach,1910,Eastern League,frill,F21403,Frill,,0,Jersey City,,p19
+1911Reach,1910,Eastern League,frill,P10159,Frill,,0,Jersey City,,
+1911Reach,1910,Eastern League,ganley,B00794,Ganley,,0,Newark,,B114
+1911Reach,1910,Eastern League,ganley,F21255,Ganley,,0,Newark,,rf100
+1911Reach,1910,Eastern League,ganzel,B00920,Ganzel,,0,Rochester,,B29
+1911Reach,1910,Eastern League,gettman,B00335,Gettman,,0,Newark,,B132
+1911Reach,1910,Eastern League,gettman,F20128,Gettman,,0,Newark,,1b13
+1911Reach,1910,Eastern League,gettman,F20943,Gettman,,0,Newark,,cf121
+1911Reach,1910,Eastern League,goode,B00101,Goode,,0,Baltimore,,B130
+1911Reach,1910,Eastern League,goode,F21210,Goode,,0,Buffalo,,rf118
+1911Reach,1910,Eastern League,grimshaw,B00196,Grimshaw,,0,Toronto,,B62
+1911Reach,1910,Eastern League,grimshaw,F20080,Grimshaw,,0,Toronto,,1b35
+1911Reach,1910,Eastern League,grimshaw,F21241,Grimshaw,,0,Toronto,,rf26
+1911Reach,1910,Eastern League,hall,B01135,Hall,,0,Baltimore,,B106
+1911Reach,1910,Eastern League,hall,F20388,Hall,,0,Baltimore,,2b22
+1911Reach,1910,Eastern League,hall,F20474,Hall,,0,Baltimore,,3b79
+1911Reach,1910,Eastern League,hanford,F21196,Handford,,0,Jersey City,,rf78
+1911Reach,1910,Eastern League,hanford,B00680,Hanford,,0,Jersey City,,B133
+1911Reach,1910,Eastern League,hanford,F20855,Hanford,,0,Jersey City,,lf50
+1911Reach,1910,Eastern League,hannifan,B01093,Hannifan,,0,Jersey City,,B153
+1911Reach,1910,Eastern League,hannifan,F20287,Hannifan,,0,Jersey City,,2b114
+1911Reach,1910,Eastern League,hannifan,F20648,Hannifan,,0,Jersey City,,ss36
+1911Reach,1910,Eastern League,hardy,B00068,Hardy,,0,Montreal,,B31
+1911Reach,1910,Eastern League,hardy,F22020,Hardy,,0,Montreal,,c16
+1911Reach,1910,Eastern League,hearne,B00515,Hearne,,0,Newark,,B94
+1911Reach,1910,Eastern League,hearne,F21904,Hearne,,0,Newark,,c74
+1911Reach,1910,Eastern League,heitmuller,B00059,Heitmuller,,0,Baltimore,,B39
+1911Reach,1910,Eastern League,heitmuller,F20908,Heitmuller,,0,Baltimore,,lf12
+1911Reach,1910,Eastern League,heitmuller,F21059,Heitmuller,,0,Baltimore,,cf10
+1911Reach,1910,Eastern League,heitmuller,F21264,Heitmuller,,0,Buffalo,,rf10
+1911Reach,1910,Eastern League,henline,B00241,Henline,,0,Buffalo,,B151
+1911Reach,1910,Eastern League,henline,F20956,Henline,,0,Buffalo,,cf137
+1911Reach,1910,Eastern League,henline,F21117,Henline,,0,Buffalo,,rf12
+1911Reach,1910,Eastern League,hoffman,B00397,Hoffman,,0,Providence,,B137
+1911Reach,1910,Eastern League,hoffman,F21319,Hoffman,,0,Providence,,rf130
+1911Reach,1910,Eastern League,holly,B00961,Holly,,0,Rochester,,B129
+1911Reach,1910,Eastern League,holly,F20604,Holly,,1,Rochester,,ss
+1911Reach,1910,Eastern League,holly,F20604,Holly,,2,Montreal,,ss
+1911Reach,1910,Eastern League,holly,F20604,Holly,,T,,,ss124
+1911Reach,1910,Eastern League,holmes-new,B01551,Holmes,,0,Newark,,B20
+1911Reach,1910,Eastern League,holmes-roc,B01740,Holmes,,0,Rochester,,B33
+1911Reach,1910,Eastern League,holmes-roc,F21752,Holmes,,0,Rochester,,p33
+1911Reach,1910,Eastern League,holmes-new,F21811,Holmes,,0,Newark,,p20
+1911Reach,1910,Eastern League,holmes-roc,P10100,Holmes,,0,Rochester,,
+1911Reach,1910,Eastern League,holmes-new,P10493,Holmes,,0,Newark,,
+1911Reach,1910,Eastern League,holtz,B00356,Holtz,,0,Newark,,B28
+1911Reach,1910,Eastern League,holtz,F21879,Holtz,,0,Newark,,c11
+1911Reach,1910,Eastern League,hunter,B01227,Hunter,,0,Montreal,,B17
+1911Reach,1910,Eastern League,hunter,F21308,Hunter,,0,Montreal,,rf10
+1911Reach,1910,Eastern League,johnson,B00957,Johnson,,0,Jersey City,,B140
+1911Reach,1910,Eastern League,johnson,F20190,Johnson,,0,Jersey City,,1b11
+1911Reach,1910,Eastern League,johnson,F20661,Johnson,,0,Jersey City,,ss120
+1911Reach,1910,Eastern League,johnston,F21101,Johnson,,0,Buffalo,,rf13
+1911Reach,1910,Eastern League,johnston,B01108,Johnston,,0,Buffalo,,B29
+1911Reach,1910,Eastern League,johnston,F20166,Johnston,,0,Buffalo,,1b11
+1911Reach,1910,Eastern League,jones.j,B00854,Jones,J.,0,Montreal,,B147
+1911Reach,1910,Eastern League,jones.e,B01291,Jones,E.,0,Montreal,,B34
+1911Reach,1910,Eastern League,jones.j,F20962,Jones,,0,Newark,,cf143
+1911Reach,1910,Eastern League,jones.e,F21589,Jones,,0,Montreal,,p34
+1911Reach,1910,Eastern League,jones.j,P10266,Jones,,0,Montreal,,
+1911Reach,1910,Eastern League,joyce,B01269,Joyce,,0,Montreal,,B27
+1911Reach,1910,Eastern League,joyce,F20776,Joyce,,0,Montreal,,lf22
+1911Reach,1910,Eastern League,jube,B00973,Jube,,0,Montreal,,B55
+1911Reach,1910,Eastern League,jube,F21278,Jube,,0,Montreal,,rf55
+1911Reach,1910,Eastern League,keefe,B01696,Keefe,,0,Montreal,,B42
+1911Reach,1910,Eastern League,keefe,F21726,Keefe,,0,Montreal,,p42
+1911Reach,1910,Eastern League,keefe,P10081,Keefe,,0,Montreal,,
+1911Reach,1910,Eastern League,kelley,B00229,Kelley,,0,Toronto,,B46
+1911Reach,1910,Eastern League,kelley,F20737,Kelley,,0,Toronto,,lf18
+1911Reach,1910,Eastern League,kelley,F21013,Kelley,,0,Toronto,,cf10
+1911Reach,1910,Eastern League,kelly,B00163,Kelly,,0,Newark,,B145
+1911Reach,1910,Eastern League,kelly,F20745,Kelly,,0,Newark,,lf144
+1911Reach,1910,Eastern League,kieber,B01682,Kieber,,0,Newark,,B6
+1911Reach,1910,Eastern League,killian,P10503,Killan,,0,Toronto,,
+1911Reach,1910,Eastern League,killian,B00125,Killian,,0,Toronto,,B10
+1911Reach,1910,Eastern League,kissinger,B01674,Kissinger,,1,Buffalo,,
+1911Reach,1910,Eastern League,kissinger,B01674,Kissinger,,2,Jersey City,,
+1911Reach,1910,Eastern League,kissinger,B01674,Kissinger,,T,,,B34
+1911Reach,1910,Eastern League,kissinger,F21638,Kissinger,,1,Buffalo,,p
+1911Reach,1910,Eastern League,kissinger,F21638,Kissinger,,2,Jersey City,,p
+1911Reach,1910,Eastern League,kissinger,F21638,Kissinger,,T,,,p34
+1911Reach,1910,Eastern League,kissinger,P10024,Kissinger,,1,Buffalo,,
+1911Reach,1910,Eastern League,kissinger,P10024,Kissinger,,2,Jersey City,,
+1911Reach,1910,Eastern League,kissinger,P10024,Kissinger,,T,,,
+1911Reach,1910,Eastern League,konnick,B00667,Konnick,,0,Buffalo,,B30
+1911Reach,1910,Eastern League,kritchell,B00646,Kritchell,,0,Montreal,,B102
+1911Reach,1910,Eastern League,kritchell,F22061,Kritchell,,0,Montreal,,c88
+1911Reach,1910,Eastern League,lafitte,B01567,Lafitte,,0,Rochester,,B43
+1911Reach,1910,Eastern League,lafitte,F21442,Lafitte,,0,Rochester,,p42
+1911Reach,1910,Eastern League,lafitte,P10145,Lafitte,,0,Rochester,,
+1911Reach,1910,Eastern League,lavender,B01754,Lavender,,0,Providence,,B45
+1911Reach,1910,Eastern League,lavender,F21491,Lavender,,0,Providence,,p45
+1911Reach,1910,Eastern League,lavender,P10385,Lavender,,0,Providence,,
+1911Reach,1910,Eastern League,lee,B00370,Lee,,1,Toronto,,
+1911Reach,1910,Eastern League,lee,B00370,Lee,,2,Newark,,
+1911Reach,1910,Eastern League,lee,B00370,Lee,,T,,,B72
+1911Reach,1910,Eastern League,lee,F21335,Lee,,0,Newark,,p38
+1911Reach,1910,Eastern League,lee,P10035,Lee,,0,Newark,,
+1911Reach,1910,Eastern League,londrigan,B01124,Londrigan,,0,Jersey City,,B27
+1911Reach,1910,Eastern League,londrigan,F21229,Londrigan,,0,Jersey City,,rf19
+1911Reach,1910,Eastern League,louden,B00783,Louden,,0,Newark,,B142
+1911Reach,1910,Eastern League,louden,F20612,Louden,,0,Newark,,ss142
+1911Reach,1910,Eastern League,loudenslager,B01203,Loudenslager,,0,Newark,,B19
+1911Reach,1910,Eastern League,loudenslager,F20254,Loudenslager,,0,Jersey City,,2b19
+1911Reach,1910,Eastern League,lundgren,B01580,Lundgren,,0,Toronto,,B10
+1911Reach,1910,Eastern League,lundgren,F21833,Lundgren,,0,Toronto,,p10
+1911Reach,1910,Eastern League,lundgren,P10527,Lundgren,,0,Toronto,,
+1911Reach,1910,Eastern League,madden,B01275,Madden,,0,Montreal,,B13
+1911Reach,1910,Eastern League,madden,F20864,Madden,,0,Montreal,,lf10
+1911Reach,1910,Eastern League,malarkey,B00488,Malarkey,,0,Buffalo,,B20
+1911Reach,1910,Eastern League,malarkey,F21577,Malarkey,,0,Buffalo,,p20
+1911Reach,1910,Eastern League,malarkey,P10121,Malarky,,0,Buffalo,,
+1911Reach,1910,Eastern League,malloy,B00936,Malloy,,0,Baltimore,,B28
+1911Reach,1910,Eastern League,malloy,F21623,Malloy,,0,Baltimore,,p28
+1911Reach,1910,Eastern League,malloy,P10357,Malloy,,0,Baltimore,,
+1911Reach,1910,Eastern League,manning,B00822,Manning,,0,Rochester,,B7
+1911Reach,1910,Eastern League,manser,B01514,Manser,,0,Jersey City,,B38
+1911Reach,1910,Eastern League,manser,F21760,Manser,,0,Jersey City,,p36
+1911Reach,1910,Eastern League,maroney,B01787,Maroney,,0,Baltimore,,B11
+1911Reach,1910,Eastern League,maroney,F21771,Maroney,,0,Baltimore,,p11
+1911Reach,1910,Eastern League,maroney,P10228,Maroney,,0,Baltimore,,
+1911Reach,1910,Eastern League,martel,B01250,Martel,,0,Rochester,,B16
+1911Reach,1910,Eastern League,martel,F21898,Martel,,0,Rochester,,c13
+1911Reach,1910,Eastern League,martini,B00362,Martini,,0,Providence,,B23
+1911Reach,1910,Eastern League,manser,P10410,Mauser,,0,Jersey City,,
+1911Reach,1910,Eastern League,mcallister,B00544,McAllister,,1,Buffalo,,
+1911Reach,1910,Eastern League,mcallister,B00544,McAllister,,2,Toronto,,
+1911Reach,1910,Eastern League,mcallister,B00544,McAllister,,4,Newark,,
+1911Reach,1910,Eastern League,mcallister,B00544,McAllister,,T,,,B110
+1911Reach,1910,Eastern League,mcallister,F21985,McAllister,,1,Buffalo,,c
+1911Reach,1910,Eastern League,mcallister,F21985,McAllister,,2,Toronto,,c
+1911Reach,1910,Eastern League,mcallister,F21985,McAllister,,3,Montreal,,c
+1911Reach,1910,Eastern League,mcallister,F21985,McAllister,,4,Newark,,c
+1911Reach,1910,Eastern League,mcallister,F21985,McAllister,,T,,,c96
+1911Reach,1910,Eastern League,mccabe,B00760,McCabe,,0,Buffalo,,B117
+1911Reach,1910,Eastern League,mccabe,F20768,McCabe,,0,Buffalo,,lf15
+1911Reach,1910,Eastern League,mccabe,F21149,McCabe,,0,Buffalo,,rf101
+1911Reach,1910,Eastern League,mcconnell,B00045,McConnell,,0,Rochester,,B45
+1911Reach,1910,Eastern League,mcconnell,F21450,McConnell,,0,Rochester,,p36
+1911Reach,1910,Eastern League,mcconnell,P10168,McConnell,,0,Rochester,,
+1911Reach,1910,Eastern League,mcdonald,B00695,McDonald,,0,Toronto,,B128
+1911Reach,1910,Eastern League,mcdonald,F20547,McDonald,,0,Toronto,,3b97
+1911Reach,1910,Eastern League,mcdonald,F21084,McDonald,,0,Toronto,,rf17
+1911Reach,1910,Eastern League,mcginley,B01617,McGinley,,0,Toronto,,B41
+1911Reach,1910,Eastern League,mcginley,F21416,McGinley,,0,Toronto,,p41
+1911Reach,1910,Eastern League,mcginley,P10320,McGinley,,0,Toronto,,
+1911Reach,1910,Eastern League,mcginnity,B01197,McGinnity,,0,Newark,,B64
+1911Reach,1910,Eastern League,mcginnity,F21515,McGinnity,,0,Newark,,p61
+1911Reach,1910,Eastern League,mcginnity,P10176,McGinnity,,0,Newark,,
+1911Reach,1910,Eastern League,merritt,B01313,Merritt,,1,Jersey City,,
+1911Reach,1910,Eastern League,merritt,B01313,Merritt,,2,Buffalo,,
+1911Reach,1910,Eastern League,merritt,B01313,Merritt,,T,,,B40
+1911Reach,1910,Eastern League,merritt,F21544,Merritt,,1,Jersey City,,p
+1911Reach,1910,Eastern League,merritt,F21544,Merritt,,2,Buffalo,,p
+1911Reach,1910,Eastern League,merritt,F21544,Merritt,,T,,,p25
+1911Reach,1910,Eastern League,merritt,P10113,Merritt,,1,Jersey City,,
+1911Reach,1910,Eastern League,merritt,P10113,Merritt,,2,Buffalo,,
+1911Reach,1910,Eastern League,merritt,P10113,Merritt,,T,,,
+1911Reach,1910,Eastern League,meyer,B00434,Meyer,,0,Newark,,B119
+1911Reach,1910,Eastern League,meyer,F20369,Meyers,,0,Newark,,2b35
+1911Reach,1910,Eastern League,meyer,F20886,Meyers,,0,Newark,,lf12
+1911Reach,1910,Eastern League,meyer,F20919,Meyers,,0,Newark,,cf14
+1911Reach,1910,Eastern League,meyer,F21163,Meyers,,0,Newark,,rf39
+1911Reach,1910,Eastern League,milligan,B01722,Milligan,,0,Jersey City,,B11
+1911Reach,1910,Eastern League,moeller,B00293,Moeller,,1,Jersey City,,
+1911Reach,1910,Eastern League,moeller,B00293,Moeller,,2,Rochester,,
+1911Reach,1910,Eastern League,moeller,B00293,Moeller,,T,,,B158
+1911Reach,1910,Eastern League,moeller,F21021,Moeller,,1,Jersey City,,cf
+1911Reach,1910,Eastern League,moeller,F21021,Moeller,,2,Rochester,,cf
+1911Reach,1910,Eastern League,moeller,F21021,Moeller,,T,,,cf40
+1911Reach,1910,Eastern League,moeller,F21293,Moeller,,0,Jersey City,,rf117
+1911Reach,1910,Eastern League,moran,B00158,Moran,,0,Rochester,,B29
+1911Reach,1910,Eastern League,moran,F20759,Moran,,0,Rochester,,lf28
+1911Reach,1910,Eastern League,mueller,B01078,Mueller,,1,Newark,,
+1911Reach,1910,Eastern League,mueller,B01078,Mueller,,2,Toronto,,
+1911Reach,1910,Eastern League,mueller,B01078,Mueller,,T,,,B45
+1911Reach,1910,Eastern League,mueller,F21381,Mueller,,1,Newark,,p
+1911Reach,1910,Eastern League,mueller,F21381,Mueller,,2,Toronto,,p
+1911Reach,1910,Eastern League,mueller,F21381,Mueller,,T,,,p35
+1911Reach,1910,Eastern League,mullen,B00747,Mullen,,0,Toronto,,B138
+1911Reach,1910,Eastern League,mullen,F20240,Mullen,,0,Toronto,,2b138
+1911Reach,1910,Eastern League,murray,B01804,Murray,,0,Baltimore,,B13
+1911Reach,1910,Eastern League,nattress,B01055,Nattress,,0,Montreal,,B149
+1911Reach,1910,Eastern League,nattress,F20327,Nattress,,0,Montreal,,2b74
+1911Reach,1910,Eastern League,nattress,F20699,Nattress,,0,Montreal,,ss66
+1911Reach,1910,Eastern League,newton,B01321,Newton,,0,Toronto,,B37
+1911Reach,1910,Eastern League,newton,F21783,Newton,,0,Toronto,,p37
+1911Reach,1910,Eastern League,newton,P10244,Newton,,0,Toronto,,
+1911Reach,1910,Eastern League,nichols,B00528,Nichols,,0,Baltimore,,B124
+1911Reach,1910,Eastern League,nichols,F20685,Nichols,,0,Baltimore,,ss124
+1911Reach,1910,Eastern League,ohara-tor,B00427,O'Hara,,0,Toronto,,B122
+1911Reach,1910,Eastern League,ohara-jc,B01337,O'Hara,,0,Jersey City,,B10
+1911Reach,1910,Eastern League,ohara-tor,F20935,O'Hara,,0,Toronto,,cf118
+1911Reach,1910,Eastern League,osborn,B00084,Osborn,,0,Rochester,,B156
+1911Reach,1910,Eastern League,osborn,F20997,Osborne,,0,Rochester,,cf144
+1911Reach,1910,Eastern League,parkins,B01630,Parkins,,0,Newark,,B31
+1911Reach,1910,Eastern League,parkins,F21794,Parkins,,0,Newark,,p30
+1911Reach,1910,Eastern League,parkins,P10043,Parkins,,0,Newark,,
+1911Reach,1910,Eastern League,pattee,B01007,Pattee,,0,Rochester,,B124
+1911Reach,1910,Eastern League,pattee,F20316,Pattee,,1,Rochester,,2b
+1911Reach,1910,Eastern League,pattee,F20316,Pattee,,2,Buffalo,,2b
+1911Reach,1910,Eastern League,pattee,F20316,Pattee,,T,,,2b65
+1911Reach,1910,Eastern League,pattee,F20636,Pattee,,1,Rochester,,ss
+1911Reach,1910,Eastern League,pattee,F20636,Pattee,,2,Buffalo,,ss
+1911Reach,1910,Eastern League,pattee,F20636,Pattee,,T,,,ss45
+1911Reach,1910,Eastern League,peterson,B01384,Peterson,,0,Providence,,B102
+1911Reach,1910,Eastern League,peterson,F20375,Peterson,,0,Providence,,2b16
+1911Reach,1910,Eastern League,peterson,F22048,Peterson,,0,Providence,,c73
+1911Reach,1910,Eastern League,phelan,B01300,Phelan,,0,Providence,,B101
+1911Reach,1910,Eastern League,phelan,F20981,Phelan,,0,Providence,,cf99
+1911Reach,1910,Eastern League,ragan,B01523,Ragan,,0,Rochester,,B35
+1911Reach,1910,Eastern League,ragan,F21590,Ragan,,0,Rochester,,p33
+1911Reach,1910,Eastern League,ragan,P10202,Ragan,,0,Rochester,,
+1911Reach,1910,Eastern League,randolph,B01733,Randolph,,0,Providence,,B6
+1911Reach,1910,Eastern League,rath,B00021,Rath,,0,Baltimore,,B28
+1911Reach,1910,Eastern League,rath,F20222,Rath,,0,Baltimore,,2b19
+1911Reach,1910,Eastern League,rock,B00726,Rock,,0,Providence,,B125
+1911Reach,1910,Eastern League,rock,F20571,Rock,,0,Providence,,ss125
+1911Reach,1910,Eastern League,rudolph,B00811,Rudolph,,0,Toronto,,B44
+1911Reach,1910,Eastern League,rudolph,F21397,Rudolph,,0,Toronto,,p41
+1911Reach,1910,Eastern League,rudolph,P10184,Rudolph,,0,Toronto,,
+1911Reach,1910,Eastern League,russell,B00442,Russell,,0,Baltimore,,B47
+1911Reach,1910,Eastern League,russell,F21646,Russell,,0,Baltimore,,p44
+1911Reach,1910,Eastern League,russell,P10070,Russell,,0,Baltimore,,
+1911Reach,1910,Eastern League,ryan,B01431,Ryan,,0,Jersey City,,B18
+1911Reach,1910,Eastern League,ryan,F21865,Ryan,,0,Jersey City,,c13
+1911Reach,1910,Eastern League,sabrie,B00343,Sabrie,,0,Buffalo,,B118
+1911Reach,1910,Eastern League,sabrie,F20067,Sabrie,,0,Buffalo,,1b118
+1911Reach,1910,Eastern League,savidge,B01595,Savidge,,0,Rochester,,B31
+1911Reach,1910,Eastern League,savidge,F21362,Savidge,,0,Rochester,,p31
+1911Reach,1910,Eastern League,savidge,P10277,Savidge,,0,Rochester,,
+1911Reach,1910,Eastern League,schlafly,F20189,Schafly,,0,Newark,,1b10
+1911Reach,1910,Eastern League,schlafly,F20298,Schafly,,0,Newark,,2b137
+1911Reach,1910,Eastern League,schirm,B00117,Schirm,,0,Buffalo,,B39
+1911Reach,1910,Eastern League,schlafly,B00948,Schlafly,,0,Newark,,B142
+1911Reach,1910,Eastern League,schmidt,B00149,Schmidt,,0,Baltimore,,B85
+1911Reach,1910,Eastern League,schmidt,F20177,Schmidt,,0,Baltimore,,1b49
+1911Reach,1910,Eastern League,schmidt,F21092,Schmidt,,0,Baltimore,,rf17
+1911Reach,1910,Eastern League,schmidt,P10455,Schmidt,,0,Baltimore,,
+1911Reach,1910,Eastern League,schirm,F21000,Schrim,,0,Buffalo,,cf11
+1911Reach,1910,Eastern League,schirm,F21158,Schrim,,0,Buffalo,,rf18
+1911Reach,1910,Eastern League,seymour,B00207,Seymour,,0,Baltimore,,B15
+1911Reach,1910,Eastern League,seymour,F20893,Seymour,,0,Baltimore,,lf12
+1911Reach,1910,Eastern League,shaw,B00210,Shaw,,0,Toronto,,B139
+1911Reach,1910,Eastern League,shaw,F20924,Shaw,,0,Toronto,,cf27
+1911Reach,1910,Eastern League,shaw,F21286,Shaw,,0,Toronto,,rf107
+1911Reach,1910,Eastern League,simmons,B00286,Simmons,,0,Rochester,,B36
+1911Reach,1910,Eastern League,simmons,F20552,Simmons,,0,Rochester,,3b25
+1911Reach,1910,Eastern League,sitton,B01649,Sitton,,0,Jersey City,,B31
+1911Reach,1910,Eastern League,sitton,F21475,Sitton,,0,Jersey City,,p31
+1911Reach,1910,Eastern League,sitton,P10407,Sitton,,0,Jersey City,,
+1911Reach,1910,Eastern League,slagle,B00308,Slagle,,0,Baltimore,,B146
+1911Reach,1910,Eastern League,slagle,F20970,Slagle,,0,Baltimore,,cf146
+1911Reach,1910,Eastern League,slattery,B00076,Slattery,,0,Toronto,,B100
+1911Reach,1910,Eastern League,slattery,F20038,Slattery,,0,Toronto,,1b83
+1911Reach,1910,Eastern League,slattery,F21999,Slattery,,0,Toronto,,c11
+1911Reach,1910,Eastern League,sline,B01466,Sline,,0,Providence,,B39
+1911Reach,1910,Eastern League,sline,F21566,Sline,,0,Providence,,p39
+1911Reach,1910,Eastern League,sline,P10429,Sline,,0,Providence,,
+1911Reach,1910,Eastern League,smith-mon+buf,B00381,Smith,,1,Montreal,,
+1911Reach,1910,Eastern League,smith-mon+buf,B00381,Smith,,2,Buffalo,,
+1911Reach,1910,Eastern League,smith-mon+buf,B00381,Smith,,T,,,B145
+1911Reach,1910,Eastern League,smith-tor,B01538,Smith,,0,Toronto,,B20
+1911Reach,1910,Eastern League,smith-mon+buf,F20211,Smith,,1,Montreal,,2b
+1911Reach,1910,Eastern League,smith-mon+buf,F20211,Smith,,2,Buffalo,,2b
+1911Reach,1910,Eastern League,smith-mon+buf,F20211,Smith,,T,,,2b141
+1911Reach,1910,Eastern League,smith-tor,F21488,Smith,,0,Toronto,,p20
+1911Reach,1910,Eastern League,smith-tor,P10056,Smith,,0,Toronto,,
+1911Reach,1910,Eastern League,spade,B00013,Spade,,0,Newark,,B13
+1911Reach,1910,Eastern League,spade,F21739,Spade,,0,Newark,,p10
+1911Reach,1910,Eastern League,spade,P10534,Spade,,0,Newark,,
+1911Reach,1910,Eastern League,spahr,B01216,Spahr,,0,Jersey City,,B29
+1911Reach,1910,Eastern League,spahr,F21887,Spahr,,0,Jersey City,,c25
+1911Reach,1910,Eastern League,speer,B01490,Speer,,0,Buffalo,,B10
+1911Reach,1910,Eastern League,speer,F21651,Speer,,0,Buffalo,,p10
+1911Reach,1910,Eastern League,speer,P10312,Speer,,0,Buffalo,,
+1911Reach,1910,Eastern League,spencer,B00752,Spencer,,0,Rochester,,B139
+1911Reach,1910,Eastern League,spencer,F20102,Spencer,,0,Rochester,,1b136
+1911Reach,1910,Eastern League,starnagle,B01572,Starnagle,,0,Rochester,,B11
+1911Reach,1910,Eastern League,starnagle,F21948,Starnagle,,0,Rochester,,c10
+1911Reach,1910,Eastern League,starr,B00278,Starr,,0,Buffalo,,B93
+1911Reach,1910,Eastern League,starr,F20673,Starr,,0,Buffalo,,ss92
+1911Reach,1910,Eastern League,steele,B00553,Steele,,0,Providence,,B36
+1911Reach,1910,Eastern League,steele,F21370,Steele,,0,Providence,,p35
+1911Reach,1910,Eastern League,steele,P10097,Steele,,0,Providence,,
+1911Reach,1910,Eastern League,strang,B00705,Strang,,0,Baltimore,,B61
+1911Reach,1910,Eastern League,strang,F20303,Strang,,0,Baltimore,,2b59
+1911Reach,1910,Eastern League,sullivan,B01453,Sullivan,,0,Providence,,B47
+1911Reach,1910,Eastern League,sullivan,F20131,Sullivan,,0,Providence,,1b30
+1911Reach,1910,Eastern League,sullivan,F20350,Sullivan,,0,Providence,,2b17
+1911Reach,1910,Eastern League,taylor,B01477,Taylor,,0,Buffalo,,B34
+1911Reach,1910,Eastern League,taylor,F21356,Taylor,,0,Buffalo,,p34
+1911Reach,1910,Eastern League,taylor,P10304,Taylor,,0,Buffalo,,
+1911Reach,1910,Eastern League,thompson,B01509,Thompson,,0,Providence,,B8
+1911Reach,1910,Eastern League,tonneman,B00174,Tonneman,,0,Toronto,,B51
+1911Reach,1910,Eastern League,tonneman,F22073,Tonneman,,0,Toronto,,c45
+1911Reach,1910,Eastern League,tooley,B00590,Tooley,,0,Rochester,,B138
+1911Reach,1910,Eastern League,tooley,F20700,Tooley,,0,Rochester,,ss133
+1911Reach,1910,Eastern League,vandegrift,B00840,Vandegrift,,0,Toronto,,B64
+1911Reach,1910,Eastern League,vandegrift,F22057,Vandegrift,,0,Toronto,,c63
+1911Reach,1910,Eastern League,vaughn,B01032,Vaughn,,0,Toronto,,B128
+1911Reach,1910,Eastern League,vaughn,F20620,Vaughn,,0,Toronto,,ss128
+1911Reach,1910,Eastern League,vickers,B01242,Vickers,,0,Baltimore,,B55
+1911Reach,1910,Eastern League,vickers,F21343,Vickers,,0,Baltimore,,p55
+1911Reach,1910,Eastern League,vickers,P10290,Vickers,,0,Baltimore,,
+1911Reach,1910,Eastern League,vowinkle,B01376,Vowinkle,,0,Buffalo,,B40
+1911Reach,1910,Eastern League,vowinkle,F21427,Vowinkle,,0,Buffalo,,p40
+1911Reach,1910,Eastern League,vowinkle,P10361,Vowinkle,,0,Buffalo,,
+1911Reach,1910,Eastern League,waddell,B01706,Waddell,,0,Newark,,B15
+1911Reach,1910,Eastern League,waddell,F21531,Waddell,,0,Newark,,p15
+1911Reach,1910,Eastern League,waddell,P10137,Waddell,,0,Newark,,
+1911Reach,1910,Eastern League,walsh-bal,B00324,Walsh,,0,Baltimore,,B140
+1911Reach,1910,Eastern League,walsh-jc,B01064,Walsh,,0,Jersey City,,B17
+1911Reach,1910,Eastern League,walsh-bal,F20807,Walsh,,0,Baltimore,,lf133
+1911Reach,1910,Eastern League,ward,B00092,Ward,,0,Rochester,,B45
+1911Reach,1910,Eastern League,ward,F20449,Ward,,0,Rochester,,3b45
+1911Reach,1910,Eastern League,welday,B00771,Welday,,0,Providence,,B85
+1911Reach,1910,Eastern League,welday,F21045,Welday,,0,Providence,,cf50
+1911Reach,1910,Eastern League,welday,F21207,Welday,,0,Providence,,rf17
+1911Reach,1910,Eastern League,wheeler,B00469,Wheeler,,0,Jersey City,,B48
+1911Reach,1910,Eastern League,wheeler,F21130,Wheeler,,0,Jersey City,,rf41
+1911Reach,1910,Eastern League,white,B00255,White,,0,Buffalo,,B146
+1911Reach,1910,Eastern League,white,F20832,White,,0,Buffalo,,lf138
+1911Reach,1910,Eastern League,wiggs,B01601,Wiggs,,0,Montreal,,B35
+1911Reach,1910,Eastern League,wiggs,F21502,Wiggs,,0,Montreal,,p35
+1911Reach,1910,Eastern League,wiggs,P10432,Wiggs,,0,Montreal,,
+1911Reach,1910,Eastern League,williams,B00833,Williams,,0,Buffalo,,B117
+1911Reach,1910,Eastern League,williams,F20023,Williams,,0,Buffalo,,1b15
+1911Reach,1910,Eastern League,williams,F22036,Williams,,0,Buffalo,,c84
+1911Reach,1910,Eastern League,wilson,B01779,Wilson,,0,Providence,,B13
+1911Reach,1910,Eastern League,wilson,F21705,Wilson,,0,Providence,,p11
+1911Reach,1910,Eastern League,wilson,P10550,Wilson,,0,Providence,,
+1911Reach,1910,Eastern League,winter,B01170,Winter,,0,Montreal,,B36
+1911Reach,1910,Eastern League,winter,F21434,Winter,,0,Montreal,,p35
+1911Reach,1910,Eastern League,winter,P10542,Winter,,0,Montreal,,
+1911Reach,1910,Eastern League,wood,B01234,Wood,,0,Buffalo,,B73
+1911Reach,1910,Eastern League,wood,F20425,Wood,,0,Buffalo,,3b13
+1911Reach,1910,Eastern League,wood,F20713,Wood,,0,Buffalo,,ss17
+1911Reach,1910,Eastern League,wood,F21920,Wood,,0,Buffalo,,c40
+1911Reach,1910,Eastern League,yeager,B00589,Yeager,,0,Montreal,,B145
+1911Reach,1910,Eastern League,yeager,F20417,Yeager,,0,Montreal,,3b134
+1911Reach,1910,Eastern League,zimmerman,B00672,Zimmerman,,0,Newark,,B156
+1911Reach,1910,Eastern League,zimmerman,F20401,Zimmerman,,0,Newark,,3b155

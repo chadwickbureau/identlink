@@ -1,11 +1,11 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1985,International League,M90107,Ault,Doug,,Syracuse,,,ault
-emilbb,1985,International League,M90110,Edwards,Doc,,Maine,,,edwards
-emilbb,1985,International League,M90164,Ermer,Cal,,Toledo,,,ermer
-emilbb,1985,International League,M90129,Holmquist,Doug,,Columbus,,,holmquist
-emilbb,1985,International League,M90155,Majtyka,Roy,,Richmond,,,majtyka
-emilbb,1985,International League,M90132,Merrill,Stump,,Columbus,,,merrill
-emilbb,1985,International League,M90141,Schaefer,Bob,,Tidewater,,,schaefer-tid
-emilbb,1985,International League,M90193,Slider,Rac,,Pawtucket,,,slider
-emilbb,1985,International League,M90178,Verdi,Frank,,Rochester,,,verdi
-emilbb,1985,International League,M90186,Wiley,Mark,,Rochester,,,wiley
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1985,International League,ault,M90107,Ault,Doug,,Syracuse,,
+emilbb,1985,International League,edwards,M90110,Edwards,Doc,,Maine,,
+emilbb,1985,International League,ermer,M90164,Ermer,Cal,,Toledo,,
+emilbb,1985,International League,holmquist,M90129,Holmquist,Doug,,Columbus,,
+emilbb,1985,International League,majtyka,M90155,Majtyka,Roy,,Richmond,,
+emilbb,1985,International League,merrill,M90132,Merrill,Stump,,Columbus,,
+emilbb,1985,International League,schaefer-tid,M90141,Schaefer,Bob,,Tidewater,,
+emilbb,1985,International League,slider,M90193,Slider,Rac,,Pawtucket,,
+emilbb,1985,International League,verdi,M90178,Verdi,Frank,,Rochester,,
+emilbb,1985,International League,wiley,M90186,Wiley,Mark,,Rochester,,

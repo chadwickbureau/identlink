@@ -1,709 +1,709 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-1959TSN,1958,Southern Association,B00013,Aber,Albert,0,Little Rock,,B18,aber
-1959TSN,1958,Southern Association,F21794,Aber,,0,Little Rock,,p18,aber
-1959TSN,1958,Southern Association,P10019,Aber,,0,Little Rock,,P18p,aber
-1959TSN,1958,Southern Association,B02361,Abernathie,William,0,Memphis,,B9,abernathie
-1959TSN,1958,Southern Association,P11080,Abernathie,,0,Memphis,,P9p,abernathie
-1959TSN,1958,Southern Association,B00021,Abernathy,Theodore,0,Chattanooga,,B31,abernathy
-1959TSN,1958,Southern Association,F21544,Abernathy,,0,Chattanooga,,p30,abernathy
-1959TSN,1958,Southern Association,P10024,Abernathy,,0,Chattanooga,,P30p,abernathy
-1959TSN,1958,Southern Association,B00037,Agosta,Thomas,0,Little Rock,,B13,agosta
-1959TSN,1958,Southern Association,F20327,Agosta,,0,Little Rock,,2b10,agosta
-1959TSN,1958,Southern Association,B00045,Aldridge,Roger,0,Memphis,,B17,aldridge
-1959TSN,1958,Southern Association,F21752,Aldridge,,0,Memphis,,p16,aldridge
-1959TSN,1958,Southern Association,P10035,Aldridge,,0,Memphis,,P16p,aldridge
-1959TSN,1958,Southern Association,B00059,Allison,William,0,Chattanooga,,B150,allison
-1959TSN,1958,Southern Association,F21076,Allison,,0,Chattanooga,,of148,allison
-1959TSN,1958,Southern Association,B00068,Alusik,George,0,Birmingham,,B28,alusik
-1959TSN,1958,Southern Association,F21000,Alusik,,0,Birmingham,,of26,alusik
-1959TSN,1958,Southern Association,B02455,Anderson,Herbert,0,Nashville,,B9,anderson
-1959TSN,1958,Southern Association,B00076,Asaro,Anthony,0,New Orleans,,B149,asaro
-1959TSN,1958,Southern Association,F20222,Asaro,,0,New Orleans,,2b130,asaro
-1959TSN,1958,Southern Association,F20505,Asaro,,0,New Orleans,,3b19,asaro
-1959TSN,1958,Southern Association,B00084,Aylward,Richard,0,Nashville,,B67,aylward
-1959TSN,1958,Southern Association,F21324,Aylward,,0,Nashville,,c65,aylward
-1959TSN,1958,Southern Association,B00092,Baich,Daniel,0,Chattanooga,,B79,baich
-1959TSN,1958,Southern Association,F21356,Baich,,0,Chattanooga,,c69,baich
-1959TSN,1958,Southern Association,B00101,Bailey,James,0,Nashville,,B47,bailey
-1959TSN,1958,Southern Association,F21638,Bailey,,0,Nashville,,p35,bailey
-1959TSN,1958,Southern Association,P10043,Bailey,,0,Nashville,,P35p,bailey
-1959TSN,1958,Southern Association,B00117,Barmes,Bruce,0,Atlanta,,B140,barmes
-1959TSN,1958,Southern Association,F20935,Barmes,,0,Atlanta,,of132,barmes
-1959TSN,1958,Southern Association,B02410,Bartunek,Clarence,0,Mobile,,B8,bartunek
-1959TSN,1958,Southern Association,M90039,Bates,Hubert (Buddy),,Atlanta,,,bates
-emilbb,1958,Southern Association,M90413,Bates,"Hubert ""Buddy""",,Atlanta,,,bates
-1959TSN,1958,Southern Association,B00125,Baumann,Frank,0,Memphis,,B17,baumann
-1959TSN,1958,Southern Association,F21705,Baumann,,0,Memphis,,p15,baumann
-1959TSN,1958,Southern Association,P10056,Baumann,,0,Memphis,,P15p,baumann
-1959TSN,1958,Southern Association,B00130,Baumer,Jarrett,0,Mobile,,B145,baumer
-1959TSN,1958,Southern Association,F20449,Baumer,,0,Mobile,,3b140,baumer
-1959TSN,1958,Southern Association,B00149,Black,William,1,Birmingham,,B8,black
-1959TSN,1958,Southern Association,B00149,Black,William,2,Little Rock,,B30,black
-1959TSN,1958,Southern Association,B00149,Black,William,T,,,B38,black
-1959TSN,1958,Southern Association,F21999,Black,,1,Birmingham,,p,black
-1959TSN,1958,Southern Association,F21999,Black,,2,Little Rock,,p,black
-1959TSN,1958,Southern Association,F21999,Black,,T,,,p32,black
-1959TSN,1958,Southern Association,P10062,Black,,1,Birmingham,,P8p,black
-1959TSN,1958,Southern Association,P10062,Black,,2,Little Rock,,P24p,black
-1959TSN,1958,Southern Association,P10062,Black,,T,,,P32p,black
-1959TSN,1958,Southern Association,B02289,Bober,John,0,Little Rock,,B8,bober
-1959TSN,1958,Southern Association,P10070,Bober,,0,Little Rock,,P8p,bober
-1959TSN,1958,Southern Association,B02215,Bornman,Thomas,0,Chattanooga,,B4,bornman
-1959TSN,1958,Southern Association,B00158,Boros,Stephen,0,Birmingham,,B44,boros
-1959TSN,1958,Southern Association,F20298,Boros,,0,Birmingham,,2b16,boros
-1959TSN,1958,Southern Association,F20745,Boros,,0,Birmingham,,ss18,boros
-1959TSN,1958,Southern Association,B02097,Botz,Robert,0,Atlanta,,B1,botz
-1959TSN,1958,Southern Association,P10852,Botz,,0,Atlanta,,P1p,botz
-1959TSN,1958,Southern Association,B00163,Bradey,Donald,0,New Orleans,,B60,bradey
-1959TSN,1958,Southern Association,F22012,Bradey,,0,New Orleans,,p60,bradey
-1959TSN,1958,Southern Association,P10081,Bradey,,0,New Orleans,,P60p,bradey
-1959TSN,1958,Southern Association,B02290,Bradford,William,0,Little Rock,,B3,bradford
-1959TSN,1958,Southern Association,P11009,Bradford,,0,Little Rock,,P2p,bradford
-1959TSN,1958,Southern Association,B02145,Brady,James,0,Birmingham,,B3,brady
-1959TSN,1958,Southern Association,P10883,Brady,,0,Birmingham,,P3p,brady
-1959TSN,1958,Southern Association,B00174,Briggs,Arnold,0,New Orleans,,B13,briggs
-1959TSN,1958,Southern Association,F21840,Briggs,,0,New Orleans,,p13,briggs
-1959TSN,1958,Southern Association,P11211,Briggs,,0,New Orleans,,P13p,briggs
-1959TSN,1958,Southern Association,B00182,Brown,Donald L.,0,Little Rock,,B37,brown-lr
-1959TSN,1958,Southern Association,B00196,Brown,Thomas,1,Nashville,,B39,brown-nvl+cht
-1959TSN,1958,Southern Association,B00196,Brown,Thomas,2,Chattanooga,,B71,brown-nvl+cht
-1959TSN,1958,Southern Association,B00196,Brown,Thomas,T,,,B110,brown-nvl+cht
-1959TSN,1958,Southern Association,F20303,Brown,,0,Little Rock,,2b24,brown-lr
-1959TSN,1958,Southern Association,F20458,Brown,,1,Nashville,,3b,brown-nvl+cht
-1959TSN,1958,Southern Association,F20458,Brown,,2,Chattanooga,,3b,brown-nvl+cht
-1959TSN,1958,Southern Association,F20458,Brown,,T,,,3b71,brown-nvl+cht
-1959TSN,1958,Southern Association,F20700,Brown,,1,Nashville,,ss,brown-nvl+cht
-1959TSN,1958,Southern Association,F20700,Brown,,2,Chattanooga,,ss,brown-nvl+cht
-1959TSN,1958,Southern Association,F20700,Brown,,T,,,ss23,brown-nvl+cht
-1959TSN,1958,Southern Association,B00207,Bruce,Robert,0,Birmingham,,B19,bruce
-1959TSN,1958,Southern Association,F21747,Bruce,,0,Birmingham,,p18,bruce
-1959TSN,1958,Southern Association,P10097,Bruce,,0,Birmingham,,P18p,bruce
-1959TSN,1958,Southern Association,B00210,Brunet,George,0,Little Rock,,B18,brunet
-1959TSN,1958,Southern Association,F22036,Brunet,,0,Little Rock,,p13,brunet
-1959TSN,1958,Southern Association,P10100,Brunet,,0,Little Rock,,P13p,brunet
-1959TSN,1958,Southern Association,B00229,Byrd,Harry,0,Birmingham,,B28,byrd
-1959TSN,1958,Southern Association,F21672,Byrd,,0,Birmingham,,p28,byrd
-1959TSN,1958,Southern Association,P10113,Byrd,,0,Birmingham,,P28p,byrd
-1959TSN,1958,Southern Association,B00232,Cade,W. Jerry,0,Nashville,,B26,cade
-1959TSN,1958,Southern Association,F22191,Cade,,0,Nashville,,p22,cade
-1959TSN,1958,Southern Association,P10121,Cade,,0,Nashville,,P22p,cade
-1959TSN,1958,Southern Association,B00241,Callaway,James,0,Atlanta,,B29,callaway
-1959TSN,1958,Southern Association,F21488,Callaway,,0,Atlanta,,c19,callaway
-1959TSN,1958,Southern Association,B00255,Camilli,Richard,0,Birmingham,,B87,camilli
-1959TSN,1958,Southern Association,F20177,Camilli,,0,Birmingham,,2b13,camilli
-1959TSN,1958,Southern Association,F20699,Camilli,,0,Birmingham,,ss56,camilli
-1959TSN,1958,Southern Association,B00264,Carroll,Thomas,0,New Orleans,,B72,carroll
-1959TSN,1958,Southern Association,F20571,Carroll,,0,New Orleans,,3b53,carroll
-1959TSN,1958,Southern Association,F20583,Carroll,,0,New Orleans,,ss20,carroll
-1959TSN,1958,Southern Association,B00278,Castiglione,Peter,0,Little Rock,,B53,castiglione
-1959TSN,1958,Southern Association,F20430,Castiglione,,0,Little Rock,,3b41,castiglione
-1959TSN,1958,Southern Association,B00286,Cave,Paul,0,Atlanta,,B47,cave
-1959TSN,1958,Southern Association,F21904,Cave,,0,Atlanta,,p46,cave
-1959TSN,1958,Southern Association,P10137,Cave,,0,Atlanta,,P46p,cave
-1959TSN,1958,Southern Association,B00293,Cereghino,Edward,0,New Orleans,,B52,cereghino
-1959TSN,1958,Southern Association,F21912,Cereghino,,0,New Orleans,,p35,cereghino
-1959TSN,1958,Southern Association,P10145,Cereghino,,0,New Orleans,,P35p,cereghino
-1959TSN,1958,Southern Association,B02373,Charvat,John,0,Memphis,,B5,charvat
-1959TSN,1958,Southern Association,B00308,Clark,Alfred,0,New Orleans,,B31,clark-no
-1959TSN,1958,Southern Association,B00319,Clark,Melvin,0,Birmingham,,B140,clark-bir
-1959TSN,1958,Southern Association,F20841,Clark,,0,Birmingham,,of135,clark-bir
-1959TSN,1958,Southern Association,F21013,Clark,,0,New Orleans,,of21,clark-no
-1959TSN,1958,Southern Association,B00324,Coggin,Clifford,1,Nashville,,B12,coggin
-1959TSN,1958,Southern Association,B00324,Coggin,Clifford,2,Chattanooga,,B2,coggin
-1959TSN,1958,Southern Association,B00324,Coggin,Clifford,T,,,B14,coggin
-1959TSN,1958,Southern Association,F21822,Coggin,,1,Nashville,,p,coggin
-1959TSN,1958,Southern Association,F21822,Coggin,,2,Chattanooga,,p,coggin
-1959TSN,1958,Southern Association,F21822,Coggin,,T,,,p13,coggin
-1959TSN,1958,Southern Association,P10159,Coggin,,1,Nashville,,P11p,coggin
-1959TSN,1958,Southern Association,P10159,Coggin,,2,Chattanooga,,P2p,coggin
-1959TSN,1958,Southern Association,P10159,Coggin,,T,,,P13p,coggin
-1959TSN,1958,Southern Association,B02464,Cohen,Hyman,0,Nashville,,B9,cohen
-1959TSN,1958,Southern Association,P10168,Cohen,,0,Nashville,,P9p,cohen
-1959TSN,1958,Southern Association,B00335,Coles,Charles,0,Nashville,,B153,coles
-1959TSN,1958,Southern Association,F20128,Coles,,0,Nashville,,1b124,coles
-1959TSN,1958,Southern Association,F21163,Coles,,0,Nashville,,of32,coles
-1959TSN,1958,Southern Association,B00343,Comolli,Victor,1,Nashville,,B75,comolli
-1959TSN,1958,Southern Association,B00343,Comolli,Victor,2,Memphis,,B25,comolli
-1959TSN,1958,Southern Association,B00343,Comolli,Victor,T,,,B100,comolli
-1959TSN,1958,Southern Association,F21403,Comolli,,1,Nashville,,c,comolli
-1959TSN,1958,Southern Association,F21403,Comolli,,2,Memphis,,c,comolli
-1959TSN,1958,Southern Association,F21403,Comolli,,T,,,c86,comolli
-1959TSN,1958,Southern Association,B02516,Cooke,William,0,New Orleans,,B7,cooke
-1959TSN,1958,Southern Association,P11222,Cooke,,0,New Orleans,,P7p,cooke
-1959TSN,1958,Southern Association,B00356,Cottier,Charles,0,Atlanta,,B153,cottier
-1959TSN,1958,Southern Association,F20233,Cottier,,0,Atlanta,,2b153,cottier
-1959TSN,1958,Southern Association,B00362,Dahlke,Jerome,0,Memphis,,B25,dahlke
-1959TSN,1958,Southern Association,F21718,Dahlke,,0,Memphis,,p24,dahlke
-1959TSN,1958,Southern Association,P10176,Dahlke,,0,Memphis,,P24p,dahlke
-1959TSN,1958,Southern Association,B00370,Dailey,William,0,Mobile,,B41,dailey
-1959TSN,1958,Southern Association,F21623,Dailey,,0,Mobile,,p39,dailey
-1959TSN,1958,Southern Association,P10184,Dailey,,0,Mobile,,P39p,dailey
-1959TSN,1958,Southern Association,B00381,Daniel,Charles,0,Birmingham,,B23,daniel
-1959TSN,1958,Southern Association,F21806,Daniel,,0,Birmingham,,p17,daniel
-1959TSN,1958,Southern Association,P10192,Daniel,,0,Birmingham,,P17p,daniel
-1959TSN,1958,Southern Association,B00397,Davidson,William,0,New Orleans,,B136,davidson-no
-1959TSN,1958,Southern Association,B02429,Davidson,Crawford,0,Mobile,,B2,davidson-mob
-1959TSN,1958,Southern Association,F20685,Davidson,,0,New Orleans,,ss129,davidson-no
-1959TSN,1958,Southern Association,B00403,Davis,Robert,0,Little Rock,,B25,davis
-1959TSN,1958,Southern Association,F22061,Davis,,0,Little Rock,,p25,davis
-1959TSN,1958,Southern Association,P10202,Davis,,0,Little Rock,,P25p,davis
-1959TSN,1958,Southern Association,B00416,DeMerit,John,0,Atlanta,,B136,demerit
-1959TSN,1958,Southern Association,F20919,DeMerit,,0,Atlanta,,of135,demerit
-1959TSN,1958,Southern Association,B00427,Demeter,Steven,0,Birmingham,,B151,demeter
-1959TSN,1958,Southern Association,F20375,Demeter,,0,Birmingham,,3b147,demeter
-1959TSN,1958,Southern Association,B00450,DiPippo,Lawrence,0,Memphis,,B153,dipippo
-1959TSN,1958,Southern Association,F20046,DiPippo,,0,Memphis,,1b151,dipippo
-1959TSN,1958,Southern Association,P11095,DiPippo,,0,Memphis,,P6p,dipippo
-1959TSN,1958,Southern Association,B00469,DiTusa,D. Richard,0,Mobile,,B15,ditusa
-1959TSN,1958,Southern Association,F21092,DiTusa,,0,Mobile,,of12,ditusa
-1959TSN,1958,Southern Association,B00434,Dickens,Guilford,1,Memphis,,B111,dickens
-1959TSN,1958,Southern Association,B00434,Dickens,Guilford,2,Birmingham,,B31,dickens
-1959TSN,1958,Southern Association,B00434,Dickens,Guilford,T,,,B142,dickens
-1959TSN,1958,Southern Association,F20023,Dickens,,1,Memphis,,1b,dickens
-1959TSN,1958,Southern Association,F20023,Dickens,,2,Birmingham,,1b,dickens
-1959TSN,1958,Southern Association,F20023,Dickens,,T,,,1b17,dickens
-1959TSN,1958,Southern Association,F20908,Dickens,,1,Memphis,,of,dickens
-1959TSN,1958,Southern Association,F20908,Dickens,,2,Birmingham,,of,dickens
-1959TSN,1958,Southern Association,F20908,Dickens,,T,,,of128,dickens
-1959TSN,1958,Southern Association,B00442,Dillard,David,0,Mobile,,B140,dillard
-1959TSN,1958,Southern Association,F20924,Dillard,,0,Mobile,,of133,dillard
-1959TSN,1958,Southern Association,B02478,Dobzanski,Robert,0,Nashville,,B6,dobzanski
-1959TSN,1958,Southern Association,P11153,Dobzanski,,0,Nashville,,P6p,dobzanski
-1959TSN,1958,Southern Association,B02159,Donovan,Lawrence,0,Birmingham,,B2,donovan
-1959TSN,1958,Southern Association,P10894,Donovan,,0,Birmingham,,P2p,donovan
-1959TSN,1958,Southern Association,B00475,Downs,Benjamin,1,Little Rock,,B68,downs
-1959TSN,1958,Southern Association,B00475,Downs,Benjamin,2,Atlanta,,B61,downs
-1959TSN,1958,Southern Association,B00475,Downs,Benjamin,T,,,B129,downs
-1959TSN,1958,Southern Association,F21210,Downs,,1,Little Rock,,of,downs
-1959TSN,1958,Southern Association,F21210,Downs,,2,Atlanta,,of,downs
-1959TSN,1958,Southern Association,F21210,Downs,,T,,,of114,downs
-1959TSN,1958,Southern Association,B02486,Drews,Karl,0,Nashville,,B7,drews
-1959TSN,1958,Southern Association,P11166,Drews,,0,Nashville,,P7p,drews
-1959TSN,1958,Southern Association,B00488,Drummond,William,0,New Orleans,,B30,drummond
-1959TSN,1958,Southern Association,F22116,Drummond,,0,New Orleans,,p30,drummond
-1959TSN,1958,Southern Association,P10215,Drummond,,0,New Orleans,,P30p,drummond
-1959TSN,1958,Southern Association,B00491,DuFour,William,0,Chattanooga,,B43,dufour
-1959TSN,1958,Southern Association,F21887,DuFour,,0,Chattanooga,,p35,dufour
-1959TSN,1958,Southern Association,P10228,DuFour,,0,Chattanooga,,P35p,dufour
-1959TSN,1958,Southern Association,B00502,Durnbaugh,Robert,0,Nashville,,B151,durnbaugh
-1959TSN,1958,Southern Association,F20636,Durnbaugh,,0,Nashville,,ss147,durnbaugh
-1959TSN,1958,Southern Association,B00515,Earley,Arnold,0,Memphis,,B37,earley
-1959TSN,1958,Southern Association,F22099,Earley,,0,Memphis,,p37,earley
-1959TSN,1958,Southern Association,P10231,Earley,,0,Memphis,,P37p,earley
-1959TSN,1958,Southern Association,B00528,Elliott,Harry,1,Little Rock,,B40,elliott
-1959TSN,1958,Southern Association,B00528,Elliott,Harry,2,Chattanooga,,B17,elliott
-1959TSN,1958,Southern Association,B00528,Elliott,Harry,T,,,B57,elliott
-1959TSN,1958,Southern Association,F20878,Elliott,,1,Little Rock,,of,elliott
-1959TSN,1958,Southern Association,F20878,Elliott,,2,Chattanooga,,of,elliott
-1959TSN,1958,Southern Association,F20878,Elliott,,T,,,of56,elliott
-1959TSN,1958,Southern Association,M90018,Ermer,Calvin,,Birmingham,,,ermer
-emilbb,1958,Southern Association,M90396,Ermer,Cal,,Birmingham,,,ermer
-1959TSN,1958,Southern Association,B00531,Fox,Terrence,0,Atlanta,,B16,fox
-1959TSN,1958,Southern Association,F21760,Fox,,0,Atlanta,,p16,fox
-1959TSN,1958,Southern Association,P10244,Fox,,0,Atlanta,,P16p,fox
-1959TSN,1958,Southern Association,B00544,Frailey,Donald,0,Atlanta,,B16,frailey
-1959TSN,1958,Southern Association,F20807,Frailey,,0,Atlanta,,of14,frailey
-1959TSN,1958,Southern Association,B00553,Frazier,Andrew,0,Mobile,,B141,frazier-mob
-1959TSN,1958,Southern Association,B00566,Frazier,Sheppard,0,Memphis,,B149,frazier-mem
-1959TSN,1958,Southern Association,F20254,Frazier,,0,Memphis,,2b147,frazier-mem
-1959TSN,1958,Southern Association,F20673,Frazier,,0,Mobile,,ss140,frazier-mob
-1959TSN,1958,Southern Association,B00577,Fridley,James,0,Nashville,,B142,fridley
-1959TSN,1958,Southern Association,F21149,Fridley,,0,Nashville,,of137,fridley
-1959TSN,1958,Southern Association,B00589,Giggie,Robert,0,Atlanta,,B27,giggie
-1959TSN,1958,Southern Association,F21577,Giggie,,0,Atlanta,,p26,giggie
-1959TSN,1958,Southern Association,P10253,Giggie,,0,Atlanta,,P26p,giggie
-1959TSN,1958,Southern Association,B00590,Gilbert,Drew,0,Nashville,,B145,gilbert
-1959TSN,1958,Southern Association,F20855,Gilbert,,0,Nashville,,of144,gilbert
-1959TSN,1958,Southern Association,B00609,Gile,Donald,0,Memphis,,B15,gile
-1959TSN,1958,Southern Association,F21308,Gile,,0,Memphis,,c11,gile
-1959TSN,1958,Southern Association,B02168,Gladding,Fred,0,Birmingham,,B3,gladding
-1959TSN,1958,Southern Association,P10901,Gladding,,0,Birmingham,,P3p,gladding
-1959TSN,1958,Southern Association,B00614,Gorin,Charles,0,Atlanta,,B34,gorin
-1959TSN,1958,Southern Association,F22223,Gorin,,0,Atlanta,,p32,gorin
-1959TSN,1958,Southern Association,P10266,Gorin,,0,Atlanta,,P32p,gorin
-1959TSN,1958,Southern Association,B00623,Grace,Lavern,0,Mobile,,B109,grace
-1959TSN,1958,Southern Association,F21158,Grace,,0,Mobile,,of58,grace
-1959TSN,1958,Southern Association,F21319,Grace,,0,Mobile,,c33,grace
-1959TSN,1958,Southern Association,B02527,Gray,Richard,0,New Orleans,,B5,gray
-1959TSN,1958,Southern Association,P11233,Gray,,0,New Orleans,,P4p,gray
-1959TSN,1958,Southern Association,B00638,Griffin,G. Donald,0,Birmingham,,B42,griffin
-1959TSN,1958,Southern Association,F21343,Griffin,,0,Birmingham,,c38,griffin
-1959TSN,1958,Southern Association,B00646,Grote,Harold,0,Memphis,,B63,grote
-1959TSN,1958,Southern Association,F20970,Grote,,0,Memphis,,of50,grote
-1959TSN,1958,Southern Association,B00651,Grunwald,Alfred,0,Little Rock,,B103,grunwald
-1959TSN,1958,Southern Association,F20080,Grunwald,,0,Little Rock,,1b29,grunwald
-1959TSN,1958,Southern Association,F20810,Grunwald,,0,Little Rock,,of13,grunwald
-1959TSN,1958,Southern Association,F21948,Grunwald,,0,Little Rock,,p33,grunwald
-1959TSN,1958,Southern Association,P10277,Grunwald,,0,Little Rock,,P33p,grunwald
-1959TSN,1958,Southern Association,B00667,Grzenda,Joseph,0,Birmingham,,B33,grzenda
-1959TSN,1958,Southern Association,F21985,Grzenda,,0,Birmingham,,p33,grzenda
-1959TSN,1958,Southern Association,P10289,Grzenda,,0,Birmingham,,P33p,grzenda
-1959TSN,1958,Southern Association,B00672,Hadley,Kent,0,Little Rock,,B132,hadley
-1959TSN,1958,Southern Association,F20072,Hadley,,0,Little Rock,,1b128,hadley
-1959TSN,1958,Southern Association,B00680,Hahn,Frederick,0,Little Rock,,B14,hahn
-1959TSN,1958,Southern Association,F22048,Hahn,,0,Little Rock,,p13,hahn
-1959TSN,1958,Southern Association,P10290,Hahn,,0,Little Rock,,P13p,hahn
-1959TSN,1958,Southern Association,B00695,Harrington,William,0,Birmingham,,B53,harrington
-1959TSN,1958,Southern Association,F21566,Harrington,,0,Birmingham,,p53,harrington
-1959TSN,1958,Southern Association,P10304,Harrington,,0,Birmingham,,P53p,harrington
-1959TSN,1958,Southern Association,B00705,Harris,Richard,0,Chattanooga,,B12,harris
-1959TSN,1958,Southern Association,F20287,Harris,,0,Chattanooga,,2b11,harris
-1959TSN,1958,Southern Association,B00718,Hartman,Robert,0,Atlanta,,B38,hartman
-1959TSN,1958,Southern Association,F21589,Hartman,,0,Atlanta,,p38,hartman
-1959TSN,1958,Southern Association,P10312,Hartman,,0,Atlanta,,P38p,hartman
-1959TSN,1958,Southern Association,B00726,Hartsfield,Robert,0,Atlanta,,B109,hartsfield
-1959TSN,1958,Southern Association,F20401,Hartsfield,,0,Atlanta,,3b65,hartsfield
-1959TSN,1958,Southern Association,F20886,Hartsfield,,0,Atlanta,,of37,hartsfield
-1959TSN,1958,Southern Association,B00739,Hawes,Roy,0,Atlanta,,B12,hawes
-1959TSN,1958,Southern Association,B00747,Hawkins,Wynn,0,Mobile,,B13,hawkins
-1959TSN,1958,Southern Association,F22209,Hawkins,,0,Mobile,,p13,hawkins
-1959TSN,1958,Southern Association,P10320,Hawkins,,0,Mobile,,P13p,hawkins
-1959TSN,1958,Southern Association,B00752,Hayden,Eugene,0,Nashville,,B21,hayden
-1959TSN,1958,Southern Association,F22020,Hayden,,0,Nashville,,p16,hayden
-1959TSN,1958,Southern Association,P10336,Hayden,,0,Nashville,,P15p,hayden
-1959TSN,1958,Southern Association,B00760,Heise,James,0,Chattanooga,,B22,heise
-1959TSN,1958,Southern Association,F22085,Heise,,0,Chattanooga,,p21,heise
-1959TSN,1958,Southern Association,P10348,Heise,,0,Chattanooga,,P21p,heise
-1959TSN,1958,Southern Association,B02100,Hendrickson,Dale,0,Atlanta,,B3,hendrickson
-1959TSN,1958,Southern Association,P10860,Hendrickson,,0,Atlanta,,P3p,hendrickson
-1959TSN,1958,Southern Association,B00771,Henley,Gail,0,Birmingham,,B147,henley
-1959TSN,1958,Southern Association,F20832,Henley,,0,Birmingham,,of140,henley
-1959TSN,1958,Southern Association,B02534,Henriksen,Arthur,0,New Orleans,,B4,henriksen
-1959TSN,1958,Southern Association,P11240,Henriksen,,0,New Orleans,,P4p,henriksen
-1959TSN,1958,Southern Association,B00783,Heyman,Louis,0,Little Rock,,B94,heyman
-1959TSN,1958,Southern Association,F21450,Heyman,,0,Little Rock,,c74,heyman
-1959TSN,1958,Southern Association,P11014,Heyman,,0,Little Rock,,P4p,heyman
-1959TSN,1958,Southern Association,B00794,Hommel,Kenneth,0,Nashville,,B48,hommel
-1959TSN,1958,Southern Association,F21936,Hommel,,0,Nashville,,p48,hommel
-1959TSN,1958,Southern Association,P10357,Hommel,,0,Nashville,,P48p,hommel
-1959TSN,1958,Southern Association,B00806,Hook,James,0,Nashville,,B40,hook
-1959TSN,1958,Southern Association,F21973,Hook,,0,Nashville,,p33,hook
-1959TSN,1958,Southern Association,P10361,Hook,,0,Nashville,,P33p,hook
-1959TSN,1958,Southern Association,B00811,Horn,Claude,0,Little Rock,,B14,horn
-1959TSN,1958,Southern Association,F21255,Horn,,0,Little Rock,,of13,horn
-1959TSN,1958,Southern Association,B00822,Howell,Lee,0,Memphis,,B127,howell
-1959TSN,1958,Southern Association,F21037,Howell,,0,Memphis,,of124,howell
-1959TSN,1958,Southern Association,B00833,Hubacek,Douglas,0,Memphis,,B70,hubacek
-1959TSN,1958,Southern Association,F20463,Hubacek,,0,Memphis,,3b66,hubacek
-1959TSN,1958,Southern Association,B00840,Hunt,Kenneth,0,New Orleans,,B142,hunt
-1959TSN,1958,Southern Association,F21196,Hunt,,0,New Orleans,,of132,hunt
-1959TSN,1958,Southern Association,P11254,Hunt,,0,New Orleans,,P2p,hunt
-1959TSN,1958,Southern Association,B00854,Hutson,Eulas,0,Mobile,,B144,hutson
-1959TSN,1958,Southern Association,F21068,Hutson,,0,Mobile,,of139,hutson
-1959TSN,1958,Southern Association,B00865,Irons,Edward,1,Memphis,,B82,irons
-1959TSN,1958,Southern Association,B00865,Irons,Edward,2,Nashville,,B32,irons
-1959TSN,1958,Southern Association,B00865,Irons,Edward,T,,,B114,irons
-1959TSN,1958,Southern Association,F21232,Irons,,1,Memphis,,of,irons
-1959TSN,1958,Southern Association,F21232,Irons,,2,Nashville,,of,irons
-1959TSN,1958,Southern Association,F21232,Irons,,T,,,of17,irons
-1959TSN,1958,Southern Association,F21416,Irons,,1,Memphis,,c,irons
-1959TSN,1958,Southern Association,F21416,Irons,,2,Nashville,,c,irons
-1959TSN,1958,Southern Association,F21416,Irons,,T,,,c78,irons
-1959TSN,1958,Southern Association,B02493,Jancich,Gregory,0,Nashville,,B4,jancich
-1959TSN,1958,Southern Association,P11177,Jancich,,0,Nashville,,P4p,jancich
-1959TSN,1958,Southern Association,B00879,Jenney,Lloyd,0,Mobile,,B66,jenney
-1959TSN,1958,Southern Association,F21370,Jenney,,0,Mobile,,c54,jenney
-1959TSN,1958,Southern Association,B00887,Jirsa,Ronald,0,Memphis,,B15,jirsa
-1959TSN,1958,Southern Association,F22246,Jirsa,,0,Memphis,,p15,jirsa
-1959TSN,1958,Southern Association,P10373,Jirsa,,0,Memphis,,P15p,jirsa
-1959TSN,1958,Southern Association,B00898,Kaiser,C. Donald,0,Atlanta,,B12,kaiser
-1959TSN,1958,Southern Association,F22332,Kaiser,,0,Atlanta,,p12,kaiser
-1959TSN,1958,Southern Association,P10385,Kaiser,,0,Atlanta,,P12p,kaiser
-1959TSN,1958,Southern Association,B00904,Kellner,Walter,0,New Orleans,,B28,kellner
-1959TSN,1958,Southern Association,F22103,Kellner,,0,New Orleans,,p28,kellner
-1959TSN,1958,Southern Association,P10399,Kellner,,0,New Orleans,,P28p,kellner
-1959TSN,1958,Southern Association,B00912,Kern,William,0,Little Rock,,B13,kern
-1959TSN,1958,Southern Association,F21125,Kern,,0,Little Rock,,of10,kern
-1959TSN,1958,Southern Association,B00920,Killebrew,Harmon,0,Chattanooga,,B86,killebrew
-1959TSN,1958,Southern Association,F20417,Killebrew,,0,Chattanooga,,3b74,killebrew
-1959TSN,1958,Southern Association,F20981,Killebrew,,0,Chattanooga,,of22,killebrew
-1959TSN,1958,Southern Association,B02542,Klinesmith,Richard,0,New Orleans,,B5,klinesmith
-1959TSN,1958,Southern Association,P11265,Klinesmith,,0,New Orleans,,P5p,klinesmith
-1959TSN,1958,Southern Association,B00936,Kolakowski,Charles,0,Mobile,,B34,kolakowski
-1959TSN,1958,Southern Association,F22057,Kolakowski,,0,Mobile,,p33,kolakowski
-1959TSN,1958,Southern Association,P10407,Kolakowski,,0,Mobile,,P33p,kolakowski
-1959TSN,1958,Southern Association,B00948,Kostro,Frank,0,Birmingham,,B44,kostro
-1959TSN,1958,Southern Association,F20737,Kostro,,0,Birmingham,,ss36,kostro
-1959TSN,1958,Southern Association,B02550,Kraly,Steve,0,New Orleans,,B5,kraly
-1959TSN,1958,Southern Association,P11279,Kraly,,0,New Orleans,,P3p,kraly
-1959TSN,1958,Southern Association,B00957,Krsnich,Michael,0,Atlanta,,B84,krsnich
-1959TSN,1958,Southern Association,F20115,Krsnich,,0,Atlanta,,1b43,krsnich
-1959TSN,1958,Southern Association,F20560,Krsnich,,0,Atlanta,,3b26,krsnich
-1959TSN,1958,Southern Association,F21045,Krsnich,,0,Atlanta,,of13,krsnich
-1959TSN,1958,Southern Association,B00961,Lavene,Charles,0,Memphis,,B14,lavene
-1959TSN,1958,Southern Association,F20369,Lavene,,0,Memphis,,3b10,lavene
-1959TSN,1958,Southern Association,B02569,Lawrence,Leigh,0,New Orleans,,B9,lawrence
-1959TSN,1958,Southern Association,P10410,Lawrence,,0,New Orleans,,P9p,lawrence
-1959TSN,1958,Southern Association,B00973,Leja,Frank,0,New Orleans,,B152,leja
-1959TSN,1958,Southern Association,F20131,Leja,,0,New Orleans,,1b151,leja
-1959TSN,1958,Southern Association,B00985,Levan,Jesse,0,Chattanooga,,B153,levan
-1959TSN,1958,Southern Association,F20038,Levan,,0,Chattanooga,,1b153,levan
-1959TSN,1958,Southern Association,B00999,Limmer,Louis,0,Birmingham,,B151,limmer
-1959TSN,1958,Southern Association,F20067,Limmer,,0,Birmingham,,1b148,limmer
-1959TSN,1958,Southern Association,B02304,Locke,Charles,0,Little Rock,,B4,locke
-1959TSN,1958,Southern Association,P11023,Locke,,0,Little Rock,,P4p,locke
-1959TSN,1958,Southern Association,B01007,Ludtka,James,0,Nashville,,B134,ludtka
-1959TSN,1958,Southern Association,F20240,Ludtka,,0,Nashville,,2b57,ludtka
-1959TSN,1958,Southern Association,F20425,Ludtka,,0,Nashville,,3b65,ludtka
-1959TSN,1958,Southern Association,B01010,Lumenti,Raphael,0,Chattanooga,,B22,lumenti
-1959TSN,1958,Southern Association,F21726,Lumenti,,0,Chattanooga,,p22,lumenti
-1959TSN,1958,Southern Association,P10429,Lumenti,,0,Chattanooga,,P22p,lumenti
-1959TSN,1958,Southern Association,B01029,Luttrell,Lyle,1,Chattanooga,,B35,luttrell
-1959TSN,1958,Southern Association,B01029,Luttrell,Lyle,2,Nashville,,B19,luttrell
-1959TSN,1958,Southern Association,B01029,Luttrell,Lyle,T,,,B54,luttrell
-1959TSN,1958,Southern Association,F20518,Luttrell,,1,Chattanooga,,3b,luttrell
-1959TSN,1958,Southern Association,F20518,Luttrell,,2,Nashville,,3b,luttrell
-1959TSN,1958,Southern Association,F20518,Luttrell,,T,,,3b33,luttrell
-1959TSN,1958,Southern Association,F20759,Luttrell,,1,Chattanooga,,ss,luttrell
-1959TSN,1958,Southern Association,F20759,Luttrell,,2,Nashville,,ss,luttrell
-1959TSN,1958,Southern Association,F20759,Luttrell,,T,,,ss23,luttrell
-1959TSN,1958,Southern Association,B01032,MacKenzie,H. Gordon,0,Little Rock,,B14,mackenzie-lr
-1959TSN,1958,Southern Association,B01041,MacKenzie,Kenneth,0,Atlanta,,B34,mackenzie-atl
-1959TSN,1958,Southern Association,F20547,MacKenzie,,0,Little Rock,,3b14,mackenzie-lr
-1959TSN,1958,Southern Association,F21680,MacKenzie,,0,Atlanta,,p33,mackenzie-atl
-1959TSN,1958,Southern Association,P10432,MacKenzie,,0,Atlanta,,P33p,mackenzie-atl
-1959TSN,1958,Southern Association,B01055,Maier,George,0,New Orleans,,B24,maier
-1959TSN,1958,Southern Association,F22142,Maier,,0,New Orleans,,p22,maier
-1959TSN,1958,Southern Association,P10441,Maier,,0,New Orleans,,P22p,maier
-1959TSN,1958,Southern Association,B02575,Maley,William,0,New Orleans,,B9,maley
-1959TSN,1958,Southern Association,B01064,Mallett,Gerald,0,Memphis,,B15,mallett
-1959TSN,1958,Southern Association,F21117,Mallett,,0,Memphis,,of15,mallett
-1959TSN,1958,Southern Association,B01078,Maness,Robert,0,New Orleans,,B33,maness
-1959TSN,1958,Southern Association,F20279,Maness,,0,New Orleans,,2b24,maness
-1959TSN,1958,Southern Association,B02113,Maranda,Georges,0,Atlanta,,B5,maranda
-1959TSN,1958,Southern Association,P10871,Maranda,,0,Atlanta,,P5p,maranda
-1959TSN,1958,Southern Association,M90047,Marion,John (Red),,Chattanooga,,,marion
-emilbb,1958,Southern Association,M90421,Marion,"John ""Red""",,Chattanooga,,,marion
-1959TSN,1958,Southern Association,B02228,Marr,John,0,Chattanooga,,B3,marr
-1959TSN,1958,Southern Association,B01086,Martin,J. Darrell,0,Nashville,,B12,martin
-1959TSN,1958,Southern Association,F21833,Martin,,0,Nashville,,p12,martin
-1959TSN,1958,Southern Association,P10455,Martin,,0,Nashville,,P12p,martin
-1959TSN,1958,Southern Association,B01093,McBride,Kenneth,0,Memphis,,B37,mcbride
-1959TSN,1958,Southern Association,F21879,McBride,,0,Memphis,,p31,mcbride
-1959TSN,1958,Southern Association,P10464,McBride,,0,Memphis,,P31p,mcbride
-1959TSN,1958,Southern Association,B01108,McCarthy,Richard,0,Memphis,,B112,mccarthy
-1959TSN,1958,Southern Association,F20956,McCarthy,,0,Memphis,,of107,mccarthy
-1959TSN,1958,Southern Association,B01119,McGaha,F. Melvin,0,Mobile,,B33,mcgaha
-1959TSN,1958,Southern Association,M90026,McGaha,F. Melvin,,Mobile,,,mcgaha
-1959TSN,1958,Southern Association,P11128,McGaha,,0,Mobile,,P2p,mcgaha
-emilbb,1958,Southern Association,M90400,McGaha,Mel,,Mobile,,,mcgaha
-1959TSN,1958,Southern Association,B01124,McKee,Robert,0,Memphis,,B112,mckee
-1959TSN,1958,Southern Association,F20620,McKee,,0,Memphis,,ss106,mckee
-1959TSN,1958,Southern Association,B01135,Meeks,Samuel,0,Atlanta,,B135,meeks
-1959TSN,1958,Southern Association,F20144,Meeks,,0,Atlanta,,1b11,meeks
-1959TSN,1958,Southern Association,F20391,Meeks,,0,Atlanta,,3b68,meeks
-1959TSN,1958,Southern Association,F20612,Meeks,,0,Atlanta,,ss50,meeks
-1959TSN,1958,Southern Association,B01143,Melton,Marvin,0,Memphis,,B32,melton
-1959TSN,1958,Southern Association,F21241,Melton,,0,Memphis,,of23,melton
-1959TSN,1958,Southern Association,B01156,Mickelsen,Noel,0,Atlanta,,B24,mickelsen
-1959TSN,1958,Southern Association,F21739,Mickelsen,,0,Atlanta,,p24,mickelsen
-1959TSN,1958,Southern Association,P10478,Mickelsen,,0,Atlanta,,P24p,mickelsen
-1959TSN,1958,Southern Association,B01162,Miller,James W.,0,Little Rock,,B16,miller-lr
-1959TSN,1958,Southern Association,B01170,Miller,Robert G.,0,Birmingham,,B28,miller-bir
-1959TSN,1958,Southern Association,F21771,Miller,,0,Birmingham,,p25,miller-bir
-1959TSN,1958,Southern Association,F22329,Miller,,0,Little Rock,,p16,miller-lr
-1959TSN,1958,Southern Association,P10486,Miller,,0,Little Rock,,P16p,miller-lr
-1959TSN,1958,Southern Association,P10493,Miller,,0,Birmingham,,P25p,miller-bir
-1959TSN,1958,Southern Association,B01181,Minnick,Donald,0,Chattanooga,,B46,minnick
-1959TSN,1958,Southern Association,F21920,Minnick,,0,Chattanooga,,p44,minnick
-1959TSN,1958,Southern Association,P10503,Minnick,,0,Chattanooga,,P44p,minnick
-1959TSN,1958,Southern Association,B02176,Mitchell,William,0,Birmingham,,B1,mitchell
-1959TSN,1958,Southern Association,P10917,Mitchell,,0,Birmingham,,P1p,mitchell
-1959TSN,1958,Southern Association,B01197,Montag,Robert,0,Atlanta,,B93,montag
-1959TSN,1958,Southern Association,F20014,Montag,,0,Atlanta,,1b13,montag
-1959TSN,1958,Southern Association,F21084,Montag,,0,Atlanta,,of65,montag
-1959TSN,1958,Southern Association,B01203,Montalvo,Joseph,0,Chattanooga,,B18,montalvo
-1959TSN,1958,Southern Association,F21491,Montalvo,,0,Chattanooga,,c14,montalvo
-1959TSN,1958,Southern Association,B01216,Moran,R. Alan,0,Memphis,,B39,moran
-1959TSN,1958,Southern Association,F20721,Moran,,0,Memphis,,ss39,moran
-1959TSN,1958,Southern Association,B01227,Morgan,Vernon,0,Chattanooga,,B146,morgan
-1959TSN,1958,Southern Association,F21059,Morgan,,0,Chattanooga,,of137,morgan
-1959TSN,1958,Southern Association,B01234,Morton,Guy,0,Chattanooga,,B98,morton
-1959TSN,1958,Southern Association,F21502,Morton,,0,Chattanooga,,c79,morton
-1959TSN,1958,Southern Association,B02432,Murszewski,Marion,0,Mobile,,B6,murszewski
-1959TSN,1958,Southern Association,P11131,Murszewski,,0,Mobile,,P6p,murszewski
-1959TSN,1958,Southern Association,B01242,Nance,Donald,1,Mobile,,B10,nance
-1959TSN,1958,Southern Association,B01242,Nance,Donald,2,Little Rock,,B15,nance
-1959TSN,1958,Southern Association,B01242,Nance,Donald,T,,,B25,nance
-1959TSN,1958,Southern Association,F21651,Nance,,1,Mobile,,p,nance
-1959TSN,1958,Southern Association,F21651,Nance,,2,Little Rock,,p,nance
-1959TSN,1958,Southern Association,F21651,Nance,,T,,,p24,nance
-1959TSN,1958,Southern Association,P10516,Nance,,1,Mobile,,P10p,nance
-1959TSN,1958,Southern Association,P10516,Nance,,2,Little Rock,,P14p,nance
-1959TSN,1958,Southern Association,P10516,Nance,,T,,,P24p,nance
-1959TSN,1958,Southern Association,B01250,Nardella,Angelo,0,New Orleans,,B56,nardella
-1959TSN,1958,Southern Association,F21898,Nardella,,0,New Orleans,,p42,nardella
-1959TSN,1958,Southern Association,P10527,Nardella,,0,New Orleans,,P42p,nardella
-1959TSN,1958,Southern Association,B02588,Nichols,Donald,0,New Orleans,,B6,nichols
-1959TSN,1958,Southern Association,P11287,Nichols,,0,New Orleans,,P6p,nichols
-1959TSN,1958,Southern Association,B02312,Nora,Jack,0,Little Rock,,B6,nora
-1959TSN,1958,Southern Association,P11038,Nora,,0,Little Rock,,P6p,nora
-1959TSN,1958,Southern Association,B01269,North,Lamar,0,New Orleans,,B130,north
-1959TSN,1958,Southern Association,F21434,North,,0,New Orleans,,c119,north
-1959TSN,1958,Southern Association,B01275,O'Donnell,John,0,Atlanta,,B27,odonnell
-1959TSN,1958,Southern Association,F22150,O'Donnell,,0,Atlanta,,p21,odonnell
-1959TSN,1958,Southern Association,P10534,O'Donnell,,0,Atlanta,,P21p,odonnell
-1959TSN,1958,Southern Association,B02591,O'Reilly,James,0,New Orleans,,B5,oreilly
-1959TSN,1958,Southern Association,P11298,O'Reilly,,0,New Orleans,,P4p,oreilly
-1959TSN,1958,Southern Association,B01321,O'Toole,James,0,Nashville,,B37,otoole
-1959TSN,1958,Southern Association,F22280,O'Toole,,0,Nashville,,p35,otoole
-1959TSN,1958,Southern Association,P10550,O'Toole,,0,Nashville,,P35p,otoole
-1959TSN,1958,Southern Association,B01288,Oliva,Angel,0,Chattanooga,,B66,oliva
-1959TSN,1958,Southern Association,F22238,Oliva,,0,Chattanooga,,p62,oliva
-1959TSN,1958,Southern Association,P10542,Oliva,,0,Chattanooga,,P62p,oliva
-1959TSN,1958,Southern Association,B01291,Olson,Herbert,0,Mobile,,B84,olson
-1959TSN,1958,Southern Association,F21442,Olson,,0,Mobile,,c75,olson
-1959TSN,1958,Southern Association,B01300,Oravetz,Ernest,0,Chattanooga,,B132,oravetz
-1959TSN,1958,Southern Association,F20829,Oravetz,,0,Chattanooga,,of132,oravetz
-1959TSN,1958,Southern Association,B01313,Otey,Ridic,0,Little Rock,,B122,otey
-1959TSN,1958,Southern Association,F20211,Otey,,0,Little Rock,,2b111,otey
-1959TSN,1958,Southern Association,B01337,Padilla,Jose,0,Nashville,,B37,padilla
-1959TSN,1958,Southern Association,F20482,Padilla,,0,Nashville,,3b25,padilla
-1959TSN,1958,Southern Association,P11189,Padilla,,0,Nashville,,P2p,padilla
-1959TSN,1958,Southern Association,B01345,Pagliaroni,James,0,Memphis,,B44,pagliaroni
-1959TSN,1958,Southern Association,F21264,Pagliaroni,,0,Memphis,,c36,pagliaroni
-1959TSN,1958,Southern Association,B01359,Panko,Emil,0,Nashville,,B83,panko
-1959TSN,1958,Southern Association,F20962,Panko,,0,Nashville,,of81,panko
-1959TSN,1958,Southern Association,B01368,Pawloski,Stanley,0,Mobile,,B143,pawloski
-1959TSN,1958,Southern Association,F20190,Pawloski,,0,Mobile,,2b142,pawloski
-1959TSN,1958,Southern Association,B01376,Payne,Walter,0,Memphis,,B14,payne
-1959TSN,1958,Southern Association,F21783,Payne,,0,Memphis,,p14,payne
-1959TSN,1958,Southern Association,P10569,Payne,,0,Memphis,,P14p,payne
-1959TSN,1958,Southern Association,B02184,Pearce,Herbert,0,Birmingham,,B2,pearce
-1959TSN,1958,Southern Association,P10925,Pearce,,0,Birmingham,,P2p,pearce
-1959TSN,1958,Southern Association,B01384,Peden,Leslie,0,Little Rock,,B133,peden
-1959TSN,1958,Southern Association,F20552,Peden,,0,Little Rock,,3b27,peden
-1959TSN,1958,Southern Association,F21362,Peden,,0,Little Rock,,c96,peden
-1959TSN,1958,Southern Association,M90060,Peden,Leslie,,Little Rock,,,peden
-1959TSN,1958,Southern Association,P11046,Peden,,0,Little Rock,,P1p,peden
-emilbb,1958,Southern Association,M90445,Peden,Les,,Little Rock,,,peden
-1959TSN,1958,Southern Association,B01392,Pedigree,Robert,0,Mobile,,B75,pedigree
-1959TSN,1958,Southern Association,F20153,Pedigree,,0,Mobile,,2b15,pedigree
-1959TSN,1958,Southern Association,F20539,Pedigree,,0,Mobile,,3b18,pedigree
-1959TSN,1958,Southern Association,F20713,Pedigree,,0,Mobile,,ss17,pedigree
-1959TSN,1958,Southern Association,B01402,Phillips,Howard D.,0,Birmingham,,B140,phillips-bir
-1959TSN,1958,Southern Association,B01415,Phillips,Richard,0,Atlanta,,B98,phillips-atl
-1959TSN,1958,Southern Association,F20206,Phillips,,0,Birmingham,,2b132,phillips-bir
-1959TSN,1958,Southern Association,F20648,Phillips,,0,Atlanta,,ss86,phillips-atl
-1959TSN,1958,Southern Association,F20792,Phillips,,0,Atlanta,,of11,phillips-atl
-1959TSN,1958,Southern Association,B01428,Pitula,Stanley,0,Mobile,,B14,pitula
-1959TSN,1958,Southern Association,F22295,Pitula,,0,Mobile,,p13,pitula
-1959TSN,1958,Southern Association,P10575,Pitula,,0,Mobile,,P13p,pitula
-1959TSN,1958,Southern Association,B01431,Ponce,Anthony,1,Chattanooga,,B11,ponce
-1959TSN,1958,Southern Association,B01431,Ponce,Anthony,2,New Orleans,,B7,ponce
-1959TSN,1958,Southern Association,B01431,Ponce,Anthony,T,,,B18,ponce
-1959TSN,1958,Southern Association,F21811,Ponce,,1,Chattanooga,,p,ponce
-1959TSN,1958,Southern Association,F21811,Ponce,,2,New Orleans,,p,ponce
-1959TSN,1958,Southern Association,F21811,Ponce,,T,,,p18,ponce
-1959TSN,1958,Southern Association,P10588,Ponce,,1,Chattanooga,,P11p,ponce
-1959TSN,1958,Southern Association,P10588,Ponce,,2,New Orleans,,P7p,ponce
-1959TSN,1958,Southern Association,P10588,Ponce,,T,,,P18p,ponce
-1959TSN,1958,Southern Association,B02231,Potter,Paul,0,Chattanooga,,B1,potter
-1959TSN,1958,Southern Association,B01444,Powis,Carl,0,Atlanta,,B17,powis
-1959TSN,1958,Southern Association,F20784,Powis,,0,Atlanta,,of17,powis
-1959TSN,1958,Southern Association,B01453,Prout,William,0,Memphis,,B36,prout
-1959TSN,1958,Southern Association,F22188,Prout,,0,Memphis,,p36,prout
-1959TSN,1958,Southern Association,P10591,Prout,,0,Memphis,,P36p,prout
-1959TSN,1958,Southern Association,B01466,Quintana,P. Witremundo,0,Nashville,,B46,quintana
-1959TSN,1958,Southern Association,F20189,Quintana,,0,Nashville,,2b28,quintana
-1959TSN,1958,Southern Association,F20342,Quintana,,0,Nashville,,3b20,quintana
-1959TSN,1958,Southern Association,B01477,Raugh,James,0,Birmingham,,B47,raugh
-1959TSN,1958,Southern Association,F22127,Raugh,,0,Birmingham,,p47,raugh
-1959TSN,1958,Southern Association,P10606,Raugh,,0,Birmingham,,P47p,raugh
-1959TSN,1958,Southern Association,B01489,Reed,David,0,Birmingham,,B52,reed-bir
-1959TSN,1958,Southern Association,B01490,Reed,John,0,New Orleans,,B152,reed-no
-1959TSN,1958,Southern Association,B02320,Reed,Howard,0,Little Rock,,B7,reed-lr
-1959TSN,1958,Southern Association,F20893,Reed,,0,New Orleans,,of147,reed-no
-1959TSN,1958,Southern Association,F21646,Reed,,0,Birmingham,,p49,reed-bir
-1959TSN,1958,Southern Association,P10611,Reed,,0,Birmingham,,P49p,reed-bir
-1959TSN,1958,Southern Association,P10622,Reed,,0,Little Rock,,P7p,reed-lr
-1959TSN,1958,Southern Association,B01509,Regan,Phillip,0,Birmingham,,B35,regan
-1959TSN,1958,Southern Association,F21614,Regan,,0,Birmingham,,p35,regan
-1959TSN,1958,Southern Association,P10633,Regan,,0,Birmingham,,P35p,regan
-1959TSN,1958,Southern Association,B01514,Reynolds,William,0,Atlanta,,B10,reynolds
-1959TSN,1958,Southern Association,B01523,Riddle,Clarence,0,Atlanta,,B96,riddle
-1959TSN,1958,Southern Association,F20102,Riddle,,0,Atlanta,,1b93,riddle
-1959TSN,1958,Southern Association,B02606,Riesener,Robert,0,New Orleans,,B8,riesener
-1959TSN,1958,Southern Association,P10640,Riesener,,0,New Orleans,,P8p,riesener
-1959TSN,1958,Southern Association,B01538,Rippelmeyer,Ray,0,Atlanta,,B26,rippelmeyer
-1959TSN,1958,Southern Association,F21865,Rippelmeyer,,0,Atlanta,,p21,rippelmeyer
-1959TSN,1958,Southern Association,P10654,Rippelmeyer,,0,Atlanta,,P21p,rippelmeyer
-1959TSN,1958,Southern Association,B01546,Rivich,Robert,0,Memphis,,B38,rivich
-1959TSN,1958,Southern Association,F21381,Rivich,,0,Memphis,,c34,rivich
-1959TSN,1958,Southern Association,B02121,Robertson,Daryl,0,Atlanta,,B9,robertson-atl
-1959TSN,1958,Southern Association,B02385,Robertson,Donald,0,Memphis,,B8,robertson-mem
-1959TSN,1958,Southern Association,M90071,Robinson,Warren (Sheriff),,Memphis,,,robinson
-emilbb,1958,Southern Association,M90459,Robinson,"Warren ""Sheriff""",,Memphis,,,robinson
-1959TSN,1958,Southern Association,B01551,Rodemoyer,Howard,0,Mobile,,B42,rodemoyer
-1959TSN,1958,Southern Association,F22267,Rodemoyer,,0,Mobile,,p42,rodemoyer
-1959TSN,1958,Southern Association,P10665,Rodemoyer,,0,Mobile,,P42p,rodemoyer
-1959TSN,1958,Southern Association,B01567,Romberger,Allen,0,Little Rock,,B55,romberger
-1959TSN,1958,Southern Association,F21667,Romberger,,0,Little Rock,,p55,romberger
-1959TSN,1958,Southern Association,P10679,Romberger,,0,Little Rock,,P55p,romberger
-1959TSN,1958,Southern Association,B01572,Roseboro,Stanley,0,Chattanooga,,B55,roseboro
-1959TSN,1958,Southern Association,F20496,Roseboro,,0,Chattanooga,,3b42,roseboro
-1959TSN,1958,Southern Association,B02441,Rosenbaum,Glen,0,Mobile,,B3,rosenbaum
-1959TSN,1958,Southern Association,P11144,Rosenbaum,,0,Mobile,,P3p,rosenbaum
-1959TSN,1958,Southern Association,B02192,Rozman,Ronald,0,Birmingham,,B7,rozman
-1959TSN,1958,Southern Association,P10930,Rozman,,0,Birmingham,,P7p,rozman
-1959TSN,1958,Southern Association,B02244,Russell,James,0,Chattanooga,,B8,russell
-1959TSN,1958,Southern Association,P10949,Russell,,0,Chattanooga,,P8p,russell
-1959TSN,1958,Southern Association,B01580,Ryan,Daniel,0,Birmingham,,B22,ryan
-1959TSN,1958,Southern Association,F21278,Ryan,,0,Birmingham,,c20,ryan
-1959TSN,1958,Southern Association,B02253,Saban,Matthew,0,Chattanooga,,B8,saban
-1959TSN,1958,Southern Association,P10958,Saban,,0,Chattanooga,,P8p,saban
-1959TSN,1958,Southern Association,B01601,Saner,Donald,0,Mobile,,B150,saner
-1959TSN,1958,Southern Association,F20051,Saner,,0,Mobile,,1b148,saner
-1959TSN,1958,Southern Association,B01617,Schaeffer,Donald,0,Mobile,,B38,schaeffer
-1959TSN,1958,Southern Association,F21553,Schaeffer,,0,Mobile,,p34,schaeffer
-1959TSN,1958,Southern Association,P10687,Schaeffer,,0,Mobile,,P34p,schaeffer
-1959TSN,1958,Southern Association,B01625,Schaive,John,0,Chattanooga,,B142,schaive
-1959TSN,1958,Southern Association,F20265,Schaive,,0,Chattanooga,,2b140,schaive
-1959TSN,1958,Southern Association,B01630,Schmees,George,0,Nashville,,B66,schmees
-1959TSN,1958,Southern Association,F21130,Schmees,,0,Nashville,,of64,schmees
-1959TSN,1958,Southern Association,P11190,Schmees,,0,Nashville,,P4p,schmees
-1959TSN,1958,Southern Association,B01649,Schmidt,Haven,0,Nashville,,B14,schmidt
-1959TSN,1958,Southern Association,F21293,Schmidt,,0,Nashville,,c14,schmidt
-1959TSN,1958,Southern Association,B01658,Schoonmaker,Jerald,0,Chattanooga,,B15,schoonmaker
-1959TSN,1958,Southern Association,F21174,Schoonmaker,,0,Chattanooga,,of10,schoonmaker
-1959TSN,1958,Southern Association,B01663,Schwarzkoff,Robert,0,Little Rock,,B10,schwarzkoff
-1959TSN,1958,Southern Association,F22272,Schwarzkoff,,0,Little Rock,,p10,schwarzkoff
-1959TSN,1958,Southern Association,P11051,Schwarzkoff,,0,Little Rock,,P10p,schwarzkoff
-1959TSN,1958,Southern Association,B01674,Scott,Alan,0,Little Rock,,B99,scott
-1959TSN,1958,Southern Association,F21182,Scott,,0,Little Rock,,of97,scott
-1959TSN,1958,Southern Association,B01682,Sczesny,Mathew,0,Memphis,,B67,sczesny
-1959TSN,1958,Southern Association,F20334,Sczesny,,0,Memphis,,3b16,sczesny
-1959TSN,1958,Southern Association,F20768,Sczesny,,0,Memphis,,of43,sczesny
-1959TSN,1958,Southern Association,B01696,Secrest,Charles,0,Little Rock,,B154,secrest
-1959TSN,1958,Southern Association,F20943,Secrest,,0,Little Rock,,of153,secrest
-1959TSN,1958,Southern Association,B01706,Seward,Walter,0,Mobile,,B48,seward
-1959TSN,1958,Southern Association,F22175,Seward,,0,Mobile,,p45,seward
-1959TSN,1958,Southern Association,P10698,Seward,,0,Mobile,,P45p,seward
-1959TSN,1958,Southern Association,B01711,Sheets,Eugene,0,Memphis,,B21,sheets
-1959TSN,1958,Southern Association,F20776,Sheets,,0,Memphis,,of20,sheets
-1959TSN,1958,Southern Association,B01722,Shifflett,Garland,0,Chattanooga,,B10,shifflett
-1959TSN,1958,Southern Association,P10963,Shifflett,,0,Chattanooga,,P8p,shifflett
-1959TSN,1958,Southern Association,B01733,Silvera,Charles,0,New Orleans,,B24,silvera
-1959TSN,1958,Southern Association,F21528,Silvera,,0,New Orleans,,c19,silvera
-1959TSN,1958,Southern Association,M90083,Silvera,Charles,,New Orleans,,,silvera
-emilbb,1958,Southern Association,M90468,Silvera,Charlie,,New Orleans,,,silvera
-1959TSN,1958,Southern Association,B02266,Sima,Albert,0,Chattanooga,,B5,sima
-1959TSN,1958,Southern Association,P10974,Sima,,0,Chattanooga,,P5p,sima
-1959TSN,1958,Southern Association,B01740,Sisler,Richard,0,Nashville,,B82,sisler
-1959TSN,1958,Southern Association,F20095,Sisler,,0,Nashville,,1b33,sisler
-1959TSN,1958,Southern Association,M90052,Sisler,Richard,,Nashville,,,sisler
-emilbb,1958,Southern Association,M90437,Sisler,Dick,,Nashville,,,sisler
-1959TSN,1958,Southern Association,B02202,Skizas,Louis,0,Birmingham,,B2,skizas
-1959TSN,1958,Southern Association,B01754,Slack,William,0,Memphis,,B69,slack
-1959TSN,1958,Southern Association,F22251,Slack,,0,Memphis,,p69,slack
-1959TSN,1958,Southern Association,P10709,Slack,,0,Memphis,,P69p,slack
-1959TSN,1958,Southern Association,B01765,Slider,Rachel,0,Little Rock,,B144,slider
-1959TSN,1958,Southern Association,F20657,Slider,,0,Little Rock,,ss142,slider
-1959TSN,1958,Southern Association,B01779,Small,James,0,Little Rock,,B86,small
-1959TSN,1958,Southern Association,F21207,Small,,0,Little Rock,,of85,small
-1959TSN,1958,Southern Association,B02399,Smith,Charles E.,0,Memphis,,B8,smith
-1959TSN,1958,Southern Association,P11102,Smith,,0,Memphis,,P8p,smith
-1959TSN,1958,Southern Association,B01787,Snyder,Russell,0,New Orleans,,B148,snyder
-1959TSN,1958,Southern Association,F20997,Snyder,,0,New Orleans,,of141,snyder
-1959TSN,1958,Southern Association,B01798,Solt,James,0,Atlanta,,B32,solt
-1959TSN,1958,Southern Association,F21469,Solt,,0,Atlanta,,c25,solt
-1959TSN,1958,Southern Association,B01804,Spicer,Robert,0,Little Rock,,B45,spicer
-1959TSN,1958,Southern Association,F21531,Spicer,,0,Little Rock,,p40,spicer
-1959TSN,1958,Southern Association,P10714,Spicer,,0,Little Rock,,P40p,spicer
-1959TSN,1958,Southern Association,B01812,Sprankle,James,0,Nashville,,B40,sprankle
-1959TSN,1958,Southern Association,F22214,Sprankle,,0,Nashville,,p40,sprankle
-1959TSN,1958,Southern Association,P10723,Sprankle,,0,Nashville,,P40p,sprankle
-1959TSN,1958,Southern Association,B01595,St. Claire,Edward,0,Atlanta,,B105,stclaire
-1959TSN,1958,Southern Association,F21335,St. Claire,,0,Atlanta,,c100,stclaire
-1959TSN,1958,Southern Association,B01820,Stabelfeld,Glen,0,Memphis,,B37,stabelfeld
-1959TSN,1958,Southern Association,F21590,Stabelfeld,,0,Memphis,,p35,stabelfeld
-1959TSN,1958,Southern Association,P10738,Stabelfeld,,0,Memphis,,P35p,stabelfeld
-1959TSN,1958,Southern Association,B01836,Stewart,Veston,0,Chattanooga,,B27,stewart
-1959TSN,1958,Southern Association,F22073,Stewart,,0,Chattanooga,,p22,stewart
-1959TSN,1958,Southern Association,P10746,Stewart,,0,Chattanooga,,P22p,stewart
-1959TSN,1958,Southern Association,B01848,Stigman,Richard,0,Mobile,,B27,stigman
-1959TSN,1958,Southern Association,F21957,Stigman,,0,Mobile,,p26,stigman
-1959TSN,1958,Southern Association,P10751,Stigman,,0,Mobile,,P26p,stigman
-1959TSN,1958,Southern Association,B02137,Streeter,Gerald,0,Atlanta,,B9,streeter
-1959TSN,1958,Southern Association,B01857,Striker,Wilbur,0,Mobile,,B36,striker
-1959TSN,1958,Southern Association,F21961,Striker,,0,Mobile,,p35,striker
-1959TSN,1958,Southern Association,P10767,Striker,,0,Mobile,,P35p,striker
-1959TSN,1958,Southern Association,B01861,Suleski,Ronald,0,Nashville,,B20,suleski
-1959TSN,1958,Southern Association,F21286,Suleski,,0,Nashville,,c14,suleski
-1959TSN,1958,Southern Association,B02336,Swaringen,Ben,0,Little Rock,,B7,swaringen
-1959TSN,1958,Southern Association,P11067,Swaringen,,0,Little Rock,,P7p,swaringen
-1959TSN,1958,Southern Association,B01873,Tanner,Joseph,0,Memphis,,B82,tanner
-1959TSN,1958,Southern Association,F20388,Tanner,,0,Memphis,,3b66,tanner
-1959TSN,1958,Southern Association,B02611,Tarantino,Thomas,0,New Orleans,,B8,tarantino
-1959TSN,1958,Southern Association,B01885,Taylor,Larry,0,Nashville,,B78,taylor
-1959TSN,1958,Southern Association,F20166,Taylor,,0,Nashville,,2b74,taylor
-1959TSN,1958,Southern Association,B01899,Thollander,Robert,0,Chattanooga,,B22,thollander
-1959TSN,1958,Southern Association,F22169,Thollander,,0,Chattanooga,,p20,thollander
-1959TSN,1958,Southern Association,P10772,Thollander,,0,Chattanooga,,P20p,thollander
-1959TSN,1958,Southern Association,B01905,Thomas,George,0,Birmingham,,B22,thomas-bir
-1959TSN,1958,Southern Association,B01918,Thomas,John S.,0,Memphis,,B17,thomas-mem
-1959TSN,1958,Southern Association,F21229,Thomas,,0,Birmingham,,of20,thomas-bir
-1959TSN,1958,Southern Association,F22310,Thomas,,0,Memphis,,p16,thomas-mem
-1959TSN,1958,Southern Association,P10780,Thomas,,0,Memphis,,P16p,thomas-mem
-1959TSN,1958,Southern Association,B01926,Thorpe,B. Robert,0,Birmingham,,B122,thorpe
-1959TSN,1958,Southern Association,F20864,Thorpe,,0,Birmingham,,of119,thorpe
-1959TSN,1958,Southern Association,B01939,Tinney,Roy,1,Memphis,,B4,tinney
-1959TSN,1958,Southern Association,B01939,Tinney,Roy,2,Chattanooga,,B6,tinney
-1959TSN,1958,Southern Association,B01939,Tinney,Roy,T,,,B10,tinney
-1959TSN,1958,Southern Association,F22307,Tinney,,1,Chattanooga,,p,tinney
-1959TSN,1958,Southern Association,F22307,Tinney,,2,Memphis,,p,tinney
-1959TSN,1958,Southern Association,F22307,Tinney,,T,,,p10,tinney
-1959TSN,1958,Southern Association,P10982,Tinney,,1,Memphis,,P4p,tinney
-1959TSN,1958,Southern Association,P10982,Tinney,,2,Chattanooga,,P6p,tinney
-1959TSN,1958,Southern Association,P10982,Tinney,,T,,,P10p,tinney
-1959TSN,1958,Southern Association,B02503,Touchberry,E. Burton,0,Nashville,,B6,touchberry
-1959TSN,1958,Southern Association,P11206,Touchberry,,0,Nashville,,P6p,touchberry
-1959TSN,1958,Southern Association,B01947,Tresh,Thomas,0,New Orleans,,B33,tresh
-1959TSN,1958,Southern Association,F20350,Tresh,,0,New Orleans,,3b33,tresh
-1959TSN,1958,Southern Association,B02348,Tsitouris,John,0,Little Rock,,B8,tsitouris
-1959TSN,1958,Southern Association,P10795,Tsitouris,,0,Little Rock,,P7p,tsitouris
-1959TSN,1958,Southern Association,B01952,Uecker,Robert,0,Atlanta,,B15,uecker
-1959TSN,1958,Southern Association,F21515,Uecker,,0,Atlanta,,c15,uecker
-1959TSN,1958,Southern Association,B01960,Umbricht,James,0,Atlanta,,B54,umbricht
-1959TSN,1958,Southern Association,F21854,Umbricht,,0,Atlanta,,p54,umbricht
-1959TSN,1958,Southern Association,P10805,Umbricht,,0,Atlanta,,P54p,umbricht
-1959TSN,1958,Southern Association,B01971,Utley,Patrick,0,New Orleans,,B31,utley
-1959TSN,1958,Southern Association,F21695,Utley,,0,New Orleans,,p31,utley
-1959TSN,1958,Southern Association,P10818,Utley,,0,New Orleans,,P31p,utley
-1959TSN,1958,Southern Association,B01983,Veal,O. Inman,0,Birmingham,,B61,veal
-1959TSN,1958,Southern Association,F20594,Veal,,0,Birmingham,,ss59,veal
-1959TSN,1958,Southern Association,B01994,Wagner,Carlyle,0,Birmingham,,B97,wagner
-1959TSN,1958,Southern Association,F21397,Wagner,,0,Birmingham,,c84,wagner
-1959TSN,1958,Southern Association,B02008,Waters,John,0,Mobile,,B112,waters-mob
-1959TSN,1958,Southern Association,B02277,Waters,Fred,0,Chattanooga,,B7,waters-cht
-1959TSN,1958,Southern Association,F21021,Waters,,0,Mobile,,of112,waters-mob
-1959TSN,1958,Southern Association,P10996,Waters,,0,Chattanooga,,P7p,waters-cht
-1959TSN,1958,Southern Association,B02019,Weiss,F. Douglas,0,New Orleans,,B37,weiss
-1959TSN,1958,Southern Association,F22004,Weiss,,0,New Orleans,,p26,weiss
-1959TSN,1958,Southern Association,P10826,Weiss,,0,New Orleans,,P26p,weiss
-1959TSN,1958,Southern Association,B02357,Williams,Donald,0,Little Rock,,B4,williams
-1959TSN,1958,Southern Association,P11072,Williams,,0,Little Rock,,P4p,williams
-1959TSN,1958,Southern Association,B02024,Willis,Robert,0,Chattanooga,,B136,willis-cht
-1959TSN,1958,Southern Association,B02407,Willis,Stanley,0,Memphis,,B3,willis-mem
-1959TSN,1958,Southern Association,F20661,Willis,,0,Chattanooga,,ss127,willis-cht
-1959TSN,1958,Southern Association,P11115,Willis,,0,Memphis,,P3p,willis-mem
-1959TSN,1958,Southern Association,B02035,Wills,Theodore,0,Chattanooga,,B68,wills
-1959TSN,1958,Southern Association,F22134,Wills,,0,Chattanooga,,p42,wills
-1959TSN,1958,Southern Association,P10839,Wills,,0,Chattanooga,,P42p,wills
-1959TSN,1958,Southern Association,B02043,Wilson,Duane,0,Memphis,,B28,wilson-mem
-1959TSN,1958,Southern Association,B02056,Wilson,Grady,0,Little Rock,,B111,wilson-lr
-1959TSN,1958,Southern Association,F20316,Wilson,,0,Little Rock,,2b15,wilson-lr
-1959TSN,1958,Southern Association,F20526,Wilson,,0,Little Rock,,3b76,wilson-lr
-1959TSN,1958,Southern Association,F20604,Wilson,,0,Little Rock,,ss24,wilson-lr
-1959TSN,1958,Southern Association,F21609,Wilson,,0,Memphis,,p18,wilson-mem
-1959TSN,1958,Southern Association,P10847,Wilson,,0,Memphis,,P18p,wilson-mem
-1959TSN,1958,Southern Association,B02062,Windle,Richard,0,New Orleans,,B95,windle
-1959TSN,1958,Southern Association,F20474,Windle,,0,New Orleans,,3b37,windle
-1959TSN,1958,Southern Association,F21101,Windle,,0,New Orleans,,of22,windle
-1959TSN,1958,Southern Association,F21427,Windle,,0,New Orleans,,c17,windle
-1959TSN,1958,Southern Association,B02070,Yewcic,Thomas,0,Birmingham,,B29,yewcic
-1959TSN,1958,Southern Association,F21475,Yewcic,,0,Birmingham,,c25,yewcic
-1959TSN,1958,Southern Association,B02081,Yochim,Raymond,0,New Orleans,,B12,yochim
-1959TSN,1958,Southern Association,M90094,Yochim,Raymond,,New Orleans,19580819/,,yochim
-1959TSN,1958,Southern Association,P11303,Yochim,,0,New Orleans,,P7p,yochim
-emilbb,1958,Southern Association,M90476,Yochim,Ray,,New Orleans,,,yochim
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+1959TSN,1958,Southern Association,aber,B00013,Aber,Albert,0,Little Rock,,B18
+1959TSN,1958,Southern Association,aber,F21794,Aber,,0,Little Rock,,p18
+1959TSN,1958,Southern Association,aber,P10019,Aber,,0,Little Rock,,P18p
+1959TSN,1958,Southern Association,abernathie,B02361,Abernathie,William,0,Memphis,,B9
+1959TSN,1958,Southern Association,abernathie,P11080,Abernathie,,0,Memphis,,P9p
+1959TSN,1958,Southern Association,abernathy,B00021,Abernathy,Theodore,0,Chattanooga,,B31
+1959TSN,1958,Southern Association,abernathy,F21544,Abernathy,,0,Chattanooga,,p30
+1959TSN,1958,Southern Association,abernathy,P10024,Abernathy,,0,Chattanooga,,P30p
+1959TSN,1958,Southern Association,agosta,B00037,Agosta,Thomas,0,Little Rock,,B13
+1959TSN,1958,Southern Association,agosta,F20327,Agosta,,0,Little Rock,,2b10
+1959TSN,1958,Southern Association,aldridge,B00045,Aldridge,Roger,0,Memphis,,B17
+1959TSN,1958,Southern Association,aldridge,F21752,Aldridge,,0,Memphis,,p16
+1959TSN,1958,Southern Association,aldridge,P10035,Aldridge,,0,Memphis,,P16p
+1959TSN,1958,Southern Association,allison,B00059,Allison,William,0,Chattanooga,,B150
+1959TSN,1958,Southern Association,allison,F21076,Allison,,0,Chattanooga,,of148
+1959TSN,1958,Southern Association,alusik,B00068,Alusik,George,0,Birmingham,,B28
+1959TSN,1958,Southern Association,alusik,F21000,Alusik,,0,Birmingham,,of26
+1959TSN,1958,Southern Association,anderson,B02455,Anderson,Herbert,0,Nashville,,B9
+1959TSN,1958,Southern Association,asaro,B00076,Asaro,Anthony,0,New Orleans,,B149
+1959TSN,1958,Southern Association,asaro,F20222,Asaro,,0,New Orleans,,2b130
+1959TSN,1958,Southern Association,asaro,F20505,Asaro,,0,New Orleans,,3b19
+1959TSN,1958,Southern Association,aylward,B00084,Aylward,Richard,0,Nashville,,B67
+1959TSN,1958,Southern Association,aylward,F21324,Aylward,,0,Nashville,,c65
+1959TSN,1958,Southern Association,baich,B00092,Baich,Daniel,0,Chattanooga,,B79
+1959TSN,1958,Southern Association,baich,F21356,Baich,,0,Chattanooga,,c69
+1959TSN,1958,Southern Association,bailey,B00101,Bailey,James,0,Nashville,,B47
+1959TSN,1958,Southern Association,bailey,F21638,Bailey,,0,Nashville,,p35
+1959TSN,1958,Southern Association,bailey,P10043,Bailey,,0,Nashville,,P35p
+1959TSN,1958,Southern Association,barmes,B00117,Barmes,Bruce,0,Atlanta,,B140
+1959TSN,1958,Southern Association,barmes,F20935,Barmes,,0,Atlanta,,of132
+1959TSN,1958,Southern Association,bartunek,B02410,Bartunek,Clarence,0,Mobile,,B8
+1959TSN,1958,Southern Association,bates,M90039,Bates,Hubert (Buddy),,Atlanta,,
+emilbb,1958,Southern Association,bates,M90413,Bates,"Hubert ""Buddy""",,Atlanta,,
+1959TSN,1958,Southern Association,baumann,B00125,Baumann,Frank,0,Memphis,,B17
+1959TSN,1958,Southern Association,baumann,F21705,Baumann,,0,Memphis,,p15
+1959TSN,1958,Southern Association,baumann,P10056,Baumann,,0,Memphis,,P15p
+1959TSN,1958,Southern Association,baumer,B00130,Baumer,Jarrett,0,Mobile,,B145
+1959TSN,1958,Southern Association,baumer,F20449,Baumer,,0,Mobile,,3b140
+1959TSN,1958,Southern Association,black,B00149,Black,William,1,Birmingham,,B8
+1959TSN,1958,Southern Association,black,B00149,Black,William,2,Little Rock,,B30
+1959TSN,1958,Southern Association,black,B00149,Black,William,T,,,B38
+1959TSN,1958,Southern Association,black,F21999,Black,,1,Birmingham,,p
+1959TSN,1958,Southern Association,black,F21999,Black,,2,Little Rock,,p
+1959TSN,1958,Southern Association,black,F21999,Black,,T,,,p32
+1959TSN,1958,Southern Association,black,P10062,Black,,1,Birmingham,,P8p
+1959TSN,1958,Southern Association,black,P10062,Black,,2,Little Rock,,P24p
+1959TSN,1958,Southern Association,black,P10062,Black,,T,,,P32p
+1959TSN,1958,Southern Association,bober,B02289,Bober,John,0,Little Rock,,B8
+1959TSN,1958,Southern Association,bober,P10070,Bober,,0,Little Rock,,P8p
+1959TSN,1958,Southern Association,bornman,B02215,Bornman,Thomas,0,Chattanooga,,B4
+1959TSN,1958,Southern Association,boros,B00158,Boros,Stephen,0,Birmingham,,B44
+1959TSN,1958,Southern Association,boros,F20298,Boros,,0,Birmingham,,2b16
+1959TSN,1958,Southern Association,boros,F20745,Boros,,0,Birmingham,,ss18
+1959TSN,1958,Southern Association,botz,B02097,Botz,Robert,0,Atlanta,,B1
+1959TSN,1958,Southern Association,botz,P10852,Botz,,0,Atlanta,,P1p
+1959TSN,1958,Southern Association,bradey,B00163,Bradey,Donald,0,New Orleans,,B60
+1959TSN,1958,Southern Association,bradey,F22012,Bradey,,0,New Orleans,,p60
+1959TSN,1958,Southern Association,bradey,P10081,Bradey,,0,New Orleans,,P60p
+1959TSN,1958,Southern Association,bradford,B02290,Bradford,William,0,Little Rock,,B3
+1959TSN,1958,Southern Association,bradford,P11009,Bradford,,0,Little Rock,,P2p
+1959TSN,1958,Southern Association,brady,B02145,Brady,James,0,Birmingham,,B3
+1959TSN,1958,Southern Association,brady,P10883,Brady,,0,Birmingham,,P3p
+1959TSN,1958,Southern Association,briggs,B00174,Briggs,Arnold,0,New Orleans,,B13
+1959TSN,1958,Southern Association,briggs,F21840,Briggs,,0,New Orleans,,p13
+1959TSN,1958,Southern Association,briggs,P11211,Briggs,,0,New Orleans,,P13p
+1959TSN,1958,Southern Association,brown-lr,B00182,Brown,Donald L.,0,Little Rock,,B37
+1959TSN,1958,Southern Association,brown-nvl+cht,B00196,Brown,Thomas,1,Nashville,,B39
+1959TSN,1958,Southern Association,brown-nvl+cht,B00196,Brown,Thomas,2,Chattanooga,,B71
+1959TSN,1958,Southern Association,brown-nvl+cht,B00196,Brown,Thomas,T,,,B110
+1959TSN,1958,Southern Association,brown-lr,F20303,Brown,,0,Little Rock,,2b24
+1959TSN,1958,Southern Association,brown-nvl+cht,F20458,Brown,,1,Nashville,,3b
+1959TSN,1958,Southern Association,brown-nvl+cht,F20458,Brown,,2,Chattanooga,,3b
+1959TSN,1958,Southern Association,brown-nvl+cht,F20458,Brown,,T,,,3b71
+1959TSN,1958,Southern Association,brown-nvl+cht,F20700,Brown,,1,Nashville,,ss
+1959TSN,1958,Southern Association,brown-nvl+cht,F20700,Brown,,2,Chattanooga,,ss
+1959TSN,1958,Southern Association,brown-nvl+cht,F20700,Brown,,T,,,ss23
+1959TSN,1958,Southern Association,bruce,B00207,Bruce,Robert,0,Birmingham,,B19
+1959TSN,1958,Southern Association,bruce,F21747,Bruce,,0,Birmingham,,p18
+1959TSN,1958,Southern Association,bruce,P10097,Bruce,,0,Birmingham,,P18p
+1959TSN,1958,Southern Association,brunet,B00210,Brunet,George,0,Little Rock,,B18
+1959TSN,1958,Southern Association,brunet,F22036,Brunet,,0,Little Rock,,p13
+1959TSN,1958,Southern Association,brunet,P10100,Brunet,,0,Little Rock,,P13p
+1959TSN,1958,Southern Association,byrd,B00229,Byrd,Harry,0,Birmingham,,B28
+1959TSN,1958,Southern Association,byrd,F21672,Byrd,,0,Birmingham,,p28
+1959TSN,1958,Southern Association,byrd,P10113,Byrd,,0,Birmingham,,P28p
+1959TSN,1958,Southern Association,cade,B00232,Cade,W. Jerry,0,Nashville,,B26
+1959TSN,1958,Southern Association,cade,F22191,Cade,,0,Nashville,,p22
+1959TSN,1958,Southern Association,cade,P10121,Cade,,0,Nashville,,P22p
+1959TSN,1958,Southern Association,callaway,B00241,Callaway,James,0,Atlanta,,B29
+1959TSN,1958,Southern Association,callaway,F21488,Callaway,,0,Atlanta,,c19
+1959TSN,1958,Southern Association,camilli,B00255,Camilli,Richard,0,Birmingham,,B87
+1959TSN,1958,Southern Association,camilli,F20177,Camilli,,0,Birmingham,,2b13
+1959TSN,1958,Southern Association,camilli,F20699,Camilli,,0,Birmingham,,ss56
+1959TSN,1958,Southern Association,carroll,B00264,Carroll,Thomas,0,New Orleans,,B72
+1959TSN,1958,Southern Association,carroll,F20571,Carroll,,0,New Orleans,,3b53
+1959TSN,1958,Southern Association,carroll,F20583,Carroll,,0,New Orleans,,ss20
+1959TSN,1958,Southern Association,castiglione,B00278,Castiglione,Peter,0,Little Rock,,B53
+1959TSN,1958,Southern Association,castiglione,F20430,Castiglione,,0,Little Rock,,3b41
+1959TSN,1958,Southern Association,cave,B00286,Cave,Paul,0,Atlanta,,B47
+1959TSN,1958,Southern Association,cave,F21904,Cave,,0,Atlanta,,p46
+1959TSN,1958,Southern Association,cave,P10137,Cave,,0,Atlanta,,P46p
+1959TSN,1958,Southern Association,cereghino,B00293,Cereghino,Edward,0,New Orleans,,B52
+1959TSN,1958,Southern Association,cereghino,F21912,Cereghino,,0,New Orleans,,p35
+1959TSN,1958,Southern Association,cereghino,P10145,Cereghino,,0,New Orleans,,P35p
+1959TSN,1958,Southern Association,charvat,B02373,Charvat,John,0,Memphis,,B5
+1959TSN,1958,Southern Association,clark-no,B00308,Clark,Alfred,0,New Orleans,,B31
+1959TSN,1958,Southern Association,clark-bir,B00319,Clark,Melvin,0,Birmingham,,B140
+1959TSN,1958,Southern Association,clark-bir,F20841,Clark,,0,Birmingham,,of135
+1959TSN,1958,Southern Association,clark-no,F21013,Clark,,0,New Orleans,,of21
+1959TSN,1958,Southern Association,coggin,B00324,Coggin,Clifford,1,Nashville,,B12
+1959TSN,1958,Southern Association,coggin,B00324,Coggin,Clifford,2,Chattanooga,,B2
+1959TSN,1958,Southern Association,coggin,B00324,Coggin,Clifford,T,,,B14
+1959TSN,1958,Southern Association,coggin,F21822,Coggin,,1,Nashville,,p
+1959TSN,1958,Southern Association,coggin,F21822,Coggin,,2,Chattanooga,,p
+1959TSN,1958,Southern Association,coggin,F21822,Coggin,,T,,,p13
+1959TSN,1958,Southern Association,coggin,P10159,Coggin,,1,Nashville,,P11p
+1959TSN,1958,Southern Association,coggin,P10159,Coggin,,2,Chattanooga,,P2p
+1959TSN,1958,Southern Association,coggin,P10159,Coggin,,T,,,P13p
+1959TSN,1958,Southern Association,cohen,B02464,Cohen,Hyman,0,Nashville,,B9
+1959TSN,1958,Southern Association,cohen,P10168,Cohen,,0,Nashville,,P9p
+1959TSN,1958,Southern Association,coles,B00335,Coles,Charles,0,Nashville,,B153
+1959TSN,1958,Southern Association,coles,F20128,Coles,,0,Nashville,,1b124
+1959TSN,1958,Southern Association,coles,F21163,Coles,,0,Nashville,,of32
+1959TSN,1958,Southern Association,comolli,B00343,Comolli,Victor,1,Nashville,,B75
+1959TSN,1958,Southern Association,comolli,B00343,Comolli,Victor,2,Memphis,,B25
+1959TSN,1958,Southern Association,comolli,B00343,Comolli,Victor,T,,,B100
+1959TSN,1958,Southern Association,comolli,F21403,Comolli,,1,Nashville,,c
+1959TSN,1958,Southern Association,comolli,F21403,Comolli,,2,Memphis,,c
+1959TSN,1958,Southern Association,comolli,F21403,Comolli,,T,,,c86
+1959TSN,1958,Southern Association,cooke,B02516,Cooke,William,0,New Orleans,,B7
+1959TSN,1958,Southern Association,cooke,P11222,Cooke,,0,New Orleans,,P7p
+1959TSN,1958,Southern Association,cottier,B00356,Cottier,Charles,0,Atlanta,,B153
+1959TSN,1958,Southern Association,cottier,F20233,Cottier,,0,Atlanta,,2b153
+1959TSN,1958,Southern Association,dahlke,B00362,Dahlke,Jerome,0,Memphis,,B25
+1959TSN,1958,Southern Association,dahlke,F21718,Dahlke,,0,Memphis,,p24
+1959TSN,1958,Southern Association,dahlke,P10176,Dahlke,,0,Memphis,,P24p
+1959TSN,1958,Southern Association,dailey,B00370,Dailey,William,0,Mobile,,B41
+1959TSN,1958,Southern Association,dailey,F21623,Dailey,,0,Mobile,,p39
+1959TSN,1958,Southern Association,dailey,P10184,Dailey,,0,Mobile,,P39p
+1959TSN,1958,Southern Association,daniel,B00381,Daniel,Charles,0,Birmingham,,B23
+1959TSN,1958,Southern Association,daniel,F21806,Daniel,,0,Birmingham,,p17
+1959TSN,1958,Southern Association,daniel,P10192,Daniel,,0,Birmingham,,P17p
+1959TSN,1958,Southern Association,davidson-no,B00397,Davidson,William,0,New Orleans,,B136
+1959TSN,1958,Southern Association,davidson-mob,B02429,Davidson,Crawford,0,Mobile,,B2
+1959TSN,1958,Southern Association,davidson-no,F20685,Davidson,,0,New Orleans,,ss129
+1959TSN,1958,Southern Association,davis,B00403,Davis,Robert,0,Little Rock,,B25
+1959TSN,1958,Southern Association,davis,F22061,Davis,,0,Little Rock,,p25
+1959TSN,1958,Southern Association,davis,P10202,Davis,,0,Little Rock,,P25p
+1959TSN,1958,Southern Association,demerit,B00416,DeMerit,John,0,Atlanta,,B136
+1959TSN,1958,Southern Association,demerit,F20919,DeMerit,,0,Atlanta,,of135
+1959TSN,1958,Southern Association,demeter,B00427,Demeter,Steven,0,Birmingham,,B151
+1959TSN,1958,Southern Association,demeter,F20375,Demeter,,0,Birmingham,,3b147
+1959TSN,1958,Southern Association,dipippo,B00450,DiPippo,Lawrence,0,Memphis,,B153
+1959TSN,1958,Southern Association,dipippo,F20046,DiPippo,,0,Memphis,,1b151
+1959TSN,1958,Southern Association,dipippo,P11095,DiPippo,,0,Memphis,,P6p
+1959TSN,1958,Southern Association,ditusa,B00469,DiTusa,D. Richard,0,Mobile,,B15
+1959TSN,1958,Southern Association,ditusa,F21092,DiTusa,,0,Mobile,,of12
+1959TSN,1958,Southern Association,dickens,B00434,Dickens,Guilford,1,Memphis,,B111
+1959TSN,1958,Southern Association,dickens,B00434,Dickens,Guilford,2,Birmingham,,B31
+1959TSN,1958,Southern Association,dickens,B00434,Dickens,Guilford,T,,,B142
+1959TSN,1958,Southern Association,dickens,F20023,Dickens,,1,Memphis,,1b
+1959TSN,1958,Southern Association,dickens,F20023,Dickens,,2,Birmingham,,1b
+1959TSN,1958,Southern Association,dickens,F20023,Dickens,,T,,,1b17
+1959TSN,1958,Southern Association,dickens,F20908,Dickens,,1,Memphis,,of
+1959TSN,1958,Southern Association,dickens,F20908,Dickens,,2,Birmingham,,of
+1959TSN,1958,Southern Association,dickens,F20908,Dickens,,T,,,of128
+1959TSN,1958,Southern Association,dillard,B00442,Dillard,David,0,Mobile,,B140
+1959TSN,1958,Southern Association,dillard,F20924,Dillard,,0,Mobile,,of133
+1959TSN,1958,Southern Association,dobzanski,B02478,Dobzanski,Robert,0,Nashville,,B6
+1959TSN,1958,Southern Association,dobzanski,P11153,Dobzanski,,0,Nashville,,P6p
+1959TSN,1958,Southern Association,donovan,B02159,Donovan,Lawrence,0,Birmingham,,B2
+1959TSN,1958,Southern Association,donovan,P10894,Donovan,,0,Birmingham,,P2p
+1959TSN,1958,Southern Association,downs,B00475,Downs,Benjamin,1,Little Rock,,B68
+1959TSN,1958,Southern Association,downs,B00475,Downs,Benjamin,2,Atlanta,,B61
+1959TSN,1958,Southern Association,downs,B00475,Downs,Benjamin,T,,,B129
+1959TSN,1958,Southern Association,downs,F21210,Downs,,1,Little Rock,,of
+1959TSN,1958,Southern Association,downs,F21210,Downs,,2,Atlanta,,of
+1959TSN,1958,Southern Association,downs,F21210,Downs,,T,,,of114
+1959TSN,1958,Southern Association,drews,B02486,Drews,Karl,0,Nashville,,B7
+1959TSN,1958,Southern Association,drews,P11166,Drews,,0,Nashville,,P7p
+1959TSN,1958,Southern Association,drummond,B00488,Drummond,William,0,New Orleans,,B30
+1959TSN,1958,Southern Association,drummond,F22116,Drummond,,0,New Orleans,,p30
+1959TSN,1958,Southern Association,drummond,P10215,Drummond,,0,New Orleans,,P30p
+1959TSN,1958,Southern Association,dufour,B00491,DuFour,William,0,Chattanooga,,B43
+1959TSN,1958,Southern Association,dufour,F21887,DuFour,,0,Chattanooga,,p35
+1959TSN,1958,Southern Association,dufour,P10228,DuFour,,0,Chattanooga,,P35p
+1959TSN,1958,Southern Association,durnbaugh,B00502,Durnbaugh,Robert,0,Nashville,,B151
+1959TSN,1958,Southern Association,durnbaugh,F20636,Durnbaugh,,0,Nashville,,ss147
+1959TSN,1958,Southern Association,earley,B00515,Earley,Arnold,0,Memphis,,B37
+1959TSN,1958,Southern Association,earley,F22099,Earley,,0,Memphis,,p37
+1959TSN,1958,Southern Association,earley,P10231,Earley,,0,Memphis,,P37p
+1959TSN,1958,Southern Association,elliott,B00528,Elliott,Harry,1,Little Rock,,B40
+1959TSN,1958,Southern Association,elliott,B00528,Elliott,Harry,2,Chattanooga,,B17
+1959TSN,1958,Southern Association,elliott,B00528,Elliott,Harry,T,,,B57
+1959TSN,1958,Southern Association,elliott,F20878,Elliott,,1,Little Rock,,of
+1959TSN,1958,Southern Association,elliott,F20878,Elliott,,2,Chattanooga,,of
+1959TSN,1958,Southern Association,elliott,F20878,Elliott,,T,,,of56
+1959TSN,1958,Southern Association,ermer,M90018,Ermer,Calvin,,Birmingham,,
+emilbb,1958,Southern Association,ermer,M90396,Ermer,Cal,,Birmingham,,
+1959TSN,1958,Southern Association,fox,B00531,Fox,Terrence,0,Atlanta,,B16
+1959TSN,1958,Southern Association,fox,F21760,Fox,,0,Atlanta,,p16
+1959TSN,1958,Southern Association,fox,P10244,Fox,,0,Atlanta,,P16p
+1959TSN,1958,Southern Association,frailey,B00544,Frailey,Donald,0,Atlanta,,B16
+1959TSN,1958,Southern Association,frailey,F20807,Frailey,,0,Atlanta,,of14
+1959TSN,1958,Southern Association,frazier-mob,B00553,Frazier,Andrew,0,Mobile,,B141
+1959TSN,1958,Southern Association,frazier-mem,B00566,Frazier,Sheppard,0,Memphis,,B149
+1959TSN,1958,Southern Association,frazier-mem,F20254,Frazier,,0,Memphis,,2b147
+1959TSN,1958,Southern Association,frazier-mob,F20673,Frazier,,0,Mobile,,ss140
+1959TSN,1958,Southern Association,fridley,B00577,Fridley,James,0,Nashville,,B142
+1959TSN,1958,Southern Association,fridley,F21149,Fridley,,0,Nashville,,of137
+1959TSN,1958,Southern Association,giggie,B00589,Giggie,Robert,0,Atlanta,,B27
+1959TSN,1958,Southern Association,giggie,F21577,Giggie,,0,Atlanta,,p26
+1959TSN,1958,Southern Association,giggie,P10253,Giggie,,0,Atlanta,,P26p
+1959TSN,1958,Southern Association,gilbert,B00590,Gilbert,Drew,0,Nashville,,B145
+1959TSN,1958,Southern Association,gilbert,F20855,Gilbert,,0,Nashville,,of144
+1959TSN,1958,Southern Association,gile,B00609,Gile,Donald,0,Memphis,,B15
+1959TSN,1958,Southern Association,gile,F21308,Gile,,0,Memphis,,c11
+1959TSN,1958,Southern Association,gladding,B02168,Gladding,Fred,0,Birmingham,,B3
+1959TSN,1958,Southern Association,gladding,P10901,Gladding,,0,Birmingham,,P3p
+1959TSN,1958,Southern Association,gorin,B00614,Gorin,Charles,0,Atlanta,,B34
+1959TSN,1958,Southern Association,gorin,F22223,Gorin,,0,Atlanta,,p32
+1959TSN,1958,Southern Association,gorin,P10266,Gorin,,0,Atlanta,,P32p
+1959TSN,1958,Southern Association,grace,B00623,Grace,Lavern,0,Mobile,,B109
+1959TSN,1958,Southern Association,grace,F21158,Grace,,0,Mobile,,of58
+1959TSN,1958,Southern Association,grace,F21319,Grace,,0,Mobile,,c33
+1959TSN,1958,Southern Association,gray,B02527,Gray,Richard,0,New Orleans,,B5
+1959TSN,1958,Southern Association,gray,P11233,Gray,,0,New Orleans,,P4p
+1959TSN,1958,Southern Association,griffin,B00638,Griffin,G. Donald,0,Birmingham,,B42
+1959TSN,1958,Southern Association,griffin,F21343,Griffin,,0,Birmingham,,c38
+1959TSN,1958,Southern Association,grote,B00646,Grote,Harold,0,Memphis,,B63
+1959TSN,1958,Southern Association,grote,F20970,Grote,,0,Memphis,,of50
+1959TSN,1958,Southern Association,grunwald,B00651,Grunwald,Alfred,0,Little Rock,,B103
+1959TSN,1958,Southern Association,grunwald,F20080,Grunwald,,0,Little Rock,,1b29
+1959TSN,1958,Southern Association,grunwald,F20810,Grunwald,,0,Little Rock,,of13
+1959TSN,1958,Southern Association,grunwald,F21948,Grunwald,,0,Little Rock,,p33
+1959TSN,1958,Southern Association,grunwald,P10277,Grunwald,,0,Little Rock,,P33p
+1959TSN,1958,Southern Association,grzenda,B00667,Grzenda,Joseph,0,Birmingham,,B33
+1959TSN,1958,Southern Association,grzenda,F21985,Grzenda,,0,Birmingham,,p33
+1959TSN,1958,Southern Association,grzenda,P10289,Grzenda,,0,Birmingham,,P33p
+1959TSN,1958,Southern Association,hadley,B00672,Hadley,Kent,0,Little Rock,,B132
+1959TSN,1958,Southern Association,hadley,F20072,Hadley,,0,Little Rock,,1b128
+1959TSN,1958,Southern Association,hahn,B00680,Hahn,Frederick,0,Little Rock,,B14
+1959TSN,1958,Southern Association,hahn,F22048,Hahn,,0,Little Rock,,p13
+1959TSN,1958,Southern Association,hahn,P10290,Hahn,,0,Little Rock,,P13p
+1959TSN,1958,Southern Association,harrington,B00695,Harrington,William,0,Birmingham,,B53
+1959TSN,1958,Southern Association,harrington,F21566,Harrington,,0,Birmingham,,p53
+1959TSN,1958,Southern Association,harrington,P10304,Harrington,,0,Birmingham,,P53p
+1959TSN,1958,Southern Association,harris,B00705,Harris,Richard,0,Chattanooga,,B12
+1959TSN,1958,Southern Association,harris,F20287,Harris,,0,Chattanooga,,2b11
+1959TSN,1958,Southern Association,hartman,B00718,Hartman,Robert,0,Atlanta,,B38
+1959TSN,1958,Southern Association,hartman,F21589,Hartman,,0,Atlanta,,p38
+1959TSN,1958,Southern Association,hartman,P10312,Hartman,,0,Atlanta,,P38p
+1959TSN,1958,Southern Association,hartsfield,B00726,Hartsfield,Robert,0,Atlanta,,B109
+1959TSN,1958,Southern Association,hartsfield,F20401,Hartsfield,,0,Atlanta,,3b65
+1959TSN,1958,Southern Association,hartsfield,F20886,Hartsfield,,0,Atlanta,,of37
+1959TSN,1958,Southern Association,hawes,B00739,Hawes,Roy,0,Atlanta,,B12
+1959TSN,1958,Southern Association,hawkins,B00747,Hawkins,Wynn,0,Mobile,,B13
+1959TSN,1958,Southern Association,hawkins,F22209,Hawkins,,0,Mobile,,p13
+1959TSN,1958,Southern Association,hawkins,P10320,Hawkins,,0,Mobile,,P13p
+1959TSN,1958,Southern Association,hayden,B00752,Hayden,Eugene,0,Nashville,,B21
+1959TSN,1958,Southern Association,hayden,F22020,Hayden,,0,Nashville,,p16
+1959TSN,1958,Southern Association,hayden,P10336,Hayden,,0,Nashville,,P15p
+1959TSN,1958,Southern Association,heise,B00760,Heise,James,0,Chattanooga,,B22
+1959TSN,1958,Southern Association,heise,F22085,Heise,,0,Chattanooga,,p21
+1959TSN,1958,Southern Association,heise,P10348,Heise,,0,Chattanooga,,P21p
+1959TSN,1958,Southern Association,hendrickson,B02100,Hendrickson,Dale,0,Atlanta,,B3
+1959TSN,1958,Southern Association,hendrickson,P10860,Hendrickson,,0,Atlanta,,P3p
+1959TSN,1958,Southern Association,henley,B00771,Henley,Gail,0,Birmingham,,B147
+1959TSN,1958,Southern Association,henley,F20832,Henley,,0,Birmingham,,of140
+1959TSN,1958,Southern Association,henriksen,B02534,Henriksen,Arthur,0,New Orleans,,B4
+1959TSN,1958,Southern Association,henriksen,P11240,Henriksen,,0,New Orleans,,P4p
+1959TSN,1958,Southern Association,heyman,B00783,Heyman,Louis,0,Little Rock,,B94
+1959TSN,1958,Southern Association,heyman,F21450,Heyman,,0,Little Rock,,c74
+1959TSN,1958,Southern Association,heyman,P11014,Heyman,,0,Little Rock,,P4p
+1959TSN,1958,Southern Association,hommel,B00794,Hommel,Kenneth,0,Nashville,,B48
+1959TSN,1958,Southern Association,hommel,F21936,Hommel,,0,Nashville,,p48
+1959TSN,1958,Southern Association,hommel,P10357,Hommel,,0,Nashville,,P48p
+1959TSN,1958,Southern Association,hook,B00806,Hook,James,0,Nashville,,B40
+1959TSN,1958,Southern Association,hook,F21973,Hook,,0,Nashville,,p33
+1959TSN,1958,Southern Association,hook,P10361,Hook,,0,Nashville,,P33p
+1959TSN,1958,Southern Association,horn,B00811,Horn,Claude,0,Little Rock,,B14
+1959TSN,1958,Southern Association,horn,F21255,Horn,,0,Little Rock,,of13
+1959TSN,1958,Southern Association,howell,B00822,Howell,Lee,0,Memphis,,B127
+1959TSN,1958,Southern Association,howell,F21037,Howell,,0,Memphis,,of124
+1959TSN,1958,Southern Association,hubacek,B00833,Hubacek,Douglas,0,Memphis,,B70
+1959TSN,1958,Southern Association,hubacek,F20463,Hubacek,,0,Memphis,,3b66
+1959TSN,1958,Southern Association,hunt,B00840,Hunt,Kenneth,0,New Orleans,,B142
+1959TSN,1958,Southern Association,hunt,F21196,Hunt,,0,New Orleans,,of132
+1959TSN,1958,Southern Association,hunt,P11254,Hunt,,0,New Orleans,,P2p
+1959TSN,1958,Southern Association,hutson,B00854,Hutson,Eulas,0,Mobile,,B144
+1959TSN,1958,Southern Association,hutson,F21068,Hutson,,0,Mobile,,of139
+1959TSN,1958,Southern Association,irons,B00865,Irons,Edward,1,Memphis,,B82
+1959TSN,1958,Southern Association,irons,B00865,Irons,Edward,2,Nashville,,B32
+1959TSN,1958,Southern Association,irons,B00865,Irons,Edward,T,,,B114
+1959TSN,1958,Southern Association,irons,F21232,Irons,,1,Memphis,,of
+1959TSN,1958,Southern Association,irons,F21232,Irons,,2,Nashville,,of
+1959TSN,1958,Southern Association,irons,F21232,Irons,,T,,,of17
+1959TSN,1958,Southern Association,irons,F21416,Irons,,1,Memphis,,c
+1959TSN,1958,Southern Association,irons,F21416,Irons,,2,Nashville,,c
+1959TSN,1958,Southern Association,irons,F21416,Irons,,T,,,c78
+1959TSN,1958,Southern Association,jancich,B02493,Jancich,Gregory,0,Nashville,,B4
+1959TSN,1958,Southern Association,jancich,P11177,Jancich,,0,Nashville,,P4p
+1959TSN,1958,Southern Association,jenney,B00879,Jenney,Lloyd,0,Mobile,,B66
+1959TSN,1958,Southern Association,jenney,F21370,Jenney,,0,Mobile,,c54
+1959TSN,1958,Southern Association,jirsa,B00887,Jirsa,Ronald,0,Memphis,,B15
+1959TSN,1958,Southern Association,jirsa,F22246,Jirsa,,0,Memphis,,p15
+1959TSN,1958,Southern Association,jirsa,P10373,Jirsa,,0,Memphis,,P15p
+1959TSN,1958,Southern Association,kaiser,B00898,Kaiser,C. Donald,0,Atlanta,,B12
+1959TSN,1958,Southern Association,kaiser,F22332,Kaiser,,0,Atlanta,,p12
+1959TSN,1958,Southern Association,kaiser,P10385,Kaiser,,0,Atlanta,,P12p
+1959TSN,1958,Southern Association,kellner,B00904,Kellner,Walter,0,New Orleans,,B28
+1959TSN,1958,Southern Association,kellner,F22103,Kellner,,0,New Orleans,,p28
+1959TSN,1958,Southern Association,kellner,P10399,Kellner,,0,New Orleans,,P28p
+1959TSN,1958,Southern Association,kern,B00912,Kern,William,0,Little Rock,,B13
+1959TSN,1958,Southern Association,kern,F21125,Kern,,0,Little Rock,,of10
+1959TSN,1958,Southern Association,killebrew,B00920,Killebrew,Harmon,0,Chattanooga,,B86
+1959TSN,1958,Southern Association,killebrew,F20417,Killebrew,,0,Chattanooga,,3b74
+1959TSN,1958,Southern Association,killebrew,F20981,Killebrew,,0,Chattanooga,,of22
+1959TSN,1958,Southern Association,klinesmith,B02542,Klinesmith,Richard,0,New Orleans,,B5
+1959TSN,1958,Southern Association,klinesmith,P11265,Klinesmith,,0,New Orleans,,P5p
+1959TSN,1958,Southern Association,kolakowski,B00936,Kolakowski,Charles,0,Mobile,,B34
+1959TSN,1958,Southern Association,kolakowski,F22057,Kolakowski,,0,Mobile,,p33
+1959TSN,1958,Southern Association,kolakowski,P10407,Kolakowski,,0,Mobile,,P33p
+1959TSN,1958,Southern Association,kostro,B00948,Kostro,Frank,0,Birmingham,,B44
+1959TSN,1958,Southern Association,kostro,F20737,Kostro,,0,Birmingham,,ss36
+1959TSN,1958,Southern Association,kraly,B02550,Kraly,Steve,0,New Orleans,,B5
+1959TSN,1958,Southern Association,kraly,P11279,Kraly,,0,New Orleans,,P3p
+1959TSN,1958,Southern Association,krsnich,B00957,Krsnich,Michael,0,Atlanta,,B84
+1959TSN,1958,Southern Association,krsnich,F20115,Krsnich,,0,Atlanta,,1b43
+1959TSN,1958,Southern Association,krsnich,F20560,Krsnich,,0,Atlanta,,3b26
+1959TSN,1958,Southern Association,krsnich,F21045,Krsnich,,0,Atlanta,,of13
+1959TSN,1958,Southern Association,lavene,B00961,Lavene,Charles,0,Memphis,,B14
+1959TSN,1958,Southern Association,lavene,F20369,Lavene,,0,Memphis,,3b10
+1959TSN,1958,Southern Association,lawrence,B02569,Lawrence,Leigh,0,New Orleans,,B9
+1959TSN,1958,Southern Association,lawrence,P10410,Lawrence,,0,New Orleans,,P9p
+1959TSN,1958,Southern Association,leja,B00973,Leja,Frank,0,New Orleans,,B152
+1959TSN,1958,Southern Association,leja,F20131,Leja,,0,New Orleans,,1b151
+1959TSN,1958,Southern Association,levan,B00985,Levan,Jesse,0,Chattanooga,,B153
+1959TSN,1958,Southern Association,levan,F20038,Levan,,0,Chattanooga,,1b153
+1959TSN,1958,Southern Association,limmer,B00999,Limmer,Louis,0,Birmingham,,B151
+1959TSN,1958,Southern Association,limmer,F20067,Limmer,,0,Birmingham,,1b148
+1959TSN,1958,Southern Association,locke,B02304,Locke,Charles,0,Little Rock,,B4
+1959TSN,1958,Southern Association,locke,P11023,Locke,,0,Little Rock,,P4p
+1959TSN,1958,Southern Association,ludtka,B01007,Ludtka,James,0,Nashville,,B134
+1959TSN,1958,Southern Association,ludtka,F20240,Ludtka,,0,Nashville,,2b57
+1959TSN,1958,Southern Association,ludtka,F20425,Ludtka,,0,Nashville,,3b65
+1959TSN,1958,Southern Association,lumenti,B01010,Lumenti,Raphael,0,Chattanooga,,B22
+1959TSN,1958,Southern Association,lumenti,F21726,Lumenti,,0,Chattanooga,,p22
+1959TSN,1958,Southern Association,lumenti,P10429,Lumenti,,0,Chattanooga,,P22p
+1959TSN,1958,Southern Association,luttrell,B01029,Luttrell,Lyle,1,Chattanooga,,B35
+1959TSN,1958,Southern Association,luttrell,B01029,Luttrell,Lyle,2,Nashville,,B19
+1959TSN,1958,Southern Association,luttrell,B01029,Luttrell,Lyle,T,,,B54
+1959TSN,1958,Southern Association,luttrell,F20518,Luttrell,,1,Chattanooga,,3b
+1959TSN,1958,Southern Association,luttrell,F20518,Luttrell,,2,Nashville,,3b
+1959TSN,1958,Southern Association,luttrell,F20518,Luttrell,,T,,,3b33
+1959TSN,1958,Southern Association,luttrell,F20759,Luttrell,,1,Chattanooga,,ss
+1959TSN,1958,Southern Association,luttrell,F20759,Luttrell,,2,Nashville,,ss
+1959TSN,1958,Southern Association,luttrell,F20759,Luttrell,,T,,,ss23
+1959TSN,1958,Southern Association,mackenzie-lr,B01032,MacKenzie,H. Gordon,0,Little Rock,,B14
+1959TSN,1958,Southern Association,mackenzie-atl,B01041,MacKenzie,Kenneth,0,Atlanta,,B34
+1959TSN,1958,Southern Association,mackenzie-lr,F20547,MacKenzie,,0,Little Rock,,3b14
+1959TSN,1958,Southern Association,mackenzie-atl,F21680,MacKenzie,,0,Atlanta,,p33
+1959TSN,1958,Southern Association,mackenzie-atl,P10432,MacKenzie,,0,Atlanta,,P33p
+1959TSN,1958,Southern Association,maier,B01055,Maier,George,0,New Orleans,,B24
+1959TSN,1958,Southern Association,maier,F22142,Maier,,0,New Orleans,,p22
+1959TSN,1958,Southern Association,maier,P10441,Maier,,0,New Orleans,,P22p
+1959TSN,1958,Southern Association,maley,B02575,Maley,William,0,New Orleans,,B9
+1959TSN,1958,Southern Association,mallett,B01064,Mallett,Gerald,0,Memphis,,B15
+1959TSN,1958,Southern Association,mallett,F21117,Mallett,,0,Memphis,,of15
+1959TSN,1958,Southern Association,maness,B01078,Maness,Robert,0,New Orleans,,B33
+1959TSN,1958,Southern Association,maness,F20279,Maness,,0,New Orleans,,2b24
+1959TSN,1958,Southern Association,maranda,B02113,Maranda,Georges,0,Atlanta,,B5
+1959TSN,1958,Southern Association,maranda,P10871,Maranda,,0,Atlanta,,P5p
+1959TSN,1958,Southern Association,marion,M90047,Marion,John (Red),,Chattanooga,,
+emilbb,1958,Southern Association,marion,M90421,Marion,"John ""Red""",,Chattanooga,,
+1959TSN,1958,Southern Association,marr,B02228,Marr,John,0,Chattanooga,,B3
+1959TSN,1958,Southern Association,martin,B01086,Martin,J. Darrell,0,Nashville,,B12
+1959TSN,1958,Southern Association,martin,F21833,Martin,,0,Nashville,,p12
+1959TSN,1958,Southern Association,martin,P10455,Martin,,0,Nashville,,P12p
+1959TSN,1958,Southern Association,mcbride,B01093,McBride,Kenneth,0,Memphis,,B37
+1959TSN,1958,Southern Association,mcbride,F21879,McBride,,0,Memphis,,p31
+1959TSN,1958,Southern Association,mcbride,P10464,McBride,,0,Memphis,,P31p
+1959TSN,1958,Southern Association,mccarthy,B01108,McCarthy,Richard,0,Memphis,,B112
+1959TSN,1958,Southern Association,mccarthy,F20956,McCarthy,,0,Memphis,,of107
+1959TSN,1958,Southern Association,mcgaha,B01119,McGaha,F. Melvin,0,Mobile,,B33
+1959TSN,1958,Southern Association,mcgaha,M90026,McGaha,F. Melvin,,Mobile,,
+1959TSN,1958,Southern Association,mcgaha,P11128,McGaha,,0,Mobile,,P2p
+emilbb,1958,Southern Association,mcgaha,M90400,McGaha,Mel,,Mobile,,
+1959TSN,1958,Southern Association,mckee,B01124,McKee,Robert,0,Memphis,,B112
+1959TSN,1958,Southern Association,mckee,F20620,McKee,,0,Memphis,,ss106
+1959TSN,1958,Southern Association,meeks,B01135,Meeks,Samuel,0,Atlanta,,B135
+1959TSN,1958,Southern Association,meeks,F20144,Meeks,,0,Atlanta,,1b11
+1959TSN,1958,Southern Association,meeks,F20391,Meeks,,0,Atlanta,,3b68
+1959TSN,1958,Southern Association,meeks,F20612,Meeks,,0,Atlanta,,ss50
+1959TSN,1958,Southern Association,melton,B01143,Melton,Marvin,0,Memphis,,B32
+1959TSN,1958,Southern Association,melton,F21241,Melton,,0,Memphis,,of23
+1959TSN,1958,Southern Association,mickelsen,B01156,Mickelsen,Noel,0,Atlanta,,B24
+1959TSN,1958,Southern Association,mickelsen,F21739,Mickelsen,,0,Atlanta,,p24
+1959TSN,1958,Southern Association,mickelsen,P10478,Mickelsen,,0,Atlanta,,P24p
+1959TSN,1958,Southern Association,miller-lr,B01162,Miller,James W.,0,Little Rock,,B16
+1959TSN,1958,Southern Association,miller-bir,B01170,Miller,Robert G.,0,Birmingham,,B28
+1959TSN,1958,Southern Association,miller-bir,F21771,Miller,,0,Birmingham,,p25
+1959TSN,1958,Southern Association,miller-lr,F22329,Miller,,0,Little Rock,,p16
+1959TSN,1958,Southern Association,miller-lr,P10486,Miller,,0,Little Rock,,P16p
+1959TSN,1958,Southern Association,miller-bir,P10493,Miller,,0,Birmingham,,P25p
+1959TSN,1958,Southern Association,minnick,B01181,Minnick,Donald,0,Chattanooga,,B46
+1959TSN,1958,Southern Association,minnick,F21920,Minnick,,0,Chattanooga,,p44
+1959TSN,1958,Southern Association,minnick,P10503,Minnick,,0,Chattanooga,,P44p
+1959TSN,1958,Southern Association,mitchell,B02176,Mitchell,William,0,Birmingham,,B1
+1959TSN,1958,Southern Association,mitchell,P10917,Mitchell,,0,Birmingham,,P1p
+1959TSN,1958,Southern Association,montag,B01197,Montag,Robert,0,Atlanta,,B93
+1959TSN,1958,Southern Association,montag,F20014,Montag,,0,Atlanta,,1b13
+1959TSN,1958,Southern Association,montag,F21084,Montag,,0,Atlanta,,of65
+1959TSN,1958,Southern Association,montalvo,B01203,Montalvo,Joseph,0,Chattanooga,,B18
+1959TSN,1958,Southern Association,montalvo,F21491,Montalvo,,0,Chattanooga,,c14
+1959TSN,1958,Southern Association,moran,B01216,Moran,R. Alan,0,Memphis,,B39
+1959TSN,1958,Southern Association,moran,F20721,Moran,,0,Memphis,,ss39
+1959TSN,1958,Southern Association,morgan,B01227,Morgan,Vernon,0,Chattanooga,,B146
+1959TSN,1958,Southern Association,morgan,F21059,Morgan,,0,Chattanooga,,of137
+1959TSN,1958,Southern Association,morton,B01234,Morton,Guy,0,Chattanooga,,B98
+1959TSN,1958,Southern Association,morton,F21502,Morton,,0,Chattanooga,,c79
+1959TSN,1958,Southern Association,murszewski,B02432,Murszewski,Marion,0,Mobile,,B6
+1959TSN,1958,Southern Association,murszewski,P11131,Murszewski,,0,Mobile,,P6p
+1959TSN,1958,Southern Association,nance,B01242,Nance,Donald,1,Mobile,,B10
+1959TSN,1958,Southern Association,nance,B01242,Nance,Donald,2,Little Rock,,B15
+1959TSN,1958,Southern Association,nance,B01242,Nance,Donald,T,,,B25
+1959TSN,1958,Southern Association,nance,F21651,Nance,,1,Mobile,,p
+1959TSN,1958,Southern Association,nance,F21651,Nance,,2,Little Rock,,p
+1959TSN,1958,Southern Association,nance,F21651,Nance,,T,,,p24
+1959TSN,1958,Southern Association,nance,P10516,Nance,,1,Mobile,,P10p
+1959TSN,1958,Southern Association,nance,P10516,Nance,,2,Little Rock,,P14p
+1959TSN,1958,Southern Association,nance,P10516,Nance,,T,,,P24p
+1959TSN,1958,Southern Association,nardella,B01250,Nardella,Angelo,0,New Orleans,,B56
+1959TSN,1958,Southern Association,nardella,F21898,Nardella,,0,New Orleans,,p42
+1959TSN,1958,Southern Association,nardella,P10527,Nardella,,0,New Orleans,,P42p
+1959TSN,1958,Southern Association,nichols,B02588,Nichols,Donald,0,New Orleans,,B6
+1959TSN,1958,Southern Association,nichols,P11287,Nichols,,0,New Orleans,,P6p
+1959TSN,1958,Southern Association,nora,B02312,Nora,Jack,0,Little Rock,,B6
+1959TSN,1958,Southern Association,nora,P11038,Nora,,0,Little Rock,,P6p
+1959TSN,1958,Southern Association,north,B01269,North,Lamar,0,New Orleans,,B130
+1959TSN,1958,Southern Association,north,F21434,North,,0,New Orleans,,c119
+1959TSN,1958,Southern Association,odonnell,B01275,O'Donnell,John,0,Atlanta,,B27
+1959TSN,1958,Southern Association,odonnell,F22150,O'Donnell,,0,Atlanta,,p21
+1959TSN,1958,Southern Association,odonnell,P10534,O'Donnell,,0,Atlanta,,P21p
+1959TSN,1958,Southern Association,oreilly,B02591,O'Reilly,James,0,New Orleans,,B5
+1959TSN,1958,Southern Association,oreilly,P11298,O'Reilly,,0,New Orleans,,P4p
+1959TSN,1958,Southern Association,otoole,B01321,O'Toole,James,0,Nashville,,B37
+1959TSN,1958,Southern Association,otoole,F22280,O'Toole,,0,Nashville,,p35
+1959TSN,1958,Southern Association,otoole,P10550,O'Toole,,0,Nashville,,P35p
+1959TSN,1958,Southern Association,oliva,B01288,Oliva,Angel,0,Chattanooga,,B66
+1959TSN,1958,Southern Association,oliva,F22238,Oliva,,0,Chattanooga,,p62
+1959TSN,1958,Southern Association,oliva,P10542,Oliva,,0,Chattanooga,,P62p
+1959TSN,1958,Southern Association,olson,B01291,Olson,Herbert,0,Mobile,,B84
+1959TSN,1958,Southern Association,olson,F21442,Olson,,0,Mobile,,c75
+1959TSN,1958,Southern Association,oravetz,B01300,Oravetz,Ernest,0,Chattanooga,,B132
+1959TSN,1958,Southern Association,oravetz,F20829,Oravetz,,0,Chattanooga,,of132
+1959TSN,1958,Southern Association,otey,B01313,Otey,Ridic,0,Little Rock,,B122
+1959TSN,1958,Southern Association,otey,F20211,Otey,,0,Little Rock,,2b111
+1959TSN,1958,Southern Association,padilla,B01337,Padilla,Jose,0,Nashville,,B37
+1959TSN,1958,Southern Association,padilla,F20482,Padilla,,0,Nashville,,3b25
+1959TSN,1958,Southern Association,padilla,P11189,Padilla,,0,Nashville,,P2p
+1959TSN,1958,Southern Association,pagliaroni,B01345,Pagliaroni,James,0,Memphis,,B44
+1959TSN,1958,Southern Association,pagliaroni,F21264,Pagliaroni,,0,Memphis,,c36
+1959TSN,1958,Southern Association,panko,B01359,Panko,Emil,0,Nashville,,B83
+1959TSN,1958,Southern Association,panko,F20962,Panko,,0,Nashville,,of81
+1959TSN,1958,Southern Association,pawloski,B01368,Pawloski,Stanley,0,Mobile,,B143
+1959TSN,1958,Southern Association,pawloski,F20190,Pawloski,,0,Mobile,,2b142
+1959TSN,1958,Southern Association,payne,B01376,Payne,Walter,0,Memphis,,B14
+1959TSN,1958,Southern Association,payne,F21783,Payne,,0,Memphis,,p14
+1959TSN,1958,Southern Association,payne,P10569,Payne,,0,Memphis,,P14p
+1959TSN,1958,Southern Association,pearce,B02184,Pearce,Herbert,0,Birmingham,,B2
+1959TSN,1958,Southern Association,pearce,P10925,Pearce,,0,Birmingham,,P2p
+1959TSN,1958,Southern Association,peden,B01384,Peden,Leslie,0,Little Rock,,B133
+1959TSN,1958,Southern Association,peden,F20552,Peden,,0,Little Rock,,3b27
+1959TSN,1958,Southern Association,peden,F21362,Peden,,0,Little Rock,,c96
+1959TSN,1958,Southern Association,peden,M90060,Peden,Leslie,,Little Rock,,
+1959TSN,1958,Southern Association,peden,P11046,Peden,,0,Little Rock,,P1p
+emilbb,1958,Southern Association,peden,M90445,Peden,Les,,Little Rock,,
+1959TSN,1958,Southern Association,pedigree,B01392,Pedigree,Robert,0,Mobile,,B75
+1959TSN,1958,Southern Association,pedigree,F20153,Pedigree,,0,Mobile,,2b15
+1959TSN,1958,Southern Association,pedigree,F20539,Pedigree,,0,Mobile,,3b18
+1959TSN,1958,Southern Association,pedigree,F20713,Pedigree,,0,Mobile,,ss17
+1959TSN,1958,Southern Association,phillips-bir,B01402,Phillips,Howard D.,0,Birmingham,,B140
+1959TSN,1958,Southern Association,phillips-atl,B01415,Phillips,Richard,0,Atlanta,,B98
+1959TSN,1958,Southern Association,phillips-bir,F20206,Phillips,,0,Birmingham,,2b132
+1959TSN,1958,Southern Association,phillips-atl,F20648,Phillips,,0,Atlanta,,ss86
+1959TSN,1958,Southern Association,phillips-atl,F20792,Phillips,,0,Atlanta,,of11
+1959TSN,1958,Southern Association,pitula,B01428,Pitula,Stanley,0,Mobile,,B14
+1959TSN,1958,Southern Association,pitula,F22295,Pitula,,0,Mobile,,p13
+1959TSN,1958,Southern Association,pitula,P10575,Pitula,,0,Mobile,,P13p
+1959TSN,1958,Southern Association,ponce,B01431,Ponce,Anthony,1,Chattanooga,,B11
+1959TSN,1958,Southern Association,ponce,B01431,Ponce,Anthony,2,New Orleans,,B7
+1959TSN,1958,Southern Association,ponce,B01431,Ponce,Anthony,T,,,B18
+1959TSN,1958,Southern Association,ponce,F21811,Ponce,,1,Chattanooga,,p
+1959TSN,1958,Southern Association,ponce,F21811,Ponce,,2,New Orleans,,p
+1959TSN,1958,Southern Association,ponce,F21811,Ponce,,T,,,p18
+1959TSN,1958,Southern Association,ponce,P10588,Ponce,,1,Chattanooga,,P11p
+1959TSN,1958,Southern Association,ponce,P10588,Ponce,,2,New Orleans,,P7p
+1959TSN,1958,Southern Association,ponce,P10588,Ponce,,T,,,P18p
+1959TSN,1958,Southern Association,potter,B02231,Potter,Paul,0,Chattanooga,,B1
+1959TSN,1958,Southern Association,powis,B01444,Powis,Carl,0,Atlanta,,B17
+1959TSN,1958,Southern Association,powis,F20784,Powis,,0,Atlanta,,of17
+1959TSN,1958,Southern Association,prout,B01453,Prout,William,0,Memphis,,B36
+1959TSN,1958,Southern Association,prout,F22188,Prout,,0,Memphis,,p36
+1959TSN,1958,Southern Association,prout,P10591,Prout,,0,Memphis,,P36p
+1959TSN,1958,Southern Association,quintana,B01466,Quintana,P. Witremundo,0,Nashville,,B46
+1959TSN,1958,Southern Association,quintana,F20189,Quintana,,0,Nashville,,2b28
+1959TSN,1958,Southern Association,quintana,F20342,Quintana,,0,Nashville,,3b20
+1959TSN,1958,Southern Association,raugh,B01477,Raugh,James,0,Birmingham,,B47
+1959TSN,1958,Southern Association,raugh,F22127,Raugh,,0,Birmingham,,p47
+1959TSN,1958,Southern Association,raugh,P10606,Raugh,,0,Birmingham,,P47p
+1959TSN,1958,Southern Association,reed-bir,B01489,Reed,David,0,Birmingham,,B52
+1959TSN,1958,Southern Association,reed-no,B01490,Reed,John,0,New Orleans,,B152
+1959TSN,1958,Southern Association,reed-lr,B02320,Reed,Howard,0,Little Rock,,B7
+1959TSN,1958,Southern Association,reed-no,F20893,Reed,,0,New Orleans,,of147
+1959TSN,1958,Southern Association,reed-bir,F21646,Reed,,0,Birmingham,,p49
+1959TSN,1958,Southern Association,reed-bir,P10611,Reed,,0,Birmingham,,P49p
+1959TSN,1958,Southern Association,reed-lr,P10622,Reed,,0,Little Rock,,P7p
+1959TSN,1958,Southern Association,regan,B01509,Regan,Phillip,0,Birmingham,,B35
+1959TSN,1958,Southern Association,regan,F21614,Regan,,0,Birmingham,,p35
+1959TSN,1958,Southern Association,regan,P10633,Regan,,0,Birmingham,,P35p
+1959TSN,1958,Southern Association,reynolds,B01514,Reynolds,William,0,Atlanta,,B10
+1959TSN,1958,Southern Association,riddle,B01523,Riddle,Clarence,0,Atlanta,,B96
+1959TSN,1958,Southern Association,riddle,F20102,Riddle,,0,Atlanta,,1b93
+1959TSN,1958,Southern Association,riesener,B02606,Riesener,Robert,0,New Orleans,,B8
+1959TSN,1958,Southern Association,riesener,P10640,Riesener,,0,New Orleans,,P8p
+1959TSN,1958,Southern Association,rippelmeyer,B01538,Rippelmeyer,Ray,0,Atlanta,,B26
+1959TSN,1958,Southern Association,rippelmeyer,F21865,Rippelmeyer,,0,Atlanta,,p21
+1959TSN,1958,Southern Association,rippelmeyer,P10654,Rippelmeyer,,0,Atlanta,,P21p
+1959TSN,1958,Southern Association,rivich,B01546,Rivich,Robert,0,Memphis,,B38
+1959TSN,1958,Southern Association,rivich,F21381,Rivich,,0,Memphis,,c34
+1959TSN,1958,Southern Association,robertson-atl,B02121,Robertson,Daryl,0,Atlanta,,B9
+1959TSN,1958,Southern Association,robertson-mem,B02385,Robertson,Donald,0,Memphis,,B8
+1959TSN,1958,Southern Association,robinson,M90071,Robinson,Warren (Sheriff),,Memphis,,
+emilbb,1958,Southern Association,robinson,M90459,Robinson,"Warren ""Sheriff""",,Memphis,,
+1959TSN,1958,Southern Association,rodemoyer,B01551,Rodemoyer,Howard,0,Mobile,,B42
+1959TSN,1958,Southern Association,rodemoyer,F22267,Rodemoyer,,0,Mobile,,p42
+1959TSN,1958,Southern Association,rodemoyer,P10665,Rodemoyer,,0,Mobile,,P42p
+1959TSN,1958,Southern Association,romberger,B01567,Romberger,Allen,0,Little Rock,,B55
+1959TSN,1958,Southern Association,romberger,F21667,Romberger,,0,Little Rock,,p55
+1959TSN,1958,Southern Association,romberger,P10679,Romberger,,0,Little Rock,,P55p
+1959TSN,1958,Southern Association,roseboro,B01572,Roseboro,Stanley,0,Chattanooga,,B55
+1959TSN,1958,Southern Association,roseboro,F20496,Roseboro,,0,Chattanooga,,3b42
+1959TSN,1958,Southern Association,rosenbaum,B02441,Rosenbaum,Glen,0,Mobile,,B3
+1959TSN,1958,Southern Association,rosenbaum,P11144,Rosenbaum,,0,Mobile,,P3p
+1959TSN,1958,Southern Association,rozman,B02192,Rozman,Ronald,0,Birmingham,,B7
+1959TSN,1958,Southern Association,rozman,P10930,Rozman,,0,Birmingham,,P7p
+1959TSN,1958,Southern Association,russell,B02244,Russell,James,0,Chattanooga,,B8
+1959TSN,1958,Southern Association,russell,P10949,Russell,,0,Chattanooga,,P8p
+1959TSN,1958,Southern Association,ryan,B01580,Ryan,Daniel,0,Birmingham,,B22
+1959TSN,1958,Southern Association,ryan,F21278,Ryan,,0,Birmingham,,c20
+1959TSN,1958,Southern Association,saban,B02253,Saban,Matthew,0,Chattanooga,,B8
+1959TSN,1958,Southern Association,saban,P10958,Saban,,0,Chattanooga,,P8p
+1959TSN,1958,Southern Association,saner,B01601,Saner,Donald,0,Mobile,,B150
+1959TSN,1958,Southern Association,saner,F20051,Saner,,0,Mobile,,1b148
+1959TSN,1958,Southern Association,schaeffer,B01617,Schaeffer,Donald,0,Mobile,,B38
+1959TSN,1958,Southern Association,schaeffer,F21553,Schaeffer,,0,Mobile,,p34
+1959TSN,1958,Southern Association,schaeffer,P10687,Schaeffer,,0,Mobile,,P34p
+1959TSN,1958,Southern Association,schaive,B01625,Schaive,John,0,Chattanooga,,B142
+1959TSN,1958,Southern Association,schaive,F20265,Schaive,,0,Chattanooga,,2b140
+1959TSN,1958,Southern Association,schmees,B01630,Schmees,George,0,Nashville,,B66
+1959TSN,1958,Southern Association,schmees,F21130,Schmees,,0,Nashville,,of64
+1959TSN,1958,Southern Association,schmees,P11190,Schmees,,0,Nashville,,P4p
+1959TSN,1958,Southern Association,schmidt,B01649,Schmidt,Haven,0,Nashville,,B14
+1959TSN,1958,Southern Association,schmidt,F21293,Schmidt,,0,Nashville,,c14
+1959TSN,1958,Southern Association,schoonmaker,B01658,Schoonmaker,Jerald,0,Chattanooga,,B15
+1959TSN,1958,Southern Association,schoonmaker,F21174,Schoonmaker,,0,Chattanooga,,of10
+1959TSN,1958,Southern Association,schwarzkoff,B01663,Schwarzkoff,Robert,0,Little Rock,,B10
+1959TSN,1958,Southern Association,schwarzkoff,F22272,Schwarzkoff,,0,Little Rock,,p10
+1959TSN,1958,Southern Association,schwarzkoff,P11051,Schwarzkoff,,0,Little Rock,,P10p
+1959TSN,1958,Southern Association,scott,B01674,Scott,Alan,0,Little Rock,,B99
+1959TSN,1958,Southern Association,scott,F21182,Scott,,0,Little Rock,,of97
+1959TSN,1958,Southern Association,sczesny,B01682,Sczesny,Mathew,0,Memphis,,B67
+1959TSN,1958,Southern Association,sczesny,F20334,Sczesny,,0,Memphis,,3b16
+1959TSN,1958,Southern Association,sczesny,F20768,Sczesny,,0,Memphis,,of43
+1959TSN,1958,Southern Association,secrest,B01696,Secrest,Charles,0,Little Rock,,B154
+1959TSN,1958,Southern Association,secrest,F20943,Secrest,,0,Little Rock,,of153
+1959TSN,1958,Southern Association,seward,B01706,Seward,Walter,0,Mobile,,B48
+1959TSN,1958,Southern Association,seward,F22175,Seward,,0,Mobile,,p45
+1959TSN,1958,Southern Association,seward,P10698,Seward,,0,Mobile,,P45p
+1959TSN,1958,Southern Association,sheets,B01711,Sheets,Eugene,0,Memphis,,B21
+1959TSN,1958,Southern Association,sheets,F20776,Sheets,,0,Memphis,,of20
+1959TSN,1958,Southern Association,shifflett,B01722,Shifflett,Garland,0,Chattanooga,,B10
+1959TSN,1958,Southern Association,shifflett,P10963,Shifflett,,0,Chattanooga,,P8p
+1959TSN,1958,Southern Association,silvera,B01733,Silvera,Charles,0,New Orleans,,B24
+1959TSN,1958,Southern Association,silvera,F21528,Silvera,,0,New Orleans,,c19
+1959TSN,1958,Southern Association,silvera,M90083,Silvera,Charles,,New Orleans,,
+emilbb,1958,Southern Association,silvera,M90468,Silvera,Charlie,,New Orleans,,
+1959TSN,1958,Southern Association,sima,B02266,Sima,Albert,0,Chattanooga,,B5
+1959TSN,1958,Southern Association,sima,P10974,Sima,,0,Chattanooga,,P5p
+1959TSN,1958,Southern Association,sisler,B01740,Sisler,Richard,0,Nashville,,B82
+1959TSN,1958,Southern Association,sisler,F20095,Sisler,,0,Nashville,,1b33
+1959TSN,1958,Southern Association,sisler,M90052,Sisler,Richard,,Nashville,,
+emilbb,1958,Southern Association,sisler,M90437,Sisler,Dick,,Nashville,,
+1959TSN,1958,Southern Association,skizas,B02202,Skizas,Louis,0,Birmingham,,B2
+1959TSN,1958,Southern Association,slack,B01754,Slack,William,0,Memphis,,B69
+1959TSN,1958,Southern Association,slack,F22251,Slack,,0,Memphis,,p69
+1959TSN,1958,Southern Association,slack,P10709,Slack,,0,Memphis,,P69p
+1959TSN,1958,Southern Association,slider,B01765,Slider,Rachel,0,Little Rock,,B144
+1959TSN,1958,Southern Association,slider,F20657,Slider,,0,Little Rock,,ss142
+1959TSN,1958,Southern Association,small,B01779,Small,James,0,Little Rock,,B86
+1959TSN,1958,Southern Association,small,F21207,Small,,0,Little Rock,,of85
+1959TSN,1958,Southern Association,smith,B02399,Smith,Charles E.,0,Memphis,,B8
+1959TSN,1958,Southern Association,smith,P11102,Smith,,0,Memphis,,P8p
+1959TSN,1958,Southern Association,snyder,B01787,Snyder,Russell,0,New Orleans,,B148
+1959TSN,1958,Southern Association,snyder,F20997,Snyder,,0,New Orleans,,of141
+1959TSN,1958,Southern Association,solt,B01798,Solt,James,0,Atlanta,,B32
+1959TSN,1958,Southern Association,solt,F21469,Solt,,0,Atlanta,,c25
+1959TSN,1958,Southern Association,spicer,B01804,Spicer,Robert,0,Little Rock,,B45
+1959TSN,1958,Southern Association,spicer,F21531,Spicer,,0,Little Rock,,p40
+1959TSN,1958,Southern Association,spicer,P10714,Spicer,,0,Little Rock,,P40p
+1959TSN,1958,Southern Association,sprankle,B01812,Sprankle,James,0,Nashville,,B40
+1959TSN,1958,Southern Association,sprankle,F22214,Sprankle,,0,Nashville,,p40
+1959TSN,1958,Southern Association,sprankle,P10723,Sprankle,,0,Nashville,,P40p
+1959TSN,1958,Southern Association,stclaire,B01595,St. Claire,Edward,0,Atlanta,,B105
+1959TSN,1958,Southern Association,stclaire,F21335,St. Claire,,0,Atlanta,,c100
+1959TSN,1958,Southern Association,stabelfeld,B01820,Stabelfeld,Glen,0,Memphis,,B37
+1959TSN,1958,Southern Association,stabelfeld,F21590,Stabelfeld,,0,Memphis,,p35
+1959TSN,1958,Southern Association,stabelfeld,P10738,Stabelfeld,,0,Memphis,,P35p
+1959TSN,1958,Southern Association,stewart,B01836,Stewart,Veston,0,Chattanooga,,B27
+1959TSN,1958,Southern Association,stewart,F22073,Stewart,,0,Chattanooga,,p22
+1959TSN,1958,Southern Association,stewart,P10746,Stewart,,0,Chattanooga,,P22p
+1959TSN,1958,Southern Association,stigman,B01848,Stigman,Richard,0,Mobile,,B27
+1959TSN,1958,Southern Association,stigman,F21957,Stigman,,0,Mobile,,p26
+1959TSN,1958,Southern Association,stigman,P10751,Stigman,,0,Mobile,,P26p
+1959TSN,1958,Southern Association,streeter,B02137,Streeter,Gerald,0,Atlanta,,B9
+1959TSN,1958,Southern Association,striker,B01857,Striker,Wilbur,0,Mobile,,B36
+1959TSN,1958,Southern Association,striker,F21961,Striker,,0,Mobile,,p35
+1959TSN,1958,Southern Association,striker,P10767,Striker,,0,Mobile,,P35p
+1959TSN,1958,Southern Association,suleski,B01861,Suleski,Ronald,0,Nashville,,B20
+1959TSN,1958,Southern Association,suleski,F21286,Suleski,,0,Nashville,,c14
+1959TSN,1958,Southern Association,swaringen,B02336,Swaringen,Ben,0,Little Rock,,B7
+1959TSN,1958,Southern Association,swaringen,P11067,Swaringen,,0,Little Rock,,P7p
+1959TSN,1958,Southern Association,tanner,B01873,Tanner,Joseph,0,Memphis,,B82
+1959TSN,1958,Southern Association,tanner,F20388,Tanner,,0,Memphis,,3b66
+1959TSN,1958,Southern Association,tarantino,B02611,Tarantino,Thomas,0,New Orleans,,B8
+1959TSN,1958,Southern Association,taylor,B01885,Taylor,Larry,0,Nashville,,B78
+1959TSN,1958,Southern Association,taylor,F20166,Taylor,,0,Nashville,,2b74
+1959TSN,1958,Southern Association,thollander,B01899,Thollander,Robert,0,Chattanooga,,B22
+1959TSN,1958,Southern Association,thollander,F22169,Thollander,,0,Chattanooga,,p20
+1959TSN,1958,Southern Association,thollander,P10772,Thollander,,0,Chattanooga,,P20p
+1959TSN,1958,Southern Association,thomas-bir,B01905,Thomas,George,0,Birmingham,,B22
+1959TSN,1958,Southern Association,thomas-mem,B01918,Thomas,John S.,0,Memphis,,B17
+1959TSN,1958,Southern Association,thomas-bir,F21229,Thomas,,0,Birmingham,,of20
+1959TSN,1958,Southern Association,thomas-mem,F22310,Thomas,,0,Memphis,,p16
+1959TSN,1958,Southern Association,thomas-mem,P10780,Thomas,,0,Memphis,,P16p
+1959TSN,1958,Southern Association,thorpe,B01926,Thorpe,B. Robert,0,Birmingham,,B122
+1959TSN,1958,Southern Association,thorpe,F20864,Thorpe,,0,Birmingham,,of119
+1959TSN,1958,Southern Association,tinney,B01939,Tinney,Roy,1,Memphis,,B4
+1959TSN,1958,Southern Association,tinney,B01939,Tinney,Roy,2,Chattanooga,,B6
+1959TSN,1958,Southern Association,tinney,B01939,Tinney,Roy,T,,,B10
+1959TSN,1958,Southern Association,tinney,F22307,Tinney,,1,Chattanooga,,p
+1959TSN,1958,Southern Association,tinney,F22307,Tinney,,2,Memphis,,p
+1959TSN,1958,Southern Association,tinney,F22307,Tinney,,T,,,p10
+1959TSN,1958,Southern Association,tinney,P10982,Tinney,,1,Memphis,,P4p
+1959TSN,1958,Southern Association,tinney,P10982,Tinney,,2,Chattanooga,,P6p
+1959TSN,1958,Southern Association,tinney,P10982,Tinney,,T,,,P10p
+1959TSN,1958,Southern Association,touchberry,B02503,Touchberry,E. Burton,0,Nashville,,B6
+1959TSN,1958,Southern Association,touchberry,P11206,Touchberry,,0,Nashville,,P6p
+1959TSN,1958,Southern Association,tresh,B01947,Tresh,Thomas,0,New Orleans,,B33
+1959TSN,1958,Southern Association,tresh,F20350,Tresh,,0,New Orleans,,3b33
+1959TSN,1958,Southern Association,tsitouris,B02348,Tsitouris,John,0,Little Rock,,B8
+1959TSN,1958,Southern Association,tsitouris,P10795,Tsitouris,,0,Little Rock,,P7p
+1959TSN,1958,Southern Association,uecker,B01952,Uecker,Robert,0,Atlanta,,B15
+1959TSN,1958,Southern Association,uecker,F21515,Uecker,,0,Atlanta,,c15
+1959TSN,1958,Southern Association,umbricht,B01960,Umbricht,James,0,Atlanta,,B54
+1959TSN,1958,Southern Association,umbricht,F21854,Umbricht,,0,Atlanta,,p54
+1959TSN,1958,Southern Association,umbricht,P10805,Umbricht,,0,Atlanta,,P54p
+1959TSN,1958,Southern Association,utley,B01971,Utley,Patrick,0,New Orleans,,B31
+1959TSN,1958,Southern Association,utley,F21695,Utley,,0,New Orleans,,p31
+1959TSN,1958,Southern Association,utley,P10818,Utley,,0,New Orleans,,P31p
+1959TSN,1958,Southern Association,veal,B01983,Veal,O. Inman,0,Birmingham,,B61
+1959TSN,1958,Southern Association,veal,F20594,Veal,,0,Birmingham,,ss59
+1959TSN,1958,Southern Association,wagner,B01994,Wagner,Carlyle,0,Birmingham,,B97
+1959TSN,1958,Southern Association,wagner,F21397,Wagner,,0,Birmingham,,c84
+1959TSN,1958,Southern Association,waters-mob,B02008,Waters,John,0,Mobile,,B112
+1959TSN,1958,Southern Association,waters-cht,B02277,Waters,Fred,0,Chattanooga,,B7
+1959TSN,1958,Southern Association,waters-mob,F21021,Waters,,0,Mobile,,of112
+1959TSN,1958,Southern Association,waters-cht,P10996,Waters,,0,Chattanooga,,P7p
+1959TSN,1958,Southern Association,weiss,B02019,Weiss,F. Douglas,0,New Orleans,,B37
+1959TSN,1958,Southern Association,weiss,F22004,Weiss,,0,New Orleans,,p26
+1959TSN,1958,Southern Association,weiss,P10826,Weiss,,0,New Orleans,,P26p
+1959TSN,1958,Southern Association,williams,B02357,Williams,Donald,0,Little Rock,,B4
+1959TSN,1958,Southern Association,williams,P11072,Williams,,0,Little Rock,,P4p
+1959TSN,1958,Southern Association,willis-cht,B02024,Willis,Robert,0,Chattanooga,,B136
+1959TSN,1958,Southern Association,willis-mem,B02407,Willis,Stanley,0,Memphis,,B3
+1959TSN,1958,Southern Association,willis-cht,F20661,Willis,,0,Chattanooga,,ss127
+1959TSN,1958,Southern Association,willis-mem,P11115,Willis,,0,Memphis,,P3p
+1959TSN,1958,Southern Association,wills,B02035,Wills,Theodore,0,Chattanooga,,B68
+1959TSN,1958,Southern Association,wills,F22134,Wills,,0,Chattanooga,,p42
+1959TSN,1958,Southern Association,wills,P10839,Wills,,0,Chattanooga,,P42p
+1959TSN,1958,Southern Association,wilson-mem,B02043,Wilson,Duane,0,Memphis,,B28
+1959TSN,1958,Southern Association,wilson-lr,B02056,Wilson,Grady,0,Little Rock,,B111
+1959TSN,1958,Southern Association,wilson-lr,F20316,Wilson,,0,Little Rock,,2b15
+1959TSN,1958,Southern Association,wilson-lr,F20526,Wilson,,0,Little Rock,,3b76
+1959TSN,1958,Southern Association,wilson-lr,F20604,Wilson,,0,Little Rock,,ss24
+1959TSN,1958,Southern Association,wilson-mem,F21609,Wilson,,0,Memphis,,p18
+1959TSN,1958,Southern Association,wilson-mem,P10847,Wilson,,0,Memphis,,P18p
+1959TSN,1958,Southern Association,windle,B02062,Windle,Richard,0,New Orleans,,B95
+1959TSN,1958,Southern Association,windle,F20474,Windle,,0,New Orleans,,3b37
+1959TSN,1958,Southern Association,windle,F21101,Windle,,0,New Orleans,,of22
+1959TSN,1958,Southern Association,windle,F21427,Windle,,0,New Orleans,,c17
+1959TSN,1958,Southern Association,yewcic,B02070,Yewcic,Thomas,0,Birmingham,,B29
+1959TSN,1958,Southern Association,yewcic,F21475,Yewcic,,0,Birmingham,,c25
+1959TSN,1958,Southern Association,yochim,B02081,Yochim,Raymond,0,New Orleans,,B12
+1959TSN,1958,Southern Association,yochim,M90094,Yochim,Raymond,,New Orleans,19580819/,
+1959TSN,1958,Southern Association,yochim,P11303,Yochim,,0,New Orleans,,P7p
+emilbb,1958,Southern Association,yochim,M90476,Yochim,Ray,,New Orleans,,

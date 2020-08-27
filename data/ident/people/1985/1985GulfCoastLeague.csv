@@ -1,11 +1,11 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1985,Gulf Coast League,M91678,Alvarez,Jose,,Dodgers,,,alvarez-dod
-emilbb,1985,Gulf Coast League,M91686,Gonzalez,Pedro,,Braves,,,gonzalez-bra
-emilbb,1985,Gulf Coast League,M91701,Huyke,Woody,,Pirates,,,huyke
-emilbb,1985,Gulf Coast League,M91664,Jaramillo,Rudy,,Rangers,,,jaramillo
-emilbb,1985,Gulf Coast League,M91730,Jones,Joe,,Royals,,,jones-roy
-emilbb,1985,Gulf Coast League,M91758,Linares,Julio,,Astros,,,linares
-emilbb,1985,Gulf Coast League,M91725,Martin,J. C.,,White Sox,,,martin-ws
-emilbb,1985,Gulf Coast League,M91749,Mejias,Sam,,Reds,,,mejias
-emilbb,1985,Gulf Coast League,M91717,Tosca,Carlos,,Yankees,,,tosca
-emilbb,1985,Gulf Coast League,M91693,Wheeler,"Ralph ""Rocket""",,Blue Jays,,,wheeler
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1985,Gulf Coast League,alvarez-dod,M91678,Alvarez,Jose,,Dodgers,,
+emilbb,1985,Gulf Coast League,gonzalez-bra,M91686,Gonzalez,Pedro,,Braves,,
+emilbb,1985,Gulf Coast League,huyke,M91701,Huyke,Woody,,Pirates,,
+emilbb,1985,Gulf Coast League,jaramillo,M91664,Jaramillo,Rudy,,Rangers,,
+emilbb,1985,Gulf Coast League,jones-roy,M91730,Jones,Joe,,Royals,,
+emilbb,1985,Gulf Coast League,linares,M91758,Linares,Julio,,Astros,,
+emilbb,1985,Gulf Coast League,martin-ws,M91725,Martin,J. C.,,White Sox,,
+emilbb,1985,Gulf Coast League,mejias,M91749,Mejias,Sam,,Reds,,
+emilbb,1985,Gulf Coast League,tosca,M91717,Tosca,Carlos,,Yankees,,
+emilbb,1985,Gulf Coast League,wheeler,M91693,Wheeler,"Ralph ""Rocket""",,Blue Jays,,

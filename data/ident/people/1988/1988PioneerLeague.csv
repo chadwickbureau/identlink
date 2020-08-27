@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1988,Pioneer League,M92084,Hiatt,Jack,,Pocatello,,,hiatt
-emilbb,1988,Pioneer League,M92013,Johnson,Tim,,Great Falls,,,
-emilbb,1988,Pioneer League,M92037,Keller,Dave,,Billings,,,keller
-emilbb,1988,Pioneer League,M92068,Moss,Barry,,Salt Lake City,,,moss
-emilbb,1988,Pioneer League,M92076,Procopio,Jim,,Idaho Falls,,,procopio
-emilbb,1988,Pioneer League,M92021,Rhodes,Dusty,,Helena,,,rhodes
-emilbb,1988,Pioneer League,M92045,Wheeler,Rocket,,Medicine Hat,,,wheeler
-emilbb,1988,Pioneer League,M92059,Wills,Bump,,Butte,,,wills
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1988,Pioneer League,hiatt,M92084,Hiatt,Jack,,Pocatello,,
+emilbb,1988,Pioneer League,,M92013,Johnson,Tim,,Great Falls,,
+emilbb,1988,Pioneer League,keller,M92037,Keller,Dave,,Billings,,
+emilbb,1988,Pioneer League,moss,M92068,Moss,Barry,,Salt Lake City,,
+emilbb,1988,Pioneer League,procopio,M92076,Procopio,Jim,,Idaho Falls,,
+emilbb,1988,Pioneer League,rhodes,M92021,Rhodes,Dusty,,Helena,,
+emilbb,1988,Pioneer League,wheeler,M92045,Wheeler,Rocket,,Medicine Hat,,
+emilbb,1988,Pioneer League,wills,M92059,Wills,Bump,,Butte,,

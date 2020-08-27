@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1980,Appalachian League,M91495,Easom,Mike,,Paintsville,,,
-emilbb,1980,Appalachian League,M91519,Hiller,Chuck,,Kingsport,,,
-emilbb,1980,Appalachian League,M91508,Kotchman,Tom,,Bristol,,,
-emilbb,1980,Appalachian League,M91543,Lewis,Johnny,,Johnson City,,,
-emilbb,1980,Appalachian League,M91535,Little,Grady,,Bluefield,,,
-emilbb,1980,Appalachian League,M91524,Waters,Fred,,Elizabethton,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1980,Appalachian League,,M91495,Easom,Mike,,Paintsville,,
+emilbb,1980,Appalachian League,,M91519,Hiller,Chuck,,Kingsport,,
+emilbb,1980,Appalachian League,,M91508,Kotchman,Tom,,Bristol,,
+emilbb,1980,Appalachian League,,M91543,Lewis,Johnny,,Johnson City,,
+emilbb,1980,Appalachian League,,M91535,Little,Grady,,Bluefield,,
+emilbb,1980,Appalachian League,,M91524,Waters,Fred,,Elizabethton,,

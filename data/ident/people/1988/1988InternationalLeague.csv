@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1988,International League,M90186,Bailor,Bob,,Syracuse,,,bailor
-emilbb,1988,International League,M90141,Beauchamp,Jim,,Richmond,,,
-emilbb,1988,International League,M90204,Corrales,Pat,,Toledo,,,corrales
-emilbb,1988,International League,M90132,Cubbage,Mike,,Tidewater,,,cubbage
-emilbb,1988,International League,M90164,Culver,George,,Maine,,,culver
-emilbb,1988,International League,M90193,Dent,Bucky,,Columbus,,,dent
-emilbb,1988,International League,M90155,Nottle,Ed,,Pawtucket,,,nottle
-emilbb,1988,International League,M90178,Oates,Johnny,,Rochester,,,oates
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1988,International League,bailor,M90186,Bailor,Bob,,Syracuse,,
+emilbb,1988,International League,,M90141,Beauchamp,Jim,,Richmond,,
+emilbb,1988,International League,corrales,M90204,Corrales,Pat,,Toledo,,
+emilbb,1988,International League,cubbage,M90132,Cubbage,Mike,,Tidewater,,
+emilbb,1988,International League,culver,M90164,Culver,George,,Maine,,
+emilbb,1988,International League,dent,M90193,Dent,Bucky,,Columbus,,
+emilbb,1988,International League,nottle,M90155,Nottle,Ed,,Pawtucket,,
+emilbb,1988,International League,oates,M90178,Oates,Johnny,,Rochester,,

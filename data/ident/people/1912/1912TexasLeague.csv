@@ -1,517 +1,517 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-1913Reach,1912,Texas League,B00207,Akin,,0,Waco,,B141,akin
-1913Reach,1912,Texas League,F20316,Akin,,0,Waco,,3b140,akin
-1913Reach,1912,Texas League,B01007,Alexander,,0,Galveston,,B59,alexander
-1913Reach,1912,Texas League,F21319,Alexander,,0,Galveston,,c49,alexander
-1913Reach,1912,Texas League,B00037,Allen,W.,0,San Antonio,,B13,allen-sa
-1913Reach,1912,Texas League,B00515,Allen,S.,0,Houston,,B92,allen-hou
-1913Reach,1912,Texas League,F21125,Allen,R.,0,San Antonio,,rf10,allen-sa
-1913Reach,1912,Texas League,F21427,Allen,S.,0,Houston,,c85,allen-hou
-1913Reach,1912,Texas League,B01444,Ashton,,0,Austin,,B48,ashton
-1913Reach,1912,Texas League,F21638,Ashton,,0,Austin,,p37,ashton
-1913Reach,1912,Texas League,P10202,Ashton,,0,Austin,,P36p,ashton
-1913Reach,1912,Texas League,B01300,Ayres,,1,Austin,,,ayres
-1913Reach,1912,Texas League,B01300,Ayres,,2,San Antonio,,,ayres
-1913Reach,1912,Texas League,B01300,Ayres,,T,,,B35,ayres
-1913Reach,1912,Texas League,F21646,Ayres,,1,Austin,,p,ayres
-1913Reach,1912,Texas League,F21646,Ayres,,2,San Antonio,,p,ayres
-1913Reach,1912,Texas League,F21646,Ayres,,T,,,p34,ayres
-1913Reach,1912,Texas League,P10168,Ayres,,1,Austin,,p,ayres
-1913Reach,1912,Texas League,P10168,Ayres,,2,San Antonio,,p,ayres
-1913Reach,1912,Texas League,P10168,Ayres,,T,,,P34p,ayres
-1913Reach,1912,Texas League,B01288,Bader,,0,Dallas,,B41,bader
-1913Reach,1912,Texas League,F21854,Bader,,0,Dallas,,p41,bader
-1913Reach,1912,Texas League,P10192,Bader,,0,Dallas,,P41p,bader
-1913Reach,1912,Texas League,B00427,Beck,,0,Waco,,B78,beck
-1913Reach,1912,Texas League,F20583,Beck,,0,Waco,,ss70,beck
-1913Reach,1912,Texas League,B01156,Besse,,0,Fort Worth,,B18,besse
-1913Reach,1912,Texas League,F20997,Besse,,0,Fort Worth,,cf17,besse
-1913Reach,1912,Texas League,B00149,Betts,,0,San Antonio,,B141,betts
-1913Reach,1912,Texas League,F21207,Betts,,0,San Antonio,,rf100,betts
-1913Reach,1912,Texas League,F21362,Betts,,0,San Antonio,,c44,betts
-1913Reach,1912,Texas League,B00335,Blinke,,0,Dallas,,B36,blinke
-1913Reach,1912,Texas League,F21475,Blinke,,0,Dallas,,c28,blinke
-1913Reach,1912,Texas League,B00434,Bobo,,0,Austin,,B38,bobo
-1913Reach,1912,Texas League,F21403,Bobo,,0,Austin,,c37,bobo
-1913Reach,1912,Texas League,B01368,Bradley,,0,Austin,,B16,bradley
-1913Reach,1912,Texas League,F21577,Bradley,,0,Austin,,p15,bradley
-1913Reach,1912,Texas League,P10244,Bradley,,0,Austin,,P15p,bradley
-1913Reach,1912,Texas League,B01269,Brant,,0,Beaumont,,B22,brant
-1913Reach,1912,Texas League,F21811,Brant,,0,Beaumont,,p22,brant
-1913Reach,1912,Texas League,P10304,Brant,,0,Beaumont,,P22p,brant
-1913Reach,1912,Texas League,B00076,Breitenstein,,0,San Antonio,,B49,breitenstein
-1913Reach,1912,Texas League,F21021,Breitenstein,,0,San Antonio,,cf27,breitenstein
-1913Reach,1912,Texas League,F21092,Breitenstein,,0,San Antonio,,rf11,breitenstein
-1913Reach,1912,Texas League,B00403,Britton,,0,Houston,,B143,britton
-1913Reach,1912,Texas League,F20417,Britton,,0,Houston,,3b143,britton
-1913Reach,1912,Texas League,B01392,Brown,,1,Dallas,,,brown
-1913Reach,1912,Texas League,B01392,Brown,,2,Fort Worth,,,brown
-1913Reach,1912,Texas League,B01392,Brown,,T,,,B18,brown
-1913Reach,1912,Texas League,F21936,Brown,,1,Dallas,,p,brown
-1913Reach,1912,Texas League,F21936,Brown,,2,Fort Worth,,p,brown
-1913Reach,1912,Texas League,F21936,Brown,,T,,,p18,brown
-1913Reach,1912,Texas League,P10361,Brown,,1,Dallas,,p,brown
-1913Reach,1912,Texas League,P10361,Brown,,2,Fort Worth,,p,brown
-1913Reach,1912,Texas League,P10361,Brown,,T,,,P18p,brown
-1913Reach,1912,Texas League,B00811,Browning,,0,San Antonio,,B46,browning
-1913Reach,1912,Texas League,F21531,Browning,,0,San Antonio,,p44,browning
-1913Reach,1912,Texas League,P10137,Browning,,0,San Antonio,,P43p,browning
-1913Reach,1912,Texas League,B00887,Brownlow,,0,Austin,,B139,brownlow
-1913Reach,1912,Texas League,F20552,Brownlow,,0,Austin,,ss81,brownlow
-1913Reach,1912,Texas League,F20768,Brownlow,,0,Austin,,lf17,brownlow
-1913Reach,1912,Texas League,F21000,Brownlow,,0,Austin,,cf31,brownlow
-1913Reach,1912,Texas League,B00961,Burke,,0,San Antonio,,B71,burke
-1913Reach,1912,Texas League,F20279,Burke,,0,San Antonio,,2b19,burke
-1913Reach,1912,Texas League,F20908,Burke,,0,San Antonio,,cf39,burke
-1913Reach,1912,Texas League,F21101,Burke,,0,San Antonio,,rf11,burke
-1913Reach,1912,Texas League,B00739,Carson,,0,Waco,,B121,carson
-1913Reach,1912,Texas League,F21356,Carson,,0,Waco,,c119,carson
-1913Reach,1912,Texas League,B00783,Casey,,1,Austin,,,casey
-1913Reach,1912,Texas League,B00783,Casey,,2,Beaumont,,,casey
-1913Reach,1912,Texas League,B00783,Casey,,T,,,B128,casey
-1913Reach,1912,Texas League,F20166,Casey,,1,Austin,,2b,casey
-1913Reach,1912,Texas League,F20166,Casey,,2,Beaumont,,2b,casey
-1913Reach,1912,Texas League,F20166,Casey,,T,,,2b122,casey
-1913Reach,1912,Texas League,B00920,Cavender,,0,Dallas,,B18,cavender
-emilbb,1912,Texas League,M91065,Cavender,Dred,,Dallas,,,
-1913Reach,1912,Texas League,F20737,Chichlow,,0,Waco,,lf66,crichlow
-1913Reach,1912,Texas League,B00255,Clark,J.,0,San Antonio,,B79,clark
-1913Reach,1912,Texas League,F20657,Clark,J.,0,San Antonio,,lf79,clark
-1913Reach,1912,Texas League,B00854,Clemens,,1,Galveston,,,clemens
-1913Reach,1912,Texas League,B00854,Clemens,,2,Dallas,,,clemens
-1913Reach,1912,Texas League,B00854,Clemens,,T,,,B111,clemens
-1913Reach,1912,Texas League,F20401,Clemens,,1,Galveston,,3b,clemens
-1913Reach,1912,Texas League,F20401,Clemens,,2,Dallas,,3b,clemens
-1913Reach,1912,Texas League,F20401,Clemens,,T,,,3b66,clemens
-1913Reach,1912,Texas League,F20810,Clemens,,1,Galveston,,cf,clemens
-1913Reach,1912,Texas League,F20810,Clemens,,2,Dallas,,cf,clemens
-1913Reach,1912,Texas League,F20810,Clemens,,T,,,cf35,clemens
-1913Reach,1912,Texas League,B01216,Collins,,0,San Antonio,,B10,collins
-1913Reach,1912,Texas League,F21045,Cook,L.,0,Austin,,cf54,cook-aus
-1913Reach,1912,Texas League,F21196,Cook,L.,0,Austin,,rf22,cook-aus
-1913Reach,1912,Texas League,B00651,Cooke,T.,0,Beaumont,,B145,cooke-bea
-1913Reach,1912,Texas League,B00667,Cooke,L.,0,Austin,,B88,cook-aus
-1913Reach,1912,Texas League,F20115,Cooke,T.,0,Beaumont,,1b145,cooke-bea
-1913Reach,1912,Texas League,B00293,Cooper,,0,Fort Worth,,B142,cooper
-1913Reach,1912,Texas League,F21210,Cooper,,0,Fort Worth,,rf135,cooper
-1913Reach,1912,Texas League,B01384,Corbett,,0,Beaumont,,B38,corbett
-1913Reach,1912,Texas League,F21948,Corbett,,0,Beaumont,,p30,corbett
-1913Reach,1912,Texas League,P10320,Corbett,,0,Beaumont,,P30p,corbett
-1913Reach,1912,Texas League,B01093,Cowan,,0,Beaumont,,B45,cowan
-1913Reach,1912,Texas League,F20303,Cowan,,0,Beaumont,,3b32,cowan
-1913Reach,1912,Texas League,B01234,Crable,,1,Fort Worth,,,crable
-1913Reach,1912,Texas League,B01234,Crable,,2,San Antonio,,,crable
-1913Reach,1912,Texas League,B01234,Crable,,T,,,B30,crable
-1913Reach,1912,Texas League,F21833,Crable,,1,Fort Worth,,p,crable
-1913Reach,1912,Texas League,F21833,Crable,,2,San Antonio,,p,crable
-1913Reach,1912,Texas League,F21833,Crable,,T,,,p29,crable
-1913Reach,1912,Texas League,P10348,Crable,,1,Fort Worth,,p,crable
-1913Reach,1912,Texas League,P10348,Crable,,2,San Antonio,,p,crable
-1913Reach,1912,Texas League,P10348,Crable,,T,,,P28p,crable
-1913Reach,1912,Texas League,B00590,Crichlow,,0,Waco,,B134,crichlow
-1913Reach,1912,Texas League,F20878,Crichlow,,0,Waco,,cf63,crichlow
-1913Reach,1912,Texas League,B00174,Criss,,0,Houston,,B22,criss
-1913Reach,1912,Texas League,F21076,Criss,,0,Houston,,rf22,criss
-1913Reach,1912,Texas League,B00623,Dail,,0,Beaumont,,B143,dail
-1913Reach,1912,Texas League,F20648,Dail,,0,Beaumont,,lf64,dail
-1913Reach,1912,Texas League,F21255,Dail,,0,Beaumont,,rf71,dail
-1913Reach,1912,Texas League,B00865,Daringer,,1,San Antonio,,,daringer
-1913Reach,1912,Texas League,B00865,Daringer,,2,Fort Worth,,,daringer
-1913Reach,1912,Texas League,B00865,Daringer,,T,,,B125,daringer
-1913Reach,1912,Texas League,F20222,Daringer,,0,Fort Worth,,2b115,daringer
-1913Reach,1912,Texas League,B00241,Davis,,0,Houston,,B142,davis
-1913Reach,1912,Texas League,F20981,Davis,,0,Houston,,cf135,davis
-1913Reach,1912,Texas League,B00362,Dawson,H.,0,Beaumont,,B97,dawson
-1913Reach,1912,Texas League,F21343,Dawson,H.,0,Beaumont,,c88,dawson
-1913Reach,1912,Texas League,B01242,Dodd,,1,Houston,,,dodd
-1913Reach,1912,Texas League,B01242,Dodd,,2,Galveston,,,dodd
-1913Reach,1912,Texas League,B01242,Dodd,,T,,,B87,dodd
-1913Reach,1912,Texas League,F20095,Dodd,,1,Houston,,1b,dodd
-1913Reach,1912,Texas League,F20095,Dodd,,2,Galveston,,1b,dodd
-1913Reach,1912,Texas League,F20095,Dodd,,T,,,1b11,dodd
-1913Reach,1912,Texas League,F20254,Dodd,,1,Houston,,2b,dodd
-1913Reach,1912,Texas League,F20254,Dodd,,2,Galveston,,2b,dodd
-1913Reach,1912,Texas League,F20254,Dodd,,T,,,2b35,dodd
-1913Reach,1912,Texas League,F20425,Dodd,,1,Houston,,3b,dodd
-1913Reach,1912,Texas League,F20425,Dodd,,2,Galveston,,3b,dodd
-1913Reach,1912,Texas League,F20425,Dodd,,T,,,3b24,dodd
-1913Reach,1912,Texas League,F20604,Dodd,,1,Houston,,ss,dodd
-1913Reach,1912,Texas League,F20604,Dodd,,2,Galveston,,ss,dodd
-1913Reach,1912,Texas League,F20604,Dodd,,T,,,ss12,dodd
-1913Reach,1912,Texas League,B00232,Downey,A.,0,Austin,,B145,downey
-1913Reach,1912,Texas League,F20128,Downey,A.,0,Austin,,1b25,downey
-1913Reach,1912,Texas League,F21068,Downey,A.,0,Austin,,cf21,downey
-1913Reach,1912,Texas League,F21182,Downey,A.,0,Austin,,rf101,downey
-emilbb,1912,Texas League,M91079,Downey,"Alex ""Red""",,Austin,,,
-1913Reach,1912,Texas League,B00416,Dugey,,0,Waco,,B145,dugey
-1913Reach,1912,Texas League,F20211,Dugey,,0,Waco,,2b143,dugey
-1913Reach,1912,Texas League,B00286,Duncan,,0,Dallas,,B135,duncan
-1913Reach,1912,Texas League,F21149,Duncan,,0,Dallas,,rf128,duncan
-1913Reach,1912,Texas League,B00999,Edmiston,,0,Beaumont,,B142,edmiston
-1913Reach,1912,Texas League,F20505,Edmiston,,0,Beaumont,,ss141,edmiston
-1913Reach,1912,Texas League,B00973,Edmondson,,0,Houston,,B32,edmondson
-1913Reach,1912,Texas League,F21589,Edmondson,,0,Houston,,p31,edmondson
-1913Reach,1912,Texas League,P10043,Edmondson,,0,Houston,,P31p,edmondson
-1913Reach,1912,Texas League,B00264,Ens,,0,Dallas,,B142,ens
-1913Reach,1912,Texas League,F20233,Ens,,0,Dallas,,2b141,ens
-1913Reach,1912,Texas League,B00879,Evans,,0,Dallas,,B57,evans
-1913Reach,1912,Texas League,F21760,Evans,,0,Dallas,,p40,evans
-1913Reach,1912,Texas League,P10100,Evans,,0,Dallas,,P40p,evans
-1913Reach,1912,Texas League,B00502,Fillman,,0,Houston,,B118,fillman
-1913Reach,1912,Texas League,F20206,Fillman,,0,Houston,,2b117,fillman
-emilbb,1912,Texas League,M91022,Fillman,John,,Houston,,,
-1913Reach,1912,Texas League,B00021,Forsythe,,0,Dallas,,B142,forsythe
-1913Reach,1912,Texas League,F20102,Forsythe,,0,Dallas,,1b132,forsythe
-1913Reach,1912,Texas League,F20807,Forsythe,,0,Dallas,,lf10,forsythe
-1913Reach,1912,Texas League,B00319,Foster,,0,Houston,,B43,foster
-1913Reach,1912,Texas League,F21609,Foster,,0,Houston,,p39,foster
-1913Reach,1912,Texas League,P10024,Foster,,0,Houston,,P39p,foster
-1913Reach,1912,Texas League,B01181,Franklin,,0,Dallas,,B14,franklin
-1913Reach,1912,Texas League,F20864,Franklin,,0,Dallas,,cf12,franklin
-1913Reach,1912,Texas League,B00397,Frierson,,0,Fort Worth,,B108,frierson
-1913Reach,1912,Texas League,F20759,Frierson,,0,Fort Worth,,lf97,frierson
-1913Reach,1912,Texas League,B00898,Gibson,,0,Dallas,,B125,gibson
-1913Reach,1912,Texas League,F21370,Gibson,,0,Dallas,,c113,gibson
-1913Reach,1912,Texas League,B00125,Goodwin,,0,San Antonio,,B69,goodwin
-1913Reach,1912,Texas League,F21158,Goodwin,,0,San Antonio,,rf19,goodwin
-1913Reach,1912,Texas League,F21752,Goodwin,,0,San Antonio,,p34,goodwin
-1913Reach,1912,Texas League,P10062,Goodwin,,0,San Antonio,,P34p,goodwin
-1913Reach,1912,Texas League,B01064,Green,,0,Dallas,,B13,green
-1913Reach,1912,Texas League,F21879,Green,,0,Dallas,,p13,green
-1913Reach,1912,Texas League,P10019,Green,H.,0,Dallas,,P13p,green
-1913Reach,1912,Texas League,B01078,Harben,,0,Galveston,,B33,harben
-1913Reach,1912,Texas League,F21705,Harben,,0,Galveston,,p23,harben
-1913Reach,1912,Texas League,P10407,Harben,,0,Galveston,,P23p,harben
-emilbb,1912,Texas League,M91054,Hardy,Ellis,,Waco,,,
-1913Reach,1912,Texas League,B01055,Helm,,1,Galveston,,,helm
-1913Reach,1912,Texas League,B01055,Helm,,2,Houston,,,helm
-1913Reach,1912,Texas League,B01055,Helm,,T,,,B32,helm
-1913Reach,1912,Texas League,F21904,Helm,,1,Galveston,,p,helm
-1913Reach,1912,Texas League,F21904,Helm,,2,Houston,,p,helm
-1913Reach,1912,Texas League,F21904,Helm,,T,,,p32,helm
-1913Reach,1912,Texas League,P10455,Helm,,1,Galveston,,p,helm
-1913Reach,1912,Texas League,P10455,Helm,,2,Houston,,p,helm
-1913Reach,1912,Texas League,P10455,Helm,,T,,,P32p,helm
-1913Reach,1912,Texas League,B00672,Herbert,,0,Austin,,B41,herbert
-1913Reach,1912,Texas League,F20970,Herbert,,0,Austin,,cf16,herbert
-1913Reach,1912,Texas League,F21747,Herbert,,0,Austin,,p10,herbert
-1913Reach,1912,Texas League,P10399,Herbert,,0,Austin,,P10p,herbert
-1913Reach,1912,Texas League,B01376,Hewitt,,0,Fort Worth,,B23,hewitt
-1913Reach,1912,Texas League,F20342,Hewitt,,0,Fort Worth,,3b23,hewitt
-1913Reach,1912,Texas League,B00747,Hiett,,1,Fort Worth,,,hiett
-1913Reach,1912,Texas League,B00747,Hiett,,2,Galveston,,,hiett
-1913Reach,1912,Texas League,B00747,Hiett,,T,,,B27,hiett
-1913Reach,1912,Texas League,F21718,Hiett,,1,Fort Worth,,p,hiett
-1913Reach,1912,Texas League,F21718,Hiett,,2,Galveston,,p,hiett
-1913Reach,1912,Texas League,F21718,Hiett,,T,,,p26,hiett
-1913Reach,1912,Texas League,P10312,Hiett,,1,Fort Worth,,p,hiett
-1913Reach,1912,Texas League,P10312,Hiett,,2,Galveston,,p,hiett
-1913Reach,1912,Texas League,P10312,Hiett,,T,,,P26p,hiett
-1913Reach,1912,Texas League,B00370,Hill,,0,Austin,,B70,hill
-1913Reach,1912,Texas League,F20518,Hill,,0,Austin,,ss70,hill
-1913Reach,1912,Texas League,B00553,Hille,,0,Austin,,B144,hille
-1913Reach,1912,Texas League,F20327,Hille,,0,Austin,,3b142,hille
-1913Reach,1912,Texas League,B00196,Hinninger,,0,Austin,,B96,henninger
-1913Reach,1912,Texas League,F21469,Hinninger,,0,Austin,,c87,henninger
-1913Reach,1912,Texas League,B00101,Holtz,,0,Beaumont,,B105,holtz
-1913Reach,1912,Texas League,F20792,Holtz,,0,Beaumont,,lf13,holtz
-1913Reach,1912,Texas League,F21264,Holtz,,0,Beaumont,,rf57,holtz
-1913Reach,1912,Texas League,F21293,Holtz,,0,Beaumont,,c21,holtz
-1913Reach,1912,Texas League,B00092,Hopkins,,0,Galveston,,B46,hopkins
-1913Reach,1912,Texas League,F20943,Hopkins,,0,Galveston,,cf44,hopkins
-1913Reach,1912,Texas League,B01538,Hovel,,0,Galveston,,B10,hovel
-1913Reach,1912,Texas League,B00614,Howard,,0,Fort Worth,,B105,howard
-1913Reach,1912,Texas League,F20935,Howard,,0,Fort Worth,,cf103,howard
-1913Reach,1912,Texas League,B00566,Jolley,,1,Fort Worth,,,jolley
-1913Reach,1912,Texas League,B00566,Jolley,,2,Galveston,,,jolley
-1913Reach,1912,Texas League,B00566,Jolley,,T,,,B69,jolley
-1913Reach,1912,Texas League,F20829,Jolley,,1,Fort Worth,,cf,jolley
-1913Reach,1912,Texas League,F20829,Jolley,,2,Galveston,,cf,jolley
-1913Reach,1912,Texas League,F20829,Jolley,,T,,,cf24,jolley
-1913Reach,1912,Texas League,F21130,Jolley,,1,Fort Worth,,rf,jolley
-1913Reach,1912,Texas League,F21130,Jolley,,2,Galveston,,rf,jolley
-1913Reach,1912,Texas League,F21130,Jolley,,T,,,rf43,jolley
-1913Reach,1912,Texas League,B01402,Jordan,,0,Galveston,,B24,jordan
-1913Reach,1912,Texas League,F21308,Jordan,,0,Galveston,,c23,jordan
-1913Reach,1912,Texas League,B01477,Jost,,0,Waco,,B39,jost
-1913Reach,1912,Texas League,F21528,Jost,,0,Waco,,p38,jost
-1913Reach,1912,Texas League,P10121,Jost,,0,Waco,,P38p,jost
-1913Reach,1912,Texas League,B00343,Kaphan,,0,Galveston,,B71,kaphan
-1913Reach,1912,Texas League,F20924,Kaphan,,0,Galveston,,cf21,kaphan
-1913Reach,1912,Texas League,B00450,Kellerman,,0,Dallas,,B144,kellerman
-1913Reach,1912,Texas League,F20539,Kellerman,,0,Dallas,,ss143,kellerman
-1913Reach,1912,Texas League,B01197,Kitchens,,0,Fort Worth,,B123,kitchens
-1913Reach,1912,Texas League,F21442,Kitchens,,0,Fort Worth,,c120,kitchens
-1913Reach,1912,Texas League,B00544,Knaupp,,0,Houston,,B142,knaupp
-1913Reach,1912,Texas League,F20526,Knaupp,,0,Houston,,ss141,knaupp
-1913Reach,1912,Texas League,B00229,Landreth,,0,Houston,,B95,landreth
-1913Reach,1912,Texas League,F21229,Landreth,,0,Houston,,rf94,landreth
-1913Reach,1912,Texas League,B01124,Larsen,,0,Beaumont,,B38,larsen
-1913Reach,1912,Texas League,F21695,Larsen,,0,Beaumont,,p36,larsen
-1913Reach,1912,Texas League,P10429,Larsen,,0,Beaumont,,P36p,larsen
-1913Reach,1912,Texas League,B00705,Lawson,,0,Fort Worth,,B13,lawson
-1913Reach,1912,Texas League,F20745,Lawson,,0,Fort Worth,,lf11,lawson
-1913Reach,1912,Texas League,B00577,Leidy,,0,San Antonio,,B43,leidy
-1913Reach,1912,Texas League,F20886,Leidy,,0,San Antonio,,cf34,leidy
-1913Reach,1912,Texas League,F21117,Leidy,,0,San Antonio,,rf10,leidy
-emilbb,1912,Texas League,M91033,Leidy,George,,San Antonio,,,
-1913Reach,1912,Texas League,B00158,Lemon,,1,Fort Worth,,,lemon
-1913Reach,1912,Texas League,B00158,Lemon,,2,San Antonio,,,lemon
-1913Reach,1912,Texas League,B00158,Lemon,,T,,,B75,lemon
-1913Reach,1912,Texas League,F20375,Lemon,,1,Fort Worth,,3b,lemon
-1913Reach,1912,Texas League,F20375,Lemon,,2,San Antonio,,3b,lemon
-1913Reach,1912,Texas League,F20375,Lemon,,T,,,3b39,lemon
-1913Reach,1912,Texas League,F21416,Lemon,,1,Fort Worth,,c,lemon
-1913Reach,1912,Texas League,F21416,Lemon,,2,San Antonio,,c,lemon
-1913Reach,1912,Texas League,F21416,Lemon,,T,,,c25,lemon
-1913Reach,1912,Texas League,B00957,Lewis,,0,Austin,,B57,lewis
-1913Reach,1912,Texas League,F20713,Lewis,,0,Austin,,lf12,lewis
-1913Reach,1912,Texas League,F21651,Lewis,,0,Austin,,p41,lewis
-1913Reach,1912,Texas League,P10277,Lewis,,0,Austin,,P41p,lewis
-1913Reach,1912,Texas League,B01227,Lohman,,0,Waco,,B39,lohman
-1913Reach,1912,Texas League,F21566,Lohman,,0,Waco,,p39,lohman
-1913Reach,1912,Texas League,P10228,Lohman,,0,Waco,,P39p,lohman
-1913Reach,1912,Texas League,B00752,Maag,,0,Galveston,,B124,maag
-1913Reach,1912,Texas League,F20177,Maag,,0,Galveston,,2b105,maag
-1913Reach,1912,Texas League,F20298,Maag,,0,Galveston,,3b19,maag
-1913Reach,1912,Texas League,B00469,Madden,,0,Galveston,,B141,madden
-1913Reach,1912,Texas League,F20240,Madden,,0,Galveston,,2b23,madden
-1913Reach,1912,Texas League,F20560,Madden,,0,Galveston,,ss118,madden
-1913Reach,1912,Texas League,B00442,Maloney,,0,Galveston,,B12,maloney
-emilbb,1912,Texas League,M91087,Maloney,"James ""Curley""",,Galveston,,,
-1913Reach,1912,Texas League,B01170,Manes,,0,Fort Worth,,B47,manes
-1913Reach,1912,Texas League,F20023,Manes,,0,Fort Worth,,1b40,manes
-1913Reach,1912,Texas League,B01489,Maple,,0,Fort Worth,,B38,maple
-1913Reach,1912,Texas League,F21887,Maple,,0,Fort Worth,,p38,maple
-1913Reach,1912,Texas League,P10290,Maple,,0,Fort Worth,,P38p,maple
-1913Reach,1912,Texas League,B01119,Martina,J.,0,Beaumont,,B56,martina
-1913Reach,1912,Texas League,F21822,Martina,J.,0,Beaumont,,p44,martina
-1913Reach,1912,Texas League,P10373,Martina,J.,0,Beaumont,,P44p,martina
-1913Reach,1912,Texas League,B00806,Mayes,,0,Beaumont,,B134,mayes
-1913Reach,1912,Texas League,F20919,Mayes,,0,Beaumont,,cf132,mayes
-1913Reach,1912,Texas League,F21232,McCuler,,0,Austin,,rf12,mcculler
-1913Reach,1912,Texas League,B00381,McCuller,,0,Austin,,B35,mcculler
-1913Reach,1912,Texas League,F21865,McCuller,,0,Austin,,p20,mcculler
-1913Reach,1912,Texas League,P10081,McCuller,,0,Austin,,P20p,mcculler
-1913Reach,1912,Texas League,B00163,McIver,,0,Austin,,B58,mciver
-1913Reach,1912,Texas League,F20673,McIver,,0,Austin,,lf41,mciver
-1913Reach,1912,Texas League,F20956,McIver,,0,Austin,,cf16,mciver
-1913Reach,1912,Texas League,B00084,McLarry,,0,Austin,,B125,mclarry
-1913Reach,1912,Texas League,F20014,McLarry,,0,Austin,,1b125,mclarry
-1913Reach,1912,Texas League,B00068,McLaurin,,0,Waco,,B86,mclaurin
-1913Reach,1912,Texas League,F20685,McLaurin,,0,Waco,,lf71,mclaurin
-1913Reach,1912,Texas League,F21278,McLaurin,,0,Waco,,rf15,mclaurin
-1913Reach,1912,Texas League,B00985,Meehan,,0,San Antonio,,B28,meehan
-1913Reach,1912,Texas League,F20721,Meehan,,0,San Antonio,,lf28,meehan
-1913Reach,1912,Texas League,B00013,Metz,,0,San Antonio,,B142,metz
-1913Reach,1912,Texas League,F20038,Metz,,0,San Antonio,,1b142,metz
-emilbb,1912,Texas League,M91040,Metz,Frank,,San Antonio,,,
-1913Reach,1912,Texas League,B00117,Midkiff,,0,San Antonio,,B125,midkiff
-1913Reach,1912,Texas League,F20388,Midkiff,,0,San Antonio,,3b93,midkiff
-1913Reach,1912,Texas League,F20496,Midkiff,,0,San Antonio,,ss32,midkiff
-1913Reach,1912,Texas League,B01321,Miller,,0,Waco,,B33,miller
-1913Reach,1912,Texas League,F21614,Miller,,0,Waco,,p32,miller
-1913Reach,1912,Texas League,P10145,Miller,,0,Waco,,P32p,miller
-1913Reach,1912,Texas League,B01135,Moore,E.,0,Galveston,,B34,moore
-1913Reach,1912,Texas League,F21920,Moore,Eu.,0,Galveston,,p30,moore
-1913Reach,1912,Texas League,P10035,Moore,Eu.,0,Galveston,,P30p,moore
-1913Reach,1912,Texas League,B01143,Morris,,0,Fort Worth,,B43,morris
-1913Reach,1912,Texas League,F20474,Morris,,0,Fort Worth,,ss42,morris
-emilbb,1912,Texas League,M91098,Morris,Walter,,Fort Worth,,,
-1913Reach,1912,Texas League,B00840,Morton,,0,Galveston,,B53,morton
-1913Reach,1912,Texas League,F21672,Morton,,0,Galveston,,p37,morton
-1913Reach,1912,Texas League,P10336,Morton,,0,Galveston,,P37p,morton
-1913Reach,1912,Texas League,B00948,Murch,,0,Fort Worth,,B99,murch
-1913Reach,1912,Texas League,F20190,Murch,,0,Fort Worth,,2b38,murch
-1913Reach,1912,Texas League,F20391,Murch,,0,Fort Worth,,3b53,murch
-1913Reach,1912,Texas League,B00528,Nagle,,0,Galveston,,B21,nagle
-1913Reach,1912,Texas League,B00794,Nance,,1,Fort Worth,,,nance
-1913Reach,1912,Texas League,B00794,Nance,,2,Beaumont,,,nance
-1913Reach,1912,Texas League,B00794,Nance,,3,San Antonio,,,nance
-1913Reach,1912,Texas League,B00794,Nance,,T,,,B62,nance
-1913Reach,1912,Texas League,F20636,Nance,,1,Fort Worth,,lf,nance
-1913Reach,1912,Texas League,F20636,Nance,,2,Beaumont,,lf,nance
-1913Reach,1912,Texas League,F20636,Nance,,3,San Antonio,,lf,nance
-1913Reach,1912,Texas League,F20636,Nance,,T,,,lf47,nance
-1913Reach,1912,Texas League,B01275,Nevitt,,0,Galveston,,B30,nevitt
-1913Reach,1912,Texas League,F20334,Nevitt,,0,Galveston,,3b30,nevitt
-1913Reach,1912,Texas League,B00130,Newnam,,0,Houston,,B143,newnam
-1913Reach,1912,Texas League,F20051,Newnam,,0,Houston,,1b143,newnam
-1913Reach,1912,Texas League,B01029,O'Brien,,0,Beaumont,,B71,obrien
-1913Reach,1912,Texas League,F21397,O'Brien,,0,Beaumont,,c52,obrien
-1913Reach,1912,Texas League,B01345,Ogle,,0,Waco,,B38,ogle
-1913Reach,1912,Texas League,F21794,Ogle,,0,Waco,,p38,ogle
-1913Reach,1912,Texas League,P10176,Ogle,,0,Waco,,P38p,ogle
-1913Reach,1912,Texas League,F21174,Paphan,,0,Galveston,,rf51,kaphan
-1913Reach,1912,Texas League,B01509,Parish,,1,Austin,,,parish
-1913Reach,1912,Texas League,B01509,Parish,,2,Fort Worth,,,parish
-1913Reach,1912,Texas League,B01509,Parish,,T,,,B18,parish
-1913Reach,1912,Texas League,F21912,Parish,,1,Austin,,p,parish
-1913Reach,1912,Texas League,F21912,Parish,,2,Fort Worth,,p,parish
-1913Reach,1912,Texas League,F21912,Parish,,T,,,p18,parish
-1913Reach,1912,Texas League,P10184,Parish,,1,Austin,,p,parish
-1913Reach,1912,Texas League,P10184,Parish,,2,Fort Worth,,p,parish
-1913Reach,1912,Texas League,P10184,Parish,,T,,,P18p,parish
-1913Reach,1912,Texas League,B00912,Pate,,0,Dallas,,B18,pate
-1913Reach,1912,Texas League,F21544,Pate,,0,Dallas,,p18,pate
-1913Reach,1912,Texas League,P10385,Pate,,0,Dallas,,P18p,pate
-1913Reach,1912,Texas League,B01514,Peaster,,0,Beaumont,,B36,peaster
-1913Reach,1912,Texas League,F21783,Peaster,,0,Beaumont,,p36,peaster
-1913Reach,1912,Texas League,P10266,Peaster,,0,Beaumont,,P37p,peaster
-1913Reach,1912,Texas League,B01032,Peebles,,1,Galveston,,,peebles
-1913Reach,1912,Texas League,B01032,Peebles,,2,Houston,,,peebles
-1913Reach,1912,Texas League,B01032,Peebles,,T,,,B48,peebles
-1913Reach,1912,Texas League,F21013,Peebles,,1,Galveston,,cf,peebles
-1913Reach,1912,Texas League,F21013,Peebles,,2,Houston,,cf,peebles
-1913Reach,1912,Texas League,F21013,Peebles,,T,,,cf17,peebles
-1913Reach,1912,Texas League,F21163,Peebles,,1,Galveston,,rf,peebles
-1913Reach,1912,Texas League,F21163,Peebles,,2,Houston,,rf,peebles
-1913Reach,1912,Texas League,F21163,Peebles,,T,,,rf29,peebles
-1913Reach,1912,Texas League,B01250,Perritt,,0,Fort Worth,,B45,perritt
-1913Reach,1912,Texas League,F21553,Perritt,,0,Fort Worth,,p43,perritt
-1913Reach,1912,Texas League,P10070,Perritt,,0,Fort Worth,,P43p,perritt
-1913Reach,1912,Texas League,B01337,Phillips,,0,Fort Worth,,B13,phillips
-1913Reach,1912,Texas League,F21739,Phillips,,0,Fort Worth,,p13,phillips
-1913Reach,1912,Texas League,P10441,Phillips,,0,Fort Worth,,P13p,phillips
-1913Reach,1912,Texas League,B01359,Ray,,0,Houston,,B36,ray
-1913Reach,1912,Texas League,F21771,Ray,,0,Houston,,p36,ray
-1913Reach,1912,Texas League,P10159,Ray,,0,Houston,,P36p,ray
-1913Reach,1912,Texas League,B00531,Reilly,,0,Waco,,B63,reilly
-1913Reach,1912,Texas League,F21434,Reilly,,0,Waco,,c38,reilly
-1913Reach,1912,Texas League,B00609,Rennard,,0,Waco,,B129,rennard
-1913Reach,1912,Texas League,F21241,Rennard,,0,Waco,,rf124,rennard
-1913Reach,1912,Texas League,B00771,Reynolds,,0,Houston,,B82,reynolds
-1913Reach,1912,Texas League,F21450,Reynolds,,0,Houston,,c68,reynolds
-1913Reach,1912,Texas League,B00638,Robison,B.,0,Austin,,B72,robison
-1913Reach,1912,Texas League,F20776,Robison,B.,0,Austin,,lf58,robison
-1913Reach,1912,Texas League,F21059,Robison,B.,0,Austin,,cf58,robison
-1913Reach,1912,Texas League,B00822,Rogers,,0,San Antonio,,B43,rogers
-1913Reach,1912,Texas League,F21667,Rogers,,0,San Antonio,,p38,rogers
-1913Reach,1912,Texas League,P10056,Rogers,,0,San Antonio,,P38p,rogers
-1913Reach,1912,Texas League,B01291,Rose,,0,Houston,,B37,rose
-1913Reach,1912,Texas League,F21898,Rose,,0,Houston,,p37,rose
-1913Reach,1912,Texas League,P10097,Rose,,0,Houston,,P37p,rose
-1913Reach,1912,Texas League,B00059,Russell,,0,Fort Worth,,B13,russell
-1913Reach,1912,Texas League,F21502,Russell,,0,Fort Worth,,p13,russell
-1913Reach,1912,Texas League,P10253,Russell,,0,Fort Worth,,P13p,russell
-1913Reach,1912,Texas League,B00324,Salm,,1,Galveston,,,salm
-1913Reach,1912,Texas League,B00324,Salm,,2,Fort Worth,,,salm
-1913Reach,1912,Texas League,B00324,Salm,,T,,,B137,salm
-1913Reach,1912,Texas League,F20067,Salm,,1,Galveston,,1b,salm
-1913Reach,1912,Texas League,F20067,Salm,,2,Fort Worth,,1b,salm
-1913Reach,1912,Texas League,F20067,Salm,,T,,,1b134,salm
-1913Reach,1912,Texas League,B01162,Schuman,,0,Dallas,,B59,schuman
-1913Reach,1912,Texas League,F21037,Schuman,,0,Dallas,,cf52,schuman
-1913Reach,1912,Texas League,B00210,Seitz,,0,San Antonio,,B122,seitz
-1913Reach,1912,Texas League,F20153,Seitz,,0,San Antonio,,2b76,seitz
-1913Reach,1912,Texas League,F20430,Seitz,,0,San Antonio,,3b11,seitz
-1913Reach,1912,Texas League,F20661,Seitz,,0,San Antonio,,lf25,seitz
-1913Reach,1912,Texas League,B01453,Sewell,,0,Dallas,,B17,sewell
-1913Reach,1912,Texas League,F21680,Sewell,,0,Dallas,,p17,sewell
-1913Reach,1912,Texas League,P10289,Sewell,,0,Dallas,,P17p,sewell
-1913Reach,1912,Texas League,B01086,Sheffield,,0,Dallas,,B15,sheffield
-1913Reach,1912,Texas League,F20832,Sheffield,,0,Dallas,,cf15,sheffield
-1913Reach,1912,Texas League,B01490,Shontz,,0,Dallas,,B33,shontz
-1913Reach,1912,Texas League,F21726,Shontz,,0,Dallas,,p33,shontz
-1913Reach,1912,Texas League,P10215,Shontz,,0,Dallas,,P33p,shontz
-1913Reach,1912,Texas League,B00695,Smith,G.,0,Austin,,B142,smith-aus
-1913Reach,1912,Texas League,B00718,Smith,A.,0,San Antonio,,B115,smith-sa
-1913Reach,1912,Texas League,B01428,Smith,H.,0,Fort Worth,,B15,smith-fw
-1913Reach,1912,Texas League,F20189,Smith,G.,0,Austin,,2b142,smith-aus
-1913Reach,1912,Texas League,F21335,Smith,A.,0,San Antonio,,c106,smith-sa
-1913Reach,1912,Texas League,F21590,Smith,H.,0,Fort Worth,,p15,smith-fw
-1913Reach,1912,Texas League,P10410,Smith,H.,0,Fort Worth,,P15p,smith-fw
-1913Reach,1912,Texas League,B00936,Snapp,,1,Fort Worth,,,snapp
-1913Reach,1912,Texas League,B00936,Snapp,,2,Houston,,,snapp
-1913Reach,1912,Texas League,B00936,Snapp,,T,,,B80,snapp
-1913Reach,1912,Texas League,F20449,Snapp,,1,Fort Worth,,3b,snapp
-1913Reach,1912,Texas League,F20449,Snapp,,2,Houston,,3b,snapp
-1913Reach,1912,Texas League,F20449,Snapp,,T,,,3b55,snapp
-1913Reach,1912,Texas League,F21084,Snapp,,1,Fort Worth,,rf,snapp
-1913Reach,1912,Texas League,F21084,Snapp,,2,Houston,,rf,snapp
-1913Reach,1912,Texas League,F21084,Snapp,,T,,,rf14,snapp
-1913Reach,1912,Texas League,B01313,Spencer,,1,Galveston,,,spencer
-1913Reach,1912,Texas League,B01313,Spencer,,2,Fort Worth,,,spencer
-1913Reach,1912,Texas League,B01313,Spencer,,T,,,B24,spencer
-1913Reach,1912,Texas League,F20841,Spencer,,1,Galveston,,cf,spencer
-1913Reach,1912,Texas League,F20841,Spencer,,2,Fort Worth,,cf,spencer
-1913Reach,1912,Texas League,F20841,Spencer,,T,,,cf15,spencer
-1913Reach,1912,Texas League,B00589,Stellbauer,,0,Austin,,B17,stellbauer
-1913Reach,1912,Texas League,B00488,Stewart,,0,Waco,,B97,stewart
-1913Reach,1912,Texas League,F20962,Stewart,,0,Waco,,cf83,stewart
-1913Reach,1912,Texas League,B01108,Sweet,,0,Austin,,B44,sweet
-1913Reach,1912,Texas League,F21488,Sweet,,0,Austin,,c29,sweet
-1913Reach,1912,Texas League,B01041,Taff,,0,Waco,,B35,taff
-1913Reach,1912,Texas League,F21623,Taff,,0,Waco,,p35,taff
-1913Reach,1912,Texas League,P10113,Taff,,0,Waco,,P35p,taff
-1913Reach,1912,Texas League,B00646,Tanner,,0,Waco,,B103,tanner
-1913Reach,1912,Texas League,F20547,Tanner,,0,Waco,,ss83,tanner
-1913Reach,1912,Texas League,F20612,Tanner,,0,Waco,,lf14,tanner
-1913Reach,1912,Texas League,B00182,Tate,,0,Galveston,,B10,tate
-1913Reach,1912,Texas League,F21515,Tate,,0,Galveston,,p10,tate
-1913Reach,1912,Texas League,P10432,Tate,,0,Galveston,,P10p,tate
-1913Reach,1912,Texas League,B00904,Taylor,W.,0,Austin,,B35,taylor
-1913Reach,1912,Texas League,F21806,Taylor,W.,0,Austin,,p35,taylor
-1913Reach,1912,Texas League,P10357,Taylor,W.,0,Austin,,P35p,taylor
-1913Reach,1912,Texas League,B00680,Thebo,,1,Galveston,,,thebo
-1913Reach,1912,Texas League,B00680,Thebo,,2,Beaumont,,,thebo
-1913Reach,1912,Texas League,B00680,Thebo,,3,San Antonio,,,thebo
-1913Reach,1912,Texas League,B00680,Thebo,,T,,,B72,thebo
-1913Reach,1912,Texas League,F20784,Thebo,,1,Galveston,,lf,thebo
-1913Reach,1912,Texas League,F20784,Thebo,,2,Beaumont,,lf,thebo
-1913Reach,1912,Texas League,F20784,Thebo,,3,San Antonio,,lf,thebo
-1913Reach,1912,Texas League,F20784,Thebo,,T,,,lf26,thebo
-1913Reach,1912,Texas League,F20893,Thebo,,1,Galveston,,cf,thebo
-1913Reach,1912,Texas League,F20893,Thebo,,2,Beaumont,,cf,thebo
-1913Reach,1912,Texas League,F20893,Thebo,,3,San Antonio,,cf,thebo
-1913Reach,1912,Texas League,F20893,Thebo,,T,,,cf45,thebo
-1913Reach,1912,Texas League,B01010,Thomson,,0,Fort Worth,,B105,thomson
-1913Reach,1912,Texas League,F20131,Thomson,,0,Fort Worth,,1b17,thomson
-1913Reach,1912,Texas League,F20287,Thomson,,0,Fort Worth,,2b26,thomson
-1913Reach,1912,Texas League,F20571,Thomson,,0,Fort Worth,,ss42,thomson
-1913Reach,1912,Texas League,F21491,Thomson,,0,Fort Worth,,c10,thomson
-1913Reach,1912,Texas League,B01523,Tierney,,0,Dallas,,B26,tierney
-1913Reach,1912,Texas League,F20463,Tierney,,0,Dallas,,3b13,tierney
-1913Reach,1912,Texas League,F21286,Tierney,,0,Dallas,,rf10,tierney
-1913Reach,1912,Texas League,B00833,Tullos,,0,Dallas,,B129,tullos
-1913Reach,1912,Texas League,F20350,Tullos,,0,Dallas,,3b129,tullos
-1913Reach,1912,Texas League,B00475,Wallace,R.,1,San Antonio,,,wallace-sa+fw
-1913Reach,1912,Texas League,B00475,Wallace,R.,2,Fort Worth,,,wallace-sa+fw
-1913Reach,1912,Texas League,B00475,Wallace,R.,T,,,B131,wallace-sa+fw
-1913Reach,1912,Texas League,B01203,Wallace,J.,0,Beaumont,,B14,wallace-bea
-1913Reach,1912,Texas League,F20482,Wallace,R.,1,San Antonio,,ss,wallace-sa+fw
-1913Reach,1912,Texas League,F20482,Wallace,R.,2,Fort Worth,,ss,wallace-sa+fw
-1913Reach,1912,Texas League,F20482,Wallace,R.,T,,,ss131,wallace-sa+fw
-1913Reach,1912,Texas League,B01415,Watson,,1,Beaumont,,,watson
-1913Reach,1912,Texas League,B01415,Watson,,2,Houston,,,watson
-1913Reach,1912,Texas League,B01415,Watson,,T,,,B32,watson
-1913Reach,1912,Texas League,F21840,Watson,,1,Beaumont,,p,watson
-1913Reach,1912,Texas League,F21840,Watson,,2,Houston,,p,watson
-1913Reach,1912,Texas League,F21840,Watson,,T,,,p30,watson
-1913Reach,1912,Texas League,P10231,Watson,,1,Beaumont,,p,watson
-1913Reach,1912,Texas League,P10231,Watson,,2,Houston,,p,watson
-1913Reach,1912,Texas League,P10231,Watson,,T,,,P30p,watson
-1913Reach,1912,Texas League,B00278,Wheeler,,0,Beaumont,,B129,wheeler
-1913Reach,1912,Texas League,F20265,Wheeler,,0,Beaumont,,2b24,wheeler
-1913Reach,1912,Texas League,F20369,Wheeler,,0,Beaumont,,3b103,wheeler
-emilbb,1912,Texas League,M91104,Wheeler,Edward,,Beaumont,,,
-1913Reach,1912,Texas League,B01466,White,,0,Fort Worth,,B10,white
-1913Reach,1912,Texas League,F20458,White,,0,Fort Worth,,3b10,white
-1913Reach,1912,Texas League,B00045,Whiteman,,0,Houston,,B144,whiteman
-1913Reach,1912,Texas League,F20699,Whiteman,,0,Houston,,lf144,whiteman
-1913Reach,1912,Texas League,B00356,Williams,J.,0,Galveston,,B139,williams.j
-1913Reach,1912,Texas League,B00760,Williams,H.,0,Galveston,,B130,williams.h
-1913Reach,1912,Texas League,F20046,Williams,H.,0,Galveston,,1b73,williams.h
-1913Reach,1912,Texas League,F20620,Williams,J.,0,Galveston,,lf137,williams.j
-1913Reach,1912,Texas League,F21381,Williams,H.,0,Galveston,,c54,williams.h
-1913Reach,1912,Texas League,B00726,Wilson,B.,0,Dallas,,B145,wilson-dal
-1913Reach,1912,Texas League,B01431,Wilson,T.,0,Galveston,,B25,wilson-gal
-1913Reach,1912,Texas League,F20080,Wilson,B.,0,Dallas,,1b10,wilson-dal
-1913Reach,1912,Texas League,F20700,Wilson,B.,0,Dallas,,lf121,wilson-dal
-1913Reach,1912,Texas League,F20855,Wilson,B.,0,Dallas,,cf13,wilson-dal
-1913Reach,1912,Texas League,F21324,Wilson,T.,0,Galveston,,c25,wilson-gal
-1913Reach,1912,Texas League,B00491,Witherspoon,,0,Fort Worth,,B35,witherspoon
-1913Reach,1912,Texas League,F20144,Witherspoon,,0,Fort Worth,,1b12,witherspoon
-1913Reach,1912,Texas League,F20594,Witherspoon,,0,Fort Worth,,ss20,witherspoon
-1913Reach,1912,Texas League,B00308,Wohleben,,0,Waco,,B140,wohleben
-1913Reach,1912,Texas League,F20072,Wohleben,,0,Waco,,1b140,wohleben
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+1913Reach,1912,Texas League,akin,B00207,Akin,,0,Waco,,B141
+1913Reach,1912,Texas League,akin,F20316,Akin,,0,Waco,,3b140
+1913Reach,1912,Texas League,alexander,B01007,Alexander,,0,Galveston,,B59
+1913Reach,1912,Texas League,alexander,F21319,Alexander,,0,Galveston,,c49
+1913Reach,1912,Texas League,allen-sa,B00037,Allen,W.,0,San Antonio,,B13
+1913Reach,1912,Texas League,allen-hou,B00515,Allen,S.,0,Houston,,B92
+1913Reach,1912,Texas League,allen-sa,F21125,Allen,R.,0,San Antonio,,rf10
+1913Reach,1912,Texas League,allen-hou,F21427,Allen,S.,0,Houston,,c85
+1913Reach,1912,Texas League,ashton,B01444,Ashton,,0,Austin,,B48
+1913Reach,1912,Texas League,ashton,F21638,Ashton,,0,Austin,,p37
+1913Reach,1912,Texas League,ashton,P10202,Ashton,,0,Austin,,P36p
+1913Reach,1912,Texas League,ayres,B01300,Ayres,,1,Austin,,
+1913Reach,1912,Texas League,ayres,B01300,Ayres,,2,San Antonio,,
+1913Reach,1912,Texas League,ayres,B01300,Ayres,,T,,,B35
+1913Reach,1912,Texas League,ayres,F21646,Ayres,,1,Austin,,p
+1913Reach,1912,Texas League,ayres,F21646,Ayres,,2,San Antonio,,p
+1913Reach,1912,Texas League,ayres,F21646,Ayres,,T,,,p34
+1913Reach,1912,Texas League,ayres,P10168,Ayres,,1,Austin,,p
+1913Reach,1912,Texas League,ayres,P10168,Ayres,,2,San Antonio,,p
+1913Reach,1912,Texas League,ayres,P10168,Ayres,,T,,,P34p
+1913Reach,1912,Texas League,bader,B01288,Bader,,0,Dallas,,B41
+1913Reach,1912,Texas League,bader,F21854,Bader,,0,Dallas,,p41
+1913Reach,1912,Texas League,bader,P10192,Bader,,0,Dallas,,P41p
+1913Reach,1912,Texas League,beck,B00427,Beck,,0,Waco,,B78
+1913Reach,1912,Texas League,beck,F20583,Beck,,0,Waco,,ss70
+1913Reach,1912,Texas League,besse,B01156,Besse,,0,Fort Worth,,B18
+1913Reach,1912,Texas League,besse,F20997,Besse,,0,Fort Worth,,cf17
+1913Reach,1912,Texas League,betts,B00149,Betts,,0,San Antonio,,B141
+1913Reach,1912,Texas League,betts,F21207,Betts,,0,San Antonio,,rf100
+1913Reach,1912,Texas League,betts,F21362,Betts,,0,San Antonio,,c44
+1913Reach,1912,Texas League,blinke,B00335,Blinke,,0,Dallas,,B36
+1913Reach,1912,Texas League,blinke,F21475,Blinke,,0,Dallas,,c28
+1913Reach,1912,Texas League,bobo,B00434,Bobo,,0,Austin,,B38
+1913Reach,1912,Texas League,bobo,F21403,Bobo,,0,Austin,,c37
+1913Reach,1912,Texas League,bradley,B01368,Bradley,,0,Austin,,B16
+1913Reach,1912,Texas League,bradley,F21577,Bradley,,0,Austin,,p15
+1913Reach,1912,Texas League,bradley,P10244,Bradley,,0,Austin,,P15p
+1913Reach,1912,Texas League,brant,B01269,Brant,,0,Beaumont,,B22
+1913Reach,1912,Texas League,brant,F21811,Brant,,0,Beaumont,,p22
+1913Reach,1912,Texas League,brant,P10304,Brant,,0,Beaumont,,P22p
+1913Reach,1912,Texas League,breitenstein,B00076,Breitenstein,,0,San Antonio,,B49
+1913Reach,1912,Texas League,breitenstein,F21021,Breitenstein,,0,San Antonio,,cf27
+1913Reach,1912,Texas League,breitenstein,F21092,Breitenstein,,0,San Antonio,,rf11
+1913Reach,1912,Texas League,britton,B00403,Britton,,0,Houston,,B143
+1913Reach,1912,Texas League,britton,F20417,Britton,,0,Houston,,3b143
+1913Reach,1912,Texas League,brown,B01392,Brown,,1,Dallas,,
+1913Reach,1912,Texas League,brown,B01392,Brown,,2,Fort Worth,,
+1913Reach,1912,Texas League,brown,B01392,Brown,,T,,,B18
+1913Reach,1912,Texas League,brown,F21936,Brown,,1,Dallas,,p
+1913Reach,1912,Texas League,brown,F21936,Brown,,2,Fort Worth,,p
+1913Reach,1912,Texas League,brown,F21936,Brown,,T,,,p18
+1913Reach,1912,Texas League,brown,P10361,Brown,,1,Dallas,,p
+1913Reach,1912,Texas League,brown,P10361,Brown,,2,Fort Worth,,p
+1913Reach,1912,Texas League,brown,P10361,Brown,,T,,,P18p
+1913Reach,1912,Texas League,browning,B00811,Browning,,0,San Antonio,,B46
+1913Reach,1912,Texas League,browning,F21531,Browning,,0,San Antonio,,p44
+1913Reach,1912,Texas League,browning,P10137,Browning,,0,San Antonio,,P43p
+1913Reach,1912,Texas League,brownlow,B00887,Brownlow,,0,Austin,,B139
+1913Reach,1912,Texas League,brownlow,F20552,Brownlow,,0,Austin,,ss81
+1913Reach,1912,Texas League,brownlow,F20768,Brownlow,,0,Austin,,lf17
+1913Reach,1912,Texas League,brownlow,F21000,Brownlow,,0,Austin,,cf31
+1913Reach,1912,Texas League,burke,B00961,Burke,,0,San Antonio,,B71
+1913Reach,1912,Texas League,burke,F20279,Burke,,0,San Antonio,,2b19
+1913Reach,1912,Texas League,burke,F20908,Burke,,0,San Antonio,,cf39
+1913Reach,1912,Texas League,burke,F21101,Burke,,0,San Antonio,,rf11
+1913Reach,1912,Texas League,carson,B00739,Carson,,0,Waco,,B121
+1913Reach,1912,Texas League,carson,F21356,Carson,,0,Waco,,c119
+1913Reach,1912,Texas League,casey,B00783,Casey,,1,Austin,,
+1913Reach,1912,Texas League,casey,B00783,Casey,,2,Beaumont,,
+1913Reach,1912,Texas League,casey,B00783,Casey,,T,,,B128
+1913Reach,1912,Texas League,casey,F20166,Casey,,1,Austin,,2b
+1913Reach,1912,Texas League,casey,F20166,Casey,,2,Beaumont,,2b
+1913Reach,1912,Texas League,casey,F20166,Casey,,T,,,2b122
+1913Reach,1912,Texas League,cavender,B00920,Cavender,,0,Dallas,,B18
+emilbb,1912,Texas League,,M91065,Cavender,Dred,,Dallas,,
+1913Reach,1912,Texas League,crichlow,F20737,Chichlow,,0,Waco,,lf66
+1913Reach,1912,Texas League,clark,B00255,Clark,J.,0,San Antonio,,B79
+1913Reach,1912,Texas League,clark,F20657,Clark,J.,0,San Antonio,,lf79
+1913Reach,1912,Texas League,clemens,B00854,Clemens,,1,Galveston,,
+1913Reach,1912,Texas League,clemens,B00854,Clemens,,2,Dallas,,
+1913Reach,1912,Texas League,clemens,B00854,Clemens,,T,,,B111
+1913Reach,1912,Texas League,clemens,F20401,Clemens,,1,Galveston,,3b
+1913Reach,1912,Texas League,clemens,F20401,Clemens,,2,Dallas,,3b
+1913Reach,1912,Texas League,clemens,F20401,Clemens,,T,,,3b66
+1913Reach,1912,Texas League,clemens,F20810,Clemens,,1,Galveston,,cf
+1913Reach,1912,Texas League,clemens,F20810,Clemens,,2,Dallas,,cf
+1913Reach,1912,Texas League,clemens,F20810,Clemens,,T,,,cf35
+1913Reach,1912,Texas League,collins,B01216,Collins,,0,San Antonio,,B10
+1913Reach,1912,Texas League,cook-aus,F21045,Cook,L.,0,Austin,,cf54
+1913Reach,1912,Texas League,cook-aus,F21196,Cook,L.,0,Austin,,rf22
+1913Reach,1912,Texas League,cooke-bea,B00651,Cooke,T.,0,Beaumont,,B145
+1913Reach,1912,Texas League,cook-aus,B00667,Cooke,L.,0,Austin,,B88
+1913Reach,1912,Texas League,cooke-bea,F20115,Cooke,T.,0,Beaumont,,1b145
+1913Reach,1912,Texas League,cooper,B00293,Cooper,,0,Fort Worth,,B142
+1913Reach,1912,Texas League,cooper,F21210,Cooper,,0,Fort Worth,,rf135
+1913Reach,1912,Texas League,corbett,B01384,Corbett,,0,Beaumont,,B38
+1913Reach,1912,Texas League,corbett,F21948,Corbett,,0,Beaumont,,p30
+1913Reach,1912,Texas League,corbett,P10320,Corbett,,0,Beaumont,,P30p
+1913Reach,1912,Texas League,cowan,B01093,Cowan,,0,Beaumont,,B45
+1913Reach,1912,Texas League,cowan,F20303,Cowan,,0,Beaumont,,3b32
+1913Reach,1912,Texas League,crable,B01234,Crable,,1,Fort Worth,,
+1913Reach,1912,Texas League,crable,B01234,Crable,,2,San Antonio,,
+1913Reach,1912,Texas League,crable,B01234,Crable,,T,,,B30
+1913Reach,1912,Texas League,crable,F21833,Crable,,1,Fort Worth,,p
+1913Reach,1912,Texas League,crable,F21833,Crable,,2,San Antonio,,p
+1913Reach,1912,Texas League,crable,F21833,Crable,,T,,,p29
+1913Reach,1912,Texas League,crable,P10348,Crable,,1,Fort Worth,,p
+1913Reach,1912,Texas League,crable,P10348,Crable,,2,San Antonio,,p
+1913Reach,1912,Texas League,crable,P10348,Crable,,T,,,P28p
+1913Reach,1912,Texas League,crichlow,B00590,Crichlow,,0,Waco,,B134
+1913Reach,1912,Texas League,crichlow,F20878,Crichlow,,0,Waco,,cf63
+1913Reach,1912,Texas League,criss,B00174,Criss,,0,Houston,,B22
+1913Reach,1912,Texas League,criss,F21076,Criss,,0,Houston,,rf22
+1913Reach,1912,Texas League,dail,B00623,Dail,,0,Beaumont,,B143
+1913Reach,1912,Texas League,dail,F20648,Dail,,0,Beaumont,,lf64
+1913Reach,1912,Texas League,dail,F21255,Dail,,0,Beaumont,,rf71
+1913Reach,1912,Texas League,daringer,B00865,Daringer,,1,San Antonio,,
+1913Reach,1912,Texas League,daringer,B00865,Daringer,,2,Fort Worth,,
+1913Reach,1912,Texas League,daringer,B00865,Daringer,,T,,,B125
+1913Reach,1912,Texas League,daringer,F20222,Daringer,,0,Fort Worth,,2b115
+1913Reach,1912,Texas League,davis,B00241,Davis,,0,Houston,,B142
+1913Reach,1912,Texas League,davis,F20981,Davis,,0,Houston,,cf135
+1913Reach,1912,Texas League,dawson,B00362,Dawson,H.,0,Beaumont,,B97
+1913Reach,1912,Texas League,dawson,F21343,Dawson,H.,0,Beaumont,,c88
+1913Reach,1912,Texas League,dodd,B01242,Dodd,,1,Houston,,
+1913Reach,1912,Texas League,dodd,B01242,Dodd,,2,Galveston,,
+1913Reach,1912,Texas League,dodd,B01242,Dodd,,T,,,B87
+1913Reach,1912,Texas League,dodd,F20095,Dodd,,1,Houston,,1b
+1913Reach,1912,Texas League,dodd,F20095,Dodd,,2,Galveston,,1b
+1913Reach,1912,Texas League,dodd,F20095,Dodd,,T,,,1b11
+1913Reach,1912,Texas League,dodd,F20254,Dodd,,1,Houston,,2b
+1913Reach,1912,Texas League,dodd,F20254,Dodd,,2,Galveston,,2b
+1913Reach,1912,Texas League,dodd,F20254,Dodd,,T,,,2b35
+1913Reach,1912,Texas League,dodd,F20425,Dodd,,1,Houston,,3b
+1913Reach,1912,Texas League,dodd,F20425,Dodd,,2,Galveston,,3b
+1913Reach,1912,Texas League,dodd,F20425,Dodd,,T,,,3b24
+1913Reach,1912,Texas League,dodd,F20604,Dodd,,1,Houston,,ss
+1913Reach,1912,Texas League,dodd,F20604,Dodd,,2,Galveston,,ss
+1913Reach,1912,Texas League,dodd,F20604,Dodd,,T,,,ss12
+1913Reach,1912,Texas League,downey,B00232,Downey,A.,0,Austin,,B145
+1913Reach,1912,Texas League,downey,F20128,Downey,A.,0,Austin,,1b25
+1913Reach,1912,Texas League,downey,F21068,Downey,A.,0,Austin,,cf21
+1913Reach,1912,Texas League,downey,F21182,Downey,A.,0,Austin,,rf101
+emilbb,1912,Texas League,,M91079,Downey,"Alex ""Red""",,Austin,,
+1913Reach,1912,Texas League,dugey,B00416,Dugey,,0,Waco,,B145
+1913Reach,1912,Texas League,dugey,F20211,Dugey,,0,Waco,,2b143
+1913Reach,1912,Texas League,duncan,B00286,Duncan,,0,Dallas,,B135
+1913Reach,1912,Texas League,duncan,F21149,Duncan,,0,Dallas,,rf128
+1913Reach,1912,Texas League,edmiston,B00999,Edmiston,,0,Beaumont,,B142
+1913Reach,1912,Texas League,edmiston,F20505,Edmiston,,0,Beaumont,,ss141
+1913Reach,1912,Texas League,edmondson,B00973,Edmondson,,0,Houston,,B32
+1913Reach,1912,Texas League,edmondson,F21589,Edmondson,,0,Houston,,p31
+1913Reach,1912,Texas League,edmondson,P10043,Edmondson,,0,Houston,,P31p
+1913Reach,1912,Texas League,ens,B00264,Ens,,0,Dallas,,B142
+1913Reach,1912,Texas League,ens,F20233,Ens,,0,Dallas,,2b141
+1913Reach,1912,Texas League,evans,B00879,Evans,,0,Dallas,,B57
+1913Reach,1912,Texas League,evans,F21760,Evans,,0,Dallas,,p40
+1913Reach,1912,Texas League,evans,P10100,Evans,,0,Dallas,,P40p
+1913Reach,1912,Texas League,fillman,B00502,Fillman,,0,Houston,,B118
+1913Reach,1912,Texas League,fillman,F20206,Fillman,,0,Houston,,2b117
+emilbb,1912,Texas League,,M91022,Fillman,John,,Houston,,
+1913Reach,1912,Texas League,forsythe,B00021,Forsythe,,0,Dallas,,B142
+1913Reach,1912,Texas League,forsythe,F20102,Forsythe,,0,Dallas,,1b132
+1913Reach,1912,Texas League,forsythe,F20807,Forsythe,,0,Dallas,,lf10
+1913Reach,1912,Texas League,foster,B00319,Foster,,0,Houston,,B43
+1913Reach,1912,Texas League,foster,F21609,Foster,,0,Houston,,p39
+1913Reach,1912,Texas League,foster,P10024,Foster,,0,Houston,,P39p
+1913Reach,1912,Texas League,franklin,B01181,Franklin,,0,Dallas,,B14
+1913Reach,1912,Texas League,franklin,F20864,Franklin,,0,Dallas,,cf12
+1913Reach,1912,Texas League,frierson,B00397,Frierson,,0,Fort Worth,,B108
+1913Reach,1912,Texas League,frierson,F20759,Frierson,,0,Fort Worth,,lf97
+1913Reach,1912,Texas League,gibson,B00898,Gibson,,0,Dallas,,B125
+1913Reach,1912,Texas League,gibson,F21370,Gibson,,0,Dallas,,c113
+1913Reach,1912,Texas League,goodwin,B00125,Goodwin,,0,San Antonio,,B69
+1913Reach,1912,Texas League,goodwin,F21158,Goodwin,,0,San Antonio,,rf19
+1913Reach,1912,Texas League,goodwin,F21752,Goodwin,,0,San Antonio,,p34
+1913Reach,1912,Texas League,goodwin,P10062,Goodwin,,0,San Antonio,,P34p
+1913Reach,1912,Texas League,green,B01064,Green,,0,Dallas,,B13
+1913Reach,1912,Texas League,green,F21879,Green,,0,Dallas,,p13
+1913Reach,1912,Texas League,green,P10019,Green,H.,0,Dallas,,P13p
+1913Reach,1912,Texas League,harben,B01078,Harben,,0,Galveston,,B33
+1913Reach,1912,Texas League,harben,F21705,Harben,,0,Galveston,,p23
+1913Reach,1912,Texas League,harben,P10407,Harben,,0,Galveston,,P23p
+emilbb,1912,Texas League,,M91054,Hardy,Ellis,,Waco,,
+1913Reach,1912,Texas League,helm,B01055,Helm,,1,Galveston,,
+1913Reach,1912,Texas League,helm,B01055,Helm,,2,Houston,,
+1913Reach,1912,Texas League,helm,B01055,Helm,,T,,,B32
+1913Reach,1912,Texas League,helm,F21904,Helm,,1,Galveston,,p
+1913Reach,1912,Texas League,helm,F21904,Helm,,2,Houston,,p
+1913Reach,1912,Texas League,helm,F21904,Helm,,T,,,p32
+1913Reach,1912,Texas League,helm,P10455,Helm,,1,Galveston,,p
+1913Reach,1912,Texas League,helm,P10455,Helm,,2,Houston,,p
+1913Reach,1912,Texas League,helm,P10455,Helm,,T,,,P32p
+1913Reach,1912,Texas League,herbert,B00672,Herbert,,0,Austin,,B41
+1913Reach,1912,Texas League,herbert,F20970,Herbert,,0,Austin,,cf16
+1913Reach,1912,Texas League,herbert,F21747,Herbert,,0,Austin,,p10
+1913Reach,1912,Texas League,herbert,P10399,Herbert,,0,Austin,,P10p
+1913Reach,1912,Texas League,hewitt,B01376,Hewitt,,0,Fort Worth,,B23
+1913Reach,1912,Texas League,hewitt,F20342,Hewitt,,0,Fort Worth,,3b23
+1913Reach,1912,Texas League,hiett,B00747,Hiett,,1,Fort Worth,,
+1913Reach,1912,Texas League,hiett,B00747,Hiett,,2,Galveston,,
+1913Reach,1912,Texas League,hiett,B00747,Hiett,,T,,,B27
+1913Reach,1912,Texas League,hiett,F21718,Hiett,,1,Fort Worth,,p
+1913Reach,1912,Texas League,hiett,F21718,Hiett,,2,Galveston,,p
+1913Reach,1912,Texas League,hiett,F21718,Hiett,,T,,,p26
+1913Reach,1912,Texas League,hiett,P10312,Hiett,,1,Fort Worth,,p
+1913Reach,1912,Texas League,hiett,P10312,Hiett,,2,Galveston,,p
+1913Reach,1912,Texas League,hiett,P10312,Hiett,,T,,,P26p
+1913Reach,1912,Texas League,hill,B00370,Hill,,0,Austin,,B70
+1913Reach,1912,Texas League,hill,F20518,Hill,,0,Austin,,ss70
+1913Reach,1912,Texas League,hille,B00553,Hille,,0,Austin,,B144
+1913Reach,1912,Texas League,hille,F20327,Hille,,0,Austin,,3b142
+1913Reach,1912,Texas League,henninger,B00196,Hinninger,,0,Austin,,B96
+1913Reach,1912,Texas League,henninger,F21469,Hinninger,,0,Austin,,c87
+1913Reach,1912,Texas League,holtz,B00101,Holtz,,0,Beaumont,,B105
+1913Reach,1912,Texas League,holtz,F20792,Holtz,,0,Beaumont,,lf13
+1913Reach,1912,Texas League,holtz,F21264,Holtz,,0,Beaumont,,rf57
+1913Reach,1912,Texas League,holtz,F21293,Holtz,,0,Beaumont,,c21
+1913Reach,1912,Texas League,hopkins,B00092,Hopkins,,0,Galveston,,B46
+1913Reach,1912,Texas League,hopkins,F20943,Hopkins,,0,Galveston,,cf44
+1913Reach,1912,Texas League,hovel,B01538,Hovel,,0,Galveston,,B10
+1913Reach,1912,Texas League,howard,B00614,Howard,,0,Fort Worth,,B105
+1913Reach,1912,Texas League,howard,F20935,Howard,,0,Fort Worth,,cf103
+1913Reach,1912,Texas League,jolley,B00566,Jolley,,1,Fort Worth,,
+1913Reach,1912,Texas League,jolley,B00566,Jolley,,2,Galveston,,
+1913Reach,1912,Texas League,jolley,B00566,Jolley,,T,,,B69
+1913Reach,1912,Texas League,jolley,F20829,Jolley,,1,Fort Worth,,cf
+1913Reach,1912,Texas League,jolley,F20829,Jolley,,2,Galveston,,cf
+1913Reach,1912,Texas League,jolley,F20829,Jolley,,T,,,cf24
+1913Reach,1912,Texas League,jolley,F21130,Jolley,,1,Fort Worth,,rf
+1913Reach,1912,Texas League,jolley,F21130,Jolley,,2,Galveston,,rf
+1913Reach,1912,Texas League,jolley,F21130,Jolley,,T,,,rf43
+1913Reach,1912,Texas League,jordan,B01402,Jordan,,0,Galveston,,B24
+1913Reach,1912,Texas League,jordan,F21308,Jordan,,0,Galveston,,c23
+1913Reach,1912,Texas League,jost,B01477,Jost,,0,Waco,,B39
+1913Reach,1912,Texas League,jost,F21528,Jost,,0,Waco,,p38
+1913Reach,1912,Texas League,jost,P10121,Jost,,0,Waco,,P38p
+1913Reach,1912,Texas League,kaphan,B00343,Kaphan,,0,Galveston,,B71
+1913Reach,1912,Texas League,kaphan,F20924,Kaphan,,0,Galveston,,cf21
+1913Reach,1912,Texas League,kellerman,B00450,Kellerman,,0,Dallas,,B144
+1913Reach,1912,Texas League,kellerman,F20539,Kellerman,,0,Dallas,,ss143
+1913Reach,1912,Texas League,kitchens,B01197,Kitchens,,0,Fort Worth,,B123
+1913Reach,1912,Texas League,kitchens,F21442,Kitchens,,0,Fort Worth,,c120
+1913Reach,1912,Texas League,knaupp,B00544,Knaupp,,0,Houston,,B142
+1913Reach,1912,Texas League,knaupp,F20526,Knaupp,,0,Houston,,ss141
+1913Reach,1912,Texas League,landreth,B00229,Landreth,,0,Houston,,B95
+1913Reach,1912,Texas League,landreth,F21229,Landreth,,0,Houston,,rf94
+1913Reach,1912,Texas League,larsen,B01124,Larsen,,0,Beaumont,,B38
+1913Reach,1912,Texas League,larsen,F21695,Larsen,,0,Beaumont,,p36
+1913Reach,1912,Texas League,larsen,P10429,Larsen,,0,Beaumont,,P36p
+1913Reach,1912,Texas League,lawson,B00705,Lawson,,0,Fort Worth,,B13
+1913Reach,1912,Texas League,lawson,F20745,Lawson,,0,Fort Worth,,lf11
+1913Reach,1912,Texas League,leidy,B00577,Leidy,,0,San Antonio,,B43
+1913Reach,1912,Texas League,leidy,F20886,Leidy,,0,San Antonio,,cf34
+1913Reach,1912,Texas League,leidy,F21117,Leidy,,0,San Antonio,,rf10
+emilbb,1912,Texas League,,M91033,Leidy,George,,San Antonio,,
+1913Reach,1912,Texas League,lemon,B00158,Lemon,,1,Fort Worth,,
+1913Reach,1912,Texas League,lemon,B00158,Lemon,,2,San Antonio,,
+1913Reach,1912,Texas League,lemon,B00158,Lemon,,T,,,B75
+1913Reach,1912,Texas League,lemon,F20375,Lemon,,1,Fort Worth,,3b
+1913Reach,1912,Texas League,lemon,F20375,Lemon,,2,San Antonio,,3b
+1913Reach,1912,Texas League,lemon,F20375,Lemon,,T,,,3b39
+1913Reach,1912,Texas League,lemon,F21416,Lemon,,1,Fort Worth,,c
+1913Reach,1912,Texas League,lemon,F21416,Lemon,,2,San Antonio,,c
+1913Reach,1912,Texas League,lemon,F21416,Lemon,,T,,,c25
+1913Reach,1912,Texas League,lewis,B00957,Lewis,,0,Austin,,B57
+1913Reach,1912,Texas League,lewis,F20713,Lewis,,0,Austin,,lf12
+1913Reach,1912,Texas League,lewis,F21651,Lewis,,0,Austin,,p41
+1913Reach,1912,Texas League,lewis,P10277,Lewis,,0,Austin,,P41p
+1913Reach,1912,Texas League,lohman,B01227,Lohman,,0,Waco,,B39
+1913Reach,1912,Texas League,lohman,F21566,Lohman,,0,Waco,,p39
+1913Reach,1912,Texas League,lohman,P10228,Lohman,,0,Waco,,P39p
+1913Reach,1912,Texas League,maag,B00752,Maag,,0,Galveston,,B124
+1913Reach,1912,Texas League,maag,F20177,Maag,,0,Galveston,,2b105
+1913Reach,1912,Texas League,maag,F20298,Maag,,0,Galveston,,3b19
+1913Reach,1912,Texas League,madden,B00469,Madden,,0,Galveston,,B141
+1913Reach,1912,Texas League,madden,F20240,Madden,,0,Galveston,,2b23
+1913Reach,1912,Texas League,madden,F20560,Madden,,0,Galveston,,ss118
+1913Reach,1912,Texas League,maloney,B00442,Maloney,,0,Galveston,,B12
+emilbb,1912,Texas League,,M91087,Maloney,"James ""Curley""",,Galveston,,
+1913Reach,1912,Texas League,manes,B01170,Manes,,0,Fort Worth,,B47
+1913Reach,1912,Texas League,manes,F20023,Manes,,0,Fort Worth,,1b40
+1913Reach,1912,Texas League,maple,B01489,Maple,,0,Fort Worth,,B38
+1913Reach,1912,Texas League,maple,F21887,Maple,,0,Fort Worth,,p38
+1913Reach,1912,Texas League,maple,P10290,Maple,,0,Fort Worth,,P38p
+1913Reach,1912,Texas League,martina,B01119,Martina,J.,0,Beaumont,,B56
+1913Reach,1912,Texas League,martina,F21822,Martina,J.,0,Beaumont,,p44
+1913Reach,1912,Texas League,martina,P10373,Martina,J.,0,Beaumont,,P44p
+1913Reach,1912,Texas League,mayes,B00806,Mayes,,0,Beaumont,,B134
+1913Reach,1912,Texas League,mayes,F20919,Mayes,,0,Beaumont,,cf132
+1913Reach,1912,Texas League,mcculler,F21232,McCuler,,0,Austin,,rf12
+1913Reach,1912,Texas League,mcculler,B00381,McCuller,,0,Austin,,B35
+1913Reach,1912,Texas League,mcculler,F21865,McCuller,,0,Austin,,p20
+1913Reach,1912,Texas League,mcculler,P10081,McCuller,,0,Austin,,P20p
+1913Reach,1912,Texas League,mciver,B00163,McIver,,0,Austin,,B58
+1913Reach,1912,Texas League,mciver,F20673,McIver,,0,Austin,,lf41
+1913Reach,1912,Texas League,mciver,F20956,McIver,,0,Austin,,cf16
+1913Reach,1912,Texas League,mclarry,B00084,McLarry,,0,Austin,,B125
+1913Reach,1912,Texas League,mclarry,F20014,McLarry,,0,Austin,,1b125
+1913Reach,1912,Texas League,mclaurin,B00068,McLaurin,,0,Waco,,B86
+1913Reach,1912,Texas League,mclaurin,F20685,McLaurin,,0,Waco,,lf71
+1913Reach,1912,Texas League,mclaurin,F21278,McLaurin,,0,Waco,,rf15
+1913Reach,1912,Texas League,meehan,B00985,Meehan,,0,San Antonio,,B28
+1913Reach,1912,Texas League,meehan,F20721,Meehan,,0,San Antonio,,lf28
+1913Reach,1912,Texas League,metz,B00013,Metz,,0,San Antonio,,B142
+1913Reach,1912,Texas League,metz,F20038,Metz,,0,San Antonio,,1b142
+emilbb,1912,Texas League,,M91040,Metz,Frank,,San Antonio,,
+1913Reach,1912,Texas League,midkiff,B00117,Midkiff,,0,San Antonio,,B125
+1913Reach,1912,Texas League,midkiff,F20388,Midkiff,,0,San Antonio,,3b93
+1913Reach,1912,Texas League,midkiff,F20496,Midkiff,,0,San Antonio,,ss32
+1913Reach,1912,Texas League,miller,B01321,Miller,,0,Waco,,B33
+1913Reach,1912,Texas League,miller,F21614,Miller,,0,Waco,,p32
+1913Reach,1912,Texas League,miller,P10145,Miller,,0,Waco,,P32p
+1913Reach,1912,Texas League,moore,B01135,Moore,E.,0,Galveston,,B34
+1913Reach,1912,Texas League,moore,F21920,Moore,Eu.,0,Galveston,,p30
+1913Reach,1912,Texas League,moore,P10035,Moore,Eu.,0,Galveston,,P30p
+1913Reach,1912,Texas League,morris,B01143,Morris,,0,Fort Worth,,B43
+1913Reach,1912,Texas League,morris,F20474,Morris,,0,Fort Worth,,ss42
+emilbb,1912,Texas League,,M91098,Morris,Walter,,Fort Worth,,
+1913Reach,1912,Texas League,morton,B00840,Morton,,0,Galveston,,B53
+1913Reach,1912,Texas League,morton,F21672,Morton,,0,Galveston,,p37
+1913Reach,1912,Texas League,morton,P10336,Morton,,0,Galveston,,P37p
+1913Reach,1912,Texas League,murch,B00948,Murch,,0,Fort Worth,,B99
+1913Reach,1912,Texas League,murch,F20190,Murch,,0,Fort Worth,,2b38
+1913Reach,1912,Texas League,murch,F20391,Murch,,0,Fort Worth,,3b53
+1913Reach,1912,Texas League,nagle,B00528,Nagle,,0,Galveston,,B21
+1913Reach,1912,Texas League,nance,B00794,Nance,,1,Fort Worth,,
+1913Reach,1912,Texas League,nance,B00794,Nance,,2,Beaumont,,
+1913Reach,1912,Texas League,nance,B00794,Nance,,3,San Antonio,,
+1913Reach,1912,Texas League,nance,B00794,Nance,,T,,,B62
+1913Reach,1912,Texas League,nance,F20636,Nance,,1,Fort Worth,,lf
+1913Reach,1912,Texas League,nance,F20636,Nance,,2,Beaumont,,lf
+1913Reach,1912,Texas League,nance,F20636,Nance,,3,San Antonio,,lf
+1913Reach,1912,Texas League,nance,F20636,Nance,,T,,,lf47
+1913Reach,1912,Texas League,nevitt,B01275,Nevitt,,0,Galveston,,B30
+1913Reach,1912,Texas League,nevitt,F20334,Nevitt,,0,Galveston,,3b30
+1913Reach,1912,Texas League,newnam,B00130,Newnam,,0,Houston,,B143
+1913Reach,1912,Texas League,newnam,F20051,Newnam,,0,Houston,,1b143
+1913Reach,1912,Texas League,obrien,B01029,O'Brien,,0,Beaumont,,B71
+1913Reach,1912,Texas League,obrien,F21397,O'Brien,,0,Beaumont,,c52
+1913Reach,1912,Texas League,ogle,B01345,Ogle,,0,Waco,,B38
+1913Reach,1912,Texas League,ogle,F21794,Ogle,,0,Waco,,p38
+1913Reach,1912,Texas League,ogle,P10176,Ogle,,0,Waco,,P38p
+1913Reach,1912,Texas League,kaphan,F21174,Paphan,,0,Galveston,,rf51
+1913Reach,1912,Texas League,parish,B01509,Parish,,1,Austin,,
+1913Reach,1912,Texas League,parish,B01509,Parish,,2,Fort Worth,,
+1913Reach,1912,Texas League,parish,B01509,Parish,,T,,,B18
+1913Reach,1912,Texas League,parish,F21912,Parish,,1,Austin,,p
+1913Reach,1912,Texas League,parish,F21912,Parish,,2,Fort Worth,,p
+1913Reach,1912,Texas League,parish,F21912,Parish,,T,,,p18
+1913Reach,1912,Texas League,parish,P10184,Parish,,1,Austin,,p
+1913Reach,1912,Texas League,parish,P10184,Parish,,2,Fort Worth,,p
+1913Reach,1912,Texas League,parish,P10184,Parish,,T,,,P18p
+1913Reach,1912,Texas League,pate,B00912,Pate,,0,Dallas,,B18
+1913Reach,1912,Texas League,pate,F21544,Pate,,0,Dallas,,p18
+1913Reach,1912,Texas League,pate,P10385,Pate,,0,Dallas,,P18p
+1913Reach,1912,Texas League,peaster,B01514,Peaster,,0,Beaumont,,B36
+1913Reach,1912,Texas League,peaster,F21783,Peaster,,0,Beaumont,,p36
+1913Reach,1912,Texas League,peaster,P10266,Peaster,,0,Beaumont,,P37p
+1913Reach,1912,Texas League,peebles,B01032,Peebles,,1,Galveston,,
+1913Reach,1912,Texas League,peebles,B01032,Peebles,,2,Houston,,
+1913Reach,1912,Texas League,peebles,B01032,Peebles,,T,,,B48
+1913Reach,1912,Texas League,peebles,F21013,Peebles,,1,Galveston,,cf
+1913Reach,1912,Texas League,peebles,F21013,Peebles,,2,Houston,,cf
+1913Reach,1912,Texas League,peebles,F21013,Peebles,,T,,,cf17
+1913Reach,1912,Texas League,peebles,F21163,Peebles,,1,Galveston,,rf
+1913Reach,1912,Texas League,peebles,F21163,Peebles,,2,Houston,,rf
+1913Reach,1912,Texas League,peebles,F21163,Peebles,,T,,,rf29
+1913Reach,1912,Texas League,perritt,B01250,Perritt,,0,Fort Worth,,B45
+1913Reach,1912,Texas League,perritt,F21553,Perritt,,0,Fort Worth,,p43
+1913Reach,1912,Texas League,perritt,P10070,Perritt,,0,Fort Worth,,P43p
+1913Reach,1912,Texas League,phillips,B01337,Phillips,,0,Fort Worth,,B13
+1913Reach,1912,Texas League,phillips,F21739,Phillips,,0,Fort Worth,,p13
+1913Reach,1912,Texas League,phillips,P10441,Phillips,,0,Fort Worth,,P13p
+1913Reach,1912,Texas League,ray,B01359,Ray,,0,Houston,,B36
+1913Reach,1912,Texas League,ray,F21771,Ray,,0,Houston,,p36
+1913Reach,1912,Texas League,ray,P10159,Ray,,0,Houston,,P36p
+1913Reach,1912,Texas League,reilly,B00531,Reilly,,0,Waco,,B63
+1913Reach,1912,Texas League,reilly,F21434,Reilly,,0,Waco,,c38
+1913Reach,1912,Texas League,rennard,B00609,Rennard,,0,Waco,,B129
+1913Reach,1912,Texas League,rennard,F21241,Rennard,,0,Waco,,rf124
+1913Reach,1912,Texas League,reynolds,B00771,Reynolds,,0,Houston,,B82
+1913Reach,1912,Texas League,reynolds,F21450,Reynolds,,0,Houston,,c68
+1913Reach,1912,Texas League,robison,B00638,Robison,B.,0,Austin,,B72
+1913Reach,1912,Texas League,robison,F20776,Robison,B.,0,Austin,,lf58
+1913Reach,1912,Texas League,robison,F21059,Robison,B.,0,Austin,,cf58
+1913Reach,1912,Texas League,rogers,B00822,Rogers,,0,San Antonio,,B43
+1913Reach,1912,Texas League,rogers,F21667,Rogers,,0,San Antonio,,p38
+1913Reach,1912,Texas League,rogers,P10056,Rogers,,0,San Antonio,,P38p
+1913Reach,1912,Texas League,rose,B01291,Rose,,0,Houston,,B37
+1913Reach,1912,Texas League,rose,F21898,Rose,,0,Houston,,p37
+1913Reach,1912,Texas League,rose,P10097,Rose,,0,Houston,,P37p
+1913Reach,1912,Texas League,russell,B00059,Russell,,0,Fort Worth,,B13
+1913Reach,1912,Texas League,russell,F21502,Russell,,0,Fort Worth,,p13
+1913Reach,1912,Texas League,russell,P10253,Russell,,0,Fort Worth,,P13p
+1913Reach,1912,Texas League,salm,B00324,Salm,,1,Galveston,,
+1913Reach,1912,Texas League,salm,B00324,Salm,,2,Fort Worth,,
+1913Reach,1912,Texas League,salm,B00324,Salm,,T,,,B137
+1913Reach,1912,Texas League,salm,F20067,Salm,,1,Galveston,,1b
+1913Reach,1912,Texas League,salm,F20067,Salm,,2,Fort Worth,,1b
+1913Reach,1912,Texas League,salm,F20067,Salm,,T,,,1b134
+1913Reach,1912,Texas League,schuman,B01162,Schuman,,0,Dallas,,B59
+1913Reach,1912,Texas League,schuman,F21037,Schuman,,0,Dallas,,cf52
+1913Reach,1912,Texas League,seitz,B00210,Seitz,,0,San Antonio,,B122
+1913Reach,1912,Texas League,seitz,F20153,Seitz,,0,San Antonio,,2b76
+1913Reach,1912,Texas League,seitz,F20430,Seitz,,0,San Antonio,,3b11
+1913Reach,1912,Texas League,seitz,F20661,Seitz,,0,San Antonio,,lf25
+1913Reach,1912,Texas League,sewell,B01453,Sewell,,0,Dallas,,B17
+1913Reach,1912,Texas League,sewell,F21680,Sewell,,0,Dallas,,p17
+1913Reach,1912,Texas League,sewell,P10289,Sewell,,0,Dallas,,P17p
+1913Reach,1912,Texas League,sheffield,B01086,Sheffield,,0,Dallas,,B15
+1913Reach,1912,Texas League,sheffield,F20832,Sheffield,,0,Dallas,,cf15
+1913Reach,1912,Texas League,shontz,B01490,Shontz,,0,Dallas,,B33
+1913Reach,1912,Texas League,shontz,F21726,Shontz,,0,Dallas,,p33
+1913Reach,1912,Texas League,shontz,P10215,Shontz,,0,Dallas,,P33p
+1913Reach,1912,Texas League,smith-aus,B00695,Smith,G.,0,Austin,,B142
+1913Reach,1912,Texas League,smith-sa,B00718,Smith,A.,0,San Antonio,,B115
+1913Reach,1912,Texas League,smith-fw,B01428,Smith,H.,0,Fort Worth,,B15
+1913Reach,1912,Texas League,smith-aus,F20189,Smith,G.,0,Austin,,2b142
+1913Reach,1912,Texas League,smith-sa,F21335,Smith,A.,0,San Antonio,,c106
+1913Reach,1912,Texas League,smith-fw,F21590,Smith,H.,0,Fort Worth,,p15
+1913Reach,1912,Texas League,smith-fw,P10410,Smith,H.,0,Fort Worth,,P15p
+1913Reach,1912,Texas League,snapp,B00936,Snapp,,1,Fort Worth,,
+1913Reach,1912,Texas League,snapp,B00936,Snapp,,2,Houston,,
+1913Reach,1912,Texas League,snapp,B00936,Snapp,,T,,,B80
+1913Reach,1912,Texas League,snapp,F20449,Snapp,,1,Fort Worth,,3b
+1913Reach,1912,Texas League,snapp,F20449,Snapp,,2,Houston,,3b
+1913Reach,1912,Texas League,snapp,F20449,Snapp,,T,,,3b55
+1913Reach,1912,Texas League,snapp,F21084,Snapp,,1,Fort Worth,,rf
+1913Reach,1912,Texas League,snapp,F21084,Snapp,,2,Houston,,rf
+1913Reach,1912,Texas League,snapp,F21084,Snapp,,T,,,rf14
+1913Reach,1912,Texas League,spencer,B01313,Spencer,,1,Galveston,,
+1913Reach,1912,Texas League,spencer,B01313,Spencer,,2,Fort Worth,,
+1913Reach,1912,Texas League,spencer,B01313,Spencer,,T,,,B24
+1913Reach,1912,Texas League,spencer,F20841,Spencer,,1,Galveston,,cf
+1913Reach,1912,Texas League,spencer,F20841,Spencer,,2,Fort Worth,,cf
+1913Reach,1912,Texas League,spencer,F20841,Spencer,,T,,,cf15
+1913Reach,1912,Texas League,stellbauer,B00589,Stellbauer,,0,Austin,,B17
+1913Reach,1912,Texas League,stewart,B00488,Stewart,,0,Waco,,B97
+1913Reach,1912,Texas League,stewart,F20962,Stewart,,0,Waco,,cf83
+1913Reach,1912,Texas League,sweet,B01108,Sweet,,0,Austin,,B44
+1913Reach,1912,Texas League,sweet,F21488,Sweet,,0,Austin,,c29
+1913Reach,1912,Texas League,taff,B01041,Taff,,0,Waco,,B35
+1913Reach,1912,Texas League,taff,F21623,Taff,,0,Waco,,p35
+1913Reach,1912,Texas League,taff,P10113,Taff,,0,Waco,,P35p
+1913Reach,1912,Texas League,tanner,B00646,Tanner,,0,Waco,,B103
+1913Reach,1912,Texas League,tanner,F20547,Tanner,,0,Waco,,ss83
+1913Reach,1912,Texas League,tanner,F20612,Tanner,,0,Waco,,lf14
+1913Reach,1912,Texas League,tate,B00182,Tate,,0,Galveston,,B10
+1913Reach,1912,Texas League,tate,F21515,Tate,,0,Galveston,,p10
+1913Reach,1912,Texas League,tate,P10432,Tate,,0,Galveston,,P10p
+1913Reach,1912,Texas League,taylor,B00904,Taylor,W.,0,Austin,,B35
+1913Reach,1912,Texas League,taylor,F21806,Taylor,W.,0,Austin,,p35
+1913Reach,1912,Texas League,taylor,P10357,Taylor,W.,0,Austin,,P35p
+1913Reach,1912,Texas League,thebo,B00680,Thebo,,1,Galveston,,
+1913Reach,1912,Texas League,thebo,B00680,Thebo,,2,Beaumont,,
+1913Reach,1912,Texas League,thebo,B00680,Thebo,,3,San Antonio,,
+1913Reach,1912,Texas League,thebo,B00680,Thebo,,T,,,B72
+1913Reach,1912,Texas League,thebo,F20784,Thebo,,1,Galveston,,lf
+1913Reach,1912,Texas League,thebo,F20784,Thebo,,2,Beaumont,,lf
+1913Reach,1912,Texas League,thebo,F20784,Thebo,,3,San Antonio,,lf
+1913Reach,1912,Texas League,thebo,F20784,Thebo,,T,,,lf26
+1913Reach,1912,Texas League,thebo,F20893,Thebo,,1,Galveston,,cf
+1913Reach,1912,Texas League,thebo,F20893,Thebo,,2,Beaumont,,cf
+1913Reach,1912,Texas League,thebo,F20893,Thebo,,3,San Antonio,,cf
+1913Reach,1912,Texas League,thebo,F20893,Thebo,,T,,,cf45
+1913Reach,1912,Texas League,thomson,B01010,Thomson,,0,Fort Worth,,B105
+1913Reach,1912,Texas League,thomson,F20131,Thomson,,0,Fort Worth,,1b17
+1913Reach,1912,Texas League,thomson,F20287,Thomson,,0,Fort Worth,,2b26
+1913Reach,1912,Texas League,thomson,F20571,Thomson,,0,Fort Worth,,ss42
+1913Reach,1912,Texas League,thomson,F21491,Thomson,,0,Fort Worth,,c10
+1913Reach,1912,Texas League,tierney,B01523,Tierney,,0,Dallas,,B26
+1913Reach,1912,Texas League,tierney,F20463,Tierney,,0,Dallas,,3b13
+1913Reach,1912,Texas League,tierney,F21286,Tierney,,0,Dallas,,rf10
+1913Reach,1912,Texas League,tullos,B00833,Tullos,,0,Dallas,,B129
+1913Reach,1912,Texas League,tullos,F20350,Tullos,,0,Dallas,,3b129
+1913Reach,1912,Texas League,wallace-sa+fw,B00475,Wallace,R.,1,San Antonio,,
+1913Reach,1912,Texas League,wallace-sa+fw,B00475,Wallace,R.,2,Fort Worth,,
+1913Reach,1912,Texas League,wallace-sa+fw,B00475,Wallace,R.,T,,,B131
+1913Reach,1912,Texas League,wallace-bea,B01203,Wallace,J.,0,Beaumont,,B14
+1913Reach,1912,Texas League,wallace-sa+fw,F20482,Wallace,R.,1,San Antonio,,ss
+1913Reach,1912,Texas League,wallace-sa+fw,F20482,Wallace,R.,2,Fort Worth,,ss
+1913Reach,1912,Texas League,wallace-sa+fw,F20482,Wallace,R.,T,,,ss131
+1913Reach,1912,Texas League,watson,B01415,Watson,,1,Beaumont,,
+1913Reach,1912,Texas League,watson,B01415,Watson,,2,Houston,,
+1913Reach,1912,Texas League,watson,B01415,Watson,,T,,,B32
+1913Reach,1912,Texas League,watson,F21840,Watson,,1,Beaumont,,p
+1913Reach,1912,Texas League,watson,F21840,Watson,,2,Houston,,p
+1913Reach,1912,Texas League,watson,F21840,Watson,,T,,,p30
+1913Reach,1912,Texas League,watson,P10231,Watson,,1,Beaumont,,p
+1913Reach,1912,Texas League,watson,P10231,Watson,,2,Houston,,p
+1913Reach,1912,Texas League,watson,P10231,Watson,,T,,,P30p
+1913Reach,1912,Texas League,wheeler,B00278,Wheeler,,0,Beaumont,,B129
+1913Reach,1912,Texas League,wheeler,F20265,Wheeler,,0,Beaumont,,2b24
+1913Reach,1912,Texas League,wheeler,F20369,Wheeler,,0,Beaumont,,3b103
+emilbb,1912,Texas League,,M91104,Wheeler,Edward,,Beaumont,,
+1913Reach,1912,Texas League,white,B01466,White,,0,Fort Worth,,B10
+1913Reach,1912,Texas League,white,F20458,White,,0,Fort Worth,,3b10
+1913Reach,1912,Texas League,whiteman,B00045,Whiteman,,0,Houston,,B144
+1913Reach,1912,Texas League,whiteman,F20699,Whiteman,,0,Houston,,lf144
+1913Reach,1912,Texas League,williams.j,B00356,Williams,J.,0,Galveston,,B139
+1913Reach,1912,Texas League,williams.h,B00760,Williams,H.,0,Galveston,,B130
+1913Reach,1912,Texas League,williams.h,F20046,Williams,H.,0,Galveston,,1b73
+1913Reach,1912,Texas League,williams.j,F20620,Williams,J.,0,Galveston,,lf137
+1913Reach,1912,Texas League,williams.h,F21381,Williams,H.,0,Galveston,,c54
+1913Reach,1912,Texas League,wilson-dal,B00726,Wilson,B.,0,Dallas,,B145
+1913Reach,1912,Texas League,wilson-gal,B01431,Wilson,T.,0,Galveston,,B25
+1913Reach,1912,Texas League,wilson-dal,F20080,Wilson,B.,0,Dallas,,1b10
+1913Reach,1912,Texas League,wilson-dal,F20700,Wilson,B.,0,Dallas,,lf121
+1913Reach,1912,Texas League,wilson-dal,F20855,Wilson,B.,0,Dallas,,cf13
+1913Reach,1912,Texas League,wilson-gal,F21324,Wilson,T.,0,Galveston,,c25
+1913Reach,1912,Texas League,witherspoon,B00491,Witherspoon,,0,Fort Worth,,B35
+1913Reach,1912,Texas League,witherspoon,F20144,Witherspoon,,0,Fort Worth,,1b12
+1913Reach,1912,Texas League,witherspoon,F20594,Witherspoon,,0,Fort Worth,,ss20
+1913Reach,1912,Texas League,wohleben,B00308,Wohleben,,0,Waco,,B140
+1913Reach,1912,Texas League,wohleben,F20072,Wohleben,,0,Waco,,1b140

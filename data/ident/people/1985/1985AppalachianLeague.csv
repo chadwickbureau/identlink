@@ -1,8 +1,8 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1985,Appalachian League,M91655,Ashford,Tucker,,Kingsport,,,ashford
-emilbb,1985,Appalachian League,M91597,Burgess,Tom,,Bristol,,,burgess
-emilbb,1985,Appalachian League,M91610,Conde,Ramon,,Wytheville,,,conde
-emilbb,1985,Appalachian League,M91607,Hacker,Rich,,Johnson City,,,hacker
-emilbb,1985,Appalachian League,M91641,Robinson,Craig,,Pulaski,,,robinson
-emilbb,1985,Appalachian League,M91629,Verdi,Mike,,Bluefield,,,verdi
-emilbb,1985,Appalachian League,M91632,Waters,Fred,,Elizabethton,,,waters
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1985,Appalachian League,ashford,M91655,Ashford,Tucker,,Kingsport,,
+emilbb,1985,Appalachian League,burgess,M91597,Burgess,Tom,,Bristol,,
+emilbb,1985,Appalachian League,conde,M91610,Conde,Ramon,,Wytheville,,
+emilbb,1985,Appalachian League,hacker,M91607,Hacker,Rich,,Johnson City,,
+emilbb,1985,Appalachian League,robinson,M91641,Robinson,Craig,,Pulaski,,
+emilbb,1985,Appalachian League,verdi,M91629,Verdi,Mike,,Bluefield,,
+emilbb,1985,Appalachian League,waters,M91632,Waters,Fred,,Elizabethton,,

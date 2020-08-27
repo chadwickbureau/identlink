@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1956,Alabama-Florida League,M92076,Brightwell,Bill,,Fort Walton Beach,,,
-emilbb,1956,Alabama-Florida League,M92092,Dixon,Walt,,Crestview,,,
-emilbb,1956,Alabama-Florida League,M92059,Goza,Wayland,,Graceville,,,
-emilbb,1956,Alabama-Florida League,M92101,Lakeman,Al,,Panama City,,,
-emilbb,1956,Alabama-Florida League,M92084,Reis,Whitey,,Dothan,,,
-emilbb,1956,Alabama-Florida League,M92068,Wilson,Nesbit,,Donalsonville,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1956,Alabama-Florida League,,M92076,Brightwell,Bill,,Fort Walton Beach,,
+emilbb,1956,Alabama-Florida League,,M92092,Dixon,Walt,,Crestview,,
+emilbb,1956,Alabama-Florida League,,M92059,Goza,Wayland,,Graceville,,
+emilbb,1956,Alabama-Florida League,,M92101,Lakeman,Al,,Panama City,,
+emilbb,1956,Alabama-Florida League,,M92084,Reis,Whitey,,Dothan,,
+emilbb,1956,Alabama-Florida League,,M92068,Wilson,Nesbit,,Donalsonville,,

@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1979,Eastern League,M90688,Demeter,Steve,,Buffalo,,,
-emilbb,1979,Eastern League,M90691,Farson,George,,Holyoke,,,
-emilbb,1979,Eastern League,M90650,Merrill,Stump,,West Haven,,,
-emilbb,1979,Eastern League,M90702,Nottle,Ed,,Waterbury,,,
-emilbb,1979,Eastern League,M90669,Snyder,Jim,,Reading,,,
-emilbb,1979,Eastern League,M90675,Torchia,Tony,,Bristol,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1979,Eastern League,,M90688,Demeter,Steve,,Buffalo,,
+emilbb,1979,Eastern League,,M90691,Farson,George,,Holyoke,,
+emilbb,1979,Eastern League,,M90650,Merrill,Stump,,West Haven,,
+emilbb,1979,Eastern League,,M90702,Nottle,Ed,,Waterbury,,
+emilbb,1979,Eastern League,,M90669,Snyder,Jim,,Reading,,
+emilbb,1979,Eastern League,,M90675,Torchia,Tony,,Bristol,,

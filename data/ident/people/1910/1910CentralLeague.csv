@@ -1,451 +1,451 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-1911Spalding,1910,Central League,B00232,Alberts,,0,Terre Haute,,B33,alberts-th
-1911Spalding,1910,Central League,B01162,Alberts,,0,Fort Wayne,,B32,alberts-fw
-1911Spalding,1910,Central League,F21084,Alberts,,0,Terre Haute,,p33,alberts-th
-1911Spalding,1910,Central League,F21319,Alberts,,0,Fort Wayne,,p32,alberts-fw
-1911Spalding,1910,Central League,P10062,Alberts,,0,Terre Haute,,P29,alberts-th
-1911Spalding,1910,Central League,P10266,Alberts,,0,Fort Wayne,,P32,alberts-fw
-1911Spalding,1910,Central League,P10464,Alberts,,0,Terre Haute,,P29,alberts-th
-1911Spalding,1910,Central League,P10665,Alberts,,0,Fort Wayne,,P32,alberts-fw
-1911Spalding,1910,Central League,B00865,Asher,,1,Terre Haute,,,asher
-1911Spalding,1910,Central League,B00865,Asher,,2,Dayton,,,asher
-1911Spalding,1910,Central League,B00865,Asher,,T,,,B47,asher
-1911Spalding,1910,Central League,F20594,Asher,,0,Dayton,,of10,asher
-1911Spalding,1910,Central League,F21370,Asher,,1,Terre Haute,,p,asher
-1911Spalding,1910,Central League,F21370,Asher,,2,Dayton,,p,asher
-1911Spalding,1910,Central League,F21370,Asher,,T,,,p38,asher
-1911Spalding,1910,Central League,P10184,Asher,,1,Terre Haute,,,asher
-1911Spalding,1910,Central League,P10184,Asher,,2,Dayton,,,asher
-1911Spalding,1910,Central League,P10184,Asher,,T,,,P38,asher
-1911Spalding,1910,Central League,P10588,Asher,,1,Terre Haute,,,asher
-1911Spalding,1910,Central League,P10588,Asher,,2,Dayton,,,asher
-1911Spalding,1910,Central League,P10588,Asher,,T,,,P38,asher
-1911Spalding,1910,Central League,B00646,Baggan,,0,Zanesville,,B93,baggan
-1911Spalding,1910,Central League,F21021,Baggan,,0,Zanesville,,of93,baggan
-1911Spalding,1910,Central League,B00469,Bailey,,0,Fort Wayne,,B96,bailey
-1911Spalding,1910,Central League,F21502,Bailey,,0,Fort Wayne,,c96,bailey
-1911Spalding,1910,Central League,B00416,Barkwell,,0,Terre Haute,,B117,barkwell
-1911Spalding,1910,Central League,F20327,Barkwell,,0,Terre Haute,,3b41,barkwell
-1911Spalding,1910,Central League,F20855,Barkwell,,0,Terre Haute,,of76,barkwell
-1911Spalding,1910,Central League,F21623,Belink,,0,Wheeling,,c17,belink
-1911Spalding,1910,Central League,B00403,Bisland,,0,Wheeling,,B61,bisland
-1911Spalding,1910,Central League,F20240,Bisland,,0,Wheeling,,2b61,bisland
-1911Spalding,1910,Central League,B00442,Blount,,0,Fort Wayne,,B134,blount
-1911Spalding,1910,Central League,F20737,Blount,,0,Fort Wayne,,of134,blount
-1911Spalding,1910,Central League,B01392,Bowen,,0,Grand Rapids,,B22,bowen
-1911Spalding,1910,Central League,F21427,Bowen,,0,Grand Rapids,,p22,bowen
-1911Spalding,1910,Central League,P10231,Bowen,,0,Grand Rapids,,P23,bowen
-1911Spalding,1910,Central League,P10633,Bowen,,0,Grand Rapids,,P23,bowen
-1911Spalding,1910,Central League,B01032,Brennan,,0,Terre Haute,,B99,brennan
-1911Spalding,1910,Central League,F21566,Brennan,,0,Terre Haute,,c99,brennan
-1911Spalding,1910,Central League,B01181,Brooks,,0,Dayton,,B19,brooks
-1911Spalding,1910,Central League,F20956,Brooks,,0,Dayton,,of19,brooks
-1911Spalding,1910,Central League,B00427,Burke,,0,Fort Wayne,,B108,burke
-1911Spalding,1910,Central League,F20388,Burke,,0,Fort Wayne,,3b108,burke
-1911Spalding,1910,Central League,B00370,Burns,,0,Wheeling,,B93,burns
-1911Spalding,1910,Central League,F20768,Burns,,0,Wheeling,,of93,burns
-1911Spalding,1910,Central League,B00614,Cady,,0,Evansville,,B111,cady
-1911Spalding,1910,Central League,F21442,Cady,,0,Evansville,,c111,cady
-1911Spalding,1910,Central League,B00434,Campbell,,0,Zanesville,,B13,campbell
-1911Spalding,1910,Central League,F20279,Campbell,,0,Zanesville,,2b13,campbell
-1911Spalding,1910,Central League,B00117,Carey,,0,South Bend,,B96,carey
-1911Spalding,1910,Central League,F20417,Carey,,0,South Bend,,3b10,carey
-1911Spalding,1910,Central League,F20919,Carey,,0,South Bend,,of86,carey
-1911Spalding,1910,Central League,B01227,Carnes,,0,Wheeling,,B52,carnes
-1911Spalding,1910,Central League,F20046,Carnes,,0,Wheeling,,1b51,carnes
-1911Spalding,1910,Central League,F20970,Centilevre,,0,Evansville,,of75,centlivre
-1911Spalding,1910,Central League,B00904,Centlivre,,0,Evansville,,B75,centlivre
-1911Spalding,1910,Central League,B01291,Clyde,,0,Dayton,,B30,clyde
-1911Spalding,1910,Central League,F21125,Clyde,,0,Dayton,,p30,clyde
-1911Spalding,1910,Central League,P10290,Clyde,,0,Dayton,,P29,clyde
-1911Spalding,1910,Central League,P10698,Clyde,,0,Dayton,,P29,clyde
-1911Spalding,1910,Central League,B00680,Coffey,,1,Grand Rapids,,,coffey
-1911Spalding,1910,Central League,B00680,Coffey,,2,South Bend,,,coffey
-1911Spalding,1910,Central League,B00680,Coffey,,T,,,B134,coffey
-1911Spalding,1910,Central League,F20661,Coffey,,1,Grand Rapids,,of,coffey
-1911Spalding,1910,Central League,F20661,Coffey,,2,South Bend,,of,coffey
-1911Spalding,1910,Central League,F20661,Coffey,,T,,,of134,coffey
-1911Spalding,1910,Central League,B01288,Compton,,0,Wheeling,,B35,compton
-1911Spalding,1910,Central League,F21264,Compton,,0,Wheeling,,p35,compton
-1911Spalding,1910,Central League,P10215,Compton,,0,Wheeling,,P34,compton
-1911Spalding,1910,Central League,P10611,Compton,,0,Wheeling,,P34,compton
-1911Spalding,1910,Central League,B00356,Connolly,,0,Zanesville,,B69,connolly
-1911Spalding,1910,Central League,F20699,Connolly,,0,Zanesville,,of24,connolly
-1911Spalding,1910,Central League,F21149,Connolly,,0,Zanesville,,p40,connolly
-1911Spalding,1910,Central League,P10202,Connolly,,0,Zanesville,,P40,connolly
-1911Spalding,1910,Central League,P10606,Connolly,,0,Zanesville,,P40,connolly
-1911Spalding,1910,Central League,B00488,Connors,,1,South Bend,,,connors
-1911Spalding,1910,Central League,B00488,Connors,,2,Evansville,,,connors
-1911Spalding,1910,Central League,B00488,Connors,,T,,,B124,connors
-1911Spalding,1910,Central League,F20080,Connors,,1,South Bend,,1b,connors
-1911Spalding,1910,Central League,F20080,Connors,,2,Evansville,,1b,connors
-1911Spalding,1910,Central League,F20080,Connors,,T,,,1b124,connors
-1911Spalding,1910,Central League,B01368,Cook,,0,Grand Rapids,,B30,cook
-1911Spalding,1910,Central League,F21241,Cook,,0,Grand Rapids,,p30,cook
-1911Spalding,1910,Central League,P10320,Cook,,0,Grand Rapids,,P30,cook
-1911Spalding,1910,Central League,P10723,Cook,,0,Grand Rapids,,P30,cook
-1911Spalding,1910,Central League,B00822,Corbitt,,0,South Bend,,B30,corbitt
-1911Spalding,1910,Central League,F21163,Corbitt,,0,South Bend,,p30,corbitt
-1911Spalding,1910,Central League,P10043,Corbitt,,0,South Bend,,P30,corbitt
-1911Spalding,1910,Central League,P10441,Corbitt,,0,South Bend,,P30,corbitt
-1911Spalding,1910,Central League,B00255,Corns,,0,Fort Wayne,,B34,corns
-1911Spalding,1910,Central League,F21286,Corns,,0,Fort Wayne,,p34,corns
-1911Spalding,1910,Central League,P10168,Corns,,0,Fort Wayne,,P29,corns
-1911Spalding,1910,Central League,P10569,Corns,,0,Fort Wayne,,P29,corns
-1911Spalding,1910,Central League,B01300,Courtney,,0,Terre Haute,,B116,courtney
-1911Spalding,1910,Central League,F20759,Courtney,,0,Terre Haute,,of116,courtney
-1911Spalding,1910,Central League,B01203,Covington,,0,Evansville,,B37,covington
-1911Spalding,1910,Central League,P10100,Covington,,0,Evansville,,P37,covington
-1911Spalding,1910,Central League,P10503,Covington,,0,Evansville,,P37,covington
-1911Spalding,1910,Central League,B00718,Craven,,1,South Bend,,,craven
-1911Spalding,1910,Central League,B00718,Craven,,2,Grand Rapids,,,craven
-1911Spalding,1910,Central League,B00718,Craven,,T,,,B104,craven
-1911Spalding,1910,Central League,F20832,Craven,,0,Grand Rapids,,of104,craven
-1911Spalding,1910,Central League,F21362,Cristal,,0,Evansville,,p29,cristal
-1911Spalding,1910,Central League,P10336,Cristal,,0,Evansville,,P29,cristal
-1911Spalding,1910,Central League,P10738,Cristal,,0,Evansville,,P29,cristal
-1911Spalding,1910,Central League,B01321,Cristall,,0,Evansville,,B31,cristal
-1911Spalding,1910,Central League,B00705,Crowder,,0,Zanesville,,B130,crowder
-1911Spalding,1910,Central League,F20496,Crowder,,0,Zanesville,,ss130,crowder
-1911Spalding,1910,Central League,B00794,Curtis,,0,Terre Haute,,B122,curtis
-1911Spalding,1910,Central League,F20673,Curtis,,0,Terre Haute,,of122,curtis
-1911Spalding,1910,Central League,B00158,DeHaven,,0,Dayton,,B40,dehaven
-1911Spalding,1910,Central League,F20612,DeHaven,,0,Dayton,,of40,dehaven
-1911Spalding,1910,Central League,B01428,Derby,,0,Terre Haute,,B10,derby
-1911Spalding,1910,Central League,F21045,Derby,,0,Terre Haute,,p10,derby
-1911Spalding,1910,Central League,P10192,Derby,,0,Terre Haute,,P10,derby
-1911Spalding,1910,Central League,P10591,Derby,,0,Terre Haute,,P10,derby
-1911Spalding,1910,Central League,B01269,Doak,,0,Wheeling,,B37,doak
-1911Spalding,1910,Central League,F21068,Doak,,0,Wheeling,,p37,doak
-1911Spalding,1910,Central League,P10357,Doak,,0,Wheeling,,P37,doak
-1911Spalding,1910,Central League,P10751,Doak,,0,Wheeling,,P37,doak
-1911Spalding,1910,Central League,B00672,Dobar,,0,Dayton,,B21,dobar
-1911Spalding,1910,Central League,F20526,Dobar,,0,Dayton,,ss21,dobar
-1911Spalding,1910,Central League,B00667,Donahue,,1,Fort Wayne,,,donahue
-1911Spalding,1910,Central League,B00667,Donahue,,2,Zanesville,,,donahue
-1911Spalding,1910,Central League,B00667,Donahue,,T,,,B126,donahue
-1911Spalding,1910,Central League,F20265,Donahue,,1,Fort Wayne,,2b,donahue
-1911Spalding,1910,Central League,F20265,Donahue,,2,Zanesville,,2b,donahue
-1911Spalding,1910,Central League,F20265,Donahue,,T,,,2b126,donahue
-1911Spalding,1910,Central League,B01313,Doty,,0,Evansville,,B18,doty
-1911Spalding,1910,Central League,F21308,Doty,,0,Evansville,,p18,doty
-1911Spalding,1910,Central League,P10385,Doty,,0,Evansville,,P18,doty
-1911Spalding,1910,Central League,P10780,Doty,,0,Evansville,,P18,doty
-1911Spalding,1910,Central League,B00335,Dugger,,0,Evansville,,B43,dugger
-1911Spalding,1910,Central League,F21293,Dugger,,0,Evansville,,p35,dugger
-1911Spalding,1910,Central League,P10113,Dugger,,0,Evansville,,P35,dugger
-1911Spalding,1910,Central League,P10516,Dugger,,0,Evansville,,P35,dugger
-1911Spalding,1910,Central League,B00101,Edmundson,,0,Wheeling,,B6,edmundson
-1911Spalding,1910,Central League,B00898,Flournoy,,0,Evansville,,B30,flournoy
-1911Spalding,1910,Central League,F20841,Flournoy,,0,Evansville,,of20,flournoy
-1911Spalding,1910,Central League,B00623,Fox,,0,Grand Rapids,,B22,fox
-1911Spalding,1910,Central League,F21037,Fox,,0,Grand Rapids,,of22,fox
-1911Spalding,1910,Central League,B01143,Foy,,1,South Bend,,,foy
-1911Spalding,1910,Central League,B01143,Foy,,2,Grand Rapids,,,foy
-1911Spalding,1910,Central League,B01143,Foy,,T,,,B29,foy
-1911Spalding,1910,Central League,F20924,Foy,,1,South Bend,,of,foy
-1911Spalding,1910,Central League,F20924,Foy,,2,Grand Rapids,,of,foy
-1911Spalding,1910,Central League,F20924,Foy,,T,,,of29,foy
-1911Spalding,1910,Central League,B00059,Gainor,,0,Fort Wayne,,B136,gainor
-1911Spalding,1910,Central League,F20067,Gainor,,0,Fort Wayne,,1b136,gainor
-1911Spalding,1910,Central League,B00286,Gilbert,,0,Zanesville,,B42,gilbert
-1911Spalding,1910,Central League,F20962,Gilbert,,0,Zanesville,,of42,gilbert
-1911Spalding,1910,Central League,B00726,Goes,,0,Terre Haute,,B72,goes
-1911Spalding,1910,Central League,F20014,Goes,,0,Terre Haute,,1b10,goes
-1911Spalding,1910,Central League,F21609,Goes,,0,Terre Haute,,c60,goes
-1911Spalding,1910,Central League,B01402,Graf,,0,Wheeling,,B18,graf
-1911Spalding,1910,Central League,F20342,Graf,,0,Wheeling,,3b18,graf
-1911Spalding,1910,Central League,B00920,Grant,,0,Evansville,,B72,grant
-1911Spalding,1910,Central League,F20254,Grant,,0,Evansville,,2b71,grant
-1911Spalding,1910,Central League,B00130,Gray,C.,0,Wheeling,,B135,gray.c
-1911Spalding,1910,Central League,B01234,Gray,W.,0,Wheeling,,B32,gray.w
-1911Spalding,1910,Central League,F20206,Gray,W.,0,Wheeling,,2b22,gray.w
-1911Spalding,1910,Central League,F20458,Gray,W.,0,Wheeling,,ss10,gray.w
-1911Spalding,1910,Central League,F20829,Gray,C.,0,Wheeling,,of135,gray.c
-1911Spalding,1910,Central League,B00319,Grefe,,0,Evansville,,B86,grefe
-1911Spalding,1910,Central League,F21469,Grefe,,0,Evansville,,c60,grefe
-1911Spalding,1910,Central League,B00771,Groeschow,,0,Terre Haute,,B139,groeschow
-1911Spalding,1910,Central League,F20463,Groeschow,,0,Terre Haute,,ss130,groeschow
-1911Spalding,1910,Central League,B00515,Grogan,,0,Dayton,,B102,grogan
-1911Spalding,1910,Central League,F20474,Grogan,,0,Dayton,,ss34,grogan
-1911Spalding,1910,Central League,F20648,Grogan,,0,Dayton,,of68,grogan
-1911Spalding,1910,Central League,B00609,Hadley,,0,Evansville,,B112,hadley
-1911Spalding,1910,Central League,F20547,Hadley,,0,Evansville,,ss112,hadley
-1911Spalding,1910,Central League,B00948,Hargrove,,0,Zanesville,,B21,hargrove
-1911Spalding,1910,Central League,F21544,Hargrove,,0,Zanesville,,c21,hargrove
-1911Spalding,1910,Central League,B01275,Hennis,,0,Terre Haute,,B33,hennis
-1911Spalding,1910,Central League,F21210,Hennis,,0,Terre Haute,,p32,hennis
-1911Spalding,1910,Central League,P10081,Hennis,,0,Terre Haute,,P32,hennis
-1911Spalding,1910,Central League,P10486,Hennis,,0,Terre Haute,,P32,hennis
-1911Spalding,1910,Central League,B00961,Herold,,0,Zanesville,,B142,herold
-1911Spalding,1910,Central League,F20375,Herold,,0,Zanesville,,3b142,herold
-1911Spalding,1910,Central League,B01415,Higgins,,0,Terre Haute,,B13,higgins
-1911Spalding,1910,Central League,F21416,Higgins,,0,Terre Haute,,p13,higgins
-1911Spalding,1910,Central League,P10407,Higgins,,0,Terre Haute,,P11,higgins
-1911Spalding,1910,Central League,P10805,Higgins,,0,Terre Haute,,P11,higgins
-1911Spalding,1910,Central League,B00343,Hillinger,,0,Zanesville,,B140,hillinger
-1911Spalding,1910,Central League,F20886,Hillinger,,0,Zanesville,,of140,hillinger
-1911Spalding,1910,Central League,B01124,Hinton,,0,Zanesville,,B27,hinton
-1911Spalding,1910,Central League,F21577,Hinton,,0,Zanesville,,c27,hinton
-1911Spalding,1910,Central League,B00278,Hogan,,0,Evansville,,B15,hogan
-1911Spalding,1910,Central League,B00747,Holmes,,1,Zanesville,,,holmes
-1911Spalding,1910,Central League,B00747,Holmes,,2,South Bend,,,holmes
-1911Spalding,1910,Central League,B00747,Holmes,,T,,,B79,holmes
-1911Spalding,1910,Central League,F21590,Holmes,,1,Zanesville,,c,holmes
-1911Spalding,1910,Central League,F21590,Holmes,,2,South Bend,,c,holmes
-1911Spalding,1910,Central League,F21590,Holmes,,T,,,c55,holmes
-1911Spalding,1910,Central League,F20807,Holt,,0,Grand Rapids,,of35,holt
-1911Spalding,1910,Central League,B01064,Humphries,,0,Wheeling,,B49,humphries
-1911Spalding,1910,Central League,F21196,Humphries,,0,Wheeling,,p40,humphries
-1911Spalding,1910,Central League,P10312,Humphries,,0,Wheeling,,P40,humphries
-1911Spalding,1910,Central League,P10714,Humphries,,0,Wheeling,,P40,humphries
-1911Spalding,1910,Central League,B01007,Jacobson,,0,Grand Rapids,,B36,jacobson
-1911Spalding,1910,Central League,F21324,Jacobson,,0,Grand Rapids,,p36,jacobson
-1911Spalding,1910,Central League,P10304,Jacobson,,0,Grand Rapids,,P36,jacobson
-1911Spalding,1910,Central League,P10709,Jacobson,,0,Grand Rapids,,P36,jacobson
-1911Spalding,1910,Central League,B00241,Jewell,,0,Wheeling,,B135,jewell
-1911Spalding,1910,Central League,F20211,Jewell,,0,Wheeling,,2b46,jewell
-1911Spalding,1910,Central League,F20560,Jewell,,0,Wheeling,,ss76,jewell
-1911Spalding,1910,Central League,B01093,Jones,,0,Zanesville,,B19,jones
-1911Spalding,1910,Central League,F21343,Jones,,0,Zanesville,,p19,jones
-1911Spalding,1910,Central League,P10244,Jones,,0,Zanesville,,P19,jones
-1911Spalding,1910,Central League,P10640,Jones,,0,Zanesville,,P19,jones
-1911Spalding,1910,Central League,F20552,Justice,,0,Fort Wayne,,ss141,justice-fw
-1911Spalding,1910,Central League,B00999,Justus,,0,Fort Wayne,,B141,justice-fw
-1911Spalding,1910,Central League,B01359,Justus,,0,Dayton,,B45,justus-day
-1911Spalding,1910,Central League,F21207,Justus,,0,Dayton,,p45,justus-day
-1911Spalding,1910,Central League,P10097,Justus,,0,Dayton,,P45,justus-day
-1911Spalding,1910,Central League,P10493,Justus,,0,Dayton,,P45,justus-day
-1911Spalding,1910,Central League,B00739,Kahl,,0,Grand Rapids,,B141,kahl
-1911Spalding,1910,Central League,F20190,Kahl,,0,Grand Rapids,,2b141,kahl
-1911Spalding,1910,Central League,B00912,Kehoe,,0,Grand Rapids,,B100,kehoe
-1911Spalding,1910,Central League,F20425,Kehoe,,0,Grand Rapids,,3b17,kehoe
-1911Spalding,1910,Central League,F20700,Kehoe,,0,Grand Rapids,,of82,kehoe
-1911Spalding,1910,Central League,B00068,Kenworthy,,0,Zanesville,,B87,kenworthy
-1911Spalding,1910,Central League,F20604,Kenworthy,,0,Zanesville,,of30,kenworthy
-1911Spalding,1910,Central League,F21117,Kenworthy,,0,Zanesville,,p47,kenworthy
-1911Spalding,1910,Central League,P10145,Kenworthy,,0,Zanesville,,P47,kenworthy
-1911Spalding,1910,Central League,P10542,Kenworthy,,0,Zanesville,,P47,kenworthy
-1911Spalding,1910,Central League,B00450,Kihm,,0,Grand Rapids,,B141,kihm
-1911Spalding,1910,Central League,F20038,Kihm,,0,Grand Rapids,,1b141,kihm
-1911Spalding,1910,Central League,B00207,Knoll,,0,Dayton,,B139,knoll
-1911Spalding,1910,Central League,F20745,Knoll,,0,Dayton,,of139,knoll
-1911Spalding,1910,Central League,B00293,Koehler,,0,South Bend,,B131,koehler
-1911Spalding,1910,Central League,F20177,Koehler,,0,South Bend,,2b131,koehler
-1911Spalding,1910,Central League,B00324,Kroy,,0,South Bend,,B141,kroy
-1911Spalding,1910,Central League,F20721,Kroy,,0,South Bend,,of141,kroy
-1911Spalding,1910,Central League,B00752,LaVelle,,0,Evansville,,B100,lavelle
-1911Spalding,1910,Central League,F20776,LaVelle,,0,Evansville,,of100,lavelle
-1911Spalding,1910,Central League,F21174,Larsen,,0,Grand Rapids,,p33,larsen
-1911Spalding,1910,Central League,P10289,Larsen,,0,Grand Rapids,,P33,larsen
-1911Spalding,1910,Central League,P10687,Larsen,,0,Grand Rapids,,P33,larsen
-1911Spalding,1910,Central League,B01345,Larson,,0,Grand Rapids,,B33,larsen
-1911Spalding,1910,Central League,B00013,Le Jeune,,0,Evansville,,B128,lejeune
-1911Spalding,1910,Central League,F20131,Lejeune,,0,Evansville,,1b84,lejeune
-1911Spalding,1910,Central League,F20997,Lejeune,,0,Evansville,,of44,lejeune
-1911Spalding,1910,Central League,B00045,Lemon,,0,Fort Wayne,,B28,lemon
-1911Spalding,1910,Central League,F20864,Lemon,,0,Fort Wayne,,of15,lemon
-1911Spalding,1910,Central League,F21475,Lemon,,0,Fort Wayne,,c13,lemon
-1911Spalding,1910,Central League,F21229,Lindsay,,0,South Bend,,p38,lindsay
-1911Spalding,1910,Central League,P10024,Lindsay,,0,South Bend,,P38,lindsay
-1911Spalding,1910,Central League,P10429,Lindsay,,0,South Bend,,P38,lindsay
-1911Spalding,1910,Central League,B01135,Lindsey,,0,South Bend,,B38,lindsay
-1911Spalding,1910,Central League,B00528,Maisel,,0,Wheeling,,B62,maisel
-1911Spalding,1910,Central League,F20401,Maisel,,0,Wheeling,,3b62,maisel
-1911Spalding,1910,Central League,B00381,Manda,,1,Fort Wayne,,,manda
-1911Spalding,1910,Central League,B00381,Manda,,2,Zanesville,,,manda
-1911Spalding,1910,Central League,B00381,Manda,,T,,,B114,manda
-1911Spalding,1910,Central League,F20222,Manda,,1,Fort Wayne,,2b,manda
-1911Spalding,1910,Central League,F20222,Manda,,2,Zanesville,,2b,manda
-1911Spalding,1910,Central League,F20222,Manda,,T,,,2b101,manda
-1911Spalding,1910,Central League,F20792,Manda,,1,Zanesville,,of,manda
-1911Spalding,1910,Central League,F20792,Manda,,2,Fort Wayne,,of,manda
-1911Spalding,1910,Central League,F20792,Manda,,T,,,of12,manda
-1911Spalding,1910,Central League,B00182,Martin,,0,Dayton,,B89,martin
-1911Spalding,1910,Central League,B01337,Martin,,1,Grand Rapids,,,martin
-1911Spalding,1910,Central League,B01337,Martin,,2,South Bend,,,martin
-1911Spalding,1910,Central League,B01337,Martin,,T,,,B33,martin
-1911Spalding,1910,Central League,F21092,Martin,,0,South Bend,,p33,martin
-1911Spalding,1910,Central League,F21528,Martin,,0,Dayton,,c89,martin
-1911Spalding,1910,Central League,P10056,Martin,,1,Grand Rapids,,,martin
-1911Spalding,1910,Central League,P10056,Martin,,2,South Bend,,,martin
-1911Spalding,1910,Central League,P10056,Martin,,T,,,P33,martin
-1911Spalding,1910,Central League,P10455,Martin,,1,Grand Rapids,,,martin
-1911Spalding,1910,Central League,P10455,Martin,,2,South Bend,,,martin
-1911Spalding,1910,Central League,P10455,Martin,,T,,,P33,martin
-1911Spalding,1910,Central League,B00783,McBrair,,0,Evansville,,B78,mcbrair
-1911Spalding,1910,Central League,F20518,McBrair,,0,Evansville,,ss54,mcbrair
-1911Spalding,1910,Central League,F20287,McBriar,,0,Evansville,,2b24,mcbrair
-1911Spalding,1910,Central League,B00475,McCarthy,,0,South Bend,,B141,mccarthy
-1911Spalding,1910,Central League,F20539,McCarty,,0,South Bend,,ss141,mccarthy
-1911Spalding,1910,Central League,B00531,McDermott,,0,Fort Wayne,,B76,mcdermott
-1911Spalding,1910,Central League,F20128,McDermott,,0,Fort Wayne,,1b18,mcdermott
-1911Spalding,1910,Central League,F20303,McDermott,,0,Fort Wayne,,3b44,mcdermott
-1911Spalding,1910,Central League,F21000,McDermott,,0,Fort Wayne,,of14,mcdermott
-1911Spalding,1910,Central League,B00229,McDonald,,0,Terre Haute,,B116,mcdonald
-1911Spalding,1910,Central League,F20334,McDonald,,0,Terre Haute,,3b102,mcdonald
-1911Spalding,1910,Central League,F20935,McDonald,,0,Terre Haute,,of14,mcdonald
-1911Spalding,1910,Central League,B00577,McNeece,,1,Grand Rapids,,,mcneece
-1911Spalding,1910,Central League,B00577,McNeece,,2,Zanesville,,,mcneece
-1911Spalding,1910,Central League,B00577,McNeece,,3,Terre Haute,,,mcneece
-1911Spalding,1910,Central League,B00577,McNeece,,T,,,B88,mcneece
-1911Spalding,1910,Central League,F20784,McNiece,,1,Grand Rapids,,of,mcneece
-1911Spalding,1910,Central League,F20784,McNiece,,2,Zanesville,,of,mcneece
-1911Spalding,1910,Central League,F20784,McNiece,,3,Terre Haute,,of,mcneece
-1911Spalding,1910,Central League,F20784,McNiece,,T,,,of88,mcneece
-1911Spalding,1910,Central League,B01010,Miller,,0,Fort Wayne,,B39,miller
-1911Spalding,1910,Central League,F21403,Miller,,0,Fort Wayne,,p39,miller
-1911Spalding,1910,Central League,P10035,Miller,,0,Fort Wayne,,P39,miller
-1911Spalding,1910,Central League,P10432,Miller,,0,Fort Wayne,,P39,miller
-1911Spalding,1910,Central League,B01041,Millerick,,0,Grand Rapids,,B66,millerick
-1911Spalding,1910,Central League,F21553,Millerick,,0,Grand Rapids,,c66,millerick
-1911Spalding,1910,Central League,B00589,Moffitt,,1,South Bend,,,moffitt
-1911Spalding,1910,Central League,B00589,Moffitt,,2,Grand Rapids,,,moffitt
-1911Spalding,1910,Central League,B00589,Moffitt,,T,,,B19,moffitt
-1911Spalding,1910,Central League,F21158,Moffitt,,1,South Bend,,p,moffitt
-1911Spalding,1910,Central League,F21158,Moffitt,,2,Grand Rapids,,p,moffitt
-1911Spalding,1910,Central League,F21158,Moffitt,,T,,,p19,moffitt
-1911Spalding,1910,Central League,P10361,Moffitt,,1,South Bend,,,moffitt
-1911Spalding,1910,Central League,P10361,Moffitt,,2,Grand Rapids,,,moffitt
-1911Spalding,1910,Central League,P10361,Moffitt,,T,,,P19,moffitt
-1911Spalding,1910,Central League,P10767,Moffitt,,1,South Bend,,,moffitt
-1911Spalding,1910,Central League,P10767,Moffitt,,2,Grand Rapids,,,moffitt
-1911Spalding,1910,Central League,P10767,Moffitt,,T,,,P19,moffitt
-1911Spalding,1910,Central League,B00362,Montgomery,,0,Zanesville,,B81,montgomery
-1911Spalding,1910,Central League,F20943,Montgomery,,0,Zanesville,,of81,montgomery
-1911Spalding,1910,Central League,B00210,Moseley,,0,Wheeling,,B8,moseley
-1911Spalding,1910,Central League,F21059,Moseley,,0,Wheeling,,p10,moseley
-1911Spalding,1910,Central League,P10399,Moseley,,0,Wheeling,,P10,moseley
-1911Spalding,1910,Central League,P10795,Moseley,,0,Wheeling,,P10,moseley
-1911Spalding,1910,Central League,B00491,Murray,,0,Terre Haute,,B137,murray
-1911Spalding,1910,Central League,F20153,Murray,,0,Terre Haute,,2b137,murray
-1911Spalding,1910,Central League,B01170,Myers,,0,South Bend,,B29,myers
-1911Spalding,1910,Central League,F21232,Myers,,0,South Bend,,p29,myers
-1911Spalding,1910,Central League,P10176,Myers,,0,South Bend,,P30,myers
-1911Spalding,1910,Central League,P10575,Myers,,1,Grand Rapids,,,myers
-1911Spalding,1910,Central League,P10575,Myers,,2,South Bend,,,myers
-1911Spalding,1910,Central League,P10575,Myers,,T,,,P30,myers
-1911Spalding,1910,Central League,B01108,Nalley,,0,Dayton,,B32,nalley
-1911Spalding,1910,Central League,F20583,Nalley,,0,Dayton,,of32,nalley
-1911Spalding,1910,Central League,B00566,Nee,,0,Dayton,,B129,nee
-1911Spalding,1910,Central League,F20233,Nee,,0,Dayton,,2b129,nee
-1911Spalding,1910,Central League,B00957,Neuschafer,,0,Dayton,,B30,neuschafer
-1911Spalding,1910,Central League,F21356,Neuschafer,,0,Dayton,,p30,neuschafer
-1911Spalding,1910,Central League,P10228,Neuschafer,,0,Dayton,,P30,neuschafer
-1911Spalding,1910,Central League,P10622,Neuschafer,,0,Dayton,,P30,neuschafer
-1911Spalding,1910,Central League,B01197,Nye,,0,Wheeling,,B31,nye
-1911Spalding,1910,Central League,F20505,Nye,,0,Wheeling,,ss31,nye
-1911Spalding,1910,Central League,B00076,O'Brien,,0,Zanesville,,B107,obrien-zan
-1911Spalding,1910,Central League,B01376,O'Brien,,0,Dayton,,B31,obrien-day
-1911Spalding,1910,Central League,F20095,O'Brien,,0,Zanesville,,1b23,obrien-zan
-1911Spalding,1910,Central League,F21515,O'Brien,,0,Dayton,,c33,obrien-day
-1911Spalding,1910,Central League,F21589,O'Brien,,0,Zanesville,,c84,obrien-zan
-1911Spalding,1910,Central League,B00174,Patterson,,0,Fort Wayne,,B56,patterson
-1911Spalding,1910,Central League,B00544,Pendry,,0,Dayton,,B17,pendry
-1911Spalding,1910,Central League,F20430,Pendry,,0,Dayton,,3b17,pendry
-1911Spalding,1910,Central League,B00502,Pfeffer,,0,Fort Wayne,,B33,pfeffer
-1911Spalding,1910,Central League,F21101,Pfeffer,,0,Fort Wayne,,p33,pfeffer
-1911Spalding,1910,Central League,P10277,Pfeffer,,0,Fort Wayne,,P33,pfeffer
-1911Spalding,1910,Central League,P10679,Pfeffer,,0,Fort Wayne,,P33,pfeffer
-1911Spalding,1910,Central League,B01384,Pickett,,0,Terre Haute,,B12,pickett
-1911Spalding,1910,Central League,F21278,Pickett,,0,Terre Haute,,p12,pickett
-1911Spalding,1910,Central League,P10348,Pickett,,0,Terre Haute,,P11,pickett
-1911Spalding,1910,Central League,P10746,Pickett,,0,Terre Haute,,P11,pickett
-1911Spalding,1910,Central League,B01086,Prysock,,0,Zanesville,,B35,prysock
-1911Spalding,1910,Central League,F20166,Prysock,,0,Zanesville,,2b28,prysock
-1911Spalding,1910,Central League,B00985,Queisser,,0,Fort Wayne,,B38,queisser
-1911Spalding,1910,Central League,F21614,Queisser,,0,Fort Wayne,,c38,queisser
-1911Spalding,1910,Central League,B00840,Ragon,,0,Dayton,,B108,ragon
-1911Spalding,1910,Central League,F20369,Ragon,,0,Dayton,,3b108,ragon
-1911Spalding,1910,Central League,B00887,Raidey,,0,Grand Rapids,,B138,raidey
-1911Spalding,1910,Central League,F20482,Raidey,,0,Grand Rapids,,ss138,raidey
-1911Spalding,1910,Central League,B00833,Redden,,0,Fort Wayne,,B40,redden
-1911Spalding,1910,Central League,F20620,Redden,,0,Fort Wayne,,of40,redden
-1911Spalding,1910,Central League,B00854,Robertson,,0,Fort Wayne,,B28,robertson
-1911Spalding,1910,Central League,F21381,Robertson,,0,Fort Wayne,,p28,robertson
-1911Spalding,1910,Central League,P10019,Robertson,,0,Fort Wayne,,P28,robertson
-1911Spalding,1910,Central League,P10410,Robertson,,0,Fort Wayne,,P24,robertson
-1911Spalding,1910,Central League,B01119,Sager,,0,Evansville,,B137,sager
-1911Spalding,1910,Central League,F20391,Sager,,0,Evansville,,3b137,sager
-1911Spalding,1910,Central League,B01055,Sample,,1,Zanesville,,,sample
-1911Spalding,1910,Central League,B01055,Sample,,2,Terre Haute,,,sample
-1911Spalding,1910,Central League,B01055,Sample,,3,Dayton,,,sample
-1911Spalding,1910,Central League,B01055,Sample,,T,,,B36,sample
-1911Spalding,1910,Central League,F21531,Sample,,0,Dayton,,c28,sample
-1911Spalding,1910,Central League,B00760,Schmick,,1,Zanesville,,,schmick
-1911Spalding,1910,Central League,B00760,Schmick,,2,South Bend,,,schmick
-1911Spalding,1910,Central League,B00760,Schmick,,T,,,B89,schmick
-1911Spalding,1910,Central League,F20115,Schmick,,0,South Bend,,1b76,schmick
-1911Spalding,1910,Central League,F20981,Schmick,,1,Zanesville,,of,schmick
-1911Spalding,1910,Central League,F20981,Schmick,,2,South Bend,,of,schmick
-1911Spalding,1910,Central League,F20981,Schmick,,T,,,of13,schmick
-1911Spalding,1910,Central League,F20893,Schotten,,0,Wheeling,,of79,shotten
-1911Spalding,1910,Central League,B00651,Sentz,,0,Wheeling,,B48,sentz
-1911Spalding,1910,Central League,F20685,Sentz,,0,Wheeling,,of48,sentz
-1911Spalding,1910,Central League,B00806,Sheehan,,0,Grand Rapids,,B93,sheehan
-1911Spalding,1910,Central League,F20298,Sheehan,,0,Grand Rapids,,3b93,sheehan
-1911Spalding,1910,Central League,B00553,Shotten,,0,Wheeling,,B79,shotten
-1911Spalding,1910,Central League,B00811,Smith,,0,Wheeling,,B16,smith-whe
-1911Spalding,1910,Central League,B01156,Smith,,0,South Bend,,B37,smith-sb
-1911Spalding,1910,Central League,F20144,Smith,,0,Wheeling,,2b16,smith-whe
-1911Spalding,1910,Central League,F21076,Smith,,0,South Bend,,p37,smith-sb
-1911Spalding,1910,Central League,P10070,Smith,,0,South Bend,,P37,smith-sb
-1911Spalding,1910,Central League,P10478,Smith,,0,South Bend,,P37,smith-sb
-1911Spalding,1910,Central League,B00196,Snyder,,0,Evansville,,B137,snyder
-1911Spalding,1910,Central League,F20636,Snyder,,0,Evansville,,of137,snyder
-1911Spalding,1910,Central League,B00092,Spencer,,0,Dayton,,B108,spencer
-1911Spalding,1910,Central League,F20878,Spencer,,0,Dayton,,of108,spencer
-1911Spalding,1910,Central League,B00638,Stark,,0,Dayton,,B105,stark
-1911Spalding,1910,Central League,F20571,Stark,,0,Dayton,,ss105,stark
-1911Spalding,1910,Central League,B00308,Sterzer,,0,Evansville,,B36,sterzer
-1911Spalding,1910,Central League,F21130,Sterzer,,0,Evansville,,p34,sterzer
-1911Spalding,1910,Central League,P10121,Sterzer,,0,Evansville,,P34,sterzer
-1911Spalding,1910,Central League,P10527,Sterzer,,0,Evansville,,P34,sterzer
-1911Spalding,1910,Central League,B01078,Stratton,,0,Wheeling,,B119,stratton
-1911Spalding,1910,Central League,F21434,Stratton,,0,Wheeling,,c119,stratton
-1911Spalding,1910,Central League,B00125,Summerlot,,0,Terre Haute,,B121,summerlot
-1911Spalding,1910,Central League,F20051,Summerlot,,0,Terre Haute,,1b121,summerlot
-1911Spalding,1910,Central League,B01242,Summers,,0,Terre Haute,,B40,summers
-1911Spalding,1910,Central League,F21397,Summers,,0,Terre Haute,,p40,summers
-1911Spalding,1910,Central League,P10253,Summers,,0,Terre Haute,,P36,summers
-1911Spalding,1910,Central League,P10654,Summers,,0,Terre Haute,,P36,summers
-1911Spalding,1910,Central League,B00695,Swartling,,0,Zanesville,,B113,swartling
-1911Spalding,1910,Central League,F20023,Swartling,,0,Zanesville,,1b113,swartling
-1911Spalding,1910,Central League,B00149,Sykes,,0,Dayton,,B140,sykes
-1911Spalding,1910,Central League,F20072,Sykes,,0,Dayton,,1b140,sykes
-1911Spalding,1910,Central League,B00973,Tarleton,,0,Wheeling,,B78,tarleton
-1911Spalding,1910,Central League,F20102,Tarleton,,0,Wheeling,,1b78,tarleton
-1911Spalding,1910,Central League,B00879,Tate,,0,Wheeling,,B45,tate
-1911Spalding,1910,Central League,B00936,Tieman,,0,Grand Rapids,,B103,tieman
-1911Spalding,1910,Central League,F21013,Tieman,,0,Grand Rapids,,of17,tieman
-1911Spalding,1910,Central League,F21491,Tieman,,0,Grand Rapids,,c86,tieman
-1911Spalding,1910,Central League,B01431,Veasey,,0,Zanesville,,B30,veasey
-1911Spalding,1910,Central League,F21335,Veasey,,0,Zanesville,,p30,veasey
-1911Spalding,1910,Central League,P10373,Veasey,,0,Zanesville,,P30,veasey
-1911Spalding,1910,Central League,P10772,Veasey,,0,Zanesville,,P30,veasey
-1911Spalding,1910,Central League,B00590,Wacker,,0,Dayton,,B31,wacker
-1911Spalding,1910,Central League,F21182,Wacker,,0,Dayton,,p31,wacker
-1911Spalding,1910,Central League,P10137,Wacker,,0,Dayton,,P28,wacker
-1911Spalding,1910,Central League,P10534,Wacker,,0,Dayton,,P28,wacker
-1911Spalding,1910,Central League,B01029,Watson,,0,South Bend,,B22,watson
-1911Spalding,1910,Central League,F21450,Watson,,0,South Bend,,c22,watson
-1911Spalding,1910,Central League,B01216,Webb,,0,Grand Rapids,,B10,webb
-1911Spalding,1910,Central League,F21255,Webb,,0,Grand Rapids,,p10,webb
-1911Spalding,1910,Central League,P10159,Webb,,0,Grand Rapids,,P10,webb
-1911Spalding,1910,Central League,P10550,Webb,,0,Grand Rapids,,P10,webb
-1911Spalding,1910,Central League,B00037,Welchonce,,0,South Bend,,B125,welchonce
-1911Spalding,1910,Central League,F20810,Welchonce,,0,South Bend,,of125,welchonce
-1911Spalding,1910,Central League,B00163,Wells,,0,South Bend,,B106,wells
-1911Spalding,1910,Central League,F20908,Wells,,0,South Bend,,of14,wells
-1911Spalding,1910,Central League,F21488,Wells,,0,South Bend,,c92,wells
-1911Spalding,1910,Central League,B00397,Wetzel,,0,Grand Rapids,,B37,wetzel
-1911Spalding,1910,Central League,F20449,Wetzel,,0,Grand Rapids,,3b37,wetzel
-1911Spalding,1910,Central League,B00021,Wheeler,,0,Terre Haute,,B59,wheeler-th
-1911Spalding,1910,Central League,B00264,Wheeler,,0,South Bend,,B141,wheeler-sb
-1911Spalding,1910,Central League,F20189,Wheeler,,0,South Bend,,2b12,wheeler-sb
-1911Spalding,1910,Central League,F20316,Wheeler,,0,South Bend,,3b129,wheeler-sb
-1911Spalding,1910,Central League,F20657,Wheeler,,0,Terre Haute,,of59,wheeler-th
-1911Spalding,1910,Central League,B01250,Woodruff,,0,Wheeling,,B29,woodruff
-1911Spalding,1910,Central League,F20350,Woodruff,,0,Wheeling,,3b29,woodruff
-1911Spalding,1910,Central League,B00084,Young,,0,Fort Wayne,,B140,young
-1911Spalding,1910,Central League,F20713,Young,,0,Fort Wayne,,of140,young
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+1911Spalding,1910,Central League,alberts-th,B00232,Alberts,,0,Terre Haute,,B33
+1911Spalding,1910,Central League,alberts-fw,B01162,Alberts,,0,Fort Wayne,,B32
+1911Spalding,1910,Central League,alberts-th,F21084,Alberts,,0,Terre Haute,,p33
+1911Spalding,1910,Central League,alberts-fw,F21319,Alberts,,0,Fort Wayne,,p32
+1911Spalding,1910,Central League,alberts-th,P10062,Alberts,,0,Terre Haute,,P29
+1911Spalding,1910,Central League,alberts-fw,P10266,Alberts,,0,Fort Wayne,,P32
+1911Spalding,1910,Central League,alberts-th,P10464,Alberts,,0,Terre Haute,,P29
+1911Spalding,1910,Central League,alberts-fw,P10665,Alberts,,0,Fort Wayne,,P32
+1911Spalding,1910,Central League,asher,B00865,Asher,,1,Terre Haute,,
+1911Spalding,1910,Central League,asher,B00865,Asher,,2,Dayton,,
+1911Spalding,1910,Central League,asher,B00865,Asher,,T,,,B47
+1911Spalding,1910,Central League,asher,F20594,Asher,,0,Dayton,,of10
+1911Spalding,1910,Central League,asher,F21370,Asher,,1,Terre Haute,,p
+1911Spalding,1910,Central League,asher,F21370,Asher,,2,Dayton,,p
+1911Spalding,1910,Central League,asher,F21370,Asher,,T,,,p38
+1911Spalding,1910,Central League,asher,P10184,Asher,,1,Terre Haute,,
+1911Spalding,1910,Central League,asher,P10184,Asher,,2,Dayton,,
+1911Spalding,1910,Central League,asher,P10184,Asher,,T,,,P38
+1911Spalding,1910,Central League,asher,P10588,Asher,,1,Terre Haute,,
+1911Spalding,1910,Central League,asher,P10588,Asher,,2,Dayton,,
+1911Spalding,1910,Central League,asher,P10588,Asher,,T,,,P38
+1911Spalding,1910,Central League,baggan,B00646,Baggan,,0,Zanesville,,B93
+1911Spalding,1910,Central League,baggan,F21021,Baggan,,0,Zanesville,,of93
+1911Spalding,1910,Central League,bailey,B00469,Bailey,,0,Fort Wayne,,B96
+1911Spalding,1910,Central League,bailey,F21502,Bailey,,0,Fort Wayne,,c96
+1911Spalding,1910,Central League,barkwell,B00416,Barkwell,,0,Terre Haute,,B117
+1911Spalding,1910,Central League,barkwell,F20327,Barkwell,,0,Terre Haute,,3b41
+1911Spalding,1910,Central League,barkwell,F20855,Barkwell,,0,Terre Haute,,of76
+1911Spalding,1910,Central League,belink,F21623,Belink,,0,Wheeling,,c17
+1911Spalding,1910,Central League,bisland,B00403,Bisland,,0,Wheeling,,B61
+1911Spalding,1910,Central League,bisland,F20240,Bisland,,0,Wheeling,,2b61
+1911Spalding,1910,Central League,blount,B00442,Blount,,0,Fort Wayne,,B134
+1911Spalding,1910,Central League,blount,F20737,Blount,,0,Fort Wayne,,of134
+1911Spalding,1910,Central League,bowen,B01392,Bowen,,0,Grand Rapids,,B22
+1911Spalding,1910,Central League,bowen,F21427,Bowen,,0,Grand Rapids,,p22
+1911Spalding,1910,Central League,bowen,P10231,Bowen,,0,Grand Rapids,,P23
+1911Spalding,1910,Central League,bowen,P10633,Bowen,,0,Grand Rapids,,P23
+1911Spalding,1910,Central League,brennan,B01032,Brennan,,0,Terre Haute,,B99
+1911Spalding,1910,Central League,brennan,F21566,Brennan,,0,Terre Haute,,c99
+1911Spalding,1910,Central League,brooks,B01181,Brooks,,0,Dayton,,B19
+1911Spalding,1910,Central League,brooks,F20956,Brooks,,0,Dayton,,of19
+1911Spalding,1910,Central League,burke,B00427,Burke,,0,Fort Wayne,,B108
+1911Spalding,1910,Central League,burke,F20388,Burke,,0,Fort Wayne,,3b108
+1911Spalding,1910,Central League,burns,B00370,Burns,,0,Wheeling,,B93
+1911Spalding,1910,Central League,burns,F20768,Burns,,0,Wheeling,,of93
+1911Spalding,1910,Central League,cady,B00614,Cady,,0,Evansville,,B111
+1911Spalding,1910,Central League,cady,F21442,Cady,,0,Evansville,,c111
+1911Spalding,1910,Central League,campbell,B00434,Campbell,,0,Zanesville,,B13
+1911Spalding,1910,Central League,campbell,F20279,Campbell,,0,Zanesville,,2b13
+1911Spalding,1910,Central League,carey,B00117,Carey,,0,South Bend,,B96
+1911Spalding,1910,Central League,carey,F20417,Carey,,0,South Bend,,3b10
+1911Spalding,1910,Central League,carey,F20919,Carey,,0,South Bend,,of86
+1911Spalding,1910,Central League,carnes,B01227,Carnes,,0,Wheeling,,B52
+1911Spalding,1910,Central League,carnes,F20046,Carnes,,0,Wheeling,,1b51
+1911Spalding,1910,Central League,centlivre,F20970,Centilevre,,0,Evansville,,of75
+1911Spalding,1910,Central League,centlivre,B00904,Centlivre,,0,Evansville,,B75
+1911Spalding,1910,Central League,clyde,B01291,Clyde,,0,Dayton,,B30
+1911Spalding,1910,Central League,clyde,F21125,Clyde,,0,Dayton,,p30
+1911Spalding,1910,Central League,clyde,P10290,Clyde,,0,Dayton,,P29
+1911Spalding,1910,Central League,clyde,P10698,Clyde,,0,Dayton,,P29
+1911Spalding,1910,Central League,coffey,B00680,Coffey,,1,Grand Rapids,,
+1911Spalding,1910,Central League,coffey,B00680,Coffey,,2,South Bend,,
+1911Spalding,1910,Central League,coffey,B00680,Coffey,,T,,,B134
+1911Spalding,1910,Central League,coffey,F20661,Coffey,,1,Grand Rapids,,of
+1911Spalding,1910,Central League,coffey,F20661,Coffey,,2,South Bend,,of
+1911Spalding,1910,Central League,coffey,F20661,Coffey,,T,,,of134
+1911Spalding,1910,Central League,compton,B01288,Compton,,0,Wheeling,,B35
+1911Spalding,1910,Central League,compton,F21264,Compton,,0,Wheeling,,p35
+1911Spalding,1910,Central League,compton,P10215,Compton,,0,Wheeling,,P34
+1911Spalding,1910,Central League,compton,P10611,Compton,,0,Wheeling,,P34
+1911Spalding,1910,Central League,connolly,B00356,Connolly,,0,Zanesville,,B69
+1911Spalding,1910,Central League,connolly,F20699,Connolly,,0,Zanesville,,of24
+1911Spalding,1910,Central League,connolly,F21149,Connolly,,0,Zanesville,,p40
+1911Spalding,1910,Central League,connolly,P10202,Connolly,,0,Zanesville,,P40
+1911Spalding,1910,Central League,connolly,P10606,Connolly,,0,Zanesville,,P40
+1911Spalding,1910,Central League,connors,B00488,Connors,,1,South Bend,,
+1911Spalding,1910,Central League,connors,B00488,Connors,,2,Evansville,,
+1911Spalding,1910,Central League,connors,B00488,Connors,,T,,,B124
+1911Spalding,1910,Central League,connors,F20080,Connors,,1,South Bend,,1b
+1911Spalding,1910,Central League,connors,F20080,Connors,,2,Evansville,,1b
+1911Spalding,1910,Central League,connors,F20080,Connors,,T,,,1b124
+1911Spalding,1910,Central League,cook,B01368,Cook,,0,Grand Rapids,,B30
+1911Spalding,1910,Central League,cook,F21241,Cook,,0,Grand Rapids,,p30
+1911Spalding,1910,Central League,cook,P10320,Cook,,0,Grand Rapids,,P30
+1911Spalding,1910,Central League,cook,P10723,Cook,,0,Grand Rapids,,P30
+1911Spalding,1910,Central League,corbitt,B00822,Corbitt,,0,South Bend,,B30
+1911Spalding,1910,Central League,corbitt,F21163,Corbitt,,0,South Bend,,p30
+1911Spalding,1910,Central League,corbitt,P10043,Corbitt,,0,South Bend,,P30
+1911Spalding,1910,Central League,corbitt,P10441,Corbitt,,0,South Bend,,P30
+1911Spalding,1910,Central League,corns,B00255,Corns,,0,Fort Wayne,,B34
+1911Spalding,1910,Central League,corns,F21286,Corns,,0,Fort Wayne,,p34
+1911Spalding,1910,Central League,corns,P10168,Corns,,0,Fort Wayne,,P29
+1911Spalding,1910,Central League,corns,P10569,Corns,,0,Fort Wayne,,P29
+1911Spalding,1910,Central League,courtney,B01300,Courtney,,0,Terre Haute,,B116
+1911Spalding,1910,Central League,courtney,F20759,Courtney,,0,Terre Haute,,of116
+1911Spalding,1910,Central League,covington,B01203,Covington,,0,Evansville,,B37
+1911Spalding,1910,Central League,covington,P10100,Covington,,0,Evansville,,P37
+1911Spalding,1910,Central League,covington,P10503,Covington,,0,Evansville,,P37
+1911Spalding,1910,Central League,craven,B00718,Craven,,1,South Bend,,
+1911Spalding,1910,Central League,craven,B00718,Craven,,2,Grand Rapids,,
+1911Spalding,1910,Central League,craven,B00718,Craven,,T,,,B104
+1911Spalding,1910,Central League,craven,F20832,Craven,,0,Grand Rapids,,of104
+1911Spalding,1910,Central League,cristal,F21362,Cristal,,0,Evansville,,p29
+1911Spalding,1910,Central League,cristal,P10336,Cristal,,0,Evansville,,P29
+1911Spalding,1910,Central League,cristal,P10738,Cristal,,0,Evansville,,P29
+1911Spalding,1910,Central League,cristal,B01321,Cristall,,0,Evansville,,B31
+1911Spalding,1910,Central League,crowder,B00705,Crowder,,0,Zanesville,,B130
+1911Spalding,1910,Central League,crowder,F20496,Crowder,,0,Zanesville,,ss130
+1911Spalding,1910,Central League,curtis,B00794,Curtis,,0,Terre Haute,,B122
+1911Spalding,1910,Central League,curtis,F20673,Curtis,,0,Terre Haute,,of122
+1911Spalding,1910,Central League,dehaven,B00158,DeHaven,,0,Dayton,,B40
+1911Spalding,1910,Central League,dehaven,F20612,DeHaven,,0,Dayton,,of40
+1911Spalding,1910,Central League,derby,B01428,Derby,,0,Terre Haute,,B10
+1911Spalding,1910,Central League,derby,F21045,Derby,,0,Terre Haute,,p10
+1911Spalding,1910,Central League,derby,P10192,Derby,,0,Terre Haute,,P10
+1911Spalding,1910,Central League,derby,P10591,Derby,,0,Terre Haute,,P10
+1911Spalding,1910,Central League,doak,B01269,Doak,,0,Wheeling,,B37
+1911Spalding,1910,Central League,doak,F21068,Doak,,0,Wheeling,,p37
+1911Spalding,1910,Central League,doak,P10357,Doak,,0,Wheeling,,P37
+1911Spalding,1910,Central League,doak,P10751,Doak,,0,Wheeling,,P37
+1911Spalding,1910,Central League,dobar,B00672,Dobar,,0,Dayton,,B21
+1911Spalding,1910,Central League,dobar,F20526,Dobar,,0,Dayton,,ss21
+1911Spalding,1910,Central League,donahue,B00667,Donahue,,1,Fort Wayne,,
+1911Spalding,1910,Central League,donahue,B00667,Donahue,,2,Zanesville,,
+1911Spalding,1910,Central League,donahue,B00667,Donahue,,T,,,B126
+1911Spalding,1910,Central League,donahue,F20265,Donahue,,1,Fort Wayne,,2b
+1911Spalding,1910,Central League,donahue,F20265,Donahue,,2,Zanesville,,2b
+1911Spalding,1910,Central League,donahue,F20265,Donahue,,T,,,2b126
+1911Spalding,1910,Central League,doty,B01313,Doty,,0,Evansville,,B18
+1911Spalding,1910,Central League,doty,F21308,Doty,,0,Evansville,,p18
+1911Spalding,1910,Central League,doty,P10385,Doty,,0,Evansville,,P18
+1911Spalding,1910,Central League,doty,P10780,Doty,,0,Evansville,,P18
+1911Spalding,1910,Central League,dugger,B00335,Dugger,,0,Evansville,,B43
+1911Spalding,1910,Central League,dugger,F21293,Dugger,,0,Evansville,,p35
+1911Spalding,1910,Central League,dugger,P10113,Dugger,,0,Evansville,,P35
+1911Spalding,1910,Central League,dugger,P10516,Dugger,,0,Evansville,,P35
+1911Spalding,1910,Central League,edmundson,B00101,Edmundson,,0,Wheeling,,B6
+1911Spalding,1910,Central League,flournoy,B00898,Flournoy,,0,Evansville,,B30
+1911Spalding,1910,Central League,flournoy,F20841,Flournoy,,0,Evansville,,of20
+1911Spalding,1910,Central League,fox,B00623,Fox,,0,Grand Rapids,,B22
+1911Spalding,1910,Central League,fox,F21037,Fox,,0,Grand Rapids,,of22
+1911Spalding,1910,Central League,foy,B01143,Foy,,1,South Bend,,
+1911Spalding,1910,Central League,foy,B01143,Foy,,2,Grand Rapids,,
+1911Spalding,1910,Central League,foy,B01143,Foy,,T,,,B29
+1911Spalding,1910,Central League,foy,F20924,Foy,,1,South Bend,,of
+1911Spalding,1910,Central League,foy,F20924,Foy,,2,Grand Rapids,,of
+1911Spalding,1910,Central League,foy,F20924,Foy,,T,,,of29
+1911Spalding,1910,Central League,gainor,B00059,Gainor,,0,Fort Wayne,,B136
+1911Spalding,1910,Central League,gainor,F20067,Gainor,,0,Fort Wayne,,1b136
+1911Spalding,1910,Central League,gilbert,B00286,Gilbert,,0,Zanesville,,B42
+1911Spalding,1910,Central League,gilbert,F20962,Gilbert,,0,Zanesville,,of42
+1911Spalding,1910,Central League,goes,B00726,Goes,,0,Terre Haute,,B72
+1911Spalding,1910,Central League,goes,F20014,Goes,,0,Terre Haute,,1b10
+1911Spalding,1910,Central League,goes,F21609,Goes,,0,Terre Haute,,c60
+1911Spalding,1910,Central League,graf,B01402,Graf,,0,Wheeling,,B18
+1911Spalding,1910,Central League,graf,F20342,Graf,,0,Wheeling,,3b18
+1911Spalding,1910,Central League,grant,B00920,Grant,,0,Evansville,,B72
+1911Spalding,1910,Central League,grant,F20254,Grant,,0,Evansville,,2b71
+1911Spalding,1910,Central League,gray.c,B00130,Gray,C.,0,Wheeling,,B135
+1911Spalding,1910,Central League,gray.w,B01234,Gray,W.,0,Wheeling,,B32
+1911Spalding,1910,Central League,gray.w,F20206,Gray,W.,0,Wheeling,,2b22
+1911Spalding,1910,Central League,gray.w,F20458,Gray,W.,0,Wheeling,,ss10
+1911Spalding,1910,Central League,gray.c,F20829,Gray,C.,0,Wheeling,,of135
+1911Spalding,1910,Central League,grefe,B00319,Grefe,,0,Evansville,,B86
+1911Spalding,1910,Central League,grefe,F21469,Grefe,,0,Evansville,,c60
+1911Spalding,1910,Central League,groeschow,B00771,Groeschow,,0,Terre Haute,,B139
+1911Spalding,1910,Central League,groeschow,F20463,Groeschow,,0,Terre Haute,,ss130
+1911Spalding,1910,Central League,grogan,B00515,Grogan,,0,Dayton,,B102
+1911Spalding,1910,Central League,grogan,F20474,Grogan,,0,Dayton,,ss34
+1911Spalding,1910,Central League,grogan,F20648,Grogan,,0,Dayton,,of68
+1911Spalding,1910,Central League,hadley,B00609,Hadley,,0,Evansville,,B112
+1911Spalding,1910,Central League,hadley,F20547,Hadley,,0,Evansville,,ss112
+1911Spalding,1910,Central League,hargrove,B00948,Hargrove,,0,Zanesville,,B21
+1911Spalding,1910,Central League,hargrove,F21544,Hargrove,,0,Zanesville,,c21
+1911Spalding,1910,Central League,hennis,B01275,Hennis,,0,Terre Haute,,B33
+1911Spalding,1910,Central League,hennis,F21210,Hennis,,0,Terre Haute,,p32
+1911Spalding,1910,Central League,hennis,P10081,Hennis,,0,Terre Haute,,P32
+1911Spalding,1910,Central League,hennis,P10486,Hennis,,0,Terre Haute,,P32
+1911Spalding,1910,Central League,herold,B00961,Herold,,0,Zanesville,,B142
+1911Spalding,1910,Central League,herold,F20375,Herold,,0,Zanesville,,3b142
+1911Spalding,1910,Central League,higgins,B01415,Higgins,,0,Terre Haute,,B13
+1911Spalding,1910,Central League,higgins,F21416,Higgins,,0,Terre Haute,,p13
+1911Spalding,1910,Central League,higgins,P10407,Higgins,,0,Terre Haute,,P11
+1911Spalding,1910,Central League,higgins,P10805,Higgins,,0,Terre Haute,,P11
+1911Spalding,1910,Central League,hillinger,B00343,Hillinger,,0,Zanesville,,B140
+1911Spalding,1910,Central League,hillinger,F20886,Hillinger,,0,Zanesville,,of140
+1911Spalding,1910,Central League,hinton,B01124,Hinton,,0,Zanesville,,B27
+1911Spalding,1910,Central League,hinton,F21577,Hinton,,0,Zanesville,,c27
+1911Spalding,1910,Central League,hogan,B00278,Hogan,,0,Evansville,,B15
+1911Spalding,1910,Central League,holmes,B00747,Holmes,,1,Zanesville,,
+1911Spalding,1910,Central League,holmes,B00747,Holmes,,2,South Bend,,
+1911Spalding,1910,Central League,holmes,B00747,Holmes,,T,,,B79
+1911Spalding,1910,Central League,holmes,F21590,Holmes,,1,Zanesville,,c
+1911Spalding,1910,Central League,holmes,F21590,Holmes,,2,South Bend,,c
+1911Spalding,1910,Central League,holmes,F21590,Holmes,,T,,,c55
+1911Spalding,1910,Central League,holt,F20807,Holt,,0,Grand Rapids,,of35
+1911Spalding,1910,Central League,humphries,B01064,Humphries,,0,Wheeling,,B49
+1911Spalding,1910,Central League,humphries,F21196,Humphries,,0,Wheeling,,p40
+1911Spalding,1910,Central League,humphries,P10312,Humphries,,0,Wheeling,,P40
+1911Spalding,1910,Central League,humphries,P10714,Humphries,,0,Wheeling,,P40
+1911Spalding,1910,Central League,jacobson,B01007,Jacobson,,0,Grand Rapids,,B36
+1911Spalding,1910,Central League,jacobson,F21324,Jacobson,,0,Grand Rapids,,p36
+1911Spalding,1910,Central League,jacobson,P10304,Jacobson,,0,Grand Rapids,,P36
+1911Spalding,1910,Central League,jacobson,P10709,Jacobson,,0,Grand Rapids,,P36
+1911Spalding,1910,Central League,jewell,B00241,Jewell,,0,Wheeling,,B135
+1911Spalding,1910,Central League,jewell,F20211,Jewell,,0,Wheeling,,2b46
+1911Spalding,1910,Central League,jewell,F20560,Jewell,,0,Wheeling,,ss76
+1911Spalding,1910,Central League,jones,B01093,Jones,,0,Zanesville,,B19
+1911Spalding,1910,Central League,jones,F21343,Jones,,0,Zanesville,,p19
+1911Spalding,1910,Central League,jones,P10244,Jones,,0,Zanesville,,P19
+1911Spalding,1910,Central League,jones,P10640,Jones,,0,Zanesville,,P19
+1911Spalding,1910,Central League,justice-fw,F20552,Justice,,0,Fort Wayne,,ss141
+1911Spalding,1910,Central League,justice-fw,B00999,Justus,,0,Fort Wayne,,B141
+1911Spalding,1910,Central League,justus-day,B01359,Justus,,0,Dayton,,B45
+1911Spalding,1910,Central League,justus-day,F21207,Justus,,0,Dayton,,p45
+1911Spalding,1910,Central League,justus-day,P10097,Justus,,0,Dayton,,P45
+1911Spalding,1910,Central League,justus-day,P10493,Justus,,0,Dayton,,P45
+1911Spalding,1910,Central League,kahl,B00739,Kahl,,0,Grand Rapids,,B141
+1911Spalding,1910,Central League,kahl,F20190,Kahl,,0,Grand Rapids,,2b141
+1911Spalding,1910,Central League,kehoe,B00912,Kehoe,,0,Grand Rapids,,B100
+1911Spalding,1910,Central League,kehoe,F20425,Kehoe,,0,Grand Rapids,,3b17
+1911Spalding,1910,Central League,kehoe,F20700,Kehoe,,0,Grand Rapids,,of82
+1911Spalding,1910,Central League,kenworthy,B00068,Kenworthy,,0,Zanesville,,B87
+1911Spalding,1910,Central League,kenworthy,F20604,Kenworthy,,0,Zanesville,,of30
+1911Spalding,1910,Central League,kenworthy,F21117,Kenworthy,,0,Zanesville,,p47
+1911Spalding,1910,Central League,kenworthy,P10145,Kenworthy,,0,Zanesville,,P47
+1911Spalding,1910,Central League,kenworthy,P10542,Kenworthy,,0,Zanesville,,P47
+1911Spalding,1910,Central League,kihm,B00450,Kihm,,0,Grand Rapids,,B141
+1911Spalding,1910,Central League,kihm,F20038,Kihm,,0,Grand Rapids,,1b141
+1911Spalding,1910,Central League,knoll,B00207,Knoll,,0,Dayton,,B139
+1911Spalding,1910,Central League,knoll,F20745,Knoll,,0,Dayton,,of139
+1911Spalding,1910,Central League,koehler,B00293,Koehler,,0,South Bend,,B131
+1911Spalding,1910,Central League,koehler,F20177,Koehler,,0,South Bend,,2b131
+1911Spalding,1910,Central League,kroy,B00324,Kroy,,0,South Bend,,B141
+1911Spalding,1910,Central League,kroy,F20721,Kroy,,0,South Bend,,of141
+1911Spalding,1910,Central League,lavelle,B00752,LaVelle,,0,Evansville,,B100
+1911Spalding,1910,Central League,lavelle,F20776,LaVelle,,0,Evansville,,of100
+1911Spalding,1910,Central League,larsen,F21174,Larsen,,0,Grand Rapids,,p33
+1911Spalding,1910,Central League,larsen,P10289,Larsen,,0,Grand Rapids,,P33
+1911Spalding,1910,Central League,larsen,P10687,Larsen,,0,Grand Rapids,,P33
+1911Spalding,1910,Central League,larsen,B01345,Larson,,0,Grand Rapids,,B33
+1911Spalding,1910,Central League,lejeune,B00013,Le Jeune,,0,Evansville,,B128
+1911Spalding,1910,Central League,lejeune,F20131,Lejeune,,0,Evansville,,1b84
+1911Spalding,1910,Central League,lejeune,F20997,Lejeune,,0,Evansville,,of44
+1911Spalding,1910,Central League,lemon,B00045,Lemon,,0,Fort Wayne,,B28
+1911Spalding,1910,Central League,lemon,F20864,Lemon,,0,Fort Wayne,,of15
+1911Spalding,1910,Central League,lemon,F21475,Lemon,,0,Fort Wayne,,c13
+1911Spalding,1910,Central League,lindsay,F21229,Lindsay,,0,South Bend,,p38
+1911Spalding,1910,Central League,lindsay,P10024,Lindsay,,0,South Bend,,P38
+1911Spalding,1910,Central League,lindsay,P10429,Lindsay,,0,South Bend,,P38
+1911Spalding,1910,Central League,lindsay,B01135,Lindsey,,0,South Bend,,B38
+1911Spalding,1910,Central League,maisel,B00528,Maisel,,0,Wheeling,,B62
+1911Spalding,1910,Central League,maisel,F20401,Maisel,,0,Wheeling,,3b62
+1911Spalding,1910,Central League,manda,B00381,Manda,,1,Fort Wayne,,
+1911Spalding,1910,Central League,manda,B00381,Manda,,2,Zanesville,,
+1911Spalding,1910,Central League,manda,B00381,Manda,,T,,,B114
+1911Spalding,1910,Central League,manda,F20222,Manda,,1,Fort Wayne,,2b
+1911Spalding,1910,Central League,manda,F20222,Manda,,2,Zanesville,,2b
+1911Spalding,1910,Central League,manda,F20222,Manda,,T,,,2b101
+1911Spalding,1910,Central League,manda,F20792,Manda,,1,Zanesville,,of
+1911Spalding,1910,Central League,manda,F20792,Manda,,2,Fort Wayne,,of
+1911Spalding,1910,Central League,manda,F20792,Manda,,T,,,of12
+1911Spalding,1910,Central League,martin,B00182,Martin,,0,Dayton,,B89
+1911Spalding,1910,Central League,martin,B01337,Martin,,1,Grand Rapids,,
+1911Spalding,1910,Central League,martin,B01337,Martin,,2,South Bend,,
+1911Spalding,1910,Central League,martin,B01337,Martin,,T,,,B33
+1911Spalding,1910,Central League,martin,F21092,Martin,,0,South Bend,,p33
+1911Spalding,1910,Central League,martin,F21528,Martin,,0,Dayton,,c89
+1911Spalding,1910,Central League,martin,P10056,Martin,,1,Grand Rapids,,
+1911Spalding,1910,Central League,martin,P10056,Martin,,2,South Bend,,
+1911Spalding,1910,Central League,martin,P10056,Martin,,T,,,P33
+1911Spalding,1910,Central League,martin,P10455,Martin,,1,Grand Rapids,,
+1911Spalding,1910,Central League,martin,P10455,Martin,,2,South Bend,,
+1911Spalding,1910,Central League,martin,P10455,Martin,,T,,,P33
+1911Spalding,1910,Central League,mcbrair,B00783,McBrair,,0,Evansville,,B78
+1911Spalding,1910,Central League,mcbrair,F20518,McBrair,,0,Evansville,,ss54
+1911Spalding,1910,Central League,mcbrair,F20287,McBriar,,0,Evansville,,2b24
+1911Spalding,1910,Central League,mccarthy,B00475,McCarthy,,0,South Bend,,B141
+1911Spalding,1910,Central League,mccarthy,F20539,McCarty,,0,South Bend,,ss141
+1911Spalding,1910,Central League,mcdermott,B00531,McDermott,,0,Fort Wayne,,B76
+1911Spalding,1910,Central League,mcdermott,F20128,McDermott,,0,Fort Wayne,,1b18
+1911Spalding,1910,Central League,mcdermott,F20303,McDermott,,0,Fort Wayne,,3b44
+1911Spalding,1910,Central League,mcdermott,F21000,McDermott,,0,Fort Wayne,,of14
+1911Spalding,1910,Central League,mcdonald,B00229,McDonald,,0,Terre Haute,,B116
+1911Spalding,1910,Central League,mcdonald,F20334,McDonald,,0,Terre Haute,,3b102
+1911Spalding,1910,Central League,mcdonald,F20935,McDonald,,0,Terre Haute,,of14
+1911Spalding,1910,Central League,mcneece,B00577,McNeece,,1,Grand Rapids,,
+1911Spalding,1910,Central League,mcneece,B00577,McNeece,,2,Zanesville,,
+1911Spalding,1910,Central League,mcneece,B00577,McNeece,,3,Terre Haute,,
+1911Spalding,1910,Central League,mcneece,B00577,McNeece,,T,,,B88
+1911Spalding,1910,Central League,mcneece,F20784,McNiece,,1,Grand Rapids,,of
+1911Spalding,1910,Central League,mcneece,F20784,McNiece,,2,Zanesville,,of
+1911Spalding,1910,Central League,mcneece,F20784,McNiece,,3,Terre Haute,,of
+1911Spalding,1910,Central League,mcneece,F20784,McNiece,,T,,,of88
+1911Spalding,1910,Central League,miller,B01010,Miller,,0,Fort Wayne,,B39
+1911Spalding,1910,Central League,miller,F21403,Miller,,0,Fort Wayne,,p39
+1911Spalding,1910,Central League,miller,P10035,Miller,,0,Fort Wayne,,P39
+1911Spalding,1910,Central League,miller,P10432,Miller,,0,Fort Wayne,,P39
+1911Spalding,1910,Central League,millerick,B01041,Millerick,,0,Grand Rapids,,B66
+1911Spalding,1910,Central League,millerick,F21553,Millerick,,0,Grand Rapids,,c66
+1911Spalding,1910,Central League,moffitt,B00589,Moffitt,,1,South Bend,,
+1911Spalding,1910,Central League,moffitt,B00589,Moffitt,,2,Grand Rapids,,
+1911Spalding,1910,Central League,moffitt,B00589,Moffitt,,T,,,B19
+1911Spalding,1910,Central League,moffitt,F21158,Moffitt,,1,South Bend,,p
+1911Spalding,1910,Central League,moffitt,F21158,Moffitt,,2,Grand Rapids,,p
+1911Spalding,1910,Central League,moffitt,F21158,Moffitt,,T,,,p19
+1911Spalding,1910,Central League,moffitt,P10361,Moffitt,,1,South Bend,,
+1911Spalding,1910,Central League,moffitt,P10361,Moffitt,,2,Grand Rapids,,
+1911Spalding,1910,Central League,moffitt,P10361,Moffitt,,T,,,P19
+1911Spalding,1910,Central League,moffitt,P10767,Moffitt,,1,South Bend,,
+1911Spalding,1910,Central League,moffitt,P10767,Moffitt,,2,Grand Rapids,,
+1911Spalding,1910,Central League,moffitt,P10767,Moffitt,,T,,,P19
+1911Spalding,1910,Central League,montgomery,B00362,Montgomery,,0,Zanesville,,B81
+1911Spalding,1910,Central League,montgomery,F20943,Montgomery,,0,Zanesville,,of81
+1911Spalding,1910,Central League,moseley,B00210,Moseley,,0,Wheeling,,B8
+1911Spalding,1910,Central League,moseley,F21059,Moseley,,0,Wheeling,,p10
+1911Spalding,1910,Central League,moseley,P10399,Moseley,,0,Wheeling,,P10
+1911Spalding,1910,Central League,moseley,P10795,Moseley,,0,Wheeling,,P10
+1911Spalding,1910,Central League,murray,B00491,Murray,,0,Terre Haute,,B137
+1911Spalding,1910,Central League,murray,F20153,Murray,,0,Terre Haute,,2b137
+1911Spalding,1910,Central League,myers,B01170,Myers,,0,South Bend,,B29
+1911Spalding,1910,Central League,myers,F21232,Myers,,0,South Bend,,p29
+1911Spalding,1910,Central League,myers,P10176,Myers,,0,South Bend,,P30
+1911Spalding,1910,Central League,myers,P10575,Myers,,1,Grand Rapids,,
+1911Spalding,1910,Central League,myers,P10575,Myers,,2,South Bend,,
+1911Spalding,1910,Central League,myers,P10575,Myers,,T,,,P30
+1911Spalding,1910,Central League,nalley,B01108,Nalley,,0,Dayton,,B32
+1911Spalding,1910,Central League,nalley,F20583,Nalley,,0,Dayton,,of32
+1911Spalding,1910,Central League,nee,B00566,Nee,,0,Dayton,,B129
+1911Spalding,1910,Central League,nee,F20233,Nee,,0,Dayton,,2b129
+1911Spalding,1910,Central League,neuschafer,B00957,Neuschafer,,0,Dayton,,B30
+1911Spalding,1910,Central League,neuschafer,F21356,Neuschafer,,0,Dayton,,p30
+1911Spalding,1910,Central League,neuschafer,P10228,Neuschafer,,0,Dayton,,P30
+1911Spalding,1910,Central League,neuschafer,P10622,Neuschafer,,0,Dayton,,P30
+1911Spalding,1910,Central League,nye,B01197,Nye,,0,Wheeling,,B31
+1911Spalding,1910,Central League,nye,F20505,Nye,,0,Wheeling,,ss31
+1911Spalding,1910,Central League,obrien-zan,B00076,O'Brien,,0,Zanesville,,B107
+1911Spalding,1910,Central League,obrien-day,B01376,O'Brien,,0,Dayton,,B31
+1911Spalding,1910,Central League,obrien-zan,F20095,O'Brien,,0,Zanesville,,1b23
+1911Spalding,1910,Central League,obrien-day,F21515,O'Brien,,0,Dayton,,c33
+1911Spalding,1910,Central League,obrien-zan,F21589,O'Brien,,0,Zanesville,,c84
+1911Spalding,1910,Central League,patterson,B00174,Patterson,,0,Fort Wayne,,B56
+1911Spalding,1910,Central League,pendry,B00544,Pendry,,0,Dayton,,B17
+1911Spalding,1910,Central League,pendry,F20430,Pendry,,0,Dayton,,3b17
+1911Spalding,1910,Central League,pfeffer,B00502,Pfeffer,,0,Fort Wayne,,B33
+1911Spalding,1910,Central League,pfeffer,F21101,Pfeffer,,0,Fort Wayne,,p33
+1911Spalding,1910,Central League,pfeffer,P10277,Pfeffer,,0,Fort Wayne,,P33
+1911Spalding,1910,Central League,pfeffer,P10679,Pfeffer,,0,Fort Wayne,,P33
+1911Spalding,1910,Central League,pickett,B01384,Pickett,,0,Terre Haute,,B12
+1911Spalding,1910,Central League,pickett,F21278,Pickett,,0,Terre Haute,,p12
+1911Spalding,1910,Central League,pickett,P10348,Pickett,,0,Terre Haute,,P11
+1911Spalding,1910,Central League,pickett,P10746,Pickett,,0,Terre Haute,,P11
+1911Spalding,1910,Central League,prysock,B01086,Prysock,,0,Zanesville,,B35
+1911Spalding,1910,Central League,prysock,F20166,Prysock,,0,Zanesville,,2b28
+1911Spalding,1910,Central League,queisser,B00985,Queisser,,0,Fort Wayne,,B38
+1911Spalding,1910,Central League,queisser,F21614,Queisser,,0,Fort Wayne,,c38
+1911Spalding,1910,Central League,ragon,B00840,Ragon,,0,Dayton,,B108
+1911Spalding,1910,Central League,ragon,F20369,Ragon,,0,Dayton,,3b108
+1911Spalding,1910,Central League,raidey,B00887,Raidey,,0,Grand Rapids,,B138
+1911Spalding,1910,Central League,raidey,F20482,Raidey,,0,Grand Rapids,,ss138
+1911Spalding,1910,Central League,redden,B00833,Redden,,0,Fort Wayne,,B40
+1911Spalding,1910,Central League,redden,F20620,Redden,,0,Fort Wayne,,of40
+1911Spalding,1910,Central League,robertson,B00854,Robertson,,0,Fort Wayne,,B28
+1911Spalding,1910,Central League,robertson,F21381,Robertson,,0,Fort Wayne,,p28
+1911Spalding,1910,Central League,robertson,P10019,Robertson,,0,Fort Wayne,,P28
+1911Spalding,1910,Central League,robertson,P10410,Robertson,,0,Fort Wayne,,P24
+1911Spalding,1910,Central League,sager,B01119,Sager,,0,Evansville,,B137
+1911Spalding,1910,Central League,sager,F20391,Sager,,0,Evansville,,3b137
+1911Spalding,1910,Central League,sample,B01055,Sample,,1,Zanesville,,
+1911Spalding,1910,Central League,sample,B01055,Sample,,2,Terre Haute,,
+1911Spalding,1910,Central League,sample,B01055,Sample,,3,Dayton,,
+1911Spalding,1910,Central League,sample,B01055,Sample,,T,,,B36
+1911Spalding,1910,Central League,sample,F21531,Sample,,0,Dayton,,c28
+1911Spalding,1910,Central League,schmick,B00760,Schmick,,1,Zanesville,,
+1911Spalding,1910,Central League,schmick,B00760,Schmick,,2,South Bend,,
+1911Spalding,1910,Central League,schmick,B00760,Schmick,,T,,,B89
+1911Spalding,1910,Central League,schmick,F20115,Schmick,,0,South Bend,,1b76
+1911Spalding,1910,Central League,schmick,F20981,Schmick,,1,Zanesville,,of
+1911Spalding,1910,Central League,schmick,F20981,Schmick,,2,South Bend,,of
+1911Spalding,1910,Central League,schmick,F20981,Schmick,,T,,,of13
+1911Spalding,1910,Central League,shotten,F20893,Schotten,,0,Wheeling,,of79
+1911Spalding,1910,Central League,sentz,B00651,Sentz,,0,Wheeling,,B48
+1911Spalding,1910,Central League,sentz,F20685,Sentz,,0,Wheeling,,of48
+1911Spalding,1910,Central League,sheehan,B00806,Sheehan,,0,Grand Rapids,,B93
+1911Spalding,1910,Central League,sheehan,F20298,Sheehan,,0,Grand Rapids,,3b93
+1911Spalding,1910,Central League,shotten,B00553,Shotten,,0,Wheeling,,B79
+1911Spalding,1910,Central League,smith-whe,B00811,Smith,,0,Wheeling,,B16
+1911Spalding,1910,Central League,smith-sb,B01156,Smith,,0,South Bend,,B37
+1911Spalding,1910,Central League,smith-whe,F20144,Smith,,0,Wheeling,,2b16
+1911Spalding,1910,Central League,smith-sb,F21076,Smith,,0,South Bend,,p37
+1911Spalding,1910,Central League,smith-sb,P10070,Smith,,0,South Bend,,P37
+1911Spalding,1910,Central League,smith-sb,P10478,Smith,,0,South Bend,,P37
+1911Spalding,1910,Central League,snyder,B00196,Snyder,,0,Evansville,,B137
+1911Spalding,1910,Central League,snyder,F20636,Snyder,,0,Evansville,,of137
+1911Spalding,1910,Central League,spencer,B00092,Spencer,,0,Dayton,,B108
+1911Spalding,1910,Central League,spencer,F20878,Spencer,,0,Dayton,,of108
+1911Spalding,1910,Central League,stark,B00638,Stark,,0,Dayton,,B105
+1911Spalding,1910,Central League,stark,F20571,Stark,,0,Dayton,,ss105
+1911Spalding,1910,Central League,sterzer,B00308,Sterzer,,0,Evansville,,B36
+1911Spalding,1910,Central League,sterzer,F21130,Sterzer,,0,Evansville,,p34
+1911Spalding,1910,Central League,sterzer,P10121,Sterzer,,0,Evansville,,P34
+1911Spalding,1910,Central League,sterzer,P10527,Sterzer,,0,Evansville,,P34
+1911Spalding,1910,Central League,stratton,B01078,Stratton,,0,Wheeling,,B119
+1911Spalding,1910,Central League,stratton,F21434,Stratton,,0,Wheeling,,c119
+1911Spalding,1910,Central League,summerlot,B00125,Summerlot,,0,Terre Haute,,B121
+1911Spalding,1910,Central League,summerlot,F20051,Summerlot,,0,Terre Haute,,1b121
+1911Spalding,1910,Central League,summers,B01242,Summers,,0,Terre Haute,,B40
+1911Spalding,1910,Central League,summers,F21397,Summers,,0,Terre Haute,,p40
+1911Spalding,1910,Central League,summers,P10253,Summers,,0,Terre Haute,,P36
+1911Spalding,1910,Central League,summers,P10654,Summers,,0,Terre Haute,,P36
+1911Spalding,1910,Central League,swartling,B00695,Swartling,,0,Zanesville,,B113
+1911Spalding,1910,Central League,swartling,F20023,Swartling,,0,Zanesville,,1b113
+1911Spalding,1910,Central League,sykes,B00149,Sykes,,0,Dayton,,B140
+1911Spalding,1910,Central League,sykes,F20072,Sykes,,0,Dayton,,1b140
+1911Spalding,1910,Central League,tarleton,B00973,Tarleton,,0,Wheeling,,B78
+1911Spalding,1910,Central League,tarleton,F20102,Tarleton,,0,Wheeling,,1b78
+1911Spalding,1910,Central League,tate,B00879,Tate,,0,Wheeling,,B45
+1911Spalding,1910,Central League,tieman,B00936,Tieman,,0,Grand Rapids,,B103
+1911Spalding,1910,Central League,tieman,F21013,Tieman,,0,Grand Rapids,,of17
+1911Spalding,1910,Central League,tieman,F21491,Tieman,,0,Grand Rapids,,c86
+1911Spalding,1910,Central League,veasey,B01431,Veasey,,0,Zanesville,,B30
+1911Spalding,1910,Central League,veasey,F21335,Veasey,,0,Zanesville,,p30
+1911Spalding,1910,Central League,veasey,P10373,Veasey,,0,Zanesville,,P30
+1911Spalding,1910,Central League,veasey,P10772,Veasey,,0,Zanesville,,P30
+1911Spalding,1910,Central League,wacker,B00590,Wacker,,0,Dayton,,B31
+1911Spalding,1910,Central League,wacker,F21182,Wacker,,0,Dayton,,p31
+1911Spalding,1910,Central League,wacker,P10137,Wacker,,0,Dayton,,P28
+1911Spalding,1910,Central League,wacker,P10534,Wacker,,0,Dayton,,P28
+1911Spalding,1910,Central League,watson,B01029,Watson,,0,South Bend,,B22
+1911Spalding,1910,Central League,watson,F21450,Watson,,0,South Bend,,c22
+1911Spalding,1910,Central League,webb,B01216,Webb,,0,Grand Rapids,,B10
+1911Spalding,1910,Central League,webb,F21255,Webb,,0,Grand Rapids,,p10
+1911Spalding,1910,Central League,webb,P10159,Webb,,0,Grand Rapids,,P10
+1911Spalding,1910,Central League,webb,P10550,Webb,,0,Grand Rapids,,P10
+1911Spalding,1910,Central League,welchonce,B00037,Welchonce,,0,South Bend,,B125
+1911Spalding,1910,Central League,welchonce,F20810,Welchonce,,0,South Bend,,of125
+1911Spalding,1910,Central League,wells,B00163,Wells,,0,South Bend,,B106
+1911Spalding,1910,Central League,wells,F20908,Wells,,0,South Bend,,of14
+1911Spalding,1910,Central League,wells,F21488,Wells,,0,South Bend,,c92
+1911Spalding,1910,Central League,wetzel,B00397,Wetzel,,0,Grand Rapids,,B37
+1911Spalding,1910,Central League,wetzel,F20449,Wetzel,,0,Grand Rapids,,3b37
+1911Spalding,1910,Central League,wheeler-th,B00021,Wheeler,,0,Terre Haute,,B59
+1911Spalding,1910,Central League,wheeler-sb,B00264,Wheeler,,0,South Bend,,B141
+1911Spalding,1910,Central League,wheeler-sb,F20189,Wheeler,,0,South Bend,,2b12
+1911Spalding,1910,Central League,wheeler-sb,F20316,Wheeler,,0,South Bend,,3b129
+1911Spalding,1910,Central League,wheeler-th,F20657,Wheeler,,0,Terre Haute,,of59
+1911Spalding,1910,Central League,woodruff,B01250,Woodruff,,0,Wheeling,,B29
+1911Spalding,1910,Central League,woodruff,F20350,Woodruff,,0,Wheeling,,3b29
+1911Spalding,1910,Central League,young,B00084,Young,,0,Fort Wayne,,B140
+1911Spalding,1910,Central League,young,F20713,Young,,0,Fort Wayne,,of140

@@ -1,477 +1,477 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-1915Spalding,1914,Western League,P10070,Adams,,0,St. Joseph,,P7,adams
-1915Spalding,1914,Western League,B01032,Allen,,0,Lincoln,,B56,allen
-1915Spalding,1914,Western League,F21125,Allen,,0,Lincoln,,of56,allen
-1915Spalding,1914,Western League,B00092,Altman,,0,Lincoln,,B19,altman
-1915Spalding,1914,Western League,F20699,Altman,,0,Lincoln,,of19,altman
-1915Spalding,1914,Western League,B00887,Andreas,,0,Des Moines,,B105,andreas
-1915Spalding,1914,Western League,F20189,Andreas,,0,Des Moines,,2b96,andreas
-1915Spalding,1914,Western League,B00149,Baird,,0,Sioux City,,B158,baird
-1915Spalding,1914,Western League,F20375,Baird,,0,Sioux City,,3b108,baird
-1915Spalding,1914,Western League,F20776,Baird,,0,Sioux City,,of43,baird
-1915Spalding,1914,Western League,B01359,Baker,,0,Wichita,,B29,baker
-1915Spalding,1914,Western League,F21531,Baker,,0,Wichita,,p26,baker
-1915Spalding,1914,Western League,P10357,Baker,,0,Wichita,,P28,baker
-1915Spalding,1914,Western League,B00752,Barbour,,0,Denver,,B142,barbour
-1915Spalding,1914,Western League,F20449,Barbour,,0,Denver,,3b142,barbour
-1915Spalding,1914,Western League,B00308,Bell,,0,Omaha,,B41,bell-oma
-1915Spalding,1914,Western League,F20768,Bell,,0,Omaha,,of40,bell-oma
-1915Spalding,1914,Western League,P10687,Bell,,0,St. Joseph,,P9,bell-sj
-1915Spalding,1914,Western League,B00076,Bennett,,0,St. Joseph,,B15,bennett
-1915Spalding,1914,Western League,B00196,Bills,,0,Wichita,,B156,bills
-1915Spalding,1914,Western League,F20893,Bills,,0,Wichita,,of149,bills
-1915Spalding,1914,Western League,B00948,Blackburn,,0,Lincoln,,B68,blackburn
-1915Spalding,1914,Western League,F21811,Blackburn,,0,Lincoln,,c54,blackburn
-1915Spalding,1914,Western League,B00491,Block,,0,Denver,,B138,block
-1915Spalding,1914,Western League,F20482,Block,,0,Denver,,3b26,block
-1915Spalding,1914,Western League,F21705,Block,,0,Denver,,c79,block
-1915Spalding,1914,Western League,B00623,Bossonoloni,,0,Wichita,,B83,bossonoloni
-1915Spalding,1914,Western League,F21000,Bossonoloni,,0,Wichita,,of77,bossonoloni
-1915Spalding,1914,Western League,B00833,Bowen,,0,Topeka,,B18,bowen
-1915Spalding,1914,Western League,F20594,Bowen,,0,Topeka,,ss18,bowen
-1915Spalding,1914,Western League,B00973,Bramble,,1,Sioux City,,,bramble
-1915Spalding,1914,Western League,B00973,Bramble,,2,Topeka,,,bramble
-1915Spalding,1914,Western League,B00973,Bramble,,T,,,B38,bramble
-1915Spalding,1914,Western League,F21117,Bramble,,1,Sioux City,,of,bramble
-1915Spalding,1914,Western League,F21117,Bramble,,2,Topeka,,of,bramble
-1915Spalding,1914,Western League,F21117,Bramble,,T,,,of25,bramble
-1915Spalding,1914,Western League,B00760,Breen,,0,Des Moines,,B167,breen
-1915Spalding,1914,Western League,F20919,Breen,,0,Des Moines,,of167,breen
-1915Spalding,1914,Western League,B00475,Britton,,0,St. Joseph,,B161,britton
-1915Spalding,1914,Western League,F20153,Britton,,0,St. Joseph,,2b15,britton
-1915Spalding,1914,Western League,F20430,Britton,,0,St. Joseph,,3b89,britton
-1915Spalding,1914,Western League,F20685,Britton,,0,St. Joseph,,ss57,britton
-1915Spalding,1914,Western League,B01538,Brown,,0,St. Joseph,,B36,brown
-1915Spalding,1914,Western League,F21577,Brown,,1,Topeka,,p,brown
-1915Spalding,1914,Western League,F21577,Brown,,2,St. Joseph,,p,brown
-1915Spalding,1914,Western League,F21577,Brown,,T,,,p36,brown
-1915Spalding,1914,Western League,P10588,Brown,,1,Topeka,,,brown
-1915Spalding,1914,Western League,P10588,Brown,,2,St. Joseph,,,brown
-1915Spalding,1914,Western League,P10588,Brown,,T,,,P39,brown
-1915Spalding,1914,Western League,B00667,Burrell,,0,Des Moines,,B148,burrell
-1915Spalding,1914,Western League,F20425,Burrell,,1,Des Moines,,3b,burrell
-1915Spalding,1914,Western League,F20425,Burrell,,2,Omaha,,3b,burrell
-1915Spalding,1914,Western League,F20425,Burrell,,3,St. Joseph,,3b,burrell
-1915Spalding,1914,Western League,F20425,Burrell,,T,,,3b131,burrell
-1915Spalding,1914,Western League,B00059,Butcher,,0,Denver,,B156,butcher
-1915Spalding,1914,Western League,F20832,Butcher,,0,Denver,,of145,butcher
-1915Spalding,1914,Western League,B00319,Callahan,,0,Sioux City,,B147,callahan
-1915Spalding,1914,Western League,F20369,Callahan,,0,Sioux City,,3b47,callahan
-1915Spalding,1914,Western League,F20547,Callahan,,0,Sioux City,,ss31,callahan
-1915Spalding,1914,Western League,F20829,Callahan,,0,Sioux City,,of63,callahan
-1915Spalding,1914,Western League,B00278,Cassidy,,0,Denver,,B154,cassidy
-1915Spalding,1914,Western League,F20737,Cassidy,,0,Denver,,of153,cassidy
-1915Spalding,1914,Western League,B00794,Chase,,0,Omaha,,B55,chase
-1915Spalding,1914,Western League,F20046,Chase,,0,Omaha,,1b55,chase
-1915Spalding,1914,Western League,B01227,Clancy,,0,Omaha,,B38,clancy
-1915Spalding,1914,Western League,F20342,Clancy,,0,Omaha,,3b18,clancy
-1915Spalding,1914,Western League,F20518,Clancy,,0,Omaha,,ss17,clancy
-1915Spalding,1914,Western League,B01143,Clark,C.,0,Sioux City,,B44,clark.c-top+sc
-1915Spalding,1914,Western League,P10847,Clark,G.,1,Des Moines,,,clark.g-dm+top
-1915Spalding,1914,Western League,P10847,Clark,G.,2,Topeka,,,clark.g-dm+top
-1915Spalding,1914,Western League,P10847,Clark,G.,T,,,P9,clark.g-dm+top
-1915Spalding,1914,Western League,B00531,Clarke,J.,0,Sioux City,,B127,clarke.j-sc
-1915Spalding,1914,Western League,F20721,Clarke,J.,0,Sioux City,,of121,clarke.j-sc
-1915Spalding,1914,Western League,F21210,Clarke,C. R.,1,Topeka,,p,clark.c-top+sc
-1915Spalding,1914,Western League,F21210,Clarke,C. R.,2,Sioux City,,p,clark.c-top+sc
-1915Spalding,1914,Western League,F21210,Clarke,C. R.,T,,,p39,clark.c-top+sc
-1915Spalding,1914,Western League,P10348,Clarke,C. R.,1,Topeka,,,clark.c-top+sc
-1915Spalding,1914,Western League,P10348,Clarke,C. R.,2,Sioux City,,,clark.c-top+sc
-1915Spalding,1914,Western League,P10348,Clarke,C. R.,T,,,P44,clark.c-top+sc
-emilbb,1914,Western League,M90330,Clarke,Josh,,Sioux City,,,
-1915Spalding,1914,Western League,P10043,Claus,,0,Lincoln,,P9,claus
-1915Spalding,1914,Western League,B01321,Clemens,,0,Wichita,,B26,clemens
-1915Spalding,1914,Western League,P10455,Clemens,,0,Wichita,,P27,clemens
-1915Spalding,1914,Western League,F21442,Clemons,,0,Wichita,,p26,clemens
-1915Spalding,1914,Western League,B01275,Closman,,0,Omaha,,B24,closman
-1915Spalding,1914,Western League,F21397,Closman,,0,Omaha,,p24,closman
-1915Spalding,1914,Western League,P10336,Closman,,0,Omaha,,P27,closman
-1915Spalding,1914,Western League,B00811,Cochran,,0,Topeka,,B160,cochran
-1915Spalding,1914,Western League,F20401,Cochran,,0,Topeka,,3b145,cochran
-1915Spalding,1914,Western League,F20496,Cochran,,0,Topeka,,ss15,cochran
-1915Spalding,1914,Western League,B00084,Coffey,,0,Denver,,B165,coffey
-1915Spalding,1914,Western League,F20505,Coffey,,0,Denver,,ss164,coffey
-emilbb,1914,Western League,M90349,Coffey,Jack,,Denver,,,
-1915Spalding,1914,Western League,P10780,Collier,,0,Des Moines,,P14,collier
-1915Spalding,1914,Western League,B00961,Collins,,0,Lincoln,,B165,collins
-1915Spalding,1914,Western League,F20970,Collins,,0,Lincoln,,of163,collins
-1915Spalding,1914,Western League,B00068,Congalton,,0,Omaha,,B136,congalton
-1915Spalding,1914,Western League,F21084,Congalton,,0,Omaha,,of136,congalton
-emilbb,1914,Western League,M90421,Cooley,Dick,,Topeka,,,
-1915Spalding,1914,Western League,B00695,Cooney,P.,0,Sioux City,,B167,cooney-sc
-1915Spalding,1914,Western League,B01466,Cooney,J.,0,Lincoln,,B28,cooney-lin
-1915Spalding,1914,Western League,F20131,Cooney,P.,0,Sioux City,,2b167,cooney-sc
-1915Spalding,1914,Western League,F21614,Cooney,J.,0,Lincoln,,p28,cooney-lin
-1915Spalding,1914,Western League,P10361,Cooney,J.,0,Lincoln,,P31,cooney-lin
-1915Spalding,1914,Western League,B01509,Crabb,,0,Omaha,,B22,crabb
-1915Spalding,1914,Western League,F21544,Crabb,,0,Omaha,,p22,crabb
-1915Spalding,1914,Western League,P10202,Crabb,,0,Omaha,,P22,crabb
-1915Spalding,1914,Western League,B00553,Crisp,,0,Sioux City,,B99,crisp
-1915Spalding,1914,Western League,F21760,Crisp,,0,Sioux City,,c89,crisp
-1915Spalding,1914,Western League,B01064,Crosby,,0,Omaha,,B74,crosby
-1915Spalding,1914,Western League,F21667,Crosby,,0,Omaha,,c66,crosby
-1915Spalding,1914,Western League,B00469,Dashner,,0,Topeka,,B18,dashner
-1915Spalding,1914,Western League,F21264,Dashner,,0,Topeka,,p18,dashner
-1915Spalding,1914,Western League,P10215,Dashner,,0,Topeka,,P21,dashner
-1915Spalding,1914,Western League,B00528,Davidson,,0,Sioux City,,B108,davidson
-1915Spalding,1914,Western League,F20997,Davidson,,0,Sioux City,,of107,davidson
-1915Spalding,1914,Western League,B00609,Davis,,0,St. Joseph,,B50,davis
-1915Spalding,1914,Western League,F20700,Davis,,0,St. Joseph,,of48,davis
-1915Spalding,1914,Western League,B01431,Dessau,,0,Lincoln,,B33,dessau
-1915Spalding,1914,Western League,F21469,Dessau,,0,Lincoln,,p33,dessau
-1915Spalding,1914,Western League,P10231,Dessau,,0,Lincoln,,P30,dessau
-1915Spalding,1914,Western League,B01453,Dowd,,0,Topeka,,B18,dowd
-1915Spalding,1914,Western League,F20206,Dowd,,0,Topeka,,2b18,dowd
-1915Spalding,1914,Western League,B01514,Doyle,,0,Sioux City,,B35,doyle
-1915Spalding,1914,Western League,F21255,Doyle,,0,Sioux City,,p33,doyle
-1915Spalding,1914,Western League,P10486,Doyle,,0,Sioux City,,P39,doyle
-1915Spalding,1914,Western League,B01345,Duffy,,0,Des Moines,,B27,duffy
-1915Spalding,1914,Western League,F21324,Duffy,,0,Des Moines,,p25,duffy
-1915Spalding,1914,Western League,P10665,Duffy,,0,Des Moines,,P34,duffy
-1915Spalding,1914,Western League,B01216,Dunlap,,0,Omaha,,B45,dunlap
-1915Spalding,1914,Western League,F20661,Dunlap,,0,Omaha,,ss44,dunlap
-1915Spalding,1914,Western League,B01181,Durham,,0,Wichita,,B37,durham
-1915Spalding,1914,Western League,F21475,Durham,,0,Wichita,,p34,durham
-1915Spalding,1914,Western League,P10698,Durham,,0,Wichita,,P34,durham
-1915Spalding,1914,Western League,B00037,Eddington,,0,Denver,,B100,eddington
-1915Spalding,1914,Western League,F20981,Eddington,,0,Denver,,of100,eddington
-1915Spalding,1914,Western League,B01156,Ehman,,0,Lincoln,,B37,ehman
-1915Spalding,1914,Western League,F21308,Ehman,,0,Lincoln,,p35,ehman
-1915Spalding,1914,Western League,P10168,Ehman,,0,Lincoln,,P36,ehman
-1915Spalding,1914,Western League,B00879,Ewoldt,,0,Des Moines,,B137,ewoldt
-1915Spalding,1914,Western League,F20287,Ewoldt,,0,Des Moines,,2b48,ewoldt
-1915Spalding,1914,Western League,F20388,Ewoldt,,0,Des Moines,,3b55,ewoldt
-1915Spalding,1914,Western League,F20552,Ewoldt,,0,Des Moines,,ss30,ewoldt
-1915Spalding,1914,Western League,B01580,Faircloth,,0,Topeka,,B18,faircloth
-1915Spalding,1914,Western League,F21566,Faircloth,,0,Topeka,,p18,faircloth
-1915Spalding,1914,Western League,P10723,Faircloth,,0,Topeka,,P20,faircloth
-1915Spalding,1914,Western League,B00416,Faye,,0,Denver,,B157,faye
-1915Spalding,1914,Western League,F20211,Faye,,0,Denver,,2b120,faye
-1915Spalding,1914,Western League,F21059,Faye,,0,Denver,,of21,faye
-1915Spalding,1914,Western League,B00502,Fisher,,0,Denver,,B152,fisher
-1915Spalding,1914,Western League,F20102,Fisher,,0,Denver,,1b152,fisher
-1915Spalding,1914,Western League,B00783,Fitzsimmons,,0,Wichita,,B128,fitzsimmons
-1915Spalding,1914,Western League,F20604,Fitzsimmons,,0,Wichita,,ss126,fitzsimmons
-1915Spalding,1914,Western League,B00163,Forsythe,,0,Topeka,,B161,forsythe
-1915Spalding,1914,Western League,F21101,Forsythe,,0,Topeka,,of161,forsythe
-1915Spalding,1914,Western League,B00286,Fox,,0,St. Joseph,,B164,fox
-1915Spalding,1914,Western League,F20908,Fox,,0,St. Joseph,,of164,fox
-1915Spalding,1914,Western League,B00651,French,C.,0,Denver,,B23,french-den
-1915Spalding,1914,Western League,B01055,French,J.,0,Topeka,,B29,french-top
-1915Spalding,1914,Western League,F20144,French,C.,0,Denver,,2b22,french-den
-1915Spalding,1914,Western League,F20583,French,J.,0,Topeka,,ss29,french-top
-1915Spalding,1914,Western League,P10622,Garrett,,0,Omaha,,P10,garrett
-1915Spalding,1914,Western League,B01384,Gaskell,,0,Denver,,B41,gaskell
-1915Spalding,1914,Western League,F21207,Gaskell,,0,Denver,,p41,gaskell
-1915Spalding,1914,Western League,P10159,Gaskell,,0,Denver,,P42,gaskell
-1915Spalding,1914,Western League,B01078,Gaspar,,0,Sioux City,,B33,gaspar
-1915Spalding,1914,Western League,F21241,Gaspar,,0,Sioux City,,p33,gaspar
-1915Spalding,1914,Western League,P10137,Gaspar,,0,Sioux City,,P34,gaspar
-1915Spalding,1914,Western League,B00898,Gear,,0,Topeka,,B30,gear
-1915Spalding,1914,Western League,F20935,Gear,,0,Topeka,,of24,gear
-emilbb,1914,Western League,M90413,Gear,Dale,,Topeka,,,
-1915Spalding,1914,Western League,B01162,Glaze,,0,Topeka,,B20,glaze
-1915Spalding,1914,Western League,F21149,Glaze,,1,Topeka,,p,glaze
-1915Spalding,1914,Western League,F21149,Glaze,,2,St. Joseph,,p,glaze
-1915Spalding,1914,Western League,F21149,Glaze,,T,,,p20,glaze
-1915Spalding,1914,Western League,P10550,Glaze,,0,Topeka,,P21,glaze
-1915Spalding,1914,Western League,B01313,Gleason,,0,Topeka,,B22,gleason
-1915Spalding,1914,Western League,F21747,Gleason,,0,Topeka,,c20,gleason
-emilbb,1914,Western League,M90400,Gondling,John,,Omaha,,,
-1915Spalding,1914,Western League,B00293,Gourley,,0,Wichita,,B16,gourley
-1915Spalding,1914,Western League,F20458,Gourley,,0,Wichita,,3b16,gourley
-1915Spalding,1914,Western League,B00614,Graham,P.,0,Wichita,,B130,graham-wic
-1915Spalding,1914,Western League,B01291,Graham,G.,0,Omaha,,B45,graham-oma
-1915Spalding,1914,Western League,F20265,Graham,G.,0,Omaha,,2b43,graham-oma
-1915Spalding,1914,Western League,F21783,Graham,P.,0,Wichita,,c111,graham-wic
-emilbb,1914,Western League,M90445,Graham,George,,Wichita,,,
-1915Spalding,1914,Western League,B00705,Griffith,,0,St. Joseph,,B81,griffith
-1915Spalding,1914,Western League,F21695,Griffith,,0,St. Joseph,,c70,griffith
-1915Spalding,1914,Western League,B01242,Grover,,0,Topeka,,B39,grover
-1915Spalding,1914,Western League,F21434,Grover,,0,Topeka,,p37,grover
-1915Spalding,1914,Western League,P10062,Grover,,0,Topeka,,P39,grover
-1915Spalding,1914,Western League,B00229,Hahn,,0,Des Moines,,B168,hahn
-1915Spalding,1914,Western League,F20810,Hahn,,0,Des Moines,,of168,hahn
-1915Spalding,1914,Western League,B00370,Haley,,0,Des Moines,,B156,haley
-1915Spalding,1914,Western League,F21638,Haley,,0,Des Moines,,c146,haley
-1915Spalding,1914,Western League,B00904,Harrington,,0,Denver,,B41,harrington
-1915Spalding,1914,Western League,F21229,Harrington,,0,Denver,,p35,harrington
-1915Spalding,1914,Western League,P10097,Harrington,,0,Denver,,P39,harrington
-1915Spalding,1914,Western League,B00985,Hartford,,0,Des Moines,,B86,hartford
-1915Spalding,1914,Western League,F20222,Hartford,,0,Des Moines,,2b18,hartford
-1915Spalding,1914,Western League,F20636,Hartford,,0,Des Moines,,ss67,hartford
-1915Spalding,1914,Western League,B01007,Henry,,0,Wichita,,B166,henry
-1915Spalding,1914,Western League,F20072,Henry,,0,Wichita,,1b166,henry
-1915Spalding,1914,Western League,P10441,Hicks,,0,Omaha,,P5,hicks
-1915Spalding,1914,Western League,P10432,Higginbotham,,0,Topeka,,P14,higginbotham
-1915Spalding,1914,Western League,B01595,Hogan,,1,Denver,,,hogan
-1915Spalding,1914,Western League,B01595,Hogan,,2,Sioux City,,,hogan
-1915Spalding,1914,Western League,B01595,Hogan,,T,,,B27,hogan
-1915Spalding,1914,Western League,F21196,Hogan,,1,Sioux City,,p,hogan
-1915Spalding,1914,Western League,F21196,Hogan,,2,Des Moines,,p,hogan
-1915Spalding,1914,Western League,F21196,Hogan,,T,,,p26,hogan
-1915Spalding,1914,Western League,P10266,Hogan,,0,Des Moines,,P28,hogan
-emilbb,1914,Western League,M90358,Holland,Jack,,St. Joseph,,,
-1915Spalding,1914,Western League,P10738,House,,0,Omaha,,P5,house
-1915Spalding,1914,Western League,B00590,Hunter,,0,Des Moines,,B168,hunter
-1915Spalding,1914,Western League,F20886,Hunter,,0,Des Moines,,of168,hunter
-emilbb,1914,Western League,M90363,Isbell,Frank,,Des Moines,,,
-1915Spalding,1914,Western League,B00324,Jones,W.,0,Des Moines,,B163,jones-dm
-1915Spalding,1914,Western League,B01402,Jones,B.,0,Wichita,,B62,jones-wic
-1915Spalding,1914,Western League,F20023,Jones,W.,0,Des Moines,,1b163,jones-dm
-1915Spalding,1914,Western League,F21771,Jones,B.,0,Wichita,,c60,jones-wic
-1915Spalding,1914,Western League,P10795,Jones,,0,Topeka,,P12,jones-top
-1915Spalding,1914,Western League,B00589,Jordan,,0,Lincoln,,B35,jordan
-1915Spalding,1914,Western League,F21491,Jordan,,0,Lincoln,,p28,jordan
-1915Spalding,1914,Western League,P10244,Jordan,,0,Lincoln,,P33,jordan
-1915Spalding,1914,Western League,B00045,Kane,,0,Sioux City,,B167,kane
-1915Spalding,1914,Western League,F20038,Kane,,0,Sioux City,,1b167,kane
-1915Spalding,1914,Western League,B00865,King,,0,Denver,,B27,king
-1915Spalding,1914,Western League,F21609,King,,0,Denver,,p27,king
-1915Spalding,1914,Western League,P10542,King,,0,Denver,,P27,king
-1915Spalding,1914,Western League,B01490,Kinsella,,0,Des Moines,,B22,kinsella
-1915Spalding,1914,Western League,F21278,Kinsella,,0,Des Moines,,p22,kinsella
-1915Spalding,1914,Western League,P10527,Kinsella,,0,Des Moines,,P23,kinsella
-1915Spalding,1914,Western League,B01572,Klein,,0,Sioux City,,B29,klein
-1915Spalding,1914,Western League,F21335,Klein,,0,Sioux City,,p29,klein
-1915Spalding,1914,Western League,P10516,Klein,,0,Sioux City,,P37,klein
-1915Spalding,1914,Western League,B00117,Koerner,,0,Topeka,,B163,koerner
-1915Spalding,1914,Western League,F20051,Koerner,,0,Topeka,,1b168,koerner
-1915Spalding,1914,Western League,B00182,Krueger,,0,Omaha,,B97,krueger
-1915Spalding,1914,Western League,F21130,Krueger,,0,Omaha,,of32,krueger
-1915Spalding,1914,Western League,F21806,Krueger,,0,Omaha,,c49,krueger
-1915Spalding,1914,Western League,B00381,Krug,,0,Omaha,,B165,krug
-1915Spalding,1914,Western League,F20279,Krug,,0,Omaha,,2b46,krug
-1915Spalding,1914,Western League,F20956,Krug,,0,Omaha,,of111,krug
-1915Spalding,1914,Western League,B01392,Lafferty,,0,St. Joseph,,B36,lafferty
-1915Spalding,1914,Western League,F21286,Lafferty,,0,St. Joseph,,p36,lafferty
-1915Spalding,1914,Western League,P10410,Lafferty,,1,Des Moines,,,lafferty
-1915Spalding,1914,Western League,P10410,Lafferty,,2,St. Joseph,,,lafferty
-1915Spalding,1914,Western League,P10410,Lafferty,,T,,,P41,lafferty
-1915Spalding,1914,Western League,B01135,Laflambois,,0,Topeka,,B58,laflambois
-1915Spalding,1914,Western League,F21037,Laflambois,,0,Topeka,,of57,laflambois
-1915Spalding,1914,Western League,F21427,Lakaff,,0,Des Moines,,p44,lakaff
-1915Spalding,1914,Western League,P10429,Lakaff,,0,Des Moines,,P46,lakaff
-1915Spalding,1914,Western League,B01477,Lakoff,,0,Des Moines,,B44,lakaff
-1915Spalding,1914,Western League,B01234,Lambert,,0,Wichita,,B37,lambert
-1915Spalding,1914,Western League,F21553,Lambert,,0,Wichita,,p37,lambert
-1915Spalding,1914,Western League,P10746,Lambert,,0,Wichita,,P35,lambert
-1915Spalding,1914,Western League,B00442,Lattimore,,0,Topeka,,B121,lattimore
-1915Spalding,1914,Western League,F20190,Lattimore,,0,Topeka,,2b121,lattimore
-1915Spalding,1914,Western League,B00021,Lejeune,,0,Sioux City,,B151,lejeune
-1915Spalding,1914,Western League,F20807,Lejeune,,0,Sioux City,,of150,lejeune
-1915Spalding,1914,Western League,B00771,Lemon,,0,Topeka,,B28,lemon
-1915Spalding,1914,Western League,B00403,Lloyd,,0,Lincoln,,B166,lloyd
-1915Spalding,1914,Western League,F20177,Lloyd,,0,Lincoln,,2b166,lloyd
-emilbb,1914,Western League,M90382,Lloyd,Dick,,Lincoln,,,
-1915Spalding,1914,Western League,P10611,Luhrsen,,1,Omaha,,,luhrsen
-1915Spalding,1914,Western League,P10611,Luhrsen,,2,Sioux City,,,luhrsen
-1915Spalding,1914,Western League,P10611,Luhrsen,,T,,,P12,luhrsen
-1915Spalding,1914,Western League,B01093,Maddox,,0,Wichita,,B20,maddox
-1915Spalding,1914,Western League,F21174,Maddox,,0,Wichita,,p18,maddox
-1915Spalding,1914,Western League,P10503,Maddox,,0,Wichita,,P18,maddox
-emilbb,1914,Western League,M90437,Maddox,Nick,,Wichita,,,
-1915Spalding,1914,Western League,B00343,Matthews,,0,Denver,,B20,matthews
-1915Spalding,1914,Western League,F20128,Matthews,,0,Denver,,2b20,matthews
-1915Spalding,1914,Western League,B00822,McAllister,,0,Topeka,,B88,mcallister
-1915Spalding,1914,Western League,F21651,McAllister,,1,Omaha,,c,mcallister
-1915Spalding,1914,Western League,F21651,McAllister,,2,Topeka,,c,mcallister
-1915Spalding,1914,Western League,F21651,McAllister,,T,,,c72,mcallister
-1915Spalding,1914,Western League,B00207,McCarty,,0,Denver,,B75,mccarty
-1915Spalding,1914,Western League,F20784,McCarty,,0,Denver,,of51,mccarty
-1915Spalding,1914,Western League,B00957,McGaffigan,,0,Lincoln,,B170,mcgaffigan
-1915Spalding,1914,Western League,F20560,McGaffigan,,0,Lincoln,,ss170,mcgaffigan
-1915Spalding,1914,Western League,B01197,McGee,,0,Topeka,,B28,mcgee
-1915Spalding,1914,Western League,F20620,McGee,,0,Topeka,,ss24,mcgee
-1915Spalding,1914,Western League,B00920,McGrath,,0,Topeka,,B15,mcgrath
-1915Spalding,1914,Western League,F21488,McGrath,,0,Topeka,,p15,mcgrath
-1915Spalding,1914,Western League,P10709,McGrath,,0,Topeka,,P16,mcgrath
-1915Spalding,1914,Western League,P10320,Melter,,0,Denver,,P8,melter
-1915Spalding,1914,Western League,B01108,Meyer,,0,Lincoln,,B35,meyer
-1915Spalding,1914,Western League,F21718,Meyer,,0,Lincoln,,c31,meyer
-1915Spalding,1914,Western League,B00638,Miller,,0,Lincoln,,B144,miller
-1915Spalding,1914,Western League,F20962,Miller,,0,Lincoln,,of144,miller
-1915Spalding,1914,Western League,B00210,Mitchell,,0,Denver,,B83,mitchell
-1915Spalding,1914,Western League,F20864,Mitchell,,0,Denver,,of53,mitchell
-1915Spalding,1914,Western League,F21450,Mitchell,,0,Denver,,p16,mitchell
-1915Spalding,1914,Western League,P10569,Mitchell,,0,Denver,,P22,mitchell
-1915Spalding,1914,Western League,B00158,Mogridge,,0,Denver,,B42,mogridge
-1915Spalding,1914,Western League,F21319,Mogridge,,0,Denver,,p38,mogridge
-1915Spalding,1914,Western League,P10228,Mogridge,,0,Denver,,P43,mogridge
-1915Spalding,1914,Western League,P10714,Morgan,,0,Denver,,P15,morgan
-1915Spalding,1914,Western League,P10100,Morse,,0,Lincoln,,P5,morse
-1915Spalding,1914,Western League,B00013,Mullen,,0,Lincoln,,B71,mullen
-1915Spalding,1914,Western League,F20080,Mullen,,0,Lincoln,,1b71,mullen
-emilbb,1914,Western League,M90374,Mullen,Charles,,Lincoln,,,
-1915Spalding,1914,Western League,B00125,Murphy,,0,Sioux City,,B73,murphy
-1915Spalding,1914,Western League,F21672,Murphy,,0,Sioux City,,c70,murphy
-1915Spalding,1914,Western League,B00264,Nicholson,,0,Wichita,,B154,nicholson
-1915Spalding,1914,Western League,F20745,Nicholson,,0,Wichita,,of153,nicholson
-1915Spalding,1914,Western League,B00335,O'Rourke,P.,0,Wichita,,B146,orourke.p
-1915Spalding,1914,Western League,B00912,O'Rourke,J.,0,Wichita,,B27,orourke.j
-1915Spalding,1914,Western League,F20233,O'Rourke,F.,0,Wichita,,2b143,orourke.p
-1915Spalding,1914,Western League,F20878,O'Rourke,J.,1,Wichita,,of,orourke.j
-1915Spalding,1914,Western League,F20878,O'Rourke,J.,2,Sioux City,,of,orourke.j
-1915Spalding,1914,Western League,F20878,O'Rourke,J.,T,,,of19,orourke.j
-1915Spalding,1914,Western League,B01010,Ochs,,0,Wichita,,B140,ochs
-1915Spalding,1914,Western League,F20240,Ochs,,0,Wichita,,2b18,ochs
-1915Spalding,1914,Western League,F20463,Ochs,,0,Wichita,,3b88,ochs
-1915Spalding,1914,Western League,F21013,Ochs,,0,Wichita,,of16,ochs
-1915Spalding,1914,Western League,B00515,Oriet,,0,Lincoln,,B29,oriet
-1915Spalding,1914,Western League,F20316,Oriet,,0,Lincoln,,3b29,oriet
-1915Spalding,1914,Western League,P10826,Ormsby,,0,Omaha,,P5,ormsby
-1915Spalding,1914,Western League,B00174,Patterson,,0,St. Joseph,,B155,patterson
-1915Spalding,1914,Western League,F20067,Patterson,,0,St. Joseph,,1b152,patterson
-1915Spalding,1914,Western League,B00854,Payne,,0,Omaha,,B29,payne
-1915Spalding,1914,Western League,F20334,Payne,,0,Omaha,,3b29,payne
-1915Spalding,1914,Western League,P10640,Perry,,0,Wichita,,P12,perry
-1915Spalding,1914,Western League,B01029,Pettigrew,,0,St. Joseph,,B54,pettigrew
-1915Spalding,1914,Western League,F21092,Pettigrew,,0,St. Joseph,,of24,pettigrew
-1915Spalding,1914,Western League,P10399,Piercy,,0,St. Joseph,,P8,piercy
-1915Spalding,1914,Western League,P10081,Pope,,0,Lincoln,,P7,pope
-1915Spalding,1914,Western League,B00840,Potts,,1,Topeka,,,potts
-1915Spalding,1914,Western League,B00840,Potts,,2,St. Joseph,,,potts
-1915Spalding,1914,Western League,B00840,Potts,,T,,,B26,potts
-1915Spalding,1914,Western League,F21021,Potts,,1,Topeka,,of,potts
-1915Spalding,1914,Western League,F21021,Potts,,2,St. Joseph,,of,potts
-1915Spalding,1914,Western League,F21021,Potts,,T,,,of15,potts
-1915Spalding,1914,Western League,F21590,Purcell,,0,St. Joseph,,p30,purcell
-1915Spalding,1914,Western League,P10407,Purcell,,0,St. Joseph,,P35,purcell
-1915Spalding,1914,Western League,B01567,Pursell,,0,St. Joseph,,B30,purcell
-1915Spalding,1914,Western League,B01124,Quillen,,0,Lincoln,,B130,quillen
-1915Spalding,1914,Western League,F20391,Quillen,,0,Lincoln,,3b130,quillen
-1915Spalding,1914,Western League,B00718,Rapp,G.,0,Wichita,,B135,rapp-wic
-1915Spalding,1914,Western League,B01489,Rapp,,0,Lincoln,,B16,rapp-lin
-1915Spalding,1914,Western League,F20417,Rapp,G.,0,Wichita,,3b57,rapp-wic
-1915Spalding,1914,Western League,F20673,Rapp,C.,0,Wichita,,ss44,rapp-wic
-1915Spalding,1914,Western League,F20924,Rapp,G.,0,Wichita,,of18,rapp-wic
-1915Spalding,1914,Western League,B00241,Rapps,,0,Topeka,,B132,rapps
-1915Spalding,1914,Western League,F20713,Rapps,,0,Topeka,,of52,rapps
-1915Spalding,1914,Western League,F21680,Rapps,,0,Topeka,,c39,rapps
-1915Spalding,1914,Western League,P10289,Reagan,,0,Sioux City,,P12,reagan
-1915Spalding,1914,Western League,B01300,Rehor,,0,Lincoln,,B104,rehor
-1915Spalding,1914,Western League,F21739,Rehor,,0,Lincoln,,c85,rehor
-1915Spalding,1914,Western League,B00397,Reilly,,0,Des Moines,,B71,reilly
-1915Spalding,1914,Western League,F20539,Reilly,,0,Des Moines,,ss71,reilly
-1915Spalding,1914,Western League,B01269,Reisigl,,0,Topeka,,B49,reisigl
-1915Spalding,1914,Western League,F21232,Reisigl,,0,Topeka,,p32,reisigl
-1915Spalding,1914,Western League,P10056,Reisigl,,0,Topeka,,P36,reisigl
-1915Spalding,1914,Western League,P10373,Richie,,0,Sioux City,,P10,richie
-1915Spalding,1914,Western League,B01523,Ridgeway,,0,Topeka,,B21,ridgeway
-1915Spalding,1914,Western League,F21356,Ridgeway,,0,Topeka,,p21,ridgeway
-1915Spalding,1914,Western League,P10304,Ridgeway,,0,Topeka,,P20,ridgeway
-1915Spalding,1914,Western League,P10176,Riley,,0,Sioux City,,P5,riley
-emilbb,1914,Western League,M90396,Rourke,"William ""Pa""",,Omaha,,,
-1915Spalding,1914,Western League,P10751,Salisbury,,1,Des Moines,,,salisbury
-1915Spalding,1914,Western League,P10751,Salisbury,,2,Wichita,,,salisbury
-1915Spalding,1914,Western League,P10751,Salisbury,,T,,,P5,salisbury
-1915Spalding,1914,Western League,P10019,Sanders,,0,Omaha,,P7,sanders
-1915Spalding,1914,Western League,P10534,Sanford,,0,Topeka,,P16,sanford
-1915Spalding,1914,Western League,B00566,Schang,,0,St. Joseph,,B124,schang
-1915Spalding,1914,Western League,F21726,Schang,,0,St. Joseph,,c100,schang
-1915Spalding,1914,Western League,B00726,Schliebner,,0,Omaha,,B80,schleibner
-1915Spalding,1914,Western League,F20095,Schliebner,,0,Omaha,,1b80,schleibner
-1915Spalding,1914,Western League,P10478,Schreiber,B.,0,Denver,,P40,schrieber-den
-1915Spalding,1914,Western League,B01086,Schrieber,J.,0,Denver,,B37,schrieber-den
-1915Spalding,1914,Western League,B01170,Schrieber,,0,Lincoln,,B139,schrieber-lin
-1915Spalding,1914,Western League,F20855,Schrieber,H.,0,Lincoln,,of113,schrieber-lin
-1915Spalding,1914,Western League,F21343,Schrieber,B.,0,Denver,,p36,schrieber-den
-1915Spalding,1914,Western League,B01041,Scoggins,,0,Lincoln,,B37,scoggins
-1915Spalding,1914,Western League,F21416,Scoggins,,0,Lincoln,,p35,scoggins
-1915Spalding,1914,Western League,P10035,Scoggins,,0,Lincoln,,P44,scoggins
-1915Spalding,1914,Western League,B01546,Scott,,0,Wichita,,B30,scott
-1915Spalding,1914,Western League,F21502,Scott,,0,Wichita,,p30,scott
-1915Spalding,1914,Western League,P10575,Scott,,0,Wichita,,P32,scott
-1915Spalding,1914,Western League,B00646,Seabaugh,,0,Omaha,,B27,seabaugh
-1915Spalding,1914,Western League,F21752,Seabaugh,,0,Omaha,,c26,seabaugh
-1915Spalding,1914,Western League,B00427,Shaw,,0,Des Moines,,B62,shaw
-1915Spalding,1914,Western League,F21623,Shaw,,0,Des Moines,,c23,shaw
-1915Spalding,1914,Western League,B00672,Shestak,,0,Omaha,,B33,shestak
-1915Spalding,1914,Western League,F21794,Shestak,,0,Omaha,,c24,shestak
-1915Spalding,1914,Western League,B00362,Shipke,,0,Omaha,,B77,shipke
-1915Spalding,1914,Western League,F20166,Shipke,,0,Omaha,,2b75,shipke
-1915Spalding,1914,Western League,P10839,Shirley,,0,Sioux City,,P5,shirley
-1915Spalding,1914,Western League,B01551,Slagle,,0,Wichita,,B28,slagle
-1915Spalding,1914,Western League,F21293,Slagle,,0,Wichita,,p26,slagle
-1915Spalding,1914,Western League,P10385,Slagle,,0,Wichita,,P25,slagle
-1915Spalding,1914,Western League,P10805,Slattery,,0,Des Moines,,P10,slattery
-1915Spalding,1914,Western League,B00434,Smith,,0,Sioux City,,B149,smith-sc
-1915Spalding,1914,Western League,B01203,Smith,,0,Lincoln,,B44,smith-lin
-1915Spalding,1914,Western League,F20303,Smith,,0,Sioux City,,3b16,smith-sc
-1915Spalding,1914,Western League,F20526,Smith,,0,Lincoln,,ss133,smith-lin
-1915Spalding,1914,Western League,F21515,Smith,,0,Lincoln,,p27,smith-lin
-1915Spalding,1914,Western League,P10606,Smith,,0,Lincoln,,P32,smith-lin
-1915Spalding,1914,Western League,B00130,Spahr,,0,Denver,,B100,spahr
-1915Spalding,1914,Western League,F21646,Spahr,,0,Denver,,c93,spahr
-1915Spalding,1914,Western League,B00255,Sterzer,,0,St. Joseph,,B90,sterzer
-1915Spalding,1914,Western League,F21589,Sterzer,,0,St. Joseph,,p45,sterzer
-1915Spalding,1914,Western League,P10184,Sterzer,,0,St. Joseph,,P51,sterzer
-1915Spalding,1914,Western League,P10772,Stevens,G.,0,Omaha,,P6,stevens
-1915Spalding,1914,Western League,P10591,Stevenson,,0,Omaha,,P10,stevenson
-1915Spalding,1914,Western League,B01119,Stoloff,,0,St. Joseph,,B42,stoloff
-1915Spalding,1914,Western League,F20657,Stoloff,,0,St. Joseph,,ss38,stoloff
-1915Spalding,1914,Western League,B01415,Styles,,0,Omaha,,B21,styles
-1915Spalding,1914,Western League,F21370,Styles,,0,Omaha,,p21,styles
-1915Spalding,1914,Western League,P10290,Styles,,0,Omaha,,P22,styles
-1915Spalding,1914,Western League,B00747,Tallion,,0,Topeka,,B166,tallion
-1915Spalding,1914,Western League,F20474,Tallion,,0,Topeka,,3b20,tallion
-1915Spalding,1914,Western League,F20648,Tallion,,0,Topeka,,ss7,tallion
-1915Spalding,1914,Western League,F21068,Tallion,,0,Topeka,,of63,tallion
-1915Spalding,1914,Western League,B00544,Thomas,F.,0,Omaha,,B150,thomas-oma
-1915Spalding,1914,Western League,B01288,Thomas,,0,Des Moines,,B15,thomas-dm
-1915Spalding,1914,Western League,B01376,Thomas,D.,0,St. Joseph,,B40,thomas-stj
-1915Spalding,1914,Western League,F20327,Thomas,F.,0,Omaha,,3b62,thomas-oma
-1915Spalding,1914,Western League,F20612,Thomas,F.,0,Omaha,,ss86,thomas-oma
-1915Spalding,1914,Western League,F21158,Thomas,D.,0,St. Joseph,,p40,thomas-stj
-1915Spalding,1914,Western League,F21403,Thomas,,0,Des Moines,,p15,thomas-dm
-1915Spalding,1914,Western League,P10024,Thomas,,0,Des Moines,,P14,thomas-dm
-1915Spalding,1914,Western League,P10145,Thomas,D.,0,St. Joseph,,P43,thomas-stj
-1915Spalding,1914,Western League,B00101,Thomason,,0,Omaha,,B157,thomason
-1915Spalding,1914,Western League,F20759,Thomason,,0,Omaha,,of157,thomason
-1915Spalding,1914,Western League,B01337,Tipple,,0,Omaha,,B38,tipple
-1915Spalding,1914,Western League,F21528,Tipple,,0,Omaha,,p36,tipple
-1915Spalding,1914,Western League,P10312,Tipple,,0,Omaha,,P40,tipple
-1915Spalding,1914,Western League,P10464,Turner,,0,Des Moines,,P17,turner
-1915Spalding,1914,Western League,B00806,Tydeman,,0,Wichita,,B60,tydeman
-1915Spalding,1914,Western League,F21045,Tydeman,,0,Wichita,,of59,tydeman
-1915Spalding,1914,Western League,B01368,Vance,,0,St. Joseph,,B20,vance
-1915Spalding,1914,Western League,F21381,Vance,,0,St. Joseph,,p20,vance
-1915Spalding,1914,Western League,P10121,Vance,,0,St. Joseph,,P21,vance
-1915Spalding,1914,Western League,P10818,Vaught,,0,Wichita,,P5,vaught
-1915Spalding,1914,Western League,B01444,Waite,,0,Topeka,,B31,waite
-1915Spalding,1914,Western League,F21822,Waite,,0,Topeka,,c29,waite
-1915Spalding,1914,Western League,B00999,Wakefield,,0,Topeka,,B81,wakefield
-1915Spalding,1914,Western League,F20792,Wakefield,,0,Topeka,,of79,wakefield
-1915Spalding,1914,Western League,B00936,Wall,,0,St. Joseph,,B117,wall
-1915Spalding,1914,Western League,F20298,Wall,,0,St. Joseph,,3b56,wall
-1915Spalding,1914,Western League,F20571,Wall,,0,St. Joseph,,ss61,wall
-1915Spalding,1914,Western League,B00356,Ward,,1,Omaha,,,ward
-1915Spalding,1914,Western League,B00356,Ward,,2,St. Joseph,,,ward
-1915Spalding,1914,Western League,B00356,Ward,,T,,,B97,ward
-1915Spalding,1914,Western League,F20014,Ward,,0,Omaha,,1b24,ward
-1915Spalding,1914,Western League,F20350,Ward,,0,Omaha,,3b55,ward
-1915Spalding,1914,Western League,B00488,Watson,G.,0,St. Joseph,,B158,watson.g
-1915Spalding,1914,Western League,B00680,Watson,R.,0,St. Joseph,,B144,watson.r
-1915Spalding,1914,Western League,F20254,Watson,R.,0,St. Joseph,,2b144,watson.r
-1915Spalding,1914,Western League,F20841,Watson,G.,0,St. Joseph,,of154,watson.g
-1915Spalding,1914,Western League,P10277,Weldman,,0,Topeka,,P12,weidman
-1915Spalding,1914,Western League,P10679,Wetzel,,0,Denver,,P5,wetzel
-1915Spalding,1914,Western League,B00577,Whelan,,0,Topeka,,B38,whelan
-1915Spalding,1914,Western League,F21076,Whelan,,0,Topeka,,of30,whelan
-1915Spalding,1914,Western League,B01250,White,,0,Sioux City,,B48,white
-1915Spalding,1914,Western League,F21362,White,,0,Sioux City,,p34,white
-1915Spalding,1914,Western League,P10253,White,,0,Sioux City,,P38,white
-1915Spalding,1914,Western League,P10192,Willey,,0,St. Joseph,,P8,willey
-1915Spalding,1914,Western League,B00232,Williams,R.,0,St. Joseph,,B111,williams-stj
-1915Spalding,1914,Western League,B00739,Williams,H.,0,Lincoln,,B79,williams-lin
-1915Spalding,1914,Western League,F20115,Williams,H.,0,Lincoln,,1b78,williams-lin
-1915Spalding,1914,Western League,F20943,Williams,R.,0,St. Joseph,,of128,williams-stj
-1915Spalding,1914,Western League,B01428,Willis,,0,Omaha,,B39,willis
-1915Spalding,1914,Western League,F21163,Willis,,0,Omaha,,p39,willis
-1915Spalding,1914,Western League,P10113,Willis,,0,Omaha,,P46,willis
-1915Spalding,1914,Western League,P10654,Withers,,0,Sioux City,,P12,withers
-1915Spalding,1914,Western League,P10767,Witte,,0,Denver,,P9,witte
-1915Spalding,1914,Western League,P10633,Woodburn,,0,Sioux City,,P16,woodburn
-1915Spalding,1914,Western League,B00450,Zamloch,,0,Denver,,B30,zamloch
-1915Spalding,1914,Western League,F21182,Zamloch,,0,Denver,,p27,zamloch
-1915Spalding,1914,Western League,P10493,Zamloch,,0,Denver,,P29,zamloch
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+1915Spalding,1914,Western League,adams,P10070,Adams,,0,St. Joseph,,P7
+1915Spalding,1914,Western League,allen,B01032,Allen,,0,Lincoln,,B56
+1915Spalding,1914,Western League,allen,F21125,Allen,,0,Lincoln,,of56
+1915Spalding,1914,Western League,altman,B00092,Altman,,0,Lincoln,,B19
+1915Spalding,1914,Western League,altman,F20699,Altman,,0,Lincoln,,of19
+1915Spalding,1914,Western League,andreas,B00887,Andreas,,0,Des Moines,,B105
+1915Spalding,1914,Western League,andreas,F20189,Andreas,,0,Des Moines,,2b96
+1915Spalding,1914,Western League,baird,B00149,Baird,,0,Sioux City,,B158
+1915Spalding,1914,Western League,baird,F20375,Baird,,0,Sioux City,,3b108
+1915Spalding,1914,Western League,baird,F20776,Baird,,0,Sioux City,,of43
+1915Spalding,1914,Western League,baker,B01359,Baker,,0,Wichita,,B29
+1915Spalding,1914,Western League,baker,F21531,Baker,,0,Wichita,,p26
+1915Spalding,1914,Western League,baker,P10357,Baker,,0,Wichita,,P28
+1915Spalding,1914,Western League,barbour,B00752,Barbour,,0,Denver,,B142
+1915Spalding,1914,Western League,barbour,F20449,Barbour,,0,Denver,,3b142
+1915Spalding,1914,Western League,bell-oma,B00308,Bell,,0,Omaha,,B41
+1915Spalding,1914,Western League,bell-oma,F20768,Bell,,0,Omaha,,of40
+1915Spalding,1914,Western League,bell-sj,P10687,Bell,,0,St. Joseph,,P9
+1915Spalding,1914,Western League,bennett,B00076,Bennett,,0,St. Joseph,,B15
+1915Spalding,1914,Western League,bills,B00196,Bills,,0,Wichita,,B156
+1915Spalding,1914,Western League,bills,F20893,Bills,,0,Wichita,,of149
+1915Spalding,1914,Western League,blackburn,B00948,Blackburn,,0,Lincoln,,B68
+1915Spalding,1914,Western League,blackburn,F21811,Blackburn,,0,Lincoln,,c54
+1915Spalding,1914,Western League,block,B00491,Block,,0,Denver,,B138
+1915Spalding,1914,Western League,block,F20482,Block,,0,Denver,,3b26
+1915Spalding,1914,Western League,block,F21705,Block,,0,Denver,,c79
+1915Spalding,1914,Western League,bossonoloni,B00623,Bossonoloni,,0,Wichita,,B83
+1915Spalding,1914,Western League,bossonoloni,F21000,Bossonoloni,,0,Wichita,,of77
+1915Spalding,1914,Western League,bowen,B00833,Bowen,,0,Topeka,,B18
+1915Spalding,1914,Western League,bowen,F20594,Bowen,,0,Topeka,,ss18
+1915Spalding,1914,Western League,bramble,B00973,Bramble,,1,Sioux City,,
+1915Spalding,1914,Western League,bramble,B00973,Bramble,,2,Topeka,,
+1915Spalding,1914,Western League,bramble,B00973,Bramble,,T,,,B38
+1915Spalding,1914,Western League,bramble,F21117,Bramble,,1,Sioux City,,of
+1915Spalding,1914,Western League,bramble,F21117,Bramble,,2,Topeka,,of
+1915Spalding,1914,Western League,bramble,F21117,Bramble,,T,,,of25
+1915Spalding,1914,Western League,breen,B00760,Breen,,0,Des Moines,,B167
+1915Spalding,1914,Western League,breen,F20919,Breen,,0,Des Moines,,of167
+1915Spalding,1914,Western League,britton,B00475,Britton,,0,St. Joseph,,B161
+1915Spalding,1914,Western League,britton,F20153,Britton,,0,St. Joseph,,2b15
+1915Spalding,1914,Western League,britton,F20430,Britton,,0,St. Joseph,,3b89
+1915Spalding,1914,Western League,britton,F20685,Britton,,0,St. Joseph,,ss57
+1915Spalding,1914,Western League,brown,B01538,Brown,,0,St. Joseph,,B36
+1915Spalding,1914,Western League,brown,F21577,Brown,,1,Topeka,,p
+1915Spalding,1914,Western League,brown,F21577,Brown,,2,St. Joseph,,p
+1915Spalding,1914,Western League,brown,F21577,Brown,,T,,,p36
+1915Spalding,1914,Western League,brown,P10588,Brown,,1,Topeka,,
+1915Spalding,1914,Western League,brown,P10588,Brown,,2,St. Joseph,,
+1915Spalding,1914,Western League,brown,P10588,Brown,,T,,,P39
+1915Spalding,1914,Western League,burrell,B00667,Burrell,,0,Des Moines,,B148
+1915Spalding,1914,Western League,burrell,F20425,Burrell,,1,Des Moines,,3b
+1915Spalding,1914,Western League,burrell,F20425,Burrell,,2,Omaha,,3b
+1915Spalding,1914,Western League,burrell,F20425,Burrell,,3,St. Joseph,,3b
+1915Spalding,1914,Western League,burrell,F20425,Burrell,,T,,,3b131
+1915Spalding,1914,Western League,butcher,B00059,Butcher,,0,Denver,,B156
+1915Spalding,1914,Western League,butcher,F20832,Butcher,,0,Denver,,of145
+1915Spalding,1914,Western League,callahan,B00319,Callahan,,0,Sioux City,,B147
+1915Spalding,1914,Western League,callahan,F20369,Callahan,,0,Sioux City,,3b47
+1915Spalding,1914,Western League,callahan,F20547,Callahan,,0,Sioux City,,ss31
+1915Spalding,1914,Western League,callahan,F20829,Callahan,,0,Sioux City,,of63
+1915Spalding,1914,Western League,cassidy,B00278,Cassidy,,0,Denver,,B154
+1915Spalding,1914,Western League,cassidy,F20737,Cassidy,,0,Denver,,of153
+1915Spalding,1914,Western League,chase,B00794,Chase,,0,Omaha,,B55
+1915Spalding,1914,Western League,chase,F20046,Chase,,0,Omaha,,1b55
+1915Spalding,1914,Western League,clancy,B01227,Clancy,,0,Omaha,,B38
+1915Spalding,1914,Western League,clancy,F20342,Clancy,,0,Omaha,,3b18
+1915Spalding,1914,Western League,clancy,F20518,Clancy,,0,Omaha,,ss17
+1915Spalding,1914,Western League,clark.c-top+sc,B01143,Clark,C.,0,Sioux City,,B44
+1915Spalding,1914,Western League,clark.g-dm+top,P10847,Clark,G.,1,Des Moines,,
+1915Spalding,1914,Western League,clark.g-dm+top,P10847,Clark,G.,2,Topeka,,
+1915Spalding,1914,Western League,clark.g-dm+top,P10847,Clark,G.,T,,,P9
+1915Spalding,1914,Western League,clarke.j-sc,B00531,Clarke,J.,0,Sioux City,,B127
+1915Spalding,1914,Western League,clarke.j-sc,F20721,Clarke,J.,0,Sioux City,,of121
+1915Spalding,1914,Western League,clark.c-top+sc,F21210,Clarke,C. R.,1,Topeka,,p
+1915Spalding,1914,Western League,clark.c-top+sc,F21210,Clarke,C. R.,2,Sioux City,,p
+1915Spalding,1914,Western League,clark.c-top+sc,F21210,Clarke,C. R.,T,,,p39
+1915Spalding,1914,Western League,clark.c-top+sc,P10348,Clarke,C. R.,1,Topeka,,
+1915Spalding,1914,Western League,clark.c-top+sc,P10348,Clarke,C. R.,2,Sioux City,,
+1915Spalding,1914,Western League,clark.c-top+sc,P10348,Clarke,C. R.,T,,,P44
+emilbb,1914,Western League,,M90330,Clarke,Josh,,Sioux City,,
+1915Spalding,1914,Western League,claus,P10043,Claus,,0,Lincoln,,P9
+1915Spalding,1914,Western League,clemens,B01321,Clemens,,0,Wichita,,B26
+1915Spalding,1914,Western League,clemens,P10455,Clemens,,0,Wichita,,P27
+1915Spalding,1914,Western League,clemens,F21442,Clemons,,0,Wichita,,p26
+1915Spalding,1914,Western League,closman,B01275,Closman,,0,Omaha,,B24
+1915Spalding,1914,Western League,closman,F21397,Closman,,0,Omaha,,p24
+1915Spalding,1914,Western League,closman,P10336,Closman,,0,Omaha,,P27
+1915Spalding,1914,Western League,cochran,B00811,Cochran,,0,Topeka,,B160
+1915Spalding,1914,Western League,cochran,F20401,Cochran,,0,Topeka,,3b145
+1915Spalding,1914,Western League,cochran,F20496,Cochran,,0,Topeka,,ss15
+1915Spalding,1914,Western League,coffey,B00084,Coffey,,0,Denver,,B165
+1915Spalding,1914,Western League,coffey,F20505,Coffey,,0,Denver,,ss164
+emilbb,1914,Western League,,M90349,Coffey,Jack,,Denver,,
+1915Spalding,1914,Western League,collier,P10780,Collier,,0,Des Moines,,P14
+1915Spalding,1914,Western League,collins,B00961,Collins,,0,Lincoln,,B165
+1915Spalding,1914,Western League,collins,F20970,Collins,,0,Lincoln,,of163
+1915Spalding,1914,Western League,congalton,B00068,Congalton,,0,Omaha,,B136
+1915Spalding,1914,Western League,congalton,F21084,Congalton,,0,Omaha,,of136
+emilbb,1914,Western League,,M90421,Cooley,Dick,,Topeka,,
+1915Spalding,1914,Western League,cooney-sc,B00695,Cooney,P.,0,Sioux City,,B167
+1915Spalding,1914,Western League,cooney-lin,B01466,Cooney,J.,0,Lincoln,,B28
+1915Spalding,1914,Western League,cooney-sc,F20131,Cooney,P.,0,Sioux City,,2b167
+1915Spalding,1914,Western League,cooney-lin,F21614,Cooney,J.,0,Lincoln,,p28
+1915Spalding,1914,Western League,cooney-lin,P10361,Cooney,J.,0,Lincoln,,P31
+1915Spalding,1914,Western League,crabb,B01509,Crabb,,0,Omaha,,B22
+1915Spalding,1914,Western League,crabb,F21544,Crabb,,0,Omaha,,p22
+1915Spalding,1914,Western League,crabb,P10202,Crabb,,0,Omaha,,P22
+1915Spalding,1914,Western League,crisp,B00553,Crisp,,0,Sioux City,,B99
+1915Spalding,1914,Western League,crisp,F21760,Crisp,,0,Sioux City,,c89
+1915Spalding,1914,Western League,crosby,B01064,Crosby,,0,Omaha,,B74
+1915Spalding,1914,Western League,crosby,F21667,Crosby,,0,Omaha,,c66
+1915Spalding,1914,Western League,dashner,B00469,Dashner,,0,Topeka,,B18
+1915Spalding,1914,Western League,dashner,F21264,Dashner,,0,Topeka,,p18
+1915Spalding,1914,Western League,dashner,P10215,Dashner,,0,Topeka,,P21
+1915Spalding,1914,Western League,davidson,B00528,Davidson,,0,Sioux City,,B108
+1915Spalding,1914,Western League,davidson,F20997,Davidson,,0,Sioux City,,of107
+1915Spalding,1914,Western League,davis,B00609,Davis,,0,St. Joseph,,B50
+1915Spalding,1914,Western League,davis,F20700,Davis,,0,St. Joseph,,of48
+1915Spalding,1914,Western League,dessau,B01431,Dessau,,0,Lincoln,,B33
+1915Spalding,1914,Western League,dessau,F21469,Dessau,,0,Lincoln,,p33
+1915Spalding,1914,Western League,dessau,P10231,Dessau,,0,Lincoln,,P30
+1915Spalding,1914,Western League,dowd,B01453,Dowd,,0,Topeka,,B18
+1915Spalding,1914,Western League,dowd,F20206,Dowd,,0,Topeka,,2b18
+1915Spalding,1914,Western League,doyle,B01514,Doyle,,0,Sioux City,,B35
+1915Spalding,1914,Western League,doyle,F21255,Doyle,,0,Sioux City,,p33
+1915Spalding,1914,Western League,doyle,P10486,Doyle,,0,Sioux City,,P39
+1915Spalding,1914,Western League,duffy,B01345,Duffy,,0,Des Moines,,B27
+1915Spalding,1914,Western League,duffy,F21324,Duffy,,0,Des Moines,,p25
+1915Spalding,1914,Western League,duffy,P10665,Duffy,,0,Des Moines,,P34
+1915Spalding,1914,Western League,dunlap,B01216,Dunlap,,0,Omaha,,B45
+1915Spalding,1914,Western League,dunlap,F20661,Dunlap,,0,Omaha,,ss44
+1915Spalding,1914,Western League,durham,B01181,Durham,,0,Wichita,,B37
+1915Spalding,1914,Western League,durham,F21475,Durham,,0,Wichita,,p34
+1915Spalding,1914,Western League,durham,P10698,Durham,,0,Wichita,,P34
+1915Spalding,1914,Western League,eddington,B00037,Eddington,,0,Denver,,B100
+1915Spalding,1914,Western League,eddington,F20981,Eddington,,0,Denver,,of100
+1915Spalding,1914,Western League,ehman,B01156,Ehman,,0,Lincoln,,B37
+1915Spalding,1914,Western League,ehman,F21308,Ehman,,0,Lincoln,,p35
+1915Spalding,1914,Western League,ehman,P10168,Ehman,,0,Lincoln,,P36
+1915Spalding,1914,Western League,ewoldt,B00879,Ewoldt,,0,Des Moines,,B137
+1915Spalding,1914,Western League,ewoldt,F20287,Ewoldt,,0,Des Moines,,2b48
+1915Spalding,1914,Western League,ewoldt,F20388,Ewoldt,,0,Des Moines,,3b55
+1915Spalding,1914,Western League,ewoldt,F20552,Ewoldt,,0,Des Moines,,ss30
+1915Spalding,1914,Western League,faircloth,B01580,Faircloth,,0,Topeka,,B18
+1915Spalding,1914,Western League,faircloth,F21566,Faircloth,,0,Topeka,,p18
+1915Spalding,1914,Western League,faircloth,P10723,Faircloth,,0,Topeka,,P20
+1915Spalding,1914,Western League,faye,B00416,Faye,,0,Denver,,B157
+1915Spalding,1914,Western League,faye,F20211,Faye,,0,Denver,,2b120
+1915Spalding,1914,Western League,faye,F21059,Faye,,0,Denver,,of21
+1915Spalding,1914,Western League,fisher,B00502,Fisher,,0,Denver,,B152
+1915Spalding,1914,Western League,fisher,F20102,Fisher,,0,Denver,,1b152
+1915Spalding,1914,Western League,fitzsimmons,B00783,Fitzsimmons,,0,Wichita,,B128
+1915Spalding,1914,Western League,fitzsimmons,F20604,Fitzsimmons,,0,Wichita,,ss126
+1915Spalding,1914,Western League,forsythe,B00163,Forsythe,,0,Topeka,,B161
+1915Spalding,1914,Western League,forsythe,F21101,Forsythe,,0,Topeka,,of161
+1915Spalding,1914,Western League,fox,B00286,Fox,,0,St. Joseph,,B164
+1915Spalding,1914,Western League,fox,F20908,Fox,,0,St. Joseph,,of164
+1915Spalding,1914,Western League,french-den,B00651,French,C.,0,Denver,,B23
+1915Spalding,1914,Western League,french-top,B01055,French,J.,0,Topeka,,B29
+1915Spalding,1914,Western League,french-den,F20144,French,C.,0,Denver,,2b22
+1915Spalding,1914,Western League,french-top,F20583,French,J.,0,Topeka,,ss29
+1915Spalding,1914,Western League,garrett,P10622,Garrett,,0,Omaha,,P10
+1915Spalding,1914,Western League,gaskell,B01384,Gaskell,,0,Denver,,B41
+1915Spalding,1914,Western League,gaskell,F21207,Gaskell,,0,Denver,,p41
+1915Spalding,1914,Western League,gaskell,P10159,Gaskell,,0,Denver,,P42
+1915Spalding,1914,Western League,gaspar,B01078,Gaspar,,0,Sioux City,,B33
+1915Spalding,1914,Western League,gaspar,F21241,Gaspar,,0,Sioux City,,p33
+1915Spalding,1914,Western League,gaspar,P10137,Gaspar,,0,Sioux City,,P34
+1915Spalding,1914,Western League,gear,B00898,Gear,,0,Topeka,,B30
+1915Spalding,1914,Western League,gear,F20935,Gear,,0,Topeka,,of24
+emilbb,1914,Western League,,M90413,Gear,Dale,,Topeka,,
+1915Spalding,1914,Western League,glaze,B01162,Glaze,,0,Topeka,,B20
+1915Spalding,1914,Western League,glaze,F21149,Glaze,,1,Topeka,,p
+1915Spalding,1914,Western League,glaze,F21149,Glaze,,2,St. Joseph,,p
+1915Spalding,1914,Western League,glaze,F21149,Glaze,,T,,,p20
+1915Spalding,1914,Western League,glaze,P10550,Glaze,,0,Topeka,,P21
+1915Spalding,1914,Western League,gleason,B01313,Gleason,,0,Topeka,,B22
+1915Spalding,1914,Western League,gleason,F21747,Gleason,,0,Topeka,,c20
+emilbb,1914,Western League,,M90400,Gondling,John,,Omaha,,
+1915Spalding,1914,Western League,gourley,B00293,Gourley,,0,Wichita,,B16
+1915Spalding,1914,Western League,gourley,F20458,Gourley,,0,Wichita,,3b16
+1915Spalding,1914,Western League,graham-wic,B00614,Graham,P.,0,Wichita,,B130
+1915Spalding,1914,Western League,graham-oma,B01291,Graham,G.,0,Omaha,,B45
+1915Spalding,1914,Western League,graham-oma,F20265,Graham,G.,0,Omaha,,2b43
+1915Spalding,1914,Western League,graham-wic,F21783,Graham,P.,0,Wichita,,c111
+emilbb,1914,Western League,,M90445,Graham,George,,Wichita,,
+1915Spalding,1914,Western League,griffith,B00705,Griffith,,0,St. Joseph,,B81
+1915Spalding,1914,Western League,griffith,F21695,Griffith,,0,St. Joseph,,c70
+1915Spalding,1914,Western League,grover,B01242,Grover,,0,Topeka,,B39
+1915Spalding,1914,Western League,grover,F21434,Grover,,0,Topeka,,p37
+1915Spalding,1914,Western League,grover,P10062,Grover,,0,Topeka,,P39
+1915Spalding,1914,Western League,hahn,B00229,Hahn,,0,Des Moines,,B168
+1915Spalding,1914,Western League,hahn,F20810,Hahn,,0,Des Moines,,of168
+1915Spalding,1914,Western League,haley,B00370,Haley,,0,Des Moines,,B156
+1915Spalding,1914,Western League,haley,F21638,Haley,,0,Des Moines,,c146
+1915Spalding,1914,Western League,harrington,B00904,Harrington,,0,Denver,,B41
+1915Spalding,1914,Western League,harrington,F21229,Harrington,,0,Denver,,p35
+1915Spalding,1914,Western League,harrington,P10097,Harrington,,0,Denver,,P39
+1915Spalding,1914,Western League,hartford,B00985,Hartford,,0,Des Moines,,B86
+1915Spalding,1914,Western League,hartford,F20222,Hartford,,0,Des Moines,,2b18
+1915Spalding,1914,Western League,hartford,F20636,Hartford,,0,Des Moines,,ss67
+1915Spalding,1914,Western League,henry,B01007,Henry,,0,Wichita,,B166
+1915Spalding,1914,Western League,henry,F20072,Henry,,0,Wichita,,1b166
+1915Spalding,1914,Western League,hicks,P10441,Hicks,,0,Omaha,,P5
+1915Spalding,1914,Western League,higginbotham,P10432,Higginbotham,,0,Topeka,,P14
+1915Spalding,1914,Western League,hogan,B01595,Hogan,,1,Denver,,
+1915Spalding,1914,Western League,hogan,B01595,Hogan,,2,Sioux City,,
+1915Spalding,1914,Western League,hogan,B01595,Hogan,,T,,,B27
+1915Spalding,1914,Western League,hogan,F21196,Hogan,,1,Sioux City,,p
+1915Spalding,1914,Western League,hogan,F21196,Hogan,,2,Des Moines,,p
+1915Spalding,1914,Western League,hogan,F21196,Hogan,,T,,,p26
+1915Spalding,1914,Western League,hogan,P10266,Hogan,,0,Des Moines,,P28
+emilbb,1914,Western League,,M90358,Holland,Jack,,St. Joseph,,
+1915Spalding,1914,Western League,house,P10738,House,,0,Omaha,,P5
+1915Spalding,1914,Western League,hunter,B00590,Hunter,,0,Des Moines,,B168
+1915Spalding,1914,Western League,hunter,F20886,Hunter,,0,Des Moines,,of168
+emilbb,1914,Western League,,M90363,Isbell,Frank,,Des Moines,,
+1915Spalding,1914,Western League,jones-dm,B00324,Jones,W.,0,Des Moines,,B163
+1915Spalding,1914,Western League,jones-wic,B01402,Jones,B.,0,Wichita,,B62
+1915Spalding,1914,Western League,jones-dm,F20023,Jones,W.,0,Des Moines,,1b163
+1915Spalding,1914,Western League,jones-wic,F21771,Jones,B.,0,Wichita,,c60
+1915Spalding,1914,Western League,jones-top,P10795,Jones,,0,Topeka,,P12
+1915Spalding,1914,Western League,jordan,B00589,Jordan,,0,Lincoln,,B35
+1915Spalding,1914,Western League,jordan,F21491,Jordan,,0,Lincoln,,p28
+1915Spalding,1914,Western League,jordan,P10244,Jordan,,0,Lincoln,,P33
+1915Spalding,1914,Western League,kane,B00045,Kane,,0,Sioux City,,B167
+1915Spalding,1914,Western League,kane,F20038,Kane,,0,Sioux City,,1b167
+1915Spalding,1914,Western League,king,B00865,King,,0,Denver,,B27
+1915Spalding,1914,Western League,king,F21609,King,,0,Denver,,p27
+1915Spalding,1914,Western League,king,P10542,King,,0,Denver,,P27
+1915Spalding,1914,Western League,kinsella,B01490,Kinsella,,0,Des Moines,,B22
+1915Spalding,1914,Western League,kinsella,F21278,Kinsella,,0,Des Moines,,p22
+1915Spalding,1914,Western League,kinsella,P10527,Kinsella,,0,Des Moines,,P23
+1915Spalding,1914,Western League,klein,B01572,Klein,,0,Sioux City,,B29
+1915Spalding,1914,Western League,klein,F21335,Klein,,0,Sioux City,,p29
+1915Spalding,1914,Western League,klein,P10516,Klein,,0,Sioux City,,P37
+1915Spalding,1914,Western League,koerner,B00117,Koerner,,0,Topeka,,B163
+1915Spalding,1914,Western League,koerner,F20051,Koerner,,0,Topeka,,1b168
+1915Spalding,1914,Western League,krueger,B00182,Krueger,,0,Omaha,,B97
+1915Spalding,1914,Western League,krueger,F21130,Krueger,,0,Omaha,,of32
+1915Spalding,1914,Western League,krueger,F21806,Krueger,,0,Omaha,,c49
+1915Spalding,1914,Western League,krug,B00381,Krug,,0,Omaha,,B165
+1915Spalding,1914,Western League,krug,F20279,Krug,,0,Omaha,,2b46
+1915Spalding,1914,Western League,krug,F20956,Krug,,0,Omaha,,of111
+1915Spalding,1914,Western League,lafferty,B01392,Lafferty,,0,St. Joseph,,B36
+1915Spalding,1914,Western League,lafferty,F21286,Lafferty,,0,St. Joseph,,p36
+1915Spalding,1914,Western League,lafferty,P10410,Lafferty,,1,Des Moines,,
+1915Spalding,1914,Western League,lafferty,P10410,Lafferty,,2,St. Joseph,,
+1915Spalding,1914,Western League,lafferty,P10410,Lafferty,,T,,,P41
+1915Spalding,1914,Western League,laflambois,B01135,Laflambois,,0,Topeka,,B58
+1915Spalding,1914,Western League,laflambois,F21037,Laflambois,,0,Topeka,,of57
+1915Spalding,1914,Western League,lakaff,F21427,Lakaff,,0,Des Moines,,p44
+1915Spalding,1914,Western League,lakaff,P10429,Lakaff,,0,Des Moines,,P46
+1915Spalding,1914,Western League,lakaff,B01477,Lakoff,,0,Des Moines,,B44
+1915Spalding,1914,Western League,lambert,B01234,Lambert,,0,Wichita,,B37
+1915Spalding,1914,Western League,lambert,F21553,Lambert,,0,Wichita,,p37
+1915Spalding,1914,Western League,lambert,P10746,Lambert,,0,Wichita,,P35
+1915Spalding,1914,Western League,lattimore,B00442,Lattimore,,0,Topeka,,B121
+1915Spalding,1914,Western League,lattimore,F20190,Lattimore,,0,Topeka,,2b121
+1915Spalding,1914,Western League,lejeune,B00021,Lejeune,,0,Sioux City,,B151
+1915Spalding,1914,Western League,lejeune,F20807,Lejeune,,0,Sioux City,,of150
+1915Spalding,1914,Western League,lemon,B00771,Lemon,,0,Topeka,,B28
+1915Spalding,1914,Western League,lloyd,B00403,Lloyd,,0,Lincoln,,B166
+1915Spalding,1914,Western League,lloyd,F20177,Lloyd,,0,Lincoln,,2b166
+emilbb,1914,Western League,,M90382,Lloyd,Dick,,Lincoln,,
+1915Spalding,1914,Western League,luhrsen,P10611,Luhrsen,,1,Omaha,,
+1915Spalding,1914,Western League,luhrsen,P10611,Luhrsen,,2,Sioux City,,
+1915Spalding,1914,Western League,luhrsen,P10611,Luhrsen,,T,,,P12
+1915Spalding,1914,Western League,maddox,B01093,Maddox,,0,Wichita,,B20
+1915Spalding,1914,Western League,maddox,F21174,Maddox,,0,Wichita,,p18
+1915Spalding,1914,Western League,maddox,P10503,Maddox,,0,Wichita,,P18
+emilbb,1914,Western League,,M90437,Maddox,Nick,,Wichita,,
+1915Spalding,1914,Western League,matthews,B00343,Matthews,,0,Denver,,B20
+1915Spalding,1914,Western League,matthews,F20128,Matthews,,0,Denver,,2b20
+1915Spalding,1914,Western League,mcallister,B00822,McAllister,,0,Topeka,,B88
+1915Spalding,1914,Western League,mcallister,F21651,McAllister,,1,Omaha,,c
+1915Spalding,1914,Western League,mcallister,F21651,McAllister,,2,Topeka,,c
+1915Spalding,1914,Western League,mcallister,F21651,McAllister,,T,,,c72
+1915Spalding,1914,Western League,mccarty,B00207,McCarty,,0,Denver,,B75
+1915Spalding,1914,Western League,mccarty,F20784,McCarty,,0,Denver,,of51
+1915Spalding,1914,Western League,mcgaffigan,B00957,McGaffigan,,0,Lincoln,,B170
+1915Spalding,1914,Western League,mcgaffigan,F20560,McGaffigan,,0,Lincoln,,ss170
+1915Spalding,1914,Western League,mcgee,B01197,McGee,,0,Topeka,,B28
+1915Spalding,1914,Western League,mcgee,F20620,McGee,,0,Topeka,,ss24
+1915Spalding,1914,Western League,mcgrath,B00920,McGrath,,0,Topeka,,B15
+1915Spalding,1914,Western League,mcgrath,F21488,McGrath,,0,Topeka,,p15
+1915Spalding,1914,Western League,mcgrath,P10709,McGrath,,0,Topeka,,P16
+1915Spalding,1914,Western League,melter,P10320,Melter,,0,Denver,,P8
+1915Spalding,1914,Western League,meyer,B01108,Meyer,,0,Lincoln,,B35
+1915Spalding,1914,Western League,meyer,F21718,Meyer,,0,Lincoln,,c31
+1915Spalding,1914,Western League,miller,B00638,Miller,,0,Lincoln,,B144
+1915Spalding,1914,Western League,miller,F20962,Miller,,0,Lincoln,,of144
+1915Spalding,1914,Western League,mitchell,B00210,Mitchell,,0,Denver,,B83
+1915Spalding,1914,Western League,mitchell,F20864,Mitchell,,0,Denver,,of53
+1915Spalding,1914,Western League,mitchell,F21450,Mitchell,,0,Denver,,p16
+1915Spalding,1914,Western League,mitchell,P10569,Mitchell,,0,Denver,,P22
+1915Spalding,1914,Western League,mogridge,B00158,Mogridge,,0,Denver,,B42
+1915Spalding,1914,Western League,mogridge,F21319,Mogridge,,0,Denver,,p38
+1915Spalding,1914,Western League,mogridge,P10228,Mogridge,,0,Denver,,P43
+1915Spalding,1914,Western League,morgan,P10714,Morgan,,0,Denver,,P15
+1915Spalding,1914,Western League,morse,P10100,Morse,,0,Lincoln,,P5
+1915Spalding,1914,Western League,mullen,B00013,Mullen,,0,Lincoln,,B71
+1915Spalding,1914,Western League,mullen,F20080,Mullen,,0,Lincoln,,1b71
+emilbb,1914,Western League,,M90374,Mullen,Charles,,Lincoln,,
+1915Spalding,1914,Western League,murphy,B00125,Murphy,,0,Sioux City,,B73
+1915Spalding,1914,Western League,murphy,F21672,Murphy,,0,Sioux City,,c70
+1915Spalding,1914,Western League,nicholson,B00264,Nicholson,,0,Wichita,,B154
+1915Spalding,1914,Western League,nicholson,F20745,Nicholson,,0,Wichita,,of153
+1915Spalding,1914,Western League,orourke.p,B00335,O'Rourke,P.,0,Wichita,,B146
+1915Spalding,1914,Western League,orourke.j,B00912,O'Rourke,J.,0,Wichita,,B27
+1915Spalding,1914,Western League,orourke.p,F20233,O'Rourke,F.,0,Wichita,,2b143
+1915Spalding,1914,Western League,orourke.j,F20878,O'Rourke,J.,1,Wichita,,of
+1915Spalding,1914,Western League,orourke.j,F20878,O'Rourke,J.,2,Sioux City,,of
+1915Spalding,1914,Western League,orourke.j,F20878,O'Rourke,J.,T,,,of19
+1915Spalding,1914,Western League,ochs,B01010,Ochs,,0,Wichita,,B140
+1915Spalding,1914,Western League,ochs,F20240,Ochs,,0,Wichita,,2b18
+1915Spalding,1914,Western League,ochs,F20463,Ochs,,0,Wichita,,3b88
+1915Spalding,1914,Western League,ochs,F21013,Ochs,,0,Wichita,,of16
+1915Spalding,1914,Western League,oriet,B00515,Oriet,,0,Lincoln,,B29
+1915Spalding,1914,Western League,oriet,F20316,Oriet,,0,Lincoln,,3b29
+1915Spalding,1914,Western League,ormsby,P10826,Ormsby,,0,Omaha,,P5
+1915Spalding,1914,Western League,patterson,B00174,Patterson,,0,St. Joseph,,B155
+1915Spalding,1914,Western League,patterson,F20067,Patterson,,0,St. Joseph,,1b152
+1915Spalding,1914,Western League,payne,B00854,Payne,,0,Omaha,,B29
+1915Spalding,1914,Western League,payne,F20334,Payne,,0,Omaha,,3b29
+1915Spalding,1914,Western League,perry,P10640,Perry,,0,Wichita,,P12
+1915Spalding,1914,Western League,pettigrew,B01029,Pettigrew,,0,St. Joseph,,B54
+1915Spalding,1914,Western League,pettigrew,F21092,Pettigrew,,0,St. Joseph,,of24
+1915Spalding,1914,Western League,piercy,P10399,Piercy,,0,St. Joseph,,P8
+1915Spalding,1914,Western League,pope,P10081,Pope,,0,Lincoln,,P7
+1915Spalding,1914,Western League,potts,B00840,Potts,,1,Topeka,,
+1915Spalding,1914,Western League,potts,B00840,Potts,,2,St. Joseph,,
+1915Spalding,1914,Western League,potts,B00840,Potts,,T,,,B26
+1915Spalding,1914,Western League,potts,F21021,Potts,,1,Topeka,,of
+1915Spalding,1914,Western League,potts,F21021,Potts,,2,St. Joseph,,of
+1915Spalding,1914,Western League,potts,F21021,Potts,,T,,,of15
+1915Spalding,1914,Western League,purcell,F21590,Purcell,,0,St. Joseph,,p30
+1915Spalding,1914,Western League,purcell,P10407,Purcell,,0,St. Joseph,,P35
+1915Spalding,1914,Western League,purcell,B01567,Pursell,,0,St. Joseph,,B30
+1915Spalding,1914,Western League,quillen,B01124,Quillen,,0,Lincoln,,B130
+1915Spalding,1914,Western League,quillen,F20391,Quillen,,0,Lincoln,,3b130
+1915Spalding,1914,Western League,rapp-wic,B00718,Rapp,G.,0,Wichita,,B135
+1915Spalding,1914,Western League,rapp-lin,B01489,Rapp,,0,Lincoln,,B16
+1915Spalding,1914,Western League,rapp-wic,F20417,Rapp,G.,0,Wichita,,3b57
+1915Spalding,1914,Western League,rapp-wic,F20673,Rapp,C.,0,Wichita,,ss44
+1915Spalding,1914,Western League,rapp-wic,F20924,Rapp,G.,0,Wichita,,of18
+1915Spalding,1914,Western League,rapps,B00241,Rapps,,0,Topeka,,B132
+1915Spalding,1914,Western League,rapps,F20713,Rapps,,0,Topeka,,of52
+1915Spalding,1914,Western League,rapps,F21680,Rapps,,0,Topeka,,c39
+1915Spalding,1914,Western League,reagan,P10289,Reagan,,0,Sioux City,,P12
+1915Spalding,1914,Western League,rehor,B01300,Rehor,,0,Lincoln,,B104
+1915Spalding,1914,Western League,rehor,F21739,Rehor,,0,Lincoln,,c85
+1915Spalding,1914,Western League,reilly,B00397,Reilly,,0,Des Moines,,B71
+1915Spalding,1914,Western League,reilly,F20539,Reilly,,0,Des Moines,,ss71
+1915Spalding,1914,Western League,reisigl,B01269,Reisigl,,0,Topeka,,B49
+1915Spalding,1914,Western League,reisigl,F21232,Reisigl,,0,Topeka,,p32
+1915Spalding,1914,Western League,reisigl,P10056,Reisigl,,0,Topeka,,P36
+1915Spalding,1914,Western League,richie,P10373,Richie,,0,Sioux City,,P10
+1915Spalding,1914,Western League,ridgeway,B01523,Ridgeway,,0,Topeka,,B21
+1915Spalding,1914,Western League,ridgeway,F21356,Ridgeway,,0,Topeka,,p21
+1915Spalding,1914,Western League,ridgeway,P10304,Ridgeway,,0,Topeka,,P20
+1915Spalding,1914,Western League,riley,P10176,Riley,,0,Sioux City,,P5
+emilbb,1914,Western League,,M90396,Rourke,"William ""Pa""",,Omaha,,
+1915Spalding,1914,Western League,salisbury,P10751,Salisbury,,1,Des Moines,,
+1915Spalding,1914,Western League,salisbury,P10751,Salisbury,,2,Wichita,,
+1915Spalding,1914,Western League,salisbury,P10751,Salisbury,,T,,,P5
+1915Spalding,1914,Western League,sanders,P10019,Sanders,,0,Omaha,,P7
+1915Spalding,1914,Western League,sanford,P10534,Sanford,,0,Topeka,,P16
+1915Spalding,1914,Western League,schang,B00566,Schang,,0,St. Joseph,,B124
+1915Spalding,1914,Western League,schang,F21726,Schang,,0,St. Joseph,,c100
+1915Spalding,1914,Western League,schleibner,B00726,Schliebner,,0,Omaha,,B80
+1915Spalding,1914,Western League,schleibner,F20095,Schliebner,,0,Omaha,,1b80
+1915Spalding,1914,Western League,schrieber-den,P10478,Schreiber,B.,0,Denver,,P40
+1915Spalding,1914,Western League,schrieber-den,B01086,Schrieber,J.,0,Denver,,B37
+1915Spalding,1914,Western League,schrieber-lin,B01170,Schrieber,,0,Lincoln,,B139
+1915Spalding,1914,Western League,schrieber-lin,F20855,Schrieber,H.,0,Lincoln,,of113
+1915Spalding,1914,Western League,schrieber-den,F21343,Schrieber,B.,0,Denver,,p36
+1915Spalding,1914,Western League,scoggins,B01041,Scoggins,,0,Lincoln,,B37
+1915Spalding,1914,Western League,scoggins,F21416,Scoggins,,0,Lincoln,,p35
+1915Spalding,1914,Western League,scoggins,P10035,Scoggins,,0,Lincoln,,P44
+1915Spalding,1914,Western League,scott,B01546,Scott,,0,Wichita,,B30
+1915Spalding,1914,Western League,scott,F21502,Scott,,0,Wichita,,p30
+1915Spalding,1914,Western League,scott,P10575,Scott,,0,Wichita,,P32
+1915Spalding,1914,Western League,seabaugh,B00646,Seabaugh,,0,Omaha,,B27
+1915Spalding,1914,Western League,seabaugh,F21752,Seabaugh,,0,Omaha,,c26
+1915Spalding,1914,Western League,shaw,B00427,Shaw,,0,Des Moines,,B62
+1915Spalding,1914,Western League,shaw,F21623,Shaw,,0,Des Moines,,c23
+1915Spalding,1914,Western League,shestak,B00672,Shestak,,0,Omaha,,B33
+1915Spalding,1914,Western League,shestak,F21794,Shestak,,0,Omaha,,c24
+1915Spalding,1914,Western League,shipke,B00362,Shipke,,0,Omaha,,B77
+1915Spalding,1914,Western League,shipke,F20166,Shipke,,0,Omaha,,2b75
+1915Spalding,1914,Western League,shirley,P10839,Shirley,,0,Sioux City,,P5
+1915Spalding,1914,Western League,slagle,B01551,Slagle,,0,Wichita,,B28
+1915Spalding,1914,Western League,slagle,F21293,Slagle,,0,Wichita,,p26
+1915Spalding,1914,Western League,slagle,P10385,Slagle,,0,Wichita,,P25
+1915Spalding,1914,Western League,slattery,P10805,Slattery,,0,Des Moines,,P10
+1915Spalding,1914,Western League,smith-sc,B00434,Smith,,0,Sioux City,,B149
+1915Spalding,1914,Western League,smith-lin,B01203,Smith,,0,Lincoln,,B44
+1915Spalding,1914,Western League,smith-sc,F20303,Smith,,0,Sioux City,,3b16
+1915Spalding,1914,Western League,smith-lin,F20526,Smith,,0,Lincoln,,ss133
+1915Spalding,1914,Western League,smith-lin,F21515,Smith,,0,Lincoln,,p27
+1915Spalding,1914,Western League,smith-lin,P10606,Smith,,0,Lincoln,,P32
+1915Spalding,1914,Western League,spahr,B00130,Spahr,,0,Denver,,B100
+1915Spalding,1914,Western League,spahr,F21646,Spahr,,0,Denver,,c93
+1915Spalding,1914,Western League,sterzer,B00255,Sterzer,,0,St. Joseph,,B90
+1915Spalding,1914,Western League,sterzer,F21589,Sterzer,,0,St. Joseph,,p45
+1915Spalding,1914,Western League,sterzer,P10184,Sterzer,,0,St. Joseph,,P51
+1915Spalding,1914,Western League,stevens,P10772,Stevens,G.,0,Omaha,,P6
+1915Spalding,1914,Western League,stevenson,P10591,Stevenson,,0,Omaha,,P10
+1915Spalding,1914,Western League,stoloff,B01119,Stoloff,,0,St. Joseph,,B42
+1915Spalding,1914,Western League,stoloff,F20657,Stoloff,,0,St. Joseph,,ss38
+1915Spalding,1914,Western League,styles,B01415,Styles,,0,Omaha,,B21
+1915Spalding,1914,Western League,styles,F21370,Styles,,0,Omaha,,p21
+1915Spalding,1914,Western League,styles,P10290,Styles,,0,Omaha,,P22
+1915Spalding,1914,Western League,tallion,B00747,Tallion,,0,Topeka,,B166
+1915Spalding,1914,Western League,tallion,F20474,Tallion,,0,Topeka,,3b20
+1915Spalding,1914,Western League,tallion,F20648,Tallion,,0,Topeka,,ss7
+1915Spalding,1914,Western League,tallion,F21068,Tallion,,0,Topeka,,of63
+1915Spalding,1914,Western League,thomas-oma,B00544,Thomas,F.,0,Omaha,,B150
+1915Spalding,1914,Western League,thomas-dm,B01288,Thomas,,0,Des Moines,,B15
+1915Spalding,1914,Western League,thomas-stj,B01376,Thomas,D.,0,St. Joseph,,B40
+1915Spalding,1914,Western League,thomas-oma,F20327,Thomas,F.,0,Omaha,,3b62
+1915Spalding,1914,Western League,thomas-oma,F20612,Thomas,F.,0,Omaha,,ss86
+1915Spalding,1914,Western League,thomas-stj,F21158,Thomas,D.,0,St. Joseph,,p40
+1915Spalding,1914,Western League,thomas-dm,F21403,Thomas,,0,Des Moines,,p15
+1915Spalding,1914,Western League,thomas-dm,P10024,Thomas,,0,Des Moines,,P14
+1915Spalding,1914,Western League,thomas-stj,P10145,Thomas,D.,0,St. Joseph,,P43
+1915Spalding,1914,Western League,thomason,B00101,Thomason,,0,Omaha,,B157
+1915Spalding,1914,Western League,thomason,F20759,Thomason,,0,Omaha,,of157
+1915Spalding,1914,Western League,tipple,B01337,Tipple,,0,Omaha,,B38
+1915Spalding,1914,Western League,tipple,F21528,Tipple,,0,Omaha,,p36
+1915Spalding,1914,Western League,tipple,P10312,Tipple,,0,Omaha,,P40
+1915Spalding,1914,Western League,turner,P10464,Turner,,0,Des Moines,,P17
+1915Spalding,1914,Western League,tydeman,B00806,Tydeman,,0,Wichita,,B60
+1915Spalding,1914,Western League,tydeman,F21045,Tydeman,,0,Wichita,,of59
+1915Spalding,1914,Western League,vance,B01368,Vance,,0,St. Joseph,,B20
+1915Spalding,1914,Western League,vance,F21381,Vance,,0,St. Joseph,,p20
+1915Spalding,1914,Western League,vance,P10121,Vance,,0,St. Joseph,,P21
+1915Spalding,1914,Western League,vaught,P10818,Vaught,,0,Wichita,,P5
+1915Spalding,1914,Western League,waite,B01444,Waite,,0,Topeka,,B31
+1915Spalding,1914,Western League,waite,F21822,Waite,,0,Topeka,,c29
+1915Spalding,1914,Western League,wakefield,B00999,Wakefield,,0,Topeka,,B81
+1915Spalding,1914,Western League,wakefield,F20792,Wakefield,,0,Topeka,,of79
+1915Spalding,1914,Western League,wall,B00936,Wall,,0,St. Joseph,,B117
+1915Spalding,1914,Western League,wall,F20298,Wall,,0,St. Joseph,,3b56
+1915Spalding,1914,Western League,wall,F20571,Wall,,0,St. Joseph,,ss61
+1915Spalding,1914,Western League,ward,B00356,Ward,,1,Omaha,,
+1915Spalding,1914,Western League,ward,B00356,Ward,,2,St. Joseph,,
+1915Spalding,1914,Western League,ward,B00356,Ward,,T,,,B97
+1915Spalding,1914,Western League,ward,F20014,Ward,,0,Omaha,,1b24
+1915Spalding,1914,Western League,ward,F20350,Ward,,0,Omaha,,3b55
+1915Spalding,1914,Western League,watson.g,B00488,Watson,G.,0,St. Joseph,,B158
+1915Spalding,1914,Western League,watson.r,B00680,Watson,R.,0,St. Joseph,,B144
+1915Spalding,1914,Western League,watson.r,F20254,Watson,R.,0,St. Joseph,,2b144
+1915Spalding,1914,Western League,watson.g,F20841,Watson,G.,0,St. Joseph,,of154
+1915Spalding,1914,Western League,weidman,P10277,Weldman,,0,Topeka,,P12
+1915Spalding,1914,Western League,wetzel,P10679,Wetzel,,0,Denver,,P5
+1915Spalding,1914,Western League,whelan,B00577,Whelan,,0,Topeka,,B38
+1915Spalding,1914,Western League,whelan,F21076,Whelan,,0,Topeka,,of30
+1915Spalding,1914,Western League,white,B01250,White,,0,Sioux City,,B48
+1915Spalding,1914,Western League,white,F21362,White,,0,Sioux City,,p34
+1915Spalding,1914,Western League,white,P10253,White,,0,Sioux City,,P38
+1915Spalding,1914,Western League,willey,P10192,Willey,,0,St. Joseph,,P8
+1915Spalding,1914,Western League,williams-stj,B00232,Williams,R.,0,St. Joseph,,B111
+1915Spalding,1914,Western League,williams-lin,B00739,Williams,H.,0,Lincoln,,B79
+1915Spalding,1914,Western League,williams-lin,F20115,Williams,H.,0,Lincoln,,1b78
+1915Spalding,1914,Western League,williams-stj,F20943,Williams,R.,0,St. Joseph,,of128
+1915Spalding,1914,Western League,willis,B01428,Willis,,0,Omaha,,B39
+1915Spalding,1914,Western League,willis,F21163,Willis,,0,Omaha,,p39
+1915Spalding,1914,Western League,willis,P10113,Willis,,0,Omaha,,P46
+1915Spalding,1914,Western League,withers,P10654,Withers,,0,Sioux City,,P12
+1915Spalding,1914,Western League,witte,P10767,Witte,,0,Denver,,P9
+1915Spalding,1914,Western League,woodburn,P10633,Woodburn,,0,Sioux City,,P16
+1915Spalding,1914,Western League,zamloch,B00450,Zamloch,,0,Denver,,B30
+1915Spalding,1914,Western League,zamloch,F21182,Zamloch,,0,Denver,,p27
+1915Spalding,1914,Western League,zamloch,P10493,Zamloch,,0,Denver,,P29

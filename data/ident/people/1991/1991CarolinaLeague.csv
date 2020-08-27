@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1991,Carolina League,M90897,Bailey,Buddy,,Lynchburg,,,
-emilbb,1991,Carolina League,M90909,Cliburn,Stan,,Salem,,,
-emilbb,1991,Carolina League,M90923,Graham,Brian,,Kinston,,,
-emilbb,1991,Carolina League,M90881,Hart,Mike,,Prince William,,,
-emilbb,1991,Carolina League,M90946,Little,Grady,,Durham,,,
-emilbb,1991,Carolina League,M90938,Mills,Brad,,Winston-Salem,,,
-emilbb,1991,Carolina League,M90914,Moon,Wally,,Frederick,,,
-emilbb,1991,Carolina League,M90951,Smith,Steve,,Peninsula,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1991,Carolina League,,M90897,Bailey,Buddy,,Lynchburg,,
+emilbb,1991,Carolina League,,M90909,Cliburn,Stan,,Salem,,
+emilbb,1991,Carolina League,,M90923,Graham,Brian,,Kinston,,
+emilbb,1991,Carolina League,,M90881,Hart,Mike,,Prince William,,
+emilbb,1991,Carolina League,,M90946,Little,Grady,,Durham,,
+emilbb,1991,Carolina League,,M90938,Mills,Brad,,Winston-Salem,,
+emilbb,1991,Carolina League,,M90914,Moon,Wally,,Frederick,,
+emilbb,1991,Carolina League,,M90951,Smith,Steve,,Peninsula,,

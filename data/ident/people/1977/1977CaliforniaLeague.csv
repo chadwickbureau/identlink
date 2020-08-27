@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1977,California League,M90819,Ezell,Glenn,,Reno,,,
-emilbb,1977,California League,M90808,McMillan,Roy,,Visalia,,,
-emilbb,1977,California League,M90790,Stubing,"Larry ""Moose""",,Salinas,,,
-emilbb,1977,California League,M90824,Trebelhorn,Tom,,Modesto,,,
-emilbb,1977,California League,M90777,Van Ornum,John,,Fresno,,,
-emilbb,1977,California League,M90789,Wasiak,Stan,,Lodi,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1977,California League,,M90819,Ezell,Glenn,,Reno,,
+emilbb,1977,California League,,M90808,McMillan,Roy,,Visalia,,
+emilbb,1977,California League,,M90790,Stubing,"Larry ""Moose""",,Salinas,,
+emilbb,1977,California League,,M90824,Trebelhorn,Tom,,Modesto,,
+emilbb,1977,California League,,M90777,Van Ornum,John,,Fresno,,
+emilbb,1977,California League,,M90789,Wasiak,Stan,,Lodi,,

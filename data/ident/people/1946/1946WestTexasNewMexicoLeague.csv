@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1946,West Texas-New Mexico League,M92308,Clawitter,Ted,,Borger,,,
-emilbb,1946,West Texas-New Mexico League,M92264,Greer,Hayden,,Abilene,,,
-emilbb,1946,West Texas-New Mexico League,M92293,Miller,Jim,,Lubbock,,,
-emilbb,1946,West Texas-New Mexico League,M92286,Seeds,Bob,,Amarillo,,,
-emilbb,1946,West Texas-New Mexico League,M92278,Seitz,Grover,,Pampa,,,
-emilbb,1946,West Texas-New Mexico League,M92335,Sturdivant,George,,Lamesa,,,
-emilbb,1946,West Texas-New Mexico League,M92324,Webb,Hal,,Clovis,,,
-emilbb,1946,West Texas-New Mexico League,M92319,Zinn,Jimmy,,Albuquerque,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1946,West Texas-New Mexico League,,M92308,Clawitter,Ted,,Borger,,
+emilbb,1946,West Texas-New Mexico League,,M92264,Greer,Hayden,,Abilene,,
+emilbb,1946,West Texas-New Mexico League,,M92293,Miller,Jim,,Lubbock,,
+emilbb,1946,West Texas-New Mexico League,,M92286,Seeds,Bob,,Amarillo,,
+emilbb,1946,West Texas-New Mexico League,,M92278,Seitz,Grover,,Pampa,,
+emilbb,1946,West Texas-New Mexico League,,M92335,Sturdivant,George,,Lamesa,,
+emilbb,1946,West Texas-New Mexico League,,M92324,Webb,Hal,,Clovis,,
+emilbb,1946,West Texas-New Mexico League,,M92319,Zinn,Jimmy,,Albuquerque,,

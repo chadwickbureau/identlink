@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1948,Southern Association,M90363,Brown,James,,New Orleans,,,
-emilbb,1948,Southern Association,M90374,Cuyler,KiKi,,Atlanta,,,
-emilbb,1948,Southern Association,M90325,Gilbert,Larry,,Nashville,,,
-emilbb,1948,Southern Association,M90396,Myatt,George,,Chattanooga,,,
-emilbb,1948,Southern Association,M90330,Onslow,Jack,,Memphis,,,
-emilbb,1948,Southern Association,M90382,Saltzgaver,Jack,,Little Rock,,,
-emilbb,1948,Southern Association,M90358,Todd,Alfred,,Mobile,,,
-emilbb,1948,Southern Association,M90349,Walters,Fred,,Birmingham,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1948,Southern Association,,M90363,Brown,James,,New Orleans,,
+emilbb,1948,Southern Association,,M90374,Cuyler,KiKi,,Atlanta,,
+emilbb,1948,Southern Association,,M90325,Gilbert,Larry,,Nashville,,
+emilbb,1948,Southern Association,,M90396,Myatt,George,,Chattanooga,,
+emilbb,1948,Southern Association,,M90330,Onslow,Jack,,Memphis,,
+emilbb,1948,Southern Association,,M90382,Saltzgaver,Jack,,Little Rock,,
+emilbb,1948,Southern Association,,M90358,Todd,Alfred,,Mobile,,
+emilbb,1948,Southern Association,,M90349,Walters,Fred,,Birmingham,,

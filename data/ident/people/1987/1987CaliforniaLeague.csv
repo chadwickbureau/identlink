@@ -1,11 +1,11 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1987,California League,M90881,Dauer,Rich,,San Bernardino,,,dauer
-emilbb,1987,California League,M90862,Harrison,R. J.,,Fresno,,,harrison-fre
-emilbb,1987,California League,M90835,Kelly,Pat,,Reno,,,kelly
-emilbb,1987,California League,M90870,Kennedy,Kevin,,Bakersfield,,,kennedy
-emilbb,1987,California League,M90897,Lachemann,Bill,,Palm Springs,,,lachemann
-emilbb,1987,California League,M90819,Machemer,Dave,,Stockton,,,machemer
-emilbb,1987,California League,M90843,Mahlberg,Greg,,Salinas,,,mahlberg
-emilbb,1987,California League,M90824,Reynolds,Tommie,,Modesto,,,reynolds
-emilbb,1987,California League,M90909,Schmitz,Dan,,Visalia,,,schmitz
-emilbb,1987,California League,M90856,Verdi,Mike,,San Jose,,,verdi
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1987,California League,dauer,M90881,Dauer,Rich,,San Bernardino,,
+emilbb,1987,California League,harrison-fre,M90862,Harrison,R. J.,,Fresno,,
+emilbb,1987,California League,kelly,M90835,Kelly,Pat,,Reno,,
+emilbb,1987,California League,kennedy,M90870,Kennedy,Kevin,,Bakersfield,,
+emilbb,1987,California League,lachemann,M90897,Lachemann,Bill,,Palm Springs,,
+emilbb,1987,California League,machemer,M90819,Machemer,Dave,,Stockton,,
+emilbb,1987,California League,mahlberg,M90843,Mahlberg,Greg,,Salinas,,
+emilbb,1987,California League,reynolds,M90824,Reynolds,Tommie,,Modesto,,
+emilbb,1987,California League,schmitz,M90909,Schmitz,Dan,,Visalia,,
+emilbb,1987,California League,verdi,M90856,Verdi,Mike,,San Jose,,

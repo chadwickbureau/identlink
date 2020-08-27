@@ -1,11 +1,11 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1984,Gulf Coast League,M91678,Alvarez,Jose,,Dodgers,,,alvarez
-emilbb,1984,Gulf Coast League,M91664,Bucci,Mike,,Rangers,,,bucci
-emilbb,1984,Gulf Coast League,M91758,DeArmas,Rollie,,Phillies,,,dearmas
-emilbb,1984,Gulf Coast League,M91717,Dillard,Steve,,White Sox,,,dillard
-emilbb,1984,Gulf Coast League,M91749,Gillis,Jack,,Yankees,,,gillis
-emilbb,1984,Gulf Coast League,M91686,Gonzalez,Pedro,,Braves,,,gonzalez-bra
-emilbb,1984,Gulf Coast League,M91701,Huyke,Woody,,Pirates,,,huyke
-emilbb,1984,Gulf Coast League,M91730,Mejias,Sam,,Reds,,,mejias
-emilbb,1984,Gulf Coast League,M91725,Tartabull,Jose,,Astros,,,tartabull
-emilbb,1984,Gulf Coast League,M91693,Webster,Ramon,,Blue Jays,,,webster
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1984,Gulf Coast League,alvarez,M91678,Alvarez,Jose,,Dodgers,,
+emilbb,1984,Gulf Coast League,bucci,M91664,Bucci,Mike,,Rangers,,
+emilbb,1984,Gulf Coast League,dearmas,M91758,DeArmas,Rollie,,Phillies,,
+emilbb,1984,Gulf Coast League,dillard,M91717,Dillard,Steve,,White Sox,,
+emilbb,1984,Gulf Coast League,gillis,M91749,Gillis,Jack,,Yankees,,
+emilbb,1984,Gulf Coast League,gonzalez-bra,M91686,Gonzalez,Pedro,,Braves,,
+emilbb,1984,Gulf Coast League,huyke,M91701,Huyke,Woody,,Pirates,,
+emilbb,1984,Gulf Coast League,mejias,M91730,Mejias,Sam,,Reds,,
+emilbb,1984,Gulf Coast League,tartabull,M91725,Tartabull,Jose,,Astros,,
+emilbb,1984,Gulf Coast League,webster,M91693,Webster,Ramon,,Blue Jays,,

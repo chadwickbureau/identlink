@@ -1,27 +1,27 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1985,Mexican League,M90220,Calvo,Jorge,,Dos Laredos,,,calvo
-emilbb,1985,Mexican League,M90212,Castellon,Roberto,,Aguascalientes,,,
-emilbb,1985,Mexican League,M90358,Castellon,Roberto,,Mexico City Reds,,,
-emilbb,1985,Mexican League,M90421,Espinoza,Javier,,Tabasco,,,espinoza
-emilbb,1985,Mexican League,M90413,Estrada,Francisco,,Campeche,,,estrada
-emilbb,1985,Mexican League,M90257,Freed,Roger,,Saltillo,,,freed
-emilbb,1985,Mexican League,M90204,Garcia,David,,Aguascalientes,,,
-emilbb,1985,Mexican League,M90236,Garcia,Vinicio,,Monclova,,,
-emilbb,1985,Mexican League,M90325,Guerrero,Jose,,Monterrey,,,guerrero
-emilbb,1985,Mexican League,M90301,Gutierrez,Gerardo,,Union Laguna,,,gutierrez
-emilbb,1985,Mexican League,M90382,Joachin,Alberto,,Cordoba,,,joachin
-emilbb,1985,Mexican League,M90248,Luque,Gregorio,,Tampico,,,luque
-emilbb,1985,Mexican League,M90374,Mendes,Roberto,,Mexico City Tigers,,,mendes
-emilbb,1985,Mexican League,M90261,Navarrete,Juan,,Saltillo,,,navarrete
-emilbb,1985,Mexican League,M90400,Olivares,Max,,Puebla,,,olivares
-emilbb,1985,Mexican League,M90396,Ortiz,Alfredo,,Cordoba,,,ortiz
-emilbb,1985,Mexican League,M90363,Paz,Carlos,,Yucatan,,,paz
-emilbb,1985,Mexican League,M90285,Pelaes,Mario,,Union Laguna,,,pelaes
-emilbb,1985,Mexican League,M90349,Reyes,Ben,,Mexico City Reds,,,reyes
-emilbb,1985,Mexican League,M90317,Rios,Hugo,,Union Laguna,,,
-emilbb,1985,Mexican League,M90437,Rios,Hugo,,Tabasco,,,
-emilbb,1985,Mexican League,M90330,Rodriguez,Aurelio,,Monterrey,,,
-emilbb,1985,Mexican League,M90459,Rodriguez,Francisco,,Veracruz,,,
-emilbb,1985,Mexican League,M90299,Sandoval,Rodolfo,,Union Laguna,,,sandoval
-emilbb,1985,Mexican League,M90273,Valenzuela,Ben,,Leon,,,valenzuela
-emilbb,1985,Mexican League,M90445,Velazquez,Fred,,Veracruz,,,velazquez
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1985,Mexican League,calvo,M90220,Calvo,Jorge,,Dos Laredos,,
+emilbb,1985,Mexican League,,M90212,Castellon,Roberto,,Aguascalientes,,
+emilbb,1985,Mexican League,,M90358,Castellon,Roberto,,Mexico City Reds,,
+emilbb,1985,Mexican League,espinoza,M90421,Espinoza,Javier,,Tabasco,,
+emilbb,1985,Mexican League,estrada,M90413,Estrada,Francisco,,Campeche,,
+emilbb,1985,Mexican League,freed,M90257,Freed,Roger,,Saltillo,,
+emilbb,1985,Mexican League,,M90204,Garcia,David,,Aguascalientes,,
+emilbb,1985,Mexican League,,M90236,Garcia,Vinicio,,Monclova,,
+emilbb,1985,Mexican League,guerrero,M90325,Guerrero,Jose,,Monterrey,,
+emilbb,1985,Mexican League,gutierrez,M90301,Gutierrez,Gerardo,,Union Laguna,,
+emilbb,1985,Mexican League,joachin,M90382,Joachin,Alberto,,Cordoba,,
+emilbb,1985,Mexican League,luque,M90248,Luque,Gregorio,,Tampico,,
+emilbb,1985,Mexican League,mendes,M90374,Mendes,Roberto,,Mexico City Tigers,,
+emilbb,1985,Mexican League,navarrete,M90261,Navarrete,Juan,,Saltillo,,
+emilbb,1985,Mexican League,olivares,M90400,Olivares,Max,,Puebla,,
+emilbb,1985,Mexican League,ortiz,M90396,Ortiz,Alfredo,,Cordoba,,
+emilbb,1985,Mexican League,paz,M90363,Paz,Carlos,,Yucatan,,
+emilbb,1985,Mexican League,pelaes,M90285,Pelaes,Mario,,Union Laguna,,
+emilbb,1985,Mexican League,reyes,M90349,Reyes,Ben,,Mexico City Reds,,
+emilbb,1985,Mexican League,,M90317,Rios,Hugo,,Union Laguna,,
+emilbb,1985,Mexican League,,M90437,Rios,Hugo,,Tabasco,,
+emilbb,1985,Mexican League,,M90330,Rodriguez,Aurelio,,Monterrey,,
+emilbb,1985,Mexican League,,M90459,Rodriguez,Francisco,,Veracruz,,
+emilbb,1985,Mexican League,sandoval,M90299,Sandoval,Rodolfo,,Union Laguna,,
+emilbb,1985,Mexican League,valenzuela,M90273,Valenzuela,Ben,,Leon,,
+emilbb,1985,Mexican League,velazquez,M90445,Velazquez,Fred,,Veracruz,,

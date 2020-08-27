@@ -1,5 +1,5 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1976,Western Carolinas League,M91352,Elia,Lee,,Spartanburg,,,
-emilbb,1976,Western Carolinas League,M91339,Hassell,Gene,,Greenwood,,,
-emilbb,1976,Western Carolinas League,M91347,Ryan,Michael,,Charleston,,,
-emilbb,1976,Western Carolinas League,M91326,Terwilliger,Wayne,,Asheville,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1976,Western Carolinas League,,M91352,Elia,Lee,,Spartanburg,,
+emilbb,1976,Western Carolinas League,,M91339,Hassell,Gene,,Greenwood,,
+emilbb,1976,Western Carolinas League,,M91347,Ryan,Michael,,Charleston,,
+emilbb,1976,Western Carolinas League,,M91326,Terwilliger,Wayne,,Asheville,,

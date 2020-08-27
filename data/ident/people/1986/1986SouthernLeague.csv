@@ -1,14 +1,14 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1986,Southern League,M90753,Bailey,Bob,,Birmingham,,,bailey
-emilbb,1986,Southern League,M90669,Beauchamp,Jim,,Greenville,,,beauchamp-gvl
-emilbb,1986,Southern League,M90702,Biagini,Greg,,Charlotte,,,biagini
-emilbb,1986,Southern League,M90675,Cripe,Dave,,Columbus,,,cripe
-emilbb,1986,Southern League,M90728,Fischer,Brad,,Huntsville,,,fischer-hun
-emilbb,1986,Southern League,M90744,Haller,Tom,,Birmingham,,,haller
-emilbb,1986,Southern League,M90731,Hardy,Larry,,Knoxville,,,hardy-knx
-emilbb,1986,Southern League,M90777,Harrison,R. J.,,Chattanooga,,,harrison
-emilbb,1986,Southern League,M90766,Jones,Tommy,,Memphis,,,jones-mem
-emilbb,1986,Southern League,M90715,Mitterwald,George,,Orlando,,,mitterwald
-emilbb,1986,Southern League,M90688,Taylor,Charlie,,Columbus,,,taylor-cbs
-emilbb,1986,Southern League,M90650,Thompson,Tommy,,Jacksonville,,,thompson
-emilbb,1986,Southern League,M90691,Tuck,Gary,,Columbus,,,tuck
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1986,Southern League,bailey,M90753,Bailey,Bob,,Birmingham,,
+emilbb,1986,Southern League,beauchamp-gvl,M90669,Beauchamp,Jim,,Greenville,,
+emilbb,1986,Southern League,biagini,M90702,Biagini,Greg,,Charlotte,,
+emilbb,1986,Southern League,cripe,M90675,Cripe,Dave,,Columbus,,
+emilbb,1986,Southern League,fischer-hun,M90728,Fischer,Brad,,Huntsville,,
+emilbb,1986,Southern League,haller,M90744,Haller,Tom,,Birmingham,,
+emilbb,1986,Southern League,hardy-knx,M90731,Hardy,Larry,,Knoxville,,
+emilbb,1986,Southern League,harrison,M90777,Harrison,R. J.,,Chattanooga,,
+emilbb,1986,Southern League,jones-mem,M90766,Jones,Tommy,,Memphis,,
+emilbb,1986,Southern League,mitterwald,M90715,Mitterwald,George,,Orlando,,
+emilbb,1986,Southern League,taylor-cbs,M90688,Taylor,Charlie,,Columbus,,
+emilbb,1986,Southern League,thompson,M90650,Thompson,Tommy,,Jacksonville,,
+emilbb,1986,Southern League,tuck,M90691,Tuck,Gary,,Columbus,,

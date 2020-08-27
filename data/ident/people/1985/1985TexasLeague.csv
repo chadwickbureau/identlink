@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1985,Texas League,M90819,Bevington,Terry,,El Paso,,,bevington
-emilbb,1985,Texas League,M90789,Espy,Duane,,Shreveport,,,espy-shr
-emilbb,1985,Texas League,M90808,Gomez,Orlando,,Tulsa,,,gomez
-emilbb,1985,Texas League,M90835,LaRocque,Gary,,San Antonio,,,larocque
-emilbb,1985,Texas League,M90843,Maddon,Joe,,Midland,,,maddon
-emilbb,1985,Texas League,M90777,Perlozzo,Sam,,Jackson,,,perlozzo
-emilbb,1985,Texas League,M90790,Riggleman,Jim,,Arkansas,,,riggleman
-emilbb,1985,Texas League,M90824,Tolan,Bobby,,Beaumont,,,tolan
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1985,Texas League,bevington,M90819,Bevington,Terry,,El Paso,,
+emilbb,1985,Texas League,espy-shr,M90789,Espy,Duane,,Shreveport,,
+emilbb,1985,Texas League,gomez,M90808,Gomez,Orlando,,Tulsa,,
+emilbb,1985,Texas League,larocque,M90835,LaRocque,Gary,,San Antonio,,
+emilbb,1985,Texas League,maddon,M90843,Maddon,Joe,,Midland,,
+emilbb,1985,Texas League,perlozzo,M90777,Perlozzo,Sam,,Jackson,,
+emilbb,1985,Texas League,riggleman,M90790,Riggleman,Jim,,Arkansas,,
+emilbb,1985,Texas League,tolan,M90824,Tolan,Bobby,,Beaumont,,

@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1989,Eastern League,M90554,Chambliss,Chris,,London,,,
-emilbb,1989,Eastern League,M90533,Hart,Mike,,Reading,,,
-emilbb,1989,Eastern League,M90579,Hobson,Butch,,New Britain,,,
-emilbb,1989,Eastern League,M90522,Molinaro,Bob,,Canton-Akron,,,
-emilbb,1989,Eastern League,M90540,Schaffer,Jim,,Hagerstown,,,
-emilbb,1989,Eastern League,M90506,Showalter,Buck,,Albany-Colonie,,,
-emilbb,1989,Eastern League,M90511,Trembley,Dave,,Harrisburg,,,
-emilbb,1989,Eastern League,M90565,Ward,Jay,,Williamsport,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1989,Eastern League,,M90554,Chambliss,Chris,,London,,
+emilbb,1989,Eastern League,,M90533,Hart,Mike,,Reading,,
+emilbb,1989,Eastern League,,M90579,Hobson,Butch,,New Britain,,
+emilbb,1989,Eastern League,,M90522,Molinaro,Bob,,Canton-Akron,,
+emilbb,1989,Eastern League,,M90540,Schaffer,Jim,,Hagerstown,,
+emilbb,1989,Eastern League,,M90506,Showalter,Buck,,Albany-Colonie,,
+emilbb,1989,Eastern League,,M90511,Trembley,Dave,,Harrisburg,,
+emilbb,1989,Eastern League,,M90565,Ward,Jay,,Williamsport,,

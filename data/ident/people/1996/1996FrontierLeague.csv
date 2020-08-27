@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1996,Frontier League,M92278,Cate,John,,Richmond,,,
-emilbb,1996,Frontier League,M92241,Coffman,Jim,,Johnstown,,,
-emilbb,1996,Frontier League,M92293,Edwards,Doc,,Evansville,,,
-emilbb,1996,Frontier League,M92286,Fichman,Mal,,Springfield,,,
-emilbb,1996,Frontier League,M92308,Gulliver,Glenn,,Kalamazoo,,,
-emilbb,1996,Frontier League,M92232,Hanners,Roger,,Chillicothe,,,
-emilbb,1996,Frontier League,M92264,Procopio,Jim,,Ohio Valley,,,
-emilbb,1996,Frontier League,M92255,Welch,Eric,,Zanesville,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1996,Frontier League,,M92278,Cate,John,,Richmond,,
+emilbb,1996,Frontier League,,M92241,Coffman,Jim,,Johnstown,,
+emilbb,1996,Frontier League,,M92293,Edwards,Doc,,Evansville,,
+emilbb,1996,Frontier League,,M92286,Fichman,Mal,,Springfield,,
+emilbb,1996,Frontier League,,M92308,Gulliver,Glenn,,Kalamazoo,,
+emilbb,1996,Frontier League,,M92232,Hanners,Roger,,Chillicothe,,
+emilbb,1996,Frontier League,,M92264,Procopio,Jim,,Ohio Valley,,
+emilbb,1996,Frontier League,,M92255,Welch,Eric,,Zanesville,,

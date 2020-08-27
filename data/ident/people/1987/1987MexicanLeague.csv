@@ -1,24 +1,24 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1987,Mexican League,M90413,Aldama,Leonel,,Yucatan,,,aldama
-emilbb,1987,Mexican League,M90204,Castellon,Robero,,Monterrey,,,castellon
-emilbb,1987,Mexican League,M90400,Chavez,Francisco,,Yucatan,,,chavez
-emilbb,1987,Mexican League,M90285,Fabela,Victor,,Saltillo,,,fabela
-emilbb,1987,Mexican League,M90261,Flores,Gregorio,,San Luis Potosi,,,flores
-emilbb,1987,Mexican League,M90220,Guerrero,Jose,,Dos Laredos,,,guerrero
-emilbb,1987,Mexican League,M90236,Juarez,Marcelo,,Dos Laredos,,,juarez
-emilbb,1987,Mexican League,M90299,Leal,Felipe,,Saltillo,,,leal
-emilbb,1987,Mexican League,M90193,Magallon,Manuel,,Monterrey,,,magallon
-emilbb,1987,Mexican League,M90325,Mendez,Roberto,,Puebla,,,
-emilbb,1987,Mexican League,M90330,Mendez,Roberto,,Mexico City Tigers,,,
-emilbb,1987,Mexican League,M90273,Montoya,Ramon,,Union Laguna,,,montoya
-emilbb,1987,Mexican League,M90349,Ortiz,Alfredo,,Mexico City Tigers,,,ortiz
-emilbb,1987,Mexican League,M90358,Palcencia,Obed,,Leon,,,palcencia
-emilbb,1987,Mexican League,M90257,Paz,Carlos,,Monclova,,,
-emilbb,1987,Mexican League,M90396,Paz,Carlos,,Yucatan,,,
-emilbb,1987,Mexican League,M90301,Reyes,Benjamin,,Mexico City Reds,,,reyes
-emilbb,1987,Mexican League,M90248,Rios,Alfredo,,Monclova,,,rios
-emilbb,1987,Mexican League,M90382,Rubio,Arturo,,Tabasco,,,rubio
-emilbb,1987,Mexican League,M90317,Sanchez,Rodolfo,,Puebla,,,sanchez
-emilbb,1987,Mexican League,M90374,Sotelo,Miguel,,Tabasco,,,sotelo
-emilbb,1987,Mexican League,M90363,Soto,Francisco,,Campeche,,,soto
-emilbb,1987,Mexican League,M90212,Valenzuela,Sergio,,Aguascalientes,,,valenzuela
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1987,Mexican League,aldama,M90413,Aldama,Leonel,,Yucatan,,
+emilbb,1987,Mexican League,castellon,M90204,Castellon,Robero,,Monterrey,,
+emilbb,1987,Mexican League,chavez,M90400,Chavez,Francisco,,Yucatan,,
+emilbb,1987,Mexican League,fabela,M90285,Fabela,Victor,,Saltillo,,
+emilbb,1987,Mexican League,flores,M90261,Flores,Gregorio,,San Luis Potosi,,
+emilbb,1987,Mexican League,guerrero,M90220,Guerrero,Jose,,Dos Laredos,,
+emilbb,1987,Mexican League,juarez,M90236,Juarez,Marcelo,,Dos Laredos,,
+emilbb,1987,Mexican League,leal,M90299,Leal,Felipe,,Saltillo,,
+emilbb,1987,Mexican League,magallon,M90193,Magallon,Manuel,,Monterrey,,
+emilbb,1987,Mexican League,,M90325,Mendez,Roberto,,Puebla,,
+emilbb,1987,Mexican League,,M90330,Mendez,Roberto,,Mexico City Tigers,,
+emilbb,1987,Mexican League,montoya,M90273,Montoya,Ramon,,Union Laguna,,
+emilbb,1987,Mexican League,ortiz,M90349,Ortiz,Alfredo,,Mexico City Tigers,,
+emilbb,1987,Mexican League,palcencia,M90358,Palcencia,Obed,,Leon,,
+emilbb,1987,Mexican League,,M90257,Paz,Carlos,,Monclova,,
+emilbb,1987,Mexican League,,M90396,Paz,Carlos,,Yucatan,,
+emilbb,1987,Mexican League,reyes,M90301,Reyes,Benjamin,,Mexico City Reds,,
+emilbb,1987,Mexican League,rios,M90248,Rios,Alfredo,,Monclova,,
+emilbb,1987,Mexican League,rubio,M90382,Rubio,Arturo,,Tabasco,,
+emilbb,1987,Mexican League,sanchez,M90317,Sanchez,Rodolfo,,Puebla,,
+emilbb,1987,Mexican League,sotelo,M90374,Sotelo,Miguel,,Tabasco,,
+emilbb,1987,Mexican League,soto,M90363,Soto,Francisco,,Campeche,,
+emilbb,1987,Mexican League,valenzuela,M90212,Valenzuela,Sergio,,Aguascalientes,,

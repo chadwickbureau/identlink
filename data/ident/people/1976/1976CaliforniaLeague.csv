@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1976,California League,M90728,Crandall,Del,,Salinas,,,
-emilbb,1976,California League,M90753,Farson,George,,Modesto,,,
-emilbb,1976,California League,M90731,Gilbert,Andy,,Fresno,,,
-emilbb,1976,California League,M90744,Goryl,John,,Reno,,,
-emilbb,1976,California League,M90777,Hodge,Gomer,,San Jose,,,
-emilbb,1976,California League,M90766,Williams,James,,Lodi,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1976,California League,,M90728,Crandall,Del,,Salinas,,
+emilbb,1976,California League,,M90753,Farson,George,,Modesto,,
+emilbb,1976,California League,,M90731,Gilbert,Andy,,Fresno,,
+emilbb,1976,California League,,M90744,Goryl,John,,Reno,,
+emilbb,1976,California League,,M90777,Hodge,Gomer,,San Jose,,
+emilbb,1976,California League,,M90766,Williams,James,,Lodi,,

@@ -1,15 +1,15 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1987,Florida State League,M91065,Alou,Felipe,,West Palm Beach,,,alou
-emilbb,1987,Florida State League,M91006,Bailor,Bob,,Dunedin,,,bailor
-emilbb,1987,Florida State League,M90995,Bialas,Dave,,St. Petersburg,,,bialas
-emilbb,1987,Florida State League,M91098,Bolek,Ken,,Osceola,,,bolek
-emilbb,1987,Florida State League,M91033,Bombard,Marc,,Tampa,,,bombard
-emilbb,1987,Florida State League,M91120,Camilli,Doug,,Winter Haven,,,
-emilbb,1987,Florida State League,M91011,DeArmas,Rollie,,Clearwater,,,dearmas
-emilbb,1987,Florida State League,M91112,Hill,Marc,,Daytona Beach,,,
-emilbb,1987,Florida State League,M91087,Norman,Dan,,Miami,,,
-emilbb,1987,Florida State League,M91079,Shoemaker,John,,Vero Beach,,,shoemaker
-emilbb,1987,Florida State League,M91054,Showalter,Bucky,,Fort Lauderdale,,,showalter
-emilbb,1987,Florida State League,M91022,Skaalen,Jim,,Charlotte,,,skaalen
-emilbb,1987,Florida State League,M91040,Terrell,Jerry,,Fort Myers,,,terrell
-emilbb,1987,Florida State League,M91104,Wockenfuss,John,,Lakeland,,,wockenfuss
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1987,Florida State League,alou,M91065,Alou,Felipe,,West Palm Beach,,
+emilbb,1987,Florida State League,bailor,M91006,Bailor,Bob,,Dunedin,,
+emilbb,1987,Florida State League,bialas,M90995,Bialas,Dave,,St. Petersburg,,
+emilbb,1987,Florida State League,bolek,M91098,Bolek,Ken,,Osceola,,
+emilbb,1987,Florida State League,bombard,M91033,Bombard,Marc,,Tampa,,
+emilbb,1987,Florida State League,,M91120,Camilli,Doug,,Winter Haven,,
+emilbb,1987,Florida State League,dearmas,M91011,DeArmas,Rollie,,Clearwater,,
+emilbb,1987,Florida State League,,M91112,Hill,Marc,,Daytona Beach,,
+emilbb,1987,Florida State League,,M91087,Norman,Dan,,Miami,,
+emilbb,1987,Florida State League,shoemaker,M91079,Shoemaker,John,,Vero Beach,,
+emilbb,1987,Florida State League,showalter,M91054,Showalter,Bucky,,Fort Lauderdale,,
+emilbb,1987,Florida State League,skaalen,M91022,Skaalen,Jim,,Charlotte,,
+emilbb,1987,Florida State League,terrell,M91040,Terrell,Jerry,,Fort Myers,,
+emilbb,1987,Florida State League,wockenfuss,M91104,Wockenfuss,John,,Lakeland,,

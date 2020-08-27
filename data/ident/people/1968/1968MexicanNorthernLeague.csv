@@ -1,5 +1,5 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1968,Mexican Northern League,M90995,Gracia,Ernesto,,Nogales,,,
-emilbb,1968,Mexican Northern League,M91011,Manzo,Marco Antonio,,San Luis Rio Colorado,,,
-emilbb,1968,Mexican Northern League,M90980,Robles,Jesus,,Ensenada,,,
-emilbb,1968,Mexican Northern League,M91006,Sandoval,Ramon,,Mexicali,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1968,Mexican Northern League,,M90995,Gracia,Ernesto,,Nogales,,
+emilbb,1968,Mexican Northern League,,M91011,Manzo,Marco Antonio,,San Luis Rio Colorado,,
+emilbb,1968,Mexican Northern League,,M90980,Robles,Jesus,,Ensenada,,
+emilbb,1968,Mexican Northern League,,M91006,Sandoval,Ramon,,Mexicali,,

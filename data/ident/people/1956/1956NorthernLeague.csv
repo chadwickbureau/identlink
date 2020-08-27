@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1956,Northern League,M91869,Benson,Vern,,Winnipeg,,,
-emilbb,1956,Northern League,M91902,Fox,Charlie,,St. Cloud,,,
-emilbb,1956,Northern League,M91875,Hauser,Joe,,Duluth-Superior,,,
-emilbb,1956,Northern League,M91850,Just,Joe,,Eau Claire,,,
-emilbb,1956,Northern League,M91915,Kubski,Al,,Grand Forks,,,
-emilbb,1956,Northern League,M91928,Oliver,Tom,,Fargo-Moorhead,,,
-emilbb,1956,Northern League,M91888,Staller,George,,Aberdeen,,,
-emilbb,1956,Northern League,M91891,Streza,John,,Wausau,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1956,Northern League,,M91869,Benson,Vern,,Winnipeg,,
+emilbb,1956,Northern League,,M91902,Fox,Charlie,,St. Cloud,,
+emilbb,1956,Northern League,,M91875,Hauser,Joe,,Duluth-Superior,,
+emilbb,1956,Northern League,,M91850,Just,Joe,,Eau Claire,,
+emilbb,1956,Northern League,,M91915,Kubski,Al,,Grand Forks,,
+emilbb,1956,Northern League,,M91928,Oliver,Tom,,Fargo-Moorhead,,
+emilbb,1956,Northern League,,M91888,Staller,George,,Aberdeen,,
+emilbb,1956,Northern League,,M91891,Streza,John,,Wausau,,

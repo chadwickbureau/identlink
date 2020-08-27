@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1954,American Association,M90083,Becker,Joe,,Charleston,,,
-emilbb,1954,American Association,M90052,Bryant,Clay,,St. Paul,,,
-emilbb,1954,American Association,M90071,Craft,Harry,,Kansas City,,,
-emilbb,1954,American Association,M90018,Farrell,Kerby,,Indianapolis,,,
-emilbb,1954,American Association,M90026,Higgins,Pinky,,Louisville,,,
-emilbb,1954,American Association,M90047,Keane,Johnny,,Columbus,,,
-emilbb,1954,American Association,M90039,Rigney,Bill,,Minneapolis,,,
-emilbb,1954,American Association,M90060,Selkirk,George,,Toledo,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1954,American Association,,M90083,Becker,Joe,,Charleston,,
+emilbb,1954,American Association,,M90052,Bryant,Clay,,St. Paul,,
+emilbb,1954,American Association,,M90071,Craft,Harry,,Kansas City,,
+emilbb,1954,American Association,,M90018,Farrell,Kerby,,Indianapolis,,
+emilbb,1954,American Association,,M90026,Higgins,Pinky,,Louisville,,
+emilbb,1954,American Association,,M90047,Keane,Johnny,,Columbus,,
+emilbb,1954,American Association,,M90039,Rigney,Bill,,Minneapolis,,
+emilbb,1954,American Association,,M90060,Selkirk,George,,Toledo,,

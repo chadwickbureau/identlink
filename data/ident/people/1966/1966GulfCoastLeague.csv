@@ -1,6 +1,6 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1966,Gulf Coast League,M91495,Berardino,Dick,,Yankees,,,
-emilbb,1966,Gulf Coast League,M91524,Kissell,George,,Cardinals,,,
-emilbb,1966,Gulf Coast League,M91535,Parenti,Frank,,White Sox,,,
-emilbb,1966,Gulf Coast League,M91508,Saffell,Tom,,Braves,,,
-emilbb,1966,Gulf Coast League,M91519,Waters,Fred,,Twins,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1966,Gulf Coast League,,M91495,Berardino,Dick,,Yankees,,
+emilbb,1966,Gulf Coast League,,M91524,Kissell,George,,Cardinals,,
+emilbb,1966,Gulf Coast League,,M91535,Parenti,Frank,,White Sox,,
+emilbb,1966,Gulf Coast League,,M91508,Saffell,Tom,,Braves,,
+emilbb,1966,Gulf Coast League,,M91519,Waters,Fred,,Twins,,

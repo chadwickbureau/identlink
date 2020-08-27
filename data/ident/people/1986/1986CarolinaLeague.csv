@@ -1,10 +1,10 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1986,Carolina League,M91022,Bailey,Buddy,,Durham,,,bailey-dur
-emilbb,1986,Carolina League,M91033,Bailey,Bob,,Peninsula,,,bailey-pen
-emilbb,1986,Carolina League,M90995,Bridges,Rocky,,Prince William,,,bridges
-emilbb,1986,Carolina League,M91006,Bucci,Mike,,Salem,,,bucci
-emilbb,1986,Carolina League,M91011,Essian,Jim,,Winston-Salem,,,essian
-emilbb,1986,Carolina League,M90980,Floyd,Bobby,,Lynchburg,,,floyd
-emilbb,1986,Carolina League,M90972,Molinaro,Bob,,Hagerstown,,,molinaro
-emilbb,1986,Carolina League,M91040,Sims,Duke,,Peninsula,,,sims
-emilbb,1986,Carolina League,M91054,Trembley,Dave,,Kinston,,,trembley
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1986,Carolina League,bailey-dur,M91022,Bailey,Buddy,,Durham,,
+emilbb,1986,Carolina League,bailey-pen,M91033,Bailey,Bob,,Peninsula,,
+emilbb,1986,Carolina League,bridges,M90995,Bridges,Rocky,,Prince William,,
+emilbb,1986,Carolina League,bucci,M91006,Bucci,Mike,,Salem,,
+emilbb,1986,Carolina League,essian,M91011,Essian,Jim,,Winston-Salem,,
+emilbb,1986,Carolina League,floyd,M90980,Floyd,Bobby,,Lynchburg,,
+emilbb,1986,Carolina League,molinaro,M90972,Molinaro,Bob,,Hagerstown,,
+emilbb,1986,Carolina League,sims,M91040,Sims,Duke,,Peninsula,,
+emilbb,1986,Carolina League,trembley,M91054,Trembley,Dave,,Kinston,,

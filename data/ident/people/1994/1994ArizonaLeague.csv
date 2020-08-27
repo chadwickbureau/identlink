@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1994,Arizona League,M91796,Bannister,Alan,,Giants,,,
-emilbb,1994,Arizona League,M91827,Carey,P. J.,,Rockies,,,
-emilbb,1994,Arizona League,M91774,DeFrancesco,Tony,,Athletics,,,
-emilbb,1994,Arizona League,M91782,Dickenson,Ralph,,Brewers,,,
-emilbb,1994,Arizona League,M91816,Lachemann,Bill,,Angels,,,
-emilbb,1994,Arizona League,M91834,Martinez,Marty,,Mariners,,,
-emilbb,1994,Arizona League,M91763,Melvin,Scott,,Cardinals,,,
-emilbb,1994,Arizona League,M91803,Moss,Barry,,Padres,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1994,Arizona League,,M91796,Bannister,Alan,,Giants,,
+emilbb,1994,Arizona League,,M91827,Carey,P. J.,,Rockies,,
+emilbb,1994,Arizona League,,M91774,DeFrancesco,Tony,,Athletics,,
+emilbb,1994,Arizona League,,M91782,Dickenson,Ralph,,Brewers,,
+emilbb,1994,Arizona League,,M91816,Lachemann,Bill,,Angels,,
+emilbb,1994,Arizona League,,M91834,Martinez,Marty,,Mariners,,
+emilbb,1994,Arizona League,,M91763,Melvin,Scott,,Cardinals,,
+emilbb,1994,Arizona League,,M91803,Moss,Barry,,Padres,,

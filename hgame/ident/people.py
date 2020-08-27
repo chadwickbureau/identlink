@@ -104,9 +104,9 @@ def merge_idents(df, idents):
                      'person.name.last', 'person.name.given',
                      'S_STINT', 'entry.name'])
         .reindex(columns=[
-            'source', 'league.year', 'league.name', 'person.ref',
-            'person.name.last', 'person.name.given',
-            'S_STINT', 'entry.name', 'span', 'pos', 'ident'
+            'source', 'league.year', 'league.name', 'ident',
+            'person.ref', 'person.name.last', 'person.name.given',
+            'S_STINT', 'entry.name', 'span', 'pos'
         ])
         .drop_duplicates()
         .sort_values(['league.year', 'league.name',

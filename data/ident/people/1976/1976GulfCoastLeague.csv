@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1976,Gulf Coast League,M91451,Dixon,Walt,,Cubs,,,
-emilbb,1976,Gulf Coast League,M91495,Goggin,Chuck,,Braves,,,
-emilbb,1976,Gulf Coast League,M91508,Gonzalez,Pedro,,Braves,,,
-emilbb,1976,Gulf Coast League,M91519,Huyke,Woody,,Pirates,,,
-emilbb,1976,Gulf Coast League,M91480,Jones,Joe,,White Sox,,,
-emilbb,1976,Gulf Coast League,M91446,Klein,Joe,,Rangers,,,
-emilbb,1976,Gulf Coast League,M91467,Martinez,Jose,,Royals,,,
-emilbb,1976,Gulf Coast League,M91472,Ricketts,Dave,,Cardinals,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1976,Gulf Coast League,,M91451,Dixon,Walt,,Cubs,,
+emilbb,1976,Gulf Coast League,,M91495,Goggin,Chuck,,Braves,,
+emilbb,1976,Gulf Coast League,,M91508,Gonzalez,Pedro,,Braves,,
+emilbb,1976,Gulf Coast League,,M91519,Huyke,Woody,,Pirates,,
+emilbb,1976,Gulf Coast League,,M91480,Jones,Joe,,White Sox,,
+emilbb,1976,Gulf Coast League,,M91446,Klein,Joe,,Rangers,,
+emilbb,1976,Gulf Coast League,,M91467,Martinez,Jose,,Royals,,
+emilbb,1976,Gulf Coast League,,M91472,Ricketts,Dave,,Cardinals,,

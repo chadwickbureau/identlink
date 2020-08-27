@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1947,Pacific Coast League,M90248,Bartell,Dick,,Sacramento,,,
-emilbb,1947,Pacific Coast League,M90257,Collins,"James ""Ripper""",,San Diego,,,
-emilbb,1947,Pacific Coast League,M90236,Dykes,Jimmy,,Hollywood,,,
-emilbb,1947,Pacific Coast League,M90186,Kelly,Bill,,Los Angeles,,,
-emilbb,1947,Pacific Coast League,M90193,O'Doul,Lefty,,San Francisco,,,
-emilbb,1947,Pacific Coast League,M90212,Stengel,Casey,,Oakland,,,
-emilbb,1947,Pacific Coast League,M90204,Turner,Jim,,Portland,,,
-emilbb,1947,Pacific Coast League,M90220,White,Jo Jo,,Seattle,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1947,Pacific Coast League,,M90248,Bartell,Dick,,Sacramento,,
+emilbb,1947,Pacific Coast League,,M90257,Collins,"James ""Ripper""",,San Diego,,
+emilbb,1947,Pacific Coast League,,M90236,Dykes,Jimmy,,Hollywood,,
+emilbb,1947,Pacific Coast League,,M90186,Kelly,Bill,,Los Angeles,,
+emilbb,1947,Pacific Coast League,,M90193,O'Doul,Lefty,,San Francisco,,
+emilbb,1947,Pacific Coast League,,M90212,Stengel,Casey,,Oakland,,
+emilbb,1947,Pacific Coast League,,M90204,Turner,Jim,,Portland,,
+emilbb,1947,Pacific Coast League,,M90220,White,Jo Jo,,Seattle,,

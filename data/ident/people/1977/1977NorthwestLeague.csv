@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1977,Northwest League,M91409,Collette,Steve,,Portland,,,
-emilbb,1977,Northwest League,M91414,Dick,Ralph,,Grays Harbor,,,
-emilbb,1977,Northwest League,M91383,Ditto,Cliff,,Walla Walla,,,
-emilbb,1977,Northwest League,M91371,Floyd,Bobby,,Bellingham,,,
-emilbb,1977,Northwest League,M91423,Thompson,Carl,,Salem,,,
-emilbb,1977,Northwest League,M91394,Underwood,John,,Eugene,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1977,Northwest League,,M91409,Collette,Steve,,Portland,,
+emilbb,1977,Northwest League,,M91414,Dick,Ralph,,Grays Harbor,,
+emilbb,1977,Northwest League,,M91383,Ditto,Cliff,,Walla Walla,,
+emilbb,1977,Northwest League,,M91371,Floyd,Bobby,,Bellingham,,
+emilbb,1977,Northwest League,,M91423,Thompson,Carl,,Salem,,
+emilbb,1977,Northwest League,,M91394,Underwood,John,,Eugene,,

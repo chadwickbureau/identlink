@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1968,Southern League,M90421,Anderson,"George ""Sparky""",,Asheville,,,
-emilbb,1968,Southern League,M90437,Carswell,Frank,,Montgomery,,,
-emilbb,1968,Southern League,M90468,Hicks,Buddy,,Savannah,,,
-emilbb,1968,Southern League,M90459,Niarhos,Gus,,Birmingham,,,
-emilbb,1968,Southern League,M90445,Warner,Harry,,Charlotte,,,
-emilbb,1968,Southern League,M90476,Wasiak,Stan,,Evansville,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1968,Southern League,,M90421,Anderson,"George ""Sparky""",,Asheville,,
+emilbb,1968,Southern League,,M90437,Carswell,Frank,,Montgomery,,
+emilbb,1968,Southern League,,M90468,Hicks,Buddy,,Savannah,,
+emilbb,1968,Southern League,,M90459,Niarhos,Gus,,Birmingham,,
+emilbb,1968,Southern League,,M90445,Warner,Harry,,Charlotte,,
+emilbb,1968,Southern League,,M90476,Wasiak,Stan,,Evansville,,

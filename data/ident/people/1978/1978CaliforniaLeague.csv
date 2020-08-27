@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1978,California League,M90824,Cottier,Chuck,,Salinas,,,
-emilbb,1978,California League,M90843,Culver,George,,Bakersfield,,,
-emilbb,1978,California League,M90789,Floyd,Bobby,,Stockton,,,
-emilbb,1978,California League,M90819,McMillan,Roy,,Visalia,,,
-emilbb,1978,California League,M90808,Pitts,Gaylen,,Modesto,,,
-emilbb,1978,California League,M90835,Van Ornum,John,,Fresno,,,
-emilbb,1978,California League,M90777,Wasiak,Stan,,Lodi,,,
-emilbb,1978,California League,M90790,Watt,Eddie,,Reno,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1978,California League,,M90824,Cottier,Chuck,,Salinas,,
+emilbb,1978,California League,,M90843,Culver,George,,Bakersfield,,
+emilbb,1978,California League,,M90789,Floyd,Bobby,,Stockton,,
+emilbb,1978,California League,,M90819,McMillan,Roy,,Visalia,,
+emilbb,1978,California League,,M90808,Pitts,Gaylen,,Modesto,,
+emilbb,1978,California League,,M90835,Van Ornum,John,,Fresno,,
+emilbb,1978,California League,,M90777,Wasiak,Stan,,Lodi,,
+emilbb,1978,California League,,M90790,Watt,Eddie,,Reno,,

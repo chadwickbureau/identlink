@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1995,Carolina League,M91006,Berry,Mark,,Winston-Salem,,,
-emilbb,1995,Carolina League,M91011,Hayes,Bill,,Salem,,,
-emilbb,1995,Carolina League,M90967,Hill,Marc,,Lynchburg,,,
-emilbb,1995,Carolina League,M90972,Huppert,Dave,,Prince William,,,
-emilbb,1995,Carolina League,M90995,MacKenzie,Gordy,,Kinston,,,
-emilbb,1995,Carolina League,M90951,Mizerock,John,,Wilmington,,,
-emilbb,1995,Carolina League,M90980,O'Berry,Mike,,Frederick,,,
-emilbb,1995,Carolina League,M91022,West,Matt,,Durham,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1995,Carolina League,,M91006,Berry,Mark,,Winston-Salem,,
+emilbb,1995,Carolina League,,M91011,Hayes,Bill,,Salem,,
+emilbb,1995,Carolina League,,M90967,Hill,Marc,,Lynchburg,,
+emilbb,1995,Carolina League,,M90972,Huppert,Dave,,Prince William,,
+emilbb,1995,Carolina League,,M90995,MacKenzie,Gordy,,Kinston,,
+emilbb,1995,Carolina League,,M90951,Mizerock,John,,Wilmington,,
+emilbb,1995,Carolina League,,M90980,O'Berry,Mike,,Frederick,,
+emilbb,1995,Carolina League,,M91022,West,Matt,,Durham,,

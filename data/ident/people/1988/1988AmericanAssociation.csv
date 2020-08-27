@@ -1,13 +1,13 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1988,American Association,M90071,Bridges,Rocky,,Buffalo,,,bridges
-emilbb,1988,American Association,M90110,Dyer,Duffy,,Denver,,,dyer
-emilbb,1988,American Association,M90094,Ezell,Glenn,,Omaha,,,ezell
-emilbb,1988,American Association,M90039,Garland,Wayne,,Nashville,,,garland
-emilbb,1988,American Association,M90129,Harrah,Toby,,Oklahoma City,,,harrah
-emilbb,1988,American Association,M90047,Hoff,Jim,,Nashville,,,hoff
-emilbb,1988,American Association,M90083,Jorgensen,Mike,,Louisville,,,jorgensen
-emilbb,1988,American Association,M90026,Lind,Jack,,Nashville,,,lind
-emilbb,1988,American Association,M90060,Lucchesi,Frank,,Nashville,,,lucchesi
-emilbb,1988,American Association,M90107,Mackanin,Pete,,Iowa,,,mackanin
-emilbb,1988,American Association,M90052,Scherger,George,,Nashville,,,scherger
-emilbb,1988,American Association,M90018,Sparks,Joe,,Indianapolis,,,sparks
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1988,American Association,bridges,M90071,Bridges,Rocky,,Buffalo,,
+emilbb,1988,American Association,dyer,M90110,Dyer,Duffy,,Denver,,
+emilbb,1988,American Association,ezell,M90094,Ezell,Glenn,,Omaha,,
+emilbb,1988,American Association,garland,M90039,Garland,Wayne,,Nashville,,
+emilbb,1988,American Association,harrah,M90129,Harrah,Toby,,Oklahoma City,,
+emilbb,1988,American Association,hoff,M90047,Hoff,Jim,,Nashville,,
+emilbb,1988,American Association,jorgensen,M90083,Jorgensen,Mike,,Louisville,,
+emilbb,1988,American Association,lind,M90026,Lind,Jack,,Nashville,,
+emilbb,1988,American Association,lucchesi,M90060,Lucchesi,Frank,,Nashville,,
+emilbb,1988,American Association,mackanin,M90107,Mackanin,Pete,,Iowa,,
+emilbb,1988,American Association,scherger,M90052,Scherger,George,,Nashville,,
+emilbb,1988,American Association,sparks,M90018,Sparks,Joe,,Indianapolis,,

@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1978,Carolina League,M90862,Aker,Jack,,Lynchburg,,,
-emilbb,1978,Carolina League,M90870,Mahoney,Jim,,Salem,,,
-emilbb,1978,Carolina League,M90897,Mazzone,Leo,,Kinston,,,
-emilbb,1978,Carolina League,M90881,Paden,Les,,Alexandria,,,
-emilbb,1978,Carolina League,M90909,Slack,Bill,,Winston-Salem,,,
-emilbb,1978,Carolina League,M90856,Snyder,Jim,,Peninsula,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1978,Carolina League,,M90862,Aker,Jack,,Lynchburg,,
+emilbb,1978,Carolina League,,M90870,Mahoney,Jim,,Salem,,
+emilbb,1978,Carolina League,,M90897,Mazzone,Leo,,Kinston,,
+emilbb,1978,Carolina League,,M90881,Paden,Les,,Alexandria,,
+emilbb,1978,Carolina League,,M90909,Slack,Bill,,Winston-Salem,,
+emilbb,1978,Carolina League,,M90856,Snyder,Jim,,Peninsula,,

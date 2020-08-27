@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1982,Carolina League,M90914,Darcy,Bill,,Peninsula,,,
-emilbb,1982,Carolina League,M90923,Dews,Bobby,,Durham,,,
-emilbb,1982,Carolina League,M90870,Lipon,John,,Alexandria,,,
-emilbb,1982,Carolina League,M90881,Little,Grady,,Hagerstown,,,
-emilbb,1982,Carolina League,M90938,McLaren,John,,Kinston,,,
-emilbb,1982,Carolina League,M90897,Monzon,Danny,,Lynchburg,,,
-emilbb,1982,Carolina League,M90946,Slider,Rac,,Winston-Salem,,,
-emilbb,1982,Carolina League,M90909,Zerilla,Jim,,Salem,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1982,Carolina League,,M90914,Darcy,Bill,,Peninsula,,
+emilbb,1982,Carolina League,,M90923,Dews,Bobby,,Durham,,
+emilbb,1982,Carolina League,,M90870,Lipon,John,,Alexandria,,
+emilbb,1982,Carolina League,,M90881,Little,Grady,,Hagerstown,,
+emilbb,1982,Carolina League,,M90938,McLaren,John,,Kinston,,
+emilbb,1982,Carolina League,,M90897,Monzon,Danny,,Lynchburg,,
+emilbb,1982,Carolina League,,M90946,Slider,Rac,,Winston-Salem,,
+emilbb,1982,Carolina League,,M90909,Zerilla,Jim,,Salem,,

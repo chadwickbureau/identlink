@@ -1,13 +1,13 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1988,New York-Pennsylvania League,M91394,Allenson,Gary,,Oneonta,,,allenson
-emilbb,1988,New York-Pennsylvania League,M91414,Cacciatore,Frank,,Auburn,,,cacciatore
-emilbb,1988,New York-Pennsylvania League,M91438,Cliburn,Stan,,Watertown,,,cliburn
-emilbb,1988,New York-Pennsylvania League,M91495,Dennis,Eddie,,St. Catharines,,,dennis
-emilbb,1988,New York-Pennsylvania League,M91508,Hayes,Bill,,Geneva,,,hayes
-emilbb,1988,New York-Pennsylvania League,M91451,LaFrancois,Roger,,Jamestown,,,lafrancois
-emilbb,1988,New York-Pennsylvania League,M91446,Limoncelli,Bill,,Elmira,,,limoncelli
-emilbb,1988,New York-Pennsylvania League,M91480,McCormick,Don,,Batavia,,,mccormick
-emilbb,1988,New York-Pennsylvania League,M91409,Patterson,Rick,,Utica,,,patterson
-emilbb,1988,New York-Pennsylvania League,M91472,Radison,Dan,,Hamilton,,,radison
-emilbb,1988,New York-Pennsylvania League,M91423,Stein,Bill,,Little Falls,,,stein
-emilbb,1988,New York-Pennsylvania League,M91467,Tolan,Bobby,,Erie,,,tolan
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1988,New York-Pennsylvania League,allenson,M91394,Allenson,Gary,,Oneonta,,
+emilbb,1988,New York-Pennsylvania League,cacciatore,M91414,Cacciatore,Frank,,Auburn,,
+emilbb,1988,New York-Pennsylvania League,cliburn,M91438,Cliburn,Stan,,Watertown,,
+emilbb,1988,New York-Pennsylvania League,dennis,M91495,Dennis,Eddie,,St. Catharines,,
+emilbb,1988,New York-Pennsylvania League,hayes,M91508,Hayes,Bill,,Geneva,,
+emilbb,1988,New York-Pennsylvania League,lafrancois,M91451,LaFrancois,Roger,,Jamestown,,
+emilbb,1988,New York-Pennsylvania League,limoncelli,M91446,Limoncelli,Bill,,Elmira,,
+emilbb,1988,New York-Pennsylvania League,mccormick,M91480,McCormick,Don,,Batavia,,
+emilbb,1988,New York-Pennsylvania League,patterson,M91409,Patterson,Rick,,Utica,,
+emilbb,1988,New York-Pennsylvania League,radison,M91472,Radison,Dan,,Hamilton,,
+emilbb,1988,New York-Pennsylvania League,stein,M91423,Stein,Bill,,Little Falls,,
+emilbb,1988,New York-Pennsylvania League,tolan,M91467,Tolan,Bobby,,Erie,,

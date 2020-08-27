@@ -1,483 +1,483 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-1908Reach,1907,Gulf Coast League,B00308,Addington,,0,Monroe,,B79,addington
-1908Reach,1907,Gulf Coast League,F20784,Addington,,0,Monroe,,3b79,addington
-1908Reach,1907,Gulf Coast League,B01007,Alexander,,0,Monroe,,B11,alexander
-1908Reach,1907,Gulf Coast League,P10215,Alexander,,0,all,,,alexander
-1908Reach,1907,Gulf Coast League,B00961,Andrews,,0,Orange,,B12,andrews
-1908Reach,1907,Gulf Coast League,F21553,Andrews,,0,Orange,,of12,andrews
-1908Reach,1907,Gulf Coast League,B00335,Ashton,,0,Monroe,,B15,ashton
-1908Reach,1907,Gulf Coast League,F21544,Ashton,,0,Monroe,,of13,ashton
-1908Reach,1907,Gulf Coast League,B00163,Badger,,1,Monroe,,,badger
-1908Reach,1907,Gulf Coast League,B00163,Badger,,2,Lake Charles,,,badger
-1908Reach,1907,Gulf Coast League,B00163,Badger,,T,,,B117,badger
-1908Reach,1907,Gulf Coast League,F20648,Badger,,0,Lake Charles,,2b83,badger
-1908Reach,1907,Gulf Coast League,F20792,Badger,,0,Lake Charles,,3b34,badger
-1908Reach,1907,Gulf Coast League,B00553,Bauer,,0,Alexandria,,B94,bauer
-1908Reach,1907,Gulf Coast League,F20115,Bauer,,0,Alexandria,,p33,bauer
-1908Reach,1907,Gulf Coast League,F21427,Bauer,,0,Alexandria,,of59,bauer
-1908Reach,1907,Gulf Coast League,P10231,Bauer,,0,all,,,bauer
-1908Reach,1907,Gulf Coast League,B00999,Bax'r,,1,Lake Charles,,,baxter
-1908Reach,1907,Gulf Coast League,B00999,Bax'r,,2,Lafayette,,,baxter
-1908Reach,1907,Gulf Coast League,B00999,Bax'r,,3,Opelousas,,,baxter
-1908Reach,1907,Gulf Coast League,B00999,Bax'r,,T,,,B22,baxter
-1908Reach,1907,Gulf Coast League,F20190,Baxter,,1,Lake Charles,,p,baxter
-1908Reach,1907,Gulf Coast League,F20190,Baxter,,2,Lafayette,,p,baxter
-1908Reach,1907,Gulf Coast League,F20190,Baxter,,3,Opelousas,,p,baxter
-1908Reach,1907,Gulf Coast League,F20190,Baxter,,T,,,p14,baxter
-1908Reach,1907,Gulf Coast League,P10121,Baxter,,0,all,,,baxter
-1908Reach,1907,Gulf Coast League,B00076,Bessey,,1,Monroe,,,bessey
-1908Reach,1907,Gulf Coast League,B00076,Bessey,,2,Lafayette,,,bessey
-1908Reach,1907,Gulf Coast League,B00076,Bessey,,T,,,B17,bessey
-1908Reach,1907,Gulf Coast League,B00771,Bheau,,1,Opelousas,,,bheau
-1908Reach,1907,Gulf Coast League,B00771,Bheau,,2,Lafayette,,,bheau
-1908Reach,1907,Gulf Coast League,B00771,Bheau,,T,,,B17,bheau
-1908Reach,1907,Gulf Coast League,F20759,Bheau,,0,Opelousas,,2b17,bheau
-1908Reach,1907,Gulf Coast League,F21343,Blanch'd,,1,Opelousas,,of,blanchfield
-1908Reach,1907,Gulf Coast League,F21343,Blanch'd,,2,Lafayette,,of,blanchfield
-1908Reach,1907,Gulf Coast League,F21343,Blanch'd,,3,Lake Charles,,of,blanchfield
-1908Reach,1907,Gulf Coast League,F21343,Blanch'd,,T,,,of34,blanchfield
-1908Reach,1907,Gulf Coast League,B00059,Blanchett,,0,Opelousas,,B103,blanchett
-1908Reach,1907,Gulf Coast League,F20583,Blanchette,,0,Opelousas,,1b90,blanchett
-1908Reach,1907,Gulf Coast League,B00037,Blanchfield,,1,Opelousas,,,blanchfield
-1908Reach,1907,Gulf Coast League,B00037,Blanchfield,,2,Lake Charles,,,blanchfield
-1908Reach,1907,Gulf Coast League,B00037,Blanchfield,,T,,,B34,blanchfield
-1908Reach,1907,Gulf Coast League,B00833,Bolles,,1,Alexandria,,,bolles
-1908Reach,1907,Gulf Coast League,B00833,Bolles,,2,Orange,,,bolles
-1908Reach,1907,Gulf Coast League,B00833,Bolles,,T,,,B34,bolles
-1908Reach,1907,Gulf Coast League,F20189,Bolles,,1,Alexandria,,p,bolles
-1908Reach,1907,Gulf Coast League,F20189,Bolles,,2,Orange,,p,bolles
-1908Reach,1907,Gulf Coast League,F20189,Bolles,,T,,,p27,bolles
-1908Reach,1907,Gulf Coast League,P10043,Bolles,,0,all,,,bolles
-1908Reach,1907,Gulf Coast League,F20102,Bordeau,,0,Lafayette,,p21,bordeaux
-1908Reach,1907,Gulf Coast League,B00590,Bordeaux,,0,Lafayette,,B56,bordeaux
-1908Reach,1907,Gulf Coast League,F21174,Bordeaux,,0,Lafayette,,of31,bordeaux
-1908Reach,1907,Gulf Coast League,P10290,Bordeaux,,0,all,,,bordeaux
-1908Reach,1907,Gulf Coast League,B00021,Braun,,0,Alexandria,,B99,braun
-1908Reach,1907,Gulf Coast League,F20303,Braun,,0,Alexandria,,c91,braun
-1908Reach,1907,Gulf Coast League,B00638,Brazelle,,0,Monroe,,B36,brazelle
-1908Reach,1907,Gulf Coast League,F20153,Brazelle,,0,Monroe,,p25,brazelle
-1908Reach,1907,Gulf Coast League,F21319,Brazelle,,0,Monroe,,of11,brazelle
-1908Reach,1907,Gulf Coast League,P10081,Brazelle,,0,all,,,brazelle
-1908Reach,1907,Gulf Coast League,B00241,Breeding,,1,Orange,,,breeding
-1908Reach,1907,Gulf Coast League,B00241,Breeding,,2,Lafayette,,,breeding
-1908Reach,1907,Gulf Coast League,B00241,Breeding,,T,,,B100,breeding
-1908Reach,1907,Gulf Coast League,F20417,Breeding,,1,Orange,,c,breeding
-1908Reach,1907,Gulf Coast League,F20417,Breeding,,2,Lafayette,,c,breeding
-1908Reach,1907,Gulf Coast League,F20417,Breeding,,T,,,c35,breeding
-1908Reach,1907,Gulf Coast League,F20526,Breeding,,1,Orange,,1b,breeding
-1908Reach,1907,Gulf Coast League,F20526,Breeding,,2,Lafayette,,1b,breeding
-1908Reach,1907,Gulf Coast League,F20526,Breeding,,T,,,1b64,breeding
-1908Reach,1907,Gulf Coast League,B00589,Briggs,,0,Monroe,,B25,briggs
-1908Reach,1907,Gulf Coast League,F21068,Briggs,,0,Monroe,,ss18,briggs
-1908Reach,1907,Gulf Coast League,B00726,Brockman,,0,Opelousas,,B47,brockman
-1908Reach,1907,Gulf Coast League,F21021,Brockman,,0,Opelousas,,ss45,brockman
-1908Reach,1907,Gulf Coast League,B00865,Broussard,,0,Lafayette,,B43,broussard
-1908Reach,1907,Gulf Coast League,F20233,Broussard,,0,Lafayette,,p35,broussard
-1908Reach,1907,Gulf Coast League,P10244,Broussard,,0,all,,,broussard
-1908Reach,1907,Gulf Coast League,P10228,Burmmett,,0,all,,,burmmett
-1908Reach,1907,Gulf Coast League,B01064,Carey,,0,Orange,,B11,carey
-1908Reach,1907,Gulf Coast League,B00416,Carroll,,0,Monroe,,B113,carroll
-1908Reach,1907,Gulf Coast League,F21130,Carroll,,0,Monroe,,of108,carroll
-1908Reach,1907,Gulf Coast League,F21515,Catey,,0,Orange,,of11,carey
-1908Reach,1907,Gulf Coast League,B00362,Chastant,,0,Opelousas,,B108,chastant
-1908Reach,1907,Gulf Coast League,F20919,Chastant,,0,Opelousas,,3b102,chastant
-1908Reach,1907,Gulf Coast League,B01108,Clark,,0,Orange,,B15,clark
-1908Reach,1907,Gulf Coast League,F20131,Clark,,0,Orange,,p12,clark
-1908Reach,1907,Gulf Coast League,P10361,Clark,,0,all,,,clark
-1908Reach,1907,Gulf Coast League,B00747,Coleman,,1,Lafayette,,,coleman
-1908Reach,1907,Gulf Coast League,B00747,Coleman,,2,Orange,,,coleman
-1908Reach,1907,Gulf Coast League,B00747,Coleman,,T,,,B37,coleman
-1908Reach,1907,Gulf Coast League,F21182,Coleman,,1,Lafayette,,of,coleman
-1908Reach,1907,Gulf Coast League,F21182,Coleman,,2,Orange,,of,coleman
-1908Reach,1907,Gulf Coast League,F21182,Coleman,,T,,,of36,coleman
-1908Reach,1907,Gulf Coast League,B00278,Collins,,0,Lake Charles,,B77,collins
-1908Reach,1907,Gulf Coast League,F20350,Collins,,0,Lake Charles,,c75,collins
-1908Reach,1907,Gulf Coast League,B00920,Crosley,,0,Monroe,,B41,crosley
-1908Reach,1907,Gulf Coast League,F21229,Crosley,,0,Monroe,,of41,crosley
-1908Reach,1907,Gulf Coast League,B00614,Dana,,1,Alexandria,,,dana
-1908Reach,1907,Gulf Coast League,B00614,Dana,,2,Opelousas,,,dana
-1908Reach,1907,Gulf Coast League,B00614,Dana,,T,,,B86,dana
-1908Reach,1907,Gulf Coast League,F20458,Danna,,1,Alexandria,,c,dana
-1908Reach,1907,Gulf Coast League,F20458,Danna,,2,Opelousas,,c,dana
-1908Reach,1907,Gulf Coast League,F20458,Danna,,T,,,c10,dana
-1908Reach,1907,Gulf Coast League,F20699,Danna,,1,Alexandria,,2b,dana
-1908Reach,1907,Gulf Coast League,F20699,Danna,,2,Opelousas,,2b,dana
-1908Reach,1907,Gulf Coast League,F20699,Danna,,T,,,2b28,dana
-1908Reach,1907,Gulf Coast League,F21531,Danna,,1,Alexandria,,of,dana
-1908Reach,1907,Gulf Coast League,F21531,Danna,,2,Opelousas,,of,dana
-1908Reach,1907,Gulf Coast League,F21531,Danna,,T,,,of39,dana
-1908Reach,1907,Gulf Coast League,B00760,Decker,,0,Lake Charles,,B119,decker
-1908Reach,1907,Gulf Coast League,F20685,Decker,,0,Lake Charles,,2b35,decker
-1908Reach,1907,Gulf Coast League,F20841,Decker,,0,Lake Charles,,3b84,decker
-1908Reach,1907,Gulf Coast League,B01093,Deskin,,0,Lafayette,,B12,deskin
-1908Reach,1907,Gulf Coast League,F21434,Deskin,,0,Lafayette,,of12,deskin
-1908Reach,1907,Gulf Coast League,B00491,Dix,,0,Monroe,,B41,dix
-1908Reach,1907,Gulf Coast League,F20287,Dix,,0,Monroe,,p26,dix
-1908Reach,1907,Gulf Coast League,F21101,Dix,,0,Monroe,,of15,dix
-1908Reach,1907,Gulf Coast League,P10253,Dix,,0,all,,,dix
-1908Reach,1907,Gulf Coast League,B00672,Dixon,,1,Orange,,,dixon
-1908Reach,1907,Gulf Coast League,B00672,Dixon,,2,Alexandria,,,dixon
-1908Reach,1907,Gulf Coast League,B00672,Dixon,,T,,,B46,dixon
-1908Reach,1907,Gulf Coast League,F20935,Dixon,,1,Orange,,3b,dixon
-1908Reach,1907,Gulf Coast League,F20935,Dixon,,2,Alexandria,,3b,dixon
-1908Reach,1907,Gulf Coast League,F20935,Dixon,,T,,,3b39,dixon
-1908Reach,1907,Gulf Coast League,B00544,Dobard,,1,Opelousas,,,dobard
-1908Reach,1907,Gulf Coast League,B00544,Dobard,,2,Lafayette,,,dobard
-1908Reach,1907,Gulf Coast League,B00544,Dobard,,T,,,B97,dobard
-1908Reach,1907,Gulf Coast League,F20661,Dobard,,1,Orange,,2b,dobard
-1908Reach,1907,Gulf Coast League,F20661,Dobard,,2,Lafayette,,2b,dobard
-1908Reach,1907,Gulf Coast League,F20661,Dobard,,T,,,2b75,dobard
-1908Reach,1907,Gulf Coast League,F20807,Dobard,,1,Orange,,3b,dobard
-1908Reach,1907,Gulf Coast League,F20807,Dobard,,2,Lafayette,,3b,dobard
-1908Reach,1907,Gulf Coast League,F20807,Dobard,,T,,,3b16,dobard
-1908Reach,1907,Gulf Coast League,B00515,Drew,,1,Opelousas,,,drew
-1908Reach,1907,Gulf Coast League,B00515,Drew,,2,Alexandria,,,drew
-1908Reach,1907,Gulf Coast League,B00515,Drew,,T,,,B98,drew
-1908Reach,1907,Gulf Coast League,F20768,Drew,,1,Opelousas,,2b,drew
-1908Reach,1907,Gulf Coast League,F20768,Drew,,2,Alexandria,,2b,drew
-1908Reach,1907,Gulf Coast League,F20768,Drew,,T,,,2b52,drew
-1908Reach,1907,Gulf Coast League,F21037,Drew,,1,Opelousas,,ss,drew
-1908Reach,1907,Gulf Coast League,F21037,Drew,,2,Alexandria,,ss,drew
-1908Reach,1907,Gulf Coast League,F21037,Drew,,T,,,ss33,drew
-1908Reach,1907,Gulf Coast League,B00434,Dudley,,1,Opelousas,,,dudley
-1908Reach,1907,Gulf Coast League,B00434,Dudley,,2,Lafayette,,,dudley
-1908Reach,1907,Gulf Coast League,B00434,Dudley,,T,,,B23,dudley
-1908Reach,1907,Gulf Coast League,F20334,Dudley,,0,Lafayette,,c10,dudley
-1908Reach,1907,Gulf Coast League,F21502,Dudley,,0,Lafayette,,of13,dudley
-1908Reach,1907,Gulf Coast League,B00356,Duplain,,0,Orange,,B110,duplain
-1908Reach,1907,Gulf Coast League,F20604,Duplain,,0,Orange,,1b10,duplain
-1908Reach,1907,Gulf Coast League,F21278,Duplain,,0,Orange,,of95,duplain
-1908Reach,1907,Gulf Coast League,B00948,Dur'am,,1,Alexandria,,,durham
-1908Reach,1907,Gulf Coast League,B00948,Dur'am,,2,Monroe,,,durham
-1908Reach,1907,Gulf Coast League,B00948,Dur'am,,3,Opelousas,,,durham
-1908Reach,1907,Gulf Coast League,B00948,Dur'am,,T,,,B71,durham
-1908Reach,1907,Gulf Coast League,F20560,Durham,,1,Alexandria,,1b,durham
-1908Reach,1907,Gulf Coast League,F20560,Durham,,2,Monroe,,1b,durham
-1908Reach,1907,Gulf Coast League,F20560,Durham,,3,Opelousas,,1b,durham
-1908Reach,1907,Gulf Coast League,F20560,Durham,,T,,,1b12,durham
-1908Reach,1907,Gulf Coast League,F21381,Durham,,1,Alexandria,,of,durham
-1908Reach,1907,Gulf Coast League,F21381,Durham,,2,Monroe,,of,durham
-1908Reach,1907,Gulf Coast League,F21381,Durham,,3,Opelousas,,of,durham
-1908Reach,1907,Gulf Coast League,F21381,Durham,,T,,,of46,durham
-1908Reach,1907,Gulf Coast League,P10373,Durham,,0,all,,,durham
-1908Reach,1907,Gulf Coast League,B00101,Edmunds,,0,Opelousas,,B55,edmunds
-1908Reach,1907,Gulf Coast League,F20316,Edmunds,,0,Opelousas,,c24,edmunds
-1908Reach,1907,Gulf Coast League,F20713,Edmunds,,0,Opelousas,,2b13,edmunds
-1908Reach,1907,Gulf Coast League,F21059,Edmunds,,0,Opelousas,,ss12,edmunds
-1908Reach,1907,Gulf Coast League,B00783,Eissler,,0,Orange,,B74,eissler
-1908Reach,1907,Gulf Coast League,F20594,Eissler,,0,Orange,,1b54,eissler
-1908Reach,1907,Gulf Coast League,F21210,Eissler,,0,Orange,,of20,eissler
-1908Reach,1907,Gulf Coast League,B00887,Ellinor,,0,Monroe,,B14,ellinor
-1908Reach,1907,Gulf Coast League,F20144,Ellinor,,0,Monroe,,p10,ellinor
-1908Reach,1907,Gulf Coast League,P10192,Ellinor,,0,all,,,ellinor
-1908Reach,1907,Gulf Coast League,B00174,Emery,,0,Lake Charles,,B109,emery
-1908Reach,1907,Gulf Coast League,F20369,Emery,,0,Lake Charles,,c9,emery
-1908Reach,1907,Gulf Coast League,F21149,Emery,,0,Lake Charles,,of93,emery
-1908Reach,1907,Gulf Coast League,P10062,Emery,,0,all,,,emery
-1908Reach,1907,Gulf Coast League,B00973,Erwin,,0,Lafayette,,B64,erwin
-1908Reach,1907,Gulf Coast League,F20855,Erwin,,0,Lafayette,,3b62,erwin
-1908Reach,1907,Gulf Coast League,B00502,Finn,,0,Lake Charles,,B29,finn
-1908Reach,1907,Gulf Coast League,F20046,Finn,,0,Lake Charles,,p18,finn
-1908Reach,1907,Gulf Coast League,P10159,Finn,,0,all,,,finn
-1908Reach,1907,Gulf Coast League,B00084,Fisher,,0,Opelousas,,B44,fisher
-1908Reach,1907,Gulf Coast League,F20375,Fisher,,0,Orange,,c27,fisher
-1908Reach,1907,Gulf Coast League,F21397,Fisher,,0,Orange,,of10,fisher
-1908Reach,1907,Gulf Coast League,B00232,Ford,,0,Orange,,B39,ford
-1908Reach,1907,Gulf Coast League,F20206,Ford,,0,Orange,,p13,ford
-1908Reach,1907,Gulf Coast League,F21084,Ford,,0,Orange,,of24,ford
-1908Reach,1907,Gulf Coast League,P10168,Ford,,0,all,,,ford
-1908Reach,1907,Gulf Coast League,B00566,Foster,,0,Lake Charles,,B33,foster
-1908Reach,1907,Gulf Coast League,F20279,Foster,,0,Lake Charles,,p31,foster
-1908Reach,1907,Gulf Coast League,P10145,Foster,,0,all,,,foster
-1908Reach,1907,Gulf Coast League,B00149,Frickie,,0,Monroe,,B43,frickie
-1908Reach,1907,Gulf Coast League,F20038,Frickie,,0,Monroe,,p28,frickie
-1908Reach,1907,Gulf Coast League,F21117,Frickie,,0,Monroe,,of14,frickie
-1908Reach,1907,Gulf Coast League,P10056,Frickie,,0,all,,,frickie
-1908Reach,1907,Gulf Coast League,P10429,Fucichi,,0,all,,,fucichi
-1908Reach,1907,Gulf Coast League,B00794,Fulcher,,0,Opelousas,,B39,fulcher
-1908Reach,1907,Gulf Coast League,F21442,Fulcher,,0,Opelousas,,of39,fulcher
-1908Reach,1907,Gulf Coast League,B00898,Gand'fi,,1,Alexandria,,,gandolfi
-1908Reach,1907,Gulf Coast League,B00898,Gand'fi,,2,Orange,,,gandolfi
-1908Reach,1907,Gulf Coast League,B00898,Gand'fi,,3,Lafayette,,,gandolfi
-1908Reach,1907,Gulf Coast League,B00898,Gand'fi,,T,,,B48,gandolfi
-1908Reach,1907,Gulf Coast League,F20878,Gandolfi,,1,Alexandria,,3b,gandolfi
-1908Reach,1907,Gulf Coast League,F20878,Gandolfi,,2,Orange,,3b,gandolfi
-1908Reach,1907,Gulf Coast League,F20878,Gandolfi,,3,Lafayette,,3b,gandolfi
-1908Reach,1907,Gulf Coast League,F20878,Gandolfi,,T,,,3b12,gandolfi
-1908Reach,1907,Gulf Coast League,F21324,Gandolfi,,0,Alexandria,,of11,gandolfi
-1908Reach,1907,Gulf Coast League,P10320,Gandolfi,,0,all,,,gandolfi
-1908Reach,1907,Gulf Coast League,B01055,George,,0,Lafayette,,B17,george
-1908Reach,1907,Gulf Coast League,F21163,George,,0,Lafayette,,of17,george
-1908Reach,1907,Gulf Coast League,B00196,Gray,,0,Monroe,,B109,gray
-1908Reach,1907,Gulf Coast League,F20401,Gray,,0,Monroe,,c46,gray
-1908Reach,1907,Gulf Coast League,F20539,Gray,,0,Monroe,,1b59,gray
-1908Reach,1907,Gulf Coast League,B01032,Gremillion,,0,Alexandria,,B21,gremillion
-1908Reach,1907,Gulf Coast League,F21589,Gremillion,,0,Alexandria,,of10,gremillion
-1908Reach,1907,Gulf Coast League,P10113,Gremillion,,0,all,,,gremillion
-1908Reach,1907,Gulf Coast League,B00397,Guiterez,W.,0,Monroe,,B62,gutierrez.w
-1908Reach,1907,Gulf Coast League,F20391,Guiterez,W.,0,Monroe,,c62,gutierrez.w
-1908Reach,1907,Gulf Coast League,F20908,Guiterez,L.,0,Monroe,,3b20,gutierrez.l
-1908Reach,1907,Gulf Coast League,F21255,Guiterez,L.,0,Monroe,,of16,gutierrez.l
-1908Reach,1907,Gulf Coast League,B00255,Guitterez,L.,0,Monroe,,B43,gutierrez.l
-1908Reach,1907,Gulf Coast League,B00475,Hailey,,0,Lake Charles,,B41,hailey
-1908Reach,1907,Gulf Coast League,P10070,Hailey,,0,all,,,hailey
-1908Reach,1907,Gulf Coast League,F20222,Halley,,0,Lake Charles,,p30,hailey
-1908Reach,1907,Gulf Coast League,F21370,Halley,,0,Lake Charles,,of11,hailey
-1908Reach,1907,Gulf Coast League,B00854,Henderson,,0,Lafayette,,B67,henderson
-1908Reach,1907,Gulf Coast League,F20177,Henderson,,0,Lafayette,,p25,henderson
-1908Reach,1907,Gulf Coast League,F21528,Henderson,,1,Lafayette,,of,henderson
-1908Reach,1907,Gulf Coast League,F21528,Henderson,,2,Opelousas,,of,henderson
-1908Reach,1907,Gulf Coast League,F21528,Henderson,,T,,,of39,henderson
-1908Reach,1907,Gulf Coast League,P10176,Henderson,,0,all,,,henderson
-1908Reach,1907,Gulf Coast League,B00957,Hickey,,0,Lafayette,,B44,hickey
-1908Reach,1907,Gulf Coast League,F20240,Hickey,,0,Lafayette,,p18,hickey
-1908Reach,1907,Gulf Coast League,F21491,Hickey,,0,Lafayette,,of14,hickey
-1908Reach,1907,Gulf Coast League,P10184,Hickey,,0,all,,,hickey
-1908Reach,1907,Gulf Coast League,B00092,Hoffman,,0,Alexandria,,B116,hoffman
-1908Reach,1907,Gulf Coast League,F20482,Hoffman,,0,Alexandria,,1b110,hoffman
-1908Reach,1907,Gulf Coast League,B00045,Horn,,0,Lake Charles,,B86,horn
-1908Reach,1907,Gulf Coast League,F21264,Horn,,0,Lake Charles,,of85,horn
-1908Reach,1907,Gulf Coast League,B00450,Hubbard,,0,Lafayette,,B106,hubbard
-1908Reach,1907,Gulf Coast League,F20463,Hubbard,,0,Lafayette,,1b23,hubbard
-1908Reach,1907,Gulf Coast League,F20620,Hubbard,,0,Lafayette,,2b50,hubbard
-1908Reach,1907,Gulf Coast League,F21076,Hubbard,,0,Lafayette,,of25,hubbard
-1908Reach,1907,Gulf Coast League,B00623,Hutchcroft,,1,Lafayette,,,hutchcroft
-1908Reach,1907,Gulf Coast League,B00623,Hutchcroft,,2,Orange,,,hutchcroft
-1908Reach,1907,Gulf Coast League,B00623,Hutchcroft,,T,,,B66,hutchcroft
-1908Reach,1907,Gulf Coast League,F21241,Hutchcroft,,1,Lafayette,,of,hutchcroft
-1908Reach,1907,Gulf Coast League,F21241,Hutchcroft,,2,Orange,,of,hutchcroft
-1908Reach,1907,Gulf Coast League,F21241,Hutchcroft,,T,,,of66,hutchcroft
-1908Reach,1907,Gulf Coast League,B00293,Ivens,,0,Opelousas,,B13,ivens
-1908Reach,1907,Gulf Coast League,P10348,Ivens,,0,all,,,ivens
-1908Reach,1907,Gulf Coast League,B00117,Jackson,,0,Lake Charles,,B44,jackson
-1908Reach,1907,Gulf Coast League,F20496,Jackson,,0,Lake Charles,,1b37,jackson
-1908Reach,1907,Gulf Coast League,B00013,Jones,,0,Monroe,,B49,jones
-1908Reach,1907,Gulf Coast League,F20636,Jones,,0,Monroe,,2b45,jones
-1908Reach,1907,Gulf Coast League,B00381,Joubert,,1,Opelousas,,,joubert
-1908Reach,1907,Gulf Coast League,B00381,Joubert,,2,Lake Charles,,,joubert
-1908Reach,1907,Gulf Coast League,B00381,Joubert,,T,,,B75,joubert
-1908Reach,1907,Gulf Coast League,F20388,Joubert,,1,Lake Charles,,c,joubert
-1908Reach,1907,Gulf Coast League,F20388,Joubert,,2,Opelousas,,c,joubert
-1908Reach,1907,Gulf Coast League,F20388,Joubert,,T,,,c74,joubert
-1908Reach,1907,Gulf Coast League,B00912,Kelley,,0,Lafayette,,B13,kelley
-1908Reach,1907,Gulf Coast League,F20864,Kelley,,0,Lafayette,,3b13,kelley
-1908Reach,1907,Gulf Coast League,F21207,Ketchem,,1,Lake Charles,,of,ketchum
-1908Reach,1907,Gulf Coast League,F21207,Ketchem,,2,Alexandria,,of,ketchum
-1908Reach,1907,Gulf Coast League,F21207,Ketchem,,T,,,of99,ketchum
-1908Reach,1907,Gulf Coast League,B00840,Ketchum,,1,Lake Charles,,,ketchum
-1908Reach,1907,Gulf Coast League,B00840,Ketchum,,2,Alexandria,,,ketchum
-1908Reach,1907,Gulf Coast League,B00840,Ketchum,,T,,,B99,ketchum
-1908Reach,1907,Gulf Coast League,B00985,Kin'ey,,1,Opelousas,,,kinney
-1908Reach,1907,Gulf Coast League,B00985,Kin'ey,,2,Orange,,,kinney
-1908Reach,1907,Gulf Coast League,B00985,Kin'ey,,3,Lake Charles,,,kinney
-1908Reach,1907,Gulf Coast League,B00985,Kin'ey,,T,,,B30,kinney
-1908Reach,1907,Gulf Coast League,F20023,Kinney,,1,Opelousas,,p,kinney
-1908Reach,1907,Gulf Coast League,F20023,Kinney,,2,Orange,,p,kinney
-1908Reach,1907,Gulf Coast League,F20023,Kinney,,3,Lake Charles,,p,kinney
-1908Reach,1907,Gulf Coast League,F20023,Kinney,,T,,,p20,kinney
-1908Reach,1907,Gulf Coast League,P10312,Kinney,,0,all,,,kinney
-1908Reach,1907,Gulf Coast League,P10432,Kistner,,0,all,,,kistner
-1908Reach,1907,Gulf Coast League,B00646,Kitchens,,1,Orange,,,kitchens
-1908Reach,1907,Gulf Coast League,B00646,Kitchens,,2,Alexandria,,,kitchens
-1908Reach,1907,Gulf Coast League,B00646,Kitchens,,T,,,B101,kitchens
-1908Reach,1907,Gulf Coast League,F20051,Kitchens,,1,Orange,,p,kitchens
-1908Reach,1907,Gulf Coast League,F20051,Kitchens,,2,Alexandria,,p,kitchens
-1908Reach,1907,Gulf Coast League,F20051,Kitchens,,T,,,p11,kitchens
-1908Reach,1907,Gulf Coast League,F20327,Kitchens,,1,Orange,,c,kitchens
-1908Reach,1907,Gulf Coast League,F20327,Kitchens,,2,Alexandria,,c,kitchens
-1908Reach,1907,Gulf Coast League,F20327,Kitchens,,T,,,c15,kitchens
-1908Reach,1907,Gulf Coast League,F21045,Kitchens,,1,Orange,,ss,kitchens
-1908Reach,1907,Gulf Coast League,F21045,Kitchens,,2,Alexandria,,ss,kitchens
-1908Reach,1907,Gulf Coast League,F21045,Kitchens,,T,,,ss23,kitchens
-1908Reach,1907,Gulf Coast League,F21308,Kitchens,,1,Orange,,of,kitchens
-1908Reach,1907,Gulf Coast League,F21308,Kitchens,,2,Alexandria,,of,kitchens
-1908Reach,1907,Gulf Coast League,F21308,Kitchens,,T,,,of43,kitchens
-1908Reach,1907,Gulf Coast League,P10266,Kitchens,,0,all,,,kitchens
-1908Reach,1907,Gulf Coast League,B00752,Knight,,0,Lake Charles,,B45,knight
-1908Reach,1907,Gulf Coast League,F20095,Knight,,0,Lake Charles,,p28,knight
-1908Reach,1907,Gulf Coast League,F20474,Knight,,0,Lake Charles,,1b13,knight
-1908Reach,1907,Gulf Coast League,P10097,Knight,,0,all,,,knight
-1908Reach,1907,Gulf Coast League,B00680,Latham,,0,Orange,,B39,latham-ora
-1908Reach,1907,Gulf Coast League,B01124,Latham,,0,Lake Charles,,B10,latham-lc
-1908Reach,1907,Gulf Coast League,F20254,Latham,,0,Lake Charles,,p10,latham-lc
-1908Reach,1907,Gulf Coast League,F21475,Latham,,0,Orange,,of38,latham-ora
-1908Reach,1907,Gulf Coast League,P10289,Latham,,0,all,,,latham-lc
-1908Reach,1907,Gulf Coast League,B00324,Lighton,Jas.,0,Monroe,,B48,lighton.jas
-1908Reach,1907,Gulf Coast League,B00904,Lighton,Jo.,1,Monroe,,,lighton.jo
-1908Reach,1907,Gulf Coast League,B00904,Lighton,Jo.,2,Lafayette,,,lighton.jo
-1908Reach,1907,Gulf Coast League,B00904,Lighton,Jo.,T,,,B22,lighton.jo
-1908Reach,1907,Gulf Coast League,F20547,Lighton,Jas.,0,Monroe,,1b26,lighton.jas
-1908Reach,1907,Gulf Coast League,F20745,Lighton,Jas.,0,Monroe,,2b13,lighton.jas
-1908Reach,1907,Gulf Coast League,B00488,M'Con'ille,,1,Orange,,,mcconville
-1908Reach,1907,Gulf Coast League,B00488,M'Con'ille,,2,Opelousas,,,mcconville
-1908Reach,1907,Gulf Coast League,B00488,M'Con'ille,,T,,,B89,mcconville
-1908Reach,1907,Gulf Coast League,B00370,Marshall,,0,Lake Charles,,B112,marshall
-1908Reach,1907,Gulf Coast League,F20970,Marshall,,0,Lake Charles,,ss111,marshall
-1908Reach,1907,Gulf Coast League,B01010,Martin,,0,Alexandria,,B48,martin
-1908Reach,1907,Gulf Coast League,F21469,Martin,,0,Alexandria,,of48,martin
-1908Reach,1907,Gulf Coast League,B00229,Mason,,0,Orange,,B60,mason
-1908Reach,1907,Gulf Coast League,F20211,Mason,,0,Orange,,p30,mason
-1908Reach,1907,Gulf Coast League,F21232,Mason,,0,Orange,,of30,mason
-1908Reach,1907,Gulf Coast League,P10100,Mason,,0,all,,,mason
-1908Reach,1907,Gulf Coast League,F20430,McConville,,1,Orange,,c,mcconville
-1908Reach,1907,Gulf Coast League,F20430,McConville,,2,Opelousas,,c,mcconville
-1908Reach,1907,Gulf Coast League,F20430,McConville,,T,,,c26,mcconville
-1908Reach,1907,Gulf Coast League,F21362,McConville,,1,Orange,,of,mcconville
-1908Reach,1907,Gulf Coast League,F21362,McConville,,2,Opelousas,,of,mcconville
-1908Reach,1907,Gulf Coast League,F21362,McConville,,T,,,of62,mcconville
-1908Reach,1907,Gulf Coast League,B00469,McCoy,,0,Alexandria,,B12,mccoy
-1908Reach,1907,Gulf Coast League,F20776,McCoy,,0,Alexandria,,2b10,mccoy
-1908Reach,1907,Gulf Coast League,B00531,McDonald,,0,Opelousas,,B75,mcdonald
-1908Reach,1907,Gulf Coast League,F20342,McDonald,,0,Orange,,c58,mcdonald
-1908Reach,1907,Gulf Coast League,F20505,McDonald,,0,Orange,,1b17,mcdonald
-1908Reach,1907,Gulf Coast League,B00343,McLaughlin,,0,Lake Charles,,B111,mclaughlin
-1908Reach,1907,Gulf Coast League,F21158,McLaughlin,,0,Lake Charles,,of111,mclaughlin
-1908Reach,1907,Gulf Coast League,B00427,Meander,,0,Monroe,,B34,meander
-1908Reach,1907,Gulf Coast League,F21196,Meander,,0,Monroe,,of34,meander
-1908Reach,1907,Gulf Coast League,B00936,Monyhan,,0,Orange,,B100,monyhan
-1908Reach,1907,Gulf Coast League,F20673,Monyhan,,0,Orange,,2b40,monyhan
-1908Reach,1907,Gulf Coast League,F20981,Monyhan,,0,Orange,,ss59,monyhan
-1908Reach,1907,Gulf Coast League,B00718,Nevins,,0,Orange,,B118,nevins
-1908Reach,1907,Gulf Coast League,F20657,Nevins,,0,Orange,,2b29,nevins
-1908Reach,1907,Gulf Coast League,F20829,Nevins,,0,Orange,,3b35,nevins
-1908Reach,1907,Gulf Coast League,F21000,Nevins,,0,Orange,,ss51,nevins
-1908Reach,1907,Gulf Coast League,B00125,Northern,,0,Opelousas,,B53,northen
-1908Reach,1907,Gulf Coast League,F21356,Northern,,0,Opelousas,,of48,northen
-1908Reach,1907,Gulf Coast League,B00068,Olire,,1,Lake Charles,,,olire
-1908Reach,1907,Gulf Coast League,B00068,Olire,,2,Monroe,,,olire
-1908Reach,1907,Gulf Coast League,B00068,Olire,,3,Alexandria,,,olire
-1908Reach,1907,Gulf Coast League,B00068,Olire,,T,,,B72,olire
-1908Reach,1907,Gulf Coast League,F20810,Olire,,1,Lake Charles,,3b,olire
-1908Reach,1907,Gulf Coast League,F20810,Olire,,2,Monroe,,3b,olire
-1908Reach,1907,Gulf Coast League,F20810,Olire,,3,Alexandria,,3b,olire
-1908Reach,1907,Gulf Coast League,F20810,Olire,,T,,,3b30,olire
-1908Reach,1907,Gulf Coast League,F21335,Olire,,1,Monroe,,of,olire
-1908Reach,1907,Gulf Coast League,F21335,Olire,,2,Lafayette,,of,olire
-1908Reach,1907,Gulf Coast League,F21335,Olire,,3,Lake Charles,,of,olire
-1908Reach,1907,Gulf Coast League,F21335,Olire,,4,Alexandria,,of,olire
-1908Reach,1907,Gulf Coast League,F21335,Olire,,T,,,of33,olire
-1908Reach,1907,Gulf Coast League,B01119,Orchid,,1,Orange,,,orchid
-1908Reach,1907,Gulf Coast League,B01119,Orchid,,2,Lafayette,,,orchid
-1908Reach,1907,Gulf Coast League,B01119,Orchid,,3,Alexandria,,,orchid
-1908Reach,1907,Gulf Coast League,B01119,Orchid,,T,,,B29,orchid
-1908Reach,1907,Gulf Coast League,F20298,Orchid,,1,Orange,,p,orchid
-1908Reach,1907,Gulf Coast League,F20298,Orchid,,2,Lafayette,,p,orchid
-1908Reach,1907,Gulf Coast League,F20298,Orchid,,3,Alexandria,,p,orchid
-1908Reach,1907,Gulf Coast League,F20298,Orchid,,T,,,p29,orchid
-1908Reach,1907,Gulf Coast League,P10410,Orchid,,0,all,,,orchid
-1908Reach,1907,Gulf Coast League,B00667,Orday,,1,Lafayette,,,orday
-1908Reach,1907,Gulf Coast League,B00667,Orday,,2,Opelousas,,,orday
-1908Reach,1907,Gulf Coast League,B00667,Orday,,3,Orange,,,orday
-1908Reach,1907,Gulf Coast League,B00667,Orday,,T,,,B57,orday
-1908Reach,1907,Gulf Coast League,F21488,Ordway,,1,Lafayette,,of,orday
-1908Reach,1907,Gulf Coast League,F21488,Ordway,,2,Orange,,of,orday
-1908Reach,1907,Gulf Coast League,F21488,Ordway,,T,,,of57,orday
-1908Reach,1907,Gulf Coast League,B00822,Page,,0,Alexandria,,B36,page
-1908Reach,1907,Gulf Coast League,F20612,Page,,0,Alexandria,,2b28,page
-1908Reach,1907,Gulf Coast League,B00286,Palm,,0,Lake Charles,,B24,palm
-1908Reach,1907,Gulf Coast League,F20425,Palm,,0,Lake Charles,,c22,palm
-1908Reach,1907,Gulf Coast League,P10024,Parrott,,0,all,,,parrott
-1908Reach,1907,Gulf Coast League,B00210,Paulig,,0,Orange,,B34,paulig
-1908Reach,1907,Gulf Coast League,F20832,Paulig,,0,Orange,,3b34,paulig
-1908Reach,1907,Gulf Coast League,B00403,Reagan,,0,Monroe,,B114,reagan
-1908Reach,1907,Gulf Coast League,F20721,Reagan,,0,Monroe,,2b33,reagan
-1908Reach,1907,Gulf Coast League,F20962,Reagan,,0,Monroe,,ss78,reagan
-1908Reach,1907,Gulf Coast League,B00695,Relf,,0,Lafayette,,B109,relf
-1908Reach,1907,Gulf Coast League,B00130,Richardson,,0,Orange,,B16,richardson
-1908Reach,1907,Gulf Coast League,F20080,Richardson,,0,Orange,,p11,richardson
-1908Reach,1907,Gulf Coast League,P10019,Richardson,,0,all,,,richardson
-1908Reach,1907,Gulf Coast League,B00319,Roach,,0,Orange,,B47,roach
-1908Reach,1907,Gulf Coast League,F20924,Roach,,0,Orange,,3b47,roach
-1908Reach,1907,Gulf Coast League,B00158,Roberts,,0,Opelousas,,B25,roberts
-1908Reach,1907,Gulf Coast League,F20166,Roberts,,0,Opelousas,,p12,roberts
-1908Reach,1907,Gulf Coast League,F21125,Roberts,,0,Opelousas,,of13,roberts
-1908Reach,1907,Gulf Coast League,P10304,Roberts,,0,all,,,roberts
-1908Reach,1907,Gulf Coast League,F20956,Rolf,,0,Lafayette,,ss106,relf
-1908Reach,1907,Gulf Coast League,B00705,Shaffer,,0,Alexandria,,B28,shaffer
-1908Reach,1907,Gulf Coast League,F21416,Shaffer,,0,Alexandria,,of28,shaffer
-1908Reach,1907,Gulf Coast League,P10441,Smith,,0,all,,,smith
-1908Reach,1907,Gulf Coast League,B00879,Smithele,,0,Monroe,,B17,smithele
-1908Reach,1907,Gulf Coast League,F20997,Smithele,,0,Monroe,,ss17,smithele
-1908Reach,1907,Gulf Coast League,B00182,Sullivan,,0,Lake Charles,,B66,sullivan-lc
-1908Reach,1907,Gulf Coast League,B00739,Sullivan,,1,Lafayette,,,sullivan-laf+mon
-1908Reach,1907,Gulf Coast League,B00739,Sullivan,,2,Monroe,,,sullivan-laf+mon
-1908Reach,1907,Gulf Coast League,B00739,Sullivan,,T,,,B86,sullivan-laf+mon
-1908Reach,1907,Gulf Coast League,F20552,Sullivan,,0,Lake Charles,,1b66,sullivan-lc
-1908Reach,1907,Gulf Coast League,F21286,Sullivan,,0,Lafayette,,of86,sullivan-laf+mon
-1908Reach,1907,Gulf Coast League,B00811,Switzer,,0,Opelousas,,B95,switzer
-1908Reach,1907,Gulf Coast League,F20072,Switzer,,0,Opelousas,,p41,switzer
-1908Reach,1907,Gulf Coast League,F20737,Switzer,,0,Opelousas,,2b13,switzer
-1908Reach,1907,Gulf Coast League,F21450,Switzer,,0,Opelousas,,of40,switzer
-1908Reach,1907,Gulf Coast League,P10336,Switzer,,0,all,,,switzer
-1908Reach,1907,Gulf Coast League,B00442,Taylor,,1,Monroe,,,taylor
-1908Reach,1907,Gulf Coast League,B00442,Taylor,,2,Lafayette,,,taylor
-1908Reach,1907,Gulf Coast League,B00442,Taylor,,T,,,B42,taylor
-1908Reach,1907,Gulf Coast League,F21403,Taylor,,1,Monroe,,of,taylor
-1908Reach,1907,Gulf Coast League,F21403,Taylor,,2,Lafayette,,of,taylor
-1908Reach,1907,Gulf Coast League,F21403,Taylor,,T,,,of30,taylor
-1908Reach,1907,Gulf Coast League,B01041,Thebo,,1,Alexandria,,,thebo
-1908Reach,1907,Gulf Coast League,B01041,Thebo,,2,Opelousas,,,thebo
-1908Reach,1907,Gulf Coast League,B01041,Thebo,,T,,,B69,thebo
-1908Reach,1907,Gulf Coast League,F20886,Thebo,,1,Alexandria,,3b,thebo
-1908Reach,1907,Gulf Coast League,F20886,Thebo,,2,Opelousas,,3b,thebo
-1908Reach,1907,Gulf Coast League,F20886,Thebo,,T,,,3b51,thebo
-1908Reach,1907,Gulf Coast League,F21013,Thebo,,1,Alexandria,,ss,thebo
-1908Reach,1907,Gulf Coast League,F21013,Thebo,,2,Opelousas,,ss,thebo
-1908Reach,1907,Gulf Coast League,F21013,Thebo,,T,,,ss14,thebo
-1908Reach,1907,Gulf Coast League,B00806,Vit'r,H.,1,Lafayette,,,vitter.h
-1908Reach,1907,Gulf Coast League,B00806,Vit'r,H.,2,Orange,,,vitter.h
-1908Reach,1907,Gulf Coast League,B00806,Vit'r,H.,3,Monroe,,,vitter.h
-1908Reach,1907,Gulf Coast League,B00806,Vit'r,H.,T,,,B96,vitter.h
-1908Reach,1907,Gulf Coast League,B00207,Vitter,R.,1,Lafayette,,,vitter.r
-1908Reach,1907,Gulf Coast League,B00207,Vitter,R.,2,Orange,,,vitter.r
-1908Reach,1907,Gulf Coast League,B00207,Vitter,R.,T,,,B94,vitter.r
-1908Reach,1907,Gulf Coast League,F20449,Vitter,H.,1,Lafayette,,c,vitter.h
-1908Reach,1907,Gulf Coast League,F20449,Vitter,H.,2,Monroe,,c,vitter.h
-1908Reach,1907,Gulf Coast League,F20449,Vitter,H.,T,,,c42,vitter.h
-1908Reach,1907,Gulf Coast League,F20518,Vitter,R.,1,Lafayette,,1b,vitter.r
-1908Reach,1907,Gulf Coast League,F20518,Vitter,R.,2,Orange,,1b,vitter.r
-1908Reach,1907,Gulf Coast League,F20518,Vitter,R.,T,,,1b51,vitter.r
-1908Reach,1907,Gulf Coast League,F20700,Vitter,R.,1,Lafayette,,2b,vitter.r
-1908Reach,1907,Gulf Coast League,F20700,Vitter,R.,2,Orange,,2b,vitter.r
-1908Reach,1907,Gulf Coast League,F20700,Vitter,R.,T,,,2b23,vitter.r
-1908Reach,1907,Gulf Coast League,F20893,Vitter,H.,1,Lafayette,,3b,vitter.h
-1908Reach,1907,Gulf Coast League,F20893,Vitter,H.,2,Monroe,,3b,vitter.h
-1908Reach,1907,Gulf Coast League,F20893,Vitter,H.,T,,,3b14,vitter.h
-1908Reach,1907,Gulf Coast League,P10357,Vitter,R.,0,all,,,vitter.r
-1908Reach,1907,Gulf Coast League,B00577,Weeks,,0,Alexandria,,B44,weeks
-1908Reach,1907,Gulf Coast League,F20067,Weeks,,0,Alexandria,,p26,weeks
-1908Reach,1907,Gulf Coast League,F21092,Weeks,,0,Alexandria,,of17,weeks
-1908Reach,1907,Gulf Coast League,P10035,Weeks,,0,all,,,weeks
-1908Reach,1907,Gulf Coast League,B01086,Welch,,1,Lafayette,,,welch
-1908Reach,1907,Gulf Coast League,B01086,Welch,,2,Alexandria,,,welch
-1908Reach,1907,Gulf Coast League,B01086,Welch,,T,,,B21,welch
-1908Reach,1907,Gulf Coast League,F20014,Welch,,1,Lafayette,,p,welch
-1908Reach,1907,Gulf Coast League,F20014,Welch,,2,Alexandria,,p,welch
-1908Reach,1907,Gulf Coast League,F20014,Welch,,T,,,p11,welch
-1908Reach,1907,Gulf Coast League,F21577,Welch,,1,Lafayette,,of,welch
-1908Reach,1907,Gulf Coast League,F21577,Welch,,2,Alexandria,,of,welch
-1908Reach,1907,Gulf Coast League,F21577,Welch,,T,,,of10,welch
-1908Reach,1907,Gulf Coast League,P10277,Welch,,0,all,,,welch
-1908Reach,1907,Gulf Coast League,B00651,Werner,,0,Monroe,,B28,werner
-1908Reach,1907,Gulf Coast League,P10399,Werner,,0,all,,,werner
-1908Reach,1907,Gulf Coast League,B01029,Whalon,,0,Orange,,B16,whalon
-1908Reach,1907,Gulf Coast League,F20128,Whalon,,0,Orange,,p16,whalon
-1908Reach,1907,Gulf Coast League,P10137,Whalon,,0,all,,,whalon
-1908Reach,1907,Gulf Coast League,F20571,Whealen,,0,Monroe,,1b10,whelan
-1908Reach,1907,Gulf Coast League,B01078,Whelan,,0,Monroe,,B13,whelan
-1908Reach,1907,Gulf Coast League,B00264,White,,0,Alexandria,,B77,white
-1908Reach,1907,Gulf Coast League,F20943,White,,0,Alexandria,,ss77,white
-1908Reach,1907,Gulf Coast League,F21293,Wilk'son,,1,Orange,,of,wilkinson
-1908Reach,1907,Gulf Coast League,F21293,Wilk'son,,2,Monroe,,of,wilkinson
-1908Reach,1907,Gulf Coast League,F21293,Wilk'son,,3,Alexandria,,of,wilkinson
-1908Reach,1907,Gulf Coast League,F21293,Wilk'son,,T,,,of5,wilkinson
-1908Reach,1907,Gulf Coast League,P10407,Wilkinson,,0,all,,,wilkinson
-1908Reach,1907,Gulf Coast League,B00609,Wilksn,,1,Orange,,,wilkinson
-1908Reach,1907,Gulf Coast League,B00609,Wilksn,,2,Monroe,,,wilkinson
-1908Reach,1907,Gulf Coast League,B00609,Wilksn,,3,Alexandria,,,wilkinson
-1908Reach,1907,Gulf Coast League,B00609,Wilksn,,T,,,B21,wilkinson
-1908Reach,1907,Gulf Coast League,B00528,Windham,,0,Opelousas,,B28,windham
-1908Reach,1907,Gulf Coast League,F20265,Windham,,0,Opelousas,,p13,windham
-1908Reach,1907,Gulf Coast League,F21566,Windham,,0,Opelousas,,of15,windham
-1908Reach,1907,Gulf Coast League,P10385,Windham,,0,all,,,windham
-1908Reach,1907,Gulf Coast League,P10202,Yensen,,0,all,,,yensen
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+1908Reach,1907,Gulf Coast League,addington,B00308,Addington,,0,Monroe,,B79
+1908Reach,1907,Gulf Coast League,addington,F20784,Addington,,0,Monroe,,3b79
+1908Reach,1907,Gulf Coast League,alexander,B01007,Alexander,,0,Monroe,,B11
+1908Reach,1907,Gulf Coast League,alexander,P10215,Alexander,,0,all,,
+1908Reach,1907,Gulf Coast League,andrews,B00961,Andrews,,0,Orange,,B12
+1908Reach,1907,Gulf Coast League,andrews,F21553,Andrews,,0,Orange,,of12
+1908Reach,1907,Gulf Coast League,ashton,B00335,Ashton,,0,Monroe,,B15
+1908Reach,1907,Gulf Coast League,ashton,F21544,Ashton,,0,Monroe,,of13
+1908Reach,1907,Gulf Coast League,badger,B00163,Badger,,1,Monroe,,
+1908Reach,1907,Gulf Coast League,badger,B00163,Badger,,2,Lake Charles,,
+1908Reach,1907,Gulf Coast League,badger,B00163,Badger,,T,,,B117
+1908Reach,1907,Gulf Coast League,badger,F20648,Badger,,0,Lake Charles,,2b83
+1908Reach,1907,Gulf Coast League,badger,F20792,Badger,,0,Lake Charles,,3b34
+1908Reach,1907,Gulf Coast League,bauer,B00553,Bauer,,0,Alexandria,,B94
+1908Reach,1907,Gulf Coast League,bauer,F20115,Bauer,,0,Alexandria,,p33
+1908Reach,1907,Gulf Coast League,bauer,F21427,Bauer,,0,Alexandria,,of59
+1908Reach,1907,Gulf Coast League,bauer,P10231,Bauer,,0,all,,
+1908Reach,1907,Gulf Coast League,baxter,B00999,Bax'r,,1,Lake Charles,,
+1908Reach,1907,Gulf Coast League,baxter,B00999,Bax'r,,2,Lafayette,,
+1908Reach,1907,Gulf Coast League,baxter,B00999,Bax'r,,3,Opelousas,,
+1908Reach,1907,Gulf Coast League,baxter,B00999,Bax'r,,T,,,B22
+1908Reach,1907,Gulf Coast League,baxter,F20190,Baxter,,1,Lake Charles,,p
+1908Reach,1907,Gulf Coast League,baxter,F20190,Baxter,,2,Lafayette,,p
+1908Reach,1907,Gulf Coast League,baxter,F20190,Baxter,,3,Opelousas,,p
+1908Reach,1907,Gulf Coast League,baxter,F20190,Baxter,,T,,,p14
+1908Reach,1907,Gulf Coast League,baxter,P10121,Baxter,,0,all,,
+1908Reach,1907,Gulf Coast League,bessey,B00076,Bessey,,1,Monroe,,
+1908Reach,1907,Gulf Coast League,bessey,B00076,Bessey,,2,Lafayette,,
+1908Reach,1907,Gulf Coast League,bessey,B00076,Bessey,,T,,,B17
+1908Reach,1907,Gulf Coast League,bheau,B00771,Bheau,,1,Opelousas,,
+1908Reach,1907,Gulf Coast League,bheau,B00771,Bheau,,2,Lafayette,,
+1908Reach,1907,Gulf Coast League,bheau,B00771,Bheau,,T,,,B17
+1908Reach,1907,Gulf Coast League,bheau,F20759,Bheau,,0,Opelousas,,2b17
+1908Reach,1907,Gulf Coast League,blanchfield,F21343,Blanch'd,,1,Opelousas,,of
+1908Reach,1907,Gulf Coast League,blanchfield,F21343,Blanch'd,,2,Lafayette,,of
+1908Reach,1907,Gulf Coast League,blanchfield,F21343,Blanch'd,,3,Lake Charles,,of
+1908Reach,1907,Gulf Coast League,blanchfield,F21343,Blanch'd,,T,,,of34
+1908Reach,1907,Gulf Coast League,blanchett,B00059,Blanchett,,0,Opelousas,,B103
+1908Reach,1907,Gulf Coast League,blanchett,F20583,Blanchette,,0,Opelousas,,1b90
+1908Reach,1907,Gulf Coast League,blanchfield,B00037,Blanchfield,,1,Opelousas,,
+1908Reach,1907,Gulf Coast League,blanchfield,B00037,Blanchfield,,2,Lake Charles,,
+1908Reach,1907,Gulf Coast League,blanchfield,B00037,Blanchfield,,T,,,B34
+1908Reach,1907,Gulf Coast League,bolles,B00833,Bolles,,1,Alexandria,,
+1908Reach,1907,Gulf Coast League,bolles,B00833,Bolles,,2,Orange,,
+1908Reach,1907,Gulf Coast League,bolles,B00833,Bolles,,T,,,B34
+1908Reach,1907,Gulf Coast League,bolles,F20189,Bolles,,1,Alexandria,,p
+1908Reach,1907,Gulf Coast League,bolles,F20189,Bolles,,2,Orange,,p
+1908Reach,1907,Gulf Coast League,bolles,F20189,Bolles,,T,,,p27
+1908Reach,1907,Gulf Coast League,bolles,P10043,Bolles,,0,all,,
+1908Reach,1907,Gulf Coast League,bordeaux,F20102,Bordeau,,0,Lafayette,,p21
+1908Reach,1907,Gulf Coast League,bordeaux,B00590,Bordeaux,,0,Lafayette,,B56
+1908Reach,1907,Gulf Coast League,bordeaux,F21174,Bordeaux,,0,Lafayette,,of31
+1908Reach,1907,Gulf Coast League,bordeaux,P10290,Bordeaux,,0,all,,
+1908Reach,1907,Gulf Coast League,braun,B00021,Braun,,0,Alexandria,,B99
+1908Reach,1907,Gulf Coast League,braun,F20303,Braun,,0,Alexandria,,c91
+1908Reach,1907,Gulf Coast League,brazelle,B00638,Brazelle,,0,Monroe,,B36
+1908Reach,1907,Gulf Coast League,brazelle,F20153,Brazelle,,0,Monroe,,p25
+1908Reach,1907,Gulf Coast League,brazelle,F21319,Brazelle,,0,Monroe,,of11
+1908Reach,1907,Gulf Coast League,brazelle,P10081,Brazelle,,0,all,,
+1908Reach,1907,Gulf Coast League,breeding,B00241,Breeding,,1,Orange,,
+1908Reach,1907,Gulf Coast League,breeding,B00241,Breeding,,2,Lafayette,,
+1908Reach,1907,Gulf Coast League,breeding,B00241,Breeding,,T,,,B100
+1908Reach,1907,Gulf Coast League,breeding,F20417,Breeding,,1,Orange,,c
+1908Reach,1907,Gulf Coast League,breeding,F20417,Breeding,,2,Lafayette,,c
+1908Reach,1907,Gulf Coast League,breeding,F20417,Breeding,,T,,,c35
+1908Reach,1907,Gulf Coast League,breeding,F20526,Breeding,,1,Orange,,1b
+1908Reach,1907,Gulf Coast League,breeding,F20526,Breeding,,2,Lafayette,,1b
+1908Reach,1907,Gulf Coast League,breeding,F20526,Breeding,,T,,,1b64
+1908Reach,1907,Gulf Coast League,briggs,B00589,Briggs,,0,Monroe,,B25
+1908Reach,1907,Gulf Coast League,briggs,F21068,Briggs,,0,Monroe,,ss18
+1908Reach,1907,Gulf Coast League,brockman,B00726,Brockman,,0,Opelousas,,B47
+1908Reach,1907,Gulf Coast League,brockman,F21021,Brockman,,0,Opelousas,,ss45
+1908Reach,1907,Gulf Coast League,broussard,B00865,Broussard,,0,Lafayette,,B43
+1908Reach,1907,Gulf Coast League,broussard,F20233,Broussard,,0,Lafayette,,p35
+1908Reach,1907,Gulf Coast League,broussard,P10244,Broussard,,0,all,,
+1908Reach,1907,Gulf Coast League,burmmett,P10228,Burmmett,,0,all,,
+1908Reach,1907,Gulf Coast League,carey,B01064,Carey,,0,Orange,,B11
+1908Reach,1907,Gulf Coast League,carroll,B00416,Carroll,,0,Monroe,,B113
+1908Reach,1907,Gulf Coast League,carroll,F21130,Carroll,,0,Monroe,,of108
+1908Reach,1907,Gulf Coast League,carey,F21515,Catey,,0,Orange,,of11
+1908Reach,1907,Gulf Coast League,chastant,B00362,Chastant,,0,Opelousas,,B108
+1908Reach,1907,Gulf Coast League,chastant,F20919,Chastant,,0,Opelousas,,3b102
+1908Reach,1907,Gulf Coast League,clark,B01108,Clark,,0,Orange,,B15
+1908Reach,1907,Gulf Coast League,clark,F20131,Clark,,0,Orange,,p12
+1908Reach,1907,Gulf Coast League,clark,P10361,Clark,,0,all,,
+1908Reach,1907,Gulf Coast League,coleman,B00747,Coleman,,1,Lafayette,,
+1908Reach,1907,Gulf Coast League,coleman,B00747,Coleman,,2,Orange,,
+1908Reach,1907,Gulf Coast League,coleman,B00747,Coleman,,T,,,B37
+1908Reach,1907,Gulf Coast League,coleman,F21182,Coleman,,1,Lafayette,,of
+1908Reach,1907,Gulf Coast League,coleman,F21182,Coleman,,2,Orange,,of
+1908Reach,1907,Gulf Coast League,coleman,F21182,Coleman,,T,,,of36
+1908Reach,1907,Gulf Coast League,collins,B00278,Collins,,0,Lake Charles,,B77
+1908Reach,1907,Gulf Coast League,collins,F20350,Collins,,0,Lake Charles,,c75
+1908Reach,1907,Gulf Coast League,crosley,B00920,Crosley,,0,Monroe,,B41
+1908Reach,1907,Gulf Coast League,crosley,F21229,Crosley,,0,Monroe,,of41
+1908Reach,1907,Gulf Coast League,dana,B00614,Dana,,1,Alexandria,,
+1908Reach,1907,Gulf Coast League,dana,B00614,Dana,,2,Opelousas,,
+1908Reach,1907,Gulf Coast League,dana,B00614,Dana,,T,,,B86
+1908Reach,1907,Gulf Coast League,dana,F20458,Danna,,1,Alexandria,,c
+1908Reach,1907,Gulf Coast League,dana,F20458,Danna,,2,Opelousas,,c
+1908Reach,1907,Gulf Coast League,dana,F20458,Danna,,T,,,c10
+1908Reach,1907,Gulf Coast League,dana,F20699,Danna,,1,Alexandria,,2b
+1908Reach,1907,Gulf Coast League,dana,F20699,Danna,,2,Opelousas,,2b
+1908Reach,1907,Gulf Coast League,dana,F20699,Danna,,T,,,2b28
+1908Reach,1907,Gulf Coast League,dana,F21531,Danna,,1,Alexandria,,of
+1908Reach,1907,Gulf Coast League,dana,F21531,Danna,,2,Opelousas,,of
+1908Reach,1907,Gulf Coast League,dana,F21531,Danna,,T,,,of39
+1908Reach,1907,Gulf Coast League,decker,B00760,Decker,,0,Lake Charles,,B119
+1908Reach,1907,Gulf Coast League,decker,F20685,Decker,,0,Lake Charles,,2b35
+1908Reach,1907,Gulf Coast League,decker,F20841,Decker,,0,Lake Charles,,3b84
+1908Reach,1907,Gulf Coast League,deskin,B01093,Deskin,,0,Lafayette,,B12
+1908Reach,1907,Gulf Coast League,deskin,F21434,Deskin,,0,Lafayette,,of12
+1908Reach,1907,Gulf Coast League,dix,B00491,Dix,,0,Monroe,,B41
+1908Reach,1907,Gulf Coast League,dix,F20287,Dix,,0,Monroe,,p26
+1908Reach,1907,Gulf Coast League,dix,F21101,Dix,,0,Monroe,,of15
+1908Reach,1907,Gulf Coast League,dix,P10253,Dix,,0,all,,
+1908Reach,1907,Gulf Coast League,dixon,B00672,Dixon,,1,Orange,,
+1908Reach,1907,Gulf Coast League,dixon,B00672,Dixon,,2,Alexandria,,
+1908Reach,1907,Gulf Coast League,dixon,B00672,Dixon,,T,,,B46
+1908Reach,1907,Gulf Coast League,dixon,F20935,Dixon,,1,Orange,,3b
+1908Reach,1907,Gulf Coast League,dixon,F20935,Dixon,,2,Alexandria,,3b
+1908Reach,1907,Gulf Coast League,dixon,F20935,Dixon,,T,,,3b39
+1908Reach,1907,Gulf Coast League,dobard,B00544,Dobard,,1,Opelousas,,
+1908Reach,1907,Gulf Coast League,dobard,B00544,Dobard,,2,Lafayette,,
+1908Reach,1907,Gulf Coast League,dobard,B00544,Dobard,,T,,,B97
+1908Reach,1907,Gulf Coast League,dobard,F20661,Dobard,,1,Orange,,2b
+1908Reach,1907,Gulf Coast League,dobard,F20661,Dobard,,2,Lafayette,,2b
+1908Reach,1907,Gulf Coast League,dobard,F20661,Dobard,,T,,,2b75
+1908Reach,1907,Gulf Coast League,dobard,F20807,Dobard,,1,Orange,,3b
+1908Reach,1907,Gulf Coast League,dobard,F20807,Dobard,,2,Lafayette,,3b
+1908Reach,1907,Gulf Coast League,dobard,F20807,Dobard,,T,,,3b16
+1908Reach,1907,Gulf Coast League,drew,B00515,Drew,,1,Opelousas,,
+1908Reach,1907,Gulf Coast League,drew,B00515,Drew,,2,Alexandria,,
+1908Reach,1907,Gulf Coast League,drew,B00515,Drew,,T,,,B98
+1908Reach,1907,Gulf Coast League,drew,F20768,Drew,,1,Opelousas,,2b
+1908Reach,1907,Gulf Coast League,drew,F20768,Drew,,2,Alexandria,,2b
+1908Reach,1907,Gulf Coast League,drew,F20768,Drew,,T,,,2b52
+1908Reach,1907,Gulf Coast League,drew,F21037,Drew,,1,Opelousas,,ss
+1908Reach,1907,Gulf Coast League,drew,F21037,Drew,,2,Alexandria,,ss
+1908Reach,1907,Gulf Coast League,drew,F21037,Drew,,T,,,ss33
+1908Reach,1907,Gulf Coast League,dudley,B00434,Dudley,,1,Opelousas,,
+1908Reach,1907,Gulf Coast League,dudley,B00434,Dudley,,2,Lafayette,,
+1908Reach,1907,Gulf Coast League,dudley,B00434,Dudley,,T,,,B23
+1908Reach,1907,Gulf Coast League,dudley,F20334,Dudley,,0,Lafayette,,c10
+1908Reach,1907,Gulf Coast League,dudley,F21502,Dudley,,0,Lafayette,,of13
+1908Reach,1907,Gulf Coast League,duplain,B00356,Duplain,,0,Orange,,B110
+1908Reach,1907,Gulf Coast League,duplain,F20604,Duplain,,0,Orange,,1b10
+1908Reach,1907,Gulf Coast League,duplain,F21278,Duplain,,0,Orange,,of95
+1908Reach,1907,Gulf Coast League,durham,B00948,Dur'am,,1,Alexandria,,
+1908Reach,1907,Gulf Coast League,durham,B00948,Dur'am,,2,Monroe,,
+1908Reach,1907,Gulf Coast League,durham,B00948,Dur'am,,3,Opelousas,,
+1908Reach,1907,Gulf Coast League,durham,B00948,Dur'am,,T,,,B71
+1908Reach,1907,Gulf Coast League,durham,F20560,Durham,,1,Alexandria,,1b
+1908Reach,1907,Gulf Coast League,durham,F20560,Durham,,2,Monroe,,1b
+1908Reach,1907,Gulf Coast League,durham,F20560,Durham,,3,Opelousas,,1b
+1908Reach,1907,Gulf Coast League,durham,F20560,Durham,,T,,,1b12
+1908Reach,1907,Gulf Coast League,durham,F21381,Durham,,1,Alexandria,,of
+1908Reach,1907,Gulf Coast League,durham,F21381,Durham,,2,Monroe,,of
+1908Reach,1907,Gulf Coast League,durham,F21381,Durham,,3,Opelousas,,of
+1908Reach,1907,Gulf Coast League,durham,F21381,Durham,,T,,,of46
+1908Reach,1907,Gulf Coast League,durham,P10373,Durham,,0,all,,
+1908Reach,1907,Gulf Coast League,edmunds,B00101,Edmunds,,0,Opelousas,,B55
+1908Reach,1907,Gulf Coast League,edmunds,F20316,Edmunds,,0,Opelousas,,c24
+1908Reach,1907,Gulf Coast League,edmunds,F20713,Edmunds,,0,Opelousas,,2b13
+1908Reach,1907,Gulf Coast League,edmunds,F21059,Edmunds,,0,Opelousas,,ss12
+1908Reach,1907,Gulf Coast League,eissler,B00783,Eissler,,0,Orange,,B74
+1908Reach,1907,Gulf Coast League,eissler,F20594,Eissler,,0,Orange,,1b54
+1908Reach,1907,Gulf Coast League,eissler,F21210,Eissler,,0,Orange,,of20
+1908Reach,1907,Gulf Coast League,ellinor,B00887,Ellinor,,0,Monroe,,B14
+1908Reach,1907,Gulf Coast League,ellinor,F20144,Ellinor,,0,Monroe,,p10
+1908Reach,1907,Gulf Coast League,ellinor,P10192,Ellinor,,0,all,,
+1908Reach,1907,Gulf Coast League,emery,B00174,Emery,,0,Lake Charles,,B109
+1908Reach,1907,Gulf Coast League,emery,F20369,Emery,,0,Lake Charles,,c9
+1908Reach,1907,Gulf Coast League,emery,F21149,Emery,,0,Lake Charles,,of93
+1908Reach,1907,Gulf Coast League,emery,P10062,Emery,,0,all,,
+1908Reach,1907,Gulf Coast League,erwin,B00973,Erwin,,0,Lafayette,,B64
+1908Reach,1907,Gulf Coast League,erwin,F20855,Erwin,,0,Lafayette,,3b62
+1908Reach,1907,Gulf Coast League,finn,B00502,Finn,,0,Lake Charles,,B29
+1908Reach,1907,Gulf Coast League,finn,F20046,Finn,,0,Lake Charles,,p18
+1908Reach,1907,Gulf Coast League,finn,P10159,Finn,,0,all,,
+1908Reach,1907,Gulf Coast League,fisher,B00084,Fisher,,0,Opelousas,,B44
+1908Reach,1907,Gulf Coast League,fisher,F20375,Fisher,,0,Orange,,c27
+1908Reach,1907,Gulf Coast League,fisher,F21397,Fisher,,0,Orange,,of10
+1908Reach,1907,Gulf Coast League,ford,B00232,Ford,,0,Orange,,B39
+1908Reach,1907,Gulf Coast League,ford,F20206,Ford,,0,Orange,,p13
+1908Reach,1907,Gulf Coast League,ford,F21084,Ford,,0,Orange,,of24
+1908Reach,1907,Gulf Coast League,ford,P10168,Ford,,0,all,,
+1908Reach,1907,Gulf Coast League,foster,B00566,Foster,,0,Lake Charles,,B33
+1908Reach,1907,Gulf Coast League,foster,F20279,Foster,,0,Lake Charles,,p31
+1908Reach,1907,Gulf Coast League,foster,P10145,Foster,,0,all,,
+1908Reach,1907,Gulf Coast League,frickie,B00149,Frickie,,0,Monroe,,B43
+1908Reach,1907,Gulf Coast League,frickie,F20038,Frickie,,0,Monroe,,p28
+1908Reach,1907,Gulf Coast League,frickie,F21117,Frickie,,0,Monroe,,of14
+1908Reach,1907,Gulf Coast League,frickie,P10056,Frickie,,0,all,,
+1908Reach,1907,Gulf Coast League,fucichi,P10429,Fucichi,,0,all,,
+1908Reach,1907,Gulf Coast League,fulcher,B00794,Fulcher,,0,Opelousas,,B39
+1908Reach,1907,Gulf Coast League,fulcher,F21442,Fulcher,,0,Opelousas,,of39
+1908Reach,1907,Gulf Coast League,gandolfi,B00898,Gand'fi,,1,Alexandria,,
+1908Reach,1907,Gulf Coast League,gandolfi,B00898,Gand'fi,,2,Orange,,
+1908Reach,1907,Gulf Coast League,gandolfi,B00898,Gand'fi,,3,Lafayette,,
+1908Reach,1907,Gulf Coast League,gandolfi,B00898,Gand'fi,,T,,,B48
+1908Reach,1907,Gulf Coast League,gandolfi,F20878,Gandolfi,,1,Alexandria,,3b
+1908Reach,1907,Gulf Coast League,gandolfi,F20878,Gandolfi,,2,Orange,,3b
+1908Reach,1907,Gulf Coast League,gandolfi,F20878,Gandolfi,,3,Lafayette,,3b
+1908Reach,1907,Gulf Coast League,gandolfi,F20878,Gandolfi,,T,,,3b12
+1908Reach,1907,Gulf Coast League,gandolfi,F21324,Gandolfi,,0,Alexandria,,of11
+1908Reach,1907,Gulf Coast League,gandolfi,P10320,Gandolfi,,0,all,,
+1908Reach,1907,Gulf Coast League,george,B01055,George,,0,Lafayette,,B17
+1908Reach,1907,Gulf Coast League,george,F21163,George,,0,Lafayette,,of17
+1908Reach,1907,Gulf Coast League,gray,B00196,Gray,,0,Monroe,,B109
+1908Reach,1907,Gulf Coast League,gray,F20401,Gray,,0,Monroe,,c46
+1908Reach,1907,Gulf Coast League,gray,F20539,Gray,,0,Monroe,,1b59
+1908Reach,1907,Gulf Coast League,gremillion,B01032,Gremillion,,0,Alexandria,,B21
+1908Reach,1907,Gulf Coast League,gremillion,F21589,Gremillion,,0,Alexandria,,of10
+1908Reach,1907,Gulf Coast League,gremillion,P10113,Gremillion,,0,all,,
+1908Reach,1907,Gulf Coast League,gutierrez.w,B00397,Guiterez,W.,0,Monroe,,B62
+1908Reach,1907,Gulf Coast League,gutierrez.w,F20391,Guiterez,W.,0,Monroe,,c62
+1908Reach,1907,Gulf Coast League,gutierrez.l,F20908,Guiterez,L.,0,Monroe,,3b20
+1908Reach,1907,Gulf Coast League,gutierrez.l,F21255,Guiterez,L.,0,Monroe,,of16
+1908Reach,1907,Gulf Coast League,gutierrez.l,B00255,Guitterez,L.,0,Monroe,,B43
+1908Reach,1907,Gulf Coast League,hailey,B00475,Hailey,,0,Lake Charles,,B41
+1908Reach,1907,Gulf Coast League,hailey,P10070,Hailey,,0,all,,
+1908Reach,1907,Gulf Coast League,hailey,F20222,Halley,,0,Lake Charles,,p30
+1908Reach,1907,Gulf Coast League,hailey,F21370,Halley,,0,Lake Charles,,of11
+1908Reach,1907,Gulf Coast League,henderson,B00854,Henderson,,0,Lafayette,,B67
+1908Reach,1907,Gulf Coast League,henderson,F20177,Henderson,,0,Lafayette,,p25
+1908Reach,1907,Gulf Coast League,henderson,F21528,Henderson,,1,Lafayette,,of
+1908Reach,1907,Gulf Coast League,henderson,F21528,Henderson,,2,Opelousas,,of
+1908Reach,1907,Gulf Coast League,henderson,F21528,Henderson,,T,,,of39
+1908Reach,1907,Gulf Coast League,henderson,P10176,Henderson,,0,all,,
+1908Reach,1907,Gulf Coast League,hickey,B00957,Hickey,,0,Lafayette,,B44
+1908Reach,1907,Gulf Coast League,hickey,F20240,Hickey,,0,Lafayette,,p18
+1908Reach,1907,Gulf Coast League,hickey,F21491,Hickey,,0,Lafayette,,of14
+1908Reach,1907,Gulf Coast League,hickey,P10184,Hickey,,0,all,,
+1908Reach,1907,Gulf Coast League,hoffman,B00092,Hoffman,,0,Alexandria,,B116
+1908Reach,1907,Gulf Coast League,hoffman,F20482,Hoffman,,0,Alexandria,,1b110
+1908Reach,1907,Gulf Coast League,horn,B00045,Horn,,0,Lake Charles,,B86
+1908Reach,1907,Gulf Coast League,horn,F21264,Horn,,0,Lake Charles,,of85
+1908Reach,1907,Gulf Coast League,hubbard,B00450,Hubbard,,0,Lafayette,,B106
+1908Reach,1907,Gulf Coast League,hubbard,F20463,Hubbard,,0,Lafayette,,1b23
+1908Reach,1907,Gulf Coast League,hubbard,F20620,Hubbard,,0,Lafayette,,2b50
+1908Reach,1907,Gulf Coast League,hubbard,F21076,Hubbard,,0,Lafayette,,of25
+1908Reach,1907,Gulf Coast League,hutchcroft,B00623,Hutchcroft,,1,Lafayette,,
+1908Reach,1907,Gulf Coast League,hutchcroft,B00623,Hutchcroft,,2,Orange,,
+1908Reach,1907,Gulf Coast League,hutchcroft,B00623,Hutchcroft,,T,,,B66
+1908Reach,1907,Gulf Coast League,hutchcroft,F21241,Hutchcroft,,1,Lafayette,,of
+1908Reach,1907,Gulf Coast League,hutchcroft,F21241,Hutchcroft,,2,Orange,,of
+1908Reach,1907,Gulf Coast League,hutchcroft,F21241,Hutchcroft,,T,,,of66
+1908Reach,1907,Gulf Coast League,ivens,B00293,Ivens,,0,Opelousas,,B13
+1908Reach,1907,Gulf Coast League,ivens,P10348,Ivens,,0,all,,
+1908Reach,1907,Gulf Coast League,jackson,B00117,Jackson,,0,Lake Charles,,B44
+1908Reach,1907,Gulf Coast League,jackson,F20496,Jackson,,0,Lake Charles,,1b37
+1908Reach,1907,Gulf Coast League,jones,B00013,Jones,,0,Monroe,,B49
+1908Reach,1907,Gulf Coast League,jones,F20636,Jones,,0,Monroe,,2b45
+1908Reach,1907,Gulf Coast League,joubert,B00381,Joubert,,1,Opelousas,,
+1908Reach,1907,Gulf Coast League,joubert,B00381,Joubert,,2,Lake Charles,,
+1908Reach,1907,Gulf Coast League,joubert,B00381,Joubert,,T,,,B75
+1908Reach,1907,Gulf Coast League,joubert,F20388,Joubert,,1,Lake Charles,,c
+1908Reach,1907,Gulf Coast League,joubert,F20388,Joubert,,2,Opelousas,,c
+1908Reach,1907,Gulf Coast League,joubert,F20388,Joubert,,T,,,c74
+1908Reach,1907,Gulf Coast League,kelley,B00912,Kelley,,0,Lafayette,,B13
+1908Reach,1907,Gulf Coast League,kelley,F20864,Kelley,,0,Lafayette,,3b13
+1908Reach,1907,Gulf Coast League,ketchum,F21207,Ketchem,,1,Lake Charles,,of
+1908Reach,1907,Gulf Coast League,ketchum,F21207,Ketchem,,2,Alexandria,,of
+1908Reach,1907,Gulf Coast League,ketchum,F21207,Ketchem,,T,,,of99
+1908Reach,1907,Gulf Coast League,ketchum,B00840,Ketchum,,1,Lake Charles,,
+1908Reach,1907,Gulf Coast League,ketchum,B00840,Ketchum,,2,Alexandria,,
+1908Reach,1907,Gulf Coast League,ketchum,B00840,Ketchum,,T,,,B99
+1908Reach,1907,Gulf Coast League,kinney,B00985,Kin'ey,,1,Opelousas,,
+1908Reach,1907,Gulf Coast League,kinney,B00985,Kin'ey,,2,Orange,,
+1908Reach,1907,Gulf Coast League,kinney,B00985,Kin'ey,,3,Lake Charles,,
+1908Reach,1907,Gulf Coast League,kinney,B00985,Kin'ey,,T,,,B30
+1908Reach,1907,Gulf Coast League,kinney,F20023,Kinney,,1,Opelousas,,p
+1908Reach,1907,Gulf Coast League,kinney,F20023,Kinney,,2,Orange,,p
+1908Reach,1907,Gulf Coast League,kinney,F20023,Kinney,,3,Lake Charles,,p
+1908Reach,1907,Gulf Coast League,kinney,F20023,Kinney,,T,,,p20
+1908Reach,1907,Gulf Coast League,kinney,P10312,Kinney,,0,all,,
+1908Reach,1907,Gulf Coast League,kistner,P10432,Kistner,,0,all,,
+1908Reach,1907,Gulf Coast League,kitchens,B00646,Kitchens,,1,Orange,,
+1908Reach,1907,Gulf Coast League,kitchens,B00646,Kitchens,,2,Alexandria,,
+1908Reach,1907,Gulf Coast League,kitchens,B00646,Kitchens,,T,,,B101
+1908Reach,1907,Gulf Coast League,kitchens,F20051,Kitchens,,1,Orange,,p
+1908Reach,1907,Gulf Coast League,kitchens,F20051,Kitchens,,2,Alexandria,,p
+1908Reach,1907,Gulf Coast League,kitchens,F20051,Kitchens,,T,,,p11
+1908Reach,1907,Gulf Coast League,kitchens,F20327,Kitchens,,1,Orange,,c
+1908Reach,1907,Gulf Coast League,kitchens,F20327,Kitchens,,2,Alexandria,,c
+1908Reach,1907,Gulf Coast League,kitchens,F20327,Kitchens,,T,,,c15
+1908Reach,1907,Gulf Coast League,kitchens,F21045,Kitchens,,1,Orange,,ss
+1908Reach,1907,Gulf Coast League,kitchens,F21045,Kitchens,,2,Alexandria,,ss
+1908Reach,1907,Gulf Coast League,kitchens,F21045,Kitchens,,T,,,ss23
+1908Reach,1907,Gulf Coast League,kitchens,F21308,Kitchens,,1,Orange,,of
+1908Reach,1907,Gulf Coast League,kitchens,F21308,Kitchens,,2,Alexandria,,of
+1908Reach,1907,Gulf Coast League,kitchens,F21308,Kitchens,,T,,,of43
+1908Reach,1907,Gulf Coast League,kitchens,P10266,Kitchens,,0,all,,
+1908Reach,1907,Gulf Coast League,knight,B00752,Knight,,0,Lake Charles,,B45
+1908Reach,1907,Gulf Coast League,knight,F20095,Knight,,0,Lake Charles,,p28
+1908Reach,1907,Gulf Coast League,knight,F20474,Knight,,0,Lake Charles,,1b13
+1908Reach,1907,Gulf Coast League,knight,P10097,Knight,,0,all,,
+1908Reach,1907,Gulf Coast League,latham-ora,B00680,Latham,,0,Orange,,B39
+1908Reach,1907,Gulf Coast League,latham-lc,B01124,Latham,,0,Lake Charles,,B10
+1908Reach,1907,Gulf Coast League,latham-lc,F20254,Latham,,0,Lake Charles,,p10
+1908Reach,1907,Gulf Coast League,latham-ora,F21475,Latham,,0,Orange,,of38
+1908Reach,1907,Gulf Coast League,latham-lc,P10289,Latham,,0,all,,
+1908Reach,1907,Gulf Coast League,lighton.jas,B00324,Lighton,Jas.,0,Monroe,,B48
+1908Reach,1907,Gulf Coast League,lighton.jo,B00904,Lighton,Jo.,1,Monroe,,
+1908Reach,1907,Gulf Coast League,lighton.jo,B00904,Lighton,Jo.,2,Lafayette,,
+1908Reach,1907,Gulf Coast League,lighton.jo,B00904,Lighton,Jo.,T,,,B22
+1908Reach,1907,Gulf Coast League,lighton.jas,F20547,Lighton,Jas.,0,Monroe,,1b26
+1908Reach,1907,Gulf Coast League,lighton.jas,F20745,Lighton,Jas.,0,Monroe,,2b13
+1908Reach,1907,Gulf Coast League,mcconville,B00488,M'Con'ille,,1,Orange,,
+1908Reach,1907,Gulf Coast League,mcconville,B00488,M'Con'ille,,2,Opelousas,,
+1908Reach,1907,Gulf Coast League,mcconville,B00488,M'Con'ille,,T,,,B89
+1908Reach,1907,Gulf Coast League,marshall,B00370,Marshall,,0,Lake Charles,,B112
+1908Reach,1907,Gulf Coast League,marshall,F20970,Marshall,,0,Lake Charles,,ss111
+1908Reach,1907,Gulf Coast League,martin,B01010,Martin,,0,Alexandria,,B48
+1908Reach,1907,Gulf Coast League,martin,F21469,Martin,,0,Alexandria,,of48
+1908Reach,1907,Gulf Coast League,mason,B00229,Mason,,0,Orange,,B60
+1908Reach,1907,Gulf Coast League,mason,F20211,Mason,,0,Orange,,p30
+1908Reach,1907,Gulf Coast League,mason,F21232,Mason,,0,Orange,,of30
+1908Reach,1907,Gulf Coast League,mason,P10100,Mason,,0,all,,
+1908Reach,1907,Gulf Coast League,mcconville,F20430,McConville,,1,Orange,,c
+1908Reach,1907,Gulf Coast League,mcconville,F20430,McConville,,2,Opelousas,,c
+1908Reach,1907,Gulf Coast League,mcconville,F20430,McConville,,T,,,c26
+1908Reach,1907,Gulf Coast League,mcconville,F21362,McConville,,1,Orange,,of
+1908Reach,1907,Gulf Coast League,mcconville,F21362,McConville,,2,Opelousas,,of
+1908Reach,1907,Gulf Coast League,mcconville,F21362,McConville,,T,,,of62
+1908Reach,1907,Gulf Coast League,mccoy,B00469,McCoy,,0,Alexandria,,B12
+1908Reach,1907,Gulf Coast League,mccoy,F20776,McCoy,,0,Alexandria,,2b10
+1908Reach,1907,Gulf Coast League,mcdonald,B00531,McDonald,,0,Opelousas,,B75
+1908Reach,1907,Gulf Coast League,mcdonald,F20342,McDonald,,0,Orange,,c58
+1908Reach,1907,Gulf Coast League,mcdonald,F20505,McDonald,,0,Orange,,1b17
+1908Reach,1907,Gulf Coast League,mclaughlin,B00343,McLaughlin,,0,Lake Charles,,B111
+1908Reach,1907,Gulf Coast League,mclaughlin,F21158,McLaughlin,,0,Lake Charles,,of111
+1908Reach,1907,Gulf Coast League,meander,B00427,Meander,,0,Monroe,,B34
+1908Reach,1907,Gulf Coast League,meander,F21196,Meander,,0,Monroe,,of34
+1908Reach,1907,Gulf Coast League,monyhan,B00936,Monyhan,,0,Orange,,B100
+1908Reach,1907,Gulf Coast League,monyhan,F20673,Monyhan,,0,Orange,,2b40
+1908Reach,1907,Gulf Coast League,monyhan,F20981,Monyhan,,0,Orange,,ss59
+1908Reach,1907,Gulf Coast League,nevins,B00718,Nevins,,0,Orange,,B118
+1908Reach,1907,Gulf Coast League,nevins,F20657,Nevins,,0,Orange,,2b29
+1908Reach,1907,Gulf Coast League,nevins,F20829,Nevins,,0,Orange,,3b35
+1908Reach,1907,Gulf Coast League,nevins,F21000,Nevins,,0,Orange,,ss51
+1908Reach,1907,Gulf Coast League,northen,B00125,Northern,,0,Opelousas,,B53
+1908Reach,1907,Gulf Coast League,northen,F21356,Northern,,0,Opelousas,,of48
+1908Reach,1907,Gulf Coast League,olire,B00068,Olire,,1,Lake Charles,,
+1908Reach,1907,Gulf Coast League,olire,B00068,Olire,,2,Monroe,,
+1908Reach,1907,Gulf Coast League,olire,B00068,Olire,,3,Alexandria,,
+1908Reach,1907,Gulf Coast League,olire,B00068,Olire,,T,,,B72
+1908Reach,1907,Gulf Coast League,olire,F20810,Olire,,1,Lake Charles,,3b
+1908Reach,1907,Gulf Coast League,olire,F20810,Olire,,2,Monroe,,3b
+1908Reach,1907,Gulf Coast League,olire,F20810,Olire,,3,Alexandria,,3b
+1908Reach,1907,Gulf Coast League,olire,F20810,Olire,,T,,,3b30
+1908Reach,1907,Gulf Coast League,olire,F21335,Olire,,1,Monroe,,of
+1908Reach,1907,Gulf Coast League,olire,F21335,Olire,,2,Lafayette,,of
+1908Reach,1907,Gulf Coast League,olire,F21335,Olire,,3,Lake Charles,,of
+1908Reach,1907,Gulf Coast League,olire,F21335,Olire,,4,Alexandria,,of
+1908Reach,1907,Gulf Coast League,olire,F21335,Olire,,T,,,of33
+1908Reach,1907,Gulf Coast League,orchid,B01119,Orchid,,1,Orange,,
+1908Reach,1907,Gulf Coast League,orchid,B01119,Orchid,,2,Lafayette,,
+1908Reach,1907,Gulf Coast League,orchid,B01119,Orchid,,3,Alexandria,,
+1908Reach,1907,Gulf Coast League,orchid,B01119,Orchid,,T,,,B29
+1908Reach,1907,Gulf Coast League,orchid,F20298,Orchid,,1,Orange,,p
+1908Reach,1907,Gulf Coast League,orchid,F20298,Orchid,,2,Lafayette,,p
+1908Reach,1907,Gulf Coast League,orchid,F20298,Orchid,,3,Alexandria,,p
+1908Reach,1907,Gulf Coast League,orchid,F20298,Orchid,,T,,,p29
+1908Reach,1907,Gulf Coast League,orchid,P10410,Orchid,,0,all,,
+1908Reach,1907,Gulf Coast League,orday,B00667,Orday,,1,Lafayette,,
+1908Reach,1907,Gulf Coast League,orday,B00667,Orday,,2,Opelousas,,
+1908Reach,1907,Gulf Coast League,orday,B00667,Orday,,3,Orange,,
+1908Reach,1907,Gulf Coast League,orday,B00667,Orday,,T,,,B57
+1908Reach,1907,Gulf Coast League,orday,F21488,Ordway,,1,Lafayette,,of
+1908Reach,1907,Gulf Coast League,orday,F21488,Ordway,,2,Orange,,of
+1908Reach,1907,Gulf Coast League,orday,F21488,Ordway,,T,,,of57
+1908Reach,1907,Gulf Coast League,page,B00822,Page,,0,Alexandria,,B36
+1908Reach,1907,Gulf Coast League,page,F20612,Page,,0,Alexandria,,2b28
+1908Reach,1907,Gulf Coast League,palm,B00286,Palm,,0,Lake Charles,,B24
+1908Reach,1907,Gulf Coast League,palm,F20425,Palm,,0,Lake Charles,,c22
+1908Reach,1907,Gulf Coast League,parrott,P10024,Parrott,,0,all,,
+1908Reach,1907,Gulf Coast League,paulig,B00210,Paulig,,0,Orange,,B34
+1908Reach,1907,Gulf Coast League,paulig,F20832,Paulig,,0,Orange,,3b34
+1908Reach,1907,Gulf Coast League,reagan,B00403,Reagan,,0,Monroe,,B114
+1908Reach,1907,Gulf Coast League,reagan,F20721,Reagan,,0,Monroe,,2b33
+1908Reach,1907,Gulf Coast League,reagan,F20962,Reagan,,0,Monroe,,ss78
+1908Reach,1907,Gulf Coast League,relf,B00695,Relf,,0,Lafayette,,B109
+1908Reach,1907,Gulf Coast League,richardson,B00130,Richardson,,0,Orange,,B16
+1908Reach,1907,Gulf Coast League,richardson,F20080,Richardson,,0,Orange,,p11
+1908Reach,1907,Gulf Coast League,richardson,P10019,Richardson,,0,all,,
+1908Reach,1907,Gulf Coast League,roach,B00319,Roach,,0,Orange,,B47
+1908Reach,1907,Gulf Coast League,roach,F20924,Roach,,0,Orange,,3b47
+1908Reach,1907,Gulf Coast League,roberts,B00158,Roberts,,0,Opelousas,,B25
+1908Reach,1907,Gulf Coast League,roberts,F20166,Roberts,,0,Opelousas,,p12
+1908Reach,1907,Gulf Coast League,roberts,F21125,Roberts,,0,Opelousas,,of13
+1908Reach,1907,Gulf Coast League,roberts,P10304,Roberts,,0,all,,
+1908Reach,1907,Gulf Coast League,relf,F20956,Rolf,,0,Lafayette,,ss106
+1908Reach,1907,Gulf Coast League,shaffer,B00705,Shaffer,,0,Alexandria,,B28
+1908Reach,1907,Gulf Coast League,shaffer,F21416,Shaffer,,0,Alexandria,,of28
+1908Reach,1907,Gulf Coast League,smith,P10441,Smith,,0,all,,
+1908Reach,1907,Gulf Coast League,smithele,B00879,Smithele,,0,Monroe,,B17
+1908Reach,1907,Gulf Coast League,smithele,F20997,Smithele,,0,Monroe,,ss17
+1908Reach,1907,Gulf Coast League,sullivan-lc,B00182,Sullivan,,0,Lake Charles,,B66
+1908Reach,1907,Gulf Coast League,sullivan-laf+mon,B00739,Sullivan,,1,Lafayette,,
+1908Reach,1907,Gulf Coast League,sullivan-laf+mon,B00739,Sullivan,,2,Monroe,,
+1908Reach,1907,Gulf Coast League,sullivan-laf+mon,B00739,Sullivan,,T,,,B86
+1908Reach,1907,Gulf Coast League,sullivan-lc,F20552,Sullivan,,0,Lake Charles,,1b66
+1908Reach,1907,Gulf Coast League,sullivan-laf+mon,F21286,Sullivan,,0,Lafayette,,of86
+1908Reach,1907,Gulf Coast League,switzer,B00811,Switzer,,0,Opelousas,,B95
+1908Reach,1907,Gulf Coast League,switzer,F20072,Switzer,,0,Opelousas,,p41
+1908Reach,1907,Gulf Coast League,switzer,F20737,Switzer,,0,Opelousas,,2b13
+1908Reach,1907,Gulf Coast League,switzer,F21450,Switzer,,0,Opelousas,,of40
+1908Reach,1907,Gulf Coast League,switzer,P10336,Switzer,,0,all,,
+1908Reach,1907,Gulf Coast League,taylor,B00442,Taylor,,1,Monroe,,
+1908Reach,1907,Gulf Coast League,taylor,B00442,Taylor,,2,Lafayette,,
+1908Reach,1907,Gulf Coast League,taylor,B00442,Taylor,,T,,,B42
+1908Reach,1907,Gulf Coast League,taylor,F21403,Taylor,,1,Monroe,,of
+1908Reach,1907,Gulf Coast League,taylor,F21403,Taylor,,2,Lafayette,,of
+1908Reach,1907,Gulf Coast League,taylor,F21403,Taylor,,T,,,of30
+1908Reach,1907,Gulf Coast League,thebo,B01041,Thebo,,1,Alexandria,,
+1908Reach,1907,Gulf Coast League,thebo,B01041,Thebo,,2,Opelousas,,
+1908Reach,1907,Gulf Coast League,thebo,B01041,Thebo,,T,,,B69
+1908Reach,1907,Gulf Coast League,thebo,F20886,Thebo,,1,Alexandria,,3b
+1908Reach,1907,Gulf Coast League,thebo,F20886,Thebo,,2,Opelousas,,3b
+1908Reach,1907,Gulf Coast League,thebo,F20886,Thebo,,T,,,3b51
+1908Reach,1907,Gulf Coast League,thebo,F21013,Thebo,,1,Alexandria,,ss
+1908Reach,1907,Gulf Coast League,thebo,F21013,Thebo,,2,Opelousas,,ss
+1908Reach,1907,Gulf Coast League,thebo,F21013,Thebo,,T,,,ss14
+1908Reach,1907,Gulf Coast League,vitter.h,B00806,Vit'r,H.,1,Lafayette,,
+1908Reach,1907,Gulf Coast League,vitter.h,B00806,Vit'r,H.,2,Orange,,
+1908Reach,1907,Gulf Coast League,vitter.h,B00806,Vit'r,H.,3,Monroe,,
+1908Reach,1907,Gulf Coast League,vitter.h,B00806,Vit'r,H.,T,,,B96
+1908Reach,1907,Gulf Coast League,vitter.r,B00207,Vitter,R.,1,Lafayette,,
+1908Reach,1907,Gulf Coast League,vitter.r,B00207,Vitter,R.,2,Orange,,
+1908Reach,1907,Gulf Coast League,vitter.r,B00207,Vitter,R.,T,,,B94
+1908Reach,1907,Gulf Coast League,vitter.h,F20449,Vitter,H.,1,Lafayette,,c
+1908Reach,1907,Gulf Coast League,vitter.h,F20449,Vitter,H.,2,Monroe,,c
+1908Reach,1907,Gulf Coast League,vitter.h,F20449,Vitter,H.,T,,,c42
+1908Reach,1907,Gulf Coast League,vitter.r,F20518,Vitter,R.,1,Lafayette,,1b
+1908Reach,1907,Gulf Coast League,vitter.r,F20518,Vitter,R.,2,Orange,,1b
+1908Reach,1907,Gulf Coast League,vitter.r,F20518,Vitter,R.,T,,,1b51
+1908Reach,1907,Gulf Coast League,vitter.r,F20700,Vitter,R.,1,Lafayette,,2b
+1908Reach,1907,Gulf Coast League,vitter.r,F20700,Vitter,R.,2,Orange,,2b
+1908Reach,1907,Gulf Coast League,vitter.r,F20700,Vitter,R.,T,,,2b23
+1908Reach,1907,Gulf Coast League,vitter.h,F20893,Vitter,H.,1,Lafayette,,3b
+1908Reach,1907,Gulf Coast League,vitter.h,F20893,Vitter,H.,2,Monroe,,3b
+1908Reach,1907,Gulf Coast League,vitter.h,F20893,Vitter,H.,T,,,3b14
+1908Reach,1907,Gulf Coast League,vitter.r,P10357,Vitter,R.,0,all,,
+1908Reach,1907,Gulf Coast League,weeks,B00577,Weeks,,0,Alexandria,,B44
+1908Reach,1907,Gulf Coast League,weeks,F20067,Weeks,,0,Alexandria,,p26
+1908Reach,1907,Gulf Coast League,weeks,F21092,Weeks,,0,Alexandria,,of17
+1908Reach,1907,Gulf Coast League,weeks,P10035,Weeks,,0,all,,
+1908Reach,1907,Gulf Coast League,welch,B01086,Welch,,1,Lafayette,,
+1908Reach,1907,Gulf Coast League,welch,B01086,Welch,,2,Alexandria,,
+1908Reach,1907,Gulf Coast League,welch,B01086,Welch,,T,,,B21
+1908Reach,1907,Gulf Coast League,welch,F20014,Welch,,1,Lafayette,,p
+1908Reach,1907,Gulf Coast League,welch,F20014,Welch,,2,Alexandria,,p
+1908Reach,1907,Gulf Coast League,welch,F20014,Welch,,T,,,p11
+1908Reach,1907,Gulf Coast League,welch,F21577,Welch,,1,Lafayette,,of
+1908Reach,1907,Gulf Coast League,welch,F21577,Welch,,2,Alexandria,,of
+1908Reach,1907,Gulf Coast League,welch,F21577,Welch,,T,,,of10
+1908Reach,1907,Gulf Coast League,welch,P10277,Welch,,0,all,,
+1908Reach,1907,Gulf Coast League,werner,B00651,Werner,,0,Monroe,,B28
+1908Reach,1907,Gulf Coast League,werner,P10399,Werner,,0,all,,
+1908Reach,1907,Gulf Coast League,whalon,B01029,Whalon,,0,Orange,,B16
+1908Reach,1907,Gulf Coast League,whalon,F20128,Whalon,,0,Orange,,p16
+1908Reach,1907,Gulf Coast League,whalon,P10137,Whalon,,0,all,,
+1908Reach,1907,Gulf Coast League,whelan,F20571,Whealen,,0,Monroe,,1b10
+1908Reach,1907,Gulf Coast League,whelan,B01078,Whelan,,0,Monroe,,B13
+1908Reach,1907,Gulf Coast League,white,B00264,White,,0,Alexandria,,B77
+1908Reach,1907,Gulf Coast League,white,F20943,White,,0,Alexandria,,ss77
+1908Reach,1907,Gulf Coast League,wilkinson,F21293,Wilk'son,,1,Orange,,of
+1908Reach,1907,Gulf Coast League,wilkinson,F21293,Wilk'son,,2,Monroe,,of
+1908Reach,1907,Gulf Coast League,wilkinson,F21293,Wilk'son,,3,Alexandria,,of
+1908Reach,1907,Gulf Coast League,wilkinson,F21293,Wilk'son,,T,,,of5
+1908Reach,1907,Gulf Coast League,wilkinson,P10407,Wilkinson,,0,all,,
+1908Reach,1907,Gulf Coast League,wilkinson,B00609,Wilksn,,1,Orange,,
+1908Reach,1907,Gulf Coast League,wilkinson,B00609,Wilksn,,2,Monroe,,
+1908Reach,1907,Gulf Coast League,wilkinson,B00609,Wilksn,,3,Alexandria,,
+1908Reach,1907,Gulf Coast League,wilkinson,B00609,Wilksn,,T,,,B21
+1908Reach,1907,Gulf Coast League,windham,B00528,Windham,,0,Opelousas,,B28
+1908Reach,1907,Gulf Coast League,windham,F20265,Windham,,0,Opelousas,,p13
+1908Reach,1907,Gulf Coast League,windham,F21566,Windham,,0,Opelousas,,of15
+1908Reach,1907,Gulf Coast League,windham,P10385,Windham,,0,all,,
+1908Reach,1907,Gulf Coast League,yensen,P10202,Yensen,,0,all,,

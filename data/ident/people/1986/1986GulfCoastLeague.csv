@@ -1,11 +1,11 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1986,Gulf Coast League,M91730,Alvarez,Jose,,Dodgers,,,alvarez-dod
-emilbb,1986,Gulf Coast League,M91816,Dillard,Steve,,White Sox,,,dillard
-emilbb,1986,Gulf Coast League,M91749,Easom,Mike,,Expos,,,easom
-emilbb,1986,Gulf Coast League,M91803,Ferreira,Fred,,Yankees,,,ferreira
-emilbb,1986,Gulf Coast League,M91763,Gonzalez,Pedro,,Braves,,,gonzalez-bra
-emilbb,1986,Gulf Coast League,M91774,Huyke,Woody,,Pirates,,,huyke
-emilbb,1986,Gulf Coast League,M91758,Jaramillo,Rudy,,Rangers,,,jaramillo
-emilbb,1986,Gulf Coast League,M91796,Linares,Julio,,Astros,,,linares
-emilbb,1986,Gulf Coast League,M91782,Mejias,Sam,,Reds,,,mejias
-emilbb,1986,Gulf Coast League,M91827,Silverio,Luis,,Royals,,,silverio
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1986,Gulf Coast League,alvarez-dod,M91730,Alvarez,Jose,,Dodgers,,
+emilbb,1986,Gulf Coast League,dillard,M91816,Dillard,Steve,,White Sox,,
+emilbb,1986,Gulf Coast League,easom,M91749,Easom,Mike,,Expos,,
+emilbb,1986,Gulf Coast League,ferreira,M91803,Ferreira,Fred,,Yankees,,
+emilbb,1986,Gulf Coast League,gonzalez-bra,M91763,Gonzalez,Pedro,,Braves,,
+emilbb,1986,Gulf Coast League,huyke,M91774,Huyke,Woody,,Pirates,,
+emilbb,1986,Gulf Coast League,jaramillo,M91758,Jaramillo,Rudy,,Rangers,,
+emilbb,1986,Gulf Coast League,linares,M91796,Linares,Julio,,Astros,,
+emilbb,1986,Gulf Coast League,mejias,M91782,Mejias,Sam,,Reds,,
+emilbb,1986,Gulf Coast League,silverio,M91827,Silverio,Luis,,Royals,,

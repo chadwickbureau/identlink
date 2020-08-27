@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1948,Arizona-Texas League,M91774,Barrades,Fernando,,Juarez,,,
-emilbb,1948,Arizona-Texas League,M91782,Biggs,Alton,,Phoenix,,,
-emilbb,1948,Arizona-Texas League,M91749,Brown,Lloyd,,Tucson,,,
-emilbb,1948,Arizona-Texas League,M91803,Chetkovich,Mitchell,,Bisbee-Douglas,,,
-emilbb,1948,Arizona-Texas League,M91763,Fortes,Manuel,,Juarez,,,
-emilbb,1948,Arizona-Texas League,M91730,Heffner,Don,,Globe-Miami,,,
-emilbb,1948,Arizona-Texas League,M91758,Millies,Walter,,El Paso,,,
-emilbb,1948,Arizona-Texas League,M91796,Steiner,Mel,,Bisbee-Douglas,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1948,Arizona-Texas League,,M91774,Barrades,Fernando,,Juarez,,
+emilbb,1948,Arizona-Texas League,,M91782,Biggs,Alton,,Phoenix,,
+emilbb,1948,Arizona-Texas League,,M91749,Brown,Lloyd,,Tucson,,
+emilbb,1948,Arizona-Texas League,,M91803,Chetkovich,Mitchell,,Bisbee-Douglas,,
+emilbb,1948,Arizona-Texas League,,M91763,Fortes,Manuel,,Juarez,,
+emilbb,1948,Arizona-Texas League,,M91730,Heffner,Don,,Globe-Miami,,
+emilbb,1948,Arizona-Texas League,,M91758,Millies,Walter,,El Paso,,
+emilbb,1948,Arizona-Texas League,,M91796,Steiner,Mel,,Bisbee-Douglas,,

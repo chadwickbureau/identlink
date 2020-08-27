@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1981,Northwest League,M91200,Bryk,Bill,,Walla Walla,,,
-emilbb,1981,Northwest League,M91199,Carey,P. J.,,Bend,,,
-emilbb,1981,Northwest League,M91213,Fisher,Brad,,Medford,,,
-emilbb,1981,Northwest League,M91221,Ingalls,Rick,,Salem,,,
-emilbb,1981,Northwest League,M91237,Riddock,Greg,,Eugene,,,
-emilbb,1981,Northwest League,M91185,Scott,Jeff,,Bellingham,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1981,Northwest League,,M91200,Bryk,Bill,,Walla Walla,,
+emilbb,1981,Northwest League,,M91199,Carey,P. J.,,Bend,,
+emilbb,1981,Northwest League,,M91213,Fisher,Brad,,Medford,,
+emilbb,1981,Northwest League,,M91221,Ingalls,Rick,,Salem,,
+emilbb,1981,Northwest League,,M91237,Riddock,Greg,,Eugene,,
+emilbb,1981,Northwest League,,M91185,Scott,Jeff,,Bellingham,,

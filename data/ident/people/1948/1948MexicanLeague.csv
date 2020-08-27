@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1948,Mexican League,M96202,Arroyo,Manuel,,Mexico City Reds,,,
-emilbb,1948,Mexican League,M96228,Gomez,Jose Luis,,Tampico,,,
-emilbb,1948,Mexican League,M96231,Leal,Hector,,San Luis Potosi,,,
-emilbb,1948,Mexican League,M96215,Luque,Dolf,,Veracruz,,,
-emilbb,1948,Mexican League,M96244,Monteagudo,Rene,,San Luis Potosi,,,
-emilbb,1948,Mexican League,M96192,Reyes,Napoleon,,Puebla,,,
-emilbb,1948,Mexican League,M96253,Rojo,Julio,,San Luis Potosi,,,
-emilbb,1948,Mexican League,M96184,Salazar,Lazaro,,Monterrey,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1948,Mexican League,,M96202,Arroyo,Manuel,,Mexico City Reds,,
+emilbb,1948,Mexican League,,M96228,Gomez,Jose Luis,,Tampico,,
+emilbb,1948,Mexican League,,M96231,Leal,Hector,,San Luis Potosi,,
+emilbb,1948,Mexican League,,M96215,Luque,Dolf,,Veracruz,,
+emilbb,1948,Mexican League,,M96244,Monteagudo,Rene,,San Luis Potosi,,
+emilbb,1948,Mexican League,,M96192,Reyes,Napoleon,,Puebla,,
+emilbb,1948,Mexican League,,M96253,Rojo,Julio,,San Luis Potosi,,
+emilbb,1948,Mexican League,,M96184,Salazar,Lazaro,,Monterrey,,

@@ -1,10 +1,10 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1988,Eastern League,M90650,Dancy,Bill,,Reading,,,dancy
-emilbb,1988,Eastern League,M90627,Essian,Jim,,Pittsfield,,,essian
-emilbb,1988,Eastern League,M90669,Hargrove,Mike,,Williamsport,,,hargrove
-emilbb,1988,Eastern League,M90688,Holt,Dave,,New Britain,,,holt
-emilbb,1988,Eastern League,M90634,Jones,Tommy,,Albany-Colonie,,,
-emilbb,1988,Eastern League,M90642,Merrill,Stump,,Albany-Colonie,,,merrill
-emilbb,1988,Eastern League,M90616,Morales,Rich,,Vermont,,,morales
-emilbb,1988,Eastern League,M90675,Trembley,Dave,,Harrisburg,,,trembley
-emilbb,1988,Eastern League,M90603,Wockenfuss,John,,Glens Falls,,,wockenfuss
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1988,Eastern League,dancy,M90650,Dancy,Bill,,Reading,,
+emilbb,1988,Eastern League,essian,M90627,Essian,Jim,,Pittsfield,,
+emilbb,1988,Eastern League,hargrove,M90669,Hargrove,Mike,,Williamsport,,
+emilbb,1988,Eastern League,holt,M90688,Holt,Dave,,New Britain,,
+emilbb,1988,Eastern League,,M90634,Jones,Tommy,,Albany-Colonie,,
+emilbb,1988,Eastern League,merrill,M90642,Merrill,Stump,,Albany-Colonie,,
+emilbb,1988,Eastern League,morales,M90616,Morales,Rich,,Vermont,,
+emilbb,1988,Eastern League,trembley,M90675,Trembley,Dave,,Harrisburg,,
+emilbb,1988,Eastern League,wockenfuss,M90603,Wockenfuss,John,,Glens Falls,,

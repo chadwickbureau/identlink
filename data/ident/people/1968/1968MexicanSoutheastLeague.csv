@@ -1,8 +1,8 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1968,Mexican Southeast League,M91079,Echevarria,Jose,,Minatitlan,,,
-emilbb,1968,Mexican Southeast League,M91022,Garcia,Dave,,Campeche,,,
-emilbb,1968,Mexican Southeast League,M91087,Jimenez,Dave,,Tabasco,,,
-emilbb,1968,Mexican Southeast League,M91040,Minoso,Minnie,,Puerto Mexico,,,
-emilbb,1968,Mexican Southeast League,M91065,Tanaka,Andres,,Las Choapas,,,
-emilbb,1968,Mexican Southeast League,M91054,Valenzeula,Ben,,Yucatan,,,
-emilbb,1968,Mexican Southeast League,M91033,del Rio,Rosendo,,Ciudad del Carmen,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1968,Mexican Southeast League,,M91079,Echevarria,Jose,,Minatitlan,,
+emilbb,1968,Mexican Southeast League,,M91022,Garcia,Dave,,Campeche,,
+emilbb,1968,Mexican Southeast League,,M91087,Jimenez,Dave,,Tabasco,,
+emilbb,1968,Mexican Southeast League,,M91040,Minoso,Minnie,,Puerto Mexico,,
+emilbb,1968,Mexican Southeast League,,M91065,Tanaka,Andres,,Las Choapas,,
+emilbb,1968,Mexican Southeast League,,M91054,Valenzeula,Ben,,Yucatan,,
+emilbb,1968,Mexican Southeast League,,M91033,del Rio,Rosendo,,Ciudad del Carmen,,

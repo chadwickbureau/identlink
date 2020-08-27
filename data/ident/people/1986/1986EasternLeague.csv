@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1986,Eastern League,M90579,Culver,George,,Reading,,,culver
-emilbb,1986,Eastern League,M90616,Gomez,Orlando,,Waterbury,,,gomez
-emilbb,1986,Eastern League,M90642,Rogers,Dennis,,Nashua,,,rogers
-emilbb,1986,Eastern League,M90627,Saul,Jim,,Albany-Colonie,,,saul
-emilbb,1986,Eastern League,M90603,Schaefer,Tom,,Glens Falls,,,schaefer
-emilbb,1986,Eastern League,M90598,Spencer,Tom,,Pittsfield,,,spencer
-emilbb,1986,Eastern League,M90634,Torchia,Tony,,New Britain,,,torchia
-emilbb,1986,Eastern League,M90587,Ward,Jay,,Vermont,,,ward-ver
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1986,Eastern League,culver,M90579,Culver,George,,Reading,,
+emilbb,1986,Eastern League,gomez,M90616,Gomez,Orlando,,Waterbury,,
+emilbb,1986,Eastern League,rogers,M90642,Rogers,Dennis,,Nashua,,
+emilbb,1986,Eastern League,saul,M90627,Saul,Jim,,Albany-Colonie,,
+emilbb,1986,Eastern League,schaefer,M90603,Schaefer,Tom,,Glens Falls,,
+emilbb,1986,Eastern League,spencer,M90598,Spencer,Tom,,Pittsfield,,
+emilbb,1986,Eastern League,torchia,M90634,Torchia,Tony,,New Britain,,
+emilbb,1986,Eastern League,ward-ver,M90587,Ward,Jay,,Vermont,,

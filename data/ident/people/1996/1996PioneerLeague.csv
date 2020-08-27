@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1996,Pioneer League,M92125,Foley,Tom,,Butte,,,
-emilbb,1996,Pioneer League,M92084,Hatcher,Mickey,,Great Falls,,,
-emilbb,1996,Pioneer League,M92130,Martin,Matt,,Billings,,,
-emilbb,1996,Pioneer League,M92101,Moncallo,Bernie,,Ogden,,,
-emilbb,1996,Pioneer League,M92076,Morales,Alex,,Helena,,,
-emilbb,1996,Pioneer League,M92092,Pevey,Marty,,Medicine Hat,,,
-emilbb,1996,Pioneer League,M92068,Speier,Chris,,Lethbridge,,,
-emilbb,1996,Pioneer League,M92117,Werner,Don,,Idaho Falls,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1996,Pioneer League,,M92125,Foley,Tom,,Butte,,
+emilbb,1996,Pioneer League,,M92084,Hatcher,Mickey,,Great Falls,,
+emilbb,1996,Pioneer League,,M92130,Martin,Matt,,Billings,,
+emilbb,1996,Pioneer League,,M92101,Moncallo,Bernie,,Ogden,,
+emilbb,1996,Pioneer League,,M92076,Morales,Alex,,Helena,,
+emilbb,1996,Pioneer League,,M92092,Pevey,Marty,,Medicine Hat,,
+emilbb,1996,Pioneer League,,M92068,Speier,Chris,,Lethbridge,,
+emilbb,1996,Pioneer League,,M92117,Werner,Don,,Idaho Falls,,

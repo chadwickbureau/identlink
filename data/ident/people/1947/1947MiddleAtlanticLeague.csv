@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1947,Middle Atlantic League,M92308,Cross,Don,,Erie,,,
-emilbb,1947,Middle Atlantic League,M92324,Engle,Charles,,Oil City,,,
-emilbb,1947,Middle Atlantic League,M92335,Harig,Charles,,Youngstown,,,
-emilbb,1947,Middle Atlantic League,M92356,Kirke,Jay Jr.,,Johnstown,,,
-emilbb,1947,Middle Atlantic League,M92293,Mizerak,Steve,,Niagara Falls,,,
-emilbb,1947,Middle Atlantic League,M92286,Patterson,"Floyd ""Pat""",,Vandergrift,,,
-emilbb,1947,Middle Atlantic League,M92343,Stutzke,Alexander,,Uniontown,,,
-emilbb,1947,Middle Atlantic League,M92319,Warner,Dallas,,Butler,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1947,Middle Atlantic League,,M92308,Cross,Don,,Erie,,
+emilbb,1947,Middle Atlantic League,,M92324,Engle,Charles,,Oil City,,
+emilbb,1947,Middle Atlantic League,,M92335,Harig,Charles,,Youngstown,,
+emilbb,1947,Middle Atlantic League,,M92356,Kirke,Jay Jr.,,Johnstown,,
+emilbb,1947,Middle Atlantic League,,M92293,Mizerak,Steve,,Niagara Falls,,
+emilbb,1947,Middle Atlantic League,,M92286,Patterson,"Floyd ""Pat""",,Vandergrift,,
+emilbb,1947,Middle Atlantic League,,M92343,Stutzke,Alexander,,Uniontown,,
+emilbb,1947,Middle Atlantic League,,M92319,Warner,Dallas,,Butler,,

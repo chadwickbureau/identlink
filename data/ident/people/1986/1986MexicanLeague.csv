@@ -1,29 +1,29 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1986,Mexican League,M90459,Arano,Ramon,,Veracruz,,,arano
-emilbb,1986,Mexican League,M90236,Calvo,Jorge,,Dos Laredos,,,calvo
-emilbb,1986,Mexican League,M90220,Castellon,Roberto,,Aguascalientes,,,castellon
-emilbb,1986,Mexican League,M90400,Castillo,Manuel,,Cordoba,,,castillo
-emilbb,1986,Mexican League,M90261,Conde,Ramon,,Union Laguna,,,conde
-emilbb,1986,Mexican League,M90421,Cruz,Domingo,,Tabasco,,,cruz
-emilbb,1986,Mexican League,M90325,Espinosa,Javier,,Saltillo,,,espinosa
-emilbb,1986,Mexican League,M90363,Estrada,Francisco,,Campeche,,,estrada
-emilbb,1986,Mexican League,M90330,Fabela,Victor,,Saltillo,,,fabela
-emilbb,1986,Mexican League,M90204,Garcia,Vinicio,,Monterrey,,,garcia
-emilbb,1986,Mexican League,M90299,Gaspar,Miguel,,Leon,,,gaspar
-emilbb,1986,Mexican League,M90413,Gavilan,Eduardo,,Tabasco,,,gavilan
-emilbb,1986,Mexican League,M90248,Guerrero,Jose,,Dos Laredos,,,guerrero
-emilbb,1986,Mexican League,M90273,Gutierrez,Gerardo,,Union Laguna,,,gutierrez
-emilbb,1986,Mexican League,M90301,Jochim,Alberto,,Leon,,,jochim
-emilbb,1986,Mexican League,M90257,Luque,Gregorio,,San Luis Potosi,,,luque
-emilbb,1986,Mexican League,M90358,Mendez,Roberto,,Mexico City Tigers,,,mendez
-emilbb,1986,Mexican League,M90317,Navarette,Juan,,Saltillo,,,navarette
-emilbb,1986,Mexican League,M90445,Ortiz,Alfredo,,Veracruz,,,ortiz
-emilbb,1986,Mexican League,M90468,Paredes,Jesus,,Veracruz,,,paredes
-emilbb,1986,Mexican League,M90382,Paz,Carlos,,Yucatan,,,paz
-emilbb,1986,Mexican League,M90285,Pierce,Jack,,Leon,,,pierce
-emilbb,1986,Mexican League,M90396,Ramirez,Victor,,Cordoba,,,ramirez
-emilbb,1986,Mexican League,M90374,Reyes,Ben,,Mexico City Reds,,,reyes
-emilbb,1986,Mexican League,M90193,Rios,Alfredo,,Monclova,,,rios
-emilbb,1986,Mexican League,M90437,Rodriguez,Francisco,,Veracruz,,,rodriguez
-emilbb,1986,Mexican League,M90349,Sandoval,Rodolfo,,Puebla,,,sandoval
-emilbb,1986,Mexican League,M90212,Sotelo,Miguel,,Monterrey,,,sotelo
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1986,Mexican League,arano,M90459,Arano,Ramon,,Veracruz,,
+emilbb,1986,Mexican League,calvo,M90236,Calvo,Jorge,,Dos Laredos,,
+emilbb,1986,Mexican League,castellon,M90220,Castellon,Roberto,,Aguascalientes,,
+emilbb,1986,Mexican League,castillo,M90400,Castillo,Manuel,,Cordoba,,
+emilbb,1986,Mexican League,conde,M90261,Conde,Ramon,,Union Laguna,,
+emilbb,1986,Mexican League,cruz,M90421,Cruz,Domingo,,Tabasco,,
+emilbb,1986,Mexican League,espinosa,M90325,Espinosa,Javier,,Saltillo,,
+emilbb,1986,Mexican League,estrada,M90363,Estrada,Francisco,,Campeche,,
+emilbb,1986,Mexican League,fabela,M90330,Fabela,Victor,,Saltillo,,
+emilbb,1986,Mexican League,garcia,M90204,Garcia,Vinicio,,Monterrey,,
+emilbb,1986,Mexican League,gaspar,M90299,Gaspar,Miguel,,Leon,,
+emilbb,1986,Mexican League,gavilan,M90413,Gavilan,Eduardo,,Tabasco,,
+emilbb,1986,Mexican League,guerrero,M90248,Guerrero,Jose,,Dos Laredos,,
+emilbb,1986,Mexican League,gutierrez,M90273,Gutierrez,Gerardo,,Union Laguna,,
+emilbb,1986,Mexican League,jochim,M90301,Jochim,Alberto,,Leon,,
+emilbb,1986,Mexican League,luque,M90257,Luque,Gregorio,,San Luis Potosi,,
+emilbb,1986,Mexican League,mendez,M90358,Mendez,Roberto,,Mexico City Tigers,,
+emilbb,1986,Mexican League,navarette,M90317,Navarette,Juan,,Saltillo,,
+emilbb,1986,Mexican League,ortiz,M90445,Ortiz,Alfredo,,Veracruz,,
+emilbb,1986,Mexican League,paredes,M90468,Paredes,Jesus,,Veracruz,,
+emilbb,1986,Mexican League,paz,M90382,Paz,Carlos,,Yucatan,,
+emilbb,1986,Mexican League,pierce,M90285,Pierce,Jack,,Leon,,
+emilbb,1986,Mexican League,ramirez,M90396,Ramirez,Victor,,Cordoba,,
+emilbb,1986,Mexican League,reyes,M90374,Reyes,Ben,,Mexico City Reds,,
+emilbb,1986,Mexican League,rios,M90193,Rios,Alfredo,,Monclova,,
+emilbb,1986,Mexican League,rodriguez,M90437,Rodriguez,Francisco,,Veracruz,,
+emilbb,1986,Mexican League,sandoval,M90349,Sandoval,Rodolfo,,Puebla,,
+emilbb,1986,Mexican League,sotelo,M90212,Sotelo,Miguel,,Monterrey,,

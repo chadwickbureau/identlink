@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1976,Southern League,M90587,Aaron,Tommie,,Savannah,,,
-emilbb,1976,Southern League,M90616,Lachemann,Rene,,Chattanooga,,,
-emilbb,1976,Southern League,M90627,Lund,Gordon,,Knoxville,,,
-emilbb,1976,Southern League,M90603,Moss,Les,,Montgomery,,,
-emilbb,1976,Southern League,M90565,Phillips,Dick,,Orlando,,,
-emilbb,1976,Southern League,M90634,Posada,Leo,,Columbus,,,
-emilbb,1976,Southern League,M90579,Schaffer,Jim,,Charlotte,,,
-emilbb,1976,Southern League,M90598,Scripture,Billy,,Jacksonville,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1976,Southern League,,M90587,Aaron,Tommie,,Savannah,,
+emilbb,1976,Southern League,,M90616,Lachemann,Rene,,Chattanooga,,
+emilbb,1976,Southern League,,M90627,Lund,Gordon,,Knoxville,,
+emilbb,1976,Southern League,,M90603,Moss,Les,,Montgomery,,
+emilbb,1976,Southern League,,M90565,Phillips,Dick,,Orlando,,
+emilbb,1976,Southern League,,M90634,Posada,Leo,,Columbus,,
+emilbb,1976,Southern League,,M90579,Schaffer,Jim,,Charlotte,,
+emilbb,1976,Southern League,,M90598,Scripture,Billy,,Jacksonville,,

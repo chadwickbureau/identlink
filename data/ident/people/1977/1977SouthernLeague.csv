@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1977,Southern League,M90634,Brinkman,Ed,,Montgomery,,,
-emilbb,1977,Southern League,M90642,Farson,George,,Chattanooga,,,
-emilbb,1977,Southern League,M90598,Goryl,John,,Orlando,,,
-emilbb,1977,Southern League,M90603,Hassell,Gene,,Savannah,,,
-emilbb,1977,Southern League,M90616,MacKenzie,Gordy,,Jacksonville,,,
-emilbb,1977,Southern League,M90669,Napier,Jim,,Knoxville,,,
-emilbb,1977,Southern League,M90650,Posada,Leo,,Columbus,,,
-emilbb,1977,Southern League,M90627,Schaffer,Jim,,Charlotte,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1977,Southern League,,M90634,Brinkman,Ed,,Montgomery,,
+emilbb,1977,Southern League,,M90642,Farson,George,,Chattanooga,,
+emilbb,1977,Southern League,,M90598,Goryl,John,,Orlando,,
+emilbb,1977,Southern League,,M90603,Hassell,Gene,,Savannah,,
+emilbb,1977,Southern League,,M90616,MacKenzie,Gordy,,Jacksonville,,
+emilbb,1977,Southern League,,M90669,Napier,Jim,,Knoxville,,
+emilbb,1977,Southern League,,M90650,Posada,Leo,,Columbus,,
+emilbb,1977,Southern League,,M90627,Schaffer,Jim,,Charlotte,,

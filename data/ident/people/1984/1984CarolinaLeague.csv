@@ -1,11 +1,11 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1984,Carolina League,M91033,Ault,Doug,,Kinston,,,ault
-emilbb,1984,Carolina League,M91022,Clark,Ron,,Peninsula,,,clark
-emilbb,1984,Carolina League,M90967,Cubbage,Mike,,Lynchburg,,,cubbage
-emilbb,1984,Carolina League,M90995,Hart,John,,Hagerstown,,,hart
-emilbb,1984,Carolina League,M91011,Johnston,Len,,Hagerstown,,,johnston
-emilbb,1984,Carolina League,M90972,Lipon,John,,Prince William,,,lipon
-emilbb,1984,Carolina League,M91006,Little,Grady,,Hagerstown,,,little
-emilbb,1984,Carolina League,M91054,Slack,Bill,,Winston-Salem,,,slack
-emilbb,1984,Carolina League,M91040,Snitker,Brian,,Durham,,,snitker
-emilbb,1984,Carolina League,M90980,Stearns,Bill,,Salem,,,stearns
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1984,Carolina League,ault,M91033,Ault,Doug,,Kinston,,
+emilbb,1984,Carolina League,clark,M91022,Clark,Ron,,Peninsula,,
+emilbb,1984,Carolina League,cubbage,M90967,Cubbage,Mike,,Lynchburg,,
+emilbb,1984,Carolina League,hart,M90995,Hart,John,,Hagerstown,,
+emilbb,1984,Carolina League,johnston,M91011,Johnston,Len,,Hagerstown,,
+emilbb,1984,Carolina League,lipon,M90972,Lipon,John,,Prince William,,
+emilbb,1984,Carolina League,little,M91006,Little,Grady,,Hagerstown,,
+emilbb,1984,Carolina League,slack,M91054,Slack,Bill,,Winston-Salem,,
+emilbb,1984,Carolina League,snitker,M91040,Snitker,Brian,,Durham,,
+emilbb,1984,Carolina League,stearns,M90980,Stearns,Bill,,Salem,,

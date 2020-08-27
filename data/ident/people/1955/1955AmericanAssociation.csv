@@ -1,715 +1,715 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-1956TSN,1955,American Association,B01007,Adams,Herbert,0,Omaha,,B15,adams
-1956TSN,1955,American Association,F21210,Adams,,0,Omaha,,of12,adams
-1956TSN,1955,American Association,B02056,Aguirre,Henry,0,Indianapolis,,B33,aguirre
-1956TSN,1955,American Association,F22355,Aguirre,,0,Indianapolis,,p33,aguirre
-1956TSN,1955,American Association,P10043,Aguirre,,0,Indianapolis,,P33p,aguirre
-1956TSN,1955,American Association,B02751,Allen,William,0,Toledo,,B2,allen
-1956TSN,1955,American Association,P11222,Allen,,0,Toledo,,P2p,allen
-1956TSN,1955,American Association,B02679,Almenares,Pedro,0,St. Paul,,B5,almenares
-1956TSN,1955,American Association,B00646,Alston,Thomas,0,Omaha,,B117,alston
-1956TSN,1955,American Association,F20095,Alston,,0,Omaha,,1b92,alston
-1956TSN,1955,American Association,F20458,Alston,,0,Omaha,,3b20,alston
-1956TSN,1955,American Association,B00705,Altobelli,Joseph,0,Indianapolis,,B98,altobelli
-1956TSN,1955,American Association,F20115,Altobelli,,0,Indianapolis,,1b98,altobelli
-1956TSN,1955,American Association,B01740,Anthony,O. Lee,0,Charleston,,B35,anthony
-1956TSN,1955,American Association,F22020,Anthony,,0,Charleston,,p35,anthony
-1956TSN,1955,American Association,P10569,Anthony,,0,Charleston,,P35p,anthony
-1956TSN,1955,American Association,B01181,Antonello,William,0,Charleston,,B56,antonello
-1956TSN,1955,American Association,F21149,Antonello,,0,Charleston,,of54,antonello
-1956TSN,1955,American Association,B01162,Averill,Earl,0,Indianapolis,,B34,averill
-1956TSN,1955,American Association,F21531,Averill,,0,Indianapolis,,c15,averill
-1956TSN,1955,American Association,B01905,Baczewski,Fred,0,St. Paul,,B27,baczewski
-1956TSN,1955,American Association,F21646,Baczewski,,0,St. Paul,,p26,baczewski
-1956TSN,1955,American Association,P10780,Baczewski,,0,St. Paul,,P26p,baczewski
-1956TSN,1955,American Association,B02113,Baliga,Joseph,0,St. Paul,,B33,baliga
-1956TSN,1955,American Association,F21948,Baliga,,0,St. Paul,,p22,baliga
-1956TSN,1955,American Association,P10795,Baliga,,0,St. Paul,,P22p,baliga
-1956TSN,1955,American Association,B02215,Barnes,Frank,0,Charleston,,B5,barnes
-1956TSN,1955,American Association,P10883,Barnes,,0,Charleston,,P4p,barnes
-1956TSN,1955,American Association,B00739,Battey,Earl,0,Charleston,,B125,battey
-1956TSN,1955,American Association,F21528,Battey,,0,Charleston,,c116,battey
-1956TSN,1955,American Association,B01250,Batts,Matthew,0,Indianapolis,,B51,batts
-1956TSN,1955,American Association,F21381,Batts,,0,Indianapolis,,c44,batts
-1956TSN,1955,American Association,B02320,Benedict,David,0,Denver,,B3,benedict
-1956TSN,1955,American Association,P10974,Benedict,,0,Denver,,P3p,benedict
-1956TSN,1955,American Association,B01580,Bessent,F. Donald,0,St. Paul,,B17,bessent
-1956TSN,1955,American Association,F21879,Bessent,,0,St. Paul,,p16,bessent
-1956TSN,1955,American Association,P10357,Bessent,,0,St. Paul,,P16p,bessent
-1956TSN,1955,American Association,B01630,Bicknell,Charles,0,Toledo,,B51,bicknell
-1956TSN,1955,American Association,F21854,Bicknell,,0,Toledo,,p44,bicknell
-1956TSN,1955,American Association,P10534,Bicknell,,0,Toledo,,P44p,bicknell
-1956TSN,1955,American Association,B02228,Birkofer,Ralph,0,Charleston,,B8,birkofer
-1956TSN,1955,American Association,P10894,Birkofer,,0,Charleston,,P8p,birkofer
-1956TSN,1955,American Association,B01300,Biskup,Frank,0,Indianapolis,,B37,biskup
-1956TSN,1955,American Association,F21442,Biskup,,0,Indianapolis,,c37,biskup
-1956TSN,1955,American Association,B02336,Blanchard,John,0,Denver,,B4,blanchard
-1956TSN,1955,American Association,B00362,Blasingame,Don,0,Omaha,,B132,blasingame
-1956TSN,1955,American Association,F20303,Blasingame,,0,Omaha,,2b132,blasingame
-1956TSN,1955,American Association,B02008,Blaylock,Gary,0,Omaha,,B14,blaylock
-1956TSN,1955,American Association,F22310,Blaylock,,0,Omaha,,p14,blaylock
-1956TSN,1955,American Association,P10746,Blaylock,,0,Omaha,,P14p,blaylock
-1956TSN,1955,American Association,B01682,Blyzka,Michael,0,Denver,,B31,blyzka
-1956TSN,1955,American Association,F22214,Blyzka,,0,Denver,,p31,blyzka
-1956TSN,1955,American Association,P10611,Blyzka,,0,Denver,,P31p,blyzka
-1956TSN,1955,American Association,B02231,Boemler,Willard,0,Charleston,,B4,boemler
-1956TSN,1955,American Association,P10901,Boemler,,0,Charleston,,P4p,boemler
-1956TSN,1955,American Association,B02244,Boles,Howard,0,Charleston,,B9,boles
-1956TSN,1955,American Association,B00651,Bollweg,Donald,1,Indianapolis,,B26,bollweg
-1956TSN,1955,American Association,B00651,Bollweg,Donald,2,Minneapolis,,B51,bollweg
-1956TSN,1955,American Association,B00651,Bollweg,Donald,T,,,B77,bollweg
-1956TSN,1955,American Association,F20046,Bollweg,,1,Indianapolis,,1b,bollweg
-1956TSN,1955,American Association,F20046,Bollweg,,2,Minneapolis,,1b,bollweg
-1956TSN,1955,American Association,F20046,Bollweg,,T,,,1b77,bollweg
-1956TSN,1955,American Association,B00117,Borkowski,Robert,0,St. Paul,,B39,borkowski
-1956TSN,1955,American Association,F21232,Borkowski,,0,St. Paul,,of25,borkowski
-1956TSN,1955,American Association,B00403,Bracchitta,Joseph,0,Minneapolis,,B106,bracchitta
-1956TSN,1955,American Association,F20189,Bracchitta,,0,Minneapolis,,1b14,bracchitta
-1956TSN,1955,American Association,F21021,Bracchitta,,0,Minneapolis,,of66,bracchitta
-1956TSN,1955,American Association,B02137,Branca,Ralph,0,Minneapolis,,B25,branca
-1956TSN,1955,American Association,F22127,Branca,,0,Minneapolis,,p25,branca
-1956TSN,1955,American Association,P10852,Branca,,0,Minneapolis,,P25p,branca
-1956TSN,1955,American Association,B00747,Bratkowitz,Andrew,0,Toledo,,B16,bratkowitz
-1956TSN,1955,American Association,F22169,Bratkowitz,,0,Toledo,,p16,bratkowitz
-1956TSN,1955,American Association,P10772,Bratkowitz,,0,Toledo,,P16p,bratkowitz
-1956TSN,1955,American Association,B00999,Bressoud,Edward,0,Minneapolis,,B145,bressoud
-1956TSN,1955,American Association,F20657,Bressoud,,0,Minneapolis,,ss143,bressoud
-1956TSN,1955,American Association,B00566,Broome,Robert,0,Louisville,,B132,broome
-1956TSN,1955,American Association,F20878,Broome,,0,Louisville,,of131,broome
-1956TSN,1955,American Association,B01143,Buck,E. Joseph,0,Louisville,,B85,buck
-1956TSN,1955,American Association,F20080,Buck,,0,Louisville,,1b10,buck
-1956TSN,1955,American Association,F21491,Buck,,0,Louisville,,c60,buck
-1956TSN,1955,American Association,B00427,Buddin,Donald,0,Louisville,,B154,buddin
-1956TSN,1955,American Association,F20759,Buddin,,0,Louisville,,ss154,buddin
-1956TSN,1955,American Association,B01658,Burnette,Wallace,0,Denver,,B33,burnette
-1956TSN,1955,American Association,F21811,Burnette,,0,Denver,,p33,burnette
-1956TSN,1955,American Association,P10215,Burnette,,0,Denver,,P33p,burnette
-1956TSN,1955,American Association,B01663,Burris,Paul,0,Toledo,,B27,burris
-1956TSN,1955,American Association,F21488,Burris,,0,Toledo,,c23,burris
-1956TSN,1955,American Association,B01197,Byerly,Eldred,0,Minneapolis,,B50,byerly
-1956TSN,1955,American Association,F21726,Byerly,,0,Minneapolis,,p50,byerly
-1956TSN,1955,American Association,P10373,Byerly,,0,Minneapolis,,P50p,byerly
-1956TSN,1955,American Association,B00904,Caffie,Joseph,0,Indianapolis,,B46,caffie
-1956TSN,1955,American Association,F20784,Caffie,,0,Indianapolis,,of32,caffie
-1956TSN,1955,American Association,B00068,Carswell,Frank,0,Omaha,,B107,carswell
-1956TSN,1955,American Association,F20962,Carswell,,0,Omaha,,of102,carswell
-1956TSN,1955,American Association,B00961,Carter,Leon,0,Denver,,B25,carter
-1956TSN,1955,American Association,F20604,Carter,,0,Denver,,3b24,carter
-1956TSN,1955,American Association,B00149,Casagrande,Thomas,0,Louisville,,B53,casagrande
-1956TSN,1955,American Association,F20190,Casagrande,,0,Louisville,,1b13,casagrande
-1956TSN,1955,American Association,F21747,Casagrande,,0,Louisville,,p21,casagrande
-1956TSN,1955,American Association,P10588,Casagrande,,0,Louisville,,P21p,casagrande
-1956TSN,1955,American Association,B00590,Casale,Jerry,0,Louisville,,B35,casale
-1956TSN,1955,American Association,F22103,Casale,,0,Louisville,,p34,casale
-1956TSN,1955,American Association,P10024,Casale,,0,Louisville,,P34p,casale
-1956TSN,1955,American Association,B00370,Castleman,Foster,0,Minneapolis,,B43,castleman
-1956TSN,1955,American Association,F20518,Castleman,,0,Minneapolis,,3b16,castleman
-1956TSN,1955,American Association,B02767,Cave,Paul,0,Toledo,,B3,cave
-1956TSN,1955,American Association,P11233,Cave,,0,Toledo,,P3p,cave
-1956TSN,1955,American Association,B02348,Cereghino,Edward,0,Denver,,B4,cereghino
-1956TSN,1955,American Association,P10982,Cereghino,,0,Denver,,P4p,cereghino
-1956TSN,1955,American Association,B00957,Charvat,John,0,Louisville,,B23,charvat
-1956TSN,1955,American Association,F20233,Charvat,,0,Louisville,,2b21,charvat
-1956TSN,1955,American Association,B02640,Cheney,Thomas,0,Omaha,,B1,cheney
-1956TSN,1955,American Association,P11131,Cheney,,0,Omaha,,P1p,cheney
-1956TSN,1955,American Association,B02486,Chrisley,B. O'Neil,0,Louisville,,B6,chrisley
-1956TSN,1955,American Association,B02357,Cicotte,Alva,0,Denver,,B5,cicotte
-1956TSN,1955,American Association,P10996,Cicotte,,0,Denver,,P5p,cicotte
-1956TSN,1955,American Association,B01696,Clear,E. Robert,0,Omaha,,B34,clear
-1956TSN,1955,American Association,F21760,Clear,,0,Omaha,,p27,clear
-1956TSN,1955,American Association,P10486,Clear,,0,Omaha,,P27p,clear
-1956TSN,1955,American Association,B02019,Clevenger,Truman,0,Louisville,,B39,clevenger
-1956TSN,1955,American Association,F21822,Clevenger,,0,Louisville,,p39,clevenger
-1956TSN,1955,American Association,P10100,Clevenger,,0,Louisville,,P39p,clevenger
-1956TSN,1955,American Association,B02429,Cleverly,James,0,Indianapolis,,B7,cleverly
-1956TSN,1955,American Association,B00752,Colavito,Rocco,0,Indianapolis,,B150,colavito
-1956TSN,1955,American Association,F21076,Colavito,,0,Indianapolis,,of149,colavito
-1956TSN,1955,American Association,B00286,Cole,David,0,St. Paul,,B22,cole
-1956TSN,1955,American Association,F22378,Cole,,0,St. Paul,,p22,cole
-1956TSN,1955,American Association,P10826,Cole,,0,St. Paul,,P22p,cole
-1956TSN,1955,American Association,B02081,Coleman,W. Gary,0,Denver,,B30,coleman-den
-1956TSN,1955,American Association,B02432,Coleman,Gordon,0,Indianapolis,,B4,coleman-ind
-1956TSN,1955,American Association,F22209,Coleman,,0,Denver,,p30,coleman-den
-1956TSN,1955,American Association,P10097,Coleman,,0,Denver,,P30p,coleman-den
-1956TSN,1955,American Association,B02654,Condrick,George,0,Omaha,,B2,condrick
-1956TSN,1955,American Association,P11144,Condrick,,0,Omaha,,P2p,condrick
-1956TSN,1955,American Association,B01649,Constable,James,0,Minneapolis,,B48,constable
-1956TSN,1955,American Association,F22191,Constable,,0,Minneapolis,,p45,constable
-1956TSN,1955,American Association,P10202,Constable,,0,Minneapolis,,P45p,constable
-1956TSN,1955,American Association,B01428,Corwin,Elmer,0,Minneapolis,,B47,corwin
-1956TSN,1955,American Association,F22073,Corwin,,0,Minneapolis,,p30,corwin
-1956TSN,1955,American Association,P10709,Corwin,,0,Minneapolis,,P30p,corwin
-1956TSN,1955,American Association,B02575,Cosmidis,Alexander,0,Minneapolis,,B3,cosmidis
-1956TSN,1955,American Association,B02772,Covington,J. Wesley,0,Toledo,,B3,covington
-1956TSN,1955,American Association,B02780,Crone,Raymond,0,Toledo,,B4,crone
-1956TSN,1955,American Association,P11240,Crone,,0,Toledo,,P4p,crone
-1956TSN,1955,American Association,B01477,Curtis,Alphens,0,Louisville,,B39,curtis
-1956TSN,1955,American Association,F21623,Curtis,,0,Louisville,,p27,curtis
-1956TSN,1955,American Association,P10121,Curtis,,0,Louisville,,P27p,curtis
-1956TSN,1955,American Association,B01392,Dabek,Raymond,0,Minneapolis,,B52,dabek
-1956TSN,1955,American Association,F21403,Dabek,,0,Minneapolis,,c48,dabek
-1956TSN,1955,American Association,B01444,Daley,J. Gilbert,0,Omaha,,B15,daley
-1956TSN,1955,American Association,F21335,Daley,,0,Omaha,,of11,daley
-1956TSN,1955,American Association,B00936,Daniels,H. Jack,0,Toledo,,B118,daniels
-1956TSN,1955,American Association,F20841,Daniels,,0,Toledo,,of109,daniels
-1956TSN,1955,American Association,B01275,Darden,William,0,St. Paul,,B44,darden
-1956TSN,1955,American Association,F22150,Darden,,0,St. Paul,,p42,darden
-1956TSN,1955,American Association,P10591,Darden,,0,St. Paul,,P42p,darden
-1956TSN,1955,American Association,B00528,Darnell,Robert,0,St. Paul,,B45,darnell
-1956TSN,1955,American Association,F21985,Darnell,,0,St. Paul,,p31,darnell
-1956TSN,1955,American Association,P10289,Darnell,,0,St. Paul,,P31p,darnell
-1956TSN,1955,American Association,B01453,Davidson,Billy Joe,0,Indianapolis,,B49,davidson
-1956TSN,1955,American Association,F22085,Davidson,,0,Indianapolis,,p49,davidson
-1956TSN,1955,American Association,P10640,Davidson,,0,Indianapolis,,P49p,davidson
-1956TSN,1955,American Association,B01514,Davis,Willard,0,St. Paul,,B35,davis
-1956TSN,1955,American Association,F20560,Davis,,0,St. Paul,,3b25,davis
-1956TSN,1955,American Association,B02687,DeWitt,Clyde,0,St. Paul,,B4,dewitt
-1956TSN,1955,American Association,P11166,DeWitt,,0,St. Paul,,P4p,dewitt
-1956TSN,1955,American Association,B01359,Derucki,Walter,0,Omaha,,B24,derucki
-1956TSN,1955,American Association,F20391,Derucki,,0,Omaha,,3b16,derucki
-1956TSN,1955,American Association,B00667,Dickens,Guilford,1,Minneapolis,,B62,dickens
-1956TSN,1955,American Association,B00667,Dickens,Guilford,2,Charleston,,B56,dickens
-1956TSN,1955,American Association,B00667,Dickens,Guilford,T,,,B118,dickens
-1956TSN,1955,American Association,F20144,Dickens,,1,Minneapolis,,1b,dickens
-1956TSN,1955,American Association,F20144,Dickens,,2,Charleston,,1b,dickens
-1956TSN,1955,American Association,F20144,Dickens,,T,,,1b18,dickens
-1956TSN,1955,American Association,F21101,Dickens,,1,Minneapolis,,of,dickens
-1956TSN,1955,American Association,F21101,Dickens,,2,Charleston,,of,dickens
-1956TSN,1955,American Association,F21101,Dickens,,T,,,of94,dickens
-1956TSN,1955,American Association,B02070,Dixon,John,0,Denver,,B18,dixon
-1956TSN,1955,American Association,F21705,Dixon,,0,Denver,,p18,dixon
-1956TSN,1955,American Association,P10441,Dixon,,0,Denver,,P18p,dixon
-1956TSN,1955,American Association,B02665,Donnelly,Edward,0,Omaha,,B2,donnelly
-1956TSN,1955,American Association,P11153,Donnelly,,0,Omaha,,P2p,donnelly
-1956TSN,1955,American Association,B00037,Dyck,James,0,Indianapolis,,B78,dyck
-1956TSN,1955,American Association,F21182,Dyck,,0,Indianapolis,,of69,dyck
-1956TSN,1955,American Association,B00531,Easter,Luscious,0,Charleston,,B144,easter
-1956TSN,1955,American Association,F20166,Easter,,0,Charleston,,1b138,easter
-1956TSN,1955,American Association,B02192,Evans,William,0,Charleston,,B12,evans
-1956TSN,1955,American Association,F21806,Evans,,0,Charleston,,p12,evans
-1956TSN,1955,American Association,P10871,Evans,,0,Charleston,,P12p,evans
-emilbb,1955,American Association,M90071,Farrell,Kerby,,Indianapolis,,,ferrell
-1956TSN,1955,American Association,M90071,Ferrell,M. Kerby,,Indianapolis,,,ferrell
-1956TSN,1955,American Association,B02588,Fowler,Charles,0,Minneapolis,,B3,fowler
-1956TSN,1955,American Association,P11115,Fowler,,0,Minneapolis,,P3p,fowler
-1956TSN,1955,American Association,B00553,Frey,James,0,Toledo,,B142,frey
-1956TSN,1955,American Association,F21255,Frey,,0,Toledo,,of129,frey
-1956TSN,1955,American Association,B02100,Fricano,Marion,1,Indianapolis,,B17,fricano
-1956TSN,1955,American Association,B02100,Fricano,Marion,2,Denver,,B8,fricano
-1956TSN,1955,American Association,B02100,Fricano,Marion,T,,,B25,fricano
-1956TSN,1955,American Association,F21614,Fricano,,1,Indianapolis,,p,fricano
-1956TSN,1955,American Association,F21614,Fricano,,2,Denver,,p,fricano
-1956TSN,1955,American Association,F21614,Fricano,,T,,,p23,fricano
-1956TSN,1955,American Association,P10767,Fricano,,1,Indianapolis,,P16p,fricano
-1956TSN,1955,American Association,P10767,Fricano,,2,Denver,,P7p,fricano
-1956TSN,1955,American Association,P10767,Fricano,,T,,,P23p,fricano
-1956TSN,1955,American Association,B00589,Fridley,James,0,Denver,,B106,fridley
-1956TSN,1955,American Association,F21125,Fridley,,0,Denver,,of91,fridley
-1956TSN,1955,American Association,B01551,Friend,Owen,0,Louisville,,B25,friend
-1956TSN,1955,American Association,F20327,Friend,,0,Louisville,,2b11,friend
-1956TSN,1955,American Association,F21293,Friend,,0,Louisville,,of11,friend
-1956TSN,1955,American Association,B02493,Furfaro,Vincent,0,Louisville,,B6,furfaro
-1956TSN,1955,American Association,B00381,Garcia,Vinicio,0,Toledo,,B154,garcia-tol
-1956TSN,1955,American Association,B01952,Garcia,Pablo,0,Charleston,,B10,garcia-cha
-1956TSN,1955,American Association,B02591,Garcia,David,0,Minneapolis,,B5,garcia-min
-1956TSN,1955,American Association,F20211,Garcia,,0,Toledo,,2b153,garcia-tol
-1956TSN,1955,American Association,B00264,Gardner,William,0,Minneapolis,,B73,gardner
-1956TSN,1955,American Association,F20334,Gardner,,0,Minneapolis,,2b57,gardner
-1956TSN,1955,American Association,F20425,Gardner,,0,Minneapolis,,3b12,gardner
-1956TSN,1955,American Association,B01711,Garmon,Charles,0,Denver,,B29,garmon
-1956TSN,1955,American Association,F21638,Garmon,,0,Denver,,p29,garmon
-1956TSN,1955,American Association,P10503,Garmon,,0,Denver,,P29p,garmon
-1956TSN,1955,American Association,B01820,Gasque,Edwin,0,Indianapolis,,B10,gasque
-1956TSN,1955,American Association,P11046,Gasque,,0,Indianapolis,,P9p,gasque
-1956TSN,1955,American Association,B00488,Gernert,Richard,0,Louisville,,B127,gernert
-1956TSN,1955,American Association,F20128,Gernert,,0,Louisville,,1b99,gernert
-1956TSN,1955,American Association,F20893,Gernert,,0,Louisville,,of33,gernert
-1956TSN,1955,American Association,B02606,Getter,Richard,0,Minneapolis,,B6,getter
-1956TSN,1955,American Association,B00101,Glynn,William,0,Indianapolis,,B29,glynn
-1956TSN,1955,American Association,F20177,Glynn,,0,Indianapolis,,1b29,glynn
-1956TSN,1955,American Association,B01376,Golich,John,0,Charleston,,B43,golich
-1956TSN,1955,American Association,F21196,Golich,,0,Charleston,,of43,golich
-1956TSN,1955,American Association,B01798,Gorin,Charles,0,Toledo,,B38,gorin
-1956TSN,1955,American Association,F21961,Gorin,,0,Toledo,,p29,gorin
-1956TSN,1955,American Association,P10145,Gorin,,0,Toledo,,P29p,gorin
-1956TSN,1955,American Association,B00833,Grace,LaVern,0,Indianapolis,,B124,grace
-1956TSN,1955,American Association,F21084,Grace,,0,Indianapolis,,of100,grace
-1956TSN,1955,American Association,F21515,Grace,,0,Indianapolis,,c20,grace
-1956TSN,1955,American Association,B01234,Grasso,N. Michael,0,Indianapolis,,B56,grasso
-1956TSN,1955,American Association,F21427,Grasso,,0,Indianapolis,,c55,grasso
-1956TSN,1955,American Association,B02611,Graves,James,0,Minneapolis,,B4,graves
-1956TSN,1955,American Association,P11128,Graves,,0,Minneapolis,,P4p,graves
-1956TSN,1955,American Association,B01926,Grimsley,Ross,1,Charleston,,B22,grimsley
-1956TSN,1955,American Association,B01926,Grimsley,Ross,2,Omaha,,B10,grimsley
-1956TSN,1955,American Association,B01926,Grimsley,Ross,T,,,B32,grimsley
-1956TSN,1955,American Association,F21973,Grimsley,,1,Charleston,,p,grimsley
-1956TSN,1955,American Association,F21973,Grimsley,,2,Omaha,,p,grimsley
-1956TSN,1955,American Association,F21973,Grimsley,,T,,,p29,grimsley
-1956TSN,1955,American Association,P10137,Grimsley,,1,Charleston,,P20p,grimsley
-1956TSN,1955,American Association,P10137,Grimsley,,2,Omaha,,P9p,grimsley
-1956TSN,1955,American Association,P10137,Grimsley,,T,,,P29p,grimsley
-1956TSN,1955,American Association,B02361,Grote,Harold,0,Denver,,B7,grote
-1956TSN,1955,American Association,B02184,Gumpert,Randall,0,Charleston,,B20,gumpert
-1956TSN,1955,American Association,F21771,Gumpert,,0,Charleston,,p20,gumpert
-1956TSN,1955,American Association,P10679,Gumpert,,0,Charleston,,P20p,gumpert
-1956TSN,1955,American Association,B00442,Hamric,Odbert,0,St. Paul,,B129,hamric
-1956TSN,1955,American Association,F21059,Hamric,,0,St. Paul,,of126,hamric
-1956TSN,1955,American Association,B00544,Hanebrink,Harry,0,Toledo,,B118,hanebrink
-1956TSN,1955,American Association,F20474,Hanebrink,,0,Toledo,,3b77,hanebrink
-1956TSN,1955,American Association,F20810,Hanebrink,,0,Toledo,,of23,hanebrink
-1956TSN,1955,American Association,B00638,Harrell,William,0,Indianapolis,,B149,harrell
-1956TSN,1955,American Association,F20388,Harrell,,0,Indianapolis,,3b16,harrell
-1956TSN,1955,American Association,F20700,Harrell,,0,Indianapolis,,ss109,harrell
-1956TSN,1955,American Association,F21117,Harrell,,0,Indianapolis,,of32,harrell
-1956TSN,1955,American Association,B00335,Harris,B. Gail,0,Minneapolis,,B44,harris-min
-1956TSN,1955,American Association,B01288,Harris,James,0,Charleston,,B12,harris-cha
-1956TSN,1955,American Association,F20038,Harris,,0,Minneapolis,,1b44,harris-min
-1956TSN,1955,American Association,B02441,Harshbarger,Glenn,0,Indianapolis,,B7,harshbarger
-1956TSN,1955,American Association,P11051,Harshbarger,,0,Indianapolis,,P7p,harshbarger
-1956TSN,1955,American Association,B02253,Hartley,Arthur,0,Charleston,,B4,hartley
-1956TSN,1955,American Association,P10917,Hartley,,0,Charleston,,P3p,hartley
-1956TSN,1955,American Association,B00887,Hartsfield,Roy,0,St. Paul,,B145,hartsfield
-1956TSN,1955,American Association,F20287,Hartsfield,,0,St. Paul,,2b142,hartsfield
-1956TSN,1955,American Association,B02266,Haugstad,Philip,0,Charleston,,B5,haugstad
-1956TSN,1955,American Association,P10925,Haugstad,,0,Charleston,,P5p,haugstad
-1956TSN,1955,American Association,B01994,Heard,Jehosie,0,Charleston,,B21,heard
-1956TSN,1955,American Association,F22238,Heard,,0,Charleston,,p21,heard
-1956TSN,1955,American Association,P10723,Heard,,0,Charleston,,P21p,heard
-1956TSN,1955,American Association,B00854,Held,Woodson,0,Denver,,B147,held
-1956TSN,1955,American Association,F20594,Held,,0,Denver,,3b18,held
-1956TSN,1955,American Association,F20745,Held,,0,Denver,,ss132,held
-1956TSN,1955,American Association,B02503,Herrin,Thomas,0,Louisville,,B2,herrin
-1956TSN,1955,American Association,P11072,Herrin,,0,Louisville,,P2p,herrin
-1956TSN,1955,American Association,B00450,Herzog,Dorrell,0,Denver,,B149,herzog
-1956TSN,1955,American Association,F20864,Herzog,,0,Denver,,of148,herzog
-1956TSN,1955,American Association,B02277,Hobbie,Glen,0,Charleston,,B5,hobbie
-1956TSN,1955,American Association,P10930,Hobbie,,0,Charleston,,P5p,hobbie
-1956TSN,1955,American Association,B02168,Hogue,Robert,0,Minneapolis,,B18,hogue
-1956TSN,1955,American Association,F22223,Hogue,,0,Minneapolis,,p18,hogue
-1956TSN,1955,American Association,P10542,Hogue,,0,Minneapolis,,P18p,hogue
-1956TSN,1955,American Association,B02516,Holmes,Ralph,0,Louisville,,B9,holmes
-1956TSN,1955,American Association,P11080,Holmes,,0,Louisville,,P9p,holmes
-1956TSN,1955,American Association,B01108,Holton,Edgar,0,Louisville,,B45,holton
-1956TSN,1955,American Association,F21343,Holton,,0,Louisville,,c29,holton
-1956TSN,1955,American Association,B01490,Hooper,Robert,0,Indianapolis,,B43,hooper
-1956TSN,1955,American Association,F22386,Hooper,,0,Indianapolis,,p43,hooper
-1956TSN,1955,American Association,P10455,Hooper,,0,Indianapolis,,P43p,hooper
-1956TSN,1955,American Association,B02145,Hoover,Richard,0,Toledo,,B35,hoover
-1956TSN,1955,American Association,F21695,Hoover,,0,Toledo,,p35,hoover
-1956TSN,1955,American Association,P10290,Hoover,,0,Toledo,,P35p,hoover
-1956TSN,1955,American Association,B01269,Hoskins,David,0,Indianapolis,,B74,hoskins
-1956TSN,1955,American Association,F21278,Hoskins,,0,Indianapolis,,of11,hoskins
-1956TSN,1955,American Association,F21840,Hoskins,,0,Indianapolis,,p37,hoskins
-1956TSN,1955,American Association,P10244,Hoskins,,0,Indianapolis,,P37p,hoskins
-1956TSN,1955,American Association,B01722,Houk,Ralph,0,Denver,,B15,houk
-1956TSN,1955,American Association,F21544,Houk,,0,Denver,,c10,houk
-1956TSN,1955,American Association,M90039,Houk,Ralph,,Denver,,,houk
-emilbb,1955,American Association,M90039,Houk,Ralph,,Denver,,,houk
-1956TSN,1955,American Association,B02698,Hribar,Louis,0,St. Paul,,B3,hribar
-1956TSN,1955,American Association,P11177,Hribar,,0,St. Paul,,P3p,hribar
-1956TSN,1955,American Association,B02709,Hughes,James,0,St. Paul,,B9,hughes
-1956TSN,1955,American Association,P11189,Hughes,,0,St. Paul,,P9p,hughes
-1956TSN,1955,American Association,B00158,Hunter,G. William,0,Denver,,B13,hunter
-1956TSN,1955,American Association,F20620,Hunter,,0,Denver,,ss12,hunter
-1956TSN,1955,American Association,B00491,Hutson,Eulas,0,St. Paul,,B107,hutson
-1956TSN,1955,American Association,F20924,Hutson,,0,St. Paul,,of98,hutson
-1956TSN,1955,American Association,B01384,Ibanez,Amado,1,Minneapolis,,B17,ibanez
-1956TSN,1955,American Association,B01384,Ibanez,Amado,2,Charleston,,B17,ibanez
-1956TSN,1955,American Association,B01384,Ibanez,Amado,T,,,B34,ibanez
-1956TSN,1955,American Association,F20713,Ibanez,,1,Minneapolis,,ss,ibanez
-1956TSN,1955,American Association,F20713,Ibanez,,2,Charleston,,ss,ibanez
-1956TSN,1955,American Association,F20713,Ibanez,,T,,,ss14,ibanez
-1956TSN,1955,American Association,B02527,Irons,Edward,0,Louisville,,B5,irons
-1956TSN,1955,American Association,B00059,Irvin,Monford,0,Minneapolis,,B75,irvin
-1956TSN,1955,American Association,F21130,Irvin,,0,Minneapolis,,of73,irvin
-1956TSN,1955,American Association,B01216,Jacobs,Gerald,0,Charleston,,B33,jacobs
-1956TSN,1955,American Association,F20316,Jacobs,,0,Charleston,,2b32,jacobs
-1956TSN,1955,American Association,B02455,Jadwin,James,0,Indianapolis,,B4,jadwin
-1956TSN,1955,American Association,B02035,Jay,Joseph,0,Toledo,,B14,jay
-1956TSN,1955,American Association,F21680,Jay,,0,Toledo,,p14,jay
-1956TSN,1955,American Association,P10348,Jay,,0,Toledo,,P14p,jay
-1956TSN,1955,American Association,B02534,Jenkins,Robert,0,Louisville,,B7,jenkins
-1956TSN,1955,American Association,B00319,Johnson,Darrell,0,Denver,,B152,johnson-den
-1956TSN,1955,American Association,B02795,Johnson,Benjamin,0,Toledo,,B3,johnson-tol
-1956TSN,1955,American Association,F21416,Johnson,,0,Denver,,c152,johnson-den
-1956TSN,1955,American Association,P11254,Johnson,,0,Toledo,,P3p,johnson-tol
-1956TSN,1955,American Association,B00469,Johnston,Leonard,0,Charleston,,B104,johnston
-1956TSN,1955,American Association,F20981,Johnston,,0,Charleston,,of104,johnston
-1956TSN,1955,American Association,B01983,Jones,Gordon,0,Omaha,,B13,jones-oma
-1956TSN,1955,American Association,B02159,Jones,Jack,0,Charleston,,B22,jones-cha
-1956TSN,1955,American Association,F21672,Jones,,0,Omaha,,p13,jones-oma
-1956TSN,1955,American Association,F22393,Jones,,0,Charleston,,p22,jones-cha
-1956TSN,1955,American Association,P10550,Jones,,0,Omaha,,P13p,jones-oma
-1956TSN,1955,American Association,P10633,Jones,,0,Charleston,,P22p,jones-cha
-1956TSN,1955,American Association,M90026,Keane,John,,Omaha,,,keane
-emilbb,1955,American Association,M90026,Keane,Johnny,,Omaha,,,keane
-1956TSN,1955,American Association,B01754,Kemmerer,Russell,0,Louisville,,B28,kemmerer
-1956TSN,1955,American Association,F21833,Kemmerer,,0,Louisville,,p28,kemmerer
-1956TSN,1955,American Association,P10606,Kemmerer,,0,Louisville,,P28p,kemmerer
-1956TSN,1955,American Association,B00324,Keough,R. Martin,0,Louisville,,B151,keough
-1956TSN,1955,American Association,F20855,Keough,,0,Louisville,,of151,keough
-1956TSN,1955,American Association,B02622,Kirkland,Willie,0,Minneapolis,,B9,kirkland
-1956TSN,1955,American Association,B02373,Kite,James,0,Denver,,B5,kite
-1956TSN,1955,American Association,P11009,Kite,,0,Denver,,P5p,kite
-1956TSN,1955,American Association,B01078,Koenig,Fred,0,Omaha,,B32,koenig
-1956TSN,1955,American Association,F20153,Koenig,,0,Omaha,,1b12,koenig
-1956TSN,1955,American Association,F20832,Koenig,,0,Omaha,,of12,koenig
-1956TSN,1955,American Association,B00502,Kokos,Richard,0,Omaha,,B38,kokos
-1956TSN,1955,American Association,F20970,Kokos,,0,Omaha,,of35,kokos
-1956TSN,1955,American Association,B01971,Konikowski,Alexander,0,Minneapolis,,B38,konikowski
-1956TSN,1955,American Association,F22188,Konikowski,,0,Minneapolis,,p38,konikowski
-1956TSN,1955,American Association,P10228,Konikowski,,0,Minneapolis,,P38p,konikowski
-1956TSN,1955,American Association,B00515,Koshorek,Clement,0,Indianapolis,,B42,koshorek
-1956TSN,1955,American Association,F20699,Koshorek,,0,Indianapolis,,ss33,koshorek
-1956TSN,1955,American Association,B00912,Kraly,Steven,0,Denver,,B28,kraly
-1956TSN,1955,American Association,F21887,Kraly,,0,Denver,,p21,kraly
-1956TSN,1955,American Association,P10687,Kraly,,0,Denver,,P21p,kraly
-1956TSN,1955,American Association,B01595,Kropf,John,0,Charleston,,B62,kropf
-1956TSN,1955,American Association,F20886,Kropf,,0,Charleston,,of55,kropf
-1956TSN,1955,American Association,B02385,Kubek,Anthony,0,Denver,,B7,kubek
-1956TSN,1955,American Association,B01489,Kucab,John,0,Denver,,B45,kucab
-1956TSN,1955,American Association,F22341,Kucab,,0,Denver,,p45,kucab
-1956TSN,1955,American Association,P10320,Kucab,,0,Denver,,P45p,kucab
-1956TSN,1955,American Association,B02714,Kump,Ronald,0,St. Paul,,B6,kump
-1956TSN,1955,American Association,P11190,Kump,,0,St. Paul,,P5p,kump
-1956TSN,1955,American Association,B02289,Kwak,Karol,0,Charleston,,B4,kwak
-1956TSN,1955,American Association,B00898,Laguna,Theodore,0,Toledo,,B63,laguna
-1956TSN,1955,American Association,F21469,Laguna,,0,Toledo,,c51,laguna
-1956TSN,1955,American Association,B01055,Lammers,Walter,0,Omaha,,B130,lammers
-1956TSN,1955,American Association,F20482,Lammers,,0,Omaha,,3b75,lammers
-1956TSN,1955,American Association,F20768,Lammers,,0,Omaha,,ss49,lammers
-1956TSN,1955,American Association,B00356,Larker,Norman,0,St. Paul,,B144,larker
-1956TSN,1955,American Association,F20102,Larker,,0,St. Paul,,1b140,larker
-1956TSN,1955,American Association,B00196,Larsen,Donald,0,Denver,,B23,larsen
-1956TSN,1955,American Association,F21904,Larsen,,0,Denver,,p13,larsen
-1956TSN,1955,American Association,P10385,Larsen,,0,Denver,,P13p,larsen
-1956TSN,1955,American Association,B01861,Lee,Ronald,0,St. Paul,,B21,lee
-1956TSN,1955,American Association,F22272,Lee,,0,St. Paul,,p21,lee
-1956TSN,1955,American Association,P10751,Lee,,0,St. Paul,,P21p,lee
-1956TSN,1955,American Association,B00806,Lenhardt,Donald,0,Louisville,,B104,lenhardt
-1956TSN,1955,American Association,F21013,Lenhardt,,0,Louisville,,of87,lenhardt
-1956TSN,1955,American Association,B00577,Lennon,Robert,0,Minneapolis,,B114,lennon
-1956TSN,1955,American Association,F21045,Lennon,,0,Minneapolis,,of114,lennon
-1956TSN,1955,American Association,B00695,Leppert,Donald,0,Charleston,,B97,leppert
-1956TSN,1955,American Association,F20254,Leppert,,0,Charleston,,2b93,leppert
-1956TSN,1955,American Association,B02542,Limmer,Louis,0,Louisville,,B6,limmer
-1956TSN,1955,American Association,B02290,Lowe,Robert,0,Charleston,,B1,lowe
-1956TSN,1955,American Association,P10949,Lowe,,0,Charleston,,P1p,lowe
-1956TSN,1955,American Association,B01368,Luna,Guillermo,0,Omaha,,B30,luna
-1956TSN,1955,American Association,F22134,Luna,,0,Omaha,,p30,luna
-1956TSN,1955,American Association,P10714,Luna,,0,Omaha,,P30p,luna
-1956TSN,1955,American Association,B02723,Macon,Max,0,St. Paul,,B7,macon
-1956TSN,1955,American Association,M90060,Macon,Max,,St. Paul,,,macon
-emilbb,1955,American Association,M90060,Macon,Max,,St. Paul,,,macon
-1956TSN,1955,American Association,B00255,Malzone,Frank,0,Louisville,,B154,malzone
-1956TSN,1955,American Association,F20496,Malzone,,0,Louisville,,3b153,malzone
-1956TSN,1955,American Association,B00623,Mantilla,Felix,0,Toledo,,B115,mantilla
-1956TSN,1955,American Association,F20430,Mantilla,,0,Toledo,,3b12,mantilla
-1956TSN,1955,American Association,F20721,Mantilla,,0,Toledo,,ss88,mantilla
-1956TSN,1955,American Association,B01466,Margoneri,Joseph,0,Minneapolis,,B28,margoneri
-1956TSN,1955,American Association,F21590,Margoneri,,0,Minneapolis,,p26,margoneri
-1956TSN,1955,American Association,P10654,Margoneri,,0,Minneapolis,,P26p,margoneri
-1956TSN,1955,American Association,M90047,Marion,John (Red),,Louisville,,,marion
-emilbb,1955,American Association,M90047,Marion,"John ""Red""",,Louisville,,,marion
-1956TSN,1955,American Association,B01170,Marquez,Luis,0,Toledo,,B21,marquez
-1956TSN,1955,American Association,F20807,Marquez,,0,Toledo,,of19,marquez
-1956TSN,1955,American Association,B01291,Mattinson,Leslie,0,Indianapolis,,B66,mattinson
-1956TSN,1955,American Association,F20997,Mattinson,,0,Indianapolis,,of60,mattinson
-1956TSN,1955,American Association,B02399,McDonald,James,0,Denver,,B5,mcdonald
-1956TSN,1955,American Association,P11014,McDonald,,0,Denver,,P5p,mcdonald
-1956TSN,1955,American Association,B02097,McMahon,Donald,0,Toledo,,B42,mcmahon
-1956TSN,1955,American Association,F21936,McMahon,,0,Toledo,,p42,mcmahon
-1956TSN,1955,American Association,P10622,McMahon,,0,Toledo,,P42p,mcmahon
-1956TSN,1955,American Association,B00973,Meeks,Samuel,0,Toledo,,B121,meeks
-1956TSN,1955,American Association,F20401,Meeks,,0,Toledo,,3b48,meeks
-1956TSN,1955,American Association,F20636,Meeks,,0,Toledo,,ss70,meeks
-1956TSN,1955,American Association,B01873,Melliere,Floyd,1,Charleston,,B24,melliere
-1956TSN,1955,American Association,B01873,Melliere,Floyd,2,Minneapolis,,B15,melliere
-1956TSN,1955,American Association,B01873,Melliere,Floyd,T,,,B39,melliere
-1956TSN,1955,American Association,F22004,Melliere,,1,Charleston,,p,melliere
-1956TSN,1955,American Association,F22004,Melliere,,2,Minneapolis,,p,melliere
-1956TSN,1955,American Association,F22004,Melliere,,T,,,p38,melliere
-1956TSN,1955,American Association,P10253,Melliere,,1,Charleston,,P23p,melliere
-1956TSN,1955,American Association,P10253,Melliere,,2,Minneapolis,,P15p,melliere
-1956TSN,1955,American Association,P10253,Melliere,,T,,,P38p,melliere
-1956TSN,1955,American Association,B02464,Mesa,Richard,0,Indianapolis,,B7,mesa
-1956TSN,1955,American Association,P11067,Mesa,,0,Indianapolis,,P6p,mesa
-1956TSN,1955,American Association,B01848,Miller,Stuart,0,Omaha,,B41,miller
-1956TSN,1955,American Association,F22099,Miller,,0,Omaha,,p39,miller
-1956TSN,1955,American Association,P10035,Miller,,0,Omaha,,P39p,miller
-1956TSN,1955,American Association,B02304,Moisan,William,0,Charleston,,B7,moisan
-1956TSN,1955,American Association,P10958,Moisan,,0,Charleston,,P6p,moisan
-1956TSN,1955,American Association,B01119,Montemayor,Felipe,0,Charleston,,B30,montemayor
-1956TSN,1955,American Association,F20956,Montemayor,,0,Charleston,,of27,montemayor
-1956TSN,1955,American Association,B01918,Monzant,Ramon,0,Minneapolis,,B16,monzant
-1956TSN,1955,American Association,F21651,Monzant,,0,Minneapolis,,p12,monzant
-1956TSN,1955,American Association,P10361,Monzant,,0,Minneapolis,,P12p,monzant
-1956TSN,1955,American Association,B01804,Moore,Edward,0,St. Paul,,B26,moore
-1956TSN,1955,American Association,F21068,Moore,,0,St. Paul,,of21,moore
-1956TSN,1955,American Association,B01041,Moryn,Walter,0,St. Paul,,B148,moryn
-1956TSN,1955,American Association,F21229,Moryn,,0,St. Paul,,of143,moryn
-1956TSN,1955,American Association,B00718,Mozzali,Maurice,0,Omaha,,B117,mozzali
-1956TSN,1955,American Association,F20023,Mozzali,,0,Omaha,,1b55,mozzali
-1956TSN,1955,American Association,F20792,Mozzali,,0,Omaha,,of34,mozzali
-1956TSN,1955,American Association,B02633,Mueller,Raymond,0,Minneapolis,,B3,mueller
-1956TSN,1955,American Association,B01947,Murszewski,Marian,0,Indianapolis,,B41,murszewski
-1956TSN,1955,American Association,F22048,Murszewski,,0,Indianapolis,,p40,murszewski
-1956TSN,1955,American Association,P10113,Murszewski,,0,Indianapolis,,P40p,murszewski
-1956TSN,1955,American Association,M90083,Murtaugh,Daniel,,Charleston,,,murtaugh
-emilbb,1955,American Association,M90083,Murtaugh,Danny,,Charleston,,,murtaugh
-1956TSN,1955,American Association,B02312,Myers,Loren,0,Charleston,,B9,myers
-1956TSN,1955,American Association,P10963,Myers,,0,Charleston,,P9p,myers
-1956TSN,1955,American Association,B02738,Naylor,Earl,0,St. Paul,,B5,naylor
-1956TSN,1955,American Association,B01135,Negray,Ronald,0,St. Paul,,B11,negray
-1956TSN,1955,American Association,P11206,Negray,,0,St. Paul,,P9p,negray
-1956TSN,1955,American Association,B01546,Nicholas,Harry,0,Minneapolis,,B43,nicholas
-1956TSN,1955,American Association,F21609,Nicholas,,0,Minneapolis,,p39,nicholas
-1956TSN,1955,American Association,P10266,Nicholas,,0,Minneapolis,,P39p,nicholas
-1956TSN,1955,American Association,B00084,Northey,Ronald,1,Charleston,,B70,northey
-1956TSN,1955,American Association,B00084,Northey,Ronald,2,Minneapolis,,B28,northey
-1956TSN,1955,American Association,B00084,Northey,Ronald,T,,,B98,northey
-1956TSN,1955,American Association,F21264,Northey,,1,Charleston,,of,northey
-1956TSN,1955,American Association,F21264,Northey,,2,Minneapolis,,of,northey
-1956TSN,1955,American Association,F21264,Northey,,T,,,of71,northey
-1956TSN,1955,American Association,B01029,Olivo,Federico,0,Toledo,,B17,olivo
-1956TSN,1955,American Association,F21794,Olivo,,0,Toledo,,p16,olivo
-1956TSN,1955,American Association,P10818,Olivo,,0,Toledo,,P16p,olivo
-1956TSN,1955,American Association,B00241,Olsen,Lyle,0,St. Paul,,B93,olsen-stp
-1956TSN,1955,American Association,B02202,Olsen,Albert,0,Minneapolis,,B11,olsen-min
-1956TSN,1955,American Association,F20449,Olsen,,0,St. Paul,,3b79,olsen-stp
-1956TSN,1955,American Association,F22406,Olsen,,0,Minneapolis,,p11,olsen-min
-1956TSN,1955,American Association,P10847,Olsen,,0,Minneapolis,,P11p,olsen-min
-1956TSN,1955,American Association,B00794,Ortiz,Louis,0,Minneapolis,,B26,ortiz
-1956TSN,1955,American Association,F20369,Ortiz,,0,Minneapolis,,2b26,ortiz
-1956TSN,1955,American Association,B01203,Parsons,Charles,0,Denver,,B24,parsons
-1956TSN,1955,American Association,F22116,Parsons,,0,Denver,,p24,parsons
-1956TSN,1955,American Association,P10805,Parsons,,0,Denver,,P24p,parsons
-1956TSN,1955,American Association,B01733,Patrick,Hisel,0,Charleston,,B16,patrick
-1956TSN,1955,American Association,F21739,Patrick,,0,Charleston,,p16,patrick
-1956TSN,1955,American Association,P10839,Patrick,,0,Charleston,,P16p,patrick
-1956TSN,1955,American Association,B00771,Pawloski,Stanley,0,Indianapolis,,B140,pawloski
-1956TSN,1955,American Association,F20298,Pawloski,,0,Indianapolis,,2b103,pawloski
-1956TSN,1955,American Association,F20571,Pawloski,,0,Indianapolis,,3b32,pawloski
-1956TSN,1955,American Association,B01899,Pearce,James,0,Omaha,,B28,pearce
-1956TSN,1955,American Association,F22175,Pearce,,0,Omaha,,p28,pearce
-1956TSN,1955,American Association,P10056,Pearce,,0,Omaha,,P28p,pearce
-1956TSN,1955,American Association,B00207,Peete,Charles,0,Omaha,,B99,peete
-1956TSN,1955,American Association,F21207,Peete,,0,Omaha,,of88,peete
-1956TSN,1955,American Association,B00680,Pendleton,James,0,Toledo,,B95,pendleton
-1956TSN,1955,American Association,F21000,Pendleton,,0,Toledo,,of95,pendleton
-1956TSN,1955,American Association,B00092,Pesky,John,0,Denver,,B66,pesky
-1956TSN,1955,American Association,F20583,Pesky,,0,Denver,,3b30,pesky
-1956TSN,1955,American Association,B01242,Phillips,H. Edward,0,Omaha,,B133,phillips
-1956TSN,1955,American Association,F20919,Phillips,,0,Omaha,,of121,phillips
-1956TSN,1955,American Association,B00125,Pless,Rance,0,Minneapolis,,B156,pless
-1956TSN,1955,American Association,F20051,Pless,,0,Minneapolis,,1b25,pless
-1956TSN,1955,American Association,F20417,Pless,,0,Minneapolis,,3b132,pless
-1956TSN,1955,American Association,B00343,Plews,Herbert,0,Denver,,B140,plews
-1956TSN,1955,American Association,F20350,Plews,,0,Denver,,2b43,plews
-1956TSN,1955,American Association,F20539,Plews,,0,Denver,,3b86,plews
-1956TSN,1955,American Association,B01674,Powell,William,0,Charleston,,B28,powell
-1956TSN,1955,American Association,F22364,Powell,,0,Charleston,,p26,powell
-1956TSN,1955,American Association,P10665,Powell,,0,Charleston,,P26p,powell
-1956TSN,1955,American Association,B02478,Prentice,Robert,0,Indianapolis,,B6,prentice
-1956TSN,1955,American Association,B01509,Presko,Joseph,0,Omaha,,B43,presko
-1956TSN,1955,American Association,F22267,Presko,,0,Omaha,,p42,presko
-1956TSN,1955,American Association,P10192,Presko,,0,Omaha,,P42p,presko
-1956TSN,1955,American Association,B00985,Queen,William,0,Toledo,,B106,queen
-1956TSN,1955,American Association,F21450,Queen,,0,Toledo,,c97,queen
-1956TSN,1955,American Association,B01227,Raines,Lawrence,0,Indianapolis,,B17,raines
-1956TSN,1955,American Association,B00948,Rand,Richard,0,Omaha,,B115,rand
-1956TSN,1955,American Association,F21356,Rand,,0,Omaha,,c108,rand
-1956TSN,1955,American Association,B01156,Rapp,Vernon,0,Charleston,,B70,rapp
-1956TSN,1955,American Association,F21502,Rapp,,0,Charleston,,c44,rapp
-1956TSN,1955,American Association,M90094,Rapp,Vernon,,Charleston,19550716/,,rapp
-emilbb,1955,American Association,M90094,Rapp,Vern,,Charleston,,,rapp
-1956TSN,1955,American Association,B00308,Reed,William,0,Toledo,,B75,reed
-1956TSN,1955,American Association,F20547,Reed,,0,Toledo,,3b39,reed
-1956TSN,1955,American Association,B01706,Reeder,Dennis,0,Charleston,,B54,reeder
-1956TSN,1955,American Association,F21957,Reeder,,0,Charleston,,p46,reeder
-1956TSN,1955,American Association,P10184,Reeder,,0,Charleston,,P46p,reeder
-1956TSN,1955,American Association,B00229,Regalado,Rudolph,0,Indianapolis,,B139,regalado
-1956TSN,1955,American Association,F20526,Regalado,,0,Indianapolis,,3b108,regalado
-1956TSN,1955,American Association,F21174,Regalado,,0,Indianapolis,,of27,regalado
-1956TSN,1955,American Association,B01402,Richards,Fred,1,Charleston,,B31,richards
-1956TSN,1955,American Association,B01402,Richards,Fred,2,Minneapolis,,B48,richards
-1956TSN,1955,American Association,B01402,Richards,Fred,T,,,B79,richards
-1956TSN,1955,American Association,F20014,Richards,,1,Charleston,,1b,richards
-1956TSN,1955,American Association,F20014,Richards,,2,Minneapolis,,1b,richards
-1956TSN,1955,American Association,F20014,Richards,,T,,,1b37,richards
-1956TSN,1955,American Association,F20829,Richards,,1,Charleston,,of,richards
-1956TSN,1955,American Association,F20829,Richards,,2,Minneapolis,,of,richards
-1956TSN,1955,American Association,F20829,Richards,,T,,,of17,richards
-1956TSN,1955,American Association,B00416,Richardson,Robert,0,Denver,,B119,richardson
-1956TSN,1955,American Association,F20265,Richardson,,0,Denver,,2b113,richardson
-1956TSN,1955,American Association,B01124,Riggan,Percy,0,Omaha,,B77,riggan
-1956TSN,1955,American Association,F21434,Riggan,,0,Omaha,,c65,riggan
-1956TSN,1955,American Association,B01617,Rigney,William,0,Minneapolis,,B12,rigney
-1956TSN,1955,American Association,M90018,Rigney,William,,Minneapolis,,,rigney
-emilbb,1955,American Association,M90018,Rigney,Bill,,Minneapolis,,,rigney
-1956TSN,1955,American Association,B00021,Ring,Eugene,0,Indianapolis,,B16,ring
-1956TSN,1955,American Association,B02805,Rippelmeyer,Ray,0,Toledo,,B1,rippelmeyer
-1956TSN,1955,American Association,P11265,Rippelmeyer,,0,Toledo,,P1p,rippelmeyer
-1956TSN,1955,American Association,B02024,Robinson,Humberto,0,Toledo,,B30,robinson
-1956TSN,1955,American Association,F21566,Robinson,,0,Toledo,,p30,robinson
-1956TSN,1955,American Association,P10304,Robinson,,0,Toledo,,P30p,robinson
-1956TSN,1955,American Association,B00475,Rodemoyer,Howard,0,Indianapolis,,B39,rodemoyer
-1956TSN,1955,American Association,F21553,Rodemoyer,,0,Indianapolis,,p34,rodemoyer
-1956TSN,1955,American Association,P10159,Rodemoyer,,0,Indianapolis,,P34p,rodemoyer
-1956TSN,1955,American Association,B01093,Rodin,Eric,0,Minneapolis,,B42,rodin
-1956TSN,1955,American Association,F21037,Rodin,,0,Minneapolis,,of38,rodin
-1956TSN,1955,American Association,B01313,Rojek,Stanley,0,St. Paul,,B71,rojek
-1956TSN,1955,American Association,F20279,Rojek,,0,St. Paul,,2b19,rojek
-1956TSN,1955,American Association,B02407,Russell,James,0,Denver,,B9,russell
-1956TSN,1955,American Association,P11023,Russell,,0,Denver,,P9p,russell
-1956TSN,1955,American Association,B01523,Rutherford,John,0,St. Paul,,B29,rutherford
-1956TSN,1955,American Association,F21999,Rutherford,,0,St. Paul,,p29,rutherford
-1956TSN,1955,American Association,P10231,Rutherford,,0,St. Paul,,P29p,rutherford
-1956TSN,1955,American Association,B01321,Santiago,Jose,0,Indianapolis,,B25,santiago
-1956TSN,1955,American Association,F21718,Santiago,,0,Indianapolis,,p25,santiago
-1956TSN,1955,American Association,P10432,Santiago,,0,Indianapolis,,P25p,santiago
-1956TSN,1955,American Association,B01567,Savransky,Morris,0,Charleston,,B36,savransky
-1956TSN,1955,American Association,F22142,Savransky,,0,Charleston,,p31,savransky
-1956TSN,1955,American Association,P10738,Savransky,,0,Charleston,,P31p,savransky
-1956TSN,1955,American Association,B00760,Sawatski,Carl,0,Minneapolis,,B142,sawatski
-1956TSN,1955,American Association,F21397,Sawatski,,0,Minneapolis,,c141,sawatski
-1956TSN,1955,American Association,B00182,Schell,C. Daniel,0,Omaha,,B131,schell
-1956TSN,1955,American Association,F21163,Schell,,0,Omaha,,of124,schell
-1956TSN,1955,American Association,B01601,Schmidt,Willard,0,Omaha,,B21,schmidt
-1956TSN,1955,American Association,F21898,Schmidt,,0,Omaha,,p21,schmidt
-1956TSN,1955,American Association,P10019,Schmidt,,0,Omaha,,P21p,schmidt
-1956TSN,1955,American Association,B00672,Schofield,J. Richard,0,Omaha,,B107,schofield
-1956TSN,1955,American Association,F20661,Schofield,,0,Omaha,,ss107,schofield
-1956TSN,1955,American Association,B01625,Schroll,Albert,0,Louisville,,B31,schroll
-1956TSN,1955,American Association,F22246,Schroll,,0,Louisville,,p31,schroll
-1956TSN,1955,American Association,P10399,Schroll,,0,Louisville,,P31p,schroll
-1956TSN,1955,American Association,M90052,Selkirk,George,,Toledo,,,selkirk
-emilbb,1955,American Association,M90052,Selkirk,George,,Toledo,,,selkirk
-1956TSN,1955,American Association,B00434,Sharman,William,0,St. Paul,,B133,sharman
-1956TSN,1955,American Association,F20552,Sharman,,0,St. Paul,,3b50,sharman
-1956TSN,1955,American Association,F20776,Sharman,,0,St. Paul,,of73,sharman
-1956TSN,1955,American Association,B00076,Skizas,Louis,0,Denver,,B112,skizas
-1956TSN,1955,American Association,F20908,Skizas,,0,Denver,,of96,skizas
-1956TSN,1955,American Association,B01010,Slack,William,0,Louisville,,B24,slack
-1956TSN,1955,American Association,F21752,Slack,,0,Louisville,,p24,slack
-1956TSN,1955,American Association,P10478,Slack,,0,Louisville,,P24p,slack
-1956TSN,1955,American Association,B00013,Sleater,Louis,0,Toledo,,B10,sleater
-1956TSN,1955,American Association,P11279,Sleater,,0,Toledo,,P9p,sleater
-1956TSN,1955,American Association,B00822,Smith,Forest,1,Denver,,B9,smith-den+cha
-1956TSN,1955,American Association,B00822,Smith,Forest,2,Charleston,,B126,smith-den+cha
-1956TSN,1955,American Association,B00822,Smith,Forest,T,,,B135,smith-den+cha
-1956TSN,1955,American Association,B01812,Smith,Robert G.,0,Louisville,,B23,smith.rg-lou
-1956TSN,1955,American Association,B01939,Smith,Robert W.,0,Louisville,,B42,smith.rw-lou
-1956TSN,1955,American Association,F20505,Smith,,1,Denver,,3b,smith-den+cha
-1956TSN,1955,American Association,F20505,Smith,,2,Charleston,,3b,smith-den+cha
-1956TSN,1955,American Association,F20505,Smith,,T,,,3b129,smith-den+cha
-1956TSN,1955,American Association,F21865,Smith,R. G.,0,Louisville,,p23,smith.rg-lou
-1956TSN,1955,American Association,F22061,Smith,R. W.,0,Louisville,,p42,smith.rw-lou
-1956TSN,1955,American Association,P10312,Smith,R. G.,0,Louisville,,P23p,smith.rg-lou
-1956TSN,1955,American Association,P10464,Smith,R. W.,0,Louisville,,P42p,smith.rw-lou
-1956TSN,1955,American Association,B00840,Spears,Jasper,0,St. Paul,,B154,spears
-1956TSN,1955,American Association,F20737,Spears,,0,St. Paul,,ss154,spears
-1956TSN,1955,American Association,B02043,Spencer,George,0,Omaha,,B47,spencer
-1956TSN,1955,American Association,F22036,Spencer,,0,Omaha,,p47,spencer
-1956TSN,1955,American Association,P10493,Spencer,,0,Omaha,,P47p,spencer
-1956TSN,1955,American Association,B01337,Stegemeier,Robert,0,Charleston,,B50,stegemeier
-1956TSN,1955,American Association,F20648,Stegemeier,,0,Charleston,,ss23,stegemeier
-1956TSN,1955,American Association,F21324,Stegemeier,,0,Charleston,,of10,stegemeier
-1956TSN,1955,American Association,B00210,Stendel,Marvin,0,Louisville,,B73,stendel
-1956TSN,1955,American Association,F21092,Stendel,,0,Louisville,,of62,stendel
-1956TSN,1955,American Association,B01032,Striker,Wilbur,0,Indianapolis,,B10,striker
-1956TSN,1955,American Association,F21783,Striker,,0,Indianapolis,,p10,striker
-1956TSN,1955,American Association,P10860,Striker,,0,Indianapolis,,P10p,striker
-1956TSN,1955,American Association,B02410,Stuart,Marlin,0,Denver,,B2,stuart
-1956TSN,1955,American Association,P11038,Stuart,,0,Denver,,P2p,stuart
-1956TSN,1955,American Association,B02746,Suarez,Armando,0,St. Paul,,B8,suarez
-1956TSN,1955,American Association,P11211,Suarez,,0,St. Paul,,P8p,suarez
-1956TSN,1955,American Association,B00920,Sullivan,Haywood,0,Louisville,,B128,sullivan
-1956TSN,1955,American Association,F20131,Sullivan,,0,Louisville,,1b40,sullivan
-1956TSN,1955,American Association,F21362,Sullivan,,0,Louisville,,c78,sullivan
-1956TSN,1955,American Association,B00726,Talbot,Robert,0,Toledo,,B34,talbot
-1956TSN,1955,American Association,F21308,Talbot,,0,Toledo,,of31,talbot
-1956TSN,1955,American Association,B00609,Tanner,Joseph,0,Louisville,,B130,tanner
-1956TSN,1955,American Association,F20342,Tanner,,0,Louisville,,2b121,tanner
-1956TSN,1955,American Association,B01572,Templeton,Charles,0,St. Paul,,B37,templeton
-1956TSN,1955,American Association,F21920,Templeton,,0,St. Paul,,p37,templeton
-1956TSN,1955,American Association,P10081,Templeton,,0,St. Paul,,P37p,templeton
-1956TSN,1955,American Association,B01415,Terry,Ralph,0,Denver,,B16,terry
-1956TSN,1955,American Association,F22057,Terry,,0,Denver,,p16,terry
-1956TSN,1955,American Association,P10698,Terry,,0,Denver,,P16p,terry
-1956TSN,1955,American Association,B00397,Terwilliger,Wayne,0,Minneapolis,,B72,terwilliger
-1956TSN,1955,American Association,F20240,Terwilliger,,0,Minneapolis,,2b70,terwilliger
-1956TSN,1955,American Association,B00278,Tettelbach,Richard,0,Denver,,B144,tettelbach
-1956TSN,1955,American Association,F21158,Tettelbach,,0,Denver,,of144,tettelbach
-1956TSN,1955,American Association,B01857,Thiel,M. Bert,0,Toledo,,B46,thiel
-1956TSN,1955,American Association,F21577,Thiel,,0,Toledo,,p46,thiel
-1956TSN,1955,American Association,P10527,Thiel,,0,Toledo,,P46p,thiel
-1956TSN,1955,American Association,B01064,Thomas,Gerald,0,Omaha,,B106,thomas-oma
-1956TSN,1955,American Association,B02550,Thomas,Jack,0,Louisville,,B6,thomas-lou
-1956TSN,1955,American Association,F20375,Thomas,,0,Omaha,,2b19,thomas-oma
-1956TSN,1955,American Association,F20612,Thomas,,0,Omaha,,3b57,thomas-oma
-1956TSN,1955,American Association,P11095,Thomas,,0,Louisville,,P6p,thomas-lou
-1956TSN,1955,American Association,B00232,Thompson,Charles,0,St. Paul,,B121,thompson-stp
-1956TSN,1955,American Association,B02818,Thompson,Glenn,0,Toledo,,B2,thompson-tol
-1956TSN,1955,American Association,F21475,Thompson,,0,St. Paul,,c110,thompson-stp
-1956TSN,1955,American Association,P11287,Thompson,,0,Toledo,,P2p,thompson-tol
-1956TSN,1955,American Association,B00614,Throneberry,Marvin,0,Denver,,B156,throneberry
-1956TSN,1955,American Association,F20072,Throneberry,,0,Denver,,1b156,throneberry
-1956TSN,1955,American Association,B01960,Tiefenauer,Robert,0,Omaha,,B33,tiefenauer
-1956TSN,1955,American Association,F21667,Tiefenauer,,0,Omaha,,p33,tiefenauer
-1956TSN,1955,American Association,P10336,Tiefenauer,,0,Omaha,,P33p,tiefenauer
-1956TSN,1955,American Association,B00879,Tomanek,Richard,0,Indianapolis,,B37,tomanek
-1956TSN,1955,American Association,F21589,Tomanek,,0,Indianapolis,,p29,tomanek
-1956TSN,1955,American Association,P10277,Tomanek,,0,Indianapolis,,P29p,tomanek
-1956TSN,1955,American Association,B01431,Torpey,Joseph,0,Charleston,,B131,torpey
-1956TSN,1955,American Association,F20206,Torpey,,0,Charleston,,2b13,torpey
-1956TSN,1955,American Association,F20463,Torpey,,0,Charleston,,3b23,torpey
-1956TSN,1955,American Association,F20673,Torpey,,0,Charleston,,ss88,torpey
-1956TSN,1955,American Association,B00163,Torre,Frank,0,Toledo,,B150,torre
-1956TSN,1955,American Association,F20067,Torre,,0,Toledo,,1b149,torre
-1956TSN,1955,American Association,B02062,Trowbridge,Robert,0,Toledo,,B29,trowbridge
-1956TSN,1955,American Association,F22280,Trowbridge,,0,Toledo,,p29,trowbridge
-1956TSN,1955,American Association,P10070,Trowbridge,,0,Toledo,,P29p,trowbridge
-1956TSN,1955,American Association,B01779,Urban,John,0,Denver,,B36,urban
-1956TSN,1955,American Association,F22012,Urban,,0,Denver,,p34,urban
-1956TSN,1955,American Association,P10168,Urban,,0,Denver,,P34p,urban
-1956TSN,1955,American Association,B01885,Valdes,Rene,0,St. Paul,,B50,valdes
-1956TSN,1955,American Association,F22332,Valdes,,0,St. Paul,,p49,valdes
-1956TSN,1955,American Association,P10410,Valdes,,0,St. Paul,,P49p,valdes
-1956TSN,1955,American Association,B01538,Valentinetti,Vito,0,Charleston,,B35,valentinetti
-1956TSN,1955,American Association,F22329,Valentinetti,,0,Charleston,,p35,valentinetti
-1956TSN,1955,American Association,P10176,Valentinetti,,0,Charleston,,P35p,valentinetti
-1956TSN,1955,American Association,B00174,Van Alstyne,Allen,0,Louisville,,B24,vanalstyne
-1956TSN,1955,American Association,F21286,Van Alstyne,,0,Louisville,,of20,vanalstyne
-1956TSN,1955,American Association,B00811,Vollmer,Clyde,0,Charleston,,B73,vollmer
-1956TSN,1955,American Association,F20935,Vollmer,,0,Charleston,,of64,vollmer
-1956TSN,1955,American Association,B00865,Wade,Galeard,0,Toledo,,B19,wade
-1956TSN,1955,American Association,F21319,Wade,,0,Toledo,,of19,wade
-1956TSN,1955,American Association,B02569,Wall,John,0,Louisville,,B8,wall
-1956TSN,1955,American Association,P11102,Wall,,0,Louisville,,P8p,wall
-1956TSN,1955,American Association,B02121,Waytula,Edward,0,Louisville,,B22,waytula
-1956TSN,1955,American Association,B00130,Whisenant,T. Peter,0,Toledo,,B49,whisenant
-1956TSN,1955,American Association,F20943,Whisenant,,0,Toledo,,of49,whisenant
-1956TSN,1955,American Association,B02176,Wilks,Theodore,0,Indianapolis,,B14,wilks
-1956TSN,1955,American Association,F22411,Wilks,,0,Indianapolis,,p14,wilks
-1956TSN,1955,American Association,P10575,Wilks,,0,Indianapolis,,P14p,wilks
-1956TSN,1955,American Association,B01765,Willey,Carlton,0,Toledo,,B27,willey
-1956TSN,1955,American Association,F22295,Willey,,0,Toledo,,p27,willey
-1956TSN,1955,American Association,P10407,Willey,,0,Toledo,,P27p,willey
-1956TSN,1955,American Association,B01836,Willis,James,0,Omaha,,B26,willis
-1956TSN,1955,American Association,F21912,Willis,,0,Omaha,,p26,willis
-1956TSN,1955,American Association,P10516,Willis,,0,Omaha,,P26p,willis
-1956TSN,1955,American Association,B00293,Wilson,George,0,Minneapolis,,B140,wilson-min
-1956TSN,1955,American Association,B01787,Wilson,Duane,0,Louisville,,B32,wilson-lou
-1956TSN,1955,American Association,F21241,Wilson,,0,Minneapolis,,of138,wilson-min
-1956TSN,1955,American Association,F22251,Wilson,,0,Louisville,,p31,wilson-lou
-1956TSN,1955,American Association,P10429,Wilson,,0,Louisville,,P31p,wilson-lou
-1956TSN,1955,American Association,B01086,Winkles,Robert,0,Charleston,,B44,winkles
-1956TSN,1955,American Association,F20685,Winkles,,0,Charleston,,ss40,winkles
-1956TSN,1955,American Association,B01345,Worthington,Allan,0,Minneapolis,,B38,worthington
-1956TSN,1955,American Association,F22307,Worthington,,0,Minneapolis,,p38,worthington
-1956TSN,1955,American Association,P10062,Worthington,,0,Minneapolis,,P38p,worthington
-1956TSN,1955,American Association,B00783,Yelen,Ernest,0,St. Paul,,B71,yelen
-1956TSN,1955,American Association,F21370,Yelen,,0,St. Paul,,c65,yelen
-1956TSN,1955,American Association,B00045,Young,Robert,0,Indianapolis,,B34,young
-1956TSN,1955,American Association,F20222,Young,,0,Indianapolis,,2b33,young
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+1956TSN,1955,American Association,adams,B01007,Adams,Herbert,0,Omaha,,B15
+1956TSN,1955,American Association,adams,F21210,Adams,,0,Omaha,,of12
+1956TSN,1955,American Association,aguirre,B02056,Aguirre,Henry,0,Indianapolis,,B33
+1956TSN,1955,American Association,aguirre,F22355,Aguirre,,0,Indianapolis,,p33
+1956TSN,1955,American Association,aguirre,P10043,Aguirre,,0,Indianapolis,,P33p
+1956TSN,1955,American Association,allen,B02751,Allen,William,0,Toledo,,B2
+1956TSN,1955,American Association,allen,P11222,Allen,,0,Toledo,,P2p
+1956TSN,1955,American Association,almenares,B02679,Almenares,Pedro,0,St. Paul,,B5
+1956TSN,1955,American Association,alston,B00646,Alston,Thomas,0,Omaha,,B117
+1956TSN,1955,American Association,alston,F20095,Alston,,0,Omaha,,1b92
+1956TSN,1955,American Association,alston,F20458,Alston,,0,Omaha,,3b20
+1956TSN,1955,American Association,altobelli,B00705,Altobelli,Joseph,0,Indianapolis,,B98
+1956TSN,1955,American Association,altobelli,F20115,Altobelli,,0,Indianapolis,,1b98
+1956TSN,1955,American Association,anthony,B01740,Anthony,O. Lee,0,Charleston,,B35
+1956TSN,1955,American Association,anthony,F22020,Anthony,,0,Charleston,,p35
+1956TSN,1955,American Association,anthony,P10569,Anthony,,0,Charleston,,P35p
+1956TSN,1955,American Association,antonello,B01181,Antonello,William,0,Charleston,,B56
+1956TSN,1955,American Association,antonello,F21149,Antonello,,0,Charleston,,of54
+1956TSN,1955,American Association,averill,B01162,Averill,Earl,0,Indianapolis,,B34
+1956TSN,1955,American Association,averill,F21531,Averill,,0,Indianapolis,,c15
+1956TSN,1955,American Association,baczewski,B01905,Baczewski,Fred,0,St. Paul,,B27
+1956TSN,1955,American Association,baczewski,F21646,Baczewski,,0,St. Paul,,p26
+1956TSN,1955,American Association,baczewski,P10780,Baczewski,,0,St. Paul,,P26p
+1956TSN,1955,American Association,baliga,B02113,Baliga,Joseph,0,St. Paul,,B33
+1956TSN,1955,American Association,baliga,F21948,Baliga,,0,St. Paul,,p22
+1956TSN,1955,American Association,baliga,P10795,Baliga,,0,St. Paul,,P22p
+1956TSN,1955,American Association,barnes,B02215,Barnes,Frank,0,Charleston,,B5
+1956TSN,1955,American Association,barnes,P10883,Barnes,,0,Charleston,,P4p
+1956TSN,1955,American Association,battey,B00739,Battey,Earl,0,Charleston,,B125
+1956TSN,1955,American Association,battey,F21528,Battey,,0,Charleston,,c116
+1956TSN,1955,American Association,batts,B01250,Batts,Matthew,0,Indianapolis,,B51
+1956TSN,1955,American Association,batts,F21381,Batts,,0,Indianapolis,,c44
+1956TSN,1955,American Association,benedict,B02320,Benedict,David,0,Denver,,B3
+1956TSN,1955,American Association,benedict,P10974,Benedict,,0,Denver,,P3p
+1956TSN,1955,American Association,bessent,B01580,Bessent,F. Donald,0,St. Paul,,B17
+1956TSN,1955,American Association,bessent,F21879,Bessent,,0,St. Paul,,p16
+1956TSN,1955,American Association,bessent,P10357,Bessent,,0,St. Paul,,P16p
+1956TSN,1955,American Association,bicknell,B01630,Bicknell,Charles,0,Toledo,,B51
+1956TSN,1955,American Association,bicknell,F21854,Bicknell,,0,Toledo,,p44
+1956TSN,1955,American Association,bicknell,P10534,Bicknell,,0,Toledo,,P44p
+1956TSN,1955,American Association,birkofer,B02228,Birkofer,Ralph,0,Charleston,,B8
+1956TSN,1955,American Association,birkofer,P10894,Birkofer,,0,Charleston,,P8p
+1956TSN,1955,American Association,biskup,B01300,Biskup,Frank,0,Indianapolis,,B37
+1956TSN,1955,American Association,biskup,F21442,Biskup,,0,Indianapolis,,c37
+1956TSN,1955,American Association,blanchard,B02336,Blanchard,John,0,Denver,,B4
+1956TSN,1955,American Association,blasingame,B00362,Blasingame,Don,0,Omaha,,B132
+1956TSN,1955,American Association,blasingame,F20303,Blasingame,,0,Omaha,,2b132
+1956TSN,1955,American Association,blaylock,B02008,Blaylock,Gary,0,Omaha,,B14
+1956TSN,1955,American Association,blaylock,F22310,Blaylock,,0,Omaha,,p14
+1956TSN,1955,American Association,blaylock,P10746,Blaylock,,0,Omaha,,P14p
+1956TSN,1955,American Association,blyzka,B01682,Blyzka,Michael,0,Denver,,B31
+1956TSN,1955,American Association,blyzka,F22214,Blyzka,,0,Denver,,p31
+1956TSN,1955,American Association,blyzka,P10611,Blyzka,,0,Denver,,P31p
+1956TSN,1955,American Association,boemler,B02231,Boemler,Willard,0,Charleston,,B4
+1956TSN,1955,American Association,boemler,P10901,Boemler,,0,Charleston,,P4p
+1956TSN,1955,American Association,boles,B02244,Boles,Howard,0,Charleston,,B9
+1956TSN,1955,American Association,bollweg,B00651,Bollweg,Donald,1,Indianapolis,,B26
+1956TSN,1955,American Association,bollweg,B00651,Bollweg,Donald,2,Minneapolis,,B51
+1956TSN,1955,American Association,bollweg,B00651,Bollweg,Donald,T,,,B77
+1956TSN,1955,American Association,bollweg,F20046,Bollweg,,1,Indianapolis,,1b
+1956TSN,1955,American Association,bollweg,F20046,Bollweg,,2,Minneapolis,,1b
+1956TSN,1955,American Association,bollweg,F20046,Bollweg,,T,,,1b77
+1956TSN,1955,American Association,borkowski,B00117,Borkowski,Robert,0,St. Paul,,B39
+1956TSN,1955,American Association,borkowski,F21232,Borkowski,,0,St. Paul,,of25
+1956TSN,1955,American Association,bracchitta,B00403,Bracchitta,Joseph,0,Minneapolis,,B106
+1956TSN,1955,American Association,bracchitta,F20189,Bracchitta,,0,Minneapolis,,1b14
+1956TSN,1955,American Association,bracchitta,F21021,Bracchitta,,0,Minneapolis,,of66
+1956TSN,1955,American Association,branca,B02137,Branca,Ralph,0,Minneapolis,,B25
+1956TSN,1955,American Association,branca,F22127,Branca,,0,Minneapolis,,p25
+1956TSN,1955,American Association,branca,P10852,Branca,,0,Minneapolis,,P25p
+1956TSN,1955,American Association,bratkowitz,B00747,Bratkowitz,Andrew,0,Toledo,,B16
+1956TSN,1955,American Association,bratkowitz,F22169,Bratkowitz,,0,Toledo,,p16
+1956TSN,1955,American Association,bratkowitz,P10772,Bratkowitz,,0,Toledo,,P16p
+1956TSN,1955,American Association,bressoud,B00999,Bressoud,Edward,0,Minneapolis,,B145
+1956TSN,1955,American Association,bressoud,F20657,Bressoud,,0,Minneapolis,,ss143
+1956TSN,1955,American Association,broome,B00566,Broome,Robert,0,Louisville,,B132
+1956TSN,1955,American Association,broome,F20878,Broome,,0,Louisville,,of131
+1956TSN,1955,American Association,buck,B01143,Buck,E. Joseph,0,Louisville,,B85
+1956TSN,1955,American Association,buck,F20080,Buck,,0,Louisville,,1b10
+1956TSN,1955,American Association,buck,F21491,Buck,,0,Louisville,,c60
+1956TSN,1955,American Association,buddin,B00427,Buddin,Donald,0,Louisville,,B154
+1956TSN,1955,American Association,buddin,F20759,Buddin,,0,Louisville,,ss154
+1956TSN,1955,American Association,burnette,B01658,Burnette,Wallace,0,Denver,,B33
+1956TSN,1955,American Association,burnette,F21811,Burnette,,0,Denver,,p33
+1956TSN,1955,American Association,burnette,P10215,Burnette,,0,Denver,,P33p
+1956TSN,1955,American Association,burris,B01663,Burris,Paul,0,Toledo,,B27
+1956TSN,1955,American Association,burris,F21488,Burris,,0,Toledo,,c23
+1956TSN,1955,American Association,byerly,B01197,Byerly,Eldred,0,Minneapolis,,B50
+1956TSN,1955,American Association,byerly,F21726,Byerly,,0,Minneapolis,,p50
+1956TSN,1955,American Association,byerly,P10373,Byerly,,0,Minneapolis,,P50p
+1956TSN,1955,American Association,caffie,B00904,Caffie,Joseph,0,Indianapolis,,B46
+1956TSN,1955,American Association,caffie,F20784,Caffie,,0,Indianapolis,,of32
+1956TSN,1955,American Association,carswell,B00068,Carswell,Frank,0,Omaha,,B107
+1956TSN,1955,American Association,carswell,F20962,Carswell,,0,Omaha,,of102
+1956TSN,1955,American Association,carter,B00961,Carter,Leon,0,Denver,,B25
+1956TSN,1955,American Association,carter,F20604,Carter,,0,Denver,,3b24
+1956TSN,1955,American Association,casagrande,B00149,Casagrande,Thomas,0,Louisville,,B53
+1956TSN,1955,American Association,casagrande,F20190,Casagrande,,0,Louisville,,1b13
+1956TSN,1955,American Association,casagrande,F21747,Casagrande,,0,Louisville,,p21
+1956TSN,1955,American Association,casagrande,P10588,Casagrande,,0,Louisville,,P21p
+1956TSN,1955,American Association,casale,B00590,Casale,Jerry,0,Louisville,,B35
+1956TSN,1955,American Association,casale,F22103,Casale,,0,Louisville,,p34
+1956TSN,1955,American Association,casale,P10024,Casale,,0,Louisville,,P34p
+1956TSN,1955,American Association,castleman,B00370,Castleman,Foster,0,Minneapolis,,B43
+1956TSN,1955,American Association,castleman,F20518,Castleman,,0,Minneapolis,,3b16
+1956TSN,1955,American Association,cave,B02767,Cave,Paul,0,Toledo,,B3
+1956TSN,1955,American Association,cave,P11233,Cave,,0,Toledo,,P3p
+1956TSN,1955,American Association,cereghino,B02348,Cereghino,Edward,0,Denver,,B4
+1956TSN,1955,American Association,cereghino,P10982,Cereghino,,0,Denver,,P4p
+1956TSN,1955,American Association,charvat,B00957,Charvat,John,0,Louisville,,B23
+1956TSN,1955,American Association,charvat,F20233,Charvat,,0,Louisville,,2b21
+1956TSN,1955,American Association,cheney,B02640,Cheney,Thomas,0,Omaha,,B1
+1956TSN,1955,American Association,cheney,P11131,Cheney,,0,Omaha,,P1p
+1956TSN,1955,American Association,chrisley,B02486,Chrisley,B. O'Neil,0,Louisville,,B6
+1956TSN,1955,American Association,cicotte,B02357,Cicotte,Alva,0,Denver,,B5
+1956TSN,1955,American Association,cicotte,P10996,Cicotte,,0,Denver,,P5p
+1956TSN,1955,American Association,clear,B01696,Clear,E. Robert,0,Omaha,,B34
+1956TSN,1955,American Association,clear,F21760,Clear,,0,Omaha,,p27
+1956TSN,1955,American Association,clear,P10486,Clear,,0,Omaha,,P27p
+1956TSN,1955,American Association,clevenger,B02019,Clevenger,Truman,0,Louisville,,B39
+1956TSN,1955,American Association,clevenger,F21822,Clevenger,,0,Louisville,,p39
+1956TSN,1955,American Association,clevenger,P10100,Clevenger,,0,Louisville,,P39p
+1956TSN,1955,American Association,cleverly,B02429,Cleverly,James,0,Indianapolis,,B7
+1956TSN,1955,American Association,colavito,B00752,Colavito,Rocco,0,Indianapolis,,B150
+1956TSN,1955,American Association,colavito,F21076,Colavito,,0,Indianapolis,,of149
+1956TSN,1955,American Association,cole,B00286,Cole,David,0,St. Paul,,B22
+1956TSN,1955,American Association,cole,F22378,Cole,,0,St. Paul,,p22
+1956TSN,1955,American Association,cole,P10826,Cole,,0,St. Paul,,P22p
+1956TSN,1955,American Association,coleman-den,B02081,Coleman,W. Gary,0,Denver,,B30
+1956TSN,1955,American Association,coleman-ind,B02432,Coleman,Gordon,0,Indianapolis,,B4
+1956TSN,1955,American Association,coleman-den,F22209,Coleman,,0,Denver,,p30
+1956TSN,1955,American Association,coleman-den,P10097,Coleman,,0,Denver,,P30p
+1956TSN,1955,American Association,condrick,B02654,Condrick,George,0,Omaha,,B2
+1956TSN,1955,American Association,condrick,P11144,Condrick,,0,Omaha,,P2p
+1956TSN,1955,American Association,constable,B01649,Constable,James,0,Minneapolis,,B48
+1956TSN,1955,American Association,constable,F22191,Constable,,0,Minneapolis,,p45
+1956TSN,1955,American Association,constable,P10202,Constable,,0,Minneapolis,,P45p
+1956TSN,1955,American Association,corwin,B01428,Corwin,Elmer,0,Minneapolis,,B47
+1956TSN,1955,American Association,corwin,F22073,Corwin,,0,Minneapolis,,p30
+1956TSN,1955,American Association,corwin,P10709,Corwin,,0,Minneapolis,,P30p
+1956TSN,1955,American Association,cosmidis,B02575,Cosmidis,Alexander,0,Minneapolis,,B3
+1956TSN,1955,American Association,covington,B02772,Covington,J. Wesley,0,Toledo,,B3
+1956TSN,1955,American Association,crone,B02780,Crone,Raymond,0,Toledo,,B4
+1956TSN,1955,American Association,crone,P11240,Crone,,0,Toledo,,P4p
+1956TSN,1955,American Association,curtis,B01477,Curtis,Alphens,0,Louisville,,B39
+1956TSN,1955,American Association,curtis,F21623,Curtis,,0,Louisville,,p27
+1956TSN,1955,American Association,curtis,P10121,Curtis,,0,Louisville,,P27p
+1956TSN,1955,American Association,dabek,B01392,Dabek,Raymond,0,Minneapolis,,B52
+1956TSN,1955,American Association,dabek,F21403,Dabek,,0,Minneapolis,,c48
+1956TSN,1955,American Association,daley,B01444,Daley,J. Gilbert,0,Omaha,,B15
+1956TSN,1955,American Association,daley,F21335,Daley,,0,Omaha,,of11
+1956TSN,1955,American Association,daniels,B00936,Daniels,H. Jack,0,Toledo,,B118
+1956TSN,1955,American Association,daniels,F20841,Daniels,,0,Toledo,,of109
+1956TSN,1955,American Association,darden,B01275,Darden,William,0,St. Paul,,B44
+1956TSN,1955,American Association,darden,F22150,Darden,,0,St. Paul,,p42
+1956TSN,1955,American Association,darden,P10591,Darden,,0,St. Paul,,P42p
+1956TSN,1955,American Association,darnell,B00528,Darnell,Robert,0,St. Paul,,B45
+1956TSN,1955,American Association,darnell,F21985,Darnell,,0,St. Paul,,p31
+1956TSN,1955,American Association,darnell,P10289,Darnell,,0,St. Paul,,P31p
+1956TSN,1955,American Association,davidson,B01453,Davidson,Billy Joe,0,Indianapolis,,B49
+1956TSN,1955,American Association,davidson,F22085,Davidson,,0,Indianapolis,,p49
+1956TSN,1955,American Association,davidson,P10640,Davidson,,0,Indianapolis,,P49p
+1956TSN,1955,American Association,davis,B01514,Davis,Willard,0,St. Paul,,B35
+1956TSN,1955,American Association,davis,F20560,Davis,,0,St. Paul,,3b25
+1956TSN,1955,American Association,dewitt,B02687,DeWitt,Clyde,0,St. Paul,,B4
+1956TSN,1955,American Association,dewitt,P11166,DeWitt,,0,St. Paul,,P4p
+1956TSN,1955,American Association,derucki,B01359,Derucki,Walter,0,Omaha,,B24
+1956TSN,1955,American Association,derucki,F20391,Derucki,,0,Omaha,,3b16
+1956TSN,1955,American Association,dickens,B00667,Dickens,Guilford,1,Minneapolis,,B62
+1956TSN,1955,American Association,dickens,B00667,Dickens,Guilford,2,Charleston,,B56
+1956TSN,1955,American Association,dickens,B00667,Dickens,Guilford,T,,,B118
+1956TSN,1955,American Association,dickens,F20144,Dickens,,1,Minneapolis,,1b
+1956TSN,1955,American Association,dickens,F20144,Dickens,,2,Charleston,,1b
+1956TSN,1955,American Association,dickens,F20144,Dickens,,T,,,1b18
+1956TSN,1955,American Association,dickens,F21101,Dickens,,1,Minneapolis,,of
+1956TSN,1955,American Association,dickens,F21101,Dickens,,2,Charleston,,of
+1956TSN,1955,American Association,dickens,F21101,Dickens,,T,,,of94
+1956TSN,1955,American Association,dixon,B02070,Dixon,John,0,Denver,,B18
+1956TSN,1955,American Association,dixon,F21705,Dixon,,0,Denver,,p18
+1956TSN,1955,American Association,dixon,P10441,Dixon,,0,Denver,,P18p
+1956TSN,1955,American Association,donnelly,B02665,Donnelly,Edward,0,Omaha,,B2
+1956TSN,1955,American Association,donnelly,P11153,Donnelly,,0,Omaha,,P2p
+1956TSN,1955,American Association,dyck,B00037,Dyck,James,0,Indianapolis,,B78
+1956TSN,1955,American Association,dyck,F21182,Dyck,,0,Indianapolis,,of69
+1956TSN,1955,American Association,easter,B00531,Easter,Luscious,0,Charleston,,B144
+1956TSN,1955,American Association,easter,F20166,Easter,,0,Charleston,,1b138
+1956TSN,1955,American Association,evans,B02192,Evans,William,0,Charleston,,B12
+1956TSN,1955,American Association,evans,F21806,Evans,,0,Charleston,,p12
+1956TSN,1955,American Association,evans,P10871,Evans,,0,Charleston,,P12p
+emilbb,1955,American Association,ferrell,M90071,Farrell,Kerby,,Indianapolis,,
+1956TSN,1955,American Association,ferrell,M90071,Ferrell,M. Kerby,,Indianapolis,,
+1956TSN,1955,American Association,fowler,B02588,Fowler,Charles,0,Minneapolis,,B3
+1956TSN,1955,American Association,fowler,P11115,Fowler,,0,Minneapolis,,P3p
+1956TSN,1955,American Association,frey,B00553,Frey,James,0,Toledo,,B142
+1956TSN,1955,American Association,frey,F21255,Frey,,0,Toledo,,of129
+1956TSN,1955,American Association,fricano,B02100,Fricano,Marion,1,Indianapolis,,B17
+1956TSN,1955,American Association,fricano,B02100,Fricano,Marion,2,Denver,,B8
+1956TSN,1955,American Association,fricano,B02100,Fricano,Marion,T,,,B25
+1956TSN,1955,American Association,fricano,F21614,Fricano,,1,Indianapolis,,p
+1956TSN,1955,American Association,fricano,F21614,Fricano,,2,Denver,,p
+1956TSN,1955,American Association,fricano,F21614,Fricano,,T,,,p23
+1956TSN,1955,American Association,fricano,P10767,Fricano,,1,Indianapolis,,P16p
+1956TSN,1955,American Association,fricano,P10767,Fricano,,2,Denver,,P7p
+1956TSN,1955,American Association,fricano,P10767,Fricano,,T,,,P23p
+1956TSN,1955,American Association,fridley,B00589,Fridley,James,0,Denver,,B106
+1956TSN,1955,American Association,fridley,F21125,Fridley,,0,Denver,,of91
+1956TSN,1955,American Association,friend,B01551,Friend,Owen,0,Louisville,,B25
+1956TSN,1955,American Association,friend,F20327,Friend,,0,Louisville,,2b11
+1956TSN,1955,American Association,friend,F21293,Friend,,0,Louisville,,of11
+1956TSN,1955,American Association,furfaro,B02493,Furfaro,Vincent,0,Louisville,,B6
+1956TSN,1955,American Association,garcia-tol,B00381,Garcia,Vinicio,0,Toledo,,B154
+1956TSN,1955,American Association,garcia-cha,B01952,Garcia,Pablo,0,Charleston,,B10
+1956TSN,1955,American Association,garcia-min,B02591,Garcia,David,0,Minneapolis,,B5
+1956TSN,1955,American Association,garcia-tol,F20211,Garcia,,0,Toledo,,2b153
+1956TSN,1955,American Association,gardner,B00264,Gardner,William,0,Minneapolis,,B73
+1956TSN,1955,American Association,gardner,F20334,Gardner,,0,Minneapolis,,2b57
+1956TSN,1955,American Association,gardner,F20425,Gardner,,0,Minneapolis,,3b12
+1956TSN,1955,American Association,garmon,B01711,Garmon,Charles,0,Denver,,B29
+1956TSN,1955,American Association,garmon,F21638,Garmon,,0,Denver,,p29
+1956TSN,1955,American Association,garmon,P10503,Garmon,,0,Denver,,P29p
+1956TSN,1955,American Association,gasque,B01820,Gasque,Edwin,0,Indianapolis,,B10
+1956TSN,1955,American Association,gasque,P11046,Gasque,,0,Indianapolis,,P9p
+1956TSN,1955,American Association,gernert,B00488,Gernert,Richard,0,Louisville,,B127
+1956TSN,1955,American Association,gernert,F20128,Gernert,,0,Louisville,,1b99
+1956TSN,1955,American Association,gernert,F20893,Gernert,,0,Louisville,,of33
+1956TSN,1955,American Association,getter,B02606,Getter,Richard,0,Minneapolis,,B6
+1956TSN,1955,American Association,glynn,B00101,Glynn,William,0,Indianapolis,,B29
+1956TSN,1955,American Association,glynn,F20177,Glynn,,0,Indianapolis,,1b29
+1956TSN,1955,American Association,golich,B01376,Golich,John,0,Charleston,,B43
+1956TSN,1955,American Association,golich,F21196,Golich,,0,Charleston,,of43
+1956TSN,1955,American Association,gorin,B01798,Gorin,Charles,0,Toledo,,B38
+1956TSN,1955,American Association,gorin,F21961,Gorin,,0,Toledo,,p29
+1956TSN,1955,American Association,gorin,P10145,Gorin,,0,Toledo,,P29p
+1956TSN,1955,American Association,grace,B00833,Grace,LaVern,0,Indianapolis,,B124
+1956TSN,1955,American Association,grace,F21084,Grace,,0,Indianapolis,,of100
+1956TSN,1955,American Association,grace,F21515,Grace,,0,Indianapolis,,c20
+1956TSN,1955,American Association,grasso,B01234,Grasso,N. Michael,0,Indianapolis,,B56
+1956TSN,1955,American Association,grasso,F21427,Grasso,,0,Indianapolis,,c55
+1956TSN,1955,American Association,graves,B02611,Graves,James,0,Minneapolis,,B4
+1956TSN,1955,American Association,graves,P11128,Graves,,0,Minneapolis,,P4p
+1956TSN,1955,American Association,grimsley,B01926,Grimsley,Ross,1,Charleston,,B22
+1956TSN,1955,American Association,grimsley,B01926,Grimsley,Ross,2,Omaha,,B10
+1956TSN,1955,American Association,grimsley,B01926,Grimsley,Ross,T,,,B32
+1956TSN,1955,American Association,grimsley,F21973,Grimsley,,1,Charleston,,p
+1956TSN,1955,American Association,grimsley,F21973,Grimsley,,2,Omaha,,p
+1956TSN,1955,American Association,grimsley,F21973,Grimsley,,T,,,p29
+1956TSN,1955,American Association,grimsley,P10137,Grimsley,,1,Charleston,,P20p
+1956TSN,1955,American Association,grimsley,P10137,Grimsley,,2,Omaha,,P9p
+1956TSN,1955,American Association,grimsley,P10137,Grimsley,,T,,,P29p
+1956TSN,1955,American Association,grote,B02361,Grote,Harold,0,Denver,,B7
+1956TSN,1955,American Association,gumpert,B02184,Gumpert,Randall,0,Charleston,,B20
+1956TSN,1955,American Association,gumpert,F21771,Gumpert,,0,Charleston,,p20
+1956TSN,1955,American Association,gumpert,P10679,Gumpert,,0,Charleston,,P20p
+1956TSN,1955,American Association,hamric,B00442,Hamric,Odbert,0,St. Paul,,B129
+1956TSN,1955,American Association,hamric,F21059,Hamric,,0,St. Paul,,of126
+1956TSN,1955,American Association,hanebrink,B00544,Hanebrink,Harry,0,Toledo,,B118
+1956TSN,1955,American Association,hanebrink,F20474,Hanebrink,,0,Toledo,,3b77
+1956TSN,1955,American Association,hanebrink,F20810,Hanebrink,,0,Toledo,,of23
+1956TSN,1955,American Association,harrell,B00638,Harrell,William,0,Indianapolis,,B149
+1956TSN,1955,American Association,harrell,F20388,Harrell,,0,Indianapolis,,3b16
+1956TSN,1955,American Association,harrell,F20700,Harrell,,0,Indianapolis,,ss109
+1956TSN,1955,American Association,harrell,F21117,Harrell,,0,Indianapolis,,of32
+1956TSN,1955,American Association,harris-min,B00335,Harris,B. Gail,0,Minneapolis,,B44
+1956TSN,1955,American Association,harris-cha,B01288,Harris,James,0,Charleston,,B12
+1956TSN,1955,American Association,harris-min,F20038,Harris,,0,Minneapolis,,1b44
+1956TSN,1955,American Association,harshbarger,B02441,Harshbarger,Glenn,0,Indianapolis,,B7
+1956TSN,1955,American Association,harshbarger,P11051,Harshbarger,,0,Indianapolis,,P7p
+1956TSN,1955,American Association,hartley,B02253,Hartley,Arthur,0,Charleston,,B4
+1956TSN,1955,American Association,hartley,P10917,Hartley,,0,Charleston,,P3p
+1956TSN,1955,American Association,hartsfield,B00887,Hartsfield,Roy,0,St. Paul,,B145
+1956TSN,1955,American Association,hartsfield,F20287,Hartsfield,,0,St. Paul,,2b142
+1956TSN,1955,American Association,haugstad,B02266,Haugstad,Philip,0,Charleston,,B5
+1956TSN,1955,American Association,haugstad,P10925,Haugstad,,0,Charleston,,P5p
+1956TSN,1955,American Association,heard,B01994,Heard,Jehosie,0,Charleston,,B21
+1956TSN,1955,American Association,heard,F22238,Heard,,0,Charleston,,p21
+1956TSN,1955,American Association,heard,P10723,Heard,,0,Charleston,,P21p
+1956TSN,1955,American Association,held,B00854,Held,Woodson,0,Denver,,B147
+1956TSN,1955,American Association,held,F20594,Held,,0,Denver,,3b18
+1956TSN,1955,American Association,held,F20745,Held,,0,Denver,,ss132
+1956TSN,1955,American Association,herrin,B02503,Herrin,Thomas,0,Louisville,,B2
+1956TSN,1955,American Association,herrin,P11072,Herrin,,0,Louisville,,P2p
+1956TSN,1955,American Association,herzog,B00450,Herzog,Dorrell,0,Denver,,B149
+1956TSN,1955,American Association,herzog,F20864,Herzog,,0,Denver,,of148
+1956TSN,1955,American Association,hobbie,B02277,Hobbie,Glen,0,Charleston,,B5
+1956TSN,1955,American Association,hobbie,P10930,Hobbie,,0,Charleston,,P5p
+1956TSN,1955,American Association,hogue,B02168,Hogue,Robert,0,Minneapolis,,B18
+1956TSN,1955,American Association,hogue,F22223,Hogue,,0,Minneapolis,,p18
+1956TSN,1955,American Association,hogue,P10542,Hogue,,0,Minneapolis,,P18p
+1956TSN,1955,American Association,holmes,B02516,Holmes,Ralph,0,Louisville,,B9
+1956TSN,1955,American Association,holmes,P11080,Holmes,,0,Louisville,,P9p
+1956TSN,1955,American Association,holton,B01108,Holton,Edgar,0,Louisville,,B45
+1956TSN,1955,American Association,holton,F21343,Holton,,0,Louisville,,c29
+1956TSN,1955,American Association,hooper,B01490,Hooper,Robert,0,Indianapolis,,B43
+1956TSN,1955,American Association,hooper,F22386,Hooper,,0,Indianapolis,,p43
+1956TSN,1955,American Association,hooper,P10455,Hooper,,0,Indianapolis,,P43p
+1956TSN,1955,American Association,hoover,B02145,Hoover,Richard,0,Toledo,,B35
+1956TSN,1955,American Association,hoover,F21695,Hoover,,0,Toledo,,p35
+1956TSN,1955,American Association,hoover,P10290,Hoover,,0,Toledo,,P35p
+1956TSN,1955,American Association,hoskins,B01269,Hoskins,David,0,Indianapolis,,B74
+1956TSN,1955,American Association,hoskins,F21278,Hoskins,,0,Indianapolis,,of11
+1956TSN,1955,American Association,hoskins,F21840,Hoskins,,0,Indianapolis,,p37
+1956TSN,1955,American Association,hoskins,P10244,Hoskins,,0,Indianapolis,,P37p
+1956TSN,1955,American Association,houk,B01722,Houk,Ralph,0,Denver,,B15
+1956TSN,1955,American Association,houk,F21544,Houk,,0,Denver,,c10
+1956TSN,1955,American Association,houk,M90039,Houk,Ralph,,Denver,,
+emilbb,1955,American Association,houk,M90039,Houk,Ralph,,Denver,,
+1956TSN,1955,American Association,hribar,B02698,Hribar,Louis,0,St. Paul,,B3
+1956TSN,1955,American Association,hribar,P11177,Hribar,,0,St. Paul,,P3p
+1956TSN,1955,American Association,hughes,B02709,Hughes,James,0,St. Paul,,B9
+1956TSN,1955,American Association,hughes,P11189,Hughes,,0,St. Paul,,P9p
+1956TSN,1955,American Association,hunter,B00158,Hunter,G. William,0,Denver,,B13
+1956TSN,1955,American Association,hunter,F20620,Hunter,,0,Denver,,ss12
+1956TSN,1955,American Association,hutson,B00491,Hutson,Eulas,0,St. Paul,,B107
+1956TSN,1955,American Association,hutson,F20924,Hutson,,0,St. Paul,,of98
+1956TSN,1955,American Association,ibanez,B01384,Ibanez,Amado,1,Minneapolis,,B17
+1956TSN,1955,American Association,ibanez,B01384,Ibanez,Amado,2,Charleston,,B17
+1956TSN,1955,American Association,ibanez,B01384,Ibanez,Amado,T,,,B34
+1956TSN,1955,American Association,ibanez,F20713,Ibanez,,1,Minneapolis,,ss
+1956TSN,1955,American Association,ibanez,F20713,Ibanez,,2,Charleston,,ss
+1956TSN,1955,American Association,ibanez,F20713,Ibanez,,T,,,ss14
+1956TSN,1955,American Association,irons,B02527,Irons,Edward,0,Louisville,,B5
+1956TSN,1955,American Association,irvin,B00059,Irvin,Monford,0,Minneapolis,,B75
+1956TSN,1955,American Association,irvin,F21130,Irvin,,0,Minneapolis,,of73
+1956TSN,1955,American Association,jacobs,B01216,Jacobs,Gerald,0,Charleston,,B33
+1956TSN,1955,American Association,jacobs,F20316,Jacobs,,0,Charleston,,2b32
+1956TSN,1955,American Association,jadwin,B02455,Jadwin,James,0,Indianapolis,,B4
+1956TSN,1955,American Association,jay,B02035,Jay,Joseph,0,Toledo,,B14
+1956TSN,1955,American Association,jay,F21680,Jay,,0,Toledo,,p14
+1956TSN,1955,American Association,jay,P10348,Jay,,0,Toledo,,P14p
+1956TSN,1955,American Association,jenkins,B02534,Jenkins,Robert,0,Louisville,,B7
+1956TSN,1955,American Association,johnson-den,B00319,Johnson,Darrell,0,Denver,,B152
+1956TSN,1955,American Association,johnson-tol,B02795,Johnson,Benjamin,0,Toledo,,B3
+1956TSN,1955,American Association,johnson-den,F21416,Johnson,,0,Denver,,c152
+1956TSN,1955,American Association,johnson-tol,P11254,Johnson,,0,Toledo,,P3p
+1956TSN,1955,American Association,johnston,B00469,Johnston,Leonard,0,Charleston,,B104
+1956TSN,1955,American Association,johnston,F20981,Johnston,,0,Charleston,,of104
+1956TSN,1955,American Association,jones-oma,B01983,Jones,Gordon,0,Omaha,,B13
+1956TSN,1955,American Association,jones-cha,B02159,Jones,Jack,0,Charleston,,B22
+1956TSN,1955,American Association,jones-oma,F21672,Jones,,0,Omaha,,p13
+1956TSN,1955,American Association,jones-cha,F22393,Jones,,0,Charleston,,p22
+1956TSN,1955,American Association,jones-oma,P10550,Jones,,0,Omaha,,P13p
+1956TSN,1955,American Association,jones-cha,P10633,Jones,,0,Charleston,,P22p
+1956TSN,1955,American Association,keane,M90026,Keane,John,,Omaha,,
+emilbb,1955,American Association,keane,M90026,Keane,Johnny,,Omaha,,
+1956TSN,1955,American Association,kemmerer,B01754,Kemmerer,Russell,0,Louisville,,B28
+1956TSN,1955,American Association,kemmerer,F21833,Kemmerer,,0,Louisville,,p28
+1956TSN,1955,American Association,kemmerer,P10606,Kemmerer,,0,Louisville,,P28p
+1956TSN,1955,American Association,keough,B00324,Keough,R. Martin,0,Louisville,,B151
+1956TSN,1955,American Association,keough,F20855,Keough,,0,Louisville,,of151
+1956TSN,1955,American Association,kirkland,B02622,Kirkland,Willie,0,Minneapolis,,B9
+1956TSN,1955,American Association,kite,B02373,Kite,James,0,Denver,,B5
+1956TSN,1955,American Association,kite,P11009,Kite,,0,Denver,,P5p
+1956TSN,1955,American Association,koenig,B01078,Koenig,Fred,0,Omaha,,B32
+1956TSN,1955,American Association,koenig,F20153,Koenig,,0,Omaha,,1b12
+1956TSN,1955,American Association,koenig,F20832,Koenig,,0,Omaha,,of12
+1956TSN,1955,American Association,kokos,B00502,Kokos,Richard,0,Omaha,,B38
+1956TSN,1955,American Association,kokos,F20970,Kokos,,0,Omaha,,of35
+1956TSN,1955,American Association,konikowski,B01971,Konikowski,Alexander,0,Minneapolis,,B38
+1956TSN,1955,American Association,konikowski,F22188,Konikowski,,0,Minneapolis,,p38
+1956TSN,1955,American Association,konikowski,P10228,Konikowski,,0,Minneapolis,,P38p
+1956TSN,1955,American Association,koshorek,B00515,Koshorek,Clement,0,Indianapolis,,B42
+1956TSN,1955,American Association,koshorek,F20699,Koshorek,,0,Indianapolis,,ss33
+1956TSN,1955,American Association,kraly,B00912,Kraly,Steven,0,Denver,,B28
+1956TSN,1955,American Association,kraly,F21887,Kraly,,0,Denver,,p21
+1956TSN,1955,American Association,kraly,P10687,Kraly,,0,Denver,,P21p
+1956TSN,1955,American Association,kropf,B01595,Kropf,John,0,Charleston,,B62
+1956TSN,1955,American Association,kropf,F20886,Kropf,,0,Charleston,,of55
+1956TSN,1955,American Association,kubek,B02385,Kubek,Anthony,0,Denver,,B7
+1956TSN,1955,American Association,kucab,B01489,Kucab,John,0,Denver,,B45
+1956TSN,1955,American Association,kucab,F22341,Kucab,,0,Denver,,p45
+1956TSN,1955,American Association,kucab,P10320,Kucab,,0,Denver,,P45p
+1956TSN,1955,American Association,kump,B02714,Kump,Ronald,0,St. Paul,,B6
+1956TSN,1955,American Association,kump,P11190,Kump,,0,St. Paul,,P5p
+1956TSN,1955,American Association,kwak,B02289,Kwak,Karol,0,Charleston,,B4
+1956TSN,1955,American Association,laguna,B00898,Laguna,Theodore,0,Toledo,,B63
+1956TSN,1955,American Association,laguna,F21469,Laguna,,0,Toledo,,c51
+1956TSN,1955,American Association,lammers,B01055,Lammers,Walter,0,Omaha,,B130
+1956TSN,1955,American Association,lammers,F20482,Lammers,,0,Omaha,,3b75
+1956TSN,1955,American Association,lammers,F20768,Lammers,,0,Omaha,,ss49
+1956TSN,1955,American Association,larker,B00356,Larker,Norman,0,St. Paul,,B144
+1956TSN,1955,American Association,larker,F20102,Larker,,0,St. Paul,,1b140
+1956TSN,1955,American Association,larsen,B00196,Larsen,Donald,0,Denver,,B23
+1956TSN,1955,American Association,larsen,F21904,Larsen,,0,Denver,,p13
+1956TSN,1955,American Association,larsen,P10385,Larsen,,0,Denver,,P13p
+1956TSN,1955,American Association,lee,B01861,Lee,Ronald,0,St. Paul,,B21
+1956TSN,1955,American Association,lee,F22272,Lee,,0,St. Paul,,p21
+1956TSN,1955,American Association,lee,P10751,Lee,,0,St. Paul,,P21p
+1956TSN,1955,American Association,lenhardt,B00806,Lenhardt,Donald,0,Louisville,,B104
+1956TSN,1955,American Association,lenhardt,F21013,Lenhardt,,0,Louisville,,of87
+1956TSN,1955,American Association,lennon,B00577,Lennon,Robert,0,Minneapolis,,B114
+1956TSN,1955,American Association,lennon,F21045,Lennon,,0,Minneapolis,,of114
+1956TSN,1955,American Association,leppert,B00695,Leppert,Donald,0,Charleston,,B97
+1956TSN,1955,American Association,leppert,F20254,Leppert,,0,Charleston,,2b93
+1956TSN,1955,American Association,limmer,B02542,Limmer,Louis,0,Louisville,,B6
+1956TSN,1955,American Association,lowe,B02290,Lowe,Robert,0,Charleston,,B1
+1956TSN,1955,American Association,lowe,P10949,Lowe,,0,Charleston,,P1p
+1956TSN,1955,American Association,luna,B01368,Luna,Guillermo,0,Omaha,,B30
+1956TSN,1955,American Association,luna,F22134,Luna,,0,Omaha,,p30
+1956TSN,1955,American Association,luna,P10714,Luna,,0,Omaha,,P30p
+1956TSN,1955,American Association,macon,B02723,Macon,Max,0,St. Paul,,B7
+1956TSN,1955,American Association,macon,M90060,Macon,Max,,St. Paul,,
+emilbb,1955,American Association,macon,M90060,Macon,Max,,St. Paul,,
+1956TSN,1955,American Association,malzone,B00255,Malzone,Frank,0,Louisville,,B154
+1956TSN,1955,American Association,malzone,F20496,Malzone,,0,Louisville,,3b153
+1956TSN,1955,American Association,mantilla,B00623,Mantilla,Felix,0,Toledo,,B115
+1956TSN,1955,American Association,mantilla,F20430,Mantilla,,0,Toledo,,3b12
+1956TSN,1955,American Association,mantilla,F20721,Mantilla,,0,Toledo,,ss88
+1956TSN,1955,American Association,margoneri,B01466,Margoneri,Joseph,0,Minneapolis,,B28
+1956TSN,1955,American Association,margoneri,F21590,Margoneri,,0,Minneapolis,,p26
+1956TSN,1955,American Association,margoneri,P10654,Margoneri,,0,Minneapolis,,P26p
+1956TSN,1955,American Association,marion,M90047,Marion,John (Red),,Louisville,,
+emilbb,1955,American Association,marion,M90047,Marion,"John ""Red""",,Louisville,,
+1956TSN,1955,American Association,marquez,B01170,Marquez,Luis,0,Toledo,,B21
+1956TSN,1955,American Association,marquez,F20807,Marquez,,0,Toledo,,of19
+1956TSN,1955,American Association,mattinson,B01291,Mattinson,Leslie,0,Indianapolis,,B66
+1956TSN,1955,American Association,mattinson,F20997,Mattinson,,0,Indianapolis,,of60
+1956TSN,1955,American Association,mcdonald,B02399,McDonald,James,0,Denver,,B5
+1956TSN,1955,American Association,mcdonald,P11014,McDonald,,0,Denver,,P5p
+1956TSN,1955,American Association,mcmahon,B02097,McMahon,Donald,0,Toledo,,B42
+1956TSN,1955,American Association,mcmahon,F21936,McMahon,,0,Toledo,,p42
+1956TSN,1955,American Association,mcmahon,P10622,McMahon,,0,Toledo,,P42p
+1956TSN,1955,American Association,meeks,B00973,Meeks,Samuel,0,Toledo,,B121
+1956TSN,1955,American Association,meeks,F20401,Meeks,,0,Toledo,,3b48
+1956TSN,1955,American Association,meeks,F20636,Meeks,,0,Toledo,,ss70
+1956TSN,1955,American Association,melliere,B01873,Melliere,Floyd,1,Charleston,,B24
+1956TSN,1955,American Association,melliere,B01873,Melliere,Floyd,2,Minneapolis,,B15
+1956TSN,1955,American Association,melliere,B01873,Melliere,Floyd,T,,,B39
+1956TSN,1955,American Association,melliere,F22004,Melliere,,1,Charleston,,p
+1956TSN,1955,American Association,melliere,F22004,Melliere,,2,Minneapolis,,p
+1956TSN,1955,American Association,melliere,F22004,Melliere,,T,,,p38
+1956TSN,1955,American Association,melliere,P10253,Melliere,,1,Charleston,,P23p
+1956TSN,1955,American Association,melliere,P10253,Melliere,,2,Minneapolis,,P15p
+1956TSN,1955,American Association,melliere,P10253,Melliere,,T,,,P38p
+1956TSN,1955,American Association,mesa,B02464,Mesa,Richard,0,Indianapolis,,B7
+1956TSN,1955,American Association,mesa,P11067,Mesa,,0,Indianapolis,,P6p
+1956TSN,1955,American Association,miller,B01848,Miller,Stuart,0,Omaha,,B41
+1956TSN,1955,American Association,miller,F22099,Miller,,0,Omaha,,p39
+1956TSN,1955,American Association,miller,P10035,Miller,,0,Omaha,,P39p
+1956TSN,1955,American Association,moisan,B02304,Moisan,William,0,Charleston,,B7
+1956TSN,1955,American Association,moisan,P10958,Moisan,,0,Charleston,,P6p
+1956TSN,1955,American Association,montemayor,B01119,Montemayor,Felipe,0,Charleston,,B30
+1956TSN,1955,American Association,montemayor,F20956,Montemayor,,0,Charleston,,of27
+1956TSN,1955,American Association,monzant,B01918,Monzant,Ramon,0,Minneapolis,,B16
+1956TSN,1955,American Association,monzant,F21651,Monzant,,0,Minneapolis,,p12
+1956TSN,1955,American Association,monzant,P10361,Monzant,,0,Minneapolis,,P12p
+1956TSN,1955,American Association,moore,B01804,Moore,Edward,0,St. Paul,,B26
+1956TSN,1955,American Association,moore,F21068,Moore,,0,St. Paul,,of21
+1956TSN,1955,American Association,moryn,B01041,Moryn,Walter,0,St. Paul,,B148
+1956TSN,1955,American Association,moryn,F21229,Moryn,,0,St. Paul,,of143
+1956TSN,1955,American Association,mozzali,B00718,Mozzali,Maurice,0,Omaha,,B117
+1956TSN,1955,American Association,mozzali,F20023,Mozzali,,0,Omaha,,1b55
+1956TSN,1955,American Association,mozzali,F20792,Mozzali,,0,Omaha,,of34
+1956TSN,1955,American Association,mueller,B02633,Mueller,Raymond,0,Minneapolis,,B3
+1956TSN,1955,American Association,murszewski,B01947,Murszewski,Marian,0,Indianapolis,,B41
+1956TSN,1955,American Association,murszewski,F22048,Murszewski,,0,Indianapolis,,p40
+1956TSN,1955,American Association,murszewski,P10113,Murszewski,,0,Indianapolis,,P40p
+1956TSN,1955,American Association,murtaugh,M90083,Murtaugh,Daniel,,Charleston,,
+emilbb,1955,American Association,murtaugh,M90083,Murtaugh,Danny,,Charleston,,
+1956TSN,1955,American Association,myers,B02312,Myers,Loren,0,Charleston,,B9
+1956TSN,1955,American Association,myers,P10963,Myers,,0,Charleston,,P9p
+1956TSN,1955,American Association,naylor,B02738,Naylor,Earl,0,St. Paul,,B5
+1956TSN,1955,American Association,negray,B01135,Negray,Ronald,0,St. Paul,,B11
+1956TSN,1955,American Association,negray,P11206,Negray,,0,St. Paul,,P9p
+1956TSN,1955,American Association,nicholas,B01546,Nicholas,Harry,0,Minneapolis,,B43
+1956TSN,1955,American Association,nicholas,F21609,Nicholas,,0,Minneapolis,,p39
+1956TSN,1955,American Association,nicholas,P10266,Nicholas,,0,Minneapolis,,P39p
+1956TSN,1955,American Association,northey,B00084,Northey,Ronald,1,Charleston,,B70
+1956TSN,1955,American Association,northey,B00084,Northey,Ronald,2,Minneapolis,,B28
+1956TSN,1955,American Association,northey,B00084,Northey,Ronald,T,,,B98
+1956TSN,1955,American Association,northey,F21264,Northey,,1,Charleston,,of
+1956TSN,1955,American Association,northey,F21264,Northey,,2,Minneapolis,,of
+1956TSN,1955,American Association,northey,F21264,Northey,,T,,,of71
+1956TSN,1955,American Association,olivo,B01029,Olivo,Federico,0,Toledo,,B17
+1956TSN,1955,American Association,olivo,F21794,Olivo,,0,Toledo,,p16
+1956TSN,1955,American Association,olivo,P10818,Olivo,,0,Toledo,,P16p
+1956TSN,1955,American Association,olsen-stp,B00241,Olsen,Lyle,0,St. Paul,,B93
+1956TSN,1955,American Association,olsen-min,B02202,Olsen,Albert,0,Minneapolis,,B11
+1956TSN,1955,American Association,olsen-stp,F20449,Olsen,,0,St. Paul,,3b79
+1956TSN,1955,American Association,olsen-min,F22406,Olsen,,0,Minneapolis,,p11
+1956TSN,1955,American Association,olsen-min,P10847,Olsen,,0,Minneapolis,,P11p
+1956TSN,1955,American Association,ortiz,B00794,Ortiz,Louis,0,Minneapolis,,B26
+1956TSN,1955,American Association,ortiz,F20369,Ortiz,,0,Minneapolis,,2b26
+1956TSN,1955,American Association,parsons,B01203,Parsons,Charles,0,Denver,,B24
+1956TSN,1955,American Association,parsons,F22116,Parsons,,0,Denver,,p24
+1956TSN,1955,American Association,parsons,P10805,Parsons,,0,Denver,,P24p
+1956TSN,1955,American Association,patrick,B01733,Patrick,Hisel,0,Charleston,,B16
+1956TSN,1955,American Association,patrick,F21739,Patrick,,0,Charleston,,p16
+1956TSN,1955,American Association,patrick,P10839,Patrick,,0,Charleston,,P16p
+1956TSN,1955,American Association,pawloski,B00771,Pawloski,Stanley,0,Indianapolis,,B140
+1956TSN,1955,American Association,pawloski,F20298,Pawloski,,0,Indianapolis,,2b103
+1956TSN,1955,American Association,pawloski,F20571,Pawloski,,0,Indianapolis,,3b32
+1956TSN,1955,American Association,pearce,B01899,Pearce,James,0,Omaha,,B28
+1956TSN,1955,American Association,pearce,F22175,Pearce,,0,Omaha,,p28
+1956TSN,1955,American Association,pearce,P10056,Pearce,,0,Omaha,,P28p
+1956TSN,1955,American Association,peete,B00207,Peete,Charles,0,Omaha,,B99
+1956TSN,1955,American Association,peete,F21207,Peete,,0,Omaha,,of88
+1956TSN,1955,American Association,pendleton,B00680,Pendleton,James,0,Toledo,,B95
+1956TSN,1955,American Association,pendleton,F21000,Pendleton,,0,Toledo,,of95
+1956TSN,1955,American Association,pesky,B00092,Pesky,John,0,Denver,,B66
+1956TSN,1955,American Association,pesky,F20583,Pesky,,0,Denver,,3b30
+1956TSN,1955,American Association,phillips,B01242,Phillips,H. Edward,0,Omaha,,B133
+1956TSN,1955,American Association,phillips,F20919,Phillips,,0,Omaha,,of121
+1956TSN,1955,American Association,pless,B00125,Pless,Rance,0,Minneapolis,,B156
+1956TSN,1955,American Association,pless,F20051,Pless,,0,Minneapolis,,1b25
+1956TSN,1955,American Association,pless,F20417,Pless,,0,Minneapolis,,3b132
+1956TSN,1955,American Association,plews,B00343,Plews,Herbert,0,Denver,,B140
+1956TSN,1955,American Association,plews,F20350,Plews,,0,Denver,,2b43
+1956TSN,1955,American Association,plews,F20539,Plews,,0,Denver,,3b86
+1956TSN,1955,American Association,powell,B01674,Powell,William,0,Charleston,,B28
+1956TSN,1955,American Association,powell,F22364,Powell,,0,Charleston,,p26
+1956TSN,1955,American Association,powell,P10665,Powell,,0,Charleston,,P26p
+1956TSN,1955,American Association,prentice,B02478,Prentice,Robert,0,Indianapolis,,B6
+1956TSN,1955,American Association,presko,B01509,Presko,Joseph,0,Omaha,,B43
+1956TSN,1955,American Association,presko,F22267,Presko,,0,Omaha,,p42
+1956TSN,1955,American Association,presko,P10192,Presko,,0,Omaha,,P42p
+1956TSN,1955,American Association,queen,B00985,Queen,William,0,Toledo,,B106
+1956TSN,1955,American Association,queen,F21450,Queen,,0,Toledo,,c97
+1956TSN,1955,American Association,raines,B01227,Raines,Lawrence,0,Indianapolis,,B17
+1956TSN,1955,American Association,rand,B00948,Rand,Richard,0,Omaha,,B115
+1956TSN,1955,American Association,rand,F21356,Rand,,0,Omaha,,c108
+1956TSN,1955,American Association,rapp,B01156,Rapp,Vernon,0,Charleston,,B70
+1956TSN,1955,American Association,rapp,F21502,Rapp,,0,Charleston,,c44
+1956TSN,1955,American Association,rapp,M90094,Rapp,Vernon,,Charleston,19550716/,
+emilbb,1955,American Association,rapp,M90094,Rapp,Vern,,Charleston,,
+1956TSN,1955,American Association,reed,B00308,Reed,William,0,Toledo,,B75
+1956TSN,1955,American Association,reed,F20547,Reed,,0,Toledo,,3b39
+1956TSN,1955,American Association,reeder,B01706,Reeder,Dennis,0,Charleston,,B54
+1956TSN,1955,American Association,reeder,F21957,Reeder,,0,Charleston,,p46
+1956TSN,1955,American Association,reeder,P10184,Reeder,,0,Charleston,,P46p
+1956TSN,1955,American Association,regalado,B00229,Regalado,Rudolph,0,Indianapolis,,B139
+1956TSN,1955,American Association,regalado,F20526,Regalado,,0,Indianapolis,,3b108
+1956TSN,1955,American Association,regalado,F21174,Regalado,,0,Indianapolis,,of27
+1956TSN,1955,American Association,richards,B01402,Richards,Fred,1,Charleston,,B31
+1956TSN,1955,American Association,richards,B01402,Richards,Fred,2,Minneapolis,,B48
+1956TSN,1955,American Association,richards,B01402,Richards,Fred,T,,,B79
+1956TSN,1955,American Association,richards,F20014,Richards,,1,Charleston,,1b
+1956TSN,1955,American Association,richards,F20014,Richards,,2,Minneapolis,,1b
+1956TSN,1955,American Association,richards,F20014,Richards,,T,,,1b37
+1956TSN,1955,American Association,richards,F20829,Richards,,1,Charleston,,of
+1956TSN,1955,American Association,richards,F20829,Richards,,2,Minneapolis,,of
+1956TSN,1955,American Association,richards,F20829,Richards,,T,,,of17
+1956TSN,1955,American Association,richardson,B00416,Richardson,Robert,0,Denver,,B119
+1956TSN,1955,American Association,richardson,F20265,Richardson,,0,Denver,,2b113
+1956TSN,1955,American Association,riggan,B01124,Riggan,Percy,0,Omaha,,B77
+1956TSN,1955,American Association,riggan,F21434,Riggan,,0,Omaha,,c65
+1956TSN,1955,American Association,rigney,B01617,Rigney,William,0,Minneapolis,,B12
+1956TSN,1955,American Association,rigney,M90018,Rigney,William,,Minneapolis,,
+emilbb,1955,American Association,rigney,M90018,Rigney,Bill,,Minneapolis,,
+1956TSN,1955,American Association,ring,B00021,Ring,Eugene,0,Indianapolis,,B16
+1956TSN,1955,American Association,rippelmeyer,B02805,Rippelmeyer,Ray,0,Toledo,,B1
+1956TSN,1955,American Association,rippelmeyer,P11265,Rippelmeyer,,0,Toledo,,P1p
+1956TSN,1955,American Association,robinson,B02024,Robinson,Humberto,0,Toledo,,B30
+1956TSN,1955,American Association,robinson,F21566,Robinson,,0,Toledo,,p30
+1956TSN,1955,American Association,robinson,P10304,Robinson,,0,Toledo,,P30p
+1956TSN,1955,American Association,rodemoyer,B00475,Rodemoyer,Howard,0,Indianapolis,,B39
+1956TSN,1955,American Association,rodemoyer,F21553,Rodemoyer,,0,Indianapolis,,p34
+1956TSN,1955,American Association,rodemoyer,P10159,Rodemoyer,,0,Indianapolis,,P34p
+1956TSN,1955,American Association,rodin,B01093,Rodin,Eric,0,Minneapolis,,B42
+1956TSN,1955,American Association,rodin,F21037,Rodin,,0,Minneapolis,,of38
+1956TSN,1955,American Association,rojek,B01313,Rojek,Stanley,0,St. Paul,,B71
+1956TSN,1955,American Association,rojek,F20279,Rojek,,0,St. Paul,,2b19
+1956TSN,1955,American Association,russell,B02407,Russell,James,0,Denver,,B9
+1956TSN,1955,American Association,russell,P11023,Russell,,0,Denver,,P9p
+1956TSN,1955,American Association,rutherford,B01523,Rutherford,John,0,St. Paul,,B29
+1956TSN,1955,American Association,rutherford,F21999,Rutherford,,0,St. Paul,,p29
+1956TSN,1955,American Association,rutherford,P10231,Rutherford,,0,St. Paul,,P29p
+1956TSN,1955,American Association,santiago,B01321,Santiago,Jose,0,Indianapolis,,B25
+1956TSN,1955,American Association,santiago,F21718,Santiago,,0,Indianapolis,,p25
+1956TSN,1955,American Association,santiago,P10432,Santiago,,0,Indianapolis,,P25p
+1956TSN,1955,American Association,savransky,B01567,Savransky,Morris,0,Charleston,,B36
+1956TSN,1955,American Association,savransky,F22142,Savransky,,0,Charleston,,p31
+1956TSN,1955,American Association,savransky,P10738,Savransky,,0,Charleston,,P31p
+1956TSN,1955,American Association,sawatski,B00760,Sawatski,Carl,0,Minneapolis,,B142
+1956TSN,1955,American Association,sawatski,F21397,Sawatski,,0,Minneapolis,,c141
+1956TSN,1955,American Association,schell,B00182,Schell,C. Daniel,0,Omaha,,B131
+1956TSN,1955,American Association,schell,F21163,Schell,,0,Omaha,,of124
+1956TSN,1955,American Association,schmidt,B01601,Schmidt,Willard,0,Omaha,,B21
+1956TSN,1955,American Association,schmidt,F21898,Schmidt,,0,Omaha,,p21
+1956TSN,1955,American Association,schmidt,P10019,Schmidt,,0,Omaha,,P21p
+1956TSN,1955,American Association,schofield,B00672,Schofield,J. Richard,0,Omaha,,B107
+1956TSN,1955,American Association,schofield,F20661,Schofield,,0,Omaha,,ss107
+1956TSN,1955,American Association,schroll,B01625,Schroll,Albert,0,Louisville,,B31
+1956TSN,1955,American Association,schroll,F22246,Schroll,,0,Louisville,,p31
+1956TSN,1955,American Association,schroll,P10399,Schroll,,0,Louisville,,P31p
+1956TSN,1955,American Association,selkirk,M90052,Selkirk,George,,Toledo,,
+emilbb,1955,American Association,selkirk,M90052,Selkirk,George,,Toledo,,
+1956TSN,1955,American Association,sharman,B00434,Sharman,William,0,St. Paul,,B133
+1956TSN,1955,American Association,sharman,F20552,Sharman,,0,St. Paul,,3b50
+1956TSN,1955,American Association,sharman,F20776,Sharman,,0,St. Paul,,of73
+1956TSN,1955,American Association,skizas,B00076,Skizas,Louis,0,Denver,,B112
+1956TSN,1955,American Association,skizas,F20908,Skizas,,0,Denver,,of96
+1956TSN,1955,American Association,slack,B01010,Slack,William,0,Louisville,,B24
+1956TSN,1955,American Association,slack,F21752,Slack,,0,Louisville,,p24
+1956TSN,1955,American Association,slack,P10478,Slack,,0,Louisville,,P24p
+1956TSN,1955,American Association,sleater,B00013,Sleater,Louis,0,Toledo,,B10
+1956TSN,1955,American Association,sleater,P11279,Sleater,,0,Toledo,,P9p
+1956TSN,1955,American Association,smith-den+cha,B00822,Smith,Forest,1,Denver,,B9
+1956TSN,1955,American Association,smith-den+cha,B00822,Smith,Forest,2,Charleston,,B126
+1956TSN,1955,American Association,smith-den+cha,B00822,Smith,Forest,T,,,B135
+1956TSN,1955,American Association,smith.rg-lou,B01812,Smith,Robert G.,0,Louisville,,B23
+1956TSN,1955,American Association,smith.rw-lou,B01939,Smith,Robert W.,0,Louisville,,B42
+1956TSN,1955,American Association,smith-den+cha,F20505,Smith,,1,Denver,,3b
+1956TSN,1955,American Association,smith-den+cha,F20505,Smith,,2,Charleston,,3b
+1956TSN,1955,American Association,smith-den+cha,F20505,Smith,,T,,,3b129
+1956TSN,1955,American Association,smith.rg-lou,F21865,Smith,R. G.,0,Louisville,,p23
+1956TSN,1955,American Association,smith.rw-lou,F22061,Smith,R. W.,0,Louisville,,p42
+1956TSN,1955,American Association,smith.rg-lou,P10312,Smith,R. G.,0,Louisville,,P23p
+1956TSN,1955,American Association,smith.rw-lou,P10464,Smith,R. W.,0,Louisville,,P42p
+1956TSN,1955,American Association,spears,B00840,Spears,Jasper,0,St. Paul,,B154
+1956TSN,1955,American Association,spears,F20737,Spears,,0,St. Paul,,ss154
+1956TSN,1955,American Association,spencer,B02043,Spencer,George,0,Omaha,,B47
+1956TSN,1955,American Association,spencer,F22036,Spencer,,0,Omaha,,p47
+1956TSN,1955,American Association,spencer,P10493,Spencer,,0,Omaha,,P47p
+1956TSN,1955,American Association,stegemeier,B01337,Stegemeier,Robert,0,Charleston,,B50
+1956TSN,1955,American Association,stegemeier,F20648,Stegemeier,,0,Charleston,,ss23
+1956TSN,1955,American Association,stegemeier,F21324,Stegemeier,,0,Charleston,,of10
+1956TSN,1955,American Association,stendel,B00210,Stendel,Marvin,0,Louisville,,B73
+1956TSN,1955,American Association,stendel,F21092,Stendel,,0,Louisville,,of62
+1956TSN,1955,American Association,striker,B01032,Striker,Wilbur,0,Indianapolis,,B10
+1956TSN,1955,American Association,striker,F21783,Striker,,0,Indianapolis,,p10
+1956TSN,1955,American Association,striker,P10860,Striker,,0,Indianapolis,,P10p
+1956TSN,1955,American Association,stuart,B02410,Stuart,Marlin,0,Denver,,B2
+1956TSN,1955,American Association,stuart,P11038,Stuart,,0,Denver,,P2p
+1956TSN,1955,American Association,suarez,B02746,Suarez,Armando,0,St. Paul,,B8
+1956TSN,1955,American Association,suarez,P11211,Suarez,,0,St. Paul,,P8p
+1956TSN,1955,American Association,sullivan,B00920,Sullivan,Haywood,0,Louisville,,B128
+1956TSN,1955,American Association,sullivan,F20131,Sullivan,,0,Louisville,,1b40
+1956TSN,1955,American Association,sullivan,F21362,Sullivan,,0,Louisville,,c78
+1956TSN,1955,American Association,talbot,B00726,Talbot,Robert,0,Toledo,,B34
+1956TSN,1955,American Association,talbot,F21308,Talbot,,0,Toledo,,of31
+1956TSN,1955,American Association,tanner,B00609,Tanner,Joseph,0,Louisville,,B130
+1956TSN,1955,American Association,tanner,F20342,Tanner,,0,Louisville,,2b121
+1956TSN,1955,American Association,templeton,B01572,Templeton,Charles,0,St. Paul,,B37
+1956TSN,1955,American Association,templeton,F21920,Templeton,,0,St. Paul,,p37
+1956TSN,1955,American Association,templeton,P10081,Templeton,,0,St. Paul,,P37p
+1956TSN,1955,American Association,terry,B01415,Terry,Ralph,0,Denver,,B16
+1956TSN,1955,American Association,terry,F22057,Terry,,0,Denver,,p16
+1956TSN,1955,American Association,terry,P10698,Terry,,0,Denver,,P16p
+1956TSN,1955,American Association,terwilliger,B00397,Terwilliger,Wayne,0,Minneapolis,,B72
+1956TSN,1955,American Association,terwilliger,F20240,Terwilliger,,0,Minneapolis,,2b70
+1956TSN,1955,American Association,tettelbach,B00278,Tettelbach,Richard,0,Denver,,B144
+1956TSN,1955,American Association,tettelbach,F21158,Tettelbach,,0,Denver,,of144
+1956TSN,1955,American Association,thiel,B01857,Thiel,M. Bert,0,Toledo,,B46
+1956TSN,1955,American Association,thiel,F21577,Thiel,,0,Toledo,,p46
+1956TSN,1955,American Association,thiel,P10527,Thiel,,0,Toledo,,P46p
+1956TSN,1955,American Association,thomas-oma,B01064,Thomas,Gerald,0,Omaha,,B106
+1956TSN,1955,American Association,thomas-lou,B02550,Thomas,Jack,0,Louisville,,B6
+1956TSN,1955,American Association,thomas-oma,F20375,Thomas,,0,Omaha,,2b19
+1956TSN,1955,American Association,thomas-oma,F20612,Thomas,,0,Omaha,,3b57
+1956TSN,1955,American Association,thomas-lou,P11095,Thomas,,0,Louisville,,P6p
+1956TSN,1955,American Association,thompson-stp,B00232,Thompson,Charles,0,St. Paul,,B121
+1956TSN,1955,American Association,thompson-tol,B02818,Thompson,Glenn,0,Toledo,,B2
+1956TSN,1955,American Association,thompson-stp,F21475,Thompson,,0,St. Paul,,c110
+1956TSN,1955,American Association,thompson-tol,P11287,Thompson,,0,Toledo,,P2p
+1956TSN,1955,American Association,throneberry,B00614,Throneberry,Marvin,0,Denver,,B156
+1956TSN,1955,American Association,throneberry,F20072,Throneberry,,0,Denver,,1b156
+1956TSN,1955,American Association,tiefenauer,B01960,Tiefenauer,Robert,0,Omaha,,B33
+1956TSN,1955,American Association,tiefenauer,F21667,Tiefenauer,,0,Omaha,,p33
+1956TSN,1955,American Association,tiefenauer,P10336,Tiefenauer,,0,Omaha,,P33p
+1956TSN,1955,American Association,tomanek,B00879,Tomanek,Richard,0,Indianapolis,,B37
+1956TSN,1955,American Association,tomanek,F21589,Tomanek,,0,Indianapolis,,p29
+1956TSN,1955,American Association,tomanek,P10277,Tomanek,,0,Indianapolis,,P29p
+1956TSN,1955,American Association,torpey,B01431,Torpey,Joseph,0,Charleston,,B131
+1956TSN,1955,American Association,torpey,F20206,Torpey,,0,Charleston,,2b13
+1956TSN,1955,American Association,torpey,F20463,Torpey,,0,Charleston,,3b23
+1956TSN,1955,American Association,torpey,F20673,Torpey,,0,Charleston,,ss88
+1956TSN,1955,American Association,torre,B00163,Torre,Frank,0,Toledo,,B150
+1956TSN,1955,American Association,torre,F20067,Torre,,0,Toledo,,1b149
+1956TSN,1955,American Association,trowbridge,B02062,Trowbridge,Robert,0,Toledo,,B29
+1956TSN,1955,American Association,trowbridge,F22280,Trowbridge,,0,Toledo,,p29
+1956TSN,1955,American Association,trowbridge,P10070,Trowbridge,,0,Toledo,,P29p
+1956TSN,1955,American Association,urban,B01779,Urban,John,0,Denver,,B36
+1956TSN,1955,American Association,urban,F22012,Urban,,0,Denver,,p34
+1956TSN,1955,American Association,urban,P10168,Urban,,0,Denver,,P34p
+1956TSN,1955,American Association,valdes,B01885,Valdes,Rene,0,St. Paul,,B50
+1956TSN,1955,American Association,valdes,F22332,Valdes,,0,St. Paul,,p49
+1956TSN,1955,American Association,valdes,P10410,Valdes,,0,St. Paul,,P49p
+1956TSN,1955,American Association,valentinetti,B01538,Valentinetti,Vito,0,Charleston,,B35
+1956TSN,1955,American Association,valentinetti,F22329,Valentinetti,,0,Charleston,,p35
+1956TSN,1955,American Association,valentinetti,P10176,Valentinetti,,0,Charleston,,P35p
+1956TSN,1955,American Association,vanalstyne,B00174,Van Alstyne,Allen,0,Louisville,,B24
+1956TSN,1955,American Association,vanalstyne,F21286,Van Alstyne,,0,Louisville,,of20
+1956TSN,1955,American Association,vollmer,B00811,Vollmer,Clyde,0,Charleston,,B73
+1956TSN,1955,American Association,vollmer,F20935,Vollmer,,0,Charleston,,of64
+1956TSN,1955,American Association,wade,B00865,Wade,Galeard,0,Toledo,,B19
+1956TSN,1955,American Association,wade,F21319,Wade,,0,Toledo,,of19
+1956TSN,1955,American Association,wall,B02569,Wall,John,0,Louisville,,B8
+1956TSN,1955,American Association,wall,P11102,Wall,,0,Louisville,,P8p
+1956TSN,1955,American Association,waytula,B02121,Waytula,Edward,0,Louisville,,B22
+1956TSN,1955,American Association,whisenant,B00130,Whisenant,T. Peter,0,Toledo,,B49
+1956TSN,1955,American Association,whisenant,F20943,Whisenant,,0,Toledo,,of49
+1956TSN,1955,American Association,wilks,B02176,Wilks,Theodore,0,Indianapolis,,B14
+1956TSN,1955,American Association,wilks,F22411,Wilks,,0,Indianapolis,,p14
+1956TSN,1955,American Association,wilks,P10575,Wilks,,0,Indianapolis,,P14p
+1956TSN,1955,American Association,willey,B01765,Willey,Carlton,0,Toledo,,B27
+1956TSN,1955,American Association,willey,F22295,Willey,,0,Toledo,,p27
+1956TSN,1955,American Association,willey,P10407,Willey,,0,Toledo,,P27p
+1956TSN,1955,American Association,willis,B01836,Willis,James,0,Omaha,,B26
+1956TSN,1955,American Association,willis,F21912,Willis,,0,Omaha,,p26
+1956TSN,1955,American Association,willis,P10516,Willis,,0,Omaha,,P26p
+1956TSN,1955,American Association,wilson-min,B00293,Wilson,George,0,Minneapolis,,B140
+1956TSN,1955,American Association,wilson-lou,B01787,Wilson,Duane,0,Louisville,,B32
+1956TSN,1955,American Association,wilson-min,F21241,Wilson,,0,Minneapolis,,of138
+1956TSN,1955,American Association,wilson-lou,F22251,Wilson,,0,Louisville,,p31
+1956TSN,1955,American Association,wilson-lou,P10429,Wilson,,0,Louisville,,P31p
+1956TSN,1955,American Association,winkles,B01086,Winkles,Robert,0,Charleston,,B44
+1956TSN,1955,American Association,winkles,F20685,Winkles,,0,Charleston,,ss40
+1956TSN,1955,American Association,worthington,B01345,Worthington,Allan,0,Minneapolis,,B38
+1956TSN,1955,American Association,worthington,F22307,Worthington,,0,Minneapolis,,p38
+1956TSN,1955,American Association,worthington,P10062,Worthington,,0,Minneapolis,,P38p
+1956TSN,1955,American Association,yelen,B00783,Yelen,Ernest,0,St. Paul,,B71
+1956TSN,1955,American Association,yelen,F21370,Yelen,,0,St. Paul,,c65
+1956TSN,1955,American Association,young,B00045,Young,Robert,0,Indianapolis,,B34
+1956TSN,1955,American Association,young,F20222,Young,,0,Indianapolis,,2b33

@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1994,Texas-Louisiana League,M92434,Ashby,Alan,,Rio Grande Valley,,,
-emilbb,1994,Texas-Louisiana League,M92442,Cruz,Jose Sr.,,San Antonio,,,
-emilbb,1994,Texas-Louisiana League,M92370,Falcone,Pete,,Alexandria,,,
-emilbb,1994,Texas-Louisiana League,M92427,Grimsley,Ross Jr.,,Amarillo,,,
-emilbb,1994,Texas-Louisiana League,M92403,Jurak,Ed,,Mobile,,,
-emilbb,1994,Texas-Louisiana League,M92397,Kerfeld,Charley,,Beaumont,,,
-emilbb,1994,Texas-Louisiana League,M92381,Stein,Bill,,Tyler,,,
-emilbb,1994,Texas-Louisiana League,M92416,Wasinger,Mark,,Corpus Christi,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1994,Texas-Louisiana League,,M92434,Ashby,Alan,,Rio Grande Valley,,
+emilbb,1994,Texas-Louisiana League,,M92442,Cruz,Jose Sr.,,San Antonio,,
+emilbb,1994,Texas-Louisiana League,,M92370,Falcone,Pete,,Alexandria,,
+emilbb,1994,Texas-Louisiana League,,M92427,Grimsley,Ross Jr.,,Amarillo,,
+emilbb,1994,Texas-Louisiana League,,M92403,Jurak,Ed,,Mobile,,
+emilbb,1994,Texas-Louisiana League,,M92397,Kerfeld,Charley,,Beaumont,,
+emilbb,1994,Texas-Louisiana League,,M92381,Stein,Bill,,Tyler,,
+emilbb,1994,Texas-Louisiana League,,M92416,Wasinger,Mark,,Corpus Christi,,

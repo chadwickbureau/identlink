@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1959,Pioneer League,M91173,Clear,Bob,,Idaho Falls,,,
-emilbb,1959,Pioneer League,M91185,Davis,Brandy,,Great Falls,,,
-emilbb,1959,Pioneer League,M91199,Giordano,Tom,,Pocatello,,,
-emilbb,1959,Pioneer League,M91161,Kurowski,Whitey,,Billings,,,
-emilbb,1959,Pioneer League,M91200,Rowe,Ralph,,Missoula,,,
-emilbb,1959,Pioneer League,M91157,Smith,Billy,,Boise,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1959,Pioneer League,,M91173,Clear,Bob,,Idaho Falls,,
+emilbb,1959,Pioneer League,,M91185,Davis,Brandy,,Great Falls,,
+emilbb,1959,Pioneer League,,M91199,Giordano,Tom,,Pocatello,,
+emilbb,1959,Pioneer League,,M91161,Kurowski,Whitey,,Billings,,
+emilbb,1959,Pioneer League,,M91200,Rowe,Ralph,,Missoula,,
+emilbb,1959,Pioneer League,,M91157,Smith,Billy,,Boise,,

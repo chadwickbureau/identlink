@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1978,American Association,M90083,Dunlop,Harry,,Wichita,,,
-emilbb,1978,American Association,M90060,Edwards,Doc,,Denver,,,
-emilbb,1978,American Association,M90018,Majtyka,Roy,,Indianapolis,,,
-emilbb,1978,American Association,M90026,Moss,Lee,,Evansville,,,
-emilbb,1978,American Association,M90071,Ryan,Mike,,Oklahoma City,,,
-emilbb,1978,American Association,M90047,Sparks,Joe,,Iowa,,,
-emilbb,1978,American Association,M90052,Sullivan,John,,Omaha,,,
-emilbb,1978,American Association,M90039,Williams,Jimy,,Springfield,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1978,American Association,,M90083,Dunlop,Harry,,Wichita,,
+emilbb,1978,American Association,,M90060,Edwards,Doc,,Denver,,
+emilbb,1978,American Association,,M90018,Majtyka,Roy,,Indianapolis,,
+emilbb,1978,American Association,,M90026,Moss,Lee,,Evansville,,
+emilbb,1978,American Association,,M90071,Ryan,Mike,,Oklahoma City,,
+emilbb,1978,American Association,,M90047,Sparks,Joe,,Iowa,,
+emilbb,1978,American Association,,M90052,Sullivan,John,,Omaha,,
+emilbb,1978,American Association,,M90039,Williams,Jimy,,Springfield,,

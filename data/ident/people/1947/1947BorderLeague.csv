@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1947,Border League,M91556,Dean,Paul,,Ottawa,,,
-emilbb,1947,Border League,M91570,Hearn,Barney,,Auburn,,,
-emilbb,1947,Border League,M91597,Lady,Ben,,Kingston,,,
-emilbb,1947,Border League,M91562,Shawkey,Bob,,Watertown,,,
-emilbb,1947,Border League,M91607,Small,Charles,,Geneva,,,
-emilbb,1947,Border League,M91581,Yerkes,Steve,,Ogdensburg,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1947,Border League,,M91556,Dean,Paul,,Ottawa,,
+emilbb,1947,Border League,,M91570,Hearn,Barney,,Auburn,,
+emilbb,1947,Border League,,M91597,Lady,Ben,,Kingston,,
+emilbb,1947,Border League,,M91562,Shawkey,Bob,,Watertown,,
+emilbb,1947,Border League,,M91607,Small,Charles,,Geneva,,
+emilbb,1947,Border League,,M91581,Yerkes,Steve,,Ogdensburg,,

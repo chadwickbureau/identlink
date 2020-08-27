@@ -1,6 +1,6 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1966,Appalachian League,M91467,Altobelli,Joe,,Bluefield,,,
-emilbb,1966,Appalachian League,M91451,Bauer,Bob,,Johnson City,,,
-emilbb,1966,Appalachian League,M91480,Detore,George,,Salem,,,
-emilbb,1966,Appalachian League,M91446,Peterson,"Carl ""Buddy""",,Marion,,,
-emilbb,1966,Appalachian League,M91472,Slider,Rac,,Covington,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1966,Appalachian League,,M91467,Altobelli,Joe,,Bluefield,,
+emilbb,1966,Appalachian League,,M91451,Bauer,Bob,,Johnson City,,
+emilbb,1966,Appalachian League,,M91480,Detore,George,,Salem,,
+emilbb,1966,Appalachian League,,M91446,Peterson,"Carl ""Buddy""",,Marion,,
+emilbb,1966,Appalachian League,,M91472,Slider,Rac,,Covington,,

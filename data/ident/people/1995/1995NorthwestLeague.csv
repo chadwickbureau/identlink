@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1995,Northwest League,M91519,Carey,P. J.,,Portland,,,
-emilbb,1995,Northwest League,M91535,DeFrancesco,Tony,,Southern Oregon,,,
-emilbb,1995,Northwest League,M91472,Gomez,Orlando,,Everett,,,
-emilbb,1995,Northwest League,M91508,Kotchman,Tom,,Boise,,,
-emilbb,1995,Northwest League,M91480,Pedrique,Al,,Spokane,,,
-emilbb,1995,Northwest League,M91524,Runge,Paul,,Eugene,,,
-emilbb,1995,Northwest League,M91467,Tufts,Glenn,,Bellingham,,,
-emilbb,1995,Northwest League,M91495,Vavra,Joe,,Yakima,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1995,Northwest League,,M91519,Carey,P. J.,,Portland,,
+emilbb,1995,Northwest League,,M91535,DeFrancesco,Tony,,Southern Oregon,,
+emilbb,1995,Northwest League,,M91472,Gomez,Orlando,,Everett,,
+emilbb,1995,Northwest League,,M91508,Kotchman,Tom,,Boise,,
+emilbb,1995,Northwest League,,M91480,Pedrique,Al,,Spokane,,
+emilbb,1995,Northwest League,,M91524,Runge,Paul,,Eugene,,
+emilbb,1995,Northwest League,,M91467,Tufts,Glenn,,Bellingham,,
+emilbb,1995,Northwest League,,M91495,Vavra,Joe,,Yakima,,

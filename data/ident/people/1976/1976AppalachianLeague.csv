@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1976,Appalachian League,M91438,Dews,Bobby,,Kingsport,,,
-emilbb,1976,Appalachian League,M91394,Eagen,Tom,,Marion,,,
-emilbb,1976,Appalachian League,M91360,Hines,Ben,,Bluefield,,,
-emilbb,1976,Appalachian League,M91409,Keller,Buzzy,,Johnson City,,,
-emilbb,1976,Appalachian League,M91414,Lewis,Joe,,Bristol,,,
-emilbb,1976,Appalachian League,M91371,Linares,Julio,,Covington,,,
-emilbb,1976,Appalachian League,M91383,Mazmanian,Art,,Pulaski,,,
-emilbb,1976,Appalachian League,M91423,Waters,Fred,,Elizabethton,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1976,Appalachian League,,M91438,Dews,Bobby,,Kingsport,,
+emilbb,1976,Appalachian League,,M91394,Eagen,Tom,,Marion,,
+emilbb,1976,Appalachian League,,M91360,Hines,Ben,,Bluefield,,
+emilbb,1976,Appalachian League,,M91409,Keller,Buzzy,,Johnson City,,
+emilbb,1976,Appalachian League,,M91414,Lewis,Joe,,Bristol,,
+emilbb,1976,Appalachian League,,M91371,Linares,Julio,,Covington,,
+emilbb,1976,Appalachian League,,M91383,Mazmanian,Art,,Pulaski,,
+emilbb,1976,Appalachian League,,M91423,Waters,Fred,,Elizabethton,,

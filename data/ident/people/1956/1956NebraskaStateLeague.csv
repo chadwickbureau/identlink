@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1956,Nebraska State League,M92531,Baker,Charles Ray,,Superior,,,
-emilbb,1956,Nebraska State League,M92491,Doyle,Danny,,Lexington,,,
-emilbb,1956,Nebraska State League,M92515,Gumpert,Randy,,Kearney,,,
-emilbb,1956,Nebraska State League,M92553,Harris,Spencer,,North Platte,,,
-emilbb,1956,Nebraska State League,M92502,Mazmanian,Art,,Grand Island,,,
-emilbb,1956,Nebraska State League,M92544,Scalzi,Frank,,Holdredge,,,
-emilbb,1956,Nebraska State League,M92528,Steinecke,Bill,,McCook,,,
-emilbb,1956,Nebraska State League,M92566,Thompson,Gene,,Hastings,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1956,Nebraska State League,,M92531,Baker,Charles Ray,,Superior,,
+emilbb,1956,Nebraska State League,,M92491,Doyle,Danny,,Lexington,,
+emilbb,1956,Nebraska State League,,M92515,Gumpert,Randy,,Kearney,,
+emilbb,1956,Nebraska State League,,M92553,Harris,Spencer,,North Platte,,
+emilbb,1956,Nebraska State League,,M92502,Mazmanian,Art,,Grand Island,,
+emilbb,1956,Nebraska State League,,M92544,Scalzi,Frank,,Holdredge,,
+emilbb,1956,Nebraska State League,,M92528,Steinecke,Bill,,McCook,,
+emilbb,1956,Nebraska State League,,M92566,Thompson,Gene,,Hastings,,

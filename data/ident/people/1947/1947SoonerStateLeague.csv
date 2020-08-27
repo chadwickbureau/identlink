@@ -1,8 +1,8 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1947,Sooner State League,M94395,Brower,Lou,,Lawton,,,
-emilbb,1947,Sooner State League,M94405,Clanton,Ucal,,Ada,,,
-emilbb,1947,Sooner State League,M94418,Nebroak,William,,McAlester,,,
-emilbb,1947,Sooner State League,M94426,Prather,Dutch,,Ardmore,,,
-emilbb,1947,Sooner State League,M94439,Taber,John,,Seminole,,,
-emilbb,1947,Sooner State League,M94452,Utt,Otto,,Duncan,,,
-emilbb,1947,Sooner State League,M94447,Wilingham,Hugh,,Seminole,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1947,Sooner State League,,M94395,Brower,Lou,,Lawton,,
+emilbb,1947,Sooner State League,,M94405,Clanton,Ucal,,Ada,,
+emilbb,1947,Sooner State League,,M94418,Nebroak,William,,McAlester,,
+emilbb,1947,Sooner State League,,M94426,Prather,Dutch,,Ardmore,,
+emilbb,1947,Sooner State League,,M94439,Taber,John,,Seminole,,
+emilbb,1947,Sooner State League,,M94452,Utt,Otto,,Duncan,,
+emilbb,1947,Sooner State League,,M94447,Wilingham,Hugh,,Seminole,,

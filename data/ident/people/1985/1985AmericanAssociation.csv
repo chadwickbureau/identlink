@@ -1,10 +1,10 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1985,American Association,M90052,Alou,Felipe,,Indianapolis,,,alou
-emilbb,1985,American Association,M90047,Boles,John,,Buffalo,,,boles
-emilbb,1985,American Association,M90094,Cox,Larry,,Iowa,,,cox
-emilbb,1985,American Association,M90071,Dusan,Gene,,Denver,,,dusan
-emilbb,1985,American Association,M90018,Fregosi,Jim,,Louisville,,,fregosi
-emilbb,1985,American Association,M90083,Lamont,Gene,,Omaha,,,lamont
-emilbb,1985,American Association,M90039,MacKenzie,Gordon,,Nashville,,,mackenzie
-emilbb,1985,American Association,M90060,Oliver,Dave,,Oklahoma City,,,oliver
-emilbb,1985,American Association,M90026,Walls,Lee,,Nashville,,,walls
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1985,American Association,alou,M90052,Alou,Felipe,,Indianapolis,,
+emilbb,1985,American Association,boles,M90047,Boles,John,,Buffalo,,
+emilbb,1985,American Association,cox,M90094,Cox,Larry,,Iowa,,
+emilbb,1985,American Association,dusan,M90071,Dusan,Gene,,Denver,,
+emilbb,1985,American Association,fregosi,M90018,Fregosi,Jim,,Louisville,,
+emilbb,1985,American Association,lamont,M90083,Lamont,Gene,,Omaha,,
+emilbb,1985,American Association,mackenzie,M90039,MacKenzie,Gordon,,Nashville,,
+emilbb,1985,American Association,oliver,M90060,Oliver,Dave,,Oklahoma City,,
+emilbb,1985,American Association,walls,M90026,Walls,Lee,,Nashville,,

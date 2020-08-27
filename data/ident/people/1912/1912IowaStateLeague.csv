@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1912,Iowa State League,M94031,Bacon,M.,,Clear Lake,,,
-emilbb,1912,Iowa State League,M93987,Barber,Frank,,Mason City,,,
-emilbb,1912,Iowa State League,M93998,Collins,Connie,,Fort Dodge,,,
-emilbb,1912,Iowa State League,M94015,Smithson,Ed,,Emmetsburg,,,
-emilbb,1912,Iowa State League,M94002,Welch,Harry,,Estherville,,,
-emilbb,1912,Iowa State League,M94028,Wells,Dick,,Clear Lake,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1912,Iowa State League,,M94031,Bacon,M.,,Clear Lake,,
+emilbb,1912,Iowa State League,,M93987,Barber,Frank,,Mason City,,
+emilbb,1912,Iowa State League,,M93998,Collins,Connie,,Fort Dodge,,
+emilbb,1912,Iowa State League,,M94015,Smithson,Ed,,Emmetsburg,,
+emilbb,1912,Iowa State League,,M94002,Welch,Harry,,Estherville,,
+emilbb,1912,Iowa State League,,M94028,Wells,Dick,,Clear Lake,,

@@ -1,670 +1,670 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-1909Reach,1908,Texas League,B00362,Ables,,1,Dallas,,,ables
-1909Reach,1908,Texas League,B00362,Ables,,2,San Antonio,,,ables
-1909Reach,1908,Texas League,B00362,Ables,,T,,,B29,ables
-1909Reach,1908,Texas League,F20583,Ables,,1,Dallas,,p,ables
-1909Reach,1908,Texas League,F20583,Ables,,2,San Antonio,,p,ables
-1909Reach,1908,Texas League,F20583,Ables,,T,,,p29,ables
-1909Reach,1908,Texas League,P10215,Ables,,1,Dallas,,,ables
-1909Reach,1908,Texas League,P10215,Ables,,2,San Antonio,,,ables
-1909Reach,1908,Texas League,P10215,Ables,,T,,,P22,ables
-1909Reach,1908,Texas League,B01162,Adams,,0,Austin,,B77,adams
-1909Reach,1908,Texas League,F21149,Adams,,0,Austin,,1b10,adams
-1909Reach,1908,Texas League,F21356,Adams,,0,Austin,,2b28,adams
-1909Reach,1908,Texas League,F21904,Adams,,0,Austin,,ss27,adams
-1909Reach,1908,Texas League,F22099,Adams,,0,Austin,,of12,adams
-1909Reach,1908,Texas League,B00783,Aiken,,0,Houston,,B139,aiken
-1909Reach,1908,Texas League,F21638,Aiken,,0,Houston,,3b139,aiken
-1909Reach,1908,Texas League,B00196,Alexander,,0,San Antonio,,B70,alexander
-1909Reach,1908,Texas League,F20023,Alexander,,0,San Antonio,,c79,alexander
-1909Reach,1908,Texas League,B01711,Anderson,,1,Galveston,,,anderson
-1909Reach,1908,Texas League,B01711,Anderson,,2,Shreveport,,,anderson
-1909Reach,1908,Texas League,B01711,Anderson,,T,,,B4,anderson
-1909Reach,1908,Texas League,F20303,Anderson,,1,Galveston,,p,anderson
-1909Reach,1908,Texas League,F20303,Anderson,,2,Shreveport,,p,anderson
-1909Reach,1908,Texas League,F20303,Anderson,,T,,,p4,anderson
-1909Reach,1908,Texas League,P10407,Anderson,,0,Shreveport,,P2,anderson
-1909Reach,1908,Texas League,B00370,Arnold,,0,Shreveport,,B116,arnold
-1909Reach,1908,Texas League,F21207,Arnold,,0,Shreveport,,1b116,arnold
-1909Reach,1908,Texas League,B01523,Atkins,,0,Galveston,,B37,atkins
-1909Reach,1908,Texas League,F21752,Atkins,,0,Galveston,,3b37,atkins
-1909Reach,1908,Texas League,B00822,Badger,,0,Galveston,,B89,badger
-1909Reach,1908,Texas League,F21450,Badger,,0,Galveston,,2b51,badger
-1909Reach,1908,Texas League,F21726,Badger,,0,Galveston,,3b38,badger
-1909Reach,1908,Texas League,B00076,Balyes,,0,Dallas,,B6,bayles
-1909Reach,1908,Texas League,B00811,Bamer,,1,Fort Worth,,,bamer
-1909Reach,1908,Texas League,B00811,Bamer,,2,San Antonio,,,bamer
-1909Reach,1908,Texas League,B00811,Bamer,,T,,,B42,bamer
-1909Reach,1908,Texas League,F20128,Bamer,,1,Fort Worth,,c,bamer
-1909Reach,1908,Texas League,F20128,Bamer,,2,San Antonio,,c,bamer
-1909Reach,1908,Texas League,F20128,Bamer,,T,,,c42,bamer
-1909Reach,1908,Texas League,B02062,Barclay,,0,San Antonio,,B3,barclay
-1909Reach,1908,Texas League,B01952,Barnett,,0,Dallas,,B11,burnett
-1909Reach,1908,Texas League,B01490,Bauer,,0,Waco,,B24,bauer
-1909Reach,1908,Texas League,F22378,Bauer,,0,Waco,,of24,bauer
-1909Reach,1908,Texas League,B01779,Bauldwin,,0,Fort Worth,,B7,bauldwin
-1909Reach,1908,Texas League,F20893,Bayles,,0,Dallas,,p6,bayles
-1909Reach,1908,Texas League,P10312,Bayles,,0,Dallas,,P4,bayles
-1909Reach,1908,Texas League,B01197,Bell,,0,Waco,,B141,bell
-1909Reach,1908,Texas League,F21840,Bell,,0,Waco,,ss141,bell
-1909Reach,1908,Texas League,P10860,Black,,0,Dallas,,P1,blackwood
-1909Reach,1908,Texas League,F20417,Blackwood,,0,Dallas,,p1,blackwood
-1909Reach,1908,Texas League,B00491,Blake,,0,Shreveport,,B107,blake-shr
-1909Reach,1908,Texas League,B00739,Blake,,1,Austin,,,blake-aus+hou
-1909Reach,1908,Texas League,B00739,Blake,,2,Houston,,,blake-aus+hou
-1909Reach,1908,Texas League,B00739,Blake,,T,,,B134,blake-aus+hou
-1909Reach,1908,Texas League,F21475,Blake,,0,Shreveport,,2b107,blake-shr
-1909Reach,1908,Texas League,F22061,Blake,,1,Austin,,of,blake-aus+hou
-1909Reach,1908,Texas League,F22061,Blake,,2,Houston,,of,blake-aus+hou
-1909Reach,1908,Texas League,F22061,Blake,,T,,,of134,blake-aus+hou
-1909Reach,1908,Texas League,B01269,Blumling,,0,Galveston,,B16,blumling
-1909Reach,1908,Texas League,F21013,Blumling,,0,Galveston,,p16,blumling
-1909Reach,1908,Texas League,P10622,Blumling,,0,Galveston,,P12,blumling
-1909Reach,1908,Texas League,B01625,Booles,,0,Shreveport,,B39,booles
-1909Reach,1908,Texas League,F20673,Booles,,0,Shreveport,,p39,booles
-1909Reach,1908,Texas League,P10399,Booles,,0,Shreveport,,P33,booles
-1909Reach,1908,Texas League,B00904,Boyd,,0,Shreveport,,B15,boyd
-1909Reach,1908,Texas League,F22085,Boyd,,0,Shreveport,,of15,boyd
-1909Reach,1908,Texas League,B01250,Braun,,0,Austin,,B13,braun
-1909Reach,1908,Texas League,F20233,Braun,,0,Austin,,c13,braun
-1909Reach,1908,Texas League,B01428,Brent,,0,Fort Worth,,B15,brent
-1909Reach,1908,Texas League,F22386,Brent,,0,Fort Worth,,of15,brent
-1909Reach,1908,Texas League,B01007,Brockman,,0,Shreveport,,B87,brockman
-1909Reach,1908,Texas League,F21695,Brockman,,0,Shreveport,,3b44,brockman
-1909Reach,1908,Texas League,F21898,Brockman,,0,Shreveport,,ss37,brockman
-1909Reach,1908,Texas League,B00092,Brown,,1,San Antonio,,,brown-sa+gal
-1909Reach,1908,Texas League,B00092,Brown,,2,Galveston,,,brown-sa+gal
-1909Reach,1908,Texas League,B00092,Brown,,T,,,B3,brown-sa+gal
-1909Reach,1908,Texas League,B01376,Brown,,0,Shreveport,,B2,brown-shr
-1909Reach,1908,Texas League,F21037,Brown,,0,Galveston,,p3,brown-sa+gal
-1909Reach,1908,Texas League,P10611,Brown,,0,Galveston,,P3,brown-sa+gal
-1909Reach,1908,Texas League,B01135,Browning,,0,Waco,,B47,browning
-1909Reach,1908,Texas League,F20620,Browning,,0,Waco,,p37,browning
-1909Reach,1908,Texas League,F21553,Browning,,0,Waco,,3b10,browning
-1909Reach,1908,Texas League,P10228,Browning,,0,Waco,,P34,browning
-1909Reach,1908,Texas League,B01926,Bruner,,0,Shreveport,,B7,bruner
-1909Reach,1908,Texas League,F20699,Bruner,,0,Shreveport,,p7,bruner
-1909Reach,1908,Texas League,P10698,Brunson,,0,Shreveport,,P7,bruner
-1909Reach,1908,Texas League,B00747,Bumpers,,0,Waco,,B5,bumpers
-1909Reach,1908,Texas League,F21059,Bumpers,,0,Waco,,p5,bumpers
-1909Reach,1908,Texas League,P10070,Bumpers,,0,Waco,,P5,bumpers
-1909Reach,1908,Texas League,B01857,Bunch,,0,Houston,,B7,bunch
-1909Reach,1908,Texas League,F21101,Bunch,,0,Houston,,p7,bunch
-1909Reach,1908,Texas League,P10361,Bunch,,0,Houston,,P6,bunch
-1909Reach,1908,Texas League,F20612,Burnett,,0,Dallas,,p11,burnett
-1909Reach,1908,Texas League,P10304,Burnett,,0,Dallas,,P8,burnett
-1909Reach,1908,Texas League,B01444,Burns,,0,San Antonio,,B29,burns
-1909Reach,1908,Texas League,F20713,Burns,,0,San Antonio,,p29,burns
-1909Reach,1908,Texas League,P10113,Burns,,0,San Antonio,,P14,burns
-1909Reach,1908,Texas League,B01203,Burton,,1,Galveston,,,burton
-1909Reach,1908,Texas League,B01203,Burton,,2,Houston,,,burton
-1909Reach,1908,Texas League,B01203,Burton,,T,,,B47,burton
-1909Reach,1908,Texas League,F21434,Burton,,1,Galveston,,2b,burton
-1909Reach,1908,Texas League,F21434,Burton,,2,Houston,,2b,burton
-1909Reach,1908,Texas League,F21434,Burton,,T,,,2b32,burton
-1909Reach,1908,Texas League,F21948,Burton,,1,Houston,,ss,burton
-1909Reach,1908,Texas League,F21948,Burton,,2,Galveston,,ss,burton
-1909Reach,1908,Texas League,F21948,Burton,,T,,,ss15,burton
-1909Reach,1908,Texas League,B02008,Bush,,0,Shreveport,,B1,bush
-1909Reach,1908,Texas League,F21076,Bush,,0,Shreveport,,p1,bush
-1909Reach,1908,Texas League,P10925,Bush,,0,Shreveport,,P1,bush
-1909Reach,1908,Texas League,F20401,Byler,,0,Dallas,,p1,byler
-1909Reach,1908,Texas League,P10024,Byler,,0,Dallas,,P1,byler
-1909Reach,1908,Texas League,B00957,Carlin,,0,Galveston,,B55,carlin
-1909Reach,1908,Texas League,F21469,Carlin,,0,Galveston,,2b41,carlin
-1909Reach,1908,Texas League,F21747,Carlin,,0,Galveston,,3b14,carlin
-1909Reach,1908,Texas League,B00475,Casey,,0,Austin,,B21,casey
-1909Reach,1908,Texas League,F20449,Casey,,0,Austin,,p21,casey
-1909Reach,1908,Texas League,P10575,Casey,,0,Austin,,P17,casey
-1909Reach,1908,Texas League,B01124,Cavender,,0,Waco,,B142,cavender
-1909Reach,1908,Texas League,F22169,Cavender,,0,Waco,,of142,cavender
-1909Reach,1908,Texas League,F20350,Cavett,,0,Dallas,,p2,cavett
-1909Reach,1908,Texas League,P10871,Cavett,,0,Dallas,,P1,cavett
-1909Reach,1908,Texas League,B00912,Cermak,,1,Austin,,,cermak
-1909Reach,1908,Texas League,B00912,Cermak,,2,Waco,,,cermak
-1909Reach,1908,Texas League,B00912,Cermak,,3,Shreveport,,,cermak
-1909Reach,1908,Texas League,B00912,Cermak,,T,,,B61,cermak
-1909Reach,1908,Texas League,F21427,Cermak,,1,Austin,,2b,cermak
-1909Reach,1908,Texas League,F21427,Cermak,,2,Shreveport,,2b,cermak
-1909Reach,1908,Texas League,F21427,Cermak,,T,,,2b16,cermak
-1909Reach,1908,Texas League,F22267,Cermak,,1,Austin,,of,cermak
-1909Reach,1908,Texas League,F22267,Cermak,,2,Shreveport,,of,cermak
-1909Reach,1908,Texas League,F22267,Cermak,,T,,,of45,cermak
-1909Reach,1908,Texas League,B01939,Chelette,,0,Shreveport,,B10,chelette
-1909Reach,1908,Texas League,F21021,Chelette,,0,Shreveport,,p10,chelette
-1909Reach,1908,Texas League,P10654,Chelette,,0,Shreveport,,P9,chelette
-1909Reach,1908,Texas League,B01658,Chrisman,,0,Shreveport,,B16,chrisman
-1909Reach,1908,Texas League,F20539,Chrisman,,0,Shreveport,,p16,chrisman
-1909Reach,1908,Texas League,P10738,Chrisman,,0,Shreveport,,P14,chrisman
-1909Reach,1908,Texas League,B01580,Christian,,0,Galveston,,B30,christian
-1909Reach,1908,Texas League,F20571,Christian,,0,Galveston,,p30,christian
-1909Reach,1908,Texas League,P10455,Christian,,0,Galveston,,P22,christian
-1909Reach,1908,Texas League,B00293,Claire,,0,Shreveport,,B21,claire
-1909Reach,1908,Texas League,F21614,Claire,,0,Shreveport,,3b21,claire
-1909Reach,1908,Texas League,B01551,Clark,,0,Shreveport,,B7,clark
-1909Reach,1908,Texas League,B01994,Clauson,,0,Houston,,B2,clauson
-1909Reach,1908,Texas League,F21117,Clauson,,0,Houston,,p2,clauson
-1909Reach,1908,Texas League,P10056,Clauson,,0,Houston,,P1,clauson
-1909Reach,1908,Texas League,B02035,Cole,,0,Waco,,B3,cole
-1909Reach,1908,Texas League,F20375,Cole,,0,Waco,,p1,cole
-1909Reach,1908,Texas League,P10751,Cole,,0,Waco,,P2,cole
-1909Reach,1908,Texas League,F20919,Colegrove,,0,San Antonio,,p36,colegrove
-1909Reach,1908,Texas League,P10493,Colegrove,,0,San Antonio,,P29,colegrove
-1909Reach,1908,Texas League,B00210,Collins,,0,San Antonio,,B141,collins
-1909Reach,1908,Texas League,F21783,Collins,,0,San Antonio,,ss12,collins
-1909Reach,1908,Texas League,F22004,Collins,,0,San Antonio,,of129,collins
-1909Reach,1908,Texas League,B01489,Cooper,,0,Dallas,,B35,cooper
-1909Reach,1908,Texas League,F20636,Cooper,,0,Dallas,,p35,cooper
-1909Reach,1908,Texas League,P10137,Cooper,,0,Dallas,,P31,cooper
-1909Reach,1908,Texas League,B00705,Coveney,,0,San Antonio,,B48,coveney
-1909Reach,1908,Texas League,F20072,Coveney,,0,San Antonio,,c48,coveney
-1909Reach,1908,Texas League,B01086,Crabble,,1,Austin,,,crabble
-1909Reach,1908,Texas League,B01086,Crabble,,2,Waco,,,crabble
-1909Reach,1908,Texas League,B01086,Crabble,,3,Galveston,,,crabble
-1909Reach,1908,Texas League,B01086,Crabble,,T,,,B28,crabble
-1909Reach,1908,Texas League,F20792,Crabble,,1,Austin,,p,crabble
-1909Reach,1908,Texas League,F20792,Crabble,,2,Waco,,p,crabble
-1909Reach,1908,Texas League,F20792,Crabble,,T,,,p28,crabble
-1909Reach,1908,Texas League,P10591,Crabble,,0,Austin,,P25,crabble
-1909Reach,1908,Texas League,B01313,Curtis,F.,0,Fort Worth,,B11,curtis
-1909Reach,1908,Texas League,F22355,Curtis,,1,Galveston,,of,curtis
-1909Reach,1908,Texas League,F22355,Curtis,,2,Fort Worth,,of,curtis
-1909Reach,1908,Texas League,F22355,Curtis,,T,,,of11,curtis
-1909Reach,1908,Texas League,B00013,Cutchin,,0,Fort Worth,,B1,cutchin
-1909Reach,1908,Texas League,B01918,Dabney,,0,Galveston,,B10,dabney
-1909Reach,1908,Texas League,F21045,Dabney,,0,Galveston,,p10,dabney
-1909Reach,1908,Texas League,P10795,Dabney,,0,Galveston,,P5,dabney
-1909Reach,1908,Texas League,B00021,Daley,,0,Austin,,B1,daley
-1909Reach,1908,Texas League,B00286,Dawson,,0,Houston,,B88,dawson
-1909Reach,1908,Texas League,F20166,Dawson,,0,Houston,,c78,dawson
-1909Reach,1908,Texas League,F21130,Dawson,,0,Houston,,1b10,dawson
-1909Reach,1908,Texas League,B00646,Deiters,,0,Fort Worth,,B143,deiters
-1909Reach,1908,Texas League,F21646,Deiters,,0,Fort Worth,,3b143,deiters
-1909Reach,1908,Texas League,B00059,Dickinson,,0,Dallas,,B3,dickinson
-1909Reach,1908,Texas League,F21084,Dickinson,,0,Dallas,,p3,dickinson
-1909Reach,1908,Texas League,P10184,Dickinson,,0,Dallas,,P3,dickinson
-1909Reach,1908,Texas League,B01873,Dickson,,0,Houston,,B9,dickson
-1909Reach,1908,Texas League,B01538,Dowd,,0,Austin,,B32,dowd
-1909Reach,1908,Texas League,F21397,Dowd,,0,Austin,,2b18,dowd
-1909Reach,1908,Texas League,F21854,Dowd,,0,Austin,,ss14,dowd
-1909Reach,1908,Texas League,B01431,Dugey,,0,Waco,,B27,dugey
-1909Reach,1908,Texas League,F21718,Dugey,,0,Waco,,3b27,dugey
-1909Reach,1908,Texas League,B00577,Dupree,,1,Fort Worth,,,dupree
-1909Reach,1908,Texas League,B00577,Dupree,,2,San Antonio,,,dupree
-1909Reach,1908,Texas League,B00577,Dupree,,T,,,B48,dupree
-1909Reach,1908,Texas League,F20829,Dupree,,0,Fort Worth,,p48,dupree
-1909Reach,1908,Texas League,P10244,Dupree,,0,Fort Worth,,P36,dupree
-1909Reach,1908,Texas League,B01509,Earthman,,1,Waco,,,earthman
-1909Reach,1908,Texas League,B01509,Earthman,,2,Shreveport,,,earthman
-1909Reach,1908,Texas League,B01509,Earthman,,T,,,B53,earthman
-1909Reach,1908,Texas League,F21502,Earthman,,1,Waco,,2b,earthman
-1909Reach,1908,Texas League,F21502,Earthman,,2,Shreveport,,2b,earthman
-1909Reach,1908,Texas League,F21502,Earthman,,T,,,2b22,earthman
-1909Reach,1908,Texas League,F21667,Earthman,,0,Waco,,3b16,earthman
-1909Reach,1908,Texas League,F21957,Earthman,,0,Waco,,ss15,earthman
-1909Reach,1908,Texas League,B01041,Ebright,,0,San Antonio,,B6,ebright
-1909Reach,1908,Texas League,B00037,Edmondson,,0,Galveston,,B96,edmondson
-1909Reach,1908,Texas League,F22116,Edmondson,,0,Galveston,,of96,edmondson
-1909Reach,1908,Texas League,B02043,Edmuns,,0,Waco,,B3,edmuns
-1909Reach,1908,Texas League,B01905,Elliott,,0,Shreveport,,B5,elliott
-1909Reach,1908,Texas League,F21920,Ens,,1,San Antonio,,ss,ens
-1909Reach,1908,Texas League,F21920,Ens,,2,Shreveport,,ss,ens
-1909Reach,1908,Texas League,F21920,Ens,,T,,,ss28,ens
-1909Reach,1908,Texas League,B00638,Epler,,1,Fort Worth,,,epler
-1909Reach,1908,Texas League,B00638,Epler,,2,Galveston,,,epler
-1909Reach,1908,Texas League,B00638,Epler,,T,,,B138,epler
-1909Reach,1908,Texas League,F20369,Epler,,1,Fort Worth,,p,epler
-1909Reach,1908,Texas League,F20369,Epler,,2,Galveston,,p,epler
-1909Reach,1908,Texas League,F20369,Epler,,T,,,p1,epler
-1909Reach,1908,Texas League,F22307,Epler,,1,Fort Worth,,of,epler
-1909Reach,1908,Texas League,F22307,Epler,,2,Galveston,,of,epler
-1909Reach,1908,Texas League,F22307,Epler,,T,,,of137,epler
-1909Reach,1908,Texas League,P10035,Epler,,0,Galveston,,P1,epler
-1909Reach,1908,Texas League,B01960,Firds,,0,Austin,,B1,firds
-1909Reach,1908,Texas League,F21125,Firds,,0,Austin,,p1,firds
-1909Reach,1908,Texas League,P10818,Firds,,0,Austin,,P1,firds
-1909Reach,1908,Texas League,F21609,Firestine,,0,Austin,,3b109,firestine
-1909Reach,1908,Texas League,B01415,Firetine,,0,Austin,,B109,firestine
-1909Reach,1908,Texas League,B00319,Fletcher,,0,Dallas,,B147,fletcher
-1909Reach,1908,Texas League,F21822,Fletcher,,0,Dallas,,ss147,fletcher
-1909Reach,1908,Texas League,B01674,Forrester,,0,Fort Worth,,B18,forrester
-1909Reach,1908,Texas League,F20518,Forrester,,0,Fort Worth,,p18,forrester
-1909Reach,1908,Texas League,P10289,Forrester,,0,Fort Worth,,P14,forrester
-1909Reach,1908,Texas League,B00045,Gaffield,,0,Austin,,B3,gaffield
-1909Reach,1908,Texas League,B01848,Galbraith,,1,Fort Worth,,,galbraith
-1909Reach,1908,Texas League,B01848,Galbraith,,2,Shreveport,,,galbraith
-1909Reach,1908,Texas League,B01848,Galbraith,,T,,,B14,galbraith
-1909Reach,1908,Texas League,F20458,Galbraith,,0,Fort Worth,,p14,galbraith
-1909Reach,1908,Texas League,P10410,Galbraith,,0,Fort Worth,,P10,galbraith
-1909Reach,1908,Texas League,B01384,Gaskill,,0,Shreveport,,B15,gaskill
-1909Reach,1908,Texas League,F20482,Gaskill,,0,Shreveport,,p15,gaskill
-1909Reach,1908,Texas League,P10176,Gaskill,,0,Shreveport,,P13,gaskill
-1909Reach,1908,Texas League,B00356,Gear,,0,Shreveport,,B146,gear
-1909Reach,1908,Texas League,F22238,Gear,,0,Shreveport,,of146,gear
-1909Reach,1908,Texas League,B01663,Golgrove,,1,San Antonio,,,colegrove
-1909Reach,1908,Texas League,B01663,Golgrove,,2,Fort Worth,,,colegrove
-1909Reach,1908,Texas League,B01663,Golgrove,,T,,,B36,colegrove
-1909Reach,1908,Texas League,F20388,Goodman,,0,Waco,,p1,goodman
-1909Reach,1908,Texas League,P10772,Goodman,,0,Waco,,P1,goodman
-1909Reach,1908,Texas League,B00667,Gordon,,0,Austin,,B85,gordon
-1909Reach,1908,Texas League,F20222,Gordon,,0,Austin,,c71,gordon
-1909Reach,1908,Texas League,F21196,Gordon,,0,Austin,,1b14,gordon
-1909Reach,1908,Texas League,B00936,Graham,,0,Austin,,B4,graham
-1909Reach,1908,Texas League,F20298,Graham,,0,Austin,,p4,graham
-1909Reach,1908,Texas League,P10805,Graham,,0,Austin,,P1,graham
-1909Reach,1908,Texas League,B01156,Griffin,,0,Fort Worth,,B59,griffin
-1909Reach,1908,Texas League,F20474,Griffin,,0,Fort Worth,,p35,griffin
-1909Reach,1908,Texas League,F21961,Griffin,,0,Fort Worth,,of22,griffin
-1909Reach,1908,Texas League,P10100,Griffin,,0,Fort Worth,,P32,griffin
-1909Reach,1908,Texas League,B00125,Griggs,,0,San Antonio,,B118,griggs
-1909Reach,1908,Texas League,F20153,Griggs,,0,San Antonio,,c11,griggs
-1909Reach,1908,Texas League,F21362,Griggs,,1,Shreveport,,2b,griggs
-1909Reach,1908,Texas League,F21362,Griggs,,2,San Antonio,,2b,griggs
-1909Reach,1908,Texas League,F21362,Griggs,,T,,,2b107,griggs
-1909Reach,1908,Texas League,B00589,Hafter,,0,Waco,,B8,hafter
-1909Reach,1908,Texas League,P10930,Hall,,0,Shreveport,,P1,hall
-1909Reach,1908,Texas League,B01787,Hanivan,,0,San Antonio,,B4,hanivan
-1909Reach,1908,Texas League,B00752,Harbison,,0,Waco,,B145,harbison
-1909Reach,1908,Texas League,F21232,Harbison,,0,Waco,,1b145,harbison
-1909Reach,1908,Texas League,B01337,Harris,,0,San Antonio,,B3,harris
-1909Reach,1908,Texas League,F20745,Harris,,0,San Antonio,,p34,harris
-1909Reach,1908,Texas League,P10121,Harris,,0,San Antonio,,P31,harris
-1909Reach,1908,Texas League,B00553,Hartman,,0,Fort Worth,,B142,hartman
-1909Reach,1908,Texas League,F21806,Hartman,,0,Fort Worth,,ss142,hartman
-1909Reach,1908,Texas League,B00232,Heilman,,0,Austin,,B28,heilman
-1909Reach,1908,Texas League,B01682,Hellman,,0,Austin,,B7,helman
-1909Reach,1908,Texas League,F20190,Hellman,,0,Austin,,c12,heilman
-1909Reach,1908,Texas League,F22411,Hellman,,0,Austin,,of13,heilman
-1909Reach,1908,Texas League,P10640,Hellman,,0,Austin,,P3,helman
-1909Reach,1908,Texas League,F20254,Helman,,0,Austin,,p3,helman
-1909Reach,1908,Texas League,B01836,Hensling,,0,Waco,,B9,hensling
-1909Reach,1908,Texas League,F20935,Hensling,,0,Waco,,p9,hensling
-1909Reach,1908,Texas League,P10606,Hensling,,0,Waco,,P6,hensling
-1909Reach,1908,Texas League,B01170,Herbert,,0,Austin,,B33,herbert
-1909Reach,1908,Texas League,F20970,Herbert,,0,Austin,,p33,herbert
-1909Reach,1908,Texas League,P10723,Herbert,,0,Austin,,P21,herbert
-1909Reach,1908,Texas League,B01368,Hester,,1,Houston,,,hester
-1909Reach,1908,Texas League,B01368,Hester,,2,Austin,,,hester
-1909Reach,1908,Texas League,B01368,Hester,,T,,,B39,hester
-1909Reach,1908,Texas League,F20776,Hester,,1,Houston,,p,hester
-1909Reach,1908,Texas League,F20776,Hester,,2,Austin,,p,hester
-1909Reach,1908,Texas League,F20776,Hester,,T,,,p39,hester
-1909Reach,1908,Texas League,P10665,Hester,,1,Houston,,,hester
-1909Reach,1908,Texas League,P10665,Hester,,2,Austin,,,hester
-1909Reach,1908,Texas League,P10665,Hester,,T,,,P31,hester
-1909Reach,1908,Texas League,B01275,Hickey,,0,Galveston,,B10,hickey
-1909Reach,1908,Texas League,F20981,Hickey,,0,Galveston,,p10,hickey
-1909Reach,1908,Texas League,P10527,Hickey,,0,Galveston,,P6,hickey
-1909Reach,1908,Texas League,B00920,Hilding,,0,Shreveport,,B67,hilding
-1909Reach,1908,Texas League,F20080,Hilding,,0,Shreveport,,c29,hilding
-1909Reach,1908,Texas League,F21278,Hilding,,0,Shreveport,,1b17,hilding
-1909Reach,1908,Texas League,F21739,Hilding,,0,Shreveport,,3b21,hilding
-1909Reach,1908,Texas League,B01392,Hise,,0,Galveston,,B37,hise
-1909Reach,1908,Texas League,F20721,Hise,,0,Galveston,,p37,hise
-1909Reach,1908,Texas League,P10516,Hise,,0,Galveston,,P35,hise
-1909Reach,1908,Texas League,B00887,Hoffman,,1,Shreveport,,,hoffman
-1909Reach,1908,Texas League,B00887,Hoffman,,2,Waco,,,hoffman
-1909Reach,1908,Texas League,B00887,Hoffman,,T,,,B114,hoffman
-1909Reach,1908,Texas League,F22103,Hoffman,,0,Waco,,of81,hoffman
-1909Reach,1908,Texas League,F21589,Hofman,,1,Shreveport,,3b,hoffman
-1909Reach,1908,Texas League,F21589,Hofman,,2,Waco,,3b,hoffman
-1909Reach,1908,Texas League,F21589,Hofman,,T,,,3b33,hoffman
-1909Reach,1908,Texas League,F22422,Hoie,,0,Dallas,,of13,hoie
-1909Reach,1908,Texas League,B00264,Hole,,0,Dallas,,B143,hoie
-1909Reach,1908,Texas League,F21319,Hole,,0,Dallas,,1b130,hoie
-1909Reach,1908,Texas League,B00068,Hooks,,0,Waco,,B4,hooks
-1909Reach,1908,Texas League,F20886,Hooks,,0,Waco,,p4,hooks
-1909Reach,1908,Texas League,P10097,Hooks,,0,Waco,,P4,hooks
-1909Reach,1908,Texas League,B01617,Hornsby,,0,Waco,,B43,hornsby
-1909Reach,1908,Texas League,F20832,Hornsby,,0,Waco,,p43,hornsby
-1909Reach,1908,Texas League,P10290,Hornsby,,0,Waco,,P38,hornsby
-1909Reach,1908,Texas League,B01143,Humphries,,0,Waco,,B6,humphries
-1909Reach,1908,Texas League,B00672,Jackson,,0,Dallas,,B74,jackson-dal
-1909Reach,1908,Texas League,B00999,Jackson,,0,Houston,,B72,jackson-hou
-1909Reach,1908,Texas League,F20759,Jackson,,0,Houston,,p27,jackson-hou
-1909Reach,1908,Texas League,F21293,Jackson,,0,Dallas,,1b45,jackson-dal
-1909Reach,1908,Texas League,F21672,Jackson,,0,Dallas,,3b11,jackson-dal
-1909Reach,1908,Texas League,F22191,Jackson,,0,Dallas,,of63,jackson-dal
-1909Reach,1908,Texas League,P10357,Jackson,,0,Houston,,P23,jackson-hou
-1909Reach,1908,Texas League,B01885,Jacoby,,0,Fort Worth,,B6,jacoby
-1909Reach,1908,Texas League,F20878,Jacoby,,0,Fort Worth,,p6,jacoby
-1909Reach,1908,Texas League,P10569,Jacoby,,0,Fort Worth,,P5,jacoby
-1909Reach,1908,Texas League,B01740,Jarvis,,0,Houston,,B36,jarvis
-1909Reach,1908,Texas League,F20526,Jarvis,,0,Houston,,p36,jarvis
-1909Reach,1908,Texas League,P10168,Jarvis,,0,Houston,,P31,jarvis
-1909Reach,1908,Texas League,B01899,Johnson,,0,Austin,,B10,johnson-aus
-1909Reach,1908,Texas League,B02019,Johnson,,0,Houston,,B2,johnson-hou
-1909Reach,1908,Texas League,F20342,Johnson,,0,Houston,,p2,johnson-hou
-1909Reach,1908,Texas League,F20841,Johnson,,0,Austin,,p10,johnson-aus
-1909Reach,1908,Texas League,P10542,Johnson,,0,Austin,,P10,johnson-aus
-1909Reach,1908,Texas League,P10917,Johnson,,0,Houston,,P2,johnson-hou
-1909Reach,1908,Texas League,B00695,Jolly,,1,Waco,,,jolly
-1909Reach,1908,Texas League,B00695,Jolly,,2,Fort Worth,,,jolly
-1909Reach,1908,Texas League,B00695,Jolly,,T,,,B9,jolly
-1909Reach,1908,Texas League,F20287,Jolly,,1,Waco,,p,jolly
-1909Reach,1908,Texas League,F20287,Jolly,,2,Fort Worth,,p,jolly
-1909Reach,1908,Texas League,F20287,Jolly,,T,,,p9,jolly
-1909Reach,1908,Texas League,P10847,Jolly,,0,Fort Worth,,P2,jolly
-1909Reach,1908,Texas League,B01514,Jung,,0,Houston,,B12,jung
-1909Reach,1908,Texas League,P10550,Jung,,0,Houston,,P10,jung
-1909Reach,1908,Texas League,B00515,Kane,,0,Galveston,,B137,kane
-1909Reach,1908,Texas League,F21286,Kane,,0,Galveston,,1b46,kane
-1909Reach,1908,Texas League,F21442,Kane,,0,Galveston,,2b20,kane
-1909Reach,1908,Texas League,F21760,Kane,,0,Galveston,,3b47,kane
-1909Reach,1908,Texas League,F22341,Kane,,0,Galveston,,of24,kane
-1909Reach,1908,Texas League,B00397,Kerns,,0,Dallas,,B104,kerns
-1909Reach,1908,Texas League,F20144,Kerns,,0,Dallas,,c104,kerns
-1909Reach,1908,Texas League,B00771,Kiett,,0,Fort Worth,,B135,kiett
-1909Reach,1908,Texas League,F22329,Kiett,,0,Fort Worth,,of135,kiett
-1909Reach,1908,Texas League,B00865,Killifer,,0,Austin,,B65,killifer
-1909Reach,1908,Texas League,F20051,Killifer,,0,Austin,,c54,killifer
-1909Reach,1908,Texas League,F22406,Killifer,,0,Austin,,of11,killifer
-1909Reach,1908,Texas League,B00898,Knaupp,,1,San Antonio,,,knaupp
-1909Reach,1908,Texas League,B00898,Knaupp,,2,Fort Worth,,,knaupp
-1909Reach,1908,Texas League,B00898,Knaupp,,T,,,B35,knaupp
-1909Reach,1908,Texas League,F20189,Knaupp,,0,San Antonio,,c35,knaupp
-1909Reach,1908,Texas League,B00101,Kores,,0,Austin,,B1,kores
-1909Reach,1908,Texas League,F20327,Kores,,0,Austin,,p1,kores
-1909Reach,1908,Texas League,P10043,Kores,,0,Austin,,P1,kores
-1909Reach,1908,Texas League,B00680,Lauzon,,0,Galveston,,B75,lauzon
-1909Reach,1908,Texas League,F20102,Lauzon,,0,Galveston,,c57,lauzon
-1909Reach,1908,Texas League,F21163,Lauzon,,0,Galveston,,1b18,lauzon
-1909Reach,1908,Texas League,B01402,Law,,0,Austin,,B11,law
-1909Reach,1908,Texas League,F21264,Law,,0,Austin,,1b11,law
-1909Reach,1908,Texas League,B00241,Leidy,,0,San Antonio,,B134,leidy
-1909Reach,1908,Texas League,F22048,Leidy,,0,San Antonio,,of134,leidy
-1909Reach,1908,Texas League,B01345,Leopold,,0,Galveston,,B13,leopold
-1909Reach,1908,Texas League,F21531,Leopold,,0,Galveston,,2b13,leopold
-1909Reach,1908,Texas League,B01029,Longley,,0,Austin,,B89,longley
-1909Reach,1908,Texas League,F22223,Longley,,0,Austin,,of89,longley
-1909Reach,1908,Texas League,B01765,Loudell,,0,Dallas,,B31,loudell
-1909Reach,1908,Texas League,F20547,Loudell,,0,Dallas,,p31,loudell
-1909Reach,1908,Texas League,P10253,Loudell,,0,Dallas,,P30,loudell
-1909Reach,1908,Texas League,B00488,Maag,,0,Dallas,,B147,maag
-1909Reach,1908,Texas League,F21370,Maag,,0,Dallas,,2b147,maag
-1909Reach,1908,Texas League,B00130,Maloney,,0,Dallas,,B147,maloney
-1909Reach,1908,Texas League,F20661,Maloney,,0,Dallas,,p5,maloney
-1909Reach,1908,Texas League,F22020,Maloney,,0,Dallas,,of142,maloney
-1909Reach,1908,Texas League,P10019,Maloney,,0,Dallas,,P5,maloney
-1909Reach,1908,Texas League,B00502,Markley,,0,San Antonio,,B142,markley
-1909Reach,1908,Texas League,F21794,Markley,,0,San Antonio,,ss142,markley
-1909Reach,1908,Texas League,B00973,McCall,,0,Austin,,B7,mccall
-1909Reach,1908,Texas League,F20700,McCall,,0,Austin,,p7,mccall
-1909Reach,1908,Texas League,P10633,McCall,,0,Austin,,P3,mccall
-1909Reach,1908,Texas League,F21488,McCauley,,0,Austin,,2b42,mcculley
-1909Reach,1908,Texas League,B00158,McCormick,,1,Houston,,,mccormick
-1909Reach,1908,Texas League,B00158,McCormick,,2,Austin,,,mccormick
-1909Reach,1908,Texas League,B00158,McCormick,,T,,,B3,mccormick
-1909Reach,1908,Texas League,F20334,McCormick,,1,Houston,,p,mccormick
-1909Reach,1908,Texas League,F20334,McCormick,,2,Austin,,p,mccormick
-1909Reach,1908,Texas League,F20334,McCormick,,T,,,p3,mccormick
-1909Reach,1908,Texas League,P10348,McCormick,,0,Houston,,P2,mccormick
-1909Reach,1908,Texas League,B01300,McCoy,,0,Shreveport,,B54,mccoy
-1909Reach,1908,Texas League,F21879,McCoy,,0,Shreveport,,ss54,mccoy
-1909Reach,1908,Texas League,B01108,McCulley,,1,Austin,,,mcculley
-1909Reach,1908,Texas League,B01108,McCulley,,2,Houston,,,mcculley
-1909Reach,1908,Texas League,B01108,McCulley,,T,,,B126,mcculley
-1909Reach,1908,Texas League,F21887,McCulley,,0,Austin,,ss84,mcculley
-1909Reach,1908,Texas League,B01567,McDavitt,,0,Austin,,B9,mcdavitt
-1909Reach,1908,Texas League,B01234,McFarland,,0,Houston,,B11,mcfarland
-1909Reach,1908,Texas League,F20496,McFarland,,0,Houston,,p11,mcfarland
-1909Reach,1908,Texas League,P10159,McFarland,,0,Houston,,P10,mcfarland
-1909Reach,1908,Texas League,B00084,McGill,,0,Austin,,B10,mcgill
-1909Reach,1908,Texas League,F20265,McGill,,0,Austin,,p10,mcgill
-1909Reach,1908,Texas League,P10883,McGill,,0,Austin,,P3,mcgill
-1909Reach,1908,Texas League,B00961,McIver,,0,Shreveport,,B15,mciver
-1909Reach,1908,Texas League,F21255,McIver,,0,Shreveport,,1b15,mciver
-1909Reach,1908,Texas League,B01055,McKay,,0,Houston,,B5,mckay
-1909Reach,1908,Texas League,B00590,McKinney,,0,Austin,,B2,mckinney
-1909Reach,1908,Texas League,F20391,McLaughlin,,0,Houston,,p1,mclaughlin
-1909Reach,1908,Texas League,P10894,McLaughlin,,0,Houston,,P1,mclaughlin
-1909Reach,1908,Texas League,B01983,Medenka,,0,Austin,,B1,medenka
-1909Reach,1908,Texas League,F20430,Medienka,,0,Austin,,p1,medenka
-1909Reach,1908,Texas League,B00879,Mickle,,0,Austin,,B112,mickle
-1909Reach,1908,Texas League,F21158,Mickle,,0,Austin,,1b112,mickle
-1909Reach,1908,Texas League,B00434,Miller,,0,Dallas,,B83,miller-dal
-1909Reach,1908,Texas League,B01601,Miller,,0,Fort Worth,,B22,miller-fw
-1909Reach,1908,Texas League,F20067,Miller,,0,Dallas,,c68,miller-dal
-1909Reach,1908,Texas League,F20594,Miller,,0,Fort Worth,,p22,miller-fw
-1909Reach,1908,Texas League,F21324,Miller,,0,Dallas,,1b15,miller-dal
-1909Reach,1908,Texas League,P10432,Miller,,0,Fort Worth,,P20,miller-fw
-1909Reach,1908,Texas League,B00840,Mitchell,,0,San Antonio,,B38,mitchell
-1909Reach,1908,Texas League,F20552,Mitchell,,0,San Antonio,,p38,mitchell
-1909Reach,1908,Texas League,P10192,Mitchell,,0,San Antonio,,P29,mitchell
-1909Reach,1908,Texas League,B01733,Montgomery,,0,Fort Worth,,B36,montgomery
-1909Reach,1908,Texas League,F20177,Montgomery,,0,Fort Worth,,c36,montgomery
-1909Reach,1908,Texas League,B01288,Moore,,0,Dallas,,B27,moore
-1909Reach,1908,Texas League,F20784,Moore,,0,Dallas,,p27,moore
-1909Reach,1908,Texas League,P10464,Moore,,0,Dallas,,P20,moore
-1909Reach,1908,Texas League,B00416,Mowry,,0,Houston,,B140,mowry
-1909Reach,1908,Texas League,F21811,Mowry,,0,Houston,,ss20,mowry
-1909Reach,1908,Texas League,F22246,Mowry,,0,Houston,,of120,mowry
-1909Reach,1908,Texas League,B01595,Murphy,,0,Fort Worth,,B33,murphy
-1909Reach,1908,Texas League,F21335,Murphy,,0,Fort Worth,,2b33,murphy
-1909Reach,1908,Texas League,B00229,Nance,,0,Waco,,B135,nance
-1909Reach,1908,Texas League,F21381,Nance,,0,Waco,,2b121,nance
-1909Reach,1908,Texas League,F21985,Nance,,0,Waco,,of14,nance
-1909Reach,1908,Texas League,B01546,Nelson,,1,Houston,,,nelson
-1909Reach,1908,Texas League,B01546,Nelson,,2,Waco,,,nelson
-1909Reach,1908,Texas League,B01546,Nelson,,T,,,B11,nelson
-1909Reach,1908,Texas League,F20240,Nelson,,1,Houston,,p,nelson
-1909Reach,1908,Texas League,F20240,Nelson,,2,Waco,,p,nelson
-1909Reach,1908,Texas League,F20240,Nelson,,T,,,p11,nelson
-1909Reach,1908,Texas League,P10320,Nelson,,1,Houston,,,nelson
-1909Reach,1908,Texas League,P10320,Nelson,,2,Waco,,,nelson
-1909Reach,1908,Texas League,P10320,Nelson,,T,,,P10,nelson
-1909Reach,1908,Texas League,B00255,Newman,,0,San Antonio,,B147,newman
-1909Reach,1908,Texas League,F21182,Newman,,0,San Antonio,,1b147,newman
-1909Reach,1908,Texas League,B02097,Nickens,,0,Waco,,B13,nickens
-1909Reach,1908,Texas League,F20943,Nickens,,0,Waco,,p13,nickens
-1909Reach,1908,Texas League,P10746,Nickens,,0,Waco,,P12,nickens
-1909Reach,1908,Texas League,B00794,Orr,,0,Waco,,B69,orr
-1909Reach,1908,Texas League,F20206,Orr,,0,Waco,,c69,orr
-1909Reach,1908,Texas League,B00806,Osborne,,0,Fort Worth,,B6,osborne
-1909Reach,1908,Texas League,F20768,Osborne,,0,Fort Worth,,p6,osborne
-1909Reach,1908,Texas League,P10429,Osborne,,0,Fort Worth,,P6,osborne
-1909Reach,1908,Texas League,B01630,Page,,0,Galveston,,B17,page
-1909Reach,1908,Texas League,F21515,Page,,0,Galveston,,2b17,page
-1909Reach,1908,Texas League,P10852,Patterson,,0,Dallas,,P1,patterson
-1909Reach,1908,Texas League,B00718,Pendleton,,0,Waco,,B135,pendleton
-1909Reach,1908,Texas League,F21577,Pendleton,,0,Waco,,3b78,pendleton
-1909Reach,1908,Texas League,F22127,Pendleton,,0,Fort Worth,,of57,pendleton
-1909Reach,1908,Texas League,B01754,Peters,,0,Dallas,,B40,peters
-1909Reach,1908,Texas League,F20864,Peters,,0,Dallas,,p40,peters
-1909Reach,1908,Texas League,P10145,Peters,,0,Dallas,,P36,peters
-1909Reach,1908,Texas League,B00343,Petit,,0,Shreveport,,B100,petit
-1909Reach,1908,Texas League,F20046,Petit,,0,Shreveport,,c100,petit
-1909Reach,1908,Texas League,F20908,Phillips,,0,Waco,,p4,phillips
-1909Reach,1908,Texas League,F22393,Phillips,,0,Waco,,of19,phillips
-1909Reach,1908,Texas League,P10767,Phillips,,0,Waco,,P1,phillips
-1909Reach,1908,Texas League,B01291,Phillius,,0,Waco,,B23,phillips
-1909Reach,1908,Texas League,P10826,Potts,,0,Fort Worth,,P1,potts
-1909Reach,1908,Texas League,B00544,Powell,,1,Houston,,,powell
-1909Reach,1908,Texas League,B00544,Powell,,2,Waco,,,powell
-1909Reach,1908,Texas League,B00544,Powell,,T,,,B98,powell
-1909Reach,1908,Texas League,F20131,Powell,,1,Houston,,c,powell
-1909Reach,1908,Texas League,F20131,Powell,,2,Waco,,c,powell
-1909Reach,1908,Texas League,F20131,Powell,,T,,,c98,powell
-1909Reach,1908,Texas League,B00335,Pulliam,,0,Fort Worth,,B53,pulliam
-1909Reach,1908,Texas League,F21999,Pulliam,,0,Fort Worth,,of53,pulliam
-1909Reach,1908,Texas League,B01798,Ray,,0,Fort Worth,,B17,ray-fw
-1909Reach,1908,Texas League,B01812,Ray,,0,Shreveport,,B21,ray-shr
-1909Reach,1908,Texas League,F20997,Ray,,0,Shreveport,,p21,ray-shr
-1909Reach,1908,Texas League,F21000,Ray,,0,Fort Worth,,p17,ray-fw
-1909Reach,1908,Texas League,P10588,Ray,,0,Shreveport,,P18,ray-shr
-1909Reach,1908,Texas League,P10679,Ray,,0,Fort Worth,,P13,ray-fw
-1909Reach,1908,Texas League,B00854,Reagan,,0,Austin,,B16,reagan
-1909Reach,1908,Texas League,F21865,Reagan,,0,Austin,,ss16,reagan
-1909Reach,1908,Texas League,B01696,Rieger,,0,Shreveport,,B39,rieger
-1909Reach,1908,Texas League,F20685,Rieger,,0,Shreveport,,p39,rieger
-1909Reach,1908,Texas League,P10385,Rieger,,0,Shreveport,,P33,rieger
-1909Reach,1908,Texas League,B00609,Rieley,,0,Galveston,,B149,riley
-1909Reach,1908,Texas League,F22209,Riley,,0,Galveston,,of146,riley
-1909Reach,1908,Texas League,P10839,Robertson,,0,Fort Worth,,P1,robertson
-1909Reach,1908,Texas League,B01804,Rose,,0,Austin,,B24,rose
-1909Reach,1908,Texas League,F20962,Rose,,0,Austin,,p24,rose
-1909Reach,1908,Texas League,P10534,Rose,,0,Austin,,P20,rose
-1909Reach,1908,Texas League,B02070,Rumsey,,0,Houston,,B3,rumsey
-1909Reach,1908,Texas League,F21068,Rumsey,,0,Houston,,p3,rumsey
-1909Reach,1908,Texas League,P10901,Rumsey,,0,Houston,,P1,rumsey
-1909Reach,1908,Texas League,B00403,Russell,,0,Galveston,,B28,russell
-1909Reach,1908,Texas League,F22188,Russell,,0,Galveston,,of28,russell
-1909Reach,1908,Texas League,B01649,Ryan,,0,Austin,,B6,ryan
-1909Reach,1908,Texas League,B00117,Saim,,0,Fort Worth,,B103,saim
-1909Reach,1908,Texas League,F21229,Saim,,0,Fort Worth,,1b145,saim
-1909Reach,1908,Texas League,B01093,Sapp,,1,Galveston,,,sapp
-1909Reach,1908,Texas League,B01093,Sapp,,2,Dallas,,,sapp
-1909Reach,1908,Texas League,B01093,Sapp,,T,,,B26,sapp
-1909Reach,1908,Texas League,F21544,Sapp,,1,Shreveport,,2b,sapp
-1909Reach,1908,Texas League,F21544,Sapp,,2,Dallas,,2b,sapp
-1909Reach,1908,Texas League,F21544,Sapp,,T,,,2b10,sapp
-1909Reach,1908,Texas League,F22295,Sapp,,1,Galveston,,of,sapp
-1909Reach,1908,Texas League,F22295,Sapp,,2,Dallas,,of,sapp
-1909Reach,1908,Texas League,F22295,Sapp,,T,,,of16,sapp
-1909Reach,1908,Texas League,B01032,Schumaker,,0,Austin,,B8,schumaker
-1909Reach,1908,Texas League,B01706,Sens,,1,San Antonio,,,sens
-1909Reach,1908,Texas League,B01706,Sens,,2,Shreveport,,,sens
-1909Reach,1908,Texas League,B01706,Sens,,T,,,B28,sens
-1909Reach,1908,Texas League,B00182,Sentz,,0,Fort Worth,,B71,sentz
-1909Reach,1908,Texas League,F22134,Sentz,,0,Fort Worth,,of71,sentz
-1909Reach,1908,Texas League,P10486,Serrell,,0,Waco,,P29,sorrell
-1909Reach,1908,Texas League,B00308,Shelton,,0,Houston,,B98,shelton
-1909Reach,1908,Texas League,F21241,Shelton,,0,Houston,,1b98,shelton
-1909Reach,1908,Texas League,B00948,Short,,0,Austin,,B136,short
-1909Reach,1908,Texas League,F21403,Short,,0,Austin,,2b53,short
-1909Reach,1908,Texas League,F21590,Short,,0,Austin,,3b10,short
-1909Reach,1908,Texas League,F21912,Short,,0,Austin,,ss40,short
-1909Reach,1908,Texas League,F22175,Short,,0,Austin,,of33,short
-1909Reach,1908,Texas League,B01119,Slater,,0,Galveston,,B36,slater
-1909Reach,1908,Texas League,F20855,Slater,,0,Galveston,,p36,slater
-1909Reach,1908,Texas League,P10478,Slater,,0,Galveston,,P29,slater
-1909Reach,1908,Texas League,B01722,Slattery,,0,Dallas,,B11,slattery
-1909Reach,1908,Texas League,F21308,Slattery,,0,Dallas,,1b11,slattery
-1909Reach,1908,Texas League,B00450,Smith,,0,Galveston,,B144,smith
-1909Reach,1908,Texas League,F21833,Smith,,0,Galveston,,ss144,smith
-1909Reach,1908,Texas League,B00985,Sorrell,,0,Waco,,B38,sorrell
-1909Reach,1908,Texas League,F20604,Sorrell,,0,Waco,,p38,sorrell
-1909Reach,1908,Texas League,B00651,Stark,,0,San Antonio,,B30,stark
-1909Reach,1908,Texas League,F21566,Stark,,0,San Antonio,,3b30,stark
-1909Reach,1908,Texas League,B00469,Storch,,0,Dallas,,B146,storch
-1909Reach,1908,Texas League,F22310,Storch,,0,Dallas,,of146,storch
-1909Reach,1908,Texas League,B00163,Stovall,,0,San Antonio,,B136,stovall
-1909Reach,1908,Texas League,F22214,Stovall,,0,San Antonio,,of136,stovall
-1909Reach,1908,Texas League,B01216,Streble,,0,Austin,,B21,streble
-1909Reach,1908,Texas League,F21623,Streble,,0,Austin,,3b21,streble
-1909Reach,1908,Texas League,F20737,Sullivan,,0,Waco,,p9,sullivan
-1909Reach,1908,Texas League,P10231,Sullivan,,0,Waco,,P8,sullivan
-1909Reach,1908,Texas League,B01947,Sulliyan,,0,Waco,,B9,sullivan
-1909Reach,1908,Texas League,B01453,Tevis,,0,Houston,,B30,tevis
-1909Reach,1908,Texas League,F20807,Tevis,,0,Houston,,p30,tevis
-1909Reach,1908,Texas League,P10441,Tevis,,0,Houston,,P27,tevis
-1909Reach,1908,Texas League,B00833,Thebo,,0,Shreveport,,B135,thebo
-1909Reach,1908,Texas League,F22012,Thebo,,0,Shreveport,,of135,thebo
-1909Reach,1908,Texas League,B00427,Thompson,,0,San Antonio,,B139,thompson
-1909Reach,1908,Texas League,F21343,Thompson,,0,San Antonio,,2b139,thompson
-1909Reach,1908,Texas League,B02081,Tilford,,0,Shreveport,,B5,tilford
-1909Reach,1908,Texas League,B02056,Torrey,,0,Shreveport,,B4,torrey
-1909Reach,1908,Texas League,F20316,Torrey,,0,Shreveport,,p4,torrey
-1909Reach,1908,Texas League,P10373,Torrey,,0,Shreveport,,P4,torrey
-1909Reach,1908,Texas League,B01242,Trigg,,0,San Antonio,,B4,trigg
-1909Reach,1908,Texas League,F20279,Trigg,,0,San Antonio,,p4,trigg
-1909Reach,1908,Texas League,P10081,Trigg,,0,San Antonio,,P4,trigg
-1909Reach,1908,Texas League,B00278,Truesdale,,0,Houston,,B113,truesdale
-1909Reach,1908,Texas League,F21416,Truesdale,,0,Houston,,2b78,truesdale
-1909Reach,1908,Texas League,F21936,Truesdale,,0,Houston,,ss35,truesdale
-1909Reach,1908,Texas League,B00760,Tullos,,0,Dallas,,B118,tullos
-1909Reach,1908,Texas League,F21651,Tullos,,0,Dallas,,3b118,tullos
-1909Reach,1908,Texas League,B00528,Vinson,,0,Austin,,B120,vinson
-1909Reach,1908,Texas League,F20014,Vinson,,0,Austin,,c19,vinson
-1909Reach,1908,Texas League,F22272,Vinson,,0,Austin,,of110,vinson
-1909Reach,1908,Texas League,F21491,Walch,,1,Houston,,2b,walsh
-1909Reach,1908,Texas League,F21491,Walch,,2,Austin,,2b,walsh
-1909Reach,1908,Texas League,F21491,Walch,,T,,,2b23,walsh
-1909Reach,1908,Texas League,B00174,Wallace,,0,Houston,,B116,wallace
-1909Reach,1908,Texas League,F22036,Wallace,,0,Houston,,of116,wallace
-1909Reach,1908,Texas League,B01572,Walsh,,0,Austin,,B4,walsh
-1909Reach,1908,Texas League,F20648,Walsh,,0,Austin,,p4,walsh
-1909Reach,1908,Texas League,P10336,Walsh,,0,Austin,,P4,walsh
-1909Reach,1908,Texas League,B01078,Warrender,,0,Shreveport,,B22,warrender
-1909Reach,1908,Texas League,F22280,Warrender,,0,Shreveport,,of22,warrender
-1909Reach,1908,Texas League,B01477,Watson,,1,Galveston,,,watson
-1909Reach,1908,Texas League,B01477,Watson,,2,Houston,,,watson
-1909Reach,1908,Texas League,B01477,Watson,,T,,,B45,watson
-1909Reach,1908,Texas League,F20505,Watson,,1,Galveston,,p,watson
-1909Reach,1908,Texas League,F20505,Watson,,2,Houston,,p,watson
-1909Reach,1908,Texas League,F20505,Watson,,T,,,p45,watson
-1909Reach,1908,Texas League,P10687,Watson,,1,Galveston,,,watson
-1909Reach,1908,Texas League,P10687,Watson,,2,Austin,,,watson
-1909Reach,1908,Texas League,P10687,Watson,,T,,,P31,watson
-1909Reach,1908,Texas League,B01321,Wehinger,,0,Galveston,,B12,wehinger
-1909Reach,1908,Texas League,F20463,Wehinger,,0,Galveston,,p12,wehinger
-1909Reach,1908,Texas League,P10277,Wehinger,,0,Galveston,,P11,wehinger
-1909Reach,1908,Texas League,B00623,Weickart,,0,Galveston,,B84,weickart
-1909Reach,1908,Texas League,F21174,Weikart,,0,Galveston,,1b84,weickart
-1909Reach,1908,Texas League,B01010,Welch,,1,Houston,,,welch
-1909Reach,1908,Texas League,B01010,Welch,,2,Austin,,,welch
-1909Reach,1908,Texas League,B01010,Welch,,3,Waco,,,welch
-1909Reach,1908,Texas League,B01010,Welch,,T,,,B23,welch
-1909Reach,1908,Texas League,B01227,Welty,,0,Fort Worth,,B31,welty
-1909Reach,1908,Texas League,F21210,Welty,,0,Fort Worth,,1b31,welty
-1909Reach,1908,Texas League,F21973,Westerall,,0,San Antonio,,of12,westerzil
-1909Reach,1908,Texas League,B00149,Westerzil,,0,San Antonio,,B58,westerzil
-1909Reach,1908,Texas League,F21680,Westerzil,,0,San Antonio,,3b46,westerzil
-1909Reach,1908,Texas League,B00381,Wheat,,0,Shreveport,,B92,wheat
-1909Reach,1908,Texas League,F22251,Wheat,,0,Shreveport,,of92,wheat
-1909Reach,1908,Texas League,B00566,White,,1,Shreveport,,,white-shr+gal
-1909Reach,1908,Texas League,B00566,White,,2,Galveston,,,white-shr+gal
-1909Reach,1908,Texas League,B00566,White,,T,,,B98,white-shr+gal
-1909Reach,1908,Texas League,B02024,White,,0,Fort Worth,,B4,white-fw
-1909Reach,1908,Texas League,F20095,White,,1,Shreveport,,c,white-shr+gal
-1909Reach,1908,Texas League,F20095,White,,2,Galveston,,c,white-shr+gal
-1909Reach,1908,Texas League,F20095,White,,T,,,c33,white-shr+gal
-1909Reach,1908,Texas League,F20956,White,,0,Fort Worth,,p4,white-fw
-1909Reach,1908,Texas League,F21528,White,,1,Shreveport,,2b,white-shr+gal
-1909Reach,1908,Texas League,F21528,White,,2,Galveston,,2b,white-shr+gal
-1909Reach,1908,Texas League,F21528,White,,T,,,2b17,white-shr+gal
-1909Reach,1908,Texas League,F22332,White,,1,Shreveport,,of,white-shr+gal
-1909Reach,1908,Texas League,F22332,White,,2,Galveston,,of,white-shr+gal
-1909Reach,1908,Texas League,F22332,White,,T,,,of44,white-shr+gal
-1909Reach,1908,Texas League,P10714,White,,0,Fort Worth,,P4,white-fw
-1909Reach,1908,Texas League,B00324,Whiteman,,0,Houston,,B139,whiteman
-1909Reach,1908,Texas League,F20425,Whiteman,,0,Houston,,p1,whiteman
-1909Reach,1908,Texas League,F22142,Whiteman,,0,Houston,,of138,whiteman
-1909Reach,1908,Texas League,P10062,Whiteman,,0,Houston,,P1,whiteman
-1909Reach,1908,Texas League,P10709,Whitridge,,0,Dallas,,P7,whittridge
-1909Reach,1908,Texas League,B01820,Whittaker,,0,Dallas,,B20,whittaker
-1909Reach,1908,Texas League,F22150,Whittaker,,0,Dallas,,of20,whittaker
-1909Reach,1908,Texas League,B01861,Whittridge,,1,Dallas,,,whittridge
-1909Reach,1908,Texas League,B01861,Whittridge,,2,Fort Worth,,,whittridge
-1909Reach,1908,Texas League,B01861,Whittridge,,T,,,B10,whittridge
-1909Reach,1908,Texas League,F20810,Whittridge,,0,Dallas,,p10,whittridge
-1909Reach,1908,Texas League,B00442,Wick,,0,Fort Worth,,B87,wick
-1909Reach,1908,Texas League,F20038,Wick,,0,Fort Worth,,c87,wick
-1909Reach,1908,Texas League,P10780,William,C.,0,Waco,,P1,williams.l
-1909Reach,1908,Texas League,B00207,Williams,J.,0,Waco,,B139,williams.j
-1909Reach,1908,Texas League,B01971,Williams,L.,0,Waco,,B1,williams.l
-1909Reach,1908,Texas League,F21092,Williams,C.,0,Waco,,p1,williams.l
-1909Reach,1908,Texas League,F22057,Williams,J.,0,Waco,,of139,williams.j
-1909Reach,1908,Texas League,B00531,Winchell,,0,San Antonio,,B57,winchell
-1909Reach,1908,Texas League,F20560,Winchell,,0,San Antonio,,p47,winchell
-1909Reach,1908,Texas League,F22364,Winchell,,0,San Antonio,,of10,winchell
-1909Reach,1908,Texas League,P10202,Winchell,,0,San Antonio,,P35,winchell
-1909Reach,1908,Texas League,B01064,Windham,,0,Houston,,B10,windham
-1909Reach,1908,Texas League,F20924,Windham,,0,Houston,,p10,windham
-1909Reach,1908,Texas League,P10266,Windham,,0,Houston,,P7,windham
-1909Reach,1908,Texas League,B01359,Wolff,,0,Galveston,,B87,wolff
-1909Reach,1908,Texas League,F20211,Wolff,,0,Galveston,,c87,wolff
-1909Reach,1908,Texas League,B01466,Woods,,1,Waco,,,woods
-1909Reach,1908,Texas League,B01466,Woods,,2,Houston,,,woods
-1909Reach,1908,Texas League,B01466,Woods,,T,,,B79,woods
-1909Reach,1908,Texas League,F20115,Woods,,1,Waco,,c,woods
-1909Reach,1908,Texas League,F20115,Woods,,2,Houston,,c,woods
-1909Reach,1908,Texas League,F20115,Woods,,T,,,c79,woods
-1909Reach,1908,Texas League,B00726,Wright,,0,Dallas,,B66,wright
-1909Reach,1908,Texas League,F21771,Wright,,0,Dallas,,3b15,wright
-1909Reach,1908,Texas League,F22073,Wright,,0,Dallas,,of51,wright
-1909Reach,1908,Texas League,B01181,Yerkes,,0,Galveston,,B22,yerkes
-1909Reach,1908,Texas League,F20657,Yerkes,,0,Galveston,,p22,yerkes
-1909Reach,1908,Texas League,P10503,Yerkes,,0,Galveston,,P19,yerkes
-1909Reach,1908,Texas League,B00614,Yohe,,0,Waco,,B114,yohe
-1909Reach,1908,Texas League,F21705,Yohe,,0,Waco,,3b114,yohe
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+1909Reach,1908,Texas League,ables,B00362,Ables,,1,Dallas,,
+1909Reach,1908,Texas League,ables,B00362,Ables,,2,San Antonio,,
+1909Reach,1908,Texas League,ables,B00362,Ables,,T,,,B29
+1909Reach,1908,Texas League,ables,F20583,Ables,,1,Dallas,,p
+1909Reach,1908,Texas League,ables,F20583,Ables,,2,San Antonio,,p
+1909Reach,1908,Texas League,ables,F20583,Ables,,T,,,p29
+1909Reach,1908,Texas League,ables,P10215,Ables,,1,Dallas,,
+1909Reach,1908,Texas League,ables,P10215,Ables,,2,San Antonio,,
+1909Reach,1908,Texas League,ables,P10215,Ables,,T,,,P22
+1909Reach,1908,Texas League,adams,B01162,Adams,,0,Austin,,B77
+1909Reach,1908,Texas League,adams,F21149,Adams,,0,Austin,,1b10
+1909Reach,1908,Texas League,adams,F21356,Adams,,0,Austin,,2b28
+1909Reach,1908,Texas League,adams,F21904,Adams,,0,Austin,,ss27
+1909Reach,1908,Texas League,adams,F22099,Adams,,0,Austin,,of12
+1909Reach,1908,Texas League,aiken,B00783,Aiken,,0,Houston,,B139
+1909Reach,1908,Texas League,aiken,F21638,Aiken,,0,Houston,,3b139
+1909Reach,1908,Texas League,alexander,B00196,Alexander,,0,San Antonio,,B70
+1909Reach,1908,Texas League,alexander,F20023,Alexander,,0,San Antonio,,c79
+1909Reach,1908,Texas League,anderson,B01711,Anderson,,1,Galveston,,
+1909Reach,1908,Texas League,anderson,B01711,Anderson,,2,Shreveport,,
+1909Reach,1908,Texas League,anderson,B01711,Anderson,,T,,,B4
+1909Reach,1908,Texas League,anderson,F20303,Anderson,,1,Galveston,,p
+1909Reach,1908,Texas League,anderson,F20303,Anderson,,2,Shreveport,,p
+1909Reach,1908,Texas League,anderson,F20303,Anderson,,T,,,p4
+1909Reach,1908,Texas League,anderson,P10407,Anderson,,0,Shreveport,,P2
+1909Reach,1908,Texas League,arnold,B00370,Arnold,,0,Shreveport,,B116
+1909Reach,1908,Texas League,arnold,F21207,Arnold,,0,Shreveport,,1b116
+1909Reach,1908,Texas League,atkins,B01523,Atkins,,0,Galveston,,B37
+1909Reach,1908,Texas League,atkins,F21752,Atkins,,0,Galveston,,3b37
+1909Reach,1908,Texas League,badger,B00822,Badger,,0,Galveston,,B89
+1909Reach,1908,Texas League,badger,F21450,Badger,,0,Galveston,,2b51
+1909Reach,1908,Texas League,badger,F21726,Badger,,0,Galveston,,3b38
+1909Reach,1908,Texas League,bayles,B00076,Balyes,,0,Dallas,,B6
+1909Reach,1908,Texas League,bamer,B00811,Bamer,,1,Fort Worth,,
+1909Reach,1908,Texas League,bamer,B00811,Bamer,,2,San Antonio,,
+1909Reach,1908,Texas League,bamer,B00811,Bamer,,T,,,B42
+1909Reach,1908,Texas League,bamer,F20128,Bamer,,1,Fort Worth,,c
+1909Reach,1908,Texas League,bamer,F20128,Bamer,,2,San Antonio,,c
+1909Reach,1908,Texas League,bamer,F20128,Bamer,,T,,,c42
+1909Reach,1908,Texas League,barclay,B02062,Barclay,,0,San Antonio,,B3
+1909Reach,1908,Texas League,burnett,B01952,Barnett,,0,Dallas,,B11
+1909Reach,1908,Texas League,bauer,B01490,Bauer,,0,Waco,,B24
+1909Reach,1908,Texas League,bauer,F22378,Bauer,,0,Waco,,of24
+1909Reach,1908,Texas League,bauldwin,B01779,Bauldwin,,0,Fort Worth,,B7
+1909Reach,1908,Texas League,bayles,F20893,Bayles,,0,Dallas,,p6
+1909Reach,1908,Texas League,bayles,P10312,Bayles,,0,Dallas,,P4
+1909Reach,1908,Texas League,bell,B01197,Bell,,0,Waco,,B141
+1909Reach,1908,Texas League,bell,F21840,Bell,,0,Waco,,ss141
+1909Reach,1908,Texas League,blackwood,P10860,Black,,0,Dallas,,P1
+1909Reach,1908,Texas League,blackwood,F20417,Blackwood,,0,Dallas,,p1
+1909Reach,1908,Texas League,blake-shr,B00491,Blake,,0,Shreveport,,B107
+1909Reach,1908,Texas League,blake-aus+hou,B00739,Blake,,1,Austin,,
+1909Reach,1908,Texas League,blake-aus+hou,B00739,Blake,,2,Houston,,
+1909Reach,1908,Texas League,blake-aus+hou,B00739,Blake,,T,,,B134
+1909Reach,1908,Texas League,blake-shr,F21475,Blake,,0,Shreveport,,2b107
+1909Reach,1908,Texas League,blake-aus+hou,F22061,Blake,,1,Austin,,of
+1909Reach,1908,Texas League,blake-aus+hou,F22061,Blake,,2,Houston,,of
+1909Reach,1908,Texas League,blake-aus+hou,F22061,Blake,,T,,,of134
+1909Reach,1908,Texas League,blumling,B01269,Blumling,,0,Galveston,,B16
+1909Reach,1908,Texas League,blumling,F21013,Blumling,,0,Galveston,,p16
+1909Reach,1908,Texas League,blumling,P10622,Blumling,,0,Galveston,,P12
+1909Reach,1908,Texas League,booles,B01625,Booles,,0,Shreveport,,B39
+1909Reach,1908,Texas League,booles,F20673,Booles,,0,Shreveport,,p39
+1909Reach,1908,Texas League,booles,P10399,Booles,,0,Shreveport,,P33
+1909Reach,1908,Texas League,boyd,B00904,Boyd,,0,Shreveport,,B15
+1909Reach,1908,Texas League,boyd,F22085,Boyd,,0,Shreveport,,of15
+1909Reach,1908,Texas League,braun,B01250,Braun,,0,Austin,,B13
+1909Reach,1908,Texas League,braun,F20233,Braun,,0,Austin,,c13
+1909Reach,1908,Texas League,brent,B01428,Brent,,0,Fort Worth,,B15
+1909Reach,1908,Texas League,brent,F22386,Brent,,0,Fort Worth,,of15
+1909Reach,1908,Texas League,brockman,B01007,Brockman,,0,Shreveport,,B87
+1909Reach,1908,Texas League,brockman,F21695,Brockman,,0,Shreveport,,3b44
+1909Reach,1908,Texas League,brockman,F21898,Brockman,,0,Shreveport,,ss37
+1909Reach,1908,Texas League,brown-sa+gal,B00092,Brown,,1,San Antonio,,
+1909Reach,1908,Texas League,brown-sa+gal,B00092,Brown,,2,Galveston,,
+1909Reach,1908,Texas League,brown-sa+gal,B00092,Brown,,T,,,B3
+1909Reach,1908,Texas League,brown-shr,B01376,Brown,,0,Shreveport,,B2
+1909Reach,1908,Texas League,brown-sa+gal,F21037,Brown,,0,Galveston,,p3
+1909Reach,1908,Texas League,brown-sa+gal,P10611,Brown,,0,Galveston,,P3
+1909Reach,1908,Texas League,browning,B01135,Browning,,0,Waco,,B47
+1909Reach,1908,Texas League,browning,F20620,Browning,,0,Waco,,p37
+1909Reach,1908,Texas League,browning,F21553,Browning,,0,Waco,,3b10
+1909Reach,1908,Texas League,browning,P10228,Browning,,0,Waco,,P34
+1909Reach,1908,Texas League,bruner,B01926,Bruner,,0,Shreveport,,B7
+1909Reach,1908,Texas League,bruner,F20699,Bruner,,0,Shreveport,,p7
+1909Reach,1908,Texas League,bruner,P10698,Brunson,,0,Shreveport,,P7
+1909Reach,1908,Texas League,bumpers,B00747,Bumpers,,0,Waco,,B5
+1909Reach,1908,Texas League,bumpers,F21059,Bumpers,,0,Waco,,p5
+1909Reach,1908,Texas League,bumpers,P10070,Bumpers,,0,Waco,,P5
+1909Reach,1908,Texas League,bunch,B01857,Bunch,,0,Houston,,B7
+1909Reach,1908,Texas League,bunch,F21101,Bunch,,0,Houston,,p7
+1909Reach,1908,Texas League,bunch,P10361,Bunch,,0,Houston,,P6
+1909Reach,1908,Texas League,burnett,F20612,Burnett,,0,Dallas,,p11
+1909Reach,1908,Texas League,burnett,P10304,Burnett,,0,Dallas,,P8
+1909Reach,1908,Texas League,burns,B01444,Burns,,0,San Antonio,,B29
+1909Reach,1908,Texas League,burns,F20713,Burns,,0,San Antonio,,p29
+1909Reach,1908,Texas League,burns,P10113,Burns,,0,San Antonio,,P14
+1909Reach,1908,Texas League,burton,B01203,Burton,,1,Galveston,,
+1909Reach,1908,Texas League,burton,B01203,Burton,,2,Houston,,
+1909Reach,1908,Texas League,burton,B01203,Burton,,T,,,B47
+1909Reach,1908,Texas League,burton,F21434,Burton,,1,Galveston,,2b
+1909Reach,1908,Texas League,burton,F21434,Burton,,2,Houston,,2b
+1909Reach,1908,Texas League,burton,F21434,Burton,,T,,,2b32
+1909Reach,1908,Texas League,burton,F21948,Burton,,1,Houston,,ss
+1909Reach,1908,Texas League,burton,F21948,Burton,,2,Galveston,,ss
+1909Reach,1908,Texas League,burton,F21948,Burton,,T,,,ss15
+1909Reach,1908,Texas League,bush,B02008,Bush,,0,Shreveport,,B1
+1909Reach,1908,Texas League,bush,F21076,Bush,,0,Shreveport,,p1
+1909Reach,1908,Texas League,bush,P10925,Bush,,0,Shreveport,,P1
+1909Reach,1908,Texas League,byler,F20401,Byler,,0,Dallas,,p1
+1909Reach,1908,Texas League,byler,P10024,Byler,,0,Dallas,,P1
+1909Reach,1908,Texas League,carlin,B00957,Carlin,,0,Galveston,,B55
+1909Reach,1908,Texas League,carlin,F21469,Carlin,,0,Galveston,,2b41
+1909Reach,1908,Texas League,carlin,F21747,Carlin,,0,Galveston,,3b14
+1909Reach,1908,Texas League,casey,B00475,Casey,,0,Austin,,B21
+1909Reach,1908,Texas League,casey,F20449,Casey,,0,Austin,,p21
+1909Reach,1908,Texas League,casey,P10575,Casey,,0,Austin,,P17
+1909Reach,1908,Texas League,cavender,B01124,Cavender,,0,Waco,,B142
+1909Reach,1908,Texas League,cavender,F22169,Cavender,,0,Waco,,of142
+1909Reach,1908,Texas League,cavett,F20350,Cavett,,0,Dallas,,p2
+1909Reach,1908,Texas League,cavett,P10871,Cavett,,0,Dallas,,P1
+1909Reach,1908,Texas League,cermak,B00912,Cermak,,1,Austin,,
+1909Reach,1908,Texas League,cermak,B00912,Cermak,,2,Waco,,
+1909Reach,1908,Texas League,cermak,B00912,Cermak,,3,Shreveport,,
+1909Reach,1908,Texas League,cermak,B00912,Cermak,,T,,,B61
+1909Reach,1908,Texas League,cermak,F21427,Cermak,,1,Austin,,2b
+1909Reach,1908,Texas League,cermak,F21427,Cermak,,2,Shreveport,,2b
+1909Reach,1908,Texas League,cermak,F21427,Cermak,,T,,,2b16
+1909Reach,1908,Texas League,cermak,F22267,Cermak,,1,Austin,,of
+1909Reach,1908,Texas League,cermak,F22267,Cermak,,2,Shreveport,,of
+1909Reach,1908,Texas League,cermak,F22267,Cermak,,T,,,of45
+1909Reach,1908,Texas League,chelette,B01939,Chelette,,0,Shreveport,,B10
+1909Reach,1908,Texas League,chelette,F21021,Chelette,,0,Shreveport,,p10
+1909Reach,1908,Texas League,chelette,P10654,Chelette,,0,Shreveport,,P9
+1909Reach,1908,Texas League,chrisman,B01658,Chrisman,,0,Shreveport,,B16
+1909Reach,1908,Texas League,chrisman,F20539,Chrisman,,0,Shreveport,,p16
+1909Reach,1908,Texas League,chrisman,P10738,Chrisman,,0,Shreveport,,P14
+1909Reach,1908,Texas League,christian,B01580,Christian,,0,Galveston,,B30
+1909Reach,1908,Texas League,christian,F20571,Christian,,0,Galveston,,p30
+1909Reach,1908,Texas League,christian,P10455,Christian,,0,Galveston,,P22
+1909Reach,1908,Texas League,claire,B00293,Claire,,0,Shreveport,,B21
+1909Reach,1908,Texas League,claire,F21614,Claire,,0,Shreveport,,3b21
+1909Reach,1908,Texas League,clark,B01551,Clark,,0,Shreveport,,B7
+1909Reach,1908,Texas League,clauson,B01994,Clauson,,0,Houston,,B2
+1909Reach,1908,Texas League,clauson,F21117,Clauson,,0,Houston,,p2
+1909Reach,1908,Texas League,clauson,P10056,Clauson,,0,Houston,,P1
+1909Reach,1908,Texas League,cole,B02035,Cole,,0,Waco,,B3
+1909Reach,1908,Texas League,cole,F20375,Cole,,0,Waco,,p1
+1909Reach,1908,Texas League,cole,P10751,Cole,,0,Waco,,P2
+1909Reach,1908,Texas League,colegrove,F20919,Colegrove,,0,San Antonio,,p36
+1909Reach,1908,Texas League,colegrove,P10493,Colegrove,,0,San Antonio,,P29
+1909Reach,1908,Texas League,collins,B00210,Collins,,0,San Antonio,,B141
+1909Reach,1908,Texas League,collins,F21783,Collins,,0,San Antonio,,ss12
+1909Reach,1908,Texas League,collins,F22004,Collins,,0,San Antonio,,of129
+1909Reach,1908,Texas League,cooper,B01489,Cooper,,0,Dallas,,B35
+1909Reach,1908,Texas League,cooper,F20636,Cooper,,0,Dallas,,p35
+1909Reach,1908,Texas League,cooper,P10137,Cooper,,0,Dallas,,P31
+1909Reach,1908,Texas League,coveney,B00705,Coveney,,0,San Antonio,,B48
+1909Reach,1908,Texas League,coveney,F20072,Coveney,,0,San Antonio,,c48
+1909Reach,1908,Texas League,crabble,B01086,Crabble,,1,Austin,,
+1909Reach,1908,Texas League,crabble,B01086,Crabble,,2,Waco,,
+1909Reach,1908,Texas League,crabble,B01086,Crabble,,3,Galveston,,
+1909Reach,1908,Texas League,crabble,B01086,Crabble,,T,,,B28
+1909Reach,1908,Texas League,crabble,F20792,Crabble,,1,Austin,,p
+1909Reach,1908,Texas League,crabble,F20792,Crabble,,2,Waco,,p
+1909Reach,1908,Texas League,crabble,F20792,Crabble,,T,,,p28
+1909Reach,1908,Texas League,crabble,P10591,Crabble,,0,Austin,,P25
+1909Reach,1908,Texas League,curtis,B01313,Curtis,F.,0,Fort Worth,,B11
+1909Reach,1908,Texas League,curtis,F22355,Curtis,,1,Galveston,,of
+1909Reach,1908,Texas League,curtis,F22355,Curtis,,2,Fort Worth,,of
+1909Reach,1908,Texas League,curtis,F22355,Curtis,,T,,,of11
+1909Reach,1908,Texas League,cutchin,B00013,Cutchin,,0,Fort Worth,,B1
+1909Reach,1908,Texas League,dabney,B01918,Dabney,,0,Galveston,,B10
+1909Reach,1908,Texas League,dabney,F21045,Dabney,,0,Galveston,,p10
+1909Reach,1908,Texas League,dabney,P10795,Dabney,,0,Galveston,,P5
+1909Reach,1908,Texas League,daley,B00021,Daley,,0,Austin,,B1
+1909Reach,1908,Texas League,dawson,B00286,Dawson,,0,Houston,,B88
+1909Reach,1908,Texas League,dawson,F20166,Dawson,,0,Houston,,c78
+1909Reach,1908,Texas League,dawson,F21130,Dawson,,0,Houston,,1b10
+1909Reach,1908,Texas League,deiters,B00646,Deiters,,0,Fort Worth,,B143
+1909Reach,1908,Texas League,deiters,F21646,Deiters,,0,Fort Worth,,3b143
+1909Reach,1908,Texas League,dickinson,B00059,Dickinson,,0,Dallas,,B3
+1909Reach,1908,Texas League,dickinson,F21084,Dickinson,,0,Dallas,,p3
+1909Reach,1908,Texas League,dickinson,P10184,Dickinson,,0,Dallas,,P3
+1909Reach,1908,Texas League,dickson,B01873,Dickson,,0,Houston,,B9
+1909Reach,1908,Texas League,dowd,B01538,Dowd,,0,Austin,,B32
+1909Reach,1908,Texas League,dowd,F21397,Dowd,,0,Austin,,2b18
+1909Reach,1908,Texas League,dowd,F21854,Dowd,,0,Austin,,ss14
+1909Reach,1908,Texas League,dugey,B01431,Dugey,,0,Waco,,B27
+1909Reach,1908,Texas League,dugey,F21718,Dugey,,0,Waco,,3b27
+1909Reach,1908,Texas League,dupree,B00577,Dupree,,1,Fort Worth,,
+1909Reach,1908,Texas League,dupree,B00577,Dupree,,2,San Antonio,,
+1909Reach,1908,Texas League,dupree,B00577,Dupree,,T,,,B48
+1909Reach,1908,Texas League,dupree,F20829,Dupree,,0,Fort Worth,,p48
+1909Reach,1908,Texas League,dupree,P10244,Dupree,,0,Fort Worth,,P36
+1909Reach,1908,Texas League,earthman,B01509,Earthman,,1,Waco,,
+1909Reach,1908,Texas League,earthman,B01509,Earthman,,2,Shreveport,,
+1909Reach,1908,Texas League,earthman,B01509,Earthman,,T,,,B53
+1909Reach,1908,Texas League,earthman,F21502,Earthman,,1,Waco,,2b
+1909Reach,1908,Texas League,earthman,F21502,Earthman,,2,Shreveport,,2b
+1909Reach,1908,Texas League,earthman,F21502,Earthman,,T,,,2b22
+1909Reach,1908,Texas League,earthman,F21667,Earthman,,0,Waco,,3b16
+1909Reach,1908,Texas League,earthman,F21957,Earthman,,0,Waco,,ss15
+1909Reach,1908,Texas League,ebright,B01041,Ebright,,0,San Antonio,,B6
+1909Reach,1908,Texas League,edmondson,B00037,Edmondson,,0,Galveston,,B96
+1909Reach,1908,Texas League,edmondson,F22116,Edmondson,,0,Galveston,,of96
+1909Reach,1908,Texas League,edmuns,B02043,Edmuns,,0,Waco,,B3
+1909Reach,1908,Texas League,elliott,B01905,Elliott,,0,Shreveport,,B5
+1909Reach,1908,Texas League,ens,F21920,Ens,,1,San Antonio,,ss
+1909Reach,1908,Texas League,ens,F21920,Ens,,2,Shreveport,,ss
+1909Reach,1908,Texas League,ens,F21920,Ens,,T,,,ss28
+1909Reach,1908,Texas League,epler,B00638,Epler,,1,Fort Worth,,
+1909Reach,1908,Texas League,epler,B00638,Epler,,2,Galveston,,
+1909Reach,1908,Texas League,epler,B00638,Epler,,T,,,B138
+1909Reach,1908,Texas League,epler,F20369,Epler,,1,Fort Worth,,p
+1909Reach,1908,Texas League,epler,F20369,Epler,,2,Galveston,,p
+1909Reach,1908,Texas League,epler,F20369,Epler,,T,,,p1
+1909Reach,1908,Texas League,epler,F22307,Epler,,1,Fort Worth,,of
+1909Reach,1908,Texas League,epler,F22307,Epler,,2,Galveston,,of
+1909Reach,1908,Texas League,epler,F22307,Epler,,T,,,of137
+1909Reach,1908,Texas League,epler,P10035,Epler,,0,Galveston,,P1
+1909Reach,1908,Texas League,firds,B01960,Firds,,0,Austin,,B1
+1909Reach,1908,Texas League,firds,F21125,Firds,,0,Austin,,p1
+1909Reach,1908,Texas League,firds,P10818,Firds,,0,Austin,,P1
+1909Reach,1908,Texas League,firestine,F21609,Firestine,,0,Austin,,3b109
+1909Reach,1908,Texas League,firestine,B01415,Firetine,,0,Austin,,B109
+1909Reach,1908,Texas League,fletcher,B00319,Fletcher,,0,Dallas,,B147
+1909Reach,1908,Texas League,fletcher,F21822,Fletcher,,0,Dallas,,ss147
+1909Reach,1908,Texas League,forrester,B01674,Forrester,,0,Fort Worth,,B18
+1909Reach,1908,Texas League,forrester,F20518,Forrester,,0,Fort Worth,,p18
+1909Reach,1908,Texas League,forrester,P10289,Forrester,,0,Fort Worth,,P14
+1909Reach,1908,Texas League,gaffield,B00045,Gaffield,,0,Austin,,B3
+1909Reach,1908,Texas League,galbraith,B01848,Galbraith,,1,Fort Worth,,
+1909Reach,1908,Texas League,galbraith,B01848,Galbraith,,2,Shreveport,,
+1909Reach,1908,Texas League,galbraith,B01848,Galbraith,,T,,,B14
+1909Reach,1908,Texas League,galbraith,F20458,Galbraith,,0,Fort Worth,,p14
+1909Reach,1908,Texas League,galbraith,P10410,Galbraith,,0,Fort Worth,,P10
+1909Reach,1908,Texas League,gaskill,B01384,Gaskill,,0,Shreveport,,B15
+1909Reach,1908,Texas League,gaskill,F20482,Gaskill,,0,Shreveport,,p15
+1909Reach,1908,Texas League,gaskill,P10176,Gaskill,,0,Shreveport,,P13
+1909Reach,1908,Texas League,gear,B00356,Gear,,0,Shreveport,,B146
+1909Reach,1908,Texas League,gear,F22238,Gear,,0,Shreveport,,of146
+1909Reach,1908,Texas League,colegrove,B01663,Golgrove,,1,San Antonio,,
+1909Reach,1908,Texas League,colegrove,B01663,Golgrove,,2,Fort Worth,,
+1909Reach,1908,Texas League,colegrove,B01663,Golgrove,,T,,,B36
+1909Reach,1908,Texas League,goodman,F20388,Goodman,,0,Waco,,p1
+1909Reach,1908,Texas League,goodman,P10772,Goodman,,0,Waco,,P1
+1909Reach,1908,Texas League,gordon,B00667,Gordon,,0,Austin,,B85
+1909Reach,1908,Texas League,gordon,F20222,Gordon,,0,Austin,,c71
+1909Reach,1908,Texas League,gordon,F21196,Gordon,,0,Austin,,1b14
+1909Reach,1908,Texas League,graham,B00936,Graham,,0,Austin,,B4
+1909Reach,1908,Texas League,graham,F20298,Graham,,0,Austin,,p4
+1909Reach,1908,Texas League,graham,P10805,Graham,,0,Austin,,P1
+1909Reach,1908,Texas League,griffin,B01156,Griffin,,0,Fort Worth,,B59
+1909Reach,1908,Texas League,griffin,F20474,Griffin,,0,Fort Worth,,p35
+1909Reach,1908,Texas League,griffin,F21961,Griffin,,0,Fort Worth,,of22
+1909Reach,1908,Texas League,griffin,P10100,Griffin,,0,Fort Worth,,P32
+1909Reach,1908,Texas League,griggs,B00125,Griggs,,0,San Antonio,,B118
+1909Reach,1908,Texas League,griggs,F20153,Griggs,,0,San Antonio,,c11
+1909Reach,1908,Texas League,griggs,F21362,Griggs,,1,Shreveport,,2b
+1909Reach,1908,Texas League,griggs,F21362,Griggs,,2,San Antonio,,2b
+1909Reach,1908,Texas League,griggs,F21362,Griggs,,T,,,2b107
+1909Reach,1908,Texas League,hafter,B00589,Hafter,,0,Waco,,B8
+1909Reach,1908,Texas League,hall,P10930,Hall,,0,Shreveport,,P1
+1909Reach,1908,Texas League,hanivan,B01787,Hanivan,,0,San Antonio,,B4
+1909Reach,1908,Texas League,harbison,B00752,Harbison,,0,Waco,,B145
+1909Reach,1908,Texas League,harbison,F21232,Harbison,,0,Waco,,1b145
+1909Reach,1908,Texas League,harris,B01337,Harris,,0,San Antonio,,B3
+1909Reach,1908,Texas League,harris,F20745,Harris,,0,San Antonio,,p34
+1909Reach,1908,Texas League,harris,P10121,Harris,,0,San Antonio,,P31
+1909Reach,1908,Texas League,hartman,B00553,Hartman,,0,Fort Worth,,B142
+1909Reach,1908,Texas League,hartman,F21806,Hartman,,0,Fort Worth,,ss142
+1909Reach,1908,Texas League,heilman,B00232,Heilman,,0,Austin,,B28
+1909Reach,1908,Texas League,helman,B01682,Hellman,,0,Austin,,B7
+1909Reach,1908,Texas League,heilman,F20190,Hellman,,0,Austin,,c12
+1909Reach,1908,Texas League,heilman,F22411,Hellman,,0,Austin,,of13
+1909Reach,1908,Texas League,helman,P10640,Hellman,,0,Austin,,P3
+1909Reach,1908,Texas League,helman,F20254,Helman,,0,Austin,,p3
+1909Reach,1908,Texas League,hensling,B01836,Hensling,,0,Waco,,B9
+1909Reach,1908,Texas League,hensling,F20935,Hensling,,0,Waco,,p9
+1909Reach,1908,Texas League,hensling,P10606,Hensling,,0,Waco,,P6
+1909Reach,1908,Texas League,herbert,B01170,Herbert,,0,Austin,,B33
+1909Reach,1908,Texas League,herbert,F20970,Herbert,,0,Austin,,p33
+1909Reach,1908,Texas League,herbert,P10723,Herbert,,0,Austin,,P21
+1909Reach,1908,Texas League,hester,B01368,Hester,,1,Houston,,
+1909Reach,1908,Texas League,hester,B01368,Hester,,2,Austin,,
+1909Reach,1908,Texas League,hester,B01368,Hester,,T,,,B39
+1909Reach,1908,Texas League,hester,F20776,Hester,,1,Houston,,p
+1909Reach,1908,Texas League,hester,F20776,Hester,,2,Austin,,p
+1909Reach,1908,Texas League,hester,F20776,Hester,,T,,,p39
+1909Reach,1908,Texas League,hester,P10665,Hester,,1,Houston,,
+1909Reach,1908,Texas League,hester,P10665,Hester,,2,Austin,,
+1909Reach,1908,Texas League,hester,P10665,Hester,,T,,,P31
+1909Reach,1908,Texas League,hickey,B01275,Hickey,,0,Galveston,,B10
+1909Reach,1908,Texas League,hickey,F20981,Hickey,,0,Galveston,,p10
+1909Reach,1908,Texas League,hickey,P10527,Hickey,,0,Galveston,,P6
+1909Reach,1908,Texas League,hilding,B00920,Hilding,,0,Shreveport,,B67
+1909Reach,1908,Texas League,hilding,F20080,Hilding,,0,Shreveport,,c29
+1909Reach,1908,Texas League,hilding,F21278,Hilding,,0,Shreveport,,1b17
+1909Reach,1908,Texas League,hilding,F21739,Hilding,,0,Shreveport,,3b21
+1909Reach,1908,Texas League,hise,B01392,Hise,,0,Galveston,,B37
+1909Reach,1908,Texas League,hise,F20721,Hise,,0,Galveston,,p37
+1909Reach,1908,Texas League,hise,P10516,Hise,,0,Galveston,,P35
+1909Reach,1908,Texas League,hoffman,B00887,Hoffman,,1,Shreveport,,
+1909Reach,1908,Texas League,hoffman,B00887,Hoffman,,2,Waco,,
+1909Reach,1908,Texas League,hoffman,B00887,Hoffman,,T,,,B114
+1909Reach,1908,Texas League,hoffman,F22103,Hoffman,,0,Waco,,of81
+1909Reach,1908,Texas League,hoffman,F21589,Hofman,,1,Shreveport,,3b
+1909Reach,1908,Texas League,hoffman,F21589,Hofman,,2,Waco,,3b
+1909Reach,1908,Texas League,hoffman,F21589,Hofman,,T,,,3b33
+1909Reach,1908,Texas League,hoie,F22422,Hoie,,0,Dallas,,of13
+1909Reach,1908,Texas League,hoie,B00264,Hole,,0,Dallas,,B143
+1909Reach,1908,Texas League,hoie,F21319,Hole,,0,Dallas,,1b130
+1909Reach,1908,Texas League,hooks,B00068,Hooks,,0,Waco,,B4
+1909Reach,1908,Texas League,hooks,F20886,Hooks,,0,Waco,,p4
+1909Reach,1908,Texas League,hooks,P10097,Hooks,,0,Waco,,P4
+1909Reach,1908,Texas League,hornsby,B01617,Hornsby,,0,Waco,,B43
+1909Reach,1908,Texas League,hornsby,F20832,Hornsby,,0,Waco,,p43
+1909Reach,1908,Texas League,hornsby,P10290,Hornsby,,0,Waco,,P38
+1909Reach,1908,Texas League,humphries,B01143,Humphries,,0,Waco,,B6
+1909Reach,1908,Texas League,jackson-dal,B00672,Jackson,,0,Dallas,,B74
+1909Reach,1908,Texas League,jackson-hou,B00999,Jackson,,0,Houston,,B72
+1909Reach,1908,Texas League,jackson-hou,F20759,Jackson,,0,Houston,,p27
+1909Reach,1908,Texas League,jackson-dal,F21293,Jackson,,0,Dallas,,1b45
+1909Reach,1908,Texas League,jackson-dal,F21672,Jackson,,0,Dallas,,3b11
+1909Reach,1908,Texas League,jackson-dal,F22191,Jackson,,0,Dallas,,of63
+1909Reach,1908,Texas League,jackson-hou,P10357,Jackson,,0,Houston,,P23
+1909Reach,1908,Texas League,jacoby,B01885,Jacoby,,0,Fort Worth,,B6
+1909Reach,1908,Texas League,jacoby,F20878,Jacoby,,0,Fort Worth,,p6
+1909Reach,1908,Texas League,jacoby,P10569,Jacoby,,0,Fort Worth,,P5
+1909Reach,1908,Texas League,jarvis,B01740,Jarvis,,0,Houston,,B36
+1909Reach,1908,Texas League,jarvis,F20526,Jarvis,,0,Houston,,p36
+1909Reach,1908,Texas League,jarvis,P10168,Jarvis,,0,Houston,,P31
+1909Reach,1908,Texas League,johnson-aus,B01899,Johnson,,0,Austin,,B10
+1909Reach,1908,Texas League,johnson-hou,B02019,Johnson,,0,Houston,,B2
+1909Reach,1908,Texas League,johnson-hou,F20342,Johnson,,0,Houston,,p2
+1909Reach,1908,Texas League,johnson-aus,F20841,Johnson,,0,Austin,,p10
+1909Reach,1908,Texas League,johnson-aus,P10542,Johnson,,0,Austin,,P10
+1909Reach,1908,Texas League,johnson-hou,P10917,Johnson,,0,Houston,,P2
+1909Reach,1908,Texas League,jolly,B00695,Jolly,,1,Waco,,
+1909Reach,1908,Texas League,jolly,B00695,Jolly,,2,Fort Worth,,
+1909Reach,1908,Texas League,jolly,B00695,Jolly,,T,,,B9
+1909Reach,1908,Texas League,jolly,F20287,Jolly,,1,Waco,,p
+1909Reach,1908,Texas League,jolly,F20287,Jolly,,2,Fort Worth,,p
+1909Reach,1908,Texas League,jolly,F20287,Jolly,,T,,,p9
+1909Reach,1908,Texas League,jolly,P10847,Jolly,,0,Fort Worth,,P2
+1909Reach,1908,Texas League,jung,B01514,Jung,,0,Houston,,B12
+1909Reach,1908,Texas League,jung,P10550,Jung,,0,Houston,,P10
+1909Reach,1908,Texas League,kane,B00515,Kane,,0,Galveston,,B137
+1909Reach,1908,Texas League,kane,F21286,Kane,,0,Galveston,,1b46
+1909Reach,1908,Texas League,kane,F21442,Kane,,0,Galveston,,2b20
+1909Reach,1908,Texas League,kane,F21760,Kane,,0,Galveston,,3b47
+1909Reach,1908,Texas League,kane,F22341,Kane,,0,Galveston,,of24
+1909Reach,1908,Texas League,kerns,B00397,Kerns,,0,Dallas,,B104
+1909Reach,1908,Texas League,kerns,F20144,Kerns,,0,Dallas,,c104
+1909Reach,1908,Texas League,kiett,B00771,Kiett,,0,Fort Worth,,B135
+1909Reach,1908,Texas League,kiett,F22329,Kiett,,0,Fort Worth,,of135
+1909Reach,1908,Texas League,killifer,B00865,Killifer,,0,Austin,,B65
+1909Reach,1908,Texas League,killifer,F20051,Killifer,,0,Austin,,c54
+1909Reach,1908,Texas League,killifer,F22406,Killifer,,0,Austin,,of11
+1909Reach,1908,Texas League,knaupp,B00898,Knaupp,,1,San Antonio,,
+1909Reach,1908,Texas League,knaupp,B00898,Knaupp,,2,Fort Worth,,
+1909Reach,1908,Texas League,knaupp,B00898,Knaupp,,T,,,B35
+1909Reach,1908,Texas League,knaupp,F20189,Knaupp,,0,San Antonio,,c35
+1909Reach,1908,Texas League,kores,B00101,Kores,,0,Austin,,B1
+1909Reach,1908,Texas League,kores,F20327,Kores,,0,Austin,,p1
+1909Reach,1908,Texas League,kores,P10043,Kores,,0,Austin,,P1
+1909Reach,1908,Texas League,lauzon,B00680,Lauzon,,0,Galveston,,B75
+1909Reach,1908,Texas League,lauzon,F20102,Lauzon,,0,Galveston,,c57
+1909Reach,1908,Texas League,lauzon,F21163,Lauzon,,0,Galveston,,1b18
+1909Reach,1908,Texas League,law,B01402,Law,,0,Austin,,B11
+1909Reach,1908,Texas League,law,F21264,Law,,0,Austin,,1b11
+1909Reach,1908,Texas League,leidy,B00241,Leidy,,0,San Antonio,,B134
+1909Reach,1908,Texas League,leidy,F22048,Leidy,,0,San Antonio,,of134
+1909Reach,1908,Texas League,leopold,B01345,Leopold,,0,Galveston,,B13
+1909Reach,1908,Texas League,leopold,F21531,Leopold,,0,Galveston,,2b13
+1909Reach,1908,Texas League,longley,B01029,Longley,,0,Austin,,B89
+1909Reach,1908,Texas League,longley,F22223,Longley,,0,Austin,,of89
+1909Reach,1908,Texas League,loudell,B01765,Loudell,,0,Dallas,,B31
+1909Reach,1908,Texas League,loudell,F20547,Loudell,,0,Dallas,,p31
+1909Reach,1908,Texas League,loudell,P10253,Loudell,,0,Dallas,,P30
+1909Reach,1908,Texas League,maag,B00488,Maag,,0,Dallas,,B147
+1909Reach,1908,Texas League,maag,F21370,Maag,,0,Dallas,,2b147
+1909Reach,1908,Texas League,maloney,B00130,Maloney,,0,Dallas,,B147
+1909Reach,1908,Texas League,maloney,F20661,Maloney,,0,Dallas,,p5
+1909Reach,1908,Texas League,maloney,F22020,Maloney,,0,Dallas,,of142
+1909Reach,1908,Texas League,maloney,P10019,Maloney,,0,Dallas,,P5
+1909Reach,1908,Texas League,markley,B00502,Markley,,0,San Antonio,,B142
+1909Reach,1908,Texas League,markley,F21794,Markley,,0,San Antonio,,ss142
+1909Reach,1908,Texas League,mccall,B00973,McCall,,0,Austin,,B7
+1909Reach,1908,Texas League,mccall,F20700,McCall,,0,Austin,,p7
+1909Reach,1908,Texas League,mccall,P10633,McCall,,0,Austin,,P3
+1909Reach,1908,Texas League,mcculley,F21488,McCauley,,0,Austin,,2b42
+1909Reach,1908,Texas League,mccormick,B00158,McCormick,,1,Houston,,
+1909Reach,1908,Texas League,mccormick,B00158,McCormick,,2,Austin,,
+1909Reach,1908,Texas League,mccormick,B00158,McCormick,,T,,,B3
+1909Reach,1908,Texas League,mccormick,F20334,McCormick,,1,Houston,,p
+1909Reach,1908,Texas League,mccormick,F20334,McCormick,,2,Austin,,p
+1909Reach,1908,Texas League,mccormick,F20334,McCormick,,T,,,p3
+1909Reach,1908,Texas League,mccormick,P10348,McCormick,,0,Houston,,P2
+1909Reach,1908,Texas League,mccoy,B01300,McCoy,,0,Shreveport,,B54
+1909Reach,1908,Texas League,mccoy,F21879,McCoy,,0,Shreveport,,ss54
+1909Reach,1908,Texas League,mcculley,B01108,McCulley,,1,Austin,,
+1909Reach,1908,Texas League,mcculley,B01108,McCulley,,2,Houston,,
+1909Reach,1908,Texas League,mcculley,B01108,McCulley,,T,,,B126
+1909Reach,1908,Texas League,mcculley,F21887,McCulley,,0,Austin,,ss84
+1909Reach,1908,Texas League,mcdavitt,B01567,McDavitt,,0,Austin,,B9
+1909Reach,1908,Texas League,mcfarland,B01234,McFarland,,0,Houston,,B11
+1909Reach,1908,Texas League,mcfarland,F20496,McFarland,,0,Houston,,p11
+1909Reach,1908,Texas League,mcfarland,P10159,McFarland,,0,Houston,,P10
+1909Reach,1908,Texas League,mcgill,B00084,McGill,,0,Austin,,B10
+1909Reach,1908,Texas League,mcgill,F20265,McGill,,0,Austin,,p10
+1909Reach,1908,Texas League,mcgill,P10883,McGill,,0,Austin,,P3
+1909Reach,1908,Texas League,mciver,B00961,McIver,,0,Shreveport,,B15
+1909Reach,1908,Texas League,mciver,F21255,McIver,,0,Shreveport,,1b15
+1909Reach,1908,Texas League,mckay,B01055,McKay,,0,Houston,,B5
+1909Reach,1908,Texas League,mckinney,B00590,McKinney,,0,Austin,,B2
+1909Reach,1908,Texas League,mclaughlin,F20391,McLaughlin,,0,Houston,,p1
+1909Reach,1908,Texas League,mclaughlin,P10894,McLaughlin,,0,Houston,,P1
+1909Reach,1908,Texas League,medenka,B01983,Medenka,,0,Austin,,B1
+1909Reach,1908,Texas League,medenka,F20430,Medienka,,0,Austin,,p1
+1909Reach,1908,Texas League,mickle,B00879,Mickle,,0,Austin,,B112
+1909Reach,1908,Texas League,mickle,F21158,Mickle,,0,Austin,,1b112
+1909Reach,1908,Texas League,miller-dal,B00434,Miller,,0,Dallas,,B83
+1909Reach,1908,Texas League,miller-fw,B01601,Miller,,0,Fort Worth,,B22
+1909Reach,1908,Texas League,miller-dal,F20067,Miller,,0,Dallas,,c68
+1909Reach,1908,Texas League,miller-fw,F20594,Miller,,0,Fort Worth,,p22
+1909Reach,1908,Texas League,miller-dal,F21324,Miller,,0,Dallas,,1b15
+1909Reach,1908,Texas League,miller-fw,P10432,Miller,,0,Fort Worth,,P20
+1909Reach,1908,Texas League,mitchell,B00840,Mitchell,,0,San Antonio,,B38
+1909Reach,1908,Texas League,mitchell,F20552,Mitchell,,0,San Antonio,,p38
+1909Reach,1908,Texas League,mitchell,P10192,Mitchell,,0,San Antonio,,P29
+1909Reach,1908,Texas League,montgomery,B01733,Montgomery,,0,Fort Worth,,B36
+1909Reach,1908,Texas League,montgomery,F20177,Montgomery,,0,Fort Worth,,c36
+1909Reach,1908,Texas League,moore,B01288,Moore,,0,Dallas,,B27
+1909Reach,1908,Texas League,moore,F20784,Moore,,0,Dallas,,p27
+1909Reach,1908,Texas League,moore,P10464,Moore,,0,Dallas,,P20
+1909Reach,1908,Texas League,mowry,B00416,Mowry,,0,Houston,,B140
+1909Reach,1908,Texas League,mowry,F21811,Mowry,,0,Houston,,ss20
+1909Reach,1908,Texas League,mowry,F22246,Mowry,,0,Houston,,of120
+1909Reach,1908,Texas League,murphy,B01595,Murphy,,0,Fort Worth,,B33
+1909Reach,1908,Texas League,murphy,F21335,Murphy,,0,Fort Worth,,2b33
+1909Reach,1908,Texas League,nance,B00229,Nance,,0,Waco,,B135
+1909Reach,1908,Texas League,nance,F21381,Nance,,0,Waco,,2b121
+1909Reach,1908,Texas League,nance,F21985,Nance,,0,Waco,,of14
+1909Reach,1908,Texas League,nelson,B01546,Nelson,,1,Houston,,
+1909Reach,1908,Texas League,nelson,B01546,Nelson,,2,Waco,,
+1909Reach,1908,Texas League,nelson,B01546,Nelson,,T,,,B11
+1909Reach,1908,Texas League,nelson,F20240,Nelson,,1,Houston,,p
+1909Reach,1908,Texas League,nelson,F20240,Nelson,,2,Waco,,p
+1909Reach,1908,Texas League,nelson,F20240,Nelson,,T,,,p11
+1909Reach,1908,Texas League,nelson,P10320,Nelson,,1,Houston,,
+1909Reach,1908,Texas League,nelson,P10320,Nelson,,2,Waco,,
+1909Reach,1908,Texas League,nelson,P10320,Nelson,,T,,,P10
+1909Reach,1908,Texas League,newman,B00255,Newman,,0,San Antonio,,B147
+1909Reach,1908,Texas League,newman,F21182,Newman,,0,San Antonio,,1b147
+1909Reach,1908,Texas League,nickens,B02097,Nickens,,0,Waco,,B13
+1909Reach,1908,Texas League,nickens,F20943,Nickens,,0,Waco,,p13
+1909Reach,1908,Texas League,nickens,P10746,Nickens,,0,Waco,,P12
+1909Reach,1908,Texas League,orr,B00794,Orr,,0,Waco,,B69
+1909Reach,1908,Texas League,orr,F20206,Orr,,0,Waco,,c69
+1909Reach,1908,Texas League,osborne,B00806,Osborne,,0,Fort Worth,,B6
+1909Reach,1908,Texas League,osborne,F20768,Osborne,,0,Fort Worth,,p6
+1909Reach,1908,Texas League,osborne,P10429,Osborne,,0,Fort Worth,,P6
+1909Reach,1908,Texas League,page,B01630,Page,,0,Galveston,,B17
+1909Reach,1908,Texas League,page,F21515,Page,,0,Galveston,,2b17
+1909Reach,1908,Texas League,patterson,P10852,Patterson,,0,Dallas,,P1
+1909Reach,1908,Texas League,pendleton,B00718,Pendleton,,0,Waco,,B135
+1909Reach,1908,Texas League,pendleton,F21577,Pendleton,,0,Waco,,3b78
+1909Reach,1908,Texas League,pendleton,F22127,Pendleton,,0,Fort Worth,,of57
+1909Reach,1908,Texas League,peters,B01754,Peters,,0,Dallas,,B40
+1909Reach,1908,Texas League,peters,F20864,Peters,,0,Dallas,,p40
+1909Reach,1908,Texas League,peters,P10145,Peters,,0,Dallas,,P36
+1909Reach,1908,Texas League,petit,B00343,Petit,,0,Shreveport,,B100
+1909Reach,1908,Texas League,petit,F20046,Petit,,0,Shreveport,,c100
+1909Reach,1908,Texas League,phillips,F20908,Phillips,,0,Waco,,p4
+1909Reach,1908,Texas League,phillips,F22393,Phillips,,0,Waco,,of19
+1909Reach,1908,Texas League,phillips,P10767,Phillips,,0,Waco,,P1
+1909Reach,1908,Texas League,phillips,B01291,Phillius,,0,Waco,,B23
+1909Reach,1908,Texas League,potts,P10826,Potts,,0,Fort Worth,,P1
+1909Reach,1908,Texas League,powell,B00544,Powell,,1,Houston,,
+1909Reach,1908,Texas League,powell,B00544,Powell,,2,Waco,,
+1909Reach,1908,Texas League,powell,B00544,Powell,,T,,,B98
+1909Reach,1908,Texas League,powell,F20131,Powell,,1,Houston,,c
+1909Reach,1908,Texas League,powell,F20131,Powell,,2,Waco,,c
+1909Reach,1908,Texas League,powell,F20131,Powell,,T,,,c98
+1909Reach,1908,Texas League,pulliam,B00335,Pulliam,,0,Fort Worth,,B53
+1909Reach,1908,Texas League,pulliam,F21999,Pulliam,,0,Fort Worth,,of53
+1909Reach,1908,Texas League,ray-fw,B01798,Ray,,0,Fort Worth,,B17
+1909Reach,1908,Texas League,ray-shr,B01812,Ray,,0,Shreveport,,B21
+1909Reach,1908,Texas League,ray-shr,F20997,Ray,,0,Shreveport,,p21
+1909Reach,1908,Texas League,ray-fw,F21000,Ray,,0,Fort Worth,,p17
+1909Reach,1908,Texas League,ray-shr,P10588,Ray,,0,Shreveport,,P18
+1909Reach,1908,Texas League,ray-fw,P10679,Ray,,0,Fort Worth,,P13
+1909Reach,1908,Texas League,reagan,B00854,Reagan,,0,Austin,,B16
+1909Reach,1908,Texas League,reagan,F21865,Reagan,,0,Austin,,ss16
+1909Reach,1908,Texas League,rieger,B01696,Rieger,,0,Shreveport,,B39
+1909Reach,1908,Texas League,rieger,F20685,Rieger,,0,Shreveport,,p39
+1909Reach,1908,Texas League,rieger,P10385,Rieger,,0,Shreveport,,P33
+1909Reach,1908,Texas League,riley,B00609,Rieley,,0,Galveston,,B149
+1909Reach,1908,Texas League,riley,F22209,Riley,,0,Galveston,,of146
+1909Reach,1908,Texas League,robertson,P10839,Robertson,,0,Fort Worth,,P1
+1909Reach,1908,Texas League,rose,B01804,Rose,,0,Austin,,B24
+1909Reach,1908,Texas League,rose,F20962,Rose,,0,Austin,,p24
+1909Reach,1908,Texas League,rose,P10534,Rose,,0,Austin,,P20
+1909Reach,1908,Texas League,rumsey,B02070,Rumsey,,0,Houston,,B3
+1909Reach,1908,Texas League,rumsey,F21068,Rumsey,,0,Houston,,p3
+1909Reach,1908,Texas League,rumsey,P10901,Rumsey,,0,Houston,,P1
+1909Reach,1908,Texas League,russell,B00403,Russell,,0,Galveston,,B28
+1909Reach,1908,Texas League,russell,F22188,Russell,,0,Galveston,,of28
+1909Reach,1908,Texas League,ryan,B01649,Ryan,,0,Austin,,B6
+1909Reach,1908,Texas League,saim,B00117,Saim,,0,Fort Worth,,B103
+1909Reach,1908,Texas League,saim,F21229,Saim,,0,Fort Worth,,1b145
+1909Reach,1908,Texas League,sapp,B01093,Sapp,,1,Galveston,,
+1909Reach,1908,Texas League,sapp,B01093,Sapp,,2,Dallas,,
+1909Reach,1908,Texas League,sapp,B01093,Sapp,,T,,,B26
+1909Reach,1908,Texas League,sapp,F21544,Sapp,,1,Shreveport,,2b
+1909Reach,1908,Texas League,sapp,F21544,Sapp,,2,Dallas,,2b
+1909Reach,1908,Texas League,sapp,F21544,Sapp,,T,,,2b10
+1909Reach,1908,Texas League,sapp,F22295,Sapp,,1,Galveston,,of
+1909Reach,1908,Texas League,sapp,F22295,Sapp,,2,Dallas,,of
+1909Reach,1908,Texas League,sapp,F22295,Sapp,,T,,,of16
+1909Reach,1908,Texas League,schumaker,B01032,Schumaker,,0,Austin,,B8
+1909Reach,1908,Texas League,sens,B01706,Sens,,1,San Antonio,,
+1909Reach,1908,Texas League,sens,B01706,Sens,,2,Shreveport,,
+1909Reach,1908,Texas League,sens,B01706,Sens,,T,,,B28
+1909Reach,1908,Texas League,sentz,B00182,Sentz,,0,Fort Worth,,B71
+1909Reach,1908,Texas League,sentz,F22134,Sentz,,0,Fort Worth,,of71
+1909Reach,1908,Texas League,sorrell,P10486,Serrell,,0,Waco,,P29
+1909Reach,1908,Texas League,shelton,B00308,Shelton,,0,Houston,,B98
+1909Reach,1908,Texas League,shelton,F21241,Shelton,,0,Houston,,1b98
+1909Reach,1908,Texas League,short,B00948,Short,,0,Austin,,B136
+1909Reach,1908,Texas League,short,F21403,Short,,0,Austin,,2b53
+1909Reach,1908,Texas League,short,F21590,Short,,0,Austin,,3b10
+1909Reach,1908,Texas League,short,F21912,Short,,0,Austin,,ss40
+1909Reach,1908,Texas League,short,F22175,Short,,0,Austin,,of33
+1909Reach,1908,Texas League,slater,B01119,Slater,,0,Galveston,,B36
+1909Reach,1908,Texas League,slater,F20855,Slater,,0,Galveston,,p36
+1909Reach,1908,Texas League,slater,P10478,Slater,,0,Galveston,,P29
+1909Reach,1908,Texas League,slattery,B01722,Slattery,,0,Dallas,,B11
+1909Reach,1908,Texas League,slattery,F21308,Slattery,,0,Dallas,,1b11
+1909Reach,1908,Texas League,smith,B00450,Smith,,0,Galveston,,B144
+1909Reach,1908,Texas League,smith,F21833,Smith,,0,Galveston,,ss144
+1909Reach,1908,Texas League,sorrell,B00985,Sorrell,,0,Waco,,B38
+1909Reach,1908,Texas League,sorrell,F20604,Sorrell,,0,Waco,,p38
+1909Reach,1908,Texas League,stark,B00651,Stark,,0,San Antonio,,B30
+1909Reach,1908,Texas League,stark,F21566,Stark,,0,San Antonio,,3b30
+1909Reach,1908,Texas League,storch,B00469,Storch,,0,Dallas,,B146
+1909Reach,1908,Texas League,storch,F22310,Storch,,0,Dallas,,of146
+1909Reach,1908,Texas League,stovall,B00163,Stovall,,0,San Antonio,,B136
+1909Reach,1908,Texas League,stovall,F22214,Stovall,,0,San Antonio,,of136
+1909Reach,1908,Texas League,streble,B01216,Streble,,0,Austin,,B21
+1909Reach,1908,Texas League,streble,F21623,Streble,,0,Austin,,3b21
+1909Reach,1908,Texas League,sullivan,F20737,Sullivan,,0,Waco,,p9
+1909Reach,1908,Texas League,sullivan,P10231,Sullivan,,0,Waco,,P8
+1909Reach,1908,Texas League,sullivan,B01947,Sulliyan,,0,Waco,,B9
+1909Reach,1908,Texas League,tevis,B01453,Tevis,,0,Houston,,B30
+1909Reach,1908,Texas League,tevis,F20807,Tevis,,0,Houston,,p30
+1909Reach,1908,Texas League,tevis,P10441,Tevis,,0,Houston,,P27
+1909Reach,1908,Texas League,thebo,B00833,Thebo,,0,Shreveport,,B135
+1909Reach,1908,Texas League,thebo,F22012,Thebo,,0,Shreveport,,of135
+1909Reach,1908,Texas League,thompson,B00427,Thompson,,0,San Antonio,,B139
+1909Reach,1908,Texas League,thompson,F21343,Thompson,,0,San Antonio,,2b139
+1909Reach,1908,Texas League,tilford,B02081,Tilford,,0,Shreveport,,B5
+1909Reach,1908,Texas League,torrey,B02056,Torrey,,0,Shreveport,,B4
+1909Reach,1908,Texas League,torrey,F20316,Torrey,,0,Shreveport,,p4
+1909Reach,1908,Texas League,torrey,P10373,Torrey,,0,Shreveport,,P4
+1909Reach,1908,Texas League,trigg,B01242,Trigg,,0,San Antonio,,B4
+1909Reach,1908,Texas League,trigg,F20279,Trigg,,0,San Antonio,,p4
+1909Reach,1908,Texas League,trigg,P10081,Trigg,,0,San Antonio,,P4
+1909Reach,1908,Texas League,truesdale,B00278,Truesdale,,0,Houston,,B113
+1909Reach,1908,Texas League,truesdale,F21416,Truesdale,,0,Houston,,2b78
+1909Reach,1908,Texas League,truesdale,F21936,Truesdale,,0,Houston,,ss35
+1909Reach,1908,Texas League,tullos,B00760,Tullos,,0,Dallas,,B118
+1909Reach,1908,Texas League,tullos,F21651,Tullos,,0,Dallas,,3b118
+1909Reach,1908,Texas League,vinson,B00528,Vinson,,0,Austin,,B120
+1909Reach,1908,Texas League,vinson,F20014,Vinson,,0,Austin,,c19
+1909Reach,1908,Texas League,vinson,F22272,Vinson,,0,Austin,,of110
+1909Reach,1908,Texas League,walsh,F21491,Walch,,1,Houston,,2b
+1909Reach,1908,Texas League,walsh,F21491,Walch,,2,Austin,,2b
+1909Reach,1908,Texas League,walsh,F21491,Walch,,T,,,2b23
+1909Reach,1908,Texas League,wallace,B00174,Wallace,,0,Houston,,B116
+1909Reach,1908,Texas League,wallace,F22036,Wallace,,0,Houston,,of116
+1909Reach,1908,Texas League,walsh,B01572,Walsh,,0,Austin,,B4
+1909Reach,1908,Texas League,walsh,F20648,Walsh,,0,Austin,,p4
+1909Reach,1908,Texas League,walsh,P10336,Walsh,,0,Austin,,P4
+1909Reach,1908,Texas League,warrender,B01078,Warrender,,0,Shreveport,,B22
+1909Reach,1908,Texas League,warrender,F22280,Warrender,,0,Shreveport,,of22
+1909Reach,1908,Texas League,watson,B01477,Watson,,1,Galveston,,
+1909Reach,1908,Texas League,watson,B01477,Watson,,2,Houston,,
+1909Reach,1908,Texas League,watson,B01477,Watson,,T,,,B45
+1909Reach,1908,Texas League,watson,F20505,Watson,,1,Galveston,,p
+1909Reach,1908,Texas League,watson,F20505,Watson,,2,Houston,,p
+1909Reach,1908,Texas League,watson,F20505,Watson,,T,,,p45
+1909Reach,1908,Texas League,watson,P10687,Watson,,1,Galveston,,
+1909Reach,1908,Texas League,watson,P10687,Watson,,2,Austin,,
+1909Reach,1908,Texas League,watson,P10687,Watson,,T,,,P31
+1909Reach,1908,Texas League,wehinger,B01321,Wehinger,,0,Galveston,,B12
+1909Reach,1908,Texas League,wehinger,F20463,Wehinger,,0,Galveston,,p12
+1909Reach,1908,Texas League,wehinger,P10277,Wehinger,,0,Galveston,,P11
+1909Reach,1908,Texas League,weickart,B00623,Weickart,,0,Galveston,,B84
+1909Reach,1908,Texas League,weickart,F21174,Weikart,,0,Galveston,,1b84
+1909Reach,1908,Texas League,welch,B01010,Welch,,1,Houston,,
+1909Reach,1908,Texas League,welch,B01010,Welch,,2,Austin,,
+1909Reach,1908,Texas League,welch,B01010,Welch,,3,Waco,,
+1909Reach,1908,Texas League,welch,B01010,Welch,,T,,,B23
+1909Reach,1908,Texas League,welty,B01227,Welty,,0,Fort Worth,,B31
+1909Reach,1908,Texas League,welty,F21210,Welty,,0,Fort Worth,,1b31
+1909Reach,1908,Texas League,westerzil,F21973,Westerall,,0,San Antonio,,of12
+1909Reach,1908,Texas League,westerzil,B00149,Westerzil,,0,San Antonio,,B58
+1909Reach,1908,Texas League,westerzil,F21680,Westerzil,,0,San Antonio,,3b46
+1909Reach,1908,Texas League,wheat,B00381,Wheat,,0,Shreveport,,B92
+1909Reach,1908,Texas League,wheat,F22251,Wheat,,0,Shreveport,,of92
+1909Reach,1908,Texas League,white-shr+gal,B00566,White,,1,Shreveport,,
+1909Reach,1908,Texas League,white-shr+gal,B00566,White,,2,Galveston,,
+1909Reach,1908,Texas League,white-shr+gal,B00566,White,,T,,,B98
+1909Reach,1908,Texas League,white-fw,B02024,White,,0,Fort Worth,,B4
+1909Reach,1908,Texas League,white-shr+gal,F20095,White,,1,Shreveport,,c
+1909Reach,1908,Texas League,white-shr+gal,F20095,White,,2,Galveston,,c
+1909Reach,1908,Texas League,white-shr+gal,F20095,White,,T,,,c33
+1909Reach,1908,Texas League,white-fw,F20956,White,,0,Fort Worth,,p4
+1909Reach,1908,Texas League,white-shr+gal,F21528,White,,1,Shreveport,,2b
+1909Reach,1908,Texas League,white-shr+gal,F21528,White,,2,Galveston,,2b
+1909Reach,1908,Texas League,white-shr+gal,F21528,White,,T,,,2b17
+1909Reach,1908,Texas League,white-shr+gal,F22332,White,,1,Shreveport,,of
+1909Reach,1908,Texas League,white-shr+gal,F22332,White,,2,Galveston,,of
+1909Reach,1908,Texas League,white-shr+gal,F22332,White,,T,,,of44
+1909Reach,1908,Texas League,white-fw,P10714,White,,0,Fort Worth,,P4
+1909Reach,1908,Texas League,whiteman,B00324,Whiteman,,0,Houston,,B139
+1909Reach,1908,Texas League,whiteman,F20425,Whiteman,,0,Houston,,p1
+1909Reach,1908,Texas League,whiteman,F22142,Whiteman,,0,Houston,,of138
+1909Reach,1908,Texas League,whiteman,P10062,Whiteman,,0,Houston,,P1
+1909Reach,1908,Texas League,whittridge,P10709,Whitridge,,0,Dallas,,P7
+1909Reach,1908,Texas League,whittaker,B01820,Whittaker,,0,Dallas,,B20
+1909Reach,1908,Texas League,whittaker,F22150,Whittaker,,0,Dallas,,of20
+1909Reach,1908,Texas League,whittridge,B01861,Whittridge,,1,Dallas,,
+1909Reach,1908,Texas League,whittridge,B01861,Whittridge,,2,Fort Worth,,
+1909Reach,1908,Texas League,whittridge,B01861,Whittridge,,T,,,B10
+1909Reach,1908,Texas League,whittridge,F20810,Whittridge,,0,Dallas,,p10
+1909Reach,1908,Texas League,wick,B00442,Wick,,0,Fort Worth,,B87
+1909Reach,1908,Texas League,wick,F20038,Wick,,0,Fort Worth,,c87
+1909Reach,1908,Texas League,williams.l,P10780,William,C.,0,Waco,,P1
+1909Reach,1908,Texas League,williams.j,B00207,Williams,J.,0,Waco,,B139
+1909Reach,1908,Texas League,williams.l,B01971,Williams,L.,0,Waco,,B1
+1909Reach,1908,Texas League,williams.l,F21092,Williams,C.,0,Waco,,p1
+1909Reach,1908,Texas League,williams.j,F22057,Williams,J.,0,Waco,,of139
+1909Reach,1908,Texas League,winchell,B00531,Winchell,,0,San Antonio,,B57
+1909Reach,1908,Texas League,winchell,F20560,Winchell,,0,San Antonio,,p47
+1909Reach,1908,Texas League,winchell,F22364,Winchell,,0,San Antonio,,of10
+1909Reach,1908,Texas League,winchell,P10202,Winchell,,0,San Antonio,,P35
+1909Reach,1908,Texas League,windham,B01064,Windham,,0,Houston,,B10
+1909Reach,1908,Texas League,windham,F20924,Windham,,0,Houston,,p10
+1909Reach,1908,Texas League,windham,P10266,Windham,,0,Houston,,P7
+1909Reach,1908,Texas League,wolff,B01359,Wolff,,0,Galveston,,B87
+1909Reach,1908,Texas League,wolff,F20211,Wolff,,0,Galveston,,c87
+1909Reach,1908,Texas League,woods,B01466,Woods,,1,Waco,,
+1909Reach,1908,Texas League,woods,B01466,Woods,,2,Houston,,
+1909Reach,1908,Texas League,woods,B01466,Woods,,T,,,B79
+1909Reach,1908,Texas League,woods,F20115,Woods,,1,Waco,,c
+1909Reach,1908,Texas League,woods,F20115,Woods,,2,Houston,,c
+1909Reach,1908,Texas League,woods,F20115,Woods,,T,,,c79
+1909Reach,1908,Texas League,wright,B00726,Wright,,0,Dallas,,B66
+1909Reach,1908,Texas League,wright,F21771,Wright,,0,Dallas,,3b15
+1909Reach,1908,Texas League,wright,F22073,Wright,,0,Dallas,,of51
+1909Reach,1908,Texas League,yerkes,B01181,Yerkes,,0,Galveston,,B22
+1909Reach,1908,Texas League,yerkes,F20657,Yerkes,,0,Galveston,,p22
+1909Reach,1908,Texas League,yerkes,P10503,Yerkes,,0,Galveston,,P19
+1909Reach,1908,Texas League,yohe,B00614,Yohe,,0,Waco,,B114
+1909Reach,1908,Texas League,yohe,F21705,Yohe,,0,Waco,,3b114

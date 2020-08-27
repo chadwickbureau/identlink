@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1989,Northwest League,M91438,Beyers,Tom,,Salem,,,
-emilbb,1989,Northwest League,M91371,Bochy,Bruce,,Spokane,,,
-emilbb,1989,Northwest League,M91394,Carey,P. J.,,Bellingham,,,
-emilbb,1989,Northwest League,M91383,Fichman,Mal,,Boise,,,
-emilbb,1989,Northwest League,M91414,Fuson,Grady,,Southern Oregon,,,
-emilbb,1989,Northwest League,M91423,Kirsch,Paul,,Eugene,,,
-emilbb,1989,Northwest League,M91446,Long,Don,,Bend,,,
-emilbb,1989,Northwest League,M91409,Strain,Joe,,Everett,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1989,Northwest League,,M91438,Beyers,Tom,,Salem,,
+emilbb,1989,Northwest League,,M91371,Bochy,Bruce,,Spokane,,
+emilbb,1989,Northwest League,,M91394,Carey,P. J.,,Bellingham,,
+emilbb,1989,Northwest League,,M91383,Fichman,Mal,,Boise,,
+emilbb,1989,Northwest League,,M91414,Fuson,Grady,,Southern Oregon,,
+emilbb,1989,Northwest League,,M91423,Kirsch,Paul,,Eugene,,
+emilbb,1989,Northwest League,,M91446,Long,Don,,Bend,,
+emilbb,1989,Northwest League,,M91409,Strain,Joe,,Everett,,

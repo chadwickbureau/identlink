@@ -1,12 +1,12 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1986,California League,M90951,Blackwell,Tim,,Fresno,,,blackwell
-emilbb,1986,California League,M90938,Ezell,Glenn,,Ventura County,,,ezell
-emilbb,1986,California League,M90923,Kotchman,Tom,,Palm Springs,,,kotchman
-emilbb,1986,California League,M90967,LeJohn,Dan Sr.,,Bakersfield,,,lejohn
-emilbb,1986,California League,M90862,Machemer,Dave,,Stockton,,,machemer
-emilbb,1986,California League,M90870,Mahlberg,Greg,,Salinas,,,mahlberg
-emilbb,1986,California League,M90897,Reynolds,Tommie,,Modesto,,,reynolds-mod
-emilbb,1986,California League,M90946,Schmitz,Dan,,Visalia,,,schmitz
-emilbb,1986,California League,M90881,Skaalen,James,,Reno,,,skaalen
-emilbb,1986,California League,M90909,Stavrenos,Harry,,San Jose,,,stavrenos
-emilbb,1986,California League,M90914,Verdi,Mike,,San Jose,,,verdi
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1986,California League,blackwell,M90951,Blackwell,Tim,,Fresno,,
+emilbb,1986,California League,ezell,M90938,Ezell,Glenn,,Ventura County,,
+emilbb,1986,California League,kotchman,M90923,Kotchman,Tom,,Palm Springs,,
+emilbb,1986,California League,lejohn,M90967,LeJohn,Dan Sr.,,Bakersfield,,
+emilbb,1986,California League,machemer,M90862,Machemer,Dave,,Stockton,,
+emilbb,1986,California League,mahlberg,M90870,Mahlberg,Greg,,Salinas,,
+emilbb,1986,California League,reynolds-mod,M90897,Reynolds,Tommie,,Modesto,,
+emilbb,1986,California League,schmitz,M90946,Schmitz,Dan,,Visalia,,
+emilbb,1986,California League,skaalen,M90881,Skaalen,James,,Reno,,
+emilbb,1986,California League,stavrenos,M90909,Stavrenos,Harry,,San Jose,,
+emilbb,1986,California League,verdi,M90914,Verdi,Mike,,San Jose,,

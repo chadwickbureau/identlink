@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1977,Pioneer League,M91678,Gomez,Juan,,Medicine Hat,,,
-emilbb,1977,Pioneer League,M91632,Henley,Gail,,Lethbridge,,,
-emilbb,1977,Pioneer League,M91655,Himes,Larry,,Idaho Falls,,,
-emilbb,1977,Pioneer League,M91664,Lewis,Johnny,,Calgary,,,
-emilbb,1977,Pioneer League,M91686,Riddoch,Greg,,Billings,,,
-emilbb,1977,Pioneer League,M91641,Rodriguez,Ernie,,Great Falls,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1977,Pioneer League,,M91678,Gomez,Juan,,Medicine Hat,,
+emilbb,1977,Pioneer League,,M91632,Henley,Gail,,Lethbridge,,
+emilbb,1977,Pioneer League,,M91655,Himes,Larry,,Idaho Falls,,
+emilbb,1977,Pioneer League,,M91664,Lewis,Johnny,,Calgary,,
+emilbb,1977,Pioneer League,,M91686,Riddoch,Greg,,Billings,,
+emilbb,1977,Pioneer League,,M91641,Rodriguez,Ernie,,Great Falls,,

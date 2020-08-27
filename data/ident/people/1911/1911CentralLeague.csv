@@ -1,562 +1,562 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-1912Reach,1911,Central League,B01029,Alberts,,0,Terre Haute,,B34,alberts-th
-1912Reach,1911,Central League,B01041,Alberts,,0,Fort Wayne,,B29,alberts-fw
-1912Reach,1911,Central League,F20745,Alberts,C.,0,Fort Wayne,,p29,alberts-fw
-1912Reach,1911,Central League,F20981,Alberts,F.,0,Terre Haute,,p34,alberts-th
-1912Reach,1911,Central League,P10019,Alberts,C.,0,Fort Wayne,,P27,alberts-fw
-1912Reach,1911,Central League,P10253,Alberts,F.,0,Terre Haute,,P34,alberts-th
-1912Reach,1911,Central League,B00794,Asher,,1,Dayton,,,asher
-1912Reach,1911,Central League,B00794,Asher,,2,Grand Rapids [II],,,asher
-1912Reach,1911,Central League,B00794,Asher,,T,,,B21,asher
-1912Reach,1911,Central League,F21084,Asher,,1,Dayton,,p,asher
-1912Reach,1911,Central League,F21084,Asher,,2,Grand Rapids [II],,p,asher
-1912Reach,1911,Central League,F21084,Asher,,T,,,p21,asher
-1912Reach,1911,Central League,P10202,Asher,,1,Dayton,,,asher
-1912Reach,1911,Central League,P10202,Asher,,2,Grand Rapids [II],,,asher
-1912Reach,1911,Central League,P10202,Asher,,T,,,P20,asher
-1912Reach,1911,Central League,B00961,Bailey,,0,Fort Wayne,,B64,bailey
-1912Reach,1911,Central League,F20526,Bailey,,0,Fort Wayne,,c64,bailey
-1912Reach,1911,Central League,B00672,Barkwell,,1,Terre Haute,,,barkwell
-1912Reach,1911,Central League,B00672,Barkwell,,2,Grand Rapids [II],,,barkwell
-1912Reach,1911,Central League,B00672,Barkwell,,T,,,B132,barkwell
-1912Reach,1911,Central League,F20206,Barkwell,,1,Terre Haute,,2b,barkwell
-1912Reach,1911,Central League,F20206,Barkwell,,2,Grand Rapids [II],,2b,barkwell
-1912Reach,1911,Central League,F20206,Barkwell,,T,,,2b43,barkwell
-1912Reach,1911,Central League,F20369,Barkwell,,1,Terre Haute,,3b,barkwell
-1912Reach,1911,Central League,F20369,Barkwell,,2,Grand Rapids [II],,3b,barkwell
-1912Reach,1911,Central League,F20369,Barkwell,,T,,,3b72,barkwell
-1912Reach,1911,Central League,F21381,Barkwell,,1,Terre Haute,,of,barkwell
-1912Reach,1911,Central League,F21381,Barkwell,,2,Grand Rapids [II],,of,barkwell
-1912Reach,1911,Central League,F21381,Barkwell,,T,,,of17,barkwell
-1912Reach,1911,Central League,B00229,Bates,,0,Terre Haute,,B104,bates
-1912Reach,1911,Central League,F21434,Bates,,0,Terre Haute,,of104,bates
-1912Reach,1911,Central League,B01227,Beasley,,0,Terre Haute,,B23,beasley
-1912Reach,1911,Central League,B01078,Beatty,,0,Wheeling,,B34,beatty
-1912Reach,1911,Central League,F20807,Beatty,,0,Wheeling,,p34,beatty
-1912Reach,1911,Central League,P10312,Beatty,,0,Wheeling,,P34,beatty
-1912Reach,1911,Central League,B01170,Bemis,,1,Grand Rapids [I],,,bemis
-1912Reach,1911,Central League,B01170,Bemis,,2,Newark,,,bemis
-1912Reach,1911,Central League,B01170,Bemis,,T,,,B22,bemis
-1912Reach,1911,Central League,F20943,Bemis,,1,Grand Rapids [I],,p,bemis
-1912Reach,1911,Central League,F20943,Bemis,,2,Newark,,p,bemis
-1912Reach,1911,Central League,F20943,Bemis,,T,,,p22,bemis
-1912Reach,1911,Central League,P10320,Bemis,,1,Grand Rapids [I],,,bemis
-1912Reach,1911,Central League,P10320,Bemis,,2,Newark,,,bemis
-1912Reach,1911,Central League,P10320,Bemis,,T,,,P22,bemis
-1912Reach,1911,Central League,B00232,Benson,,0,Dayton,,B136,benson
-1912Reach,1911,Central League,F20153,Benson,,0,Dayton,,2b136,benson
-1912Reach,1911,Central League,B01234,Billiard,,0,Terre Haute,,B26,billiard
-1912Reach,1911,Central League,F21021,Billiard,,0,Terre Haute,,p26,billiard
-1912Reach,1911,Central League,P10410,Billiard,,0,Terre Haute,,P26,billiard
-1912Reach,1911,Central League,B00488,Blake,,0,Zanesville,,B72,blake
-1912Reach,1911,Central League,F20115,Blake,,0,Zanesville,,2b72,blake
-1912Reach,1911,Central League,B00174,Blount,,0,Fort Wayne,,B106,blount
-1912Reach,1911,Central League,F21229,Blount,,0,Fort Wayne,,of106,blount
-1912Reach,1911,Central League,B00092,Byrnes,,1,Evansville,,,byrnes
-1912Reach,1911,Central League,B00092,Byrnes,,2,South Bend [II],,,byrnes
-1912Reach,1911,Central League,B00092,Byrnes,,T,,,B122,byrnes
-1912Reach,1911,Central League,F21397,Byrnes,,1,Evansville,,of,byrnes
-1912Reach,1911,Central League,F21397,Byrnes,,2,South Bend [II],,of,byrnes
-1912Reach,1911,Central League,F21397,Byrnes,,T,,,of122,byrnes
-1912Reach,1911,Central League,B00667,Callahan,,1,Terre Haute,,,callahan
-1912Reach,1911,Central League,B00667,Callahan,,2,Newark,,,callahan
-1912Reach,1911,Central League,B00667,Callahan,,T,,,B92,callahan
-1912Reach,1911,Central League,F21335,Callahan,,1,Terre Haute,,of,callahan
-1912Reach,1911,Central League,F21335,Callahan,,2,Newark,,of,callahan
-1912Reach,1911,Central League,F21335,Callahan,,T,,,of92,callahan
-1912Reach,1911,Central League,B00609,Cameron,,0,Dayton,,B129,cameron
-1912Reach,1911,Central League,F20038,Cameron,,0,Dayton,,1b129,cameron
-1912Reach,1911,Central League,B00324,Cantwell,,1,Evansville,,,cantwell
-1912Reach,1911,Central League,B00324,Cantwell,,2,South Bend [II],,,cantwell
-1912Reach,1911,Central League,B00324,Cantwell,,T,,,B30,cantwell
-1912Reach,1911,Central League,F20970,Cantwell,,1,Evansville,,p,cantwell
-1912Reach,1911,Central League,F20970,Cantwell,,2,South Bend [II],,p,cantwell
-1912Reach,1911,Central League,F20970,Cantwell,,T,,,p30,cantwell
-1912Reach,1911,Central League,P10231,Cantwell,,1,Evansville,,,cantwell
-1912Reach,1911,Central League,P10231,Cantwell,,2,South Bend [II],,,cantwell
-1912Reach,1911,Central League,P10231,Cantwell,,T,,,P30,cantwell
-1912Reach,1911,Central League,B00442,Casey,,0,Fort Wayne,,B107,casey
-1912Reach,1911,Central League,F20298,Casey,,0,Fort Wayne,,3b78,casey
-1912Reach,1911,Central League,F21286,Casey,,0,Fort Wayne,,of29,casey
-1912Reach,1911,Central League,B00207,Clancey,,0,Fort Wayne,,B97,clancey
-1912Reach,1911,Central League,F20051,Clancey,,0,Fort Wayne,,1b97,clancey
-1912Reach,1911,Central League,B00865,Compton,,0,Dayton,,B31,compton
-1912Reach,1911,Central League,F20776,Compton,,0,Dayton,,p31,compton
-1912Reach,1911,Central League,P10024,Compton,,0,Dayton,,P31,compton
-1912Reach,1911,Central League,B00013,Connolly,,1,Zanesville,,,connolly
-1912Reach,1911,Central League,B00013,Connolly,,2,Terre Haute,,,connolly
-1912Reach,1911,Central League,B00013,Connolly,,T,,,B97,connolly
-1912Reach,1911,Central League,F21403,Connolly,,1,Terre Haute,,of,connolly
-1912Reach,1911,Central League,F21403,Connolly,,2,Zanesville,,of,connolly
-1912Reach,1911,Central League,F21403,Connolly,,T,,,of97,connolly
-1912Reach,1911,Central League,B00084,Core,,0,Grand Rapids [II],,B131,core
-1912Reach,1911,Central League,F21241,Core,,1,South Bend [I],,of,core
-1912Reach,1911,Central League,F21241,Core,,2,Grand Rapids [II],,of,core
-1912Reach,1911,Central League,F21241,Core,,T,,,of131,core
-1912Reach,1911,Central League,B00403,Craven,,1,South Bend [I],,,craven
-1912Reach,1911,Central League,B00403,Craven,,2,Grand Rapids [I],,,craven
-1912Reach,1911,Central League,B00403,Craven,,3,Newark,,,craven
-1912Reach,1911,Central League,B00403,Craven,,T,,,B85,craven
-1912Reach,1911,Central League,F20350,Craven,,0,Newark,,3b15,craven
-1912Reach,1911,Central League,F21362,Craven,,1,South Bend [I],,of,craven
-1912Reach,1911,Central League,F21362,Craven,,2,Grand Rapids [I],,of,craven
-1912Reach,1911,Central League,F21362,Craven,,3,Newark,,of,craven
-1912Reach,1911,Central League,F21362,Craven,,T,,,of70,craven
-1912Reach,1911,Central League,B01032,Crowder,,0,Zanesville,,B131,crowder
-1912Reach,1911,Central League,F20391,Crowder,,0,Zanesville,,ss131,crowder
-1912Reach,1911,Central League,B00651,DeGroff,,0,Zanesville,,B69,degroff
-1912Reach,1911,Central League,F21319,DeGroff,,0,Zanesville,,of69,degroff
-1912Reach,1911,Central League,B00293,DeHaven,,0,Dayton,,B140,dehaven
-1912Reach,1911,Central League,F21255,DeHaven,,0,Dayton,,of140,dehaven
-1912Reach,1911,Central League,B01203,Doak,,0,Wheeling,,B39,doak
-1912Reach,1911,Central League,F20810,Doak,,0,Wheeling,,p39,doak
-1912Reach,1911,Central League,P10289,Doak,,0,Wheeling,,P36,doak
-1912Reach,1911,Central League,F20430,Dobard,,0,Dayton,,ss123,dobard
-1912Reach,1911,Central League,B00695,Dobart,,0,Dayton,,B123,dobard
-1912Reach,1911,Central League,B00149,Donovan,,1,Evansville,,,donovan
-1912Reach,1911,Central League,B00149,Donovan,,2,South Bend [II],,,donovan
-1912Reach,1911,Central League,B00149,Donovan,,T,,,B114,donovan
-1912Reach,1911,Central League,F21416,Donovan,,1,Evansville,,of,donovan
-1912Reach,1911,Central League,F21416,Donovan,,2,South Bend [II],,of,donovan
-1912Reach,1911,Central League,F21416,Donovan,,T,,,of114,donovan
-1912Reach,1911,Central League,B00125,Durham,,0,Wheeling,,B92,durham
-1912Reach,1911,Central League,F21207,Durham,,0,Wheeling,,of92,durham
-1912Reach,1911,Central League,B01108,Essick,,1,South Bend [I],,,essick
-1912Reach,1911,Central League,B01108,Essick,,2,Grand Rapids [II],,,essick
-1912Reach,1911,Central League,B01108,Essick,,T,,,B25,essick
-1912Reach,1911,Central League,F20737,Essick,,1,South Bend [I],,p,essick
-1912Reach,1911,Central League,F20737,Essick,,2,Grand Rapids [II],,p,essick
-1912Reach,1911,Central League,F20737,Essick,,T,,,p25,essick
-1912Reach,1911,Central League,P10070,Essick,,1,South Bend [I],,,essick
-1912Reach,1911,Central League,P10070,Essick,,2,Grand Rapids [II],,,essick
-1912Reach,1911,Central League,P10070,Essick,,T,,,P25,essick
-1912Reach,1911,Central League,B00182,Farrell,,0,Zanesville,,B119,farrell
-1912Reach,1911,Central League,F21149,Farrell,,0,Zanesville,,of119,farrell
-1912Reach,1911,Central League,F20832,Fromholtz,,0,Dayton,,p12,fromholtz
-1912Reach,1911,Central League,P10348,Fromholtz,,0,Dayton,,P12,fromholtz
-1912Reach,1911,Central League,B00210,Geier,,1,South Bend [I],,,geier
-1912Reach,1911,Central League,B00210,Geier,,2,Grand Rapids [II],,,geier
-1912Reach,1911,Central League,B00210,Geier,,T,,,B128,geier
-1912Reach,1911,Central League,F21125,Geier,,1,South Bend [I],,of,geier
-1912Reach,1911,Central League,F21125,Geier,,2,Grand Rapids [II],,of,geier
-1912Reach,1911,Central League,F21125,Geier,,T,,,of128,geier
-1912Reach,1911,Central League,B00854,Gilbert,,0,Newark,,B35,gilbert
-1912Reach,1911,Central League,F20908,Gilbert,,0,Newark,,p35,gilbert
-1912Reach,1911,Central League,P10399,Gilbert,,0,Newark,,P24,gilbert
-1912Reach,1911,Central League,B00904,Goldrick,,1,Grand Rapids [I],,,goldrick
-1912Reach,1911,Central League,B00904,Goldrick,,2,Newark,,,goldrick
-1912Reach,1911,Central League,B00904,Goldrick,,T,,,B39,goldrick
-1912Reach,1911,Central League,F21059,Goldrick,,1,Grand Rapids [I],,p,goldrick
-1912Reach,1911,Central League,F21059,Goldrick,,2,Newark,,p,goldrick
-1912Reach,1911,Central League,F21059,Goldrick,,T,,,p39,goldrick
-1912Reach,1911,Central League,P10159,Goldrick,,1,Grand Rapids [I],,,goldrick
-1912Reach,1911,Central League,P10159,Goldrick,,2,Newark,,,goldrick
-1912Reach,1911,Central League,P10159,Goldrick,,T,,,P37,goldrick
-1912Reach,1911,Central League,F20768,Graham,,0,Wheeling,,p23,graham
-1912Reach,1911,Central League,P10266,Graham,,0,Wheeling,,P23,graham
-1912Reach,1911,Central League,B00948,Grant,,1,Evansville,,,grant
-1912Reach,1911,Central League,B00948,Grant,,2,South Bend [II],,,grant
-1912Reach,1911,Central League,B00948,Grant,,3,Terre Haute,,,grant
-1912Reach,1911,Central League,B00948,Grant,,T,,,B5,grant
-1912Reach,1911,Central League,F20177,Grant,,1,Evansville,,2b,grant
-1912Reach,1911,Central League,F20177,Grant,,2,South Bend [II],,2b,grant
-1912Reach,1911,Central League,F20177,Grant,,T,,,2b85,grant
-1912Reach,1911,Central League,B00021,Gray,,1,Grand Rapids [I],,,gray
-1912Reach,1911,Central League,B00021,Gray,,2,Newark,,,gray
-1912Reach,1911,Central League,B00021,Gray,,T,,,B119,gray
-1912Reach,1911,Central League,F21293,Gray,,1,Grand Rapids [I],,of,gray
-1912Reach,1911,Central League,F21293,Gray,,2,Newark,,of,gray
-1912Reach,1911,Central League,F21293,Gray,,T,,,of119,gray
-1912Reach,1911,Central League,B00264,Grefe,,1,Evansville,,,grefe
-1912Reach,1911,Central League,B00264,Grefe,,2,South Bend [II],,,greer
-1912Reach,1911,Central League,B00264,Grefe,,T,,,B134,grefe
-1912Reach,1911,Central League,F20046,Grefe,,1,Evansville,,1b,grefe
-1912Reach,1911,Central League,F20046,Grefe,,2,South Bend [II],,1b,grefe
-1912Reach,1911,Central League,F20046,Grefe,,T,,,1b134,grefe
-1912Reach,1911,Central League,B00528,Grogan,,0,Terre Haute,,B134,grogan
-1912Reach,1911,Central League,F21324,Grogan,,0,Terre Haute,,of134,grogan
-1912Reach,1911,Central League,B00705,Gwinn,,0,Terre Haute,,B15,gwinn
-1912Reach,1911,Central League,F20935,Gwinn,,0,Terre Haute,,p14,gwinn
-1912Reach,1911,Central League,P10100,Gwinn,,0,Terre Haute,,P14,gwinn
-1912Reach,1911,Central League,B00515,Hadley,,1,Evansville,,,hadley
-1912Reach,1911,Central League,B00515,Hadley,,2,South Bend [II],,,hadley
-1912Reach,1911,Central League,B00515,Hadley,,T,,,B135,hadley
-1912Reach,1911,Central League,F20189,Hadley,,1,Evansville,,2b,hadley
-1912Reach,1911,Central League,F20189,Hadley,,2,South Bend [II],,2b,hadley
-1912Reach,1911,Central League,F20189,Hadley,,T,,,2b17,hadley
-1912Reach,1911,Central League,F20401,Hadley,,1,Evansville,,ss,hadley
-1912Reach,1911,Central League,F20401,Hadley,,2,South Bend [II],,ss,hadley
-1912Reach,1911,Central League,F20401,Hadley,,T,,,ss118,hadley
-1912Reach,1911,Central League,B01197,Hale,,1,Grand Rapids [I],,,hale
-1912Reach,1911,Central League,B01197,Hale,,2,Newark,,,hale
-1912Reach,1911,Central League,B01197,Hale,,T,,,B37,hale
-1912Reach,1911,Central League,F20886,Hale,,1,Grand Rapids [I],,p,hale
-1912Reach,1911,Central League,F20886,Hale,,2,Newark,,p,hale
-1912Reach,1911,Central League,F20886,Hale,,T,,,p37,hale
-1912Reach,1911,Central League,P10244,Hale,,1,Grand Rapids [I],,,hale
-1912Reach,1911,Central League,P10244,Hale,,2,Newark,,,hale
-1912Reach,1911,Central League,P10244,Hale,,T,,,P37,hale
-1912Reach,1911,Central League,B01135,Hanley,,0,Zanesville,,B23,hanley
-1912Reach,1911,Central League,F21076,Hanley,,0,Zanesville,,p23,hanley
-1912Reach,1911,Central League,P10145,Hanley,,0,Zanesville,,P23,hanley
-1912Reach,1911,Central League,B00434,Harden,,0,Fort Wayne,,B37,harden
-1912Reach,1911,Central League,F21045,Harden,,0,Fort Wayne,,p37,harden
-1912Reach,1911,Central League,P10043,Harden,,0,Fort Wayne,,P37,harden
-1912Reach,1911,Central League,B01216,Hardy,,0,Wheeling,,B34,hardy
-1912Reach,1911,Central League,F20956,Hardy,,0,Wheeling,,p34,hardy
-1912Reach,1911,Central League,P10373,Hardy,,0,Wheeling,,P34,hardy
-1912Reach,1911,Central League,B00343,Hargrove,,0,Terre Haute,,B91,hargrove
-1912Reach,1911,Central League,F20612,Hargrove,,0,Terre Haute,,c48,hargrove
-1912Reach,1911,Central League,F21182,Hargrove,,0,Terre Haute,,of33,hargrove
-1912Reach,1911,Central League,B00319,Hartford,,0,Terre Haute,,B86,hartford
-1912Reach,1911,Central League,F20463,Hartford,,0,Terre Haute,,ss60,hartford
-1912Reach,1911,Central League,F21196,Hartford,,0,Terre Haute,,of25,hartford
-1912Reach,1911,Central League,B00475,Hillinger,,0,Zanesville,,B131,hillinger
-1912Reach,1911,Central League,F21308,Hillinger,,0,Zanesville,,of131,hillinger
-1912Reach,1911,Central League,B00623,Holmes,,1,South Bend [I],,,holmes
-1912Reach,1911,Central League,B00623,Holmes,,2,Grand Rapids [II],,,holmes
-1912Reach,1911,Central League,B00623,Holmes,,T,,,B121,holmes
-1912Reach,1911,Central League,F20518,Holmes,,1,South Bend [I],,c,holmes
-1912Reach,1911,Central League,F20518,Holmes,,2,Grand Rapids [II],,c,holmes
-1912Reach,1911,Central League,F20518,Holmes,,T,,,c121,holmes
-1912Reach,1911,Central League,B00531,Jewel,,0,Wheeling,,B124,jewell
-1912Reach,1911,Central League,F20474,Jewell,,0,Wheeling,,ss124,jewell
-1912Reach,1911,Central League,B01010,Jones,,0,Zanesville,,B37,jones-zan
-1912Reach,1911,Central League,F21013,Jones,,0,Zanesville,,p37,jones-zan
-1912Reach,1911,Central League,P10184,Jones,,0,Zanesville,,P37,jones-zan
-1912Reach,1911,Central League,B00362,Justice,,0,Fort Wayne,,B139,justice
-1912Reach,1911,Central League,F20458,Justice,,0,Fort Wayne,,ss139,justice
-1912Reach,1911,Central League,F20166,Kahl,,1,Zanesville,,2b,kahl
-1912Reach,1911,Central League,F20166,Kahl,,2,Terre Haute,,2b,kahl
-1912Reach,1911,Central League,F20166,Kahl,,T,,,2b33,kahl
-1912Reach,1911,Central League,B00037,Keener,,0,Fort Wayne,,B115,keener
-1912Reach,1911,Central League,F21210,Keener,,0,Fort Wayne,,of115,keener
-1912Reach,1911,Central League,B00614,Kelly,,1,South Bend [I],,,kelly
-1912Reach,1911,Central League,B00614,Kelly,,2,Grand Rapids [II],,,kelly
-1912Reach,1911,Central League,B00614,Kelly,,T,,,B127,kelly
-1912Reach,1911,Central League,F20449,Kelly,,1,South Bend [I],,ss,kelly
-1912Reach,1911,Central League,F20449,Kelly,,2,Grand Rapids [II],,ss,kelly
-1912Reach,1911,Central League,F20449,Kelly,,T,,,ss127,kelly
-1912Reach,1911,Central League,B00278,Kihm,,1,Grand Rapids [I],,,kihm
-1912Reach,1911,Central League,B00278,Kihm,,2,Newark,,,kihm
-1912Reach,1911,Central League,B00278,Kihm,,T,,,B135,kihm
-1912Reach,1911,Central League,F20014,Kihm,,1,Grand Rapids [I],,1b,kihm
-1912Reach,1911,Central League,F20014,Kihm,,2,Newark,,1b,kihm
-1912Reach,1911,Central League,F20014,Kihm,,T,,,1b135,kihm
-1912Reach,1911,Central League,F20388,King,,0,Wheeling,,3b50,king
-1912Reach,1911,Central League,B00416,Kirkpatrick,,0,Dayton,,B137,kirkpatrick
-1912Reach,1911,Central League,F20327,Kirkpatrick,,0,Dayton,,3b137,kirkpatrick
-1912Reach,1911,Central League,B00973,Kling,,0,Wheeling,,B50,king
-1912Reach,1911,Central League,B00163,Knisley,,0,Wheeling,,B112,knisley
-1912Reach,1911,Central League,F21278,Knisley,,0,Wheeling,,of112,knisley
-1912Reach,1911,Central League,B00196,Knoll,,0,Dayton,,B132,knoll
-1912Reach,1911,Central League,F21232,Knoll,,0,Dayton,,of132,knoll
-1912Reach,1911,Central League,B00308,Koehler,,1,South Bend [I],,,koehler
-1912Reach,1911,Central League,B00308,Koehler,,2,Grand Rapids [II],,,koehler
-1912Reach,1911,Central League,B00308,Koehler,,T,,,B129,koehler
-1912Reach,1911,Central League,F20144,Koehler,,1,South Bend [I],,2b,koehler
-1912Reach,1911,Central League,F20144,Koehler,,2,Grand Rapids [II],,2b,koehler
-1912Reach,1911,Central League,F20144,Koehler,,T,,,2b129,koehler
-1912Reach,1911,Central League,F20316,Kohl,,0,Terre Haute,,3b49,kahl
-1912Reach,1911,Central League,B00117,Konnick,,0,Dayton,,B100,konnick
-1912Reach,1911,Central League,F20636,Konnick,,0,Dayton,,c100,konnick
-1912Reach,1911,Central League,B00370,Kroy,,1,South Bend [I],,,kroy
-1912Reach,1911,Central League,B00370,Kroy,,2,Grand Rapids [II],,,kroy
-1912Reach,1911,Central League,B00370,Kroy,,T,,,B132,kroy
-1912Reach,1911,Central League,F21158,Kroy,,1,South Bend [I],,of,kroy
-1912Reach,1911,Central League,F21158,Kroy,,2,Grand Rapids [II],,of,kroy
-1912Reach,1911,Central League,F21158,Kroy,,T,,,of132,kroy
-1912Reach,1911,Central League,B00335,Lewis,,0,Wheeling,,B126,lewis-whe
-1912Reach,1911,Central League,F20211,Lewis,,0,Wheeling,,2b126,lewis-whe
-1912Reach,1911,Central League,B00879,Lindsay,,1,South Bend [I],,,lindsay
-1912Reach,1911,Central League,B00879,Lindsay,,2,Grand Rapids [II],,,lindsay
-1912Reach,1911,Central League,B00879,Lindsay,,T,,,B37,lindsay
-1912Reach,1911,Central League,F20721,Lindsay,,1,South Bend [I],,p,lindsay
-1912Reach,1911,Central League,F20721,Lindsay,,2,Grand Rapids [II],,p,lindsay
-1912Reach,1911,Central League,F20721,Lindsay,,T,,,p37,lindsay
-1912Reach,1911,Central League,P10357,Lindsay,,1,South Bend [I],,,lindsay
-1912Reach,1911,Central League,P10357,Lindsay,,2,Grand Rapids [II],,,lindsay
-1912Reach,1911,Central League,P10357,Lindsay,,T,,,P37,lindsay
-1912Reach,1911,Central League,B00912,Mahoney,,0,Terre Haute,,B56,mahoney-th
-1912Reach,1911,Central League,F20496,Mahoney,,0,Terre Haute,,ss56,mahoney-th
-1912Reach,1911,Central League,B01156,Markham,,1,Evansville,,,markham
-1912Reach,1911,Central League,B01156,Markham,,2,South Bend [II],,,markham
-1912Reach,1911,Central League,B01156,Markham,,T,,,B35,markham
-1912Reach,1911,Central League,F21000,Markham,,1,Evansville,,p,markham
-1912Reach,1911,Central League,F21000,Markham,,2,South Bend [II],,p,markham
-1912Reach,1911,Central League,F21000,Markham,,T,,,p35,markham
-1912Reach,1911,Central League,P10361,Markham,,1,Evansville,,,markham
-1912Reach,1911,Central League,P10361,Markham,,2,South Bend [II],,,markham
-1912Reach,1911,Central League,P10361,Markham,,T,,,P35,markham
-1912Reach,1911,Central League,B00822,Martin,,1,Grand Rapids [I],,,martin-gr+new
-1912Reach,1911,Central League,B00822,Martin,,2,Newark,,,martin-gr+new
-1912Reach,1911,Central League,B00822,Martin,,T,,,B49,martin-gr+new
-1912Reach,1911,Central League,B01162,Martin,,1,South Bend [I],,,martin-sb+gr
-1912Reach,1911,Central League,B01162,Martin,,2,Grand Rapids [II],,,martin-sb+gr
-1912Reach,1911,Central League,B01162,Martin,,T,,,B35,martin-sb+gr
-1912Reach,1911,Central League,F20539,Martin,,1,Grand Rapids [I],,c,martin-gr+new
-1912Reach,1911,Central League,F20539,Martin,,2,Newark,,c,martin-gr+new
-1912Reach,1911,Central League,F20539,Martin,,T,,,c49,martin-gr+new
-1912Reach,1911,Central League,F20997,Martin,,1,South Bend [I],,p,martin-sb+gr
-1912Reach,1911,Central League,F20997,Martin,,2,Grand Rapids [II],,p,martin-sb+gr
-1912Reach,1911,Central League,F20997,Martin,,T,,,p35,martin-sb+gr
-1912Reach,1911,Central League,P10192,Martin,,1,South Bend [I],,,martin-sb+gr
-1912Reach,1911,Central League,P10192,Martin,,2,Grand Rapids [II],,,martin-sb+gr
-1912Reach,1911,Central League,P10192,Martin,,T,,,P34,martin-sb+gr
-1912Reach,1911,Central League,F20648,McDon'h,,1,Grand Rapids [I],,c,mcdonough
-1912Reach,1911,Central League,F20648,McDon'h,,2,Terre Haute,,c,mcdonough
-1912Reach,1911,Central League,F20648,McDon'h,,3,Newark,,c,mcdonough
-1912Reach,1911,Central League,F20648,McDon'h,,T,,,c52,mcdonough
-1912Reach,1911,Central League,B00840,McDonough,,1,Terre Haute,,,mcdonough
-1912Reach,1911,Central League,B00840,McDonough,,2,Newark,,,mcdonough
-1912Reach,1911,Central League,B00840,McDonough,,T,,,B52,mcdonough
-1912Reach,1911,Central League,F20375,McKelvey,,0,Zanesville,,3b14,mckelvey
-1912Reach,1911,Central League,B00806,McLafferty,,0,Fort Wayne,,B91,mclafferty
-1912Reach,1911,Central League,F20095,McLafferty,,0,Fort Wayne,,1b25,mclafferty
-1912Reach,1911,Central League,F20287,McLafferty,,0,Fort Wayne,,3b66,mclafferty
-1912Reach,1911,Central League,B00783,Montgomery,,0,Wheeling,,B78,montgomery
-1912Reach,1911,Central League,F21264,Montgomery,,0,Wheeling,,of78,montgomery
-1912Reach,1911,Central League,B00544,Murray,,1,Grand Rapids [I],,,murray-gr+new
-1912Reach,1911,Central League,B00544,Murray,,2,Newark,,,murray-gr+new
-1912Reach,1911,Central League,B00544,Murray,,T,,,B113,murray-gr+new
-1912Reach,1911,Central League,B00718,Murray,,0,Wheeling,,B82,murray.j
-1912Reach,1911,Central League,F20128,Murray,,1,Grand Rapids [I],,2b,murray-gr+new
-1912Reach,1911,Central League,F20128,Murray,,2,Newark,,2b,murray-gr+new
-1912Reach,1911,Central League,F20128,Murray,,T,,,2b113,murray-gr+new
-1912Reach,1911,Central League,F20657,Murray,,0,Wheeling,,c82,murray.j
-1912Reach,1911,Central League,B01119,Myers,,1,South Bend [I],,,myers-sb+gr
-1912Reach,1911,Central League,B01119,Myers,,2,Grand Rapids [II],,,myers-sb+gr
-1912Reach,1911,Central League,B01119,Myers,,T,,,B28,myers-sb+gr
-1912Reach,1911,Central League,F20792,Myers,,1,South Bend [I],,p,myers-sb+gr
-1912Reach,1911,Central League,F20792,Myers,,2,Grand Rapids [II],,p,myers-sb+gr
-1912Reach,1911,Central League,F20792,Myers,,T,,,p28,myers-sb+gr
-1912Reach,1911,Central League,P10081,Myers,,1,Grand Rapids [II],,,myers-sb+gr
-1912Reach,1911,Central League,P10081,Myers,,2,South Bend [I],,,myers-sb+gr
-1912Reach,1911,Central League,P10081,Myers,,T,,,P27,myers-sb+gr
-1912Reach,1911,Central League,B00286,Nee,,0,Terre Haute,,B29,nee
-1912Reach,1911,Central League,F20505,Nee,,0,Terre Haute,,ss29,nee
-1912Reach,1911,Central League,B00590,O'Brien,M.,1,Zanesville,,,obrien-zan+th
-1912Reach,1911,Central League,B00590,O'Brien,M.,2,Terre Haute,,,obrien-zan+th
-1912Reach,1911,Central League,B00590,O'Brien,M.,T,,,B112,obrien-zan+th
-1912Reach,1911,Central League,B00887,O'Brien,,1,Evansville,,,obrien-eva+sb
-1912Reach,1911,Central League,B00887,O'Brien,,2,South Bend [II],,,obrien-eva+sb
-1912Reach,1911,Central League,B00887,O'Brien,,T,,,B99,obrien-eva+sb
-1912Reach,1911,Central League,F20604,O'Brien,,1,Zanesville,,c,obrien-zan+th
-1912Reach,1911,Central League,F20604,O'Brien,,2,Terre Haute,,c,obrien-zan+th
-1912Reach,1911,Central League,F20604,O'Brien,,T,,,c112,obrien-zan+th
-1912Reach,1911,Central League,B00726,Onslow,,0,Fort Wayne,,B104,onslow
-1912Reach,1911,Central League,F20583,Onslow,,0,Fort Wayne,,c104,onslow
-1912Reach,1911,Central League,P10168,Otey,,0,Dayton,,P17,otey
-1912Reach,1911,Central League,F20919,Ottey,,0,Dayton,,p17,otey
-1912Reach,1911,Central League,B00739,Parker,C.,0,Newark,,B41,parker.c
-1912Reach,1911,Central League,B00771,Parker,J.,1,Grand Rapids [I],,,parker.j
-1912Reach,1911,Central League,B00771,Parker,J.,2,Newark,,,parker.j
-1912Reach,1911,Central League,B00771,Parker,J.,T,,,B59,parker.j
-1912Reach,1911,Central League,F20482,Parker,C.,0,Newark,,ss41,parker.c
-1912Reach,1911,Central League,F20699,Parker,J.,1,Grand Rapids [I],,c,parker.j
-1912Reach,1911,Central League,F20699,Parker,J.,2,Newark,,c,parker.j
-1912Reach,1911,Central League,F20699,Parker,J.,T,,,c59,parker.j
-1912Reach,1911,Central League,B01124,Pattison,,0,Terre Haute,,B18,pattison
-1912Reach,1911,Central League,F20962,Pattison,,0,Terre Haute,,p18,pattison
-1912Reach,1911,Central League,P10407,Pattison,,0,Terre Haute,,P18,pattison
-1912Reach,1911,Central League,B00356,Pendry,,0,Newark,,B139,pendry
-1912Reach,1911,Central League,F20240,Pendry,,1,Grand Rapids [I],,3b,pendry
-1912Reach,1911,Central League,F20240,Pendry,,2,Newark,,3b,pendry
-1912Reach,1911,Central League,F20240,Pendry,,T,,,3b139,pendry
-1912Reach,1911,Central League,B01093,Pfeffer,,0,Fort Wayne,,B27,pfeffer
-1912Reach,1911,Central League,F20700,Pfeffer,,0,Fort Wayne,,p27,pfeffer
-1912Reach,1911,Central League,P10035,Pfeffer,,0,Fort Wayne,,P23,pfeffer
-1912Reach,1911,Central League,B00045,Queisser,,0,Terre Haute,,B26,queisser-th
-1912Reach,1911,Central League,F20233,Queisser,,0,Terre Haute,,2b17,queisser-th
-1912Reach,1911,Central League,P10113,Queisser,,0,Terre Haute,,P9,queisser-th
-1912Reach,1911,Central League,F20547,Quiesser,,0,Newark,,c22,queisser-new
-1912Reach,1911,Central League,B00450,Ragon,,1,Grand Rapids [I],,,ragon
-1912Reach,1911,Central League,B00450,Ragon,,2,Newark,,,ragon
-1912Reach,1911,Central League,B00450,Ragon,,T,,,B81,ragon
-1912Reach,1911,Central League,F20425,Ragon,,1,Grand Rapids [I],,ss,ragon
-1912Reach,1911,Central League,F20425,Ragon,,2,Newark,,ss,ragon
-1912Reach,1911,Central League,F20425,Ragon,,T,,,ss81,ragon
-1912Reach,1911,Central League,B00076,Ragsdale,,0,Zanesville,,B54,ragsdale
-1912Reach,1911,Central League,F20571,Ragsdale,,0,Zanesville,,c54,ragsdale
-1912Reach,1911,Central League,B00999,Raidy,,0,Zanesville,,B46,raidy
-1912Reach,1911,Central League,F20190,Raidy,,0,Zanesville,,2b46,raidy
-1912Reach,1911,Central League,B00589,Riley,,1,Grand Rapids [I],,,riley-gr+new
-1912Reach,1911,Central League,B00589,Riley,,2,Newark,,,riley-gr+new
-1912Reach,1911,Central League,B00589,Riley,,T,,,B32,riley-gr+new
-1912Reach,1911,Central League,B01143,Riley,,1,Grand Rapids [I],,,riley-gr+new
-1912Reach,1911,Central League,B01143,Riley,,2,Newark,,,riley-gr+new
-1912Reach,1911,Central League,B01143,Riley,,T,,,B27,riley-gr+new
-1912Reach,1911,Central League,F20759,Riley,,1,Grand Rapids [I],,p,riley-gr+new
-1912Reach,1911,Central League,F20759,Riley,,2,Newark,,p,riley-gr+new
-1912Reach,1911,Central League,F20759,Riley,,T,,,p27,riley-gr+new
-1912Reach,1911,Central League,F21343,Riley,,0,Zanesville,,of32,riley-zan
-1912Reach,1911,Central League,P10385,Riley,,1,Grand Rapids [I],,,riley-gr+new
-1912Reach,1911,Central League,P10385,Riley,,2,Newark,,,riley-gr+new
-1912Reach,1911,Central League,P10385,Riley,,T,,,P27,riley-gr+new
-1912Reach,1911,Central League,B00241,Rogers,,0,Zanesville,,B42,rogers-zan
-1912Reach,1911,Central League,F20713,Rogers,,0,Zanesville,,p42,rogers-zan
-1912Reach,1911,Central League,P10304,Rogers,,0,Zanesville,,P43,rogers-zan
-1912Reach,1911,Central League,B00427,Rohrer,,0,Dayton,,B57,rohrer
-1912Reach,1911,Central League,F20560,Rohrer,,0,Dayton,,c57,rohrer
-1912Reach,1911,Central League,B01007,Sager,,1,Evansville,,,sager
-1912Reach,1911,Central League,B01007,Sager,,2,Wheeling,,,sager
-1912Reach,1911,Central League,B01007,Sager,,T,,,B87,sager
-1912Reach,1911,Central League,F20303,Sager,,0,Evansville,,3b87,sager
-1912Reach,1911,Central League,B00752,Sample,,0,Dayton,,B35,sample
-1912Reach,1911,Central League,F20685,Sample,,0,Dayton,,c35,sample
-1912Reach,1911,Central League,B00469,Scanlon,,1,South Bend [I],,,scanlon
-1912Reach,1911,Central League,B00469,Scanlon,,2,Grand Rapids [II],,,scanlon
-1912Reach,1911,Central League,B00469,Scanlon,,T,,,B27,scanlon
-1912Reach,1911,Central League,F20594,Scanlon,,0,Grand Rapids [II],,c27,scanlon
-1912Reach,1911,Central League,B00553,Schmick,,1,South Bend [I],,,schmick
-1912Reach,1911,Central League,B00553,Schmick,,2,Grand Rapids [II],,,schmick
-1912Reach,1911,Central League,B00553,Schmick,,T,,,B122,schmick
-1912Reach,1911,Central League,F20080,Schmick,,1,South Bend [I],,1b,schmick
-1912Reach,1911,Central League,F20080,Schmick,,2,Grand Rapids [II],,1b,schmick
-1912Reach,1911,Central League,F20080,Schmick,,T,,,1b122,schmick
-1912Reach,1911,Central League,B01055,Schultz,,0,Zanesville,,B21,schultz
-1912Reach,1911,Central League,F20864,Schultz,,0,Zanesville,,p21,schultz
-1912Reach,1911,Central League,P10056,Schultz,,0,Zanesville,,P21,schultz
-1912Reach,1911,Central League,B00491,Servatius,,0,Wheeling,,B119,servatius
-1912Reach,1911,Central League,F20072,Servatius,,0,Wheeling,,1b93,servatius
-1912Reach,1911,Central League,F21427,Servatius,,0,Wheeling,,of26,servatius
-1912Reach,1911,Central League,B00957,Smith,,1,South Bend [I],,,smith-sb+gr
-1912Reach,1911,Central League,B00957,Smith,,2,Grand Rapids [II],,,smith-sb+gr
-1912Reach,1911,Central League,B00957,Smith,,T,,,B29,smith-sb+gr
-1912Reach,1911,Central League,B01086,Smith,,0,Terre Haute,,B20,smith-th
-1912Reach,1911,Central League,F20784,Smith,,1,South Bend [I],,p,smith-sb+gr
-1912Reach,1911,Central League,F20784,Smith,,2,Grand Rapids [II],,p,smith-sb+gr
-1912Reach,1911,Central League,F20784,Smith,,T,,,p29,smith-sb+gr
-1912Reach,1911,Central League,F21092,Smith,,0,Terre Haute,,p20,smith-th
-1912Reach,1911,Central League,P10137,Smith,,1,South Bend [I],,,smith-sb+gr
-1912Reach,1911,Central League,P10137,Smith,,2,Grand Rapids [II],,,smith-sb+gr
-1912Reach,1911,Central League,P10137,Smith,,T,,,P27,smith-sb+gr
-1912Reach,1911,Central League,P10336,Smith,,0,Terre Haute,,P20,smith-th
-1912Reach,1911,Central League,B00397,Snyder,,1,Evansville,,,snyder
-1912Reach,1911,Central League,B00397,Snyder,,2,South Bend [II],,,snyder
-1912Reach,1911,Central League,B00397,Snyder,,T,,,B117,snyder
-1912Reach,1911,Central League,F21163,Snyder,,1,Evansville,,of,snyder
-1912Reach,1911,Central League,F21163,Snyder,,2,South Bend [II],,of,snyder
-1912Reach,1911,Central League,F21163,Snyder,,T,,,of117,snyder
-1912Reach,1911,Central League,B00920,Somerlot,,0,Terre Haute,,B88,somerlot
-1912Reach,1911,Central League,F20023,Somerlot,,0,Terre Haute,,1b88,somerlot
-1912Reach,1911,Central League,B00059,Spencer,,0,Dayton,,B131,spencer
-1912Reach,1911,Central League,F21370,Spencer,,0,Dayton,,of131,spencer
-1912Reach,1911,Central League,B00638,Sterzer,,1,Evansville,,,sterzer
-1912Reach,1911,Central League,B00638,Sterzer,,2,South Bend [II],,,sterzer
-1912Reach,1911,Central League,B00638,Sterzer,,T,,,B37,sterzer
-1912Reach,1911,Central League,F20893,Sterzer,,1,Evansville,,p,sterzer
-1912Reach,1911,Central League,F20893,Sterzer,,2,South Bend [II],,p,sterzer
-1912Reach,1911,Central League,F20893,Sterzer,,T,,,p37,sterzer
-1912Reach,1911,Central League,P10228,Sterzer,,1,Evansville,,,sterzer
-1912Reach,1911,Central League,P10228,Sterzer,,2,South Bend [II],,,sterzer
-1912Reach,1911,Central League,P10228,Sterzer,,T,,,P37,sterzer
-1912Reach,1911,Central League,F20829,Stremmel,,0,Zanesville,,p40,stremmel
-1912Reach,1911,Central League,P10097,Stremmel,,0,Zanesville,,P40,stremmel
-1912Reach,1911,Central League,B00760,Stremmell,,0,Zanesville,,B40,stremmel
-1912Reach,1911,Central League,B00833,Summers,,0,Dayton,,B37,summers-day
-1912Reach,1911,Central League,F20841,Summers,,0,Dayton,,p37,summers-day
-1912Reach,1911,Central League,P10062,Summers,,0,Dayton,,P37,summers-day
-1912Reach,1911,Central League,B00158,Swartling,,0,Zanesville,,B125,swartling
-1912Reach,1911,Central League,F20067,Swartling,,0,Zanesville,,1b125,swartling
-1912Reach,1911,Central League,B00101,Taylor,,1,Evansville,,,taylor
-1912Reach,1911,Central League,B00101,Taylor,,2,South Bend [II],,,taylor
-1912Reach,1911,Central League,B00101,Taylor,,T,,,B59,taylor
-1912Reach,1911,Central League,F20334,Taylor,,1,Evansville,,3b,taylor
-1912Reach,1911,Central League,F20334,Taylor,,2,South Bend [II],,3b,taylor
-1912Reach,1911,Central League,F20334,Taylor,,T,,,3b40,taylor
-1912Reach,1911,Central League,F21068,Taylor,,1,Evansville,,p,taylor
-1912Reach,1911,Central League,F21068,Taylor,,2,South Bend [II],,p,taylor
-1912Reach,1911,Central League,F21068,Taylor,,T,,,p17,taylor
-1912Reach,1911,Central League,B00985,Tieman,,1,Evansville,,,tieman
-1912Reach,1911,Central League,B00985,Tieman,,2,South Bend [II],,,tieman
-1912Reach,1911,Central League,B00985,Tieman,,T,,,B54,tieman
-1912Reach,1911,Central League,F20552,Tieman,,1,Evansville,,c,tieman
-1912Reach,1911,Central League,F20552,Tieman,,2,South Bend [II],,c,tieman
-1912Reach,1911,Central League,F20552,Tieman,,T,,,c54,tieman
-1912Reach,1911,Central League,B00936,Valliere,,0,Fort Wayne,,B25,valliere
-1912Reach,1911,Central League,F20855,Valliere,,0,Fort Wayne,,p25,valliere
-1912Reach,1911,Central League,P10277,Valliere,,0,Fort Wayne,,P24,valliere
-1912Reach,1911,Central League,B00502,Vandegrift,,0,Fort Wayne,,B138,vandegrift
-1912Reach,1911,Central League,F20131,Vandegrift,,0,Fort Wayne,,2b138,vandegrift
-1912Reach,1911,Central League,B00130,Wacker,,1,Dayton,,,wacker
-1912Reach,1911,Central League,B00130,Wacker,,2,Fort Wayne,,,wacker
-1912Reach,1911,Central League,B00130,Wacker,,T,,,B30,wacker
-1912Reach,1911,Central League,F20924,Wacker,,1,Dayton,,p,wacker
-1912Reach,1911,Central League,F20924,Wacker,,2,Fort Wayne,,p,wacker
-1912Reach,1911,Central League,F20924,Wacker,,T,,,p30,wacker
-1912Reach,1911,Central League,P10176,Wacker,,1,Dayton,,,wacker
-1912Reach,1911,Central League,P10176,Wacker,,2,Fort Wayne,,,wacker
-1912Reach,1911,Central League,P10176,Wacker,,T,,,P26,wacker
-1912Reach,1911,Central League,F20620,Waring,,0,Terre Haute,,c27,waring
-1912Reach,1911,Central League,B00680,Warrender,,0,Wheeling,,B50,warrender
-1912Reach,1911,Central League,F21117,Warrender,,1,Wheeling,,of,warrender
-1912Reach,1911,Central League,F21117,Warrender,,2,Fort Wayne,,of,warrender
-1912Reach,1911,Central League,F21117,Warrender,,T,,,of50,warrender
-1912Reach,1911,Central League,B00747,Warring,,0,Terre Haute,,B27,waring
-1912Reach,1911,Central League,B00898,Welch,,0,Zanesville,,B41,welch
-1912Reach,1911,Central League,F20661,Welch,,0,Zanesville,,c41,welch
-1912Reach,1911,Central League,B00646,Welcher,,0,Wheeling,,B102,welcher
-1912Reach,1911,Central League,F20673,Welcher,,0,Wheeling,,c68,welcher
-1912Reach,1911,Central League,F21174,Welcher,,0,Wheeling,,of34,welcher
-1912Reach,1911,Central League,F21101,Werder,,1,Fort Wayne,,p,werder
-1912Reach,1911,Central League,F21101,Werder,,2,Newark,,p,werder
-1912Reach,1911,Central League,F21101,Werder,,T,,,p19,werder
-1912Reach,1911,Central League,P10290,Werder,,1,Fort Wayne,,,werder
-1912Reach,1911,Central League,P10290,Werder,,2,Newark,,,werder
-1912Reach,1911,Central League,P10290,Werder,,T,,,P19,werder
-1912Reach,1911,Central League,B00577,Wetzel,,1,South Bend [I],,,wetzel
-1912Reach,1911,Central League,B00577,Wetzel,,2,Grand Rapids [II],,,wetzel
-1912Reach,1911,Central League,B00577,Wetzel,,3,Terre Haute,,,wetzel
-1912Reach,1911,Central League,B00577,Wetzel,,T,,,B121,wetzel
-1912Reach,1911,Central League,F20279,Wetzell,,1,South Bend [I],,3b,wetzel
-1912Reach,1911,Central League,F20279,Wetzell,,2,Grand Rapids [II],,3b,wetzel
-1912Reach,1911,Central League,F20279,Wetzell,,3,Terre Haute,,3b,wetzel
-1912Reach,1911,Central League,F20279,Wetzell,,T,,,3b121,wetzel
-1912Reach,1911,Central League,B00811,Wheeler,,1,Terre Haute,,,wheeler
-1912Reach,1911,Central League,B00811,Wheeler,,2,Grand Rapids [II],,,wheeler
-1912Reach,1911,Central League,B00811,Wheeler,,3,South Bend [II],,,wheeler
-1912Reach,1911,Central League,B00811,Wheeler,,T,,,B117,wheeler
-1912Reach,1911,Central League,F20102,Wheeler,,1,Terre Haute,,1b,wheeler
-1912Reach,1911,Central League,F20102,Wheeler,,2,South Bend [I],,1b,wheeler
-1912Reach,1911,Central League,F20102,Wheeler,,3,Grand Rapids [II],,1b,wheeler
-1912Reach,1911,Central League,F20102,Wheeler,,T,,,1b30,wheeler
-1912Reach,1911,Central League,F20222,Wheeler,,1,Terre Haute,,2b,wheeler
-1912Reach,1911,Central League,F20222,Wheeler,,2,Grand Rapids [II],,2b,wheeler
-1912Reach,1911,Central League,F20222,Wheeler,,3,South Bend [I],,2b,wheeler
-1912Reach,1911,Central League,F20222,Wheeler,,T,,,2b37,wheeler
-1912Reach,1911,Central League,F20342,Wheeler,,1,Terre Haute,,3b,wheeler
-1912Reach,1911,Central League,F20342,Wheeler,,2,Grand Rapids [II],,3b,wheeler
-1912Reach,1911,Central League,F20342,Wheeler,,3,South Bend [I],,3b,wheeler
-1912Reach,1911,Central League,F20342,Wheeler,,T,,,3b50,wheeler
-1912Reach,1911,Central League,B00381,Wickland,,1,Grand Rapids [I],,,wickland
-1912Reach,1911,Central League,B00381,Wickland,,2,Newark,,,wickland
-1912Reach,1911,Central League,B00381,Wickland,,T,,,B134,wickland
-1912Reach,1911,Central League,F21130,Wickland,,1,Grand Rapids [I],,of,wickland
-1912Reach,1911,Central League,F21130,Wickland,,2,Newark,,of,wickland
-1912Reach,1911,Central League,F21130,Wickland,,T,,,of134,wickland
-1912Reach,1911,Central League,B01181,Winchell,,0,Dayton,,B33,winchell
-1912Reach,1911,Central League,F21037,Winchell,,0,Dayton,,p33,winchell
-1912Reach,1911,Central League,P10121,Winchell,,0,Dayton,,P33,winchell
-1912Reach,1911,Central League,B01064,Withers,,1,Evansville,,,withers
-1912Reach,1911,Central League,B01064,Withers,,2,South Bend [II],,,withers
-1912Reach,1911,Central League,B01064,Withers,,T,,,B35,withers
-1912Reach,1911,Central League,F20878,Withers,,1,Evansville,,p,withers
-1912Reach,1911,Central League,F20878,Withers,,2,South Bend [II],,p,withers
-1912Reach,1911,Central League,F20878,Withers,,T,,,p35,withers
-1912Reach,1911,Central League,P10215,Withers,,1,Evansville,,,withers
-1912Reach,1911,Central League,P10215,Withers,,2,South Bend [II],,,withers
-1912Reach,1911,Central League,P10215,Withers,,T,,,P35,withers
-1912Reach,1911,Central League,B00566,Wratten,,0,Zanesville,,B107,wratten
-1912Reach,1911,Central League,F20265,Wratten,,0,Zanesville,,3b107,wratten
-1912Reach,1911,Central League,B00255,Wuffli,,1,Evansville,,,wuffli
-1912Reach,1911,Central League,B00255,Wuffli,,2,South Bend [II],,,wuffli
-1912Reach,1911,Central League,B00255,Wuffli,,T,,,B134,wuffli
-1912Reach,1911,Central League,F20254,Wuffli,,1,Evansville,,3b,wuffli
-1912Reach,1911,Central League,F20254,Wuffli,,2,South Bend [II],,3b,wuffli
-1912Reach,1911,Central League,F20254,Wuffli,,T,,,3b71,wuffli
-1912Reach,1911,Central League,F20417,Wuffli,,1,Evansville,,ss,wuffli
-1912Reach,1911,Central League,F20417,Wuffli,,2,South Bend [II],,ss,wuffli
-1912Reach,1911,Central League,F20417,Wuffli,,T,,,ss30,wuffli
-1912Reach,1911,Central League,B00068,Young,,0,Fort Wayne,,B121,young
-1912Reach,1911,Central League,F21356,Young,,0,Fort Wayne,,of121,young
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+1912Reach,1911,Central League,alberts-th,B01029,Alberts,,0,Terre Haute,,B34
+1912Reach,1911,Central League,alberts-fw,B01041,Alberts,,0,Fort Wayne,,B29
+1912Reach,1911,Central League,alberts-fw,F20745,Alberts,C.,0,Fort Wayne,,p29
+1912Reach,1911,Central League,alberts-th,F20981,Alberts,F.,0,Terre Haute,,p34
+1912Reach,1911,Central League,alberts-fw,P10019,Alberts,C.,0,Fort Wayne,,P27
+1912Reach,1911,Central League,alberts-th,P10253,Alberts,F.,0,Terre Haute,,P34
+1912Reach,1911,Central League,asher,B00794,Asher,,1,Dayton,,
+1912Reach,1911,Central League,asher,B00794,Asher,,2,Grand Rapids [II],,
+1912Reach,1911,Central League,asher,B00794,Asher,,T,,,B21
+1912Reach,1911,Central League,asher,F21084,Asher,,1,Dayton,,p
+1912Reach,1911,Central League,asher,F21084,Asher,,2,Grand Rapids [II],,p
+1912Reach,1911,Central League,asher,F21084,Asher,,T,,,p21
+1912Reach,1911,Central League,asher,P10202,Asher,,1,Dayton,,
+1912Reach,1911,Central League,asher,P10202,Asher,,2,Grand Rapids [II],,
+1912Reach,1911,Central League,asher,P10202,Asher,,T,,,P20
+1912Reach,1911,Central League,bailey,B00961,Bailey,,0,Fort Wayne,,B64
+1912Reach,1911,Central League,bailey,F20526,Bailey,,0,Fort Wayne,,c64
+1912Reach,1911,Central League,barkwell,B00672,Barkwell,,1,Terre Haute,,
+1912Reach,1911,Central League,barkwell,B00672,Barkwell,,2,Grand Rapids [II],,
+1912Reach,1911,Central League,barkwell,B00672,Barkwell,,T,,,B132
+1912Reach,1911,Central League,barkwell,F20206,Barkwell,,1,Terre Haute,,2b
+1912Reach,1911,Central League,barkwell,F20206,Barkwell,,2,Grand Rapids [II],,2b
+1912Reach,1911,Central League,barkwell,F20206,Barkwell,,T,,,2b43
+1912Reach,1911,Central League,barkwell,F20369,Barkwell,,1,Terre Haute,,3b
+1912Reach,1911,Central League,barkwell,F20369,Barkwell,,2,Grand Rapids [II],,3b
+1912Reach,1911,Central League,barkwell,F20369,Barkwell,,T,,,3b72
+1912Reach,1911,Central League,barkwell,F21381,Barkwell,,1,Terre Haute,,of
+1912Reach,1911,Central League,barkwell,F21381,Barkwell,,2,Grand Rapids [II],,of
+1912Reach,1911,Central League,barkwell,F21381,Barkwell,,T,,,of17
+1912Reach,1911,Central League,bates,B00229,Bates,,0,Terre Haute,,B104
+1912Reach,1911,Central League,bates,F21434,Bates,,0,Terre Haute,,of104
+1912Reach,1911,Central League,beasley,B01227,Beasley,,0,Terre Haute,,B23
+1912Reach,1911,Central League,beatty,B01078,Beatty,,0,Wheeling,,B34
+1912Reach,1911,Central League,beatty,F20807,Beatty,,0,Wheeling,,p34
+1912Reach,1911,Central League,beatty,P10312,Beatty,,0,Wheeling,,P34
+1912Reach,1911,Central League,bemis,B01170,Bemis,,1,Grand Rapids [I],,
+1912Reach,1911,Central League,bemis,B01170,Bemis,,2,Newark,,
+1912Reach,1911,Central League,bemis,B01170,Bemis,,T,,,B22
+1912Reach,1911,Central League,bemis,F20943,Bemis,,1,Grand Rapids [I],,p
+1912Reach,1911,Central League,bemis,F20943,Bemis,,2,Newark,,p
+1912Reach,1911,Central League,bemis,F20943,Bemis,,T,,,p22
+1912Reach,1911,Central League,bemis,P10320,Bemis,,1,Grand Rapids [I],,
+1912Reach,1911,Central League,bemis,P10320,Bemis,,2,Newark,,
+1912Reach,1911,Central League,bemis,P10320,Bemis,,T,,,P22
+1912Reach,1911,Central League,benson,B00232,Benson,,0,Dayton,,B136
+1912Reach,1911,Central League,benson,F20153,Benson,,0,Dayton,,2b136
+1912Reach,1911,Central League,billiard,B01234,Billiard,,0,Terre Haute,,B26
+1912Reach,1911,Central League,billiard,F21021,Billiard,,0,Terre Haute,,p26
+1912Reach,1911,Central League,billiard,P10410,Billiard,,0,Terre Haute,,P26
+1912Reach,1911,Central League,blake,B00488,Blake,,0,Zanesville,,B72
+1912Reach,1911,Central League,blake,F20115,Blake,,0,Zanesville,,2b72
+1912Reach,1911,Central League,blount,B00174,Blount,,0,Fort Wayne,,B106
+1912Reach,1911,Central League,blount,F21229,Blount,,0,Fort Wayne,,of106
+1912Reach,1911,Central League,byrnes,B00092,Byrnes,,1,Evansville,,
+1912Reach,1911,Central League,byrnes,B00092,Byrnes,,2,South Bend [II],,
+1912Reach,1911,Central League,byrnes,B00092,Byrnes,,T,,,B122
+1912Reach,1911,Central League,byrnes,F21397,Byrnes,,1,Evansville,,of
+1912Reach,1911,Central League,byrnes,F21397,Byrnes,,2,South Bend [II],,of
+1912Reach,1911,Central League,byrnes,F21397,Byrnes,,T,,,of122
+1912Reach,1911,Central League,callahan,B00667,Callahan,,1,Terre Haute,,
+1912Reach,1911,Central League,callahan,B00667,Callahan,,2,Newark,,
+1912Reach,1911,Central League,callahan,B00667,Callahan,,T,,,B92
+1912Reach,1911,Central League,callahan,F21335,Callahan,,1,Terre Haute,,of
+1912Reach,1911,Central League,callahan,F21335,Callahan,,2,Newark,,of
+1912Reach,1911,Central League,callahan,F21335,Callahan,,T,,,of92
+1912Reach,1911,Central League,cameron,B00609,Cameron,,0,Dayton,,B129
+1912Reach,1911,Central League,cameron,F20038,Cameron,,0,Dayton,,1b129
+1912Reach,1911,Central League,cantwell,B00324,Cantwell,,1,Evansville,,
+1912Reach,1911,Central League,cantwell,B00324,Cantwell,,2,South Bend [II],,
+1912Reach,1911,Central League,cantwell,B00324,Cantwell,,T,,,B30
+1912Reach,1911,Central League,cantwell,F20970,Cantwell,,1,Evansville,,p
+1912Reach,1911,Central League,cantwell,F20970,Cantwell,,2,South Bend [II],,p
+1912Reach,1911,Central League,cantwell,F20970,Cantwell,,T,,,p30
+1912Reach,1911,Central League,cantwell,P10231,Cantwell,,1,Evansville,,
+1912Reach,1911,Central League,cantwell,P10231,Cantwell,,2,South Bend [II],,
+1912Reach,1911,Central League,cantwell,P10231,Cantwell,,T,,,P30
+1912Reach,1911,Central League,casey,B00442,Casey,,0,Fort Wayne,,B107
+1912Reach,1911,Central League,casey,F20298,Casey,,0,Fort Wayne,,3b78
+1912Reach,1911,Central League,casey,F21286,Casey,,0,Fort Wayne,,of29
+1912Reach,1911,Central League,clancey,B00207,Clancey,,0,Fort Wayne,,B97
+1912Reach,1911,Central League,clancey,F20051,Clancey,,0,Fort Wayne,,1b97
+1912Reach,1911,Central League,compton,B00865,Compton,,0,Dayton,,B31
+1912Reach,1911,Central League,compton,F20776,Compton,,0,Dayton,,p31
+1912Reach,1911,Central League,compton,P10024,Compton,,0,Dayton,,P31
+1912Reach,1911,Central League,connolly,B00013,Connolly,,1,Zanesville,,
+1912Reach,1911,Central League,connolly,B00013,Connolly,,2,Terre Haute,,
+1912Reach,1911,Central League,connolly,B00013,Connolly,,T,,,B97
+1912Reach,1911,Central League,connolly,F21403,Connolly,,1,Terre Haute,,of
+1912Reach,1911,Central League,connolly,F21403,Connolly,,2,Zanesville,,of
+1912Reach,1911,Central League,connolly,F21403,Connolly,,T,,,of97
+1912Reach,1911,Central League,core,B00084,Core,,0,Grand Rapids [II],,B131
+1912Reach,1911,Central League,core,F21241,Core,,1,South Bend [I],,of
+1912Reach,1911,Central League,core,F21241,Core,,2,Grand Rapids [II],,of
+1912Reach,1911,Central League,core,F21241,Core,,T,,,of131
+1912Reach,1911,Central League,craven,B00403,Craven,,1,South Bend [I],,
+1912Reach,1911,Central League,craven,B00403,Craven,,2,Grand Rapids [I],,
+1912Reach,1911,Central League,craven,B00403,Craven,,3,Newark,,
+1912Reach,1911,Central League,craven,B00403,Craven,,T,,,B85
+1912Reach,1911,Central League,craven,F20350,Craven,,0,Newark,,3b15
+1912Reach,1911,Central League,craven,F21362,Craven,,1,South Bend [I],,of
+1912Reach,1911,Central League,craven,F21362,Craven,,2,Grand Rapids [I],,of
+1912Reach,1911,Central League,craven,F21362,Craven,,3,Newark,,of
+1912Reach,1911,Central League,craven,F21362,Craven,,T,,,of70
+1912Reach,1911,Central League,crowder,B01032,Crowder,,0,Zanesville,,B131
+1912Reach,1911,Central League,crowder,F20391,Crowder,,0,Zanesville,,ss131
+1912Reach,1911,Central League,degroff,B00651,DeGroff,,0,Zanesville,,B69
+1912Reach,1911,Central League,degroff,F21319,DeGroff,,0,Zanesville,,of69
+1912Reach,1911,Central League,dehaven,B00293,DeHaven,,0,Dayton,,B140
+1912Reach,1911,Central League,dehaven,F21255,DeHaven,,0,Dayton,,of140
+1912Reach,1911,Central League,doak,B01203,Doak,,0,Wheeling,,B39
+1912Reach,1911,Central League,doak,F20810,Doak,,0,Wheeling,,p39
+1912Reach,1911,Central League,doak,P10289,Doak,,0,Wheeling,,P36
+1912Reach,1911,Central League,dobard,F20430,Dobard,,0,Dayton,,ss123
+1912Reach,1911,Central League,dobard,B00695,Dobart,,0,Dayton,,B123
+1912Reach,1911,Central League,donovan,B00149,Donovan,,1,Evansville,,
+1912Reach,1911,Central League,donovan,B00149,Donovan,,2,South Bend [II],,
+1912Reach,1911,Central League,donovan,B00149,Donovan,,T,,,B114
+1912Reach,1911,Central League,donovan,F21416,Donovan,,1,Evansville,,of
+1912Reach,1911,Central League,donovan,F21416,Donovan,,2,South Bend [II],,of
+1912Reach,1911,Central League,donovan,F21416,Donovan,,T,,,of114
+1912Reach,1911,Central League,durham,B00125,Durham,,0,Wheeling,,B92
+1912Reach,1911,Central League,durham,F21207,Durham,,0,Wheeling,,of92
+1912Reach,1911,Central League,essick,B01108,Essick,,1,South Bend [I],,
+1912Reach,1911,Central League,essick,B01108,Essick,,2,Grand Rapids [II],,
+1912Reach,1911,Central League,essick,B01108,Essick,,T,,,B25
+1912Reach,1911,Central League,essick,F20737,Essick,,1,South Bend [I],,p
+1912Reach,1911,Central League,essick,F20737,Essick,,2,Grand Rapids [II],,p
+1912Reach,1911,Central League,essick,F20737,Essick,,T,,,p25
+1912Reach,1911,Central League,essick,P10070,Essick,,1,South Bend [I],,
+1912Reach,1911,Central League,essick,P10070,Essick,,2,Grand Rapids [II],,
+1912Reach,1911,Central League,essick,P10070,Essick,,T,,,P25
+1912Reach,1911,Central League,farrell,B00182,Farrell,,0,Zanesville,,B119
+1912Reach,1911,Central League,farrell,F21149,Farrell,,0,Zanesville,,of119
+1912Reach,1911,Central League,fromholtz,F20832,Fromholtz,,0,Dayton,,p12
+1912Reach,1911,Central League,fromholtz,P10348,Fromholtz,,0,Dayton,,P12
+1912Reach,1911,Central League,geier,B00210,Geier,,1,South Bend [I],,
+1912Reach,1911,Central League,geier,B00210,Geier,,2,Grand Rapids [II],,
+1912Reach,1911,Central League,geier,B00210,Geier,,T,,,B128
+1912Reach,1911,Central League,geier,F21125,Geier,,1,South Bend [I],,of
+1912Reach,1911,Central League,geier,F21125,Geier,,2,Grand Rapids [II],,of
+1912Reach,1911,Central League,geier,F21125,Geier,,T,,,of128
+1912Reach,1911,Central League,gilbert,B00854,Gilbert,,0,Newark,,B35
+1912Reach,1911,Central League,gilbert,F20908,Gilbert,,0,Newark,,p35
+1912Reach,1911,Central League,gilbert,P10399,Gilbert,,0,Newark,,P24
+1912Reach,1911,Central League,goldrick,B00904,Goldrick,,1,Grand Rapids [I],,
+1912Reach,1911,Central League,goldrick,B00904,Goldrick,,2,Newark,,
+1912Reach,1911,Central League,goldrick,B00904,Goldrick,,T,,,B39
+1912Reach,1911,Central League,goldrick,F21059,Goldrick,,1,Grand Rapids [I],,p
+1912Reach,1911,Central League,goldrick,F21059,Goldrick,,2,Newark,,p
+1912Reach,1911,Central League,goldrick,F21059,Goldrick,,T,,,p39
+1912Reach,1911,Central League,goldrick,P10159,Goldrick,,1,Grand Rapids [I],,
+1912Reach,1911,Central League,goldrick,P10159,Goldrick,,2,Newark,,
+1912Reach,1911,Central League,goldrick,P10159,Goldrick,,T,,,P37
+1912Reach,1911,Central League,graham,F20768,Graham,,0,Wheeling,,p23
+1912Reach,1911,Central League,graham,P10266,Graham,,0,Wheeling,,P23
+1912Reach,1911,Central League,grant,B00948,Grant,,1,Evansville,,
+1912Reach,1911,Central League,grant,B00948,Grant,,2,South Bend [II],,
+1912Reach,1911,Central League,grant,B00948,Grant,,3,Terre Haute,,
+1912Reach,1911,Central League,grant,B00948,Grant,,T,,,B5
+1912Reach,1911,Central League,grant,F20177,Grant,,1,Evansville,,2b
+1912Reach,1911,Central League,grant,F20177,Grant,,2,South Bend [II],,2b
+1912Reach,1911,Central League,grant,F20177,Grant,,T,,,2b85
+1912Reach,1911,Central League,gray,B00021,Gray,,1,Grand Rapids [I],,
+1912Reach,1911,Central League,gray,B00021,Gray,,2,Newark,,
+1912Reach,1911,Central League,gray,B00021,Gray,,T,,,B119
+1912Reach,1911,Central League,gray,F21293,Gray,,1,Grand Rapids [I],,of
+1912Reach,1911,Central League,gray,F21293,Gray,,2,Newark,,of
+1912Reach,1911,Central League,gray,F21293,Gray,,T,,,of119
+1912Reach,1911,Central League,grefe,B00264,Grefe,,1,Evansville,,
+1912Reach,1911,Central League,greer,B00264,Grefe,,2,South Bend [II],,
+1912Reach,1911,Central League,grefe,B00264,Grefe,,T,,,B134
+1912Reach,1911,Central League,grefe,F20046,Grefe,,1,Evansville,,1b
+1912Reach,1911,Central League,grefe,F20046,Grefe,,2,South Bend [II],,1b
+1912Reach,1911,Central League,grefe,F20046,Grefe,,T,,,1b134
+1912Reach,1911,Central League,grogan,B00528,Grogan,,0,Terre Haute,,B134
+1912Reach,1911,Central League,grogan,F21324,Grogan,,0,Terre Haute,,of134
+1912Reach,1911,Central League,gwinn,B00705,Gwinn,,0,Terre Haute,,B15
+1912Reach,1911,Central League,gwinn,F20935,Gwinn,,0,Terre Haute,,p14
+1912Reach,1911,Central League,gwinn,P10100,Gwinn,,0,Terre Haute,,P14
+1912Reach,1911,Central League,hadley,B00515,Hadley,,1,Evansville,,
+1912Reach,1911,Central League,hadley,B00515,Hadley,,2,South Bend [II],,
+1912Reach,1911,Central League,hadley,B00515,Hadley,,T,,,B135
+1912Reach,1911,Central League,hadley,F20189,Hadley,,1,Evansville,,2b
+1912Reach,1911,Central League,hadley,F20189,Hadley,,2,South Bend [II],,2b
+1912Reach,1911,Central League,hadley,F20189,Hadley,,T,,,2b17
+1912Reach,1911,Central League,hadley,F20401,Hadley,,1,Evansville,,ss
+1912Reach,1911,Central League,hadley,F20401,Hadley,,2,South Bend [II],,ss
+1912Reach,1911,Central League,hadley,F20401,Hadley,,T,,,ss118
+1912Reach,1911,Central League,hale,B01197,Hale,,1,Grand Rapids [I],,
+1912Reach,1911,Central League,hale,B01197,Hale,,2,Newark,,
+1912Reach,1911,Central League,hale,B01197,Hale,,T,,,B37
+1912Reach,1911,Central League,hale,F20886,Hale,,1,Grand Rapids [I],,p
+1912Reach,1911,Central League,hale,F20886,Hale,,2,Newark,,p
+1912Reach,1911,Central League,hale,F20886,Hale,,T,,,p37
+1912Reach,1911,Central League,hale,P10244,Hale,,1,Grand Rapids [I],,
+1912Reach,1911,Central League,hale,P10244,Hale,,2,Newark,,
+1912Reach,1911,Central League,hale,P10244,Hale,,T,,,P37
+1912Reach,1911,Central League,hanley,B01135,Hanley,,0,Zanesville,,B23
+1912Reach,1911,Central League,hanley,F21076,Hanley,,0,Zanesville,,p23
+1912Reach,1911,Central League,hanley,P10145,Hanley,,0,Zanesville,,P23
+1912Reach,1911,Central League,harden,B00434,Harden,,0,Fort Wayne,,B37
+1912Reach,1911,Central League,harden,F21045,Harden,,0,Fort Wayne,,p37
+1912Reach,1911,Central League,harden,P10043,Harden,,0,Fort Wayne,,P37
+1912Reach,1911,Central League,hardy,B01216,Hardy,,0,Wheeling,,B34
+1912Reach,1911,Central League,hardy,F20956,Hardy,,0,Wheeling,,p34
+1912Reach,1911,Central League,hardy,P10373,Hardy,,0,Wheeling,,P34
+1912Reach,1911,Central League,hargrove,B00343,Hargrove,,0,Terre Haute,,B91
+1912Reach,1911,Central League,hargrove,F20612,Hargrove,,0,Terre Haute,,c48
+1912Reach,1911,Central League,hargrove,F21182,Hargrove,,0,Terre Haute,,of33
+1912Reach,1911,Central League,hartford,B00319,Hartford,,0,Terre Haute,,B86
+1912Reach,1911,Central League,hartford,F20463,Hartford,,0,Terre Haute,,ss60
+1912Reach,1911,Central League,hartford,F21196,Hartford,,0,Terre Haute,,of25
+1912Reach,1911,Central League,hillinger,B00475,Hillinger,,0,Zanesville,,B131
+1912Reach,1911,Central League,hillinger,F21308,Hillinger,,0,Zanesville,,of131
+1912Reach,1911,Central League,holmes,B00623,Holmes,,1,South Bend [I],,
+1912Reach,1911,Central League,holmes,B00623,Holmes,,2,Grand Rapids [II],,
+1912Reach,1911,Central League,holmes,B00623,Holmes,,T,,,B121
+1912Reach,1911,Central League,holmes,F20518,Holmes,,1,South Bend [I],,c
+1912Reach,1911,Central League,holmes,F20518,Holmes,,2,Grand Rapids [II],,c
+1912Reach,1911,Central League,holmes,F20518,Holmes,,T,,,c121
+1912Reach,1911,Central League,jewell,B00531,Jewel,,0,Wheeling,,B124
+1912Reach,1911,Central League,jewell,F20474,Jewell,,0,Wheeling,,ss124
+1912Reach,1911,Central League,jones-zan,B01010,Jones,,0,Zanesville,,B37
+1912Reach,1911,Central League,jones-zan,F21013,Jones,,0,Zanesville,,p37
+1912Reach,1911,Central League,jones-zan,P10184,Jones,,0,Zanesville,,P37
+1912Reach,1911,Central League,justice,B00362,Justice,,0,Fort Wayne,,B139
+1912Reach,1911,Central League,justice,F20458,Justice,,0,Fort Wayne,,ss139
+1912Reach,1911,Central League,kahl,F20166,Kahl,,1,Zanesville,,2b
+1912Reach,1911,Central League,kahl,F20166,Kahl,,2,Terre Haute,,2b
+1912Reach,1911,Central League,kahl,F20166,Kahl,,T,,,2b33
+1912Reach,1911,Central League,keener,B00037,Keener,,0,Fort Wayne,,B115
+1912Reach,1911,Central League,keener,F21210,Keener,,0,Fort Wayne,,of115
+1912Reach,1911,Central League,kelly,B00614,Kelly,,1,South Bend [I],,
+1912Reach,1911,Central League,kelly,B00614,Kelly,,2,Grand Rapids [II],,
+1912Reach,1911,Central League,kelly,B00614,Kelly,,T,,,B127
+1912Reach,1911,Central League,kelly,F20449,Kelly,,1,South Bend [I],,ss
+1912Reach,1911,Central League,kelly,F20449,Kelly,,2,Grand Rapids [II],,ss
+1912Reach,1911,Central League,kelly,F20449,Kelly,,T,,,ss127
+1912Reach,1911,Central League,kihm,B00278,Kihm,,1,Grand Rapids [I],,
+1912Reach,1911,Central League,kihm,B00278,Kihm,,2,Newark,,
+1912Reach,1911,Central League,kihm,B00278,Kihm,,T,,,B135
+1912Reach,1911,Central League,kihm,F20014,Kihm,,1,Grand Rapids [I],,1b
+1912Reach,1911,Central League,kihm,F20014,Kihm,,2,Newark,,1b
+1912Reach,1911,Central League,kihm,F20014,Kihm,,T,,,1b135
+1912Reach,1911,Central League,king,F20388,King,,0,Wheeling,,3b50
+1912Reach,1911,Central League,kirkpatrick,B00416,Kirkpatrick,,0,Dayton,,B137
+1912Reach,1911,Central League,kirkpatrick,F20327,Kirkpatrick,,0,Dayton,,3b137
+1912Reach,1911,Central League,king,B00973,Kling,,0,Wheeling,,B50
+1912Reach,1911,Central League,knisley,B00163,Knisley,,0,Wheeling,,B112
+1912Reach,1911,Central League,knisley,F21278,Knisley,,0,Wheeling,,of112
+1912Reach,1911,Central League,knoll,B00196,Knoll,,0,Dayton,,B132
+1912Reach,1911,Central League,knoll,F21232,Knoll,,0,Dayton,,of132
+1912Reach,1911,Central League,koehler,B00308,Koehler,,1,South Bend [I],,
+1912Reach,1911,Central League,koehler,B00308,Koehler,,2,Grand Rapids [II],,
+1912Reach,1911,Central League,koehler,B00308,Koehler,,T,,,B129
+1912Reach,1911,Central League,koehler,F20144,Koehler,,1,South Bend [I],,2b
+1912Reach,1911,Central League,koehler,F20144,Koehler,,2,Grand Rapids [II],,2b
+1912Reach,1911,Central League,koehler,F20144,Koehler,,T,,,2b129
+1912Reach,1911,Central League,kahl,F20316,Kohl,,0,Terre Haute,,3b49
+1912Reach,1911,Central League,konnick,B00117,Konnick,,0,Dayton,,B100
+1912Reach,1911,Central League,konnick,F20636,Konnick,,0,Dayton,,c100
+1912Reach,1911,Central League,kroy,B00370,Kroy,,1,South Bend [I],,
+1912Reach,1911,Central League,kroy,B00370,Kroy,,2,Grand Rapids [II],,
+1912Reach,1911,Central League,kroy,B00370,Kroy,,T,,,B132
+1912Reach,1911,Central League,kroy,F21158,Kroy,,1,South Bend [I],,of
+1912Reach,1911,Central League,kroy,F21158,Kroy,,2,Grand Rapids [II],,of
+1912Reach,1911,Central League,kroy,F21158,Kroy,,T,,,of132
+1912Reach,1911,Central League,lewis-whe,B00335,Lewis,,0,Wheeling,,B126
+1912Reach,1911,Central League,lewis-whe,F20211,Lewis,,0,Wheeling,,2b126
+1912Reach,1911,Central League,lindsay,B00879,Lindsay,,1,South Bend [I],,
+1912Reach,1911,Central League,lindsay,B00879,Lindsay,,2,Grand Rapids [II],,
+1912Reach,1911,Central League,lindsay,B00879,Lindsay,,T,,,B37
+1912Reach,1911,Central League,lindsay,F20721,Lindsay,,1,South Bend [I],,p
+1912Reach,1911,Central League,lindsay,F20721,Lindsay,,2,Grand Rapids [II],,p
+1912Reach,1911,Central League,lindsay,F20721,Lindsay,,T,,,p37
+1912Reach,1911,Central League,lindsay,P10357,Lindsay,,1,South Bend [I],,
+1912Reach,1911,Central League,lindsay,P10357,Lindsay,,2,Grand Rapids [II],,
+1912Reach,1911,Central League,lindsay,P10357,Lindsay,,T,,,P37
+1912Reach,1911,Central League,mahoney-th,B00912,Mahoney,,0,Terre Haute,,B56
+1912Reach,1911,Central League,mahoney-th,F20496,Mahoney,,0,Terre Haute,,ss56
+1912Reach,1911,Central League,markham,B01156,Markham,,1,Evansville,,
+1912Reach,1911,Central League,markham,B01156,Markham,,2,South Bend [II],,
+1912Reach,1911,Central League,markham,B01156,Markham,,T,,,B35
+1912Reach,1911,Central League,markham,F21000,Markham,,1,Evansville,,p
+1912Reach,1911,Central League,markham,F21000,Markham,,2,South Bend [II],,p
+1912Reach,1911,Central League,markham,F21000,Markham,,T,,,p35
+1912Reach,1911,Central League,markham,P10361,Markham,,1,Evansville,,
+1912Reach,1911,Central League,markham,P10361,Markham,,2,South Bend [II],,
+1912Reach,1911,Central League,markham,P10361,Markham,,T,,,P35
+1912Reach,1911,Central League,martin-gr+new,B00822,Martin,,1,Grand Rapids [I],,
+1912Reach,1911,Central League,martin-gr+new,B00822,Martin,,2,Newark,,
+1912Reach,1911,Central League,martin-gr+new,B00822,Martin,,T,,,B49
+1912Reach,1911,Central League,martin-sb+gr,B01162,Martin,,1,South Bend [I],,
+1912Reach,1911,Central League,martin-sb+gr,B01162,Martin,,2,Grand Rapids [II],,
+1912Reach,1911,Central League,martin-sb+gr,B01162,Martin,,T,,,B35
+1912Reach,1911,Central League,martin-gr+new,F20539,Martin,,1,Grand Rapids [I],,c
+1912Reach,1911,Central League,martin-gr+new,F20539,Martin,,2,Newark,,c
+1912Reach,1911,Central League,martin-gr+new,F20539,Martin,,T,,,c49
+1912Reach,1911,Central League,martin-sb+gr,F20997,Martin,,1,South Bend [I],,p
+1912Reach,1911,Central League,martin-sb+gr,F20997,Martin,,2,Grand Rapids [II],,p
+1912Reach,1911,Central League,martin-sb+gr,F20997,Martin,,T,,,p35
+1912Reach,1911,Central League,martin-sb+gr,P10192,Martin,,1,South Bend [I],,
+1912Reach,1911,Central League,martin-sb+gr,P10192,Martin,,2,Grand Rapids [II],,
+1912Reach,1911,Central League,martin-sb+gr,P10192,Martin,,T,,,P34
+1912Reach,1911,Central League,mcdonough,F20648,McDon'h,,1,Grand Rapids [I],,c
+1912Reach,1911,Central League,mcdonough,F20648,McDon'h,,2,Terre Haute,,c
+1912Reach,1911,Central League,mcdonough,F20648,McDon'h,,3,Newark,,c
+1912Reach,1911,Central League,mcdonough,F20648,McDon'h,,T,,,c52
+1912Reach,1911,Central League,mcdonough,B00840,McDonough,,1,Terre Haute,,
+1912Reach,1911,Central League,mcdonough,B00840,McDonough,,2,Newark,,
+1912Reach,1911,Central League,mcdonough,B00840,McDonough,,T,,,B52
+1912Reach,1911,Central League,mckelvey,F20375,McKelvey,,0,Zanesville,,3b14
+1912Reach,1911,Central League,mclafferty,B00806,McLafferty,,0,Fort Wayne,,B91
+1912Reach,1911,Central League,mclafferty,F20095,McLafferty,,0,Fort Wayne,,1b25
+1912Reach,1911,Central League,mclafferty,F20287,McLafferty,,0,Fort Wayne,,3b66
+1912Reach,1911,Central League,montgomery,B00783,Montgomery,,0,Wheeling,,B78
+1912Reach,1911,Central League,montgomery,F21264,Montgomery,,0,Wheeling,,of78
+1912Reach,1911,Central League,murray-gr+new,B00544,Murray,,1,Grand Rapids [I],,
+1912Reach,1911,Central League,murray-gr+new,B00544,Murray,,2,Newark,,
+1912Reach,1911,Central League,murray-gr+new,B00544,Murray,,T,,,B113
+1912Reach,1911,Central League,murray.j,B00718,Murray,,0,Wheeling,,B82
+1912Reach,1911,Central League,murray-gr+new,F20128,Murray,,1,Grand Rapids [I],,2b
+1912Reach,1911,Central League,murray-gr+new,F20128,Murray,,2,Newark,,2b
+1912Reach,1911,Central League,murray-gr+new,F20128,Murray,,T,,,2b113
+1912Reach,1911,Central League,murray.j,F20657,Murray,,0,Wheeling,,c82
+1912Reach,1911,Central League,myers-sb+gr,B01119,Myers,,1,South Bend [I],,
+1912Reach,1911,Central League,myers-sb+gr,B01119,Myers,,2,Grand Rapids [II],,
+1912Reach,1911,Central League,myers-sb+gr,B01119,Myers,,T,,,B28
+1912Reach,1911,Central League,myers-sb+gr,F20792,Myers,,1,South Bend [I],,p
+1912Reach,1911,Central League,myers-sb+gr,F20792,Myers,,2,Grand Rapids [II],,p
+1912Reach,1911,Central League,myers-sb+gr,F20792,Myers,,T,,,p28
+1912Reach,1911,Central League,myers-sb+gr,P10081,Myers,,1,Grand Rapids [II],,
+1912Reach,1911,Central League,myers-sb+gr,P10081,Myers,,2,South Bend [I],,
+1912Reach,1911,Central League,myers-sb+gr,P10081,Myers,,T,,,P27
+1912Reach,1911,Central League,nee,B00286,Nee,,0,Terre Haute,,B29
+1912Reach,1911,Central League,nee,F20505,Nee,,0,Terre Haute,,ss29
+1912Reach,1911,Central League,obrien-zan+th,B00590,O'Brien,M.,1,Zanesville,,
+1912Reach,1911,Central League,obrien-zan+th,B00590,O'Brien,M.,2,Terre Haute,,
+1912Reach,1911,Central League,obrien-zan+th,B00590,O'Brien,M.,T,,,B112
+1912Reach,1911,Central League,obrien-eva+sb,B00887,O'Brien,,1,Evansville,,
+1912Reach,1911,Central League,obrien-eva+sb,B00887,O'Brien,,2,South Bend [II],,
+1912Reach,1911,Central League,obrien-eva+sb,B00887,O'Brien,,T,,,B99
+1912Reach,1911,Central League,obrien-zan+th,F20604,O'Brien,,1,Zanesville,,c
+1912Reach,1911,Central League,obrien-zan+th,F20604,O'Brien,,2,Terre Haute,,c
+1912Reach,1911,Central League,obrien-zan+th,F20604,O'Brien,,T,,,c112
+1912Reach,1911,Central League,onslow,B00726,Onslow,,0,Fort Wayne,,B104
+1912Reach,1911,Central League,onslow,F20583,Onslow,,0,Fort Wayne,,c104
+1912Reach,1911,Central League,otey,P10168,Otey,,0,Dayton,,P17
+1912Reach,1911,Central League,otey,F20919,Ottey,,0,Dayton,,p17
+1912Reach,1911,Central League,parker.c,B00739,Parker,C.,0,Newark,,B41
+1912Reach,1911,Central League,parker.j,B00771,Parker,J.,1,Grand Rapids [I],,
+1912Reach,1911,Central League,parker.j,B00771,Parker,J.,2,Newark,,
+1912Reach,1911,Central League,parker.j,B00771,Parker,J.,T,,,B59
+1912Reach,1911,Central League,parker.c,F20482,Parker,C.,0,Newark,,ss41
+1912Reach,1911,Central League,parker.j,F20699,Parker,J.,1,Grand Rapids [I],,c
+1912Reach,1911,Central League,parker.j,F20699,Parker,J.,2,Newark,,c
+1912Reach,1911,Central League,parker.j,F20699,Parker,J.,T,,,c59
+1912Reach,1911,Central League,pattison,B01124,Pattison,,0,Terre Haute,,B18
+1912Reach,1911,Central League,pattison,F20962,Pattison,,0,Terre Haute,,p18
+1912Reach,1911,Central League,pattison,P10407,Pattison,,0,Terre Haute,,P18
+1912Reach,1911,Central League,pendry,B00356,Pendry,,0,Newark,,B139
+1912Reach,1911,Central League,pendry,F20240,Pendry,,1,Grand Rapids [I],,3b
+1912Reach,1911,Central League,pendry,F20240,Pendry,,2,Newark,,3b
+1912Reach,1911,Central League,pendry,F20240,Pendry,,T,,,3b139
+1912Reach,1911,Central League,pfeffer,B01093,Pfeffer,,0,Fort Wayne,,B27
+1912Reach,1911,Central League,pfeffer,F20700,Pfeffer,,0,Fort Wayne,,p27
+1912Reach,1911,Central League,pfeffer,P10035,Pfeffer,,0,Fort Wayne,,P23
+1912Reach,1911,Central League,queisser-th,B00045,Queisser,,0,Terre Haute,,B26
+1912Reach,1911,Central League,queisser-th,F20233,Queisser,,0,Terre Haute,,2b17
+1912Reach,1911,Central League,queisser-th,P10113,Queisser,,0,Terre Haute,,P9
+1912Reach,1911,Central League,queisser-new,F20547,Quiesser,,0,Newark,,c22
+1912Reach,1911,Central League,ragon,B00450,Ragon,,1,Grand Rapids [I],,
+1912Reach,1911,Central League,ragon,B00450,Ragon,,2,Newark,,
+1912Reach,1911,Central League,ragon,B00450,Ragon,,T,,,B81
+1912Reach,1911,Central League,ragon,F20425,Ragon,,1,Grand Rapids [I],,ss
+1912Reach,1911,Central League,ragon,F20425,Ragon,,2,Newark,,ss
+1912Reach,1911,Central League,ragon,F20425,Ragon,,T,,,ss81
+1912Reach,1911,Central League,ragsdale,B00076,Ragsdale,,0,Zanesville,,B54
+1912Reach,1911,Central League,ragsdale,F20571,Ragsdale,,0,Zanesville,,c54
+1912Reach,1911,Central League,raidy,B00999,Raidy,,0,Zanesville,,B46
+1912Reach,1911,Central League,raidy,F20190,Raidy,,0,Zanesville,,2b46
+1912Reach,1911,Central League,riley-gr+new,B00589,Riley,,1,Grand Rapids [I],,
+1912Reach,1911,Central League,riley-gr+new,B00589,Riley,,2,Newark,,
+1912Reach,1911,Central League,riley-gr+new,B00589,Riley,,T,,,B32
+1912Reach,1911,Central League,riley-gr+new,B01143,Riley,,1,Grand Rapids [I],,
+1912Reach,1911,Central League,riley-gr+new,B01143,Riley,,2,Newark,,
+1912Reach,1911,Central League,riley-gr+new,B01143,Riley,,T,,,B27
+1912Reach,1911,Central League,riley-gr+new,F20759,Riley,,1,Grand Rapids [I],,p
+1912Reach,1911,Central League,riley-gr+new,F20759,Riley,,2,Newark,,p
+1912Reach,1911,Central League,riley-gr+new,F20759,Riley,,T,,,p27
+1912Reach,1911,Central League,riley-zan,F21343,Riley,,0,Zanesville,,of32
+1912Reach,1911,Central League,riley-gr+new,P10385,Riley,,1,Grand Rapids [I],,
+1912Reach,1911,Central League,riley-gr+new,P10385,Riley,,2,Newark,,
+1912Reach,1911,Central League,riley-gr+new,P10385,Riley,,T,,,P27
+1912Reach,1911,Central League,rogers-zan,B00241,Rogers,,0,Zanesville,,B42
+1912Reach,1911,Central League,rogers-zan,F20713,Rogers,,0,Zanesville,,p42
+1912Reach,1911,Central League,rogers-zan,P10304,Rogers,,0,Zanesville,,P43
+1912Reach,1911,Central League,rohrer,B00427,Rohrer,,0,Dayton,,B57
+1912Reach,1911,Central League,rohrer,F20560,Rohrer,,0,Dayton,,c57
+1912Reach,1911,Central League,sager,B01007,Sager,,1,Evansville,,
+1912Reach,1911,Central League,sager,B01007,Sager,,2,Wheeling,,
+1912Reach,1911,Central League,sager,B01007,Sager,,T,,,B87
+1912Reach,1911,Central League,sager,F20303,Sager,,0,Evansville,,3b87
+1912Reach,1911,Central League,sample,B00752,Sample,,0,Dayton,,B35
+1912Reach,1911,Central League,sample,F20685,Sample,,0,Dayton,,c35
+1912Reach,1911,Central League,scanlon,B00469,Scanlon,,1,South Bend [I],,
+1912Reach,1911,Central League,scanlon,B00469,Scanlon,,2,Grand Rapids [II],,
+1912Reach,1911,Central League,scanlon,B00469,Scanlon,,T,,,B27
+1912Reach,1911,Central League,scanlon,F20594,Scanlon,,0,Grand Rapids [II],,c27
+1912Reach,1911,Central League,schmick,B00553,Schmick,,1,South Bend [I],,
+1912Reach,1911,Central League,schmick,B00553,Schmick,,2,Grand Rapids [II],,
+1912Reach,1911,Central League,schmick,B00553,Schmick,,T,,,B122
+1912Reach,1911,Central League,schmick,F20080,Schmick,,1,South Bend [I],,1b
+1912Reach,1911,Central League,schmick,F20080,Schmick,,2,Grand Rapids [II],,1b
+1912Reach,1911,Central League,schmick,F20080,Schmick,,T,,,1b122
+1912Reach,1911,Central League,schultz,B01055,Schultz,,0,Zanesville,,B21
+1912Reach,1911,Central League,schultz,F20864,Schultz,,0,Zanesville,,p21
+1912Reach,1911,Central League,schultz,P10056,Schultz,,0,Zanesville,,P21
+1912Reach,1911,Central League,servatius,B00491,Servatius,,0,Wheeling,,B119
+1912Reach,1911,Central League,servatius,F20072,Servatius,,0,Wheeling,,1b93
+1912Reach,1911,Central League,servatius,F21427,Servatius,,0,Wheeling,,of26
+1912Reach,1911,Central League,smith-sb+gr,B00957,Smith,,1,South Bend [I],,
+1912Reach,1911,Central League,smith-sb+gr,B00957,Smith,,2,Grand Rapids [II],,
+1912Reach,1911,Central League,smith-sb+gr,B00957,Smith,,T,,,B29
+1912Reach,1911,Central League,smith-th,B01086,Smith,,0,Terre Haute,,B20
+1912Reach,1911,Central League,smith-sb+gr,F20784,Smith,,1,South Bend [I],,p
+1912Reach,1911,Central League,smith-sb+gr,F20784,Smith,,2,Grand Rapids [II],,p
+1912Reach,1911,Central League,smith-sb+gr,F20784,Smith,,T,,,p29
+1912Reach,1911,Central League,smith-th,F21092,Smith,,0,Terre Haute,,p20
+1912Reach,1911,Central League,smith-sb+gr,P10137,Smith,,1,South Bend [I],,
+1912Reach,1911,Central League,smith-sb+gr,P10137,Smith,,2,Grand Rapids [II],,
+1912Reach,1911,Central League,smith-sb+gr,P10137,Smith,,T,,,P27
+1912Reach,1911,Central League,smith-th,P10336,Smith,,0,Terre Haute,,P20
+1912Reach,1911,Central League,snyder,B00397,Snyder,,1,Evansville,,
+1912Reach,1911,Central League,snyder,B00397,Snyder,,2,South Bend [II],,
+1912Reach,1911,Central League,snyder,B00397,Snyder,,T,,,B117
+1912Reach,1911,Central League,snyder,F21163,Snyder,,1,Evansville,,of
+1912Reach,1911,Central League,snyder,F21163,Snyder,,2,South Bend [II],,of
+1912Reach,1911,Central League,snyder,F21163,Snyder,,T,,,of117
+1912Reach,1911,Central League,somerlot,B00920,Somerlot,,0,Terre Haute,,B88
+1912Reach,1911,Central League,somerlot,F20023,Somerlot,,0,Terre Haute,,1b88
+1912Reach,1911,Central League,spencer,B00059,Spencer,,0,Dayton,,B131
+1912Reach,1911,Central League,spencer,F21370,Spencer,,0,Dayton,,of131
+1912Reach,1911,Central League,sterzer,B00638,Sterzer,,1,Evansville,,
+1912Reach,1911,Central League,sterzer,B00638,Sterzer,,2,South Bend [II],,
+1912Reach,1911,Central League,sterzer,B00638,Sterzer,,T,,,B37
+1912Reach,1911,Central League,sterzer,F20893,Sterzer,,1,Evansville,,p
+1912Reach,1911,Central League,sterzer,F20893,Sterzer,,2,South Bend [II],,p
+1912Reach,1911,Central League,sterzer,F20893,Sterzer,,T,,,p37
+1912Reach,1911,Central League,sterzer,P10228,Sterzer,,1,Evansville,,
+1912Reach,1911,Central League,sterzer,P10228,Sterzer,,2,South Bend [II],,
+1912Reach,1911,Central League,sterzer,P10228,Sterzer,,T,,,P37
+1912Reach,1911,Central League,stremmel,F20829,Stremmel,,0,Zanesville,,p40
+1912Reach,1911,Central League,stremmel,P10097,Stremmel,,0,Zanesville,,P40
+1912Reach,1911,Central League,stremmel,B00760,Stremmell,,0,Zanesville,,B40
+1912Reach,1911,Central League,summers-day,B00833,Summers,,0,Dayton,,B37
+1912Reach,1911,Central League,summers-day,F20841,Summers,,0,Dayton,,p37
+1912Reach,1911,Central League,summers-day,P10062,Summers,,0,Dayton,,P37
+1912Reach,1911,Central League,swartling,B00158,Swartling,,0,Zanesville,,B125
+1912Reach,1911,Central League,swartling,F20067,Swartling,,0,Zanesville,,1b125
+1912Reach,1911,Central League,taylor,B00101,Taylor,,1,Evansville,,
+1912Reach,1911,Central League,taylor,B00101,Taylor,,2,South Bend [II],,
+1912Reach,1911,Central League,taylor,B00101,Taylor,,T,,,B59
+1912Reach,1911,Central League,taylor,F20334,Taylor,,1,Evansville,,3b
+1912Reach,1911,Central League,taylor,F20334,Taylor,,2,South Bend [II],,3b
+1912Reach,1911,Central League,taylor,F20334,Taylor,,T,,,3b40
+1912Reach,1911,Central League,taylor,F21068,Taylor,,1,Evansville,,p
+1912Reach,1911,Central League,taylor,F21068,Taylor,,2,South Bend [II],,p
+1912Reach,1911,Central League,taylor,F21068,Taylor,,T,,,p17
+1912Reach,1911,Central League,tieman,B00985,Tieman,,1,Evansville,,
+1912Reach,1911,Central League,tieman,B00985,Tieman,,2,South Bend [II],,
+1912Reach,1911,Central League,tieman,B00985,Tieman,,T,,,B54
+1912Reach,1911,Central League,tieman,F20552,Tieman,,1,Evansville,,c
+1912Reach,1911,Central League,tieman,F20552,Tieman,,2,South Bend [II],,c
+1912Reach,1911,Central League,tieman,F20552,Tieman,,T,,,c54
+1912Reach,1911,Central League,valliere,B00936,Valliere,,0,Fort Wayne,,B25
+1912Reach,1911,Central League,valliere,F20855,Valliere,,0,Fort Wayne,,p25
+1912Reach,1911,Central League,valliere,P10277,Valliere,,0,Fort Wayne,,P24
+1912Reach,1911,Central League,vandegrift,B00502,Vandegrift,,0,Fort Wayne,,B138
+1912Reach,1911,Central League,vandegrift,F20131,Vandegrift,,0,Fort Wayne,,2b138
+1912Reach,1911,Central League,wacker,B00130,Wacker,,1,Dayton,,
+1912Reach,1911,Central League,wacker,B00130,Wacker,,2,Fort Wayne,,
+1912Reach,1911,Central League,wacker,B00130,Wacker,,T,,,B30
+1912Reach,1911,Central League,wacker,F20924,Wacker,,1,Dayton,,p
+1912Reach,1911,Central League,wacker,F20924,Wacker,,2,Fort Wayne,,p
+1912Reach,1911,Central League,wacker,F20924,Wacker,,T,,,p30
+1912Reach,1911,Central League,wacker,P10176,Wacker,,1,Dayton,,
+1912Reach,1911,Central League,wacker,P10176,Wacker,,2,Fort Wayne,,
+1912Reach,1911,Central League,wacker,P10176,Wacker,,T,,,P26
+1912Reach,1911,Central League,waring,F20620,Waring,,0,Terre Haute,,c27
+1912Reach,1911,Central League,warrender,B00680,Warrender,,0,Wheeling,,B50
+1912Reach,1911,Central League,warrender,F21117,Warrender,,1,Wheeling,,of
+1912Reach,1911,Central League,warrender,F21117,Warrender,,2,Fort Wayne,,of
+1912Reach,1911,Central League,warrender,F21117,Warrender,,T,,,of50
+1912Reach,1911,Central League,waring,B00747,Warring,,0,Terre Haute,,B27
+1912Reach,1911,Central League,welch,B00898,Welch,,0,Zanesville,,B41
+1912Reach,1911,Central League,welch,F20661,Welch,,0,Zanesville,,c41
+1912Reach,1911,Central League,welcher,B00646,Welcher,,0,Wheeling,,B102
+1912Reach,1911,Central League,welcher,F20673,Welcher,,0,Wheeling,,c68
+1912Reach,1911,Central League,welcher,F21174,Welcher,,0,Wheeling,,of34
+1912Reach,1911,Central League,werder,F21101,Werder,,1,Fort Wayne,,p
+1912Reach,1911,Central League,werder,F21101,Werder,,2,Newark,,p
+1912Reach,1911,Central League,werder,F21101,Werder,,T,,,p19
+1912Reach,1911,Central League,werder,P10290,Werder,,1,Fort Wayne,,
+1912Reach,1911,Central League,werder,P10290,Werder,,2,Newark,,
+1912Reach,1911,Central League,werder,P10290,Werder,,T,,,P19
+1912Reach,1911,Central League,wetzel,B00577,Wetzel,,1,South Bend [I],,
+1912Reach,1911,Central League,wetzel,B00577,Wetzel,,2,Grand Rapids [II],,
+1912Reach,1911,Central League,wetzel,B00577,Wetzel,,3,Terre Haute,,
+1912Reach,1911,Central League,wetzel,B00577,Wetzel,,T,,,B121
+1912Reach,1911,Central League,wetzel,F20279,Wetzell,,1,South Bend [I],,3b
+1912Reach,1911,Central League,wetzel,F20279,Wetzell,,2,Grand Rapids [II],,3b
+1912Reach,1911,Central League,wetzel,F20279,Wetzell,,3,Terre Haute,,3b
+1912Reach,1911,Central League,wetzel,F20279,Wetzell,,T,,,3b121
+1912Reach,1911,Central League,wheeler,B00811,Wheeler,,1,Terre Haute,,
+1912Reach,1911,Central League,wheeler,B00811,Wheeler,,2,Grand Rapids [II],,
+1912Reach,1911,Central League,wheeler,B00811,Wheeler,,3,South Bend [II],,
+1912Reach,1911,Central League,wheeler,B00811,Wheeler,,T,,,B117
+1912Reach,1911,Central League,wheeler,F20102,Wheeler,,1,Terre Haute,,1b
+1912Reach,1911,Central League,wheeler,F20102,Wheeler,,2,South Bend [I],,1b
+1912Reach,1911,Central League,wheeler,F20102,Wheeler,,3,Grand Rapids [II],,1b
+1912Reach,1911,Central League,wheeler,F20102,Wheeler,,T,,,1b30
+1912Reach,1911,Central League,wheeler,F20222,Wheeler,,1,Terre Haute,,2b
+1912Reach,1911,Central League,wheeler,F20222,Wheeler,,2,Grand Rapids [II],,2b
+1912Reach,1911,Central League,wheeler,F20222,Wheeler,,3,South Bend [I],,2b
+1912Reach,1911,Central League,wheeler,F20222,Wheeler,,T,,,2b37
+1912Reach,1911,Central League,wheeler,F20342,Wheeler,,1,Terre Haute,,3b
+1912Reach,1911,Central League,wheeler,F20342,Wheeler,,2,Grand Rapids [II],,3b
+1912Reach,1911,Central League,wheeler,F20342,Wheeler,,3,South Bend [I],,3b
+1912Reach,1911,Central League,wheeler,F20342,Wheeler,,T,,,3b50
+1912Reach,1911,Central League,wickland,B00381,Wickland,,1,Grand Rapids [I],,
+1912Reach,1911,Central League,wickland,B00381,Wickland,,2,Newark,,
+1912Reach,1911,Central League,wickland,B00381,Wickland,,T,,,B134
+1912Reach,1911,Central League,wickland,F21130,Wickland,,1,Grand Rapids [I],,of
+1912Reach,1911,Central League,wickland,F21130,Wickland,,2,Newark,,of
+1912Reach,1911,Central League,wickland,F21130,Wickland,,T,,,of134
+1912Reach,1911,Central League,winchell,B01181,Winchell,,0,Dayton,,B33
+1912Reach,1911,Central League,winchell,F21037,Winchell,,0,Dayton,,p33
+1912Reach,1911,Central League,winchell,P10121,Winchell,,0,Dayton,,P33
+1912Reach,1911,Central League,withers,B01064,Withers,,1,Evansville,,
+1912Reach,1911,Central League,withers,B01064,Withers,,2,South Bend [II],,
+1912Reach,1911,Central League,withers,B01064,Withers,,T,,,B35
+1912Reach,1911,Central League,withers,F20878,Withers,,1,Evansville,,p
+1912Reach,1911,Central League,withers,F20878,Withers,,2,South Bend [II],,p
+1912Reach,1911,Central League,withers,F20878,Withers,,T,,,p35
+1912Reach,1911,Central League,withers,P10215,Withers,,1,Evansville,,
+1912Reach,1911,Central League,withers,P10215,Withers,,2,South Bend [II],,
+1912Reach,1911,Central League,withers,P10215,Withers,,T,,,P35
+1912Reach,1911,Central League,wratten,B00566,Wratten,,0,Zanesville,,B107
+1912Reach,1911,Central League,wratten,F20265,Wratten,,0,Zanesville,,3b107
+1912Reach,1911,Central League,wuffli,B00255,Wuffli,,1,Evansville,,
+1912Reach,1911,Central League,wuffli,B00255,Wuffli,,2,South Bend [II],,
+1912Reach,1911,Central League,wuffli,B00255,Wuffli,,T,,,B134
+1912Reach,1911,Central League,wuffli,F20254,Wuffli,,1,Evansville,,3b
+1912Reach,1911,Central League,wuffli,F20254,Wuffli,,2,South Bend [II],,3b
+1912Reach,1911,Central League,wuffli,F20254,Wuffli,,T,,,3b71
+1912Reach,1911,Central League,wuffli,F20417,Wuffli,,1,Evansville,,ss
+1912Reach,1911,Central League,wuffli,F20417,Wuffli,,2,South Bend [II],,ss
+1912Reach,1911,Central League,wuffli,F20417,Wuffli,,T,,,ss30
+1912Reach,1911,Central League,young,B00068,Young,,0,Fort Wayne,,B121
+1912Reach,1911,Central League,young,F21356,Young,,0,Fort Wayne,,of121

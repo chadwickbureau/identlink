@@ -1,531 +1,531 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-1958TSN,1957,Arizona-Mexico League,B00013,Acosta,Ignacio,0,Mexicali,,B15,acosta-mex
-1958TSN,1957,Arizona-Mexico League,B00021,Acosta,Octavio,0,Douglas,,B32,acosta-dou
-1958TSN,1957,Arizona-Mexico League,F20303,Acosta,,0,Mexicali,,2b15,acosta-mex
-1958TSN,1957,Arizona-Mexico League,F21577,Acosta,,0,Douglas,,p32,acosta-dou
-1958TSN,1957,Arizona-Mexico League,P10019,Acosta,,0,Douglas,,P32p,acosta-dou
-1958TSN,1957,Arizona-Mexico League,B01658,Alcantar,Jesus,0,Mexicali,,B2,alcantar
-1958TSN,1957,Arizona-Mexico League,P10654,Alcantar,,0,Mexicali,,P2p,alcantar
-1958TSN,1957,Arizona-Mexico League,B00037,Altamirano,Manuel,0,Cananea,,B26,altamirano
-1958TSN,1957,Arizona-Mexico League,F20458,Altamirano,,0,Cananea,,ss26,altamirano
-1958TSN,1957,Arizona-Mexico League,B01820,Alvarez,Arthur,0,Tucson,,B5,alvarez
-1958TSN,1957,Arizona-Mexico League,B00045,Andrade,Candido,0,Tucson,,B46,andrade
-1958TSN,1957,Arizona-Mexico League,F21286,Andrade,,0,Tucson,,p42,andrade
-1958TSN,1957,Arizona-Mexico League,P10024,Andrade,,0,Tucson,,P42p,andrade
-1958TSN,1957,Arizona-Mexico League,B01663,Armenta,Jesus,0,Mexicali,,B3,armenta
-1958TSN,1957,Arizona-Mexico League,P10665,Armenta,,0,Mexicali,,P4p,armenta
-1958TSN,1957,Arizona-Mexico League,B01477,Arnada,Jay,0,Douglas,,B2,arnada
-1958TSN,1957,Arizona-Mexico League,B00059,Avansino,Raymond,0,Las Vegas,,B30,avasino
-1958TSN,1957,Arizona-Mexico League,F20560,Avansino,,0,Las Vegas,,ss30,avasino
-1958TSN,1957,Arizona-Mexico League,B00068,Ayala,Santiago,0,Cananea,,B115,ayala
-1958TSN,1957,Arizona-Mexico League,F20737,Ayala,,0,Cananea,,of115,ayala
-1958TSN,1957,Arizona-Mexico League,B00076,Barbon,Humberto,0,Mexicali,,B123,barbon-mex
-1958TSN,1957,Arizona-Mexico League,B01384,Barbon,Jacinto,0,Cananea,,B1,barbon-can
-1958TSN,1957,Arizona-Mexico League,F20369,Barbon,,0,Mexicali,,3b36,barbon-mex
-1958TSN,1957,Arizona-Mexico League,F20864,Barbon,,0,Mexicali,,of72,barbon-mex
-1958TSN,1957,Arizona-Mexico League,F21059,Barbon,,0,Mexicali,,c15,barbon-mex
-1958TSN,1957,Arizona-Mexico League,B00084,Barnhart,Richard L.,0,Phoenix,,B13,barnhart
-1958TSN,1957,Arizona-Mexico League,F20067,Barnhart,,0,Phoenix,,1b13,barnhart
-1958TSN,1957,Arizona-Mexico League,B01674,Bay,German,0,Mexicali,,B3,bay
-1958TSN,1957,Arizona-Mexico League,B00092,Baylis,Henry,0,Tucson,,B57,baylis
-1958TSN,1957,Arizona-Mexico League,F20177,Baylis,,0,Tucson,,2b36,baylis
-1958TSN,1957,Arizona-Mexico League,F20327,Baylis,,0,Tucson,,3b21,baylis
-1958TSN,1957,Arizona-Mexico League,B00101,Bell,William,0,Douglas,,B45,bell
-1958TSN,1957,Arizona-Mexico League,F20298,Bell,,0,Douglas,,2b45,bell
-1958TSN,1957,Arizona-Mexico League,B00117,Bellone,John,0,Las Vegas,,B79,bellone
-1958TSN,1957,Arizona-Mexico League,F20051,Bellone,,0,Las Vegas,,1b23,bellone
-1958TSN,1957,Arizona-Mexico League,F20981,Bellone,,0,Las Vegas,,of43,bellone
-1958TSN,1957,Arizona-Mexico League,B00125,Binford,Richard,0,Douglas,,B67,binford
-1958TSN,1957,Arizona-Mexico League,F21000,Binford,,0,Douglas,,of15,binford
-1958TSN,1957,Arizona-Mexico League,F21125,Binford,,0,Douglas,,c53,binford
-1958TSN,1957,Arizona-Mexico League,B00130,Bohner,Robert,0,Phoenix,,B20,bohner
-1958TSN,1957,Arizona-Mexico League,F20776,Bohner,,0,Phoenix,,of20,bohner
-1958TSN,1957,Arizona-Mexico League,B01546,Brey,John,0,Las Vegas,,B2,brey
-1958TSN,1957,Arizona-Mexico League,B00149,Brio,Carl,0,Tucson,,B51,brio
-1958TSN,1957,Arizona-Mexico League,F20673,Brio,,0,Tucson,,of51,brio
-1958TSN,1957,Arizona-Mexico League,B00158,Bruns,Donald E.,0,Phoenix,,B43,bruns
-1958TSN,1957,Arizona-Mexico League,F21356,Bruns,,0,Phoenix,,p33,bruns
-1958TSN,1957,Arizona-Mexico League,P10035,Bruns,,0,Phoenix,,P33p,bruns
-1958TSN,1957,Arizona-Mexico League,B00163,Buell,Samuel,0,Douglas,,B12,buell
-1958TSN,1957,Arizona-Mexico League,F20014,Buell,,0,Douglas,,1b12,buell
-1958TSN,1957,Arizona-Mexico League,B00174,Bullock,Edward,0,Tucson,,B10,bullock
-1958TSN,1957,Arizona-Mexico League,F20997,Bullock,,0,Tucson,,of10,bullock
-1958TSN,1957,Arizona-Mexico League,B00182,Bustamante,Jesus,0,Cananea,,B135,bustamante
-1958TSN,1957,Arizona-Mexico League,F20482,Bustamante,,0,Cananea,,ss135,bustamante
-1958TSN,1957,Arizona-Mexico League,P10043,Bustamante,,0,Cananea,,P9p,bustamante
-1958TSN,1957,Arizona-Mexico League,B00196,Cacheux,Arturo,0,Cananea,,B19,cacheux
-1958TSN,1957,Arizona-Mexico League,F21149,Cacheux,,0,Cananea,,p11,cacheux
-1958TSN,1957,Arizona-Mexico League,P10056,Cacheux,,0,Cananea,,P11p,cacheux
-1958TSN,1957,Arizona-Mexico League,B01836,Caesar,Jose,0,Tucson,,B2,caesar
-1958TSN,1957,Arizona-Mexico League,B01392,Campos,Pedro,0,Cananea,,B1,campos
-1958TSN,1957,Arizona-Mexico League,B00207,Canizares,Avelino,0,Mexicali,,B123,canizares
-1958TSN,1957,Arizona-Mexico League,F20206,Canizares,,0,Mexicali,,2b19,canizares
-1958TSN,1957,Arizona-Mexico League,F20496,Canizares,,0,Mexicali,,ss104,canizares
-1958TSN,1957,Arizona-Mexico League,B01551,Carter,Leon,0,Las Vegas,,B3,carter
-1958TSN,1957,Arizona-Mexico League,F21442,Cecena,,0,Cananea,,p13,cecena
-1958TSN,1957,Arizona-Mexico League,P10062,Cecena,,0,Cananea,,P13p,cecena
-1958TSN,1957,Arizona-Mexico League,B00229,Celis,Lucio,0,Mexicali,,B32,celis
-1958TSN,1957,Arizona-Mexico League,F21609,Celis,,0,Mexicali,,p17,celis
-1958TSN,1957,Arizona-Mexico League,P10070,Celis,,0,Mexicali,,P17p,celis
-1958TSN,1957,Arizona-Mexico League,F20832,Cellis,,0,Mexicali,,of13,celis
-1958TSN,1957,Arizona-Mexico League,B00210,Cesena,Librado,0,Cananea,,B14,cecena
-1958TSN,1957,Arizona-Mexico League,B00232,Choukalos,Ernest,0,Tucson,,B128,choukalos
-1958TSN,1957,Arizona-Mexico League,F20962,Choukalos,,0,Tucson,,of86,choukalos
-1958TSN,1957,Arizona-Mexico League,F21068,Choukalos,,0,Tucson,,c42,choukalos
-1958TSN,1957,Arizona-Mexico League,M90071,Choukalos,Ernest,,Tucson,19570630/,,choukalos
-1958TSN,1957,Arizona-Mexico League,P10780,Choukalos,,0,Tucson,,P3p,choukalos
-emilbb,1957,Arizona-Mexico League,M91276,Choukalos,Ernest,,Tucson,,,choukalos
-1958TSN,1957,Arizona-Mexico League,B00241,Cigar,Morris,0,Douglas,,B130,cigar
-1958TSN,1957,Arizona-Mexico League,F20699,Cigar,,0,Douglas,,of130,cigar
-1958TSN,1957,Arizona-Mexico League,B00255,Clear,E. Robert,0,Douglas,,B50,clear
-1958TSN,1957,Arizona-Mexico League,F21450,Clear,,0,Douglas,,p37,clear
-1958TSN,1957,Arizona-Mexico League,M90047,Clear,E. Robert,,Douglas,,,clear
-1958TSN,1957,Arizona-Mexico League,P10081,Clear,,0,Douglas,,P37p,clear
-emilbb,1957,Arizona-Mexico League,M91245,Clear,Bob,,Douglas,,,clear
-1958TSN,1957,Arizona-Mexico League,B00264,Cohen,Leonard,1,Douglas,,B6,cohen
-1958TSN,1957,Arizona-Mexico League,B00264,Cohen,Leonard,2,Tucson,,B5,cohen
-1958TSN,1957,Arizona-Mexico League,B00264,Cohen,Leonard,T,,,B11,cohen
-1958TSN,1957,Arizona-Mexico League,F20153,Cohen,,1,Douglas,,1b,cohen
-1958TSN,1957,Arizona-Mexico League,F20153,Cohen,,2,Tucson,,1b,cohen
-1958TSN,1957,Arizona-Mexico League,F20153,Cohen,,T,,,1b11,cohen
-1958TSN,1957,Arizona-Mexico League,P10795,Cohen,,0,Tucson,,P3p,cohen
-1958TSN,1957,Arizona-Mexico League,B00278,Corella,Jaime,0,Mexicali,,B125,corella
-1958TSN,1957,Arizona-Mexico League,F21021,Corella,,0,Mexicali,,c125,corella
-1958TSN,1957,Arizona-Mexico League,B00286,Cruz,Rafael,0,Cananea,,B43,cruz-can
-1958TSN,1957,Arizona-Mexico League,B01489,Cruz,Manuel,0,Douglas,,B2,cruz-dou
-1958TSN,1957,Arizona-Mexico League,F21566,Cruz,,0,Cananea,,p25,cruz-can
-1958TSN,1957,Arizona-Mexico League,P10097,Cruz,,0,Cananea,,P25p,cruz-can
-1958TSN,1957,Arizona-Mexico League,B00293,Cuevas,Cesar,1,Mexicali,,B47,cuevas
-1958TSN,1957,Arizona-Mexico League,B00293,Cuevas,Cesar,2,Cananea,,B6,cuevas
-1958TSN,1957,Arizona-Mexico League,B00293,Cuevas,Cesar,T,,,B53,cuevas
-1958TSN,1957,Arizona-Mexico League,F20956,Cuevas,,0,Mexicali,,of13,cuevas
-1958TSN,1957,Arizona-Mexico League,F21158,Cuevas,,1,Mexicali,,p,cuevas
-1958TSN,1957,Arizona-Mexico League,F21158,Cuevas,,2,Cananea,,p,cuevas
-1958TSN,1957,Arizona-Mexico League,F21158,Cuevas,,T,,,p42,cuevas
-1958TSN,1957,Arizona-Mexico League,P10100,Cuevas,,1,Cananea,,p,cuevas
-1958TSN,1957,Arizona-Mexico League,P10100,Cuevas,,2,Mexicali,,p,cuevas
-1958TSN,1957,Arizona-Mexico League,P10100,Cuevas,,T,,,P42p,cuevas
-1958TSN,1957,Arizona-Mexico League,B01682,Curry,John,0,Mexicali,,B4,curry
-1958TSN,1957,Arizona-Mexico League,P10679,Curry,,0,Mexicali,,P4p,curry
-1958TSN,1957,Arizona-Mexico League,B00308,DeHart,Richard,0,Phoenix,,B122,dehart
-1958TSN,1957,Arizona-Mexico League,F20166,DeHart,,0,Phoenix,,2b122,dehart
-1958TSN,1957,Arizona-Mexico League,B00319,DeRario,Libo,0,Douglas,,B133,derario
-1958TSN,1957,Arizona-Mexico League,F20430,DeRario,,0,Douglas,,3b61,derario
-1958TSN,1957,Arizona-Mexico League,F20594,DeRario,,0,Douglas,,ss23,derario
-1958TSN,1957,Arizona-Mexico League,F20855,DeRario,,0,Douglas,,of49,derario
-1958TSN,1957,Arizona-Mexico League,B00324,DeVany,Arthur,0,Douglas,,B16,devany
-1958TSN,1957,Arizona-Mexico League,F21651,DeVany,,0,Douglas,,p16,devany
-1958TSN,1957,Arizona-Mexico League,P10534,DeVany,,0,Douglas,,P14p,devany
-1958TSN,1957,Arizona-Mexico League,B01848,Dew,James,0,Tucson,,B1,dew
-1958TSN,1957,Arizona-Mexico League,B00335,Diaz,Roberto,0,Mexicali,,B12,diaz
-1958TSN,1957,Arizona-Mexico League,F21163,Diaz,,0,Mexicali,,p12,diaz
-1958TSN,1957,Arizona-Mexico League,P10687,Diaz,,0,Mexicali,,P12p,diaz
-1958TSN,1957,Arizona-Mexico League,B00343,Dieppa,Raul,0,Tucson,,B72,dieppa
-1958TSN,1957,Arizona-Mexico League,F20505,Dieppa,,0,Tucson,,ss72,dieppa
-1958TSN,1957,Arizona-Mexico League,P10805,Dieppa,,0,Tucson,,P1p,dieppa
-1958TSN,1957,Arizona-Mexico League,B00356,Donnelly,Richard E.,0,Douglas,,B15,donnelly
-1958TSN,1957,Arizona-Mexico League,F21174,Donnelly,,0,Douglas,,p15,donnelly
-1958TSN,1957,Arizona-Mexico League,P10113,Donnelly,,0,Douglas,,P15p,donnelly
-1958TSN,1957,Arizona-Mexico League,B00362,Duarte,Avelino,0,Cananea,,B52,duarte
-1958TSN,1957,Arizona-Mexico League,F20287,Duarte,,0,Cananea,,2b52,duarte
-1958TSN,1957,Arizona-Mexico League,B00370,Dunn,Donald R.,0,Tucson,,B135,dunn
-1958TSN,1957,Arizona-Mexico League,F20211,Dunn,,0,Tucson,,2b90,dunn
-1958TSN,1957,Arizona-Mexico League,F20518,Dunn,,0,Tucson,,ss24,dunn
-1958TSN,1957,Arizona-Mexico League,F20700,Dunn,,0,Tucson,,of21,dunn
-1958TSN,1957,Arizona-Mexico League,B00381,Durden,Elbert,0,Las Vegas,,B78,durden
-1958TSN,1957,Arizona-Mexico League,F20080,Durden,,0,Las Vegas,,1b78,durden
-1958TSN,1957,Arizona-Mexico League,B00397,Echeverria,Jose,0,Mexicali,,B45,echeverria
-1958TSN,1957,Arizona-Mexico League,F20131,Echeverria,,0,Mexicali,,1b12,echeverria
-1958TSN,1957,Arizona-Mexico League,F20759,Echeverria,,0,Mexicali,,of33,echeverria
-1958TSN,1957,Arizona-Mexico League,B00403,Einerwold,Marvin,0,Las Vegas,,B24,einerwold
-1958TSN,1957,Arizona-Mexico League,F20886,Einerwold,,0,Las Vegas,,of24,einerwold
-1958TSN,1957,Arizona-Mexico League,B00416,Ek,Lars Morten,0,Douglas,,B25,ek
-1958TSN,1957,Arizona-Mexico League,F21335,Ek,,0,Douglas,,p25,ek
-1958TSN,1957,Arizona-Mexico League,P10121,Ek,,0,Douglas,,P25p,ek
-1958TSN,1957,Arizona-Mexico League,B01402,Espinosa,Manuel,0,Cananea,,B1,espinosa
-1958TSN,1957,Arizona-Mexico League,B00427,Estrada,Manuel,0,Cananea,,B18,estrada
-1958TSN,1957,Arizona-Mexico League,F21324,Estrada,,0,Cananea,,p16,estrada
-1958TSN,1957,Arizona-Mexico League,P10137,Estrada,,0,Cananea,,P16p,estrada
-1958TSN,1957,Arizona-Mexico League,B01857,Eustice,Harold,0,Tucson,,B8,eustice
-1958TSN,1957,Arizona-Mexico League,P10818,Eustice,,0,Tucson,,P8p,eustice
-1958TSN,1957,Arizona-Mexico League,B00434,Favela,Rafael,0,Cananea,,B39,favela
-1958TSN,1957,Arizona-Mexico League,F21491,Favela,,0,Cananea,,p35,favela
-1958TSN,1957,Arizona-Mexico League,P10145,Favela,,0,Cananea,,P35p,favela
-1958TSN,1957,Arizona-Mexico League,B01415,Felipe,Mora,0,Cananea,,B5,mora
-1958TSN,1957,Arizona-Mexico League,B00442,Ferrer,Israel,0,Tucson,,B68,ferrer
-1958TSN,1957,Arizona-Mexico League,F20620,Ferrer,,0,Tucson,,of16,ferrer
-1958TSN,1957,Arizona-Mexico League,F21416,Ferrer,,0,Tucson,,p40,ferrer
-1958TSN,1957,Arizona-Mexico League,P10159,Ferrer,,0,Tucson,,P40p,ferrer
-1958TSN,1957,Arizona-Mexico League,B00450,Figueroa,Gregorio,0,Cananea,,B126,figueroa
-1958TSN,1957,Arizona-Mexico League,F20038,Figueroa,,0,Cananea,,1b126,figueroa
-1958TSN,1957,Arizona-Mexico League,B01490,Flynn,Robert,0,Douglas,,B4,flynn
-1958TSN,1957,Arizona-Mexico League,P10542,Flynn,,0,Douglas,,P4p,flynn
-1958TSN,1957,Arizona-Mexico League,B00469,Gaffney,George,0,Phoenix,,B28,gaffney
-1958TSN,1957,Arizona-Mexico League,F21469,Gaffney,,0,Phoenix,,p28,gaffney
-1958TSN,1957,Arizona-Mexico League,P10168,Gaffney,,0,Phoenix,,P28p,gaffney
-1958TSN,1957,Arizona-Mexico League,B00475,Galvan,Manuel,0,Mexicali,,B31,galvan
-1958TSN,1957,Arizona-Mexico League,F20893,Galvan,,0,Mexicali,,of31,galvan
-1958TSN,1957,Arizona-Mexico League,B00488,Garcia,Manuel,0,Tucson,,B50,garcia-tuc
-1958TSN,1957,Arizona-Mexico League,B00491,Garcia,Manuel,0,Cananea,,B32,garcia-can
-1958TSN,1957,Arizona-Mexico League,F21370,Garcia,,0,Cananea,,p31,garcia-can
-1958TSN,1957,Arizona-Mexico League,F21403,Garcia,,0,Tucson,,p45,garcia-tuc
-1958TSN,1957,Arizona-Mexico League,P10176,Garcia,M.,0,Cananea,,P31p,garcia-can
-1958TSN,1957,Arizona-Mexico League,P10184,Garcia,M.,0,Tucson,,P45p,garcia-tuc
-1958TSN,1957,Arizona-Mexico League,B00502,Gauci,Joseph J.,0,Phoenix,,B60,gauci
-1958TSN,1957,Arizona-Mexico League,F20388,Gauci,,0,Phoenix,,3b60,gauci
-1958TSN,1957,Arizona-Mexico League,B00515,Geels,Robert,0,Phoenix,,B76,geels
-1958TSN,1957,Arizona-Mexico League,F20316,Geels,,0,Phoenix,,3b76,geels
-1958TSN,1957,Arizona-Mexico League,B01861,Gibson,Weldon,0,Tucson,,B4,gibson
-1958TSN,1957,Arizona-Mexico League,P10826,Gibson,,0,Tucson,,P4p,gibson
-1958TSN,1957,Arizona-Mexico League,B00528,Green,Don J.,0,Las Vegas,,B10,green
-1958TSN,1957,Arizona-Mexico League,F21614,Green,,0,Las Vegas,,p10,green
-1958TSN,1957,Arizona-Mexico League,P10588,Green,,0,Las Vegas,,P10p,green
-1958TSN,1957,Arizona-Mexico League,B00531,Gregg,Gerald,0,Las Vegas,,B13,gregg
-1958TSN,1957,Arizona-Mexico League,F20636,Gregg,,0,Las Vegas,,of13,gregg
-1958TSN,1957,Arizona-Mexico League,B00544,Guerrero,Humberto,0,Cananea,,B69,guerrero
-1958TSN,1957,Arizona-Mexico League,F20240,Guerrero,,0,Cananea,,2b69,guerrero
-1958TSN,1957,Arizona-Mexico League,B00553,Gussin,Joseph,0,Phoenix,,B28,gussin
-1958TSN,1957,Arizona-Mexico League,F21397,Gussin,,0,Phoenix,,p22,gussin
-1958TSN,1957,Arizona-Mexico League,P10192,Gussin,,0,Phoenix,,P22p,gussin
-1958TSN,1957,Arizona-Mexico League,B01428,Gutierrez,Ruben,0,Cananea,,B9,gutierrez
-1958TSN,1957,Arizona-Mexico League,B00566,Hacker,Harold,0,Tucson,,B126,hacker
-1958TSN,1957,Arizona-Mexico League,F20425,Hacker,,0,Tucson,,3b55,hacker
-1958TSN,1957,Arizona-Mexico League,F20878,Hacker,,0,Tucson,,of58,hacker
-1958TSN,1957,Arizona-Mexico League,F21182,Hacker,,0,Tucson,,p19,hacker
-1958TSN,1957,Arizona-Mexico League,P10202,Hacker,,0,Tucson,,P19p,hacker
-1958TSN,1957,Arizona-Mexico League,B00577,Haley,John,0,Tucson,,B12,haley
-1958TSN,1957,Arizona-Mexico League,F20095,Haley,,0,Tucson,,1b12,haley
-1958TSN,1957,Arizona-Mexico League,B00589,Hanggie,Donald,0,Las Vegas,,B19,hanggie
-1958TSN,1957,Arizona-Mexico League,B01509,Harpenau,Kenneth,0,Douglas,,B1,harpenau
-1958TSN,1957,Arizona-Mexico League,B00590,Hayes,Thomas,0,Mexicali,,B46,hayes
-1958TSN,1957,Arizona-Mexico League,F21623,Hayes,,0,Mexicali,,p44,hayes
-1958TSN,1957,Arizona-Mexico League,P10215,Hayes,,0,Mexicali,,P44p,hayes
-1958TSN,1957,Arizona-Mexico League,B00609,Higgins,Roger,0,Las Vegas,,B50,higgins
-1958TSN,1957,Arizona-Mexico League,F21488,Higgins,,0,Las Vegas,,p39,higgins
-1958TSN,1957,Arizona-Mexico League,P10228,Higgins,,0,Las Vegas,,P39p,higgins
-1958TSN,1957,Arizona-Mexico League,B01567,Hinckley,Vernon,0,Las Vegas,,B5,hinckley
-1958TSN,1957,Arizona-Mexico League,P10591,Hinckley,,0,Las Vegas,,P5p,hinckley
-1958TSN,1957,Arizona-Mexico League,B00614,Hooper,Robert N.,0,Phoenix,,B33,hooper
-1958TSN,1957,Arizona-Mexico League,F21502,Hooper,,0,Phoenix,,p24,hooper
-1958TSN,1957,Arizona-Mexico League,M90018,Hooper,Robert,,Phoenix,,,hooper
-1958TSN,1957,Arizona-Mexico League,P10231,Hooper,,0,Phoenix,,P24p,hooper
-emilbb,1957,Arizona-Mexico League,M91213,Hooper,Bob,,Phoenix,,,hooper
-1958TSN,1957,Arizona-Mexico League,M90060,Jameson,Don,,Tucson,,,jameson
-emilbb,1957,Arizona-Mexico League,M91268,Jameson,Don,,Tucson,,,jameson
-1958TSN,1957,Arizona-Mexico League,B00623,Javier,Manuel,0,Douglas,,B50,javier
-1958TSN,1957,Arizona-Mexico League,F20265,Javier,,0,Douglas,,2b50,javier
-1958TSN,1957,Arizona-Mexico League,B00638,Jimenez,Alfredo,1,Mexicali,,B85,jimenez
-1958TSN,1957,Arizona-Mexico League,B00638,Jimenez,Alfredo,2,Phoenix,,B10,jimenez
-1958TSN,1957,Arizona-Mexico League,B00638,Jimenez,Alfredo,T,,,B95,jimenez
-1958TSN,1957,Arizona-Mexico League,F20657,Jimenez,,1,Mexicali,,of,jimenez
-1958TSN,1957,Arizona-Mexico League,F20657,Jimenez,,2,Phoenix,,of,jimenez
-1958TSN,1957,Arizona-Mexico League,F20657,Jimenez,,T,,,of85,jimenez
-1958TSN,1957,Arizona-Mexico League,B01873,Jiminez,Ramon,0,Tucson,,B3,jiminez
-1958TSN,1957,Arizona-Mexico League,B01572,Job,Dennis,0,Las Vegas,,B8,job
-1958TSN,1957,Arizona-Mexico League,P10244,Job,,0,Las Vegas,,P7p,job
-1958TSN,1957,Arizona-Mexico League,B00646,Johnson,James A.,0,Las Vegas,,B16,johnson-lv
-1958TSN,1957,Arizona-Mexico League,B00651,Johnson,Walter R.,1,Mexicali,,B11,johnson-mex+dou
-1958TSN,1957,Arizona-Mexico League,B00651,Johnson,Walter R.,2,Douglas,,B2,johnson-mex+dou
-1958TSN,1957,Arizona-Mexico League,B00651,Johnson,Walter R.,T,,,B13,johnson-mex+dou
-1958TSN,1957,Arizona-Mexico League,F20604,Johnson,,1,Mexicali,,ss,johnson-mex+dou
-1958TSN,1957,Arizona-Mexico League,F20604,Johnson,,2,Douglas,,ss,johnson-mex+dou
-1958TSN,1957,Arizona-Mexico League,F20604,Johnson,,T,,,ss13,johnson-mex+dou
-1958TSN,1957,Arizona-Mexico League,F21196,Johnson,,0,Las Vegas,,p16,johnson-lv
-1958TSN,1957,Arizona-Mexico League,P10253,Johnson,,0,Las Vegas,,P16p,johnson-lv
-1958TSN,1957,Arizona-Mexico League,B00667,Jones,McHenry,0,Tucson,,B66,jones-tuc
-1958TSN,1957,Arizona-Mexico League,B01580,Jones,Donald,0,Las Vegas,,B3,jones-lv
-1958TSN,1957,Arizona-Mexico League,F20943,Jones,,0,Tucson,,of66,jones-tuc
-1958TSN,1957,Arizona-Mexico League,P10606,Jones,,0,Las Vegas,,P3p,jones-lv
-1958TSN,1957,Arizona-Mexico League,B00672,Kahler,Lawrence,0,Las Vegas,,B10,kahler
-1958TSN,1957,Arizona-Mexico League,F20648,Kahler,,0,Las Vegas,,of10,kahler
-1958TSN,1957,Arizona-Mexico League,B00680,Kelley,Harold,0,Las Vegas,,B34,kelley
-1958TSN,1957,Arizona-Mexico League,F20144,Kelley,,0,Las Vegas,,1b34,kelley
-1958TSN,1957,Arizona-Mexico League,B00695,Klauser,Kenneth,1,Tucson,,B13,klauser
-1958TSN,1957,Arizona-Mexico League,B00695,Klauser,Kenneth,2,Mexicali,,B29,klauser
-1958TSN,1957,Arizona-Mexico League,B00695,Klauser,Kenneth,T,,,B42,klauser
-1958TSN,1957,Arizona-Mexico League,F21528,Klauser,,1,Tucson,,p,klauser
-1958TSN,1957,Arizona-Mexico League,F21528,Klauser,,2,Mexicali,,p,klauser
-1958TSN,1957,Arizona-Mexico League,F21528,Klauser,,T,,,p28,klauser
-1958TSN,1957,Arizona-Mexico League,P10266,Klauser,,1,Mexicali,,p,klauser
-1958TSN,1957,Arizona-Mexico League,P10266,Klauser,,2,Tucson,,p,klauser
-1958TSN,1957,Arizona-Mexico League,P10266,Klauser,,T,,,P28p,klauser
-1958TSN,1957,Arizona-Mexico League,B00705,Koski,William J.,0,Las Vegas,,B30,koski
-1958TSN,1957,Arizona-Mexico League,F21362,Koski,,0,Las Vegas,,p28,koski
-1958TSN,1957,Arizona-Mexico League,P10277,Koski,,0,Las Vegas,,P28p,koski
-1958TSN,1957,Arizona-Mexico League,B01885,Kulpaca,William,0,Tucson,,B5,kulpaca
-1958TSN,1957,Arizona-Mexico League,P10839,Kulpaca,,0,Tucson,,P4p,kulpaca
-1958TSN,1957,Arizona-Mexico League,B00718,Lavalliere,Guy,0,Phoenix,,B119,lavalliere
-1958TSN,1957,Arizona-Mexico League,F21084,Lavalliere,,0,Phoenix,,c113,lavalliere
-1958TSN,1957,Arizona-Mexico League,B00726,Lee,James E.,0,Las Vegas,,B14,lee
-1958TSN,1957,Arizona-Mexico League,F21207,Lee,,0,Las Vegas,,p12,lee
-1958TSN,1957,Arizona-Mexico League,P10289,Lee,,0,Las Vegas,,P12p,lee
-1958TSN,1957,Arizona-Mexico League,B00739,Lembo,Anthony,0,Tucson,,B68,lembo
-1958TSN,1957,Arizona-Mexico League,F20023,Lembo,,0,Tucson,,1b68,lembo
-1958TSN,1957,Arizona-Mexico League,B01595,Lewis,James,0,Las Vegas,,B3,lewis
-1958TSN,1957,Arizona-Mexico League,B01899,Linares,Julio,0,Tucson,,B2,linares
-1958TSN,1957,Arizona-Mexico League,B00747,Lindborg,Leonard,0,Douglas,,B73,lindborg
-1958TSN,1957,Arizona-Mexico League,F20924,Lindborg,,0,Douglas,,of27,lindborg
-1958TSN,1957,Arizona-Mexico League,F21515,Lindborg,,0,Douglas,,p28,lindborg
-1958TSN,1957,Arizona-Mexico League,P10290,Lindborg,,0,Douglas,,P28p,lindborg
-1958TSN,1957,Arizona-Mexico League,B00752,Little,Donald,0,Douglas,,B22,little
-1958TSN,1957,Arizona-Mexico League,F21319,Little,,0,Douglas,,p22,little
-1958TSN,1957,Arizona-Mexico League,P10304,Little,,0,Douglas,,P22p,little
-1958TSN,1957,Arizona-Mexico League,B01696,Littlejohn,Richard,0,Mexicali,,B5,littlejohn
-1958TSN,1957,Arizona-Mexico League,B01514,Loustalet,Donald,0,Douglas,,B7,loustalet
-1958TSN,1957,Arizona-Mexico League,P10550,Loustalet,,0,Douglas,,P6p,loustalet
-1958TSN,1957,Arizona-Mexico League,B01601,Lowenthal,David,0,Las Vegas,,B8,lowenthal
-1958TSN,1957,Arizona-Mexico League,B00760,Luppino,Arthur,0,Tucson,,B14,luppino
-1958TSN,1957,Arizona-Mexico League,F21013,Luppino,,0,Tucson,,of14,luppino
-1958TSN,1957,Arizona-Mexico League,B00771,Magallon,Manuel,0,Mexicali,,B117,magallon
-1958TSN,1957,Arizona-Mexico League,F20072,Magallon,,0,Mexicali,,1b117,magallon
-1958TSN,1957,Arizona-Mexico League,M90094,Magallon,Manuel,,Mexicali,19570813/,,magallon
-emilbb,1957,Arizona-Mexico League,M91292,Magallon,Manuel,,Mexicali,,,magallon
-1958TSN,1957,Arizona-Mexico League,B00783,Malone,Thomas,0,Douglas,,B41,malone
-1958TSN,1957,Arizona-Mexico League,F21130,Malone,,0,Douglas,,c41,malone
-1958TSN,1957,Arizona-Mexico League,M90052,Marion,John (Red),,Las Vegas,,,marion
-emilbb,1957,Arizona-Mexico League,M91259,Marion,"John ""Red""",,Las Vegas,,,marion
-1958TSN,1957,Arizona-Mexico League,B00794,Martell,Tomas,0,Cananea,,B128,martell
-1958TSN,1957,Arizona-Mexico League,F21076,Martell,,0,Cananea,,c128,martell
-1958TSN,1957,Arizona-Mexico League,B00806,Marti,Humberto,0,Tucson,,B101,marti
-1958TSN,1957,Arizona-Mexico League,F21037,Marti,,0,Tucson,,c99,marti
-1958TSN,1957,Arizona-Mexico League,B01905,McGinnis,Donald,0,Tucson,,B4,mcginnis
-1958TSN,1957,Arizona-Mexico League,B00811,Mendoza,Jesus,0,Cananea,,B10,mendoza
-1958TSN,1957,Arizona-Mexico League,F20612,Mendoza,,0,Cananea,,of26,mendoza
-1958TSN,1957,Arizona-Mexico League,P10847,Messin,,0,Tucson,,P1p,messin
-1958TSN,1957,Arizona-Mexico League,B00822,Messner,Freed,0,Douglas,,B52,messner
-1958TSN,1957,Arizona-Mexico League,F21101,Messner,,0,Douglas,,c52,messner
-1958TSN,1957,Arizona-Mexico League,B00833,Miranda,Eugenio,0,Cananea,,B21,miranda
-1958TSN,1957,Arizona-Mexico League,F21210,Miranda,,0,Cananea,,p23,miranda
-1958TSN,1957,Arizona-Mexico League,P10312,Miranda,,0,Cananea,,P23p,miranda
-1958TSN,1957,Arizona-Mexico League,B01918,Moore,William,1,Douglas,,B6,moore
-1958TSN,1957,Arizona-Mexico League,B01918,Moore,William,2,Tucson,,B2,moore
-1958TSN,1957,Arizona-Mexico League,B01918,Moore,William,T,,,B8,moore
-1958TSN,1957,Arizona-Mexico League,B00840,Morales,Rigoberto,0,Cananea,,B73,morales
-1958TSN,1957,Arizona-Mexico League,F20449,Morales,,0,Cananea,,3b37,morales
-1958TSN,1957,Arizona-Mexico League,F20841,Morales,,0,Cananea,,of36,morales
-1958TSN,1957,Arizona-Mexico League,B00854,Morrison,Michael,0,Tucson,,B31,morrison
-1958TSN,1957,Arizona-Mexico League,F21590,Morrison,,0,Tucson,,p25,morrison
-1958TSN,1957,Arizona-Mexico League,P10320,Morrison,,0,Tucson,,P25p,morrison
-1958TSN,1957,Arizona-Mexico League,B00865,Mumphord,Peaster,0,Las Vegas,,B55,mumphord
-1958TSN,1957,Arizona-Mexico League,F21293,Mumphord,,0,Las Vegas,,p48,mumphord
-1958TSN,1957,Arizona-Mexico League,P10336,Mumphord,,0,Las Vegas,,P48p,mumphord
-1958TSN,1957,Arizona-Mexico League,B00879,Murawski,Raymond,0,Phoenix,,B134,murawski
-1958TSN,1957,Arizona-Mexico League,F20685,Murawski,,0,Phoenix,,of134,murawski
-1958TSN,1957,Arizona-Mexico League,B00887,Murgo,Ludwig,0,Phoenix,,B19,murgo
-1958TSN,1957,Arizona-Mexico League,F20571,Murgo,,0,Phoenix,,ss19,murgo
-1958TSN,1957,Arizona-Mexico League,B00904,Murillo,Armando,1,Mexicali,,B48,murillo
-1958TSN,1957,Arizona-Mexico League,B00904,Murillo,Armando,2,Douglas,,B52,murillo
-1958TSN,1957,Arizona-Mexico League,B00904,Murillo,Armando,T,,,B100,murillo
-1958TSN,1957,Arizona-Mexico League,F20970,Murillo,,1,Mexicali,,of,murillo
-1958TSN,1957,Arizona-Mexico League,F20970,Murillo,,2,Douglas,,of,murillo
-1958TSN,1957,Arizona-Mexico League,F20970,Murillo,,T,,,of98,murillo
-1958TSN,1957,Arizona-Mexico League,B01926,Murphy,Thomas,0,Tucson,,B4,murphy
-1958TSN,1957,Arizona-Mexico League,B00898,Murrieta,Alejandro,0,Cananea,,B41,murrieta
-1958TSN,1957,Arizona-Mexico League,F21308,Murrieta,,0,Cananea,,p39,murrieta
-1958TSN,1957,Arizona-Mexico League,P10348,Murrieta,,0,Cananea,,P39p,murrieta
-1958TSN,1957,Arizona-Mexico League,B00912,Neal,Raymond,0,Douglas,,B14,neal-dou
-1958TSN,1957,Arizona-Mexico League,B00920,Neal,Willie,0,Las Vegas,,B41,neal-lv
-1958TSN,1957,Arizona-Mexico League,F21229,Neal,R.,0,Douglas,,p13,neal-dou
-1958TSN,1957,Arizona-Mexico League,F21589,Neal,W.,0,Las Vegas,,p26,neal-lv
-1958TSN,1957,Arizona-Mexico League,P10357,Neal,R.,0,Douglas,,P13p,neal-dou
-1958TSN,1957,Arizona-Mexico League,P10361,Neal,W.,0,Las Vegas,,P26p,neal-lv
-1958TSN,1957,Arizona-Mexico League,B01617,Nebron,A. Gerald,0,Las Vegas,,B6,nebron
-1958TSN,1957,Arizona-Mexico League,B00936,Niemeier,Donald,0,Phoenix,,B124,niemeier
-1958TSN,1957,Arizona-Mexico League,F20046,Niemeier,,0,Phoenix,,1b124,niemeier
-1958TSN,1957,Arizona-Mexico League,B00948,Olley,Carl,0,Las Vegas,,B81,olley
-1958TSN,1957,Arizona-Mexico League,F20463,Olley,,0,Las Vegas,,ss81,olley
-1958TSN,1957,Arizona-Mexico League,B01706,Orrell,Forest,0,Mexicali,,B4,orrell
-1958TSN,1957,Arizona-Mexico League,P10698,Orrell,,0,Mexicali,,P4p,orrell
-1958TSN,1957,Arizona-Mexico League,B01431,Ortega,Tomas,0,Cananea,,B1,ortega-can
-1958TSN,1957,Arizona-Mexico League,B01711,Ortega,Pedro,0,Mexicali,,B5,ortega-mex
-1958TSN,1957,Arizona-Mexico League,B00957,Padilla,Jose,0,Cananea,,B132,padilla
-1958TSN,1957,Arizona-Mexico League,F20745,Padilla,,0,Cananea,,of132,padilla
-1958TSN,1957,Arizona-Mexico League,B01939,Palmer,Robert,0,Tucson,,B2,palmer
-1958TSN,1957,Arizona-Mexico League,B00961,Patchell,Stanley,0,Tucson,,B10,patchell
-1958TSN,1957,Arizona-Mexico League,F21232,Patchell,,0,Tucson,,p10,patchell
-1958TSN,1957,Arizona-Mexico League,P10373,Patchell,,0,Tucson,,P10p,patchell
-1958TSN,1957,Arizona-Mexico League,B01947,Pawelek,Albert,0,Tucson,,B2,pawelek
-1958TSN,1957,Arizona-Mexico League,P10852,Pawelek,,0,Tucson,,P2p,pawelek
-1958TSN,1957,Arizona-Mexico League,B00973,Paxton,Ray,0,Las Vegas,,B10,paxton
-1958TSN,1957,Arizona-Mexico League,F21241,Paxton,,0,Las Vegas,,p10,paxton
-1958TSN,1957,Arizona-Mexico League,P10611,Paxton,,0,Las Vegas,,P9p,paxton
-1958TSN,1957,Arizona-Mexico League,B00985,Pena,Hilario,0,Cananea,,B59,pena
-1958TSN,1957,Arizona-Mexico League,F20417,Pena,,0,Cananea,,3b59,pena
-1958TSN,1957,Arizona-Mexico League,B00999,Perez,Manuel,0,Cananea,,B36,perez
-1958TSN,1957,Arizona-Mexico League,F21638,Perez,,0,Cananea,,p36,perez
-1958TSN,1957,Arizona-Mexico League,P10385,Perez,,0,Cananea,,P36p,perez
-1958TSN,1957,Arizona-Mexico League,B01722,Pettus,George,0,Mexicali,,B3,pettus
-1958TSN,1957,Arizona-Mexico League,P10709,Pettus,,0,Mexicali,,P2p,pettus
-1958TSN,1957,Arizona-Mexico League,B01007,Pirela,Julio,0,Mexicali,,B26,pirela
-1958TSN,1957,Arizona-Mexico League,F20279,Pirela,,0,Mexicali,,2b17,pirela
-1958TSN,1957,Arizona-Mexico League,F20547,Pirela,,0,Mexicali,,ss11,pirela
-1958TSN,1957,Arizona-Mexico League,B01010,Planck,Jack,1,Mexicali,,B6,planck
-1958TSN,1957,Arizona-Mexico League,B01010,Planck,Jack,2,Douglas,,B13,planck
-1958TSN,1957,Arizona-Mexico League,B01010,Planck,Jack,T,,,B19,planck
-1958TSN,1957,Arizona-Mexico League,F21531,Planck,,1,Mexicali,,p,planck
-1958TSN,1957,Arizona-Mexico League,F21531,Planck,,2,Douglas,,p,planck
-1958TSN,1957,Arizona-Mexico League,F21531,Planck,,T,,,p19,planck
-1958TSN,1957,Arizona-Mexico League,P10399,Planck,,1,Douglas,,p,planck
-1958TSN,1957,Arizona-Mexico League,P10399,Planck,,2,Mexicali,,p,planck
-1958TSN,1957,Arizona-Mexico League,P10399,Planck,,T,,,P19p,planck
-1958TSN,1957,Arizona-Mexico League,B01733,Potter,James,0,Mexicali,,B7,potter
-1958TSN,1957,Arizona-Mexico League,P10714,Potter,,0,Mexicali,,P7p,potter
-1958TSN,1957,Arizona-Mexico League,B01029,Pulford,Donald,0,Douglas,,B87,pulford
-1958TSN,1957,Arizona-Mexico League,F20526,Pulford,,0,Douglas,,ss87,pulford
-1958TSN,1957,Arizona-Mexico League,B01032,Radcliff,Raymond,0,Tucson,,B110,radcliff
-1958TSN,1957,Arizona-Mexico League,F20401,Radcliff,,0,Tucson,,3b66,radcliff
-1958TSN,1957,Arizona-Mexico League,F20539,Radcliff,,0,Tucson,,ss44,radcliff
-1958TSN,1957,Arizona-Mexico League,B01952,Reddell,Leroy,0,Tucson,,B1,reddell
-1958TSN,1957,Arizona-Mexico League,P10860,Reddell,,0,Tucson,,P1p,reddell
-1958TSN,1957,Arizona-Mexico League,B01041,Reyes,Eleuterio,0,Mexicali,,B18,reyes
-1958TSN,1957,Arizona-Mexico League,F21434,Reyes,,0,Mexicali,,p18,reyes
-1958TSN,1957,Arizona-Mexico League,P10407,Reyes,,0,Mexicali,,P18p,reyes
-1958TSN,1957,Arizona-Mexico League,B01055,Rios,Daniel,0,Cananea,,B79,rios
-1958TSN,1957,Arizona-Mexico League,F20128,Rios,,0,Cananea,,1b10,rios
-1958TSN,1957,Arizona-Mexico League,F20233,Rios,,0,Cananea,,2b27,rios
-1958TSN,1957,Arizona-Mexico League,F20807,Rios,,0,Cananea,,of27,rios
-1958TSN,1957,Arizona-Mexico League,F21544,Rios,,0,Cananea,,p17,rios
-1958TSN,1957,Arizona-Mexico League,M90039,Rios,Daniel,,Cananea,19570516/,,rios
-1958TSN,1957,Arizona-Mexico League,P10410,Rios,,0,Cananea,,P17p,rios
-emilbb,1957,Arizona-Mexico League,M91237,Rios,Daniel,,Cananea,,,rios
-1958TSN,1957,Arizona-Mexico League,B01064,Ripken,Calvin,0,Phoenix,,B112,ripken
-1958TSN,1957,Arizona-Mexico League,F20391,Ripken,,0,Phoenix,,3b17,ripken
-1958TSN,1957,Arizona-Mexico League,F20661,Ripken,,0,Phoenix,,of57,ripken
-1958TSN,1957,Arizona-Mexico League,F21117,Ripken,,0,Phoenix,,c28,ripken
-1958TSN,1957,Arizona-Mexico League,B01444,Rodriguez,Rafael,0,Cananea,,B3,rodriguez
-1958TSN,1957,Arizona-Mexico League,P10503,Rodriguez,,0,Cananea,,P3p,rodriguez
-1958TSN,1957,Arizona-Mexico League,B01740,Rolin,Samuel,0,Mexicali,,B9,rolin
-1958TSN,1957,Arizona-Mexico League,P10429,Rolin,,0,Mexicali,,P8p,rolin
-1958TSN,1957,Arizona-Mexico League,B01078,Romero,Gary,1,Las Vegas,,B24,romero.g
-1958TSN,1957,Arizona-Mexico League,B01078,Romero,Gary,2,Tucson,,B1,romero.g
-1958TSN,1957,Arizona-Mexico League,B01078,Romero,Gary,T,,,B25,romero.g
-1958TSN,1957,Arizona-Mexico League,B01960,Romero,Robert,0,Tucson,,B3,romero.r
-1958TSN,1957,Arizona-Mexico League,F20583,Romero,,1,Las Vegas,,ss,romero.g
-1958TSN,1957,Arizona-Mexico League,F20583,Romero,,2,Tucson,,ss,romero.g
-1958TSN,1957,Arizona-Mexico League,F20583,Romero,,T,,,ss25,romero.g
-1958TSN,1957,Arizona-Mexico League,P10871,Romero,,0,Tucson,,P2p,romero.r
-1958TSN,1957,Arizona-Mexico League,B01086,Rubio,Richard,0,Las Vegas,,B129,rubio
-1958TSN,1957,Arizona-Mexico League,F20350,Rubio,,0,Las Vegas,,3b129,rubio
-1958TSN,1957,Arizona-Mexico League,B01754,Ruiz,Luis,0,Mexicali,,B3,ruiz
-1958TSN,1957,Arizona-Mexico League,B01093,Saavedra,Mauricio,0,Tucson,,B12,saavedra
-1958TSN,1957,Arizona-Mexico League,F20810,Saavedra,,0,Tucson,,of12,saavedra
-1958TSN,1957,Arizona-Mexico League,B01108,Sampson,James,0,Las Vegas,,B94,sampson
-1958TSN,1957,Arizona-Mexico League,F20713,Sampson,,0,Las Vegas,,of94,sampson
-1958TSN,1957,Arizona-Mexico League,B01119,Santaniello,Richard,0,Phoenix,,B60,santaniello
-1958TSN,1957,Arizona-Mexico League,F20792,Santaniello,,0,Phoenix,,of60,santaniello
-1958TSN,1957,Arizona-Mexico League,B01124,Scane,Fred,0,Las Vegas,,B121,scane
-1958TSN,1957,Arizona-Mexico League,F20908,Scane,,0,Las Vegas,,of121,scane
-1958TSN,1957,Arizona-Mexico League,B01135,Scheel,Rolf,0,Phoenix,,B44,scheel
-1958TSN,1957,Arizona-Mexico League,F21343,Scheel,,0,Phoenix,,p47,scheel
-1958TSN,1957,Arizona-Mexico League,P10432,Scheel,,0,Phoenix,,P47p,scheel
-1958TSN,1957,Arizona-Mexico League,B01143,Schuler,Robert,1,Mexicali,,B62,schuler
-1958TSN,1957,Arizona-Mexico League,B01143,Schuler,Robert,2,Las Vegas,,B9,schuler
-1958TSN,1957,Arizona-Mexico League,B01143,Schuler,Robert,T,,,B71,schuler
-1958TSN,1957,Arizona-Mexico League,F20254,Schuler,,1,Mexicali,,2b,schuler
-1958TSN,1957,Arizona-Mexico League,F20254,Schuler,,2,Las Vegas,,2b,schuler
-1958TSN,1957,Arizona-Mexico League,F20254,Schuler,,T,,,2b71,schuler
-1958TSN,1957,Arizona-Mexico League,B01156,Schulte,Paul,0,Las Vegas,,B18,schulte
-1958TSN,1957,Arizona-Mexico League,F21255,Schulte,,0,Las Vegas,,p19,schulte
-1958TSN,1957,Arizona-Mexico League,P10441,Schulte,,0,Las Vegas,,P19p,schulte
-1958TSN,1957,Arizona-Mexico League,B01812,Searcy,Kelly,0,Phoenix,,B2,searcy
-1958TSN,1957,Arizona-Mexico League,P10767,Searcy,,0,Phoenix,,P2p,searcy
-1958TSN,1957,Arizona-Mexico League,B01453,Serna,Prudencio,0,Cananea,,B5,serna
-1958TSN,1957,Arizona-Mexico League,P10516,Serna,,0,Cananea,,P5p,serna
-1958TSN,1957,Arizona-Mexico League,B01765,Seyl,Phil,0,Mexicali,,B1,seyl
-1958TSN,1957,Arizona-Mexico League,P10723,Seyl,,0,Mexicali,,P1p,seyl
-1958TSN,1957,Arizona-Mexico League,B01162,Shetrone,Barry,0,Phoenix,,B125,shetrone
-1958TSN,1957,Arizona-Mexico League,F20721,Shetrone,,0,Phoenix,,of125,shetrone
-1958TSN,1957,Arizona-Mexico League,B01625,Shoemaker,Robert,0,Las Vegas,,B3,shoemaker
-1958TSN,1957,Arizona-Mexico League,P10622,Shoemaker,,0,Las Vegas,,P3p,shoemaker
-1958TSN,1957,Arizona-Mexico League,B01971,Snider,Richard,0,Tucson,,B2,snider
-1958TSN,1957,Arizona-Mexico League,B01983,Snyders,Raymond,1,Phoenix,,B5,snyders
-1958TSN,1957,Arizona-Mexico League,B01983,Snyders,Raymond,2,Tucson,,B2,snyders
-1958TSN,1957,Arizona-Mexico League,B01983,Snyders,Raymond,T,,,B7,snyders
-1958TSN,1957,Arizona-Mexico League,P10883,Snyders,,1,Phoenix,,p,snyders
-1958TSN,1957,Arizona-Mexico League,P10883,Snyders,,2,Tucson,,p,snyders
-1958TSN,1957,Arizona-Mexico League,P10883,Snyders,,T,,,P7p,snyders
-1958TSN,1957,Arizona-Mexico League,B01170,Sobczak,Edward,0,Las Vegas,,B79,sobczak
-1958TSN,1957,Arizona-Mexico League,F20784,Sobczak,,0,Las Vegas,,of79,sobczak
-1958TSN,1957,Arizona-Mexico League,B01181,Solano,Claudio,0,Cananea,,B117,solano
-1958TSN,1957,Arizona-Mexico League,F20334,Solano,,0,Cananea,,3b36,solano
-1958TSN,1957,Arizona-Mexico League,F20768,Solano,,0,Cananea,,of81,solano
-1958TSN,1957,Arizona-Mexico League,M90026,Solano,Claudio,,Cananea,,,solano
-emilbb,1957,Arizona-Mexico League,M91221,Solano,Claudio,,Cananea,,,solano
-1958TSN,1957,Arizona-Mexico League,B01197,Sorenson,Raymond,0,Phoenix,,B38,sorenson
-1958TSN,1957,Arizona-Mexico League,F21427,Sorenson,,0,Phoenix,,p30,sorenson
-1958TSN,1957,Arizona-Mexico League,P10455,Sorenson,,0,Phoenix,,P30p,sorenson
-1958TSN,1957,Arizona-Mexico League,B01203,Staley,William,0,Las Vegas,,B130,staley
-1958TSN,1957,Arizona-Mexico League,F20189,Staley,,0,Las Vegas,,2b130,staley
-1958TSN,1957,Arizona-Mexico League,B01630,Sugar,Charles,0,Las Vegas,,B1,sugar
-1958TSN,1957,Arizona-Mexico League,P10633,Sugar,,0,Las Vegas,,P1p,sugar
-1958TSN,1957,Arizona-Mexico League,B01523,Summers,Vernon,0,Douglas,,B6,summers
-1958TSN,1957,Arizona-Mexico League,P10569,Summers,,0,Douglas,,P6p,summers
-1958TSN,1957,Arizona-Mexico League,B01216,Sundin,Gordon,0,Phoenix,,B13,sundin
-1958TSN,1957,Arizona-Mexico League,F21264,Sundin,,0,Phoenix,,p13,sundin
-1958TSN,1957,Arizona-Mexico League,P10772,Sundin,,0,Phoenix,,P13p,sundin
-1958TSN,1957,Arizona-Mexico League,B01227,Sutton,Robert,0,Las Vegas,,B10,sutton
-1958TSN,1957,Arizona-Mexico League,F21646,Sutton,,0,Las Vegas,,p10,sutton
-1958TSN,1957,Arizona-Mexico League,P10640,Sutton,,0,Las Vegas,,P10p,sutton
-1958TSN,1957,Arizona-Mexico League,B01538,Tejada,Arcadio,0,Douglas,,B2,tejada
-1958TSN,1957,Arizona-Mexico League,P10575,Tejada,,0,Douglas,,P2p,tejada
-1958TSN,1957,Arizona-Mexico League,B01779,Terrazas,Adolpho,0,Mexicali,,B1,terrazas
-1958TSN,1957,Arizona-Mexico League,P10738,Terrazas,,0,Mexicali,,P1p,terrazas
-1958TSN,1957,Arizona-Mexico League,B01234,Tirado,Alfonso,0,Mexicali,,B21,tirado
-1958TSN,1957,Arizona-Mexico League,F20222,Tirado,,0,Mexicali,,2b21,tirado
-1958TSN,1957,Arizona-Mexico League,B01649,Tombs,Phillip,0,Las Vegas,,B2,tombs
-1958TSN,1957,Arizona-Mexico League,B01242,Torres,Luis,0,Douglas,,B131,torres-dou
-1958TSN,1957,Arizona-Mexico League,B01250,Torres,Rodrigo,0,Mexicali,,B25,torres-mex
-1958TSN,1957,Arizona-Mexico League,F20190,Torres,,0,Douglas,,2b35,torres-dou
-1958TSN,1957,Arizona-Mexico League,F20375,Torres,,0,Douglas,,3b73,torres-dou
-1958TSN,1957,Arizona-Mexico League,F20552,Torres,,0,Douglas,,ss24,torres-dou
-1958TSN,1957,Arizona-Mexico League,B01787,Troncole,Anthony,0,Mexicali,,B7,troncole
-1958TSN,1957,Arizona-Mexico League,P10746,Troncole,,0,Mexicali,,P8p,troncole
-1958TSN,1957,Arizona-Mexico League,B01269,Tyler,Walter,0,Tucson,,B124,tyler
-1958TSN,1957,Arizona-Mexico League,F20115,Tyler,,0,Tucson,,1b67,tyler
-1958TSN,1957,Arizona-Mexico League,F20935,Tyler,,0,Tucson,,of57,tyler
-1958TSN,1957,Arizona-Mexico League,P10894,Tyler,,0,Tucson,,P2p,tyler
-1958TSN,1957,Arizona-Mexico League,B01275,Van Burkleo,Franklin,0,Douglas,,B125,vanburkleo
-1958TSN,1957,Arizona-Mexico League,F20102,Van Burkleo,,0,Douglas,,1b125,vanburkleo
-1958TSN,1957,Arizona-Mexico League,B01994,Van Geter,Eldridge,0,Tucson,,B3,vangeter
-1958TSN,1957,Arizona-Mexico League,P10901,Van Geter,,0,Tucson,,P2p,vangeter
-1958TSN,1957,Arizona-Mexico League,B01288,Vazquez,Regino,0,Mexicali,,B49,vazquez
-1958TSN,1957,Arizona-Mexico League,F21553,Vazquez,,0,Mexicali,,p36,vazquez
-1958TSN,1957,Arizona-Mexico League,P10464,Vazquez,,0,Mexicali,,P36p,vazquez
-1958TSN,1957,Arizona-Mexico League,B01291,Venzor,Rudolph,0,Las Vegas,,B17,venzor
-1958TSN,1957,Arizona-Mexico League,F21278,Venzor,,0,Las Vegas,,p17,venzor
-1958TSN,1957,Arizona-Mexico League,P10493,Venzor,,0,Las Vegas,,P17p,venzor
-1958TSN,1957,Arizona-Mexico League,B01466,Verdugo,Francisco,0,Cananea,,B4,verdugo
-1958TSN,1957,Arizona-Mexico League,P10527,Verdugo,,0,Cananea,,P4p,verdugo
-1958TSN,1957,Arizona-Mexico League,B01798,Von Eps,James,0,Mexicali,,B5,voneps
-1958TSN,1957,Arizona-Mexico League,B01300,Walker,Gary N.,0,Phoenix,,B111,walker
-1958TSN,1957,Arizona-Mexico League,F20474,Walker,,0,Phoenix,,ss111,walker
-1958TSN,1957,Arizona-Mexico League,B02008,Walls,William,0,Tucson,,B5,walls
-1958TSN,1957,Arizona-Mexico League,B02019,Ward,Neal,0,Tucson,,B4,ward
-1958TSN,1957,Arizona-Mexico League,P10917,Ward,,0,Tucson,,P4p,ward
-1958TSN,1957,Arizona-Mexico League,B01313,Welsh,Daniel,0,Phoenix,,B28,welsh
-1958TSN,1957,Arizona-Mexico League,F21381,Welsh,,0,Phoenix,,p28,welsh
-1958TSN,1957,Arizona-Mexico League,P10478,Welsh,,0,Phoenix,,P28p,welsh
-1958TSN,1957,Arizona-Mexico League,B01321,Wilkins,Ronnie,0,Douglas,,B135,wilkins
-1958TSN,1957,Arizona-Mexico League,F20829,Wilkins,,0,Douglas,,of135,wilkins
-1958TSN,1957,Arizona-Mexico League,B01337,Wilson,Arthur L.,0,Mexicali,,B103,wilson.a
-1958TSN,1957,Arizona-Mexico League,B01345,Wilson,Joseph,0,Mexicali,,B56,wilson.j
-1958TSN,1957,Arizona-Mexico League,B01804,Wilson,Ward,0,Mexicali,,B4,wilson.w
-1958TSN,1957,Arizona-Mexico League,F20342,Wilson,A.,0,Mexicali,,3b103,wilson.a
-1958TSN,1957,Arizona-Mexico League,F20919,Wilson,J.,0,Mexicali,,of56,wilson.j
-1958TSN,1957,Arizona-Mexico League,M90083,Wilson,Arthur,,Mexicali,,,wilson.a
-1958TSN,1957,Arizona-Mexico League,P10751,Wilson,W.,0,Mexicali,,P4p,wilson.w
-emilbb,1957,Arizona-Mexico League,M91284,Wilson,Artie,,Mexicali,,,wilson.a
-1958TSN,1957,Arizona-Mexico League,B02024,Wolf,Claude,0,Tucson,,B7,wolf
-1958TSN,1957,Arizona-Mexico League,B01359,Woods,Samuel,1,Tucson,,B7,woods
-1958TSN,1957,Arizona-Mexico League,B01359,Woods,Samuel,2,Las Vegas,,B6,woods
-1958TSN,1957,Arizona-Mexico League,B01359,Woods,Samuel,T,,,B13,woods
-1958TSN,1957,Arizona-Mexico League,F21475,Woods,,1,Tucson,,p,woods
-1958TSN,1957,Arizona-Mexico League,F21475,Woods,,2,Las Vegas,,p,woods
-1958TSN,1957,Arizona-Mexico League,F21475,Woods,,T,,,p13,woods
-1958TSN,1957,Arizona-Mexico League,P10486,Woods,,1,Tucson,,p,woods
-1958TSN,1957,Arizona-Mexico League,P10486,Woods,,2,Las Vegas,,p,woods
-1958TSN,1957,Arizona-Mexico League,P10486,Woods,,T,,,P13p,woods
-1958TSN,1957,Arizona-Mexico League,B01368,Zanze,John M.,0,Las Vegas,,B111,zanze
-1958TSN,1957,Arizona-Mexico League,F21092,Zanze,,0,Las Vegas,,c104,zanze
-1958TSN,1957,Arizona-Mexico League,B01376,Zari,Ray R.,0,Las Vegas,,B26,zari
-1958TSN,1957,Arizona-Mexico League,F21045,Zari,,0,Las Vegas,,c26,zari
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+1958TSN,1957,Arizona-Mexico League,acosta-mex,B00013,Acosta,Ignacio,0,Mexicali,,B15
+1958TSN,1957,Arizona-Mexico League,acosta-dou,B00021,Acosta,Octavio,0,Douglas,,B32
+1958TSN,1957,Arizona-Mexico League,acosta-mex,F20303,Acosta,,0,Mexicali,,2b15
+1958TSN,1957,Arizona-Mexico League,acosta-dou,F21577,Acosta,,0,Douglas,,p32
+1958TSN,1957,Arizona-Mexico League,acosta-dou,P10019,Acosta,,0,Douglas,,P32p
+1958TSN,1957,Arizona-Mexico League,alcantar,B01658,Alcantar,Jesus,0,Mexicali,,B2
+1958TSN,1957,Arizona-Mexico League,alcantar,P10654,Alcantar,,0,Mexicali,,P2p
+1958TSN,1957,Arizona-Mexico League,altamirano,B00037,Altamirano,Manuel,0,Cananea,,B26
+1958TSN,1957,Arizona-Mexico League,altamirano,F20458,Altamirano,,0,Cananea,,ss26
+1958TSN,1957,Arizona-Mexico League,alvarez,B01820,Alvarez,Arthur,0,Tucson,,B5
+1958TSN,1957,Arizona-Mexico League,andrade,B00045,Andrade,Candido,0,Tucson,,B46
+1958TSN,1957,Arizona-Mexico League,andrade,F21286,Andrade,,0,Tucson,,p42
+1958TSN,1957,Arizona-Mexico League,andrade,P10024,Andrade,,0,Tucson,,P42p
+1958TSN,1957,Arizona-Mexico League,armenta,B01663,Armenta,Jesus,0,Mexicali,,B3
+1958TSN,1957,Arizona-Mexico League,armenta,P10665,Armenta,,0,Mexicali,,P4p
+1958TSN,1957,Arizona-Mexico League,arnada,B01477,Arnada,Jay,0,Douglas,,B2
+1958TSN,1957,Arizona-Mexico League,avasino,B00059,Avansino,Raymond,0,Las Vegas,,B30
+1958TSN,1957,Arizona-Mexico League,avasino,F20560,Avansino,,0,Las Vegas,,ss30
+1958TSN,1957,Arizona-Mexico League,ayala,B00068,Ayala,Santiago,0,Cananea,,B115
+1958TSN,1957,Arizona-Mexico League,ayala,F20737,Ayala,,0,Cananea,,of115
+1958TSN,1957,Arizona-Mexico League,barbon-mex,B00076,Barbon,Humberto,0,Mexicali,,B123
+1958TSN,1957,Arizona-Mexico League,barbon-can,B01384,Barbon,Jacinto,0,Cananea,,B1
+1958TSN,1957,Arizona-Mexico League,barbon-mex,F20369,Barbon,,0,Mexicali,,3b36
+1958TSN,1957,Arizona-Mexico League,barbon-mex,F20864,Barbon,,0,Mexicali,,of72
+1958TSN,1957,Arizona-Mexico League,barbon-mex,F21059,Barbon,,0,Mexicali,,c15
+1958TSN,1957,Arizona-Mexico League,barnhart,B00084,Barnhart,Richard L.,0,Phoenix,,B13
+1958TSN,1957,Arizona-Mexico League,barnhart,F20067,Barnhart,,0,Phoenix,,1b13
+1958TSN,1957,Arizona-Mexico League,bay,B01674,Bay,German,0,Mexicali,,B3
+1958TSN,1957,Arizona-Mexico League,baylis,B00092,Baylis,Henry,0,Tucson,,B57
+1958TSN,1957,Arizona-Mexico League,baylis,F20177,Baylis,,0,Tucson,,2b36
+1958TSN,1957,Arizona-Mexico League,baylis,F20327,Baylis,,0,Tucson,,3b21
+1958TSN,1957,Arizona-Mexico League,bell,B00101,Bell,William,0,Douglas,,B45
+1958TSN,1957,Arizona-Mexico League,bell,F20298,Bell,,0,Douglas,,2b45
+1958TSN,1957,Arizona-Mexico League,bellone,B00117,Bellone,John,0,Las Vegas,,B79
+1958TSN,1957,Arizona-Mexico League,bellone,F20051,Bellone,,0,Las Vegas,,1b23
+1958TSN,1957,Arizona-Mexico League,bellone,F20981,Bellone,,0,Las Vegas,,of43
+1958TSN,1957,Arizona-Mexico League,binford,B00125,Binford,Richard,0,Douglas,,B67
+1958TSN,1957,Arizona-Mexico League,binford,F21000,Binford,,0,Douglas,,of15
+1958TSN,1957,Arizona-Mexico League,binford,F21125,Binford,,0,Douglas,,c53
+1958TSN,1957,Arizona-Mexico League,bohner,B00130,Bohner,Robert,0,Phoenix,,B20
+1958TSN,1957,Arizona-Mexico League,bohner,F20776,Bohner,,0,Phoenix,,of20
+1958TSN,1957,Arizona-Mexico League,brey,B01546,Brey,John,0,Las Vegas,,B2
+1958TSN,1957,Arizona-Mexico League,brio,B00149,Brio,Carl,0,Tucson,,B51
+1958TSN,1957,Arizona-Mexico League,brio,F20673,Brio,,0,Tucson,,of51
+1958TSN,1957,Arizona-Mexico League,bruns,B00158,Bruns,Donald E.,0,Phoenix,,B43
+1958TSN,1957,Arizona-Mexico League,bruns,F21356,Bruns,,0,Phoenix,,p33
+1958TSN,1957,Arizona-Mexico League,bruns,P10035,Bruns,,0,Phoenix,,P33p
+1958TSN,1957,Arizona-Mexico League,buell,B00163,Buell,Samuel,0,Douglas,,B12
+1958TSN,1957,Arizona-Mexico League,buell,F20014,Buell,,0,Douglas,,1b12
+1958TSN,1957,Arizona-Mexico League,bullock,B00174,Bullock,Edward,0,Tucson,,B10
+1958TSN,1957,Arizona-Mexico League,bullock,F20997,Bullock,,0,Tucson,,of10
+1958TSN,1957,Arizona-Mexico League,bustamante,B00182,Bustamante,Jesus,0,Cananea,,B135
+1958TSN,1957,Arizona-Mexico League,bustamante,F20482,Bustamante,,0,Cananea,,ss135
+1958TSN,1957,Arizona-Mexico League,bustamante,P10043,Bustamante,,0,Cananea,,P9p
+1958TSN,1957,Arizona-Mexico League,cacheux,B00196,Cacheux,Arturo,0,Cananea,,B19
+1958TSN,1957,Arizona-Mexico League,cacheux,F21149,Cacheux,,0,Cananea,,p11
+1958TSN,1957,Arizona-Mexico League,cacheux,P10056,Cacheux,,0,Cananea,,P11p
+1958TSN,1957,Arizona-Mexico League,caesar,B01836,Caesar,Jose,0,Tucson,,B2
+1958TSN,1957,Arizona-Mexico League,campos,B01392,Campos,Pedro,0,Cananea,,B1
+1958TSN,1957,Arizona-Mexico League,canizares,B00207,Canizares,Avelino,0,Mexicali,,B123
+1958TSN,1957,Arizona-Mexico League,canizares,F20206,Canizares,,0,Mexicali,,2b19
+1958TSN,1957,Arizona-Mexico League,canizares,F20496,Canizares,,0,Mexicali,,ss104
+1958TSN,1957,Arizona-Mexico League,carter,B01551,Carter,Leon,0,Las Vegas,,B3
+1958TSN,1957,Arizona-Mexico League,cecena,F21442,Cecena,,0,Cananea,,p13
+1958TSN,1957,Arizona-Mexico League,cecena,P10062,Cecena,,0,Cananea,,P13p
+1958TSN,1957,Arizona-Mexico League,celis,B00229,Celis,Lucio,0,Mexicali,,B32
+1958TSN,1957,Arizona-Mexico League,celis,F21609,Celis,,0,Mexicali,,p17
+1958TSN,1957,Arizona-Mexico League,celis,P10070,Celis,,0,Mexicali,,P17p
+1958TSN,1957,Arizona-Mexico League,celis,F20832,Cellis,,0,Mexicali,,of13
+1958TSN,1957,Arizona-Mexico League,cecena,B00210,Cesena,Librado,0,Cananea,,B14
+1958TSN,1957,Arizona-Mexico League,choukalos,B00232,Choukalos,Ernest,0,Tucson,,B128
+1958TSN,1957,Arizona-Mexico League,choukalos,F20962,Choukalos,,0,Tucson,,of86
+1958TSN,1957,Arizona-Mexico League,choukalos,F21068,Choukalos,,0,Tucson,,c42
+1958TSN,1957,Arizona-Mexico League,choukalos,M90071,Choukalos,Ernest,,Tucson,19570630/,
+1958TSN,1957,Arizona-Mexico League,choukalos,P10780,Choukalos,,0,Tucson,,P3p
+emilbb,1957,Arizona-Mexico League,choukalos,M91276,Choukalos,Ernest,,Tucson,,
+1958TSN,1957,Arizona-Mexico League,cigar,B00241,Cigar,Morris,0,Douglas,,B130
+1958TSN,1957,Arizona-Mexico League,cigar,F20699,Cigar,,0,Douglas,,of130
+1958TSN,1957,Arizona-Mexico League,clear,B00255,Clear,E. Robert,0,Douglas,,B50
+1958TSN,1957,Arizona-Mexico League,clear,F21450,Clear,,0,Douglas,,p37
+1958TSN,1957,Arizona-Mexico League,clear,M90047,Clear,E. Robert,,Douglas,,
+1958TSN,1957,Arizona-Mexico League,clear,P10081,Clear,,0,Douglas,,P37p
+emilbb,1957,Arizona-Mexico League,clear,M91245,Clear,Bob,,Douglas,,
+1958TSN,1957,Arizona-Mexico League,cohen,B00264,Cohen,Leonard,1,Douglas,,B6
+1958TSN,1957,Arizona-Mexico League,cohen,B00264,Cohen,Leonard,2,Tucson,,B5
+1958TSN,1957,Arizona-Mexico League,cohen,B00264,Cohen,Leonard,T,,,B11
+1958TSN,1957,Arizona-Mexico League,cohen,F20153,Cohen,,1,Douglas,,1b
+1958TSN,1957,Arizona-Mexico League,cohen,F20153,Cohen,,2,Tucson,,1b
+1958TSN,1957,Arizona-Mexico League,cohen,F20153,Cohen,,T,,,1b11
+1958TSN,1957,Arizona-Mexico League,cohen,P10795,Cohen,,0,Tucson,,P3p
+1958TSN,1957,Arizona-Mexico League,corella,B00278,Corella,Jaime,0,Mexicali,,B125
+1958TSN,1957,Arizona-Mexico League,corella,F21021,Corella,,0,Mexicali,,c125
+1958TSN,1957,Arizona-Mexico League,cruz-can,B00286,Cruz,Rafael,0,Cananea,,B43
+1958TSN,1957,Arizona-Mexico League,cruz-dou,B01489,Cruz,Manuel,0,Douglas,,B2
+1958TSN,1957,Arizona-Mexico League,cruz-can,F21566,Cruz,,0,Cananea,,p25
+1958TSN,1957,Arizona-Mexico League,cruz-can,P10097,Cruz,,0,Cananea,,P25p
+1958TSN,1957,Arizona-Mexico League,cuevas,B00293,Cuevas,Cesar,1,Mexicali,,B47
+1958TSN,1957,Arizona-Mexico League,cuevas,B00293,Cuevas,Cesar,2,Cananea,,B6
+1958TSN,1957,Arizona-Mexico League,cuevas,B00293,Cuevas,Cesar,T,,,B53
+1958TSN,1957,Arizona-Mexico League,cuevas,F20956,Cuevas,,0,Mexicali,,of13
+1958TSN,1957,Arizona-Mexico League,cuevas,F21158,Cuevas,,1,Mexicali,,p
+1958TSN,1957,Arizona-Mexico League,cuevas,F21158,Cuevas,,2,Cananea,,p
+1958TSN,1957,Arizona-Mexico League,cuevas,F21158,Cuevas,,T,,,p42
+1958TSN,1957,Arizona-Mexico League,cuevas,P10100,Cuevas,,1,Cananea,,p
+1958TSN,1957,Arizona-Mexico League,cuevas,P10100,Cuevas,,2,Mexicali,,p
+1958TSN,1957,Arizona-Mexico League,cuevas,P10100,Cuevas,,T,,,P42p
+1958TSN,1957,Arizona-Mexico League,curry,B01682,Curry,John,0,Mexicali,,B4
+1958TSN,1957,Arizona-Mexico League,curry,P10679,Curry,,0,Mexicali,,P4p
+1958TSN,1957,Arizona-Mexico League,dehart,B00308,DeHart,Richard,0,Phoenix,,B122
+1958TSN,1957,Arizona-Mexico League,dehart,F20166,DeHart,,0,Phoenix,,2b122
+1958TSN,1957,Arizona-Mexico League,derario,B00319,DeRario,Libo,0,Douglas,,B133
+1958TSN,1957,Arizona-Mexico League,derario,F20430,DeRario,,0,Douglas,,3b61
+1958TSN,1957,Arizona-Mexico League,derario,F20594,DeRario,,0,Douglas,,ss23
+1958TSN,1957,Arizona-Mexico League,derario,F20855,DeRario,,0,Douglas,,of49
+1958TSN,1957,Arizona-Mexico League,devany,B00324,DeVany,Arthur,0,Douglas,,B16
+1958TSN,1957,Arizona-Mexico League,devany,F21651,DeVany,,0,Douglas,,p16
+1958TSN,1957,Arizona-Mexico League,devany,P10534,DeVany,,0,Douglas,,P14p
+1958TSN,1957,Arizona-Mexico League,dew,B01848,Dew,James,0,Tucson,,B1
+1958TSN,1957,Arizona-Mexico League,diaz,B00335,Diaz,Roberto,0,Mexicali,,B12
+1958TSN,1957,Arizona-Mexico League,diaz,F21163,Diaz,,0,Mexicali,,p12
+1958TSN,1957,Arizona-Mexico League,diaz,P10687,Diaz,,0,Mexicali,,P12p
+1958TSN,1957,Arizona-Mexico League,dieppa,B00343,Dieppa,Raul,0,Tucson,,B72
+1958TSN,1957,Arizona-Mexico League,dieppa,F20505,Dieppa,,0,Tucson,,ss72
+1958TSN,1957,Arizona-Mexico League,dieppa,P10805,Dieppa,,0,Tucson,,P1p
+1958TSN,1957,Arizona-Mexico League,donnelly,B00356,Donnelly,Richard E.,0,Douglas,,B15
+1958TSN,1957,Arizona-Mexico League,donnelly,F21174,Donnelly,,0,Douglas,,p15
+1958TSN,1957,Arizona-Mexico League,donnelly,P10113,Donnelly,,0,Douglas,,P15p
+1958TSN,1957,Arizona-Mexico League,duarte,B00362,Duarte,Avelino,0,Cananea,,B52
+1958TSN,1957,Arizona-Mexico League,duarte,F20287,Duarte,,0,Cananea,,2b52
+1958TSN,1957,Arizona-Mexico League,dunn,B00370,Dunn,Donald R.,0,Tucson,,B135
+1958TSN,1957,Arizona-Mexico League,dunn,F20211,Dunn,,0,Tucson,,2b90
+1958TSN,1957,Arizona-Mexico League,dunn,F20518,Dunn,,0,Tucson,,ss24
+1958TSN,1957,Arizona-Mexico League,dunn,F20700,Dunn,,0,Tucson,,of21
+1958TSN,1957,Arizona-Mexico League,durden,B00381,Durden,Elbert,0,Las Vegas,,B78
+1958TSN,1957,Arizona-Mexico League,durden,F20080,Durden,,0,Las Vegas,,1b78
+1958TSN,1957,Arizona-Mexico League,echeverria,B00397,Echeverria,Jose,0,Mexicali,,B45
+1958TSN,1957,Arizona-Mexico League,echeverria,F20131,Echeverria,,0,Mexicali,,1b12
+1958TSN,1957,Arizona-Mexico League,echeverria,F20759,Echeverria,,0,Mexicali,,of33
+1958TSN,1957,Arizona-Mexico League,einerwold,B00403,Einerwold,Marvin,0,Las Vegas,,B24
+1958TSN,1957,Arizona-Mexico League,einerwold,F20886,Einerwold,,0,Las Vegas,,of24
+1958TSN,1957,Arizona-Mexico League,ek,B00416,Ek,Lars Morten,0,Douglas,,B25
+1958TSN,1957,Arizona-Mexico League,ek,F21335,Ek,,0,Douglas,,p25
+1958TSN,1957,Arizona-Mexico League,ek,P10121,Ek,,0,Douglas,,P25p
+1958TSN,1957,Arizona-Mexico League,espinosa,B01402,Espinosa,Manuel,0,Cananea,,B1
+1958TSN,1957,Arizona-Mexico League,estrada,B00427,Estrada,Manuel,0,Cananea,,B18
+1958TSN,1957,Arizona-Mexico League,estrada,F21324,Estrada,,0,Cananea,,p16
+1958TSN,1957,Arizona-Mexico League,estrada,P10137,Estrada,,0,Cananea,,P16p
+1958TSN,1957,Arizona-Mexico League,eustice,B01857,Eustice,Harold,0,Tucson,,B8
+1958TSN,1957,Arizona-Mexico League,eustice,P10818,Eustice,,0,Tucson,,P8p
+1958TSN,1957,Arizona-Mexico League,favela,B00434,Favela,Rafael,0,Cananea,,B39
+1958TSN,1957,Arizona-Mexico League,favela,F21491,Favela,,0,Cananea,,p35
+1958TSN,1957,Arizona-Mexico League,favela,P10145,Favela,,0,Cananea,,P35p
+1958TSN,1957,Arizona-Mexico League,mora,B01415,Felipe,Mora,0,Cananea,,B5
+1958TSN,1957,Arizona-Mexico League,ferrer,B00442,Ferrer,Israel,0,Tucson,,B68
+1958TSN,1957,Arizona-Mexico League,ferrer,F20620,Ferrer,,0,Tucson,,of16
+1958TSN,1957,Arizona-Mexico League,ferrer,F21416,Ferrer,,0,Tucson,,p40
+1958TSN,1957,Arizona-Mexico League,ferrer,P10159,Ferrer,,0,Tucson,,P40p
+1958TSN,1957,Arizona-Mexico League,figueroa,B00450,Figueroa,Gregorio,0,Cananea,,B126
+1958TSN,1957,Arizona-Mexico League,figueroa,F20038,Figueroa,,0,Cananea,,1b126
+1958TSN,1957,Arizona-Mexico League,flynn,B01490,Flynn,Robert,0,Douglas,,B4
+1958TSN,1957,Arizona-Mexico League,flynn,P10542,Flynn,,0,Douglas,,P4p
+1958TSN,1957,Arizona-Mexico League,gaffney,B00469,Gaffney,George,0,Phoenix,,B28
+1958TSN,1957,Arizona-Mexico League,gaffney,F21469,Gaffney,,0,Phoenix,,p28
+1958TSN,1957,Arizona-Mexico League,gaffney,P10168,Gaffney,,0,Phoenix,,P28p
+1958TSN,1957,Arizona-Mexico League,galvan,B00475,Galvan,Manuel,0,Mexicali,,B31
+1958TSN,1957,Arizona-Mexico League,galvan,F20893,Galvan,,0,Mexicali,,of31
+1958TSN,1957,Arizona-Mexico League,garcia-tuc,B00488,Garcia,Manuel,0,Tucson,,B50
+1958TSN,1957,Arizona-Mexico League,garcia-can,B00491,Garcia,Manuel,0,Cananea,,B32
+1958TSN,1957,Arizona-Mexico League,garcia-can,F21370,Garcia,,0,Cananea,,p31
+1958TSN,1957,Arizona-Mexico League,garcia-tuc,F21403,Garcia,,0,Tucson,,p45
+1958TSN,1957,Arizona-Mexico League,garcia-can,P10176,Garcia,M.,0,Cananea,,P31p
+1958TSN,1957,Arizona-Mexico League,garcia-tuc,P10184,Garcia,M.,0,Tucson,,P45p
+1958TSN,1957,Arizona-Mexico League,gauci,B00502,Gauci,Joseph J.,0,Phoenix,,B60
+1958TSN,1957,Arizona-Mexico League,gauci,F20388,Gauci,,0,Phoenix,,3b60
+1958TSN,1957,Arizona-Mexico League,geels,B00515,Geels,Robert,0,Phoenix,,B76
+1958TSN,1957,Arizona-Mexico League,geels,F20316,Geels,,0,Phoenix,,3b76
+1958TSN,1957,Arizona-Mexico League,gibson,B01861,Gibson,Weldon,0,Tucson,,B4
+1958TSN,1957,Arizona-Mexico League,gibson,P10826,Gibson,,0,Tucson,,P4p
+1958TSN,1957,Arizona-Mexico League,green,B00528,Green,Don J.,0,Las Vegas,,B10
+1958TSN,1957,Arizona-Mexico League,green,F21614,Green,,0,Las Vegas,,p10
+1958TSN,1957,Arizona-Mexico League,green,P10588,Green,,0,Las Vegas,,P10p
+1958TSN,1957,Arizona-Mexico League,gregg,B00531,Gregg,Gerald,0,Las Vegas,,B13
+1958TSN,1957,Arizona-Mexico League,gregg,F20636,Gregg,,0,Las Vegas,,of13
+1958TSN,1957,Arizona-Mexico League,guerrero,B00544,Guerrero,Humberto,0,Cananea,,B69
+1958TSN,1957,Arizona-Mexico League,guerrero,F20240,Guerrero,,0,Cananea,,2b69
+1958TSN,1957,Arizona-Mexico League,gussin,B00553,Gussin,Joseph,0,Phoenix,,B28
+1958TSN,1957,Arizona-Mexico League,gussin,F21397,Gussin,,0,Phoenix,,p22
+1958TSN,1957,Arizona-Mexico League,gussin,P10192,Gussin,,0,Phoenix,,P22p
+1958TSN,1957,Arizona-Mexico League,gutierrez,B01428,Gutierrez,Ruben,0,Cananea,,B9
+1958TSN,1957,Arizona-Mexico League,hacker,B00566,Hacker,Harold,0,Tucson,,B126
+1958TSN,1957,Arizona-Mexico League,hacker,F20425,Hacker,,0,Tucson,,3b55
+1958TSN,1957,Arizona-Mexico League,hacker,F20878,Hacker,,0,Tucson,,of58
+1958TSN,1957,Arizona-Mexico League,hacker,F21182,Hacker,,0,Tucson,,p19
+1958TSN,1957,Arizona-Mexico League,hacker,P10202,Hacker,,0,Tucson,,P19p
+1958TSN,1957,Arizona-Mexico League,haley,B00577,Haley,John,0,Tucson,,B12
+1958TSN,1957,Arizona-Mexico League,haley,F20095,Haley,,0,Tucson,,1b12
+1958TSN,1957,Arizona-Mexico League,hanggie,B00589,Hanggie,Donald,0,Las Vegas,,B19
+1958TSN,1957,Arizona-Mexico League,harpenau,B01509,Harpenau,Kenneth,0,Douglas,,B1
+1958TSN,1957,Arizona-Mexico League,hayes,B00590,Hayes,Thomas,0,Mexicali,,B46
+1958TSN,1957,Arizona-Mexico League,hayes,F21623,Hayes,,0,Mexicali,,p44
+1958TSN,1957,Arizona-Mexico League,hayes,P10215,Hayes,,0,Mexicali,,P44p
+1958TSN,1957,Arizona-Mexico League,higgins,B00609,Higgins,Roger,0,Las Vegas,,B50
+1958TSN,1957,Arizona-Mexico League,higgins,F21488,Higgins,,0,Las Vegas,,p39
+1958TSN,1957,Arizona-Mexico League,higgins,P10228,Higgins,,0,Las Vegas,,P39p
+1958TSN,1957,Arizona-Mexico League,hinckley,B01567,Hinckley,Vernon,0,Las Vegas,,B5
+1958TSN,1957,Arizona-Mexico League,hinckley,P10591,Hinckley,,0,Las Vegas,,P5p
+1958TSN,1957,Arizona-Mexico League,hooper,B00614,Hooper,Robert N.,0,Phoenix,,B33
+1958TSN,1957,Arizona-Mexico League,hooper,F21502,Hooper,,0,Phoenix,,p24
+1958TSN,1957,Arizona-Mexico League,hooper,M90018,Hooper,Robert,,Phoenix,,
+1958TSN,1957,Arizona-Mexico League,hooper,P10231,Hooper,,0,Phoenix,,P24p
+emilbb,1957,Arizona-Mexico League,hooper,M91213,Hooper,Bob,,Phoenix,,
+1958TSN,1957,Arizona-Mexico League,jameson,M90060,Jameson,Don,,Tucson,,
+emilbb,1957,Arizona-Mexico League,jameson,M91268,Jameson,Don,,Tucson,,
+1958TSN,1957,Arizona-Mexico League,javier,B00623,Javier,Manuel,0,Douglas,,B50
+1958TSN,1957,Arizona-Mexico League,javier,F20265,Javier,,0,Douglas,,2b50
+1958TSN,1957,Arizona-Mexico League,jimenez,B00638,Jimenez,Alfredo,1,Mexicali,,B85
+1958TSN,1957,Arizona-Mexico League,jimenez,B00638,Jimenez,Alfredo,2,Phoenix,,B10
+1958TSN,1957,Arizona-Mexico League,jimenez,B00638,Jimenez,Alfredo,T,,,B95
+1958TSN,1957,Arizona-Mexico League,jimenez,F20657,Jimenez,,1,Mexicali,,of
+1958TSN,1957,Arizona-Mexico League,jimenez,F20657,Jimenez,,2,Phoenix,,of
+1958TSN,1957,Arizona-Mexico League,jimenez,F20657,Jimenez,,T,,,of85
+1958TSN,1957,Arizona-Mexico League,jiminez,B01873,Jiminez,Ramon,0,Tucson,,B3
+1958TSN,1957,Arizona-Mexico League,job,B01572,Job,Dennis,0,Las Vegas,,B8
+1958TSN,1957,Arizona-Mexico League,job,P10244,Job,,0,Las Vegas,,P7p
+1958TSN,1957,Arizona-Mexico League,johnson-lv,B00646,Johnson,James A.,0,Las Vegas,,B16
+1958TSN,1957,Arizona-Mexico League,johnson-mex+dou,B00651,Johnson,Walter R.,1,Mexicali,,B11
+1958TSN,1957,Arizona-Mexico League,johnson-mex+dou,B00651,Johnson,Walter R.,2,Douglas,,B2
+1958TSN,1957,Arizona-Mexico League,johnson-mex+dou,B00651,Johnson,Walter R.,T,,,B13
+1958TSN,1957,Arizona-Mexico League,johnson-mex+dou,F20604,Johnson,,1,Mexicali,,ss
+1958TSN,1957,Arizona-Mexico League,johnson-mex+dou,F20604,Johnson,,2,Douglas,,ss
+1958TSN,1957,Arizona-Mexico League,johnson-mex+dou,F20604,Johnson,,T,,,ss13
+1958TSN,1957,Arizona-Mexico League,johnson-lv,F21196,Johnson,,0,Las Vegas,,p16
+1958TSN,1957,Arizona-Mexico League,johnson-lv,P10253,Johnson,,0,Las Vegas,,P16p
+1958TSN,1957,Arizona-Mexico League,jones-tuc,B00667,Jones,McHenry,0,Tucson,,B66
+1958TSN,1957,Arizona-Mexico League,jones-lv,B01580,Jones,Donald,0,Las Vegas,,B3
+1958TSN,1957,Arizona-Mexico League,jones-tuc,F20943,Jones,,0,Tucson,,of66
+1958TSN,1957,Arizona-Mexico League,jones-lv,P10606,Jones,,0,Las Vegas,,P3p
+1958TSN,1957,Arizona-Mexico League,kahler,B00672,Kahler,Lawrence,0,Las Vegas,,B10
+1958TSN,1957,Arizona-Mexico League,kahler,F20648,Kahler,,0,Las Vegas,,of10
+1958TSN,1957,Arizona-Mexico League,kelley,B00680,Kelley,Harold,0,Las Vegas,,B34
+1958TSN,1957,Arizona-Mexico League,kelley,F20144,Kelley,,0,Las Vegas,,1b34
+1958TSN,1957,Arizona-Mexico League,klauser,B00695,Klauser,Kenneth,1,Tucson,,B13
+1958TSN,1957,Arizona-Mexico League,klauser,B00695,Klauser,Kenneth,2,Mexicali,,B29
+1958TSN,1957,Arizona-Mexico League,klauser,B00695,Klauser,Kenneth,T,,,B42
+1958TSN,1957,Arizona-Mexico League,klauser,F21528,Klauser,,1,Tucson,,p
+1958TSN,1957,Arizona-Mexico League,klauser,F21528,Klauser,,2,Mexicali,,p
+1958TSN,1957,Arizona-Mexico League,klauser,F21528,Klauser,,T,,,p28
+1958TSN,1957,Arizona-Mexico League,klauser,P10266,Klauser,,1,Mexicali,,p
+1958TSN,1957,Arizona-Mexico League,klauser,P10266,Klauser,,2,Tucson,,p
+1958TSN,1957,Arizona-Mexico League,klauser,P10266,Klauser,,T,,,P28p
+1958TSN,1957,Arizona-Mexico League,koski,B00705,Koski,William J.,0,Las Vegas,,B30
+1958TSN,1957,Arizona-Mexico League,koski,F21362,Koski,,0,Las Vegas,,p28
+1958TSN,1957,Arizona-Mexico League,koski,P10277,Koski,,0,Las Vegas,,P28p
+1958TSN,1957,Arizona-Mexico League,kulpaca,B01885,Kulpaca,William,0,Tucson,,B5
+1958TSN,1957,Arizona-Mexico League,kulpaca,P10839,Kulpaca,,0,Tucson,,P4p
+1958TSN,1957,Arizona-Mexico League,lavalliere,B00718,Lavalliere,Guy,0,Phoenix,,B119
+1958TSN,1957,Arizona-Mexico League,lavalliere,F21084,Lavalliere,,0,Phoenix,,c113
+1958TSN,1957,Arizona-Mexico League,lee,B00726,Lee,James E.,0,Las Vegas,,B14
+1958TSN,1957,Arizona-Mexico League,lee,F21207,Lee,,0,Las Vegas,,p12
+1958TSN,1957,Arizona-Mexico League,lee,P10289,Lee,,0,Las Vegas,,P12p
+1958TSN,1957,Arizona-Mexico League,lembo,B00739,Lembo,Anthony,0,Tucson,,B68
+1958TSN,1957,Arizona-Mexico League,lembo,F20023,Lembo,,0,Tucson,,1b68
+1958TSN,1957,Arizona-Mexico League,lewis,B01595,Lewis,James,0,Las Vegas,,B3
+1958TSN,1957,Arizona-Mexico League,linares,B01899,Linares,Julio,0,Tucson,,B2
+1958TSN,1957,Arizona-Mexico League,lindborg,B00747,Lindborg,Leonard,0,Douglas,,B73
+1958TSN,1957,Arizona-Mexico League,lindborg,F20924,Lindborg,,0,Douglas,,of27
+1958TSN,1957,Arizona-Mexico League,lindborg,F21515,Lindborg,,0,Douglas,,p28
+1958TSN,1957,Arizona-Mexico League,lindborg,P10290,Lindborg,,0,Douglas,,P28p
+1958TSN,1957,Arizona-Mexico League,little,B00752,Little,Donald,0,Douglas,,B22
+1958TSN,1957,Arizona-Mexico League,little,F21319,Little,,0,Douglas,,p22
+1958TSN,1957,Arizona-Mexico League,little,P10304,Little,,0,Douglas,,P22p
+1958TSN,1957,Arizona-Mexico League,littlejohn,B01696,Littlejohn,Richard,0,Mexicali,,B5
+1958TSN,1957,Arizona-Mexico League,loustalet,B01514,Loustalet,Donald,0,Douglas,,B7
+1958TSN,1957,Arizona-Mexico League,loustalet,P10550,Loustalet,,0,Douglas,,P6p
+1958TSN,1957,Arizona-Mexico League,lowenthal,B01601,Lowenthal,David,0,Las Vegas,,B8
+1958TSN,1957,Arizona-Mexico League,luppino,B00760,Luppino,Arthur,0,Tucson,,B14
+1958TSN,1957,Arizona-Mexico League,luppino,F21013,Luppino,,0,Tucson,,of14
+1958TSN,1957,Arizona-Mexico League,magallon,B00771,Magallon,Manuel,0,Mexicali,,B117
+1958TSN,1957,Arizona-Mexico League,magallon,F20072,Magallon,,0,Mexicali,,1b117
+1958TSN,1957,Arizona-Mexico League,magallon,M90094,Magallon,Manuel,,Mexicali,19570813/,
+emilbb,1957,Arizona-Mexico League,magallon,M91292,Magallon,Manuel,,Mexicali,,
+1958TSN,1957,Arizona-Mexico League,malone,B00783,Malone,Thomas,0,Douglas,,B41
+1958TSN,1957,Arizona-Mexico League,malone,F21130,Malone,,0,Douglas,,c41
+1958TSN,1957,Arizona-Mexico League,marion,M90052,Marion,John (Red),,Las Vegas,,
+emilbb,1957,Arizona-Mexico League,marion,M91259,Marion,"John ""Red""",,Las Vegas,,
+1958TSN,1957,Arizona-Mexico League,martell,B00794,Martell,Tomas,0,Cananea,,B128
+1958TSN,1957,Arizona-Mexico League,martell,F21076,Martell,,0,Cananea,,c128
+1958TSN,1957,Arizona-Mexico League,marti,B00806,Marti,Humberto,0,Tucson,,B101
+1958TSN,1957,Arizona-Mexico League,marti,F21037,Marti,,0,Tucson,,c99
+1958TSN,1957,Arizona-Mexico League,mcginnis,B01905,McGinnis,Donald,0,Tucson,,B4
+1958TSN,1957,Arizona-Mexico League,mendoza,B00811,Mendoza,Jesus,0,Cananea,,B10
+1958TSN,1957,Arizona-Mexico League,mendoza,F20612,Mendoza,,0,Cananea,,of26
+1958TSN,1957,Arizona-Mexico League,messin,P10847,Messin,,0,Tucson,,P1p
+1958TSN,1957,Arizona-Mexico League,messner,B00822,Messner,Freed,0,Douglas,,B52
+1958TSN,1957,Arizona-Mexico League,messner,F21101,Messner,,0,Douglas,,c52
+1958TSN,1957,Arizona-Mexico League,miranda,B00833,Miranda,Eugenio,0,Cananea,,B21
+1958TSN,1957,Arizona-Mexico League,miranda,F21210,Miranda,,0,Cananea,,p23
+1958TSN,1957,Arizona-Mexico League,miranda,P10312,Miranda,,0,Cananea,,P23p
+1958TSN,1957,Arizona-Mexico League,moore,B01918,Moore,William,1,Douglas,,B6
+1958TSN,1957,Arizona-Mexico League,moore,B01918,Moore,William,2,Tucson,,B2
+1958TSN,1957,Arizona-Mexico League,moore,B01918,Moore,William,T,,,B8
+1958TSN,1957,Arizona-Mexico League,morales,B00840,Morales,Rigoberto,0,Cananea,,B73
+1958TSN,1957,Arizona-Mexico League,morales,F20449,Morales,,0,Cananea,,3b37
+1958TSN,1957,Arizona-Mexico League,morales,F20841,Morales,,0,Cananea,,of36
+1958TSN,1957,Arizona-Mexico League,morrison,B00854,Morrison,Michael,0,Tucson,,B31
+1958TSN,1957,Arizona-Mexico League,morrison,F21590,Morrison,,0,Tucson,,p25
+1958TSN,1957,Arizona-Mexico League,morrison,P10320,Morrison,,0,Tucson,,P25p
+1958TSN,1957,Arizona-Mexico League,mumphord,B00865,Mumphord,Peaster,0,Las Vegas,,B55
+1958TSN,1957,Arizona-Mexico League,mumphord,F21293,Mumphord,,0,Las Vegas,,p48
+1958TSN,1957,Arizona-Mexico League,mumphord,P10336,Mumphord,,0,Las Vegas,,P48p
+1958TSN,1957,Arizona-Mexico League,murawski,B00879,Murawski,Raymond,0,Phoenix,,B134
+1958TSN,1957,Arizona-Mexico League,murawski,F20685,Murawski,,0,Phoenix,,of134
+1958TSN,1957,Arizona-Mexico League,murgo,B00887,Murgo,Ludwig,0,Phoenix,,B19
+1958TSN,1957,Arizona-Mexico League,murgo,F20571,Murgo,,0,Phoenix,,ss19
+1958TSN,1957,Arizona-Mexico League,murillo,B00904,Murillo,Armando,1,Mexicali,,B48
+1958TSN,1957,Arizona-Mexico League,murillo,B00904,Murillo,Armando,2,Douglas,,B52
+1958TSN,1957,Arizona-Mexico League,murillo,B00904,Murillo,Armando,T,,,B100
+1958TSN,1957,Arizona-Mexico League,murillo,F20970,Murillo,,1,Mexicali,,of
+1958TSN,1957,Arizona-Mexico League,murillo,F20970,Murillo,,2,Douglas,,of
+1958TSN,1957,Arizona-Mexico League,murillo,F20970,Murillo,,T,,,of98
+1958TSN,1957,Arizona-Mexico League,murphy,B01926,Murphy,Thomas,0,Tucson,,B4
+1958TSN,1957,Arizona-Mexico League,murrieta,B00898,Murrieta,Alejandro,0,Cananea,,B41
+1958TSN,1957,Arizona-Mexico League,murrieta,F21308,Murrieta,,0,Cananea,,p39
+1958TSN,1957,Arizona-Mexico League,murrieta,P10348,Murrieta,,0,Cananea,,P39p
+1958TSN,1957,Arizona-Mexico League,neal-dou,B00912,Neal,Raymond,0,Douglas,,B14
+1958TSN,1957,Arizona-Mexico League,neal-lv,B00920,Neal,Willie,0,Las Vegas,,B41
+1958TSN,1957,Arizona-Mexico League,neal-dou,F21229,Neal,R.,0,Douglas,,p13
+1958TSN,1957,Arizona-Mexico League,neal-lv,F21589,Neal,W.,0,Las Vegas,,p26
+1958TSN,1957,Arizona-Mexico League,neal-dou,P10357,Neal,R.,0,Douglas,,P13p
+1958TSN,1957,Arizona-Mexico League,neal-lv,P10361,Neal,W.,0,Las Vegas,,P26p
+1958TSN,1957,Arizona-Mexico League,nebron,B01617,Nebron,A. Gerald,0,Las Vegas,,B6
+1958TSN,1957,Arizona-Mexico League,niemeier,B00936,Niemeier,Donald,0,Phoenix,,B124
+1958TSN,1957,Arizona-Mexico League,niemeier,F20046,Niemeier,,0,Phoenix,,1b124
+1958TSN,1957,Arizona-Mexico League,olley,B00948,Olley,Carl,0,Las Vegas,,B81
+1958TSN,1957,Arizona-Mexico League,olley,F20463,Olley,,0,Las Vegas,,ss81
+1958TSN,1957,Arizona-Mexico League,orrell,B01706,Orrell,Forest,0,Mexicali,,B4
+1958TSN,1957,Arizona-Mexico League,orrell,P10698,Orrell,,0,Mexicali,,P4p
+1958TSN,1957,Arizona-Mexico League,ortega-can,B01431,Ortega,Tomas,0,Cananea,,B1
+1958TSN,1957,Arizona-Mexico League,ortega-mex,B01711,Ortega,Pedro,0,Mexicali,,B5
+1958TSN,1957,Arizona-Mexico League,padilla,B00957,Padilla,Jose,0,Cananea,,B132
+1958TSN,1957,Arizona-Mexico League,padilla,F20745,Padilla,,0,Cananea,,of132
+1958TSN,1957,Arizona-Mexico League,palmer,B01939,Palmer,Robert,0,Tucson,,B2
+1958TSN,1957,Arizona-Mexico League,patchell,B00961,Patchell,Stanley,0,Tucson,,B10
+1958TSN,1957,Arizona-Mexico League,patchell,F21232,Patchell,,0,Tucson,,p10
+1958TSN,1957,Arizona-Mexico League,patchell,P10373,Patchell,,0,Tucson,,P10p
+1958TSN,1957,Arizona-Mexico League,pawelek,B01947,Pawelek,Albert,0,Tucson,,B2
+1958TSN,1957,Arizona-Mexico League,pawelek,P10852,Pawelek,,0,Tucson,,P2p
+1958TSN,1957,Arizona-Mexico League,paxton,B00973,Paxton,Ray,0,Las Vegas,,B10
+1958TSN,1957,Arizona-Mexico League,paxton,F21241,Paxton,,0,Las Vegas,,p10
+1958TSN,1957,Arizona-Mexico League,paxton,P10611,Paxton,,0,Las Vegas,,P9p
+1958TSN,1957,Arizona-Mexico League,pena,B00985,Pena,Hilario,0,Cananea,,B59
+1958TSN,1957,Arizona-Mexico League,pena,F20417,Pena,,0,Cananea,,3b59
+1958TSN,1957,Arizona-Mexico League,perez,B00999,Perez,Manuel,0,Cananea,,B36
+1958TSN,1957,Arizona-Mexico League,perez,F21638,Perez,,0,Cananea,,p36
+1958TSN,1957,Arizona-Mexico League,perez,P10385,Perez,,0,Cananea,,P36p
+1958TSN,1957,Arizona-Mexico League,pettus,B01722,Pettus,George,0,Mexicali,,B3
+1958TSN,1957,Arizona-Mexico League,pettus,P10709,Pettus,,0,Mexicali,,P2p
+1958TSN,1957,Arizona-Mexico League,pirela,B01007,Pirela,Julio,0,Mexicali,,B26
+1958TSN,1957,Arizona-Mexico League,pirela,F20279,Pirela,,0,Mexicali,,2b17
+1958TSN,1957,Arizona-Mexico League,pirela,F20547,Pirela,,0,Mexicali,,ss11
+1958TSN,1957,Arizona-Mexico League,planck,B01010,Planck,Jack,1,Mexicali,,B6
+1958TSN,1957,Arizona-Mexico League,planck,B01010,Planck,Jack,2,Douglas,,B13
+1958TSN,1957,Arizona-Mexico League,planck,B01010,Planck,Jack,T,,,B19
+1958TSN,1957,Arizona-Mexico League,planck,F21531,Planck,,1,Mexicali,,p
+1958TSN,1957,Arizona-Mexico League,planck,F21531,Planck,,2,Douglas,,p
+1958TSN,1957,Arizona-Mexico League,planck,F21531,Planck,,T,,,p19
+1958TSN,1957,Arizona-Mexico League,planck,P10399,Planck,,1,Douglas,,p
+1958TSN,1957,Arizona-Mexico League,planck,P10399,Planck,,2,Mexicali,,p
+1958TSN,1957,Arizona-Mexico League,planck,P10399,Planck,,T,,,P19p
+1958TSN,1957,Arizona-Mexico League,potter,B01733,Potter,James,0,Mexicali,,B7
+1958TSN,1957,Arizona-Mexico League,potter,P10714,Potter,,0,Mexicali,,P7p
+1958TSN,1957,Arizona-Mexico League,pulford,B01029,Pulford,Donald,0,Douglas,,B87
+1958TSN,1957,Arizona-Mexico League,pulford,F20526,Pulford,,0,Douglas,,ss87
+1958TSN,1957,Arizona-Mexico League,radcliff,B01032,Radcliff,Raymond,0,Tucson,,B110
+1958TSN,1957,Arizona-Mexico League,radcliff,F20401,Radcliff,,0,Tucson,,3b66
+1958TSN,1957,Arizona-Mexico League,radcliff,F20539,Radcliff,,0,Tucson,,ss44
+1958TSN,1957,Arizona-Mexico League,reddell,B01952,Reddell,Leroy,0,Tucson,,B1
+1958TSN,1957,Arizona-Mexico League,reddell,P10860,Reddell,,0,Tucson,,P1p
+1958TSN,1957,Arizona-Mexico League,reyes,B01041,Reyes,Eleuterio,0,Mexicali,,B18
+1958TSN,1957,Arizona-Mexico League,reyes,F21434,Reyes,,0,Mexicali,,p18
+1958TSN,1957,Arizona-Mexico League,reyes,P10407,Reyes,,0,Mexicali,,P18p
+1958TSN,1957,Arizona-Mexico League,rios,B01055,Rios,Daniel,0,Cananea,,B79
+1958TSN,1957,Arizona-Mexico League,rios,F20128,Rios,,0,Cananea,,1b10
+1958TSN,1957,Arizona-Mexico League,rios,F20233,Rios,,0,Cananea,,2b27
+1958TSN,1957,Arizona-Mexico League,rios,F20807,Rios,,0,Cananea,,of27
+1958TSN,1957,Arizona-Mexico League,rios,F21544,Rios,,0,Cananea,,p17
+1958TSN,1957,Arizona-Mexico League,rios,M90039,Rios,Daniel,,Cananea,19570516/,
+1958TSN,1957,Arizona-Mexico League,rios,P10410,Rios,,0,Cananea,,P17p
+emilbb,1957,Arizona-Mexico League,rios,M91237,Rios,Daniel,,Cananea,,
+1958TSN,1957,Arizona-Mexico League,ripken,B01064,Ripken,Calvin,0,Phoenix,,B112
+1958TSN,1957,Arizona-Mexico League,ripken,F20391,Ripken,,0,Phoenix,,3b17
+1958TSN,1957,Arizona-Mexico League,ripken,F20661,Ripken,,0,Phoenix,,of57
+1958TSN,1957,Arizona-Mexico League,ripken,F21117,Ripken,,0,Phoenix,,c28
+1958TSN,1957,Arizona-Mexico League,rodriguez,B01444,Rodriguez,Rafael,0,Cananea,,B3
+1958TSN,1957,Arizona-Mexico League,rodriguez,P10503,Rodriguez,,0,Cananea,,P3p
+1958TSN,1957,Arizona-Mexico League,rolin,B01740,Rolin,Samuel,0,Mexicali,,B9
+1958TSN,1957,Arizona-Mexico League,rolin,P10429,Rolin,,0,Mexicali,,P8p
+1958TSN,1957,Arizona-Mexico League,romero.g,B01078,Romero,Gary,1,Las Vegas,,B24
+1958TSN,1957,Arizona-Mexico League,romero.g,B01078,Romero,Gary,2,Tucson,,B1
+1958TSN,1957,Arizona-Mexico League,romero.g,B01078,Romero,Gary,T,,,B25
+1958TSN,1957,Arizona-Mexico League,romero.r,B01960,Romero,Robert,0,Tucson,,B3
+1958TSN,1957,Arizona-Mexico League,romero.g,F20583,Romero,,1,Las Vegas,,ss
+1958TSN,1957,Arizona-Mexico League,romero.g,F20583,Romero,,2,Tucson,,ss
+1958TSN,1957,Arizona-Mexico League,romero.g,F20583,Romero,,T,,,ss25
+1958TSN,1957,Arizona-Mexico League,romero.r,P10871,Romero,,0,Tucson,,P2p
+1958TSN,1957,Arizona-Mexico League,rubio,B01086,Rubio,Richard,0,Las Vegas,,B129
+1958TSN,1957,Arizona-Mexico League,rubio,F20350,Rubio,,0,Las Vegas,,3b129
+1958TSN,1957,Arizona-Mexico League,ruiz,B01754,Ruiz,Luis,0,Mexicali,,B3
+1958TSN,1957,Arizona-Mexico League,saavedra,B01093,Saavedra,Mauricio,0,Tucson,,B12
+1958TSN,1957,Arizona-Mexico League,saavedra,F20810,Saavedra,,0,Tucson,,of12
+1958TSN,1957,Arizona-Mexico League,sampson,B01108,Sampson,James,0,Las Vegas,,B94
+1958TSN,1957,Arizona-Mexico League,sampson,F20713,Sampson,,0,Las Vegas,,of94
+1958TSN,1957,Arizona-Mexico League,santaniello,B01119,Santaniello,Richard,0,Phoenix,,B60
+1958TSN,1957,Arizona-Mexico League,santaniello,F20792,Santaniello,,0,Phoenix,,of60
+1958TSN,1957,Arizona-Mexico League,scane,B01124,Scane,Fred,0,Las Vegas,,B121
+1958TSN,1957,Arizona-Mexico League,scane,F20908,Scane,,0,Las Vegas,,of121
+1958TSN,1957,Arizona-Mexico League,scheel,B01135,Scheel,Rolf,0,Phoenix,,B44
+1958TSN,1957,Arizona-Mexico League,scheel,F21343,Scheel,,0,Phoenix,,p47
+1958TSN,1957,Arizona-Mexico League,scheel,P10432,Scheel,,0,Phoenix,,P47p
+1958TSN,1957,Arizona-Mexico League,schuler,B01143,Schuler,Robert,1,Mexicali,,B62
+1958TSN,1957,Arizona-Mexico League,schuler,B01143,Schuler,Robert,2,Las Vegas,,B9
+1958TSN,1957,Arizona-Mexico League,schuler,B01143,Schuler,Robert,T,,,B71
+1958TSN,1957,Arizona-Mexico League,schuler,F20254,Schuler,,1,Mexicali,,2b
+1958TSN,1957,Arizona-Mexico League,schuler,F20254,Schuler,,2,Las Vegas,,2b
+1958TSN,1957,Arizona-Mexico League,schuler,F20254,Schuler,,T,,,2b71
+1958TSN,1957,Arizona-Mexico League,schulte,B01156,Schulte,Paul,0,Las Vegas,,B18
+1958TSN,1957,Arizona-Mexico League,schulte,F21255,Schulte,,0,Las Vegas,,p19
+1958TSN,1957,Arizona-Mexico League,schulte,P10441,Schulte,,0,Las Vegas,,P19p
+1958TSN,1957,Arizona-Mexico League,searcy,B01812,Searcy,Kelly,0,Phoenix,,B2
+1958TSN,1957,Arizona-Mexico League,searcy,P10767,Searcy,,0,Phoenix,,P2p
+1958TSN,1957,Arizona-Mexico League,serna,B01453,Serna,Prudencio,0,Cananea,,B5
+1958TSN,1957,Arizona-Mexico League,serna,P10516,Serna,,0,Cananea,,P5p
+1958TSN,1957,Arizona-Mexico League,seyl,B01765,Seyl,Phil,0,Mexicali,,B1
+1958TSN,1957,Arizona-Mexico League,seyl,P10723,Seyl,,0,Mexicali,,P1p
+1958TSN,1957,Arizona-Mexico League,shetrone,B01162,Shetrone,Barry,0,Phoenix,,B125
+1958TSN,1957,Arizona-Mexico League,shetrone,F20721,Shetrone,,0,Phoenix,,of125
+1958TSN,1957,Arizona-Mexico League,shoemaker,B01625,Shoemaker,Robert,0,Las Vegas,,B3
+1958TSN,1957,Arizona-Mexico League,shoemaker,P10622,Shoemaker,,0,Las Vegas,,P3p
+1958TSN,1957,Arizona-Mexico League,snider,B01971,Snider,Richard,0,Tucson,,B2
+1958TSN,1957,Arizona-Mexico League,snyders,B01983,Snyders,Raymond,1,Phoenix,,B5
+1958TSN,1957,Arizona-Mexico League,snyders,B01983,Snyders,Raymond,2,Tucson,,B2
+1958TSN,1957,Arizona-Mexico League,snyders,B01983,Snyders,Raymond,T,,,B7
+1958TSN,1957,Arizona-Mexico League,snyders,P10883,Snyders,,1,Phoenix,,p
+1958TSN,1957,Arizona-Mexico League,snyders,P10883,Snyders,,2,Tucson,,p
+1958TSN,1957,Arizona-Mexico League,snyders,P10883,Snyders,,T,,,P7p
+1958TSN,1957,Arizona-Mexico League,sobczak,B01170,Sobczak,Edward,0,Las Vegas,,B79
+1958TSN,1957,Arizona-Mexico League,sobczak,F20784,Sobczak,,0,Las Vegas,,of79
+1958TSN,1957,Arizona-Mexico League,solano,B01181,Solano,Claudio,0,Cananea,,B117
+1958TSN,1957,Arizona-Mexico League,solano,F20334,Solano,,0,Cananea,,3b36
+1958TSN,1957,Arizona-Mexico League,solano,F20768,Solano,,0,Cananea,,of81
+1958TSN,1957,Arizona-Mexico League,solano,M90026,Solano,Claudio,,Cananea,,
+emilbb,1957,Arizona-Mexico League,solano,M91221,Solano,Claudio,,Cananea,,
+1958TSN,1957,Arizona-Mexico League,sorenson,B01197,Sorenson,Raymond,0,Phoenix,,B38
+1958TSN,1957,Arizona-Mexico League,sorenson,F21427,Sorenson,,0,Phoenix,,p30
+1958TSN,1957,Arizona-Mexico League,sorenson,P10455,Sorenson,,0,Phoenix,,P30p
+1958TSN,1957,Arizona-Mexico League,staley,B01203,Staley,William,0,Las Vegas,,B130
+1958TSN,1957,Arizona-Mexico League,staley,F20189,Staley,,0,Las Vegas,,2b130
+1958TSN,1957,Arizona-Mexico League,sugar,B01630,Sugar,Charles,0,Las Vegas,,B1
+1958TSN,1957,Arizona-Mexico League,sugar,P10633,Sugar,,0,Las Vegas,,P1p
+1958TSN,1957,Arizona-Mexico League,summers,B01523,Summers,Vernon,0,Douglas,,B6
+1958TSN,1957,Arizona-Mexico League,summers,P10569,Summers,,0,Douglas,,P6p
+1958TSN,1957,Arizona-Mexico League,sundin,B01216,Sundin,Gordon,0,Phoenix,,B13
+1958TSN,1957,Arizona-Mexico League,sundin,F21264,Sundin,,0,Phoenix,,p13
+1958TSN,1957,Arizona-Mexico League,sundin,P10772,Sundin,,0,Phoenix,,P13p
+1958TSN,1957,Arizona-Mexico League,sutton,B01227,Sutton,Robert,0,Las Vegas,,B10
+1958TSN,1957,Arizona-Mexico League,sutton,F21646,Sutton,,0,Las Vegas,,p10
+1958TSN,1957,Arizona-Mexico League,sutton,P10640,Sutton,,0,Las Vegas,,P10p
+1958TSN,1957,Arizona-Mexico League,tejada,B01538,Tejada,Arcadio,0,Douglas,,B2
+1958TSN,1957,Arizona-Mexico League,tejada,P10575,Tejada,,0,Douglas,,P2p
+1958TSN,1957,Arizona-Mexico League,terrazas,B01779,Terrazas,Adolpho,0,Mexicali,,B1
+1958TSN,1957,Arizona-Mexico League,terrazas,P10738,Terrazas,,0,Mexicali,,P1p
+1958TSN,1957,Arizona-Mexico League,tirado,B01234,Tirado,Alfonso,0,Mexicali,,B21
+1958TSN,1957,Arizona-Mexico League,tirado,F20222,Tirado,,0,Mexicali,,2b21
+1958TSN,1957,Arizona-Mexico League,tombs,B01649,Tombs,Phillip,0,Las Vegas,,B2
+1958TSN,1957,Arizona-Mexico League,torres-dou,B01242,Torres,Luis,0,Douglas,,B131
+1958TSN,1957,Arizona-Mexico League,torres-mex,B01250,Torres,Rodrigo,0,Mexicali,,B25
+1958TSN,1957,Arizona-Mexico League,torres-dou,F20190,Torres,,0,Douglas,,2b35
+1958TSN,1957,Arizona-Mexico League,torres-dou,F20375,Torres,,0,Douglas,,3b73
+1958TSN,1957,Arizona-Mexico League,torres-dou,F20552,Torres,,0,Douglas,,ss24
+1958TSN,1957,Arizona-Mexico League,troncole,B01787,Troncole,Anthony,0,Mexicali,,B7
+1958TSN,1957,Arizona-Mexico League,troncole,P10746,Troncole,,0,Mexicali,,P8p
+1958TSN,1957,Arizona-Mexico League,tyler,B01269,Tyler,Walter,0,Tucson,,B124
+1958TSN,1957,Arizona-Mexico League,tyler,F20115,Tyler,,0,Tucson,,1b67
+1958TSN,1957,Arizona-Mexico League,tyler,F20935,Tyler,,0,Tucson,,of57
+1958TSN,1957,Arizona-Mexico League,tyler,P10894,Tyler,,0,Tucson,,P2p
+1958TSN,1957,Arizona-Mexico League,vanburkleo,B01275,Van Burkleo,Franklin,0,Douglas,,B125
+1958TSN,1957,Arizona-Mexico League,vanburkleo,F20102,Van Burkleo,,0,Douglas,,1b125
+1958TSN,1957,Arizona-Mexico League,vangeter,B01994,Van Geter,Eldridge,0,Tucson,,B3
+1958TSN,1957,Arizona-Mexico League,vangeter,P10901,Van Geter,,0,Tucson,,P2p
+1958TSN,1957,Arizona-Mexico League,vazquez,B01288,Vazquez,Regino,0,Mexicali,,B49
+1958TSN,1957,Arizona-Mexico League,vazquez,F21553,Vazquez,,0,Mexicali,,p36
+1958TSN,1957,Arizona-Mexico League,vazquez,P10464,Vazquez,,0,Mexicali,,P36p
+1958TSN,1957,Arizona-Mexico League,venzor,B01291,Venzor,Rudolph,0,Las Vegas,,B17
+1958TSN,1957,Arizona-Mexico League,venzor,F21278,Venzor,,0,Las Vegas,,p17
+1958TSN,1957,Arizona-Mexico League,venzor,P10493,Venzor,,0,Las Vegas,,P17p
+1958TSN,1957,Arizona-Mexico League,verdugo,B01466,Verdugo,Francisco,0,Cananea,,B4
+1958TSN,1957,Arizona-Mexico League,verdugo,P10527,Verdugo,,0,Cananea,,P4p
+1958TSN,1957,Arizona-Mexico League,voneps,B01798,Von Eps,James,0,Mexicali,,B5
+1958TSN,1957,Arizona-Mexico League,walker,B01300,Walker,Gary N.,0,Phoenix,,B111
+1958TSN,1957,Arizona-Mexico League,walker,F20474,Walker,,0,Phoenix,,ss111
+1958TSN,1957,Arizona-Mexico League,walls,B02008,Walls,William,0,Tucson,,B5
+1958TSN,1957,Arizona-Mexico League,ward,B02019,Ward,Neal,0,Tucson,,B4
+1958TSN,1957,Arizona-Mexico League,ward,P10917,Ward,,0,Tucson,,P4p
+1958TSN,1957,Arizona-Mexico League,welsh,B01313,Welsh,Daniel,0,Phoenix,,B28
+1958TSN,1957,Arizona-Mexico League,welsh,F21381,Welsh,,0,Phoenix,,p28
+1958TSN,1957,Arizona-Mexico League,welsh,P10478,Welsh,,0,Phoenix,,P28p
+1958TSN,1957,Arizona-Mexico League,wilkins,B01321,Wilkins,Ronnie,0,Douglas,,B135
+1958TSN,1957,Arizona-Mexico League,wilkins,F20829,Wilkins,,0,Douglas,,of135
+1958TSN,1957,Arizona-Mexico League,wilson.a,B01337,Wilson,Arthur L.,0,Mexicali,,B103
+1958TSN,1957,Arizona-Mexico League,wilson.j,B01345,Wilson,Joseph,0,Mexicali,,B56
+1958TSN,1957,Arizona-Mexico League,wilson.w,B01804,Wilson,Ward,0,Mexicali,,B4
+1958TSN,1957,Arizona-Mexico League,wilson.a,F20342,Wilson,A.,0,Mexicali,,3b103
+1958TSN,1957,Arizona-Mexico League,wilson.j,F20919,Wilson,J.,0,Mexicali,,of56
+1958TSN,1957,Arizona-Mexico League,wilson.a,M90083,Wilson,Arthur,,Mexicali,,
+1958TSN,1957,Arizona-Mexico League,wilson.w,P10751,Wilson,W.,0,Mexicali,,P4p
+emilbb,1957,Arizona-Mexico League,wilson.a,M91284,Wilson,Artie,,Mexicali,,
+1958TSN,1957,Arizona-Mexico League,wolf,B02024,Wolf,Claude,0,Tucson,,B7
+1958TSN,1957,Arizona-Mexico League,woods,B01359,Woods,Samuel,1,Tucson,,B7
+1958TSN,1957,Arizona-Mexico League,woods,B01359,Woods,Samuel,2,Las Vegas,,B6
+1958TSN,1957,Arizona-Mexico League,woods,B01359,Woods,Samuel,T,,,B13
+1958TSN,1957,Arizona-Mexico League,woods,F21475,Woods,,1,Tucson,,p
+1958TSN,1957,Arizona-Mexico League,woods,F21475,Woods,,2,Las Vegas,,p
+1958TSN,1957,Arizona-Mexico League,woods,F21475,Woods,,T,,,p13
+1958TSN,1957,Arizona-Mexico League,woods,P10486,Woods,,1,Tucson,,p
+1958TSN,1957,Arizona-Mexico League,woods,P10486,Woods,,2,Las Vegas,,p
+1958TSN,1957,Arizona-Mexico League,woods,P10486,Woods,,T,,,P13p
+1958TSN,1957,Arizona-Mexico League,zanze,B01368,Zanze,John M.,0,Las Vegas,,B111
+1958TSN,1957,Arizona-Mexico League,zanze,F21092,Zanze,,0,Las Vegas,,c104
+1958TSN,1957,Arizona-Mexico League,zari,B01376,Zari,Ray R.,0,Las Vegas,,B26
+1958TSN,1957,Arizona-Mexico League,zari,F21045,Zari,,0,Las Vegas,,c26

@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1995,Texas League,M90824,Ireland,Tim,,El Paso,,,
-emilbb,1995,Texas League,M90819,Johnson,Ron,,Wichita,,,
-emilbb,1995,Texas League,M90808,Jones,Bobby,,Tulsa,,,
-emilbb,1995,Texas League,M90835,Mendoza,Mario,,Midland,,,
-emilbb,1995,Texas League,M90789,Ramsey,Mike,,Arkansas,,,
-emilbb,1995,Texas League,M90843,Shelby,John,,San Antonio,,,
-emilbb,1995,Texas League,M90790,Tolman,Tim,,Jackson,,,
-emilbb,1995,Texas League,M90777,Wotus,Ron,,Shreveport,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1995,Texas League,,M90824,Ireland,Tim,,El Paso,,
+emilbb,1995,Texas League,,M90819,Johnson,Ron,,Wichita,,
+emilbb,1995,Texas League,,M90808,Jones,Bobby,,Tulsa,,
+emilbb,1995,Texas League,,M90835,Mendoza,Mario,,Midland,,
+emilbb,1995,Texas League,,M90789,Ramsey,Mike,,Arkansas,,
+emilbb,1995,Texas League,,M90843,Shelby,John,,San Antonio,,
+emilbb,1995,Texas League,,M90790,Tolman,Tim,,Jackson,,
+emilbb,1995,Texas League,,M90777,Wotus,Ron,,Shreveport,,

@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1912,Southeastern League,M93573,Fisher,Tom,,Anniston,,,
-emilbb,1912,Southeastern League,M93600,Hickman,Gordon,,Bessemer,,,
-emilbb,1912,Southeastern League,M93585,Matthews,"Harry ""Matty""",,Rome,,,
-emilbb,1912,Southeastern League,M93599,Riggs,Arthur,,Huntsville/Talladega,,,
-emilbb,1912,Southeastern League,M93557,Siegle,John,,Gadsden,,,
-emilbb,1912,Southeastern League,M93561,Stickney,Lindsay,,Selma,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1912,Southeastern League,,M93573,Fisher,Tom,,Anniston,,
+emilbb,1912,Southeastern League,,M93600,Hickman,Gordon,,Bessemer,,
+emilbb,1912,Southeastern League,,M93585,Matthews,"Harry ""Matty""",,Rome,,
+emilbb,1912,Southeastern League,,M93599,Riggs,Arthur,,Huntsville/Talladega,,
+emilbb,1912,Southeastern League,,M93557,Siegle,John,,Gadsden,,
+emilbb,1912,Southeastern League,,M93561,Stickney,Lindsay,,Selma,,

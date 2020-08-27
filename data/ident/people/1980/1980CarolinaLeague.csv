@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1980,Carolina League,M91033,Aker,Jack,,Lynchburg,,,
-emilbb,1980,Carolina League,M91011,Dancy,Bill,,Peninsula,,,
-emilbb,1980,Carolina League,M91006,Fichman,Mal,,Rocky Mount,,,
-emilbb,1980,Carolina League,M90972,Gallagher,Al,,Durham,,,
-emilbb,1980,Carolina League,M90995,Holmberg,Dennis,,Kinston,,,
-emilbb,1980,Carolina League,M90980,Hunter,Buddy,,Winston-Salem,,,
-emilbb,1980,Carolina League,M91022,Lipon,John,,Salem,,,
-emilbb,1980,Carolina League,M91040,Toomey,Mike,,Alexandria,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1980,Carolina League,,M91033,Aker,Jack,,Lynchburg,,
+emilbb,1980,Carolina League,,M91011,Dancy,Bill,,Peninsula,,
+emilbb,1980,Carolina League,,M91006,Fichman,Mal,,Rocky Mount,,
+emilbb,1980,Carolina League,,M90972,Gallagher,Al,,Durham,,
+emilbb,1980,Carolina League,,M90995,Holmberg,Dennis,,Kinston,,
+emilbb,1980,Carolina League,,M90980,Hunter,Buddy,,Winston-Salem,,
+emilbb,1980,Carolina League,,M91022,Lipon,John,,Salem,,
+emilbb,1980,Carolina League,,M91040,Toomey,Mike,,Alexandria,,

@@ -1,15 +1,15 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1986,Midwest League,M91221,Cuellar,Bobby,,Wausau,,,cuellar
-emilbb,1986,Midwest League,M91284,Dusan,Gene,,Cedar Rapids,,,dusan
-emilbb,1986,Midwest League,M91276,Hodge,Gomer,,Beloit,,,hodge
-emilbb,1986,Midwest League,M91292,Kirsch,Paul,,Cedar Rapids,,,kirsch
-emilbb,1986,Midwest League,M91347,Lachemann,Bill,,Quad Cities,,,lachemann
-emilbb,1986,Midwest League,M91259,Leppert,Don,,Kenosha,,,leppert
-emilbb,1986,Midwest League,M91326,MacKanin,Pete,,Peoria,,,mackanin
-emilbb,1986,Midwest League,M91339,Miner,Junior,,Burlington,,,miner
-emilbb,1986,Midwest League,M91305,Mull,Jack,,Clinton,,,mull
-emilbb,1986,Midwest League,M91213,Nettles,Jim,,Madison,,,nettles
-emilbb,1986,Midwest League,M91245,Petrocelli,Rico,,Appleton,,,petrocelli
-emilbb,1986,Midwest League,M91318,Pitts,Gaylen,,Springfield,,,pitts
-emilbb,1986,Midwest League,M91237,Sims,Duke,,Appleton,,,sims
-emilbb,1986,Midwest League,M91268,Swisher,Steve,,Waterloo,,,swisher
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1986,Midwest League,cuellar,M91221,Cuellar,Bobby,,Wausau,,
+emilbb,1986,Midwest League,dusan,M91284,Dusan,Gene,,Cedar Rapids,,
+emilbb,1986,Midwest League,hodge,M91276,Hodge,Gomer,,Beloit,,
+emilbb,1986,Midwest League,kirsch,M91292,Kirsch,Paul,,Cedar Rapids,,
+emilbb,1986,Midwest League,lachemann,M91347,Lachemann,Bill,,Quad Cities,,
+emilbb,1986,Midwest League,leppert,M91259,Leppert,Don,,Kenosha,,
+emilbb,1986,Midwest League,mackanin,M91326,MacKanin,Pete,,Peoria,,
+emilbb,1986,Midwest League,miner,M91339,Miner,Junior,,Burlington,,
+emilbb,1986,Midwest League,mull,M91305,Mull,Jack,,Clinton,,
+emilbb,1986,Midwest League,nettles,M91213,Nettles,Jim,,Madison,,
+emilbb,1986,Midwest League,petrocelli,M91245,Petrocelli,Rico,,Appleton,,
+emilbb,1986,Midwest League,pitts,M91318,Pitts,Gaylen,,Springfield,,
+emilbb,1986,Midwest League,sims,M91237,Sims,Duke,,Appleton,,
+emilbb,1986,Midwest League,swisher,M91268,Swisher,Steve,,Waterloo,,

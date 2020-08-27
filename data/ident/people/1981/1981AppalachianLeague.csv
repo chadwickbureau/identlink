@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1981,Appalachian League,M91347,Easom,Mike,,Paintsville,,,
-emilbb,1981,Appalachian League,M91394,Jackson,Al,,Kingsport,,,
-emilbb,1981,Appalachian League,M91371,Lewis,Johnny,,Johnson City,,,
-emilbb,1981,Appalachian League,M91383,Lewis,Joe,,Bristol,,,
-emilbb,1981,Appalachian League,M91360,Nichols,Lance,,Bluefield,,,
-emilbb,1981,Appalachian League,M91352,Waters,Fred,,Elizabethton,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1981,Appalachian League,,M91347,Easom,Mike,,Paintsville,,
+emilbb,1981,Appalachian League,,M91394,Jackson,Al,,Kingsport,,
+emilbb,1981,Appalachian League,,M91371,Lewis,Johnny,,Johnson City,,
+emilbb,1981,Appalachian League,,M91383,Lewis,Joe,,Bristol,,
+emilbb,1981,Appalachian League,,M91360,Nichols,Lance,,Bluefield,,
+emilbb,1981,Appalachian League,,M91352,Waters,Fred,,Elizabethton,,

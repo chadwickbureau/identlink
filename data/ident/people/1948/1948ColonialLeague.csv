@@ -1,8 +1,8 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1948,Colonial League,M90946,Barillari,Al,,Port Chester,,,
-emilbb,1948,Colonial League,M91006,Bonura,Zeke,,Stamford,,,
-emilbb,1948,Colonial League,M90995,Hall,Buddy,,Bridgeport,,,
-emilbb,1948,Colonial League,M90967,Kash (Kaiserski),Mike,,Waterbury,,,
-emilbb,1948,Colonial League,M90972,Kobesky,Edward,,New Brunswick/Kingston,,,
-emilbb,1948,Colonial League,M90951,Mizerak,Steve,,Poughkeepsie,,,
-emilbb,1948,Colonial League,M90980,Snyder,Glenn,,Bridgeport,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1948,Colonial League,,M90946,Barillari,Al,,Port Chester,,
+emilbb,1948,Colonial League,,M91006,Bonura,Zeke,,Stamford,,
+emilbb,1948,Colonial League,,M90995,Hall,Buddy,,Bridgeport,,
+emilbb,1948,Colonial League,,M90967,Kash (Kaiserski),Mike,,Waterbury,,
+emilbb,1948,Colonial League,,M90972,Kobesky,Edward,,New Brunswick/Kingston,,
+emilbb,1948,Colonial League,,M90951,Mizerak,Steve,,Poughkeepsie,,
+emilbb,1948,Colonial League,,M90980,Snyder,Glenn,,Bridgeport,,

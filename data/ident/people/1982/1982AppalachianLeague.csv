@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1982,Appalachian League,M91495,Albert,Rick,,Pulaski,,,
-emilbb,1982,Appalachian League,M91535,Day,Boots,,Bristol,,,
-emilbb,1982,Appalachian League,M91519,Hacker,Rich,,Johnson City,,,
-emilbb,1982,Appalachian League,M91472,Hart,John,,Bluefield,,,
-emilbb,1982,Appalachian League,M91508,Nordbrook,Tim,,Pikeville,,,
-emilbb,1982,Appalachian League,M91480,Notaro,Mike,,Paintsville,,,
-emilbb,1982,Appalachian League,M91543,Olsen,Ed,,Kingsport,,,
-emilbb,1982,Appalachian League,M91524,Waters,Fred,,Elizabethton,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1982,Appalachian League,,M91495,Albert,Rick,,Pulaski,,
+emilbb,1982,Appalachian League,,M91535,Day,Boots,,Bristol,,
+emilbb,1982,Appalachian League,,M91519,Hacker,Rich,,Johnson City,,
+emilbb,1982,Appalachian League,,M91472,Hart,John,,Bluefield,,
+emilbb,1982,Appalachian League,,M91508,Nordbrook,Tim,,Pikeville,,
+emilbb,1982,Appalachian League,,M91480,Notaro,Mike,,Paintsville,,
+emilbb,1982,Appalachian League,,M91543,Olsen,Ed,,Kingsport,,
+emilbb,1982,Appalachian League,,M91524,Waters,Fred,,Elizabethton,,

@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1987,Appalachian League,M91581,Chandler,Tom,,Burlington,,,chandler
-emilbb,1987,Appalachian League,M91641,Floyd,Bobby,,Kingsport,,,floyd
-emilbb,1987,Appalachian League,M91597,Little,Grady,,Pulaski,,,little
-emilbb,1987,Appalachian League,M91655,Magnante,Rick,,Bristol,,,magnante
-emilbb,1987,Appalachian League,M91610,Mills,Brad,,Wytheville,,,mills
-emilbb,1987,Appalachian League,M91607,Pamlayne,Jim,,Bluefield,,,pamlayne
-emilbb,1987,Appalachian League,M91629,Radison,Dan,,Johnson City,,,radison
-emilbb,1987,Appalachian League,M91632,Smith,Ray,,Elizabethton,,,smith.r-eli
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1987,Appalachian League,chandler,M91581,Chandler,Tom,,Burlington,,
+emilbb,1987,Appalachian League,floyd,M91641,Floyd,Bobby,,Kingsport,,
+emilbb,1987,Appalachian League,little,M91597,Little,Grady,,Pulaski,,
+emilbb,1987,Appalachian League,magnante,M91655,Magnante,Rick,,Bristol,,
+emilbb,1987,Appalachian League,mills,M91610,Mills,Brad,,Wytheville,,
+emilbb,1987,Appalachian League,pamlayne,M91607,Pamlayne,Jim,,Bluefield,,
+emilbb,1987,Appalachian League,radison,M91629,Radison,Dan,,Johnson City,,
+emilbb,1987,Appalachian League,smith.r-eli,M91632,Smith,Ray,,Elizabethton,,

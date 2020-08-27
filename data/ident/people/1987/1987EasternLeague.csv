@@ -1,12 +1,12 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1987,Eastern League,M90603,Burgess,Tom,,Glens Falls,,,burgess
-emilbb,1987,Eastern League,M90540,Culver,George,,Reading,,,culver
-emilbb,1987,Eastern League,M90522,Essian,Jim,,Pittsfield,,,essian
-emilbb,1987,Eastern League,M90627,Felix,Paul,,Glens Falls,,,
-emilbb,1987,Eastern League,M90616,Gamboa,Tom,,Glens Falls,,,gamboa
-emilbb,1987,Eastern League,M90598,Gomez,Orlando,,Williamsport,,,gomez
-emilbb,1987,Eastern League,M90579,Holt,Dave,,New Britain,,,holt
-emilbb,1987,Eastern League,M90565,Jones,Tommy,,Albany-Colonie,,,
-emilbb,1987,Eastern League,M90554,Runnels,Tom,,Vermont,,,runnels
-emilbb,1987,Eastern League,M90587,Swisher,Steve,,Williamsport,,,swisher
-emilbb,1987,Eastern League,M90533,Trembley,Dave,,Harrisburg,,,trembley
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1987,Eastern League,burgess,M90603,Burgess,Tom,,Glens Falls,,
+emilbb,1987,Eastern League,culver,M90540,Culver,George,,Reading,,
+emilbb,1987,Eastern League,essian,M90522,Essian,Jim,,Pittsfield,,
+emilbb,1987,Eastern League,,M90627,Felix,Paul,,Glens Falls,,
+emilbb,1987,Eastern League,gamboa,M90616,Gamboa,Tom,,Glens Falls,,
+emilbb,1987,Eastern League,gomez,M90598,Gomez,Orlando,,Williamsport,,
+emilbb,1987,Eastern League,holt,M90579,Holt,Dave,,New Britain,,
+emilbb,1987,Eastern League,,M90565,Jones,Tommy,,Albany-Colonie,,
+emilbb,1987,Eastern League,runnels,M90554,Runnels,Tom,,Vermont,,
+emilbb,1987,Eastern League,swisher,M90587,Swisher,Steve,,Williamsport,,
+emilbb,1987,Eastern League,trembley,M90533,Trembley,Dave,,Harrisburg,,

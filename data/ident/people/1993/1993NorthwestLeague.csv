@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1993,Northwest League,M91472,Bedell,Howie,,Bend,,,
-emilbb,1993,Northwest League,M91423,Flannery,Tim,,Spokane,,,
-emilbb,1993,Northwest League,M91409,Goff,Mike,,Bellingham,,,
-emilbb,1993,Northwest League,M91446,Kotchman,Tom,,Boise,,,
-emilbb,1993,Northwest League,M91451,Mizerock,John,,Eugene,,,
-emilbb,1993,Northwest League,M91467,Scott,Dick,,Southern Oregon,,,
-emilbb,1993,Northwest League,M91414,Sherry,Norm,,Everett,,,
-emilbb,1993,Northwest League,M91438,Shoemaker,John,,Yakima,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1993,Northwest League,,M91472,Bedell,Howie,,Bend,,
+emilbb,1993,Northwest League,,M91423,Flannery,Tim,,Spokane,,
+emilbb,1993,Northwest League,,M91409,Goff,Mike,,Bellingham,,
+emilbb,1993,Northwest League,,M91446,Kotchman,Tom,,Boise,,
+emilbb,1993,Northwest League,,M91451,Mizerock,John,,Eugene,,
+emilbb,1993,Northwest League,,M91467,Scott,Dick,,Southern Oregon,,
+emilbb,1993,Northwest League,,M91414,Sherry,Norm,,Everett,,
+emilbb,1993,Northwest League,,M91438,Shoemaker,John,,Yakima,,

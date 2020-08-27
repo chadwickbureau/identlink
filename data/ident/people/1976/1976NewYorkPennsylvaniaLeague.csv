@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1976,New York-Pennsylvania League,M91199,Berardino,Dick,,Elmira,,,
-emilbb,1976,New York-Pennsylvania League,M91221,Cassini,Jack,,Batavia,,,
-emilbb,1976,New York-Pennsylvania League,M91237,Compton,Michael,,Auburn,,,
-emilbb,1976,New York-Pennsylvania League,M91213,Ezell,Glenn,,Niagara Falls,,,
-emilbb,1976,New York-Pennsylvania League,M91245,Napoleon,Ed,,Oneonta,,,
-emilbb,1976,New York-Pennsylvania League,M91200,Roig,Tony,,Newark,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1976,New York-Pennsylvania League,,M91199,Berardino,Dick,,Elmira,,
+emilbb,1976,New York-Pennsylvania League,,M91221,Cassini,Jack,,Batavia,,
+emilbb,1976,New York-Pennsylvania League,,M91237,Compton,Michael,,Auburn,,
+emilbb,1976,New York-Pennsylvania League,,M91213,Ezell,Glenn,,Niagara Falls,,
+emilbb,1976,New York-Pennsylvania League,,M91245,Napoleon,Ed,,Oneonta,,
+emilbb,1976,New York-Pennsylvania League,,M91200,Roig,Tony,,Newark,,

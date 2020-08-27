@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1986,Pioneer League,M91875,Cox,Jeff,,Billings,,,cox
-emilbb,1986,Pioneer League,M91834,Freitas,John,,Salt Lake City,,,freitas
-emilbb,1986,Pioneer League,M91869,Gilbreath,Rod,,Idaho Falls,,,gilbreath
-emilbb,1986,Pioneer League,M91888,Holmberg,Dennis,,Medicine Hat,,,holmberg
-emilbb,1986,Pioneer League,M91850,Kennedy,Kevin,,Great Falls,,,kennedy
-emilbb,1986,Pioneer League,M91842,Rodriguez,Reuben,,Salt Lake City,,,rodriguez-slc
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1986,Pioneer League,cox,M91875,Cox,Jeff,,Billings,,
+emilbb,1986,Pioneer League,freitas,M91834,Freitas,John,,Salt Lake City,,
+emilbb,1986,Pioneer League,gilbreath,M91869,Gilbreath,Rod,,Idaho Falls,,
+emilbb,1986,Pioneer League,holmberg,M91888,Holmberg,Dennis,,Medicine Hat,,
+emilbb,1986,Pioneer League,kennedy,M91850,Kennedy,Kevin,,Great Falls,,
+emilbb,1986,Pioneer League,rodriguez-slc,M91842,Rodriguez,Reuben,,Salt Lake City,,

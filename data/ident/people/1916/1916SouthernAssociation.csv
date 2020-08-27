@@ -1,520 +1,520 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-1917Reach,1916,Southern Association,B01275,Allen,,0,Chattanooga,,B41,allen
-1917Reach,1916,Southern Association,F22134,Allen,,0,Chattanooga,,p40,allen
-1917Reach,1916,Southern Association,P10277,Allen,,0,Chattanooga,,P38,allen
-1917Reach,1916,Southern Association,B00196,Allison,M.,0,New Orleans,,B109,allison-no
-1917Reach,1916,Southern Association,B01477,Allison,M. C. ,0,Mobile,,B26,allison-mob
-1917Reach,1916,Southern Association,F21013,Allison,M.,0,New Orleans,,of109,allison-no
-1917Reach,1916,Southern Association,F21528,Allison,M. C.,0,Mobile,,of,allison-mob
-1917Reach,1916,Southern Association,F21705,Allison,M. C.,0,Mobile,,p20,allison-mob
-1917Reach,1916,Southern Association,P10429,Allison,M. C.,0,Mobile,,P22,allison-mob
-1917Reach,1916,Southern Association,B00957,Andreen,,0,Memphis,,B11,andreen
-1917Reach,1916,Southern Association,F22501,Andreen,,0,Memphis,,c11,andreen
-1917Reach,1916,Southern Association,B01649,Bacon,,0,Chattanooga,,,bacon
-1917Reach,1916,Southern Association,F22246,Bacon,,0,Chattanooga,,p,bacon
-1917Reach,1916,Southern Association,P10575,Bacon,,0,Chattanooga,,,bacon
-1917Reach,1916,Southern Association,B00695,Baker,,0,Nashville,,B138,baker
-1917Reach,1916,Southern Association,F21278,Baker,,0,Nashville,,of138,baker
-1917Reach,1916,Southern Association,B00623,Barbare,,0,Little Rock,,B122,barbare
-1917Reach,1916,Southern Association,F20552,Barbare,,0,Little Rock,,3b15,barbare
-1917Reach,1916,Southern Association,F20784,Barbare,,0,Little Rock,,ss107,barbare
-1917Reach,1916,Southern Association,B00705,Barger,,0,Memphis,,B58,barger
-1917Reach,1916,Southern Association,F21324,Barger,,0,Memphis,,of11,barger
-1917Reach,1916,Southern Association,F21747,Barger,,0,Memphis,,p37,barger
-1917Reach,1916,Southern Association,P10113,Barger,,0,Memphis,,P36,barger
-1917Reach,1916,Southern Association,B01779,Baumgardner,,0,Little Rock,,,baumgardner
-1917Reach,1916,Southern Association,F22341,Baumgardner,,0,Little Rock,,p,baumgardner
-1917Reach,1916,Southern Association,P10542,Baumgardner,,0,Little Rock,,,baumgardner
-1917Reach,1916,Southern Association,B00865,Bluhm,,0,New Orleans,,B137,bluhm
-1917Reach,1916,Southern Association,F20051,Bluhm,,0,New Orleans,,1b137,bluhm
-1917Reach,1916,Southern Association,B01181,Brennan,,0,Atlanta,,B31,brennan
-1917Reach,1916,Southern Association,F21760,Brennan,,0,Atlanta,,p31,brennan
-1917Reach,1916,Southern Association,P10056,Brennan,,0,Atlanta,,P31,brennan
-1917Reach,1916,Southern Association,B01523,Brenton,,0,New Orleans,,B36,brenton
-1917Reach,1916,Southern Association,F21948,Brenton,,0,New Orleans,,p36,brenton
-1917Reach,1916,Southern Association,P10121,Brenton,,0,New Orleans,,P36,brenton
-1917Reach,1916,Southern Association,B00068,Bridwell,,0,Atlanta,,B12,bridwell
-1917Reach,1916,Southern Association,F20878,Bridwell,,0,Atlanta,,ss12,bridwell
-1917Reach,1916,Southern Association,B00854,Bromwich,,0,Mobile,,B17,bromwich
-1917Reach,1916,Southern Association,F20661,Bromwich,,0,Mobile,,3b17,bromwich
-1917Reach,1916,Southern Association,B00149,Brooks,,0,Little Rock,,B12,brooks
-1917Reach,1916,Southern Association,F21646,Brooks,,0,Little Rock,,of,brooks
-1917Reach,1916,Southern Association,F22332,Brooks,,0,Little Rock,,p,brooks
-1917Reach,1916,Southern Association,P10534,Brooks,,0,Little Rock,,,brooks
-1917Reach,1916,Southern Association,B01696,Brown,,0,Memphis,,,brown
-1917Reach,1916,Southern Association,F22280,Brown,,0,Memphis,,p,brown
-1917Reach,1916,Southern Association,P10633,Brown,,0,Memphis,,,brown
-1917Reach,1916,Southern Association,B00747,Burke,M.,0,Mobile,,B128,burke.m
-1917Reach,1916,Southern Association,B01227,Burke,J.,0,Mobile,,B14,burke.j
-1917Reach,1916,Southern Association,F20648,Burke,J.,0,Mobile,,3b14,burke.j
-1917Reach,1916,Southern Association,F21125,Burke,M.,0,Mobile,,of128,burke.m
-1917Reach,1916,Southern Association,B01733,Calhoun,,0,Mobile,,,calhoun
-1917Reach,1916,Southern Association,F21502,Calhoun,,0,Mobile,,of,calhoun
-1917Reach,1916,Southern Association,B01041,Carroll,,0,Birmingham,,B19,carroll
-1917Reach,1916,Southern Association,F21370,Carroll,,0,Birmingham,,of19,carroll
-1917Reach,1916,Southern Association,B00961,Caton,,0,Birmingham,,B135,caton
-1917Reach,1916,Southern Association,F20829,Caton,,0,Birmingham,,ss91,caton
-1917Reach,1916,Southern Association,F21403,Caton,,0,Birmingham,,of44,caton
-1917Reach,1916,Southern Association,B00531,Cavet,,0,Mobile,,B66,cavet
-1917Reach,1916,Southern Association,F21174,Cavet,,0,Mobile,,of18,cavet
-1917Reach,1916,Southern Association,F22085,Cavet,,0,Mobile,,p48,cavet
-1917Reach,1916,Southern Association,P10357,Cavet,,0,Mobile,,P43,cavet
-1917Reach,1916,Southern Association,B00718,Chadbourne,,0,Memphis,,B132,chadbourne
-1917Reach,1916,Southern Association,F21037,Chadbourne,,0,Memphis,,of132,chadbourne
-1917Reach,1916,Southern Association,B00403,Chapman,,0,Little Rock,,B43,chapman
-1917Reach,1916,Southern Association,F21638,Chapman,,0,Little Rock,,of,chapman
-1917Reach,1916,Southern Association,F22386,Chapman,,0,Little Rock,,c36,chapman
-1917Reach,1916,Southern Association,B01197,Clancy,,0,Atlanta,,B31,clancy
-1917Reach,1916,Southern Association,F20303,Clancy,,0,Atlanta,,2b18,clancy
-1917Reach,1916,Southern Association,F20713,Clancy,,0,Atlanta,,3b,clancy
-1917Reach,1916,Southern Association,F20935,Clancy,,0,Atlanta,,ss,clancy
-1917Reach,1916,Southern Association,B00158,Clark,D.,0,Birmingham,,B129,clark-bir
-1917Reach,1916,Southern Association,B01368,Clark,J. J.,0,Mobile,,B20,clark-mob
-1917Reach,1916,Southern Association,F20342,Clark,D.,0,Birmingham,,2b129,clark-bir
-1917Reach,1916,Southern Association,F21531,Clark,J. J.,0,Mobile,,of,clark-mob
-1917Reach,1916,Southern Association,F22487,Clark,J. J.,0,Mobile,,c18,clark-mob
-1917Reach,1916,Southern Association,B01156,Cook,,0,Memphis,,B51,cook
-1917Reach,1916,Southern Association,F21163,Cook,,0,Memphis,,of50,cook
-1917Reach,1916,Southern Association,B00416,Coombs,,0,Birmingham,,B96,coombs
-1917Reach,1916,Southern Association,F21117,Coombs,,0,Birmingham,,of96,coombs
-1917Reach,1916,Southern Association,B01291,Couchman,,0,Little Rock,,B33,couchman
-1917Reach,1916,Southern Association,F21726,Couchman,,0,Little Rock,,p33,couchman
-1917Reach,1916,Southern Association,P10399,Couchman,,0,Little Rock,,P33,couchman
-1917Reach,1916,Southern Association,B00469,Covington,C.,0,Little Rock,,B141,covington-lr
-1917Reach,1916,Southern Association,B01376,Covington,G.,0,Chattanooga,,B18,covington-cha
-1917Reach,1916,Southern Association,F20046,Covington,C.,0,Little Rock,,1b141,covington-lr
-1917Reach,1916,Southern Association,F21794,Covington,G.,0,Chattanooga,,p18,covington-cha
-1917Reach,1916,Southern Association,P10385,Covington,G.,0,Chattanooga,,P16,covington-cha
-1917Reach,1916,Southern Association,B00397,Cruthers,,0,Memphis,,B63,cruthers
-1917Reach,1916,Southern Association,F20287,Cruthers,,0,Memphis,,2b63,cruthers
-1917Reach,1916,Southern Association,B00207,Davis,,0,Atlanta,,B24,davis
-1917Reach,1916,Southern Association,F21491,Davis,,0,Atlanta,,of,davis
-1917Reach,1916,Southern Association,F22142,Davis,,0,Atlanta,,p15,davis
-1917Reach,1916,Southern Association,P10455,Davis,,0,Atlanta,,P14,davis
-1917Reach,1916,Southern Association,B01509,Day,,0,Atlanta,,B37,day
-1917Reach,1916,Southern Association,F22099,Day,,0,Atlanta,,p37,day
-1917Reach,1916,Southern Association,P10184,Day,,0,Atlanta,,P37,day
-1917Reach,1916,Southern Association,B00362,DeBerry,,0,New Orleans,,B93,deberry
-1917Reach,1916,Southern Association,F20685,DeBerry,,0,New Orleans,,3b16,deberry
-1917Reach,1916,Southern Association,F21362,DeBerry,,0,New Orleans,,of28,deberry
-1917Reach,1916,Southern Association,F22433,DeBerry,,0,New Orleans,,c49,deberry
-1917Reach,1916,Southern Association,B01135,Dempsey,,0,Mobile,,B28,dempsey
-1917Reach,1916,Southern Association,F20131,Dempsey,,0,Mobile,,1b,dempsey
-1917Reach,1916,Southern Association,F21515,Dempsey,,0,Mobile,,of,dempsey
-1917Reach,1916,Southern Association,F22530,Dempsey,,0,Mobile,,c23,dempsey
-1917Reach,1916,Southern Association,B00544,Derrick,,0,Birmingham,,B133,derrick
-1917Reach,1916,Southern Association,F20067,Derrick,,0,Birmingham,,1b133,derrick
-1917Reach,1916,Southern Association,B01359,Dillinger,,0,New Orleans,,B19,dillinger
-1917Reach,1916,Southern Association,F21920,Dillinger,,0,New Orleans,,p19,dillinger
-1917Reach,1916,Southern Association,P10266,Dillinger,,0,New Orleans,,P19,dillinger
-1917Reach,1916,Southern Association,B00488,Dobard,,0,Memphis,,B98,dobard
-1917Reach,1916,Southern Association,F20496,Dobard,,0,Memphis,,2b,dobard
-1917Reach,1916,Southern Association,F20776,Dobard,,0,Memphis,,ss97,dobard
-emilbb,1916,Southern Association,M90325,Dobbs,Johnny,,New Orleans,,,
-1917Reach,1916,Southern Association,B00229,Dodge,,0,Mobile,,B39,dodge
-1917Reach,1916,Southern Association,F20594,Dodge,,0,Mobile,,3b39,dodge
-1917Reach,1916,Southern Association,B00308,Edmondson,,0,New Orleans,,B139,edmondson
-1917Reach,1916,Southern Association,F20206,Edmondson,,0,New Orleans,,1b,edmondson
-1917Reach,1916,Southern Association,F21021,Edmondson,,0,New Orleans,,of136,edmondson
-1917Reach,1916,Southern Association,B00427,Elberfeld,,0,Chattanooga,,B89,elberfeld
-emilbb,1916,Southern Association,M90382,Elberfeld,"Norman ""Kid""",,Chattanooga,,,
-1917Reach,1916,Southern Association,B00278,Ellam,,0,Nashville,,B138,ellam
-1917Reach,1916,Southern Association,F20807,Ellam,,0,Nashville,,ss138,ellam
-emilbb,1916,Southern Association,M90317,Ellam,Roy,,Nashville,,,
-1917Reach,1916,Southern Association,B01428,Ellis,,0,Nashville,,B34,ellis
-1917Reach,1916,Southern Association,F21566,Ellis,,0,Nashville,,of,ellis
-1917Reach,1916,Southern Association,F21898,Ellis,,0,Nashville,,p32,ellis
-1917Reach,1916,Southern Association,P10100,Ellis,,0,Nashville,,P32,ellis
-1917Reach,1916,Southern Association,B00638,Eschen,,0,Birmingham,,B103,eschen
-1917Reach,1916,Southern Association,F20759,Eschen,,0,Birmingham,,3b,eschen
-1917Reach,1916,Southern Association,F21130,Eschen,,0,Birmingham,,of95,eschen
-1917Reach,1916,Southern Association,B00680,Fincher,,0,Memphis,,B11,fincher
-1917Reach,1916,Southern Association,F22103,Fincher,,0,Memphis,,p11,fincher
-1917Reach,1916,Southern Association,P10176,Fincher,,0,Memphis,,P11,fincher
-emilbb,1916,Southern Association,M90358,Frank,Charley,,Atlanta,,,
-1917Reach,1916,Southern Association,B01836,Frost,,0,Nashville,,,frost
-1917Reach,1916,Southern Association,F22209,Frost,,0,Nashville,,p,frost
-1917Reach,1916,Southern Association,P10516,Frost,,0,Nashville,,,frost
-1917Reach,1916,Southern Association,B00912,Gagnier,,0,Atlanta,,B14,gagnier
-1917Reach,1916,Southern Association,F20425,Gagnier,,0,Atlanta,,2b14,gagnier
-1917Reach,1916,Southern Association,B00948,Gibson,,0,Little Rock,,B101,gibson
-1917Reach,1916,Southern Association,F20189,Gibson,,0,Little Rock,,1b,gibson
-1917Reach,1916,Southern Association,F21343,Gibson,,0,Little Rock,,of17,gibson
-1917Reach,1916,Southern Association,F22498,Gibson,,0,Little Rock,,c82,gibson
-1917Reach,1916,Southern Association,B01170,Gondolfi,,0,Mobile,,B49,gondolfi
-1917Reach,1916,Southern Association,F20657,Gondolfi,,0,Mobile,,3b49,gondolfi
-1917Reach,1916,Southern Association,B00450,Graff,,0,Chattanooga,,B143,graff
-1917Reach,1916,Southern Association,F20560,Graff,,0,Chattanooga,,3b143,graff
-1917Reach,1916,Southern Association,B00898,Grimes,R.,0,Memphis,,B39,grimes-mem
-1917Reach,1916,Southern Association,B01108,Grimes,B. A.,0,Birmingham,,B43,grimes-bir
-1917Reach,1916,Southern Association,F20279,Grimes,R.,0,Memphis,,2b18,grimes-mem
-1917Reach,1916,Southern Association,F21084,Grimes,R.,0,Memphis,,of15,grimes-mem
-1917Reach,1916,Southern Association,F21904,Grimes,B. A.,0,Birmingham,,p43,grimes-bir
-1917Reach,1916,Southern Association,P10062,Grimes,B. A.,0,Birmingham,,P40,grimes-bir
-1917Reach,1916,Southern Association,B01546,Gutierrez,,0,Atlanta,,,gutierrez
-1917Reach,1916,Southern Association,F21488,Gutierrez,,0,Atlanta,,of,gutierrez
-1917Reach,1916,Southern Association,B00491,Hanford,,0,Mobile,,B17,hanford
-1917Reach,1916,Southern Association,F21381,Hanford,,0,Mobile,,of17,hanford
-1917Reach,1916,Southern Association,B01234,Hardgrove,,0,Little Rock,,B49,hardgrove
-1917Reach,1916,Southern Association,F21865,Hardgrove,,0,Little Rock,,p49,hardgrove
-1917Reach,1916,Southern Association,P10145,Hardgrove,,0,Little Rock,,P50,hardgrove
-1917Reach,1916,Southern Association,B00130,Harris,,0,Chattanooga,,B141,harris-cha
-1917Reach,1916,Southern Association,B00324,Harris,,0,Mobile,,B15,harris-mob
-1917Reach,1916,Southern Association,F20095,Harris,,0,Chattanooga,,1b84,harris-cha
-1917Reach,1916,Southern Association,F20893,Harris,,0,Chattanooga,,ss16,harris-cha
-1917Reach,1916,Southern Association,F20970,Harris,,0,Chattanooga,,of41,harris-cha
-1917Reach,1916,Southern Association,F22012,Harris,,0,Mobile,,p14,harris-mob
-1917Reach,1916,Southern Association,P10464,Harris,,0,Mobile,,P11,harris-mob
-1917Reach,1916,Southern Association,B00806,Hauser,,0,Birmingham,,B92,hauser
-1917Reach,1916,Southern Association,F20211,Hauser,,0,Birmingham,,1b,hauser
-1917Reach,1916,Southern Association,F22440,Hauser,,0,Birmingham,,c77,hauser
-1917Reach,1916,Southern Association,B00840,Hemingway,,0,Memphis,,B52,hemingway
-1917Reach,1916,Southern Association,F20177,Hemingway,,0,Memphis,,1b,hemingway
-1917Reach,1916,Southern Association,F20482,Hemingway,,0,Memphis,,2b,hemingway
-1917Reach,1916,Southern Association,F20886,Hemingway,,0,Memphis,,ss40,hemingway
-1917Reach,1916,Southern Association,F21397,Hemingway,,0,Memphis,,of12,hemingway
-1917Reach,1916,Southern Association,B01242,Herbert,,0,Nashville,,B24,herbert
-1917Reach,1916,Southern Association,F21879,Herbert,,0,Nashville,,p24,herbert
-1917Reach,1916,Southern Association,P10070,Herbert,,0,Nashville,,P27,herbert
-1917Reach,1916,Southern Association,B00985,Higgins,,0,New Orleans,,B107,higgins
-1917Reach,1916,Southern Association,F22422,Higgins,,0,New Orleans,,c107,higgins
-1917Reach,1916,Southern Association,B00264,Hoff,,0,Little Rock,,B33,hoff
-1917Reach,1916,Southern Association,F22004,Hoff,,0,Little Rock,,p30,hoff
-1917Reach,1916,Southern Association,P10348,Hoff,,0,Little Rock,,P27,hoff
-1917Reach,1916,Southern Association,B01029,Holley,,0,Mobile,,B117,holley
-1917Reach,1916,Southern Association,F20792,Holley,,0,Mobile,,ss117,holley
-1917Reach,1916,Southern Association,B01722,Hollingsworth,,0,Mobile,,,hollingsworth
-1917Reach,1916,Southern Association,F22175,Hollingsworth,,0,Mobile,,p,hollingsworth
-1917Reach,1916,Southern Association,P10606,Hollingsworth,,0,Mobile,,,hollingsworth
-1917Reach,1916,Southern Association,B00936,Holmquist,,0,Little Rock,,B67,holmquist
-1917Reach,1916,Southern Association,F21232,Holmquist,,0,Little Rock,,of10,holmquist
-1917Reach,1916,Southern Association,F22036,Holmquist,,0,Little Rock,,p57,holmquist
-1917Reach,1916,Southern Association,P10192,Holmquist,,0,Little Rock,,P40,holmquist
-1917Reach,1916,Southern Association,F20505,Houser,,0,Birmingham,,2b,hauser
-1917Reach,1916,Southern Association,F21680,Houser,,0,Birmingham,,of,hauser
-1917Reach,1916,Southern Association,B00210,Hyatt,,0,Chattanooga,,B143,hyatt
-1917Reach,1916,Southern Association,F20014,Hyatt,,0,Chattanooga,,1b58,hyatt
-1917Reach,1916,Southern Association,F20449,Hyatt,,0,Chattanooga,,2b,hyatt
-1917Reach,1916,Southern Association,F20997,Hyatt,,0,Chattanooga,,of105,hyatt
-1917Reach,1916,Southern Association,B00013,Jacobson,,0,Little Rock,,B139,jacobson
-1917Reach,1916,Southern Association,F21264,Jacobson,,0,Little Rock,,of139,jacobson
-1917Reach,1916,Southern Association,B00739,Jantzen,,0,Chattanooga,,B116,jantzen
-1917Reach,1916,Southern Association,F21068,Jantzen,,0,Chattanooga,,of116,jantzen
-1917Reach,1916,Southern Association,B01300,Johnson,,0,Chattanooga,,B42,johnson
-1917Reach,1916,Southern Association,F21783,Johnson,,0,Chattanooga,,p42,johnson
-1917Reach,1916,Southern Association,P10228,Johnson,,0,Chattanooga,,P43,johnson
-1917Reach,1916,Southern Association,B01740,Juul,,0,Mobile,,,juul
-1917Reach,1916,Southern Association,F22191,Juul,,0,Mobile,,p,juul
-1917Reach,1916,Southern Association,P10611,Juul,,0,Mobile,,,juul
-1917Reach,1916,Southern Association,B01595,Karr,,0,Chattanooga,,,karr
-1917Reach,1916,Southern Association,P10588,Karr,,0,Chattanooga,,,karr
-1917Reach,1916,Southern Association,B00528,Kauffman,,0,Nashville,,B121,kauffman
-1917Reach,1916,Southern Association,F20038,Kauffman,,0,Nashville,,1b121,kauffman
-1917Reach,1916,Southern Association,B01119,Kelly,,0,Memphis,,B40,kelly
-1917Reach,1916,Southern Association,F21149,Kelly,,0,Memphis,,of40,kelly
-1917Reach,1916,Southern Association,B01055,Kerr,,0,Memphis,,B46,kerr
-1917Reach,1916,Southern Association,F21822,Kerr,,0,Memphis,,p45,kerr
-1917Reach,1916,Southern Association,F22251,Kerr,,0,Chattanooga,,p,karr
-1917Reach,1916,Southern Association,P10035,Kerr,,0,Memphis,,P42,kerr
-1917Reach,1916,Southern Association,B00125,Kirby,,0,Little Rock,,B124,kirby
-1917Reach,1916,Southern Association,F21210,Kirby,,0,Little Rock,,of121,kirby
-1917Reach,1916,Southern Association,F22073,Kirby,,0,Little Rock,,p11,kirby
-1917Reach,1916,Southern Association,P10320,Kirby,,0,Little Rock,,P26,kirby
-1917Reach,1916,Southern Association,B01804,Kissinger,,0,New Orleans,,,kissinger
-1917Reach,1916,Southern Association,F22329,Kissinger,,0,New Orleans,,p,kissinger
-1917Reach,1916,Southern Association,P10486,Kissinger,,0,New Orleans,,,kissinger
-1917Reach,1916,Southern Association,B01064,Kitchens,,0,Chattanooga,,B115,kitchens
-1917Reach,1916,Southern Association,F21589,Kitchens,,0,Chattanooga,,of,kitchens
-1917Reach,1916,Southern Association,F22406,Kitchens,,0,Chattanooga,,c111,kitchens
-emilbb,1916,Southern Association,M90396,Kitchens,"Frank ""Pop""",,Chattanooga,,,
-1917Reach,1916,Southern Association,B00515,Knaupp,,0,New Orleans,,B120,knaupp
-1917Reach,1916,Southern Association,F20369,Knaupp,,0,New Orleans,,2b120,knaupp
-1917Reach,1916,Southern Association,B00174,Knisely,,0,Memphis,,B120,knisely
-1917Reach,1916,Southern Association,F21241,Knisely,,0,Memphis,,of120,knisely
-1917Reach,1916,Southern Association,B01250,Knowlson,,0,Chattanooga,,B24,knowlson
-1917Reach,1916,Southern Association,F21985,Knowlson,,0,Chattanooga,,p24,knowlson
-1917Reach,1916,Southern Association,P10441,Knowlson,,0,Chattanooga,,P24,knowlson
-1917Reach,1916,Southern Association,B00293,Kores,,0,Nashville,,B129,kores
-1917Reach,1916,Southern Association,F20539,Kores,,0,Nashville,,3b129,kores
-1917Reach,1916,Southern Association,B01490,Krapp,,0,Chattanooga,,B10,krapp
-1917Reach,1916,Southern Association,P10569,Krapp,,0,Chattanooga,,,krapp
-1917Reach,1916,Southern Association,B01384,Kroh,,0,Nashville,,B29,kroh
-1917Reach,1916,Southern Association,F21553,Kroh,,0,Nashville,,of,kroh
-1917Reach,1916,Southern Association,F22048,Kroh,,0,Nashville,,p29,kroh
-1917Reach,1916,Southern Association,P10202,Kroh,,0,Nashville,,P29,kroh
-1917Reach,1916,Southern Association,B00811,Lafitte,,0,Atlanta,,B28,lafitte
-1917Reach,1916,Southern Association,F21999,Lafitte,,0,Atlanta,,p28,lafitte
-1917Reach,1916,Southern Association,P10289,Lafitte,,0,Atlanta,,P28,lafitte
-1917Reach,1916,Southern Association,F22057,Lautenslager,,0,Birmingham,,p34,lautenslager
-1917Reach,1916,Southern Association,B01124,Lautenslager (Black),,0,Birmingham,,B34,lautenslager
-1917Reach,1916,Southern Association,P10290,Lautenslager (Black),,0,Birmingham,,P34,lautenslager
-1917Reach,1916,Southern Association,B01269,LeClair,,0,Little Rock,,B11,leclair
-1917Reach,1916,Southern Association,F21614,LeClair,,0,Little Rock,,of,leclair
-1917Reach,1916,Southern Association,F21806,LeClair,,0,Little Rock,,p10,leclair
-1917Reach,1916,Southern Association,P10432,LeClaire,,0,Little Rock,,P10,leclair
-1917Reach,1916,Southern Association,B01551,Lear,,0,Atlanta,,,lear
-1917Reach,1916,Southern Association,F22150,Lear,,0,Atlanta,,p,lear
-1917Reach,1916,Southern Association,P10687,Lear,,0,Atlanta,,,lear
-1917Reach,1916,Southern Association,B01431,Ledbetter,,0,Mobile,,B44,ledbetter
-1917Reach,1916,Southern Association,F21833,Ledbetter,,0,Mobile,,p43,ledbetter
-1917Reach,1916,Southern Association,P10407,Ledbetter,,0,Mobile,,P43,ledbetter
-1917Reach,1916,Southern Association,B00667,Lee,,0,Nashville,,B127,lee
-1917Reach,1916,Southern Association,F20745,Lee,,0,Nashville,,3b,lee
-1917Reach,1916,Southern Association,F21182,Lee,,0,Nashville,,of127,lee
-1917Reach,1916,Southern Association,B00356,Lennox,,0,Atlanta,,B82,lennox
-1917Reach,1916,Southern Association,F20583,Lennox,,0,Atlanta,,3b82,lennox
-1917Reach,1916,Southern Association,B00590,Lindsay,,0,Birmingham,,B56,lindsay
-1917Reach,1916,Southern Association,F20832,Lindsay,,0,Birmingham,,ss45,lindsay
-1917Reach,1916,Southern Association,F21229,Lindsay,,0,Birmingham,,of11,lindsay
-1917Reach,1916,Southern Association,B00182,Manning,,0,Little Rock,,B126,manning
-1917Reach,1916,Southern Association,F20604,Manning,,0,Little Rock,,3b61,manning
-1917Reach,1916,Southern Association,F21308,Manning,,0,Little Rock,,of43,manning
-1917Reach,1916,Southern Association,B01313,Marcan,,0,Atlanta,,B10,marcan
-1917Reach,1916,Southern Association,F20417,Marcan,,0,Atlanta,,2b10,marcan
-1917Reach,1916,Southern Association,B00553,Marshall,C.,0,Nashville,,B77,marshall-nas
-1917Reach,1916,Southern Association,B01538,Marshall,W.,0,Chattanooga,,B34,marshall-cha
-1917Reach,1916,Southern Association,F20115,Marshall,C.,0,Nashville,,1b15,marshall-nas
-1917Reach,1916,Southern Association,F21255,Marshall,C.,0,Nashville,,of13,marshall-nas
-1917Reach,1916,Southern Association,F21912,Marshall,W.,0,Chattanooga,,p34,marshall-cha
-1917Reach,1916,Southern Association,F22517,Marshall,C.,0,Nashville,,c50,marshall-nas
-1917Reach,1916,Southern Association,P10168,Marshall,W.,0,Chattanooga,,P35,marshall-cha
-1917Reach,1916,Southern Association,B01337,Martina,,0,Chattanooga,,B15,martina
-1917Reach,1916,Southern Association,F22127,Martina,,0,Chattanooga,,p15,martina
-1917Reach,1916,Southern Association,P10024,Martina,,0,Chattanooga,,P14,martina
-1917Reach,1916,Southern Association,B00609,Massey,,0,Mobile,,B124,massey
-1917Reach,1916,Southern Association,F20388,Massey,,0,Mobile,,2b70,massey
-1917Reach,1916,Southern Association,F20908,Massey,,0,Mobile,,ss53,massey
-1917Reach,1916,Southern Association,B00286,Mayer,,0,Atlanta,,B132,mayer
-1917Reach,1916,Southern Association,F20265,Mayer,,0,Atlanta,,1b,mayer
-1917Reach,1916,Southern Association,F20924,Mayer,,0,Atlanta,,ss,mayer
-1917Reach,1916,Southern Association,F21158,Mayer,,0,Atlanta,,of118,mayer
-1917Reach,1916,Southern Association,B00084,McDonald,C.,0,Atlanta,,B117,mcdonald-atl
-1917Reach,1916,Southern Association,B00833,McDonald,E.,0,Birmingham,,B135,mcdonald-bir
-1917Reach,1916,Southern Association,F20254,McDonald,C.,0,Atlanta,,1b,mcdonald-atl
-1917Reach,1916,Southern Association,F20620,McDonald,C.,0,Atlanta,,3b49,mcdonald-atl
-1917Reach,1916,Southern Association,F20636,McDonald,,0,Birmingham,,3b135,mcdonald-bir
-1917Reach,1916,Southern Association,F21196,McDonald,C.,0,Atlanta,,of60,mcdonald-atl
-1917Reach,1916,Southern Association,B00343,McDowell,,0,Mobile,,B136,mcdowell
-1917Reach,1916,Southern Association,F21335,McDowell,,0,Mobile,,of136,mcdowell
-1917Reach,1916,Southern Association,B00760,McIntyre,,0,Mobile,,B17,mcintrye
-1917Reach,1916,Southern Association,F21207,McIntyre,,0,Mobile,,of17,mcintrye
-emilbb,1916,Southern Association,M90413,McIntyre,Matt,,Mobile,,,
-1917Reach,1916,Southern Association,B00577,McMillan,,0,Chattanooga,,B117,mcmillan
-1917Reach,1916,Southern Association,F20458,McMillan,,0,Chattanooga,,2b,mcmillan
-1917Reach,1916,Southern Association,F20855,McMillan,,0,Chattanooga,,ss109,mcmillan
-1917Reach,1916,Southern Association,B01402,Merritt,,0,Chattanooga,,B39,merritt
-1917Reach,1916,Southern Association,F21577,Merritt,,0,Chattanooga,,of,merritt
-1917Reach,1916,Southern Association,F21973,Merritt,,0,Chattanooga,,p38,merritt
-1917Reach,1916,Southern Association,P10373,Merritt,,0,Chattanooga,,P35,merritt
-1917Reach,1916,Southern Association,B00502,Messenger,,0,Chattanooga,,B132,messenger
-1917Reach,1916,Southern Association,F21000,Messenger,,0,Chattanooga,,of132,messenger
-1917Reach,1916,Southern Association,B00101,Meusel,,0,Birmingham,,B113,meusel
-1917Reach,1916,Southern Association,F21101,Meusel,,0,Birmingham,,of113,meusel
-1917Reach,1916,Southern Association,F21623,Meyer,,0,Little Rock,,of,myers
-1917Reach,1916,Southern Association,B00475,Midkiff,,0,Memphis,,B17,midkiff
-1917Reach,1916,Southern Association,F20474,Midkiff,,0,Memphis,,2b,midkiff
-1917Reach,1916,Southern Association,F21609,Midkiff,,0,Memphis,,of,midkiff
-emilbb,1916,Southern Association,M90330,Molesworth,Carleton,,Birmingham,,,
-1917Reach,1916,Southern Association,B01489,Monroe,,0,Memphis,,B18,monroe
-1917Reach,1916,Southern Association,F21936,Monroe,,0,Memphis,,p18,monroe
-1917Reach,1916,Southern Association,P10244,Monroe,,0,Memphis,,P18,monroe
-1917Reach,1916,Southern Association,B01711,Moore,,0,Mobile,,,moore
-1917Reach,1916,Southern Association,F22169,Moore,,0,Mobile,,p,moore
-1917Reach,1916,Southern Association,P10591,Moore,,0,Mobile,,,moore
-1917Reach,1916,Southern Association,B00076,Moran,,0,Atlanta,,B126,moran
-1917Reach,1916,Southern Association,F21293,Moran,,0,Atlanta,,of126,moran
-1917Reach,1916,Southern Association,B01143,Moriarity,,0,Memphis,,B50,moriarity
-1917Reach,1916,Southern Association,F20166,Moriarity,,0,Memphis,,1b,moriarity
-1917Reach,1916,Southern Association,F20526,Moriarity,,0,Memphis,,3b50,moriarity
-emilbb,1916,Southern Association,M90374,Moriarity,George,,Memphis,,,
-1917Reach,1916,Southern Association,B00370,Munch,,0,Atlanta,,B126,munch
-1917Reach,1916,Southern Association,F20072,Munch,,0,Atlanta,,1b126,munch
-1917Reach,1916,Southern Association,B01466,Myers,,0,Little Rock,,B11,myers
-1917Reach,1916,Southern Association,B00879,Neiderkorn,,0,Atlanta,,B68,neiderkorn
-1917Reach,1916,Southern Association,F21319,Neiderkorn,,0,Atlanta,,of14,neiderkorn
-1917Reach,1916,Southern Association,F22479,Neiderkorn,,0,Atlanta,,c54,neiderkorn
-1917Reach,1916,Southern Association,B00672,Nicholson,F.,0,Chattanooga,,B13,nicholson.f
-1917Reach,1916,Southern Association,B01392,Nicholson,O.,0,Chattanooga,,B11,nicholson.o
-1917Reach,1916,Southern Association,F21434,Nicholson,O.,0,Chattanooga,,of11,nicholson.o
-1917Reach,1916,Southern Association,F21475,Nicholson,F.,0,Chattanooga,,of13,nicholson.f
-1917Reach,1916,Southern Association,B01625,Nolley,,0,Chattanooga,,,nolley
-1917Reach,1916,Southern Association,F22238,Nolley,,0,Chattanooga,,p,nolley
-1917Reach,1916,Southern Association,B00783,O'Dell,,0,Little Rock,,B10,odell
-1917Reach,1916,Southern Association,F20699,O'Dell,,0,Little Rock,,3b10,odell
-1917Reach,1916,Southern Association,B01078,O'Rourke,,0,Birmingham,,B13,orourke
-1917Reach,1916,Southern Association,F21356,O'Rourke,,0,Birmingham,,of13,orourke
-1917Reach,1916,Southern Association,B00232,Paulette,,0,Memphis,,B137,paulette
-1917Reach,1916,Southern Association,F20080,Paulette,,0,Memphis,,1b125,paulette
-1917Reach,1916,Southern Association,F21442,Paulette,,0,Memphis,,of12,paulette
-1917Reach,1916,Southern Association,B01617,Payne,,0,Chattanooga,,,payne
-1917Reach,1916,Southern Association,F22558,Payne,,0,Chattanooga,,c,payne
-1917Reach,1916,Southern Association,B00904,Perkins,,0,Atlanta,,B109,perkins
-1917Reach,1916,Southern Association,F20240,Perkins,,0,Atlanta,,1b,perkins
-1917Reach,1916,Southern Association,F22454,Perkins,,0,Atlanta,,c103,perkins
-1917Reach,1916,Southern Association,B01216,Perry,,0,Atlanta,,B49,perry
-1917Reach,1916,Southern Association,F21957,Perry,,0,Atlanta,,p49,perry
-1917Reach,1916,Southern Association,P10231,Perry,,0,Atlanta,,P49,perry
-1917Reach,1916,Southern Association,B01321,Perryman,,0,Birmingham,,B34,perryman
-1917Reach,1916,Southern Association,F22061,Perryman,,0,Birmingham,,p34,perryman
-1917Reach,1916,Southern Association,P10312,Perryman,,0,Birmingham,,P34,perryman
-1917Reach,1916,Southern Association,B00887,Peters,,0,Chattanooga,,B82,peters
-1917Reach,1916,Southern Association,F20153,Peters,,0,Chattanooga,,1b,peters
-1917Reach,1916,Southern Association,F20981,Peters,,0,Chattanooga,,of18,peters
-1917Reach,1916,Southern Association,F22223,Peters,,0,Chattanooga,,p,peters
-1917Reach,1916,Southern Association,F22525,Peters,,0,Chattanooga,,c63,peters
-1917Reach,1916,Southern Association,B00794,Pezold,,0,New Orleans,,B22,pezold
-1917Reach,1916,Southern Association,F20518,Pezold,,0,New Orleans,,2b,pezold
-1917Reach,1916,Southern Association,F20673,Pezold,,0,New Orleans,,3b15,pezold
-1917Reach,1916,Southern Association,B00442,Pitler,,0,Chattanooga,,B142,pitler
-1917Reach,1916,Southern Association,F20327,Pitler,,0,Chattanooga,,2b142,pitler
-1917Reach,1916,Southern Association,B01203,Ponder,,0,Birmingham,,B30,ponder
-1917Reach,1916,Southern Association,F21840,Ponder,,0,Birmingham,,p30,ponder
-1917Reach,1916,Southern Association,P10081,Ponder,,0,Birmingham,,P30,ponder
-1917Reach,1916,Southern Association,B01765,Powell,,0,Little Rock,,,powell
-1917Reach,1916,Southern Association,P10550,Powell,,0,Little Rock,,,powell
-1917Reach,1916,Southern Association,B01601,Powers,,0,Chattanooga,,,powers
-1917Reach,1916,Southern Association,F22563,Powers,,0,Chattanooga,,c,powers
-1917Reach,1916,Southern Association,B01706,Prieste,,0,Memphis,,,prieste
-1917Reach,1916,Southern Association,F22272,Prieste,,0,Memphis,,p,prieste
-1917Reach,1916,Southern Association,P10640,Prieste,,0,Memphis,,,prieste
-1917Reach,1916,Southern Association,B00255,Reilly,H. J.,0,Mobile,,B12,reilly-mob
-1917Reach,1916,Southern Association,B01032,Reilly,T.,0,Atlanta,,B60,reilly-atl
-1917Reach,1916,Southern Association,F20841,Reilly,T.,0,Atlanta,,ss60,reilly-atl
-1917Reach,1916,Southern Association,F21469,Reilly,H. J.,0,Mobile,,of13,reilly-mob
-1917Reach,1916,Southern Association,B00999,Robertson,R.,0,Birmingham,,B28,robertson-bir
-1917Reach,1916,Southern Association,B01674,Robertson,W.,0,Memphis,,,robertson-mem
-1917Reach,1916,Southern Association,F21739,Robertson,R.,0,Birmingham,,p28,robertson-bir
-1917Reach,1916,Southern Association,F22267,Robertson,W.,0,Memphis,,p,robertson-mem
-1917Reach,1916,Southern Association,P10215,Robertson,R.,0,Birmingham,,P23,robertson-bir
-1917Reach,1916,Southern Association,P10679,Robertson,W.,0,Memphis,,,robertson-mem
-1917Reach,1916,Southern Association,B01514,Robinson,,0,Little Rock,,B15,robinson
-1917Reach,1916,Southern Association,F21771,Robinson,,0,Little Rock,,p15,robinson
-1917Reach,1916,Southern Association,P10019,Robinson,,0,Little Rock,,P15,robinson
-1917Reach,1916,Southern Association,B01010,Rogers,,0,Nashville,,B52,rogers
-1917Reach,1916,Southern Association,F20233,Rogers,,0,Nashville,,1b,rogers
-1917Reach,1916,Southern Association,F21544,Rogers,,0,Nashville,,of,rogers
-1917Reach,1916,Southern Association,F21811,Rogers,,0,Nashville,,p45,rogers
-1917Reach,1916,Southern Association,P10043,Rogers,,0,Nashville,,P43,rogers
-1917Reach,1916,Southern Association,B00973,Ruel,,0,Memphis,,B105,ruel
-1917Reach,1916,Southern Association,F20463,Ruel,,0,Memphis,,2b,ruel
-1917Reach,1916,Southern Association,F22364,Ruel,,0,Memphis,,c103,ruel
-1917Reach,1916,Southern Association,B00037,Rumler,,0,Little Rock,,B75,rumler
-1917Reach,1916,Southern Association,F21045,Rumler,,0,Little Rock,,of27,rumler
-1917Reach,1916,Southern Association,F22411,Rumler,,0,Little Rock,,c43,rumler
-1917Reach,1916,Southern Association,B00092,Schmidt,,0,Mobile,,B122,schmidt
-1917Reach,1916,Southern Association,F20128,Schmidt,,0,Mobile,,1b,schmidt
-1917Reach,1916,Southern Association,F20721,Schmidt,,0,Mobile,,3b,schmidt
-1917Reach,1916,Southern Association,F22465,Schmidt,,0,Mobile,,c114,schmidt
-emilbb,1916,Southern Association,M90400,Schmidt,Charley,,Mobile,,,
-1917Reach,1916,Southern Association,B01415,Sharman,,0,Memphis,,B15,sharman
-1917Reach,1916,Southern Association,F21286,Sharman,,0,Memphis,,of15,sharman
-1917Reach,1916,Southern Association,B00822,Sheehan,,0,Nashville,,B138,sheehan
-1917Reach,1916,Southern Association,F20350,Sheehan,,0,Nashville,,2b138,sheehan
-1917Reach,1916,Southern Association,B00381,Smith,W. J.,0,Birmingham,,B85,smith-bir
-1917Reach,1916,Southern Association,B01007,Smith,C. O.,0,New Orleans,,B45,smith-no
-1917Reach,1916,Southern Association,F21651,Smith,,0,New Orleans,,of,smith-no
-1917Reach,1916,Southern Association,F21887,Smith,,0,New Orleans,,p43,smith-no
-1917Reach,1916,Southern Association,F22355,Smith,,0,Birmingham,,c84,smith-bir
-1917Reach,1916,Southern Association,P10137,Smith,,0,New Orleans,,P42,smith-no
-1917Reach,1916,Southern Association,B01580,Smykal,,0,Chattanooga,,,smykal
-1917Reach,1916,Southern Association,F20956,Smykal,,0,Chattanooga,,ss,smykal
-1917Reach,1916,Southern Association,B01567,Snyder,,0,Atlanta,,,snyder
-1917Reach,1916,Southern Association,F22549,Snyder,,0,Atlanta,,c,snyder
-1917Reach,1916,Southern Association,B00646,Stansbury,,0,New Orleans,,B117,stansbury
-1917Reach,1916,Southern Association,F20391,Stansbury,,0,New Orleans,,2b12,stansbury
-1917Reach,1916,Southern Association,F20547,Stansbury,,0,New Orleans,,3b105,stansbury
-1917Reach,1916,Southern Association,B00335,Stark,,0,Memphis,,B20,stark
-1917Reach,1916,Southern Association,F20919,Stark,,0,Memphis,,ss20,stark
-emilbb,1916,Southern Association,M90363,Stark,Dolly,,Memphis,,,
-1917Reach,1916,Southern Association,B00771,Starr,,0,Little Rock,,B84,starr
-1917Reach,1916,Southern Association,F20401,Starr,,0,Little Rock,,2b63,starr
-1917Reach,1916,Southern Association,F20571,Starr,,0,Little Rock,,3b21,starr
-emilbb,1916,Southern Association,M90349,Starr,Charles,,Little Rock,,,
-1917Reach,1916,Southern Association,B01682,Stone,,0,Memphis,,,stone
-1917Reach,1916,Southern Association,B00614,Street,,0,Nashville,,B114,street
-1917Reach,1916,Southern Association,F20222,Street,,0,Nashville,,1b,street
-1917Reach,1916,Southern Association,F22378,Street,,0,Nashville,,c110,street
-1917Reach,1916,Southern Association,B00752,Swacina,,0,Mobile,,B127,swacina
-1917Reach,1916,Southern Association,F20102,Swacina,,0,Mobile,,1b127,swacina
-1917Reach,1916,Southern Association,B00241,Sylvester,,0,New Orleans,,B132,sylvester
-1917Reach,1916,Southern Association,F20190,Sylvester,,0,New Orleans,,1b,sylvester
-1917Reach,1916,Southern Association,F21076,Sylvester,,0,New Orleans,,of131,sylvester
-1917Reach,1916,Southern Association,B01848,Taylor,,0,Nashville,,,taylor
-1917Reach,1916,Southern Association,F22214,Taylor,,0,Nashville,,p,taylor
-1917Reach,1916,Southern Association,P10527,Taylor,,0,Nashville,,,taylor
-1917Reach,1916,Southern Association,B01086,Tennant,,0,Memphis,,B14,tennant
-1917Reach,1916,Southern Association,F20023,Tennant,,0,Memphis,,1b14,tennant
-1917Reach,1916,Southern Association,B00651,Thomas,,0,New Orleans,,B131,thomas
-1917Reach,1916,Southern Association,F20864,Thomas,,0,New Orleans,,ss131,thomas
-1917Reach,1916,Southern Association,B00021,Thrasher,,0,Atlanta,,B103,thrasher
-1917Reach,1916,Southern Association,F21092,Thrasher,,0,Atlanta,,of103,thrasher
-1917Reach,1916,Southern Association,B01658,Tillman,,0,Memphis,,,tillman
-1917Reach,1916,Southern Association,F22295,Tillman,,0,Memphis,,p,tillman
-1917Reach,1916,Southern Association,P10665,Tillman,,0,Memphis,,,tillman
-1917Reach,1916,Southern Association,B01453,Townsend,,0,New Orleans,,B17,townsend
-1917Reach,1916,Southern Association,F22116,Townsend,,0,New Orleans,,p17,townsend
-1917Reach,1916,Southern Association,P10410,Townsend,,0,New Orleans,,P17,townsend
-1917Reach,1916,Southern Association,B00059,Walker,E.,0,Little Rock,,B58,walker-lr
-1917Reach,1916,Southern Association,B00589,Walker,D.,0,Chattanooga,,B39,walker-cha
-1917Reach,1916,Southern Association,B01345,Walker,R.,0,New Orleans,,B44,walker-no
-1917Reach,1916,Southern Association,F21416,Walker,D.,0,Chattanooga,,of18,walker-cha
-1917Reach,1916,Southern Association,F21427,Walker,E.,0,Little Rock,,of58,walker-lr
-1917Reach,1916,Southern Association,F21667,Walker,,0,New Orleans,,of,walker-no
-1917Reach,1916,Southern Association,F22020,Walker,D.,0,Chattanooga,,p14,walker-cha
-1917Reach,1916,Southern Association,P10253,Walker,R.,0,New Orleans,,P39,walker-no
-1917Reach,1916,Southern Association,P10361,Walker,D.,0,Chattanooga,,P16,walker-cha
-1917Reach,1916,Southern Association,B01162,Wallace,,0,Memphis,,B46,wallace
-1917Reach,1916,Southern Association,F22393,Wallace,,0,Memphis,,c46,wallace
-1917Reach,1916,Southern Association,B00319,Walsh,,0,Memphis,,B139,walsh
-1917Reach,1916,Southern Association,F20316,Walsh,,0,Memphis,,2b44,walsh
-1917Reach,1916,Southern Association,F20612,Walsh,,0,Memphis,,3b88,walsh
-1917Reach,1916,Southern Association,F21590,Walsh,,0,Memphis,,of,walsh
-1917Reach,1916,Southern Association,B01787,Ward,,0,Little Rock,,,ward
-1917Reach,1916,Southern Association,F20768,Ward,,0,Little Rock,,3b,ward
-1917Reach,1916,Southern Association,B00434,Wares,,0,Little Rock,,B142,wares
-1917Reach,1916,Southern Association,F20334,Wares,,0,Little Rock,,2b43,wares
-1917Reach,1916,Southern Association,F20810,Wares,,0,Little Rock,,ss99,wares
-1917Reach,1916,Southern Association,B01630,Watson,,0,Chattanooga,,,watson
-1917Reach,1916,Southern Association,B01798,Weaver,,0,New Orleans,,,weaver
-1917Reach,1916,Southern Association,F22307,Weaver,,0,New Orleans,,p,weaver
-1917Reach,1916,Southern Association,P10493,Weaver,,0,New Orleans,,,weaver
-1917Reach,1916,Southern Association,B01288,Wells,,0,Nashville,,B39,wells
-1917Reach,1916,Southern Association,F21752,Wells,,0,Nashville,,p38,wells
-1917Reach,1916,Southern Association,P10097,Wells,,0,Nashville,,P38,wells
-1917Reach,1916,Southern Association,B01572,Werner,,0,Birmingham,,,werner
-1917Reach,1916,Southern Association,B01093,Whalen,,0,Mobile,,B21,whalen
-1917Reach,1916,Southern Association,F20375,Whalen,,0,Mobile,,2b15,whalen
-1917Reach,1916,Southern Association,F20737,Whalen,,0,Mobile,,3b,whalen
-1917Reach,1916,Southern Association,F20943,Whalen,,0,Mobile,,ss,whalen
-1917Reach,1916,Southern Association,B01663,Wheeler,,0,Memphis,,,wheeler
-1917Reach,1916,Southern Association,P10654,Wheeler,,0,Memphis,,,wheeler
-1917Reach,1916,Southern Association,B00920,Wilcox,,0,Mobile,,B116,wilcox
-1917Reach,1916,Southern Association,F20430,Wilcox,,0,Mobile,,2b,wilcox
-1917Reach,1916,Southern Association,F20700,Wilcox,,0,Mobile,,3b14,wilcox
-1917Reach,1916,Southern Association,F21450,Wilcox,,0,Mobile,,of95,wilcox
-1917Reach,1916,Southern Association,B01444,Wiley,,0,Mobile,,B13,wiley
-1917Reach,1916,Southern Association,F21854,Wiley,,0,Mobile,,p13,wiley
-1917Reach,1916,Southern Association,P10304,Wiley,,0,Mobile,,P13,wiley
-1917Reach,1916,Southern Association,B00117,Willett,,0,Memphis,,B18,willett
-1917Reach,1916,Southern Association,F21718,Willett,,0,Memphis,,p18,willett
-1917Reach,1916,Southern Association,P10159,Willett,,0,Memphis,,P17,willett
-1917Reach,1916,Southern Association,B00163,Williams,,0,Nashville,,B138,williams-nas
-1917Reach,1916,Southern Association,B01820,Williams,,0,New Orleans,,,williams-no
-1917Reach,1916,Southern Association,F21059,Williams,,0,Nashville,,of138,williams-nas
-1917Reach,1916,Southern Association,F22310,Williams,,0,New Orleans,,p,williams-no
-1917Reach,1916,Southern Association,P10503,Williams,,0,New Orleans,,,williams-no
-1917Reach,1916,Southern Association,B00566,Wilson,,0,Atlanta,,B28,wilson
-1917Reach,1916,Southern Association,F20962,Wilson,,0,Atlanta,,of11,wilson
-1917Reach,1916,Southern Association,F21695,Wilson,,0,Atlanta,,p18,wilson
-1917Reach,1916,Southern Association,P10336,Wilson,,0,Atlanta,,P12,wilson
-1917Reach,1916,Southern Association,B01754,Works,,0,Mobile,,,works
-1917Reach,1916,Southern Association,F20144,Works,,0,Mobile,,1b,works
-1917Reach,1916,Southern Association,F22188,Works,,0,Mobile,,p,works
-1917Reach,1916,Southern Association,P10622,Works,,0,Mobile,,,works
-1917Reach,1916,Southern Association,B00726,Wright,,0,Memphis,,B12,wright
-1917Reach,1916,Southern Association,F21961,Wright,,0,Memphis,,p12,wright
-1917Reach,1916,Southern Association,P10478,Wright,,0,Memphis,,P12,wright
-1917Reach,1916,Southern Association,B00045,Yerkes,,0,Atlanta,,B88,yerkes
-1917Reach,1916,Southern Association,F20298,Yerkes,,0,Atlanta,,2b88,yerkes
-1917Reach,1916,Southern Association,B01812,Zinn,,0,New Orleans,,,zinn
-1917Reach,1916,Southern Association,F21672,Zinn,,0,New Orleans,,of,zinn
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+1917Reach,1916,Southern Association,allen,B01275,Allen,,0,Chattanooga,,B41
+1917Reach,1916,Southern Association,allen,F22134,Allen,,0,Chattanooga,,p40
+1917Reach,1916,Southern Association,allen,P10277,Allen,,0,Chattanooga,,P38
+1917Reach,1916,Southern Association,allison-no,B00196,Allison,M.,0,New Orleans,,B109
+1917Reach,1916,Southern Association,allison-mob,B01477,Allison,M. C. ,0,Mobile,,B26
+1917Reach,1916,Southern Association,allison-no,F21013,Allison,M.,0,New Orleans,,of109
+1917Reach,1916,Southern Association,allison-mob,F21528,Allison,M. C.,0,Mobile,,of
+1917Reach,1916,Southern Association,allison-mob,F21705,Allison,M. C.,0,Mobile,,p20
+1917Reach,1916,Southern Association,allison-mob,P10429,Allison,M. C.,0,Mobile,,P22
+1917Reach,1916,Southern Association,andreen,B00957,Andreen,,0,Memphis,,B11
+1917Reach,1916,Southern Association,andreen,F22501,Andreen,,0,Memphis,,c11
+1917Reach,1916,Southern Association,bacon,B01649,Bacon,,0,Chattanooga,,
+1917Reach,1916,Southern Association,bacon,F22246,Bacon,,0,Chattanooga,,p
+1917Reach,1916,Southern Association,bacon,P10575,Bacon,,0,Chattanooga,,
+1917Reach,1916,Southern Association,baker,B00695,Baker,,0,Nashville,,B138
+1917Reach,1916,Southern Association,baker,F21278,Baker,,0,Nashville,,of138
+1917Reach,1916,Southern Association,barbare,B00623,Barbare,,0,Little Rock,,B122
+1917Reach,1916,Southern Association,barbare,F20552,Barbare,,0,Little Rock,,3b15
+1917Reach,1916,Southern Association,barbare,F20784,Barbare,,0,Little Rock,,ss107
+1917Reach,1916,Southern Association,barger,B00705,Barger,,0,Memphis,,B58
+1917Reach,1916,Southern Association,barger,F21324,Barger,,0,Memphis,,of11
+1917Reach,1916,Southern Association,barger,F21747,Barger,,0,Memphis,,p37
+1917Reach,1916,Southern Association,barger,P10113,Barger,,0,Memphis,,P36
+1917Reach,1916,Southern Association,baumgardner,B01779,Baumgardner,,0,Little Rock,,
+1917Reach,1916,Southern Association,baumgardner,F22341,Baumgardner,,0,Little Rock,,p
+1917Reach,1916,Southern Association,baumgardner,P10542,Baumgardner,,0,Little Rock,,
+1917Reach,1916,Southern Association,bluhm,B00865,Bluhm,,0,New Orleans,,B137
+1917Reach,1916,Southern Association,bluhm,F20051,Bluhm,,0,New Orleans,,1b137
+1917Reach,1916,Southern Association,brennan,B01181,Brennan,,0,Atlanta,,B31
+1917Reach,1916,Southern Association,brennan,F21760,Brennan,,0,Atlanta,,p31
+1917Reach,1916,Southern Association,brennan,P10056,Brennan,,0,Atlanta,,P31
+1917Reach,1916,Southern Association,brenton,B01523,Brenton,,0,New Orleans,,B36
+1917Reach,1916,Southern Association,brenton,F21948,Brenton,,0,New Orleans,,p36
+1917Reach,1916,Southern Association,brenton,P10121,Brenton,,0,New Orleans,,P36
+1917Reach,1916,Southern Association,bridwell,B00068,Bridwell,,0,Atlanta,,B12
+1917Reach,1916,Southern Association,bridwell,F20878,Bridwell,,0,Atlanta,,ss12
+1917Reach,1916,Southern Association,bromwich,B00854,Bromwich,,0,Mobile,,B17
+1917Reach,1916,Southern Association,bromwich,F20661,Bromwich,,0,Mobile,,3b17
+1917Reach,1916,Southern Association,brooks,B00149,Brooks,,0,Little Rock,,B12
+1917Reach,1916,Southern Association,brooks,F21646,Brooks,,0,Little Rock,,of
+1917Reach,1916,Southern Association,brooks,F22332,Brooks,,0,Little Rock,,p
+1917Reach,1916,Southern Association,brooks,P10534,Brooks,,0,Little Rock,,
+1917Reach,1916,Southern Association,brown,B01696,Brown,,0,Memphis,,
+1917Reach,1916,Southern Association,brown,F22280,Brown,,0,Memphis,,p
+1917Reach,1916,Southern Association,brown,P10633,Brown,,0,Memphis,,
+1917Reach,1916,Southern Association,burke.m,B00747,Burke,M.,0,Mobile,,B128
+1917Reach,1916,Southern Association,burke.j,B01227,Burke,J.,0,Mobile,,B14
+1917Reach,1916,Southern Association,burke.j,F20648,Burke,J.,0,Mobile,,3b14
+1917Reach,1916,Southern Association,burke.m,F21125,Burke,M.,0,Mobile,,of128
+1917Reach,1916,Southern Association,calhoun,B01733,Calhoun,,0,Mobile,,
+1917Reach,1916,Southern Association,calhoun,F21502,Calhoun,,0,Mobile,,of
+1917Reach,1916,Southern Association,carroll,B01041,Carroll,,0,Birmingham,,B19
+1917Reach,1916,Southern Association,carroll,F21370,Carroll,,0,Birmingham,,of19
+1917Reach,1916,Southern Association,caton,B00961,Caton,,0,Birmingham,,B135
+1917Reach,1916,Southern Association,caton,F20829,Caton,,0,Birmingham,,ss91
+1917Reach,1916,Southern Association,caton,F21403,Caton,,0,Birmingham,,of44
+1917Reach,1916,Southern Association,cavet,B00531,Cavet,,0,Mobile,,B66
+1917Reach,1916,Southern Association,cavet,F21174,Cavet,,0,Mobile,,of18
+1917Reach,1916,Southern Association,cavet,F22085,Cavet,,0,Mobile,,p48
+1917Reach,1916,Southern Association,cavet,P10357,Cavet,,0,Mobile,,P43
+1917Reach,1916,Southern Association,chadbourne,B00718,Chadbourne,,0,Memphis,,B132
+1917Reach,1916,Southern Association,chadbourne,F21037,Chadbourne,,0,Memphis,,of132
+1917Reach,1916,Southern Association,chapman,B00403,Chapman,,0,Little Rock,,B43
+1917Reach,1916,Southern Association,chapman,F21638,Chapman,,0,Little Rock,,of
+1917Reach,1916,Southern Association,chapman,F22386,Chapman,,0,Little Rock,,c36
+1917Reach,1916,Southern Association,clancy,B01197,Clancy,,0,Atlanta,,B31
+1917Reach,1916,Southern Association,clancy,F20303,Clancy,,0,Atlanta,,2b18
+1917Reach,1916,Southern Association,clancy,F20713,Clancy,,0,Atlanta,,3b
+1917Reach,1916,Southern Association,clancy,F20935,Clancy,,0,Atlanta,,ss
+1917Reach,1916,Southern Association,clark-bir,B00158,Clark,D.,0,Birmingham,,B129
+1917Reach,1916,Southern Association,clark-mob,B01368,Clark,J. J.,0,Mobile,,B20
+1917Reach,1916,Southern Association,clark-bir,F20342,Clark,D.,0,Birmingham,,2b129
+1917Reach,1916,Southern Association,clark-mob,F21531,Clark,J. J.,0,Mobile,,of
+1917Reach,1916,Southern Association,clark-mob,F22487,Clark,J. J.,0,Mobile,,c18
+1917Reach,1916,Southern Association,cook,B01156,Cook,,0,Memphis,,B51
+1917Reach,1916,Southern Association,cook,F21163,Cook,,0,Memphis,,of50
+1917Reach,1916,Southern Association,coombs,B00416,Coombs,,0,Birmingham,,B96
+1917Reach,1916,Southern Association,coombs,F21117,Coombs,,0,Birmingham,,of96
+1917Reach,1916,Southern Association,couchman,B01291,Couchman,,0,Little Rock,,B33
+1917Reach,1916,Southern Association,couchman,F21726,Couchman,,0,Little Rock,,p33
+1917Reach,1916,Southern Association,couchman,P10399,Couchman,,0,Little Rock,,P33
+1917Reach,1916,Southern Association,covington-lr,B00469,Covington,C.,0,Little Rock,,B141
+1917Reach,1916,Southern Association,covington-cha,B01376,Covington,G.,0,Chattanooga,,B18
+1917Reach,1916,Southern Association,covington-lr,F20046,Covington,C.,0,Little Rock,,1b141
+1917Reach,1916,Southern Association,covington-cha,F21794,Covington,G.,0,Chattanooga,,p18
+1917Reach,1916,Southern Association,covington-cha,P10385,Covington,G.,0,Chattanooga,,P16
+1917Reach,1916,Southern Association,cruthers,B00397,Cruthers,,0,Memphis,,B63
+1917Reach,1916,Southern Association,cruthers,F20287,Cruthers,,0,Memphis,,2b63
+1917Reach,1916,Southern Association,davis,B00207,Davis,,0,Atlanta,,B24
+1917Reach,1916,Southern Association,davis,F21491,Davis,,0,Atlanta,,of
+1917Reach,1916,Southern Association,davis,F22142,Davis,,0,Atlanta,,p15
+1917Reach,1916,Southern Association,davis,P10455,Davis,,0,Atlanta,,P14
+1917Reach,1916,Southern Association,day,B01509,Day,,0,Atlanta,,B37
+1917Reach,1916,Southern Association,day,F22099,Day,,0,Atlanta,,p37
+1917Reach,1916,Southern Association,day,P10184,Day,,0,Atlanta,,P37
+1917Reach,1916,Southern Association,deberry,B00362,DeBerry,,0,New Orleans,,B93
+1917Reach,1916,Southern Association,deberry,F20685,DeBerry,,0,New Orleans,,3b16
+1917Reach,1916,Southern Association,deberry,F21362,DeBerry,,0,New Orleans,,of28
+1917Reach,1916,Southern Association,deberry,F22433,DeBerry,,0,New Orleans,,c49
+1917Reach,1916,Southern Association,dempsey,B01135,Dempsey,,0,Mobile,,B28
+1917Reach,1916,Southern Association,dempsey,F20131,Dempsey,,0,Mobile,,1b
+1917Reach,1916,Southern Association,dempsey,F21515,Dempsey,,0,Mobile,,of
+1917Reach,1916,Southern Association,dempsey,F22530,Dempsey,,0,Mobile,,c23
+1917Reach,1916,Southern Association,derrick,B00544,Derrick,,0,Birmingham,,B133
+1917Reach,1916,Southern Association,derrick,F20067,Derrick,,0,Birmingham,,1b133
+1917Reach,1916,Southern Association,dillinger,B01359,Dillinger,,0,New Orleans,,B19
+1917Reach,1916,Southern Association,dillinger,F21920,Dillinger,,0,New Orleans,,p19
+1917Reach,1916,Southern Association,dillinger,P10266,Dillinger,,0,New Orleans,,P19
+1917Reach,1916,Southern Association,dobard,B00488,Dobard,,0,Memphis,,B98
+1917Reach,1916,Southern Association,dobard,F20496,Dobard,,0,Memphis,,2b
+1917Reach,1916,Southern Association,dobard,F20776,Dobard,,0,Memphis,,ss97
+emilbb,1916,Southern Association,,M90325,Dobbs,Johnny,,New Orleans,,
+1917Reach,1916,Southern Association,dodge,B00229,Dodge,,0,Mobile,,B39
+1917Reach,1916,Southern Association,dodge,F20594,Dodge,,0,Mobile,,3b39
+1917Reach,1916,Southern Association,edmondson,B00308,Edmondson,,0,New Orleans,,B139
+1917Reach,1916,Southern Association,edmondson,F20206,Edmondson,,0,New Orleans,,1b
+1917Reach,1916,Southern Association,edmondson,F21021,Edmondson,,0,New Orleans,,of136
+1917Reach,1916,Southern Association,elberfeld,B00427,Elberfeld,,0,Chattanooga,,B89
+emilbb,1916,Southern Association,,M90382,Elberfeld,"Norman ""Kid""",,Chattanooga,,
+1917Reach,1916,Southern Association,ellam,B00278,Ellam,,0,Nashville,,B138
+1917Reach,1916,Southern Association,ellam,F20807,Ellam,,0,Nashville,,ss138
+emilbb,1916,Southern Association,,M90317,Ellam,Roy,,Nashville,,
+1917Reach,1916,Southern Association,ellis,B01428,Ellis,,0,Nashville,,B34
+1917Reach,1916,Southern Association,ellis,F21566,Ellis,,0,Nashville,,of
+1917Reach,1916,Southern Association,ellis,F21898,Ellis,,0,Nashville,,p32
+1917Reach,1916,Southern Association,ellis,P10100,Ellis,,0,Nashville,,P32
+1917Reach,1916,Southern Association,eschen,B00638,Eschen,,0,Birmingham,,B103
+1917Reach,1916,Southern Association,eschen,F20759,Eschen,,0,Birmingham,,3b
+1917Reach,1916,Southern Association,eschen,F21130,Eschen,,0,Birmingham,,of95
+1917Reach,1916,Southern Association,fincher,B00680,Fincher,,0,Memphis,,B11
+1917Reach,1916,Southern Association,fincher,F22103,Fincher,,0,Memphis,,p11
+1917Reach,1916,Southern Association,fincher,P10176,Fincher,,0,Memphis,,P11
+emilbb,1916,Southern Association,,M90358,Frank,Charley,,Atlanta,,
+1917Reach,1916,Southern Association,frost,B01836,Frost,,0,Nashville,,
+1917Reach,1916,Southern Association,frost,F22209,Frost,,0,Nashville,,p
+1917Reach,1916,Southern Association,frost,P10516,Frost,,0,Nashville,,
+1917Reach,1916,Southern Association,gagnier,B00912,Gagnier,,0,Atlanta,,B14
+1917Reach,1916,Southern Association,gagnier,F20425,Gagnier,,0,Atlanta,,2b14
+1917Reach,1916,Southern Association,gibson,B00948,Gibson,,0,Little Rock,,B101
+1917Reach,1916,Southern Association,gibson,F20189,Gibson,,0,Little Rock,,1b
+1917Reach,1916,Southern Association,gibson,F21343,Gibson,,0,Little Rock,,of17
+1917Reach,1916,Southern Association,gibson,F22498,Gibson,,0,Little Rock,,c82
+1917Reach,1916,Southern Association,gondolfi,B01170,Gondolfi,,0,Mobile,,B49
+1917Reach,1916,Southern Association,gondolfi,F20657,Gondolfi,,0,Mobile,,3b49
+1917Reach,1916,Southern Association,graff,B00450,Graff,,0,Chattanooga,,B143
+1917Reach,1916,Southern Association,graff,F20560,Graff,,0,Chattanooga,,3b143
+1917Reach,1916,Southern Association,grimes-mem,B00898,Grimes,R.,0,Memphis,,B39
+1917Reach,1916,Southern Association,grimes-bir,B01108,Grimes,B. A.,0,Birmingham,,B43
+1917Reach,1916,Southern Association,grimes-mem,F20279,Grimes,R.,0,Memphis,,2b18
+1917Reach,1916,Southern Association,grimes-mem,F21084,Grimes,R.,0,Memphis,,of15
+1917Reach,1916,Southern Association,grimes-bir,F21904,Grimes,B. A.,0,Birmingham,,p43
+1917Reach,1916,Southern Association,grimes-bir,P10062,Grimes,B. A.,0,Birmingham,,P40
+1917Reach,1916,Southern Association,gutierrez,B01546,Gutierrez,,0,Atlanta,,
+1917Reach,1916,Southern Association,gutierrez,F21488,Gutierrez,,0,Atlanta,,of
+1917Reach,1916,Southern Association,hanford,B00491,Hanford,,0,Mobile,,B17
+1917Reach,1916,Southern Association,hanford,F21381,Hanford,,0,Mobile,,of17
+1917Reach,1916,Southern Association,hardgrove,B01234,Hardgrove,,0,Little Rock,,B49
+1917Reach,1916,Southern Association,hardgrove,F21865,Hardgrove,,0,Little Rock,,p49
+1917Reach,1916,Southern Association,hardgrove,P10145,Hardgrove,,0,Little Rock,,P50
+1917Reach,1916,Southern Association,harris-cha,B00130,Harris,,0,Chattanooga,,B141
+1917Reach,1916,Southern Association,harris-mob,B00324,Harris,,0,Mobile,,B15
+1917Reach,1916,Southern Association,harris-cha,F20095,Harris,,0,Chattanooga,,1b84
+1917Reach,1916,Southern Association,harris-cha,F20893,Harris,,0,Chattanooga,,ss16
+1917Reach,1916,Southern Association,harris-cha,F20970,Harris,,0,Chattanooga,,of41
+1917Reach,1916,Southern Association,harris-mob,F22012,Harris,,0,Mobile,,p14
+1917Reach,1916,Southern Association,harris-mob,P10464,Harris,,0,Mobile,,P11
+1917Reach,1916,Southern Association,hauser,B00806,Hauser,,0,Birmingham,,B92
+1917Reach,1916,Southern Association,hauser,F20211,Hauser,,0,Birmingham,,1b
+1917Reach,1916,Southern Association,hauser,F22440,Hauser,,0,Birmingham,,c77
+1917Reach,1916,Southern Association,hemingway,B00840,Hemingway,,0,Memphis,,B52
+1917Reach,1916,Southern Association,hemingway,F20177,Hemingway,,0,Memphis,,1b
+1917Reach,1916,Southern Association,hemingway,F20482,Hemingway,,0,Memphis,,2b
+1917Reach,1916,Southern Association,hemingway,F20886,Hemingway,,0,Memphis,,ss40
+1917Reach,1916,Southern Association,hemingway,F21397,Hemingway,,0,Memphis,,of12
+1917Reach,1916,Southern Association,herbert,B01242,Herbert,,0,Nashville,,B24
+1917Reach,1916,Southern Association,herbert,F21879,Herbert,,0,Nashville,,p24
+1917Reach,1916,Southern Association,herbert,P10070,Herbert,,0,Nashville,,P27
+1917Reach,1916,Southern Association,higgins,B00985,Higgins,,0,New Orleans,,B107
+1917Reach,1916,Southern Association,higgins,F22422,Higgins,,0,New Orleans,,c107
+1917Reach,1916,Southern Association,hoff,B00264,Hoff,,0,Little Rock,,B33
+1917Reach,1916,Southern Association,hoff,F22004,Hoff,,0,Little Rock,,p30
+1917Reach,1916,Southern Association,hoff,P10348,Hoff,,0,Little Rock,,P27
+1917Reach,1916,Southern Association,holley,B01029,Holley,,0,Mobile,,B117
+1917Reach,1916,Southern Association,holley,F20792,Holley,,0,Mobile,,ss117
+1917Reach,1916,Southern Association,hollingsworth,B01722,Hollingsworth,,0,Mobile,,
+1917Reach,1916,Southern Association,hollingsworth,F22175,Hollingsworth,,0,Mobile,,p
+1917Reach,1916,Southern Association,hollingsworth,P10606,Hollingsworth,,0,Mobile,,
+1917Reach,1916,Southern Association,holmquist,B00936,Holmquist,,0,Little Rock,,B67
+1917Reach,1916,Southern Association,holmquist,F21232,Holmquist,,0,Little Rock,,of10
+1917Reach,1916,Southern Association,holmquist,F22036,Holmquist,,0,Little Rock,,p57
+1917Reach,1916,Southern Association,holmquist,P10192,Holmquist,,0,Little Rock,,P40
+1917Reach,1916,Southern Association,hauser,F20505,Houser,,0,Birmingham,,2b
+1917Reach,1916,Southern Association,hauser,F21680,Houser,,0,Birmingham,,of
+1917Reach,1916,Southern Association,hyatt,B00210,Hyatt,,0,Chattanooga,,B143
+1917Reach,1916,Southern Association,hyatt,F20014,Hyatt,,0,Chattanooga,,1b58
+1917Reach,1916,Southern Association,hyatt,F20449,Hyatt,,0,Chattanooga,,2b
+1917Reach,1916,Southern Association,hyatt,F20997,Hyatt,,0,Chattanooga,,of105
+1917Reach,1916,Southern Association,jacobson,B00013,Jacobson,,0,Little Rock,,B139
+1917Reach,1916,Southern Association,jacobson,F21264,Jacobson,,0,Little Rock,,of139
+1917Reach,1916,Southern Association,jantzen,B00739,Jantzen,,0,Chattanooga,,B116
+1917Reach,1916,Southern Association,jantzen,F21068,Jantzen,,0,Chattanooga,,of116
+1917Reach,1916,Southern Association,johnson,B01300,Johnson,,0,Chattanooga,,B42
+1917Reach,1916,Southern Association,johnson,F21783,Johnson,,0,Chattanooga,,p42
+1917Reach,1916,Southern Association,johnson,P10228,Johnson,,0,Chattanooga,,P43
+1917Reach,1916,Southern Association,juul,B01740,Juul,,0,Mobile,,
+1917Reach,1916,Southern Association,juul,F22191,Juul,,0,Mobile,,p
+1917Reach,1916,Southern Association,juul,P10611,Juul,,0,Mobile,,
+1917Reach,1916,Southern Association,karr,B01595,Karr,,0,Chattanooga,,
+1917Reach,1916,Southern Association,karr,P10588,Karr,,0,Chattanooga,,
+1917Reach,1916,Southern Association,kauffman,B00528,Kauffman,,0,Nashville,,B121
+1917Reach,1916,Southern Association,kauffman,F20038,Kauffman,,0,Nashville,,1b121
+1917Reach,1916,Southern Association,kelly,B01119,Kelly,,0,Memphis,,B40
+1917Reach,1916,Southern Association,kelly,F21149,Kelly,,0,Memphis,,of40
+1917Reach,1916,Southern Association,kerr,B01055,Kerr,,0,Memphis,,B46
+1917Reach,1916,Southern Association,kerr,F21822,Kerr,,0,Memphis,,p45
+1917Reach,1916,Southern Association,karr,F22251,Kerr,,0,Chattanooga,,p
+1917Reach,1916,Southern Association,kerr,P10035,Kerr,,0,Memphis,,P42
+1917Reach,1916,Southern Association,kirby,B00125,Kirby,,0,Little Rock,,B124
+1917Reach,1916,Southern Association,kirby,F21210,Kirby,,0,Little Rock,,of121
+1917Reach,1916,Southern Association,kirby,F22073,Kirby,,0,Little Rock,,p11
+1917Reach,1916,Southern Association,kirby,P10320,Kirby,,0,Little Rock,,P26
+1917Reach,1916,Southern Association,kissinger,B01804,Kissinger,,0,New Orleans,,
+1917Reach,1916,Southern Association,kissinger,F22329,Kissinger,,0,New Orleans,,p
+1917Reach,1916,Southern Association,kissinger,P10486,Kissinger,,0,New Orleans,,
+1917Reach,1916,Southern Association,kitchens,B01064,Kitchens,,0,Chattanooga,,B115
+1917Reach,1916,Southern Association,kitchens,F21589,Kitchens,,0,Chattanooga,,of
+1917Reach,1916,Southern Association,kitchens,F22406,Kitchens,,0,Chattanooga,,c111
+emilbb,1916,Southern Association,,M90396,Kitchens,"Frank ""Pop""",,Chattanooga,,
+1917Reach,1916,Southern Association,knaupp,B00515,Knaupp,,0,New Orleans,,B120
+1917Reach,1916,Southern Association,knaupp,F20369,Knaupp,,0,New Orleans,,2b120
+1917Reach,1916,Southern Association,knisely,B00174,Knisely,,0,Memphis,,B120
+1917Reach,1916,Southern Association,knisely,F21241,Knisely,,0,Memphis,,of120
+1917Reach,1916,Southern Association,knowlson,B01250,Knowlson,,0,Chattanooga,,B24
+1917Reach,1916,Southern Association,knowlson,F21985,Knowlson,,0,Chattanooga,,p24
+1917Reach,1916,Southern Association,knowlson,P10441,Knowlson,,0,Chattanooga,,P24
+1917Reach,1916,Southern Association,kores,B00293,Kores,,0,Nashville,,B129
+1917Reach,1916,Southern Association,kores,F20539,Kores,,0,Nashville,,3b129
+1917Reach,1916,Southern Association,krapp,B01490,Krapp,,0,Chattanooga,,B10
+1917Reach,1916,Southern Association,krapp,P10569,Krapp,,0,Chattanooga,,
+1917Reach,1916,Southern Association,kroh,B01384,Kroh,,0,Nashville,,B29
+1917Reach,1916,Southern Association,kroh,F21553,Kroh,,0,Nashville,,of
+1917Reach,1916,Southern Association,kroh,F22048,Kroh,,0,Nashville,,p29
+1917Reach,1916,Southern Association,kroh,P10202,Kroh,,0,Nashville,,P29
+1917Reach,1916,Southern Association,lafitte,B00811,Lafitte,,0,Atlanta,,B28
+1917Reach,1916,Southern Association,lafitte,F21999,Lafitte,,0,Atlanta,,p28
+1917Reach,1916,Southern Association,lafitte,P10289,Lafitte,,0,Atlanta,,P28
+1917Reach,1916,Southern Association,lautenslager,F22057,Lautenslager,,0,Birmingham,,p34
+1917Reach,1916,Southern Association,lautenslager,B01124,Lautenslager (Black),,0,Birmingham,,B34
+1917Reach,1916,Southern Association,lautenslager,P10290,Lautenslager (Black),,0,Birmingham,,P34
+1917Reach,1916,Southern Association,leclair,B01269,LeClair,,0,Little Rock,,B11
+1917Reach,1916,Southern Association,leclair,F21614,LeClair,,0,Little Rock,,of
+1917Reach,1916,Southern Association,leclair,F21806,LeClair,,0,Little Rock,,p10
+1917Reach,1916,Southern Association,leclair,P10432,LeClaire,,0,Little Rock,,P10
+1917Reach,1916,Southern Association,lear,B01551,Lear,,0,Atlanta,,
+1917Reach,1916,Southern Association,lear,F22150,Lear,,0,Atlanta,,p
+1917Reach,1916,Southern Association,lear,P10687,Lear,,0,Atlanta,,
+1917Reach,1916,Southern Association,ledbetter,B01431,Ledbetter,,0,Mobile,,B44
+1917Reach,1916,Southern Association,ledbetter,F21833,Ledbetter,,0,Mobile,,p43
+1917Reach,1916,Southern Association,ledbetter,P10407,Ledbetter,,0,Mobile,,P43
+1917Reach,1916,Southern Association,lee,B00667,Lee,,0,Nashville,,B127
+1917Reach,1916,Southern Association,lee,F20745,Lee,,0,Nashville,,3b
+1917Reach,1916,Southern Association,lee,F21182,Lee,,0,Nashville,,of127
+1917Reach,1916,Southern Association,lennox,B00356,Lennox,,0,Atlanta,,B82
+1917Reach,1916,Southern Association,lennox,F20583,Lennox,,0,Atlanta,,3b82
+1917Reach,1916,Southern Association,lindsay,B00590,Lindsay,,0,Birmingham,,B56
+1917Reach,1916,Southern Association,lindsay,F20832,Lindsay,,0,Birmingham,,ss45
+1917Reach,1916,Southern Association,lindsay,F21229,Lindsay,,0,Birmingham,,of11
+1917Reach,1916,Southern Association,manning,B00182,Manning,,0,Little Rock,,B126
+1917Reach,1916,Southern Association,manning,F20604,Manning,,0,Little Rock,,3b61
+1917Reach,1916,Southern Association,manning,F21308,Manning,,0,Little Rock,,of43
+1917Reach,1916,Southern Association,marcan,B01313,Marcan,,0,Atlanta,,B10
+1917Reach,1916,Southern Association,marcan,F20417,Marcan,,0,Atlanta,,2b10
+1917Reach,1916,Southern Association,marshall-nas,B00553,Marshall,C.,0,Nashville,,B77
+1917Reach,1916,Southern Association,marshall-cha,B01538,Marshall,W.,0,Chattanooga,,B34
+1917Reach,1916,Southern Association,marshall-nas,F20115,Marshall,C.,0,Nashville,,1b15
+1917Reach,1916,Southern Association,marshall-nas,F21255,Marshall,C.,0,Nashville,,of13
+1917Reach,1916,Southern Association,marshall-cha,F21912,Marshall,W.,0,Chattanooga,,p34
+1917Reach,1916,Southern Association,marshall-nas,F22517,Marshall,C.,0,Nashville,,c50
+1917Reach,1916,Southern Association,marshall-cha,P10168,Marshall,W.,0,Chattanooga,,P35
+1917Reach,1916,Southern Association,martina,B01337,Martina,,0,Chattanooga,,B15
+1917Reach,1916,Southern Association,martina,F22127,Martina,,0,Chattanooga,,p15
+1917Reach,1916,Southern Association,martina,P10024,Martina,,0,Chattanooga,,P14
+1917Reach,1916,Southern Association,massey,B00609,Massey,,0,Mobile,,B124
+1917Reach,1916,Southern Association,massey,F20388,Massey,,0,Mobile,,2b70
+1917Reach,1916,Southern Association,massey,F20908,Massey,,0,Mobile,,ss53
+1917Reach,1916,Southern Association,mayer,B00286,Mayer,,0,Atlanta,,B132
+1917Reach,1916,Southern Association,mayer,F20265,Mayer,,0,Atlanta,,1b
+1917Reach,1916,Southern Association,mayer,F20924,Mayer,,0,Atlanta,,ss
+1917Reach,1916,Southern Association,mayer,F21158,Mayer,,0,Atlanta,,of118
+1917Reach,1916,Southern Association,mcdonald-atl,B00084,McDonald,C.,0,Atlanta,,B117
+1917Reach,1916,Southern Association,mcdonald-bir,B00833,McDonald,E.,0,Birmingham,,B135
+1917Reach,1916,Southern Association,mcdonald-atl,F20254,McDonald,C.,0,Atlanta,,1b
+1917Reach,1916,Southern Association,mcdonald-atl,F20620,McDonald,C.,0,Atlanta,,3b49
+1917Reach,1916,Southern Association,mcdonald-bir,F20636,McDonald,,0,Birmingham,,3b135
+1917Reach,1916,Southern Association,mcdonald-atl,F21196,McDonald,C.,0,Atlanta,,of60
+1917Reach,1916,Southern Association,mcdowell,B00343,McDowell,,0,Mobile,,B136
+1917Reach,1916,Southern Association,mcdowell,F21335,McDowell,,0,Mobile,,of136
+1917Reach,1916,Southern Association,mcintrye,B00760,McIntyre,,0,Mobile,,B17
+1917Reach,1916,Southern Association,mcintrye,F21207,McIntyre,,0,Mobile,,of17
+emilbb,1916,Southern Association,,M90413,McIntyre,Matt,,Mobile,,
+1917Reach,1916,Southern Association,mcmillan,B00577,McMillan,,0,Chattanooga,,B117
+1917Reach,1916,Southern Association,mcmillan,F20458,McMillan,,0,Chattanooga,,2b
+1917Reach,1916,Southern Association,mcmillan,F20855,McMillan,,0,Chattanooga,,ss109
+1917Reach,1916,Southern Association,merritt,B01402,Merritt,,0,Chattanooga,,B39
+1917Reach,1916,Southern Association,merritt,F21577,Merritt,,0,Chattanooga,,of
+1917Reach,1916,Southern Association,merritt,F21973,Merritt,,0,Chattanooga,,p38
+1917Reach,1916,Southern Association,merritt,P10373,Merritt,,0,Chattanooga,,P35
+1917Reach,1916,Southern Association,messenger,B00502,Messenger,,0,Chattanooga,,B132
+1917Reach,1916,Southern Association,messenger,F21000,Messenger,,0,Chattanooga,,of132
+1917Reach,1916,Southern Association,meusel,B00101,Meusel,,0,Birmingham,,B113
+1917Reach,1916,Southern Association,meusel,F21101,Meusel,,0,Birmingham,,of113
+1917Reach,1916,Southern Association,myers,F21623,Meyer,,0,Little Rock,,of
+1917Reach,1916,Southern Association,midkiff,B00475,Midkiff,,0,Memphis,,B17
+1917Reach,1916,Southern Association,midkiff,F20474,Midkiff,,0,Memphis,,2b
+1917Reach,1916,Southern Association,midkiff,F21609,Midkiff,,0,Memphis,,of
+emilbb,1916,Southern Association,,M90330,Molesworth,Carleton,,Birmingham,,
+1917Reach,1916,Southern Association,monroe,B01489,Monroe,,0,Memphis,,B18
+1917Reach,1916,Southern Association,monroe,F21936,Monroe,,0,Memphis,,p18
+1917Reach,1916,Southern Association,monroe,P10244,Monroe,,0,Memphis,,P18
+1917Reach,1916,Southern Association,moore,B01711,Moore,,0,Mobile,,
+1917Reach,1916,Southern Association,moore,F22169,Moore,,0,Mobile,,p
+1917Reach,1916,Southern Association,moore,P10591,Moore,,0,Mobile,,
+1917Reach,1916,Southern Association,moran,B00076,Moran,,0,Atlanta,,B126
+1917Reach,1916,Southern Association,moran,F21293,Moran,,0,Atlanta,,of126
+1917Reach,1916,Southern Association,moriarity,B01143,Moriarity,,0,Memphis,,B50
+1917Reach,1916,Southern Association,moriarity,F20166,Moriarity,,0,Memphis,,1b
+1917Reach,1916,Southern Association,moriarity,F20526,Moriarity,,0,Memphis,,3b50
+emilbb,1916,Southern Association,,M90374,Moriarity,George,,Memphis,,
+1917Reach,1916,Southern Association,munch,B00370,Munch,,0,Atlanta,,B126
+1917Reach,1916,Southern Association,munch,F20072,Munch,,0,Atlanta,,1b126
+1917Reach,1916,Southern Association,myers,B01466,Myers,,0,Little Rock,,B11
+1917Reach,1916,Southern Association,neiderkorn,B00879,Neiderkorn,,0,Atlanta,,B68
+1917Reach,1916,Southern Association,neiderkorn,F21319,Neiderkorn,,0,Atlanta,,of14
+1917Reach,1916,Southern Association,neiderkorn,F22479,Neiderkorn,,0,Atlanta,,c54
+1917Reach,1916,Southern Association,nicholson.f,B00672,Nicholson,F.,0,Chattanooga,,B13
+1917Reach,1916,Southern Association,nicholson.o,B01392,Nicholson,O.,0,Chattanooga,,B11
+1917Reach,1916,Southern Association,nicholson.o,F21434,Nicholson,O.,0,Chattanooga,,of11
+1917Reach,1916,Southern Association,nicholson.f,F21475,Nicholson,F.,0,Chattanooga,,of13
+1917Reach,1916,Southern Association,nolley,B01625,Nolley,,0,Chattanooga,,
+1917Reach,1916,Southern Association,nolley,F22238,Nolley,,0,Chattanooga,,p
+1917Reach,1916,Southern Association,odell,B00783,O'Dell,,0,Little Rock,,B10
+1917Reach,1916,Southern Association,odell,F20699,O'Dell,,0,Little Rock,,3b10
+1917Reach,1916,Southern Association,orourke,B01078,O'Rourke,,0,Birmingham,,B13
+1917Reach,1916,Southern Association,orourke,F21356,O'Rourke,,0,Birmingham,,of13
+1917Reach,1916,Southern Association,paulette,B00232,Paulette,,0,Memphis,,B137
+1917Reach,1916,Southern Association,paulette,F20080,Paulette,,0,Memphis,,1b125
+1917Reach,1916,Southern Association,paulette,F21442,Paulette,,0,Memphis,,of12
+1917Reach,1916,Southern Association,payne,B01617,Payne,,0,Chattanooga,,
+1917Reach,1916,Southern Association,payne,F22558,Payne,,0,Chattanooga,,c
+1917Reach,1916,Southern Association,perkins,B00904,Perkins,,0,Atlanta,,B109
+1917Reach,1916,Southern Association,perkins,F20240,Perkins,,0,Atlanta,,1b
+1917Reach,1916,Southern Association,perkins,F22454,Perkins,,0,Atlanta,,c103
+1917Reach,1916,Southern Association,perry,B01216,Perry,,0,Atlanta,,B49
+1917Reach,1916,Southern Association,perry,F21957,Perry,,0,Atlanta,,p49
+1917Reach,1916,Southern Association,perry,P10231,Perry,,0,Atlanta,,P49
+1917Reach,1916,Southern Association,perryman,B01321,Perryman,,0,Birmingham,,B34
+1917Reach,1916,Southern Association,perryman,F22061,Perryman,,0,Birmingham,,p34
+1917Reach,1916,Southern Association,perryman,P10312,Perryman,,0,Birmingham,,P34
+1917Reach,1916,Southern Association,peters,B00887,Peters,,0,Chattanooga,,B82
+1917Reach,1916,Southern Association,peters,F20153,Peters,,0,Chattanooga,,1b
+1917Reach,1916,Southern Association,peters,F20981,Peters,,0,Chattanooga,,of18
+1917Reach,1916,Southern Association,peters,F22223,Peters,,0,Chattanooga,,p
+1917Reach,1916,Southern Association,peters,F22525,Peters,,0,Chattanooga,,c63
+1917Reach,1916,Southern Association,pezold,B00794,Pezold,,0,New Orleans,,B22
+1917Reach,1916,Southern Association,pezold,F20518,Pezold,,0,New Orleans,,2b
+1917Reach,1916,Southern Association,pezold,F20673,Pezold,,0,New Orleans,,3b15
+1917Reach,1916,Southern Association,pitler,B00442,Pitler,,0,Chattanooga,,B142
+1917Reach,1916,Southern Association,pitler,F20327,Pitler,,0,Chattanooga,,2b142
+1917Reach,1916,Southern Association,ponder,B01203,Ponder,,0,Birmingham,,B30
+1917Reach,1916,Southern Association,ponder,F21840,Ponder,,0,Birmingham,,p30
+1917Reach,1916,Southern Association,ponder,P10081,Ponder,,0,Birmingham,,P30
+1917Reach,1916,Southern Association,powell,B01765,Powell,,0,Little Rock,,
+1917Reach,1916,Southern Association,powell,P10550,Powell,,0,Little Rock,,
+1917Reach,1916,Southern Association,powers,B01601,Powers,,0,Chattanooga,,
+1917Reach,1916,Southern Association,powers,F22563,Powers,,0,Chattanooga,,c
+1917Reach,1916,Southern Association,prieste,B01706,Prieste,,0,Memphis,,
+1917Reach,1916,Southern Association,prieste,F22272,Prieste,,0,Memphis,,p
+1917Reach,1916,Southern Association,prieste,P10640,Prieste,,0,Memphis,,
+1917Reach,1916,Southern Association,reilly-mob,B00255,Reilly,H. J.,0,Mobile,,B12
+1917Reach,1916,Southern Association,reilly-atl,B01032,Reilly,T.,0,Atlanta,,B60
+1917Reach,1916,Southern Association,reilly-atl,F20841,Reilly,T.,0,Atlanta,,ss60
+1917Reach,1916,Southern Association,reilly-mob,F21469,Reilly,H. J.,0,Mobile,,of13
+1917Reach,1916,Southern Association,robertson-bir,B00999,Robertson,R.,0,Birmingham,,B28
+1917Reach,1916,Southern Association,robertson-mem,B01674,Robertson,W.,0,Memphis,,
+1917Reach,1916,Southern Association,robertson-bir,F21739,Robertson,R.,0,Birmingham,,p28
+1917Reach,1916,Southern Association,robertson-mem,F22267,Robertson,W.,0,Memphis,,p
+1917Reach,1916,Southern Association,robertson-bir,P10215,Robertson,R.,0,Birmingham,,P23
+1917Reach,1916,Southern Association,robertson-mem,P10679,Robertson,W.,0,Memphis,,
+1917Reach,1916,Southern Association,robinson,B01514,Robinson,,0,Little Rock,,B15
+1917Reach,1916,Southern Association,robinson,F21771,Robinson,,0,Little Rock,,p15
+1917Reach,1916,Southern Association,robinson,P10019,Robinson,,0,Little Rock,,P15
+1917Reach,1916,Southern Association,rogers,B01010,Rogers,,0,Nashville,,B52
+1917Reach,1916,Southern Association,rogers,F20233,Rogers,,0,Nashville,,1b
+1917Reach,1916,Southern Association,rogers,F21544,Rogers,,0,Nashville,,of
+1917Reach,1916,Southern Association,rogers,F21811,Rogers,,0,Nashville,,p45
+1917Reach,1916,Southern Association,rogers,P10043,Rogers,,0,Nashville,,P43
+1917Reach,1916,Southern Association,ruel,B00973,Ruel,,0,Memphis,,B105
+1917Reach,1916,Southern Association,ruel,F20463,Ruel,,0,Memphis,,2b
+1917Reach,1916,Southern Association,ruel,F22364,Ruel,,0,Memphis,,c103
+1917Reach,1916,Southern Association,rumler,B00037,Rumler,,0,Little Rock,,B75
+1917Reach,1916,Southern Association,rumler,F21045,Rumler,,0,Little Rock,,of27
+1917Reach,1916,Southern Association,rumler,F22411,Rumler,,0,Little Rock,,c43
+1917Reach,1916,Southern Association,schmidt,B00092,Schmidt,,0,Mobile,,B122
+1917Reach,1916,Southern Association,schmidt,F20128,Schmidt,,0,Mobile,,1b
+1917Reach,1916,Southern Association,schmidt,F20721,Schmidt,,0,Mobile,,3b
+1917Reach,1916,Southern Association,schmidt,F22465,Schmidt,,0,Mobile,,c114
+emilbb,1916,Southern Association,,M90400,Schmidt,Charley,,Mobile,,
+1917Reach,1916,Southern Association,sharman,B01415,Sharman,,0,Memphis,,B15
+1917Reach,1916,Southern Association,sharman,F21286,Sharman,,0,Memphis,,of15
+1917Reach,1916,Southern Association,sheehan,B00822,Sheehan,,0,Nashville,,B138
+1917Reach,1916,Southern Association,sheehan,F20350,Sheehan,,0,Nashville,,2b138
+1917Reach,1916,Southern Association,smith-bir,B00381,Smith,W. J.,0,Birmingham,,B85
+1917Reach,1916,Southern Association,smith-no,B01007,Smith,C. O.,0,New Orleans,,B45
+1917Reach,1916,Southern Association,smith-no,F21651,Smith,,0,New Orleans,,of
+1917Reach,1916,Southern Association,smith-no,F21887,Smith,,0,New Orleans,,p43
+1917Reach,1916,Southern Association,smith-bir,F22355,Smith,,0,Birmingham,,c84
+1917Reach,1916,Southern Association,smith-no,P10137,Smith,,0,New Orleans,,P42
+1917Reach,1916,Southern Association,smykal,B01580,Smykal,,0,Chattanooga,,
+1917Reach,1916,Southern Association,smykal,F20956,Smykal,,0,Chattanooga,,ss
+1917Reach,1916,Southern Association,snyder,B01567,Snyder,,0,Atlanta,,
+1917Reach,1916,Southern Association,snyder,F22549,Snyder,,0,Atlanta,,c
+1917Reach,1916,Southern Association,stansbury,B00646,Stansbury,,0,New Orleans,,B117
+1917Reach,1916,Southern Association,stansbury,F20391,Stansbury,,0,New Orleans,,2b12
+1917Reach,1916,Southern Association,stansbury,F20547,Stansbury,,0,New Orleans,,3b105
+1917Reach,1916,Southern Association,stark,B00335,Stark,,0,Memphis,,B20
+1917Reach,1916,Southern Association,stark,F20919,Stark,,0,Memphis,,ss20
+emilbb,1916,Southern Association,,M90363,Stark,Dolly,,Memphis,,
+1917Reach,1916,Southern Association,starr,B00771,Starr,,0,Little Rock,,B84
+1917Reach,1916,Southern Association,starr,F20401,Starr,,0,Little Rock,,2b63
+1917Reach,1916,Southern Association,starr,F20571,Starr,,0,Little Rock,,3b21
+emilbb,1916,Southern Association,,M90349,Starr,Charles,,Little Rock,,
+1917Reach,1916,Southern Association,stone,B01682,Stone,,0,Memphis,,
+1917Reach,1916,Southern Association,street,B00614,Street,,0,Nashville,,B114
+1917Reach,1916,Southern Association,street,F20222,Street,,0,Nashville,,1b
+1917Reach,1916,Southern Association,street,F22378,Street,,0,Nashville,,c110
+1917Reach,1916,Southern Association,swacina,B00752,Swacina,,0,Mobile,,B127
+1917Reach,1916,Southern Association,swacina,F20102,Swacina,,0,Mobile,,1b127
+1917Reach,1916,Southern Association,sylvester,B00241,Sylvester,,0,New Orleans,,B132
+1917Reach,1916,Southern Association,sylvester,F20190,Sylvester,,0,New Orleans,,1b
+1917Reach,1916,Southern Association,sylvester,F21076,Sylvester,,0,New Orleans,,of131
+1917Reach,1916,Southern Association,taylor,B01848,Taylor,,0,Nashville,,
+1917Reach,1916,Southern Association,taylor,F22214,Taylor,,0,Nashville,,p
+1917Reach,1916,Southern Association,taylor,P10527,Taylor,,0,Nashville,,
+1917Reach,1916,Southern Association,tennant,B01086,Tennant,,0,Memphis,,B14
+1917Reach,1916,Southern Association,tennant,F20023,Tennant,,0,Memphis,,1b14
+1917Reach,1916,Southern Association,thomas,B00651,Thomas,,0,New Orleans,,B131
+1917Reach,1916,Southern Association,thomas,F20864,Thomas,,0,New Orleans,,ss131
+1917Reach,1916,Southern Association,thrasher,B00021,Thrasher,,0,Atlanta,,B103
+1917Reach,1916,Southern Association,thrasher,F21092,Thrasher,,0,Atlanta,,of103
+1917Reach,1916,Southern Association,tillman,B01658,Tillman,,0,Memphis,,
+1917Reach,1916,Southern Association,tillman,F22295,Tillman,,0,Memphis,,p
+1917Reach,1916,Southern Association,tillman,P10665,Tillman,,0,Memphis,,
+1917Reach,1916,Southern Association,townsend,B01453,Townsend,,0,New Orleans,,B17
+1917Reach,1916,Southern Association,townsend,F22116,Townsend,,0,New Orleans,,p17
+1917Reach,1916,Southern Association,townsend,P10410,Townsend,,0,New Orleans,,P17
+1917Reach,1916,Southern Association,walker-lr,B00059,Walker,E.,0,Little Rock,,B58
+1917Reach,1916,Southern Association,walker-cha,B00589,Walker,D.,0,Chattanooga,,B39
+1917Reach,1916,Southern Association,walker-no,B01345,Walker,R.,0,New Orleans,,B44
+1917Reach,1916,Southern Association,walker-cha,F21416,Walker,D.,0,Chattanooga,,of18
+1917Reach,1916,Southern Association,walker-lr,F21427,Walker,E.,0,Little Rock,,of58
+1917Reach,1916,Southern Association,walker-no,F21667,Walker,,0,New Orleans,,of
+1917Reach,1916,Southern Association,walker-cha,F22020,Walker,D.,0,Chattanooga,,p14
+1917Reach,1916,Southern Association,walker-no,P10253,Walker,R.,0,New Orleans,,P39
+1917Reach,1916,Southern Association,walker-cha,P10361,Walker,D.,0,Chattanooga,,P16
+1917Reach,1916,Southern Association,wallace,B01162,Wallace,,0,Memphis,,B46
+1917Reach,1916,Southern Association,wallace,F22393,Wallace,,0,Memphis,,c46
+1917Reach,1916,Southern Association,walsh,B00319,Walsh,,0,Memphis,,B139
+1917Reach,1916,Southern Association,walsh,F20316,Walsh,,0,Memphis,,2b44
+1917Reach,1916,Southern Association,walsh,F20612,Walsh,,0,Memphis,,3b88
+1917Reach,1916,Southern Association,walsh,F21590,Walsh,,0,Memphis,,of
+1917Reach,1916,Southern Association,ward,B01787,Ward,,0,Little Rock,,
+1917Reach,1916,Southern Association,ward,F20768,Ward,,0,Little Rock,,3b
+1917Reach,1916,Southern Association,wares,B00434,Wares,,0,Little Rock,,B142
+1917Reach,1916,Southern Association,wares,F20334,Wares,,0,Little Rock,,2b43
+1917Reach,1916,Southern Association,wares,F20810,Wares,,0,Little Rock,,ss99
+1917Reach,1916,Southern Association,watson,B01630,Watson,,0,Chattanooga,,
+1917Reach,1916,Southern Association,weaver,B01798,Weaver,,0,New Orleans,,
+1917Reach,1916,Southern Association,weaver,F22307,Weaver,,0,New Orleans,,p
+1917Reach,1916,Southern Association,weaver,P10493,Weaver,,0,New Orleans,,
+1917Reach,1916,Southern Association,wells,B01288,Wells,,0,Nashville,,B39
+1917Reach,1916,Southern Association,wells,F21752,Wells,,0,Nashville,,p38
+1917Reach,1916,Southern Association,wells,P10097,Wells,,0,Nashville,,P38
+1917Reach,1916,Southern Association,werner,B01572,Werner,,0,Birmingham,,
+1917Reach,1916,Southern Association,whalen,B01093,Whalen,,0,Mobile,,B21
+1917Reach,1916,Southern Association,whalen,F20375,Whalen,,0,Mobile,,2b15
+1917Reach,1916,Southern Association,whalen,F20737,Whalen,,0,Mobile,,3b
+1917Reach,1916,Southern Association,whalen,F20943,Whalen,,0,Mobile,,ss
+1917Reach,1916,Southern Association,wheeler,B01663,Wheeler,,0,Memphis,,
+1917Reach,1916,Southern Association,wheeler,P10654,Wheeler,,0,Memphis,,
+1917Reach,1916,Southern Association,wilcox,B00920,Wilcox,,0,Mobile,,B116
+1917Reach,1916,Southern Association,wilcox,F20430,Wilcox,,0,Mobile,,2b
+1917Reach,1916,Southern Association,wilcox,F20700,Wilcox,,0,Mobile,,3b14
+1917Reach,1916,Southern Association,wilcox,F21450,Wilcox,,0,Mobile,,of95
+1917Reach,1916,Southern Association,wiley,B01444,Wiley,,0,Mobile,,B13
+1917Reach,1916,Southern Association,wiley,F21854,Wiley,,0,Mobile,,p13
+1917Reach,1916,Southern Association,wiley,P10304,Wiley,,0,Mobile,,P13
+1917Reach,1916,Southern Association,willett,B00117,Willett,,0,Memphis,,B18
+1917Reach,1916,Southern Association,willett,F21718,Willett,,0,Memphis,,p18
+1917Reach,1916,Southern Association,willett,P10159,Willett,,0,Memphis,,P17
+1917Reach,1916,Southern Association,williams-nas,B00163,Williams,,0,Nashville,,B138
+1917Reach,1916,Southern Association,williams-no,B01820,Williams,,0,New Orleans,,
+1917Reach,1916,Southern Association,williams-nas,F21059,Williams,,0,Nashville,,of138
+1917Reach,1916,Southern Association,williams-no,F22310,Williams,,0,New Orleans,,p
+1917Reach,1916,Southern Association,williams-no,P10503,Williams,,0,New Orleans,,
+1917Reach,1916,Southern Association,wilson,B00566,Wilson,,0,Atlanta,,B28
+1917Reach,1916,Southern Association,wilson,F20962,Wilson,,0,Atlanta,,of11
+1917Reach,1916,Southern Association,wilson,F21695,Wilson,,0,Atlanta,,p18
+1917Reach,1916,Southern Association,wilson,P10336,Wilson,,0,Atlanta,,P12
+1917Reach,1916,Southern Association,works,B01754,Works,,0,Mobile,,
+1917Reach,1916,Southern Association,works,F20144,Works,,0,Mobile,,1b
+1917Reach,1916,Southern Association,works,F22188,Works,,0,Mobile,,p
+1917Reach,1916,Southern Association,works,P10622,Works,,0,Mobile,,
+1917Reach,1916,Southern Association,wright,B00726,Wright,,0,Memphis,,B12
+1917Reach,1916,Southern Association,wright,F21961,Wright,,0,Memphis,,p12
+1917Reach,1916,Southern Association,wright,P10478,Wright,,0,Memphis,,P12
+1917Reach,1916,Southern Association,yerkes,B00045,Yerkes,,0,Atlanta,,B88
+1917Reach,1916,Southern Association,yerkes,F20298,Yerkes,,0,Atlanta,,2b88
+1917Reach,1916,Southern Association,zinn,B01812,Zinn,,0,New Orleans,,
+1917Reach,1916,Southern Association,zinn,F21672,Zinn,,0,New Orleans,,of

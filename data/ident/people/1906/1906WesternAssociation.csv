@@ -1,557 +1,557 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-1907Reach,1906,Western Association,B00680,Abbott,,1,Springfield,,,abbott
-1907Reach,1906,Western Association,B00680,Abbott,,2,Hutchinson,,,abbott
-1907Reach,1906,Western Association,B00680,Abbott,,T,,,B108,abbott
-1907Reach,1906,Western Association,F20784,Abbott,,1,Joplin,,1b,abbott
-1907Reach,1906,Western Association,F20784,Abbott,,2,Hutchinson,,1b,abbott
-1907Reach,1906,Western Association,F20784,Abbott,,T,,,1b60,abbott
-1907Reach,1906,Western Association,F21680,Abbott,,0,Springfield,,of48,abbott
-1907Reach,1906,Western Association,B00416,Andrews,,0,Topeka,,B133,andrews
-1907Reach,1906,Western Association,F21076,Andrews,,0,Topeka,,3b133,andrews
-1907Reach,1906,Western Association,B00887,Armstrong,,0,Joplin,,B118,armstrong
-1907Reach,1906,Western Association,F20153,Armstrong,,0,Joplin,,c32,armstrong
-1907Reach,1906,Western Association,F20776,Armstrong,,0,Joplin,,1b86,armstrong
-1907Reach,1906,Western Association,B00362,Arnold,,0,Oklahoma City,,B7,arnold
-1907Reach,1906,Western Association,F20287,Arnold,,0,Oklahoma City,,p7,arnold
-1907Reach,1906,Western Association,P10361,Arnold,,0,Oklahoma City,,,arnold
-1907Reach,1906,Western Association,B01514,Ashley,,0,Leavenworth,,B38,ashley
-1907Reach,1906,Western Association,F20417,Ashley,,0,Leavenworth,,p38,ashley
-1907Reach,1906,Western Association,P10231,Ashley,,0,Leavenworth,,,ashley
-1907Reach,1906,Western Association,B00207,Autrey,,0,Webb City,,B96,autrey
-1907Reach,1906,Western Association,F21623,Autrey,,0,Webb City,,of96,autrey
-1907Reach,1906,Western Association,B00442,Baerwald,,0,Joplin,,B138,baerwald
-1907Reach,1906,Western Association,F21651,Baerwald,,0,Joplin,,of128,baerwald
-1907Reach,1906,Western Association,B01041,Bailey,,0,Oklahoma City,,B30,bailey
-1907Reach,1906,Western Association,F21343,Bailey,,0,Oklahoma City,,ss30,bailey
-1907Reach,1906,Western Association,B00783,Bankhead,,1,Wichita,,,bankhead
-1907Reach,1906,Western Association,B00783,Bankhead,,2,Joplin,,,bankhead
-1907Reach,1906,Western Association,B00783,Bankhead,,T,,,B87,bankhead
-1907Reach,1906,Western Association,F20886,Bankhead,,1,Wichita,,2b,bankhead
-1907Reach,1906,Western Association,F20886,Bankhead,,2,Joplin,,2b,bankhead
-1907Reach,1906,Western Association,F20886,Bankhead,,T,,,2b46,bankhead
-1907Reach,1906,Western Association,F21264,Bankhead,,0,Wichita,,ss41,bankhead
-1907Reach,1906,Western Association,B00370,Bayless,,0,Joplin,,B140,bayless
-1907Reach,1906,Western Association,F21747,Bayless,,0,Joplin,,of135,bayless
-1907Reach,1906,Western Association,B00059,Becker,,0,Wichita,,B75,becker
-1907Reach,1906,Western Association,F20552,Becker,,0,Wichita,,p40,becker
-1907Reach,1906,Western Association,P10113,Becker,,0,Wichita,,,becker
-1907Reach,1906,Western Association,B01288,Bemis,,0,Oklahoma City,,B45,bemis
-1907Reach,1906,Western Association,F20594,Bemis,,0,Oklahoma City,,p14,bemis
-1907Reach,1906,Western Association,P10168,Bemis,,0,Oklahoma City,,,bemis
-1907Reach,1906,Western Association,B01546,Brown,,0,Hutchinson,,B14,brown
-1907Reach,1906,Western Association,F20997,Brown,,0,Hutchinson,,3b14,brown
-1907Reach,1906,Western Association,B01490,Burke,,0,Wichita,,B5,burke
-1907Reach,1906,Western Association,F21434,Burke,,0,Wichita,,of5,burke
-1907Reach,1906,Western Association,B01431,Campanion,,1,Hutchinson,,,campanion
-1907Reach,1906,Western Association,B01431,Campanion,,2,Topeka,,,campanion
-1907Reach,1906,Western Association,B01431,Campanion,,T,,,B43,campanion
-1907Reach,1906,Western Association,P10304,Campanion,,1,Hutchinson,,,campanion
-1907Reach,1906,Western Association,P10304,Campanion,,2,Topeka,,,campanion
-1907Reach,1906,Western Association,P10304,Campanion,,T,,,,campanion
-1907Reach,1906,Western Association,B00076,Campbell,,0,Webb City,,B10,campbell-wc
-1907Reach,1906,Western Association,B00335,Campbell,,0,Hutchinson,,B49,campbell-hut
-1907Reach,1906,Western Association,F20620,Campbell,,0,Webb City,,p10,campbell-wc
-1907Reach,1906,Western Association,F20737,Campbell,,0,Hutchinson,,1b49,campbell-hut
-1907Reach,1906,Western Association,P10277,Campbell,,0,Webb City,,,campbell-wc
-1907Reach,1906,Western Association,B01601,Carr,,0,Webb City,,B9,carr
-1907Reach,1906,Western Association,B00726,Casey,,0,Hutchinson,,B140,casey
-1907Reach,1906,Western Association,F21210,Casey,,0,Hutchinson,,ss140,casey
-1907Reach,1906,Western Association,B01119,Cavanaugh,,0,Leavenworth,,B18,cavanaugh
-1907Reach,1906,Western Association,F21232,Cavanaugh,,0,Leavenworth,,ss18,cavanaugh
-1907Reach,1906,Western Association,B01197,Cheek,,0,Webb City,,B127,cheek
-1907Reach,1906,Western Association,F20046,Cheek,,0,Webb City,,c127,cheek
-1907Reach,1906,Western Association,B00833,Cole,,0,Topeka,,B107,cole
-1907Reach,1906,Western Association,F21609,Cole,,0,Topeka,,of107,cole
-1907Reach,1906,Western Association,F20636,Companion,,1,Hutchinson,,p,campanion
-1907Reach,1906,Western Association,F20636,Companion,,2,Topeka,,p,campanion
-1907Reach,1906,Western Association,F20636,Companion,,T,,,p34,campanion
-1907Reach,1906,Western Association,B00068,Cooley,,0,Topeka,,B124,cooley
-1907Reach,1906,Western Association,F20700,Cooley,,0,Topeka,,1b120,cooley
-1907Reach,1906,Western Association,B00672,Cope,,1,Springfield,,,cope
-1907Reach,1906,Western Association,B00672,Cope,,2,Hutchinson,,,cope
-1907Reach,1906,Western Association,B00672,Cope,,T,,,B60,cope
-1907Reach,1906,Western Association,F20908,Cope,,1,Springfield,,2b,cope
-1907Reach,1906,Western Association,F20908,Cope,,2,Hutchinson,,2b,cope
-1907Reach,1906,Western Association,F20908,Cope,,T,,,2b35,cope
-1907Reach,1906,Western Association,F21059,Cope,,1,Springfield,,3b,cope
-1907Reach,1906,Western Association,F21059,Cope,,2,Hutchinson,,3b,cope
-1907Reach,1906,Western Association,F21059,Cope,,T,,,3b25,cope
-1907Reach,1906,Western Association,B00566,Corbin,,0,Leavenworth,,B56,corbin
-1907Reach,1906,Western Association,F20166,Corbin,,0,Leavenworth,,c52,corbin
-1907Reach,1906,Western Association,B00961,Craig,,1,Hutchinson,,,craig
-1907Reach,1906,Western Association,B00961,Craig,,2,Joplin,,,craig
-1907Reach,1906,Western Association,B00961,Craig,,T,,,B45,craig
-1907Reach,1906,Western Association,F20539,Craig,,1,Hutchinson,,p,craig
-1907Reach,1906,Western Association,F20539,Craig,,2,Joplin,,p,craig
-1907Reach,1906,Western Association,F20539,Craig,,T,,,p45,craig
-1907Reach,1906,Western Association,P10192,Craig,,1,Hutchinson,,,craig
-1907Reach,1906,Western Association,P10192,Craig,,2,Joplin,,,craig
-1907Reach,1906,Western Association,P10192,Craig,,T,,,,craig
-1907Reach,1906,Western Association,B01523,Craven,,1,Webb City,,,craven
-1907Reach,1906,Western Association,B01523,Craven,,2,Springfield,,,craven
-1907Reach,1906,Western Association,B01523,Craven,,T,,,B22,craven
-1907Reach,1906,Western Association,P10385,Craven,,1,Springfield,,,craven
-1907Reach,1906,Western Association,P10385,Craven,,2,Webb City,,,craven
-1907Reach,1906,Western Association,P10385,Craven,,T,,,,craven
-1907Reach,1906,Western Association,F20612,Cravens,,1,Webb City,,p,craven
-1907Reach,1906,Western Association,F20612,Cravens,,2,Springfield,,p,craven
-1907Reach,1906,Western Association,F20612,Cravens,,T,,,p22,craven
-1907Reach,1906,Western Association,B01135,Crisp,,0,Leavenworth,,B7,crisp
-1907Reach,1906,Western Association,F20190,Crisp,,1,Leavenworth,,c,crisp
-1907Reach,1906,Western Association,F20190,Crisp,,2,Webb City,,c,crisp
-1907Reach,1906,Western Association,F20190,Crisp,,T,,,c7,crisp
-1907Reach,1906,Western Association,B00381,Dalrymple,,0,Joplin,,B132,dalrymple
-1907Reach,1906,Western Association,F21502,Dalrymple,,0,Joplin,,of132,dalrymple
-1907Reach,1906,Western Association,B01181,Damman,,0,Wichita,,B9,damman
-1907Reach,1906,Western Association,B00286,Davis,,1,Webb City,,,davis
-1907Reach,1906,Western Association,B00286,Davis,,2,Topeka,,,davis
-1907Reach,1906,Western Association,B00286,Davis,,T,,,B104,davis
-1907Reach,1906,Western Association,F21760,Davis,,1,Webb City,,of,davis
-1907Reach,1906,Western Association,F21760,Davis,,2,Topeka,,of,davis
-1907Reach,1906,Western Association,F21760,Davis,,T,,,of104,davis
-1907Reach,1906,Western Association,B00125,Downs,,0,Topeka,,B136,downs
-1907Reach,1906,Western Association,F20956,Downs,,0,Topeka,,2b136,downs
-1907Reach,1906,Western Association,B01055,Dunn,,0,Joplin,,B18,dunn
-1907Reach,1906,Western Association,F20962,Dunn,,0,Joplin,,2b18,dunn
-1907Reach,1906,Western Association,B00196,Durbin,,0,Joplin,,B58,durbin
-1907Reach,1906,Western Association,F20369,Durbin,,0,Joplin,,p40,durbin
-1907Reach,1906,Western Association,P10019,Durbin,,0,Joplin,,,durbin
-1907Reach,1906,Western Association,B00502,Edwards,,1,Wichita,,,edwards
-1907Reach,1906,Western Association,B00502,Edwards,,2,Leavenworth,,,edwards
-1907Reach,1906,Western Association,B00502,Edwards,,T,,,B35,edwards
-1907Reach,1906,Western Association,F20014,Edwards,,0,Leavenworth,,c26,edwards
-1907Reach,1906,Western Association,F21961,Edwards,,1,Wichita,,of,edwards
-1907Reach,1906,Western Association,F21961,Edwards,,2,Leavenworth,,of,edwards
-1907Reach,1906,Western Association,F21961,Edwards,,T,,,of11,edwards
-1907Reach,1906,Western Association,B01143,Ellis,,0,Springfield,,B13,ellis
-1907Reach,1906,Western Association,F20482,Ellis,,1,Springfield,,p,ellis
-1907Reach,1906,Western Association,F20482,Ellis,,2,Joplin,,p,ellis
-1907Reach,1906,Western Association,F20482,Ellis,,T,,,p8,ellis
-1907Reach,1906,Western Association,P10432,Ellis,,1,Springfield,,,ellis
-1907Reach,1906,Western Association,P10432,Ellis,,2,Joplin,,,ellis
-1907Reach,1906,Western Association,P10432,Ellis,,T,,,,ellis
-1907Reach,1906,Western Association,B01156,Fanning,,0,Leavenworth,,B18,fanning
-1907Reach,1906,Western Association,F20303,Fanning,,0,Leavenworth,,p18,fanning
-1907Reach,1906,Western Association,P10429,Fanning,,0,Leavenworth,,,fanning
-1907Reach,1906,Western Association,B01384,Fetz,,0,Springfield,,B16,fetz
-1907Reach,1906,Western Association,F21822,Fetz,,0,Springfield,,of12,fetz
-1907Reach,1906,Western Association,B00771,Fillman,,0,Wichita,,B72,fillman
-1907Reach,1906,Western Association,F21229,Fillman,,0,Wichita,,ss72,fillman
-1907Reach,1906,Western Association,B00760,Firestine,,0,Leavenworth,,B7,firestine
-1907Reach,1906,Western Association,F21324,Firestine,,0,Leavenworth,,ss7,firestine
-1907Reach,1906,Western Association,B01580,Flaherty,,0,Hutchinson,,B19,flaherty
-1907Reach,1906,Western Association,P10410,Flaherty,,0,Hutchinson,,,flaherty
-1907Reach,1906,Western Association,F20583,Fleharty,,0,Hutchinson,,p19,flaherty
-1907Reach,1906,Western Association,B01275,Forrester,,0,Topeka,,B44,forrester
-1907Reach,1906,Western Association,F20604,Forrester,,0,Topeka,,p44,forrester
-1907Reach,1906,Western Association,P10100,Forrester,,0,Topeka,,,forrester
-1907Reach,1906,Western Association,B00045,From,,0,Wichita,,B16,from
-1907Reach,1906,Western Association,F20279,From,,0,Wichita,,p16,from
-1907Reach,1906,Western Association,P10043,From,,0,Wichita,,,from
-1907Reach,1906,Western Association,B00614,Genins,,0,Hutchinson,,B140,genins
-1907Reach,1906,Western Association,F20841,Genins,,0,Hutchinson,,2b140,genins
-1907Reach,1906,Western Association,B01359,Gill,,0,Webb City,,B39,gill
-1907Reach,1906,Western Association,F20316,Gill,,0,Webb City,,p31,gill
-1907Reach,1906,Western Association,F21854,Gill,,0,Webb City,,of8,gill
-1907Reach,1906,Western Association,P10320,Gill,,0,Webb City,,,gill
-1907Reach,1906,Western Association,B01595,Gilpatrick,,0,St. Joseph,,B8,gilpatrick
-1907Reach,1906,Western Association,F20401,Gilpatrick,,0,Hutchinson,,p8,gilpatrick
-1907Reach,1906,Western Association,P10399,Gilpatrick,,0,Hutchinson,,,gilpatrick
-1907Reach,1906,Western Association,B00695,Goes,,0,Springfield,,B117,goes
-1907Reach,1906,Western Association,F20131,Goes,,0,Springfield,,c14,goes
-1907Reach,1906,Western Association,F21614,Goes,,0,Springfield,,of113,goes
-1907Reach,1906,Western Association,B00879,Graves,,1,Topeka,,,graves
-1907Reach,1906,Western Association,B00879,Graves,,2,Hutchinson,,,graves
-1907Reach,1906,Western Association,B00879,Graves,,T,,,B101,graves
-1907Reach,1906,Western Association,F21638,Graves,,1,Topeka,,of,graves
-1907Reach,1906,Western Association,F21638,Graves,,2,Hutchinson,,of,graves
-1907Reach,1906,Western Association,F21638,Graves,,T,,,of101,graves
-1907Reach,1906,Western Association,B00752,Green,,1,Wichita,,,green
-1907Reach,1906,Western Association,B00752,Green,,2,Oklahoma City,,,green
-1907Reach,1906,Western Association,B00752,Green,,T,,,B131,green
-1907Reach,1906,Western Association,F20864,Green,,1,Wichita,,2b,green
-1907Reach,1906,Western Association,F20864,Green,,2,Oklahoma City,,2b,green
-1907Reach,1906,Western Association,F20864,Green,,T,,,2b35,green
-1907Reach,1906,Western Association,F21566,Green,,1,Wichita,,of,green
-1907Reach,1906,Western Association,F21566,Green,,2,Oklahoma City,,of,green
-1907Reach,1906,Western Association,F21566,Green,,T,,,of93,green
-1907Reach,1906,Western Association,B01444,Groom,,0,Springfield,,B46,groom
-1907Reach,1906,Western Association,F20375,Groom,,0,Springfield,,p42,groom
-1907Reach,1906,Western Association,P10176,Groom,,0,Springfield,,,groom
-1907Reach,1906,Western Association,B00427,Halla,,0,Topeka,,B33,halla
-1907Reach,1906,Western Association,F20254,Halla,,0,Topeka,,p19,halla
-1907Reach,1906,Western Association,F20713,Halla,,0,Topeka,,1b10,halla
-1907Reach,1906,Western Association,P10024,Halla,,0,Topeka,,,halla
-1907Reach,1906,Western Association,B00544,Harrington,,0,Leavenworth,,B139,harrington
-1907Reach,1906,Western Association,F21475,Harrington,,0,Springfield,,of139,harrington
-1907Reach,1906,Western Association,B00553,Hauffman,,0,Webb City,,B11,huffman
-1907Reach,1906,Western Association,B01617,Hendrix,,0,Wichita,,B10,hendrix
-1907Reach,1906,Western Association,F20334,Hendrix,,0,Wichita,,p10,hendrix
-1907Reach,1906,Western Association,P10056,Hendrix,,0,Wichita,,,hendrix
-1907Reach,1906,Western Association,B00936,Henry,,0,Topeka,,B111,henry
-1907Reach,1906,Western Association,F20072,Henry,,0,Topeka,,c111,henry
-1907Reach,1906,Western Association,B01010,Herr,,0,Hutchinson,,B37,herr
-1907Reach,1906,Western Association,F20571,Herr,,0,Hutchinson,,p37,herr
-1907Reach,1906,Western Association,P10184,Herr,,0,Hutchinson,,,herr
-1907Reach,1906,Western Association,B00278,Hetling,,0,Springfield,,B140,hetling
-1907Reach,1906,Western Association,F21068,Hetling,,0,Springfield,,3b140,hetling
-1907Reach,1906,Western Association,B00163,Holland,,0,Wichita,,B141,holland
-1907Reach,1906,Western Association,F20115,Holland,,0,Wichita,,c9,holland
-1907Reach,1906,Western Association,F20673,Holland,,0,Wichita,,1b133,holland
-1907Reach,1906,Western Association,B01402,Hollingsworth,,0,Joplin,,B38,hollingsworth
-1907Reach,1906,Western Association,F20458,Hollingsworth,,0,Joplin,,p38,hollingsworth
-1907Reach,1906,Western Association,P10070,Hollingsworth,,0,Joplin,,,hollingsworth
-1907Reach,1906,Western Association,B01203,Holmes,,0,Leavenworth,,B25,holmes
-1907Reach,1906,Western Association,F20189,Holmes,,0,Leavenworth,,c14,holmes
-1907Reach,1906,Western Association,F21840,Holmes,,0,Leavenworth,,of10,holmes
-1907Reach,1906,Western Association,B01551,Horton,,1,Springfield,,,horton
-1907Reach,1906,Western Association,B01551,Horton,,2,Hutchinson,,,horton
-1907Reach,1906,Western Association,B01551,Horton,,T,,,B40,horton
-1907Reach,1906,Western Association,F20518,Horton,,1,Springfield,,p,horton
-1907Reach,1906,Western Association,F20518,Horton,,2,Hutchinson,,p,horton
-1907Reach,1906,Western Association,F20518,Horton,,T,,,p40,horton
-1907Reach,1906,Western Association,P10290,Horton,,1,Springfield,,,horton
-1907Reach,1906,Western Association,P10290,Horton,,2,Hutchinson,,,horton
-1907Reach,1906,Western Association,P10290,Horton,,T,,,,horton
-1907Reach,1906,Western Association,B01567,Howey,,0,Topeka,,B31,howey
-1907Reach,1906,Western Association,P10357,Howey,,0,Topeka,,,howey
-1907Reach,1906,Western Association,F20206,Howie,,0,Topeka,,p14,howey
-1907Reach,1906,Western Association,F21531,Howie,,0,Topeka,,of17,howey
-1907Reach,1906,Western Association,F21705,Huffman,,0,Webb City,,of11,huffman
-1907Reach,1906,Western Association,B00609,Hurlbert,,0,Topeka,,B87,hurlbert
-1907Reach,1906,Western Association,F21488,Hurlburt,,0,Topeka,,of81,hurlbert
-1907Reach,1906,Western Association,B01345,Hutchinson,,0,Hutchinson,,B13,hutchinson
-1907Reach,1906,Western Association,F21125,Hutchinson,,0,Hutchinson,,3b13,hutchinson
-1907Reach,1906,Western Association,B00013,Irby,,0,Joplin,,B9,irby
-1907Reach,1906,Western Association,F21865,Irvy,,0,Joplin,,of9,irby
-1907Reach,1906,Western Association,B00912,Isbell,,1,Topeka,,,isbell
-1907Reach,1906,Western Association,B00912,Isbell,,2,Wichita,,,isbell
-1907Reach,1906,Western Association,B00912,Isbell,,3,Joplin,,,isbell
-1907Reach,1906,Western Association,B00912,Isbell,,T,,,B13,isbell
-1907Reach,1906,Western Association,F20342,Isbell,,1,Topeka,,p,isbell
-1907Reach,1906,Western Association,F20342,Isbell,,2,Wichita,,p,isbell
-1907Reach,1906,Western Association,F20342,Isbell,,T,,,p13,isbell
-1907Reach,1906,Western Association,P10373,Isbell,,0,Wichita,,,isbell
-1907Reach,1906,Western Association,B00130,Johnson,,1,Leavenworth,,,johnson-lea+hut
-1907Reach,1906,Western Association,B00130,Johnson,,2,Hutchinson,,,johnson-lea+hut
-1907Reach,1906,Western Association,B00130,Johnson,,T,,,B98,johnson-lea+hut
-1907Reach,1906,Western Association,B00255,Johnson,,0,Wichita,,B6,johnson-wic
-1907Reach,1906,Western Association,F21084,Johnson,,1,Leavenworth,,3b,johnson-lea+hut
-1907Reach,1906,Western Association,F21084,Johnson,,2,Hutchinson,,3b,johnson-lea+hut
-1907Reach,1906,Western Association,F21084,Johnson,,T,,,3b40,johnson-lea+hut
-1907Reach,1906,Western Association,F21278,Johnson,,1,Leavenworth,,ss,johnson-lea+hut
-1907Reach,1906,Western Association,F21278,Johnson,,2,Hutchinson,,ss,johnson-lea+hut
-1907Reach,1906,Western Association,F21278,Johnson,,T,,,ss28,johnson-lea+hut
-1907Reach,1906,Western Association,F21469,Johnson,,1,Leavenworth,,of,johnson-lea+hut
-1907Reach,1906,Western Association,F21469,Johnson,,2,Hutchinson,,of,johnson-lea+hut
-1907Reach,1906,Western Association,F21469,Johnson,,T,,,of29,johnson-lea+hut
-1907Reach,1906,Western Association,F21973,Johnson,,0,Wichita,,of6,johnson-wic
-1907Reach,1906,Western Association,B01368,Jones,,0,Webb City,,B19,jones
-1907Reach,1906,Western Association,F20981,Jones,,0,Wichita,,3b19,jones
-1907Reach,1906,Western Association,B00158,Kahl,R.,0,Leavenworth,,B138,kahl.r
-1907Reach,1906,Western Association,B00651,Kahl,N.,0,Leavenworth,,B46,kahl.n
-1907Reach,1906,Western Association,F20832,Kahl,N.,0,Leavenworth,,2b7,kahl.n
-1907Reach,1906,Western Association,F20943,Kahl,K.,0,Leavenworth,,2b128,kahl.r
-1907Reach,1906,Western Association,F21739,Kahl,N.,0,Leavenworth,,of30,kahl.n
-1907Reach,1906,Western Association,F21397,Kahn,B.,0,Leavenworth,,ss10,kahl.r
-1907Reach,1906,Western Association,F20222,Kauffman,,0,Hutchinson,,p7,kaufman
-1907Reach,1906,Western Association,B01538,Kaufman,,0,Hutchinson,,B7,kaufman
-1907Reach,1906,Western Association,P10336,Kaufman,,0,Hutchinson,,,kaufman
-1907Reach,1906,Western Association,B00356,Kemmer,,0,Hutchinson,,B41,kemmer
-1907Reach,1906,Western Association,F20721,Kemmer,,0,Hutchinson,,1b41,kemmer
-1907Reach,1906,Western Association,B01572,Kern,,0,Leavenworth,,B14,kern
-1907Reach,1906,Western Association,F20144,Kern,,0,Leavenworth,,c14,kern
-1907Reach,1906,Western Association,B00904,Ketcham,,0,Webb City,,B24,ketcham
-1907Reach,1906,Western Association,F21936,Ketchum,,0,Webb City,,of24,ketcham
-1907Reach,1906,Western Association,B00343,Kling,,1,Hutchinson,,,kling
-1907Reach,1906,Western Association,B00343,Kling,,2,Wichita,,,kling
-1907Reach,1906,Western Association,B00343,Kling,,T,,,B47,kling
-1907Reach,1906,Western Association,F21130,Kling,,1,Hutchinson,,3b,kling
-1907Reach,1906,Western Association,F21130,Kling,,2,Wichita,,3b,kling
-1907Reach,1906,Western Association,F21130,Kling,,T,,,3b47,kling
-1907Reach,1906,Western Association,B00898,Kraner,,1,Topeka,,,kraner
-1907Reach,1906,Western Association,B00898,Kraner,,2,Joplin,,,kraner
-1907Reach,1906,Western Association,B00898,Kraner,,T,,,B37,kraner
-1907Reach,1906,Western Association,F20810,Kraner,,1,Topeka,,1b,kraner
-1907Reach,1906,Western Association,F20810,Kraner,,2,Joplin,,1b,kraner
-1907Reach,1906,Western Association,F20810,Kraner,,T,,,1b18,kraner
-1907Reach,1906,Western Association,F21887,Kraner,,1,Topeka,,of,kraner
-1907Reach,1906,Western Association,F21887,Kraner,,2,Joplin,,of,kraner
-1907Reach,1906,Western Association,F21887,Kraner,,T,,,of14,kraner
-1907Reach,1906,Western Association,B00021,Landreth,,0,Topeka,,B5,landreth
-1907Reach,1906,Western Association,F21427,Landreth,,0,Topeka,,of5,landreth
-1907Reach,1906,Western Association,B00491,Lattimer,,0,Webb City,,B31,lattimer
-1907Reach,1906,Western Association,F20211,Lattimer,,0,Webb City,,p8,lattimer
-1907Reach,1906,Western Association,F21879,Lattimer,,0,Webb City,,of23,lattimer
-1907Reach,1906,Western Association,P10035,Lattimore,,0,Webb City,,,lattimer
-1907Reach,1906,Western Association,B00638,Laughlin,,1,Webb City,,,laughlin
-1907Reach,1906,Western Association,B00638,Laughlin,,2,Wichita,,,laughlin
-1907Reach,1906,Western Association,B00638,Laughlin,,T,,,B102,laughlin
-1907Reach,1906,Western Association,F21021,Laughlin,,0,Wichita,,3b68,laughlin
-1907Reach,1906,Western Association,F21356,Laughlin,,0,Wichita,,ss17,laughlin
-1907Reach,1906,Western Association,F21403,Laughlin,,0,Webb City,,of16,laughlin
-1907Reach,1906,Western Association,B01489,Le Roi,,0,Leavenworth,,B17,leroi
-1907Reach,1906,Western Association,F21013,LeRoi,,0,Leavenworth,,3b17,leroi
-1907Reach,1906,Western Association,B00229,Lewis,,0,Oklahoma City,,B117,lewis
-1907Reach,1906,Western Association,F20080,Lewis,,0,Oklahoma City,,c90,lewis
-1907Reach,1906,Western Association,F20657,Lewis,,0,Oklahoma City,,1b13,lewis
-1907Reach,1906,Western Association,B00319,Lofton,,0,Oklahoma City,,B120,lofton
-1907Reach,1906,Western Association,F21695,Lofton,,0,Oklahoma City,,of120,lofton
-1907Reach,1906,Western Association,B00037,Lyons,,0,Springfield,,B10,lyons-spr
-1907Reach,1906,Western Association,B01078,Lyons,,0,Wichita,,B22,lyons-wic
-1907Reach,1906,Western Association,F21158,Lyons,,0,Wichita,,3b22,lyons-wic
-1907Reach,1906,Western Association,F21726,Lyons,,0,Springfield,,of10,lyons-spr
-1907Reach,1906,Western Association,B01216,Marvin,,0,Webb City,,B22,marvin
-1907Reach,1906,Western Association,F21833,Marvin,,0,Webb City,,of22,marvin
-1907Reach,1906,Western Association,B01170,McCollum,,0,Webb City,,B16,mccollum
-1907Reach,1906,Western Association,F21528,McCollum,,0,Webb City,,of16,mccollum
-1907Reach,1906,Western Association,B01162,McDill,,1,Webb City,,,mcdill
-1907Reach,1906,Western Association,B01162,McDill,,2,Joplin,,,mcdill
-1907Reach,1906,Western Association,B01162,McDill,,T,,,B132,mcdill
-1907Reach,1906,Western Association,F20893,McDill,,1,Webb City,,2b,mcdill
-1907Reach,1906,Western Association,F20893,McDill,,2,Joplin,,2b,mcdill
-1907Reach,1906,Western Association,F20893,McDill,,T,,,2b41,mcdill
-1907Reach,1906,Western Association,F21149,McDill,,0,Webb City,,3b91,mcdill
-1907Reach,1906,Western Association,F20547,McInnes,,0,Topeka,,p53,mcinnis
-1907Reach,1906,Western Association,B00667,McInnis,,0,Topeka,,B53,mcinnis
-1907Reach,1906,Western Association,P10062,McInnis,,0,Topeka,,,mcinnis
-1907Reach,1906,Western Association,B00397,McLear,,0,Springfield,,B117,mclear
-1907Reach,1906,Western Association,F20935,McLear,,1,Springfield,,2b,mclear
-1907Reach,1906,Western Association,F20935,McLear,,2,Wichita,,2b,mclear
-1907Reach,1906,Western Association,F20935,McLear,,T,,,2b83,mclear
-1907Reach,1906,Western Association,F21381,McLear,,0,Springfield,,ss34,mclear
-1907Reach,1906,Western Association,B00854,McLuckie,,0,Hutchinson,,B30,mcluckie
-1907Reach,1906,Western Association,F21957,McLuckie,,0,Hutchinson,,of30,mcluckie
-1907Reach,1906,Western Association,P10159,Meredeth,,0,Webb City,,,meredith
-1907Reach,1906,Western Association,B00531,Meredith,,0,Webb City,,B69,meredith
-1907Reach,1906,Western Association,F20474,Meredith,,0,Webb City,,p33,meredith
-1907Reach,1906,Western Association,F21667,Meredith,,0,Webb City,,of36,meredith
-1907Reach,1906,Western Association,F21442,Milan,,0,Wichita,,of62,millan
-1907Reach,1906,Western Association,B00920,Millan,,0,Wichita,,B62,millan
-1907Reach,1906,Western Association,B00084,Miller,,0,Wichita,,B141,miller
-1907Reach,1906,Western Association,F21491,Miller,,0,Wichita,,of141,miller
-1907Reach,1906,Western Association,B01108,Milton,,1,Wichita,,,milton
-1907Reach,1906,Western Association,B01108,Milton,,2,Webb City,,,milton
-1907Reach,1906,Western Association,B01108,Milton,,T,,,B61,milton
-1907Reach,1906,Western Association,F20463,Milton,,1,Wichita,,p,milton
-1907Reach,1906,Western Association,F20463,Milton,,2,Webb City,,p,milton
-1907Reach,1906,Western Association,F20463,Milton,,T,,,p19,milton
-1907Reach,1906,Western Association,F20768,Milton,,1,Wichita,,1b,milton
-1907Reach,1906,Western Association,F20768,Milton,,2,Webb City,,1b,milton
-1907Reach,1906,Western Association,F20768,Milton,,T,,,1b19,milton
-1907Reach,1906,Western Association,F21672,Milton,,0,Wichita,,of15,milton
-1907Reach,1906,Western Association,P10348,Milton,,1,Wichita,,,milton
-1907Reach,1906,Western Association,P10348,Milton,,2,Webb City,,,milton
-1907Reach,1906,Western Association,P10348,Milton,,T,,,,milton
-1907Reach,1906,Western Association,B00577,Munroe,,0,Hutchinson,,B42,munroe
-1907Reach,1906,Western Association,F21904,Munroe,,0,Hutchinson,,of42,munroe
-1907Reach,1906,Western Association,B00469,Murray,P.,1,Wichita,,,murray-wic+spr
-1907Reach,1906,Western Association,B00469,Murray,P.,2,Springfield,,,murray-wic+spr
-1907Reach,1906,Western Association,B00469,Murray,P.,T,,,B134,murray-wic+spr
-1907Reach,1906,Western Association,B01313,Murray,,0,Hutchinson,,B46,murray-hut
-1907Reach,1906,Western Association,F20792,Murray,,0,Hutchinson,,1b20,murray-hut
-1907Reach,1906,Western Association,F21045,Murray,,0,Hutchinson,,3b27,murray-hut
-1907Reach,1906,Western Association,F21450,Murray,P.,0,Springfield,,of134,murray-wic+spr
-1907Reach,1906,Western Association,B01477,Nash,,0,Wichita,,B17,nash
-1907Reach,1906,Western Association,F20327,Nash,,0,Wichita,,p17,nash
-1907Reach,1906,Western Association,P10407,Nash,,0,Wichita,,,nash
-1907Reach,1906,Western Association,B01376,Nelson,,0,Oklahoma City,,B22,nelson
-1907Reach,1906,Western Association,F20496,Nelson,,0,Oklahoma City,,p22,nelson
-1907Reach,1906,Western Association,P10228,Nelson,,0,Oklahoma City,,,nelson
-1907Reach,1906,Western Association,B00623,Noyes,,0,Hutchinson,,B116,noyes
-1907Reach,1906,Western Association,F20102,Noyes,,0,Hutchinson,,c116,noyes
-1907Reach,1906,Western Association,B00528,O'Leary,,0,Wichita,,B128,oleary
-1907Reach,1906,Western Association,F20023,O'Leary,,0,Wichita,,c128,oleary
-1907Reach,1906,Western Association,B00488,Ogee,,0,Oklahoma City,,B83,ogee
-1907Reach,1906,Western Association,F20924,Ogee,,0,Oklahoma City,,2b83,ogee
-1907Reach,1906,Western Association,B00101,Olmstead,,0,Springfield,,B62,olmstead
-1907Reach,1906,Western Association,F20449,Olmstead,,0,Springfield,,p36,olmstead
-1907Reach,1906,Western Association,P10145,Olmsted,,0,Springfield,,,olmstead
-1907Reach,1906,Western Association,B00811,Olsen,S.,0,Joplin,,B139,olson-jop
-1907Reach,1906,Western Association,B00646,Olson,E.,1,Oklahoma City,,,olson-okc+top
-1907Reach,1906,Western Association,B00646,Olson,E.,2,Topeka,,,olson-okc+top
-1907Reach,1906,Western Association,B00646,Olson,E.,T,,,B26,olson-okc+top
-1907Reach,1906,Western Association,B01453,Olson,I.,0,Webb City,,B44,olson-web
-1907Reach,1906,Western Association,F21037,Olson,,0,Webb City,,3b14,olson-web
-1907Reach,1906,Western Association,F21174,Olson,E.,1,Oklahoma City,,ss,olson-okc+top
-1907Reach,1906,Western Association,F21174,Olson,E.,2,Topeka,,ss,olson-okc+top
-1907Reach,1906,Western Association,F21174,Olson,E.,T,,,ss20,olson-okc+top
-1907Reach,1906,Western Association,F21182,Olson,S.,0,Joplin,,ss139,olson-jop
-1907Reach,1906,Western Association,B00264,Pendry,,1,Oklahoma City,,,pendry
-1907Reach,1906,Western Association,B00264,Pendry,,2,Joplin,,,pendry
-1907Reach,1906,Western Association,B00264,Pendry,,T,,,B134,pendry
-1907Reach,1906,Western Association,F21101,Pendry,,0,Oklahoma City,,3b134,pendry
-1907Reach,1906,Western Association,B00241,Pennell,,1,Wichita,,,pennell
-1907Reach,1906,Western Association,B00241,Pennell,,2,Topeka,,,pennell
-1907Reach,1906,Western Association,B00241,Pennell,,T,,,B104,pennell
-1907Reach,1906,Western Association,F20878,Pennell,,1,Wichita,,2b,pennell
-1907Reach,1906,Western Association,F20878,Pennell,,2,Topeka,,2b,pennell
-1907Reach,1906,Western Association,F20878,Pennell,,T,,,2b54,pennell
-1907Reach,1906,Western Association,F21553,Pennell,,1,Wichita,,of,pennell
-1907Reach,1906,Western Association,F21553,Pennell,,2,Topeka,,of,pennell
-1907Reach,1906,Western Association,F21553,Pennell,,T,,,of50,pennell
-1907Reach,1906,Western Association,B01064,Pennington,,0,Leavenworth,,B12,pennington
-1907Reach,1906,Western Association,F21335,Pennington,,0,Leavenworth,,ss12,pennington
-1907Reach,1906,Western Association,B00794,Persch,,0,Springfield,,B139,persch
-1907Reach,1906,Western Association,F21811,Persch,,0,Springfield,,of139,persch
-1907Reach,1906,Western Association,B00174,Pettigrew,,0,Hutchinson,,B129,pettigrew
-1907Reach,1906,Western Association,F21589,Pettigrew,,0,Hutchinson,,of129,pettigrew
-1907Reach,1906,Western Association,B00985,Pinkerton,,0,Leavenworth,,B25,pinkerton
-1907Reach,1906,Western Association,F20128,Pinkerton,,0,Leavenworth,,c25,pinkerton
-1907Reach,1906,Western Association,B00182,Porkorney,,0,Webb City,,B134,porkorney
-1907Reach,1906,Western Association,F20919,Porkorney,,0,Webb City,,2b134,porkorney
-1907Reach,1906,Western Association,B01428,Port,,0,Leavenworth,,B5,port
-1907Reach,1906,Western Association,F20240,Port,,0,Leavenworth,,p5,port
-1907Reach,1906,Western Association,B00705,Porter,,0,Oklahoma City,,B39,porter
-1907Reach,1906,Western Association,F20699,Porter,,0,Oklahoma City,,1b39,porter
-1907Reach,1906,Western Association,B00149,Price,,0,Webb City,,B12,price
-1907Reach,1906,Western Association,F21416,Price,,0,Webb City,,of12,price
-1907Reach,1906,Western Association,B00117,Queisser,,1,Wichita,,,queisser
-1907Reach,1906,Western Association,B00117,Queisser,,2,Leavenworth,,,queisser
-1907Reach,1906,Western Association,B00117,Queisser,,T,,,B78,queisser
-1907Reach,1906,Western Association,F20391,Queisser,,0,Leavenworth,,p25,queisser
-1907Reach,1906,Western Association,F21308,Queisser,,0,Leavenworth,,ss33,queisser
-1907Reach,1906,Western Association,F21752,Queisser,,0,Leavenworth,,of20,queisser
-1907Reach,1906,Western Association,P10266,Queisser,,0,Leavenworth,,,queisser
-1907Reach,1906,Western Association,B01466,Rand,,0,Leavenworth,,B7,rand
-1907Reach,1906,Western Association,F21362,Rand,,0,Leavenworth,,ss7,rand
-1907Reach,1906,Western Association,B00739,Rapps,,1,Leavenworth,,,rapps
-1907Reach,1906,Western Association,B00739,Rapps,,2,Wichita,,,rapps
-1907Reach,1906,Western Association,B00739,Rapps,,T,,,B130,rapps
-1907Reach,1906,Western Association,F21286,Rapps,,1,Leavenworth,,ss,rapps
-1907Reach,1906,Western Association,F21286,Rapps,,2,Hutchinson,,ss,rapps
-1907Reach,1906,Western Association,F21286,Rapps,,T,,,ss11,rapps
-1907Reach,1906,Western Association,F21577,Rapps,,1,Leavenworth,,of,rapps
-1907Reach,1906,Western Association,F21577,Rapps,,2,Wichita,,of,rapps
-1907Reach,1906,Western Association,F21577,Rapps,,T,,,of119,rapps
-1907Reach,1906,Western Association,B00840,Rathburn,,1,Wichita,,,rathburn
-1907Reach,1906,Western Association,B00840,Rathburn,,2,Leavenworth,,,rathburn
-1907Reach,1906,Western Association,B00840,Rathburn,,T,,,B29,rathburn
-1907Reach,1906,Western Association,F21163,Rathburn,,1,Wichita,,3b,rathburn
-1907Reach,1906,Western Association,F21163,Rathburn,,2,Leavenworth,,3b,rathburn
-1907Reach,1906,Western Association,F21163,Rathburn,,T,,,3b29,rathburn
-1907Reach,1906,Western Association,B00210,Reed,,0,Springfield,,B135,reed
-1907Reach,1906,Western Association,F20685,Reed,,0,Springfield,,1b135,reed
-1907Reach,1906,Western Association,B01337,Regan,,0,Topeka,,B134,regan
-1907Reach,1906,Western Association,F21370,Regan,,0,Topeka,,ss134,regan
-1907Reach,1906,Western Association,B01227,Risley,,0,Oklahoma City,,B123,risley
-1907Reach,1906,Western Association,F20745,Risley,,0,Oklahoma City,,1b71,risley
-1907Reach,1906,Western Association,F21293,Risley,,0,Oklahoma City,,ss52,risley
-1907Reach,1906,Western Association,B00434,Rohn,,0,Webb City,,B138,rohn
-1907Reach,1906,Western Association,F20661,Rohn,,0,Webb City,,1b138,rohn
-1907Reach,1906,Western Association,B01029,Rollins,,0,Webb City,,B29,rollins
-1907Reach,1906,Western Association,F21948,Rollins,,0,Webb City,,of29,rollins
-1907Reach,1906,Western Association,B00324,Root,,0,Oklahoma City,,B49,root
-1907Reach,1906,Western Association,F20505,Root,,0,Oklahoma City,,p44,root
-1907Reach,1906,Western Association,P10097,Root,,0,Oklahoma City,,,root
-1907Reach,1906,Western Association,B01321,Rowan,,0,Leavenworth,,B35,rowan
-1907Reach,1906,Western Association,F20425,Rowan,,0,Leavenworth,,p35,rowan
-1907Reach,1906,Western Association,P10081,Rowan,,0,Leavenworth,,,rowan
-1907Reach,1906,Western Association,B01250,Sackett,,0,Leavenworth,,B33,sackett
-1907Reach,1906,Western Association,F21255,Sackett,,0,Leavenworth,,ss33,sackett
-1907Reach,1906,Western Association,B01234,Schrant,,0,Webb City,,B11,schrant
-1907Reach,1906,Western Association,B00308,Scoggins,,0,Oklahoma City,,B140,scoggins
-1907Reach,1906,Western Association,F21515,Scoggins,,0,Oklahoma City,,of140,scoggins
-1907Reach,1906,Western Association,B00232,Seabaugh,,0,Springfield,,B126,seabaugh
-1907Reach,1906,Western Association,F20067,Seabaugh,,0,Springfield,,c125,seabaugh
-1907Reach,1906,Western Association,B00293,Seigle,,1,Oklahoma City,,,seigle
-1907Reach,1906,Western Association,B00293,Seigle,,2,Wichita,,,seigle
-1907Reach,1906,Western Association,B00293,Seigle,,T,,,B79,seigle
-1907Reach,1906,Western Association,F20038,Seigle,,1,Oklahoma City,,c,seigle
-1907Reach,1906,Western Association,F20038,Seigle,,2,Wichita,,c,seigle
-1907Reach,1906,Western Association,F20038,Seigle,,T,,,c79,seigle
-1907Reach,1906,Western Association,B00806,Shaft,,0,Hutchinson,,B58,shaft
-1907Reach,1906,Western Association,F21771,Shaft,,0,Hutchinson,,of58,shaft
-1907Reach,1906,Western Association,B00973,Shaner,,0,Webb City,,B36,shaner
-1907Reach,1906,Western Association,F20265,Shaner,,0,Webb City,,p20,shaner
-1907Reach,1906,Western Association,F21718,Shaner,,0,Webb City,,of15,shaner
-1907Reach,1906,Western Association,P10202,Shaner,,0,Webb City,,,shaner
-1907Reach,1906,Western Association,B01124,Shaw,,0,Hutchinson,,B8,shaw
-1907Reach,1906,Western Association,F20233,Shaw,,0,Hutchinson,,p8,shaw
-1907Reach,1906,Western Association,P10289,Shaw,,0,Hutchinson,,,shaw
-1907Reach,1906,Western Association,B00475,Shimonek,,0,Joplin,,B140,shimonek
-1907Reach,1906,Western Association,F20807,Shimonek,,0,Joplin,,1b13,shimonek
-1907Reach,1906,Western Association,F20970,Shimonek,,0,Joplin,,2b17,shimonek
-1907Reach,1906,Western Association,F21117,Shimonek,,0,Joplin,,3b110,shimonek
-1907Reach,1906,Western Association,F21898,Shrant,,0,Webb City,,of11,schrant
-1907Reach,1906,Western Association,B01415,Smith,,0,Topeka,,B5,smith
-1907Reach,1906,Western Association,B01392,Speer,,1,Wichita,,,speer
-1907Reach,1906,Western Association,B01392,Speer,,2,Leavenworth,,,speer
-1907Reach,1906,Western Association,B01392,Speer,,T,,,B47,speer
-1907Reach,1906,Western Association,F20560,Speer,,1,Leavenworth,,p,speer
-1907Reach,1906,Western Association,F20560,Speer,,2,Wichita,,p,speer
-1907Reach,1906,Western Association,F20560,Speer,,T,,,p47,speer
-1907Reach,1906,Western Association,P10137,Speer,,1,Leavenworth,,,speer
-1907Reach,1906,Western Association,P10137,Speer,,2,Wichita,,,speer
-1907Reach,1906,Western Association,P10137,Speer,,T,,,,speer
-1907Reach,1906,Western Association,B01032,Spencer,,0,Oklahoma City,,B9,spencer
-1907Reach,1906,Western Association,F21207,Spencer,,0,Oklahoma City,,ss9,spencer
-1907Reach,1906,Western Association,B01007,Stis,,1,Hutchinson,,,stis
-1907Reach,1906,Western Association,B01007,Stis,,2,Springfield,,,stis
-1907Reach,1906,Western Association,B01007,Stis,,T,,,B136,stis
-1907Reach,1906,Western Association,F20855,Stis,,1,Hutchinson,,2b,stis
-1907Reach,1906,Western Association,F20855,Stis,,2,Springfield,,2b,stis
-1907Reach,1906,Western Association,F20855,Stis,,T,,,2b103,stis
-1907Reach,1906,Western Association,F21590,Stis,,0,Hutchinson,,of33,stis
-1907Reach,1906,Western Association,B00718,Vanderhill,,0,Joplin,,B102,vanderhill
-1907Reach,1906,Western Association,F20051,Vanderhill,,0,Joplin,,c102,vanderhill
-1907Reach,1906,Western Association,B00403,Vaughn,,0,Leavenworth,,B90,vaughn
-1907Reach,1906,Western Association,F21000,Vaughn,,0,Leavenworth,,3b90,vaughn
-1907Reach,1906,Western Association,B00747,Walsh,P.,0,Hutchinson,,B55,walsh.p
-1907Reach,1906,Western Association,B01509,Walsh,C.,0,Hutchinson,,B34,walsh.c
-1907Reach,1906,Western Association,F20177,Walsh,P.,0,Hutchinson,,c31,walsh.p
-1907Reach,1906,Western Association,F20298,Walsh,C.,0,Hutchinson,,p34,walsh.c
-1907Reach,1906,Western Association,F21806,Walsh,P.,0,Hutchinson,,of24,walsh.p
-1907Reach,1906,Western Association,P10253,Walsh,,0,Hutchinson,,,walsh.c
-1907Reach,1906,Western Association,B00999,Weltner,,0,Springfield,,B88,weltner
-1907Reach,1906,Western Association,F21319,Weltner,,0,Springfield,,ss88,weltner
-1907Reach,1906,Western Association,B01269,Wescott,,1,Webb City,,,westcott
-1907Reach,1906,Western Association,B01269,Wescott,,2,Joplin,,,westcott
-1907Reach,1906,Western Association,B01269,Wescott,,T,,,B38,westcott
-1907Reach,1906,Western Association,F20648,Westcott,,1,Webb City,,p,westcott
-1907Reach,1906,Western Association,F20648,Westcott,,2,Joplin,,p,westcott
-1907Reach,1906,Western Association,F20648,Westcott,,T,,,p36,westcott
-1907Reach,1906,Western Association,P10244,Westcott,,1,Webb City,,,westcott
-1907Reach,1906,Western Association,P10244,Westcott,,2,Joplin,,,westcott
-1907Reach,1906,Western Association,P10244,Westcott,,T,,,,westcott
-1907Reach,1906,Western Association,B00092,White,,0,Webb City,,B138,white
-1907Reach,1906,Western Association,F21241,White,,0,Webb City,,ss138,white
-1907Reach,1906,Western Association,F20388,Wilkenson,,0,Joplin,,p17,wilkinson
-1907Reach,1906,Western Association,B00948,Wilkinson,,0,Joplin,,B17,wilkinson
-1907Reach,1906,Western Association,P10441,Wilkinson,,0,Joplin,,,wilkinson
-1907Reach,1906,Western Association,B01093,Willet,,0,Wichita,,B38,willett
-1907Reach,1906,Western Association,F20430,Willett,,0,Wichita,,p38,willett
-1907Reach,1906,Western Association,P10312,Willett,,0,Wichita,,,willett
-1907Reach,1906,Western Association,B00450,Wilson,,0,Oklahoma City,,B141,wilson-okc
-1907Reach,1906,Western Association,B00515,Wilson,,0,Webb City,,B44,wilson-web
-1907Reach,1906,Western Association,F20829,Wilson,F.,0,Oklahoma City,,1b14,wilson-okc
-1907Reach,1906,Western Association,F21794,Wilson,F.,0,Oklahoma City,,of127,wilson-okc
-1907Reach,1906,Western Association,F21912,Wilson,,0,Webb City,,of44,wilson-web
-1907Reach,1906,Western Association,B00957,Wisser,,0,Oklahoma City,,B51,wisser
-1907Reach,1906,Western Association,F21196,Wisser,,0,Oklahoma City,,ss51,wisser
-1907Reach,1906,Western Association,B00822,Wolfe,,0,Topeka,,B17,wolfe
-1907Reach,1906,Western Association,F21646,Wolfe,,0,Topeka,,of17,wolfe
-1907Reach,1906,Western Association,B01086,Womble,,1,Topeka,,,womble
-1907Reach,1906,Western Association,B01086,Womble,,2,Joplin,,,womble
-1907Reach,1906,Western Association,B01086,Womble,,3,Webb City,,,womble
-1907Reach,1906,Western Association,B01086,Womble,,T,,,B83,womble
-1907Reach,1906,Western Association,F21092,Womble,,1,Topeka,,3b,womble
-1907Reach,1906,Western Association,F21092,Womble,,2,Joplin,,3b,womble
-1907Reach,1906,Western Association,F21092,Womble,,T,,,3b61,womble
-1907Reach,1906,Western Association,F21783,Womble,,1,Joplin,,of,womble
-1907Reach,1906,Western Association,F21783,Womble,,2,Webb City,,of,womble
-1907Reach,1906,Western Association,F21783,Womble,,T,,,of21,womble
-1907Reach,1906,Western Association,P10215,Wood,,0,Oklahoma City,,,woods
-1907Reach,1906,Western Association,B01300,Woods,,0,Oklahoma City,,B50,woods
-1907Reach,1906,Western Association,F20350,Woods,,0,Oklahoma City,,p50,woods
-1907Reach,1906,Western Association,B00865,Wooley,,0,Leavenworth,,B138,wooley
-1907Reach,1906,Western Association,F21544,Wooley,,0,Leavenworth,,of138,wooley
-1907Reach,1906,Western Association,B01291,Young,,0,Springfield,,B48,young
-1907Reach,1906,Western Association,F20526,Young,,0,Springfield,,p48,young
-1907Reach,1906,Western Association,P10121,Young,,0,Springfield,,,young
-1907Reach,1906,Western Association,B00589,Zearfoss,,0,Topeka,,B23,zearfoss
-1907Reach,1906,Western Association,F20095,Zearfoss,,0,Topeka,,c23,zearfoss
-1907Reach,1906,Western Association,B00590,Zink,,0,Leavenworth,,B140,zink
-1907Reach,1906,Western Association,F20759,Zink,,0,Leavenworth,,1b140,zink
-1907Reach,1906,Western Association,B01242,Zoellers,,0,Wichita,,B26,zoellers
-1907Reach,1906,Western Association,F21920,Zoellers,,0,Wichita,,of26,zoellers
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+1907Reach,1906,Western Association,abbott,B00680,Abbott,,1,Springfield,,
+1907Reach,1906,Western Association,abbott,B00680,Abbott,,2,Hutchinson,,
+1907Reach,1906,Western Association,abbott,B00680,Abbott,,T,,,B108
+1907Reach,1906,Western Association,abbott,F20784,Abbott,,1,Joplin,,1b
+1907Reach,1906,Western Association,abbott,F20784,Abbott,,2,Hutchinson,,1b
+1907Reach,1906,Western Association,abbott,F20784,Abbott,,T,,,1b60
+1907Reach,1906,Western Association,abbott,F21680,Abbott,,0,Springfield,,of48
+1907Reach,1906,Western Association,andrews,B00416,Andrews,,0,Topeka,,B133
+1907Reach,1906,Western Association,andrews,F21076,Andrews,,0,Topeka,,3b133
+1907Reach,1906,Western Association,armstrong,B00887,Armstrong,,0,Joplin,,B118
+1907Reach,1906,Western Association,armstrong,F20153,Armstrong,,0,Joplin,,c32
+1907Reach,1906,Western Association,armstrong,F20776,Armstrong,,0,Joplin,,1b86
+1907Reach,1906,Western Association,arnold,B00362,Arnold,,0,Oklahoma City,,B7
+1907Reach,1906,Western Association,arnold,F20287,Arnold,,0,Oklahoma City,,p7
+1907Reach,1906,Western Association,arnold,P10361,Arnold,,0,Oklahoma City,,
+1907Reach,1906,Western Association,ashley,B01514,Ashley,,0,Leavenworth,,B38
+1907Reach,1906,Western Association,ashley,F20417,Ashley,,0,Leavenworth,,p38
+1907Reach,1906,Western Association,ashley,P10231,Ashley,,0,Leavenworth,,
+1907Reach,1906,Western Association,autrey,B00207,Autrey,,0,Webb City,,B96
+1907Reach,1906,Western Association,autrey,F21623,Autrey,,0,Webb City,,of96
+1907Reach,1906,Western Association,baerwald,B00442,Baerwald,,0,Joplin,,B138
+1907Reach,1906,Western Association,baerwald,F21651,Baerwald,,0,Joplin,,of128
+1907Reach,1906,Western Association,bailey,B01041,Bailey,,0,Oklahoma City,,B30
+1907Reach,1906,Western Association,bailey,F21343,Bailey,,0,Oklahoma City,,ss30
+1907Reach,1906,Western Association,bankhead,B00783,Bankhead,,1,Wichita,,
+1907Reach,1906,Western Association,bankhead,B00783,Bankhead,,2,Joplin,,
+1907Reach,1906,Western Association,bankhead,B00783,Bankhead,,T,,,B87
+1907Reach,1906,Western Association,bankhead,F20886,Bankhead,,1,Wichita,,2b
+1907Reach,1906,Western Association,bankhead,F20886,Bankhead,,2,Joplin,,2b
+1907Reach,1906,Western Association,bankhead,F20886,Bankhead,,T,,,2b46
+1907Reach,1906,Western Association,bankhead,F21264,Bankhead,,0,Wichita,,ss41
+1907Reach,1906,Western Association,bayless,B00370,Bayless,,0,Joplin,,B140
+1907Reach,1906,Western Association,bayless,F21747,Bayless,,0,Joplin,,of135
+1907Reach,1906,Western Association,becker,B00059,Becker,,0,Wichita,,B75
+1907Reach,1906,Western Association,becker,F20552,Becker,,0,Wichita,,p40
+1907Reach,1906,Western Association,becker,P10113,Becker,,0,Wichita,,
+1907Reach,1906,Western Association,bemis,B01288,Bemis,,0,Oklahoma City,,B45
+1907Reach,1906,Western Association,bemis,F20594,Bemis,,0,Oklahoma City,,p14
+1907Reach,1906,Western Association,bemis,P10168,Bemis,,0,Oklahoma City,,
+1907Reach,1906,Western Association,brown,B01546,Brown,,0,Hutchinson,,B14
+1907Reach,1906,Western Association,brown,F20997,Brown,,0,Hutchinson,,3b14
+1907Reach,1906,Western Association,burke,B01490,Burke,,0,Wichita,,B5
+1907Reach,1906,Western Association,burke,F21434,Burke,,0,Wichita,,of5
+1907Reach,1906,Western Association,campanion,B01431,Campanion,,1,Hutchinson,,
+1907Reach,1906,Western Association,campanion,B01431,Campanion,,2,Topeka,,
+1907Reach,1906,Western Association,campanion,B01431,Campanion,,T,,,B43
+1907Reach,1906,Western Association,campanion,P10304,Campanion,,1,Hutchinson,,
+1907Reach,1906,Western Association,campanion,P10304,Campanion,,2,Topeka,,
+1907Reach,1906,Western Association,campanion,P10304,Campanion,,T,,,
+1907Reach,1906,Western Association,campbell-wc,B00076,Campbell,,0,Webb City,,B10
+1907Reach,1906,Western Association,campbell-hut,B00335,Campbell,,0,Hutchinson,,B49
+1907Reach,1906,Western Association,campbell-wc,F20620,Campbell,,0,Webb City,,p10
+1907Reach,1906,Western Association,campbell-hut,F20737,Campbell,,0,Hutchinson,,1b49
+1907Reach,1906,Western Association,campbell-wc,P10277,Campbell,,0,Webb City,,
+1907Reach,1906,Western Association,carr,B01601,Carr,,0,Webb City,,B9
+1907Reach,1906,Western Association,casey,B00726,Casey,,0,Hutchinson,,B140
+1907Reach,1906,Western Association,casey,F21210,Casey,,0,Hutchinson,,ss140
+1907Reach,1906,Western Association,cavanaugh,B01119,Cavanaugh,,0,Leavenworth,,B18
+1907Reach,1906,Western Association,cavanaugh,F21232,Cavanaugh,,0,Leavenworth,,ss18
+1907Reach,1906,Western Association,cheek,B01197,Cheek,,0,Webb City,,B127
+1907Reach,1906,Western Association,cheek,F20046,Cheek,,0,Webb City,,c127
+1907Reach,1906,Western Association,cole,B00833,Cole,,0,Topeka,,B107
+1907Reach,1906,Western Association,cole,F21609,Cole,,0,Topeka,,of107
+1907Reach,1906,Western Association,campanion,F20636,Companion,,1,Hutchinson,,p
+1907Reach,1906,Western Association,campanion,F20636,Companion,,2,Topeka,,p
+1907Reach,1906,Western Association,campanion,F20636,Companion,,T,,,p34
+1907Reach,1906,Western Association,cooley,B00068,Cooley,,0,Topeka,,B124
+1907Reach,1906,Western Association,cooley,F20700,Cooley,,0,Topeka,,1b120
+1907Reach,1906,Western Association,cope,B00672,Cope,,1,Springfield,,
+1907Reach,1906,Western Association,cope,B00672,Cope,,2,Hutchinson,,
+1907Reach,1906,Western Association,cope,B00672,Cope,,T,,,B60
+1907Reach,1906,Western Association,cope,F20908,Cope,,1,Springfield,,2b
+1907Reach,1906,Western Association,cope,F20908,Cope,,2,Hutchinson,,2b
+1907Reach,1906,Western Association,cope,F20908,Cope,,T,,,2b35
+1907Reach,1906,Western Association,cope,F21059,Cope,,1,Springfield,,3b
+1907Reach,1906,Western Association,cope,F21059,Cope,,2,Hutchinson,,3b
+1907Reach,1906,Western Association,cope,F21059,Cope,,T,,,3b25
+1907Reach,1906,Western Association,corbin,B00566,Corbin,,0,Leavenworth,,B56
+1907Reach,1906,Western Association,corbin,F20166,Corbin,,0,Leavenworth,,c52
+1907Reach,1906,Western Association,craig,B00961,Craig,,1,Hutchinson,,
+1907Reach,1906,Western Association,craig,B00961,Craig,,2,Joplin,,
+1907Reach,1906,Western Association,craig,B00961,Craig,,T,,,B45
+1907Reach,1906,Western Association,craig,F20539,Craig,,1,Hutchinson,,p
+1907Reach,1906,Western Association,craig,F20539,Craig,,2,Joplin,,p
+1907Reach,1906,Western Association,craig,F20539,Craig,,T,,,p45
+1907Reach,1906,Western Association,craig,P10192,Craig,,1,Hutchinson,,
+1907Reach,1906,Western Association,craig,P10192,Craig,,2,Joplin,,
+1907Reach,1906,Western Association,craig,P10192,Craig,,T,,,
+1907Reach,1906,Western Association,craven,B01523,Craven,,1,Webb City,,
+1907Reach,1906,Western Association,craven,B01523,Craven,,2,Springfield,,
+1907Reach,1906,Western Association,craven,B01523,Craven,,T,,,B22
+1907Reach,1906,Western Association,craven,P10385,Craven,,1,Springfield,,
+1907Reach,1906,Western Association,craven,P10385,Craven,,2,Webb City,,
+1907Reach,1906,Western Association,craven,P10385,Craven,,T,,,
+1907Reach,1906,Western Association,craven,F20612,Cravens,,1,Webb City,,p
+1907Reach,1906,Western Association,craven,F20612,Cravens,,2,Springfield,,p
+1907Reach,1906,Western Association,craven,F20612,Cravens,,T,,,p22
+1907Reach,1906,Western Association,crisp,B01135,Crisp,,0,Leavenworth,,B7
+1907Reach,1906,Western Association,crisp,F20190,Crisp,,1,Leavenworth,,c
+1907Reach,1906,Western Association,crisp,F20190,Crisp,,2,Webb City,,c
+1907Reach,1906,Western Association,crisp,F20190,Crisp,,T,,,c7
+1907Reach,1906,Western Association,dalrymple,B00381,Dalrymple,,0,Joplin,,B132
+1907Reach,1906,Western Association,dalrymple,F21502,Dalrymple,,0,Joplin,,of132
+1907Reach,1906,Western Association,damman,B01181,Damman,,0,Wichita,,B9
+1907Reach,1906,Western Association,davis,B00286,Davis,,1,Webb City,,
+1907Reach,1906,Western Association,davis,B00286,Davis,,2,Topeka,,
+1907Reach,1906,Western Association,davis,B00286,Davis,,T,,,B104
+1907Reach,1906,Western Association,davis,F21760,Davis,,1,Webb City,,of
+1907Reach,1906,Western Association,davis,F21760,Davis,,2,Topeka,,of
+1907Reach,1906,Western Association,davis,F21760,Davis,,T,,,of104
+1907Reach,1906,Western Association,downs,B00125,Downs,,0,Topeka,,B136
+1907Reach,1906,Western Association,downs,F20956,Downs,,0,Topeka,,2b136
+1907Reach,1906,Western Association,dunn,B01055,Dunn,,0,Joplin,,B18
+1907Reach,1906,Western Association,dunn,F20962,Dunn,,0,Joplin,,2b18
+1907Reach,1906,Western Association,durbin,B00196,Durbin,,0,Joplin,,B58
+1907Reach,1906,Western Association,durbin,F20369,Durbin,,0,Joplin,,p40
+1907Reach,1906,Western Association,durbin,P10019,Durbin,,0,Joplin,,
+1907Reach,1906,Western Association,edwards,B00502,Edwards,,1,Wichita,,
+1907Reach,1906,Western Association,edwards,B00502,Edwards,,2,Leavenworth,,
+1907Reach,1906,Western Association,edwards,B00502,Edwards,,T,,,B35
+1907Reach,1906,Western Association,edwards,F20014,Edwards,,0,Leavenworth,,c26
+1907Reach,1906,Western Association,edwards,F21961,Edwards,,1,Wichita,,of
+1907Reach,1906,Western Association,edwards,F21961,Edwards,,2,Leavenworth,,of
+1907Reach,1906,Western Association,edwards,F21961,Edwards,,T,,,of11
+1907Reach,1906,Western Association,ellis,B01143,Ellis,,0,Springfield,,B13
+1907Reach,1906,Western Association,ellis,F20482,Ellis,,1,Springfield,,p
+1907Reach,1906,Western Association,ellis,F20482,Ellis,,2,Joplin,,p
+1907Reach,1906,Western Association,ellis,F20482,Ellis,,T,,,p8
+1907Reach,1906,Western Association,ellis,P10432,Ellis,,1,Springfield,,
+1907Reach,1906,Western Association,ellis,P10432,Ellis,,2,Joplin,,
+1907Reach,1906,Western Association,ellis,P10432,Ellis,,T,,,
+1907Reach,1906,Western Association,fanning,B01156,Fanning,,0,Leavenworth,,B18
+1907Reach,1906,Western Association,fanning,F20303,Fanning,,0,Leavenworth,,p18
+1907Reach,1906,Western Association,fanning,P10429,Fanning,,0,Leavenworth,,
+1907Reach,1906,Western Association,fetz,B01384,Fetz,,0,Springfield,,B16
+1907Reach,1906,Western Association,fetz,F21822,Fetz,,0,Springfield,,of12
+1907Reach,1906,Western Association,fillman,B00771,Fillman,,0,Wichita,,B72
+1907Reach,1906,Western Association,fillman,F21229,Fillman,,0,Wichita,,ss72
+1907Reach,1906,Western Association,firestine,B00760,Firestine,,0,Leavenworth,,B7
+1907Reach,1906,Western Association,firestine,F21324,Firestine,,0,Leavenworth,,ss7
+1907Reach,1906,Western Association,flaherty,B01580,Flaherty,,0,Hutchinson,,B19
+1907Reach,1906,Western Association,flaherty,P10410,Flaherty,,0,Hutchinson,,
+1907Reach,1906,Western Association,flaherty,F20583,Fleharty,,0,Hutchinson,,p19
+1907Reach,1906,Western Association,forrester,B01275,Forrester,,0,Topeka,,B44
+1907Reach,1906,Western Association,forrester,F20604,Forrester,,0,Topeka,,p44
+1907Reach,1906,Western Association,forrester,P10100,Forrester,,0,Topeka,,
+1907Reach,1906,Western Association,from,B00045,From,,0,Wichita,,B16
+1907Reach,1906,Western Association,from,F20279,From,,0,Wichita,,p16
+1907Reach,1906,Western Association,from,P10043,From,,0,Wichita,,
+1907Reach,1906,Western Association,genins,B00614,Genins,,0,Hutchinson,,B140
+1907Reach,1906,Western Association,genins,F20841,Genins,,0,Hutchinson,,2b140
+1907Reach,1906,Western Association,gill,B01359,Gill,,0,Webb City,,B39
+1907Reach,1906,Western Association,gill,F20316,Gill,,0,Webb City,,p31
+1907Reach,1906,Western Association,gill,F21854,Gill,,0,Webb City,,of8
+1907Reach,1906,Western Association,gill,P10320,Gill,,0,Webb City,,
+1907Reach,1906,Western Association,gilpatrick,B01595,Gilpatrick,,0,St. Joseph,,B8
+1907Reach,1906,Western Association,gilpatrick,F20401,Gilpatrick,,0,Hutchinson,,p8
+1907Reach,1906,Western Association,gilpatrick,P10399,Gilpatrick,,0,Hutchinson,,
+1907Reach,1906,Western Association,goes,B00695,Goes,,0,Springfield,,B117
+1907Reach,1906,Western Association,goes,F20131,Goes,,0,Springfield,,c14
+1907Reach,1906,Western Association,goes,F21614,Goes,,0,Springfield,,of113
+1907Reach,1906,Western Association,graves,B00879,Graves,,1,Topeka,,
+1907Reach,1906,Western Association,graves,B00879,Graves,,2,Hutchinson,,
+1907Reach,1906,Western Association,graves,B00879,Graves,,T,,,B101
+1907Reach,1906,Western Association,graves,F21638,Graves,,1,Topeka,,of
+1907Reach,1906,Western Association,graves,F21638,Graves,,2,Hutchinson,,of
+1907Reach,1906,Western Association,graves,F21638,Graves,,T,,,of101
+1907Reach,1906,Western Association,green,B00752,Green,,1,Wichita,,
+1907Reach,1906,Western Association,green,B00752,Green,,2,Oklahoma City,,
+1907Reach,1906,Western Association,green,B00752,Green,,T,,,B131
+1907Reach,1906,Western Association,green,F20864,Green,,1,Wichita,,2b
+1907Reach,1906,Western Association,green,F20864,Green,,2,Oklahoma City,,2b
+1907Reach,1906,Western Association,green,F20864,Green,,T,,,2b35
+1907Reach,1906,Western Association,green,F21566,Green,,1,Wichita,,of
+1907Reach,1906,Western Association,green,F21566,Green,,2,Oklahoma City,,of
+1907Reach,1906,Western Association,green,F21566,Green,,T,,,of93
+1907Reach,1906,Western Association,groom,B01444,Groom,,0,Springfield,,B46
+1907Reach,1906,Western Association,groom,F20375,Groom,,0,Springfield,,p42
+1907Reach,1906,Western Association,groom,P10176,Groom,,0,Springfield,,
+1907Reach,1906,Western Association,halla,B00427,Halla,,0,Topeka,,B33
+1907Reach,1906,Western Association,halla,F20254,Halla,,0,Topeka,,p19
+1907Reach,1906,Western Association,halla,F20713,Halla,,0,Topeka,,1b10
+1907Reach,1906,Western Association,halla,P10024,Halla,,0,Topeka,,
+1907Reach,1906,Western Association,harrington,B00544,Harrington,,0,Leavenworth,,B139
+1907Reach,1906,Western Association,harrington,F21475,Harrington,,0,Springfield,,of139
+1907Reach,1906,Western Association,huffman,B00553,Hauffman,,0,Webb City,,B11
+1907Reach,1906,Western Association,hendrix,B01617,Hendrix,,0,Wichita,,B10
+1907Reach,1906,Western Association,hendrix,F20334,Hendrix,,0,Wichita,,p10
+1907Reach,1906,Western Association,hendrix,P10056,Hendrix,,0,Wichita,,
+1907Reach,1906,Western Association,henry,B00936,Henry,,0,Topeka,,B111
+1907Reach,1906,Western Association,henry,F20072,Henry,,0,Topeka,,c111
+1907Reach,1906,Western Association,herr,B01010,Herr,,0,Hutchinson,,B37
+1907Reach,1906,Western Association,herr,F20571,Herr,,0,Hutchinson,,p37
+1907Reach,1906,Western Association,herr,P10184,Herr,,0,Hutchinson,,
+1907Reach,1906,Western Association,hetling,B00278,Hetling,,0,Springfield,,B140
+1907Reach,1906,Western Association,hetling,F21068,Hetling,,0,Springfield,,3b140
+1907Reach,1906,Western Association,holland,B00163,Holland,,0,Wichita,,B141
+1907Reach,1906,Western Association,holland,F20115,Holland,,0,Wichita,,c9
+1907Reach,1906,Western Association,holland,F20673,Holland,,0,Wichita,,1b133
+1907Reach,1906,Western Association,hollingsworth,B01402,Hollingsworth,,0,Joplin,,B38
+1907Reach,1906,Western Association,hollingsworth,F20458,Hollingsworth,,0,Joplin,,p38
+1907Reach,1906,Western Association,hollingsworth,P10070,Hollingsworth,,0,Joplin,,
+1907Reach,1906,Western Association,holmes,B01203,Holmes,,0,Leavenworth,,B25
+1907Reach,1906,Western Association,holmes,F20189,Holmes,,0,Leavenworth,,c14
+1907Reach,1906,Western Association,holmes,F21840,Holmes,,0,Leavenworth,,of10
+1907Reach,1906,Western Association,horton,B01551,Horton,,1,Springfield,,
+1907Reach,1906,Western Association,horton,B01551,Horton,,2,Hutchinson,,
+1907Reach,1906,Western Association,horton,B01551,Horton,,T,,,B40
+1907Reach,1906,Western Association,horton,F20518,Horton,,1,Springfield,,p
+1907Reach,1906,Western Association,horton,F20518,Horton,,2,Hutchinson,,p
+1907Reach,1906,Western Association,horton,F20518,Horton,,T,,,p40
+1907Reach,1906,Western Association,horton,P10290,Horton,,1,Springfield,,
+1907Reach,1906,Western Association,horton,P10290,Horton,,2,Hutchinson,,
+1907Reach,1906,Western Association,horton,P10290,Horton,,T,,,
+1907Reach,1906,Western Association,howey,B01567,Howey,,0,Topeka,,B31
+1907Reach,1906,Western Association,howey,P10357,Howey,,0,Topeka,,
+1907Reach,1906,Western Association,howey,F20206,Howie,,0,Topeka,,p14
+1907Reach,1906,Western Association,howey,F21531,Howie,,0,Topeka,,of17
+1907Reach,1906,Western Association,huffman,F21705,Huffman,,0,Webb City,,of11
+1907Reach,1906,Western Association,hurlbert,B00609,Hurlbert,,0,Topeka,,B87
+1907Reach,1906,Western Association,hurlbert,F21488,Hurlburt,,0,Topeka,,of81
+1907Reach,1906,Western Association,hutchinson,B01345,Hutchinson,,0,Hutchinson,,B13
+1907Reach,1906,Western Association,hutchinson,F21125,Hutchinson,,0,Hutchinson,,3b13
+1907Reach,1906,Western Association,irby,B00013,Irby,,0,Joplin,,B9
+1907Reach,1906,Western Association,irby,F21865,Irvy,,0,Joplin,,of9
+1907Reach,1906,Western Association,isbell,B00912,Isbell,,1,Topeka,,
+1907Reach,1906,Western Association,isbell,B00912,Isbell,,2,Wichita,,
+1907Reach,1906,Western Association,isbell,B00912,Isbell,,3,Joplin,,
+1907Reach,1906,Western Association,isbell,B00912,Isbell,,T,,,B13
+1907Reach,1906,Western Association,isbell,F20342,Isbell,,1,Topeka,,p
+1907Reach,1906,Western Association,isbell,F20342,Isbell,,2,Wichita,,p
+1907Reach,1906,Western Association,isbell,F20342,Isbell,,T,,,p13
+1907Reach,1906,Western Association,isbell,P10373,Isbell,,0,Wichita,,
+1907Reach,1906,Western Association,johnson-lea+hut,B00130,Johnson,,1,Leavenworth,,
+1907Reach,1906,Western Association,johnson-lea+hut,B00130,Johnson,,2,Hutchinson,,
+1907Reach,1906,Western Association,johnson-lea+hut,B00130,Johnson,,T,,,B98
+1907Reach,1906,Western Association,johnson-wic,B00255,Johnson,,0,Wichita,,B6
+1907Reach,1906,Western Association,johnson-lea+hut,F21084,Johnson,,1,Leavenworth,,3b
+1907Reach,1906,Western Association,johnson-lea+hut,F21084,Johnson,,2,Hutchinson,,3b
+1907Reach,1906,Western Association,johnson-lea+hut,F21084,Johnson,,T,,,3b40
+1907Reach,1906,Western Association,johnson-lea+hut,F21278,Johnson,,1,Leavenworth,,ss
+1907Reach,1906,Western Association,johnson-lea+hut,F21278,Johnson,,2,Hutchinson,,ss
+1907Reach,1906,Western Association,johnson-lea+hut,F21278,Johnson,,T,,,ss28
+1907Reach,1906,Western Association,johnson-lea+hut,F21469,Johnson,,1,Leavenworth,,of
+1907Reach,1906,Western Association,johnson-lea+hut,F21469,Johnson,,2,Hutchinson,,of
+1907Reach,1906,Western Association,johnson-lea+hut,F21469,Johnson,,T,,,of29
+1907Reach,1906,Western Association,johnson-wic,F21973,Johnson,,0,Wichita,,of6
+1907Reach,1906,Western Association,jones,B01368,Jones,,0,Webb City,,B19
+1907Reach,1906,Western Association,jones,F20981,Jones,,0,Wichita,,3b19
+1907Reach,1906,Western Association,kahl.r,B00158,Kahl,R.,0,Leavenworth,,B138
+1907Reach,1906,Western Association,kahl.n,B00651,Kahl,N.,0,Leavenworth,,B46
+1907Reach,1906,Western Association,kahl.n,F20832,Kahl,N.,0,Leavenworth,,2b7
+1907Reach,1906,Western Association,kahl.r,F20943,Kahl,K.,0,Leavenworth,,2b128
+1907Reach,1906,Western Association,kahl.n,F21739,Kahl,N.,0,Leavenworth,,of30
+1907Reach,1906,Western Association,kahl.r,F21397,Kahn,B.,0,Leavenworth,,ss10
+1907Reach,1906,Western Association,kaufman,F20222,Kauffman,,0,Hutchinson,,p7
+1907Reach,1906,Western Association,kaufman,B01538,Kaufman,,0,Hutchinson,,B7
+1907Reach,1906,Western Association,kaufman,P10336,Kaufman,,0,Hutchinson,,
+1907Reach,1906,Western Association,kemmer,B00356,Kemmer,,0,Hutchinson,,B41
+1907Reach,1906,Western Association,kemmer,F20721,Kemmer,,0,Hutchinson,,1b41
+1907Reach,1906,Western Association,kern,B01572,Kern,,0,Leavenworth,,B14
+1907Reach,1906,Western Association,kern,F20144,Kern,,0,Leavenworth,,c14
+1907Reach,1906,Western Association,ketcham,B00904,Ketcham,,0,Webb City,,B24
+1907Reach,1906,Western Association,ketcham,F21936,Ketchum,,0,Webb City,,of24
+1907Reach,1906,Western Association,kling,B00343,Kling,,1,Hutchinson,,
+1907Reach,1906,Western Association,kling,B00343,Kling,,2,Wichita,,
+1907Reach,1906,Western Association,kling,B00343,Kling,,T,,,B47
+1907Reach,1906,Western Association,kling,F21130,Kling,,1,Hutchinson,,3b
+1907Reach,1906,Western Association,kling,F21130,Kling,,2,Wichita,,3b
+1907Reach,1906,Western Association,kling,F21130,Kling,,T,,,3b47
+1907Reach,1906,Western Association,kraner,B00898,Kraner,,1,Topeka,,
+1907Reach,1906,Western Association,kraner,B00898,Kraner,,2,Joplin,,
+1907Reach,1906,Western Association,kraner,B00898,Kraner,,T,,,B37
+1907Reach,1906,Western Association,kraner,F20810,Kraner,,1,Topeka,,1b
+1907Reach,1906,Western Association,kraner,F20810,Kraner,,2,Joplin,,1b
+1907Reach,1906,Western Association,kraner,F20810,Kraner,,T,,,1b18
+1907Reach,1906,Western Association,kraner,F21887,Kraner,,1,Topeka,,of
+1907Reach,1906,Western Association,kraner,F21887,Kraner,,2,Joplin,,of
+1907Reach,1906,Western Association,kraner,F21887,Kraner,,T,,,of14
+1907Reach,1906,Western Association,landreth,B00021,Landreth,,0,Topeka,,B5
+1907Reach,1906,Western Association,landreth,F21427,Landreth,,0,Topeka,,of5
+1907Reach,1906,Western Association,lattimer,B00491,Lattimer,,0,Webb City,,B31
+1907Reach,1906,Western Association,lattimer,F20211,Lattimer,,0,Webb City,,p8
+1907Reach,1906,Western Association,lattimer,F21879,Lattimer,,0,Webb City,,of23
+1907Reach,1906,Western Association,lattimer,P10035,Lattimore,,0,Webb City,,
+1907Reach,1906,Western Association,laughlin,B00638,Laughlin,,1,Webb City,,
+1907Reach,1906,Western Association,laughlin,B00638,Laughlin,,2,Wichita,,
+1907Reach,1906,Western Association,laughlin,B00638,Laughlin,,T,,,B102
+1907Reach,1906,Western Association,laughlin,F21021,Laughlin,,0,Wichita,,3b68
+1907Reach,1906,Western Association,laughlin,F21356,Laughlin,,0,Wichita,,ss17
+1907Reach,1906,Western Association,laughlin,F21403,Laughlin,,0,Webb City,,of16
+1907Reach,1906,Western Association,leroi,B01489,Le Roi,,0,Leavenworth,,B17
+1907Reach,1906,Western Association,leroi,F21013,LeRoi,,0,Leavenworth,,3b17
+1907Reach,1906,Western Association,lewis,B00229,Lewis,,0,Oklahoma City,,B117
+1907Reach,1906,Western Association,lewis,F20080,Lewis,,0,Oklahoma City,,c90
+1907Reach,1906,Western Association,lewis,F20657,Lewis,,0,Oklahoma City,,1b13
+1907Reach,1906,Western Association,lofton,B00319,Lofton,,0,Oklahoma City,,B120
+1907Reach,1906,Western Association,lofton,F21695,Lofton,,0,Oklahoma City,,of120
+1907Reach,1906,Western Association,lyons-spr,B00037,Lyons,,0,Springfield,,B10
+1907Reach,1906,Western Association,lyons-wic,B01078,Lyons,,0,Wichita,,B22
+1907Reach,1906,Western Association,lyons-wic,F21158,Lyons,,0,Wichita,,3b22
+1907Reach,1906,Western Association,lyons-spr,F21726,Lyons,,0,Springfield,,of10
+1907Reach,1906,Western Association,marvin,B01216,Marvin,,0,Webb City,,B22
+1907Reach,1906,Western Association,marvin,F21833,Marvin,,0,Webb City,,of22
+1907Reach,1906,Western Association,mccollum,B01170,McCollum,,0,Webb City,,B16
+1907Reach,1906,Western Association,mccollum,F21528,McCollum,,0,Webb City,,of16
+1907Reach,1906,Western Association,mcdill,B01162,McDill,,1,Webb City,,
+1907Reach,1906,Western Association,mcdill,B01162,McDill,,2,Joplin,,
+1907Reach,1906,Western Association,mcdill,B01162,McDill,,T,,,B132
+1907Reach,1906,Western Association,mcdill,F20893,McDill,,1,Webb City,,2b
+1907Reach,1906,Western Association,mcdill,F20893,McDill,,2,Joplin,,2b
+1907Reach,1906,Western Association,mcdill,F20893,McDill,,T,,,2b41
+1907Reach,1906,Western Association,mcdill,F21149,McDill,,0,Webb City,,3b91
+1907Reach,1906,Western Association,mcinnis,F20547,McInnes,,0,Topeka,,p53
+1907Reach,1906,Western Association,mcinnis,B00667,McInnis,,0,Topeka,,B53
+1907Reach,1906,Western Association,mcinnis,P10062,McInnis,,0,Topeka,,
+1907Reach,1906,Western Association,mclear,B00397,McLear,,0,Springfield,,B117
+1907Reach,1906,Western Association,mclear,F20935,McLear,,1,Springfield,,2b
+1907Reach,1906,Western Association,mclear,F20935,McLear,,2,Wichita,,2b
+1907Reach,1906,Western Association,mclear,F20935,McLear,,T,,,2b83
+1907Reach,1906,Western Association,mclear,F21381,McLear,,0,Springfield,,ss34
+1907Reach,1906,Western Association,mcluckie,B00854,McLuckie,,0,Hutchinson,,B30
+1907Reach,1906,Western Association,mcluckie,F21957,McLuckie,,0,Hutchinson,,of30
+1907Reach,1906,Western Association,meredith,P10159,Meredeth,,0,Webb City,,
+1907Reach,1906,Western Association,meredith,B00531,Meredith,,0,Webb City,,B69
+1907Reach,1906,Western Association,meredith,F20474,Meredith,,0,Webb City,,p33
+1907Reach,1906,Western Association,meredith,F21667,Meredith,,0,Webb City,,of36
+1907Reach,1906,Western Association,millan,F21442,Milan,,0,Wichita,,of62
+1907Reach,1906,Western Association,millan,B00920,Millan,,0,Wichita,,B62
+1907Reach,1906,Western Association,miller,B00084,Miller,,0,Wichita,,B141
+1907Reach,1906,Western Association,miller,F21491,Miller,,0,Wichita,,of141
+1907Reach,1906,Western Association,milton,B01108,Milton,,1,Wichita,,
+1907Reach,1906,Western Association,milton,B01108,Milton,,2,Webb City,,
+1907Reach,1906,Western Association,milton,B01108,Milton,,T,,,B61
+1907Reach,1906,Western Association,milton,F20463,Milton,,1,Wichita,,p
+1907Reach,1906,Western Association,milton,F20463,Milton,,2,Webb City,,p
+1907Reach,1906,Western Association,milton,F20463,Milton,,T,,,p19
+1907Reach,1906,Western Association,milton,F20768,Milton,,1,Wichita,,1b
+1907Reach,1906,Western Association,milton,F20768,Milton,,2,Webb City,,1b
+1907Reach,1906,Western Association,milton,F20768,Milton,,T,,,1b19
+1907Reach,1906,Western Association,milton,F21672,Milton,,0,Wichita,,of15
+1907Reach,1906,Western Association,milton,P10348,Milton,,1,Wichita,,
+1907Reach,1906,Western Association,milton,P10348,Milton,,2,Webb City,,
+1907Reach,1906,Western Association,milton,P10348,Milton,,T,,,
+1907Reach,1906,Western Association,munroe,B00577,Munroe,,0,Hutchinson,,B42
+1907Reach,1906,Western Association,munroe,F21904,Munroe,,0,Hutchinson,,of42
+1907Reach,1906,Western Association,murray-wic+spr,B00469,Murray,P.,1,Wichita,,
+1907Reach,1906,Western Association,murray-wic+spr,B00469,Murray,P.,2,Springfield,,
+1907Reach,1906,Western Association,murray-wic+spr,B00469,Murray,P.,T,,,B134
+1907Reach,1906,Western Association,murray-hut,B01313,Murray,,0,Hutchinson,,B46
+1907Reach,1906,Western Association,murray-hut,F20792,Murray,,0,Hutchinson,,1b20
+1907Reach,1906,Western Association,murray-hut,F21045,Murray,,0,Hutchinson,,3b27
+1907Reach,1906,Western Association,murray-wic+spr,F21450,Murray,P.,0,Springfield,,of134
+1907Reach,1906,Western Association,nash,B01477,Nash,,0,Wichita,,B17
+1907Reach,1906,Western Association,nash,F20327,Nash,,0,Wichita,,p17
+1907Reach,1906,Western Association,nash,P10407,Nash,,0,Wichita,,
+1907Reach,1906,Western Association,nelson,B01376,Nelson,,0,Oklahoma City,,B22
+1907Reach,1906,Western Association,nelson,F20496,Nelson,,0,Oklahoma City,,p22
+1907Reach,1906,Western Association,nelson,P10228,Nelson,,0,Oklahoma City,,
+1907Reach,1906,Western Association,noyes,B00623,Noyes,,0,Hutchinson,,B116
+1907Reach,1906,Western Association,noyes,F20102,Noyes,,0,Hutchinson,,c116
+1907Reach,1906,Western Association,oleary,B00528,O'Leary,,0,Wichita,,B128
+1907Reach,1906,Western Association,oleary,F20023,O'Leary,,0,Wichita,,c128
+1907Reach,1906,Western Association,ogee,B00488,Ogee,,0,Oklahoma City,,B83
+1907Reach,1906,Western Association,ogee,F20924,Ogee,,0,Oklahoma City,,2b83
+1907Reach,1906,Western Association,olmstead,B00101,Olmstead,,0,Springfield,,B62
+1907Reach,1906,Western Association,olmstead,F20449,Olmstead,,0,Springfield,,p36
+1907Reach,1906,Western Association,olmstead,P10145,Olmsted,,0,Springfield,,
+1907Reach,1906,Western Association,olson-jop,B00811,Olsen,S.,0,Joplin,,B139
+1907Reach,1906,Western Association,olson-okc+top,B00646,Olson,E.,1,Oklahoma City,,
+1907Reach,1906,Western Association,olson-okc+top,B00646,Olson,E.,2,Topeka,,
+1907Reach,1906,Western Association,olson-okc+top,B00646,Olson,E.,T,,,B26
+1907Reach,1906,Western Association,olson-web,B01453,Olson,I.,0,Webb City,,B44
+1907Reach,1906,Western Association,olson-web,F21037,Olson,,0,Webb City,,3b14
+1907Reach,1906,Western Association,olson-okc+top,F21174,Olson,E.,1,Oklahoma City,,ss
+1907Reach,1906,Western Association,olson-okc+top,F21174,Olson,E.,2,Topeka,,ss
+1907Reach,1906,Western Association,olson-okc+top,F21174,Olson,E.,T,,,ss20
+1907Reach,1906,Western Association,olson-jop,F21182,Olson,S.,0,Joplin,,ss139
+1907Reach,1906,Western Association,pendry,B00264,Pendry,,1,Oklahoma City,,
+1907Reach,1906,Western Association,pendry,B00264,Pendry,,2,Joplin,,
+1907Reach,1906,Western Association,pendry,B00264,Pendry,,T,,,B134
+1907Reach,1906,Western Association,pendry,F21101,Pendry,,0,Oklahoma City,,3b134
+1907Reach,1906,Western Association,pennell,B00241,Pennell,,1,Wichita,,
+1907Reach,1906,Western Association,pennell,B00241,Pennell,,2,Topeka,,
+1907Reach,1906,Western Association,pennell,B00241,Pennell,,T,,,B104
+1907Reach,1906,Western Association,pennell,F20878,Pennell,,1,Wichita,,2b
+1907Reach,1906,Western Association,pennell,F20878,Pennell,,2,Topeka,,2b
+1907Reach,1906,Western Association,pennell,F20878,Pennell,,T,,,2b54
+1907Reach,1906,Western Association,pennell,F21553,Pennell,,1,Wichita,,of
+1907Reach,1906,Western Association,pennell,F21553,Pennell,,2,Topeka,,of
+1907Reach,1906,Western Association,pennell,F21553,Pennell,,T,,,of50
+1907Reach,1906,Western Association,pennington,B01064,Pennington,,0,Leavenworth,,B12
+1907Reach,1906,Western Association,pennington,F21335,Pennington,,0,Leavenworth,,ss12
+1907Reach,1906,Western Association,persch,B00794,Persch,,0,Springfield,,B139
+1907Reach,1906,Western Association,persch,F21811,Persch,,0,Springfield,,of139
+1907Reach,1906,Western Association,pettigrew,B00174,Pettigrew,,0,Hutchinson,,B129
+1907Reach,1906,Western Association,pettigrew,F21589,Pettigrew,,0,Hutchinson,,of129
+1907Reach,1906,Western Association,pinkerton,B00985,Pinkerton,,0,Leavenworth,,B25
+1907Reach,1906,Western Association,pinkerton,F20128,Pinkerton,,0,Leavenworth,,c25
+1907Reach,1906,Western Association,porkorney,B00182,Porkorney,,0,Webb City,,B134
+1907Reach,1906,Western Association,porkorney,F20919,Porkorney,,0,Webb City,,2b134
+1907Reach,1906,Western Association,port,B01428,Port,,0,Leavenworth,,B5
+1907Reach,1906,Western Association,port,F20240,Port,,0,Leavenworth,,p5
+1907Reach,1906,Western Association,porter,B00705,Porter,,0,Oklahoma City,,B39
+1907Reach,1906,Western Association,porter,F20699,Porter,,0,Oklahoma City,,1b39
+1907Reach,1906,Western Association,price,B00149,Price,,0,Webb City,,B12
+1907Reach,1906,Western Association,price,F21416,Price,,0,Webb City,,of12
+1907Reach,1906,Western Association,queisser,B00117,Queisser,,1,Wichita,,
+1907Reach,1906,Western Association,queisser,B00117,Queisser,,2,Leavenworth,,
+1907Reach,1906,Western Association,queisser,B00117,Queisser,,T,,,B78
+1907Reach,1906,Western Association,queisser,F20391,Queisser,,0,Leavenworth,,p25
+1907Reach,1906,Western Association,queisser,F21308,Queisser,,0,Leavenworth,,ss33
+1907Reach,1906,Western Association,queisser,F21752,Queisser,,0,Leavenworth,,of20
+1907Reach,1906,Western Association,queisser,P10266,Queisser,,0,Leavenworth,,
+1907Reach,1906,Western Association,rand,B01466,Rand,,0,Leavenworth,,B7
+1907Reach,1906,Western Association,rand,F21362,Rand,,0,Leavenworth,,ss7
+1907Reach,1906,Western Association,rapps,B00739,Rapps,,1,Leavenworth,,
+1907Reach,1906,Western Association,rapps,B00739,Rapps,,2,Wichita,,
+1907Reach,1906,Western Association,rapps,B00739,Rapps,,T,,,B130
+1907Reach,1906,Western Association,rapps,F21286,Rapps,,1,Leavenworth,,ss
+1907Reach,1906,Western Association,rapps,F21286,Rapps,,2,Hutchinson,,ss
+1907Reach,1906,Western Association,rapps,F21286,Rapps,,T,,,ss11
+1907Reach,1906,Western Association,rapps,F21577,Rapps,,1,Leavenworth,,of
+1907Reach,1906,Western Association,rapps,F21577,Rapps,,2,Wichita,,of
+1907Reach,1906,Western Association,rapps,F21577,Rapps,,T,,,of119
+1907Reach,1906,Western Association,rathburn,B00840,Rathburn,,1,Wichita,,
+1907Reach,1906,Western Association,rathburn,B00840,Rathburn,,2,Leavenworth,,
+1907Reach,1906,Western Association,rathburn,B00840,Rathburn,,T,,,B29
+1907Reach,1906,Western Association,rathburn,F21163,Rathburn,,1,Wichita,,3b
+1907Reach,1906,Western Association,rathburn,F21163,Rathburn,,2,Leavenworth,,3b
+1907Reach,1906,Western Association,rathburn,F21163,Rathburn,,T,,,3b29
+1907Reach,1906,Western Association,reed,B00210,Reed,,0,Springfield,,B135
+1907Reach,1906,Western Association,reed,F20685,Reed,,0,Springfield,,1b135
+1907Reach,1906,Western Association,regan,B01337,Regan,,0,Topeka,,B134
+1907Reach,1906,Western Association,regan,F21370,Regan,,0,Topeka,,ss134
+1907Reach,1906,Western Association,risley,B01227,Risley,,0,Oklahoma City,,B123
+1907Reach,1906,Western Association,risley,F20745,Risley,,0,Oklahoma City,,1b71
+1907Reach,1906,Western Association,risley,F21293,Risley,,0,Oklahoma City,,ss52
+1907Reach,1906,Western Association,rohn,B00434,Rohn,,0,Webb City,,B138
+1907Reach,1906,Western Association,rohn,F20661,Rohn,,0,Webb City,,1b138
+1907Reach,1906,Western Association,rollins,B01029,Rollins,,0,Webb City,,B29
+1907Reach,1906,Western Association,rollins,F21948,Rollins,,0,Webb City,,of29
+1907Reach,1906,Western Association,root,B00324,Root,,0,Oklahoma City,,B49
+1907Reach,1906,Western Association,root,F20505,Root,,0,Oklahoma City,,p44
+1907Reach,1906,Western Association,root,P10097,Root,,0,Oklahoma City,,
+1907Reach,1906,Western Association,rowan,B01321,Rowan,,0,Leavenworth,,B35
+1907Reach,1906,Western Association,rowan,F20425,Rowan,,0,Leavenworth,,p35
+1907Reach,1906,Western Association,rowan,P10081,Rowan,,0,Leavenworth,,
+1907Reach,1906,Western Association,sackett,B01250,Sackett,,0,Leavenworth,,B33
+1907Reach,1906,Western Association,sackett,F21255,Sackett,,0,Leavenworth,,ss33
+1907Reach,1906,Western Association,schrant,B01234,Schrant,,0,Webb City,,B11
+1907Reach,1906,Western Association,scoggins,B00308,Scoggins,,0,Oklahoma City,,B140
+1907Reach,1906,Western Association,scoggins,F21515,Scoggins,,0,Oklahoma City,,of140
+1907Reach,1906,Western Association,seabaugh,B00232,Seabaugh,,0,Springfield,,B126
+1907Reach,1906,Western Association,seabaugh,F20067,Seabaugh,,0,Springfield,,c125
+1907Reach,1906,Western Association,seigle,B00293,Seigle,,1,Oklahoma City,,
+1907Reach,1906,Western Association,seigle,B00293,Seigle,,2,Wichita,,
+1907Reach,1906,Western Association,seigle,B00293,Seigle,,T,,,B79
+1907Reach,1906,Western Association,seigle,F20038,Seigle,,1,Oklahoma City,,c
+1907Reach,1906,Western Association,seigle,F20038,Seigle,,2,Wichita,,c
+1907Reach,1906,Western Association,seigle,F20038,Seigle,,T,,,c79
+1907Reach,1906,Western Association,shaft,B00806,Shaft,,0,Hutchinson,,B58
+1907Reach,1906,Western Association,shaft,F21771,Shaft,,0,Hutchinson,,of58
+1907Reach,1906,Western Association,shaner,B00973,Shaner,,0,Webb City,,B36
+1907Reach,1906,Western Association,shaner,F20265,Shaner,,0,Webb City,,p20
+1907Reach,1906,Western Association,shaner,F21718,Shaner,,0,Webb City,,of15
+1907Reach,1906,Western Association,shaner,P10202,Shaner,,0,Webb City,,
+1907Reach,1906,Western Association,shaw,B01124,Shaw,,0,Hutchinson,,B8
+1907Reach,1906,Western Association,shaw,F20233,Shaw,,0,Hutchinson,,p8
+1907Reach,1906,Western Association,shaw,P10289,Shaw,,0,Hutchinson,,
+1907Reach,1906,Western Association,shimonek,B00475,Shimonek,,0,Joplin,,B140
+1907Reach,1906,Western Association,shimonek,F20807,Shimonek,,0,Joplin,,1b13
+1907Reach,1906,Western Association,shimonek,F20970,Shimonek,,0,Joplin,,2b17
+1907Reach,1906,Western Association,shimonek,F21117,Shimonek,,0,Joplin,,3b110
+1907Reach,1906,Western Association,schrant,F21898,Shrant,,0,Webb City,,of11
+1907Reach,1906,Western Association,smith,B01415,Smith,,0,Topeka,,B5
+1907Reach,1906,Western Association,speer,B01392,Speer,,1,Wichita,,
+1907Reach,1906,Western Association,speer,B01392,Speer,,2,Leavenworth,,
+1907Reach,1906,Western Association,speer,B01392,Speer,,T,,,B47
+1907Reach,1906,Western Association,speer,F20560,Speer,,1,Leavenworth,,p
+1907Reach,1906,Western Association,speer,F20560,Speer,,2,Wichita,,p
+1907Reach,1906,Western Association,speer,F20560,Speer,,T,,,p47
+1907Reach,1906,Western Association,speer,P10137,Speer,,1,Leavenworth,,
+1907Reach,1906,Western Association,speer,P10137,Speer,,2,Wichita,,
+1907Reach,1906,Western Association,speer,P10137,Speer,,T,,,
+1907Reach,1906,Western Association,spencer,B01032,Spencer,,0,Oklahoma City,,B9
+1907Reach,1906,Western Association,spencer,F21207,Spencer,,0,Oklahoma City,,ss9
+1907Reach,1906,Western Association,stis,B01007,Stis,,1,Hutchinson,,
+1907Reach,1906,Western Association,stis,B01007,Stis,,2,Springfield,,
+1907Reach,1906,Western Association,stis,B01007,Stis,,T,,,B136
+1907Reach,1906,Western Association,stis,F20855,Stis,,1,Hutchinson,,2b
+1907Reach,1906,Western Association,stis,F20855,Stis,,2,Springfield,,2b
+1907Reach,1906,Western Association,stis,F20855,Stis,,T,,,2b103
+1907Reach,1906,Western Association,stis,F21590,Stis,,0,Hutchinson,,of33
+1907Reach,1906,Western Association,vanderhill,B00718,Vanderhill,,0,Joplin,,B102
+1907Reach,1906,Western Association,vanderhill,F20051,Vanderhill,,0,Joplin,,c102
+1907Reach,1906,Western Association,vaughn,B00403,Vaughn,,0,Leavenworth,,B90
+1907Reach,1906,Western Association,vaughn,F21000,Vaughn,,0,Leavenworth,,3b90
+1907Reach,1906,Western Association,walsh.p,B00747,Walsh,P.,0,Hutchinson,,B55
+1907Reach,1906,Western Association,walsh.c,B01509,Walsh,C.,0,Hutchinson,,B34
+1907Reach,1906,Western Association,walsh.p,F20177,Walsh,P.,0,Hutchinson,,c31
+1907Reach,1906,Western Association,walsh.c,F20298,Walsh,C.,0,Hutchinson,,p34
+1907Reach,1906,Western Association,walsh.p,F21806,Walsh,P.,0,Hutchinson,,of24
+1907Reach,1906,Western Association,walsh.c,P10253,Walsh,,0,Hutchinson,,
+1907Reach,1906,Western Association,weltner,B00999,Weltner,,0,Springfield,,B88
+1907Reach,1906,Western Association,weltner,F21319,Weltner,,0,Springfield,,ss88
+1907Reach,1906,Western Association,westcott,B01269,Wescott,,1,Webb City,,
+1907Reach,1906,Western Association,westcott,B01269,Wescott,,2,Joplin,,
+1907Reach,1906,Western Association,westcott,B01269,Wescott,,T,,,B38
+1907Reach,1906,Western Association,westcott,F20648,Westcott,,1,Webb City,,p
+1907Reach,1906,Western Association,westcott,F20648,Westcott,,2,Joplin,,p
+1907Reach,1906,Western Association,westcott,F20648,Westcott,,T,,,p36
+1907Reach,1906,Western Association,westcott,P10244,Westcott,,1,Webb City,,
+1907Reach,1906,Western Association,westcott,P10244,Westcott,,2,Joplin,,
+1907Reach,1906,Western Association,westcott,P10244,Westcott,,T,,,
+1907Reach,1906,Western Association,white,B00092,White,,0,Webb City,,B138
+1907Reach,1906,Western Association,white,F21241,White,,0,Webb City,,ss138
+1907Reach,1906,Western Association,wilkinson,F20388,Wilkenson,,0,Joplin,,p17
+1907Reach,1906,Western Association,wilkinson,B00948,Wilkinson,,0,Joplin,,B17
+1907Reach,1906,Western Association,wilkinson,P10441,Wilkinson,,0,Joplin,,
+1907Reach,1906,Western Association,willett,B01093,Willet,,0,Wichita,,B38
+1907Reach,1906,Western Association,willett,F20430,Willett,,0,Wichita,,p38
+1907Reach,1906,Western Association,willett,P10312,Willett,,0,Wichita,,
+1907Reach,1906,Western Association,wilson-okc,B00450,Wilson,,0,Oklahoma City,,B141
+1907Reach,1906,Western Association,wilson-web,B00515,Wilson,,0,Webb City,,B44
+1907Reach,1906,Western Association,wilson-okc,F20829,Wilson,F.,0,Oklahoma City,,1b14
+1907Reach,1906,Western Association,wilson-okc,F21794,Wilson,F.,0,Oklahoma City,,of127
+1907Reach,1906,Western Association,wilson-web,F21912,Wilson,,0,Webb City,,of44
+1907Reach,1906,Western Association,wisser,B00957,Wisser,,0,Oklahoma City,,B51
+1907Reach,1906,Western Association,wisser,F21196,Wisser,,0,Oklahoma City,,ss51
+1907Reach,1906,Western Association,wolfe,B00822,Wolfe,,0,Topeka,,B17
+1907Reach,1906,Western Association,wolfe,F21646,Wolfe,,0,Topeka,,of17
+1907Reach,1906,Western Association,womble,B01086,Womble,,1,Topeka,,
+1907Reach,1906,Western Association,womble,B01086,Womble,,2,Joplin,,
+1907Reach,1906,Western Association,womble,B01086,Womble,,3,Webb City,,
+1907Reach,1906,Western Association,womble,B01086,Womble,,T,,,B83
+1907Reach,1906,Western Association,womble,F21092,Womble,,1,Topeka,,3b
+1907Reach,1906,Western Association,womble,F21092,Womble,,2,Joplin,,3b
+1907Reach,1906,Western Association,womble,F21092,Womble,,T,,,3b61
+1907Reach,1906,Western Association,womble,F21783,Womble,,1,Joplin,,of
+1907Reach,1906,Western Association,womble,F21783,Womble,,2,Webb City,,of
+1907Reach,1906,Western Association,womble,F21783,Womble,,T,,,of21
+1907Reach,1906,Western Association,woods,P10215,Wood,,0,Oklahoma City,,
+1907Reach,1906,Western Association,woods,B01300,Woods,,0,Oklahoma City,,B50
+1907Reach,1906,Western Association,woods,F20350,Woods,,0,Oklahoma City,,p50
+1907Reach,1906,Western Association,wooley,B00865,Wooley,,0,Leavenworth,,B138
+1907Reach,1906,Western Association,wooley,F21544,Wooley,,0,Leavenworth,,of138
+1907Reach,1906,Western Association,young,B01291,Young,,0,Springfield,,B48
+1907Reach,1906,Western Association,young,F20526,Young,,0,Springfield,,p48
+1907Reach,1906,Western Association,young,P10121,Young,,0,Springfield,,
+1907Reach,1906,Western Association,zearfoss,B00589,Zearfoss,,0,Topeka,,B23
+1907Reach,1906,Western Association,zearfoss,F20095,Zearfoss,,0,Topeka,,c23
+1907Reach,1906,Western Association,zink,B00590,Zink,,0,Leavenworth,,B140
+1907Reach,1906,Western Association,zink,F20759,Zink,,0,Leavenworth,,1b140
+1907Reach,1906,Western Association,zoellers,B01242,Zoellers,,0,Wichita,,B26
+1907Reach,1906,Western Association,zoellers,F21920,Zoellers,,0,Wichita,,of26

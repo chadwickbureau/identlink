@@ -1,913 +1,913 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-1970TSN,1969,Mexican League,B00013,Abid,Arturo,0,Poza Rica,,B27,abid
-1970TSN,1969,Mexican League,F23446,Abid,,0,Poza Rica,,p26,abid
-1970TSN,1969,Mexican League,F23977,Abid,,0,all,,of,abid
-1970TSN,1969,Mexican League,P10019,Abid,,0,Poza Rica,,P26p,abid
-1970TSN,1969,Mexican League,B00021,Acosta,Cecilio,0,Jalisco,,B50,acosta-jal
-1970TSN,1969,Mexican League,B00037,Acosta,Teolindo,0,Puebla,,B142,acosta-pue
-1970TSN,1969,Mexican League,F22099,Acosta,,0,Puebla,,of140,acosta-pue
-1970TSN,1969,Mexican League,F23259,Acosta,,0,Jalisco,,p50,acosta-jal
-1970TSN,1969,Mexican League,P10024,Acosta,,0,Jalisco,,P50p,acosta-jal
-1970TSN,1969,Mexican League,B00045,Adame,Arnulfo,0,Jalisco,,B44,adame
-1970TSN,1969,Mexican League,F22831,Adame,,0,Jalisco,,p44,adame
-1970TSN,1969,Mexican League,P10035,Adame,,0,Jalisco,,P44p,adame
-1970TSN,1969,Mexican League,B00059,Ahumada,Alejo,0,Reynosa,,B28,ahumada
-1970TSN,1969,Mexican League,F22802,Ahumada,,0,Reynosa,,p24,ahumada
-1970TSN,1969,Mexican League,P10043,Ahumada,,0,Reynosa,,P24p,ahumada
-1970TSN,1969,Mexican League,B00068,Alvarado,Alejandro,0,Jalisco,,B22,alvarado-jal
-1970TSN,1969,Mexican League,B00076,Alvarado,Rodolfo,0,Monterrey,,B2,alvarado-mty
-1970TSN,1969,Mexican League,F21726,Alvarado,,0,Jalisco,,of15,alvarado-jal
-1970TSN,1969,Mexican League,F23989,Alvarado,R.,0,all,,p,alvarado-mty
-1970TSN,1969,Mexican League,M90060,Alvarado,Rodolfo,,Monterrey,,,alvarado-mty
-1970TSN,1969,Mexican League,P10056,Alvarado,,0,Monterrey,,P2p,alvarado-mty
-1970TSN,1969,Mexican League,B00084,Alvarez,Arturo,0,Mexico City Reds,,B146,alvarez-mcr
-1970TSN,1969,Mexican League,B00092,Alvarez,Rogelio,0,Veracruz,,B148,alvarez-ver
-1970TSN,1969,Mexican League,F20102,Alvarez,,0,Veracruz,,1b146,alvarez-ver
-1970TSN,1969,Mexican League,F20166,Alvarez,,0,Mexico City Reds,,1b140,alvarez-mcr
-1970TSN,1969,Mexican League,F22332,Alvarez,,0,Mexico City Reds,,of1,alvarez-mcr
-1970TSN,1969,Mexican League,F23990,Alvarez,R.,0,all,,p,alvarez-ver
-1970TSN,1969,Mexican League,P10062,Alvarez,,0,Veracruz,,P1p,alvarez-ver
-1970TSN,1969,Mexican League,B00101,Arano,Efrain,0,Jalisco,,B1,arano.e-jal
-1970TSN,1969,Mexican League,B00117,Arano,Ramon,0,Mexico City Reds,,B14,arano-mcr
-1970TSN,1969,Mexican League,B00125,Arano,Wilfredo,1,Jalisco,,B59,arano.w-jal+ver
-1970TSN,1969,Mexican League,B00125,Arano,Wilfredo,2,Veracruz,,B44,arano.w-jal+ver
-1970TSN,1969,Mexican League,B00125,Arano,Wilfredo,T,,,B103,arano.w-jal+ver
-1970TSN,1969,Mexican League,F21865,Arano,W.,1,Jalisco,,of,arano.w-jal+ver
-1970TSN,1969,Mexican League,F21865,Arano,W.,2,Veracruz,,of,arano.w-jal+ver
-1970TSN,1969,Mexican League,F21865,Arano,W.,T,,,of94,arano.w-jal+ver
-1970TSN,1969,Mexican League,F23383,Arano,,0,Mexico City Reds,,p14,arano-mcr
-1970TSN,1969,Mexican League,P10070,Arano,,0,Mexico City Reds,,P14p,arano-mcr
-1970TSN,1969,Mexican League,B00130,Arce,Alberto,0,Mexico City Tigers,,B21,arce
-1970TSN,1969,Mexican League,F23006,Arce,,0,Mexico City Tigers,,p21,arce
-1970TSN,1969,Mexican League,F24008,Arce,,0,all,,2b,arce
-1970TSN,1969,Mexican League,P10081,Arce,,0,Mexico City Tigers,,P21p,arce
-1970TSN,1969,Mexican League,B00149,Argumedo,Antonio,0,Monterrey,,B14,argumedo
-1970TSN,1969,Mexican League,F21680,Argumedo,,0,Monterrey,,of10,argumedo
-1970TSN,1969,Mexican League,B00158,Armas,Abel,0,Reynosa,,B6,armas
-1970TSN,1969,Mexican League,F23850,Armas,,0,Reynosa,,p6,armas
-1970TSN,1969,Mexican League,P10097,Armas,,0,Reynosa,,P6p,armas
-1970TSN,1969,Mexican League,B00163,Armendariz,Waldo,0,Mexico City Tigers,,B7,armendariz
-1970TSN,1969,Mexican League,F23796,Armendariz,,0,Mexico City Tigers,,p7,armendariz
-1970TSN,1969,Mexican League,P10100,Armendariz,,0,Mexico City Tigers,,P7p,armendariz
-1970TSN,1969,Mexican League,B00174,Ayon,Andres,0,Jalisco,,B60,ayon
-1970TSN,1969,Mexican League,F22329,Ayon,,0,Jalisco,,of6,ayon
-1970TSN,1969,Mexican League,F23136,Ayon,,0,Jalisco,,p36,ayon
-1970TSN,1969,Mexican League,P10113,Ayon,,0,Jalisco,,P36p,ayon
-1970TSN,1969,Mexican League,B00182,Balcazar,Raul,0,Veracruz,,B11,balcazar
-1970TSN,1969,Mexican League,F22937,Balcazar,,0,Veracruz,,p11,balcazar
-1970TSN,1969,Mexican League,P10121,Balcazar,,0,Veracruz,,P11p,balcazar
-1970TSN,1969,Mexican League,B00196,Balderas,Abelardo,0,Puebla,,B63,balderas
-1970TSN,1969,Mexican League,F20657,Balderas,,0,Puebla,,2b44,balderas
-1970TSN,1969,Mexican League,F21450,Balderas,,0,Puebla,,ss13,balderas
-1970TSN,1969,Mexican League,B00207,Barajas,Armando,0,Mexico City Reds,,B2,barajas
-1970TSN,1969,Mexican League,F20807,Barajas,,0,Mexico City Reds,,2b1,barajas
-1970TSN,1969,Mexican League,B00210,Barnetche,Hector,0,Mexico City Tigers,,B27,barnetche
-1970TSN,1969,Mexican League,F20737,Barnetche,,0,Mexico City Tigers,,2b11,barnetche
-1970TSN,1969,Mexican League,F22433,Barnetche,,0,Mexico City Tigers,,of7,barnetche
-1970TSN,1969,Mexican League,B00229,Bauta,Eduardo,0,Poza Rica,,B38,bauta
-1970TSN,1969,Mexican League,F23394,Bauta,,0,Poza Rica,,p38,bauta
-1970TSN,1969,Mexican League,P10137,Bauta,,0,Poza Rica,,P38p,bauta
-1970TSN,1969,Mexican League,B02751,Bedolla,Eduardo,0,Poza Rica,,B4,bedolla
-1970TSN,1969,Mexican League,F23827,Bedolla,,0,Poza Rica,,p3,bedolla
-1970TSN,1969,Mexican League,P10145,Bedolla,,0,Poza Rica,,P3p,bedolla
-1970TSN,1969,Mexican League,B00232,Berzunza,William,0,Reynosa,,B137,berzunza
-1970TSN,1969,Mexican League,F20131,Berzunza,,0,Reynosa,,1b131,berzunza
-1970TSN,1969,Mexican League,B00241,Betancourt,Simon,0,Jalisco,,B17,betancourt
-1970TSN,1969,Mexican League,F22890,Betancourt,,0,Jalisco,,p17,betancourt
-1970TSN,1969,Mexican League,P10159,Betancourt,,0,Jalisco,,P17p,betancourt
-1970TSN,1969,Mexican League,B00255,Bojorquez,Jose,0,Poza Rica,,B15,bojorquez
-1970TSN,1969,Mexican League,F21646,Bojorquez,,0,Poza Rica,,of15,bojorquez
-1970TSN,1969,Mexican League,B00264,Bonilla,Antelmo,0,Puebla,,B13,bonilla
-1970TSN,1969,Mexican League,F20594,Bonilla,,0,Puebla,,2b12,bonilla
-1970TSN,1969,Mexican League,B00278,Brown,Winston,0,Poza Rica,,B52,brown
-1970TSN,1969,Mexican League,F23268,Brown,,0,Poza Rica,,p32,brown
-1970TSN,1969,Mexican League,P10168,Brown,,0,Poza Rica,,P32p,brown
-1970TSN,1969,Mexican League,B00286,Buentello,Israel,0,Reynosa,,B55,buentello
-1970TSN,1969,Mexican League,F23120,Buentello,,0,Reynosa,,p55,buentello
-1970TSN,1969,Mexican League,F24019,Buentello,,0,all,,of,buentello
-1970TSN,1969,Mexican League,P10176,Buentello,,0,Reynosa,,P55p,buentello
-1970TSN,1969,Mexican League,B00293,Burgos,Antonio,0,Veracruz,,B22,burgos
-1970TSN,1969,Mexican League,F22061,Burgos,,0,Veracruz,,of22,burgos
-1970TSN,1969,Mexican League,B00308,Calvo,Bernardo,0,Veracruz,,B155,calvo
-1970TSN,1969,Mexican League,F20583,Calvo,,0,Veracruz,,2b154,calvo
-1970TSN,1969,Mexican League,B00319,Camacho,Moises,1,Mexico City Reds,,B30,camacho-mcr+pr
-1970TSN,1969,Mexican League,B00319,Camacho,Moises,2,Poza Rica,,B115,camacho-mcr+pr
-1970TSN,1969,Mexican League,B00319,Camacho,Moises,T,,,B145,camacho-mcr+pr
-1970TSN,1969,Mexican League,B00324,Camacho,Ronaldo,0,Puebla,,B150,camacho-pue
-1970TSN,1969,Mexican League,F20115,Camacho,,0,Puebla,,1b147,camacho-pue
-1970TSN,1969,Mexican League,F20685,Camacho,,1,Mexico City Reds,,2b,camacho-mcr+pr
-1970TSN,1969,Mexican League,F20685,Camacho,,2,Poza Rica,,2b,camacho-mcr+pr
-1970TSN,1969,Mexican League,F20685,Camacho,,T,,,2b143,camacho-mcr+pr
-1970TSN,1969,Mexican League,F20864,Camacho,,0,Puebla,,2b1,camacho-pue
-1970TSN,1969,Mexican League,F21229,Camacho,,0,Puebla,,3b1,camacho-pue
-1970TSN,1969,Mexican League,B00335,Camarero,Genaro,0,Mexico City Tigers,,B5,camarero-mct
-1970TSN,1969,Mexican League,B00343,Camarero,Rolando,0,Veracruz,,B161,camarero-ver
-1970TSN,1969,Mexican League,F20206,Camarero,,0,Veracruz,,1b10,camarero-ver
-1970TSN,1969,Mexican League,F20886,Camarero,,0,Veracruz,,2b5,camarero-ver
-1970TSN,1969,Mexican League,F21553,Camarero,,0,Veracruz,,ss1,camarero-ver
-1970TSN,1969,Mexican League,F21912,Camarero,,0,Veracruz,,of128,camarero-ver
-1970TSN,1969,Mexican League,F22708,Camarero,,0,Mexico City Tigers,,c2,camarero-mct
-1970TSN,1969,Mexican League,B00356,Campos,Francisco,0,Jalisco,,B150,campos
-1970TSN,1969,Mexican League,F20144,Campos,,0,Jalisco,,1b22,campos
-1970TSN,1969,Mexican League,F21771,Campos,,0,Jalisco,,of53,campos
-1970TSN,1969,Mexican League,F22605,Campos,,0,Jalisco,,c76,campos
-1970TSN,1969,Mexican League,B00362,Cano,Raul,0,Mexico City Reds,,B30,cano
-1970TSN,1969,Mexican League,F23597,Cano,,0,Mexico City Reds,,p30,cano
-1970TSN,1969,Mexican League,P10184,Cano,,0,Mexico City Reds,,P30p,cano
-1970TSN,1969,Mexican League,M90094,Castano,Tony,,Puebla,,,castano
-1971TSN,1969,Mexican League,M90129,Castano,Tony,,Yucatan,,,
-1970TSN,1969,Mexican League,B00370,Castillo,Enrique,0,Mexico City Tigers,,B60,castillo
-1970TSN,1969,Mexican League,F23451,Castillo,,0,Mexico City Tigers,,p59,castillo
-1970TSN,1969,Mexican League,P10192,Castillo,,0,Mexico City Tigers,,P59p,castillo
-1970TSN,1969,Mexican League,B00381,Castro,Arnoldo,0,Mexico City Tigers,,B109,castro.a-mct
-1970TSN,1969,Mexican League,B00397,Castro,Fernando,0,Puebla,,B130,castro-pue
-1970TSN,1969,Mexican League,B00403,Castro,Gilberto,0,Mexico City Tigers,,B6,castro.g-mct
-1970TSN,1969,Mexican League,F20620,Castro,A.,0,Mexico City Tigers,,2b81,castro.a-mct
-1970TSN,1969,Mexican League,F20893,Castro,,0,Puebla,,2b8,castro-pue
-1970TSN,1969,Mexican League,F21000,Castro,,0,Puebla,,3b10,castro-pue
-1970TSN,1969,Mexican League,F21158,Castro,A.,0,Mexico City Tigers,,3b7,castro.a-mct
-1970TSN,1969,Mexican League,F21343,Castro,A.,0,Mexico City Tigers,,ss19,castro.a-mct
-1970TSN,1969,Mexican League,F22127,Castro,,0,Puebla,,of86,castro-pue
-1970TSN,1969,Mexican League,F22719,Castro,,0,Poza Rica,,c1,castro-pr
-1970TSN,1969,Mexican League,F23763,Castro,G.,0,Mexico City Tigers,,p6,castro.g-mct
-1970TSN,1969,Mexican League,P10202,Castro,G.,0,Mexico City Tigers,,P6p,castro.g-mct
-1970TSN,1969,Mexican League,B00416,Cerda,Benjamin,0,Jalisco,,B114,cerda
-1970TSN,1969,Mexican League,F20713,Cerda,,0,Jalisco,,2b14,cerda
-1970TSN,1969,Mexican League,F20956,Cerda,,0,Jalisco,,3b32,cerda
-1970TSN,1969,Mexican League,F21434,Cerda,,0,Jalisco,,ss53,cerda
-1970TSN,1969,Mexican League,B00427,Chavez,Guadalupe,0,Monterrey,,B10,chavez-mty
-1970TSN,1969,Mexican League,B00434,Chavez,Rene,0,Veracruz,,B55,chavez-ver
-1970TSN,1969,Mexican League,F21589,Chavez,,0,Monterrey,,ss8,chavez-mty
-1970TSN,1969,Mexican League,F22057,Chavez,,0,Veracruz,,of41,chavez-ver
-1970TSN,1969,Mexican League,F22900,Chavez,,0,Veracruz,,p11,chavez-ver
-1970TSN,1969,Mexican League,P10215,Chavez,,0,Veracruz,,P11p,chavez-ver
-1970TSN,1969,Mexican League,B00442,Cid,Humberto,0,Veracruz,,B7,cid
-1970TSN,1969,Mexican League,F24024,Cid,,0,all,,p,cid
-1970TSN,1969,Mexican League,P10228,Cid,,0,Veracruz,,P6p,cid
-1970TSN,1969,Mexican League,B00450,Cisneros,Alfonso,0,Monterrey,,B33,cisneros
-1970TSN,1969,Mexican League,F23556,Cisneros,,0,Monterrey,,p33,cisneros
-1970TSN,1969,Mexican League,P10231,Cisneros,,0,Monterrey,,P33p,cisneros
-1970TSN,1969,Mexican League,B02767,Colis,Exiquio,0,Poza Rica,,B2,colis
-1970TSN,1969,Mexican League,F23915,Colis,,0,Poza Rica,,p2,colis
-1970TSN,1969,Mexican League,P10244,Colis,,0,Poza Rica,,P2p,colis
-1970TSN,1969,Mexican League,B00469,Contreras,Celso,0,Veracruz,,B9,contreras-ver
-1970TSN,1969,Mexican League,B00475,Contreras,Jesus,0,Jalisco,,B28,contreras-jal
-1970TSN,1969,Mexican League,F22626,Contreras,,0,Jalisco,,c27,contreras-jal
-1970TSN,1969,Mexican League,F23966,Contreras,,0,Veracruz,,p9,contreras-ver
-1970TSN,1969,Mexican League,P10253,Contreras,,0,Veracruz,,P9p,contreras-ver
-1970TSN,1969,Mexican League,B00488,Cordova,Ernesto,0,Jalisco,,B12,cordova
-1970TSN,1969,Mexican League,F22866,Cordova,,0,Jalisco,,p10,cordova
-1970TSN,1969,Mexican League,P10266,Cordova,,0,Jalisco,,P10p,cordova
-1970TSN,1969,Mexican League,B00491,Corella,Ernesto,0,Veracruz,,B16,corella-ver
-1970TSN,1969,Mexican League,B00502,Corella,Jaime,1,Monterrey,,B24,corella-mty+jal
-1970TSN,1969,Mexican League,B00502,Corella,Jaime,2,Jalisco,,B78,corella-mty+jal
-1970TSN,1969,Mexican League,B00502,Corella,Jaime,T,,,B102,corella-mty+jal
-1970TSN,1969,Mexican League,F20908,Corella,,0,Veracruz,,2b3,corella-ver
-1970TSN,1969,Mexican League,F21566,Corella,,0,Veracruz,,ss9,corella-ver
-1970TSN,1969,Mexican League,F22479,Corella,,1,Monterrey,,c,corella-mty+jal
-1970TSN,1969,Mexican League,F22479,Corella,,2,Jalisco,,c,corella-mty+jal
-1970TSN,1969,Mexican League,F22479,Corella,,T,,,c92,corella-mty+jal
-1970TSN,1969,Mexican League,M90047,Corella,Jaime,,Monterrey,,,corella-mty+jal
-1970TSN,1969,Mexican League,B00515,Coronado,Edmundo,0,Reynosa,,B63,coronado
-1970TSN,1969,Mexican League,F22487,Coronado,,0,Reynosa,,c48,coronado
-1970TSN,1969,Mexican League,B00528,Cortes,Ruben,0,Monterrey,,B22,cortes
-1970TSN,1969,Mexican League,F22992,Cortes,,0,Monterrey,,p20,cortes
-1970TSN,1969,Mexican League,P10277,Cortes,,0,Monterrey,,P20p,cortes
-1970TSN,1969,Mexican League,B00531,Cruz,Concepcion,0,Mexico City Tigers,,B14,cruz
-1970TSN,1969,Mexican League,F22853,Cruz,,0,Mexico City Tigers,,p14,cruz
-1970TSN,1969,Mexican League,P10289,Cruz,,0,Mexico City Tigers,,P14p,cruz
-1970TSN,1969,Mexican League,B00544,Delfin,Justino,0,Mexico City Tigers,,B35,delfin
-1970TSN,1969,Mexican League,F22913,Delfin,,0,Mexico City Tigers,,p34,delfin
-1970TSN,1969,Mexican League,P10290,Delfin,,0,Mexico City Tigers,,P34p,delfin
-1970TSN,1969,Mexican League,B00553,Diaz,Cesar,0,Veracruz,,B49,diaz-ver
-1970TSN,1969,Mexican League,B00566,Diaz,Hector M.,0,Mexico City Tigers,,B17,diaz-mct
-1970TSN,1969,Mexican League,B00577,Diaz,Manuel Antonio,0,Poza Rica,,B139,diaz-pr
-1970TSN,1969,Mexican League,F20240,Diaz,,0,Poza Rica,,1b4,diaz-pr
-1970TSN,1969,Mexican League,F22549,Diaz,,0,Poza Rica,,c128,diaz-pr
-1970TSN,1969,Mexican League,F23414,Diaz,,0,Mexico City Tigers,,p15,diaz-mct
-1970TSN,1969,Mexican League,F23438,Diaz,,0,Veracruz,,p42,diaz-ver
-1970TSN,1969,Mexican League,F24035,Diaz,C.,0,all,,of,diaz-ver
-1970TSN,1969,Mexican League,P10304,Diaz,C.,0,Veracruz,,P42p,diaz-ver
-1970TSN,1969,Mexican League,P10312,Diaz,,0,Mexico City Tigers,,P15p,diaz-mct
-1970TSN,1969,Mexican League,B00589,Elizalde,Eusebio,0,Veracruz,,B36,elizalde
-1970TSN,1969,Mexican League,F22877,Elizalde,,0,Veracruz,,p36,elizalde
-1970TSN,1969,Mexican League,P10320,Elizalde,,0,Veracruz,,P36p,elizalde
-1970TSN,1969,Mexican League,B00590,Enriquez,Graciano,0,Puebla,,B154,enriquez
-1970TSN,1969,Mexican League,F21999,Enriquez,,0,Puebla,,of154,enriquez
-1970TSN,1969,Mexican League,B00609,Escamilla,Hector,0,Mexico City Tigers,,B2,escamilla
-1970TSN,1969,Mexican League,F20829,Escamilla,,0,Mexico City Tigers,,2b1,escamilla
-1970TSN,1969,Mexican League,B00614,Esma,Luis,0,Puebla,,B89,esma
-1970TSN,1969,Mexican League,F20463,Esma,,0,Puebla,,1b1,esma
-1970TSN,1969,Mexican League,F22465,Esma,,0,Puebla,,c58,esma
-1970TSN,1969,Mexican League,F24043,Esma,,0,all,,of,esma
-1970TSN,1969,Mexican League,B00623,Espino,Hector,0,Monterrey,,B147,espino
-1970TSN,1969,Mexican League,F20153,Espino,,0,Monterrey,,1b147,espino
-1970TSN,1969,Mexican League,B00638,Esquivel,Ramiro,0,Monterrey,,B52,esquivel
-1970TSN,1969,Mexican League,F22563,Esquivel,,0,Monterrey,,c45,esquivel
-1970TSN,1969,Mexican League,B00646,Esquivias,Ruben,0,Mexico City Tigers,,B128,esquivias
-1970TSN,1969,Mexican League,F20072,Esquivias,,0,Mexico City Tigers,,1b41,esquivias
-1970TSN,1969,Mexican League,F21794,Esquivias,,0,Mexico City Tigers,,of87,esquivias
-1970TSN,1969,Mexican League,F24056,Esquivias,,0,all,,p,esquivias
-1970TSN,1969,Mexican League,P10336,Esquivias,,0,Mexico City Tigers,,P1p,esquivias
-1970TSN,1969,Mexican League,B00651,Estrada,Francisco,0,Mexico City Reds,,B116,estrada
-1970TSN,1969,Mexican League,F20342,Estrada,,0,Mexico City Reds,,1b4,estrada
-1970TSN,1969,Mexican League,F22596,Estrada,,0,Mexico City Reds,,c113,estrada
-1970TSN,1969,Mexican League,B00667,Fabela,Jaime,0,Poza Rica,,B125,fabela-pr
-1970TSN,1969,Mexican League,B00672,Fabela,Victor,0,Jalisco,,B114,fabela-jal
-1970TSN,1969,Mexican League,B02698,Fabela,Wilfredo,0,Mexico City Reds,,B1,fabela-mcr
-1970TSN,1969,Mexican League,F20190,Fabela,,0,Jalisco,,1b108,fabela-jal
-1970TSN,1969,Mexican League,F21210,Fabela,,0,Poza Rica,,3b1,fabela-pr
-1970TSN,1969,Mexican League,F21898,Fabela,,0,Poza Rica,,of113,fabela-pr
-1970TSN,1969,Mexican League,F24062,Fabela,W.,0,all,,p,fabela-mcr
-1970TSN,1969,Mexican League,P10348,Fabela,,0,Mexico City Reds,,P1p,fabela-mcr
-1970TSN,1969,Mexican League,B00680,Fajardo,Ignacio,0,Mexico City Reds,,B12,fajardo
-1970TSN,1969,Mexican League,F23655,Fajardo,,0,Mexico City Reds,,p12,fajardo
-1970TSN,1969,Mexican League,P10357,Fajardo,,0,Mexico City Reds,,P12p,fajardo
-1970TSN,1969,Mexican League,B00695,Fernandez,Rogelio,0,Mexico City Reds,,B91,fernandez
-1970TSN,1969,Mexican League,F20571,Fernandez,,0,Mexico City Reds,,2b62,fernandez
-1970TSN,1969,Mexican League,F21502,Fernandez,,0,Mexico City Reds,,ss18,fernandez
-1970TSN,1969,Mexican League,F22735,Fernandez,,0,Mexico City Reds,,c1,fernandez
-1970TSN,1969,Mexican League,F22743,Fernandez,,0,Mexico City Reds,,c1,fernandez
-1970TSN,1969,Mexican League,F24070,Fernandez,,0,all,,3b,fernandez
-1970TSN,1969,Mexican League,B00705,Figueroa,Agustin,0,Mexico City Tigers,,B22,figueroa
-1970TSN,1969,Mexican League,F23610,Figueroa,,0,Mexico City Tigers,,p22,figueroa
-1970TSN,1969,Mexican League,P10361,Figueroa,,0,Mexico City Tigers,,P22p,figueroa
-1970TSN,1969,Mexican League,B00718,Fitch,Jorge,0,Reynosa,,B131,fitch
-1970TSN,1969,Mexican League,F20878,Fitch,,0,Reynosa,,2b7,fitch
-1970TSN,1969,Mexican League,F21381,Fitch,,0,Reynosa,,ss122,fitch
-1970TSN,1969,Mexican League,B00726,Flores,Aaron,0,Poza Rica,,B27,flores
-1970TSN,1969,Mexican League,F23292,Flores,,0,Poza Rica,,p27,flores
-1970TSN,1969,Mexican League,F24081,Flores,,0,all,,1b,flores
-1970TSN,1969,Mexican League,P10373,Flores,,0,Poza Rica,,P27p,flores
-1970TSN,1969,Mexican League,B00739,Francis,DeGold,0,Reynosa,,B29,francis
-1970TSN,1969,Mexican League,F20279,Francis,,0,Reynosa,,1b6,francis
-1970TSN,1969,Mexican League,F22558,Francis,,0,Reynosa,,c15,francis
-1970TSN,1969,Mexican League,B00747,Galindo,Guillermo,0,Poza Rica,,B24,galindo
-1970TSN,1969,Mexican League,F21207,Galindo,,0,Poza Rica,,3b1,galindo
-1970TSN,1969,Mexican League,F21427,Galindo,,0,Poza Rica,,ss23,galindo
-1970TSN,1969,Mexican League,B00752,Gamez,Raul,0,Mexico City Reds,,B43,gamez
-1970TSN,1969,Mexican League,F23318,Gamez,,0,Mexico City Reds,,p39,gamez
-1970TSN,1969,Mexican League,P10385,Gamez,,0,Mexico City Reds,,P39p,gamez
-1970TSN,1969,Mexican League,B00760,Garcia,Alonso,0,Reynosa,,B149,garcia.a-rey
-1970TSN,1969,Mexican League,B00783,Garcia,Francisco,0,Jalisco,,B97,garcia.f-jal
-1970TSN,1969,Mexican League,B00794,Garcia,Humberto,0,Reynosa,,B96,garcia.h-rey
-1970TSN,1969,Mexican League,B00822,Garcia,Manuel,0,Veracruz,,B4,garcia.m-ver
-1970TSN,1969,Mexican League,B00833,Garcia,Nicolas,0,Mexico City Tigers,,B45,garcia.n-mct
-1970TSN,1969,Mexican League,B00840,Garcia,Victor,0,Mexico City Reds,,B31,garcia.v-mcr
-1970TSN,1969,Mexican League,B00854,Garcia,Vinicio,0,Veracruz,,B57,garcia.v-ver
-1970TSN,1969,Mexican League,B02714,Garcia,Emiliano,0,Mexico City Tigers,,B1,garcia.e-mct
-1970TSN,1969,Mexican League,F20014,Garcia,V.,0,Veracruz,,1b21,garcia.v-ver
-1970TSN,1969,Mexican League,F20051,Garcia,H.,0,Reynosa,,1b16,garcia.h-rey
-1970TSN,1969,Mexican League,F20539,Garcia,,0,Jalisco,,1b2,garcia.f-jal
-1970TSN,1969,Mexican League,F20661,Garcia,A.,0,Reynosa,,2b149,garcia.a-rey
-1970TSN,1969,Mexican League,F20792,Garcia,H.,0,Reynosa,,2b2,garcia.h-rey
-1970TSN,1969,Mexican League,F21101,Garcia,H.,0,Reynosa,,3b60,garcia.h-rey
-1970TSN,1969,Mexican League,F22134,Garcia,,0,Jalisco,,of83,garcia.f-jal
-1970TSN,1969,Mexican League,F22272,Garcia,H.,0,Reynosa,,of4,garcia.h-rey
-1970TSN,1969,Mexican League,F22386,Garcia,M.,0,Veracruz,,of3,garcia.m-ver
-1970TSN,1969,Mexican League,F22781,Garcia,,0,Mexico City Reds,,p26,garcia.v-mcr
-1970TSN,1969,Mexican League,F23104,Garcia,N.,0,Mexico City Tigers,,p37,garcia.n-mct
-1970TSN,1969,Mexican League,F24097,Garcia,E.,0,all,,p,garcia.e-mct
-1970TSN,1969,Mexican League,F24100,Garcia,H.,0,all,,c,garcia.h-rey
-1970TSN,1969,Mexican League,M90039,Garcia,Jose,,Mexico City Tigers,,,garcia.j-mct
-1970TSN,1969,Mexican League,M90110,Garcia,Vinicio,,Veracruz,,,garcia.v-ver
-1970TSN,1969,Mexican League,P10407,Garcia,E.,0,Mexico City Reds,,P1p,garcia.e-mcr
-1970TSN,1969,Mexican League,P10429,Garcia,N.,0,Mexico City Tigers,,P37p,garcia.n-mct
-1970TSN,1969,Mexican League,P10432,Garcia,V.,0,Mexico City Reds,,P26p,garcia.v-mcr
-1970TSN,1969,Mexican League,B00806,Garcia A.,Jesus,0,Puebla,,B11,garcia.j-pue
-1970TSN,1969,Mexican League,F23629,Garcia A.,,0,Puebla,,p11,garcia.j-pue
-1970TSN,1969,Mexican League,P10410,Garcia A.,J.,0,Puebla,,P11p,garcia.j-pue
-1970TSN,1969,Mexican League,B00811,Garcia L.,Jesus,0,Poza Rica,,B20,garcia.j-pr
-1970TSN,1969,Mexican League,F20776,Garcia L.,,0,Poza Rica,,2b9,garcia.j-pr
-1970TSN,1969,Mexican League,B00771,Garcia T.,David,0,Puebla,,B12,garcia.d-pue
-1970TSN,1969,Mexican League,F23011,Garcia T.,,0,Puebla,,p12,garcia.d-pue
-1970TSN,1969,Mexican League,P10399,Garcia T.,D.,0,Puebla,,P12p,garcia.d-pue
-1970TSN,1969,Mexican League,B00865,Garibay,Jose,0,Puebla,,B125,garibay-pue
-1970TSN,1969,Mexican League,F20648,Garibay,,0,Puebla,,2b81,garibay-pue
-1970TSN,1969,Mexican League,F21117,Garibay,,0,Puebla,,3b25,garibay-pue
-1970TSN,1969,Mexican League,F21475,Garibay,,0,Puebla,,ss22,garibay-pue
-1970TSN,1969,Mexican League,M90018,Garibay,Memo,,Jalisco,,,garibay-jal
-1970TSN,1969,Mexican League,B00879,Garza,Carlos,0,Mexico City Tigers,,B121,garza.c-mct
-1970TSN,1969,Mexican League,B00887,Garza,Gustavo,0,Mexico City Tigers,,B63,garza.g-mct
-1970TSN,1969,Mexican League,B00898,Garza,Ricardo,0,Poza Rica,,B27,garza.r-pr
-1970TSN,1969,Mexican League,B02805,Garza,Adolfo,0,Reynosa,,B1,garza.a-rey
-1970TSN,1969,Mexican League,F20046,Garza,,0,Poza Rica,,1b10,garza.r-pr
-1970TSN,1969,Mexican League,F20177,Garza,C.,0,Mexico City Tigers,,1b113,garza.c-mct
-1970TSN,1969,Mexican League,F21739,Garza,G.,0,Mexico City Tigers,,of63,garza.g-mct
-1970TSN,1969,Mexican League,F24113,Garza,A.,0,all,,p,garza.a-rey
-1970TSN,1969,Mexican League,M90083,Garza,Ricardo,,Poza Rica,,,garza.r-pr
-1970TSN,1969,Mexican League,P10441,Garza,,0,Reynosa,,P1p,garza.a-rey
-1970TSN,1969,Mexican League,B00904,Gaspar,Miguel,0,Veracruz,,B104,gaspar
-1970TSN,1969,Mexican League,F22525,Gaspar,,0,Veracruz,,c91,gaspar
-1970TSN,1969,Mexican League,B00912,Gil,Marcos,0,Mexico City Tigers,,B6,gil
-1970TSN,1969,Mexican League,F23774,Gil,,0,Mexico City Tigers,,p6,gil
-1970TSN,1969,Mexican League,P10455,Gil,,0,Mexico City Tigers,,P6p,gil
-1970TSN,1969,Mexican League,B00920,Gonzalez,Ernesto,0,Reynosa,,B45,gonzalez
-1970TSN,1969,Mexican League,F23360,Gonzalez,,0,Reynosa,,p44,gonzalez
-1970TSN,1969,Mexican League,P10464,Gonzalez,,0,Reynosa,,P44p,gonzalez
-1970TSN,1969,Mexican League,B00936,Grant,Julious,1,Reynosa,,B14,grant
-1970TSN,1969,Mexican League,B00936,Grant,Julious,2,Jalisco,,B41,grant
-1970TSN,1969,Mexican League,B00936,Grant,Julious,T,,,B55,grant
-1970TSN,1969,Mexican League,F20334,Grant,,0,Jalisco,,1b4,grant
-1970TSN,1969,Mexican League,F22815,Grant,,1,Reynosa,,p,grant
-1970TSN,1969,Mexican League,F22815,Grant,,2,Jalisco,,p,grant
-1970TSN,1969,Mexican League,F22815,Grant,,T,,,p32,grant
-1970TSN,1969,Mexican League,P10478,Grant,,1,Reynosa,,P14p,grant
-1970TSN,1969,Mexican League,P10478,Grant,,2,Jalisco,,P18p,grant
-1970TSN,1969,Mexican League,P10478,Grant,,T,,,P32p,grant
-1970TSN,1969,Mexican League,B02772,Guirardo,Juan Manuel,0,Poza Rica,,B3,guirardo
-1970TSN,1969,Mexican League,F24121,Guirardo,,0,all,,p,guirardo
-1970TSN,1969,Mexican League,P10486,Guirardo,,0,Poza Rica,,P3p,guirardo
-1970TSN,1969,Mexican League,B00948,Gutierrez,Andres,0,Mexico City Reds,,B4,gutierrez.a-mcr
-1970TSN,1969,Mexican League,B00957,Gutierrez,Cesar,0,Poza Rica,,B19,gutierrez.c-pr
-1970TSN,1969,Mexican League,F22976,Gutierrez,,0,Poza Rica,,p19,gutierrez.c-pr
-1970TSN,1969,Mexican League,F23816,Gutierrez,,0,Mexico City Reds,,p4,gutierrez.a-mcr
-1970TSN,1969,Mexican League,P10493,Gutierrez,,0,Poza Rica,,P4p,gutierrez.c-pr
-1970TSN,1969,Mexican League,P10503,Gutierrez,,0,Mexico City Reds,,P19p,gutierrez.a-mcr
-1970TSN,1969,Mexican League,B00961,Guzman,Alvaro,0,Jalisco,,B45,guzman
-1970TSN,1969,Mexican League,F22921,Guzman,,0,Jalisco,,p44,guzman
-1970TSN,1969,Mexican League,P10516,Guzman,,0,Jalisco,,P44p,guzman
-1970TSN,1969,Mexican League,B00973,Harvey,Slidell,0,Monterrey,,B129,harvey
-1970TSN,1969,Mexican League,F22012,Harvey,,0,Monterrey,,of127,harvey
-1970TSN,1969,Mexican League,B00999,Hernandez,Juan,0,Monterrey,,B11,hernandez.j-mty
-1970TSN,1969,Mexican League,B01007,Hernandez,Ramon,0,Mexico City Reds,,B146,hernandez.r-mcr
-1970TSN,1969,Mexican League,F21442,Hernandez,,0,Mexico City Reds,,ss144,hernandez.r-mcr
-1970TSN,1969,Mexican League,F23607,Hernandez,,0,Monterrey,,p11,hernandez.j-mty
-1970TSN,1969,Mexican League,P10527,Hernandez,,0,Monterrey,,P11p,hernandez.j-mty
-1970TSN,1969,Mexican League,B00985,Hernandez de la F.,Javier,0,Poza Rica,,B109,hernandez.j-pr
-1970TSN,1969,Mexican League,F20211,Hernandez de la F.,,0,Poza Rica,,1b21,hernandez.j-pr
-1970TSN,1969,Mexican League,F20721,Hernandez de la F.,,0,Poza Rica,,2b32,hernandez.j-pr
-1970TSN,1969,Mexican League,F21130,Hernandez de la F.,,0,Poza Rica,,3b16,hernandez.j-pr
-1970TSN,1969,Mexican League,F21544,Hernandez de la F.,,0,Poza Rica,,ss2,hernandez.j-pr
-1970TSN,1969,Mexican League,F22116,Hernandez de la F.,,0,Poza Rica,,of15,hernandez.j-pr
-1970TSN,1969,Mexican League,B01010,Herrera,Roberto,0,Puebla,,B135,herrera.r-pue
-1970TSN,1969,Mexican League,F20474,Herrera,,0,Puebla,,1b7,herrera.r-pue
-1970TSN,1969,Mexican League,F22582,Herrera,,0,Puebla,,c124,herrera.r-pue
-1970TSN,1969,Mexican League,M90026,Herrera,Tomas,,Mexico City Reds,,,herrera.t-mcr
-1970TSN,1969,Mexican League,B01029,Hooker,William,0,Puebla,,B6,hooker
-1970TSN,1969,Mexican League,F23725,Hooker,,0,Puebla,,p6,hooker
-1970TSN,1969,Mexican League,P10534,Hooker,,0,Puebla,,P6p,hooker
-1970TSN,1969,Mexican League,B01032,Horsford,James,0,Monterrey,,B47,horsford
-1970TSN,1969,Mexican League,F20425,Horsford,,0,Monterrey,,1b1,horsford
-1970TSN,1969,Mexican League,F22341,Horsford,,0,Monterrey,,of2,horsford
-1970TSN,1969,Mexican League,F23112,Horsford,,0,Monterrey,,p37,horsford
-1970TSN,1969,Mexican League,P10542,Horsford,,0,Monterrey,,P37p,horsford
-1970TSN,1969,Mexican League,B01041,Huerta,Hector,0,Mexico City Tigers,,B17,huerta
-1970TSN,1969,Mexican League,F20745,Huerta,,0,Mexico City Tigers,,2b15,huerta
-1970TSN,1969,Mexican League,B01055,Icedo,Enrique,0,Mexico City Tigers,,B51,icedo
-1970TSN,1969,Mexican League,F23371,Icedo,,0,Mexico City Tigers,,p47,icedo
-1970TSN,1969,Mexican League,P10550,Icedo,,0,Mexico City Tigers,,P47p,icedo
-1970TSN,1969,Mexican League,B01064,Imbert,Julio C.,0,Veracruz,,B6,imbert
-1970TSN,1969,Mexican League,F23953,Imbert,,0,Veracruz,,p5,imbert
-1970TSN,1969,Mexican League,P10569,Imbert,,0,Veracruz,,P5p,imbert
-1970TSN,1969,Mexican League,B01078,Jimenez,Rogelio,0,Poza Rica,,B156,jimenez
-1970TSN,1969,Mexican League,F20935,Jimenez,,0,Poza Rica,,2b1,jimenez
-1970TSN,1969,Mexican League,F20970,Jimenez,,0,Poza Rica,,3b141,jimenez
-1970TSN,1969,Mexican League,F21335,Jimenez,,0,Poza Rica,,ss13,jimenez
-1970TSN,1969,Mexican League,F22238,Jimenez,,0,Poza Rica,,of2,jimenez
-1970TSN,1969,Mexican League,B01086,Johnson,Tomas,0,Mexico City Tigers,,B14,johnson
-1970TSN,1969,Mexican League,F22945,Johnson,,0,Mexico City Tigers,,p14,johnson
-1970TSN,1969,Mexican League,P10575,Johnson,,0,Mexico City Tigers,,P14p,johnson
-1970TSN,1969,Mexican League,B01093,Juarez,Marcelo,1,Veracruz,,B34,juarez
-1970TSN,1969,Mexican League,B01093,Juarez,Marcelo,2,Mexico City Reds,,B104,juarez
-1970TSN,1969,Mexican League,B01093,Juarez,Marcelo,T,,,B138,juarez
-1970TSN,1969,Mexican League,F21854,Juarez,,1,Veracruz,,of,juarez
-1970TSN,1969,Mexican League,F21854,Juarez,,2,Mexico City Reds,,of,juarez
-1970TSN,1969,Mexican League,F21854,Juarez,,T,,,of136,juarez
-1970TSN,1969,Mexican League,B01108,Jusino,Ramon,0,Veracruz,,B54,jusino
-1970TSN,1969,Mexican League,F23284,Jusino,,0,Veracruz,,p42,jusino
-1970TSN,1969,Mexican League,P10588,Jusino,,0,Veracruz,,P42p,jusino
-1970TSN,1969,Mexican League,B01119,Klages,Frederick,0,Reynosa,,B2,klages
-1970TSN,1969,Mexican League,F23717,Klages,,0,Reynosa,,p2,klages
-1970TSN,1969,Mexican League,P10591,Klages,,0,Reynosa,,P2p,klages
-1970TSN,1969,Mexican League,B01124,Krsnich,Michael,0,Poza Rica,,B14,krsnich
-1970TSN,1969,Mexican League,F22142,Krsnich,,0,Poza Rica,,of13,krsnich
-1970TSN,1969,Mexican League,B01135,Lagunas,Crescencio,0,Poza Rica,,B42,lagunas.c-pr
-1970TSN,1969,Mexican League,B01143,Lagunas,Luis,0,Jalisco,,B113,lagunas.l-jal
-1970TSN,1969,Mexican League,F21092,Lagunas,,0,Jalisco,,3b113,lagunas.l-jal
-1970TSN,1969,Mexican League,F22694,Lagunas,,0,Jalisco,,c2,lagunas.l-jal
-1970TSN,1969,Mexican League,F23200,Lagunas,,0,Poza Rica,,p42,lagunas.c-pr
-1970TSN,1969,Mexican League,P10606,Lagunas,,0,Poza Rica,,P42p,lagunas.c-pr
-1970TSN,1969,Mexican League,B01156,Lara,Armando,0,Mexico City Tigers,,B18,lara
-1970TSN,1969,Mexican League,F21672,Lara,,0,Mexico City Tigers,,of13,lara
-1970TSN,1969,Mexican League,B01162,Leal,Antonio,0,Mexico City Tigers,,B4,leal.a-mct
-1970TSN,1969,Mexican League,B01170,Leal,Felipe,0,Mexico City Reds,,B59,leal.f-mcr
-1970TSN,1969,Mexican League,F23161,Leal,,0,Mexico City Reds,,p37,leal.f-mcr
-1970TSN,1969,Mexican League,F23902,Leal,,0,Mexico City Tigers,,p4,leal.a-mct
-1970TSN,1969,Mexican League,P10611,Leal,,0,Mexico City Tigers,,P4p,leal.a-mct
-1970TSN,1969,Mexican League,P10622,Leal,F.,0,Mexico City Reds,,P37p,leal.f-mcr
-1970TSN,1969,Mexican League,B01181,Leon,Maximino,0,Jalisco,,B13,leon
-1970TSN,1969,Mexican League,F22984,Leon,,0,Jalisco,,p13,leon
-1970TSN,1969,Mexican League,P10633,Leon,,0,Jalisco,,P13p,leon
-1970TSN,1969,Mexican League,B01197,Leyva,Jose,0,Veracruz,,B12,leyva
-1970TSN,1969,Mexican League,F23701,Leyva,,0,Veracruz,,p9,leyva
-1970TSN,1969,Mexican League,P10640,Leyva,,0,Veracruz,,P9p,leyva
-1970TSN,1969,Mexican League,B01203,Lira,Jorge,0,Poza Rica,,B39,lira
-1970TSN,1969,Mexican League,F23305,Lira,,0,Poza Rica,,p38,lira
-1970TSN,1969,Mexican League,P10654,Lira,,0,Poza Rica,,P38p,lira
-1970TSN,1969,Mexican League,B01216,Lizarraga,Roberto,0,Mexico City Reds,,B119,lizarraga
-1970TSN,1969,Mexican League,F21182,Lizarraga,,0,Mexico City Reds,,3b2,lizarraga
-1970TSN,1969,Mexican League,F21920,Lizarraga,,0,Mexico City Reds,,of114,lizarraga
-1970TSN,1969,Mexican League,B01227,Llamozas,Jesus,0,Veracruz,,B2,llamozas
-1970TSN,1969,Mexican League,F23891,Llamozas,,0,Veracruz,,p2,llamozas
-1970TSN,1969,Mexican League,P10665,Llamozas,,0,Veracruz,,P2p,llamozas
-1970TSN,1969,Mexican League,B01234,Lopez,Aurelio,0,Mexico City Reds,,B21,lopez.a-mcr
-1970TSN,1969,Mexican League,B01242,Lopez,Carlos,0,Mexico City Tigers,,B4,lopez.c-mct
-1970TSN,1969,Mexican League,B01250,Lopez,Francisco,0,Veracruz,,B24,lopez.f-ver
-1970TSN,1969,Mexican League,B01269,Lopez,Jaime,0,Jalisco,,B6,lopez.j-jal
-1970TSN,1969,Mexican League,B01275,Lopez,Jose Ramon,0,Monterrey,,B33,lopez.jr-mty
-1970TSN,1969,Mexican League,B01288,Lopez,Lorenzo,0,Monterrey,,B138,lopez.l-mty
-1970TSN,1969,Mexican League,B01291,Lopez,Manuel,0,Puebla,,B29,lopez.m-pue
-1970TSN,1969,Mexican League,B01300,Lopez,Rigoberto,0,Reynosa,,B34,lopez.r-rey
-1970TSN,1969,Mexican League,B02818,Lopez,David,0,Reynosa,,B12,lopez.d-rey
-1970TSN,1969,Mexican League,F20350,Lopez,,0,Jalisco,,1b2,lopez.j-jal
-1970TSN,1969,Mexican League,F20699,Lopez,,0,Puebla,,2b22,lopez.m-pue
-1970TSN,1969,Mexican League,F21806,Lopez,L.,0,Monterrey,,of132,lopez.l-mty
-1970TSN,1969,Mexican League,F22251,Lopez,,0,Puebla,,of4,lopez.m-pue
-1970TSN,1969,Mexican League,F22307,Lopez,,0,Mexico City Tigers,,of2,lopez.c-mct
-1970TSN,1969,Mexican League,F22440,Lopez,J. R.,0,Monterrey,,of1,lopez.jr-mty
-1970TSN,1969,Mexican League,F22828,Lopez,,0,Veracruz,,p24,lopez.f-ver
-1970TSN,1969,Mexican League,F23054,Lopez,D.,0,Reynosa,,p12,lopez.d-rey
-1970TSN,1969,Mexican League,F23173,Lopez,R.,0,Reynosa,,p34,lopez.r-rey
-1970TSN,1969,Mexican League,F23347,Lopez,,0,Mexico City Reds,,p21,lopez.c-mct
-1970TSN,1969,Mexican League,F23524,Lopez,J. R.,0,Monterrey,,p31,lopez.jr-mty
-1970TSN,1969,Mexican League,P10679,Lopez,A.,0,Mexico City Reds,,P21p,lopez.a-mcr
-1970TSN,1969,Mexican League,P10687,Lopez,D.,0,Reynosa,,P12p,lopez.d-rey
-1970TSN,1969,Mexican League,P10698,Lopez,F.,0,Veracruz,,P24p,lopez.f-ver
-1970TSN,1969,Mexican League,P10709,Lopez,J. R.,0,Monterrey,,P31p,lopez.jr-mty
-1970TSN,1969,Mexican League,P10714,Lopez,R.,0,Reynosa,,P34p,lopez.r-rey
-1970TSN,1969,Mexican League,B01313,Loya,Raymond,0,Monterrey,,B37,loya
-1970TSN,1969,Mexican League,F20449,Loya,,0,Monterrey,,1b1,loya
-1970TSN,1969,Mexican League,F23570,Loya,,0,Monterrey,,p35,loya
-1970TSN,1969,Mexican League,F24137,Loya,,0,all,,of,loya
-1970TSN,1969,Mexican League,P10723,Loya,,0,Monterrey,,P35p,loya
-1970TSN,1969,Mexican League,B01321,Lugo,Gabriel,0,Jalisco,,B40,lugo.g-jal
-1970TSN,1969,Mexican League,B01337,Lugo,Manuel,0,Jalisco,,B55,lugo.m-jal
-1970TSN,1969,Mexican League,B01345,Lugo,Urbano,0,Puebla,,B58,lugo.u-pue
-1970TSN,1969,Mexican League,F20604,Lugo,G.,0,Jalisco,,2b13,lugo.g-jal
-1970TSN,1969,Mexican League,F21037,Lugo,G.,0,Jalisco,,3b16,lugo.g-jal
-1970TSN,1969,Mexican League,F21638,Lugo,G.,0,Jalisco,,ss4,lugo.g-jal
-1970TSN,1969,Mexican League,F23199,Lugo,,0,Puebla,,p54,lugo.u-pue
-1970TSN,1969,Mexican League,F23237,Lugo,M.,0,Jalisco,,p53,lugo.m-jal
-1970TSN,1969,Mexican League,P10738,Lugo,M.,0,Jalisco,,P53p,lugo.m-jal
-1970TSN,1969,Mexican League,P10746,Lugo,U.,0,Puebla,,P54p,lugo.u-pue
-1970TSN,1969,Mexican League,B01359,Luque,Gregorio,0,Mexico City Tigers,,B129,luque
-1970TSN,1969,Mexican League,F21324,Luque,,0,Mexico City Tigers,,3b1,luque
-1970TSN,1969,Mexican League,F22498,Luque,,0,Mexico City Tigers,,c123,luque
-1970TSN,1969,Mexican League,B01368,Macias,Angel,0,Reynosa,,B145,macias
-1970TSN,1969,Mexican League,B01376,Madrigal,Hector,0,Poza Rica,,B26,madrigas
-1970TSN,1969,Mexican League,F22889,Madrigal,,0,Poza Rica,,p24,madrigas
-1970TSN,1969,Mexican League,P10751,Madrigal,,0,Poza Rica,,P24p,madrigas
-1970TSN,1969,Mexican League,M90071,Magallon,Manuel,,Monterrey,,,magallon
-1970TSN,1969,Mexican League,B01384,Malpica,Luis,0,Veracruz,,B33,malpica
-1970TSN,1969,Mexican League,F23339,Malpica,,0,Veracruz,,p31,malpica
-1970TSN,1969,Mexican League,P10767,Malpica,,0,Veracruz,,P31p,malpica
-1970TSN,1969,Mexican League,B01392,Manrique,Gerardo,0,Monterrey,,B12,manrique
-1970TSN,1969,Mexican League,F23022,Manrique,,0,Monterrey,,p10,manrique
-1970TSN,1969,Mexican League,P10772,Manrique,,0,Monterrey,,P10p,manrique
-1970TSN,1969,Mexican League,B01402,Mariscal,Alfredo,0,Puebla,,B70,mariscal
-1970TSN,1969,Mexican League,F20303,Mariscal,,0,Puebla,,1b3,mariscal
-1970TSN,1969,Mexican League,F23148,Mariscal,,0,Puebla,,p35,mariscal
-1970TSN,1969,Mexican League,P10780,Mariscal,,0,Puebla,,P35p,mariscal
-1970TSN,1969,Mexican League,B01415,Marquez,Francisco,0,Reynosa,,B2,marquez
-1970TSN,1969,Mexican League,F22770,Marquez,,0,Reynosa,,c2,marquez
-1970TSN,1969,Mexican League,B01428,Martinez,Antulio,0,Reynosa,,B119,martinez.a-rey
-1970TSN,1969,Mexican League,B01431,Martinez,Javier,0,Puebla,,B32,martinez.j-pue
-1970TSN,1969,Mexican League,F20023,Martinez,,0,Reynosa,,1b16,martinez.a-rey
-1970TSN,1969,Mexican League,F20388,Martinez,,0,Puebla,,1b1,martinez.j-pue
-1970TSN,1969,Mexican League,F21084,Martinez,,0,Reynosa,,3b98,martinez.a-rey
-1970TSN,1969,Mexican League,F23543,Martinez,,0,Puebla,,p32,martinez.j-pue
-1970TSN,1969,Mexican League,P10795,Martinez,,0,Puebla,,P32p,martinez.j-pue
-1970TSN,1969,Mexican League,B01444,Martinez H.,Juan,0,Poza Rica,,B10,martinez.j-pr
-1970TSN,1969,Mexican League,F22191,Martinez H.,,0,Poza Rica,,of8,martinez.j-pr
-1970TSN,1969,Mexican League,B01453,Mason,Larry,0,Monterrey,,B6,mason
-1970TSN,1969,Mexican League,F23803,Mason,,0,Monterrey,,p6,mason
-1970TSN,1969,Mexican League,P10805,Mason,,0,Monterrey,,P6p,mason
-1970TSN,1969,Mexican League,B01466,Maytorena,Francisco,0,Reynosa,,B27,maytorena
-1970TSN,1969,Mexican League,F23221,Maytorena,,0,Reynosa,,p26,maytorena
-1970TSN,1969,Mexican League,P10818,Maytorena,,0,Reynosa,,P26p,maytorena
-1970TSN,1969,Mexican League,B01477,Mazon,Blas,0,Veracruz,,B23,mazon
-1970TSN,1969,Mexican League,F23352,Mazon,,0,Veracruz,,p19,mazon
-1970TSN,1969,Mexican League,P10826,Mazon,,0,Veracruz,,P19p,mazon
-1970TSN,1969,Mexican League,B01489,Medina,Pedro,0,Puebla,,B9,medina
-1970TSN,1969,Mexican League,F23693,Medina,,0,Puebla,,p9,medina
-1970TSN,1969,Mexican League,P10839,Medina,,0,Puebla,,P9p,medina
-1970TSN,1969,Mexican League,B01490,Mena,Rigoberto,0,Monterrey,,B142,mena
-1970TSN,1969,Mexican League,F21278,Mena,,0,Monterrey,,3b7,mena
-1970TSN,1969,Mexican League,F21397,Mena,,0,Monterrey,,ss136,mena
-1970TSN,1969,Mexican League,B01509,Menchaca,J. Francisco,0,Jalisco,,B146,menchaca
-1970TSN,1969,Mexican League,F20233,Menchaca,,0,Jalisco,,1b8,menchaca
-1970TSN,1969,Mexican League,F21985,Menchaca,,0,Jalisco,,of133,menchaca
-1970TSN,1969,Mexican League,B01514,Mendez,Roberto,0,Jalisco,,B141,mendez
-1970TSN,1969,Mexican League,F21264,Mendez,,0,Jalisco,,3b1,mendez
-1970TSN,1969,Mexican League,F21403,Mendez,,0,Jalisco,,ss112,mendez
-1970TSN,1969,Mexican League,F21822,Mendez,,0,Jalisco,,of25,mendez
-1970TSN,1969,Mexican League,B02780,Mendia,Homero,0,Poza Rica,,B1,mendia
-1970TSN,1969,Mexican League,F24145,Mendia,,0,all,,p,mendia
-1970TSN,1969,Mexican League,P10847,Mendia,,0,Poza Rica,,P1p,mendia
-1970TSN,1969,Mexican League,B01523,Mendivil,Rafael,0,Mexico City Reds,,B67,mendivil
-1970TSN,1969,Mexican League,F22618,Mendivil,,0,Mexico City Reds,,c59,mendivil
-1970TSN,1969,Mexican League,B01538,Mendoza,Ramon,0,Monterrey,,B92,mendoza.r-mty
-1970TSN,1969,Mexican League,B01546,Mendoza,Saul,0,Poza Rica,,B122,mendoza.s-pr
-1970TSN,1969,Mexican League,F20369,Mendoza,,0,Monterrey,,1b1,mendoza.r-mty
-1970TSN,1969,Mexican League,F20759,Mendoza,,0,Poza Rica,,2b27,mendoza.s-pr
-1970TSN,1969,Mexican League,F21013,Mendoza,,0,Monterrey,,3b38,mendoza.r-mty
-1970TSN,1969,Mexican League,F21356,Mendoza,,0,Poza Rica,,ss122,mendoza.s-pr
-1970TSN,1969,Mexican League,F22393,Mendoza,,0,Monterrey,,of1,mendoza.r-mty
-1970TSN,1969,Mexican League,B01551,Mere,Luis,0,Puebla,,B9,mere
-1970TSN,1969,Mexican League,F23749,Mere,,0,Puebla,,p7,mere
-1970TSN,1969,Mexican League,P10852,Mere,,0,Puebla,,P7p,mere
-1970TSN,1969,Mexican League,B01567,Meza,Alfredo,0,Mexico City Tigers,,B7,meza
-1970TSN,1969,Mexican League,F23758,Meza,,0,Mexico City Tigers,,p7,meza
-1970TSN,1969,Mexican League,P10860,Meza,,0,Mexico City Tigers,,P7p,meza
-1970TSN,1969,Mexican League,B01572,Minoso,Orestes,0,Jalisco,,B36,minoso
-1970TSN,1969,Mexican League,F20080,Minoso,Orestes,0,Jalisco,,1b21,minoso
-1970TSN,1969,Mexican League,F21241,Minoso,,0,Jalisco,,3b2,minoso
-1970TSN,1969,Mexican League,F22422,Minoso,,0,Jalisco,,of7,minoso
-1970TSN,1969,Mexican League,B01580,Moncayo,Bernardo,0,Puebla,,B47,moncayo
-1970TSN,1969,Mexican League,F23185,Moncayo,,0,Puebla,,p37,moncayo
-1970TSN,1969,Mexican League,F24159,Moncayo,,0,all,,of,moncayo
-1970TSN,1969,Mexican League,P10871,Moncayo,,0,Puebla,,P37p,moncayo
-1970TSN,1969,Mexican League,B01595,Montoya,Ramon,0,Mexico City Reds,,B143,montoya.r-mcr
-1970TSN,1969,Mexican League,B01601,Montoya,Raul,0,Reynosa,,B85,montoya.r-rey
-1970TSN,1969,Mexican League,B01617,Montoya,Rogelio,0,Veracruz,,B30,montoya.r-ver
-1970TSN,1969,Mexican League,B01625,Montoya,Saul,0,Mexico City Reds,,B2,montoya.s-mcr
-1970TSN,1969,Mexican League,F20430,Montoya,,0,Reynosa,,1b1,montoya.r-rey
-1970TSN,1969,Mexican League,F20810,Montoya,,0,Reynosa,,2b2,montoya.r-rey
-1970TSN,1969,Mexican League,F21149,Montoya,,0,Reynosa,,3b19,montoya.r-rey
-1970TSN,1969,Mexican League,F21491,Montoya,,0,Reynosa,,ss44,montoya.r-rey
-1970TSN,1969,Mexican League,F21783,Montoya,,0,Mexico City Reds,,of139,montoya.r-mcr
-1970TSN,1969,Mexican League,F22103,Montoya,,0,Veracruz,,of22,montoya.r-ver
-1970TSN,1969,Mexican League,F23834,Montoya,,0,Mexico City Reds,,p2,montoya.s-mcr
-1970TSN,1969,Mexican League,P10883,Montoya,S.,0,Mexico City Reds,,P2p,montoya.s-mcr
-1970TSN,1969,Mexican League,B01630,Mora,Armando,0,Mexico City Tigers,,B15,mora.a
-1970TSN,1969,Mexican League,B01649,Mora,Jesus,0,Mexico City Tigers,,B102,mora.j
-1970TSN,1969,Mexican League,F21936,Mora,J.,0,Mexico City Tigers,,of99,mora.j
-1970TSN,1969,Mexican League,F23040,Mora,A.,0,Mexico City Tigers,,p15,mora.a
-1970TSN,1969,Mexican League,P10894,Mora,A.,0,Mexico City Tigers,,P15p,mora.a
-1970TSN,1969,Mexican League,B01658,Morales,Neudo,0,Veracruz,,B21,morales
-1970TSN,1969,Mexican League,F21308,Morales,,0,Veracruz,,3b3,morales
-1970TSN,1969,Mexican League,F21609,Morales,,0,Veracruz,,ss8,morales
-1970TSN,1969,Mexican League,F22188,Morales,,0,Veracruz,,of12,morales
-1970TSN,1969,Mexican League,B01663,Morejon,Daniel,0,Reynosa,,B150,morejon
-1970TSN,1969,Mexican League,F21833,Morejon,,0,Reynosa,,of142,morejon
-1970TSN,1969,Mexican League,B01674,Moxey,Edmundo,0,Reynosa,,B22,moxey
-1970TSN,1969,Mexican League,F20526,Moxey,,0,Reynosa,,1b3,moxey
-1970TSN,1969,Mexican League,F21293,Moxey,,0,Reynosa,,3b7,moxey
-1970TSN,1969,Mexican League,F22223,Moxey,,0,Reynosa,,of5,moxey
-1970TSN,1969,Mexican League,B01682,Munoz,Romulo,0,Mexico City Tigers,,B32,munoz.r-mct
-1970TSN,1969,Mexican League,B02795,Munoz,Concepcion,0,Poza Rica,,B4,munoz.c-pr
-1970TSN,1969,Mexican League,F22085,Munoz,,0,Mexico City Tigers,,of25,munoz.r-mct
-1970TSN,1969,Mexican League,F23944,Munoz,,0,Mexico City Tigers,,p4,munoz.r-mct
-1970TSN,1969,Mexican League,P10901,Munoz,,0,Mexico City Tigers,,P4p,munoz.c-mct
-1970TSN,1969,Mexican League,B01696,Murillo,Armando,0,Puebla,,B135,murillo.a-pue
-1970TSN,1969,Mexican League,B01706,Murillo,Guillermo,0,Monterrey,,B124,murillo.g-mty
-1970TSN,1969,Mexican League,B01711,Murillo,Sergio,0,Monterrey,,B36,murillo.s-mty
-1970TSN,1969,Mexican League,F20505,Murillo,,0,Puebla,,1b6,murillo.a-pue
-1970TSN,1969,Mexican League,F20855,Murillo,,0,Puebla,,2b1,murillo.a-pue
-1970TSN,1969,Mexican League,F21021,Murillo,,0,Monterrey,,3b110,murillo.g-mty
-1970TSN,1969,Mexican League,F21059,Murillo,,0,Puebla,,3b130,murillo.a-pue
-1970TSN,1969,Mexican League,F21469,Murillo,G.,0,Monterrey,,ss12,murillo.g-mty
-1970TSN,1969,Mexican League,F23641,Murillo,S.,0,Monterrey,,p34,murillo.s-mty
-1970TSN,1969,Mexican League,F24168,Murillo,G.,0,all,,2b,murillo.g-mty
-1970TSN,1969,Mexican League,F24176,Murillo,G.,0,all,,of,murillo.g-mty
-1970TSN,1969,Mexican League,F24184,Murillo,S.,0,all,,of,murillo.s-mty
-1970TSN,1969,Mexican League,P10917,Murillo,S.,0,Monterrey,,P34p,murillo.s-mty
-1970TSN,1969,Mexican League,B01722,Murrieta,Carlos,0,Monterrey,,B12,murrieta.c-mty
-1970TSN,1969,Mexican League,B01733,Murrieta,Juan,0,Poza Rica,,B15,murrieta.j-pr
-1970TSN,1969,Mexican League,F20924,Murrieta,,0,Poza Rica,,2b8,murrieta.j-pr
-1970TSN,1969,Mexican League,F21319,Murrieta,,0,Monterrey,,3b3,murrieta.c-mty
-1970TSN,1969,Mexican League,F21531,Murrieta,,0,Poza Rica,,ss3,murrieta.j-pr
-1970TSN,1969,Mexican League,F24192,Murrieta,J.,0,all,,of,murrieta.j-pr
-1970TSN,1969,Mexican League,M90052,Narvaez,Arturo,,Monterrey,,,narvaez
-1970TSN,1969,Mexican League,B01740,Navarro,Joel,0,Reynosa,,B15,navarro
-1970TSN,1969,Mexican League,F23033,Navarro,,0,Reynosa,,p13,navarro
-1970TSN,1969,Mexican League,P10925,Navarro,,0,Reynosa,,P13p,navarro
-1970TSN,1969,Mexican League,B01754,Nieblas,Manuel de J.,0,Mexico City Reds,,B6,nieblas
-1970TSN,1969,Mexican League,F22214,Nieblas,,0,Mexico City Reds,,of5,nieblas
-1970TSN,1969,Mexican League,B01765,Nuno,Ramiro,0,Veracruz,,B50,nuno
-1970TSN,1969,Mexican League,F23495,Nuno,,0,Veracruz,,p50,nuno
-1970TSN,1969,Mexican League,P10930,Nuno,,0,Veracruz,,P50p,nuno
-1970TSN,1969,Mexican League,B01779,Ochoa,David,0,Jalisco,,B38,ochoa.d-jal
-1970TSN,1969,Mexican League,B01787,Ochoa,Raul,0,Poza Rica,,B113,ochoa.r-pr
-1970TSN,1969,Mexican League,F20222,Ochoa,,0,Poza Rica,,1b8,ochoa.r-pr
-1970TSN,1969,Mexican League,F21904,Ochoa,,0,Poza Rica,,of113,ochoa.r-pr
-1970TSN,1969,Mexican League,F22169,Ochoa,,0,Jalisco,,of37,ochoa.d-jal
-1970TSN,1969,Mexican League,B01798,Olivares,Alonso,0,Veracruz,,B3,olivares
-1970TSN,1969,Mexican League,F23842,Olivares,,0,Veracruz,,p3,olivares
-1970TSN,1969,Mexican League,P10949,Olivares,,0,Veracruz,,P3p,olivares
-1970TSN,1969,Mexican League,B01804,Orozco,Victor,0,Mexico City Tigers,,B15,orozco
-1970TSN,1969,Mexican League,F21705,Orozco,,0,Mexico City Tigers,,of10,orozco
-1970TSN,1969,Mexican League,F20298,Ortigosa,,0,Poza Rica,,1b3,ortigosa
-1970TSN,1969,Mexican League,F22652,Ortigosa,,0,Poza Rica,,c13,ortigosa
-1970TSN,1969,Mexican League,B01812,Ortigoza,Juan,0,Poza Rica,,B27,ortigosa
-1970TSN,1969,Mexican League,B01820,Ortiz,Alfredo,0,Mexico City Reds,,B97,ortiz.a-mcr
-1970TSN,1969,Mexican League,B01836,Ortiz,Jose Manual,0,Monterrey,,B144,ortiz.j-mty
-1970TSN,1969,Mexican League,B01848,Ortiz,Roberto,0,Veracruz,,B140,ortiz.r-ver
-1970TSN,1969,Mexican League,F20552,Ortiz,,0,Mexico City Reds,,1b1,ortiz.a-mcr
-1970TSN,1969,Mexican League,F20612,Ortiz,,0,Monterrey,,2b135,ortiz.j-mty
-1970TSN,1969,Mexican League,F20981,Ortiz,,0,Veracruz,,3b129,ortiz.r-ver
-1970TSN,1969,Mexican League,F21515,Ortiz,,0,Veracruz,,ss6,ortiz.r-ver
-1970TSN,1969,Mexican League,F21614,Ortiz,,0,Monterrey,,ss7,ortiz.j-mty
-1970TSN,1969,Mexican League,F21695,Ortiz,,0,Mexico City Reds,,of10,ortiz.a-mcr
-1970TSN,1969,Mexican League,F22406,Ortiz,,0,Veracruz,,of8,ortiz.r-ver
-1970TSN,1969,Mexican League,F22724,Ortiz,,0,Veracruz,,c1,ortiz.r-ver
-1970TSN,1969,Mexican League,F23079,Ortiz,,0,Mexico City Reds,,p33,ortiz.a-mcr
-1970TSN,1969,Mexican League,P10958,Ortiz,A.,0,Mexico City Reds,,P33p,ortiz.a-mcr
-1970TSN,1969,Mexican League,B01857,Osorio,Alberto,0,Veracruz,,B31,osorio
-1970TSN,1969,Mexican League,F22355,Osorio,,0,Veracruz,,of2,osorio
-1970TSN,1969,Mexican League,F22797,Osorio,,0,Veracruz,,p28,osorio
-1970TSN,1969,Mexican League,P10963,Osorio,,0,Veracruz,,P28p,osorio
-1970TSN,1969,Mexican League,B01861,Osuna,Elpidio,0,Monterrey,,B152,osuna
-1970TSN,1969,Mexican League,F20496,Osuna,,0,Monterrey,,1b4,osuna
-1970TSN,1969,Mexican League,F21196,Osuna,,0,Monterrey,,3b4,osuna
-1970TSN,1969,Mexican League,F21961,Osuna,,0,Monterrey,,of143,osuna
-1970TSN,1969,Mexican League,B01873,Pantoja,Fidel,0,Mexico City Tigers,,B27,pantoja
-1970TSN,1969,Mexican League,F20673,Pantoja,,0,Mexico City Tigers,,2b22,pantoja
-1970TSN,1969,Mexican League,B01885,Parra,Graciliano,0,Puebla,,B28,parra.g
-1970TSN,1969,Mexican League,B01899,Parra,Raymundo,0,Puebla,,B21,parra.r
-1970TSN,1969,Mexican League,F23467,Parra,R.,0,Puebla,,p20,parra.r
-1970TSN,1969,Mexican League,F23581,Parra,G.,0,Puebla,,,parra.g
-1970TSN,1969,Mexican League,P10974,Parra,G.,0,Puebla,,P22p,parra.g
-1970TSN,1969,Mexican League,P10982,Parra,R.,0,Puebla,,P20p,parra.r
-1970TSN,1969,Mexican League,B01905,Pelaez,Mario,0,Mexico City Reds,,B43,pelaez
-1970TSN,1969,Mexican League,F23508,Pelaez,,0,Mexico City Reds,,p42,pelaez
-1970TSN,1969,Mexican League,P10996,Pelaez,,0,Mexico City Reds,,P42p,pelaez
-1970TSN,1969,Mexican League,B01918,Pena,Jose,0,Reynosa,,B22,pena
-1970TSN,1969,Mexican League,F23213,Pena,,0,Reynosa,,p22,pena
-1970TSN,1969,Mexican League,P11009,Pena,,0,Reynosa,,P22p,pena
-1970TSN,1969,Mexican League,B01926,Penalver,Luis,0,Monterrey,,B35,penalver
-1970TSN,1969,Mexican League,F23065,Penalver,,0,Monterrey,,p34,penalver
-1970TSN,1969,Mexican League,P11014,Penalver,,0,Monterrey,,P34p,penalver
-1970TSN,1969,Mexican League,B01939,Peralta,Luis,0,Mexico City Reds,,B28,peralta
-1970TSN,1969,Mexican League,F20287,Peralta,,0,Mexico City Reds,,1b5,peralta
-1970TSN,1969,Mexican League,F22209,Peralta,,0,Mexico City Reds,,of7,peralta
-1970TSN,1969,Mexican League,F22683,Peralta,,0,Mexico City Reds,,c4,peralta
-1970TSN,1969,Mexican League,F24202,Peralta,,0,all,,3b,peralta
-1970TSN,1969,Mexican League,B02723,Perea,Francisco,0,Mexico City Tigers,,B2,perea
-1970TSN,1969,Mexican League,F24215,Perea,,0,all,,p,perea
-1970TSN,1969,Mexican League,P11023,Perea,,0,Mexico City Tigers,,P2p,perea
-1970TSN,1969,Mexican League,B01947,Pereira,Miguel,0,Mexico City Tigers,,B33,pereira
-1970TSN,1969,Mexican League,F23472,Pereira,,0,Mexico City Tigers,,p31,pereira
-1970TSN,1969,Mexican League,P11038,Pereira,,0,Mexico City Tigers,,P31p,pereira
-1970TSN,1969,Mexican League,B01952,Perez Torres,Miguel,0,Poza Rica,,B80,perez
-1970TSN,1969,Mexican League,F20189,Perez Torres,,0,Poza Rica,,1b67,perez
-1970TSN,1969,Mexican League,F22175,Perez Torres,,0,Poza Rica,,of13,perez
-1970TSN,1969,Mexican League,B01960,Plascencia,Obed,0,Mexico City Tigers,,B35,plasencia
-1970TSN,1969,Mexican League,F20254,Plascencia,,0,Mexico City Tigers,,1b4,plasencia
-1970TSN,1969,Mexican League,F21125,Plascencia,,0,Mexico City Tigers,,3b31,plasencia
-1970TSN,1969,Mexican League,B01971,Pollorena,Antonio,0,Jalisco,,B50,pollorena
-1970TSN,1969,Mexican League,F23276,Pollorena,,0,Jalisco,,p42,pollorena
-1970TSN,1969,Mexican League,F24228,Pollorena,,0,all,,of,pollorena
-1970TSN,1969,Mexican League,P11046,Pollorena,,0,Jalisco,,P42p,pollorena
-1970TSN,1969,Mexican League,B01983,Polo,Gregorio,0,Mexico City Tigers,,B13,polo
-1970TSN,1969,Mexican League,F23632,Polo,,0,Mexico City Tigers,,p13,polo
-1970TSN,1969,Mexican League,P11051,Polo,,0,Mexico City Tigers,,P13p,polo
-1970TSN,1969,Mexican League,B01994,Ponce,Manuel,0,Mexico City Tigers,,B97,ponce
-1970TSN,1969,Mexican League,F21840,Ponce,,0,Mexico City Tigers,,of79,ponce
-1970TSN,1969,Mexican League,B02008,Preciado,Alfonso,0,Mexico City Tigers,,B45,preciado
-1970TSN,1969,Mexican League,F20768,Preciado,,0,Mexico City Tigers,,2b31,preciado
-1970TSN,1969,Mexican League,F21718,Preciado,,0,Mexico City Tigers,,of16,preciado
-1970TSN,1969,Mexican League,B02019,Prescott,George,0,Mexico City Reds,,B15,prescott
-1970TSN,1969,Mexican League,F20038,Prescott,,0,Mexico City Reds,,1b12,prescott
-1970TSN,1969,Mexican League,B02024,Quintana,Juan,1,Puebla,,B4,quintana
-1970TSN,1969,Mexican League,B02024,Quintana,Juan,2,Veracruz,,B6,quintana
-1970TSN,1969,Mexican League,B02024,Quintana,Juan,T,,,B10,quintana
-1970TSN,1969,Mexican League,F22968,Quintana,,1,Puebla,,p4,quintana
-1970TSN,1969,Mexican League,F22968,Quintana,,2,Veracruz,,p6,quintana
-1970TSN,1969,Mexican League,F22968,Quintana,,T,,,p10,quintana
-1970TSN,1969,Mexican League,P11067,Quintana,,1,Puebla,,P4p,quintana
-1970TSN,1969,Mexican League,P11067,Quintana,,2,Veracruz,,P6p,quintana
-1970TSN,1969,Mexican League,P11067,Quintana,,T,,,P10p,quintana
-1970TSN,1969,Mexican League,B02035,Quiroz,Juan,0,Puebla,,B57,quiroz
-1970TSN,1969,Mexican League,F23326,Quiroz,,0,Puebla,,p39,quiroz
-1970TSN,1969,Mexican League,P11072,Quiroz,,0,Puebla,,P39p,quiroz
-1970TSN,1969,Mexican League,B02043,Ramirez,Gustavo,0,Jalisco,,B4,ramirez.g-jal
-1970TSN,1969,Mexican League,B02056,Ramirez,Jose,0,Veracruz,,B5,ramirez.j-ver
-1970TSN,1969,Mexican League,B02062,Ramirez,Martin,0,Jalisco,,B6,ramirez.m-jal
-1970TSN,1969,Mexican League,F22280,Ramirez,G.,0,Jalisco,,of2,ramirez.g-jal
-1970TSN,1969,Mexican League,F22310,Ramirez,M.,0,Jalisco,,of1,ramirez.m-jal
-1970TSN,1969,Mexican League,F23782,Ramirez,,0,Veracruz,,p4,ramirez.j-ver
-1970TSN,1969,Mexican League,P11080,Ramirez,,0,Veracruz,,P4p,ramirez.j-ver
-1970TSN,1969,Mexican League,B02070,Ramos,Roman,0,Puebla,,B42,ramos
-1970TSN,1969,Mexican League,F22844,Ramos,,0,Puebla,,p42,ramos
-1970TSN,1969,Mexican League,P11095,Ramos,,0,Puebla,,P42p,ramos
-1970TSN,1969,Mexican League,B02081,Raygoza,German,0,Mexico City Tigers,,B5,raygoza
-1970TSN,1969,Mexican League,F23730,Raygoza,,0,Mexico City Tigers,,p5,raygoza
-1970TSN,1969,Mexican League,P11102,Raygoza,,0,Mexico City Tigers,,P5p,raygoza
-1970TSN,1969,Mexican League,B02097,Remes,Fernando,0,Mexico City Tigers,,B84,remes
-1970TSN,1969,Mexican League,F21416,Remes,,0,Mexico City Tigers,,ss78,remes
-1970TSN,1969,Mexican League,B02100,Rendon,Alberto,0,Reynosa,,B3,rendon
-1970TSN,1969,Mexican League,F22364,Rendon,,0,Reynosa,,of2,rendon
-1970TSN,1969,Mexican League,B02113,Rey,Arturo,0,Poza Rica,,B8,rey
-1970TSN,1969,Mexican League,F22756,Rey,,0,Poza Rica,,c8,rey
-1970TSN,1969,Mexican League,B02121,Reyes,Rufino,0,Veracruz,,B70,reyes
-1970TSN,1969,Mexican League,F22036,Reyes,,0,Veracruz,,of67,reyes
-1970TSN,1969,Mexican League,B02137,Rios,Alfredo,0,Mexico City Reds,,B155,rios
-1970TSN,1969,Mexican League,F20128,Rios,,0,Mexico City Reds,,1b24,rios
-1970TSN,1969,Mexican League,F20700,Rios,,0,Mexico City Reds,,2b100,rios
-1970TSN,1969,Mexican League,F21076,Rios,,0,Mexico City Reds,,3b47,rios
-1970TSN,1969,Mexican League,F21528,Rios,,0,Mexico City Reds,,ss2,rios
-1970TSN,1969,Mexican League,B02159,Rivera,Domingo,0,Jalisco,,B151,rivera.d-jal
-1970TSN,1969,Mexican League,B02168,Rivera,Rodolfo,0,Reynosa,,B6,rivera.r-rey
-1970TSN,1969,Mexican League,F20265,Rivera,,0,Jalisco,,1b5,rivera.d-jal
-1970TSN,1969,Mexican League,F20636,Rivera,,0,Jalisco,,2b141,rivera.d-jal
-1970TSN,1969,Mexican League,F22411,Rivera,,0,Jalisco,,of7,rivera.d-jal
-1970TSN,1969,Mexican League,F23928,Rivera,,0,Reynosa,,p6,rivera.r-rey
-1970TSN,1969,Mexican League,F24231,Rivera,D.,0,all,,ss,rivera.d-jal
-1970TSN,1969,Mexican League,P11128,Rivera,,0,Reynosa,,P6p,rivera.r-rey
-1970TSN,1969,Mexican League,B02145,Rivera R.,Andres,0,Monterrey,,B127,rivera.a-mty
-1970TSN,1969,Mexican League,F20547,Rivera R.,,0,Monterrey,,1b1,rivera.a-mty
-1970TSN,1969,Mexican League,F21811,Rivera R.,,0,Monterrey,,of114,rivera.a-mty
-1970TSN,1969,Mexican League,F24244,Rivera R.,,0,all,,p,rivera.a-mty
-1970TSN,1969,Mexican League,P11115,Rivera R.,,0,Monterrey,,P1p,rivera.a-mty
-1970TSN,1969,Mexican League,B02176,Robles,Alejandro,0,Mexico City Reds,,B15,robles.a-mcr
-1970TSN,1969,Mexican League,B02184,Robles,Jesus,0,Mexico City Tigers,,B4,robles.j-mct
-1970TSN,1969,Mexican League,F20316,Robles,,0,Mexico City Reds,,1b3,robles.a-mcr
-1970TSN,1969,Mexican League,F21667,Robles,,0,Mexico City Reds,,of14,robles.a-mcr
-1970TSN,1969,Mexican League,F23875,Robles,,0,Mexico City Tigers,,p4,robles.j-mct
-1970TSN,1969,Mexican League,P11131,Robles,,0,Mexico City Tigers,,P4p,robles.j-mct
-1970TSN,1969,Mexican League,B02192,Rodgers,Norbert,1,Jalisco,,B9,rodgers
-1970TSN,1969,Mexican League,B02192,Rodgers,Norbert,2,Reynosa,,B32,rodgers
-1970TSN,1969,Mexican League,B02192,Rodgers,Norbert,T,,,B41,rodgers
-1970TSN,1969,Mexican League,F23245,Rodgers,,1,Jalisco,,p,rodgers
-1970TSN,1969,Mexican League,F23245,Rodgers,,2,Reynosa,,p,rodgers
-1970TSN,1969,Mexican League,F23245,Rodgers,,T,,,p40,rodgers
-1970TSN,1969,Mexican League,P11144,Rodgers,,1,Jalisco,,P8p,rodgers
-1970TSN,1969,Mexican League,P11144,Rodgers,,2,Reynosa,,P32p,rodgers
-1970TSN,1969,Mexican League,P11144,Rodgers,,T,,,P40p,rodgers
-1970TSN,1969,Mexican League,B02202,Rodriguez,Federico,0,Puebla,,B11,rodriguez.f-pue
-1970TSN,1969,Mexican League,B02215,Rodriguez,Francisco,0,Veracruz,,B149,rodriguez.f-ver
-1970TSN,1969,Mexican League,B02228,Rodriguez,Jacinto,0,Mexico City Reds,,B23,rodriguez.j-mcr
-1970TSN,1969,Mexican League,B02231,Rodriguez,Jose,0,Jalisco,,B121,rodriguez.j-jal
-1970TSN,1969,Mexican League,B02244,Rodriguez,Manuel,0,Mexico City Reds,,B2,rodriguez.m-mcr
-1970TSN,1969,Mexican League,B02253,Rodriguez,Oscar,0,Reynosa,,B32,rodriguez.o-rey
-1970TSN,1969,Mexican League,F20327,Rodriguez,,0,Reynosa,,1b2,rodriguez.o-rey
-1970TSN,1969,Mexican League,F20391,Rodriguez,,0,Jalisco,,1b1,rodriguez.j-jal
-1970TSN,1969,Mexican League,F20784,Rodriguez,,0,Puebla,,2b3,rodriguez.f-pue
-1970TSN,1969,Mexican League,F20832,Rodriguez,,0,Jalisco,,2b1,rodriguez.j-jal
-1970TSN,1969,Mexican League,F21163,Rodriguez,,0,Reynosa,,3b4,rodriguez.o-rey
-1970TSN,1969,Mexican League,F21174,Rodriguez,,0,Veracruz,,3b4,rodriguez.f-ver
-1970TSN,1969,Mexican League,F21370,Rodriguez,,0,Veracruz,,ss148,rodriguez.f-ver
-1970TSN,1969,Mexican League,F21577,Rodriguez,,0,Puebla,,ss6,rodriguez.f-pue
-1970TSN,1969,Mexican League,F21651,Rodriguez,,0,Reynosa,,of28,rodriguez.o-rey
-1970TSN,1969,Mexican League,F21973,Rodriguez,,0,Jalisco,,of117,rodriguez.j-jal
-1970TSN,1969,Mexican League,F22639,Rodriguez,J.,0,Mexico City Reds,,c23,rodriguez.j-mcr
-1970TSN,1969,Mexican League,F23888,Rodriguez,M.,0,Mexico City Reds,,p2,rodriguez.m-mcr
-1970TSN,1969,Mexican League,P11153,Rodriguez,M.,0,Mexico City Reds,,P2p,rodriguez.m-mcr
-1970TSN,1969,Mexican League,B02266,Rojas,Minervo,0,Jalisco,,B15,rojas
-1970TSN,1969,Mexican League,F23686,Rojas,,0,Jalisco,,p15,rojas
-1970TSN,1969,Mexican League,P11166,Rojas,,0,Jalisco,,P15p,rojas
-1970TSN,1969,Mexican League,B02277,Romo,Enrique,0,Jalisco,,B37,romo
-1970TSN,1969,Mexican League,F23423,Romo,,0,Jalisco,,p33,romo
-1970TSN,1969,Mexican League,F24253,Romo,,0,all,,of,romo
-1970TSN,1969,Mexican League,P11177,Romo,,0,Jalisco,,P33p,romo
-1970TSN,1969,Mexican League,B02289,Rosas,Clemente,0,Jalisco,,B8,rosas
-1970TSN,1969,Mexican League,F21286,Rosas,,0,Jalisco,,3b5,rosas
-1970TSN,1969,Mexican League,F22671,Rosas,,0,Jalisco,,c3,rosas
-1970TSN,1969,Mexican League,B02290,Rubio,Antonio,0,Mexico City Reds,,B95,rubio.a-mcr
-1970TSN,1969,Mexican League,B02304,Rubio,Jorge,0,Reynosa,,B11,rubio.j-rey
-1970TSN,1969,Mexican League,B02312,Rubio,Ramiro,0,Puebla,,B147,rubio.r-pue
-1970TSN,1969,Mexican League,F20943,Rubio,,0,Mexico City Reds,,2b1,rubio.a-mcr
-1970TSN,1969,Mexican League,F21948,Rubio,,0,Puebla,,of146,rubio.r-pue
-1970TSN,1969,Mexican League,F22020,Rubio,,0,Mexico City Reds,,of70,rubio.a-mcr
-1970TSN,1969,Mexican League,F23664,Rubio,,0,Reynosa,,p10,rubio.j-rey
-1970TSN,1969,Mexican League,P11189,Rubio,,0,Reynosa,,P10p,rubio.j-rey
-1970TSN,1969,Mexican League,B02320,Ruelas,Heriberto,0,Mexico City Reds,,B43,ruelas
-1970TSN,1969,Mexican League,F23562,Ruelas,,0,Mexico City Reds,,p42,ruelas
-1970TSN,1969,Mexican League,F24266,Ruelas,,0,all,,1b,ruelas
-1970TSN,1969,Mexican League,P11190,Ruelas,,0,Mexico City Reds,,P42p,ruelas
-1970TSN,1969,Mexican League,B02336,Ruiz,Ildefonso,0,Poza Rica,,B68,ruiz.i-pr
-1970TSN,1969,Mexican League,B02348,Ruiz,Porfirio,0,Veracruz,,B44,ruiz.p-ver
-1970TSN,1969,Mexican League,B02357,Ruiz,Roberto,0,Mexico City Tigers,,B7,ruiz.r-mct
-1970TSN,1969,Mexican League,F20067,Ruiz,,0,Poza Rica,,1b58,ruiz.i-pr
-1970TSN,1969,Mexican League,F22517,Ruiz,,0,Veracruz,,c44,ruiz.p-ver
-1970TSN,1969,Mexican League,F23869,Ruiz,,0,Mexico City Tigers,,p7,ruiz.r-mct
-1970TSN,1969,Mexican League,P11206,Ruiz,,0,Mexico City Tigers,,P7p,ruiz.r-mct
-1970TSN,1969,Mexican League,B02361,Salazar,Mario,0,Jalisco,,B7,salazar.m-jal
-1970TSN,1969,Mexican League,B02709,Salazar,Juan,0,Mexico City Reds,,B1,salazar.j-mcr
-1970TSN,1969,Mexican League,F22378,Salazar,,0,Jalisco,,of3,salazar.m-jal
-1970TSN,1969,Mexican League,F23931,Salazar,,0,Mexico City Reds,,p1,salazar.j-mcr
-1970TSN,1969,Mexican League,P11211,Salazar,,0,Mexico City Reds,,P1p,salazar.j-mcr
-1970TSN,1969,Mexican League,B02373,Salinas,Hector,1,Veracruz,,B10,salinas.hec-ver+mcr
-1970TSN,1969,Mexican League,B02373,Salinas,Hector,2,Mexico City Reds,,B9,salinas.hec-ver+mcr
-1970TSN,1969,Mexican League,B02373,Salinas,Hector,T,,,B19,salinas.hec-ver+mcr
-1970TSN,1969,Mexican League,B02385,Salinas,Hilario,0,Veracruz,,B77,salinas.hil-ver
-1970TSN,1969,Mexican League,B02399,Salinas,Juan Manuel,0,Puebla,,B119,salinas.jm-pue
-1970TSN,1969,Mexican League,F20375,Salinas,Hi.,0,Veracruz,,1b2,salinas.hil-ver
-1970TSN,1969,Mexican League,F21232,Salinas,Hi.,0,Veracruz,,3b1,salinas.hil-ver
-1970TSN,1969,Mexican League,F21362,Salinas,,0,Puebla,,ss119,salinas.jm-pue
-1970TSN,1969,Mexican League,F21752,Salinas,Hi.,0,Veracruz,,of42,salinas.hil-ver
-1970TSN,1969,Mexican League,F22004,Salinas,Hec.,1,Veracruz,,of,salinas.hec-ver+mcr
-1970TSN,1969,Mexican League,F22004,Salinas,Hec.,2,Mexico City Reds,,of,salinas.hec-ver+mcr
-1970TSN,1969,Mexican League,F22004,Salinas,Hec.,T,,,of16,salinas.hec-ver+mcr
-1970TSN,1969,Mexican League,F22501,Salinas,Hi.,0,Veracruz,,c33,salinas.hil-ver
-1970TSN,1969,Mexican League,B02826,Salomon,Saturnino,0,Reynosa,,B2,salomon
-1970TSN,1969,Mexican League,F24277,Salomon,,0,all,,p,salomon
-1970TSN,1969,Mexican League,P11222,Salomon,,0,Reynosa,,P2p,salomon
-1970TSN,1969,Mexican League,B02407,Sanchez,Carlos,0,Monterrey,,B39,sanchez.c-mty
-1970TSN,1969,Mexican League,B02410,Sanchez,Celerino,0,Mexico City Tigers,,B147,sanchez.c-mct
-1970TSN,1969,Mexican League,B02429,Sanchez,Salvador,0,Reynosa,,B49,sanchez.s-rey
-1970TSN,1969,Mexican League,F20095,Sanchez,,0,Mexico City Tigers,,1b28,sanchez.c-mct
-1970TSN,1969,Mexican League,F21045,Sanchez,,0,Mexico City Tigers,,3b100,sanchez.c-mct
-1970TSN,1969,Mexican League,F22150,Sanchez,,0,Mexico City Tigers,,of29,sanchez.c-mct
-1970TSN,1969,Mexican League,F23098,Sanchez,,0,Monterrey,,p39,sanchez.c-mty
-1970TSN,1969,Mexican League,F23157,Sanchez,,0,Reynosa,,p45,sanchez.s-rey
-1970TSN,1969,Mexican League,F24289,Sanchez,Celerino,0,all,,p,sanchez.c-mct
-1970TSN,1969,Mexican League,P11233,Sanchez,,0,Monterrey,,P39p,sanchez.c-mty
-1970TSN,1969,Mexican League,P11240,Sanchez,,0,Mexico City Tigers,,P1p,sanchez.c-mct
-1970TSN,1969,Mexican League,P11254,Sanchez,S.,0,Reynosa,,P45p,sanchez.s-rey
-1970TSN,1969,Mexican League,B02432,Sandoval,Carlos,0,Mexico City Reds,,B90,sandoval.c-mcr
-1970TSN,1969,Mexican League,B02441,Sandoval,Rodolfo,0,Reynosa,,B132,sandoval.r-rey
-1970TSN,1969,Mexican League,B02455,Sandoval,Rodrigo,0,Poza Rica,,B41,sandoval.r-pr
-1970TSN,1969,Mexican League,F20518,Sandoval,,0,Reynosa,,1b6,sandoval.r-rey
-1970TSN,1969,Mexican League,F20997,Sandoval,,0,Mexico City Reds,,3b90,sandoval.c-mcr
-1970TSN,1969,Mexican League,F22454,Sandoval,,0,Reynosa,,c123,sandoval.r-rey
-1970TSN,1969,Mexican League,F23480,Sandoval,,0,Poza Rica,,p41,sandoval.r-pr
-1970TSN,1969,Mexican League,P11265,Sandoval,,0,Poza Rica,,P41p,sandoval.r-pr
-1970TSN,1969,Mexican League,B02464,Santos,Tobias,0,Veracruz,,B1,santos
-1970TSN,1969,Mexican League,B02478,Sosa,Emilio,0,Poza Rica,,B155,sosa.e-pr
-1970TSN,1969,Mexican League,B02486,Sosa,German,0,Veracruz,,B24,sosa.g-ver
-1970TSN,1969,Mexican League,F20919,Sosa,,0,Poza Rica,,2b2,sosa.e-pr
-1970TSN,1969,Mexican League,F21255,Sosa,,0,Poza Rica,,3b1,sosa.e-pr
-1970TSN,1969,Mexican League,F21747,Sosa,,0,Poza Rica,,of150,sosa.e-pr
-1970TSN,1969,Mexican League,F22762,Sosa,,0,Poza Rica,,c2,sosa.e-pr
-1970TSN,1969,Mexican League,F22959,Sosa,,0,Veracruz,,p24,sosa.g-ver
-1970TSN,1969,Mexican League,P11279,Sosa,,0,Veracruz,,P24p,sosa.g-ver
-1970TSN,1969,Mexican League,M90107,Sotelo,Miguel,,Reynosa,,,sotelo
-1970TSN,1969,Mexican League,B02493,Soto,Jose,0,Poza Rica,,B69,soto
-1970TSN,1969,Mexican League,F20458,Soto,,0,Poza Rica,,1b1,soto
-1970TSN,1969,Mexican League,F21957,Soto,,0,Poza Rica,,of19,soto
-1970TSN,1969,Mexican League,F23409,Soto,,0,Poza Rica,,p31,soto
-1970TSN,1969,Mexican League,P11287,Soto,,0,Poza Rica,,P31p,soto
-1970TSN,1969,Mexican League,B02503,Suby,Juan,0,Mexico City Tigers,,B66,suby
-1970TSN,1969,Mexican League,F23087,Suby,,0,Mexico City Tigers,,p66,suby
-1970TSN,1969,Mexican League,P11298,Suby,,0,Mexico City Tigers,,P66p,suby
-1970TSN,1969,Mexican League,B02516,Tiburcio,Edgar,0,Mexico City Tigers,,B95,tiburcio
-1970TSN,1969,Mexican League,F22246,Tiburcio,,0,Mexico City Tigers,,of6,tiburcio
-1970TSN,1969,Mexican League,F22647,Tiburcio,,0,Mexico City Tigers,,c58,tiburcio
-1970TSN,1969,Mexican League,B02527,Tovar,Jose de Jesus,0,Mexico City Tigers,,B82,tovar
-1970TSN,1969,Mexican League,F20841,Tovar,,0,Mexico City Tigers,,2b1,tovar
-1970TSN,1969,Mexican League,F21488,Tovar,,0,Mexico City Tigers,,ss70,tovar
-1970TSN,1969,Mexican League,B02534,Uriarte,Manuel,0,Jalisco,,B14,uriarte
-1970TSN,1969,Mexican League,F23678,Uriarte,,0,Jalisco,,p10,uriarte
-1970TSN,1969,Mexican League,P11303,Uriarte,,0,Jalisco,,P10p,uriarte
-1970TSN,1969,Mexican League,B02542,Urias,Eladio,0,Jalisco,,B13,urias
-1970TSN,1969,Mexican League,F24290,Urias,,0,all,,of,urias
-1970TSN,1969,Mexican League,B02550,Uzcanga,Lazaro,0,Puebla,,B53,uzcanga
-1970TSN,1969,Mexican League,F23519,Uzcanga,,0,Puebla,,p53,uzcanga
-1970TSN,1969,Mexican League,P11316,Uzcanga,,0,Puebla,,P53p,uzcanga
-1970TSN,1969,Mexican League,B02569,Valenzuela,Alejandro,0,Veracruz,,B4,valenzuela
-1970TSN,1969,Mexican League,F22295,Valenzuela,,0,Veracruz,,of2,valenzuela
-1970TSN,1969,Mexican League,B02575,Vazquez,Nicolas,1,Mexico City Reds,,B37,vazquez
-1970TSN,1969,Mexican League,B02575,Vazquez,Nicolas,2,Veracruz,,B62,vazquez
-1970TSN,1969,Mexican League,B02575,Vazquez,Nicolas,T,,,B99,vazquez
-1970TSN,1969,Mexican League,F22073,Vazquez,,1,Mexico City Reds,,of,vazquez
-1970TSN,1969,Mexican League,F22073,Vazquez,,2,Veracruz,,of,vazquez
-1970TSN,1969,Mexican League,F22073,Vazquez,,T,,,of98,vazquez
-1970TSN,1969,Mexican League,B02588,Vega,Abelardo,0,Mexico City Reds,,B44,vega
-1970TSN,1969,Mexican League,F21068,Vega,,0,Mexico City Reds,,3b29,vega
-1970TSN,1969,Mexican League,F22267,Vega,,0,Mexico City Reds,,of2,vega
-1970TSN,1969,Mexican League,B02591,Velazquez,Manuel,0,Mexico City Reds,,B40,velazquez.m-mcr
-1970TSN,1969,Mexican League,B02687,Velazquez,Rafael,0,Veracruz,,B2,velazquez.r-ver
-1970TSN,1969,Mexican League,F23535,Velazquez,,0,Mexico City Reds,,p38,velazquez.m-mcr
-1970TSN,1969,Mexican League,F24304,Velazquez,M.,0,all,,1b,velazquez.m-mcr
-1970TSN,1969,Mexican League,F24312,Velazquez,R.,0,all,,p,velazquez.r-ver
-1970TSN,1969,Mexican League,P11327,Velazquez,,0,Mexico City Reds,,P38p,velazquez.m-mcr
-1970TSN,1969,Mexican League,P11334,Velazquez,,0,Veracruz,,P2p,velazquez.r-ver
-1970TSN,1969,Mexican League,B02606,Velez,Juan Enrique,0,Puebla,,B8,velez
-1970TSN,1969,Mexican League,F21590,Velez,,0,Puebla,,ss3,velez
-1970TSN,1969,Mexican League,B02611,Verdugo,Enrique,0,Mexico City Tigers,,B72,verdugo
-1970TSN,1969,Mexican League,F20560,Verdugo,,0,Mexico City Tigers,,2b19,verdugo
-1970TSN,1969,Mexican League,F20962,Verdugo,,0,Mexico City Tigers,,3b35,verdugo
-1970TSN,1969,Mexican League,F21623,Verdugo,,0,Mexico City Tigers,,ss4,verdugo
-1970TSN,1969,Mexican League,B02738,Vichel,Lucio,0,Monterrey,,B4,vichel
-1970TSN,1969,Mexican League,F24320,Vichel,,0,all,,p,vichel
-1970TSN,1969,Mexican League,P11342,Vichel,,0,Monterrey,,P4p,vichel
-1970TSN,1969,Mexican League,B02746,Villa,Alberto,0,Monterrey,,B1,villa
-1970TSN,1969,Mexican League,F24336,Villa,,0,all,,p,villa
-1970TSN,1969,Mexican League,P11350,Villa,,0,Monterrey,,P1p,villa
-1970TSN,1969,Mexican League,B02622,Villalobos,Gonzalo,0,Reynosa,,B124,villalobos
-1970TSN,1969,Mexican League,F21887,Villalobos,,0,Reynosa,,of116,villalobos
-1970TSN,1969,Mexican League,B02633,Villarreal,Juan de Dios,0,Monterrey,,B127,villarreal
-1970TSN,1969,Mexican League,F22530,Villarreal,,0,Monterrey,,c123,villarreal
-1970TSN,1969,Mexican League,B02640,Villegas,Jose,0,Poza Rica,,B20,villegas
-1970TSN,1969,Mexican League,F20482,Villegas,,0,Poza Rica,,1b6,villegas
-1970TSN,1969,Mexican League,F22660,Villegas,,0,Poza Rica,,c9,villegas
-1970TSN,1969,Mexican League,B02654,Welch,Rodolfo,1,Poza Rica,,B53,welch
-1970TSN,1969,Mexican League,B02654,Welch,Rodolfo,2,Veracruz,,B22,welch
-1970TSN,1969,Mexican League,B02654,Welch,Rodolfo,T,,,B75,welch
-1970TSN,1969,Mexican League,F20401,Welch,,1,Poza Rica,,1b,welch
-1970TSN,1969,Mexican League,F20401,Welch,,2,Veracruz,,1b,welch
-1970TSN,1969,Mexican League,F20401,Welch,,T,,,1b3,welch
-1970TSN,1969,Mexican League,F22048,Welch,,1,Poza Rica,,of,welch
-1970TSN,1969,Mexican League,F22048,Welch,,2,Veracruz,,of,welch
-1970TSN,1969,Mexican League,F22048,Welch,,T,,,of57,welch
-1970TSN,1969,Mexican League,F22574,Welch,,1,Poza Rica,,c,welch
-1970TSN,1969,Mexican League,F22574,Welch,,2,Veracruz,,c,welch
-1970TSN,1969,Mexican League,F22574,Welch,,T,,,c13,welch
-1970TSN,1969,Mexican League,B02665,Zamudio,Hector,0,Mexico City Tigers,,B78,zamudio
-1970TSN,1969,Mexican League,F21760,Zamudio,,0,Mexico City Tigers,,of78,zamudio
-1970TSN,1969,Mexican League,B02679,Zazueta,Alejandro,0,Reynosa,,B82,zazueta
-1970TSN,1969,Mexican League,F20417,Zazueta,,0,Reynosa,,1b1,zazueta
-1970TSN,1969,Mexican League,F21879,Zazueta,,0,Reynosa,,of69,zazueta
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+1970TSN,1969,Mexican League,abid,B00013,Abid,Arturo,0,Poza Rica,,B27
+1970TSN,1969,Mexican League,abid,F23446,Abid,,0,Poza Rica,,p26
+1970TSN,1969,Mexican League,abid,F23977,Abid,,0,all,,of
+1970TSN,1969,Mexican League,abid,P10019,Abid,,0,Poza Rica,,P26p
+1970TSN,1969,Mexican League,acosta-jal,B00021,Acosta,Cecilio,0,Jalisco,,B50
+1970TSN,1969,Mexican League,acosta-pue,B00037,Acosta,Teolindo,0,Puebla,,B142
+1970TSN,1969,Mexican League,acosta-pue,F22099,Acosta,,0,Puebla,,of140
+1970TSN,1969,Mexican League,acosta-jal,F23259,Acosta,,0,Jalisco,,p50
+1970TSN,1969,Mexican League,acosta-jal,P10024,Acosta,,0,Jalisco,,P50p
+1970TSN,1969,Mexican League,adame,B00045,Adame,Arnulfo,0,Jalisco,,B44
+1970TSN,1969,Mexican League,adame,F22831,Adame,,0,Jalisco,,p44
+1970TSN,1969,Mexican League,adame,P10035,Adame,,0,Jalisco,,P44p
+1970TSN,1969,Mexican League,ahumada,B00059,Ahumada,Alejo,0,Reynosa,,B28
+1970TSN,1969,Mexican League,ahumada,F22802,Ahumada,,0,Reynosa,,p24
+1970TSN,1969,Mexican League,ahumada,P10043,Ahumada,,0,Reynosa,,P24p
+1970TSN,1969,Mexican League,alvarado-jal,B00068,Alvarado,Alejandro,0,Jalisco,,B22
+1970TSN,1969,Mexican League,alvarado-mty,B00076,Alvarado,Rodolfo,0,Monterrey,,B2
+1970TSN,1969,Mexican League,alvarado-jal,F21726,Alvarado,,0,Jalisco,,of15
+1970TSN,1969,Mexican League,alvarado-mty,F23989,Alvarado,R.,0,all,,p
+1970TSN,1969,Mexican League,alvarado-mty,M90060,Alvarado,Rodolfo,,Monterrey,,
+1970TSN,1969,Mexican League,alvarado-mty,P10056,Alvarado,,0,Monterrey,,P2p
+1970TSN,1969,Mexican League,alvarez-mcr,B00084,Alvarez,Arturo,0,Mexico City Reds,,B146
+1970TSN,1969,Mexican League,alvarez-ver,B00092,Alvarez,Rogelio,0,Veracruz,,B148
+1970TSN,1969,Mexican League,alvarez-ver,F20102,Alvarez,,0,Veracruz,,1b146
+1970TSN,1969,Mexican League,alvarez-mcr,F20166,Alvarez,,0,Mexico City Reds,,1b140
+1970TSN,1969,Mexican League,alvarez-mcr,F22332,Alvarez,,0,Mexico City Reds,,of1
+1970TSN,1969,Mexican League,alvarez-ver,F23990,Alvarez,R.,0,all,,p
+1970TSN,1969,Mexican League,alvarez-ver,P10062,Alvarez,,0,Veracruz,,P1p
+1970TSN,1969,Mexican League,arano.e-jal,B00101,Arano,Efrain,0,Jalisco,,B1
+1970TSN,1969,Mexican League,arano-mcr,B00117,Arano,Ramon,0,Mexico City Reds,,B14
+1970TSN,1969,Mexican League,arano.w-jal+ver,B00125,Arano,Wilfredo,1,Jalisco,,B59
+1970TSN,1969,Mexican League,arano.w-jal+ver,B00125,Arano,Wilfredo,2,Veracruz,,B44
+1970TSN,1969,Mexican League,arano.w-jal+ver,B00125,Arano,Wilfredo,T,,,B103
+1970TSN,1969,Mexican League,arano.w-jal+ver,F21865,Arano,W.,1,Jalisco,,of
+1970TSN,1969,Mexican League,arano.w-jal+ver,F21865,Arano,W.,2,Veracruz,,of
+1970TSN,1969,Mexican League,arano.w-jal+ver,F21865,Arano,W.,T,,,of94
+1970TSN,1969,Mexican League,arano-mcr,F23383,Arano,,0,Mexico City Reds,,p14
+1970TSN,1969,Mexican League,arano-mcr,P10070,Arano,,0,Mexico City Reds,,P14p
+1970TSN,1969,Mexican League,arce,B00130,Arce,Alberto,0,Mexico City Tigers,,B21
+1970TSN,1969,Mexican League,arce,F23006,Arce,,0,Mexico City Tigers,,p21
+1970TSN,1969,Mexican League,arce,F24008,Arce,,0,all,,2b
+1970TSN,1969,Mexican League,arce,P10081,Arce,,0,Mexico City Tigers,,P21p
+1970TSN,1969,Mexican League,argumedo,B00149,Argumedo,Antonio,0,Monterrey,,B14
+1970TSN,1969,Mexican League,argumedo,F21680,Argumedo,,0,Monterrey,,of10
+1970TSN,1969,Mexican League,armas,B00158,Armas,Abel,0,Reynosa,,B6
+1970TSN,1969,Mexican League,armas,F23850,Armas,,0,Reynosa,,p6
+1970TSN,1969,Mexican League,armas,P10097,Armas,,0,Reynosa,,P6p
+1970TSN,1969,Mexican League,armendariz,B00163,Armendariz,Waldo,0,Mexico City Tigers,,B7
+1970TSN,1969,Mexican League,armendariz,F23796,Armendariz,,0,Mexico City Tigers,,p7
+1970TSN,1969,Mexican League,armendariz,P10100,Armendariz,,0,Mexico City Tigers,,P7p
+1970TSN,1969,Mexican League,ayon,B00174,Ayon,Andres,0,Jalisco,,B60
+1970TSN,1969,Mexican League,ayon,F22329,Ayon,,0,Jalisco,,of6
+1970TSN,1969,Mexican League,ayon,F23136,Ayon,,0,Jalisco,,p36
+1970TSN,1969,Mexican League,ayon,P10113,Ayon,,0,Jalisco,,P36p
+1970TSN,1969,Mexican League,balcazar,B00182,Balcazar,Raul,0,Veracruz,,B11
+1970TSN,1969,Mexican League,balcazar,F22937,Balcazar,,0,Veracruz,,p11
+1970TSN,1969,Mexican League,balcazar,P10121,Balcazar,,0,Veracruz,,P11p
+1970TSN,1969,Mexican League,balderas,B00196,Balderas,Abelardo,0,Puebla,,B63
+1970TSN,1969,Mexican League,balderas,F20657,Balderas,,0,Puebla,,2b44
+1970TSN,1969,Mexican League,balderas,F21450,Balderas,,0,Puebla,,ss13
+1970TSN,1969,Mexican League,barajas,B00207,Barajas,Armando,0,Mexico City Reds,,B2
+1970TSN,1969,Mexican League,barajas,F20807,Barajas,,0,Mexico City Reds,,2b1
+1970TSN,1969,Mexican League,barnetche,B00210,Barnetche,Hector,0,Mexico City Tigers,,B27
+1970TSN,1969,Mexican League,barnetche,F20737,Barnetche,,0,Mexico City Tigers,,2b11
+1970TSN,1969,Mexican League,barnetche,F22433,Barnetche,,0,Mexico City Tigers,,of7
+1970TSN,1969,Mexican League,bauta,B00229,Bauta,Eduardo,0,Poza Rica,,B38
+1970TSN,1969,Mexican League,bauta,F23394,Bauta,,0,Poza Rica,,p38
+1970TSN,1969,Mexican League,bauta,P10137,Bauta,,0,Poza Rica,,P38p
+1970TSN,1969,Mexican League,bedolla,B02751,Bedolla,Eduardo,0,Poza Rica,,B4
+1970TSN,1969,Mexican League,bedolla,F23827,Bedolla,,0,Poza Rica,,p3
+1970TSN,1969,Mexican League,bedolla,P10145,Bedolla,,0,Poza Rica,,P3p
+1970TSN,1969,Mexican League,berzunza,B00232,Berzunza,William,0,Reynosa,,B137
+1970TSN,1969,Mexican League,berzunza,F20131,Berzunza,,0,Reynosa,,1b131
+1970TSN,1969,Mexican League,betancourt,B00241,Betancourt,Simon,0,Jalisco,,B17
+1970TSN,1969,Mexican League,betancourt,F22890,Betancourt,,0,Jalisco,,p17
+1970TSN,1969,Mexican League,betancourt,P10159,Betancourt,,0,Jalisco,,P17p
+1970TSN,1969,Mexican League,bojorquez,B00255,Bojorquez,Jose,0,Poza Rica,,B15
+1970TSN,1969,Mexican League,bojorquez,F21646,Bojorquez,,0,Poza Rica,,of15
+1970TSN,1969,Mexican League,bonilla,B00264,Bonilla,Antelmo,0,Puebla,,B13
+1970TSN,1969,Mexican League,bonilla,F20594,Bonilla,,0,Puebla,,2b12
+1970TSN,1969,Mexican League,brown,B00278,Brown,Winston,0,Poza Rica,,B52
+1970TSN,1969,Mexican League,brown,F23268,Brown,,0,Poza Rica,,p32
+1970TSN,1969,Mexican League,brown,P10168,Brown,,0,Poza Rica,,P32p
+1970TSN,1969,Mexican League,buentello,B00286,Buentello,Israel,0,Reynosa,,B55
+1970TSN,1969,Mexican League,buentello,F23120,Buentello,,0,Reynosa,,p55
+1970TSN,1969,Mexican League,buentello,F24019,Buentello,,0,all,,of
+1970TSN,1969,Mexican League,buentello,P10176,Buentello,,0,Reynosa,,P55p
+1970TSN,1969,Mexican League,burgos,B00293,Burgos,Antonio,0,Veracruz,,B22
+1970TSN,1969,Mexican League,burgos,F22061,Burgos,,0,Veracruz,,of22
+1970TSN,1969,Mexican League,calvo,B00308,Calvo,Bernardo,0,Veracruz,,B155
+1970TSN,1969,Mexican League,calvo,F20583,Calvo,,0,Veracruz,,2b154
+1970TSN,1969,Mexican League,camacho-mcr+pr,B00319,Camacho,Moises,1,Mexico City Reds,,B30
+1970TSN,1969,Mexican League,camacho-mcr+pr,B00319,Camacho,Moises,2,Poza Rica,,B115
+1970TSN,1969,Mexican League,camacho-mcr+pr,B00319,Camacho,Moises,T,,,B145
+1970TSN,1969,Mexican League,camacho-pue,B00324,Camacho,Ronaldo,0,Puebla,,B150
+1970TSN,1969,Mexican League,camacho-pue,F20115,Camacho,,0,Puebla,,1b147
+1970TSN,1969,Mexican League,camacho-mcr+pr,F20685,Camacho,,1,Mexico City Reds,,2b
+1970TSN,1969,Mexican League,camacho-mcr+pr,F20685,Camacho,,2,Poza Rica,,2b
+1970TSN,1969,Mexican League,camacho-mcr+pr,F20685,Camacho,,T,,,2b143
+1970TSN,1969,Mexican League,camacho-pue,F20864,Camacho,,0,Puebla,,2b1
+1970TSN,1969,Mexican League,camacho-pue,F21229,Camacho,,0,Puebla,,3b1
+1970TSN,1969,Mexican League,camarero-mct,B00335,Camarero,Genaro,0,Mexico City Tigers,,B5
+1970TSN,1969,Mexican League,camarero-ver,B00343,Camarero,Rolando,0,Veracruz,,B161
+1970TSN,1969,Mexican League,camarero-ver,F20206,Camarero,,0,Veracruz,,1b10
+1970TSN,1969,Mexican League,camarero-ver,F20886,Camarero,,0,Veracruz,,2b5
+1970TSN,1969,Mexican League,camarero-ver,F21553,Camarero,,0,Veracruz,,ss1
+1970TSN,1969,Mexican League,camarero-ver,F21912,Camarero,,0,Veracruz,,of128
+1970TSN,1969,Mexican League,camarero-mct,F22708,Camarero,,0,Mexico City Tigers,,c2
+1970TSN,1969,Mexican League,campos,B00356,Campos,Francisco,0,Jalisco,,B150
+1970TSN,1969,Mexican League,campos,F20144,Campos,,0,Jalisco,,1b22
+1970TSN,1969,Mexican League,campos,F21771,Campos,,0,Jalisco,,of53
+1970TSN,1969,Mexican League,campos,F22605,Campos,,0,Jalisco,,c76
+1970TSN,1969,Mexican League,cano,B00362,Cano,Raul,0,Mexico City Reds,,B30
+1970TSN,1969,Mexican League,cano,F23597,Cano,,0,Mexico City Reds,,p30
+1970TSN,1969,Mexican League,cano,P10184,Cano,,0,Mexico City Reds,,P30p
+1970TSN,1969,Mexican League,castano,M90094,Castano,Tony,,Puebla,,
+1971TSN,1969,Mexican League,,M90129,Castano,Tony,,Yucatan,,
+1970TSN,1969,Mexican League,castillo,B00370,Castillo,Enrique,0,Mexico City Tigers,,B60
+1970TSN,1969,Mexican League,castillo,F23451,Castillo,,0,Mexico City Tigers,,p59
+1970TSN,1969,Mexican League,castillo,P10192,Castillo,,0,Mexico City Tigers,,P59p
+1970TSN,1969,Mexican League,castro.a-mct,B00381,Castro,Arnoldo,0,Mexico City Tigers,,B109
+1970TSN,1969,Mexican League,castro-pue,B00397,Castro,Fernando,0,Puebla,,B130
+1970TSN,1969,Mexican League,castro.g-mct,B00403,Castro,Gilberto,0,Mexico City Tigers,,B6
+1970TSN,1969,Mexican League,castro.a-mct,F20620,Castro,A.,0,Mexico City Tigers,,2b81
+1970TSN,1969,Mexican League,castro-pue,F20893,Castro,,0,Puebla,,2b8
+1970TSN,1969,Mexican League,castro-pue,F21000,Castro,,0,Puebla,,3b10
+1970TSN,1969,Mexican League,castro.a-mct,F21158,Castro,A.,0,Mexico City Tigers,,3b7
+1970TSN,1969,Mexican League,castro.a-mct,F21343,Castro,A.,0,Mexico City Tigers,,ss19
+1970TSN,1969,Mexican League,castro-pue,F22127,Castro,,0,Puebla,,of86
+1970TSN,1969,Mexican League,castro-pr,F22719,Castro,,0,Poza Rica,,c1
+1970TSN,1969,Mexican League,castro.g-mct,F23763,Castro,G.,0,Mexico City Tigers,,p6
+1970TSN,1969,Mexican League,castro.g-mct,P10202,Castro,G.,0,Mexico City Tigers,,P6p
+1970TSN,1969,Mexican League,cerda,B00416,Cerda,Benjamin,0,Jalisco,,B114
+1970TSN,1969,Mexican League,cerda,F20713,Cerda,,0,Jalisco,,2b14
+1970TSN,1969,Mexican League,cerda,F20956,Cerda,,0,Jalisco,,3b32
+1970TSN,1969,Mexican League,cerda,F21434,Cerda,,0,Jalisco,,ss53
+1970TSN,1969,Mexican League,chavez-mty,B00427,Chavez,Guadalupe,0,Monterrey,,B10
+1970TSN,1969,Mexican League,chavez-ver,B00434,Chavez,Rene,0,Veracruz,,B55
+1970TSN,1969,Mexican League,chavez-mty,F21589,Chavez,,0,Monterrey,,ss8
+1970TSN,1969,Mexican League,chavez-ver,F22057,Chavez,,0,Veracruz,,of41
+1970TSN,1969,Mexican League,chavez-ver,F22900,Chavez,,0,Veracruz,,p11
+1970TSN,1969,Mexican League,chavez-ver,P10215,Chavez,,0,Veracruz,,P11p
+1970TSN,1969,Mexican League,cid,B00442,Cid,Humberto,0,Veracruz,,B7
+1970TSN,1969,Mexican League,cid,F24024,Cid,,0,all,,p
+1970TSN,1969,Mexican League,cid,P10228,Cid,,0,Veracruz,,P6p
+1970TSN,1969,Mexican League,cisneros,B00450,Cisneros,Alfonso,0,Monterrey,,B33
+1970TSN,1969,Mexican League,cisneros,F23556,Cisneros,,0,Monterrey,,p33
+1970TSN,1969,Mexican League,cisneros,P10231,Cisneros,,0,Monterrey,,P33p
+1970TSN,1969,Mexican League,colis,B02767,Colis,Exiquio,0,Poza Rica,,B2
+1970TSN,1969,Mexican League,colis,F23915,Colis,,0,Poza Rica,,p2
+1970TSN,1969,Mexican League,colis,P10244,Colis,,0,Poza Rica,,P2p
+1970TSN,1969,Mexican League,contreras-ver,B00469,Contreras,Celso,0,Veracruz,,B9
+1970TSN,1969,Mexican League,contreras-jal,B00475,Contreras,Jesus,0,Jalisco,,B28
+1970TSN,1969,Mexican League,contreras-jal,F22626,Contreras,,0,Jalisco,,c27
+1970TSN,1969,Mexican League,contreras-ver,F23966,Contreras,,0,Veracruz,,p9
+1970TSN,1969,Mexican League,contreras-ver,P10253,Contreras,,0,Veracruz,,P9p
+1970TSN,1969,Mexican League,cordova,B00488,Cordova,Ernesto,0,Jalisco,,B12
+1970TSN,1969,Mexican League,cordova,F22866,Cordova,,0,Jalisco,,p10
+1970TSN,1969,Mexican League,cordova,P10266,Cordova,,0,Jalisco,,P10p
+1970TSN,1969,Mexican League,corella-ver,B00491,Corella,Ernesto,0,Veracruz,,B16
+1970TSN,1969,Mexican League,corella-mty+jal,B00502,Corella,Jaime,1,Monterrey,,B24
+1970TSN,1969,Mexican League,corella-mty+jal,B00502,Corella,Jaime,2,Jalisco,,B78
+1970TSN,1969,Mexican League,corella-mty+jal,B00502,Corella,Jaime,T,,,B102
+1970TSN,1969,Mexican League,corella-ver,F20908,Corella,,0,Veracruz,,2b3
+1970TSN,1969,Mexican League,corella-ver,F21566,Corella,,0,Veracruz,,ss9
+1970TSN,1969,Mexican League,corella-mty+jal,F22479,Corella,,1,Monterrey,,c
+1970TSN,1969,Mexican League,corella-mty+jal,F22479,Corella,,2,Jalisco,,c
+1970TSN,1969,Mexican League,corella-mty+jal,F22479,Corella,,T,,,c92
+1970TSN,1969,Mexican League,corella-mty+jal,M90047,Corella,Jaime,,Monterrey,,
+1970TSN,1969,Mexican League,coronado,B00515,Coronado,Edmundo,0,Reynosa,,B63
+1970TSN,1969,Mexican League,coronado,F22487,Coronado,,0,Reynosa,,c48
+1970TSN,1969,Mexican League,cortes,B00528,Cortes,Ruben,0,Monterrey,,B22
+1970TSN,1969,Mexican League,cortes,F22992,Cortes,,0,Monterrey,,p20
+1970TSN,1969,Mexican League,cortes,P10277,Cortes,,0,Monterrey,,P20p
+1970TSN,1969,Mexican League,cruz,B00531,Cruz,Concepcion,0,Mexico City Tigers,,B14
+1970TSN,1969,Mexican League,cruz,F22853,Cruz,,0,Mexico City Tigers,,p14
+1970TSN,1969,Mexican League,cruz,P10289,Cruz,,0,Mexico City Tigers,,P14p
+1970TSN,1969,Mexican League,delfin,B00544,Delfin,Justino,0,Mexico City Tigers,,B35
+1970TSN,1969,Mexican League,delfin,F22913,Delfin,,0,Mexico City Tigers,,p34
+1970TSN,1969,Mexican League,delfin,P10290,Delfin,,0,Mexico City Tigers,,P34p
+1970TSN,1969,Mexican League,diaz-ver,B00553,Diaz,Cesar,0,Veracruz,,B49
+1970TSN,1969,Mexican League,diaz-mct,B00566,Diaz,Hector M.,0,Mexico City Tigers,,B17
+1970TSN,1969,Mexican League,diaz-pr,B00577,Diaz,Manuel Antonio,0,Poza Rica,,B139
+1970TSN,1969,Mexican League,diaz-pr,F20240,Diaz,,0,Poza Rica,,1b4
+1970TSN,1969,Mexican League,diaz-pr,F22549,Diaz,,0,Poza Rica,,c128
+1970TSN,1969,Mexican League,diaz-mct,F23414,Diaz,,0,Mexico City Tigers,,p15
+1970TSN,1969,Mexican League,diaz-ver,F23438,Diaz,,0,Veracruz,,p42
+1970TSN,1969,Mexican League,diaz-ver,F24035,Diaz,C.,0,all,,of
+1970TSN,1969,Mexican League,diaz-ver,P10304,Diaz,C.,0,Veracruz,,P42p
+1970TSN,1969,Mexican League,diaz-mct,P10312,Diaz,,0,Mexico City Tigers,,P15p
+1970TSN,1969,Mexican League,elizalde,B00589,Elizalde,Eusebio,0,Veracruz,,B36
+1970TSN,1969,Mexican League,elizalde,F22877,Elizalde,,0,Veracruz,,p36
+1970TSN,1969,Mexican League,elizalde,P10320,Elizalde,,0,Veracruz,,P36p
+1970TSN,1969,Mexican League,enriquez,B00590,Enriquez,Graciano,0,Puebla,,B154
+1970TSN,1969,Mexican League,enriquez,F21999,Enriquez,,0,Puebla,,of154
+1970TSN,1969,Mexican League,escamilla,B00609,Escamilla,Hector,0,Mexico City Tigers,,B2
+1970TSN,1969,Mexican League,escamilla,F20829,Escamilla,,0,Mexico City Tigers,,2b1
+1970TSN,1969,Mexican League,esma,B00614,Esma,Luis,0,Puebla,,B89
+1970TSN,1969,Mexican League,esma,F20463,Esma,,0,Puebla,,1b1
+1970TSN,1969,Mexican League,esma,F22465,Esma,,0,Puebla,,c58
+1970TSN,1969,Mexican League,esma,F24043,Esma,,0,all,,of
+1970TSN,1969,Mexican League,espino,B00623,Espino,Hector,0,Monterrey,,B147
+1970TSN,1969,Mexican League,espino,F20153,Espino,,0,Monterrey,,1b147
+1970TSN,1969,Mexican League,esquivel,B00638,Esquivel,Ramiro,0,Monterrey,,B52
+1970TSN,1969,Mexican League,esquivel,F22563,Esquivel,,0,Monterrey,,c45
+1970TSN,1969,Mexican League,esquivias,B00646,Esquivias,Ruben,0,Mexico City Tigers,,B128
+1970TSN,1969,Mexican League,esquivias,F20072,Esquivias,,0,Mexico City Tigers,,1b41
+1970TSN,1969,Mexican League,esquivias,F21794,Esquivias,,0,Mexico City Tigers,,of87
+1970TSN,1969,Mexican League,esquivias,F24056,Esquivias,,0,all,,p
+1970TSN,1969,Mexican League,esquivias,P10336,Esquivias,,0,Mexico City Tigers,,P1p
+1970TSN,1969,Mexican League,estrada,B00651,Estrada,Francisco,0,Mexico City Reds,,B116
+1970TSN,1969,Mexican League,estrada,F20342,Estrada,,0,Mexico City Reds,,1b4
+1970TSN,1969,Mexican League,estrada,F22596,Estrada,,0,Mexico City Reds,,c113
+1970TSN,1969,Mexican League,fabela-pr,B00667,Fabela,Jaime,0,Poza Rica,,B125
+1970TSN,1969,Mexican League,fabela-jal,B00672,Fabela,Victor,0,Jalisco,,B114
+1970TSN,1969,Mexican League,fabela-mcr,B02698,Fabela,Wilfredo,0,Mexico City Reds,,B1
+1970TSN,1969,Mexican League,fabela-jal,F20190,Fabela,,0,Jalisco,,1b108
+1970TSN,1969,Mexican League,fabela-pr,F21210,Fabela,,0,Poza Rica,,3b1
+1970TSN,1969,Mexican League,fabela-pr,F21898,Fabela,,0,Poza Rica,,of113
+1970TSN,1969,Mexican League,fabela-mcr,F24062,Fabela,W.,0,all,,p
+1970TSN,1969,Mexican League,fabela-mcr,P10348,Fabela,,0,Mexico City Reds,,P1p
+1970TSN,1969,Mexican League,fajardo,B00680,Fajardo,Ignacio,0,Mexico City Reds,,B12
+1970TSN,1969,Mexican League,fajardo,F23655,Fajardo,,0,Mexico City Reds,,p12
+1970TSN,1969,Mexican League,fajardo,P10357,Fajardo,,0,Mexico City Reds,,P12p
+1970TSN,1969,Mexican League,fernandez,B00695,Fernandez,Rogelio,0,Mexico City Reds,,B91
+1970TSN,1969,Mexican League,fernandez,F20571,Fernandez,,0,Mexico City Reds,,2b62
+1970TSN,1969,Mexican League,fernandez,F21502,Fernandez,,0,Mexico City Reds,,ss18
+1970TSN,1969,Mexican League,fernandez,F22735,Fernandez,,0,Mexico City Reds,,c1
+1970TSN,1969,Mexican League,fernandez,F22743,Fernandez,,0,Mexico City Reds,,c1
+1970TSN,1969,Mexican League,fernandez,F24070,Fernandez,,0,all,,3b
+1970TSN,1969,Mexican League,figueroa,B00705,Figueroa,Agustin,0,Mexico City Tigers,,B22
+1970TSN,1969,Mexican League,figueroa,F23610,Figueroa,,0,Mexico City Tigers,,p22
+1970TSN,1969,Mexican League,figueroa,P10361,Figueroa,,0,Mexico City Tigers,,P22p
+1970TSN,1969,Mexican League,fitch,B00718,Fitch,Jorge,0,Reynosa,,B131
+1970TSN,1969,Mexican League,fitch,F20878,Fitch,,0,Reynosa,,2b7
+1970TSN,1969,Mexican League,fitch,F21381,Fitch,,0,Reynosa,,ss122
+1970TSN,1969,Mexican League,flores,B00726,Flores,Aaron,0,Poza Rica,,B27
+1970TSN,1969,Mexican League,flores,F23292,Flores,,0,Poza Rica,,p27
+1970TSN,1969,Mexican League,flores,F24081,Flores,,0,all,,1b
+1970TSN,1969,Mexican League,flores,P10373,Flores,,0,Poza Rica,,P27p
+1970TSN,1969,Mexican League,francis,B00739,Francis,DeGold,0,Reynosa,,B29
+1970TSN,1969,Mexican League,francis,F20279,Francis,,0,Reynosa,,1b6
+1970TSN,1969,Mexican League,francis,F22558,Francis,,0,Reynosa,,c15
+1970TSN,1969,Mexican League,galindo,B00747,Galindo,Guillermo,0,Poza Rica,,B24
+1970TSN,1969,Mexican League,galindo,F21207,Galindo,,0,Poza Rica,,3b1
+1970TSN,1969,Mexican League,galindo,F21427,Galindo,,0,Poza Rica,,ss23
+1970TSN,1969,Mexican League,gamez,B00752,Gamez,Raul,0,Mexico City Reds,,B43
+1970TSN,1969,Mexican League,gamez,F23318,Gamez,,0,Mexico City Reds,,p39
+1970TSN,1969,Mexican League,gamez,P10385,Gamez,,0,Mexico City Reds,,P39p
+1970TSN,1969,Mexican League,garcia.a-rey,B00760,Garcia,Alonso,0,Reynosa,,B149
+1970TSN,1969,Mexican League,garcia.f-jal,B00783,Garcia,Francisco,0,Jalisco,,B97
+1970TSN,1969,Mexican League,garcia.h-rey,B00794,Garcia,Humberto,0,Reynosa,,B96
+1970TSN,1969,Mexican League,garcia.m-ver,B00822,Garcia,Manuel,0,Veracruz,,B4
+1970TSN,1969,Mexican League,garcia.n-mct,B00833,Garcia,Nicolas,0,Mexico City Tigers,,B45
+1970TSN,1969,Mexican League,garcia.v-mcr,B00840,Garcia,Victor,0,Mexico City Reds,,B31
+1970TSN,1969,Mexican League,garcia.v-ver,B00854,Garcia,Vinicio,0,Veracruz,,B57
+1970TSN,1969,Mexican League,garcia.e-mct,B02714,Garcia,Emiliano,0,Mexico City Tigers,,B1
+1970TSN,1969,Mexican League,garcia.v-ver,F20014,Garcia,V.,0,Veracruz,,1b21
+1970TSN,1969,Mexican League,garcia.h-rey,F20051,Garcia,H.,0,Reynosa,,1b16
+1970TSN,1969,Mexican League,garcia.f-jal,F20539,Garcia,,0,Jalisco,,1b2
+1970TSN,1969,Mexican League,garcia.a-rey,F20661,Garcia,A.,0,Reynosa,,2b149
+1970TSN,1969,Mexican League,garcia.h-rey,F20792,Garcia,H.,0,Reynosa,,2b2
+1970TSN,1969,Mexican League,garcia.h-rey,F21101,Garcia,H.,0,Reynosa,,3b60
+1970TSN,1969,Mexican League,garcia.f-jal,F22134,Garcia,,0,Jalisco,,of83
+1970TSN,1969,Mexican League,garcia.h-rey,F22272,Garcia,H.,0,Reynosa,,of4
+1970TSN,1969,Mexican League,garcia.m-ver,F22386,Garcia,M.,0,Veracruz,,of3
+1970TSN,1969,Mexican League,garcia.v-mcr,F22781,Garcia,,0,Mexico City Reds,,p26
+1970TSN,1969,Mexican League,garcia.n-mct,F23104,Garcia,N.,0,Mexico City Tigers,,p37
+1970TSN,1969,Mexican League,garcia.e-mct,F24097,Garcia,E.,0,all,,p
+1970TSN,1969,Mexican League,garcia.h-rey,F24100,Garcia,H.,0,all,,c
+1970TSN,1969,Mexican League,garcia.j-mct,M90039,Garcia,Jose,,Mexico City Tigers,,
+1970TSN,1969,Mexican League,garcia.v-ver,M90110,Garcia,Vinicio,,Veracruz,,
+1970TSN,1969,Mexican League,garcia.e-mcr,P10407,Garcia,E.,0,Mexico City Reds,,P1p
+1970TSN,1969,Mexican League,garcia.n-mct,P10429,Garcia,N.,0,Mexico City Tigers,,P37p
+1970TSN,1969,Mexican League,garcia.v-mcr,P10432,Garcia,V.,0,Mexico City Reds,,P26p
+1970TSN,1969,Mexican League,garcia.j-pue,B00806,Garcia A.,Jesus,0,Puebla,,B11
+1970TSN,1969,Mexican League,garcia.j-pue,F23629,Garcia A.,,0,Puebla,,p11
+1970TSN,1969,Mexican League,garcia.j-pue,P10410,Garcia A.,J.,0,Puebla,,P11p
+1970TSN,1969,Mexican League,garcia.j-pr,B00811,Garcia L.,Jesus,0,Poza Rica,,B20
+1970TSN,1969,Mexican League,garcia.j-pr,F20776,Garcia L.,,0,Poza Rica,,2b9
+1970TSN,1969,Mexican League,garcia.d-pue,B00771,Garcia T.,David,0,Puebla,,B12
+1970TSN,1969,Mexican League,garcia.d-pue,F23011,Garcia T.,,0,Puebla,,p12
+1970TSN,1969,Mexican League,garcia.d-pue,P10399,Garcia T.,D.,0,Puebla,,P12p
+1970TSN,1969,Mexican League,garibay-pue,B00865,Garibay,Jose,0,Puebla,,B125
+1970TSN,1969,Mexican League,garibay-pue,F20648,Garibay,,0,Puebla,,2b81
+1970TSN,1969,Mexican League,garibay-pue,F21117,Garibay,,0,Puebla,,3b25
+1970TSN,1969,Mexican League,garibay-pue,F21475,Garibay,,0,Puebla,,ss22
+1970TSN,1969,Mexican League,garibay-jal,M90018,Garibay,Memo,,Jalisco,,
+1970TSN,1969,Mexican League,garza.c-mct,B00879,Garza,Carlos,0,Mexico City Tigers,,B121
+1970TSN,1969,Mexican League,garza.g-mct,B00887,Garza,Gustavo,0,Mexico City Tigers,,B63
+1970TSN,1969,Mexican League,garza.r-pr,B00898,Garza,Ricardo,0,Poza Rica,,B27
+1970TSN,1969,Mexican League,garza.a-rey,B02805,Garza,Adolfo,0,Reynosa,,B1
+1970TSN,1969,Mexican League,garza.r-pr,F20046,Garza,,0,Poza Rica,,1b10
+1970TSN,1969,Mexican League,garza.c-mct,F20177,Garza,C.,0,Mexico City Tigers,,1b113
+1970TSN,1969,Mexican League,garza.g-mct,F21739,Garza,G.,0,Mexico City Tigers,,of63
+1970TSN,1969,Mexican League,garza.a-rey,F24113,Garza,A.,0,all,,p
+1970TSN,1969,Mexican League,garza.r-pr,M90083,Garza,Ricardo,,Poza Rica,,
+1970TSN,1969,Mexican League,garza.a-rey,P10441,Garza,,0,Reynosa,,P1p
+1970TSN,1969,Mexican League,gaspar,B00904,Gaspar,Miguel,0,Veracruz,,B104
+1970TSN,1969,Mexican League,gaspar,F22525,Gaspar,,0,Veracruz,,c91
+1970TSN,1969,Mexican League,gil,B00912,Gil,Marcos,0,Mexico City Tigers,,B6
+1970TSN,1969,Mexican League,gil,F23774,Gil,,0,Mexico City Tigers,,p6
+1970TSN,1969,Mexican League,gil,P10455,Gil,,0,Mexico City Tigers,,P6p
+1970TSN,1969,Mexican League,gonzalez,B00920,Gonzalez,Ernesto,0,Reynosa,,B45
+1970TSN,1969,Mexican League,gonzalez,F23360,Gonzalez,,0,Reynosa,,p44
+1970TSN,1969,Mexican League,gonzalez,P10464,Gonzalez,,0,Reynosa,,P44p
+1970TSN,1969,Mexican League,grant,B00936,Grant,Julious,1,Reynosa,,B14
+1970TSN,1969,Mexican League,grant,B00936,Grant,Julious,2,Jalisco,,B41
+1970TSN,1969,Mexican League,grant,B00936,Grant,Julious,T,,,B55
+1970TSN,1969,Mexican League,grant,F20334,Grant,,0,Jalisco,,1b4
+1970TSN,1969,Mexican League,grant,F22815,Grant,,1,Reynosa,,p
+1970TSN,1969,Mexican League,grant,F22815,Grant,,2,Jalisco,,p
+1970TSN,1969,Mexican League,grant,F22815,Grant,,T,,,p32
+1970TSN,1969,Mexican League,grant,P10478,Grant,,1,Reynosa,,P14p
+1970TSN,1969,Mexican League,grant,P10478,Grant,,2,Jalisco,,P18p
+1970TSN,1969,Mexican League,grant,P10478,Grant,,T,,,P32p
+1970TSN,1969,Mexican League,guirardo,B02772,Guirardo,Juan Manuel,0,Poza Rica,,B3
+1970TSN,1969,Mexican League,guirardo,F24121,Guirardo,,0,all,,p
+1970TSN,1969,Mexican League,guirardo,P10486,Guirardo,,0,Poza Rica,,P3p
+1970TSN,1969,Mexican League,gutierrez.a-mcr,B00948,Gutierrez,Andres,0,Mexico City Reds,,B4
+1970TSN,1969,Mexican League,gutierrez.c-pr,B00957,Gutierrez,Cesar,0,Poza Rica,,B19
+1970TSN,1969,Mexican League,gutierrez.c-pr,F22976,Gutierrez,,0,Poza Rica,,p19
+1970TSN,1969,Mexican League,gutierrez.a-mcr,F23816,Gutierrez,,0,Mexico City Reds,,p4
+1970TSN,1969,Mexican League,gutierrez.c-pr,P10493,Gutierrez,,0,Poza Rica,,P4p
+1970TSN,1969,Mexican League,gutierrez.a-mcr,P10503,Gutierrez,,0,Mexico City Reds,,P19p
+1970TSN,1969,Mexican League,guzman,B00961,Guzman,Alvaro,0,Jalisco,,B45
+1970TSN,1969,Mexican League,guzman,F22921,Guzman,,0,Jalisco,,p44
+1970TSN,1969,Mexican League,guzman,P10516,Guzman,,0,Jalisco,,P44p
+1970TSN,1969,Mexican League,harvey,B00973,Harvey,Slidell,0,Monterrey,,B129
+1970TSN,1969,Mexican League,harvey,F22012,Harvey,,0,Monterrey,,of127
+1970TSN,1969,Mexican League,hernandez.j-mty,B00999,Hernandez,Juan,0,Monterrey,,B11
+1970TSN,1969,Mexican League,hernandez.r-mcr,B01007,Hernandez,Ramon,0,Mexico City Reds,,B146
+1970TSN,1969,Mexican League,hernandez.r-mcr,F21442,Hernandez,,0,Mexico City Reds,,ss144
+1970TSN,1969,Mexican League,hernandez.j-mty,F23607,Hernandez,,0,Monterrey,,p11
+1970TSN,1969,Mexican League,hernandez.j-mty,P10527,Hernandez,,0,Monterrey,,P11p
+1970TSN,1969,Mexican League,hernandez.j-pr,B00985,Hernandez de la F.,Javier,0,Poza Rica,,B109
+1970TSN,1969,Mexican League,hernandez.j-pr,F20211,Hernandez de la F.,,0,Poza Rica,,1b21
+1970TSN,1969,Mexican League,hernandez.j-pr,F20721,Hernandez de la F.,,0,Poza Rica,,2b32
+1970TSN,1969,Mexican League,hernandez.j-pr,F21130,Hernandez de la F.,,0,Poza Rica,,3b16
+1970TSN,1969,Mexican League,hernandez.j-pr,F21544,Hernandez de la F.,,0,Poza Rica,,ss2
+1970TSN,1969,Mexican League,hernandez.j-pr,F22116,Hernandez de la F.,,0,Poza Rica,,of15
+1970TSN,1969,Mexican League,herrera.r-pue,B01010,Herrera,Roberto,0,Puebla,,B135
+1970TSN,1969,Mexican League,herrera.r-pue,F20474,Herrera,,0,Puebla,,1b7
+1970TSN,1969,Mexican League,herrera.r-pue,F22582,Herrera,,0,Puebla,,c124
+1970TSN,1969,Mexican League,herrera.t-mcr,M90026,Herrera,Tomas,,Mexico City Reds,,
+1970TSN,1969,Mexican League,hooker,B01029,Hooker,William,0,Puebla,,B6
+1970TSN,1969,Mexican League,hooker,F23725,Hooker,,0,Puebla,,p6
+1970TSN,1969,Mexican League,hooker,P10534,Hooker,,0,Puebla,,P6p
+1970TSN,1969,Mexican League,horsford,B01032,Horsford,James,0,Monterrey,,B47
+1970TSN,1969,Mexican League,horsford,F20425,Horsford,,0,Monterrey,,1b1
+1970TSN,1969,Mexican League,horsford,F22341,Horsford,,0,Monterrey,,of2
+1970TSN,1969,Mexican League,horsford,F23112,Horsford,,0,Monterrey,,p37
+1970TSN,1969,Mexican League,horsford,P10542,Horsford,,0,Monterrey,,P37p
+1970TSN,1969,Mexican League,huerta,B01041,Huerta,Hector,0,Mexico City Tigers,,B17
+1970TSN,1969,Mexican League,huerta,F20745,Huerta,,0,Mexico City Tigers,,2b15
+1970TSN,1969,Mexican League,icedo,B01055,Icedo,Enrique,0,Mexico City Tigers,,B51
+1970TSN,1969,Mexican League,icedo,F23371,Icedo,,0,Mexico City Tigers,,p47
+1970TSN,1969,Mexican League,icedo,P10550,Icedo,,0,Mexico City Tigers,,P47p
+1970TSN,1969,Mexican League,imbert,B01064,Imbert,Julio C.,0,Veracruz,,B6
+1970TSN,1969,Mexican League,imbert,F23953,Imbert,,0,Veracruz,,p5
+1970TSN,1969,Mexican League,imbert,P10569,Imbert,,0,Veracruz,,P5p
+1970TSN,1969,Mexican League,jimenez,B01078,Jimenez,Rogelio,0,Poza Rica,,B156
+1970TSN,1969,Mexican League,jimenez,F20935,Jimenez,,0,Poza Rica,,2b1
+1970TSN,1969,Mexican League,jimenez,F20970,Jimenez,,0,Poza Rica,,3b141
+1970TSN,1969,Mexican League,jimenez,F21335,Jimenez,,0,Poza Rica,,ss13
+1970TSN,1969,Mexican League,jimenez,F22238,Jimenez,,0,Poza Rica,,of2
+1970TSN,1969,Mexican League,johnson,B01086,Johnson,Tomas,0,Mexico City Tigers,,B14
+1970TSN,1969,Mexican League,johnson,F22945,Johnson,,0,Mexico City Tigers,,p14
+1970TSN,1969,Mexican League,johnson,P10575,Johnson,,0,Mexico City Tigers,,P14p
+1970TSN,1969,Mexican League,juarez,B01093,Juarez,Marcelo,1,Veracruz,,B34
+1970TSN,1969,Mexican League,juarez,B01093,Juarez,Marcelo,2,Mexico City Reds,,B104
+1970TSN,1969,Mexican League,juarez,B01093,Juarez,Marcelo,T,,,B138
+1970TSN,1969,Mexican League,juarez,F21854,Juarez,,1,Veracruz,,of
+1970TSN,1969,Mexican League,juarez,F21854,Juarez,,2,Mexico City Reds,,of
+1970TSN,1969,Mexican League,juarez,F21854,Juarez,,T,,,of136
+1970TSN,1969,Mexican League,jusino,B01108,Jusino,Ramon,0,Veracruz,,B54
+1970TSN,1969,Mexican League,jusino,F23284,Jusino,,0,Veracruz,,p42
+1970TSN,1969,Mexican League,jusino,P10588,Jusino,,0,Veracruz,,P42p
+1970TSN,1969,Mexican League,klages,B01119,Klages,Frederick,0,Reynosa,,B2
+1970TSN,1969,Mexican League,klages,F23717,Klages,,0,Reynosa,,p2
+1970TSN,1969,Mexican League,klages,P10591,Klages,,0,Reynosa,,P2p
+1970TSN,1969,Mexican League,krsnich,B01124,Krsnich,Michael,0,Poza Rica,,B14
+1970TSN,1969,Mexican League,krsnich,F22142,Krsnich,,0,Poza Rica,,of13
+1970TSN,1969,Mexican League,lagunas.c-pr,B01135,Lagunas,Crescencio,0,Poza Rica,,B42
+1970TSN,1969,Mexican League,lagunas.l-jal,B01143,Lagunas,Luis,0,Jalisco,,B113
+1970TSN,1969,Mexican League,lagunas.l-jal,F21092,Lagunas,,0,Jalisco,,3b113
+1970TSN,1969,Mexican League,lagunas.l-jal,F22694,Lagunas,,0,Jalisco,,c2
+1970TSN,1969,Mexican League,lagunas.c-pr,F23200,Lagunas,,0,Poza Rica,,p42
+1970TSN,1969,Mexican League,lagunas.c-pr,P10606,Lagunas,,0,Poza Rica,,P42p
+1970TSN,1969,Mexican League,lara,B01156,Lara,Armando,0,Mexico City Tigers,,B18
+1970TSN,1969,Mexican League,lara,F21672,Lara,,0,Mexico City Tigers,,of13
+1970TSN,1969,Mexican League,leal.a-mct,B01162,Leal,Antonio,0,Mexico City Tigers,,B4
+1970TSN,1969,Mexican League,leal.f-mcr,B01170,Leal,Felipe,0,Mexico City Reds,,B59
+1970TSN,1969,Mexican League,leal.f-mcr,F23161,Leal,,0,Mexico City Reds,,p37
+1970TSN,1969,Mexican League,leal.a-mct,F23902,Leal,,0,Mexico City Tigers,,p4
+1970TSN,1969,Mexican League,leal.a-mct,P10611,Leal,,0,Mexico City Tigers,,P4p
+1970TSN,1969,Mexican League,leal.f-mcr,P10622,Leal,F.,0,Mexico City Reds,,P37p
+1970TSN,1969,Mexican League,leon,B01181,Leon,Maximino,0,Jalisco,,B13
+1970TSN,1969,Mexican League,leon,F22984,Leon,,0,Jalisco,,p13
+1970TSN,1969,Mexican League,leon,P10633,Leon,,0,Jalisco,,P13p
+1970TSN,1969,Mexican League,leyva,B01197,Leyva,Jose,0,Veracruz,,B12
+1970TSN,1969,Mexican League,leyva,F23701,Leyva,,0,Veracruz,,p9
+1970TSN,1969,Mexican League,leyva,P10640,Leyva,,0,Veracruz,,P9p
+1970TSN,1969,Mexican League,lira,B01203,Lira,Jorge,0,Poza Rica,,B39
+1970TSN,1969,Mexican League,lira,F23305,Lira,,0,Poza Rica,,p38
+1970TSN,1969,Mexican League,lira,P10654,Lira,,0,Poza Rica,,P38p
+1970TSN,1969,Mexican League,lizarraga,B01216,Lizarraga,Roberto,0,Mexico City Reds,,B119
+1970TSN,1969,Mexican League,lizarraga,F21182,Lizarraga,,0,Mexico City Reds,,3b2
+1970TSN,1969,Mexican League,lizarraga,F21920,Lizarraga,,0,Mexico City Reds,,of114
+1970TSN,1969,Mexican League,llamozas,B01227,Llamozas,Jesus,0,Veracruz,,B2
+1970TSN,1969,Mexican League,llamozas,F23891,Llamozas,,0,Veracruz,,p2
+1970TSN,1969,Mexican League,llamozas,P10665,Llamozas,,0,Veracruz,,P2p
+1970TSN,1969,Mexican League,lopez.a-mcr,B01234,Lopez,Aurelio,0,Mexico City Reds,,B21
+1970TSN,1969,Mexican League,lopez.c-mct,B01242,Lopez,Carlos,0,Mexico City Tigers,,B4
+1970TSN,1969,Mexican League,lopez.f-ver,B01250,Lopez,Francisco,0,Veracruz,,B24
+1970TSN,1969,Mexican League,lopez.j-jal,B01269,Lopez,Jaime,0,Jalisco,,B6
+1970TSN,1969,Mexican League,lopez.jr-mty,B01275,Lopez,Jose Ramon,0,Monterrey,,B33
+1970TSN,1969,Mexican League,lopez.l-mty,B01288,Lopez,Lorenzo,0,Monterrey,,B138
+1970TSN,1969,Mexican League,lopez.m-pue,B01291,Lopez,Manuel,0,Puebla,,B29
+1970TSN,1969,Mexican League,lopez.r-rey,B01300,Lopez,Rigoberto,0,Reynosa,,B34
+1970TSN,1969,Mexican League,lopez.d-rey,B02818,Lopez,David,0,Reynosa,,B12
+1970TSN,1969,Mexican League,lopez.j-jal,F20350,Lopez,,0,Jalisco,,1b2
+1970TSN,1969,Mexican League,lopez.m-pue,F20699,Lopez,,0,Puebla,,2b22
+1970TSN,1969,Mexican League,lopez.l-mty,F21806,Lopez,L.,0,Monterrey,,of132
+1970TSN,1969,Mexican League,lopez.m-pue,F22251,Lopez,,0,Puebla,,of4
+1970TSN,1969,Mexican League,lopez.c-mct,F22307,Lopez,,0,Mexico City Tigers,,of2
+1970TSN,1969,Mexican League,lopez.jr-mty,F22440,Lopez,J. R.,0,Monterrey,,of1
+1970TSN,1969,Mexican League,lopez.f-ver,F22828,Lopez,,0,Veracruz,,p24
+1970TSN,1969,Mexican League,lopez.d-rey,F23054,Lopez,D.,0,Reynosa,,p12
+1970TSN,1969,Mexican League,lopez.r-rey,F23173,Lopez,R.,0,Reynosa,,p34
+1970TSN,1969,Mexican League,lopez.c-mct,F23347,Lopez,,0,Mexico City Reds,,p21
+1970TSN,1969,Mexican League,lopez.jr-mty,F23524,Lopez,J. R.,0,Monterrey,,p31
+1970TSN,1969,Mexican League,lopez.a-mcr,P10679,Lopez,A.,0,Mexico City Reds,,P21p
+1970TSN,1969,Mexican League,lopez.d-rey,P10687,Lopez,D.,0,Reynosa,,P12p
+1970TSN,1969,Mexican League,lopez.f-ver,P10698,Lopez,F.,0,Veracruz,,P24p
+1970TSN,1969,Mexican League,lopez.jr-mty,P10709,Lopez,J. R.,0,Monterrey,,P31p
+1970TSN,1969,Mexican League,lopez.r-rey,P10714,Lopez,R.,0,Reynosa,,P34p
+1970TSN,1969,Mexican League,loya,B01313,Loya,Raymond,0,Monterrey,,B37
+1970TSN,1969,Mexican League,loya,F20449,Loya,,0,Monterrey,,1b1
+1970TSN,1969,Mexican League,loya,F23570,Loya,,0,Monterrey,,p35
+1970TSN,1969,Mexican League,loya,F24137,Loya,,0,all,,of
+1970TSN,1969,Mexican League,loya,P10723,Loya,,0,Monterrey,,P35p
+1970TSN,1969,Mexican League,lugo.g-jal,B01321,Lugo,Gabriel,0,Jalisco,,B40
+1970TSN,1969,Mexican League,lugo.m-jal,B01337,Lugo,Manuel,0,Jalisco,,B55
+1970TSN,1969,Mexican League,lugo.u-pue,B01345,Lugo,Urbano,0,Puebla,,B58
+1970TSN,1969,Mexican League,lugo.g-jal,F20604,Lugo,G.,0,Jalisco,,2b13
+1970TSN,1969,Mexican League,lugo.g-jal,F21037,Lugo,G.,0,Jalisco,,3b16
+1970TSN,1969,Mexican League,lugo.g-jal,F21638,Lugo,G.,0,Jalisco,,ss4
+1970TSN,1969,Mexican League,lugo.u-pue,F23199,Lugo,,0,Puebla,,p54
+1970TSN,1969,Mexican League,lugo.m-jal,F23237,Lugo,M.,0,Jalisco,,p53
+1970TSN,1969,Mexican League,lugo.m-jal,P10738,Lugo,M.,0,Jalisco,,P53p
+1970TSN,1969,Mexican League,lugo.u-pue,P10746,Lugo,U.,0,Puebla,,P54p
+1970TSN,1969,Mexican League,luque,B01359,Luque,Gregorio,0,Mexico City Tigers,,B129
+1970TSN,1969,Mexican League,luque,F21324,Luque,,0,Mexico City Tigers,,3b1
+1970TSN,1969,Mexican League,luque,F22498,Luque,,0,Mexico City Tigers,,c123
+1970TSN,1969,Mexican League,macias,B01368,Macias,Angel,0,Reynosa,,B145
+1970TSN,1969,Mexican League,madrigas,B01376,Madrigal,Hector,0,Poza Rica,,B26
+1970TSN,1969,Mexican League,madrigas,F22889,Madrigal,,0,Poza Rica,,p24
+1970TSN,1969,Mexican League,madrigas,P10751,Madrigal,,0,Poza Rica,,P24p
+1970TSN,1969,Mexican League,magallon,M90071,Magallon,Manuel,,Monterrey,,
+1970TSN,1969,Mexican League,malpica,B01384,Malpica,Luis,0,Veracruz,,B33
+1970TSN,1969,Mexican League,malpica,F23339,Malpica,,0,Veracruz,,p31
+1970TSN,1969,Mexican League,malpica,P10767,Malpica,,0,Veracruz,,P31p
+1970TSN,1969,Mexican League,manrique,B01392,Manrique,Gerardo,0,Monterrey,,B12
+1970TSN,1969,Mexican League,manrique,F23022,Manrique,,0,Monterrey,,p10
+1970TSN,1969,Mexican League,manrique,P10772,Manrique,,0,Monterrey,,P10p
+1970TSN,1969,Mexican League,mariscal,B01402,Mariscal,Alfredo,0,Puebla,,B70
+1970TSN,1969,Mexican League,mariscal,F20303,Mariscal,,0,Puebla,,1b3
+1970TSN,1969,Mexican League,mariscal,F23148,Mariscal,,0,Puebla,,p35
+1970TSN,1969,Mexican League,mariscal,P10780,Mariscal,,0,Puebla,,P35p
+1970TSN,1969,Mexican League,marquez,B01415,Marquez,Francisco,0,Reynosa,,B2
+1970TSN,1969,Mexican League,marquez,F22770,Marquez,,0,Reynosa,,c2
+1970TSN,1969,Mexican League,martinez.a-rey,B01428,Martinez,Antulio,0,Reynosa,,B119
+1970TSN,1969,Mexican League,martinez.j-pue,B01431,Martinez,Javier,0,Puebla,,B32
+1970TSN,1969,Mexican League,martinez.a-rey,F20023,Martinez,,0,Reynosa,,1b16
+1970TSN,1969,Mexican League,martinez.j-pue,F20388,Martinez,,0,Puebla,,1b1
+1970TSN,1969,Mexican League,martinez.a-rey,F21084,Martinez,,0,Reynosa,,3b98
+1970TSN,1969,Mexican League,martinez.j-pue,F23543,Martinez,,0,Puebla,,p32
+1970TSN,1969,Mexican League,martinez.j-pue,P10795,Martinez,,0,Puebla,,P32p
+1970TSN,1969,Mexican League,martinez.j-pr,B01444,Martinez H.,Juan,0,Poza Rica,,B10
+1970TSN,1969,Mexican League,martinez.j-pr,F22191,Martinez H.,,0,Poza Rica,,of8
+1970TSN,1969,Mexican League,mason,B01453,Mason,Larry,0,Monterrey,,B6
+1970TSN,1969,Mexican League,mason,F23803,Mason,,0,Monterrey,,p6
+1970TSN,1969,Mexican League,mason,P10805,Mason,,0,Monterrey,,P6p
+1970TSN,1969,Mexican League,maytorena,B01466,Maytorena,Francisco,0,Reynosa,,B27
+1970TSN,1969,Mexican League,maytorena,F23221,Maytorena,,0,Reynosa,,p26
+1970TSN,1969,Mexican League,maytorena,P10818,Maytorena,,0,Reynosa,,P26p
+1970TSN,1969,Mexican League,mazon,B01477,Mazon,Blas,0,Veracruz,,B23
+1970TSN,1969,Mexican League,mazon,F23352,Mazon,,0,Veracruz,,p19
+1970TSN,1969,Mexican League,mazon,P10826,Mazon,,0,Veracruz,,P19p
+1970TSN,1969,Mexican League,medina,B01489,Medina,Pedro,0,Puebla,,B9
+1970TSN,1969,Mexican League,medina,F23693,Medina,,0,Puebla,,p9
+1970TSN,1969,Mexican League,medina,P10839,Medina,,0,Puebla,,P9p
+1970TSN,1969,Mexican League,mena,B01490,Mena,Rigoberto,0,Monterrey,,B142
+1970TSN,1969,Mexican League,mena,F21278,Mena,,0,Monterrey,,3b7
+1970TSN,1969,Mexican League,mena,F21397,Mena,,0,Monterrey,,ss136
+1970TSN,1969,Mexican League,menchaca,B01509,Menchaca,J. Francisco,0,Jalisco,,B146
+1970TSN,1969,Mexican League,menchaca,F20233,Menchaca,,0,Jalisco,,1b8
+1970TSN,1969,Mexican League,menchaca,F21985,Menchaca,,0,Jalisco,,of133
+1970TSN,1969,Mexican League,mendez,B01514,Mendez,Roberto,0,Jalisco,,B141
+1970TSN,1969,Mexican League,mendez,F21264,Mendez,,0,Jalisco,,3b1
+1970TSN,1969,Mexican League,mendez,F21403,Mendez,,0,Jalisco,,ss112
+1970TSN,1969,Mexican League,mendez,F21822,Mendez,,0,Jalisco,,of25
+1970TSN,1969,Mexican League,mendia,B02780,Mendia,Homero,0,Poza Rica,,B1
+1970TSN,1969,Mexican League,mendia,F24145,Mendia,,0,all,,p
+1970TSN,1969,Mexican League,mendia,P10847,Mendia,,0,Poza Rica,,P1p
+1970TSN,1969,Mexican League,mendivil,B01523,Mendivil,Rafael,0,Mexico City Reds,,B67
+1970TSN,1969,Mexican League,mendivil,F22618,Mendivil,,0,Mexico City Reds,,c59
+1970TSN,1969,Mexican League,mendoza.r-mty,B01538,Mendoza,Ramon,0,Monterrey,,B92
+1970TSN,1969,Mexican League,mendoza.s-pr,B01546,Mendoza,Saul,0,Poza Rica,,B122
+1970TSN,1969,Mexican League,mendoza.r-mty,F20369,Mendoza,,0,Monterrey,,1b1
+1970TSN,1969,Mexican League,mendoza.s-pr,F20759,Mendoza,,0,Poza Rica,,2b27
+1970TSN,1969,Mexican League,mendoza.r-mty,F21013,Mendoza,,0,Monterrey,,3b38
+1970TSN,1969,Mexican League,mendoza.s-pr,F21356,Mendoza,,0,Poza Rica,,ss122
+1970TSN,1969,Mexican League,mendoza.r-mty,F22393,Mendoza,,0,Monterrey,,of1
+1970TSN,1969,Mexican League,mere,B01551,Mere,Luis,0,Puebla,,B9
+1970TSN,1969,Mexican League,mere,F23749,Mere,,0,Puebla,,p7
+1970TSN,1969,Mexican League,mere,P10852,Mere,,0,Puebla,,P7p
+1970TSN,1969,Mexican League,meza,B01567,Meza,Alfredo,0,Mexico City Tigers,,B7
+1970TSN,1969,Mexican League,meza,F23758,Meza,,0,Mexico City Tigers,,p7
+1970TSN,1969,Mexican League,meza,P10860,Meza,,0,Mexico City Tigers,,P7p
+1970TSN,1969,Mexican League,minoso,B01572,Minoso,Orestes,0,Jalisco,,B36
+1970TSN,1969,Mexican League,minoso,F20080,Minoso,Orestes,0,Jalisco,,1b21
+1970TSN,1969,Mexican League,minoso,F21241,Minoso,,0,Jalisco,,3b2
+1970TSN,1969,Mexican League,minoso,F22422,Minoso,,0,Jalisco,,of7
+1970TSN,1969,Mexican League,moncayo,B01580,Moncayo,Bernardo,0,Puebla,,B47
+1970TSN,1969,Mexican League,moncayo,F23185,Moncayo,,0,Puebla,,p37
+1970TSN,1969,Mexican League,moncayo,F24159,Moncayo,,0,all,,of
+1970TSN,1969,Mexican League,moncayo,P10871,Moncayo,,0,Puebla,,P37p
+1970TSN,1969,Mexican League,montoya.r-mcr,B01595,Montoya,Ramon,0,Mexico City Reds,,B143
+1970TSN,1969,Mexican League,montoya.r-rey,B01601,Montoya,Raul,0,Reynosa,,B85
+1970TSN,1969,Mexican League,montoya.r-ver,B01617,Montoya,Rogelio,0,Veracruz,,B30
+1970TSN,1969,Mexican League,montoya.s-mcr,B01625,Montoya,Saul,0,Mexico City Reds,,B2
+1970TSN,1969,Mexican League,montoya.r-rey,F20430,Montoya,,0,Reynosa,,1b1
+1970TSN,1969,Mexican League,montoya.r-rey,F20810,Montoya,,0,Reynosa,,2b2
+1970TSN,1969,Mexican League,montoya.r-rey,F21149,Montoya,,0,Reynosa,,3b19
+1970TSN,1969,Mexican League,montoya.r-rey,F21491,Montoya,,0,Reynosa,,ss44
+1970TSN,1969,Mexican League,montoya.r-mcr,F21783,Montoya,,0,Mexico City Reds,,of139
+1970TSN,1969,Mexican League,montoya.r-ver,F22103,Montoya,,0,Veracruz,,of22
+1970TSN,1969,Mexican League,montoya.s-mcr,F23834,Montoya,,0,Mexico City Reds,,p2
+1970TSN,1969,Mexican League,montoya.s-mcr,P10883,Montoya,S.,0,Mexico City Reds,,P2p
+1970TSN,1969,Mexican League,mora.a,B01630,Mora,Armando,0,Mexico City Tigers,,B15
+1970TSN,1969,Mexican League,mora.j,B01649,Mora,Jesus,0,Mexico City Tigers,,B102
+1970TSN,1969,Mexican League,mora.j,F21936,Mora,J.,0,Mexico City Tigers,,of99
+1970TSN,1969,Mexican League,mora.a,F23040,Mora,A.,0,Mexico City Tigers,,p15
+1970TSN,1969,Mexican League,mora.a,P10894,Mora,A.,0,Mexico City Tigers,,P15p
+1970TSN,1969,Mexican League,morales,B01658,Morales,Neudo,0,Veracruz,,B21
+1970TSN,1969,Mexican League,morales,F21308,Morales,,0,Veracruz,,3b3
+1970TSN,1969,Mexican League,morales,F21609,Morales,,0,Veracruz,,ss8
+1970TSN,1969,Mexican League,morales,F22188,Morales,,0,Veracruz,,of12
+1970TSN,1969,Mexican League,morejon,B01663,Morejon,Daniel,0,Reynosa,,B150
+1970TSN,1969,Mexican League,morejon,F21833,Morejon,,0,Reynosa,,of142
+1970TSN,1969,Mexican League,moxey,B01674,Moxey,Edmundo,0,Reynosa,,B22
+1970TSN,1969,Mexican League,moxey,F20526,Moxey,,0,Reynosa,,1b3
+1970TSN,1969,Mexican League,moxey,F21293,Moxey,,0,Reynosa,,3b7
+1970TSN,1969,Mexican League,moxey,F22223,Moxey,,0,Reynosa,,of5
+1970TSN,1969,Mexican League,munoz.r-mct,B01682,Munoz,Romulo,0,Mexico City Tigers,,B32
+1970TSN,1969,Mexican League,munoz.c-pr,B02795,Munoz,Concepcion,0,Poza Rica,,B4
+1970TSN,1969,Mexican League,munoz.r-mct,F22085,Munoz,,0,Mexico City Tigers,,of25
+1970TSN,1969,Mexican League,munoz.r-mct,F23944,Munoz,,0,Mexico City Tigers,,p4
+1970TSN,1969,Mexican League,munoz.c-mct,P10901,Munoz,,0,Mexico City Tigers,,P4p
+1970TSN,1969,Mexican League,murillo.a-pue,B01696,Murillo,Armando,0,Puebla,,B135
+1970TSN,1969,Mexican League,murillo.g-mty,B01706,Murillo,Guillermo,0,Monterrey,,B124
+1970TSN,1969,Mexican League,murillo.s-mty,B01711,Murillo,Sergio,0,Monterrey,,B36
+1970TSN,1969,Mexican League,murillo.a-pue,F20505,Murillo,,0,Puebla,,1b6
+1970TSN,1969,Mexican League,murillo.a-pue,F20855,Murillo,,0,Puebla,,2b1
+1970TSN,1969,Mexican League,murillo.g-mty,F21021,Murillo,,0,Monterrey,,3b110
+1970TSN,1969,Mexican League,murillo.a-pue,F21059,Murillo,,0,Puebla,,3b130
+1970TSN,1969,Mexican League,murillo.g-mty,F21469,Murillo,G.,0,Monterrey,,ss12
+1970TSN,1969,Mexican League,murillo.s-mty,F23641,Murillo,S.,0,Monterrey,,p34
+1970TSN,1969,Mexican League,murillo.g-mty,F24168,Murillo,G.,0,all,,2b
+1970TSN,1969,Mexican League,murillo.g-mty,F24176,Murillo,G.,0,all,,of
+1970TSN,1969,Mexican League,murillo.s-mty,F24184,Murillo,S.,0,all,,of
+1970TSN,1969,Mexican League,murillo.s-mty,P10917,Murillo,S.,0,Monterrey,,P34p
+1970TSN,1969,Mexican League,murrieta.c-mty,B01722,Murrieta,Carlos,0,Monterrey,,B12
+1970TSN,1969,Mexican League,murrieta.j-pr,B01733,Murrieta,Juan,0,Poza Rica,,B15
+1970TSN,1969,Mexican League,murrieta.j-pr,F20924,Murrieta,,0,Poza Rica,,2b8
+1970TSN,1969,Mexican League,murrieta.c-mty,F21319,Murrieta,,0,Monterrey,,3b3
+1970TSN,1969,Mexican League,murrieta.j-pr,F21531,Murrieta,,0,Poza Rica,,ss3
+1970TSN,1969,Mexican League,murrieta.j-pr,F24192,Murrieta,J.,0,all,,of
+1970TSN,1969,Mexican League,narvaez,M90052,Narvaez,Arturo,,Monterrey,,
+1970TSN,1969,Mexican League,navarro,B01740,Navarro,Joel,0,Reynosa,,B15
+1970TSN,1969,Mexican League,navarro,F23033,Navarro,,0,Reynosa,,p13
+1970TSN,1969,Mexican League,navarro,P10925,Navarro,,0,Reynosa,,P13p
+1970TSN,1969,Mexican League,nieblas,B01754,Nieblas,Manuel de J.,0,Mexico City Reds,,B6
+1970TSN,1969,Mexican League,nieblas,F22214,Nieblas,,0,Mexico City Reds,,of5
+1970TSN,1969,Mexican League,nuno,B01765,Nuno,Ramiro,0,Veracruz,,B50
+1970TSN,1969,Mexican League,nuno,F23495,Nuno,,0,Veracruz,,p50
+1970TSN,1969,Mexican League,nuno,P10930,Nuno,,0,Veracruz,,P50p
+1970TSN,1969,Mexican League,ochoa.d-jal,B01779,Ochoa,David,0,Jalisco,,B38
+1970TSN,1969,Mexican League,ochoa.r-pr,B01787,Ochoa,Raul,0,Poza Rica,,B113
+1970TSN,1969,Mexican League,ochoa.r-pr,F20222,Ochoa,,0,Poza Rica,,1b8
+1970TSN,1969,Mexican League,ochoa.r-pr,F21904,Ochoa,,0,Poza Rica,,of113
+1970TSN,1969,Mexican League,ochoa.d-jal,F22169,Ochoa,,0,Jalisco,,of37
+1970TSN,1969,Mexican League,olivares,B01798,Olivares,Alonso,0,Veracruz,,B3
+1970TSN,1969,Mexican League,olivares,F23842,Olivares,,0,Veracruz,,p3
+1970TSN,1969,Mexican League,olivares,P10949,Olivares,,0,Veracruz,,P3p
+1970TSN,1969,Mexican League,orozco,B01804,Orozco,Victor,0,Mexico City Tigers,,B15
+1970TSN,1969,Mexican League,orozco,F21705,Orozco,,0,Mexico City Tigers,,of10
+1970TSN,1969,Mexican League,ortigosa,F20298,Ortigosa,,0,Poza Rica,,1b3
+1970TSN,1969,Mexican League,ortigosa,F22652,Ortigosa,,0,Poza Rica,,c13
+1970TSN,1969,Mexican League,ortigosa,B01812,Ortigoza,Juan,0,Poza Rica,,B27
+1970TSN,1969,Mexican League,ortiz.a-mcr,B01820,Ortiz,Alfredo,0,Mexico City Reds,,B97
+1970TSN,1969,Mexican League,ortiz.j-mty,B01836,Ortiz,Jose Manual,0,Monterrey,,B144
+1970TSN,1969,Mexican League,ortiz.r-ver,B01848,Ortiz,Roberto,0,Veracruz,,B140
+1970TSN,1969,Mexican League,ortiz.a-mcr,F20552,Ortiz,,0,Mexico City Reds,,1b1
+1970TSN,1969,Mexican League,ortiz.j-mty,F20612,Ortiz,,0,Monterrey,,2b135
+1970TSN,1969,Mexican League,ortiz.r-ver,F20981,Ortiz,,0,Veracruz,,3b129
+1970TSN,1969,Mexican League,ortiz.r-ver,F21515,Ortiz,,0,Veracruz,,ss6
+1970TSN,1969,Mexican League,ortiz.j-mty,F21614,Ortiz,,0,Monterrey,,ss7
+1970TSN,1969,Mexican League,ortiz.a-mcr,F21695,Ortiz,,0,Mexico City Reds,,of10
+1970TSN,1969,Mexican League,ortiz.r-ver,F22406,Ortiz,,0,Veracruz,,of8
+1970TSN,1969,Mexican League,ortiz.r-ver,F22724,Ortiz,,0,Veracruz,,c1
+1970TSN,1969,Mexican League,ortiz.a-mcr,F23079,Ortiz,,0,Mexico City Reds,,p33
+1970TSN,1969,Mexican League,ortiz.a-mcr,P10958,Ortiz,A.,0,Mexico City Reds,,P33p
+1970TSN,1969,Mexican League,osorio,B01857,Osorio,Alberto,0,Veracruz,,B31
+1970TSN,1969,Mexican League,osorio,F22355,Osorio,,0,Veracruz,,of2
+1970TSN,1969,Mexican League,osorio,F22797,Osorio,,0,Veracruz,,p28
+1970TSN,1969,Mexican League,osorio,P10963,Osorio,,0,Veracruz,,P28p
+1970TSN,1969,Mexican League,osuna,B01861,Osuna,Elpidio,0,Monterrey,,B152
+1970TSN,1969,Mexican League,osuna,F20496,Osuna,,0,Monterrey,,1b4
+1970TSN,1969,Mexican League,osuna,F21196,Osuna,,0,Monterrey,,3b4
+1970TSN,1969,Mexican League,osuna,F21961,Osuna,,0,Monterrey,,of143
+1970TSN,1969,Mexican League,pantoja,B01873,Pantoja,Fidel,0,Mexico City Tigers,,B27
+1970TSN,1969,Mexican League,pantoja,F20673,Pantoja,,0,Mexico City Tigers,,2b22
+1970TSN,1969,Mexican League,parra.g,B01885,Parra,Graciliano,0,Puebla,,B28
+1970TSN,1969,Mexican League,parra.r,B01899,Parra,Raymundo,0,Puebla,,B21
+1970TSN,1969,Mexican League,parra.r,F23467,Parra,R.,0,Puebla,,p20
+1970TSN,1969,Mexican League,parra.g,F23581,Parra,G.,0,Puebla,,
+1970TSN,1969,Mexican League,parra.g,P10974,Parra,G.,0,Puebla,,P22p
+1970TSN,1969,Mexican League,parra.r,P10982,Parra,R.,0,Puebla,,P20p
+1970TSN,1969,Mexican League,pelaez,B01905,Pelaez,Mario,0,Mexico City Reds,,B43
+1970TSN,1969,Mexican League,pelaez,F23508,Pelaez,,0,Mexico City Reds,,p42
+1970TSN,1969,Mexican League,pelaez,P10996,Pelaez,,0,Mexico City Reds,,P42p
+1970TSN,1969,Mexican League,pena,B01918,Pena,Jose,0,Reynosa,,B22
+1970TSN,1969,Mexican League,pena,F23213,Pena,,0,Reynosa,,p22
+1970TSN,1969,Mexican League,pena,P11009,Pena,,0,Reynosa,,P22p
+1970TSN,1969,Mexican League,penalver,B01926,Penalver,Luis,0,Monterrey,,B35
+1970TSN,1969,Mexican League,penalver,F23065,Penalver,,0,Monterrey,,p34
+1970TSN,1969,Mexican League,penalver,P11014,Penalver,,0,Monterrey,,P34p
+1970TSN,1969,Mexican League,peralta,B01939,Peralta,Luis,0,Mexico City Reds,,B28
+1970TSN,1969,Mexican League,peralta,F20287,Peralta,,0,Mexico City Reds,,1b5
+1970TSN,1969,Mexican League,peralta,F22209,Peralta,,0,Mexico City Reds,,of7
+1970TSN,1969,Mexican League,peralta,F22683,Peralta,,0,Mexico City Reds,,c4
+1970TSN,1969,Mexican League,peralta,F24202,Peralta,,0,all,,3b
+1970TSN,1969,Mexican League,perea,B02723,Perea,Francisco,0,Mexico City Tigers,,B2
+1970TSN,1969,Mexican League,perea,F24215,Perea,,0,all,,p
+1970TSN,1969,Mexican League,perea,P11023,Perea,,0,Mexico City Tigers,,P2p
+1970TSN,1969,Mexican League,pereira,B01947,Pereira,Miguel,0,Mexico City Tigers,,B33
+1970TSN,1969,Mexican League,pereira,F23472,Pereira,,0,Mexico City Tigers,,p31
+1970TSN,1969,Mexican League,pereira,P11038,Pereira,,0,Mexico City Tigers,,P31p
+1970TSN,1969,Mexican League,perez,B01952,Perez Torres,Miguel,0,Poza Rica,,B80
+1970TSN,1969,Mexican League,perez,F20189,Perez Torres,,0,Poza Rica,,1b67
+1970TSN,1969,Mexican League,perez,F22175,Perez Torres,,0,Poza Rica,,of13
+1970TSN,1969,Mexican League,plasencia,B01960,Plascencia,Obed,0,Mexico City Tigers,,B35
+1970TSN,1969,Mexican League,plasencia,F20254,Plascencia,,0,Mexico City Tigers,,1b4
+1970TSN,1969,Mexican League,plasencia,F21125,Plascencia,,0,Mexico City Tigers,,3b31
+1970TSN,1969,Mexican League,pollorena,B01971,Pollorena,Antonio,0,Jalisco,,B50
+1970TSN,1969,Mexican League,pollorena,F23276,Pollorena,,0,Jalisco,,p42
+1970TSN,1969,Mexican League,pollorena,F24228,Pollorena,,0,all,,of
+1970TSN,1969,Mexican League,pollorena,P11046,Pollorena,,0,Jalisco,,P42p
+1970TSN,1969,Mexican League,polo,B01983,Polo,Gregorio,0,Mexico City Tigers,,B13
+1970TSN,1969,Mexican League,polo,F23632,Polo,,0,Mexico City Tigers,,p13
+1970TSN,1969,Mexican League,polo,P11051,Polo,,0,Mexico City Tigers,,P13p
+1970TSN,1969,Mexican League,ponce,B01994,Ponce,Manuel,0,Mexico City Tigers,,B97
+1970TSN,1969,Mexican League,ponce,F21840,Ponce,,0,Mexico City Tigers,,of79
+1970TSN,1969,Mexican League,preciado,B02008,Preciado,Alfonso,0,Mexico City Tigers,,B45
+1970TSN,1969,Mexican League,preciado,F20768,Preciado,,0,Mexico City Tigers,,2b31
+1970TSN,1969,Mexican League,preciado,F21718,Preciado,,0,Mexico City Tigers,,of16
+1970TSN,1969,Mexican League,prescott,B02019,Prescott,George,0,Mexico City Reds,,B15
+1970TSN,1969,Mexican League,prescott,F20038,Prescott,,0,Mexico City Reds,,1b12
+1970TSN,1969,Mexican League,quintana,B02024,Quintana,Juan,1,Puebla,,B4
+1970TSN,1969,Mexican League,quintana,B02024,Quintana,Juan,2,Veracruz,,B6
+1970TSN,1969,Mexican League,quintana,B02024,Quintana,Juan,T,,,B10
+1970TSN,1969,Mexican League,quintana,F22968,Quintana,,1,Puebla,,p4
+1970TSN,1969,Mexican League,quintana,F22968,Quintana,,2,Veracruz,,p6
+1970TSN,1969,Mexican League,quintana,F22968,Quintana,,T,,,p10
+1970TSN,1969,Mexican League,quintana,P11067,Quintana,,1,Puebla,,P4p
+1970TSN,1969,Mexican League,quintana,P11067,Quintana,,2,Veracruz,,P6p
+1970TSN,1969,Mexican League,quintana,P11067,Quintana,,T,,,P10p
+1970TSN,1969,Mexican League,quiroz,B02035,Quiroz,Juan,0,Puebla,,B57
+1970TSN,1969,Mexican League,quiroz,F23326,Quiroz,,0,Puebla,,p39
+1970TSN,1969,Mexican League,quiroz,P11072,Quiroz,,0,Puebla,,P39p
+1970TSN,1969,Mexican League,ramirez.g-jal,B02043,Ramirez,Gustavo,0,Jalisco,,B4
+1970TSN,1969,Mexican League,ramirez.j-ver,B02056,Ramirez,Jose,0,Veracruz,,B5
+1970TSN,1969,Mexican League,ramirez.m-jal,B02062,Ramirez,Martin,0,Jalisco,,B6
+1970TSN,1969,Mexican League,ramirez.g-jal,F22280,Ramirez,G.,0,Jalisco,,of2
+1970TSN,1969,Mexican League,ramirez.m-jal,F22310,Ramirez,M.,0,Jalisco,,of1
+1970TSN,1969,Mexican League,ramirez.j-ver,F23782,Ramirez,,0,Veracruz,,p4
+1970TSN,1969,Mexican League,ramirez.j-ver,P11080,Ramirez,,0,Veracruz,,P4p
+1970TSN,1969,Mexican League,ramos,B02070,Ramos,Roman,0,Puebla,,B42
+1970TSN,1969,Mexican League,ramos,F22844,Ramos,,0,Puebla,,p42
+1970TSN,1969,Mexican League,ramos,P11095,Ramos,,0,Puebla,,P42p
+1970TSN,1969,Mexican League,raygoza,B02081,Raygoza,German,0,Mexico City Tigers,,B5
+1970TSN,1969,Mexican League,raygoza,F23730,Raygoza,,0,Mexico City Tigers,,p5
+1970TSN,1969,Mexican League,raygoza,P11102,Raygoza,,0,Mexico City Tigers,,P5p
+1970TSN,1969,Mexican League,remes,B02097,Remes,Fernando,0,Mexico City Tigers,,B84
+1970TSN,1969,Mexican League,remes,F21416,Remes,,0,Mexico City Tigers,,ss78
+1970TSN,1969,Mexican League,rendon,B02100,Rendon,Alberto,0,Reynosa,,B3
+1970TSN,1969,Mexican League,rendon,F22364,Rendon,,0,Reynosa,,of2
+1970TSN,1969,Mexican League,rey,B02113,Rey,Arturo,0,Poza Rica,,B8
+1970TSN,1969,Mexican League,rey,F22756,Rey,,0,Poza Rica,,c8
+1970TSN,1969,Mexican League,reyes,B02121,Reyes,Rufino,0,Veracruz,,B70
+1970TSN,1969,Mexican League,reyes,F22036,Reyes,,0,Veracruz,,of67
+1970TSN,1969,Mexican League,rios,B02137,Rios,Alfredo,0,Mexico City Reds,,B155
+1970TSN,1969,Mexican League,rios,F20128,Rios,,0,Mexico City Reds,,1b24
+1970TSN,1969,Mexican League,rios,F20700,Rios,,0,Mexico City Reds,,2b100
+1970TSN,1969,Mexican League,rios,F21076,Rios,,0,Mexico City Reds,,3b47
+1970TSN,1969,Mexican League,rios,F21528,Rios,,0,Mexico City Reds,,ss2
+1970TSN,1969,Mexican League,rivera.d-jal,B02159,Rivera,Domingo,0,Jalisco,,B151
+1970TSN,1969,Mexican League,rivera.r-rey,B02168,Rivera,Rodolfo,0,Reynosa,,B6
+1970TSN,1969,Mexican League,rivera.d-jal,F20265,Rivera,,0,Jalisco,,1b5
+1970TSN,1969,Mexican League,rivera.d-jal,F20636,Rivera,,0,Jalisco,,2b141
+1970TSN,1969,Mexican League,rivera.d-jal,F22411,Rivera,,0,Jalisco,,of7
+1970TSN,1969,Mexican League,rivera.r-rey,F23928,Rivera,,0,Reynosa,,p6
+1970TSN,1969,Mexican League,rivera.d-jal,F24231,Rivera,D.,0,all,,ss
+1970TSN,1969,Mexican League,rivera.r-rey,P11128,Rivera,,0,Reynosa,,P6p
+1970TSN,1969,Mexican League,rivera.a-mty,B02145,Rivera R.,Andres,0,Monterrey,,B127
+1970TSN,1969,Mexican League,rivera.a-mty,F20547,Rivera R.,,0,Monterrey,,1b1
+1970TSN,1969,Mexican League,rivera.a-mty,F21811,Rivera R.,,0,Monterrey,,of114
+1970TSN,1969,Mexican League,rivera.a-mty,F24244,Rivera R.,,0,all,,p
+1970TSN,1969,Mexican League,rivera.a-mty,P11115,Rivera R.,,0,Monterrey,,P1p
+1970TSN,1969,Mexican League,robles.a-mcr,B02176,Robles,Alejandro,0,Mexico City Reds,,B15
+1970TSN,1969,Mexican League,robles.j-mct,B02184,Robles,Jesus,0,Mexico City Tigers,,B4
+1970TSN,1969,Mexican League,robles.a-mcr,F20316,Robles,,0,Mexico City Reds,,1b3
+1970TSN,1969,Mexican League,robles.a-mcr,F21667,Robles,,0,Mexico City Reds,,of14
+1970TSN,1969,Mexican League,robles.j-mct,F23875,Robles,,0,Mexico City Tigers,,p4
+1970TSN,1969,Mexican League,robles.j-mct,P11131,Robles,,0,Mexico City Tigers,,P4p
+1970TSN,1969,Mexican League,rodgers,B02192,Rodgers,Norbert,1,Jalisco,,B9
+1970TSN,1969,Mexican League,rodgers,B02192,Rodgers,Norbert,2,Reynosa,,B32
+1970TSN,1969,Mexican League,rodgers,B02192,Rodgers,Norbert,T,,,B41
+1970TSN,1969,Mexican League,rodgers,F23245,Rodgers,,1,Jalisco,,p
+1970TSN,1969,Mexican League,rodgers,F23245,Rodgers,,2,Reynosa,,p
+1970TSN,1969,Mexican League,rodgers,F23245,Rodgers,,T,,,p40
+1970TSN,1969,Mexican League,rodgers,P11144,Rodgers,,1,Jalisco,,P8p
+1970TSN,1969,Mexican League,rodgers,P11144,Rodgers,,2,Reynosa,,P32p
+1970TSN,1969,Mexican League,rodgers,P11144,Rodgers,,T,,,P40p
+1970TSN,1969,Mexican League,rodriguez.f-pue,B02202,Rodriguez,Federico,0,Puebla,,B11
+1970TSN,1969,Mexican League,rodriguez.f-ver,B02215,Rodriguez,Francisco,0,Veracruz,,B149
+1970TSN,1969,Mexican League,rodriguez.j-mcr,B02228,Rodriguez,Jacinto,0,Mexico City Reds,,B23
+1970TSN,1969,Mexican League,rodriguez.j-jal,B02231,Rodriguez,Jose,0,Jalisco,,B121
+1970TSN,1969,Mexican League,rodriguez.m-mcr,B02244,Rodriguez,Manuel,0,Mexico City Reds,,B2
+1970TSN,1969,Mexican League,rodriguez.o-rey,B02253,Rodriguez,Oscar,0,Reynosa,,B32
+1970TSN,1969,Mexican League,rodriguez.o-rey,F20327,Rodriguez,,0,Reynosa,,1b2
+1970TSN,1969,Mexican League,rodriguez.j-jal,F20391,Rodriguez,,0,Jalisco,,1b1
+1970TSN,1969,Mexican League,rodriguez.f-pue,F20784,Rodriguez,,0,Puebla,,2b3
+1970TSN,1969,Mexican League,rodriguez.j-jal,F20832,Rodriguez,,0,Jalisco,,2b1
+1970TSN,1969,Mexican League,rodriguez.o-rey,F21163,Rodriguez,,0,Reynosa,,3b4
+1970TSN,1969,Mexican League,rodriguez.f-ver,F21174,Rodriguez,,0,Veracruz,,3b4
+1970TSN,1969,Mexican League,rodriguez.f-ver,F21370,Rodriguez,,0,Veracruz,,ss148
+1970TSN,1969,Mexican League,rodriguez.f-pue,F21577,Rodriguez,,0,Puebla,,ss6
+1970TSN,1969,Mexican League,rodriguez.o-rey,F21651,Rodriguez,,0,Reynosa,,of28
+1970TSN,1969,Mexican League,rodriguez.j-jal,F21973,Rodriguez,,0,Jalisco,,of117
+1970TSN,1969,Mexican League,rodriguez.j-mcr,F22639,Rodriguez,J.,0,Mexico City Reds,,c23
+1970TSN,1969,Mexican League,rodriguez.m-mcr,F23888,Rodriguez,M.,0,Mexico City Reds,,p2
+1970TSN,1969,Mexican League,rodriguez.m-mcr,P11153,Rodriguez,M.,0,Mexico City Reds,,P2p
+1970TSN,1969,Mexican League,rojas,B02266,Rojas,Minervo,0,Jalisco,,B15
+1970TSN,1969,Mexican League,rojas,F23686,Rojas,,0,Jalisco,,p15
+1970TSN,1969,Mexican League,rojas,P11166,Rojas,,0,Jalisco,,P15p
+1970TSN,1969,Mexican League,romo,B02277,Romo,Enrique,0,Jalisco,,B37
+1970TSN,1969,Mexican League,romo,F23423,Romo,,0,Jalisco,,p33
+1970TSN,1969,Mexican League,romo,F24253,Romo,,0,all,,of
+1970TSN,1969,Mexican League,romo,P11177,Romo,,0,Jalisco,,P33p
+1970TSN,1969,Mexican League,rosas,B02289,Rosas,Clemente,0,Jalisco,,B8
+1970TSN,1969,Mexican League,rosas,F21286,Rosas,,0,Jalisco,,3b5
+1970TSN,1969,Mexican League,rosas,F22671,Rosas,,0,Jalisco,,c3
+1970TSN,1969,Mexican League,rubio.a-mcr,B02290,Rubio,Antonio,0,Mexico City Reds,,B95
+1970TSN,1969,Mexican League,rubio.j-rey,B02304,Rubio,Jorge,0,Reynosa,,B11
+1970TSN,1969,Mexican League,rubio.r-pue,B02312,Rubio,Ramiro,0,Puebla,,B147
+1970TSN,1969,Mexican League,rubio.a-mcr,F20943,Rubio,,0,Mexico City Reds,,2b1
+1970TSN,1969,Mexican League,rubio.r-pue,F21948,Rubio,,0,Puebla,,of146
+1970TSN,1969,Mexican League,rubio.a-mcr,F22020,Rubio,,0,Mexico City Reds,,of70
+1970TSN,1969,Mexican League,rubio.j-rey,F23664,Rubio,,0,Reynosa,,p10
+1970TSN,1969,Mexican League,rubio.j-rey,P11189,Rubio,,0,Reynosa,,P10p
+1970TSN,1969,Mexican League,ruelas,B02320,Ruelas,Heriberto,0,Mexico City Reds,,B43
+1970TSN,1969,Mexican League,ruelas,F23562,Ruelas,,0,Mexico City Reds,,p42
+1970TSN,1969,Mexican League,ruelas,F24266,Ruelas,,0,all,,1b
+1970TSN,1969,Mexican League,ruelas,P11190,Ruelas,,0,Mexico City Reds,,P42p
+1970TSN,1969,Mexican League,ruiz.i-pr,B02336,Ruiz,Ildefonso,0,Poza Rica,,B68
+1970TSN,1969,Mexican League,ruiz.p-ver,B02348,Ruiz,Porfirio,0,Veracruz,,B44
+1970TSN,1969,Mexican League,ruiz.r-mct,B02357,Ruiz,Roberto,0,Mexico City Tigers,,B7
+1970TSN,1969,Mexican League,ruiz.i-pr,F20067,Ruiz,,0,Poza Rica,,1b58
+1970TSN,1969,Mexican League,ruiz.p-ver,F22517,Ruiz,,0,Veracruz,,c44
+1970TSN,1969,Mexican League,ruiz.r-mct,F23869,Ruiz,,0,Mexico City Tigers,,p7
+1970TSN,1969,Mexican League,ruiz.r-mct,P11206,Ruiz,,0,Mexico City Tigers,,P7p
+1970TSN,1969,Mexican League,salazar.m-jal,B02361,Salazar,Mario,0,Jalisco,,B7
+1970TSN,1969,Mexican League,salazar.j-mcr,B02709,Salazar,Juan,0,Mexico City Reds,,B1
+1970TSN,1969,Mexican League,salazar.m-jal,F22378,Salazar,,0,Jalisco,,of3
+1970TSN,1969,Mexican League,salazar.j-mcr,F23931,Salazar,,0,Mexico City Reds,,p1
+1970TSN,1969,Mexican League,salazar.j-mcr,P11211,Salazar,,0,Mexico City Reds,,P1p
+1970TSN,1969,Mexican League,salinas.hec-ver+mcr,B02373,Salinas,Hector,1,Veracruz,,B10
+1970TSN,1969,Mexican League,salinas.hec-ver+mcr,B02373,Salinas,Hector,2,Mexico City Reds,,B9
+1970TSN,1969,Mexican League,salinas.hec-ver+mcr,B02373,Salinas,Hector,T,,,B19
+1970TSN,1969,Mexican League,salinas.hil-ver,B02385,Salinas,Hilario,0,Veracruz,,B77
+1970TSN,1969,Mexican League,salinas.jm-pue,B02399,Salinas,Juan Manuel,0,Puebla,,B119
+1970TSN,1969,Mexican League,salinas.hil-ver,F20375,Salinas,Hi.,0,Veracruz,,1b2
+1970TSN,1969,Mexican League,salinas.hil-ver,F21232,Salinas,Hi.,0,Veracruz,,3b1
+1970TSN,1969,Mexican League,salinas.jm-pue,F21362,Salinas,,0,Puebla,,ss119
+1970TSN,1969,Mexican League,salinas.hil-ver,F21752,Salinas,Hi.,0,Veracruz,,of42
+1970TSN,1969,Mexican League,salinas.hec-ver+mcr,F22004,Salinas,Hec.,1,Veracruz,,of
+1970TSN,1969,Mexican League,salinas.hec-ver+mcr,F22004,Salinas,Hec.,2,Mexico City Reds,,of
+1970TSN,1969,Mexican League,salinas.hec-ver+mcr,F22004,Salinas,Hec.,T,,,of16
+1970TSN,1969,Mexican League,salinas.hil-ver,F22501,Salinas,Hi.,0,Veracruz,,c33
+1970TSN,1969,Mexican League,salomon,B02826,Salomon,Saturnino,0,Reynosa,,B2
+1970TSN,1969,Mexican League,salomon,F24277,Salomon,,0,all,,p
+1970TSN,1969,Mexican League,salomon,P11222,Salomon,,0,Reynosa,,P2p
+1970TSN,1969,Mexican League,sanchez.c-mty,B02407,Sanchez,Carlos,0,Monterrey,,B39
+1970TSN,1969,Mexican League,sanchez.c-mct,B02410,Sanchez,Celerino,0,Mexico City Tigers,,B147
+1970TSN,1969,Mexican League,sanchez.s-rey,B02429,Sanchez,Salvador,0,Reynosa,,B49
+1970TSN,1969,Mexican League,sanchez.c-mct,F20095,Sanchez,,0,Mexico City Tigers,,1b28
+1970TSN,1969,Mexican League,sanchez.c-mct,F21045,Sanchez,,0,Mexico City Tigers,,3b100
+1970TSN,1969,Mexican League,sanchez.c-mct,F22150,Sanchez,,0,Mexico City Tigers,,of29
+1970TSN,1969,Mexican League,sanchez.c-mty,F23098,Sanchez,,0,Monterrey,,p39
+1970TSN,1969,Mexican League,sanchez.s-rey,F23157,Sanchez,,0,Reynosa,,p45
+1970TSN,1969,Mexican League,sanchez.c-mct,F24289,Sanchez,Celerino,0,all,,p
+1970TSN,1969,Mexican League,sanchez.c-mty,P11233,Sanchez,,0,Monterrey,,P39p
+1970TSN,1969,Mexican League,sanchez.c-mct,P11240,Sanchez,,0,Mexico City Tigers,,P1p
+1970TSN,1969,Mexican League,sanchez.s-rey,P11254,Sanchez,S.,0,Reynosa,,P45p
+1970TSN,1969,Mexican League,sandoval.c-mcr,B02432,Sandoval,Carlos,0,Mexico City Reds,,B90
+1970TSN,1969,Mexican League,sandoval.r-rey,B02441,Sandoval,Rodolfo,0,Reynosa,,B132
+1970TSN,1969,Mexican League,sandoval.r-pr,B02455,Sandoval,Rodrigo,0,Poza Rica,,B41
+1970TSN,1969,Mexican League,sandoval.r-rey,F20518,Sandoval,,0,Reynosa,,1b6
+1970TSN,1969,Mexican League,sandoval.c-mcr,F20997,Sandoval,,0,Mexico City Reds,,3b90
+1970TSN,1969,Mexican League,sandoval.r-rey,F22454,Sandoval,,0,Reynosa,,c123
+1970TSN,1969,Mexican League,sandoval.r-pr,F23480,Sandoval,,0,Poza Rica,,p41
+1970TSN,1969,Mexican League,sandoval.r-pr,P11265,Sandoval,,0,Poza Rica,,P41p
+1970TSN,1969,Mexican League,santos,B02464,Santos,Tobias,0,Veracruz,,B1
+1970TSN,1969,Mexican League,sosa.e-pr,B02478,Sosa,Emilio,0,Poza Rica,,B155
+1970TSN,1969,Mexican League,sosa.g-ver,B02486,Sosa,German,0,Veracruz,,B24
+1970TSN,1969,Mexican League,sosa.e-pr,F20919,Sosa,,0,Poza Rica,,2b2
+1970TSN,1969,Mexican League,sosa.e-pr,F21255,Sosa,,0,Poza Rica,,3b1
+1970TSN,1969,Mexican League,sosa.e-pr,F21747,Sosa,,0,Poza Rica,,of150
+1970TSN,1969,Mexican League,sosa.e-pr,F22762,Sosa,,0,Poza Rica,,c2
+1970TSN,1969,Mexican League,sosa.g-ver,F22959,Sosa,,0,Veracruz,,p24
+1970TSN,1969,Mexican League,sosa.g-ver,P11279,Sosa,,0,Veracruz,,P24p
+1970TSN,1969,Mexican League,sotelo,M90107,Sotelo,Miguel,,Reynosa,,
+1970TSN,1969,Mexican League,soto,B02493,Soto,Jose,0,Poza Rica,,B69
+1970TSN,1969,Mexican League,soto,F20458,Soto,,0,Poza Rica,,1b1
+1970TSN,1969,Mexican League,soto,F21957,Soto,,0,Poza Rica,,of19
+1970TSN,1969,Mexican League,soto,F23409,Soto,,0,Poza Rica,,p31
+1970TSN,1969,Mexican League,soto,P11287,Soto,,0,Poza Rica,,P31p
+1970TSN,1969,Mexican League,suby,B02503,Suby,Juan,0,Mexico City Tigers,,B66
+1970TSN,1969,Mexican League,suby,F23087,Suby,,0,Mexico City Tigers,,p66
+1970TSN,1969,Mexican League,suby,P11298,Suby,,0,Mexico City Tigers,,P66p
+1970TSN,1969,Mexican League,tiburcio,B02516,Tiburcio,Edgar,0,Mexico City Tigers,,B95
+1970TSN,1969,Mexican League,tiburcio,F22246,Tiburcio,,0,Mexico City Tigers,,of6
+1970TSN,1969,Mexican League,tiburcio,F22647,Tiburcio,,0,Mexico City Tigers,,c58
+1970TSN,1969,Mexican League,tovar,B02527,Tovar,Jose de Jesus,0,Mexico City Tigers,,B82
+1970TSN,1969,Mexican League,tovar,F20841,Tovar,,0,Mexico City Tigers,,2b1
+1970TSN,1969,Mexican League,tovar,F21488,Tovar,,0,Mexico City Tigers,,ss70
+1970TSN,1969,Mexican League,uriarte,B02534,Uriarte,Manuel,0,Jalisco,,B14
+1970TSN,1969,Mexican League,uriarte,F23678,Uriarte,,0,Jalisco,,p10
+1970TSN,1969,Mexican League,uriarte,P11303,Uriarte,,0,Jalisco,,P10p
+1970TSN,1969,Mexican League,urias,B02542,Urias,Eladio,0,Jalisco,,B13
+1970TSN,1969,Mexican League,urias,F24290,Urias,,0,all,,of
+1970TSN,1969,Mexican League,uzcanga,B02550,Uzcanga,Lazaro,0,Puebla,,B53
+1970TSN,1969,Mexican League,uzcanga,F23519,Uzcanga,,0,Puebla,,p53
+1970TSN,1969,Mexican League,uzcanga,P11316,Uzcanga,,0,Puebla,,P53p
+1970TSN,1969,Mexican League,valenzuela,B02569,Valenzuela,Alejandro,0,Veracruz,,B4
+1970TSN,1969,Mexican League,valenzuela,F22295,Valenzuela,,0,Veracruz,,of2
+1970TSN,1969,Mexican League,vazquez,B02575,Vazquez,Nicolas,1,Mexico City Reds,,B37
+1970TSN,1969,Mexican League,vazquez,B02575,Vazquez,Nicolas,2,Veracruz,,B62
+1970TSN,1969,Mexican League,vazquez,B02575,Vazquez,Nicolas,T,,,B99
+1970TSN,1969,Mexican League,vazquez,F22073,Vazquez,,1,Mexico City Reds,,of
+1970TSN,1969,Mexican League,vazquez,F22073,Vazquez,,2,Veracruz,,of
+1970TSN,1969,Mexican League,vazquez,F22073,Vazquez,,T,,,of98
+1970TSN,1969,Mexican League,vega,B02588,Vega,Abelardo,0,Mexico City Reds,,B44
+1970TSN,1969,Mexican League,vega,F21068,Vega,,0,Mexico City Reds,,3b29
+1970TSN,1969,Mexican League,vega,F22267,Vega,,0,Mexico City Reds,,of2
+1970TSN,1969,Mexican League,velazquez.m-mcr,B02591,Velazquez,Manuel,0,Mexico City Reds,,B40
+1970TSN,1969,Mexican League,velazquez.r-ver,B02687,Velazquez,Rafael,0,Veracruz,,B2
+1970TSN,1969,Mexican League,velazquez.m-mcr,F23535,Velazquez,,0,Mexico City Reds,,p38
+1970TSN,1969,Mexican League,velazquez.m-mcr,F24304,Velazquez,M.,0,all,,1b
+1970TSN,1969,Mexican League,velazquez.r-ver,F24312,Velazquez,R.,0,all,,p
+1970TSN,1969,Mexican League,velazquez.m-mcr,P11327,Velazquez,,0,Mexico City Reds,,P38p
+1970TSN,1969,Mexican League,velazquez.r-ver,P11334,Velazquez,,0,Veracruz,,P2p
+1970TSN,1969,Mexican League,velez,B02606,Velez,Juan Enrique,0,Puebla,,B8
+1970TSN,1969,Mexican League,velez,F21590,Velez,,0,Puebla,,ss3
+1970TSN,1969,Mexican League,verdugo,B02611,Verdugo,Enrique,0,Mexico City Tigers,,B72
+1970TSN,1969,Mexican League,verdugo,F20560,Verdugo,,0,Mexico City Tigers,,2b19
+1970TSN,1969,Mexican League,verdugo,F20962,Verdugo,,0,Mexico City Tigers,,3b35
+1970TSN,1969,Mexican League,verdugo,F21623,Verdugo,,0,Mexico City Tigers,,ss4
+1970TSN,1969,Mexican League,vichel,B02738,Vichel,Lucio,0,Monterrey,,B4
+1970TSN,1969,Mexican League,vichel,F24320,Vichel,,0,all,,p
+1970TSN,1969,Mexican League,vichel,P11342,Vichel,,0,Monterrey,,P4p
+1970TSN,1969,Mexican League,villa,B02746,Villa,Alberto,0,Monterrey,,B1
+1970TSN,1969,Mexican League,villa,F24336,Villa,,0,all,,p
+1970TSN,1969,Mexican League,villa,P11350,Villa,,0,Monterrey,,P1p
+1970TSN,1969,Mexican League,villalobos,B02622,Villalobos,Gonzalo,0,Reynosa,,B124
+1970TSN,1969,Mexican League,villalobos,F21887,Villalobos,,0,Reynosa,,of116
+1970TSN,1969,Mexican League,villarreal,B02633,Villarreal,Juan de Dios,0,Monterrey,,B127
+1970TSN,1969,Mexican League,villarreal,F22530,Villarreal,,0,Monterrey,,c123
+1970TSN,1969,Mexican League,villegas,B02640,Villegas,Jose,0,Poza Rica,,B20
+1970TSN,1969,Mexican League,villegas,F20482,Villegas,,0,Poza Rica,,1b6
+1970TSN,1969,Mexican League,villegas,F22660,Villegas,,0,Poza Rica,,c9
+1970TSN,1969,Mexican League,welch,B02654,Welch,Rodolfo,1,Poza Rica,,B53
+1970TSN,1969,Mexican League,welch,B02654,Welch,Rodolfo,2,Veracruz,,B22
+1970TSN,1969,Mexican League,welch,B02654,Welch,Rodolfo,T,,,B75
+1970TSN,1969,Mexican League,welch,F20401,Welch,,1,Poza Rica,,1b
+1970TSN,1969,Mexican League,welch,F20401,Welch,,2,Veracruz,,1b
+1970TSN,1969,Mexican League,welch,F20401,Welch,,T,,,1b3
+1970TSN,1969,Mexican League,welch,F22048,Welch,,1,Poza Rica,,of
+1970TSN,1969,Mexican League,welch,F22048,Welch,,2,Veracruz,,of
+1970TSN,1969,Mexican League,welch,F22048,Welch,,T,,,of57
+1970TSN,1969,Mexican League,welch,F22574,Welch,,1,Poza Rica,,c
+1970TSN,1969,Mexican League,welch,F22574,Welch,,2,Veracruz,,c
+1970TSN,1969,Mexican League,welch,F22574,Welch,,T,,,c13
+1970TSN,1969,Mexican League,zamudio,B02665,Zamudio,Hector,0,Mexico City Tigers,,B78
+1970TSN,1969,Mexican League,zamudio,F21760,Zamudio,,0,Mexico City Tigers,,of78
+1970TSN,1969,Mexican League,zazueta,B02679,Zazueta,Alejandro,0,Reynosa,,B82
+1970TSN,1969,Mexican League,zazueta,F20417,Zazueta,,0,Reynosa,,1b1
+1970TSN,1969,Mexican League,zazueta,F21879,Zazueta,,0,Reynosa,,of69

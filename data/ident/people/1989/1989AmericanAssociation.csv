@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1989,American Association,M90026,Collins,Terry,,Buffalo,,,
-emilbb,1989,American Association,M90047,Jorgensen,Mike,,Louisville,,,
-emilbb,1989,American Association,M90039,Lucchesi,Frank,,Nashville,,,
-emilbb,1989,American Association,M90060,Machemer,Dave,,Denver,,,
-emilbb,1989,American Association,M90071,Mackanin,Pete,,Iowa,,,
-emilbb,1989,American Association,M90052,Rende,Sal,,Omaha,,,
-emilbb,1989,American Association,M90018,Runnells,Tom,,Indianapolis,,,
-emilbb,1989,American Association,M90083,Skaalen,Jim,,Oklahoma City,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1989,American Association,,M90026,Collins,Terry,,Buffalo,,
+emilbb,1989,American Association,,M90047,Jorgensen,Mike,,Louisville,,
+emilbb,1989,American Association,,M90039,Lucchesi,Frank,,Nashville,,
+emilbb,1989,American Association,,M90060,Machemer,Dave,,Denver,,
+emilbb,1989,American Association,,M90071,Mackanin,Pete,,Iowa,,
+emilbb,1989,American Association,,M90052,Rende,Sal,,Omaha,,
+emilbb,1989,American Association,,M90018,Runnells,Tom,,Indianapolis,,
+emilbb,1989,American Association,,M90083,Skaalen,Jim,,Oklahoma City,,

@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1988,Northwest League,M91562,Beyers,Tom,,Salem,,,beyers
-emilbb,1988,Northwest League,M91543,Carey,P. J.,,Bellingham,,,carey
-emilbb,1988,Northwest League,M91535,Fichman,Mal,,Boise,,,fichman
-emilbb,1988,Northwest League,M91581,Kirsch,Paul,,Eugene,,,kirsch
-emilbb,1988,Northwest League,M91570,Long,Don,,Bend,,,long
-emilbb,1988,Northwest League,M91519,Lubratich,Steve,,Spokane,,,lubratich
-emilbb,1988,Northwest League,M91556,Sakata,Lenn,,Southern Oregon,,,sakata
-emilbb,1988,Northwest League,M91524,Strain,Joe,,Everett,,,strain
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1988,Northwest League,beyers,M91562,Beyers,Tom,,Salem,,
+emilbb,1988,Northwest League,carey,M91543,Carey,P. J.,,Bellingham,,
+emilbb,1988,Northwest League,fichman,M91535,Fichman,Mal,,Boise,,
+emilbb,1988,Northwest League,kirsch,M91581,Kirsch,Paul,,Eugene,,
+emilbb,1988,Northwest League,long,M91570,Long,Don,,Bend,,
+emilbb,1988,Northwest League,lubratich,M91519,Lubratich,Steve,,Spokane,,
+emilbb,1988,Northwest League,sakata,M91556,Sakata,Lenn,,Southern Oregon,,
+emilbb,1988,Northwest League,strain,M91524,Strain,Joe,,Everett,,

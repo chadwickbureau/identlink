@@ -1,543 +1,543 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-1910Spalding,1909,Texas League,B00794,Ables,,0,San Antonio,,B40,ables
-1910Spalding,1909,Texas League,F21229,Ables,,0,San Antonio,,p40,ables
-1910Spalding,1909,Texas League,P10100,Ables,,0,San Antonio,,P36,ables
-1910Spalding,1909,Texas League,F21771,Adams,,0,San Antonio,,c11,adams
-1910Spalding,1909,Texas League,B00912,Alexander,,0,San Antonio,,B112,alexander
-1910Spalding,1909,Texas League,F21752,Alexander,,0,San Antonio,,c67,alexander
-1910Spalding,1909,Texas League,B00092,Andrews,,0,Oklahoma City,,B77,andrews
-1910Spalding,1909,Texas League,F20391,Andrews,,0,Oklahoma City,,3b77,andrews
-1910Spalding,1909,Texas League,B00760,Badger,,1,Galveston,,,badger
-1910Spalding,1909,Texas League,B00760,Badger,,2,Houston,,,badger
-1910Spalding,1909,Texas League,B00760,Badger,,T,,,B145,badger
-1910Spalding,1909,Texas League,F20102,Badger,,1,Galveston,,1b,badger
-1910Spalding,1909,Texas League,F20102,Badger,,2,Houston,,1b,badger
-1910Spalding,1909,Texas League,F20102,Badger,,T,,,1b80,badger
-1910Spalding,1909,Texas League,F20458,Badger,,1,Galveston,,3b,badger
-1910Spalding,1909,Texas League,F20458,Badger,,2,Houston,,3b,badger
-1910Spalding,1909,Texas League,F20458,Badger,,T,,,3b65,badger
-1910Spalding,1909,Texas League,B01010,Bandy,,0,Oklahoma City,,B58,bandy
-1910Spalding,1909,Texas League,F20878,Bandy,,0,Oklahoma City,,cf11,bandy
-1910Spalding,1909,Texas League,F21335,Bandy,,0,Oklahoma City,,p58,bandy
-1910Spalding,1909,Texas League,P10202,Bandy,,0,Oklahoma City,,P46,bandy
-1910Spalding,1909,Texas League,B01337,Barenkamp,,0,Waco,,B33,barenkamp
-1910Spalding,1909,Texas League,F21528,Barenkamp,,0,Waco,,p33,barenkamp
-1910Spalding,1909,Texas League,P10478,Barenkamp,,0,Waco,,P29,barenkamp
-1910Spalding,1909,Texas League,B00475,Bastian,,0,San Antonio,,B133,bastian
-1910Spalding,1909,Texas League,F20115,Bastian,,0,San Antonio,,1b133,bastian
-1910Spalding,1909,Texas League,B01029,Bauer,,0,Shreveport,,B28,bauer
-1910Spalding,1909,Texas League,F21278,Bauer,,0,Shreveport,,p28,bauer
-1910Spalding,1909,Texas League,P10253,Bauer,,0,Shreveport,,P23,bauer
-1910Spalding,1909,Texas League,B01345,Beeker,,0,Shreveport,,B28,beeker
-1910Spalding,1909,Texas League,F21182,Beeker,,0,Shreveport,,p28,beeker
-1910Spalding,1909,Texas League,P10361,Beeker,,0,Shreveport,,P28,beeker
-1910Spalding,1909,Texas League,B00370,Bell,,1,Houston,,,bell
-1910Spalding,1909,Texas League,B00370,Bell,,2,Oklahoma City,,,bell
-1910Spalding,1909,Texas League,B00370,Bell,,T,,,B86,bell
-1910Spalding,1909,Texas League,F20316,Bell,,0,Oklahoma City,,2b51,bell
-1910Spalding,1909,Texas League,F20721,Bell,,1,Houston,,ss,bell
-1910Spalding,1909,Texas League,F20721,Bell,,2,Oklahoma City,,ss,bell
-1910Spalding,1909,Texas League,F20721,Bell,,T,,,ss30,bell
-1910Spalding,1909,Texas League,B00695,Besse,,0,Shreveport,,B19,besse
-1910Spalding,1909,Texas League,F20864,Besse,,0,Shreveport,,lf19,besse
-1910Spalding,1909,Texas League,F21076,Blakeley,,0,Houston,,rf90,blakely
-1910Spalding,1909,Texas League,B00117,Blakely,,0,Houston,,B90,blakely
-1910Spalding,1909,Texas League,B01477,Blakeney,,1,Houston,,,blakeney
-1910Spalding,1909,Texas League,B01477,Blakeney,,2,Shreveport,,,blakeney
-1910Spalding,1909,Texas League,B01477,Blakeney,,3,Waco,,,blakeney
-1910Spalding,1909,Texas League,B01477,Blakeney,,T,,,B20,blakeney
-1910Spalding,1909,Texas League,F21488,Blakeney,,1,Houston,,p,blakeney
-1910Spalding,1909,Texas League,F21488,Blakeney,,2,Shreveport,,p,blakeney
-1910Spalding,1909,Texas League,F21488,Blakeney,,3,Waco,,p,blakeney
-1910Spalding,1909,Texas League,F21488,Blakeney,,T,,,p20,blakeney
-1910Spalding,1909,Texas League,P10290,Blakeney,,1,Houston,,,blakeney
-1910Spalding,1909,Texas League,P10290,Blakeney,,2,Shreveport,,,blakeney
-1910Spalding,1909,Texas League,P10290,Blakeney,,3,Waco,,,blakeney
-1910Spalding,1909,Texas League,P10290,Blakeney,,T,,,P19,blakeney
-1910Spalding,1909,Texas League,B00515,Booles,,0,Shreveport,,B26,booles
-1910Spalding,1909,Texas League,F21381,Booles,,0,Shreveport,,p26,booles
-1910Spalding,1909,Texas League,P10266,Booles,,0,Shreveport,,P19,booles
-1910Spalding,1909,Texas League,B01291,Bradford,,1,San Antonio,,,bradford
-1910Spalding,1909,Texas League,B01291,Bradford,,2,Galveston,,,bradford
-1910Spalding,1909,Texas League,B01291,Bradford,,T,,,B18,bradford
-1910Spalding,1909,Texas League,F21609,Bradford,,1,San Antonio,,p,bradford
-1910Spalding,1909,Texas League,F21609,Bradford,,2,Galveston,,p,bradford
-1910Spalding,1909,Texas League,F21609,Bradford,,T,,,p18,bradford
-1910Spalding,1909,Texas League,P10455,Bradford,,1,San Antonio,,,bradford
-1910Spalding,1909,Texas League,P10455,Bradford,,2,Galveston,,,bradford
-1910Spalding,1909,Texas League,P10455,Bradford,,T,,,P17,bradford
-1910Spalding,1909,Texas League,B00427,Bradley,,1,Galveston,,,bradley
-1910Spalding,1909,Texas League,B00427,Bradley,,2,Waco,,,bradley
-1910Spalding,1909,Texas League,B00427,Bradley,,T,,,B125,bradley
-1910Spalding,1909,Texas League,F20841,Bradley,,1,Galveston,,lf,bradley
-1910Spalding,1909,Texas League,F20841,Bradley,,2,Waco,,lf,bradley
-1910Spalding,1909,Texas League,F20841,Bradley,,T,,,lf125,bradley
-1910Spalding,1909,Texas League,B00397,Brady,,0,Fort Worth,,B16,brady
-1910Spalding,1909,Texas League,F21502,Brady,,0,Fort Worth,,p16,brady
-1910Spalding,1909,Texas League,P10215,Brady,,0,Fort Worth,,P16,brady
-1910Spalding,1909,Texas League,B01234,Burke,,0,Fort Worth,,B45,burke
-1910Spalding,1909,Texas League,F21590,Burke,,0,Fort Worth,,p45,burke
-1910Spalding,1909,Texas League,P10385,Burke,,0,Fort Worth,,P41,burke
-1910Spalding,1909,Texas League,B01086,Burnett,,0,Dallas,,B19,burnett
-1910Spalding,1909,Texas League,F21286,Burnett,,0,Dallas,,p19,burnett
-1910Spalding,1909,Texas League,P10043,Burns,,0,Dallas,,P18,burnett
-1910Spalding,1909,Texas League,B00553,Carlin,,0,Galveston,,B94,carlin
-1910Spalding,1909,Texas League,F20303,Carlin,,0,Galveston,,2b94,carlin
-1910Spalding,1909,Texas League,B00718,Cavender,,0,Fort Worth,,B146,cavender
-1910Spalding,1909,Texas League,F20935,Cavender,,0,Fort Worth,,cf146,cavender
-1910Spalding,1909,Texas League,B01428,Chellette,,0,Oklahoma City,,B13,chellette
-1910Spalding,1909,Texas League,F21149,Chellette,,0,Oklahoma City,,p13,chellette
-1910Spalding,1909,Texas League,P10024,Chellette,,0,Oklahoma City,,P13,chellette
-1910Spalding,1909,Texas League,B00651,Claire,,0,Shreveport,,B112,claire
-1910Spalding,1909,Texas League,F20375,Claire,,0,Shreveport,,3b41,claire
-1910Spalding,1909,Texas League,F20571,Claire,,0,Shreveport,,ss71,claire
-1910Spalding,1909,Texas League,B00229,Connaway,,0,Dallas,,B131,connaway
-1910Spalding,1909,Texas League,F20072,Connaway,,0,Dallas,,1b131,connaway
-1910Spalding,1909,Texas League,B01368,Cooper,,1,Galveston,,,cooper
-1910Spalding,1909,Texas League,B01368,Cooper,,2,Waco,,,cooper
-1910Spalding,1909,Texas League,B01368,Cooper,,T,,,B32,cooper
-1910Spalding,1909,Texas League,F21442,Cooper,,1,Galveston,,p,cooper
-1910Spalding,1909,Texas League,F21442,Cooper,,2,Waco,,p,cooper
-1910Spalding,1909,Texas League,F21442,Cooper,,T,,,p32,cooper
-1910Spalding,1909,Texas League,P10373,Cooper,,1,Galveston,,,cooper
-1910Spalding,1909,Texas League,P10373,Cooper,,2,Waco,,,cooper
-1910Spalding,1909,Texas League,P10373,Cooper,,T,,,P30,cooper
-1910Spalding,1909,Texas League,B00286,Corkill,,1,Galveston,,,corkill
-1910Spalding,1909,Texas League,B00286,Corkill,,2,Houston,,,corkill
-1910Spalding,1909,Texas League,B00286,Corkill,,T,,,B138,corkill
-1910Spalding,1909,Texas League,F21037,Corkill,,1,Galveston,,rf,corkill
-1910Spalding,1909,Texas League,F21037,Corkill,,2,Houston,,rf,corkill
-1910Spalding,1909,Texas League,F21037,Corkill,,T,,,rf138,corkill
-1910Spalding,1909,Texas League,B00434,Cowan,,1,Shreveport,,,cowan
-1910Spalding,1909,Texas League,B00434,Cowan,,2,Houston,,,cowan
-1910Spalding,1909,Texas League,B00434,Cowan,,3,Waco,,,cowan
-1910Spalding,1909,Texas League,B00434,Cowan,,T,,,B52,cowan
-1910Spalding,1909,Texas League,F20526,Cowan,,1,San Antonio,,3b,cowan
-1910Spalding,1909,Texas League,F20526,Cowan,,2,Shreveport,,3b,cowan
-1910Spalding,1909,Texas League,F20526,Cowan,,T,,,3b25,cowan
-1910Spalding,1909,Texas League,F20636,Cowan,,1,San Antonio,,ss,cowan
-1910Spalding,1909,Texas League,F20636,Cowan,,2,Shreveport,,ss,cowan
-1910Spalding,1909,Texas League,F20636,Cowan,,T,,,ss19,cowan
-1910Spalding,1909,Texas League,B00196,Coyle,,1,Fort Worth,,,coyle
-1910Spalding,1909,Texas League,B00196,Coyle,,2,Houston,,,coyle
-1910Spalding,1909,Texas League,B00196,Coyle,,T,,,B73,coyle
-1910Spalding,1909,Texas League,F21092,Coyle,,1,Fort Worth,,rf,coyle
-1910Spalding,1909,Texas League,F21092,Coyle,,2,Houston,,rf,coyle
-1910Spalding,1909,Texas League,F21092,Coyle,,T,,,rf65,coyle
-1910Spalding,1909,Texas League,B01275,Crabble,,0,Galveston,,B42,crabble
-1910Spalding,1909,Texas League,F21614,Crabble,,0,Galveston,,p42,crabble
-1910Spalding,1909,Texas League,P10441,Crabble,,0,Galveston,,P42,crabble
-1910Spalding,1909,Texas League,B01453,Crowson,,0,Oklahoma City,,B16,crowson
-1910Spalding,1909,Texas League,F21491,Crowson,,0,Oklahoma City,,p16,crowson
-1910Spalding,1909,Texas League,P10399,Crowson,,0,Oklahoma City,,P15,crowson
-1910Spalding,1909,Texas League,B01162,Deiters,,1,Waco,,,deiters
-1910Spalding,1909,Texas League,B01162,Deiters,,2,Houston,,,deiters
-1910Spalding,1909,Texas League,B01162,Deiters,,T,,,B108,deiters
-1910Spalding,1909,Texas League,F20505,Deiters,,1,Waco,,3b,deiters
-1910Spalding,1909,Texas League,F20505,Deiters,,2,Houston,,3b,deiters
-1910Spalding,1909,Texas League,F20505,Deiters,,T,,,3b108,deiters
-1910Spalding,1909,Texas League,B00013,Downey,,0,Oklahoma City,,B134,downey
-1910Spalding,1909,Texas League,F20807,Downey,,0,Oklahoma City,,lf134,downey
-1910Spalding,1909,Texas League,B00590,Drohan,,0,Oklahoma City,,B38,drohan
-1910Spalding,1909,Texas League,F21241,Drohan,,0,Oklahoma City,,p38,drohan
-1910Spalding,1909,Texas League,P10056,Drohan,,0,Oklahoma City,,P37,drohan
-1910Spalding,1909,Texas League,B01156,Drucke,L.,0,Dallas,,B28,drucke.l
-1910Spalding,1909,Texas League,F21450,Drucke,L.,0,Dallas,,p28,drucke.l
-1910Spalding,1909,Texas League,F21680,Drucke,O.,0,Dallas,,c11,drucke.o
-1910Spalding,1909,Texas League,P10019,Drucke,L.,0,Dallas,,P25,drucke.l
-1910Spalding,1909,Texas League,B00416,Dugey,,0,Waco,,B106,dugey
-1910Spalding,1909,Texas League,F20279,Dugey,,0,Waco,,2b53,dugey
-1910Spalding,1909,Texas League,F20518,Dugey,,0,Waco,,3b37,dugey
-1910Spalding,1909,Texas League,F20699,Dugey,,0,Waco,,ss16,dugey
-1910Spalding,1909,Texas League,B00609,Eberline,,0,Fort Worth,,B72,eberline
-1910Spalding,1909,Texas League,F20038,Eberline,,0,Fort Worth,,1b72,eberline
-1910Spalding,1909,Texas League,B00566,Emory,,0,Oklahoma City,,B140,emory
-1910Spalding,1909,Texas League,F20206,Emory,,0,Oklahoma City,,2b67,emory
-1910Spalding,1909,Texas League,F20350,Emory,,0,Oklahoma City,,3b54,emory
-1910Spalding,1909,Texas League,B00811,Fillman,,0,Fort Worth,,B136,fillman
-1910Spalding,1909,Texas League,F20463,Fillman,,0,Fort Worth,,3b136,fillman
-1910Spalding,1909,Texas League,B00840,Firestine,,0,San Antonio,,B146,firestine
-1910Spalding,1909,Texas League,F20388,Firestine,,0,San Antonio,,3b146,firestine
-1910Spalding,1909,Texas League,B00125,Folbre,,0,San Antonio,,B30,folbre
-1910Spalding,1909,Texas League,F21158,Folbre,,0,San Antonio,,p12,folbre
-1910Spalding,1909,Texas League,P10336,Folbre,,0,San Antonio,,P11,folbre
-1910Spalding,1909,Texas League,B00920,Forney,,0,Fort Worth,,B19,forney
-1910Spalding,1909,Texas League,F21672,Forney,,0,Fort Worth,,c19,forney
-1910Spalding,1909,Texas League,B00045,Franz,,0,San Antonio,,B24,franz
-1910Spalding,1909,Texas League,F20023,Franz,,0,San Antonio,,1b24,franz
-1910Spalding,1909,Texas League,B00999,Garber,,0,Galveston,,B17,garber
-1910Spalding,1909,Texas League,F21544,Garber,,0,Galveston,,p17,garber
-1910Spalding,1909,Texas League,P10228,Garber,,0,Galveston,,P17,garber
-1910Spalding,1909,Texas League,B00059,Gardner,,0,Shreveport,,B69,gardner
-1910Spalding,1909,Texas League,F21045,Gardner,,0,Shreveport,,rf69,gardner
-1910Spalding,1909,Texas League,B00705,Garvin,,0,Shreveport,,B97,garvin
-1910Spalding,1909,Texas League,F21638,Garvin,,0,Shreveport,,c97,garvin
-1910Spalding,1909,Texas League,B00174,Gear,,0,Shreveport,,B141,gear
-1910Spalding,1909,Texas League,F20784,Gear,,0,Shreveport,,lf141,gear
-1910Spalding,1909,Texas League,B00130,Gilks,,0,Galveston,,B28,gilks
-1910Spalding,1909,Texas League,B00865,Gnadiner,,0,Waco,,B28,gnadiner
-1910Spalding,1909,Texas League,F20855,Gnadiner,,0,Waco,,lf28,gnadiner
-1910Spalding,1909,Texas League,B01135,Gordon,,0,Houston,,B81,gordon
-1910Spalding,1909,Texas League,F21747,Gordon,,0,Houston,,c81,gordon
-1910Spalding,1909,Texas League,B01064,Gray,,0,Shreveport,,B15,gray
-1910Spalding,1909,Texas League,B00973,Green,,0,Fort Worth,,B60,green
-1910Spalding,1909,Texas League,F21794,Green,,0,Fort Worth,,c60,green
-1910Spalding,1909,Texas League,B00961,Harbison,,0,Waco,,B121,harbison
-1910Spalding,1909,Texas League,F20080,Harbison,,0,Waco,,1b40,harbison
-1910Spalding,1909,Texas League,F20298,Harbison,,0,Waco,,2b81,harbison
-1910Spalding,1909,Texas League,B00182,Harmon,,0,Shreveport,,B21,harmon
-1910Spalding,1909,Texas League,F21566,Harmon,,0,Shreveport,,p21,harmon
-1910Spalding,1909,Texas League,P10081,Harmon,,0,Shreveport,,P16,harmon
-1910Spalding,1909,Texas League,B01509,Harris,,0,San Antonio,,B12,harris
-1910Spalding,1909,Texas League,F21403,Harris,,0,San Antonio,,p12,harris
-1910Spalding,1909,Texas League,P10486,Harris,,0,San Antonio,,P12,harris
-1910Spalding,1909,Texas League,B00623,Hellman,,0,Galveston,,B125,hellman
-1910Spalding,1909,Texas League,F20014,Hellman,,0,Galveston,,1b25,hellman
-1910Spalding,1909,Texas League,F20222,Hellman,,0,Galveston,,2b32,hellman
-1910Spalding,1909,Texas League,F20737,Hellman,,0,Galveston,,lf11,hellman
-1910Spalding,1909,Texas League,F21207,Hellman,,0,Galveston,,p18,hellman
-1910Spalding,1909,Texas League,F21806,Hellman,,0,Galveston,,c36,hellman
-1910Spalding,1909,Texas League,P10493,Hellman,,0,Galveston,,P17,hellman
-1910Spalding,1909,Texas League,B00957,Henninger,,0,Shreveport,,B37,henninger
-1910Spalding,1909,Texas League,F21667,Henninger,,0,Shreveport,,c37,henninger
-1910Spalding,1909,Texas League,B00879,Herbert,,0,Waco,,B48,herbert
-1910Spalding,1909,Texas League,F21397,Herbert,,0,Waco,,p48,herbert
-1910Spalding,1909,Texas League,P10357,Herbert,,0,Waco,,P39,herbert
-1910Spalding,1909,Texas League,B01431,Hilding,,0,Shreveport,,B16,hilding
-1910Spalding,1909,Texas League,F21623,Hilding,,0,Shreveport,,c16,hilding
-1910Spalding,1909,Texas League,B00319,Hill,,0,Houston,,B137,hill
-1910Spalding,1909,Texas League,F20425,Hill,,0,Houston,,3b26,hill
-1910Spalding,1909,Texas League,F20583,Hill,,0,Houston,,ss111,hill
-1910Spalding,1909,Texas League,B00241,Hoffman,,0,Galveston,,B112,hoffman-gal
-1910Spalding,1909,Texas League,B01203,Hoffman,,0,Galveston,,B33,hoffman-shr+wac
-1910Spalding,1909,Texas League,F20401,Hoffman,,1,Shreveport,,3b,hoffman-shr+wac
-1910Spalding,1909,Texas League,F20401,Hoffman,,2,Waco,,3b,hoffman-shr+wac
-1910Spalding,1909,Texas League,F20401,Hoffman,,T,,,3b33,hoffman-shr+wac
-1910Spalding,1909,Texas League,F20956,Hoffman,,0,Galveston,,cf112,hoffman-gal
-1910Spalding,1909,Texas League,B01489,Holmes,,0,Waco,,B26,holmes
-1910Spalding,1909,Texas League,F21577,Holmes,,0,Waco,,p26,holmes
-1910Spalding,1909,Texas League,P10432,Holmes,,0,Waco,,P26,holmes
-1910Spalding,1909,Texas League,B01242,Hornsby,,0,Houston,,B39,hornsby
-1910Spalding,1909,Texas League,F21434,Hornsby,,0,Houston,,p37,hornsby
-1910Spalding,1909,Texas League,P10145,Hornsby,,0,Houston,,P37,hornsby
-1910Spalding,1909,Texas League,B00207,Jackson,,0,Dallas,,B129,jackson
-1910Spalding,1909,Texas League,F20482,Jackson,,0,Dallas,,3b20,jackson
-1910Spalding,1909,Texas League,F20657,Jackson,,0,Dallas,,ss22,jackson
-1910Spalding,1909,Texas League,F21059,Jackson,,0,Dallas,,rf103,jackson
-1910Spalding,1909,Texas League,B00343,James,,1,Shreveport,,,james
-1910Spalding,1909,Texas League,B00343,James,,2,Waco,,,james
-1910Spalding,1909,Texas League,B00343,James,,T,,,B139,james
-1910Spalding,1909,Texas League,F20981,James,,1,Shreveport,,cf,james
-1910Spalding,1909,Texas League,F20981,James,,2,Waco,,cf,james
-1910Spalding,1909,Texas League,F20981,James,,T,,,cf139,james
-1910Spalding,1909,Texas League,B00680,Johnson,,0,Waco,,B38,johnson-wac
-1910Spalding,1909,Texas League,B01466,Johnson,,0,Galveston,,B38,johnson-gal
-1910Spalding,1909,Texas League,F20594,Johnson,,0,Waco,,ss38,johnson-wac
-1910Spalding,1909,Texas League,F21163,Johnson,,0,Galveston,,p38,johnson-gal
-1910Spalding,1909,Texas League,P10410,Johnson,,0,Galveston,,P37,johnson-gal
-1910Spalding,1909,Texas League,B00324,Kaphan,,0,Galveston,,B12,kaphan
-1910Spalding,1909,Texas League,F20970,Kaphan,,0,Galveston,,cf21,kaphan
-1910Spalding,1909,Texas League,B01007,Kelsey,,0,Oklahoma City,,B128,kelsey
-1910Spalding,1909,Texas League,F21726,Kelsey,,0,Oklahoma City,,c119,kelsey
-1910Spalding,1909,Texas League,B00491,Killifer,,0,Houston,,B119,killifer
-1910Spalding,1909,Texas League,F20886,Killifer,,0,Houston,,cf10,killifer
-1910Spalding,1909,Texas League,F21739,Killifer,,0,Houston,,c90,killifer
-1910Spalding,1909,Texas League,B00577,Kinnally,,0,Fort Worth,,B128,kinnally
-1910Spalding,1909,Texas League,F20265,Kinnally,,0,Fort Worth,,2b79,kinnally
-1910Spalding,1909,Texas League,F20700,Kinnally,,0,Fort Worth,,ss49,kinnally
-1910Spalding,1909,Texas League,B01143,Kipp,,1,Waco,,,kipp
-1910Spalding,1909,Texas League,B01143,Kipp,,2,San Antonio,,,kipp
-1910Spalding,1909,Texas League,B01143,Kipp,,T,,,B138,kipp
-1910Spalding,1909,Texas League,F20153,Kipp,,0,San Antonio,,2b47,kipp
-1910Spalding,1909,Texas League,F20604,Kipp,,0,San Antonio,,ss91,kipp
-1910Spalding,1909,Texas League,B00854,Klawitter,,0,Shreveport,,B101,klawitter
-1910Spalding,1909,Texas League,F20474,Klawitter,,0,Shreveport,,3b27,klawitter
-1910Spalding,1909,Texas League,F21324,Klawitter,,0,Shreveport,,p28,klawitter
-1910Spalding,1909,Texas League,P10097,Klawitter,,0,Shreveport,,P27,klawitter
-1910Spalding,1909,Texas League,B00667,Leidy,,0,San Antonio,,B92,leidy
-1910Spalding,1909,Texas League,F20908,Leidy,,0,San Antonio,,cf92,leidy
-1910Spalding,1909,Texas League,B01197,Longley,,1,Houston,,,longley
-1910Spalding,1909,Texas League,B01197,Longley,,2,Waco,,,longley
-1910Spalding,1909,Texas League,B01197,Longley,,T,,,B19,longley
-1910Spalding,1909,Texas League,F21117,Longley,,1,Houston,,rf,longley
-1910Spalding,1909,Texas League,F21117,Longley,,2,Waco,,rf,longley
-1910Spalding,1909,Texas League,F21117,Longley,,T,,,rf19,longley
-1910Spalding,1909,Texas League,B01216,Loudell,,1,Houston,,,loudell
-1910Spalding,1909,Texas League,B01216,Loudell,,2,Waco,,,loudell
-1910Spalding,1909,Texas League,B01216,Loudell,,T,,,B28,loudell
-1910Spalding,1909,Texas League,F21196,Loudell,,1,Dallas,,p,loudell
-1910Spalding,1909,Texas League,F21196,Loudell,,2,Waco,,p,loudell
-1910Spalding,1909,Texas League,F21196,Loudell,,T,,,p28,loudell
-1910Spalding,1909,Texas League,P10277,Loudell,,1,Dallas,,,loudell
-1910Spalding,1909,Texas League,P10277,Loudell,,2,Waco,,,loudell
-1910Spalding,1909,Texas League,P10277,Loudell,,T,,,P27,loudell
-1910Spalding,1909,Texas League,B00638,Malloy,,0,Houston,,B25,malloy
-1910Spalding,1909,Texas League,F21531,Malloy,,0,Houston,,p25,malloy
-1910Spalding,1909,Texas League,P10137,Malloy,,0,Houston,,P22,malloy
-1910Spalding,1909,Texas League,B00646,Maloney,,0,Dallas,,B142,maloney
-1910Spalding,1909,Texas League,F20919,Maloney,,0,Dallas,,cf142,maloney
-1910Spalding,1909,Texas League,B01170,Markley,,1,Fort Worth,,,markley
-1910Spalding,1909,Texas League,B01170,Markley,,2,San Antonio,,,markley
-1910Spalding,1909,Texas League,B01170,Markley,,3,Dallas,,,markley
-1910Spalding,1909,Texas League,B01170,Markley,,T,,,B48,markley
-1910Spalding,1909,Texas League,F20620,Markley,,1,Fort Worth,,ss,markley
-1910Spalding,1909,Texas League,F20620,Markley,,2,San Antonio,,ss,markley
-1910Spalding,1909,Texas League,F20620,Markley,,3,Dallas,,ss,markley
-1910Spalding,1909,Texas League,F20620,Markley,,T,,,ss48,markley
-1910Spalding,1909,Texas League,B01032,McAvoy,,1,Dallas,,,mcavoy
-1910Spalding,1909,Texas League,B01032,McAvoy,,2,Shreveport,,,mcavoy
-1910Spalding,1909,Texas League,B01032,McAvoy,,3,Galveston,,,mcavoy
-1910Spalding,1909,Texas League,B01032,McAvoy,,T,,,B106,mcavoy
-1910Spalding,1909,Texas League,F20233,McAvoy,,1,Dallas,,2b,mcavoy
-1910Spalding,1909,Texas League,F20233,McAvoy,,2,Shreveport,,2b,mcavoy
-1910Spalding,1909,Texas League,F20233,McAvoy,,3,Galveston,,2b,mcavoy
-1910Spalding,1909,Texas League,F20233,McAvoy,,T,,,2b27,mcavoy
-1910Spalding,1909,Texas League,F20417,McAvoy,,1,Dallas,,3b,mcavoy
-1910Spalding,1909,Texas League,F20417,McAvoy,,2,Shreveport,,3b,mcavoy
-1910Spalding,1909,Texas League,F20417,McAvoy,,3,Galveston,,3b,mcavoy
-1910Spalding,1909,Texas League,F20417,McAvoy,,T,,,3b44,mcavoy
-1910Spalding,1909,Texas League,F20685,McAvoy,,1,Dallas,,ss,mcavoy
-1910Spalding,1909,Texas League,F20685,McAvoy,,2,Shreveport,,ss,mcavoy
-1910Spalding,1909,Texas League,F20685,McAvoy,,3,Galveston,,ss,mcavoy
-1910Spalding,1909,Texas League,F20685,McAvoy,,T,,,ss35,mcavoy
-1910Spalding,1909,Texas League,B00037,McCormick,,0,Oklahoma City,,B146,mccormick
-1910Spalding,1909,Texas League,F21084,McCormick,,0,Oklahoma City,,rf146,mccormick
-1910Spalding,1909,Texas League,B00158,McFarland,,1,Houston,,,mcfarland
-1910Spalding,1909,Texas League,B00158,McFarland,,2,Oklahoma City,,,mcfarland
-1910Spalding,1909,Texas League,B00158,McFarland,,T,,,B14,mcfarland
-1910Spalding,1909,Texas League,F21362,McFarland,,1,Houston,,p,mcfarland
-1910Spalding,1909,Texas League,F21362,McFarland,,2,Oklahoma City,,p,mcfarland
-1910Spalding,1909,Texas League,F21362,McFarland,,T,,,p14,mcfarland
-1910Spalding,1909,Texas League,P10244,McFarland,,1,Houston,,,mcfarland
-1910Spalding,1909,Texas League,P10244,McFarland,,2,Oklahoma City,,,mcfarland
-1910Spalding,1909,Texas League,P10244,McFarland,,T,,,P13,mcfarland
-1910Spalding,1909,Texas League,B00068,McIver,,0,San Antonio,,B106,mciver
-1910Spalding,1909,Texas League,F20792,McIver,,0,San Antonio,,lf106,mciver
-1910Spalding,1909,Texas League,B00783,McKay,,0,Fort Worth,,B70,mckay
-1910Spalding,1909,Texas League,F21210,McKay,,0,Fort Worth,,p70,mckay
-1910Spalding,1909,Texas League,P10113,McKay,,0,Fort Worth,,P39,mckay
-1910Spalding,1909,Texas League,B01300,McLear,,0,San Antonio,,B33,mclear
-1910Spalding,1909,Texas League,F21021,McLear,,0,San Antonio,,rf33,mclear
-1910Spalding,1909,Texas League,B00278,Meyers,,0,Galveston,,B39,meyers
-1910Spalding,1909,Texas League,F20144,Meyers,,0,Galveston,,1b39,meyers
-1910Spalding,1909,Texas League,B00255,Middleton,,1,Fort Worth,,,middleton
-1910Spalding,1909,Texas League,B00255,Middleton,,2,Galveston,,,middleton
-1910Spalding,1909,Texas League,B00255,Middleton,,3,Houston,,,middleton
-1910Spalding,1909,Texas League,B00255,Middleton,,T,,,B126,middleton
-1910Spalding,1909,Texas League,F20177,Middleton,,1,Fort Worth,,2b,middleton
-1910Spalding,1909,Texas League,F20177,Middleton,,2,Galveston,,2b,middleton
-1910Spalding,1909,Texas League,F20177,Middleton,,3,Houston,,2b,middleton
-1910Spalding,1909,Texas League,F20177,Middleton,,T,,,2b126,middleton
-1910Spalding,1909,Texas League,B00450,Miller,C.,0,Dallas,,B120,miller.c
-1910Spalding,1909,Texas League,B00502,Miller,V.,1,San Antonio,,,miller.v
-1910Spalding,1909,Texas League,B00502,Miller,V.,2,Waco,,,miller.v
-1910Spalding,1909,Texas League,B00502,Miller,V.,T,,,B53,miller.v
-1910Spalding,1909,Texas League,B00528,Miller,A.,1,Waco,,,miller.a
-1910Spalding,1909,Texas League,B00528,Miller,A.,2,Fort Worth,,,miller.a
-1910Spalding,1909,Texas League,B00528,Miller,A.,T,,,B89,miller.a
-1910Spalding,1909,Texas League,F20131,Miller,A.,1,Waco,,1b,miller.a
-1910Spalding,1909,Texas League,F20131,Miller,A.,2,Fort Worth,,1b,miller.a
-1910Spalding,1909,Texas League,F20131,Miller,A.,T,,,1b69,miller.a
-1910Spalding,1909,Texas League,F21293,Miller,V.,1,San Antonio,,p,miller.v
-1910Spalding,1909,Texas League,F21293,Miller,V.,2,Waco,,p,miller.v
-1910Spalding,1909,Texas League,F21293,Miller,V.,T,,,p53,miller.v
-1910Spalding,1909,Texas League,F21646,Miller,C.,0,Dallas,,c101,miller.c
-1910Spalding,1909,Texas League,P10289,Miller,V.,1,San Antonio,,,miller.v
-1910Spalding,1909,Texas League,P10289,Miller,V.,2,Waco,,,miller.v
-1910Spalding,1909,Texas League,P10289,Miller,V.,T,,,P34,miller.v
-1910Spalding,1909,Texas League,B00614,Mitchell,R.,0,Fort Worth,,B54,mitchell.r
-1910Spalding,1909,Texas League,B01093,Mitchell,F.,0,Houston,,B77,mitchell.f
-1910Spalding,1909,Texas League,B01392,Mitchell,W.,0,San Antonio,,B26,mitchell.w
-1910Spalding,1909,Texas League,F20962,Mitchell,F.,0,Houston,,cf77,mitchell.f
-1910Spalding,1909,Texas League,F21232,Mitchell,R.,0,Fort Worth,,p54,mitchell.r
-1910Spalding,1909,Texas League,F21475,Mitchell,W.,0,San Antonio,,p26,mitchell.w
-1910Spalding,1909,Texas League,P10159,Mitchell,W.,0,San Antonio,,P24,mitchell.w
-1910Spalding,1909,Texas League,P10192,Mitchell,R.,0,Fort Worth,,P38,mitchell.r
-1910Spalding,1909,Texas League,B00544,Moore,,0,Dallas,,B52,moore
-1910Spalding,1909,Texas League,F21515,Moore,,0,Dallas,,p52,moore
-1910Spalding,1909,Texas League,P10231,Moore,,0,Dallas,,P33,moore
-1910Spalding,1909,Texas League,B00403,Moulton,,0,Fort Worth,,B23,moulton
-1910Spalding,1909,Texas League,F20547,Moulton,,0,Fort Worth,,ss23,moulton
-1910Spalding,1909,Texas League,B00362,Mowry,,0,Houston,,B141,mowry
-1910Spalding,1909,Texas League,F20745,Mowry,,0,Houston,,lf132,mowry
-1910Spalding,1909,Texas League,B00308,Nance,,1,Fort Worth,,,nance
-1910Spalding,1909,Texas League,B00308,Nance,,2,Shreveport,,,nance
-1910Spalding,1909,Texas League,B00308,Nance,,T,,,B126,nance
-1910Spalding,1909,Texas League,F20211,Nance,,1,Fort Worth,,2b,nance
-1910Spalding,1909,Texas League,F20211,Nance,,2,Shreveport,,2b,nance
-1910Spalding,1909,Texas League,F20211,Nance,,T,,,2b126,nance
-1910Spalding,1909,Texas League,F20776,Nance,,1,Fort Worth,,lf,nance
-1910Spalding,1909,Texas League,F20776,Nance,,2,Shreveport,,lf,nance
-1910Spalding,1909,Texas League,F20776,Nance,,T,,,lf34,nance
-1910Spalding,1909,Texas League,B00084,Newnam,,0,Houston,,B133,newnam
-1910Spalding,1909,Texas League,F20051,Newnam,,0,Houston,,1b133,newnam
-1910Spalding,1909,Texas League,B00442,Northern,,1,Fort Worth,,,northern
-1910Spalding,1909,Texas League,B00442,Northern,,2,Houston,,,northern
-1910Spalding,1909,Texas League,B00442,Northern,,3,Waco,,,northern
-1910Spalding,1909,Texas League,B00442,Northern,,T,,,B123,northern
-1910Spalding,1909,Texas League,F20832,Northern,,1,Fort Worth,,lf,northern
-1910Spalding,1909,Texas League,F20832,Northern,,2,Houston,,lf,northern
-1910Spalding,1909,Texas League,F20832,Northern,,3,Waco,,lf,northern
-1910Spalding,1909,Texas League,F20832,Northern,,T,,,lf123,northern
-1910Spalding,1909,Texas League,B00806,Noyes,,0,Oklahoma City,,B105,noyes
-1910Spalding,1909,Texas League,F20539,Noyes,,0,Oklahoma City,,3b24,noyes
-1910Spalding,1909,Texas League,F21811,Noyes,,0,Oklahoma City,,c35,noyes
-1910Spalding,1909,Texas League,B01250,Ogles,,0,Dallas,,B26,ogles
-1910Spalding,1909,Texas League,F21174,Ogles,,0,Dallas,,p26,ogles
-1910Spalding,1909,Texas League,P10464,Ogles,,0,Dallas,,P25,ogles
-1910Spalding,1909,Texas League,B01288,Onslow,,0,Dallas,,B53,onslow
-1910Spalding,1909,Texas League,F21651,Onslow,,0,Dallas,,c53,onslow
-1910Spalding,1909,Texas League,B00898,Ott,,0,Waco,,B46,ott
-1910Spalding,1909,Texas League,F21705,Ott,,0,Waco,,c46,ott
-1910Spalding,1909,Texas League,B00822,Pendleton,,0,Fort Worth,,B144,pendleton
-1910Spalding,1909,Texas League,F20759,Pendleton,,0,Fort Worth,,lf130,pendleton
-1910Spalding,1909,Texas League,B01444,Peters,,0,Dallas,,B36,peters
-1910Spalding,1909,Texas League,F21255,Peters,,0,Dallas,,p36,peters
-1910Spalding,1909,Texas League,P10304,Peters,,0,Dallas,,P36,peters
-1910Spalding,1909,Texas League,B00985,Potts,,0,Dallas,,B16,potts
-1910Spalding,1909,Texas League,F20943,Potts,,0,Dallas,,cf16,potts
-1910Spalding,1909,Texas League,B00531,Powell,,1,Fort Worth,,,powell
-1910Spalding,1909,Texas League,B00531,Powell,,2,Waco,,,powell
-1910Spalding,1909,Texas League,B00531,Powell,,T,,,B125,powell
-1910Spalding,1909,Texas League,F21783,Powell,,1,Fort Worth,,c,powell
-1910Spalding,1909,Texas League,F21783,Powell,,2,Waco,,c,powell
-1910Spalding,1909,Texas League,F21783,Powell,,T,,,c125,powell
-1910Spalding,1909,Texas League,B00887,Queisser,,0,Galveston,,B102,queisser
-1910Spalding,1909,Texas League,F21695,Queisser,,0,Galveston,,c102,queisser
-1910Spalding,1909,Texas League,B01078,Quigley,,0,Shreveport,,B65,quigley
-1910Spalding,1909,Texas League,F20254,Quigley,,0,Shreveport,,2b49,quigley
-1910Spalding,1909,Texas League,F20369,Quigley,,0,Shreveport,,3b16,quigley
-1910Spalding,1909,Texas League,B00149,Rapps,,0,Oklahoma City,,B136,rapps
-1910Spalding,1909,Texas League,F20046,Rapps,,0,Oklahoma City,,1b136,rapps
-1910Spalding,1909,Texas League,B01119,Reed,,0,Dallas,,B27,reed
-1910Spalding,1909,Texas League,F20189,Reed,,0,Dallas,,2b27,reed
-1910Spalding,1909,Texas League,B01376,Reiger,,0,Shreveport,,B26,reiger
-1910Spalding,1909,Texas League,F21356,Reiger,,0,Shreveport,,p26,reiger
-1910Spalding,1909,Texas League,P10320,Reiger,,0,Shreveport,,P26,reiger
-1910Spalding,1909,Texas League,B00264,Riley,,0,Galveston,,B146,riley
-1910Spalding,1909,Texas League,F20768,Riley,,0,Galveston,,lf146,riley
-1910Spalding,1909,Texas League,B01124,Robb,,0,Galveston,,B16,robb
-1910Spalding,1909,Texas League,F21130,Robb,,0,Galveston,,p16,robb
-1910Spalding,1909,Texas League,P10184,Robb,,0,Galveston,,P13,robb
-1910Spalding,1909,Texas League,B01415,Rose,,0,Houston,,B43,rose
-1910Spalding,1909,Texas League,F21416,Rose,,0,Houston,,p43,rose
-1910Spalding,1909,Texas League,P10176,Rose,,0,Houston,,P42,rose
-1910Spalding,1909,Texas League,B01313,Schan,,0,San Antonio,,B82,schan
-1910Spalding,1909,Texas League,F21718,Schan,,0,San Antonio,,c82,schan
-1910Spalding,1909,Texas League,B00747,Shelton,,0,Waco,,B73,shelton
-1910Spalding,1909,Texas League,F20095,Shelton,,0,Waco,,1b73,shelton
-1910Spalding,1909,Texas League,B01402,Shonts,,0,Dallas,,B17,shontz
-1910Spalding,1909,Texas League,F21427,Shontz,,0,Dallas,,p17,shontz
-1910Spalding,1909,Texas League,P10121,Shontz,,0,Dallas,,P16,shontz
-1910Spalding,1909,Texas League,B00488,Short,,1,Houston,,,short
-1910Spalding,1909,Texas League,B00488,Short,,2,Waco,,,short
-1910Spalding,1909,Texas League,B00488,Short,,T,,,B81,short
-1910Spalding,1909,Texas League,F20240,Short,,1,Houston,,2b,short
-1910Spalding,1909,Texas League,F20240,Short,,2,Waco,,2b,short
-1910Spalding,1909,Texas League,F20240,Short,,T,,,2b40,short
-1910Spalding,1909,Texas League,F20496,Short,,1,Houston,,3b,short
-1910Spalding,1909,Texas League,F20496,Short,,2,Waco,,3b,short
-1910Spalding,1909,Texas League,F20496,Short,,T,,,3b24,short
-1910Spalding,1909,Texas League,B00021,Smith,C.,0,Shreveport,,B90,smith.c
-1910Spalding,1909,Texas League,B00672,Smith,G.,0,Shreveport,,B120,smith.g
-1910Spalding,1909,Texas League,F20166,Smith,G.,0,Shreveport,,2b76,smith.g
-1910Spalding,1909,Texas League,F20661,Smith,G.,0,Shreveport,,ss44,smith.g
-1910Spalding,1909,Texas League,F20997,Smith,C.,0,Shreveport,,cf90,smith.c
-1910Spalding,1909,Texas League,B00381,Smitheal,,0,Fort Worth,,B43,smitheal
-1910Spalding,1909,Texas League,F20673,Smitheal,,0,Fort Worth,,ss43,smitheal
-1910Spalding,1909,Texas League,B01181,Sorrels,,1,Shreveport,,,sorrells
-1910Spalding,1909,Texas League,B01181,Sorrels,,2,San Antonio,,,sorrells
-1910Spalding,1909,Texas League,B01181,Sorrels,,3,Fort Worth,,,sorrells
-1910Spalding,1909,Texas League,B01181,Sorrels,,T,,,B45,sorrells
-1910Spalding,1909,Texas League,F21308,Sorrels,,1,Shreveport,,p,sorrells
-1910Spalding,1909,Texas League,F21308,Sorrels,,2,San Antonio,,p,sorrells
-1910Spalding,1909,Texas League,F21308,Sorrels,,3,Fort Worth,,p,sorrells
-1910Spalding,1909,Texas League,F21308,Sorrels,,T,,,p45,sorrells
-1910Spalding,1909,Texas League,P10348,Sorrels,,1,Shreveport,,,sorrells
-1910Spalding,1909,Texas League,P10348,Sorrels,,2,San Antonio,,,sorrells
-1910Spalding,1909,Texas League,P10348,Sorrels,,3,Fort Worth,,,sorrells
-1910Spalding,1909,Texas League,P10348,Sorrels,,T,,,P38,sorrells
-1910Spalding,1909,Texas League,B00163,Stark,,0,San Antonio,,B125,stark
-1910Spalding,1909,Texas League,F20552,Stark,,0,San Antonio,,ss125,stark
-1910Spalding,1909,Texas League,B01227,Stewart,,0,Houston,,B40,stewart
-1910Spalding,1909,Texas League,F21343,Stewart,,0,Houston,,p40,stewart
-1910Spalding,1909,Texas League,P10035,Stewart,,0,Houston,,P33,stewart
-1910Spalding,1909,Texas League,B00948,Stillwell,,0,Dallas,,B36,stillwell
-1910Spalding,1909,Texas League,F20190,Stillwell,,0,Dallas,,2b36,stillwell
-1910Spalding,1909,Texas League,B00076,Stinson,,0,San Antonio,,B109,stinson
-1910Spalding,1909,Texas League,F21101,Stinson,,0,San Antonio,,rf109,stinson
-1910Spalding,1909,Texas League,B00589,Storch,,0,Dallas,,B125,storch
-1910Spalding,1909,Texas League,F20810,Storch,,0,Dallas,,lf125,storch
-1910Spalding,1909,Texas League,B01055,Strait,,0,Dallas,,B23,strait
-1910Spalding,1909,Texas League,F21013,Strait,,0,Dallas,,rf23,strait
-1910Spalding,1909,Texas League,B01321,Stribble,,0,Galveston,,B23,stribble
-1910Spalding,1909,Texas League,F20327,Stribble,,0,Galveston,,2b23,stribble
-1910Spalding,1909,Texas League,B00752,Sweatt,,0,Dallas,,B20,sweatt
-1910Spalding,1909,Texas League,F21068,Sweatt,,0,Dallas,,rf20,sweatt
-1910Spalding,1909,Texas League,B00469,Tesreau,,1,Houston,,,tesreau
-1910Spalding,1909,Texas League,B00469,Tesreau,,2,Galveston,,,tesreau
-1910Spalding,1909,Texas League,B00469,Tesreau,,3,Shreveport,,,tesreau
-1910Spalding,1909,Texas League,B00469,Tesreau,,4,San Antonio,,,tesreau
-1910Spalding,1909,Texas League,B00469,Tesreau,,T,,,B26,tesreau
-1910Spalding,1909,Texas League,F21469,Tesreau,,1,Houston,,p,tesreau
-1910Spalding,1909,Texas League,F21469,Tesreau,,2,Galveston,,p,tesreau
-1910Spalding,1909,Texas League,F21469,Tesreau,,3,Shreveport,,p,tesreau
-1910Spalding,1909,Texas League,F21469,Tesreau,,4,San Antonio,,p,tesreau
-1910Spalding,1909,Texas League,F21469,Tesreau,,T,,,p26,tesreau
-1910Spalding,1909,Texas League,P10407,Tesreau,,1,Houston,,,tesreau
-1910Spalding,1909,Texas League,P10407,Tesreau,,2,Galveston,,,tesreau
-1910Spalding,1909,Texas League,P10407,Tesreau,,3,Shreveport,,,tesreau
-1910Spalding,1909,Texas League,P10407,Tesreau,,4,San Antonio,,,tesreau
-1910Spalding,1909,Texas League,P10407,Tesreau,,T,,,P25,tesreau
-1910Spalding,1909,Texas League,B00739,Thebo,,0,Waco,,B132,thebo
-1910Spalding,1909,Texas League,F20924,Thebo,,0,Waco,,cf132,thebo
-1910Spalding,1909,Texas League,B00356,Truesdale,,0,Dallas,,B99,truesdale
-1910Spalding,1909,Texas League,F20342,Truesdale,,0,Dallas,,2b52,truesdale
-1910Spalding,1909,Texas League,F20648,Truesdale,,0,Dallas,,ss47,truesdale
-1910Spalding,1909,Texas League,B00210,Tullos,,0,Dallas,,B143,tullos
-1910Spalding,1909,Texas League,F20430,Tullos,,0,Dallas,,3b120,tullos
-1910Spalding,1909,Texas League,F20713,Tullos,,0,Dallas,,ss23,tullos
-1910Spalding,1909,Texas League,B00293,Vinson,,0,Waco,,B112,vinson
-1910Spalding,1909,Texas League,F20128,Vinson,,0,Waco,,1b21,vinson
-1910Spalding,1909,Texas League,F20829,Vinson,,0,Waco,,lf86,vinson
-1910Spalding,1909,Texas League,F21125,Walker,,0,San Antonio,,rf10,walker
-1910Spalding,1909,Texas League,B01108,Wallace,,0,Galveston,,B131,wallace
-1910Spalding,1909,Texas League,F20612,Wallace,,0,Galveston,,ss131,wallace
-1910Spalding,1909,Texas League,B00335,Walsh,,0,San Antonio,,B118,walsh
-1910Spalding,1909,Texas League,F20334,Walsh,,0,San Antonio,,2b101,walsh
-1910Spalding,1909,Texas League,B00833,Watson,,0,Houston,,B13,watson
-1910Spalding,1909,Texas League,F21319,Watson,,0,Houston,,p33,watson
-1910Spalding,1909,Texas League,P10312,Watson,,0,Houston,,P31,watson
-1910Spalding,1909,Texas League,B01490,Weatherford,,0,Houston,,B11,weatherford
-1910Spalding,1909,Texas League,F21553,Weatherford,,0,Houston,,p11,weatherford
-1910Spalding,1909,Texas League,P10168,Weatherford,,0,Houston,,P11,weatherford
-1910Spalding,1909,Texas League,B00771,Whaling,,0,Shreveport,,B144,whaling
-1910Spalding,1909,Texas League,F20067,Whaling,,0,Shreveport,,1b144,whaling
-1910Spalding,1909,Texas League,B00232,White,D.,0,Oklahoma City,,B137,white.d-okc
-1910Spalding,1909,Texas League,B00904,White,,0,Waco,,B80,white-wac
-1910Spalding,1909,Texas League,B00936,White,W.,0,Oklahoma City,,B150,white.w-okc
-1910Spalding,1909,Texas League,B01359,White,,0,Houston,,B20,white-hou
-1910Spalding,1909,Texas League,F20287,White,D.,0,Oklahoma City,,2b35,white.d-okc
-1910Spalding,1909,Texas League,F20560,White,W.,0,Oklahoma City,,ss150,white.w-okc
-1910Spalding,1909,Texas League,F20893,White,D.,0,Oklahoma City,,cf102,white.d-okc
-1910Spalding,1909,Texas League,F21000,White,,0,Houston,,cf20,white-hou
-1910Spalding,1909,Texas League,F21760,White,,1,Waco,,c,white-wac
-1910Spalding,1909,Texas League,F21760,White,,2,Houston,,c,white-wac
-1910Spalding,1909,Texas League,F21760,White,,T,,,c33,white-wac
-1910Spalding,1909,Texas League,B01041,Winchell,,0,San Antonio,,B52,winchell
-1910Spalding,1909,Texas League,F21370,Winchell,,0,San Antonio,,p52,winchell
-1910Spalding,1909,Texas League,P10062,Winchell,,0,San Antonio,,P41,winchell
-1910Spalding,1909,Texas League,B00726,Wolff,,0,Galveston,,B17,wolff
-1910Spalding,1909,Texas League,F21822,Wolff,,0,Galveston,,c17,wolff
-1910Spalding,1909,Texas League,B01269,Woodburn,,0,Dallas,,B18,woodburn
-1910Spalding,1909,Texas League,F21589,Woodburn,,0,Dallas,,p18,woodburn
-1910Spalding,1909,Texas League,P10429,Woodburn,,0,Dallas,,P17,woodburn
-1910Spalding,1909,Texas League,B00101,Yohe,,1,Shreveport,,,yohe
-1910Spalding,1909,Texas League,B00101,Yohe,,2,Galveston,,,yohe
-1910Spalding,1909,Texas League,B00101,Yohe,,T,,,B126,yohe
-1910Spalding,1909,Texas League,F20449,Yohe,,1,Shreveport,,3b,yohe
-1910Spalding,1909,Texas League,F20449,Yohe,,2,Galveston,,3b,yohe
-1910Spalding,1909,Texas League,F20449,Yohe,,T,,,3b126,yohe
-1910Spalding,1909,Texas League,B01384,Young,,0,Oklahoma City,,B37,young
-1910Spalding,1909,Texas League,F21264,Young,,0,Oklahoma City,,p37,young
-1910Spalding,1909,Texas League,P10070,Young,,0,Oklahoma City,,P36,young
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+1910Spalding,1909,Texas League,ables,B00794,Ables,,0,San Antonio,,B40
+1910Spalding,1909,Texas League,ables,F21229,Ables,,0,San Antonio,,p40
+1910Spalding,1909,Texas League,ables,P10100,Ables,,0,San Antonio,,P36
+1910Spalding,1909,Texas League,adams,F21771,Adams,,0,San Antonio,,c11
+1910Spalding,1909,Texas League,alexander,B00912,Alexander,,0,San Antonio,,B112
+1910Spalding,1909,Texas League,alexander,F21752,Alexander,,0,San Antonio,,c67
+1910Spalding,1909,Texas League,andrews,B00092,Andrews,,0,Oklahoma City,,B77
+1910Spalding,1909,Texas League,andrews,F20391,Andrews,,0,Oklahoma City,,3b77
+1910Spalding,1909,Texas League,badger,B00760,Badger,,1,Galveston,,
+1910Spalding,1909,Texas League,badger,B00760,Badger,,2,Houston,,
+1910Spalding,1909,Texas League,badger,B00760,Badger,,T,,,B145
+1910Spalding,1909,Texas League,badger,F20102,Badger,,1,Galveston,,1b
+1910Spalding,1909,Texas League,badger,F20102,Badger,,2,Houston,,1b
+1910Spalding,1909,Texas League,badger,F20102,Badger,,T,,,1b80
+1910Spalding,1909,Texas League,badger,F20458,Badger,,1,Galveston,,3b
+1910Spalding,1909,Texas League,badger,F20458,Badger,,2,Houston,,3b
+1910Spalding,1909,Texas League,badger,F20458,Badger,,T,,,3b65
+1910Spalding,1909,Texas League,bandy,B01010,Bandy,,0,Oklahoma City,,B58
+1910Spalding,1909,Texas League,bandy,F20878,Bandy,,0,Oklahoma City,,cf11
+1910Spalding,1909,Texas League,bandy,F21335,Bandy,,0,Oklahoma City,,p58
+1910Spalding,1909,Texas League,bandy,P10202,Bandy,,0,Oklahoma City,,P46
+1910Spalding,1909,Texas League,barenkamp,B01337,Barenkamp,,0,Waco,,B33
+1910Spalding,1909,Texas League,barenkamp,F21528,Barenkamp,,0,Waco,,p33
+1910Spalding,1909,Texas League,barenkamp,P10478,Barenkamp,,0,Waco,,P29
+1910Spalding,1909,Texas League,bastian,B00475,Bastian,,0,San Antonio,,B133
+1910Spalding,1909,Texas League,bastian,F20115,Bastian,,0,San Antonio,,1b133
+1910Spalding,1909,Texas League,bauer,B01029,Bauer,,0,Shreveport,,B28
+1910Spalding,1909,Texas League,bauer,F21278,Bauer,,0,Shreveport,,p28
+1910Spalding,1909,Texas League,bauer,P10253,Bauer,,0,Shreveport,,P23
+1910Spalding,1909,Texas League,beeker,B01345,Beeker,,0,Shreveport,,B28
+1910Spalding,1909,Texas League,beeker,F21182,Beeker,,0,Shreveport,,p28
+1910Spalding,1909,Texas League,beeker,P10361,Beeker,,0,Shreveport,,P28
+1910Spalding,1909,Texas League,bell,B00370,Bell,,1,Houston,,
+1910Spalding,1909,Texas League,bell,B00370,Bell,,2,Oklahoma City,,
+1910Spalding,1909,Texas League,bell,B00370,Bell,,T,,,B86
+1910Spalding,1909,Texas League,bell,F20316,Bell,,0,Oklahoma City,,2b51
+1910Spalding,1909,Texas League,bell,F20721,Bell,,1,Houston,,ss
+1910Spalding,1909,Texas League,bell,F20721,Bell,,2,Oklahoma City,,ss
+1910Spalding,1909,Texas League,bell,F20721,Bell,,T,,,ss30
+1910Spalding,1909,Texas League,besse,B00695,Besse,,0,Shreveport,,B19
+1910Spalding,1909,Texas League,besse,F20864,Besse,,0,Shreveport,,lf19
+1910Spalding,1909,Texas League,blakely,F21076,Blakeley,,0,Houston,,rf90
+1910Spalding,1909,Texas League,blakely,B00117,Blakely,,0,Houston,,B90
+1910Spalding,1909,Texas League,blakeney,B01477,Blakeney,,1,Houston,,
+1910Spalding,1909,Texas League,blakeney,B01477,Blakeney,,2,Shreveport,,
+1910Spalding,1909,Texas League,blakeney,B01477,Blakeney,,3,Waco,,
+1910Spalding,1909,Texas League,blakeney,B01477,Blakeney,,T,,,B20
+1910Spalding,1909,Texas League,blakeney,F21488,Blakeney,,1,Houston,,p
+1910Spalding,1909,Texas League,blakeney,F21488,Blakeney,,2,Shreveport,,p
+1910Spalding,1909,Texas League,blakeney,F21488,Blakeney,,3,Waco,,p
+1910Spalding,1909,Texas League,blakeney,F21488,Blakeney,,T,,,p20
+1910Spalding,1909,Texas League,blakeney,P10290,Blakeney,,1,Houston,,
+1910Spalding,1909,Texas League,blakeney,P10290,Blakeney,,2,Shreveport,,
+1910Spalding,1909,Texas League,blakeney,P10290,Blakeney,,3,Waco,,
+1910Spalding,1909,Texas League,blakeney,P10290,Blakeney,,T,,,P19
+1910Spalding,1909,Texas League,booles,B00515,Booles,,0,Shreveport,,B26
+1910Spalding,1909,Texas League,booles,F21381,Booles,,0,Shreveport,,p26
+1910Spalding,1909,Texas League,booles,P10266,Booles,,0,Shreveport,,P19
+1910Spalding,1909,Texas League,bradford,B01291,Bradford,,1,San Antonio,,
+1910Spalding,1909,Texas League,bradford,B01291,Bradford,,2,Galveston,,
+1910Spalding,1909,Texas League,bradford,B01291,Bradford,,T,,,B18
+1910Spalding,1909,Texas League,bradford,F21609,Bradford,,1,San Antonio,,p
+1910Spalding,1909,Texas League,bradford,F21609,Bradford,,2,Galveston,,p
+1910Spalding,1909,Texas League,bradford,F21609,Bradford,,T,,,p18
+1910Spalding,1909,Texas League,bradford,P10455,Bradford,,1,San Antonio,,
+1910Spalding,1909,Texas League,bradford,P10455,Bradford,,2,Galveston,,
+1910Spalding,1909,Texas League,bradford,P10455,Bradford,,T,,,P17
+1910Spalding,1909,Texas League,bradley,B00427,Bradley,,1,Galveston,,
+1910Spalding,1909,Texas League,bradley,B00427,Bradley,,2,Waco,,
+1910Spalding,1909,Texas League,bradley,B00427,Bradley,,T,,,B125
+1910Spalding,1909,Texas League,bradley,F20841,Bradley,,1,Galveston,,lf
+1910Spalding,1909,Texas League,bradley,F20841,Bradley,,2,Waco,,lf
+1910Spalding,1909,Texas League,bradley,F20841,Bradley,,T,,,lf125
+1910Spalding,1909,Texas League,brady,B00397,Brady,,0,Fort Worth,,B16
+1910Spalding,1909,Texas League,brady,F21502,Brady,,0,Fort Worth,,p16
+1910Spalding,1909,Texas League,brady,P10215,Brady,,0,Fort Worth,,P16
+1910Spalding,1909,Texas League,burke,B01234,Burke,,0,Fort Worth,,B45
+1910Spalding,1909,Texas League,burke,F21590,Burke,,0,Fort Worth,,p45
+1910Spalding,1909,Texas League,burke,P10385,Burke,,0,Fort Worth,,P41
+1910Spalding,1909,Texas League,burnett,B01086,Burnett,,0,Dallas,,B19
+1910Spalding,1909,Texas League,burnett,F21286,Burnett,,0,Dallas,,p19
+1910Spalding,1909,Texas League,burnett,P10043,Burns,,0,Dallas,,P18
+1910Spalding,1909,Texas League,carlin,B00553,Carlin,,0,Galveston,,B94
+1910Spalding,1909,Texas League,carlin,F20303,Carlin,,0,Galveston,,2b94
+1910Spalding,1909,Texas League,cavender,B00718,Cavender,,0,Fort Worth,,B146
+1910Spalding,1909,Texas League,cavender,F20935,Cavender,,0,Fort Worth,,cf146
+1910Spalding,1909,Texas League,chellette,B01428,Chellette,,0,Oklahoma City,,B13
+1910Spalding,1909,Texas League,chellette,F21149,Chellette,,0,Oklahoma City,,p13
+1910Spalding,1909,Texas League,chellette,P10024,Chellette,,0,Oklahoma City,,P13
+1910Spalding,1909,Texas League,claire,B00651,Claire,,0,Shreveport,,B112
+1910Spalding,1909,Texas League,claire,F20375,Claire,,0,Shreveport,,3b41
+1910Spalding,1909,Texas League,claire,F20571,Claire,,0,Shreveport,,ss71
+1910Spalding,1909,Texas League,connaway,B00229,Connaway,,0,Dallas,,B131
+1910Spalding,1909,Texas League,connaway,F20072,Connaway,,0,Dallas,,1b131
+1910Spalding,1909,Texas League,cooper,B01368,Cooper,,1,Galveston,,
+1910Spalding,1909,Texas League,cooper,B01368,Cooper,,2,Waco,,
+1910Spalding,1909,Texas League,cooper,B01368,Cooper,,T,,,B32
+1910Spalding,1909,Texas League,cooper,F21442,Cooper,,1,Galveston,,p
+1910Spalding,1909,Texas League,cooper,F21442,Cooper,,2,Waco,,p
+1910Spalding,1909,Texas League,cooper,F21442,Cooper,,T,,,p32
+1910Spalding,1909,Texas League,cooper,P10373,Cooper,,1,Galveston,,
+1910Spalding,1909,Texas League,cooper,P10373,Cooper,,2,Waco,,
+1910Spalding,1909,Texas League,cooper,P10373,Cooper,,T,,,P30
+1910Spalding,1909,Texas League,corkill,B00286,Corkill,,1,Galveston,,
+1910Spalding,1909,Texas League,corkill,B00286,Corkill,,2,Houston,,
+1910Spalding,1909,Texas League,corkill,B00286,Corkill,,T,,,B138
+1910Spalding,1909,Texas League,corkill,F21037,Corkill,,1,Galveston,,rf
+1910Spalding,1909,Texas League,corkill,F21037,Corkill,,2,Houston,,rf
+1910Spalding,1909,Texas League,corkill,F21037,Corkill,,T,,,rf138
+1910Spalding,1909,Texas League,cowan,B00434,Cowan,,1,Shreveport,,
+1910Spalding,1909,Texas League,cowan,B00434,Cowan,,2,Houston,,
+1910Spalding,1909,Texas League,cowan,B00434,Cowan,,3,Waco,,
+1910Spalding,1909,Texas League,cowan,B00434,Cowan,,T,,,B52
+1910Spalding,1909,Texas League,cowan,F20526,Cowan,,1,San Antonio,,3b
+1910Spalding,1909,Texas League,cowan,F20526,Cowan,,2,Shreveport,,3b
+1910Spalding,1909,Texas League,cowan,F20526,Cowan,,T,,,3b25
+1910Spalding,1909,Texas League,cowan,F20636,Cowan,,1,San Antonio,,ss
+1910Spalding,1909,Texas League,cowan,F20636,Cowan,,2,Shreveport,,ss
+1910Spalding,1909,Texas League,cowan,F20636,Cowan,,T,,,ss19
+1910Spalding,1909,Texas League,coyle,B00196,Coyle,,1,Fort Worth,,
+1910Spalding,1909,Texas League,coyle,B00196,Coyle,,2,Houston,,
+1910Spalding,1909,Texas League,coyle,B00196,Coyle,,T,,,B73
+1910Spalding,1909,Texas League,coyle,F21092,Coyle,,1,Fort Worth,,rf
+1910Spalding,1909,Texas League,coyle,F21092,Coyle,,2,Houston,,rf
+1910Spalding,1909,Texas League,coyle,F21092,Coyle,,T,,,rf65
+1910Spalding,1909,Texas League,crabble,B01275,Crabble,,0,Galveston,,B42
+1910Spalding,1909,Texas League,crabble,F21614,Crabble,,0,Galveston,,p42
+1910Spalding,1909,Texas League,crabble,P10441,Crabble,,0,Galveston,,P42
+1910Spalding,1909,Texas League,crowson,B01453,Crowson,,0,Oklahoma City,,B16
+1910Spalding,1909,Texas League,crowson,F21491,Crowson,,0,Oklahoma City,,p16
+1910Spalding,1909,Texas League,crowson,P10399,Crowson,,0,Oklahoma City,,P15
+1910Spalding,1909,Texas League,deiters,B01162,Deiters,,1,Waco,,
+1910Spalding,1909,Texas League,deiters,B01162,Deiters,,2,Houston,,
+1910Spalding,1909,Texas League,deiters,B01162,Deiters,,T,,,B108
+1910Spalding,1909,Texas League,deiters,F20505,Deiters,,1,Waco,,3b
+1910Spalding,1909,Texas League,deiters,F20505,Deiters,,2,Houston,,3b
+1910Spalding,1909,Texas League,deiters,F20505,Deiters,,T,,,3b108
+1910Spalding,1909,Texas League,downey,B00013,Downey,,0,Oklahoma City,,B134
+1910Spalding,1909,Texas League,downey,F20807,Downey,,0,Oklahoma City,,lf134
+1910Spalding,1909,Texas League,drohan,B00590,Drohan,,0,Oklahoma City,,B38
+1910Spalding,1909,Texas League,drohan,F21241,Drohan,,0,Oklahoma City,,p38
+1910Spalding,1909,Texas League,drohan,P10056,Drohan,,0,Oklahoma City,,P37
+1910Spalding,1909,Texas League,drucke.l,B01156,Drucke,L.,0,Dallas,,B28
+1910Spalding,1909,Texas League,drucke.l,F21450,Drucke,L.,0,Dallas,,p28
+1910Spalding,1909,Texas League,drucke.o,F21680,Drucke,O.,0,Dallas,,c11
+1910Spalding,1909,Texas League,drucke.l,P10019,Drucke,L.,0,Dallas,,P25
+1910Spalding,1909,Texas League,dugey,B00416,Dugey,,0,Waco,,B106
+1910Spalding,1909,Texas League,dugey,F20279,Dugey,,0,Waco,,2b53
+1910Spalding,1909,Texas League,dugey,F20518,Dugey,,0,Waco,,3b37
+1910Spalding,1909,Texas League,dugey,F20699,Dugey,,0,Waco,,ss16
+1910Spalding,1909,Texas League,eberline,B00609,Eberline,,0,Fort Worth,,B72
+1910Spalding,1909,Texas League,eberline,F20038,Eberline,,0,Fort Worth,,1b72
+1910Spalding,1909,Texas League,emory,B00566,Emory,,0,Oklahoma City,,B140
+1910Spalding,1909,Texas League,emory,F20206,Emory,,0,Oklahoma City,,2b67
+1910Spalding,1909,Texas League,emory,F20350,Emory,,0,Oklahoma City,,3b54
+1910Spalding,1909,Texas League,fillman,B00811,Fillman,,0,Fort Worth,,B136
+1910Spalding,1909,Texas League,fillman,F20463,Fillman,,0,Fort Worth,,3b136
+1910Spalding,1909,Texas League,firestine,B00840,Firestine,,0,San Antonio,,B146
+1910Spalding,1909,Texas League,firestine,F20388,Firestine,,0,San Antonio,,3b146
+1910Spalding,1909,Texas League,folbre,B00125,Folbre,,0,San Antonio,,B30
+1910Spalding,1909,Texas League,folbre,F21158,Folbre,,0,San Antonio,,p12
+1910Spalding,1909,Texas League,folbre,P10336,Folbre,,0,San Antonio,,P11
+1910Spalding,1909,Texas League,forney,B00920,Forney,,0,Fort Worth,,B19
+1910Spalding,1909,Texas League,forney,F21672,Forney,,0,Fort Worth,,c19
+1910Spalding,1909,Texas League,franz,B00045,Franz,,0,San Antonio,,B24
+1910Spalding,1909,Texas League,franz,F20023,Franz,,0,San Antonio,,1b24
+1910Spalding,1909,Texas League,garber,B00999,Garber,,0,Galveston,,B17
+1910Spalding,1909,Texas League,garber,F21544,Garber,,0,Galveston,,p17
+1910Spalding,1909,Texas League,garber,P10228,Garber,,0,Galveston,,P17
+1910Spalding,1909,Texas League,gardner,B00059,Gardner,,0,Shreveport,,B69
+1910Spalding,1909,Texas League,gardner,F21045,Gardner,,0,Shreveport,,rf69
+1910Spalding,1909,Texas League,garvin,B00705,Garvin,,0,Shreveport,,B97
+1910Spalding,1909,Texas League,garvin,F21638,Garvin,,0,Shreveport,,c97
+1910Spalding,1909,Texas League,gear,B00174,Gear,,0,Shreveport,,B141
+1910Spalding,1909,Texas League,gear,F20784,Gear,,0,Shreveport,,lf141
+1910Spalding,1909,Texas League,gilks,B00130,Gilks,,0,Galveston,,B28
+1910Spalding,1909,Texas League,gnadiner,B00865,Gnadiner,,0,Waco,,B28
+1910Spalding,1909,Texas League,gnadiner,F20855,Gnadiner,,0,Waco,,lf28
+1910Spalding,1909,Texas League,gordon,B01135,Gordon,,0,Houston,,B81
+1910Spalding,1909,Texas League,gordon,F21747,Gordon,,0,Houston,,c81
+1910Spalding,1909,Texas League,gray,B01064,Gray,,0,Shreveport,,B15
+1910Spalding,1909,Texas League,green,B00973,Green,,0,Fort Worth,,B60
+1910Spalding,1909,Texas League,green,F21794,Green,,0,Fort Worth,,c60
+1910Spalding,1909,Texas League,harbison,B00961,Harbison,,0,Waco,,B121
+1910Spalding,1909,Texas League,harbison,F20080,Harbison,,0,Waco,,1b40
+1910Spalding,1909,Texas League,harbison,F20298,Harbison,,0,Waco,,2b81
+1910Spalding,1909,Texas League,harmon,B00182,Harmon,,0,Shreveport,,B21
+1910Spalding,1909,Texas League,harmon,F21566,Harmon,,0,Shreveport,,p21
+1910Spalding,1909,Texas League,harmon,P10081,Harmon,,0,Shreveport,,P16
+1910Spalding,1909,Texas League,harris,B01509,Harris,,0,San Antonio,,B12
+1910Spalding,1909,Texas League,harris,F21403,Harris,,0,San Antonio,,p12
+1910Spalding,1909,Texas League,harris,P10486,Harris,,0,San Antonio,,P12
+1910Spalding,1909,Texas League,hellman,B00623,Hellman,,0,Galveston,,B125
+1910Spalding,1909,Texas League,hellman,F20014,Hellman,,0,Galveston,,1b25
+1910Spalding,1909,Texas League,hellman,F20222,Hellman,,0,Galveston,,2b32
+1910Spalding,1909,Texas League,hellman,F20737,Hellman,,0,Galveston,,lf11
+1910Spalding,1909,Texas League,hellman,F21207,Hellman,,0,Galveston,,p18
+1910Spalding,1909,Texas League,hellman,F21806,Hellman,,0,Galveston,,c36
+1910Spalding,1909,Texas League,hellman,P10493,Hellman,,0,Galveston,,P17
+1910Spalding,1909,Texas League,henninger,B00957,Henninger,,0,Shreveport,,B37
+1910Spalding,1909,Texas League,henninger,F21667,Henninger,,0,Shreveport,,c37
+1910Spalding,1909,Texas League,herbert,B00879,Herbert,,0,Waco,,B48
+1910Spalding,1909,Texas League,herbert,F21397,Herbert,,0,Waco,,p48
+1910Spalding,1909,Texas League,herbert,P10357,Herbert,,0,Waco,,P39
+1910Spalding,1909,Texas League,hilding,B01431,Hilding,,0,Shreveport,,B16
+1910Spalding,1909,Texas League,hilding,F21623,Hilding,,0,Shreveport,,c16
+1910Spalding,1909,Texas League,hill,B00319,Hill,,0,Houston,,B137
+1910Spalding,1909,Texas League,hill,F20425,Hill,,0,Houston,,3b26
+1910Spalding,1909,Texas League,hill,F20583,Hill,,0,Houston,,ss111
+1910Spalding,1909,Texas League,hoffman-gal,B00241,Hoffman,,0,Galveston,,B112
+1910Spalding,1909,Texas League,hoffman-shr+wac,B01203,Hoffman,,0,Galveston,,B33
+1910Spalding,1909,Texas League,hoffman-shr+wac,F20401,Hoffman,,1,Shreveport,,3b
+1910Spalding,1909,Texas League,hoffman-shr+wac,F20401,Hoffman,,2,Waco,,3b
+1910Spalding,1909,Texas League,hoffman-shr+wac,F20401,Hoffman,,T,,,3b33
+1910Spalding,1909,Texas League,hoffman-gal,F20956,Hoffman,,0,Galveston,,cf112
+1910Spalding,1909,Texas League,holmes,B01489,Holmes,,0,Waco,,B26
+1910Spalding,1909,Texas League,holmes,F21577,Holmes,,0,Waco,,p26
+1910Spalding,1909,Texas League,holmes,P10432,Holmes,,0,Waco,,P26
+1910Spalding,1909,Texas League,hornsby,B01242,Hornsby,,0,Houston,,B39
+1910Spalding,1909,Texas League,hornsby,F21434,Hornsby,,0,Houston,,p37
+1910Spalding,1909,Texas League,hornsby,P10145,Hornsby,,0,Houston,,P37
+1910Spalding,1909,Texas League,jackson,B00207,Jackson,,0,Dallas,,B129
+1910Spalding,1909,Texas League,jackson,F20482,Jackson,,0,Dallas,,3b20
+1910Spalding,1909,Texas League,jackson,F20657,Jackson,,0,Dallas,,ss22
+1910Spalding,1909,Texas League,jackson,F21059,Jackson,,0,Dallas,,rf103
+1910Spalding,1909,Texas League,james,B00343,James,,1,Shreveport,,
+1910Spalding,1909,Texas League,james,B00343,James,,2,Waco,,
+1910Spalding,1909,Texas League,james,B00343,James,,T,,,B139
+1910Spalding,1909,Texas League,james,F20981,James,,1,Shreveport,,cf
+1910Spalding,1909,Texas League,james,F20981,James,,2,Waco,,cf
+1910Spalding,1909,Texas League,james,F20981,James,,T,,,cf139
+1910Spalding,1909,Texas League,johnson-wac,B00680,Johnson,,0,Waco,,B38
+1910Spalding,1909,Texas League,johnson-gal,B01466,Johnson,,0,Galveston,,B38
+1910Spalding,1909,Texas League,johnson-wac,F20594,Johnson,,0,Waco,,ss38
+1910Spalding,1909,Texas League,johnson-gal,F21163,Johnson,,0,Galveston,,p38
+1910Spalding,1909,Texas League,johnson-gal,P10410,Johnson,,0,Galveston,,P37
+1910Spalding,1909,Texas League,kaphan,B00324,Kaphan,,0,Galveston,,B12
+1910Spalding,1909,Texas League,kaphan,F20970,Kaphan,,0,Galveston,,cf21
+1910Spalding,1909,Texas League,kelsey,B01007,Kelsey,,0,Oklahoma City,,B128
+1910Spalding,1909,Texas League,kelsey,F21726,Kelsey,,0,Oklahoma City,,c119
+1910Spalding,1909,Texas League,killifer,B00491,Killifer,,0,Houston,,B119
+1910Spalding,1909,Texas League,killifer,F20886,Killifer,,0,Houston,,cf10
+1910Spalding,1909,Texas League,killifer,F21739,Killifer,,0,Houston,,c90
+1910Spalding,1909,Texas League,kinnally,B00577,Kinnally,,0,Fort Worth,,B128
+1910Spalding,1909,Texas League,kinnally,F20265,Kinnally,,0,Fort Worth,,2b79
+1910Spalding,1909,Texas League,kinnally,F20700,Kinnally,,0,Fort Worth,,ss49
+1910Spalding,1909,Texas League,kipp,B01143,Kipp,,1,Waco,,
+1910Spalding,1909,Texas League,kipp,B01143,Kipp,,2,San Antonio,,
+1910Spalding,1909,Texas League,kipp,B01143,Kipp,,T,,,B138
+1910Spalding,1909,Texas League,kipp,F20153,Kipp,,0,San Antonio,,2b47
+1910Spalding,1909,Texas League,kipp,F20604,Kipp,,0,San Antonio,,ss91
+1910Spalding,1909,Texas League,klawitter,B00854,Klawitter,,0,Shreveport,,B101
+1910Spalding,1909,Texas League,klawitter,F20474,Klawitter,,0,Shreveport,,3b27
+1910Spalding,1909,Texas League,klawitter,F21324,Klawitter,,0,Shreveport,,p28
+1910Spalding,1909,Texas League,klawitter,P10097,Klawitter,,0,Shreveport,,P27
+1910Spalding,1909,Texas League,leidy,B00667,Leidy,,0,San Antonio,,B92
+1910Spalding,1909,Texas League,leidy,F20908,Leidy,,0,San Antonio,,cf92
+1910Spalding,1909,Texas League,longley,B01197,Longley,,1,Houston,,
+1910Spalding,1909,Texas League,longley,B01197,Longley,,2,Waco,,
+1910Spalding,1909,Texas League,longley,B01197,Longley,,T,,,B19
+1910Spalding,1909,Texas League,longley,F21117,Longley,,1,Houston,,rf
+1910Spalding,1909,Texas League,longley,F21117,Longley,,2,Waco,,rf
+1910Spalding,1909,Texas League,longley,F21117,Longley,,T,,,rf19
+1910Spalding,1909,Texas League,loudell,B01216,Loudell,,1,Houston,,
+1910Spalding,1909,Texas League,loudell,B01216,Loudell,,2,Waco,,
+1910Spalding,1909,Texas League,loudell,B01216,Loudell,,T,,,B28
+1910Spalding,1909,Texas League,loudell,F21196,Loudell,,1,Dallas,,p
+1910Spalding,1909,Texas League,loudell,F21196,Loudell,,2,Waco,,p
+1910Spalding,1909,Texas League,loudell,F21196,Loudell,,T,,,p28
+1910Spalding,1909,Texas League,loudell,P10277,Loudell,,1,Dallas,,
+1910Spalding,1909,Texas League,loudell,P10277,Loudell,,2,Waco,,
+1910Spalding,1909,Texas League,loudell,P10277,Loudell,,T,,,P27
+1910Spalding,1909,Texas League,malloy,B00638,Malloy,,0,Houston,,B25
+1910Spalding,1909,Texas League,malloy,F21531,Malloy,,0,Houston,,p25
+1910Spalding,1909,Texas League,malloy,P10137,Malloy,,0,Houston,,P22
+1910Spalding,1909,Texas League,maloney,B00646,Maloney,,0,Dallas,,B142
+1910Spalding,1909,Texas League,maloney,F20919,Maloney,,0,Dallas,,cf142
+1910Spalding,1909,Texas League,markley,B01170,Markley,,1,Fort Worth,,
+1910Spalding,1909,Texas League,markley,B01170,Markley,,2,San Antonio,,
+1910Spalding,1909,Texas League,markley,B01170,Markley,,3,Dallas,,
+1910Spalding,1909,Texas League,markley,B01170,Markley,,T,,,B48
+1910Spalding,1909,Texas League,markley,F20620,Markley,,1,Fort Worth,,ss
+1910Spalding,1909,Texas League,markley,F20620,Markley,,2,San Antonio,,ss
+1910Spalding,1909,Texas League,markley,F20620,Markley,,3,Dallas,,ss
+1910Spalding,1909,Texas League,markley,F20620,Markley,,T,,,ss48
+1910Spalding,1909,Texas League,mcavoy,B01032,McAvoy,,1,Dallas,,
+1910Spalding,1909,Texas League,mcavoy,B01032,McAvoy,,2,Shreveport,,
+1910Spalding,1909,Texas League,mcavoy,B01032,McAvoy,,3,Galveston,,
+1910Spalding,1909,Texas League,mcavoy,B01032,McAvoy,,T,,,B106
+1910Spalding,1909,Texas League,mcavoy,F20233,McAvoy,,1,Dallas,,2b
+1910Spalding,1909,Texas League,mcavoy,F20233,McAvoy,,2,Shreveport,,2b
+1910Spalding,1909,Texas League,mcavoy,F20233,McAvoy,,3,Galveston,,2b
+1910Spalding,1909,Texas League,mcavoy,F20233,McAvoy,,T,,,2b27
+1910Spalding,1909,Texas League,mcavoy,F20417,McAvoy,,1,Dallas,,3b
+1910Spalding,1909,Texas League,mcavoy,F20417,McAvoy,,2,Shreveport,,3b
+1910Spalding,1909,Texas League,mcavoy,F20417,McAvoy,,3,Galveston,,3b
+1910Spalding,1909,Texas League,mcavoy,F20417,McAvoy,,T,,,3b44
+1910Spalding,1909,Texas League,mcavoy,F20685,McAvoy,,1,Dallas,,ss
+1910Spalding,1909,Texas League,mcavoy,F20685,McAvoy,,2,Shreveport,,ss
+1910Spalding,1909,Texas League,mcavoy,F20685,McAvoy,,3,Galveston,,ss
+1910Spalding,1909,Texas League,mcavoy,F20685,McAvoy,,T,,,ss35
+1910Spalding,1909,Texas League,mccormick,B00037,McCormick,,0,Oklahoma City,,B146
+1910Spalding,1909,Texas League,mccormick,F21084,McCormick,,0,Oklahoma City,,rf146
+1910Spalding,1909,Texas League,mcfarland,B00158,McFarland,,1,Houston,,
+1910Spalding,1909,Texas League,mcfarland,B00158,McFarland,,2,Oklahoma City,,
+1910Spalding,1909,Texas League,mcfarland,B00158,McFarland,,T,,,B14
+1910Spalding,1909,Texas League,mcfarland,F21362,McFarland,,1,Houston,,p
+1910Spalding,1909,Texas League,mcfarland,F21362,McFarland,,2,Oklahoma City,,p
+1910Spalding,1909,Texas League,mcfarland,F21362,McFarland,,T,,,p14
+1910Spalding,1909,Texas League,mcfarland,P10244,McFarland,,1,Houston,,
+1910Spalding,1909,Texas League,mcfarland,P10244,McFarland,,2,Oklahoma City,,
+1910Spalding,1909,Texas League,mcfarland,P10244,McFarland,,T,,,P13
+1910Spalding,1909,Texas League,mciver,B00068,McIver,,0,San Antonio,,B106
+1910Spalding,1909,Texas League,mciver,F20792,McIver,,0,San Antonio,,lf106
+1910Spalding,1909,Texas League,mckay,B00783,McKay,,0,Fort Worth,,B70
+1910Spalding,1909,Texas League,mckay,F21210,McKay,,0,Fort Worth,,p70
+1910Spalding,1909,Texas League,mckay,P10113,McKay,,0,Fort Worth,,P39
+1910Spalding,1909,Texas League,mclear,B01300,McLear,,0,San Antonio,,B33
+1910Spalding,1909,Texas League,mclear,F21021,McLear,,0,San Antonio,,rf33
+1910Spalding,1909,Texas League,meyers,B00278,Meyers,,0,Galveston,,B39
+1910Spalding,1909,Texas League,meyers,F20144,Meyers,,0,Galveston,,1b39
+1910Spalding,1909,Texas League,middleton,B00255,Middleton,,1,Fort Worth,,
+1910Spalding,1909,Texas League,middleton,B00255,Middleton,,2,Galveston,,
+1910Spalding,1909,Texas League,middleton,B00255,Middleton,,3,Houston,,
+1910Spalding,1909,Texas League,middleton,B00255,Middleton,,T,,,B126
+1910Spalding,1909,Texas League,middleton,F20177,Middleton,,1,Fort Worth,,2b
+1910Spalding,1909,Texas League,middleton,F20177,Middleton,,2,Galveston,,2b
+1910Spalding,1909,Texas League,middleton,F20177,Middleton,,3,Houston,,2b
+1910Spalding,1909,Texas League,middleton,F20177,Middleton,,T,,,2b126
+1910Spalding,1909,Texas League,miller.c,B00450,Miller,C.,0,Dallas,,B120
+1910Spalding,1909,Texas League,miller.v,B00502,Miller,V.,1,San Antonio,,
+1910Spalding,1909,Texas League,miller.v,B00502,Miller,V.,2,Waco,,
+1910Spalding,1909,Texas League,miller.v,B00502,Miller,V.,T,,,B53
+1910Spalding,1909,Texas League,miller.a,B00528,Miller,A.,1,Waco,,
+1910Spalding,1909,Texas League,miller.a,B00528,Miller,A.,2,Fort Worth,,
+1910Spalding,1909,Texas League,miller.a,B00528,Miller,A.,T,,,B89
+1910Spalding,1909,Texas League,miller.a,F20131,Miller,A.,1,Waco,,1b
+1910Spalding,1909,Texas League,miller.a,F20131,Miller,A.,2,Fort Worth,,1b
+1910Spalding,1909,Texas League,miller.a,F20131,Miller,A.,T,,,1b69
+1910Spalding,1909,Texas League,miller.v,F21293,Miller,V.,1,San Antonio,,p
+1910Spalding,1909,Texas League,miller.v,F21293,Miller,V.,2,Waco,,p
+1910Spalding,1909,Texas League,miller.v,F21293,Miller,V.,T,,,p53
+1910Spalding,1909,Texas League,miller.c,F21646,Miller,C.,0,Dallas,,c101
+1910Spalding,1909,Texas League,miller.v,P10289,Miller,V.,1,San Antonio,,
+1910Spalding,1909,Texas League,miller.v,P10289,Miller,V.,2,Waco,,
+1910Spalding,1909,Texas League,miller.v,P10289,Miller,V.,T,,,P34
+1910Spalding,1909,Texas League,mitchell.r,B00614,Mitchell,R.,0,Fort Worth,,B54
+1910Spalding,1909,Texas League,mitchell.f,B01093,Mitchell,F.,0,Houston,,B77
+1910Spalding,1909,Texas League,mitchell.w,B01392,Mitchell,W.,0,San Antonio,,B26
+1910Spalding,1909,Texas League,mitchell.f,F20962,Mitchell,F.,0,Houston,,cf77
+1910Spalding,1909,Texas League,mitchell.r,F21232,Mitchell,R.,0,Fort Worth,,p54
+1910Spalding,1909,Texas League,mitchell.w,F21475,Mitchell,W.,0,San Antonio,,p26
+1910Spalding,1909,Texas League,mitchell.w,P10159,Mitchell,W.,0,San Antonio,,P24
+1910Spalding,1909,Texas League,mitchell.r,P10192,Mitchell,R.,0,Fort Worth,,P38
+1910Spalding,1909,Texas League,moore,B00544,Moore,,0,Dallas,,B52
+1910Spalding,1909,Texas League,moore,F21515,Moore,,0,Dallas,,p52
+1910Spalding,1909,Texas League,moore,P10231,Moore,,0,Dallas,,P33
+1910Spalding,1909,Texas League,moulton,B00403,Moulton,,0,Fort Worth,,B23
+1910Spalding,1909,Texas League,moulton,F20547,Moulton,,0,Fort Worth,,ss23
+1910Spalding,1909,Texas League,mowry,B00362,Mowry,,0,Houston,,B141
+1910Spalding,1909,Texas League,mowry,F20745,Mowry,,0,Houston,,lf132
+1910Spalding,1909,Texas League,nance,B00308,Nance,,1,Fort Worth,,
+1910Spalding,1909,Texas League,nance,B00308,Nance,,2,Shreveport,,
+1910Spalding,1909,Texas League,nance,B00308,Nance,,T,,,B126
+1910Spalding,1909,Texas League,nance,F20211,Nance,,1,Fort Worth,,2b
+1910Spalding,1909,Texas League,nance,F20211,Nance,,2,Shreveport,,2b
+1910Spalding,1909,Texas League,nance,F20211,Nance,,T,,,2b126
+1910Spalding,1909,Texas League,nance,F20776,Nance,,1,Fort Worth,,lf
+1910Spalding,1909,Texas League,nance,F20776,Nance,,2,Shreveport,,lf
+1910Spalding,1909,Texas League,nance,F20776,Nance,,T,,,lf34
+1910Spalding,1909,Texas League,newnam,B00084,Newnam,,0,Houston,,B133
+1910Spalding,1909,Texas League,newnam,F20051,Newnam,,0,Houston,,1b133
+1910Spalding,1909,Texas League,northern,B00442,Northern,,1,Fort Worth,,
+1910Spalding,1909,Texas League,northern,B00442,Northern,,2,Houston,,
+1910Spalding,1909,Texas League,northern,B00442,Northern,,3,Waco,,
+1910Spalding,1909,Texas League,northern,B00442,Northern,,T,,,B123
+1910Spalding,1909,Texas League,northern,F20832,Northern,,1,Fort Worth,,lf
+1910Spalding,1909,Texas League,northern,F20832,Northern,,2,Houston,,lf
+1910Spalding,1909,Texas League,northern,F20832,Northern,,3,Waco,,lf
+1910Spalding,1909,Texas League,northern,F20832,Northern,,T,,,lf123
+1910Spalding,1909,Texas League,noyes,B00806,Noyes,,0,Oklahoma City,,B105
+1910Spalding,1909,Texas League,noyes,F20539,Noyes,,0,Oklahoma City,,3b24
+1910Spalding,1909,Texas League,noyes,F21811,Noyes,,0,Oklahoma City,,c35
+1910Spalding,1909,Texas League,ogles,B01250,Ogles,,0,Dallas,,B26
+1910Spalding,1909,Texas League,ogles,F21174,Ogles,,0,Dallas,,p26
+1910Spalding,1909,Texas League,ogles,P10464,Ogles,,0,Dallas,,P25
+1910Spalding,1909,Texas League,onslow,B01288,Onslow,,0,Dallas,,B53
+1910Spalding,1909,Texas League,onslow,F21651,Onslow,,0,Dallas,,c53
+1910Spalding,1909,Texas League,ott,B00898,Ott,,0,Waco,,B46
+1910Spalding,1909,Texas League,ott,F21705,Ott,,0,Waco,,c46
+1910Spalding,1909,Texas League,pendleton,B00822,Pendleton,,0,Fort Worth,,B144
+1910Spalding,1909,Texas League,pendleton,F20759,Pendleton,,0,Fort Worth,,lf130
+1910Spalding,1909,Texas League,peters,B01444,Peters,,0,Dallas,,B36
+1910Spalding,1909,Texas League,peters,F21255,Peters,,0,Dallas,,p36
+1910Spalding,1909,Texas League,peters,P10304,Peters,,0,Dallas,,P36
+1910Spalding,1909,Texas League,potts,B00985,Potts,,0,Dallas,,B16
+1910Spalding,1909,Texas League,potts,F20943,Potts,,0,Dallas,,cf16
+1910Spalding,1909,Texas League,powell,B00531,Powell,,1,Fort Worth,,
+1910Spalding,1909,Texas League,powell,B00531,Powell,,2,Waco,,
+1910Spalding,1909,Texas League,powell,B00531,Powell,,T,,,B125
+1910Spalding,1909,Texas League,powell,F21783,Powell,,1,Fort Worth,,c
+1910Spalding,1909,Texas League,powell,F21783,Powell,,2,Waco,,c
+1910Spalding,1909,Texas League,powell,F21783,Powell,,T,,,c125
+1910Spalding,1909,Texas League,queisser,B00887,Queisser,,0,Galveston,,B102
+1910Spalding,1909,Texas League,queisser,F21695,Queisser,,0,Galveston,,c102
+1910Spalding,1909,Texas League,quigley,B01078,Quigley,,0,Shreveport,,B65
+1910Spalding,1909,Texas League,quigley,F20254,Quigley,,0,Shreveport,,2b49
+1910Spalding,1909,Texas League,quigley,F20369,Quigley,,0,Shreveport,,3b16
+1910Spalding,1909,Texas League,rapps,B00149,Rapps,,0,Oklahoma City,,B136
+1910Spalding,1909,Texas League,rapps,F20046,Rapps,,0,Oklahoma City,,1b136
+1910Spalding,1909,Texas League,reed,B01119,Reed,,0,Dallas,,B27
+1910Spalding,1909,Texas League,reed,F20189,Reed,,0,Dallas,,2b27
+1910Spalding,1909,Texas League,reiger,B01376,Reiger,,0,Shreveport,,B26
+1910Spalding,1909,Texas League,reiger,F21356,Reiger,,0,Shreveport,,p26
+1910Spalding,1909,Texas League,reiger,P10320,Reiger,,0,Shreveport,,P26
+1910Spalding,1909,Texas League,riley,B00264,Riley,,0,Galveston,,B146
+1910Spalding,1909,Texas League,riley,F20768,Riley,,0,Galveston,,lf146
+1910Spalding,1909,Texas League,robb,B01124,Robb,,0,Galveston,,B16
+1910Spalding,1909,Texas League,robb,F21130,Robb,,0,Galveston,,p16
+1910Spalding,1909,Texas League,robb,P10184,Robb,,0,Galveston,,P13
+1910Spalding,1909,Texas League,rose,B01415,Rose,,0,Houston,,B43
+1910Spalding,1909,Texas League,rose,F21416,Rose,,0,Houston,,p43
+1910Spalding,1909,Texas League,rose,P10176,Rose,,0,Houston,,P42
+1910Spalding,1909,Texas League,schan,B01313,Schan,,0,San Antonio,,B82
+1910Spalding,1909,Texas League,schan,F21718,Schan,,0,San Antonio,,c82
+1910Spalding,1909,Texas League,shelton,B00747,Shelton,,0,Waco,,B73
+1910Spalding,1909,Texas League,shelton,F20095,Shelton,,0,Waco,,1b73
+1910Spalding,1909,Texas League,shontz,B01402,Shonts,,0,Dallas,,B17
+1910Spalding,1909,Texas League,shontz,F21427,Shontz,,0,Dallas,,p17
+1910Spalding,1909,Texas League,shontz,P10121,Shontz,,0,Dallas,,P16
+1910Spalding,1909,Texas League,short,B00488,Short,,1,Houston,,
+1910Spalding,1909,Texas League,short,B00488,Short,,2,Waco,,
+1910Spalding,1909,Texas League,short,B00488,Short,,T,,,B81
+1910Spalding,1909,Texas League,short,F20240,Short,,1,Houston,,2b
+1910Spalding,1909,Texas League,short,F20240,Short,,2,Waco,,2b
+1910Spalding,1909,Texas League,short,F20240,Short,,T,,,2b40
+1910Spalding,1909,Texas League,short,F20496,Short,,1,Houston,,3b
+1910Spalding,1909,Texas League,short,F20496,Short,,2,Waco,,3b
+1910Spalding,1909,Texas League,short,F20496,Short,,T,,,3b24
+1910Spalding,1909,Texas League,smith.c,B00021,Smith,C.,0,Shreveport,,B90
+1910Spalding,1909,Texas League,smith.g,B00672,Smith,G.,0,Shreveport,,B120
+1910Spalding,1909,Texas League,smith.g,F20166,Smith,G.,0,Shreveport,,2b76
+1910Spalding,1909,Texas League,smith.g,F20661,Smith,G.,0,Shreveport,,ss44
+1910Spalding,1909,Texas League,smith.c,F20997,Smith,C.,0,Shreveport,,cf90
+1910Spalding,1909,Texas League,smitheal,B00381,Smitheal,,0,Fort Worth,,B43
+1910Spalding,1909,Texas League,smitheal,F20673,Smitheal,,0,Fort Worth,,ss43
+1910Spalding,1909,Texas League,sorrells,B01181,Sorrels,,1,Shreveport,,
+1910Spalding,1909,Texas League,sorrells,B01181,Sorrels,,2,San Antonio,,
+1910Spalding,1909,Texas League,sorrells,B01181,Sorrels,,3,Fort Worth,,
+1910Spalding,1909,Texas League,sorrells,B01181,Sorrels,,T,,,B45
+1910Spalding,1909,Texas League,sorrells,F21308,Sorrels,,1,Shreveport,,p
+1910Spalding,1909,Texas League,sorrells,F21308,Sorrels,,2,San Antonio,,p
+1910Spalding,1909,Texas League,sorrells,F21308,Sorrels,,3,Fort Worth,,p
+1910Spalding,1909,Texas League,sorrells,F21308,Sorrels,,T,,,p45
+1910Spalding,1909,Texas League,sorrells,P10348,Sorrels,,1,Shreveport,,
+1910Spalding,1909,Texas League,sorrells,P10348,Sorrels,,2,San Antonio,,
+1910Spalding,1909,Texas League,sorrells,P10348,Sorrels,,3,Fort Worth,,
+1910Spalding,1909,Texas League,sorrells,P10348,Sorrels,,T,,,P38
+1910Spalding,1909,Texas League,stark,B00163,Stark,,0,San Antonio,,B125
+1910Spalding,1909,Texas League,stark,F20552,Stark,,0,San Antonio,,ss125
+1910Spalding,1909,Texas League,stewart,B01227,Stewart,,0,Houston,,B40
+1910Spalding,1909,Texas League,stewart,F21343,Stewart,,0,Houston,,p40
+1910Spalding,1909,Texas League,stewart,P10035,Stewart,,0,Houston,,P33
+1910Spalding,1909,Texas League,stillwell,B00948,Stillwell,,0,Dallas,,B36
+1910Spalding,1909,Texas League,stillwell,F20190,Stillwell,,0,Dallas,,2b36
+1910Spalding,1909,Texas League,stinson,B00076,Stinson,,0,San Antonio,,B109
+1910Spalding,1909,Texas League,stinson,F21101,Stinson,,0,San Antonio,,rf109
+1910Spalding,1909,Texas League,storch,B00589,Storch,,0,Dallas,,B125
+1910Spalding,1909,Texas League,storch,F20810,Storch,,0,Dallas,,lf125
+1910Spalding,1909,Texas League,strait,B01055,Strait,,0,Dallas,,B23
+1910Spalding,1909,Texas League,strait,F21013,Strait,,0,Dallas,,rf23
+1910Spalding,1909,Texas League,stribble,B01321,Stribble,,0,Galveston,,B23
+1910Spalding,1909,Texas League,stribble,F20327,Stribble,,0,Galveston,,2b23
+1910Spalding,1909,Texas League,sweatt,B00752,Sweatt,,0,Dallas,,B20
+1910Spalding,1909,Texas League,sweatt,F21068,Sweatt,,0,Dallas,,rf20
+1910Spalding,1909,Texas League,tesreau,B00469,Tesreau,,1,Houston,,
+1910Spalding,1909,Texas League,tesreau,B00469,Tesreau,,2,Galveston,,
+1910Spalding,1909,Texas League,tesreau,B00469,Tesreau,,3,Shreveport,,
+1910Spalding,1909,Texas League,tesreau,B00469,Tesreau,,4,San Antonio,,
+1910Spalding,1909,Texas League,tesreau,B00469,Tesreau,,T,,,B26
+1910Spalding,1909,Texas League,tesreau,F21469,Tesreau,,1,Houston,,p
+1910Spalding,1909,Texas League,tesreau,F21469,Tesreau,,2,Galveston,,p
+1910Spalding,1909,Texas League,tesreau,F21469,Tesreau,,3,Shreveport,,p
+1910Spalding,1909,Texas League,tesreau,F21469,Tesreau,,4,San Antonio,,p
+1910Spalding,1909,Texas League,tesreau,F21469,Tesreau,,T,,,p26
+1910Spalding,1909,Texas League,tesreau,P10407,Tesreau,,1,Houston,,
+1910Spalding,1909,Texas League,tesreau,P10407,Tesreau,,2,Galveston,,
+1910Spalding,1909,Texas League,tesreau,P10407,Tesreau,,3,Shreveport,,
+1910Spalding,1909,Texas League,tesreau,P10407,Tesreau,,4,San Antonio,,
+1910Spalding,1909,Texas League,tesreau,P10407,Tesreau,,T,,,P25
+1910Spalding,1909,Texas League,thebo,B00739,Thebo,,0,Waco,,B132
+1910Spalding,1909,Texas League,thebo,F20924,Thebo,,0,Waco,,cf132
+1910Spalding,1909,Texas League,truesdale,B00356,Truesdale,,0,Dallas,,B99
+1910Spalding,1909,Texas League,truesdale,F20342,Truesdale,,0,Dallas,,2b52
+1910Spalding,1909,Texas League,truesdale,F20648,Truesdale,,0,Dallas,,ss47
+1910Spalding,1909,Texas League,tullos,B00210,Tullos,,0,Dallas,,B143
+1910Spalding,1909,Texas League,tullos,F20430,Tullos,,0,Dallas,,3b120
+1910Spalding,1909,Texas League,tullos,F20713,Tullos,,0,Dallas,,ss23
+1910Spalding,1909,Texas League,vinson,B00293,Vinson,,0,Waco,,B112
+1910Spalding,1909,Texas League,vinson,F20128,Vinson,,0,Waco,,1b21
+1910Spalding,1909,Texas League,vinson,F20829,Vinson,,0,Waco,,lf86
+1910Spalding,1909,Texas League,walker,F21125,Walker,,0,San Antonio,,rf10
+1910Spalding,1909,Texas League,wallace,B01108,Wallace,,0,Galveston,,B131
+1910Spalding,1909,Texas League,wallace,F20612,Wallace,,0,Galveston,,ss131
+1910Spalding,1909,Texas League,walsh,B00335,Walsh,,0,San Antonio,,B118
+1910Spalding,1909,Texas League,walsh,F20334,Walsh,,0,San Antonio,,2b101
+1910Spalding,1909,Texas League,watson,B00833,Watson,,0,Houston,,B13
+1910Spalding,1909,Texas League,watson,F21319,Watson,,0,Houston,,p33
+1910Spalding,1909,Texas League,watson,P10312,Watson,,0,Houston,,P31
+1910Spalding,1909,Texas League,weatherford,B01490,Weatherford,,0,Houston,,B11
+1910Spalding,1909,Texas League,weatherford,F21553,Weatherford,,0,Houston,,p11
+1910Spalding,1909,Texas League,weatherford,P10168,Weatherford,,0,Houston,,P11
+1910Spalding,1909,Texas League,whaling,B00771,Whaling,,0,Shreveport,,B144
+1910Spalding,1909,Texas League,whaling,F20067,Whaling,,0,Shreveport,,1b144
+1910Spalding,1909,Texas League,white.d-okc,B00232,White,D.,0,Oklahoma City,,B137
+1910Spalding,1909,Texas League,white-wac,B00904,White,,0,Waco,,B80
+1910Spalding,1909,Texas League,white.w-okc,B00936,White,W.,0,Oklahoma City,,B150
+1910Spalding,1909,Texas League,white-hou,B01359,White,,0,Houston,,B20
+1910Spalding,1909,Texas League,white.d-okc,F20287,White,D.,0,Oklahoma City,,2b35
+1910Spalding,1909,Texas League,white.w-okc,F20560,White,W.,0,Oklahoma City,,ss150
+1910Spalding,1909,Texas League,white.d-okc,F20893,White,D.,0,Oklahoma City,,cf102
+1910Spalding,1909,Texas League,white-hou,F21000,White,,0,Houston,,cf20
+1910Spalding,1909,Texas League,white-wac,F21760,White,,1,Waco,,c
+1910Spalding,1909,Texas League,white-wac,F21760,White,,2,Houston,,c
+1910Spalding,1909,Texas League,white-wac,F21760,White,,T,,,c33
+1910Spalding,1909,Texas League,winchell,B01041,Winchell,,0,San Antonio,,B52
+1910Spalding,1909,Texas League,winchell,F21370,Winchell,,0,San Antonio,,p52
+1910Spalding,1909,Texas League,winchell,P10062,Winchell,,0,San Antonio,,P41
+1910Spalding,1909,Texas League,wolff,B00726,Wolff,,0,Galveston,,B17
+1910Spalding,1909,Texas League,wolff,F21822,Wolff,,0,Galveston,,c17
+1910Spalding,1909,Texas League,woodburn,B01269,Woodburn,,0,Dallas,,B18
+1910Spalding,1909,Texas League,woodburn,F21589,Woodburn,,0,Dallas,,p18
+1910Spalding,1909,Texas League,woodburn,P10429,Woodburn,,0,Dallas,,P17
+1910Spalding,1909,Texas League,yohe,B00101,Yohe,,1,Shreveport,,
+1910Spalding,1909,Texas League,yohe,B00101,Yohe,,2,Galveston,,
+1910Spalding,1909,Texas League,yohe,B00101,Yohe,,T,,,B126
+1910Spalding,1909,Texas League,yohe,F20449,Yohe,,1,Shreveport,,3b
+1910Spalding,1909,Texas League,yohe,F20449,Yohe,,2,Galveston,,3b
+1910Spalding,1909,Texas League,yohe,F20449,Yohe,,T,,,3b126
+1910Spalding,1909,Texas League,young,B01384,Young,,0,Oklahoma City,,B37
+1910Spalding,1909,Texas League,young,F21264,Young,,0,Oklahoma City,,p37
+1910Spalding,1909,Texas League,young,P10070,Young,,0,Oklahoma City,,P36

@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1979,Appalachian League,M91495,Hassell,Gene,,Kingsport,,,
-emilbb,1979,Appalachian League,M91535,Lewis,Joe,,Bristol,,,
-emilbb,1979,Appalachian League,M91524,Leyva,Nick,,Johnson City,,,
-emilbb,1979,Appalachian League,M91480,Livesey,Bill,,Paintsville,,,
-emilbb,1979,Appalachian League,M91519,Miner,Junior,,Bluefield,,,
-emilbb,1979,Appalachian League,M91508,Waters,Fred,,Elizabethton,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1979,Appalachian League,,M91495,Hassell,Gene,,Kingsport,,
+emilbb,1979,Appalachian League,,M91535,Lewis,Joe,,Bristol,,
+emilbb,1979,Appalachian League,,M91524,Leyva,Nick,,Johnson City,,
+emilbb,1979,Appalachian League,,M91480,Livesey,Bill,,Paintsville,,
+emilbb,1979,Appalachian League,,M91519,Miner,Junior,,Bluefield,,
+emilbb,1979,Appalachian League,,M91508,Waters,Fred,,Elizabethton,,

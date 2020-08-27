@@ -1,13 +1,13 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1987,Midwest League,M91199,Adams,Glenn,,Waterloo,,,adams
-emilbb,1987,Midwest League,M91148,Berry,Ken,,Appleton,,,berry
-emilbb,1987,Midwest League,M91161,Cuellar,Bobby,,Wausau,,,cuellar
-emilbb,1987,Midwest League,M91185,Evers,Bill,,Clinton,,,evers
-emilbb,1987,Midwest League,M91173,Hodge,Gomer,,Beloit,,,hodge
-emilbb,1987,Midwest League,M91200,Kirsch,Paul,,Cedar Rapids,,,kirsch
-emilbb,1987,Midwest League,M91136,Leppert,Don,,Kenosha,,,leppert
-emilbb,1987,Midwest League,M91237,Miner,J. R.,,Burlington,,,miner
-emilbb,1987,Midwest League,M91157,Nettles,Jim,,Madison,,,nettles
-emilbb,1987,Midwest League,M91213,Pitts,Gaylen,,Springfield,,,pitts
-emilbb,1987,Midwest League,M91245,Rodriguez,Eddie,,Quad Cities,,,
-emilbb,1987,Midwest League,M91221,Tracy,Jim,,Peoria,,,tracy
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1987,Midwest League,adams,M91199,Adams,Glenn,,Waterloo,,
+emilbb,1987,Midwest League,berry,M91148,Berry,Ken,,Appleton,,
+emilbb,1987,Midwest League,cuellar,M91161,Cuellar,Bobby,,Wausau,,
+emilbb,1987,Midwest League,evers,M91185,Evers,Bill,,Clinton,,
+emilbb,1987,Midwest League,hodge,M91173,Hodge,Gomer,,Beloit,,
+emilbb,1987,Midwest League,kirsch,M91200,Kirsch,Paul,,Cedar Rapids,,
+emilbb,1987,Midwest League,leppert,M91136,Leppert,Don,,Kenosha,,
+emilbb,1987,Midwest League,miner,M91237,Miner,J. R.,,Burlington,,
+emilbb,1987,Midwest League,nettles,M91157,Nettles,Jim,,Madison,,
+emilbb,1987,Midwest League,pitts,M91213,Pitts,Gaylen,,Springfield,,
+emilbb,1987,Midwest League,,M91245,Rodriguez,Eddie,,Quad Cities,,
+emilbb,1987,Midwest League,tracy,M91221,Tracy,Jim,,Peoria,,

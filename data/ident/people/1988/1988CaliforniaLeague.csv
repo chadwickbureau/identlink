@@ -1,11 +1,11 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1988,California League,M90972,Dick,Ralph,,San Bernardino,,,dick
-emilbb,1988,California League,M90914,Espy,Duane,,San Jose,,,espy
-emilbb,1988,California League,M90909,Huppert,Dave,,Stockton,,,huppert
-emilbb,1988,California League,M90980,LaRocque,Gary,,Bakersfield,,,larocque
-emilbb,1988,California League,M90995,Lachemann,Bill,,Palm Springs,,,lachemann
-emilbb,1988,California League,M90923,Newman,Jeff,,Modesto,,,newman
-emilbb,1988,California League,M90946,Oliver,Nate,,Reno,,,
-emilbb,1988,California League,M90951,Torchia,Tony,,Riverside,,,torchia
-emilbb,1988,California League,M90938,Treanor,Dean,,Fresno,,,
-emilbb,1988,California League,M90967,Ullger,Scott,,Visalia,,,ullger
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1988,California League,dick,M90972,Dick,Ralph,,San Bernardino,,
+emilbb,1988,California League,espy,M90914,Espy,Duane,,San Jose,,
+emilbb,1988,California League,huppert,M90909,Huppert,Dave,,Stockton,,
+emilbb,1988,California League,larocque,M90980,LaRocque,Gary,,Bakersfield,,
+emilbb,1988,California League,lachemann,M90995,Lachemann,Bill,,Palm Springs,,
+emilbb,1988,California League,newman,M90923,Newman,Jeff,,Modesto,,
+emilbb,1988,California League,,M90946,Oliver,Nate,,Reno,,
+emilbb,1988,California League,torchia,M90951,Torchia,Tony,,Riverside,,
+emilbb,1988,California League,,M90938,Treanor,Dean,,Fresno,,
+emilbb,1988,California League,ullger,M90967,Ullger,Scott,,Visalia,,

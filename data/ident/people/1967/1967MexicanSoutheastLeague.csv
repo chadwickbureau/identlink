@@ -1,8 +1,8 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1967,Mexican Southeast League,M90980,Frayde,Guillermo,,Ciudad del Carmen,,,
-emilbb,1967,Mexican Southeast League,M90967,Garcia,Dave,,Campeche,,,
-emilbb,1967,Mexican Southeast League,M91011,Landeros,Jose,,Tabasco,,,
-emilbb,1967,Mexican Southeast League,M91022,Minoso,Minnie,,Orizaba,,,
-emilbb,1967,Mexican Southeast League,M91006,Solano,Claudio,,Puerto Mexico,,,
-emilbb,1967,Mexican Southeast League,M90995,Tanaka,Andres,,Villahermosa/Las Choapas,,,
-emilbb,1967,Mexican Southeast League,M90972,Valenzuela,Ben,,Yucatan,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1967,Mexican Southeast League,,M90980,Frayde,Guillermo,,Ciudad del Carmen,,
+emilbb,1967,Mexican Southeast League,,M90967,Garcia,Dave,,Campeche,,
+emilbb,1967,Mexican Southeast League,,M91011,Landeros,Jose,,Tabasco,,
+emilbb,1967,Mexican Southeast League,,M91022,Minoso,Minnie,,Orizaba,,
+emilbb,1967,Mexican Southeast League,,M91006,Solano,Claudio,,Puerto Mexico,,
+emilbb,1967,Mexican Southeast League,,M90995,Tanaka,Andres,,Villahermosa/Las Choapas,,
+emilbb,1967,Mexican Southeast League,,M90972,Valenzuela,Ben,,Yucatan,,

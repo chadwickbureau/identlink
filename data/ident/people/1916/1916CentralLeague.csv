@@ -1,416 +1,416 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-1917Reach,1916,Central League,B01124,Ainsworth,,0,Terre Haute,,B39,ainsworth
-1917Reach,1916,Central League,F21427,Ainsworth,,0,Terre Haute,,p35,ainsworth
-1917Reach,1916,Central League,P10137,Ainsworth,,0,Terre Haute,,P35,ainsworth
-1917Reach,1916,Central League,B00590,Alcock,,0,Grand Rapids,,B134,alcock
-1917Reach,1916,Central League,F20334,Alcock,,0,Grand Rapids,,3b23,alcock
-1917Reach,1916,Central League,B00068,Altenberg,,0,Wheeling,,B109,altenberg
-1917Reach,1916,Central League,F20685,Altenberg,,0,Wheeling,,of109,altenberg
-1917Reach,1916,Central League,B00726,Anderson,T.,0,Springfield,,B84,anderson-spr
-1917Reach,1916,Central League,B01203,Anderson,W.,0,South Bend,,B11,anderson-sb
-1917Reach,1916,Central League,F20067,Anderson,,0,Springfield,,1b84,anderson-spr
-1917Reach,1916,Central League,F21397,Anderson,,0,South Bend,,p11,anderson-sb
-1917Reach,1916,Central League,P10385,Anderson,,0,South Bend,,P11,anderson-sb
-1917Reach,1916,Central League,B00293,Bailey,,0,Grand Rapids,,B15,bailey
-1917Reach,1916,Central League,P10399,Bailey,,0,Grand Rapids,,P5,bailey
-1917Reach,1916,Central League,B00182,Bashang,,0,South Bend,,B136,bashang
-1917Reach,1916,Central League,F20919,Bashang,,0,South Bend,,of136,bashang
-1917Reach,1916,Central League,B00936,Beall,,0,South Bend,,B134,beall
-1917Reach,1916,Central League,F20038,Beall,,0,South Bend,,1b133,beall
-1917Reach,1916,Central League,B01216,Beyers,,0,Muskegon,,B12,beyers
-1917Reach,1916,Central League,F21021,Beyers,,0,Muskegon,,c12,beyers
-1917Reach,1916,Central League,B00822,Blackwell,,0,Wheeling,,B108,blackwell
-1917Reach,1916,Central League,F21174,Blackwell,,0,Wheeling,,c108,blackwell
-1917Reach,1916,Central League,B00887,Blank,,1,South Bend,,,blank
-1917Reach,1916,Central League,B00887,Blank,,2,Evansville,,,blank
-1917Reach,1916,Central League,B00887,Blank,,T,,,B60,blank
-1917Reach,1916,Central League,F20526,Blank,,0,Evansville,,ss60,blank
-1917Reach,1916,Central League,F20864,Bonin,,0,Muskegon,,of32,bonnin
-1917Reach,1916,Central League,B00264,Bonnin,,0,Muskegon,,B32,bonnin
-1917Reach,1916,Central League,B00130,Bowman,,0,South Bend,,B60,bowman
-1917Reach,1916,Central League,F20970,Bowman,,0,South Bend,,of12,bowman
-1917Reach,1916,Central League,F21343,Bowman,,0,South Bend,,p38,bowman
-1917Reach,1916,Central League,P10184,Bowman,,0,South Bend,,P38,bowman
-1917Reach,1916,Central League,B00646,Brant,,0,Grand Rapids,,B134,brant
-1917Reach,1916,Central League,F20463,Brant,,0,Grand Rapids,,ss134,brant
-1917Reach,1916,Central League,B00076,Bratchi,,0,Muskegon,,B68,bratchi
-1917Reach,1916,Central League,F20935,Bratchi,,0,Muskegon,,of68,bratchi
-1917Reach,1916,Central League,B01086,Bravener,,1,Wheeling,,,bravener
-1917Reach,1916,Central League,B01086,Bravener,,2,Grand Rapids,,,bravener
-1917Reach,1916,Central League,B01086,Bravener,,T,,,B25,bravener
-1917Reach,1916,Central League,F21241,Bravener,,1,Wheeling,,p,bravener
-1917Reach,1916,Central League,F21241,Bravener,,2,Grand Rapids,,p,bravener
-1917Reach,1916,Central League,F21241,Bravener,,T,,,p24,bravener
-1917Reach,1916,Central League,P10348,Bravener,,0,Wheeling,,P24,bravener
-1917Reach,1916,Central League,B00760,Brubaker,,0,Muskegon,,B122,brubaker
-1917Reach,1916,Central League,F20458,Brubaker,,0,Muskegon,,ss121,brubaker
-1917Reach,1916,Central League,B00416,Callahan,,0,Wheeling,,B133,callahan
-1917Reach,1916,Central League,F20265,Callahan,,0,Wheeling,,2b133,callahan
-1917Reach,1916,Central League,B00397,Carey,,0,Grand Rapids,,B123,carey
-1917Reach,1916,Central League,F20254,Carey,,0,Grand Rapids,,2b107,carey
-1917Reach,1916,Central League,F20700,Carey,,0,Grand Rapids,,of16,carey
-1917Reach,1916,Central League,F20482,Caveney,,0,Springfield,,ss132,caveny
-1917Reach,1916,Central League,B00450,Caveny,,0,Springfield,,B132,caveny
-1917Reach,1916,Central League,B01181,Clarke,,0,Springfield,,B40,clarke
-1917Reach,1916,Central League,F21442,Clarke,,0,Springfield,,p40,clarke
-1917Reach,1916,Central League,P10070,Clarke,,0,Springfield,,P40,clarke
-1917Reach,1916,Central League,B00210,Cleveland,,0,Wheeling,,B126,cleveland
-1917Reach,1916,Central League,F20401,Cleveland,,0,Wheeling,,3b122,cleveland
-1917Reach,1916,Central League,B00381,Collins,,0,South Bend,,B88,collins
-1917Reach,1916,Central League,F20661,Collins,,0,South Bend,,of88,collins
-1917Reach,1916,Central League,B01143,Compton,,1,Muskegon,,,compton
-1917Reach,1916,Central League,B01143,Compton,,2,Grand Rapids,,,compton
-1917Reach,1916,Central League,B01143,Compton,,T,,,B33,compton
-1917Reach,1916,Central League,F21356,Compton,,1,Muskegon,,p,compton
-1917Reach,1916,Central League,F21356,Compton,,2,Grand Rapids,,p,compton
-1917Reach,1916,Central League,F21356,Compton,,T,,,p29,compton
-1917Reach,1916,Central League,P10290,Compton,,0,Muskegon,,P29,compton
-1917Reach,1916,Central League,B00403,Coveleskie,,0,Muskegon,,B103,coveleskie
-1917Reach,1916,Central League,F20893,Coveleskie,,0,Muskegon,,of103,coveleskie
-1917Reach,1916,Central League,B00651,Cramer,,0,Terre Haute,,B37,cramer
-1917Reach,1916,Central League,F21182,Cramer,,0,Terre Haute,,p35,cramer
-1917Reach,1916,Central League,P10304,Cramer,,0,Terre Haute,,P35,cramer
-1917Reach,1916,Central League,B00092,Crichlow,,0,Springfield,,B44,crichlow
-1917Reach,1916,Central League,F20832,Crichlow,,0,Springfield,,of44,crichlow
-1917Reach,1916,Central League,B01269,Crum,,1,Muskegon,,,crum
-1917Reach,1916,Central League,B01269,Crum,,2,Terre Haute,,,crum
-1917Reach,1916,Central League,B01269,Crum,,T,,,B32,crum
-1917Reach,1916,Central League,F21475,Crum,,0,Terre Haute,,p31,crum
-1917Reach,1916,Central League,P10266,Crum,,0,Muskegon,,P31,crum
-1917Reach,1916,Central League,B00920,Daly,,0,Springfield,,B22,daly
-1917Reach,1916,Central League,F20153,Daly,,0,Springfield,,2b22,daly
-1917Reach,1916,Central League,B00515,De Vormer,,0,Grand Rapids,,B112,devormer
-1917Reach,1916,Central League,F21117,De Vormer,,0,Grand Rapids,,c112,devormer
-1917Reach,1916,Central League,B01300,DeVogt,,0,South Bend,,B20,devogt
-1917Reach,1916,Central League,F21130,DeVogt,,0,South Bend,,c20,devogt
-1917Reach,1916,Central League,B01376,Donley,,1,Wheeling,,,donley
-1917Reach,1916,Central League,B01376,Donley,,2,Evansville,,,donley
-1917Reach,1916,Central League,B01376,Donley,,3,Springfield,,,donley
-1917Reach,1916,Central League,B01376,Donley,,T,,,B36,donley
-1917Reach,1916,Central League,F21264,Donley,,1,Wheeling,,p,donley
-1917Reach,1916,Central League,F21264,Donley,,2,Springfield,,p,donley
-1917Reach,1916,Central League,F21264,Donley,,T,,,p35,donley
-1917Reach,1916,Central League,P10373,Donley,,0,Wheeling,,P35,donley
-1917Reach,1916,Central League,B00117,Donnelly,,0,South Bend,,B52,donnelly
-1917Reach,1916,Central League,F21045,Donnelly,,0,South Bend,,c48,donnelly
-1917Reach,1916,Central League,B00912,Douglas,,0,Wheeling,,B29,douglas
-1917Reach,1916,Central League,F21488,Douglas,,0,Wheeling,,p26,douglas
-1917Reach,1916,Central League,P10097,Douglas,,0,Wheeling,,P26,douglas
-1917Reach,1916,Central League,B00904,Dowan,,0,Dayton,,B42,rowan
-1917Reach,1916,Central League,B01242,Dowling,,0,Muskegon,,B31,dowling
-1917Reach,1916,Central League,F20303,Dowling,,0,Muskegon,,2b31,dowling
-1917Reach,1916,Central League,B00752,Duffy,,0,Grand Rapids,,B59,duffy
-1917Reach,1916,Central League,F20997,Duffy,,1,Grand Rapids,,of,duffy
-1917Reach,1916,Central League,F20997,Duffy,,2,Wheeling,,of,duffy
-1917Reach,1916,Central League,F20997,Duffy,,T,,,of12,duffy
-1917Reach,1916,Central League,F21362,Duffy,,1,Grand Rapids,,p,duffy
-1917Reach,1916,Central League,F21362,Duffy,,2,Wheeling,,p,duffy
-1917Reach,1916,Central League,F21362,Duffy,,T,,,p39,duffy
-1917Reach,1916,Central League,P10192,Duffy,,0,Grand Rapids,,P39,duffy
-1917Reach,1916,Central League,B00059,Duncan,,0,Grand Rapids,,B124,duncan
-1917Reach,1916,Central League,F20776,Duncan,,0,Grand Rapids,,of123,duncan
-1917Reach,1916,Central League,B00898,Dunn,,0,Springfield,,B120,dunn
-1917Reach,1916,Central League,F21125,Dunn,,0,Springfield,,c118,dunn
-emilbb,1916,Central League,M90533,Dunn,Joe,,Springfield,,,
-1917Reach,1916,Central League,B00488,Edington,,0,Grand Rapids,,B133,edington
-1917Reach,1916,Central League,F20014,Edington,,0,Grand Rapids,,1b67,edington
-1917Reach,1916,Central League,F20768,Edington,,0,Grand Rapids,,of67,edington
-1917Reach,1916,Central League,B01291,Emmer,,0,Dayton,,B21,emmer
-1917Reach,1916,Central League,F20391,Emmer,,0,Dayton,,3b11,emmer
-1917Reach,1916,Central League,F20547,Emmer,,0,Dayton,,ss10,emmer
-emilbb,1916,Central League,M90511,Essick,Bill,,Grand Rapids,,,
-1917Reach,1916,Central League,B00672,Evers,,1,Terre Haute,,,evers
-1917Reach,1916,Central League,B00672,Evers,,2,Muskegon,,,evers
-1917Reach,1916,Central League,B00672,Evers,,T,,,B121,evers
-1917Reach,1916,Central League,F20190,Evers,,1,Terre Haute,,2b,evers
-1917Reach,1916,Central League,F20190,Evers,,2,Muskegon,,2b,evers
-1917Reach,1916,Central League,F20190,Evers,,T,,,2b102,evers
-1917Reach,1916,Central League,F21013,Evers,,1,Terre Haute,,of,evers
-1917Reach,1916,Central League,F21013,Evers,,2,Muskegon,,of,evers
-1917Reach,1916,Central League,F21013,Evers,,T,,,of15,evers
-1917Reach,1916,Central League,B00158,Fisher,,0,Muskegon,,B133,fisher-mus
-1917Reach,1916,Central League,B00973,Fisher,,0,South Bend,,B30,fisher-sb
-1917Reach,1916,Central League,F20115,Fisher,,0,Muskegon,,1b133,fisher-mus
-1917Reach,1916,Central League,F20620,Fisher,,0,South Bend,,of30,fisher-sb
-1917Reach,1916,Central League,F20878,Fluhrer,,0,Springfield,,of129,fluhrer
-1917Reach,1916,Central League,B00434,Flurher,,0,Springfield,,B129,fluhrer
-1917Reach,1916,Central League,B00308,French,,0,Terre Haute,,B31,french
-1917Reach,1916,Central League,F20177,French,,0,Terre Haute,,2b28,french
-1917Reach,1916,Central League,B01313,Fromholtz,,0,Evansville,,B38,fromholtz
-1917Reach,1916,Central League,F21528,Fromholtz,,0,Evansville,,p34,fromholtz
-1917Reach,1916,Central League,P10159,Fromholtz,,0,Evansville,,P34,fromholtz
-1917Reach,1916,Central League,B01337,Frost,,0,Dayton,,B34,frost
-1917Reach,1916,Central League,F21196,Frost,,0,Dayton,,p30,frost
-1917Reach,1916,Central League,P10145,Frost,,0,Dayton,,P30,frost
-1917Reach,1916,Central League,B00638,Gilbert,,0,Terre Haute,,B66,gilbert
-1917Reach,1916,Central League,F20095,Gilbert,,0,Terre Haute,,1b27,gilbert
-1917Reach,1916,Central League,F21531,Gilbert,,0,Terre Haute,,p32,gilbert
-1917Reach,1916,Central League,P10336,Gilbert,,0,Terre Haute,,P32,gilbert
-emilbb,1916,Central League,M90565,Gilbert,Rufus,,Terre Haute,,,
-1917Reach,1916,Central League,B01119,Goosetree,,0,Grand Rapids,,B10,goosetree
-1917Reach,1916,Central League,F20369,Goosetree,,0,Grand Rapids,,3b10,goosetree
-1917Reach,1916,Central League,B01010,Goshorn,,0,Grand Rapids,,B21,goshorn
-1917Reach,1916,Central League,F21232,Goshorn,,0,Grand Rapids,,p19,goshorn
-1917Reach,1916,Central League,P10035,Goshorn,,0,Grand Rapids,,P19,goshorn
-1917Reach,1916,Central League,B00566,Gray,,1,South Bend,,,gray
-1917Reach,1916,Central League,B00566,Gray,,2,Terre Haute,,,gray
-1917Reach,1916,Central League,B00566,Gray,,T,,,B126,gray
-1917Reach,1916,Central League,F20327,Gray,,1,South Bend,,3b,gray
-1917Reach,1916,Central League,F20327,Gray,,2,Terre Haute,,3b,gray
-1917Reach,1916,Central League,F20327,Gray,,T,,,3b111,gray
-1917Reach,1916,Central League,F20552,Gray,,1,South Bend,,ss,gray
-1917Reach,1916,Central League,F20552,Gray,,2,Terre Haute,,ss,gray
-1917Reach,1916,Central League,F20552,Gray,,T,,,ss15,gray
-1917Reach,1916,Central League,B00013,Green,,0,South Bend,,B18,green
-1917Reach,1916,Central League,F21324,Green,,0,South Bend,,p11,green
-1917Reach,1916,Central League,P10432,Green,,0,South Bend,,P11,green
-1917Reach,1916,Central League,B00840,Grefe,,0,Evansville,,B12,grefe
-1917Reach,1916,Central League,F20046,Grefe,,0,Evansville,,1b12,grefe
-1917Reach,1916,Central League,B00695,Grimes,,0,South Bend,,B36,grimes
-1917Reach,1916,Central League,F20657,Grimes,,0,South Bend,,of36,grimes
-1917Reach,1916,Central League,B00961,Grodick,,0,South Bend,,B57,grodick
-1917Reach,1916,Central League,F20211,Grodick,,0,South Bend,,2b47,grodick
-1917Reach,1916,Central League,F20430,Grodick,,0,South Bend,,ss10,grodick
-1917Reach,1916,Central League,B00854,Gygli,,0,Terre Haute,,B134,gygli
-1917Reach,1916,Central League,F20128,Gygli,,0,Terre Haute,,1b109,gygli
-1917Reach,1916,Central League,F20206,Gygli,,0,Terre Haute,,2b24,gygli
-1917Reach,1916,Central League,B00528,Haggerty,,0,Grand Rapids,,B39,haggerty
-1917Reach,1916,Central League,F21370,Haggerty,,0,Grand Rapids,,p29,haggerty
-1917Reach,1916,Central League,P10121,Haggerty,,0,Grand Rapids,,P29,haggerty
-1917Reach,1916,Central League,B00948,Haines,,0,Springfield,,B43,haines
-1917Reach,1916,Central League,F21319,Haines,,0,Springfield,,p41,haines
-1917Reach,1916,Central League,P10056,Haines,,0,Springfield,,P41,haines
-1917Reach,1916,Central League,P10441,Hanna,,0,Dayton,,P6,hanna
-1917Reach,1916,Central League,B01064,Harris,H. J.,0,Springfield,,B14,harris-spr
-1917Reach,1916,Central League,B01162,Harris,S.,0,Muskegon,,B55,harris-mus
-1917Reach,1916,Central League,F20417,Harris,S.,0,Muskegon,,3b54,harris-mus
-1917Reach,1916,Central League,F20737,Harris,,0,Springfield,,of14,harris-spr
-1917Reach,1916,Central League,B01345,Hart,,0,Muskegon,,B41,hart
-1917Reach,1916,Central League,F21469,Hart,,0,Muskegon,,p41,hart
-1917Reach,1916,Central League,P10289,Hart,,0,Muskegon,,P41,hart
-1917Reach,1916,Central League,B00207,Hartle,,0,Springfield,,B134,hartle
-1917Reach,1916,Central League,F20699,Hartle,,0,Springfield,,of134,hartle
-1917Reach,1916,Central League,B00149,Hauger,,0,Evansville,,B127,hauger
-1917Reach,1916,Central League,F20612,Hauger,,0,Evansville,,of127,hauger
-1917Reach,1916,Central League,B00469,Helmar,,0,Grand Rapids,,B48,helmar
-1917Reach,1916,Central League,F20924,Helmer,,0,Grand Rapids,,of48,helmar
-1917Reach,1916,Central League,B00705,Henning,,0,Evansville,,B29,henning
-1917Reach,1916,Central League,F20144,Henning,,0,Evansville,,1b29,henning
-1917Reach,1916,Central League,B00544,Hensling,,0,South Bend,,B107,hensling
-1917Reach,1916,Central League,F20350,Hensling,,0,South Bend,,3b93,hensling
-1917Reach,1916,Central League,B00232,Hibble,,0,Evansville,,B133,hibble
-1917Reach,1916,Central League,B00739,Hill,,0,South Bend,,B39,hill
-1917Reach,1916,Central League,F21544,Hill,,0,South Bend,,p37,hill
-1917Reach,1916,Central League,P10312,Hill,,0,South Bend,,P37,hill
-1917Reach,1916,Central League,B00241,Hobbs,,0,Dayton,,B111,hobbs
-1917Reach,1916,Central League,F20474,Hobbs,,0,Dayton,,ss110,hobbs
-1917Reach,1916,Central League,B00427,Hoffman,,0,Springfield,,B130,hoffman
-1917Reach,1916,Central League,F20425,Hoffman,,0,Springfield,,3b130,hoffman
-1917Reach,1916,Central League,B00356,Holderman,,0,Terre Haute,,B89,holderman
-1917Reach,1916,Central League,F20807,Holderman,,0,Terre Haute,,of85,holderman
-1917Reach,1916,Central League,B00286,House,,0,Grand Rapids,,B30,house
-1917Reach,1916,Central League,F20080,House,,0,Grand Rapids,,1b30,house
-1917Reach,1916,Central League,B01093,Hungling,,0,Springfield,,B37,hungling
-1917Reach,1916,Central League,F21158,Hungling,,0,Springfield,,c25,hungling
-1917Reach,1916,Central League,B00999,Isaacs,,0,Terre Haute,,B12,isaacs
-1917Reach,1916,Central League,B00370,Jacobs,,0,Dayton,,B131,jacobs
-1917Reach,1916,Central League,F21101,Jacobs,,0,Dayton,,c131,jacobs
-1917Reach,1916,Central League,B00343,Kading,,0,South Bend,,B10,kading
-1917Reach,1916,Central League,P10455,Kelley,,0,South Bend,,P7,kelley
-1917Reach,1916,Central League,F20908,Kibble,,0,Evansville,,of126,hibble
-1917Reach,1916,Central League,B00101,King,,0,Wheeling,,B125,king
-1917Reach,1916,Central League,F20745,King,,0,Wheeling,,of125,king
-1917Reach,1916,Central League,B00324,Knoll,,0,Evansville,,B131,knoll
-1917Reach,1916,Central League,F20636,Knoll,,0,Evansville,,of128,knoll
-emilbb,1916,Central League,M90554,Knoll,"Charles ""Punch""",,Evansville,,,
-1917Reach,1916,Central League,B00125,Koehler,,0,South Bend,,B89,koehler
-1917Reach,1916,Central League,F20189,Koehler,,0,South Bend,,2b89,koehler
-emilbb,1916,Central League,M90579,Koehler,Ben,,South Bend,,,
-1917Reach,1916,Central League,B00609,LaRoss,,0,Terre Haute,,B108,laross
-1917Reach,1916,Central League,F20810,LaRoss,,0,Terre Haute,,of97,laross
-1917Reach,1916,Central League,F21037,LaRoss,,0,Terre Haute,,c12,laross
-1917Reach,1916,Central League,B01055,Lakaff,,0,Dayton,,B41,lakaff
-1917Reach,1916,Central League,F21308,Lakaff,,0,Dayton,,p38,lakaff
-1917Reach,1916,Central League,P10024,Lakaff,,0,Dayton,,P38,lakaff
-1917Reach,1916,Central League,B01227,Larsen,,0,Evansville,,B27,larsen
-1917Reach,1916,Central League,F21229,Larsen,,0,Evansville,,p27,larsen
-1917Reach,1916,Central League,P10081,Larson,,0,Evansville,,P27,larsen
-1917Reach,1916,Central League,P10215,LeRoy,,0,Muskegon,,P8,leroy
-1917Reach,1916,Central League,B00278,Lear,,0,Wheeling,,B122,lear
-1917Reach,1916,Central League,F20102,Lear,,0,Wheeling,,1b121,lear
-1917Reach,1916,Central League,B01135,Leibrock,,0,Dayton,,B12,leibrock
-1917Reach,1916,Central League,B01321,Loudermilk,,1,South Bend,,,loudermilk
-1917Reach,1916,Central League,B01321,Loudermilk,,2,Springfield,,,loudermilk
-1917Reach,1916,Central League,B01321,Loudermilk,,T,,,B39,loudermilk
-1917Reach,1916,Central League,F21450,Loudermilk,,1,South Bend,,p,loudermilk
-1917Reach,1916,Central League,F21450,Loudermilk,,2,Springfield,,p,loudermilk
-1917Reach,1916,Central League,F21450,Loudermilk,,T,,,p38,loudermilk
-1917Reach,1916,Central League,P10277,Loudermilk,,0,Springfield,,P38,loudermilk
-1917Reach,1916,Central League,B01041,Martin,,1,Muskegon,,,martin
-1917Reach,1916,Central League,B01041,Martin,,2,Grand Rapids,,,martin
-1917Reach,1916,Central League,B01041,Martin,,T,,,B26,martin
-1917Reach,1916,Central League,F20222,Martin,,1,Muskegon,,2b,martin
-1917Reach,1916,Central League,F20222,Martin,,2,Grand Rapids,,2b,martin
-1917Reach,1916,Central League,F20222,Martin,,T,,,2b15,martin
-1917Reach,1916,Central League,F20560,Martin,,1,Muskegon,,ss,martin
-1917Reach,1916,Central League,F20560,Martin,,2,Grand Rapids,,ss,martin
-1917Reach,1916,Central League,F20560,Martin,,T,,,ss11,martin
-1917Reach,1916,Central League,B00021,Mathes,,0,Terre Haute,,B74,mathes
-1917Reach,1916,Central League,F20298,Mathes,,0,Terre Haute,,2b52,mathes
-1917Reach,1916,Central League,F21000,Mathes,,0,Terre Haute,,of17,mathes
-1917Reach,1916,Central League,B00502,Matthews,,0,Evansville,,B126,matthews
-1917Reach,1916,Central League,F20233,Matthews,,0,Evansville,,2b126,matthews
-1917Reach,1916,Central League,B00771,McArthur,,0,Grand Rapids,,B67,mcarthur
-1917Reach,1916,Central League,F20855,McArthur,,0,Grand Rapids,,of16,mcarthur
-1917Reach,1916,Central League,F21293,McArthur,,0,Grand Rapids,,p35,mcarthur
-1917Reach,1916,Central League,P10043,McArthur,,0,Grand Rapids,,P35,mcarthur
-1917Reach,1916,Central League,B01250,McBride,,0,Springfield,,B11,mcbride
-1917Reach,1916,Central League,F20721,McBride,,0,Springfield,,of11,mcbride
-1917Reach,1916,Central League,P10429,McCluskey,,0,Springfield,,P6,mccluskey
-1917Reach,1916,Central League,B01275,McColl,,0,South Bend,,B41,mccoll
-1917Reach,1916,Central League,F21278,McColl,,0,South Bend,,p40,mccoll
-1917Reach,1916,Central League,P10176,McColl,,0,South Bend,,P40,mccoll
-1917Reach,1916,Central League,B00553,McNeil,,0,Muskegon,,B95,mcneil
-1917Reach,1916,Central League,F20943,McNeil,,0,Muskegon,,of15,mcneil
-1917Reach,1916,Central League,F21059,McNeil,,0,Muskegon,,c76,mcneil
-1917Reach,1916,Central League,B01359,Melter,,0,Grand Rapids,,B33,melter
-1917Reach,1916,Central League,F21210,Melter,,0,Grand Rapids,,p33,melter
-1917Reach,1916,Central League,P10062,Melter,,0,Grand Rapids,,P33,melter
-1917Reach,1916,Central League,B00045,Miller,,0,Grand Rapids,,B130,miller
-1917Reach,1916,Central League,F20648,Miller,,0,Grand Rapids,,of129,miller
-1917Reach,1916,Central League,B00589,Mitchell,,0,Terre Haute,,B134,mitchell
-1917Reach,1916,Central League,F20496,Mitchell,,0,Terre Haute,,ss134,mitchell
-emilbb,1916,Central League,M90598,Myers,Bade,,Muskegon,,,
-1917Reach,1916,Central League,B00879,Nee,,0,Dayton,,B127,nee
-1917Reach,1916,Central League,F20240,Nee,,0,Dayton,,2b114,nee
-1917Reach,1916,Central League,F20505,Nee,,0,Dayton,,ss13,nee
-emilbb,1916,Central League,M90522,Nee,John,,Dayton,,,
-1917Reach,1916,Central League,B00718,Nespo,,0,Muskegon,,B20,nespo
-1917Reach,1916,Central League,F20279,Nespo,,0,Muskegon,,2b20,nespo
-1917Reach,1916,Central League,B00957,O'Day,,1,Terre Haute,,,oday
-1917Reach,1916,Central League,B00957,O'Day,,2,Muskegon,,,oday
-1917Reach,1916,Central League,B00957,O'Day,,T,,,B66,oday
-1917Reach,1916,Central League,F20962,O'Day,,1,Terre Haute,,of,oday
-1917Reach,1916,Central League,F20962,O'Day,,2,Muskegon,,of,oday
-1917Reach,1916,Central League,F20962,O'Day,,T,,,of65,oday
-1917Reach,1916,Central League,P10464,Paynter,,0,Muskegon,,P6,paynter
-1917Reach,1916,Central League,B00174,Reilly,A. E.,0,Wheeling,,B106,reilly-whe
-1917Reach,1916,Central League,B00442,Reilly,H.,0,South Bend,,B21,reilly-sb
-1917Reach,1916,Central League,F20518,Reilly,,0,Wheeling,,ss105,reilly-whe
-1917Reach,1916,Central League,F20956,Reilly,,0,South Bend,,of21,reilly-sb
-1917Reach,1916,Central League,P10410,Reiss,,0,Dayton,,P7,reiss
-1917Reach,1916,Central League,B01368,Riley,,0,Springfield,,B21,riley
-1917Reach,1916,Central League,F21381,Riley,,0,Springfield,,p20,riley
-1917Reach,1916,Central League,P10228,Riley,,0,Springfield,,P20,riley
-1917Reach,1916,Central League,F21207,Rowan,,0,Dayton,,p37,rowan
-1917Reach,1916,Central League,P10168,Rowan,,0,Dayton,,P37,rowan
-1917Reach,1916,Central League,B00255,Scheeren,,0,Wheeling,,B118,scheeren
-1917Reach,1916,Central League,P10231,Scheneberg,,0,Springfield,,P8,scheneberg
-1917Reach,1916,Central League,B01108,Schettler,,0,Terre Haute,,B31,schettler
-1917Reach,1916,Central League,F21491,Schettler,,0,Terre Haute,,p30,schettler
-1917Reach,1916,Central League,P10253,Schettler,,0,Terre Haute,,P30,schettler
-1917Reach,1916,Central League,B01029,Schulte,,1,Terre Haute,,,schulte
-1917Reach,1916,Central League,B01029,Schulte,,2,Wheeling,,,schulte
-1917Reach,1916,Central League,B01029,Schulte,,T,,,B29,schulte
-1917Reach,1916,Central League,F21149,Schulte,,0,Wheeling,,c18,schulte
-1917Reach,1916,Central League,B00783,Seibold,,0,Wheeling,,B91,seibold
-1917Reach,1916,Central League,F20571,Seibold,,0,Wheeling,,ss28,seibold
-1917Reach,1916,Central League,F20841,Seibold,,0,Wheeling,,of22,seibold
-1917Reach,1916,Central League,F21255,Seibold,,0,Wheeling,,p31,seibold
-1917Reach,1916,Central League,P10019,Seibold,,0,Wheeling,,P31,seibold
-1917Reach,1916,Central League,B00985,Shafer,,0,Terre Haute,,B49,shafer
-1917Reach,1916,Central League,F20594,Shafer,,0,Terre Haute,,of42,shafer
-1917Reach,1916,Central League,F20673,Sheeren,,0,Wheeling,,of118,scheeren
-1917Reach,1916,Central League,B00531,Shovelin,,1,Grand Rapids,,,shovelin
-1917Reach,1916,Central League,B00531,Shovelin,,2,Springfield,,,shovelin
-1917Reach,1916,Central League,B00531,Shovelin,,T,,,B130,shovelin
-1917Reach,1916,Central League,F20166,Shovelin,,1,Grand Rapids,,2b,shovelin
-1917Reach,1916,Central League,F20166,Shovelin,,2,Springfield,,2b,shovelin
-1917Reach,1916,Central League,F20166,Shovelin,,T,,,2b130,shovelin
-emilbb,1916,Central League,M90540,Smith,Harry,,Wheeling,,,
-1917Reach,1916,Central League,B00037,Spencer,R.,0,Dayton,,B128,spencer.r-day
-1917Reach,1916,Central League,B00362,Spencer,C.,0,Springfield,,B47,spencer.c-spr
-1917Reach,1916,Central League,B00491,Spencer,V.,1,Terre Haute,,,spencer.v-th+spr
-1917Reach,1916,Central League,B00491,Spencer,V.,2,Springfield,,,spencer.v-th+spr
-1917Reach,1916,Central League,B00491,Spencer,V.,T,,,B98,spencer.v-th+spr
-1917Reach,1916,Central League,F20072,Spencer,C.,0,Springfield,,1b47,spencer.c-spr
-1917Reach,1916,Central League,F20604,Spencer,R.,0,Dayton,,of128,spencer.r-day
-1917Reach,1916,Central League,F20792,Spencer,V.,1,Springfield,,of,spencer.v-th+spr
-1917Reach,1916,Central League,F20792,Spencer,V.,2,Terre Haute,,of,spencer.v-th+spr
-1917Reach,1916,Central League,F20792,Spencer,V.,T,,,of98,spencer.v-th+spr
-1917Reach,1916,Central League,B00794,Stanley,,0,Muskegon,,B133,stanley
-1917Reach,1916,Central League,F20713,Stanley,,0,Muskegon,,of132,stanley
-1917Reach,1916,Central League,F20829,Stewart,,0,Dayton,,of129,stuart
-1917Reach,1916,Central League,B00335,Storch,,0,Dayton,,B132,storch
-1917Reach,1916,Central League,F20759,Storch,,0,Dayton,,of131,storch
-1917Reach,1916,Central League,B00811,Stuart,,0,Dayton,,B129,stuart
-1917Reach,1916,Central League,B00229,Sykes,,0,Dayton,,B132,sykes
-1917Reach,1916,Central League,F20023,Sykes,,0,Dayton,,1b128,sykes
-1917Reach,1916,Central League,B00680,Tannehill,,0,South Bend,,B133,tannehill
-1917Reach,1916,Central League,F20316,Tannehill,,0,South Bend,,3b42,tannehill
-1917Reach,1916,Central League,F20449,Tannehill,,0,South Bend,,ss91,tannehill
-emilbb,1916,Central League,M90587,Tannehill,Lee,,South Bend,,,
-1917Reach,1916,Central League,B00623,Tennant,,0,Evansville,,B91,tennant
-1917Reach,1916,Central League,F20131,Tennant,,0,Evansville,,1b91,tennant
-1917Reach,1916,Central League,B00667,Tepe,,0,Evansville,,B133,tepe
-1917Reach,1916,Central League,F20375,Tepe,,0,Evansville,,3b66,tepe
-1917Reach,1916,Central League,F20539,Tepe,,0,Evansville,,ss66,tepe
-1917Reach,1916,Central League,B00747,Texter,,0,Muskegon,,B73,texter
-1917Reach,1916,Central League,F21076,Textor,,0,Muskegon,,c67,texter
-1917Reach,1916,Central League,B01007,Turner,,0,Evansville,,B43,turner
-1917Reach,1916,Central League,F21286,Turner,,0,Evansville,,p43,turner
-1917Reach,1916,Central League,P10100,Turner,,0,Evansville,,P43,turner
-1917Reach,1916,Central League,B00577,Tydeman,,0,South Bend,,B73,tydeman
-1917Reach,1916,Central League,F20886,Tydeman,,0,South Bend,,of71,tydeman
-1917Reach,1916,Central League,B01288,Varley,,0,Dayton,,B24,varley
-1917Reach,1916,Central League,F20287,Varley,,0,Dayton,,2b15,varley
-1917Reach,1916,Central League,B00806,Wachtel,,0,Muskegon,,B51,wachtel
-1917Reach,1916,Central League,F21335,Wachtel,,0,Muskegon,,p48,wachtel
-1917Reach,1916,Central League,P10202,Wachtel,,0,Dayton,,P48,wachtel
-1917Reach,1916,Central League,B00196,Wagner,W.,0,Terre Haute,,B125,wagner-th
-1917Reach,1916,Central League,B00614,Wagner,W.,0,Muskegon,,B52,wagner-mus
-1917Reach,1916,Central League,F21092,Wagner,,0,Terre Haute,,c125,wagner-th
-1917Reach,1916,Central League,F21403,Wagner,,0,Muskegon,,p42,wagner-mus
-1917Reach,1916,Central League,P10320,Wagner,,0,Muskegon,,P42,wagner-mus
-1917Reach,1916,Central League,B00084,Warner,,0,Dayton,,B105,warner
-1917Reach,1916,Central League,F20388,Warner,,0,Dayton,,3b105,warner
-1917Reach,1916,Central League,B01170,Watson,,0,South Bend,,B43,watson
-1917Reach,1916,Central League,F21084,Watson,,0,South Bend,,c43,watson
-1917Reach,1916,Central League,B01078,Weinberg,,0,Grand Rapids,,B38,weinberg
-1917Reach,1916,Central League,F20051,Weinberg,,0,Grand Rapids,,1b38,weinberg
-1917Reach,1916,Central League,B00865,Wetzel,,0,Wheeling,,B58,wetzel
-1917Reach,1916,Central League,F21434,Wetzel,,0,Wheeling,,p42,wetzel
-1917Reach,1916,Central League,P10361,Wetzel,,0,Wheeling,,P42,wetzel
-1917Reach,1916,Central League,B00833,Wheatley,,1,Evansville,,,wheatley
-1917Reach,1916,Central League,B00833,Wheatley,,2,Muskegon,,,wheatley
-1917Reach,1916,Central League,B00833,Wheatley,,T,,,B42,wheatley
-1917Reach,1916,Central League,F21515,Wheatley,,1,Evansville,,p,wheatley
-1917Reach,1916,Central League,F21515,Wheatley,,2,Muskegon,,p,wheatley
-1917Reach,1916,Central League,F21515,Wheatley,,T,,,p42,wheatley
-1917Reach,1916,Central League,P10244,Wheatley,,0,Evansville,,P42,wheatley
-1917Reach,1916,Central League,B00319,Whelan,,1,Evansville,,,whelan
-1917Reach,1916,Central League,B00319,Whelan,,2,Muskegon,,,whelan
-1917Reach,1916,Central League,B00319,Whelan,,T,,,B127,whelan
-1917Reach,1916,Central League,F20342,Whelan,,1,Evansville,,3b,whelan
-1917Reach,1916,Central League,F20342,Whelan,,2,Muskegon,,3b,whelan
-1917Reach,1916,Central League,F20342,Whelan,,T,,,3b122,whelan
-1917Reach,1916,Central League,B01197,Whitehouse,,0,Dayton,,B27,whitehouse
-1917Reach,1916,Central League,F21416,Whitehouse,,0,Dayton,,p27,whitehouse
-1917Reach,1916,Central League,P10113,Whitehouse,,0,Dayton,,P27,whitehouse
-1917Reach,1916,Central League,B01032,Winchell,,0,Evansville,,B41,winchell
-1917Reach,1916,Central League,F20784,Winchell,,0,Evansville,,of16,winchell
-1917Reach,1916,Central League,F21502,Winchell,,0,Evansville,,p24,winchell
-1917Reach,1916,Central League,P10357,Winchell,,0,Evansville,,P24,winchell
-1917Reach,1916,Central League,B01156,Withrow,,1,South Bend,,,withrow
-1917Reach,1916,Central League,B01156,Withrow,,2,Grand Rapids,,,withrow
-1917Reach,1916,Central League,B01156,Withrow,,T,,,B19,withrow
-1917Reach,1916,Central League,F21163,Withrow,,1,South Bend,,c,withrow
-1917Reach,1916,Central League,F21163,Withrow,,2,Grand Rapids,,c,withrow
-1917Reach,1916,Central League,F21163,Withrow,,T,,,c19,withrow
-1917Reach,1916,Central League,B00163,Wright,,0,Grand Rapids,,B68,wright
-1917Reach,1916,Central League,F20981,Wright,,0,Grand Rapids,,of62,wright
-1917Reach,1916,Central League,P10407,Wright,,0,Evansville,,P6,wright
-1917Reach,1916,Central League,B00475,Yantz,,0,Evansville,,B120,yantz
-1917Reach,1916,Central League,F21068,Yantz,,0,Evansville,,c120,yantz
-1917Reach,1916,Central League,B01234,Zeiser,,0,South Bend,,B17,zeiser
-1917Reach,1916,Central League,F20583,Zeiser,,0,South Bend,,ss15,zeiser
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+1917Reach,1916,Central League,ainsworth,B01124,Ainsworth,,0,Terre Haute,,B39
+1917Reach,1916,Central League,ainsworth,F21427,Ainsworth,,0,Terre Haute,,p35
+1917Reach,1916,Central League,ainsworth,P10137,Ainsworth,,0,Terre Haute,,P35
+1917Reach,1916,Central League,alcock,B00590,Alcock,,0,Grand Rapids,,B134
+1917Reach,1916,Central League,alcock,F20334,Alcock,,0,Grand Rapids,,3b23
+1917Reach,1916,Central League,altenberg,B00068,Altenberg,,0,Wheeling,,B109
+1917Reach,1916,Central League,altenberg,F20685,Altenberg,,0,Wheeling,,of109
+1917Reach,1916,Central League,anderson-spr,B00726,Anderson,T.,0,Springfield,,B84
+1917Reach,1916,Central League,anderson-sb,B01203,Anderson,W.,0,South Bend,,B11
+1917Reach,1916,Central League,anderson-spr,F20067,Anderson,,0,Springfield,,1b84
+1917Reach,1916,Central League,anderson-sb,F21397,Anderson,,0,South Bend,,p11
+1917Reach,1916,Central League,anderson-sb,P10385,Anderson,,0,South Bend,,P11
+1917Reach,1916,Central League,bailey,B00293,Bailey,,0,Grand Rapids,,B15
+1917Reach,1916,Central League,bailey,P10399,Bailey,,0,Grand Rapids,,P5
+1917Reach,1916,Central League,bashang,B00182,Bashang,,0,South Bend,,B136
+1917Reach,1916,Central League,bashang,F20919,Bashang,,0,South Bend,,of136
+1917Reach,1916,Central League,beall,B00936,Beall,,0,South Bend,,B134
+1917Reach,1916,Central League,beall,F20038,Beall,,0,South Bend,,1b133
+1917Reach,1916,Central League,beyers,B01216,Beyers,,0,Muskegon,,B12
+1917Reach,1916,Central League,beyers,F21021,Beyers,,0,Muskegon,,c12
+1917Reach,1916,Central League,blackwell,B00822,Blackwell,,0,Wheeling,,B108
+1917Reach,1916,Central League,blackwell,F21174,Blackwell,,0,Wheeling,,c108
+1917Reach,1916,Central League,blank,B00887,Blank,,1,South Bend,,
+1917Reach,1916,Central League,blank,B00887,Blank,,2,Evansville,,
+1917Reach,1916,Central League,blank,B00887,Blank,,T,,,B60
+1917Reach,1916,Central League,blank,F20526,Blank,,0,Evansville,,ss60
+1917Reach,1916,Central League,bonnin,F20864,Bonin,,0,Muskegon,,of32
+1917Reach,1916,Central League,bonnin,B00264,Bonnin,,0,Muskegon,,B32
+1917Reach,1916,Central League,bowman,B00130,Bowman,,0,South Bend,,B60
+1917Reach,1916,Central League,bowman,F20970,Bowman,,0,South Bend,,of12
+1917Reach,1916,Central League,bowman,F21343,Bowman,,0,South Bend,,p38
+1917Reach,1916,Central League,bowman,P10184,Bowman,,0,South Bend,,P38
+1917Reach,1916,Central League,brant,B00646,Brant,,0,Grand Rapids,,B134
+1917Reach,1916,Central League,brant,F20463,Brant,,0,Grand Rapids,,ss134
+1917Reach,1916,Central League,bratchi,B00076,Bratchi,,0,Muskegon,,B68
+1917Reach,1916,Central League,bratchi,F20935,Bratchi,,0,Muskegon,,of68
+1917Reach,1916,Central League,bravener,B01086,Bravener,,1,Wheeling,,
+1917Reach,1916,Central League,bravener,B01086,Bravener,,2,Grand Rapids,,
+1917Reach,1916,Central League,bravener,B01086,Bravener,,T,,,B25
+1917Reach,1916,Central League,bravener,F21241,Bravener,,1,Wheeling,,p
+1917Reach,1916,Central League,bravener,F21241,Bravener,,2,Grand Rapids,,p
+1917Reach,1916,Central League,bravener,F21241,Bravener,,T,,,p24
+1917Reach,1916,Central League,bravener,P10348,Bravener,,0,Wheeling,,P24
+1917Reach,1916,Central League,brubaker,B00760,Brubaker,,0,Muskegon,,B122
+1917Reach,1916,Central League,brubaker,F20458,Brubaker,,0,Muskegon,,ss121
+1917Reach,1916,Central League,callahan,B00416,Callahan,,0,Wheeling,,B133
+1917Reach,1916,Central League,callahan,F20265,Callahan,,0,Wheeling,,2b133
+1917Reach,1916,Central League,carey,B00397,Carey,,0,Grand Rapids,,B123
+1917Reach,1916,Central League,carey,F20254,Carey,,0,Grand Rapids,,2b107
+1917Reach,1916,Central League,carey,F20700,Carey,,0,Grand Rapids,,of16
+1917Reach,1916,Central League,caveny,F20482,Caveney,,0,Springfield,,ss132
+1917Reach,1916,Central League,caveny,B00450,Caveny,,0,Springfield,,B132
+1917Reach,1916,Central League,clarke,B01181,Clarke,,0,Springfield,,B40
+1917Reach,1916,Central League,clarke,F21442,Clarke,,0,Springfield,,p40
+1917Reach,1916,Central League,clarke,P10070,Clarke,,0,Springfield,,P40
+1917Reach,1916,Central League,cleveland,B00210,Cleveland,,0,Wheeling,,B126
+1917Reach,1916,Central League,cleveland,F20401,Cleveland,,0,Wheeling,,3b122
+1917Reach,1916,Central League,collins,B00381,Collins,,0,South Bend,,B88
+1917Reach,1916,Central League,collins,F20661,Collins,,0,South Bend,,of88
+1917Reach,1916,Central League,compton,B01143,Compton,,1,Muskegon,,
+1917Reach,1916,Central League,compton,B01143,Compton,,2,Grand Rapids,,
+1917Reach,1916,Central League,compton,B01143,Compton,,T,,,B33
+1917Reach,1916,Central League,compton,F21356,Compton,,1,Muskegon,,p
+1917Reach,1916,Central League,compton,F21356,Compton,,2,Grand Rapids,,p
+1917Reach,1916,Central League,compton,F21356,Compton,,T,,,p29
+1917Reach,1916,Central League,compton,P10290,Compton,,0,Muskegon,,P29
+1917Reach,1916,Central League,coveleskie,B00403,Coveleskie,,0,Muskegon,,B103
+1917Reach,1916,Central League,coveleskie,F20893,Coveleskie,,0,Muskegon,,of103
+1917Reach,1916,Central League,cramer,B00651,Cramer,,0,Terre Haute,,B37
+1917Reach,1916,Central League,cramer,F21182,Cramer,,0,Terre Haute,,p35
+1917Reach,1916,Central League,cramer,P10304,Cramer,,0,Terre Haute,,P35
+1917Reach,1916,Central League,crichlow,B00092,Crichlow,,0,Springfield,,B44
+1917Reach,1916,Central League,crichlow,F20832,Crichlow,,0,Springfield,,of44
+1917Reach,1916,Central League,crum,B01269,Crum,,1,Muskegon,,
+1917Reach,1916,Central League,crum,B01269,Crum,,2,Terre Haute,,
+1917Reach,1916,Central League,crum,B01269,Crum,,T,,,B32
+1917Reach,1916,Central League,crum,F21475,Crum,,0,Terre Haute,,p31
+1917Reach,1916,Central League,crum,P10266,Crum,,0,Muskegon,,P31
+1917Reach,1916,Central League,daly,B00920,Daly,,0,Springfield,,B22
+1917Reach,1916,Central League,daly,F20153,Daly,,0,Springfield,,2b22
+1917Reach,1916,Central League,devormer,B00515,De Vormer,,0,Grand Rapids,,B112
+1917Reach,1916,Central League,devormer,F21117,De Vormer,,0,Grand Rapids,,c112
+1917Reach,1916,Central League,devogt,B01300,DeVogt,,0,South Bend,,B20
+1917Reach,1916,Central League,devogt,F21130,DeVogt,,0,South Bend,,c20
+1917Reach,1916,Central League,donley,B01376,Donley,,1,Wheeling,,
+1917Reach,1916,Central League,donley,B01376,Donley,,2,Evansville,,
+1917Reach,1916,Central League,donley,B01376,Donley,,3,Springfield,,
+1917Reach,1916,Central League,donley,B01376,Donley,,T,,,B36
+1917Reach,1916,Central League,donley,F21264,Donley,,1,Wheeling,,p
+1917Reach,1916,Central League,donley,F21264,Donley,,2,Springfield,,p
+1917Reach,1916,Central League,donley,F21264,Donley,,T,,,p35
+1917Reach,1916,Central League,donley,P10373,Donley,,0,Wheeling,,P35
+1917Reach,1916,Central League,donnelly,B00117,Donnelly,,0,South Bend,,B52
+1917Reach,1916,Central League,donnelly,F21045,Donnelly,,0,South Bend,,c48
+1917Reach,1916,Central League,douglas,B00912,Douglas,,0,Wheeling,,B29
+1917Reach,1916,Central League,douglas,F21488,Douglas,,0,Wheeling,,p26
+1917Reach,1916,Central League,douglas,P10097,Douglas,,0,Wheeling,,P26
+1917Reach,1916,Central League,rowan,B00904,Dowan,,0,Dayton,,B42
+1917Reach,1916,Central League,dowling,B01242,Dowling,,0,Muskegon,,B31
+1917Reach,1916,Central League,dowling,F20303,Dowling,,0,Muskegon,,2b31
+1917Reach,1916,Central League,duffy,B00752,Duffy,,0,Grand Rapids,,B59
+1917Reach,1916,Central League,duffy,F20997,Duffy,,1,Grand Rapids,,of
+1917Reach,1916,Central League,duffy,F20997,Duffy,,2,Wheeling,,of
+1917Reach,1916,Central League,duffy,F20997,Duffy,,T,,,of12
+1917Reach,1916,Central League,duffy,F21362,Duffy,,1,Grand Rapids,,p
+1917Reach,1916,Central League,duffy,F21362,Duffy,,2,Wheeling,,p
+1917Reach,1916,Central League,duffy,F21362,Duffy,,T,,,p39
+1917Reach,1916,Central League,duffy,P10192,Duffy,,0,Grand Rapids,,P39
+1917Reach,1916,Central League,duncan,B00059,Duncan,,0,Grand Rapids,,B124
+1917Reach,1916,Central League,duncan,F20776,Duncan,,0,Grand Rapids,,of123
+1917Reach,1916,Central League,dunn,B00898,Dunn,,0,Springfield,,B120
+1917Reach,1916,Central League,dunn,F21125,Dunn,,0,Springfield,,c118
+emilbb,1916,Central League,,M90533,Dunn,Joe,,Springfield,,
+1917Reach,1916,Central League,edington,B00488,Edington,,0,Grand Rapids,,B133
+1917Reach,1916,Central League,edington,F20014,Edington,,0,Grand Rapids,,1b67
+1917Reach,1916,Central League,edington,F20768,Edington,,0,Grand Rapids,,of67
+1917Reach,1916,Central League,emmer,B01291,Emmer,,0,Dayton,,B21
+1917Reach,1916,Central League,emmer,F20391,Emmer,,0,Dayton,,3b11
+1917Reach,1916,Central League,emmer,F20547,Emmer,,0,Dayton,,ss10
+emilbb,1916,Central League,,M90511,Essick,Bill,,Grand Rapids,,
+1917Reach,1916,Central League,evers,B00672,Evers,,1,Terre Haute,,
+1917Reach,1916,Central League,evers,B00672,Evers,,2,Muskegon,,
+1917Reach,1916,Central League,evers,B00672,Evers,,T,,,B121
+1917Reach,1916,Central League,evers,F20190,Evers,,1,Terre Haute,,2b
+1917Reach,1916,Central League,evers,F20190,Evers,,2,Muskegon,,2b
+1917Reach,1916,Central League,evers,F20190,Evers,,T,,,2b102
+1917Reach,1916,Central League,evers,F21013,Evers,,1,Terre Haute,,of
+1917Reach,1916,Central League,evers,F21013,Evers,,2,Muskegon,,of
+1917Reach,1916,Central League,evers,F21013,Evers,,T,,,of15
+1917Reach,1916,Central League,fisher-mus,B00158,Fisher,,0,Muskegon,,B133
+1917Reach,1916,Central League,fisher-sb,B00973,Fisher,,0,South Bend,,B30
+1917Reach,1916,Central League,fisher-mus,F20115,Fisher,,0,Muskegon,,1b133
+1917Reach,1916,Central League,fisher-sb,F20620,Fisher,,0,South Bend,,of30
+1917Reach,1916,Central League,fluhrer,F20878,Fluhrer,,0,Springfield,,of129
+1917Reach,1916,Central League,fluhrer,B00434,Flurher,,0,Springfield,,B129
+1917Reach,1916,Central League,french,B00308,French,,0,Terre Haute,,B31
+1917Reach,1916,Central League,french,F20177,French,,0,Terre Haute,,2b28
+1917Reach,1916,Central League,fromholtz,B01313,Fromholtz,,0,Evansville,,B38
+1917Reach,1916,Central League,fromholtz,F21528,Fromholtz,,0,Evansville,,p34
+1917Reach,1916,Central League,fromholtz,P10159,Fromholtz,,0,Evansville,,P34
+1917Reach,1916,Central League,frost,B01337,Frost,,0,Dayton,,B34
+1917Reach,1916,Central League,frost,F21196,Frost,,0,Dayton,,p30
+1917Reach,1916,Central League,frost,P10145,Frost,,0,Dayton,,P30
+1917Reach,1916,Central League,gilbert,B00638,Gilbert,,0,Terre Haute,,B66
+1917Reach,1916,Central League,gilbert,F20095,Gilbert,,0,Terre Haute,,1b27
+1917Reach,1916,Central League,gilbert,F21531,Gilbert,,0,Terre Haute,,p32
+1917Reach,1916,Central League,gilbert,P10336,Gilbert,,0,Terre Haute,,P32
+emilbb,1916,Central League,,M90565,Gilbert,Rufus,,Terre Haute,,
+1917Reach,1916,Central League,goosetree,B01119,Goosetree,,0,Grand Rapids,,B10
+1917Reach,1916,Central League,goosetree,F20369,Goosetree,,0,Grand Rapids,,3b10
+1917Reach,1916,Central League,goshorn,B01010,Goshorn,,0,Grand Rapids,,B21
+1917Reach,1916,Central League,goshorn,F21232,Goshorn,,0,Grand Rapids,,p19
+1917Reach,1916,Central League,goshorn,P10035,Goshorn,,0,Grand Rapids,,P19
+1917Reach,1916,Central League,gray,B00566,Gray,,1,South Bend,,
+1917Reach,1916,Central League,gray,B00566,Gray,,2,Terre Haute,,
+1917Reach,1916,Central League,gray,B00566,Gray,,T,,,B126
+1917Reach,1916,Central League,gray,F20327,Gray,,1,South Bend,,3b
+1917Reach,1916,Central League,gray,F20327,Gray,,2,Terre Haute,,3b
+1917Reach,1916,Central League,gray,F20327,Gray,,T,,,3b111
+1917Reach,1916,Central League,gray,F20552,Gray,,1,South Bend,,ss
+1917Reach,1916,Central League,gray,F20552,Gray,,2,Terre Haute,,ss
+1917Reach,1916,Central League,gray,F20552,Gray,,T,,,ss15
+1917Reach,1916,Central League,green,B00013,Green,,0,South Bend,,B18
+1917Reach,1916,Central League,green,F21324,Green,,0,South Bend,,p11
+1917Reach,1916,Central League,green,P10432,Green,,0,South Bend,,P11
+1917Reach,1916,Central League,grefe,B00840,Grefe,,0,Evansville,,B12
+1917Reach,1916,Central League,grefe,F20046,Grefe,,0,Evansville,,1b12
+1917Reach,1916,Central League,grimes,B00695,Grimes,,0,South Bend,,B36
+1917Reach,1916,Central League,grimes,F20657,Grimes,,0,South Bend,,of36
+1917Reach,1916,Central League,grodick,B00961,Grodick,,0,South Bend,,B57
+1917Reach,1916,Central League,grodick,F20211,Grodick,,0,South Bend,,2b47
+1917Reach,1916,Central League,grodick,F20430,Grodick,,0,South Bend,,ss10
+1917Reach,1916,Central League,gygli,B00854,Gygli,,0,Terre Haute,,B134
+1917Reach,1916,Central League,gygli,F20128,Gygli,,0,Terre Haute,,1b109
+1917Reach,1916,Central League,gygli,F20206,Gygli,,0,Terre Haute,,2b24
+1917Reach,1916,Central League,haggerty,B00528,Haggerty,,0,Grand Rapids,,B39
+1917Reach,1916,Central League,haggerty,F21370,Haggerty,,0,Grand Rapids,,p29
+1917Reach,1916,Central League,haggerty,P10121,Haggerty,,0,Grand Rapids,,P29
+1917Reach,1916,Central League,haines,B00948,Haines,,0,Springfield,,B43
+1917Reach,1916,Central League,haines,F21319,Haines,,0,Springfield,,p41
+1917Reach,1916,Central League,haines,P10056,Haines,,0,Springfield,,P41
+1917Reach,1916,Central League,hanna,P10441,Hanna,,0,Dayton,,P6
+1917Reach,1916,Central League,harris-spr,B01064,Harris,H. J.,0,Springfield,,B14
+1917Reach,1916,Central League,harris-mus,B01162,Harris,S.,0,Muskegon,,B55
+1917Reach,1916,Central League,harris-mus,F20417,Harris,S.,0,Muskegon,,3b54
+1917Reach,1916,Central League,harris-spr,F20737,Harris,,0,Springfield,,of14
+1917Reach,1916,Central League,hart,B01345,Hart,,0,Muskegon,,B41
+1917Reach,1916,Central League,hart,F21469,Hart,,0,Muskegon,,p41
+1917Reach,1916,Central League,hart,P10289,Hart,,0,Muskegon,,P41
+1917Reach,1916,Central League,hartle,B00207,Hartle,,0,Springfield,,B134
+1917Reach,1916,Central League,hartle,F20699,Hartle,,0,Springfield,,of134
+1917Reach,1916,Central League,hauger,B00149,Hauger,,0,Evansville,,B127
+1917Reach,1916,Central League,hauger,F20612,Hauger,,0,Evansville,,of127
+1917Reach,1916,Central League,helmar,B00469,Helmar,,0,Grand Rapids,,B48
+1917Reach,1916,Central League,helmar,F20924,Helmer,,0,Grand Rapids,,of48
+1917Reach,1916,Central League,henning,B00705,Henning,,0,Evansville,,B29
+1917Reach,1916,Central League,henning,F20144,Henning,,0,Evansville,,1b29
+1917Reach,1916,Central League,hensling,B00544,Hensling,,0,South Bend,,B107
+1917Reach,1916,Central League,hensling,F20350,Hensling,,0,South Bend,,3b93
+1917Reach,1916,Central League,hibble,B00232,Hibble,,0,Evansville,,B133
+1917Reach,1916,Central League,hill,B00739,Hill,,0,South Bend,,B39
+1917Reach,1916,Central League,hill,F21544,Hill,,0,South Bend,,p37
+1917Reach,1916,Central League,hill,P10312,Hill,,0,South Bend,,P37
+1917Reach,1916,Central League,hobbs,B00241,Hobbs,,0,Dayton,,B111
+1917Reach,1916,Central League,hobbs,F20474,Hobbs,,0,Dayton,,ss110
+1917Reach,1916,Central League,hoffman,B00427,Hoffman,,0,Springfield,,B130
+1917Reach,1916,Central League,hoffman,F20425,Hoffman,,0,Springfield,,3b130
+1917Reach,1916,Central League,holderman,B00356,Holderman,,0,Terre Haute,,B89
+1917Reach,1916,Central League,holderman,F20807,Holderman,,0,Terre Haute,,of85
+1917Reach,1916,Central League,house,B00286,House,,0,Grand Rapids,,B30
+1917Reach,1916,Central League,house,F20080,House,,0,Grand Rapids,,1b30
+1917Reach,1916,Central League,hungling,B01093,Hungling,,0,Springfield,,B37
+1917Reach,1916,Central League,hungling,F21158,Hungling,,0,Springfield,,c25
+1917Reach,1916,Central League,isaacs,B00999,Isaacs,,0,Terre Haute,,B12
+1917Reach,1916,Central League,jacobs,B00370,Jacobs,,0,Dayton,,B131
+1917Reach,1916,Central League,jacobs,F21101,Jacobs,,0,Dayton,,c131
+1917Reach,1916,Central League,kading,B00343,Kading,,0,South Bend,,B10
+1917Reach,1916,Central League,kelley,P10455,Kelley,,0,South Bend,,P7
+1917Reach,1916,Central League,hibble,F20908,Kibble,,0,Evansville,,of126
+1917Reach,1916,Central League,king,B00101,King,,0,Wheeling,,B125
+1917Reach,1916,Central League,king,F20745,King,,0,Wheeling,,of125
+1917Reach,1916,Central League,knoll,B00324,Knoll,,0,Evansville,,B131
+1917Reach,1916,Central League,knoll,F20636,Knoll,,0,Evansville,,of128
+emilbb,1916,Central League,,M90554,Knoll,"Charles ""Punch""",,Evansville,,
+1917Reach,1916,Central League,koehler,B00125,Koehler,,0,South Bend,,B89
+1917Reach,1916,Central League,koehler,F20189,Koehler,,0,South Bend,,2b89
+emilbb,1916,Central League,,M90579,Koehler,Ben,,South Bend,,
+1917Reach,1916,Central League,laross,B00609,LaRoss,,0,Terre Haute,,B108
+1917Reach,1916,Central League,laross,F20810,LaRoss,,0,Terre Haute,,of97
+1917Reach,1916,Central League,laross,F21037,LaRoss,,0,Terre Haute,,c12
+1917Reach,1916,Central League,lakaff,B01055,Lakaff,,0,Dayton,,B41
+1917Reach,1916,Central League,lakaff,F21308,Lakaff,,0,Dayton,,p38
+1917Reach,1916,Central League,lakaff,P10024,Lakaff,,0,Dayton,,P38
+1917Reach,1916,Central League,larsen,B01227,Larsen,,0,Evansville,,B27
+1917Reach,1916,Central League,larsen,F21229,Larsen,,0,Evansville,,p27
+1917Reach,1916,Central League,larsen,P10081,Larson,,0,Evansville,,P27
+1917Reach,1916,Central League,leroy,P10215,LeRoy,,0,Muskegon,,P8
+1917Reach,1916,Central League,lear,B00278,Lear,,0,Wheeling,,B122
+1917Reach,1916,Central League,lear,F20102,Lear,,0,Wheeling,,1b121
+1917Reach,1916,Central League,leibrock,B01135,Leibrock,,0,Dayton,,B12
+1917Reach,1916,Central League,loudermilk,B01321,Loudermilk,,1,South Bend,,
+1917Reach,1916,Central League,loudermilk,B01321,Loudermilk,,2,Springfield,,
+1917Reach,1916,Central League,loudermilk,B01321,Loudermilk,,T,,,B39
+1917Reach,1916,Central League,loudermilk,F21450,Loudermilk,,1,South Bend,,p
+1917Reach,1916,Central League,loudermilk,F21450,Loudermilk,,2,Springfield,,p
+1917Reach,1916,Central League,loudermilk,F21450,Loudermilk,,T,,,p38
+1917Reach,1916,Central League,loudermilk,P10277,Loudermilk,,0,Springfield,,P38
+1917Reach,1916,Central League,martin,B01041,Martin,,1,Muskegon,,
+1917Reach,1916,Central League,martin,B01041,Martin,,2,Grand Rapids,,
+1917Reach,1916,Central League,martin,B01041,Martin,,T,,,B26
+1917Reach,1916,Central League,martin,F20222,Martin,,1,Muskegon,,2b
+1917Reach,1916,Central League,martin,F20222,Martin,,2,Grand Rapids,,2b
+1917Reach,1916,Central League,martin,F20222,Martin,,T,,,2b15
+1917Reach,1916,Central League,martin,F20560,Martin,,1,Muskegon,,ss
+1917Reach,1916,Central League,martin,F20560,Martin,,2,Grand Rapids,,ss
+1917Reach,1916,Central League,martin,F20560,Martin,,T,,,ss11
+1917Reach,1916,Central League,mathes,B00021,Mathes,,0,Terre Haute,,B74
+1917Reach,1916,Central League,mathes,F20298,Mathes,,0,Terre Haute,,2b52
+1917Reach,1916,Central League,mathes,F21000,Mathes,,0,Terre Haute,,of17
+1917Reach,1916,Central League,matthews,B00502,Matthews,,0,Evansville,,B126
+1917Reach,1916,Central League,matthews,F20233,Matthews,,0,Evansville,,2b126
+1917Reach,1916,Central League,mcarthur,B00771,McArthur,,0,Grand Rapids,,B67
+1917Reach,1916,Central League,mcarthur,F20855,McArthur,,0,Grand Rapids,,of16
+1917Reach,1916,Central League,mcarthur,F21293,McArthur,,0,Grand Rapids,,p35
+1917Reach,1916,Central League,mcarthur,P10043,McArthur,,0,Grand Rapids,,P35
+1917Reach,1916,Central League,mcbride,B01250,McBride,,0,Springfield,,B11
+1917Reach,1916,Central League,mcbride,F20721,McBride,,0,Springfield,,of11
+1917Reach,1916,Central League,mccluskey,P10429,McCluskey,,0,Springfield,,P6
+1917Reach,1916,Central League,mccoll,B01275,McColl,,0,South Bend,,B41
+1917Reach,1916,Central League,mccoll,F21278,McColl,,0,South Bend,,p40
+1917Reach,1916,Central League,mccoll,P10176,McColl,,0,South Bend,,P40
+1917Reach,1916,Central League,mcneil,B00553,McNeil,,0,Muskegon,,B95
+1917Reach,1916,Central League,mcneil,F20943,McNeil,,0,Muskegon,,of15
+1917Reach,1916,Central League,mcneil,F21059,McNeil,,0,Muskegon,,c76
+1917Reach,1916,Central League,melter,B01359,Melter,,0,Grand Rapids,,B33
+1917Reach,1916,Central League,melter,F21210,Melter,,0,Grand Rapids,,p33
+1917Reach,1916,Central League,melter,P10062,Melter,,0,Grand Rapids,,P33
+1917Reach,1916,Central League,miller,B00045,Miller,,0,Grand Rapids,,B130
+1917Reach,1916,Central League,miller,F20648,Miller,,0,Grand Rapids,,of129
+1917Reach,1916,Central League,mitchell,B00589,Mitchell,,0,Terre Haute,,B134
+1917Reach,1916,Central League,mitchell,F20496,Mitchell,,0,Terre Haute,,ss134
+emilbb,1916,Central League,,M90598,Myers,Bade,,Muskegon,,
+1917Reach,1916,Central League,nee,B00879,Nee,,0,Dayton,,B127
+1917Reach,1916,Central League,nee,F20240,Nee,,0,Dayton,,2b114
+1917Reach,1916,Central League,nee,F20505,Nee,,0,Dayton,,ss13
+emilbb,1916,Central League,,M90522,Nee,John,,Dayton,,
+1917Reach,1916,Central League,nespo,B00718,Nespo,,0,Muskegon,,B20
+1917Reach,1916,Central League,nespo,F20279,Nespo,,0,Muskegon,,2b20
+1917Reach,1916,Central League,oday,B00957,O'Day,,1,Terre Haute,,
+1917Reach,1916,Central League,oday,B00957,O'Day,,2,Muskegon,,
+1917Reach,1916,Central League,oday,B00957,O'Day,,T,,,B66
+1917Reach,1916,Central League,oday,F20962,O'Day,,1,Terre Haute,,of
+1917Reach,1916,Central League,oday,F20962,O'Day,,2,Muskegon,,of
+1917Reach,1916,Central League,oday,F20962,O'Day,,T,,,of65
+1917Reach,1916,Central League,paynter,P10464,Paynter,,0,Muskegon,,P6
+1917Reach,1916,Central League,reilly-whe,B00174,Reilly,A. E.,0,Wheeling,,B106
+1917Reach,1916,Central League,reilly-sb,B00442,Reilly,H.,0,South Bend,,B21
+1917Reach,1916,Central League,reilly-whe,F20518,Reilly,,0,Wheeling,,ss105
+1917Reach,1916,Central League,reilly-sb,F20956,Reilly,,0,South Bend,,of21
+1917Reach,1916,Central League,reiss,P10410,Reiss,,0,Dayton,,P7
+1917Reach,1916,Central League,riley,B01368,Riley,,0,Springfield,,B21
+1917Reach,1916,Central League,riley,F21381,Riley,,0,Springfield,,p20
+1917Reach,1916,Central League,riley,P10228,Riley,,0,Springfield,,P20
+1917Reach,1916,Central League,rowan,F21207,Rowan,,0,Dayton,,p37
+1917Reach,1916,Central League,rowan,P10168,Rowan,,0,Dayton,,P37
+1917Reach,1916,Central League,scheeren,B00255,Scheeren,,0,Wheeling,,B118
+1917Reach,1916,Central League,scheneberg,P10231,Scheneberg,,0,Springfield,,P8
+1917Reach,1916,Central League,schettler,B01108,Schettler,,0,Terre Haute,,B31
+1917Reach,1916,Central League,schettler,F21491,Schettler,,0,Terre Haute,,p30
+1917Reach,1916,Central League,schettler,P10253,Schettler,,0,Terre Haute,,P30
+1917Reach,1916,Central League,schulte,B01029,Schulte,,1,Terre Haute,,
+1917Reach,1916,Central League,schulte,B01029,Schulte,,2,Wheeling,,
+1917Reach,1916,Central League,schulte,B01029,Schulte,,T,,,B29
+1917Reach,1916,Central League,schulte,F21149,Schulte,,0,Wheeling,,c18
+1917Reach,1916,Central League,seibold,B00783,Seibold,,0,Wheeling,,B91
+1917Reach,1916,Central League,seibold,F20571,Seibold,,0,Wheeling,,ss28
+1917Reach,1916,Central League,seibold,F20841,Seibold,,0,Wheeling,,of22
+1917Reach,1916,Central League,seibold,F21255,Seibold,,0,Wheeling,,p31
+1917Reach,1916,Central League,seibold,P10019,Seibold,,0,Wheeling,,P31
+1917Reach,1916,Central League,shafer,B00985,Shafer,,0,Terre Haute,,B49
+1917Reach,1916,Central League,shafer,F20594,Shafer,,0,Terre Haute,,of42
+1917Reach,1916,Central League,scheeren,F20673,Sheeren,,0,Wheeling,,of118
+1917Reach,1916,Central League,shovelin,B00531,Shovelin,,1,Grand Rapids,,
+1917Reach,1916,Central League,shovelin,B00531,Shovelin,,2,Springfield,,
+1917Reach,1916,Central League,shovelin,B00531,Shovelin,,T,,,B130
+1917Reach,1916,Central League,shovelin,F20166,Shovelin,,1,Grand Rapids,,2b
+1917Reach,1916,Central League,shovelin,F20166,Shovelin,,2,Springfield,,2b
+1917Reach,1916,Central League,shovelin,F20166,Shovelin,,T,,,2b130
+emilbb,1916,Central League,,M90540,Smith,Harry,,Wheeling,,
+1917Reach,1916,Central League,spencer.r-day,B00037,Spencer,R.,0,Dayton,,B128
+1917Reach,1916,Central League,spencer.c-spr,B00362,Spencer,C.,0,Springfield,,B47
+1917Reach,1916,Central League,spencer.v-th+spr,B00491,Spencer,V.,1,Terre Haute,,
+1917Reach,1916,Central League,spencer.v-th+spr,B00491,Spencer,V.,2,Springfield,,
+1917Reach,1916,Central League,spencer.v-th+spr,B00491,Spencer,V.,T,,,B98
+1917Reach,1916,Central League,spencer.c-spr,F20072,Spencer,C.,0,Springfield,,1b47
+1917Reach,1916,Central League,spencer.r-day,F20604,Spencer,R.,0,Dayton,,of128
+1917Reach,1916,Central League,spencer.v-th+spr,F20792,Spencer,V.,1,Springfield,,of
+1917Reach,1916,Central League,spencer.v-th+spr,F20792,Spencer,V.,2,Terre Haute,,of
+1917Reach,1916,Central League,spencer.v-th+spr,F20792,Spencer,V.,T,,,of98
+1917Reach,1916,Central League,stanley,B00794,Stanley,,0,Muskegon,,B133
+1917Reach,1916,Central League,stanley,F20713,Stanley,,0,Muskegon,,of132
+1917Reach,1916,Central League,stuart,F20829,Stewart,,0,Dayton,,of129
+1917Reach,1916,Central League,storch,B00335,Storch,,0,Dayton,,B132
+1917Reach,1916,Central League,storch,F20759,Storch,,0,Dayton,,of131
+1917Reach,1916,Central League,stuart,B00811,Stuart,,0,Dayton,,B129
+1917Reach,1916,Central League,sykes,B00229,Sykes,,0,Dayton,,B132
+1917Reach,1916,Central League,sykes,F20023,Sykes,,0,Dayton,,1b128
+1917Reach,1916,Central League,tannehill,B00680,Tannehill,,0,South Bend,,B133
+1917Reach,1916,Central League,tannehill,F20316,Tannehill,,0,South Bend,,3b42
+1917Reach,1916,Central League,tannehill,F20449,Tannehill,,0,South Bend,,ss91
+emilbb,1916,Central League,,M90587,Tannehill,Lee,,South Bend,,
+1917Reach,1916,Central League,tennant,B00623,Tennant,,0,Evansville,,B91
+1917Reach,1916,Central League,tennant,F20131,Tennant,,0,Evansville,,1b91
+1917Reach,1916,Central League,tepe,B00667,Tepe,,0,Evansville,,B133
+1917Reach,1916,Central League,tepe,F20375,Tepe,,0,Evansville,,3b66
+1917Reach,1916,Central League,tepe,F20539,Tepe,,0,Evansville,,ss66
+1917Reach,1916,Central League,texter,B00747,Texter,,0,Muskegon,,B73
+1917Reach,1916,Central League,texter,F21076,Textor,,0,Muskegon,,c67
+1917Reach,1916,Central League,turner,B01007,Turner,,0,Evansville,,B43
+1917Reach,1916,Central League,turner,F21286,Turner,,0,Evansville,,p43
+1917Reach,1916,Central League,turner,P10100,Turner,,0,Evansville,,P43
+1917Reach,1916,Central League,tydeman,B00577,Tydeman,,0,South Bend,,B73
+1917Reach,1916,Central League,tydeman,F20886,Tydeman,,0,South Bend,,of71
+1917Reach,1916,Central League,varley,B01288,Varley,,0,Dayton,,B24
+1917Reach,1916,Central League,varley,F20287,Varley,,0,Dayton,,2b15
+1917Reach,1916,Central League,wachtel,B00806,Wachtel,,0,Muskegon,,B51
+1917Reach,1916,Central League,wachtel,F21335,Wachtel,,0,Muskegon,,p48
+1917Reach,1916,Central League,wachtel,P10202,Wachtel,,0,Dayton,,P48
+1917Reach,1916,Central League,wagner-th,B00196,Wagner,W.,0,Terre Haute,,B125
+1917Reach,1916,Central League,wagner-mus,B00614,Wagner,W.,0,Muskegon,,B52
+1917Reach,1916,Central League,wagner-th,F21092,Wagner,,0,Terre Haute,,c125
+1917Reach,1916,Central League,wagner-mus,F21403,Wagner,,0,Muskegon,,p42
+1917Reach,1916,Central League,wagner-mus,P10320,Wagner,,0,Muskegon,,P42
+1917Reach,1916,Central League,warner,B00084,Warner,,0,Dayton,,B105
+1917Reach,1916,Central League,warner,F20388,Warner,,0,Dayton,,3b105
+1917Reach,1916,Central League,watson,B01170,Watson,,0,South Bend,,B43
+1917Reach,1916,Central League,watson,F21084,Watson,,0,South Bend,,c43
+1917Reach,1916,Central League,weinberg,B01078,Weinberg,,0,Grand Rapids,,B38
+1917Reach,1916,Central League,weinberg,F20051,Weinberg,,0,Grand Rapids,,1b38
+1917Reach,1916,Central League,wetzel,B00865,Wetzel,,0,Wheeling,,B58
+1917Reach,1916,Central League,wetzel,F21434,Wetzel,,0,Wheeling,,p42
+1917Reach,1916,Central League,wetzel,P10361,Wetzel,,0,Wheeling,,P42
+1917Reach,1916,Central League,wheatley,B00833,Wheatley,,1,Evansville,,
+1917Reach,1916,Central League,wheatley,B00833,Wheatley,,2,Muskegon,,
+1917Reach,1916,Central League,wheatley,B00833,Wheatley,,T,,,B42
+1917Reach,1916,Central League,wheatley,F21515,Wheatley,,1,Evansville,,p
+1917Reach,1916,Central League,wheatley,F21515,Wheatley,,2,Muskegon,,p
+1917Reach,1916,Central League,wheatley,F21515,Wheatley,,T,,,p42
+1917Reach,1916,Central League,wheatley,P10244,Wheatley,,0,Evansville,,P42
+1917Reach,1916,Central League,whelan,B00319,Whelan,,1,Evansville,,
+1917Reach,1916,Central League,whelan,B00319,Whelan,,2,Muskegon,,
+1917Reach,1916,Central League,whelan,B00319,Whelan,,T,,,B127
+1917Reach,1916,Central League,whelan,F20342,Whelan,,1,Evansville,,3b
+1917Reach,1916,Central League,whelan,F20342,Whelan,,2,Muskegon,,3b
+1917Reach,1916,Central League,whelan,F20342,Whelan,,T,,,3b122
+1917Reach,1916,Central League,whitehouse,B01197,Whitehouse,,0,Dayton,,B27
+1917Reach,1916,Central League,whitehouse,F21416,Whitehouse,,0,Dayton,,p27
+1917Reach,1916,Central League,whitehouse,P10113,Whitehouse,,0,Dayton,,P27
+1917Reach,1916,Central League,winchell,B01032,Winchell,,0,Evansville,,B41
+1917Reach,1916,Central League,winchell,F20784,Winchell,,0,Evansville,,of16
+1917Reach,1916,Central League,winchell,F21502,Winchell,,0,Evansville,,p24
+1917Reach,1916,Central League,winchell,P10357,Winchell,,0,Evansville,,P24
+1917Reach,1916,Central League,withrow,B01156,Withrow,,1,South Bend,,
+1917Reach,1916,Central League,withrow,B01156,Withrow,,2,Grand Rapids,,
+1917Reach,1916,Central League,withrow,B01156,Withrow,,T,,,B19
+1917Reach,1916,Central League,withrow,F21163,Withrow,,1,South Bend,,c
+1917Reach,1916,Central League,withrow,F21163,Withrow,,2,Grand Rapids,,c
+1917Reach,1916,Central League,withrow,F21163,Withrow,,T,,,c19
+1917Reach,1916,Central League,wright,B00163,Wright,,0,Grand Rapids,,B68
+1917Reach,1916,Central League,wright,F20981,Wright,,0,Grand Rapids,,of62
+1917Reach,1916,Central League,wright,P10407,Wright,,0,Evansville,,P6
+1917Reach,1916,Central League,yantz,B00475,Yantz,,0,Evansville,,B120
+1917Reach,1916,Central League,yantz,F21068,Yantz,,0,Evansville,,c120
+1917Reach,1916,Central League,zeiser,B01234,Zeiser,,0,South Bend,,B17
+1917Reach,1916,Central League,zeiser,F20583,Zeiser,,0,South Bend,,ss15

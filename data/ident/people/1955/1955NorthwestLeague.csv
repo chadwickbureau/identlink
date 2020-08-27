@@ -1,8 +1,8 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1955,Northwest League,M91065,Dapper,Cliff,,Eugene,,,
-emilbb,1955,Northwest League,M91104,Kittle,Hub,,Yakima,,,
-emilbb,1955,Northwest League,M91120,Lake,Eddie,,Spokane,,,
-emilbb,1955,Northwest League,M91112,Layne,Hillis,,Lewiston,,,
-emilbb,1955,Northwest League,M91079,Luby,Hugh,,Salem,,,
-emilbb,1955,Northwest League,M91098,Pries,Don,,Tri-City,,,
-emilbb,1955,Northwest League,M91087,Vanni,Edo,,Wenatchee,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1955,Northwest League,,M91065,Dapper,Cliff,,Eugene,,
+emilbb,1955,Northwest League,,M91104,Kittle,Hub,,Yakima,,
+emilbb,1955,Northwest League,,M91120,Lake,Eddie,,Spokane,,
+emilbb,1955,Northwest League,,M91112,Layne,Hillis,,Lewiston,,
+emilbb,1955,Northwest League,,M91079,Luby,Hugh,,Salem,,
+emilbb,1955,Northwest League,,M91098,Pries,Don,,Tri-City,,
+emilbb,1955,Northwest League,,M91087,Vanni,Edo,,Wenatchee,,

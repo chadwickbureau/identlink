@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1995,Western League,M92771,Burroughs,Jeff,,Long Beach,,,
-emilbb,1995,Western League,M92752,Colbert,Nate,,Grays Harbor,,,
-emilbb,1995,Western League,M92783,Deese,Paul,,Sonoma County,,,
-emilbb,1995,Western League,M92726,Gallagher,Al,,Bend,,,
-emilbb,1995,Western League,M92760,Holt,Dave,,Salinas,,,
-emilbb,1995,Western League,M92747,Phillips,Dick,,Surrey,,,
-emilbb,1995,Western League,M92794,Sudakis,Bill,,Palm Springs,,,
-emilbb,1995,Western League,M92739,Trebelhorn,Tom,,Tri-City,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1995,Western League,,M92771,Burroughs,Jeff,,Long Beach,,
+emilbb,1995,Western League,,M92752,Colbert,Nate,,Grays Harbor,,
+emilbb,1995,Western League,,M92783,Deese,Paul,,Sonoma County,,
+emilbb,1995,Western League,,M92726,Gallagher,Al,,Bend,,
+emilbb,1995,Western League,,M92760,Holt,Dave,,Salinas,,
+emilbb,1995,Western League,,M92747,Phillips,Dick,,Surrey,,
+emilbb,1995,Western League,,M92794,Sudakis,Bill,,Palm Springs,,
+emilbb,1995,Western League,,M92739,Trebelhorn,Tom,,Tri-City,,

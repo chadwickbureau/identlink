@@ -1,8 +1,8 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1959,Northwest League,M90909,Holden,Dan,,Tri-City,,,
-emilbb,1959,Northwest League,M90870,Kittle,Hub,,Yakima,,,
-emilbb,1959,Northwest League,M90862,Kuehl,Karl,,Salem,,,
-emilbb,1959,Northwest League,M90897,Lohrke,Jack,,Tri-City,,,
-emilbb,1959,Northwest League,M90843,McNamara,John,,Lewiston,,,
-emilbb,1959,Northwest League,M90881,Partee,Roy,,Eugene,,,
-emilbb,1959,Northwest League,M90856,Wilson,Dick,,Wenatchee,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1959,Northwest League,,M90909,Holden,Dan,,Tri-City,,
+emilbb,1959,Northwest League,,M90870,Kittle,Hub,,Yakima,,
+emilbb,1959,Northwest League,,M90862,Kuehl,Karl,,Salem,,
+emilbb,1959,Northwest League,,M90897,Lohrke,Jack,,Tri-City,,
+emilbb,1959,Northwest League,,M90843,McNamara,John,,Lewiston,,
+emilbb,1959,Northwest League,,M90881,Partee,Roy,,Eugene,,
+emilbb,1959,Northwest League,,M90856,Wilson,Dick,,Wenatchee,,

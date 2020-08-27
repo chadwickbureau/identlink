@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1947,Central Association,M91953,Nordquist,Herb,,Hannibal,,,
-emilbb,1947,Central Association,M91989,O'Dea,Paul,,Burlington,,,
-emilbb,1947,Central Association,M91977,Oceak,Frank,,Keokuk,,,
-emilbb,1947,Central Association,M91944,Peterson,Robert,,Clinton,,,
-emilbb,1947,Central Association,M91966,Pfeifer,Cyril,,Rockford,,,
-emilbb,1947,Central Association,M91990,Wheaton,Elwood,,Moline,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1947,Central Association,,M91953,Nordquist,Herb,,Hannibal,,
+emilbb,1947,Central Association,,M91989,O'Dea,Paul,,Burlington,,
+emilbb,1947,Central Association,,M91977,Oceak,Frank,,Keokuk,,
+emilbb,1947,Central Association,,M91944,Peterson,Robert,,Clinton,,
+emilbb,1947,Central Association,,M91966,Pfeifer,Cyril,,Rockford,,
+emilbb,1947,Central Association,,M91990,Wheaton,Elwood,,Moline,,

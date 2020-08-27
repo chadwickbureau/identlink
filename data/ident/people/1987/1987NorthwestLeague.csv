@@ -1,10 +1,10 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1987,Northwest League,M91414,Fichman,Mal,,Boise,,,fichman
-emilbb,1987,Northwest League,M91394,Hudgens,Dave,,Medford,,,hudgens
-emilbb,1987,Northwest League,M91438,Mathews,Rich,,Eugene,,,mathews
-emilbb,1987,Northwest League,M91371,Picciolo,Rob,,Spokane,,,picciolo
-emilbb,1987,Northwest League,M91383,Roberts,Mel,,Bend,,,roberts
-emilbb,1987,Northwest League,M91446,Smith,Chris,,Salem,,,
-emilbb,1987,Northwest League,M91423,Strain,Joe,,Everett,,,strain
-emilbb,1987,Northwest League,M91451,Sweet,Rick,,Bellingham,,,sweet
-emilbb,1987,Northwest League,M91409,Thomas,Derrrel,,Boise,,,thomas
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1987,Northwest League,fichman,M91414,Fichman,Mal,,Boise,,
+emilbb,1987,Northwest League,hudgens,M91394,Hudgens,Dave,,Medford,,
+emilbb,1987,Northwest League,mathews,M91438,Mathews,Rich,,Eugene,,
+emilbb,1987,Northwest League,picciolo,M91371,Picciolo,Rob,,Spokane,,
+emilbb,1987,Northwest League,roberts,M91383,Roberts,Mel,,Bend,,
+emilbb,1987,Northwest League,,M91446,Smith,Chris,,Salem,,
+emilbb,1987,Northwest League,strain,M91423,Strain,Joe,,Everett,,
+emilbb,1987,Northwest League,sweet,M91451,Sweet,Rick,,Bellingham,,
+emilbb,1987,Northwest League,thomas,M91409,Thomas,Derrrel,,Boise,,

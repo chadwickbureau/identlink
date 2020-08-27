@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1986,Northwest League,M91535,Hines,Bruce,,Salem,,,hines
-emilbb,1986,Northwest League,M91524,Hudgens,Dave,,Medford,,,hudgens
-emilbb,1986,Northwest League,M91508,Murphy,Pat,,Tri-Cities,,,murphy
-emilbb,1986,Northwest League,M91519,Napoleon,Ed,,Eugene,,,napoleon
-emilbb,1986,Northwest League,M91543,Pebley,Ed,,Bend,,,pebley
-emilbb,1986,Northwest League,M91495,Picciolo,Rob,,Spokane,,,picciolo
-emilbb,1986,Northwest League,M91472,Rende,Sal,,Bellingham,,,rende
-emilbb,1986,Northwest League,M91480,Strain,Joe,,Everett,,,strain
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1986,Northwest League,hines,M91535,Hines,Bruce,,Salem,,
+emilbb,1986,Northwest League,hudgens,M91524,Hudgens,Dave,,Medford,,
+emilbb,1986,Northwest League,murphy,M91508,Murphy,Pat,,Tri-Cities,,
+emilbb,1986,Northwest League,napoleon,M91519,Napoleon,Ed,,Eugene,,
+emilbb,1986,Northwest League,pebley,M91543,Pebley,Ed,,Bend,,
+emilbb,1986,Northwest League,picciolo,M91495,Picciolo,Rob,,Spokane,,
+emilbb,1986,Northwest League,rende,M91472,Rende,Sal,,Bellingham,,
+emilbb,1986,Northwest League,strain,M91480,Strain,Joe,,Everett,,

@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1981,Midwest League,M91087,Bevington,Terry,,Burlington,,,
-emilbb,1981,Midwest League,M91079,Davidson,Randy,,Cedar Rapids,,,
-emilbb,1981,Midwest League,M91054,Ewing,Sam,,Appleton,,,
-emilbb,1981,Midwest League,M91033,Hodge,Gomer,,Waterloo,,,
-emilbb,1981,Midwest League,M91098,Kim,Wendell,,Clinton,,,
-emilbb,1981,Midwest League,M91065,Morales,Rich,,Quad Cities,,,
-emilbb,1981,Midwest League,M91022,Plummer,Bill,,Wausau,,,
-emilbb,1981,Midwest League,M91040,Staples,Ken,,Wisconsin Rapids,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1981,Midwest League,,M91087,Bevington,Terry,,Burlington,,
+emilbb,1981,Midwest League,,M91079,Davidson,Randy,,Cedar Rapids,,
+emilbb,1981,Midwest League,,M91054,Ewing,Sam,,Appleton,,
+emilbb,1981,Midwest League,,M91033,Hodge,Gomer,,Waterloo,,
+emilbb,1981,Midwest League,,M91098,Kim,Wendell,,Clinton,,
+emilbb,1981,Midwest League,,M91065,Morales,Rich,,Quad Cities,,
+emilbb,1981,Midwest League,,M91022,Plummer,Bill,,Wausau,,
+emilbb,1981,Midwest League,,M91040,Staples,Ken,,Wisconsin Rapids,,

@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1993,American Association,M90060,Bando,Chris,,New Orleans,,,
-emilbb,1993,American Association,M90047,Bombard,Marc,,Indianapolis,,,
-emilbb,1993,American Association,M90071,Cox,Jeff,,Omaha,,,
-emilbb,1993,American Association,M90026,Edwards,Doc,,Buffalo,,,
-emilbb,1993,American Association,M90052,Foley,Marv,,Iowa,,,
-emilbb,1993,American Association,M90083,Jones,Bobby,,Oklahoma City,,,
-emilbb,1993,American Association,M90039,Krol,Jack,,Louisville,,,
-emilbb,1993,American Association,M90018,Renick,Rick,,Nashville,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1993,American Association,,M90060,Bando,Chris,,New Orleans,,
+emilbb,1993,American Association,,M90047,Bombard,Marc,,Indianapolis,,
+emilbb,1993,American Association,,M90071,Cox,Jeff,,Omaha,,
+emilbb,1993,American Association,,M90026,Edwards,Doc,,Buffalo,,
+emilbb,1993,American Association,,M90052,Foley,Marv,,Iowa,,
+emilbb,1993,American Association,,M90083,Jones,Bobby,,Oklahoma City,,
+emilbb,1993,American Association,,M90039,Krol,Jack,,Louisville,,
+emilbb,1993,American Association,,M90018,Renick,Rick,,Nashville,,

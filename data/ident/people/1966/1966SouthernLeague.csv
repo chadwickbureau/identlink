@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1966,Southern League,M90421,Blackburn,Wayne,,Montgomery,,,
-emilbb,1966,Southern League,M90459,Cassini,Jack,,Knoxville,,,
-emilbb,1966,Southern League,M90382,McNamara,John,,Mobile,,,
-emilbb,1966,Southern League,M90400,Noga,Gerry,,Evansville,,,
-emilbb,1966,Southern League,M90396,Peterson,"Harding ""Pete""",,Asheville,,,
-emilbb,1966,Southern League,M90445,Reed,Jack,,Columbus,,,
-emilbb,1966,Southern League,M90413,Seminick,Andy,,Macon,,,
-emilbb,1966,Southern League,M90437,Warner,Harry,,Charlotte,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1966,Southern League,,M90421,Blackburn,Wayne,,Montgomery,,
+emilbb,1966,Southern League,,M90459,Cassini,Jack,,Knoxville,,
+emilbb,1966,Southern League,,M90382,McNamara,John,,Mobile,,
+emilbb,1966,Southern League,,M90400,Noga,Gerry,,Evansville,,
+emilbb,1966,Southern League,,M90396,Peterson,"Harding ""Pete""",,Asheville,,
+emilbb,1966,Southern League,,M90445,Reed,Jack,,Columbus,,
+emilbb,1966,Southern League,,M90413,Seminick,Andy,,Macon,,
+emilbb,1966,Southern League,,M90437,Warner,Harry,,Charlotte,,

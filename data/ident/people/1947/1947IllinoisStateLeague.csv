@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1947,Illinois State League,M93684,DeFreitas,Walter,,Belleville,,,
-emilbb,1947,Illinois State League,M93692,Hawley,Chuck,,Centralia,,,
-emilbb,1947,Illinois State League,M93729,Huber,Otto,,Mount Vernon,,,
-emilbb,1947,Illinois State League,M93707,Ivy,Melvin,,Marion,,,
-emilbb,1947,Illinois State League,M93710,Johnston,Everett,,West Frankfort,,,
-emilbb,1947,Illinois State League,M93732,Parenti,Frank,,Mattoon,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1947,Illinois State League,,M93684,DeFreitas,Walter,,Belleville,,
+emilbb,1947,Illinois State League,,M93692,Hawley,Chuck,,Centralia,,
+emilbb,1947,Illinois State League,,M93729,Huber,Otto,,Mount Vernon,,
+emilbb,1947,Illinois State League,,M93707,Ivy,Melvin,,Marion,,
+emilbb,1947,Illinois State League,,M93710,Johnston,Everett,,West Frankfort,,
+emilbb,1947,Illinois State League,,M93732,Parenti,Frank,,Mattoon,,

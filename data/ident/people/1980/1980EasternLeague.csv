@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1980,Eastern League,M90650,Clark,Ron,,Reading,,,
-emilbb,1980,Eastern League,M90669,Compton,Mike,,Waterbury,,,
-emilbb,1980,Eastern League,M90616,Demeter,Steve,,Buffalo,,,
-emilbb,1980,Eastern League,M90627,Floyd,Bobby,,Lynn,,,
-emilbb,1980,Eastern League,M90675,Nottle,Ed,,West Haven,,,
-emilbb,1980,Eastern League,M90634,Pazik,Mike,,Glens Falls,,,
-emilbb,1980,Eastern League,M90603,Sigman,Lee,,Holyoke,,,
-emilbb,1980,Eastern League,M90642,Torchia,Tony,,Bristol,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1980,Eastern League,,M90650,Clark,Ron,,Reading,,
+emilbb,1980,Eastern League,,M90669,Compton,Mike,,Waterbury,,
+emilbb,1980,Eastern League,,M90616,Demeter,Steve,,Buffalo,,
+emilbb,1980,Eastern League,,M90627,Floyd,Bobby,,Lynn,,
+emilbb,1980,Eastern League,,M90675,Nottle,Ed,,West Haven,,
+emilbb,1980,Eastern League,,M90634,Pazik,Mike,,Glens Falls,,
+emilbb,1980,Eastern League,,M90603,Sigman,Lee,,Holyoke,,
+emilbb,1980,Eastern League,,M90642,Torchia,Tony,,Bristol,,

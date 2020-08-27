@@ -1,11 +1,11 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1984,South Atlantic League,M91524,Albert,Rick,,Anderson,,,albert
-emilbb,1984,South Atlantic League,M91570,Frisina,Joe,,Macon,,,frisina
-emilbb,1984,South Atlantic League,M91556,Gustavson,Duane,,Charleston,,,gustavson
-emilbb,1984,South Atlantic League,M91562,Holmberg,Dennis,,Florence,,,holmberg
-emilbb,1984,South Atlantic League,M91543,Merritt,Lloyd,,Savannah,,,merritt
-emilbb,1984,South Atlantic League,M91535,Miller,Rich,,Columbia,,,miller
-emilbb,1984,South Atlantic League,M91519,Miner,Junior,,Gastonia,,,miner
-emilbb,1984,South Atlantic League,M91495,Spencer,Tom,,Asheville,,,spencer
-emilbb,1984,South Atlantic League,M91480,Tosca,Carlos,,Greensboro,,,tosca
-emilbb,1984,South Atlantic League,M91508,Ward,Jay,,Spartanburg,,,ward
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1984,South Atlantic League,albert,M91524,Albert,Rick,,Anderson,,
+emilbb,1984,South Atlantic League,frisina,M91570,Frisina,Joe,,Macon,,
+emilbb,1984,South Atlantic League,gustavson,M91556,Gustavson,Duane,,Charleston,,
+emilbb,1984,South Atlantic League,holmberg,M91562,Holmberg,Dennis,,Florence,,
+emilbb,1984,South Atlantic League,merritt,M91543,Merritt,Lloyd,,Savannah,,
+emilbb,1984,South Atlantic League,miller,M91535,Miller,Rich,,Columbia,,
+emilbb,1984,South Atlantic League,miner,M91519,Miner,Junior,,Gastonia,,
+emilbb,1984,South Atlantic League,spencer,M91495,Spencer,Tom,,Asheville,,
+emilbb,1984,South Atlantic League,tosca,M91480,Tosca,Carlos,,Greensboro,,
+emilbb,1984,South Atlantic League,ward,M91508,Ward,Jay,,Spartanburg,,

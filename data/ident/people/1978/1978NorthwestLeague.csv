@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1978,Northwest League,M91352,Bryk,Bill,,Grays Harbor,,,
-emilbb,1978,Northwest League,M91383,Chapman,Jim,,Victoria,,,
-emilbb,1978,Northwest League,M91423,Craft,Gerry,,Boise,,,
-emilbb,1978,Northwest League,M91371,Didier,Bob,,Bellingham,,,
-emilbb,1978,Northwest League,M91360,Ditto,Cliff,,Walla Walla,,,
-emilbb,1978,Northwest League,M91409,Nottle,Ed,,Bend,,,
-emilbb,1978,Northwest League,M91394,Riddoch,Greg,,Eugene,,,
-emilbb,1978,Northwest League,M91414,Thompson,Carl,,Salem,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1978,Northwest League,,M91352,Bryk,Bill,,Grays Harbor,,
+emilbb,1978,Northwest League,,M91383,Chapman,Jim,,Victoria,,
+emilbb,1978,Northwest League,,M91423,Craft,Gerry,,Boise,,
+emilbb,1978,Northwest League,,M91371,Didier,Bob,,Bellingham,,
+emilbb,1978,Northwest League,,M91360,Ditto,Cliff,,Walla Walla,,
+emilbb,1978,Northwest League,,M91409,Nottle,Ed,,Bend,,
+emilbb,1978,Northwest League,,M91394,Riddoch,Greg,,Eugene,,
+emilbb,1978,Northwest League,,M91414,Thompson,Carl,,Salem,,

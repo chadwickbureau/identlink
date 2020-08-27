@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1954,Mexican League,M93764,Amaro,Santos,,Veracruz,,,
-emilbb,1954,Mexican League,M93778,Bejerano,Agustin,,Mexico City Azul,,,
-emilbb,1954,Mexican League,M93786,Bragana,Ramon,,Mexico City Reds,,,
-emilbb,1954,Mexican League,M93741,Collazo,Mario,,Yucatan,,,
-emilbb,1954,Mexican League,M93732,Garmendia,Oscar,,Yucatan,,,
-emilbb,1954,Mexican League,M93729,Luque,Dolf,,Nuevo Laredo,,,
-emilbb,1954,Mexican League,M93793,Montes de Oca,Luis,,Mexico City Reds,,,
-emilbb,1954,Mexican League,M93755,Salazar,Lazaro,,Monterrey,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1954,Mexican League,,M93764,Amaro,Santos,,Veracruz,,
+emilbb,1954,Mexican League,,M93778,Bejerano,Agustin,,Mexico City Azul,,
+emilbb,1954,Mexican League,,M93786,Bragana,Ramon,,Mexico City Reds,,
+emilbb,1954,Mexican League,,M93741,Collazo,Mario,,Yucatan,,
+emilbb,1954,Mexican League,,M93732,Garmendia,Oscar,,Yucatan,,
+emilbb,1954,Mexican League,,M93729,Luque,Dolf,,Nuevo Laredo,,
+emilbb,1954,Mexican League,,M93793,Montes de Oca,Luis,,Mexico City Reds,,
+emilbb,1954,Mexican League,,M93755,Salazar,Lazaro,,Monterrey,,

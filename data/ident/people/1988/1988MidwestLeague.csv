@@ -1,16 +1,16 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1988,Midwest League,M91383,Albert,Rick,,Burlington,,,albert
-emilbb,1988,Midwest League,M91245,Bannister,Alan,,Rockford,,,bannister
-emilbb,1988,Midwest League,M91347,Bolek,Ken,,Waterloo,,,bolek
-emilbb,1988,Midwest League,M91318,Bombard,Marc,,Cedar Rapids,,,bombard
-emilbb,1988,Midwest League,M91326,DeJohn,Mark,,Springfield,,,dejohn
-emilbb,1988,Midwest League,M91284,Dillard,Steve,,South Bend,,,dillard
-emilbb,1988,Midwest League,M91339,Evers,Bill,,Clinton,,,evers
-emilbb,1988,Midwest League,M91259,Gardenhire,Ron,,Kenosha,,,gardenhire
-emilbb,1988,Midwest League,M91268,Hodge,Gomer,,Beloit,,,hodge
-emilbb,1988,Midwest League,M91371,Little,Grady,,Burlington,,,little
-emilbb,1988,Midwest League,M91276,Nettles,Jim,,Madison,,,nettles
-emilbb,1988,Midwest League,M91292,Poldberg,Brian,,Appleton,,,poldberg
-emilbb,1988,Midwest League,M91360,Rodriguez,Eddie,,Quad Cities,,,
-emilbb,1988,Midwest League,M91305,Sweet,Rick,,Wausau,,,sweet
-emilbb,1988,Midwest League,M91352,Tracy,Jim,,Peoria,,,tracy
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1988,Midwest League,albert,M91383,Albert,Rick,,Burlington,,
+emilbb,1988,Midwest League,bannister,M91245,Bannister,Alan,,Rockford,,
+emilbb,1988,Midwest League,bolek,M91347,Bolek,Ken,,Waterloo,,
+emilbb,1988,Midwest League,bombard,M91318,Bombard,Marc,,Cedar Rapids,,
+emilbb,1988,Midwest League,dejohn,M91326,DeJohn,Mark,,Springfield,,
+emilbb,1988,Midwest League,dillard,M91284,Dillard,Steve,,South Bend,,
+emilbb,1988,Midwest League,evers,M91339,Evers,Bill,,Clinton,,
+emilbb,1988,Midwest League,gardenhire,M91259,Gardenhire,Ron,,Kenosha,,
+emilbb,1988,Midwest League,hodge,M91268,Hodge,Gomer,,Beloit,,
+emilbb,1988,Midwest League,little,M91371,Little,Grady,,Burlington,,
+emilbb,1988,Midwest League,nettles,M91276,Nettles,Jim,,Madison,,
+emilbb,1988,Midwest League,poldberg,M91292,Poldberg,Brian,,Appleton,,
+emilbb,1988,Midwest League,,M91360,Rodriguez,Eddie,,Quad Cities,,
+emilbb,1988,Midwest League,sweet,M91305,Sweet,Rick,,Wausau,,
+emilbb,1988,Midwest League,tracy,M91352,Tracy,Jim,,Peoria,,

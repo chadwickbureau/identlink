@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1981,New York-Pennsylvania League,M91136,Berardino,Dick,,Elmira,,,
-emilbb,1981,New York-Pennsylvania League,M91148,Dougherty,Pat,,Jamestown,,,
-emilbb,1981,New York-Pennsylvania League,M91112,Gattis,Jim,,Utica,,,
-emilbb,1981,New York-Pennsylvania League,M91161,Hartsfield,Bob,,Geneva,,,
-emilbb,1981,New York-Pennsylvania League,M91104,Mazmanian,Art,,Oneonta,,,
-emilbb,1981,New York-Pennsylvania League,M91120,Miller,Rick,,Little Falls,,,
-emilbb,1981,New York-Pennsylvania League,M91173,Oliver,Dave,,Batavia,,,
-emilbb,1981,New York-Pennsylvania League,M91157,Ruberto,Sonny,,Erie,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1981,New York-Pennsylvania League,,M91136,Berardino,Dick,,Elmira,,
+emilbb,1981,New York-Pennsylvania League,,M91148,Dougherty,Pat,,Jamestown,,
+emilbb,1981,New York-Pennsylvania League,,M91112,Gattis,Jim,,Utica,,
+emilbb,1981,New York-Pennsylvania League,,M91161,Hartsfield,Bob,,Geneva,,
+emilbb,1981,New York-Pennsylvania League,,M91104,Mazmanian,Art,,Oneonta,,
+emilbb,1981,New York-Pennsylvania League,,M91120,Miller,Rick,,Little Falls,,
+emilbb,1981,New York-Pennsylvania League,,M91173,Oliver,Dave,,Batavia,,
+emilbb,1981,New York-Pennsylvania League,,M91157,Ruberto,Sonny,,Erie,,

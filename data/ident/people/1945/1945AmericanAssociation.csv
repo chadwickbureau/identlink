@@ -1,1155 +1,1155 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-1946TSN,1945,American Association,B02231,Abernathy,Woodrow,0,Minneapolis,,B35,
-1946TSN,1945,American Association,B04631,Abernathy,,0,Minneapolis,,B35,
-1946TSN,1945,American Association,F21739,Abernathy,,0,Minneapolis,,p32,
-1946TSN,1945,American Association,P10591,Abernathy,,0,Minneapolis,,P32p,
-1946TSN,1945,American Association,P11526,Abernathy,,0,Minneapolis,,p,
-1946TSN,1945,American Association,B01415,Acosta,Julio,0,Milwaukee,,B34,
-1946TSN,1945,American Association,B04365,Acosta,,0,Milwaukee,,B34,
-1946TSN,1945,American Association,F22223,Acosta,,0,Milwaukee,,p29,
-1946TSN,1945,American Association,P10168,Acosta,,0,Milwaukee,,P29p,
-1946TSN,1945,American Association,P11334,Acosta,,0,Milwaukee,,p,
-1946TSN,1945,American Association,F21705,Alberton,,0,Minneapolis,,p47,
-1946TSN,1945,American Association,P10767,Alberton,,0,Minneapolis,,P47p,
-1946TSN,1945,American Association,B01055,Albertson,Robert,0,Minneapolis,,B61,
-1946TSN,1945,American Association,B04333,Albertson,,0,Minneapolis,,B61,
-1946TSN,1945,American Association,B01288,Aragon,Jack,1,Minneapolis,,B32,
-1946TSN,1945,American Association,B01288,Aragon,Jack,2,Louisville,,B56,
-1946TSN,1945,American Association,B01288,Aragon,Jack,T,,,B88,
-1946TSN,1945,American Association,B03776,Aragon,,1,Minneapolis,,,
-1946TSN,1945,American Association,B03776,Aragon,,2,Louisville,,,
-1946TSN,1945,American Association,B03776,Aragon,,T,,,B88,
-1946TSN,1945,American Association,F22517,Aragon,,1,Minneapolis,,c,
-1946TSN,1945,American Association,F22517,Aragon,,2,Louisville,,c,
-1946TSN,1945,American Association,F22517,Aragon,,T,,,c79,
-1946TSN,1945,American Association,B02606,Archer,Robert,0,Columbus,,B7,
-1946TSN,1945,American Association,B01873,Arteaga,Virginio,0,Minneapolis,,B11,
-1946TSN,1945,American Association,B05142,Arteaga,,0,Minneapolis,,B11,
-1946TSN,1945,American Association,B02478,Austin,Victor,0,Louisville,,B2,
-1946TSN,1945,American Association,B02399,Babe,Loren,0,Kansas City,,B5,
-1946TSN,1945,American Association,B01994,Bahr,Edson,0,Kansas City,,B34,
-1946TSN,1945,American Association,B05061,Bahr,,0,Kansas City,,B34,
-1946TSN,1945,American Association,F21806,Bahr,,0,Kansas City,,p29,
-1946TSN,1945,American Association,P10410,Bahr,,0,Kansas City,,P29p,
-1946TSN,1945,American Association,P11369,Bahr,,0,Kansas City,,p,
-1946TSN,1945,American Association,B00590,Barath,Stephen,0,Louisville,,B121,
-1946TSN,1945,American Association,B03342,Barath,,0,Louisville,,B121,
-1946TSN,1945,American Association,F20962,Barath,,0,Louisville,,of108,
-1946TSN,1945,American Association,B00427,Barna,Herbert,0,Minneapolis,,B132,
-1946TSN,1945,American Association,B03177,Barna,,0,Minneapolis,,B132,
-1946TSN,1945,American Association,F21278,Barna,,0,Minneapolis,,of129,
-1946TSN,1945,American Association,B00362,Baron,Charles,0,Columbus,,B38,
-1946TSN,1945,American Association,B03759,Baron,,0,Columbus,,B38,
-1946TSN,1945,American Association,F20144,Baron,,0,Columbus,,1b38,
-1946TSN,1945,American Association,B01514,Bartosch,David,0,Columbus,,B50,
-1946TSN,1945,American Association,B03924,Bartosch,,0,Columbus,,B50,
-1946TSN,1945,American Association,F20997,Bartosch,,0,Columbus,,of50,
-1946TSN,1945,American Association,B02860,Baughn,Raymond,0,Columbus,,B1,
-1946TSN,1945,American Association,B01093,Berge,Arnie,1,Minneapolis,,B35,
-1946TSN,1945,American Association,B01093,Berge,Arnie,2,St. Paul,,B54,
-1946TSN,1945,American Association,B01093,Berge,Arnie,T,,,B89,
-1946TSN,1945,American Association,B03737,Berge,,1,Minneapolis,,,
-1946TSN,1945,American Association,B03737,Berge,,2,St. Paul,,,
-1946TSN,1945,American Association,B03737,Berge,,T,,,B89,
-1946TSN,1945,American Association,F20038,Berge,,1,Minneapolis,,1b,
-1946TSN,1945,American Association,F20038,Berge,,2,St. Paul,,1b,
-1946TSN,1945,American Association,F20038,Berge,,T,,,1b10,
-1946TSN,1945,American Association,F20233,Berge,,1,Minneapolis,,2b,
-1946TSN,1945,American Association,F20233,Berge,,2,St. Paul,,2b,
-1946TSN,1945,American Association,F20233,Berge,,T,,,2b12,
-1946TSN,1945,American Association,F20526,Berge,,1,Minneapolis,,3b,
-1946TSN,1945,American Association,F20526,Berge,,2,St. Paul,,3b,
-1946TSN,1945,American Association,F20526,Berge,,T,,,3b26,
-1946TSN,1945,American Association,F20768,Berge,,1,Minneapolis,,ss,
-1946TSN,1945,American Association,F20768,Berge,,2,St. Paul,,ss,
-1946TSN,1945,American Association,F20768,Berge,,T,,,ss38,
-1946TSN,1945,American Association,B00264,Biggs,Alton,0,Milwaukee,,B135,
-1946TSN,1945,American Association,B03298,Biggs,,0,Milwaukee,,B135,
-1946TSN,1945,American Association,F20265,Biggs,,0,Milwaukee,,2b41,
-1946TSN,1945,American Association,F20776,Biggs,,0,Milwaukee,,ss89,
-emilbb,1945,American Association,M90047,Blades,Ray,,St. Paul,,,
-1946TSN,1945,American Association,B00948,Blazo,Michael,0,Minneapolis,,B86,
-1946TSN,1945,American Association,B03661,Blazo,,0,Minneapolis,,B86,
-1946TSN,1945,American Association,F20425,Blazo,,0,Minneapolis,,3b10,
-1946TSN,1945,American Association,F22487,Blazo,,0,Minneapolis,,c69,
-1946TSN,1945,American Association,B02024,Boaz,William,0,St. Paul,,B43,
-1946TSN,1945,American Association,B04568,Boaz,,0,St. Paul,,B43,
-1946TSN,1945,American Association,F20211,Boaz,,0,St. Paul,,2b38,
-1946TSN,1945,American Association,B00667,Bogard,John,0,Kansas City,,B67,
-1946TSN,1945,American Association,B03832,Bogard,,0,Kansas City,,B67,
-1946TSN,1945,American Association,F20369,Bogard,,0,Kansas City,,2b42,
-1946TSN,1945,American Association,F20943,Bogard,,0,Kansas City,,of12,
-1946TSN,1945,American Association,B00286,Boken,Robert,0,Toledo,,B22,
-1946TSN,1945,American Association,B04160,Boken,,0,Toledo,,B22,
-1946TSN,1945,American Association,F21434,Boken,,0,Toledo,,of14,
-1946TSN,1945,American Association,B00695,Brady,Robert,0,Indianapolis,,B116,
-1946TSN,1945,American Association,B03369,Brady,,0,Indianapolis,,B116,
-1946TSN,1945,American Association,F22422,Brady,,0,Indianapolis,,c107,
-1946TSN,1945,American Association,B02137,Branca,Ralph,0,St. Paul,,B15,
-1946TSN,1945,American Association,B04993,Branca,,0,St. Paul,,B15,
-1946TSN,1945,American Association,F21854,Branca,,0,St. Paul,,p15,
-1946TSN,1945,American Association,P10121,Branca,,0,St. Paul,,P15p,
-1946TSN,1945,American Association,P11759,Branca,,0,St. Paul,,p,
-1946TSN,1945,American Association,B01696,Brock,L. Paul,0,Columbus,,B26,
-1946TSN,1945,American Association,B04851,Brock,,0,Columbus,,B26,
-1946TSN,1945,American Association,F21948,Brock,,0,Columbus,,p26,
-1946TSN,1945,American Association,P10503,Brock,,0,Columbus,,P26p,
-1946TSN,1945,American Association,P11935,Brock,,0,Columbus,,p,
-1946TSN,1945,American Association,B00651,Brown,Thomas,0,St. Paul,,B85,
-1946TSN,1945,American Association,B03474,Brown,,0,St. Paul,,B85,
-1946TSN,1945,American Association,F20784,Brown,,0,St. Paul,,ss80,
-1946TSN,1945,American Association,B00833,Browne,Earl,0,Louisville,,B146,
-1946TSN,1945,American Association,B03222,Browne,,0,Louisville,,B146,
-1946TSN,1945,American Association,F20072,Browne,,0,Louisville,,1b145,
-1946TSN,1945,American Association,P11254,Browne,Earl,0,Louisville,,P1p,
-1946TSN,1945,American Association,B01291,Brunswick,Roman,0,Columbus,,B37,
-1946TSN,1945,American Association,B04183,Brunswick,,0,Columbus,,B37,
-1946TSN,1945,American Association,F21794,Brunswick,,0,Columbus,,p36,
-1946TSN,1945,American Association,P10176,Brunswick,,0,Columbus,,P36p,
-1946TSN,1945,American Association,P11391,Brunswick,,0,Columbus,,p,
-1946TSN,1945,American Association,B00207,Bucha,John,0,Columbus,,B119,
-1946TSN,1945,American Association,B03539,Bucha,,0,Columbus,,B119,
-1946TSN,1945,American Association,F22530,Bucha,,0,Columbus,,c107,
-1946TSN,1945,American Association,B00794,Burgo,William,0,Milwaukee,,B147,
-1946TSN,1945,American Association,B03211,Burgo,,0,Milwaukee,,B147,
-1946TSN,1945,American Association,F21370,Burgo,,0,Milwaukee,,of144,
-1946TSN,1945,American Association,B00324,Burkart,Elmer,1,Columbus,,B5,
-1946TSN,1945,American Association,B00324,Burkart,Elmer,2,Milwaukee,,B12,
-1946TSN,1945,American Association,B00324,Burkart,Elmer,T,,,B17,
-1946TSN,1945,American Association,B05341,Burkart,,1,Columbus,,,
-1946TSN,1945,American Association,B05341,Burkart,,2,Milwaukee,,,
-1946TSN,1945,American Association,B05341,Burkart,,T,,,B17,
-1946TSN,1945,American Association,F22246,Burkart,,1,Columbus,,p,
-1946TSN,1945,American Association,F22246,Burkart,,2,Milwaukee,,p,
-1946TSN,1945,American Association,F22246,Burkart,,T,,,p17,
-1946TSN,1945,American Association,P10751,Burkart,,1,Columbus,,P5p,
-1946TSN,1945,American Association,P10751,Burkart,,2,Milwaukee,,P12p,
-1946TSN,1945,American Association,P10751,Burkart,,T,,,P17p,
-1946TSN,1945,American Association,P11997,Burkhart,,1,Columbus,,p,
-1946TSN,1945,American Association,P11997,Burkhart,,2,Milwaukee,,p,
-1946TSN,1945,American Association,P11997,Burkhart,,T,,,p,
-emilbb,1945,American Association,M90026,Burwell,Bill,,Indianapolis,,,
-1946TSN,1945,American Association,B01234,Callahan,Richard,0,Louisville,,B35,
-1946TSN,1945,American Association,B04297,Callahan,,0,Louisville,,B35,
-1946TSN,1945,American Association,F21822,Callahan,,0,Louisville,,p29,
-1946TSN,1945,American Association,P10320,Callahan,,0,Louisville,,P29p,
-1946TSN,1945,American Association,P11547,Callahan,,0,Louisville,,p,
-1946TSN,1945,American Association,B02253,Camp,Loy,0,St. Paul,,B11,
-1946TSN,1945,American Association,B05355,Camp,,0,St. Paul,,B11,
-1946TSN,1945,American Association,F21531,Camp,,0,St. Paul,,p11,
-1946TSN,1945,American Association,P10679,Camp,,0,St. Paul,,P11p,
-1946TSN,1945,American Association,P12001,Camp,,0,St. Paul,,p,
-1946TSN,1945,American Association,B02550,Capelle,Jack,0,St. Paul,,B3,
-1946TSN,1945,American Association,B02930,Carabello,Jose,0,Minneapolis,,B2,
-1946TSN,1945,American Association,P11189,Carabello,Jose,0,Minneapolis,,P2p,
-1946TSN,1945,American Association,B02320,Caravello,Aldo,0,Milwaukee,,B6,
-1946TSN,1945,American Association,B01617,Cardinal,Louis,1,Minneapolis,,B8,
-1946TSN,1945,American Association,B01617,Cardinal,Louis,2,St. Paul,,B13,
-1946TSN,1945,American Association,B01617,Cardinal,Louis,T,,,B21,
-1946TSN,1945,American Association,B04932,Cardinal,,1,Minneapolis,,,
-1946TSN,1945,American Association,B04932,Cardinal,,2,St. Paul,,,
-1946TSN,1945,American Association,B04932,Cardinal,,T,,,B21,
-1946TSN,1945,American Association,F22329,Cardinal,,1,Minneapolis,,c,
-1946TSN,1945,American Association,F22329,Cardinal,,2,St. Paul,,c,
-1946TSN,1945,American Association,F22329,Cardinal,,T,,,c21,
-1946TSN,1945,American Association,B01926,Cardoni,Armand,1,Indianapolis,,B9,
-1946TSN,1945,American Association,B01926,Cardoni,Armand,2,Milwaukee,,B15,
-1946TSN,1945,American Association,B01926,Cardoni,Armand,T,,,B24,
-1946TSN,1945,American Association,B04727,Cardoni,,1,Indianapolis,,,
-1946TSN,1945,American Association,B04727,Cardoni,,2,Milwaukee,,,
-1946TSN,1945,American Association,B04727,Cardoni,,T,,,B24,
-1946TSN,1945,American Association,F22209,Cardoni,,1,Indianapolis,,p,
-1946TSN,1945,American Association,F22209,Cardoni,,2,Milwaukee,,p,
-1946TSN,1945,American Association,F22209,Cardoni,,T,,,p22,
-1946TSN,1945,American Association,P10441,Cardoni,,1,Indianapolis,,p,
-1946TSN,1945,American Association,P10441,Cardoni,,2,Milwaukee,,p,
-1946TSN,1945,American Association,P10441,Cardoni,,T,,,P22p,
-1946TSN,1945,American Association,P11560,Cardoni,,1,Indianapolis,,p,
-1946TSN,1945,American Association,P11560,Cardoni,,2,Milwaukee,,p,
-1946TSN,1945,American Association,P11560,Cardoni,,T,,,p,
-1946TSN,1945,American Association,B02591,Carroll,Charles,0,Milwaukee,,B5,
-1946TSN,1945,American Association,B01947,Castro,Dominic,0,Kansas City,,B35,
-1946TSN,1945,American Association,B04243,Castro,,0,Kansas City,,B35,
-1946TSN,1945,American Association,F22465,Castro,,0,Kansas City,,c31,
-1946TSN,1945,American Association,B01124,Cecil,Rex,0,Louisville,,B31,
-1946TSN,1945,American Association,B05048,Cecil,,0,Louisville,,B31,
-1946TSN,1945,American Association,F21985,Cecil,,0,Louisville,,p28,
-1946TSN,1945,American Association,P10070,Cecil,,0,Louisville,,P28p,
-1946TSN,1945,American Association,P11449,Cecil,,0,Louisville,,p,
-1946TSN,1945,American Association,B02883,Chambers,John,0,Minneapolis,,B7,
-1946TSN,1945,American Association,P11144,Chambers,John,0,Minneapolis,,P7p,
-1946TSN,1945,American Association,B00442,Chapman,Glenn,0,St. Paul,,B124,
-1946TSN,1945,American Association,B03240,Chapman,,0,St. Paul,,B124,
-1946TSN,1945,American Association,F21021,Chapman,,0,St. Paul,,of119,
-1946TSN,1945,American Association,B02429,Christ,Donald,0,Toledo,,B3,
-1946TSN,1945,American Association,B02168,Chumley,Fred,0,Louisville,,B15,
-1946TSN,1945,American Association,B05127,Chumley,,0,Louisville,,B15,
-1946TSN,1945,American Association,F21999,Chumley,,0,Louisville,,p13,
-1946TSN,1945,American Association,P10894,Chumley,Fred,0,Louisville,,P13p,
-1946TSN,1945,American Association,P12030,Chumley,,0,Louisville,,p,
-1946TSN,1945,American Association,B00680,Cicero,Joseph,0,Minneapolis,,B65,
-1946TSN,1945,American Association,B03855,Cicero,,0,Minneapolis,,B65,
-1946TSN,1945,American Association,F21000,Cicero,,0,Minneapolis,,of56,
-1946TSN,1945,American Association,B01740,Clark,Wm. Otis,0,Louisville,,B23,
-1946TSN,1945,American Association,B04592,Clark,,0,Louisville,,B23,
-1946TSN,1945,American Association,F21502,Clark,,0,Louisville,,p23,
-1946TSN,1945,American Association,P10407,Clark,,0,Louisville,,P23p,
-1946TSN,1945,American Association,P11482,Clark,,0,Louisville,,p,
-1946TSN,1945,American Association,B02312,Coffman,George,0,St. Paul,,B12,
-1946TSN,1945,American Association,B05073,Coffman,,0,St. Paul,,B12,
-1946TSN,1945,American Association,F22280,Coffman,,0,St. Paul,,p11,
-1946TSN,1945,American Association,P11102,Coffman,George,0,St. Paul,,P11p,
-1946TSN,1945,American Association,B00614,Collins,Stephen,0,Toledo,,B114,
-1946TSN,1945,American Association,B03391,Collins,,0,Toledo,,B114,
-1946TSN,1945,American Association,F20316,Collins,,0,Toledo,,2b28,
-1946TSN,1945,American Association,F20474,Collins,,0,Toledo,,3b84,
-1946TSN,1945,American Association,B01551,Comyn,Robert,0,Toledo,,B37,
-1946TSN,1945,American Association,B04063,Comyn,,0,Toledo,,B37,
-1946TSN,1945,American Association,F22355,Comyn,,0,Toledo,,c37,
-1946TSN,1945,American Association,B00117,Cooney,John,0,Kansas City,,B27,
-1946TSN,1945,American Association,B04306,Cooney,,0,Kansas City,,B27,
-1946TSN,1945,American Association,F21037,Cooney,,0,Kansas City,,of21,
-1946TSN,1945,American Association,B00403,Corbett,Eugene,0,St. Paul,,B10,
-1946TSN,1945,American Association,B04809,Corbett,,0,St. Paul,,B10,
-1946TSN,1945,American Association,B00397,Corona,George,0,Toledo,,B95,
-1946TSN,1945,American Association,B03482,Corona,,0,Toledo,,B95,
-1946TSN,1945,American Association,F21130,Corona,,0,Toledo,,of90,
-1946TSN,1945,American Association,B00898,Cotelle,Como,0,Louisville,,B58,
-1946TSN,1945,American Association,B03943,Cotelle,,0,Louisville,,B58,
-1946TSN,1945,American Association,F21084,Cotelle,,0,Louisville,,of52,
-1946TSN,1945,American Association,B02455,Cozart,Charles,0,Kansas City,,B5,
-1946TSN,1945,American Association,P10780,Cozart,Charles,0,Kansas City,,P4p,
-1946TSN,1945,American Association,P12082,Cozart,,0,Kansas City,,p,
-1946TSN,1945,American Association,B01765,Crandall,James,0,Toledo,,B66,
-1946TSN,1945,American Association,B03935,Crandall,,0,Toledo,,B66,
-1946TSN,1945,American Association,F22310,Crandall,,0,Toledo,,c57,
-1946TSN,1945,American Association,P11051,Crist,Donald,0,Toledo,,P3p,
-1946TSN,1945,American Association,P12058,Crist,,0,Toledo,,p,
-1946TSN,1945,American Association,B01216,Crompton,Herbert,0,Kansas City,,B53,
-1946TSN,1945,American Association,B04001,Crompton,,0,Kansas City,,B53,
-1946TSN,1945,American Association,F22307,Crompton,,0,Kansas City,,c49,
-1946TSN,1945,American Association,B02839,Cronin,Frank,0,Columbus,,B2,
-1946TSN,1945,American Association,P10996,Cronin,Frank,0,Columbus,,P2p,
-1946TSN,1945,American Association,B02679,Crosby,Jerome,0,Kansas City,,B8,
-1946TSN,1945,American Association,B01431,Crumling,Eugene,0,Columbus,,B13,
-1946TSN,1945,American Association,B05209,Crumling,,0,Columbus,,B13,
-1946TSN,1945,American Association,F22386,Crumling,,0,Columbus,,c12,
-emilbb,1945,American Association,M90018,Cullop,"Henry ""Nick""",,Milwaukee,,,
-1946TSN,1945,American Association,B02100,Cunningham,Wesley,0,Columbus,,B12,
-1946TSN,1945,American Association,B05103,Cunningham,,0,Columbus,,B12,
-1946TSN,1945,American Association,F21566,Cunningham,,0,Columbus,,p12,
-1946TSN,1945,American Association,P10348,Cunningham,,0,Columbus,,P12p,
-1946TSN,1945,American Association,P11893,Cunningham,,0,Columbus,,p,
-1946TSN,1945,American Association,B01466,Danielson,Harold,0,Kansas City,,B39,
-1946TSN,1945,American Association,B04791,Danielson,,0,Kansas City,,B39,
-1946TSN,1945,American Association,F22454,Danielson,,0,Kansas City,,c38,
-1946TSN,1945,American Association,B00434,Danneker,Frank,0,Minneapolis,,B142,
-1946TSN,1945,American Association,B03254,Danneker,,0,Minneapolis,,B142,
-1946TSN,1945,American Association,F20287,Danneker,,0,Minneapolis,,2b141,
-1946TSN,1945,American Association,B02432,Dannels,George,0,St. Paul,,B2,
-1946TSN,1945,American Association,P11072,Dannels,George,0,St. Paul,,P2p,
-1946TSN,1945,American Association,P12049,Dannels,,0,St. Paul,,p,
-1946TSN,1945,American Association,B02385,Dantonio,John,0,St. Paul,,B9,
-1946TSN,1945,American Association,B00037,Davis,Wendell,0,Milwaukee,,B28,
-1946TSN,1945,American Association,B00182,Davis,Ray,0,Milwaukee,,B12,
-1946TSN,1945,American Association,B00747,Davis,George,0,Columbus,,B91,
-1946TSN,1945,American Association,B01649,Davis,Thomas,0,Indianapolis,,B24,
-1946TSN,1945,American Association,B02019,Davis,Wm. H.,0,Kansas City,,B24,
-1946TSN,1945,American Association,B03713,Davis,G.,0,Columbus,,B91,
-1946TSN,1945,American Association,B04171,Davis,Wen.,0,Milwaukee,,B28,
-1946TSN,1945,American Association,B04513,Davis,T.,0,Indianapolis,,B24,
-1946TSN,1945,American Association,B05085,Davis,R.,0,Milwaukee,,B12,
-1946TSN,1945,American Association,B05378,Davis,Wm.,0,Kansas City,,B24,
-1946TSN,1945,American Association,F20342,Davis,G.,0,Columbus,,2b80,
-1946TSN,1945,American Association,F21427,Davis,T.,0,Indianapolis,,of22,
-1946TSN,1945,American Association,F21528,Davis,Wen.,0,Milwaukee,,p26,
-1946TSN,1945,American Association,F21904,Davis,Wm.,0,Kansas City,,p24,
-1946TSN,1945,American Association,F22134,Davis,R.,0,Milwaukee,,p12,
-1946TSN,1945,American Association,P10312,Davis,Wen.,0,Milwaukee,,P26p,
-1946TSN,1945,American Association,P10709,Davis,Wm.,0,Kansas City,,P24p,
-1946TSN,1945,American Association,P10930,Davis,Ray,0,Milwaukee,,P12p,
-1946TSN,1945,American Association,P11784,Davis,Wen.,0,Milwaukee,,p,
-1946TSN,1945,American Association,P11970,Davis,R.,0,Milwaukee,,p,
-1946TSN,1945,American Association,P12147,Davis,Wm.,0,Kansas City,,p,
-1946TSN,1945,American Association,B00068,Deal,Lindsay,0,Louisville,,B39,
-1946TSN,1945,American Association,B04126,Deal,,0,Louisville,,B39,
-1946TSN,1945,American Association,F21068,Deal,,0,Louisville,,of23,
-1946TSN,1945,American Association,B00450,Denning,Otto,0,Milwaukee,,B143,
-1946TSN,1945,American Association,B03190,Denning,,0,Milwaukee,,B143,
-1946TSN,1945,American Association,F20080,Denning,,0,Milwaukee,,1b141,
-1946TSN,1945,American Association,B01368,Detore,George,0,Indianapolis,,B78,
-1946TSN,1945,American Association,B03981,Detore,,0,Indianapolis,,B78,
-1946TSN,1945,American Association,F22341,Detore,,0,Indianapolis,,c52,
-1946TSN,1945,American Association,B01064,Devincenzi,John,0,Kansas City,,B112,
-1946TSN,1945,American Association,B03388,Devincenzi,,0,Kansas City,,B112,
-1946TSN,1945,American Association,F21232,Devincenzi,,0,Kansas City,,of101,
-1946TSN,1945,American Association,B03095,Dickerson,Walter,0,Indianapolis,,B1,
-1946TSN,1945,American Association,P11128,Dickerson,Walter,0,Indianapolis,,P3p,
-1946TSN,1945,American Association,B02159,Diehl,George,0,Louisville,,B24,
-1946TSN,1945,American Association,B04895,Diehl,,0,Louisville,,B24,
-1946TSN,1945,American Association,F21783,Diehl,,0,Louisville,,p21,
-1946TSN,1945,American Association,P10184,Diehl,,0,Louisville,,P21p,
-1946TSN,1945,American Association,P11700,Diehl,,0,Louisville,,p,
-1946TSN,1945,American Association,B00936,Dill,Robert,1,Minneapolis,,B40,
-1946TSN,1945,American Association,B00936,Dill,Robert,2,Indianapolis,,B95,
-1946TSN,1945,American Association,B00936,Dill,Robert,T,,,B135,
-1946TSN,1945,American Association,B03303,Dill,,1,Minneapolis,,,
-1946TSN,1945,American Association,B03303,Dill,,2,Indianapolis,,,
-1946TSN,1945,American Association,B03303,Dill,,T,,,B135,
-1946TSN,1945,American Association,F21174,Dill,,1,Minneapolis,,of,
-1946TSN,1945,American Association,F21174,Dill,,2,Indianapolis,,of,
-1946TSN,1945,American Association,F21174,Dill,,T,,,of127,
-1946TSN,1945,American Association,B02654,Doy,Daniel,0,Kansas City,,B9,
-1946TSN,1945,American Association,B01983,Dunn,Cecil,0,St. Paul,,B10,
-1946TSN,1945,American Association,B04964,Dunn,,0,St. Paul,,B10,
-1946TSN,1945,American Association,B00502,Durheim,Harry,0,Indianapolis,,B21,
-1946TSN,1945,American Association,B04978,Durheim,,0,Indianapolis,,B21,
-1946TSN,1945,American Association,F22099,Durheim,,0,Indianapolis,,p21,
-1946TSN,1945,American Association,P10266,Durheim,,0,Indianapolis,,P21p,
-1946TSN,1945,American Association,P11919,Durheim,,0,Indianapolis,,p,
-1946TSN,1945,American Association,B01754,Earley,Thomas,0,Indianapolis,,B10,
-1946TSN,1945,American Association,B05116,Earley,,0,Indianapolis,,B10,
-1946TSN,1945,American Association,F21609,Earley,,0,Indianapolis,,p10,
-1946TSN,1945,American Association,P10839,Earley,Thomas,0,Indianapolis,,P10p,
-1946TSN,1945,American Association,B02348,Edwards,Eugene,0,Milwaukee,,B1,
-1946TSN,1945,American Association,B03038,Eisiminger,Robert,0,Columbus,,B2,
-1946TSN,1945,American Association,P11233,Eisiminger,Robert,0,Columbus,,P2p,
-1946TSN,1945,American Association,B02772,Emmertson,Alva,0,Kansas City,,B9,
-1946TSN,1945,American Association,P10925,Emmertson,Alva,0,Kansas City,,P9p,
-1946TSN,1945,American Association,B00646,English,Gilbert,0,Indianapolis,,B137,
-1946TSN,1945,American Association,B03166,English,,0,Indianapolis,,B137,
-1946TSN,1945,American Association,F20458,English,,0,Indianapolis,,3b114,
-1946TSN,1945,American Association,F20919,English,,0,Indianapolis,,of26,
-1946TSN,1945,American Association,B02974,Erickson,Reynold,0,Minneapolis,,B2,
-1946TSN,1945,American Association,B00726,Etchison,Clarence,0,Milwaukee,,B12,
-1946TSN,1945,American Association,B04653,Etchison,,0,Milwaukee,,B12,
-1946TSN,1945,American Association,F20189,Etchison,,0,Milwaukee,,1b10,
-1946TSN,1945,American Association,B01580,Fannin,Clifford,0,Toledo,,B31,
-1946TSN,1945,American Association,B04910,Fannin,,0,Toledo,,B31,
-1946TSN,1945,American Association,F21695,Fannin,,0,Toledo,,p25,
-1946TSN,1945,American Association,P10159,Fannin,,0,Toledo,,P25p,
-1946TSN,1945,American Association,P11375,Fannin,,0,Toledo,,p,
-1946TSN,1945,American Association,B02746,Farmer,Jack,0,Milwaukee,,B7,
-1946TSN,1945,American Association,P10963,Farmer,Jack,0,Milwaukee,,P7p,
-1946TSN,1945,American Association,B02714,Fayad,John,0,Toledo,,B9,
-1946TSN,1945,American Association,B01041,Filipowicz,Stephen,0,Columbus,,B53,
-1946TSN,1945,American Association,B03721,Filipowicz,,0,Columbus,,B53,
-1946TSN,1945,American Association,F21182,Filipowicz,,0,Columbus,,of48,
-1946TSN,1945,American Association,B01453,Fletcher,Robert,0,Indianapolis,,B14,
-1946TSN,1945,American Association,B01489,Fletcher,Glenn,0,Indianapolis,,B20,
-1946TSN,1945,American Association,B04270,Fletcher,R.,0,Indianapolis,,B14,
-1946TSN,1945,American Association,B05012,Fletcher,G.,0,Indianapolis,,B20,
-1946TSN,1945,American Association,F20375,Fletcher,R.,0,Indianapolis,,2b14,
-1946TSN,1945,American Association,F22238,Fletcher,G.,0,Indianapolis,,p20,
-1946TSN,1945,American Association,P10137,Fletcher,G.,0,Indianapolis,,P20p,
-1946TSN,1945,American Association,P11745,Fletcher,,0,Indianapolis,,p,
-1946TSN,1945,American Association,B00045,Flick,Lewis,0,Milwaukee,,B142,
-1946TSN,1945,American Association,B03206,Flick,,0,Milwaukee,,B142,
-1946TSN,1945,American Association,F21059,Flick,,0,Milwaukee,,of139,
-1946TSN,1945,American Association,B01798,Flowers,Wesley,0,Indianapolis,,B41,
-1946TSN,1945,American Association,B04537,Flowers,,0,Indianapolis,,B41,
-1946TSN,1945,American Association,F21760,Flowers,,0,Indianapolis,,p41,
-1946TSN,1945,American Association,P10486,Flowers,,0,Indianapolis,,P41p,
-1946TSN,1945,American Association,P11463,Flowers,,0,Indianapolis,,p,
-1946TSN,1945,American Association,B02949,Ford,J. C.,0,St. Paul,,B2,
-1946TSN,1945,American Association,B01523,Garver,Ned,0,Toledo,,B31,
-1946TSN,1945,American Association,B04457,Garver,,0,Toledo,,B31,
-1946TSN,1945,American Association,F21912,Garver,,0,Toledo,,p31,
-1946TSN,1945,American Association,P10606,Garver,,0,Toledo,,P31p,
-1946TSN,1945,American Association,P11699,Garver,,0,Toledo,,p,
-1946TSN,1945,American Association,B00760,Genovese,Frank,0,Louisville,,B154,
-1946TSN,1945,American Association,B03463,Genovese,,0,Louisville,,B154,
-1946TSN,1945,American Association,F20886,Genovese,,0,Louisville,,of154,
-1946TSN,1945,American Association,B00912,Geraghty,Benjamin,0,Indianapolis,,B117,
-1946TSN,1945,American Association,B03919,Geraghty,,0,Indianapolis,,B117,
-1946TSN,1945,American Association,F20240,Geraghty,,0,Indianapolis,,2b116,
-1946TSN,1945,American Association,B02665,Goedde,Sylvester,0,Toledo,,B7,
-1946TSN,1945,American Association,P10818,Goedde,Sylvester,0,Toledo,,P7p,
-1946TSN,1945,American Association,P12126,Goedde,,0,Toledo,,p,
-1946TSN,1945,American Association,B02767,Gonzales,Onisio,0,Minneapolis,,B3,
-1946TSN,1945,American Association,B03023,Gooding,Charles,0,Columbus,,B3,
-1946TSN,1945,American Association,P11177,Gooding,Charles,0,Columbus,,P3p,
-1946TSN,1945,American Association,B00553,Gracey,Richard,0,Columbus,,B73,
-1946TSN,1945,American Association,B03612,Gracey,,0,Columbus,,B73,
-1946TSN,1945,American Association,F20166,Gracey,,0,Columbus,,1b11,
-1946TSN,1945,American Association,F20222,Gracey,,0,Columbus,,2b23,
-1946TSN,1945,American Association,F22501,Gracey,,0,Columbus,,c25,
-1946TSN,1945,American Association,B03072,Haines,Alfred,0,Indianapolis,,B1,
-1946TSN,1945,American Association,P11316,Haines,Alfred,0,Indianapolis,,P1p,
-1946TSN,1945,American Association,B00059,Hart,William,0,St. Paul,,B38,
-1946TSN,1945,American Association,B03552,Hart,,0,St. Paul,,B38,
-1946TSN,1945,American Association,F20721,Hart,,0,St. Paul,,ss38,
-1946TSN,1945,American Association,B02982,Hazel,Albert,0,Indianapolis,,B1,
-1946TSN,1945,American Association,P11222,Hazel,Albert,0,Indianapolis,,P1p,
-1946TSN,1945,American Association,B00879,Hazen,Vaughn,0,Columbus,,B113,
-1946TSN,1945,American Association,B03700,Hazen,,0,Columbus,,B113,
-1946TSN,1945,American Association,F21293,Hazen,,0,Columbus,,of100,
-1946TSN,1945,American Association,B02215,Hearn,Richard,0,Minneapolis,,B21,
-1946TSN,1945,American Association,B05332,Hearn,,0,Minneapolis,,B21,
-1946TSN,1945,American Association,F21491,Hearn,,0,Minneapolis,,p21,
-1946TSN,1945,American Association,P10746,Hearn,,0,Minneapolis,,P21p,
-1946TSN,1945,American Association,P12105,Hearn,,0,Minneapolis,,p,
-1946TSN,1945,American Association,B02588,Heflin,Randolph,0,Louisville,,B9,
-1946TSN,1945,American Association,P10277,Heflin,,0,Louisville,,P8p,
-1946TSN,1945,American Association,P11832,Heflin,,0,Louisville,,p,
-1946TSN,1945,American Association,B02723,Held,Herschel,0,Louisville,,B5,
-1946TSN,1945,American Association,B01181,Heltzel,William,0,Indianapolis,,B142,
-1946TSN,1945,American Association,B03518,Heltzel,,0,Indianapolis,,B142,
-1946TSN,1945,American Association,F20759,Heltzel,,0,Indianapolis,,ss141,
-1946TSN,1945,American Association,B03080,Henderson,Irl,0,Kansas City,,B1,
-1946TSN,1945,American Association,P11298,Henderson,Irl,0,Kansas City,,P1p,
-1946TSN,1945,American Association,B01337,Hendrickson,Don,0,Milwaukee,,B18,
-1946TSN,1945,American Association,B04666,Hendrickson,,0,Milwaukee,,B18,
-1946TSN,1945,American Association,F21811,Hendrickson,,0,Milwaukee,,p18,
-1946TSN,1945,American Association,P10056,Hendrickson,,0,Milwaukee,,P18p,
-1946TSN,1945,American Association,P11539,Hendrickson,,0,Milwaukee,,p,
-1946TSN,1945,American Association,B03067,Hewette,Leroy,0,St. Paul,,B1,
-1946TSN,1945,American Association,P11303,Hewette,LeRoy,0,St. Paul,,P1p,
-1946TSN,1945,American Association,B00957,Howerton,William,0,Louisville,,B81,
-1946TSN,1945,American Association,B03745,Howerton,,0,Louisville,,B81,
-1946TSN,1945,American Association,F21343,Howerton,,0,Louisville,,of72,
-1946TSN,1945,American Association,B02795,Humphrey,Clyde,0,Toledo,,B4,
-1946TSN,1945,American Association,P10883,Humphrey,Clyde,0,Toledo,,P4p,
-1946TSN,1945,American Association,B01313,Huston,Warren,0,Columbus,,B84,
-1946TSN,1945,American Association,B03792,Huston,,0,Columbus,,B84,
-1946TSN,1945,American Association,F20190,Huston,,0,Columbus,,2b21,
-1946TSN,1945,American Association,F20518,Huston,,0,Columbus,,3b62,
-1946TSN,1945,American Association,B01918,Hutchinson,Ira,0,Indianapolis,,B11,
-1946TSN,1945,American Association,B05307,Hutchinson,,0,Indianapolis,,B11,
-1946TSN,1945,American Association,F22214,Hutchinson,,0,Indianapolis,,p11,
-1946TSN,1945,American Association,P10633,Hutchinson,,0,Indianapolis,,P11p,
-1946TSN,1945,American Association,P11943,Hutchinson,,0,Indianapolis,,p,
-1946TSN,1945,American Association,B00854,Ignasiak,Edwin,0,Toledo,,B147,
-1946TSN,1945,American Association,B03144,Ignasiak,,0,Toledo,,B147,
-1946TSN,1945,American Association,F20128,Ignasiak,,0,Toledo,,1b147,
-1946TSN,1945,American Association,B01885,Jackimchuk,Nick,0,Minneapolis,,B22,
-1946TSN,1945,American Association,B04941,Jackimchuk,,0,Minneapolis,,B22,
-1946TSN,1945,American Association,F20841,Jackimchuk,,0,Minneapolis,,ss22,
-1946TSN,1945,American Association,B02192,Jeffcoat,George,0,Indianapolis,,B29,
-1946TSN,1945,American Association,B04880,Jeffcoat,,0,Indianapolis,,B29,
-1946TSN,1945,American Association,F21936,Jeffcoat,,0,Indianapolis,,p29,
-1946TSN,1945,American Association,P10202,Jeffcoat,,0,Indianapolis,,P29p,
-1946TSN,1945,American Association,P11807,Jeffcoat,,0,Indianapolis,,p,
-1946TSN,1945,American Association,B02070,Jeric,Frank,0,Toledo,,B22,
-1946TSN,1945,American Association,B04716,Jeric,,0,Toledo,,B22,
-1946TSN,1945,American Association,B00278,Jiminez,Pedro,0,Indianapolis,,B47,
-1946TSN,1945,American Association,B04379,Jiminez,,0,Indianapolis,,B47,
-1946TSN,1945,American Association,F21672,Jiminez,,0,Indianapolis,,p39,
-1946TSN,1945,American Association,P10289,Jiminez,,0,Indianapolis,,P39p,
-1946TSN,1945,American Association,P11604,Jiminez,,0,Indianapolis,,p,
-1946TSN,1945,American Association,B02357,Kaiser,Albert,0,Toledo,,B9,
-1946TSN,1945,American Association,B01300,Kaney,Joseph,0,Louisville,,B17,
-1946TSN,1945,American Association,B04322,Kaney,,0,Louisville,,B17,
-1946TSN,1945,American Association,F20878,Kaney,,0,Louisville,,ss17,
-1946TSN,1945,American Association,B00973,Kash,Michael,0,Minneapolis,,B51,
-1946TSN,1945,American Association,B04545,Kash,,0,Minneapolis,,B51,
-1946TSN,1945,American Association,F22169,Kash,,0,Minneapolis,,p51,
-1946TSN,1945,American Association,P10665,Kash,,0,Minneapolis,,P51p,
-1946TSN,1945,American Association,P11458,Kash,,0,Minneapolis,,p,
-1946TSN,1945,American Association,B01275,Kaufman,George,0,Toledo,,B10,
-1946TSN,1945,American Association,B05422,Kaufman,,0,Toledo,,B10,
-1946TSN,1945,American Association,F21589,Kaufman,,0,Toledo,,p10,
-1946TSN,1945,American Association,P11014,Kaufman,George,0,Toledo,,P10p,
-1946TSN,1945,American Association,B01711,Kelly,Eugene,0,St. Paul,,B25,
-1946TSN,1945,American Association,B05238,Kelly,,0,St. Paul,,B25,
-1946TSN,1945,American Association,F22175,Kelly,,0,St. Paul,,p16,
-1946TSN,1945,American Association,P10081,Kelly,,0,St. Paul,,P16p,
-1946TSN,1945,American Association,B00335,Kimball,Leighton,0,St. Paul,,B148,
-1946TSN,1945,American Association,B03189,Kimball,,0,St. Paul,,B148,
-1946TSN,1945,American Association,F20547,Kimball,,0,St. Paul,,3b147,
-1946TSN,1945,American Association,B01663,Kimberlin,Harry,1,Toledo,,B22,
-1946TSN,1945,American Association,B01663,Kimberlin,Harry,2,Louisville,,B12,
-1946TSN,1945,American Association,B01663,Kimberlin,Harry,T,,,B34,
-1946TSN,1945,American Association,B04846,Kimberlin,,1,Toledo,,,
-1946TSN,1945,American Association,B04846,Kimberlin,,2,Louisville,,,
-1946TSN,1945,American Association,B04846,Kimberlin,,T,,,B34,
-1946TSN,1945,American Association,F22150,Kimberlin,,1,Toledo,,p,
-1946TSN,1945,American Association,F22150,Kimberlin,,2,Louisville,,p,
-1946TSN,1945,American Association,F22150,Kimberlin,,T,,,p34,
-1946TSN,1945,American Association,P10527,Kimberlin,,1,Toledo,,p,
-1946TSN,1945,American Association,P10527,Kimberlin,,2,Louisville,,p,
-1946TSN,1945,American Association,P10527,Kimberlin,,T,,,P34p,
-1946TSN,1945,American Association,P11841,Kimberlin,,1,Toledo,,p,
-1946TSN,1945,American Association,P11841,Kimberlin,,2,Louisville,,p,
-1946TSN,1945,American Association,P11841,Kimberlin,,T,,,p,
-1946TSN,1945,American Association,B00985,Kimble,Richard,0,Toledo,,B113,
-1946TSN,1945,American Association,B03449,Kimble,,0,Toledo,,B113,
-1946TSN,1945,American Association,F20745,Kimble,,0,Toledo,,ss107,
-1946TSN,1945,American Association,B01108,King,Lynn,0,Kansas City,,B135,
-1946TSN,1945,American Association,B03657,King,,0,Kansas City,,B135,
-1946TSN,1945,American Association,F21092,King,,0,Kansas City,,of132,
-1946TSN,1945,American Association,B01836,Knierim,Elwood,0,Toledo,,B40,
-1946TSN,1945,American Association,B05004,Knierim,,0,Toledo,,B40,
-1946TSN,1945,American Association,F22057,Knierim,,0,Toledo,,p37,
-1946TSN,1945,American Association,P10455,Knierim,,0,Toledo,,P37p,
-1946TSN,1945,American Association,P11673,Knierim,,0,Toledo,,p,
-1946TSN,1945,American Association,B02925,Knowles,Giles,0,Kansas City,,B4,
-1946TSN,1945,American Association,P11080,Knowles,Giles,0,Kansas City,,P4p,
-1946TSN,1945,American Association,B01820,Kobesky,Edward,0,Milwaukee,,B57,
-1946TSN,1945,American Association,B04105,Kobesky,,0,Milwaukee,,B57,
-1946TSN,1945,American Association,F21013,Kobesky,,0,Milwaukee,,of46,
-1946TSN,1945,American Association,B02818,Koch,Henry,0,Columbus,,B5,
-1946TSN,1945,American Association,P11046,Koch,Henry,0,Columbus,,P5p,
-1946TSN,1945,American Association,B00806,Koney,Charles,0,Louisville,,B139,
-1946TSN,1945,American Association,B03265,Koney,,0,Louisville,,B139,
-1946TSN,1945,American Association,F20350,Koney,,0,Louisville,,2b138,
-1946TSN,1945,American Association,B03115,Koraleski,Robert,0,Kansas City,,B1,
-1946TSN,1945,American Association,B00577,Kreevich,John,0,Kansas City,,B71,
-1946TSN,1945,American Association,B03784,Kreevich,,0,Kansas City,,B71,
-1946TSN,1945,American Association,F20970,Kreevich,,0,Kansas City,,of71,
-1946TSN,1945,American Association,B01490,Kresal,Elwood,0,Minneapolis,,B60,
-1946TSN,1945,American Association,B03768,Kresal,,0,Minneapolis,,B60,
-1946TSN,1945,American Association,F21381,Kresal,,0,Minneapolis,,of49,
-1946TSN,1945,American Association,B00101,LaForest,Byron,0,Louisville,,B91,
-1946TSN,1945,American Association,B03604,LaForest,,0,Louisville,,B91,
-1946TSN,1945,American Association,F20505,LaForest,,0,Louisville,,3b21,
-1946TSN,1945,American Association,F20807,LaForest,,0,Louisville,,ss14,
-1946TSN,1945,American Association,F21335,LaForest,,0,Louisville,,of42,
-1946TSN,1945,American Association,B01787,LaMacchia,Alfred,0,Toledo,,B24,
-1946TSN,1945,American Association,B04872,LaMacchia,,0,Toledo,,B24,
-1946TSN,1945,American Association,F22036,LaMacchia,,0,Toledo,,p18,
-1946TSN,1945,American Association,P10231,LaMacchia,,0,Toledo,,P18p,
-1946TSN,1945,American Association,P11594,LaMacchia,,0,Toledo,,p,
-1946TSN,1945,American Association,B00840,Lafata,Joseph,0,Minneapolis,,B146,
-1946TSN,1945,American Association,B03316,Lafata,,0,Minneapolis,,B146,
-1946TSN,1945,American Association,F20131,Lafata,,0,Minneapolis,,1b146,
-1946TSN,1945,American Association,B01939,Lanahan,Richard,0,St. Paul,,B37,
-1946TSN,1945,American Association,B04485,Lanahan,,0,St. Paul,,B37,
-1946TSN,1945,American Association,F21957,Lanahan,,0,St. Paul,,p37,
-1946TSN,1945,American Association,P10253,Lanahan,,0,St. Paul,,P37p,
-1946TSN,1945,American Association,P11737,Lanahan,,0,St. Paul,,p,
-1946TSN,1945,American Association,B00232,Lancellotti,Luco,0,Columbus,,B29,
-1946TSN,1945,American Association,B03970,Lancellotti,,0,Columbus,,B29,
-1946TSN,1945,American Association,F20594,Lancellotti,,0,Columbus,,3b28,
-1946TSN,1945,American Association,B01601,Lanfersieck,Edward,0,Toledo,,B40,
-1946TSN,1945,American Association,B04074,Lanfersieck,,0,Toledo,,B40,
-1946TSN,1945,American Association,F20636,Lanfersieck,,0,Toledo,,3b32,
-1946TSN,1945,American Association,B02847,Langworthy,Joseph,0,Louisville,,B1,
-1946TSN,1945,American Association,B01722,Lawson,Elwood,0,Louisville,,B33,
-1946TSN,1945,American Association,B04584,Lawson,,0,Louisville,,B33,
-1946TSN,1945,American Association,F22012,Lawson,,0,Louisville,,p33,
-1946TSN,1945,American Association,P10373,Lawson,,0,Louisville,,P33p,
-1946TSN,1945,American Association,P12017,Lawson,,0,Louisville,,p,
-1946TSN,1945,American Association,B01572,Lehrman,Arnold,0,Minneapolis,,B44,
-1946TSN,1945,American Association,B04219,Lehrman,,0,Minneapolis,,B44,
-1946TSN,1945,American Association,F20792,Lehrman,,0,Minneapolis,,ss43,
-emilbb,1945,American Association,M90039,Leibold,Nemo,,Louisville,,,
-1946TSN,1945,American Association,B01250,Leon,Isidoro,0,Minneapolis,,B19,
-1946TSN,1945,American Association,B04690,Leon,,0,Minneapolis,,B19,
-1946TSN,1945,American Association,F22191,Leon,,0,Minneapolis,,p16,
-1946TSN,1945,American Association,P10493,Leon,,0,Minneapolis,,P16p,
-1946TSN,1945,American Association,P11685,Leon,,0,Minneapolis,,p,
-1946TSN,1945,American Association,B00589,Lewis,William,0,St. Paul,,B90,
-1946TSN,1945,American Association,B03807,Lewis,,0,St. Paul,,B90,
-1946TSN,1945,American Association,F22406,Lewis,,0,St. Paul,,c74,
-1946TSN,1945,American Association,P10795,Lilienthal,Leonard,0,Minneapolis,,P4p,
-1946TSN,1945,American Association,B02373,Lillienthal,Leonard,0,Minneapolis,,B4,
-1946TSN,1945,American Association,B01733,Lindquist,Carl,0,Milwaukee,,B24,
-1946TSN,1945,American Association,B04311,Lindquist,,0,Milwaukee,,B24,
-1946TSN,1945,American Association,F21469,Lindquist,,0,Milwaukee,,p24,
-1946TSN,1945,American Association,P10698,Lindquist,,0,Milwaukee,,P24p,
-1946TSN,1945,American Association,P11496,Lindquist,,0,Milwaukee,,p,
-1946TSN,1945,American Association,B02113,Lippold,Gregory,0,Minneapolis,,B15,
-1946TSN,1945,American Association,B05364,Lippold,,0,Minneapolis,,B15,
-1946TSN,1945,American Association,F22004,Lippold,,0,Minneapolis,,p15,
-1946TSN,1945,American Association,P10772,Lippold,,0,Minneapolis,,P15p,
-1946TSN,1945,American Association,B01078,Lipscomb,Gerald,0,Louisville,,B40,
-1946TSN,1945,American Association,B04235,Lipscomb,,0,Louisville,,B40,
-1946TSN,1945,American Association,F20463,Lipscomb,,0,Louisville,,3b10,
-1946TSN,1945,American Association,B02516,Logan,Robert,0,Indianapolis,,B4,
-1946TSN,1945,American Association,P10860,Logan,Robert,0,Indianapolis,,P4p,
-1946TSN,1945,American Association,P12096,Logan,,0,Indianapolis,,p,
-1946TSN,1945,American Association,B01227,Lopatka,Arthur,0,Columbus,,B33,
-1946TSN,1945,American Association,B04354,Lopatka,,0,Columbus,,B33,
-1946TSN,1945,American Association,F22085,Lopatka,,0,Columbus,,p30,
-1946TSN,1945,American Association,P10640,Lopatka,,0,Columbus,,P30p,
-1946TSN,1945,American Association,P11518,Lopatka,,0,Columbus,,p,
-1946TSN,1945,American Association,B00174,Lowery,Milton,0,Columbus,,B18,
-1946TSN,1945,American Association,B04955,Lowery,,0,Columbus,,B18,
-1946TSN,1945,American Association,F21623,Lowery,,0,Columbus,,p13,
-1946TSN,1945,American Association,P10847,Lowery,Milton,0,Columbus,,P14p,
-1946TSN,1945,American Association,B01428,Lucier,Louis,0,Minneapolis,,B33,
-1946TSN,1945,American Association,B04602,Lucier,,0,Minneapolis,,B33,
-1946TSN,1945,American Association,F21442,Lucier,,0,Minneapolis,,p22,
-1946TSN,1945,American Association,P10687,Lucier,,0,Minneapolis,,P22p,
-1946TSN,1945,American Association,P11657,Lucier,,0,Minneapolis,,p,
-1946TSN,1945,American Association,B01010,Lund,Donald,0,St. Paul,,B72,
-1946TSN,1945,American Association,B02901,Lund,John,0,Louisville,,B4,
-1946TSN,1945,American Association,B03810,Lund,,0,St. Paul,,B72,
-1946TSN,1945,American Association,F21241,Lund,,0,St. Paul,,of70,
-1946TSN,1945,American Association,P11067,Lund,John,0,Louisville,,P4p,
-1946TSN,1945,American Association,B01119,Lyon,Russell,1,Indianapolis,,B25,
-1946TSN,1945,American Association,B01119,Lyon,Russell,2,Toledo,,B67,
-1946TSN,1945,American Association,B01119,Lyon,Russell,T,,,B92,
-1946TSN,1945,American Association,B03673,Lyon,,1,Indianapolis,,,
-1946TSN,1945,American Association,B03673,Lyon,,2,Toledo,,,
-1946TSN,1945,American Association,B03673,Lyon,,T,,,B92,
-1946TSN,1945,American Association,F22332,Lyon,,1,Indianapolis,,c,
-1946TSN,1945,American Association,F22332,Lyon,,2,Toledo,,c,
-1946TSN,1945,American Association,F22332,Lyon,,T,,,c73,
-1946TSN,1945,American Association,B00158,Mack,Joseph,0,Indianapolis,,B80,
-1946TSN,1945,American Association,B03560,Mack,,0,Indianapolis,,B80,
-1946TSN,1945,American Association,F20115,Mack,,0,Indianapolis,,1b80,
-1946TSN,1945,American Association,B02871,Mahnen,John,0,Kansas City,,B1,
-1946TSN,1945,American Association,P11211,Mahnen,John,0,Kansas City,,P1p,
-1946TSN,1945,American Association,B02081,Mains,James,0,Toledo,,B37,
-1946TSN,1945,American Association,B05272,Mains,,0,Toledo,,B37,
-1946TSN,1945,American Association,F22127,Mains,,0,Toledo,,p36,
-1946TSN,1945,American Association,P10113,Mains,,0,Toledo,,P36p,
-1946TSN,1945,American Association,P11981,Mains,,0,Toledo,,p,
-1946TSN,1945,American Association,B01509,Males,Victor,1,Louisville,,B11,
-1946TSN,1945,American Association,B01509,Males,Victor,2,Minneapolis,,B126,
-1946TSN,1945,American Association,B01509,Males,Victor,T,,,B137,
-1946TSN,1945,American Association,B03505,Males,,1,Louisville,,,
-1946TSN,1945,American Association,B03505,Males,,2,Minneapolis,,,
-1946TSN,1945,American Association,B03505,Males,,T,,,B137,
-1946TSN,1945,American Association,F20334,Males,,1,Louisville,,2b,
-1946TSN,1945,American Association,F20334,Males,,2,Minneapolis,,2b,
-1946TSN,1945,American Association,F20334,Males,,T,,,2b14,
-1946TSN,1945,American Association,F20482,Males,,1,Louisville,,3b,
-1946TSN,1945,American Association,F20482,Males,,2,Minneapolis,,3b,
-1946TSN,1945,American Association,F20482,Males,,T,,,3b18,
-1946TSN,1945,American Association,F20737,Males,,1,Louisville,,ss,
-1946TSN,1945,American Association,F20737,Males,,2,Minneapolis,,ss,
-1946TSN,1945,American Association,F20737,Males,,T,,,ss98,
-1946TSN,1945,American Association,F20935,Males,,1,Louisville,,of,
-1946TSN,1945,American Association,F20935,Males,,2,Minneapolis,,of,
-1946TSN,1945,American Association,F20935,Males,,T,,,of10,
-1946TSN,1945,American Association,B00771,Mallory,James,0,Columbus,,B16,
-1946TSN,1945,American Association,B05267,Mallory,,0,Columbus,,B16,
-1946TSN,1945,American Association,F20924,Mallory,,0,Columbus,,of16,
-1946TSN,1945,American Association,B01162,Marion,John,1,St. Paul,,B68,
-1946TSN,1945,American Association,B01162,Marion,John,2,Louisville,,B48,
-1946TSN,1945,American Association,B01162,Marion,John,T,,,B116,
-1946TSN,1945,American Association,B03583,Marion,,1,St. Paul,,,
-1946TSN,1945,American Association,B03583,Marion,,2,Louisville,,,
-1946TSN,1945,American Association,B03583,Marion,,T,,,B116,
-1946TSN,1945,American Association,F21319,Marion,,1,St. Paul,,of,
-1946TSN,1945,American Association,F21319,Marion,,2,Louisville,,of,
-1946TSN,1945,American Association,F21319,Marion,,T,,,of103,
-1946TSN,1945,American Association,B02304,Marleau,Edward,0,Kansas City,,B30,
-1946TSN,1945,American Association,B05406,Marleau,,0,Kansas City,,B30,
-1946TSN,1945,American Association,F21577,Marleau,,0,Kansas City,,p30,
-1946TSN,1945,American Association,P10192,Marleau,,0,Kansas City,,P30p,
-emilbb,1945,American Association,M90060,Marquardt,Ollie,,Toledo,,,
-1946TSN,1945,American Association,B01007,Marshall,Clarence,0,Kansas City,,B42,
-1946TSN,1945,American Association,B04775,Marshall,,0,Kansas City,,B42,
-1946TSN,1945,American Association,F22267,Marshall,,0,Kansas City,,p39,
-1946TSN,1945,American Association,P10478,Marshall,,0,Kansas City,,P39p,
-1946TSN,1945,American Association,P11342,Marshall,,0,Kansas City,,p,
-1946TSN,1945,American Association,B02687,Martignetti,Felix,0,Milwaukee,,B7,
-1946TSN,1945,American Association,B02441,Martin,Boris,0,Toledo,,B9,
-1946TSN,1945,American Association,B02527,Martin,Frank,1,Columbus,,B3,
-1946TSN,1945,American Association,B02527,Martin,Frank,2,Milwaukee,,B2,
-1946TSN,1945,American Association,B02527,Martin,Frank,T,,,B5,
-1946TSN,1945,American Association,B05175,Martin,A.,0,Kansas City,,B18,
-1946TSN,1945,American Association,P10336,Martin,,0,Kansas City,,P14p,
-1946TSN,1945,American Association,P11908,Martin,,0,Kansas City,,p,
-1946TSN,1945,American Association,B01706,Martin (Mustaikis),Alex,0,Kansas City,,B18,
-1946TSN,1945,American Association,F21961,Martin (Mustaikis),A.,0,Kansas City,,p14,
-1946TSN,1945,American Association,B02486,Massalsky,William,0,Toledo,,B4,
-1946TSN,1945,American Association,B02826,Matthews,Robert,0,Columbus,,B2,
-1946TSN,1945,American Association,P11131,Matthews,Robert,0,Columbus,,P4p,
-1946TSN,1945,American Association,B02184,Mauer,Kenneth,0,St. Paul,,B16,
-1946TSN,1945,American Association,B04823,Mauer,,0,St. Paul,,B16,
-1946TSN,1945,American Association,B01779,Maulini,Tomas,0,Minneapolis,,B24,
-1946TSN,1945,American Association,B04521,Maulini,,0,Minneapolis,,B24,
-1946TSN,1945,American Association,F21117,Maulini,,0,Minneapolis,,of22,
-1946TSN,1945,American Association,B00229,Mazar,Peter,0,Columbus,,B37,
-1946TSN,1945,American Association,B04628,Mazar,,0,Columbus,,B37,
-1946TSN,1945,American Association,F22188,Mazar,,0,Columbus,,p35,
-1946TSN,1945,American Association,P10304,Mazar,,0,Columbus,,P35p,
-1946TSN,1945,American Association,P11552,Mazar,,0,Columbus,,p,
-1946TSN,1945,American Association,B01143,Mazurek,Anthony,0,Milwaukee,,B12,
-1946TSN,1945,American Association,B05191,Mazurek,,0,Milwaukee,,B12,
-1946TSN,1945,American Association,B00013,McGillen,John,0,Milwaukee,,B13,
-1946TSN,1945,American Association,B05386,McGillen,,0,Milwaukee,,B13,
-1946TSN,1945,American Association,F21590,McGillen,,0,Milwaukee,,p12,
-1946TSN,1945,American Association,P10852,McGillen,John,0,Milwaukee,,P12p,
-1946TSN,1945,American Association,P12074,McGillen,,0,Milwaukee,,p,
-1946TSN,1945,American Association,B02361,McKenna,Christopher,0,Kansas City,,B4,
-1946TSN,1945,American Association,B00865,McLain,Jack,0,Columbus,,B137,
-1946TSN,1945,American Association,B03401,McLain,,0,Columbus,,B137,
-1946TSN,1945,American Association,F20023,McLain,,0,Columbus,,1b15,
-1946TSN,1945,American Association,F21196,McLain,,0,Columbus,,of122,
-1946TSN,1945,American Association,B00021,Meriwether,Conklyn,0,Columbus,,B15,
-1946TSN,1945,American Association,B04644,Meriwether,,0,Columbus,,B15,
-1946TSN,1945,American Association,P11023,Meriwether,Conklyn,0,Columbus,,P6p,
-1946TSN,1945,American Association,B00092,Meyers,Otto,0,Kansas City,,B19,
-1946TSN,1945,American Association,B04412,Meyers,,0,Kansas City,,B19,
-1946TSN,1945,American Association,F21286,Meyers,,0,Kansas City,,of14,
-1946TSN,1945,American Association,B00491,Miller,John,0,Toledo,,B25,
-1946TSN,1945,American Association,B02062,Miller,Jack,0,St. Paul,,B10,
-1946TSN,1945,American Association,B04139,Miller,John,0,Toledo,,B25,
-1946TSN,1945,American Association,B05411,Miller,Jack,0,St. Paul,,B10,
-1946TSN,1945,American Association,F21638,Miller,Jack,0,St. Paul,,p10,
-1946TSN,1945,American Association,F21898,Miller,John,0,Toledo,,p17,
-1946TSN,1945,American Association,P10361,Miller,John,0,Toledo,,P17p,
-1946TSN,1945,American Association,P10871,Miller,Jack,0,St. Paul,,P10p,
-1946TSN,1945,American Association,P11474,Miller,John,0,Toledo,,p,
-1946TSN,1945,American Association,B01595,Millies,Walter,0,Louisville,,B50,
-1946TSN,1945,American Association,B04208,Millies,,0,Louisville,,B50,
-1946TSN,1945,American Association,F22498,Millies,,0,Louisville,,c42,
-1946TSN,1945,American Association,B00904,Missler,Walter,0,Toledo,,B38,
-1946TSN,1945,American Association,B04387,Missler,,0,Toledo,,B38,
-1946TSN,1945,American Association,F22378,Missler,,0,Toledo,,c31,
-1946TSN,1945,American Association,B01674,Mistele,Robert,1,Milwaukee,,B7,
-1946TSN,1945,American Association,B01674,Mistele,Robert,2,Minneapolis,,B18,
-1946TSN,1945,American Association,B01674,Mistele,Robert,T,,,B25,
-1946TSN,1945,American Association,B04907,Mistele,,1,Milwaukee,,,
-1946TSN,1945,American Association,B04907,Mistele,,2,Minneapolis,,,
-1946TSN,1945,American Association,B04907,Mistele,,T,,,B25,
-1946TSN,1945,American Association,F22116,Mistele,,1,Milwaukee,,p,
-1946TSN,1945,American Association,F22116,Mistele,,2,Minneapolis,,p,
-1946TSN,1945,American Association,F22116,Mistele,,T,,,p25,
-1946TSN,1945,American Association,P10738,Mistele,,1,Milwaukee,,P7p,
-1946TSN,1945,American Association,P10738,Mistele,,2,Minneapolis,,P18p,
-1946TSN,1945,American Association,P10738,Mistele,,T,,,P25p,
-1946TSN,1945,American Association,P11886,Mistele,,1,Milwaukee,,p,
-1946TSN,1945,American Association,P11886,Mistele,,2,Minneapolis,,p,
-1946TSN,1945,American Association,P11886,Mistele,,T,,,p,
-1946TSN,1945,American Association,B02963,Molyneaux,William,0,Louisville,,B1,
-1946TSN,1945,American Association,B02145,Moore,John I.,0,Kansas City,,B28,
-1946TSN,1945,American Association,B05020,Moore,,0,Kansas City,,B28,
-1946TSN,1945,American Association,F21450,Moore,,0,Kansas City,,p27,
-1946TSN,1945,American Association,P10654,Moore,,0,Kansas City,,P27p,
-1946TSN,1945,American Association,P11810,Moore,,0,Kansas City,,p,
-1946TSN,1945,American Association,B02611,Morel,Bernard,0,Minneapolis,,B9,
-1946TSN,1945,American Association,P10826,Morel,Bernard,0,Minneapolis,,P9p,
-1946TSN,1945,American Association,B00999,Morgan,Edwin,1,Indianapolis,,B22,
-1946TSN,1945,American Association,B00999,Morgan,Edwin,2,Minneapolis,,B55,
-1946TSN,1945,American Association,B00999,Morgan,Edwin,T,,,B77,
-1946TSN,1945,American Association,B03908,Morgan,,1,Indianapolis,,,
-1946TSN,1945,American Association,B03908,Morgan,,2,Minneapolis,,,
-1946TSN,1945,American Association,B03908,Morgan,,T,,,B77,
-1946TSN,1945,American Association,F20177,Morgan,,1,Indianapolis,,1b,
-1946TSN,1945,American Association,F20177,Morgan,,2,Minneapolis,,1b,
-1946TSN,1945,American Association,F20177,Morgan,,T,,,1b10,
-1946TSN,1945,American Association,F21397,Morgan,,1,Indianapolis,,of,
-1946TSN,1945,American Association,F21397,Morgan,,2,Minneapolis,,of,
-1946TSN,1945,American Association,F21397,Morgan,,T,,,of57,
-1946TSN,1945,American Association,B01960,Musser,Roy,0,Kansas City,,B30,
-1946TSN,1945,American Association,B04398,Musser,,0,Kansas City,,B30,
-1946TSN,1945,American Association,F21163,Musser,,0,Kansas City,,of29,
-1946TSN,1945,American Association,B00308,Nance,Eugene,0,Milwaukee,,B152,
-1946TSN,1945,American Association,B03128,Nance,,0,Milwaukee,,B152,
-1946TSN,1945,American Association,F20496,Nance,,0,Milwaukee,,3b151,
-1946TSN,1945,American Association,B01170,Narron,Sam,0,St. Paul,,B90,
-1946TSN,1945,American Association,B03417,Narron,,0,St. Paul,,B90,
-1946TSN,1945,American Association,F22295,Narron,,0,St. Paul,,c78,
-1946TSN,1945,American Association,B01682,Nitcholas,Otho,0,St. Paul,,B23,
-1946TSN,1945,American Association,B04473,Nitcholas,,0,St. Paul,,B23,
-1946TSN,1945,American Association,F21920,Nitcholas,,0,St. Paul,,p22,
-1946TSN,1945,American Association,P10062,Nitcholas,,0,St. Paul,,P22p,
-1946TSN,1945,American Association,P11425,Nitcholas,,0,St. Paul,,p,
-1946TSN,1945,American Association,B01376,Norman,Willis,0,Milwaukee,,B53,
-1946TSN,1945,American Association,B04224,Norman,,0,Milwaukee,,B53,
-1946TSN,1945,American Association,F20981,Norman,,0,Milwaukee,,of49,
-1946TSN,1945,American Association,B00149,Nowak,Walter,0,Kansas City,,B116,
-1946TSN,1945,American Association,B00196,Nowak,Henry,0,Minneapolis,,B150,
-1946TSN,1945,American Association,B03233,Nowak,W.,0,Kansas City,,B116,
-1946TSN,1945,American Association,B03279,Nowak,H.,0,Minneapolis,,B150,
-1946TSN,1945,American Association,F20095,Nowak,W.,0,Kansas City,,1b98,
-1946TSN,1945,American Association,F21158,Nowak,H.,0,Minneapolis,,of148,
-1946TSN,1945,American Association,F21403,Nowak,W.,0,Kansas City,,of20,
-1946TSN,1945,American Association,B02917,Odom,David,0,Indianapolis,,B4,
-1946TSN,1945,American Association,P11153,Odom,David,0,Indianapolis,,P4p,
-1946TSN,1945,American Association,B00752,Okrie,Robert,0,Toledo,,B100,
-1946TSN,1945,American Association,B03893,Okrie,,0,Toledo,,B100,
-1946TSN,1945,American Association,F21362,Okrie,,0,Toledo,,of77,
-1946TSN,1945,American Association,B00084,Orphal,John,0,Kansas City,,B14,
-1946TSN,1945,American Association,B04677,Orphal,,0,Kansas City,,B14,
-1946TSN,1945,American Association,F21515,Orphal,,0,Kansas City,,p14,
-1946TSN,1945,American Association,P10432,Orphal,,0,Kansas City,,P14p,
-1946TSN,1945,American Association,P11612,Orphal,,0,Kansas City,,p,
-1946TSN,1945,American Association,B00531,Ostrowski,John,0,Kansas City,,B144,
-1946TSN,1945,American Association,B03153,Ostrowski,,0,Kansas City,,B144,
-1946TSN,1945,American Association,F20539,Ostrowski,,0,Kansas City,,3b134,
-1946TSN,1945,American Association,F20713,Ostrowski,,0,Kansas City,,ss14,
-1946TSN,1945,American Association,B02464,Pack,Frank,0,Toledo,,B3,
-1946TSN,1945,American Association,B00961,Padden,Thomas,0,Milwaukee,,B24,
-1946TSN,1945,American Association,B04436,Padden,,0,Milwaukee,,B24,
-1946TSN,1945,American Association,F22433,Padden,,0,Milwaukee,,c24,
-1946TSN,1945,American Association,B00416,Parks,Arthur,0,Indianapolis,,B138,
-1946TSN,1945,American Association,B03327,Parks,,0,Indianapolis,,B138,
-1946TSN,1945,American Association,F21149,Parks,,0,Indianapolis,,of133,
-1946TSN,1945,American Association,B02503,Partenheimer,Stanwood,0,Columbus,,B6,
-1946TSN,1945,American Association,P10917,Partenheimer,Stanwood,0,Columbus,,P6p,
-1946TSN,1945,American Association,P12118,Partenheimer,,0,Columbus,,p,
-1946TSN,1945,American Association,B00672,Passero,Joseph,0,Kansas City,,B49,
-1946TSN,1945,American Association,B03997,Passero,,0,Kansas City,,B49,
-1946TSN,1945,American Association,F21324,Passero,,0,Kansas City,,of42,
-1946TSN,1945,American Association,B02228,Patton,Ray,0,Louisville,,B15,
-1946TSN,1945,American Association,B05134,Patton,,0,Louisville,,B15,
-1946TSN,1945,American Association,F22272,Patton,,0,Louisville,,p14,
-1946TSN,1945,American Association,P10723,Patton,,0,Louisville,,P14p,
-1946TSN,1945,American Association,P12139,Patton,,0,Louisville,,p,
-1946TSN,1945,American Association,B01625,Pavlick,John,0,Toledo,,B12,
-1946TSN,1945,American Association,B04814,Pavlick,,0,Toledo,,B12,
-1946TSN,1945,American Association,F21553,Pavlick,,0,Toledo,,p10,
-1946TSN,1945,American Association,P10588,Pavlick,,0,Toledo,,P10p,
-1946TSN,1945,American Association,P11792,Pavlick,,0,Toledo,,p,
-1946TSN,1945,American Association,B02738,Peffer,Chauncey,0,Columbus,,B7,
-1946TSN,1945,American Association,P10958,Peffer,Chauncey,0,Columbus,,P7p,
-1946TSN,1945,American Association,B02202,Pepper,Fred,0,Kansas City,,B14,
-1946TSN,1945,American Association,B05188,Pepper,,0,Kansas City,,B14,
-1946TSN,1945,American Association,F21747,Pepper,,0,Kansas City,,p13,
-1946TSN,1945,American Association,P10429,Pepper,,0,Kansas City,,P13p,
-1946TSN,1945,American Association,P11864,Pepper,,0,Kansas City,,p,
-1946TSN,1945,American Association,B02289,Peterson,Sidney,0,Toledo,,B13,
-1946TSN,1945,American Association,B05099,Peterson,,0,Toledo,,B13,
-1946TSN,1945,American Association,F21614,Peterson,,0,Toledo,,p13,
-1946TSN,1945,American Association,P10901,Peterson,Sidney,0,Toledo,,P13p,
-1946TSN,1945,American Association,P11962,Peterson,,0,Toledo,,p,
-1946TSN,1945,American Association,B02780,Pfennig,Theodore,0,Kansas City,,B6,
-1946TSN,1945,American Association,P11038,Pfennig,Theodore,0,Kansas City,,P6p,
-1946TSN,1945,American Association,B01032,Picciuto,Nicholas,0,Minneapolis,,B99,
-1946TSN,1945,American Association,B03648,Picciuto,,0,Minneapolis,,B99,
-1946TSN,1945,American Association,F20604,Picciuto,,0,Minneapolis,,3b98,
-1946TSN,1945,American Association,B02633,Piet,Frank,0,Louisville,,B3,
-1946TSN,1945,American Association,B00163,Pike,Jess,0,Indianapolis,,B22,
-1946TSN,1945,American Association,B04118,Pike,,0,Indianapolis,,B22,
-1946TSN,1945,American Association,F21255,Pike,,0,Indianapolis,,of20,
-1946TSN,1945,American Association,B01345,Platek,Stanley,0,St. Paul,,B60,
-1946TSN,1945,American Association,B03956,Platek,,0,St. Paul,,B60,
-1946TSN,1945,American Association,F20893,Platek,,0,St. Paul,,of51,
-1946TSN,1945,American Association,B00370,Polly,Nick,1,Louisville,,B64,
-1946TSN,1945,American Association,B00370,Polly,Nick,2,Toledo,,B54,
-1946TSN,1945,American Association,B00370,Polly,Nick,T,,,B118,
-1946TSN,1945,American Association,B03350,Polly,,1,Louisville,,,
-1946TSN,1945,American Association,B03350,Polly,,2,Toledo,,,
-1946TSN,1945,American Association,B03350,Polly,,T,,,B118,
-1946TSN,1945,American Association,F20620,Polly,,1,Louisville,,3b,
-1946TSN,1945,American Association,F20620,Polly,,2,Toledo,,3b,
-1946TSN,1945,American Association,F20620,Polly,,T,,,3b79,
-1946TSN,1945,American Association,F21308,Polly,,1,Louisville,,of,
-1946TSN,1945,American Association,F21308,Polly,,2,Toledo,,of,
-1946TSN,1945,American Association,F21308,Polly,,T,,,of33,
-1946TSN,1945,American Association,B02097,Powaski,Frank,0,St. Paul,,B16,
-1946TSN,1945,American Association,B04867,Powaski,,0,St. Paul,,B16,
-1946TSN,1945,American Association,F20956,Powaski,,0,St. Paul,,of10,
-1946TSN,1945,American Association,B03051,Powell,Roger,0,Toledo,,B2,
-1946TSN,1945,American Association,P11287,Powell,Roger,0,Toledo,,P1p,
-1946TSN,1945,American Association,B01804,Pratt,George,0,Columbus,,B28,
-1946TSN,1945,American Association,B04256,Pratt,,0,Columbus,,B28,
-1946TSN,1945,American Association,F22479,Pratt,,0,Columbus,,c16,
-1946TSN,1945,American Association,B00566,Price,John,1,Columbus,,B29,
-1946TSN,1945,American Association,B00566,Price,John,2,Milwaukee,,B41,
-1946TSN,1945,American Association,B00566,Price,John,T,,,B70,
-1946TSN,1945,American Association,B04030,Price,,1,Columbus,,,
-1946TSN,1945,American Association,B04030,Price,,2,Milwaukee,,,
-1946TSN,1945,American Association,B04030,Price,,T,,,B70,
-1946TSN,1945,American Association,F20552,Price,,1,Columbus,,3b,
-1946TSN,1945,American Association,F20552,Price,,2,Milwaukee,,3b,
-1946TSN,1945,American Association,F20552,Price,,T,,,3b26,
-1946TSN,1945,American Association,F20673,Price,,1,Columbus,,ss,
-1946TSN,1945,American Association,F20673,Price,,2,Milwaukee,,ss,
-1946TSN,1945,American Association,F20673,Price,,T,,,ss40,
-1946TSN,1945,American Association,P11265,Price,John,0,Milwaukee,,P1p,
-1946TSN,1945,American Association,B01392,Pringle,Gale,0,Kansas City,,B39,
-1946TSN,1945,American Association,B04281,Pringle,,0,Kansas City,,B39,
-1946TSN,1945,American Association,F21865,Pringle,,0,Kansas City,,p38,
-1946TSN,1945,American Association,P10244,Pringle,,0,Kansas City,,P38p,
-1946TSN,1945,American Association,P11648,Pringle,,0,Kansas City,,p,
-1946TSN,1945,American Association,B00475,Prunczik,Peter,0,Columbus,,B10,
-1946TSN,1945,American Association,B04986,Prunczik,,0,Columbus,,B10,
-1946TSN,1945,American Association,B00718,Pyle,Ewald,0,Milwaukee,,B15,
-1946TSN,1945,American Association,B05246,Pyle,,0,Milwaukee,,B15,
-1946TSN,1945,American Association,F21475,Pyle,,0,Milwaukee,,p15,
-1946TSN,1945,American Association,P10516,Pyle,,0,Milwaukee,,P15p,
-1946TSN,1945,American Association,P11620,Pyle,,0,Milwaukee,,p,
-1946TSN,1945,American Association,B02852,Radmer,Martin,0,St. Paul,,B1,
-1946TSN,1945,American Association,B00241,Rebel,Arthur,0,Columbus,,B94,
-1946TSN,1945,American Association,B03287,Rebel,,0,Columbus,,B94,
-1946TSN,1945,American Association,F21076,Rebel,,0,Columbus,,of93,
-1946TSN,1945,American Association,B00319,Reinhart,Fred,0,Toledo,,B138,
-1946TSN,1945,American Association,B03425,Reinhart,,0,Toledo,,B138,
-1946TSN,1945,American Association,F21207,Reinhart,,0,Toledo,,of138,
-1946TSN,1945,American Association,B01359,Rhawn,Robert,0,Columbus,,B32,
-1946TSN,1945,American Association,B04194,Rhawn,,0,Columbus,,B32,
-1946TSN,1945,American Association,F20583,Rhawn,,0,Columbus,,3b19,
-1946TSN,1945,American Association,F20661,Rhawn,,0,Columbus,,ss11,
-1946TSN,1945,American Association,B01269,Rich,Woodrow,0,Indianapolis,,B18,
-1946TSN,1945,American Association,B05295,Rich,,0,Indianapolis,,B18,
-1946TSN,1945,American Association,F22048,Rich,,0,Indianapolis,,p18,
-1946TSN,1945,American Association,P10575,Rich,,0,Indianapolis,,P18p,
-1946TSN,1945,American Association,P11956,Rich,,0,Indianapolis,,p,
-1946TSN,1945,American Association,B01857,Rider,Vernon,0,Columbus,,B39,
-1946TSN,1945,American Association,B04448,Rider,,0,Columbus,,B39,
-1946TSN,1945,American Association,F21229,Rider,,0,Columbus,,of30,
-1946TSN,1945,American Association,B02534,Riley,Patrick,0,St. Paul,,B3,
-1946TSN,1945,American Association,B02698,Roberts,Charles,0,Louisville,,B5,
-1946TSN,1945,American Association,B02008,Root,Charles,0,Columbus,,B22,
-1946TSN,1945,American Association,B05223,Root,,0,Columbus,,B22,
-1946TSN,1945,American Association,F22103,Root,,0,Columbus,,p22,
-1946TSN,1945,American Association,P10043,Root,,0,Columbus,,P22p,
-1946TSN,1945,American Association,P11401,Root,,0,Columbus,,p,
-emilbb,1945,American Association,M90083,Root,Charley,,Columbus,,,
-1946TSN,1945,American Association,B02751,Roscoe,Michael,0,Indianapolis,,B5,
-1946TSN,1945,American Association,P10974,Roscoe,Michael,0,Indianapolis,,P5p,
-1946TSN,1945,American Association,P12063,Roscoe,,0,Indianapolis,,p,
-1946TSN,1945,American Association,B00488,Rosenthal,Lawrence J.,0,Milwaukee,,B74,
-1946TSN,1945,American Association,B03636,Rosenthal,,0,Milwaukee,,B74,
-1946TSN,1945,American Association,F21356,Rosenthal,,0,Milwaukee,,of74,
-1946TSN,1945,American Association,B03046,Roxbury,Joseph,0,Milwaukee,,B2,
-1946TSN,1945,American Association,P11279,Roxbury,Joseph,0,Milwaukee,,P2p,
-1946TSN,1945,American Association,B02121,Rudolph,Ernest,0,St. Paul,,B15,
-1946TSN,1945,American Association,B05310,Rudolph,,0,St. Paul,,B15,
-1946TSN,1945,American Association,F21544,Rudolph,,0,St. Paul,,p15,
-1946TSN,1945,American Association,P10569,Rudolph,,0,St. Paul,,P15p,
-1946TSN,1945,American Association,P11878,Rudolph,,0,St. Paul,,p,
-1946TSN,1945,American Association,B00609,Ruiz,Juan,0,Minneapolis,,B24,
-1946TSN,1945,American Association,B04788,Ruiz,,0,Minneapolis,,B24,
-1946TSN,1945,American Association,F20648,Ruiz,,0,Minneapolis,,3b18,
-1946TSN,1945,American Association,B00739,Rullo,Joseph,0,Milwaukee,,B123,
-1946TSN,1945,American Association,B03547,Rullo,,0,Milwaukee,,B123,
-1946TSN,1945,American Association,F20327,Rullo,,0,Milwaukee,,2b116,
-emilbb,1945,American Association,M90052,Ryan,"Wilfred ""Rosy""",,Minneapolis,,,
-1946TSN,1945,American Association,B00210,Sabol,Anthony,0,Kansas City,,B72,
-1946TSN,1945,American Association,B03620,Sabol,,0,Kansas City,,B72,
-1946TSN,1945,American Association,F20391,Sabol,,0,Kansas City,,2b35,
-1946TSN,1945,American Association,F21264,Sabol,,0,Kansas City,,of33,
-1946TSN,1945,American Association,B01135,Saltzgaver,Jack,0,Kansas City,,B11,
-1946TSN,1945,American Association,B04576,Saltzgaver,,0,Kansas City,,B11,
-1946TSN,1945,American Association,B00528,Savino,George,1,Louisville,,B23,
-1946TSN,1945,American Association,B00528,Savino,George,2,Minneapolis,,B83,
-1946TSN,1945,American Association,B00528,Savino,George,T,,,B106,
-1946TSN,1945,American Association,B03375,Savino,,1,Louisville,,,
-1946TSN,1945,American Association,B03375,Savino,,2,Minneapolis,,,
-1946TSN,1945,American Association,B03375,Savino,,T,,,B106,
-1946TSN,1945,American Association,F22393,Savino,,1,Louisville,,c,
-1946TSN,1945,American Association,F22393,Savino,,2,Minneapolis,,c,
-1946TSN,1945,American Association,F22393,Savino,,T,,,c91,
-1946TSN,1945,American Association,B02894,Schacker,Harold,0,Indianapolis,,B5,
-1946TSN,1945,American Association,P10982,Schacker,Harold,0,Indianapolis,,P5p,
-1946TSN,1945,American Association,B01402,Scheetz,Owen,0,Milwaukee,,B28,
-1946TSN,1945,American Association,B04058,Scheetz,,0,Milwaukee,,B28,
-1946TSN,1945,American Association,F21646,Scheetz,,0,Milwaukee,,p27,
-1946TSN,1945,American Association,P10024,Scheetz,,0,Milwaukee,,P27p,
-1946TSN,1945,American Association,P11327,Scheetz,,0,Milwaukee,,p,
-1946TSN,1945,American Association,B00381,Scheiwe,Edward,0,St. Paul,,B64,
-1946TSN,1945,American Association,B03886,Scheiwe,,0,St. Paul,,B64,
-1946TSN,1945,American Association,F20417,Scheiwe,,0,St. Paul,,2b15,
-1946TSN,1945,American Association,F21045,Scheiwe,,0,St. Paul,,of36,
-1946TSN,1945,American Association,B00343,Schoendienst,Paul,0,St. Paul,,B127,
-1946TSN,1945,American Association,B03496,Schoendienst,,0,St. Paul,,B127,
-1946TSN,1945,American Association,F20102,Schoendienst,,0,St. Paul,,1b114,
-1946TSN,1945,American Association,B00076,Schultz,Howard,0,St. Paul,,B19,
-1946TSN,1945,American Association,B04147,Schultz,,0,St. Paul,,B19,
-1946TSN,1945,American Association,F20051,Schultz,,0,St. Paul,,1b19,
-1946TSN,1945,American Association,B00130,Serafini,Melvin,0,Kansas City,,B95,
-1946TSN,1945,American Association,B03594,Serafini,,0,Kansas City,,B95,
-1946TSN,1945,American Association,F20254,Serafini,,0,Kansas City,,2b57,
-1946TSN,1945,American Association,F20612,Serafini,,0,Kansas City,,3b22,
-1946TSN,1945,American Association,P11240,Serafini,Melvin,0,Kansas City,,P1p,
-1946TSN,1945,American Association,B00544,Shemo,Stephen,0,Indianapolis,,B35,
-1946TSN,1945,American Association,B04262,Shemo,,0,Indianapolis,,B35,
-1946TSN,1945,American Association,F20388,Shemo,,0,Indianapolis,,2b23,
-1946TSN,1945,American Association,B00515,Shofner,Frank,0,Louisville,,B144,
-1946TSN,1945,American Association,B03334,Shofner,,0,Louisville,,B144,
-1946TSN,1945,American Association,F20560,Shofner,,0,Louisville,,3b17,
-1946TSN,1945,American Association,F20810,Shofner,,0,Louisville,,ss128,
-1946TSN,1945,American Association,B00356,Shupe,Vincent,0,Indianapolis,,B73,
-1946TSN,1945,American Association,B03526,Shupe,,0,Indianapolis,,B73,
-1946TSN,1945,American Association,F20067,Shupe,,0,Indianapolis,,1b73,
-1946TSN,1945,American Association,B01156,Simonds,Dwight,0,Louisville,,B45,
-1946TSN,1945,American Association,B04689,Simonds,,0,Louisville,,B45,
-1946TSN,1945,American Association,F21771,Simonds,,0,Louisville,,p39,
-1946TSN,1945,American Association,P10290,Simonds,,0,Louisville,,P39p,
-1946TSN,1945,American Association,P11768,Simonds,,0,Louisville,,p,
-1946TSN,1945,American Association,B01546,Singleton,Elmer,0,Kansas City,,B17,
-1946TSN,1945,American Association,B04703,Singleton,,0,Kansas City,,B17,
-1946TSN,1945,American Association,F21840,Singleton,,0,Kansas City,,p17,
-1946TSN,1945,American Association,P10035,Singleton,,0,Kansas City,,P17p,
-1946TSN,1945,American Association,P11636,Singleton,,0,Kansas City,,p,
-1946TSN,1945,American Association,B02958,Sisler,William,0,Minneapolis,,B2,
-1946TSN,1945,American Association,P11009,Sisler,William,0,Minneapolis,,P2p,
-1946TSN,1945,American Association,B01567,Sloan,Bruce,0,Minneapolis,,B17,
-1946TSN,1945,American Association,B04404,Sloan,,0,Minneapolis,,B17,
-1946TSN,1945,American Association,B02277,Smalling,Earl,0,Toledo,,B25,
-1946TSN,1945,American Association,B05150,Smalling,,0,Toledo,,B25,
-1946TSN,1945,American Association,F22142,Smalling,,0,Toledo,,p24,
-1946TSN,1945,American Association,P10542,Smalling,,0,Toledo,,P24p,
-1946TSN,1945,American Association,P11924,Smalling,,0,Toledo,,p,
-1946TSN,1945,American Association,B01384,Smith,Donald,0,Toledo,,B92,
-1946TSN,1945,American Association,B04017,Smith,,0,Toledo,,B92,
-1946TSN,1945,American Association,F21125,Smith,,0,Toledo,,of88,
-1946TSN,1945,American Association,B02336,Sosnouski,Joseph,0,Milwaukee,,B2,
-1946TSN,1945,American Association,B01861,Speer,Floyd,0,Milwaukee,,B33,
-1946TSN,1945,American Association,B04929,Speer,,0,Milwaukee,,B33,
-1946TSN,1945,American Association,F22061,Speer,,0,Milwaukee,,p33,
-1946TSN,1945,American Association,P10228,Speer,,0,Milwaukee,,P33p,
-1946TSN,1945,American Association,P11388,Speer,,0,Milwaukee,,p,
-1946TSN,1945,American Association,B02176,Staker,William,0,Toledo,,B12,
-1946TSN,1945,American Association,B05280,Staker,,0,Toledo,,B12,
-1946TSN,1945,American Association,B00705,Steinecke,William,0,Kansas City,,B60,
-1946TSN,1945,American Association,B03841,Steinecke,,0,Kansas City,,B60,
-1946TSN,1945,American Association,F22411,Steinecke,,0,Kansas City,,c53,
-1946TSN,1945,American Association,B01630,Steiner,Benjamin,0,Louisville,,B44,
-1946TSN,1945,American Association,B04096,Steiner,,0,Louisville,,B44,
-1946TSN,1945,American Association,F20430,Steiner,,0,Louisville,,3b42,
-1946TSN,1945,American Association,B02805,Stelmack,Raymond,0,Kansas City,,B2,
-1946TSN,1945,American Association,P11166,Stelmack,Raymond,0,Kansas City,,P1p,
-emilbb,1945,American Association,M90071,Stengel,Casey,,Kansas City,,,
-1946TSN,1945,American Association,B00822,Stephenson,Joseph,0,Milwaukee,,B123,
-1946TSN,1945,American Association,B03430,Stephenson,,0,Milwaukee,,B123,
-1946TSN,1945,American Association,F22440,Stephenson,,0,Milwaukee,,c120,
-1946TSN,1945,American Association,B01812,Storenski,Edward,0,Columbus,,B21,
-1946TSN,1945,American Association,B04420,Storenski,,0,Columbus,,B21,
-1946TSN,1945,American Association,F20657,Storenski,,0,Columbus,,ss10,
-1946TSN,1945,American Association,B02056,Strommen,Clarence,0,Columbus,,B22,
-1946TSN,1945,American Association,B04838,Strommen,,0,Columbus,,B22,
-1946TSN,1945,American Association,F21488,Strommen,,0,Columbus,,p22,
-1946TSN,1945,American Association,P10534,Strommen,,0,Columbus,,P22p,
-1946TSN,1945,American Association,P11855,Strommen,,0,Columbus,,p,
-1946TSN,1945,American Association,B02640,Stumpf,George,0,Columbus,,B2,
-1946TSN,1945,American Association,B00887,Sturdy,Maurice,0,Columbus,,B99,
-1946TSN,1945,American Association,B03685,Sturdy,,0,Columbus,,B99,
-1946TSN,1945,American Association,F20046,Sturdy,,0,Columbus,,1b93,
-1946TSN,1945,American Association,B02407,Sugrue,Joseph,0,Columbus,,B5,
-1946TSN,1945,American Association,B00920,Sumey,George,0,Columbus,,B41,
-1946TSN,1945,American Association,B04500,Sumey,,0,Columbus,,B41,
-1946TSN,1945,American Association,F21973,Sumey,,0,Columbus,,p41,
-1946TSN,1945,American Association,P10464,Sumey,,0,Columbus,,P41p,
-1946TSN,1945,American Association,P11583,Sumey,,0,Columbus,,p,
-1946TSN,1945,American Association,B01899,Sunkel,Thomas,0,St. Paul,,B29,
-1946TSN,1945,American Association,B04742,Sunkel,,0,St. Paul,,B29,
-1946TSN,1945,American Association,F21833,Sunkel,,0,St. Paul,,p28,
-1946TSN,1945,American Association,P10399,Sunkel,,0,St. Paul,,P28p,
-1946TSN,1945,American Association,P11661,Sunkel,,0,St. Paul,,p,
-1946TSN,1945,American Association,B01029,Suytar,Charles,0,Kansas City,,B39,
-1946TSN,1945,American Association,B04152,Suytar,,0,Kansas City,,B39,
-1946TSN,1945,American Association,F20153,Suytar,,0,Kansas City,,1b33,
-1946TSN,1945,American Association,B01848,Swanson,Harold,0,Minneapolis,,B32,
-1946TSN,1945,American Association,B04769,Swanson,,0,Minneapolis,,B32,
-1946TSN,1945,American Association,F21879,Swanson,,0,Minneapolis,,p29,
-1946TSN,1945,American Association,P10611,Swanson,,0,Minneapolis,,P29p,
-1946TSN,1945,American Association,P11430,Swanson,,0,Minneapolis,,p,
-1946TSN,1945,American Association,B02244,Tart,Robert,0,St. Paul,,B29,
-1946TSN,1945,American Association,B05169,Tart,,0,St. Paul,,B29,
-1946TSN,1945,American Association,F21887,Tart,,0,St. Paul,,p25,
-1946TSN,1945,American Association,P10550,Tart,,0,St. Paul,,P25p,
-1946TSN,1945,American Association,P12152,Tart,,0,St. Paul,,p,
-1946TSN,1945,American Association,B02266,Tauscher,Walter,0,St. Paul,,B61,
-1946TSN,1945,American Association,B05329,Tauscher,,0,St. Paul,,B61,
-1946TSN,1945,American Association,F21726,Tauscher,,0,St. Paul,,p61,
-1946TSN,1945,American Association,P10357,Tauscher,,0,St. Paul,,P61p,
-1946TSN,1945,American Association,B02622,Terry,Yank,0,Louisville,,B7,
-1946TSN,1945,American Association,P10805,Terry,Yank,0,Louisville,,P7p,
-1946TSN,1945,American Association,P11829,Terry,,0,Louisville,,p,
-1946TSN,1945,American Association,B01086,Thompson,Donald,0,Louisville,,B34,
-1946TSN,1945,American Association,B01477,Thompson,Blackstone,0,Toledo,,B105,
-1946TSN,1945,American Association,B03878,Thompson,B.,0,Toledo,,B105,
-1946TSN,1945,American Association,B04461,Thompson,D.,0,Louisville,,B34,
-1946TSN,1945,American Association,F20571,Thompson,B.,0,Toledo,,3b20,
-1946TSN,1945,American Association,F20864,Thompson,B.,0,Toledo,,ss52,
-1946TSN,1945,American Association,F20908,Thompson,B.,0,Toledo,,of23,
-1946TSN,1945,American Association,F22020,Thompson,,0,Louisville,,p22,
-1946TSN,1945,American Association,P10215,Thompson,,0,Louisville,,P22p,
-1946TSN,1945,American Association,P11713,Thompson,,0,Louisville,,p,
-1946TSN,1945,American Association,B00783,Towns,James,0,Columbus,,B62,
-1946TSN,1945,American Association,B04049,Towns,,0,Columbus,,B62,
-1946TSN,1945,American Association,F20832,Towns,,0,Columbus,,ss60,
-1946TSN,1945,American Association,B00811,Tucker,L. Wayne,0,Kansas City,,B64,
-1946TSN,1945,American Association,B01971,Tucker,Carl,0,St. Paul,,B24,
-1946TSN,1945,American Association,B03864,Tucker,W.,0,Kansas City,,B64,
-1946TSN,1945,American Association,B05214,Tucker,C.,0,St. Paul,,B24,
-1946TSN,1945,American Association,F20014,Tucker,W.,0,Kansas City,,1b16,
-1946TSN,1945,American Association,F20206,Tucker,W.,0,Kansas City,,2b14,
-1946TSN,1945,American Association,F20401,Tucker,,0,St. Paul,,2b10,
-1946TSN,1945,American Association,F20855,Tucker,W.,0,Kansas City,,ss31,
-1946TSN,1945,American Association,B01952,Ulisney,Michael,0,Milwaukee,,B21,
-1946TSN,1945,American Association,B04734,Ulisney,,0,Milwaukee,,B21,
-1946TSN,1945,American Association,F22525,Ulisney,,0,Milwaukee,,c13,
-1946TSN,1945,American Association,B02996,Uniak,Raymond,0,Kansas City,,B6,
-1946TSN,1945,American Association,P11095,Uniak,Raymond,0,Kansas City,,P6p,
-1946TSN,1945,American Association,B02709,Urso,Joseph,0,Columbus,,B4,
-1946TSN,1945,American Association,B02575,Valenzuela,Joseph,0,Kansas City,,B8,
-1946TSN,1945,American Association,P10145,Valenzuela,,0,Kansas City,,P7p,
-1946TSN,1945,American Association,P11776,Valenzuela,,0,Kansas City,,p,
-1946TSN,1945,American Association,B01203,Vitter,Joseph,0,St. Paul,,B127,
-1946TSN,1945,American Association,B03571,Vitter,,0,St. Paul,,B127,
-1946TSN,1945,American Association,F20303,Vitter,,0,St. Paul,,2b95,
-1946TSN,1945,American Association,F21416,Vitter,,0,St. Paul,,of31,
-1946TSN,1945,American Association,B02290,Vucovich,Nicholas,0,Columbus,,B13,
-1946TSN,1945,American Association,B05393,Vucovich,,0,Columbus,,B13,
-1946TSN,1945,American Association,F22251,Vucovich,,0,Columbus,,p13,
-1946TSN,1945,American Association,P10949,Vucovich,Nicholas,0,Columbus,,P13p,
-1946TSN,1945,American Association,B01905,Wallace,James,0,Indianapolis,,B30,
-1946TSN,1945,American Association,B05057,Wallace,,0,Indianapolis,,B30,
-1946TSN,1945,American Association,F22073,Wallace,,0,Indianapolis,,p25,
-1946TSN,1945,American Association,P10019,Wallace,,0,Indianapolis,,P25p,
-1946TSN,1945,American Association,P11350,Wallace,,0,Indianapolis,,p,
-1946TSN,1945,American Association,B01321,Wallen,Norman,0,Indianapolis,,B58,
-1946TSN,1945,American Association,B04082,Wallen,,0,Indianapolis,,B58,
-1946TSN,1945,American Association,F20449,Wallen,,0,Indianapolis,,3b51,
-1946TSN,1945,American Association,B00125,Walters,Fred,0,Louisville,,B31,
-1946TSN,1945,American Association,B04025,Walters,,0,Louisville,,B31,
-1946TSN,1945,American Association,F22364,Walters,,0,Louisville,,c29,
-1946TSN,1945,American Association,B02035,Weaver,Claude,0,St. Paul,,B45,
-1946TSN,1945,American Association,B05251,Weaver,,0,St. Paul,,B45,
-1946TSN,1945,American Association,F21718,Weaver,,0,St. Paul,,p45,
-1946TSN,1945,American Association,P10100,Weaver,,0,St. Paul,,P45p,
-1946TSN,1945,American Association,P11571,Weaver,,0,St. Paul,,p,
-1946TSN,1945,American Association,B01538,Webb,William,1,St. Paul,,B16,
-1946TSN,1945,American Association,B01538,Webb,William,2,Minneapolis,,B19,
-1946TSN,1945,American Association,B01538,Webb,William,T,,,B35,
-1946TSN,1945,American Association,B04750,Webb,,1,St. Paul,,,
-1946TSN,1945,American Association,B04750,Webb,,2,Minneapolis,,,
-1946TSN,1945,American Association,B04750,Webb,,T,,,B35,
-1946TSN,1945,American Association,F21651,Webb,,1,St. Paul,,p,
-1946TSN,1945,American Association,F21651,Webb,,2,Minneapolis,,p,
-1946TSN,1945,American Association,F21651,Webb,,T,,,p31,
-1946TSN,1945,American Association,P10714,Webb,,1,St. Paul,,P13p,
-1946TSN,1945,American Association,P10714,Webb,,2,Minneapolis,,P18p,
-1946TSN,1945,American Association,P10714,Webb,,T,,,P31p,
-1946TSN,1945,American Association,P11721,Webb,,1,St. Paul,,p,
-1946TSN,1945,American Association,P11721,Webb,,2,Minneapolis,,p,
-1946TSN,1945,American Association,P11721,Webb,,T,,,p,
-1946TSN,1945,American Association,B00623,Weingartner,Elmer,0,Milwaukee,,B28,
-1946TSN,1945,American Association,B04559,Weingartner,,0,Milwaukee,,B28,
-1946TSN,1945,American Association,F20829,Weingartner,,0,Milwaukee,,ss27,
-1946TSN,1945,American Association,B02569,Welch,Henry,0,St. Paul,,B6,
-1946TSN,1945,American Association,B00255,Wentzel,Stanley,0,Indianapolis,,B154,
-1946TSN,1945,American Association,B03131,Wentzel,,0,Indianapolis,,B154,
-1946TSN,1945,American Association,F21101,Wentzel,,0,Indianapolis,,of154,
-1946TSN,1945,American Association,B03014,Werth,Eugene,0,St. Paul,,B3,
-1946TSN,1945,American Association,P11190,Werth,Eugene,0,St. Paul,,P3p,
-1946TSN,1945,American Association,B01242,Whitehead,John,0,Toledo,,B28,
-1946TSN,1945,American Association,B04615,Whitehead,,0,Toledo,,B28,
-1946TSN,1945,American Association,F21667,Whitehead,,0,Toledo,,p23,
-1946TSN,1945,American Association,P10385,Whitehead,,0,Toledo,,P23p,
-1946TSN,1945,American Association,P11505,Whitehead,,0,Toledo,,p,
-1946TSN,1945,American Association,B02043,Widmar,Albert,0,Louisville,,B33,
-1946TSN,1945,American Association,B05036,Widmar,,0,Louisville,,B33,
-1946TSN,1945,American Association,F21752,Widmar,,0,Louisville,,p33,
-1946TSN,1945,American Association,P10622,Widmar,,0,Louisville,,P33p,
-1946TSN,1945,American Association,P12025,Widmar,,0,Louisville,,p,
-1946TSN,1945,American Association,B01658,Wilkie,Frank,0,Indianapolis,,B31,
-1946TSN,1945,American Association,B04499,Wilkie,,0,Indianapolis,,B31,
-1946TSN,1945,American Association,F20699,Wilkie,,0,Indianapolis,,ss14,
-1946TSN,1945,American Association,P11115,Wilkie,Frank,0,Indianapolis,,P3p,
-1946TSN,1945,American Association,B03009,Wonson,Harold,0,Minneapolis,,B3,
-1946TSN,1945,American Association,P11206,Wonson,Harold,0,Minneapolis,,P3p,
-1946TSN,1945,American Association,B00293,Wren,Robert,0,Toledo,,B128,
-1946TSN,1945,American Association,B03458,Wren,,0,Toledo,,B128,
-1946TSN,1945,American Association,F20279,Wren,,0,Toledo,,2b124,
-1946TSN,1945,American Association,B00469,Wright,Edward,0,Indianapolis,,B21,
-1946TSN,1945,American Association,B04340,Wright,,0,Indianapolis,,B21,
-1946TSN,1945,American Association,F21680,Wright,,0,Indianapolis,,p20,
-1946TSN,1945,American Association,P10097,Wright,,0,Indianapolis,,P20p,
-1946TSN,1945,American Association,P11417,Wright,,0,Indianapolis,,p,
-1946TSN,1945,American Association,B01444,Yaeger,Edward,0,St. Paul,,B93,
-1946TSN,1945,American Association,B03962,Yaeger,,0,St. Paul,,B93,
-1946TSN,1945,American Association,F21210,Yaeger,,0,St. Paul,,of91,
-1946TSN,1945,American Association,B01197,Young,Floyd,0,Columbus,,B88,
-1946TSN,1945,American Association,B03699,Young,,0,Columbus,,B88,
-1946TSN,1945,American Association,F20298,Young,,0,Columbus,,2b18,
-1946TSN,1945,American Association,F20700,Young,,0,Columbus,,ss65,
-1946TSN,1945,American Association,B03102,Yurchak,Andy,0,Kansas City,,B1,
-1946TSN,1945,American Association,B02542,Zaden,Louis,0,Columbus,,B3,
-1946TSN,1945,American Association,B00638,Zak,Frank,0,Kansas City,,B104,
-1946TSN,1945,American Association,B03829,Zak,,0,Kansas City,,B104,
-1946TSN,1945,American Association,F20685,Zak,,0,Kansas City,,ss104,
-1946TSN,1945,American Association,B02410,Zielinski,Florian,0,Milwaukee,,B2,
-1946TSN,1945,American Association,B02493,Zipay,Edward,0,Louisville,,B6,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+1946TSN,1945,American Association,,B02231,Abernathy,Woodrow,0,Minneapolis,,B35
+1946TSN,1945,American Association,,B04631,Abernathy,,0,Minneapolis,,B35
+1946TSN,1945,American Association,,F21739,Abernathy,,0,Minneapolis,,p32
+1946TSN,1945,American Association,,P10591,Abernathy,,0,Minneapolis,,P32p
+1946TSN,1945,American Association,,P11526,Abernathy,,0,Minneapolis,,p
+1946TSN,1945,American Association,,B01415,Acosta,Julio,0,Milwaukee,,B34
+1946TSN,1945,American Association,,B04365,Acosta,,0,Milwaukee,,B34
+1946TSN,1945,American Association,,F22223,Acosta,,0,Milwaukee,,p29
+1946TSN,1945,American Association,,P10168,Acosta,,0,Milwaukee,,P29p
+1946TSN,1945,American Association,,P11334,Acosta,,0,Milwaukee,,p
+1946TSN,1945,American Association,,F21705,Alberton,,0,Minneapolis,,p47
+1946TSN,1945,American Association,,P10767,Alberton,,0,Minneapolis,,P47p
+1946TSN,1945,American Association,,B01055,Albertson,Robert,0,Minneapolis,,B61
+1946TSN,1945,American Association,,B04333,Albertson,,0,Minneapolis,,B61
+1946TSN,1945,American Association,,B01288,Aragon,Jack,1,Minneapolis,,B32
+1946TSN,1945,American Association,,B01288,Aragon,Jack,2,Louisville,,B56
+1946TSN,1945,American Association,,B01288,Aragon,Jack,T,,,B88
+1946TSN,1945,American Association,,B03776,Aragon,,1,Minneapolis,,
+1946TSN,1945,American Association,,B03776,Aragon,,2,Louisville,,
+1946TSN,1945,American Association,,B03776,Aragon,,T,,,B88
+1946TSN,1945,American Association,,F22517,Aragon,,1,Minneapolis,,c
+1946TSN,1945,American Association,,F22517,Aragon,,2,Louisville,,c
+1946TSN,1945,American Association,,F22517,Aragon,,T,,,c79
+1946TSN,1945,American Association,,B02606,Archer,Robert,0,Columbus,,B7
+1946TSN,1945,American Association,,B01873,Arteaga,Virginio,0,Minneapolis,,B11
+1946TSN,1945,American Association,,B05142,Arteaga,,0,Minneapolis,,B11
+1946TSN,1945,American Association,,B02478,Austin,Victor,0,Louisville,,B2
+1946TSN,1945,American Association,,B02399,Babe,Loren,0,Kansas City,,B5
+1946TSN,1945,American Association,,B01994,Bahr,Edson,0,Kansas City,,B34
+1946TSN,1945,American Association,,B05061,Bahr,,0,Kansas City,,B34
+1946TSN,1945,American Association,,F21806,Bahr,,0,Kansas City,,p29
+1946TSN,1945,American Association,,P10410,Bahr,,0,Kansas City,,P29p
+1946TSN,1945,American Association,,P11369,Bahr,,0,Kansas City,,p
+1946TSN,1945,American Association,,B00590,Barath,Stephen,0,Louisville,,B121
+1946TSN,1945,American Association,,B03342,Barath,,0,Louisville,,B121
+1946TSN,1945,American Association,,F20962,Barath,,0,Louisville,,of108
+1946TSN,1945,American Association,,B00427,Barna,Herbert,0,Minneapolis,,B132
+1946TSN,1945,American Association,,B03177,Barna,,0,Minneapolis,,B132
+1946TSN,1945,American Association,,F21278,Barna,,0,Minneapolis,,of129
+1946TSN,1945,American Association,,B00362,Baron,Charles,0,Columbus,,B38
+1946TSN,1945,American Association,,B03759,Baron,,0,Columbus,,B38
+1946TSN,1945,American Association,,F20144,Baron,,0,Columbus,,1b38
+1946TSN,1945,American Association,,B01514,Bartosch,David,0,Columbus,,B50
+1946TSN,1945,American Association,,B03924,Bartosch,,0,Columbus,,B50
+1946TSN,1945,American Association,,F20997,Bartosch,,0,Columbus,,of50
+1946TSN,1945,American Association,,B02860,Baughn,Raymond,0,Columbus,,B1
+1946TSN,1945,American Association,,B01093,Berge,Arnie,1,Minneapolis,,B35
+1946TSN,1945,American Association,,B01093,Berge,Arnie,2,St. Paul,,B54
+1946TSN,1945,American Association,,B01093,Berge,Arnie,T,,,B89
+1946TSN,1945,American Association,,B03737,Berge,,1,Minneapolis,,
+1946TSN,1945,American Association,,B03737,Berge,,2,St. Paul,,
+1946TSN,1945,American Association,,B03737,Berge,,T,,,B89
+1946TSN,1945,American Association,,F20038,Berge,,1,Minneapolis,,1b
+1946TSN,1945,American Association,,F20038,Berge,,2,St. Paul,,1b
+1946TSN,1945,American Association,,F20038,Berge,,T,,,1b10
+1946TSN,1945,American Association,,F20233,Berge,,1,Minneapolis,,2b
+1946TSN,1945,American Association,,F20233,Berge,,2,St. Paul,,2b
+1946TSN,1945,American Association,,F20233,Berge,,T,,,2b12
+1946TSN,1945,American Association,,F20526,Berge,,1,Minneapolis,,3b
+1946TSN,1945,American Association,,F20526,Berge,,2,St. Paul,,3b
+1946TSN,1945,American Association,,F20526,Berge,,T,,,3b26
+1946TSN,1945,American Association,,F20768,Berge,,1,Minneapolis,,ss
+1946TSN,1945,American Association,,F20768,Berge,,2,St. Paul,,ss
+1946TSN,1945,American Association,,F20768,Berge,,T,,,ss38
+1946TSN,1945,American Association,,B00264,Biggs,Alton,0,Milwaukee,,B135
+1946TSN,1945,American Association,,B03298,Biggs,,0,Milwaukee,,B135
+1946TSN,1945,American Association,,F20265,Biggs,,0,Milwaukee,,2b41
+1946TSN,1945,American Association,,F20776,Biggs,,0,Milwaukee,,ss89
+emilbb,1945,American Association,,M90047,Blades,Ray,,St. Paul,,
+1946TSN,1945,American Association,,B00948,Blazo,Michael,0,Minneapolis,,B86
+1946TSN,1945,American Association,,B03661,Blazo,,0,Minneapolis,,B86
+1946TSN,1945,American Association,,F20425,Blazo,,0,Minneapolis,,3b10
+1946TSN,1945,American Association,,F22487,Blazo,,0,Minneapolis,,c69
+1946TSN,1945,American Association,,B02024,Boaz,William,0,St. Paul,,B43
+1946TSN,1945,American Association,,B04568,Boaz,,0,St. Paul,,B43
+1946TSN,1945,American Association,,F20211,Boaz,,0,St. Paul,,2b38
+1946TSN,1945,American Association,,B00667,Bogard,John,0,Kansas City,,B67
+1946TSN,1945,American Association,,B03832,Bogard,,0,Kansas City,,B67
+1946TSN,1945,American Association,,F20369,Bogard,,0,Kansas City,,2b42
+1946TSN,1945,American Association,,F20943,Bogard,,0,Kansas City,,of12
+1946TSN,1945,American Association,,B00286,Boken,Robert,0,Toledo,,B22
+1946TSN,1945,American Association,,B04160,Boken,,0,Toledo,,B22
+1946TSN,1945,American Association,,F21434,Boken,,0,Toledo,,of14
+1946TSN,1945,American Association,,B00695,Brady,Robert,0,Indianapolis,,B116
+1946TSN,1945,American Association,,B03369,Brady,,0,Indianapolis,,B116
+1946TSN,1945,American Association,,F22422,Brady,,0,Indianapolis,,c107
+1946TSN,1945,American Association,,B02137,Branca,Ralph,0,St. Paul,,B15
+1946TSN,1945,American Association,,B04993,Branca,,0,St. Paul,,B15
+1946TSN,1945,American Association,,F21854,Branca,,0,St. Paul,,p15
+1946TSN,1945,American Association,,P10121,Branca,,0,St. Paul,,P15p
+1946TSN,1945,American Association,,P11759,Branca,,0,St. Paul,,p
+1946TSN,1945,American Association,,B01696,Brock,L. Paul,0,Columbus,,B26
+1946TSN,1945,American Association,,B04851,Brock,,0,Columbus,,B26
+1946TSN,1945,American Association,,F21948,Brock,,0,Columbus,,p26
+1946TSN,1945,American Association,,P10503,Brock,,0,Columbus,,P26p
+1946TSN,1945,American Association,,P11935,Brock,,0,Columbus,,p
+1946TSN,1945,American Association,,B00651,Brown,Thomas,0,St. Paul,,B85
+1946TSN,1945,American Association,,B03474,Brown,,0,St. Paul,,B85
+1946TSN,1945,American Association,,F20784,Brown,,0,St. Paul,,ss80
+1946TSN,1945,American Association,,B00833,Browne,Earl,0,Louisville,,B146
+1946TSN,1945,American Association,,B03222,Browne,,0,Louisville,,B146
+1946TSN,1945,American Association,,F20072,Browne,,0,Louisville,,1b145
+1946TSN,1945,American Association,,P11254,Browne,Earl,0,Louisville,,P1p
+1946TSN,1945,American Association,,B01291,Brunswick,Roman,0,Columbus,,B37
+1946TSN,1945,American Association,,B04183,Brunswick,,0,Columbus,,B37
+1946TSN,1945,American Association,,F21794,Brunswick,,0,Columbus,,p36
+1946TSN,1945,American Association,,P10176,Brunswick,,0,Columbus,,P36p
+1946TSN,1945,American Association,,P11391,Brunswick,,0,Columbus,,p
+1946TSN,1945,American Association,,B00207,Bucha,John,0,Columbus,,B119
+1946TSN,1945,American Association,,B03539,Bucha,,0,Columbus,,B119
+1946TSN,1945,American Association,,F22530,Bucha,,0,Columbus,,c107
+1946TSN,1945,American Association,,B00794,Burgo,William,0,Milwaukee,,B147
+1946TSN,1945,American Association,,B03211,Burgo,,0,Milwaukee,,B147
+1946TSN,1945,American Association,,F21370,Burgo,,0,Milwaukee,,of144
+1946TSN,1945,American Association,,B00324,Burkart,Elmer,1,Columbus,,B5
+1946TSN,1945,American Association,,B00324,Burkart,Elmer,2,Milwaukee,,B12
+1946TSN,1945,American Association,,B00324,Burkart,Elmer,T,,,B17
+1946TSN,1945,American Association,,B05341,Burkart,,1,Columbus,,
+1946TSN,1945,American Association,,B05341,Burkart,,2,Milwaukee,,
+1946TSN,1945,American Association,,B05341,Burkart,,T,,,B17
+1946TSN,1945,American Association,,F22246,Burkart,,1,Columbus,,p
+1946TSN,1945,American Association,,F22246,Burkart,,2,Milwaukee,,p
+1946TSN,1945,American Association,,F22246,Burkart,,T,,,p17
+1946TSN,1945,American Association,,P10751,Burkart,,1,Columbus,,P5p
+1946TSN,1945,American Association,,P10751,Burkart,,2,Milwaukee,,P12p
+1946TSN,1945,American Association,,P10751,Burkart,,T,,,P17p
+1946TSN,1945,American Association,,P11997,Burkhart,,1,Columbus,,p
+1946TSN,1945,American Association,,P11997,Burkhart,,2,Milwaukee,,p
+1946TSN,1945,American Association,,P11997,Burkhart,,T,,,p
+emilbb,1945,American Association,,M90026,Burwell,Bill,,Indianapolis,,
+1946TSN,1945,American Association,,B01234,Callahan,Richard,0,Louisville,,B35
+1946TSN,1945,American Association,,B04297,Callahan,,0,Louisville,,B35
+1946TSN,1945,American Association,,F21822,Callahan,,0,Louisville,,p29
+1946TSN,1945,American Association,,P10320,Callahan,,0,Louisville,,P29p
+1946TSN,1945,American Association,,P11547,Callahan,,0,Louisville,,p
+1946TSN,1945,American Association,,B02253,Camp,Loy,0,St. Paul,,B11
+1946TSN,1945,American Association,,B05355,Camp,,0,St. Paul,,B11
+1946TSN,1945,American Association,,F21531,Camp,,0,St. Paul,,p11
+1946TSN,1945,American Association,,P10679,Camp,,0,St. Paul,,P11p
+1946TSN,1945,American Association,,P12001,Camp,,0,St. Paul,,p
+1946TSN,1945,American Association,,B02550,Capelle,Jack,0,St. Paul,,B3
+1946TSN,1945,American Association,,B02930,Carabello,Jose,0,Minneapolis,,B2
+1946TSN,1945,American Association,,P11189,Carabello,Jose,0,Minneapolis,,P2p
+1946TSN,1945,American Association,,B02320,Caravello,Aldo,0,Milwaukee,,B6
+1946TSN,1945,American Association,,B01617,Cardinal,Louis,1,Minneapolis,,B8
+1946TSN,1945,American Association,,B01617,Cardinal,Louis,2,St. Paul,,B13
+1946TSN,1945,American Association,,B01617,Cardinal,Louis,T,,,B21
+1946TSN,1945,American Association,,B04932,Cardinal,,1,Minneapolis,,
+1946TSN,1945,American Association,,B04932,Cardinal,,2,St. Paul,,
+1946TSN,1945,American Association,,B04932,Cardinal,,T,,,B21
+1946TSN,1945,American Association,,F22329,Cardinal,,1,Minneapolis,,c
+1946TSN,1945,American Association,,F22329,Cardinal,,2,St. Paul,,c
+1946TSN,1945,American Association,,F22329,Cardinal,,T,,,c21
+1946TSN,1945,American Association,,B01926,Cardoni,Armand,1,Indianapolis,,B9
+1946TSN,1945,American Association,,B01926,Cardoni,Armand,2,Milwaukee,,B15
+1946TSN,1945,American Association,,B01926,Cardoni,Armand,T,,,B24
+1946TSN,1945,American Association,,B04727,Cardoni,,1,Indianapolis,,
+1946TSN,1945,American Association,,B04727,Cardoni,,2,Milwaukee,,
+1946TSN,1945,American Association,,B04727,Cardoni,,T,,,B24
+1946TSN,1945,American Association,,F22209,Cardoni,,1,Indianapolis,,p
+1946TSN,1945,American Association,,F22209,Cardoni,,2,Milwaukee,,p
+1946TSN,1945,American Association,,F22209,Cardoni,,T,,,p22
+1946TSN,1945,American Association,,P10441,Cardoni,,1,Indianapolis,,p
+1946TSN,1945,American Association,,P10441,Cardoni,,2,Milwaukee,,p
+1946TSN,1945,American Association,,P10441,Cardoni,,T,,,P22p
+1946TSN,1945,American Association,,P11560,Cardoni,,1,Indianapolis,,p
+1946TSN,1945,American Association,,P11560,Cardoni,,2,Milwaukee,,p
+1946TSN,1945,American Association,,P11560,Cardoni,,T,,,p
+1946TSN,1945,American Association,,B02591,Carroll,Charles,0,Milwaukee,,B5
+1946TSN,1945,American Association,,B01947,Castro,Dominic,0,Kansas City,,B35
+1946TSN,1945,American Association,,B04243,Castro,,0,Kansas City,,B35
+1946TSN,1945,American Association,,F22465,Castro,,0,Kansas City,,c31
+1946TSN,1945,American Association,,B01124,Cecil,Rex,0,Louisville,,B31
+1946TSN,1945,American Association,,B05048,Cecil,,0,Louisville,,B31
+1946TSN,1945,American Association,,F21985,Cecil,,0,Louisville,,p28
+1946TSN,1945,American Association,,P10070,Cecil,,0,Louisville,,P28p
+1946TSN,1945,American Association,,P11449,Cecil,,0,Louisville,,p
+1946TSN,1945,American Association,,B02883,Chambers,John,0,Minneapolis,,B7
+1946TSN,1945,American Association,,P11144,Chambers,John,0,Minneapolis,,P7p
+1946TSN,1945,American Association,,B00442,Chapman,Glenn,0,St. Paul,,B124
+1946TSN,1945,American Association,,B03240,Chapman,,0,St. Paul,,B124
+1946TSN,1945,American Association,,F21021,Chapman,,0,St. Paul,,of119
+1946TSN,1945,American Association,,B02429,Christ,Donald,0,Toledo,,B3
+1946TSN,1945,American Association,,B02168,Chumley,Fred,0,Louisville,,B15
+1946TSN,1945,American Association,,B05127,Chumley,,0,Louisville,,B15
+1946TSN,1945,American Association,,F21999,Chumley,,0,Louisville,,p13
+1946TSN,1945,American Association,,P10894,Chumley,Fred,0,Louisville,,P13p
+1946TSN,1945,American Association,,P12030,Chumley,,0,Louisville,,p
+1946TSN,1945,American Association,,B00680,Cicero,Joseph,0,Minneapolis,,B65
+1946TSN,1945,American Association,,B03855,Cicero,,0,Minneapolis,,B65
+1946TSN,1945,American Association,,F21000,Cicero,,0,Minneapolis,,of56
+1946TSN,1945,American Association,,B01740,Clark,Wm. Otis,0,Louisville,,B23
+1946TSN,1945,American Association,,B04592,Clark,,0,Louisville,,B23
+1946TSN,1945,American Association,,F21502,Clark,,0,Louisville,,p23
+1946TSN,1945,American Association,,P10407,Clark,,0,Louisville,,P23p
+1946TSN,1945,American Association,,P11482,Clark,,0,Louisville,,p
+1946TSN,1945,American Association,,B02312,Coffman,George,0,St. Paul,,B12
+1946TSN,1945,American Association,,B05073,Coffman,,0,St. Paul,,B12
+1946TSN,1945,American Association,,F22280,Coffman,,0,St. Paul,,p11
+1946TSN,1945,American Association,,P11102,Coffman,George,0,St. Paul,,P11p
+1946TSN,1945,American Association,,B00614,Collins,Stephen,0,Toledo,,B114
+1946TSN,1945,American Association,,B03391,Collins,,0,Toledo,,B114
+1946TSN,1945,American Association,,F20316,Collins,,0,Toledo,,2b28
+1946TSN,1945,American Association,,F20474,Collins,,0,Toledo,,3b84
+1946TSN,1945,American Association,,B01551,Comyn,Robert,0,Toledo,,B37
+1946TSN,1945,American Association,,B04063,Comyn,,0,Toledo,,B37
+1946TSN,1945,American Association,,F22355,Comyn,,0,Toledo,,c37
+1946TSN,1945,American Association,,B00117,Cooney,John,0,Kansas City,,B27
+1946TSN,1945,American Association,,B04306,Cooney,,0,Kansas City,,B27
+1946TSN,1945,American Association,,F21037,Cooney,,0,Kansas City,,of21
+1946TSN,1945,American Association,,B00403,Corbett,Eugene,0,St. Paul,,B10
+1946TSN,1945,American Association,,B04809,Corbett,,0,St. Paul,,B10
+1946TSN,1945,American Association,,B00397,Corona,George,0,Toledo,,B95
+1946TSN,1945,American Association,,B03482,Corona,,0,Toledo,,B95
+1946TSN,1945,American Association,,F21130,Corona,,0,Toledo,,of90
+1946TSN,1945,American Association,,B00898,Cotelle,Como,0,Louisville,,B58
+1946TSN,1945,American Association,,B03943,Cotelle,,0,Louisville,,B58
+1946TSN,1945,American Association,,F21084,Cotelle,,0,Louisville,,of52
+1946TSN,1945,American Association,,B02455,Cozart,Charles,0,Kansas City,,B5
+1946TSN,1945,American Association,,P10780,Cozart,Charles,0,Kansas City,,P4p
+1946TSN,1945,American Association,,P12082,Cozart,,0,Kansas City,,p
+1946TSN,1945,American Association,,B01765,Crandall,James,0,Toledo,,B66
+1946TSN,1945,American Association,,B03935,Crandall,,0,Toledo,,B66
+1946TSN,1945,American Association,,F22310,Crandall,,0,Toledo,,c57
+1946TSN,1945,American Association,,P11051,Crist,Donald,0,Toledo,,P3p
+1946TSN,1945,American Association,,P12058,Crist,,0,Toledo,,p
+1946TSN,1945,American Association,,B01216,Crompton,Herbert,0,Kansas City,,B53
+1946TSN,1945,American Association,,B04001,Crompton,,0,Kansas City,,B53
+1946TSN,1945,American Association,,F22307,Crompton,,0,Kansas City,,c49
+1946TSN,1945,American Association,,B02839,Cronin,Frank,0,Columbus,,B2
+1946TSN,1945,American Association,,P10996,Cronin,Frank,0,Columbus,,P2p
+1946TSN,1945,American Association,,B02679,Crosby,Jerome,0,Kansas City,,B8
+1946TSN,1945,American Association,,B01431,Crumling,Eugene,0,Columbus,,B13
+1946TSN,1945,American Association,,B05209,Crumling,,0,Columbus,,B13
+1946TSN,1945,American Association,,F22386,Crumling,,0,Columbus,,c12
+emilbb,1945,American Association,,M90018,Cullop,"Henry ""Nick""",,Milwaukee,,
+1946TSN,1945,American Association,,B02100,Cunningham,Wesley,0,Columbus,,B12
+1946TSN,1945,American Association,,B05103,Cunningham,,0,Columbus,,B12
+1946TSN,1945,American Association,,F21566,Cunningham,,0,Columbus,,p12
+1946TSN,1945,American Association,,P10348,Cunningham,,0,Columbus,,P12p
+1946TSN,1945,American Association,,P11893,Cunningham,,0,Columbus,,p
+1946TSN,1945,American Association,,B01466,Danielson,Harold,0,Kansas City,,B39
+1946TSN,1945,American Association,,B04791,Danielson,,0,Kansas City,,B39
+1946TSN,1945,American Association,,F22454,Danielson,,0,Kansas City,,c38
+1946TSN,1945,American Association,,B00434,Danneker,Frank,0,Minneapolis,,B142
+1946TSN,1945,American Association,,B03254,Danneker,,0,Minneapolis,,B142
+1946TSN,1945,American Association,,F20287,Danneker,,0,Minneapolis,,2b141
+1946TSN,1945,American Association,,B02432,Dannels,George,0,St. Paul,,B2
+1946TSN,1945,American Association,,P11072,Dannels,George,0,St. Paul,,P2p
+1946TSN,1945,American Association,,P12049,Dannels,,0,St. Paul,,p
+1946TSN,1945,American Association,,B02385,Dantonio,John,0,St. Paul,,B9
+1946TSN,1945,American Association,,B00037,Davis,Wendell,0,Milwaukee,,B28
+1946TSN,1945,American Association,,B00182,Davis,Ray,0,Milwaukee,,B12
+1946TSN,1945,American Association,,B00747,Davis,George,0,Columbus,,B91
+1946TSN,1945,American Association,,B01649,Davis,Thomas,0,Indianapolis,,B24
+1946TSN,1945,American Association,,B02019,Davis,Wm. H.,0,Kansas City,,B24
+1946TSN,1945,American Association,,B03713,Davis,G.,0,Columbus,,B91
+1946TSN,1945,American Association,,B04171,Davis,Wen.,0,Milwaukee,,B28
+1946TSN,1945,American Association,,B04513,Davis,T.,0,Indianapolis,,B24
+1946TSN,1945,American Association,,B05085,Davis,R.,0,Milwaukee,,B12
+1946TSN,1945,American Association,,B05378,Davis,Wm.,0,Kansas City,,B24
+1946TSN,1945,American Association,,F20342,Davis,G.,0,Columbus,,2b80
+1946TSN,1945,American Association,,F21427,Davis,T.,0,Indianapolis,,of22
+1946TSN,1945,American Association,,F21528,Davis,Wen.,0,Milwaukee,,p26
+1946TSN,1945,American Association,,F21904,Davis,Wm.,0,Kansas City,,p24
+1946TSN,1945,American Association,,F22134,Davis,R.,0,Milwaukee,,p12
+1946TSN,1945,American Association,,P10312,Davis,Wen.,0,Milwaukee,,P26p
+1946TSN,1945,American Association,,P10709,Davis,Wm.,0,Kansas City,,P24p
+1946TSN,1945,American Association,,P10930,Davis,Ray,0,Milwaukee,,P12p
+1946TSN,1945,American Association,,P11784,Davis,Wen.,0,Milwaukee,,p
+1946TSN,1945,American Association,,P11970,Davis,R.,0,Milwaukee,,p
+1946TSN,1945,American Association,,P12147,Davis,Wm.,0,Kansas City,,p
+1946TSN,1945,American Association,,B00068,Deal,Lindsay,0,Louisville,,B39
+1946TSN,1945,American Association,,B04126,Deal,,0,Louisville,,B39
+1946TSN,1945,American Association,,F21068,Deal,,0,Louisville,,of23
+1946TSN,1945,American Association,,B00450,Denning,Otto,0,Milwaukee,,B143
+1946TSN,1945,American Association,,B03190,Denning,,0,Milwaukee,,B143
+1946TSN,1945,American Association,,F20080,Denning,,0,Milwaukee,,1b141
+1946TSN,1945,American Association,,B01368,Detore,George,0,Indianapolis,,B78
+1946TSN,1945,American Association,,B03981,Detore,,0,Indianapolis,,B78
+1946TSN,1945,American Association,,F22341,Detore,,0,Indianapolis,,c52
+1946TSN,1945,American Association,,B01064,Devincenzi,John,0,Kansas City,,B112
+1946TSN,1945,American Association,,B03388,Devincenzi,,0,Kansas City,,B112
+1946TSN,1945,American Association,,F21232,Devincenzi,,0,Kansas City,,of101
+1946TSN,1945,American Association,,B03095,Dickerson,Walter,0,Indianapolis,,B1
+1946TSN,1945,American Association,,P11128,Dickerson,Walter,0,Indianapolis,,P3p
+1946TSN,1945,American Association,,B02159,Diehl,George,0,Louisville,,B24
+1946TSN,1945,American Association,,B04895,Diehl,,0,Louisville,,B24
+1946TSN,1945,American Association,,F21783,Diehl,,0,Louisville,,p21
+1946TSN,1945,American Association,,P10184,Diehl,,0,Louisville,,P21p
+1946TSN,1945,American Association,,P11700,Diehl,,0,Louisville,,p
+1946TSN,1945,American Association,,B00936,Dill,Robert,1,Minneapolis,,B40
+1946TSN,1945,American Association,,B00936,Dill,Robert,2,Indianapolis,,B95
+1946TSN,1945,American Association,,B00936,Dill,Robert,T,,,B135
+1946TSN,1945,American Association,,B03303,Dill,,1,Minneapolis,,
+1946TSN,1945,American Association,,B03303,Dill,,2,Indianapolis,,
+1946TSN,1945,American Association,,B03303,Dill,,T,,,B135
+1946TSN,1945,American Association,,F21174,Dill,,1,Minneapolis,,of
+1946TSN,1945,American Association,,F21174,Dill,,2,Indianapolis,,of
+1946TSN,1945,American Association,,F21174,Dill,,T,,,of127
+1946TSN,1945,American Association,,B02654,Doy,Daniel,0,Kansas City,,B9
+1946TSN,1945,American Association,,B01983,Dunn,Cecil,0,St. Paul,,B10
+1946TSN,1945,American Association,,B04964,Dunn,,0,St. Paul,,B10
+1946TSN,1945,American Association,,B00502,Durheim,Harry,0,Indianapolis,,B21
+1946TSN,1945,American Association,,B04978,Durheim,,0,Indianapolis,,B21
+1946TSN,1945,American Association,,F22099,Durheim,,0,Indianapolis,,p21
+1946TSN,1945,American Association,,P10266,Durheim,,0,Indianapolis,,P21p
+1946TSN,1945,American Association,,P11919,Durheim,,0,Indianapolis,,p
+1946TSN,1945,American Association,,B01754,Earley,Thomas,0,Indianapolis,,B10
+1946TSN,1945,American Association,,B05116,Earley,,0,Indianapolis,,B10
+1946TSN,1945,American Association,,F21609,Earley,,0,Indianapolis,,p10
+1946TSN,1945,American Association,,P10839,Earley,Thomas,0,Indianapolis,,P10p
+1946TSN,1945,American Association,,B02348,Edwards,Eugene,0,Milwaukee,,B1
+1946TSN,1945,American Association,,B03038,Eisiminger,Robert,0,Columbus,,B2
+1946TSN,1945,American Association,,P11233,Eisiminger,Robert,0,Columbus,,P2p
+1946TSN,1945,American Association,,B02772,Emmertson,Alva,0,Kansas City,,B9
+1946TSN,1945,American Association,,P10925,Emmertson,Alva,0,Kansas City,,P9p
+1946TSN,1945,American Association,,B00646,English,Gilbert,0,Indianapolis,,B137
+1946TSN,1945,American Association,,B03166,English,,0,Indianapolis,,B137
+1946TSN,1945,American Association,,F20458,English,,0,Indianapolis,,3b114
+1946TSN,1945,American Association,,F20919,English,,0,Indianapolis,,of26
+1946TSN,1945,American Association,,B02974,Erickson,Reynold,0,Minneapolis,,B2
+1946TSN,1945,American Association,,B00726,Etchison,Clarence,0,Milwaukee,,B12
+1946TSN,1945,American Association,,B04653,Etchison,,0,Milwaukee,,B12
+1946TSN,1945,American Association,,F20189,Etchison,,0,Milwaukee,,1b10
+1946TSN,1945,American Association,,B01580,Fannin,Clifford,0,Toledo,,B31
+1946TSN,1945,American Association,,B04910,Fannin,,0,Toledo,,B31
+1946TSN,1945,American Association,,F21695,Fannin,,0,Toledo,,p25
+1946TSN,1945,American Association,,P10159,Fannin,,0,Toledo,,P25p
+1946TSN,1945,American Association,,P11375,Fannin,,0,Toledo,,p
+1946TSN,1945,American Association,,B02746,Farmer,Jack,0,Milwaukee,,B7
+1946TSN,1945,American Association,,P10963,Farmer,Jack,0,Milwaukee,,P7p
+1946TSN,1945,American Association,,B02714,Fayad,John,0,Toledo,,B9
+1946TSN,1945,American Association,,B01041,Filipowicz,Stephen,0,Columbus,,B53
+1946TSN,1945,American Association,,B03721,Filipowicz,,0,Columbus,,B53
+1946TSN,1945,American Association,,F21182,Filipowicz,,0,Columbus,,of48
+1946TSN,1945,American Association,,B01453,Fletcher,Robert,0,Indianapolis,,B14
+1946TSN,1945,American Association,,B01489,Fletcher,Glenn,0,Indianapolis,,B20
+1946TSN,1945,American Association,,B04270,Fletcher,R.,0,Indianapolis,,B14
+1946TSN,1945,American Association,,B05012,Fletcher,G.,0,Indianapolis,,B20
+1946TSN,1945,American Association,,F20375,Fletcher,R.,0,Indianapolis,,2b14
+1946TSN,1945,American Association,,F22238,Fletcher,G.,0,Indianapolis,,p20
+1946TSN,1945,American Association,,P10137,Fletcher,G.,0,Indianapolis,,P20p
+1946TSN,1945,American Association,,P11745,Fletcher,,0,Indianapolis,,p
+1946TSN,1945,American Association,,B00045,Flick,Lewis,0,Milwaukee,,B142
+1946TSN,1945,American Association,,B03206,Flick,,0,Milwaukee,,B142
+1946TSN,1945,American Association,,F21059,Flick,,0,Milwaukee,,of139
+1946TSN,1945,American Association,,B01798,Flowers,Wesley,0,Indianapolis,,B41
+1946TSN,1945,American Association,,B04537,Flowers,,0,Indianapolis,,B41
+1946TSN,1945,American Association,,F21760,Flowers,,0,Indianapolis,,p41
+1946TSN,1945,American Association,,P10486,Flowers,,0,Indianapolis,,P41p
+1946TSN,1945,American Association,,P11463,Flowers,,0,Indianapolis,,p
+1946TSN,1945,American Association,,B02949,Ford,J. C.,0,St. Paul,,B2
+1946TSN,1945,American Association,,B01523,Garver,Ned,0,Toledo,,B31
+1946TSN,1945,American Association,,B04457,Garver,,0,Toledo,,B31
+1946TSN,1945,American Association,,F21912,Garver,,0,Toledo,,p31
+1946TSN,1945,American Association,,P10606,Garver,,0,Toledo,,P31p
+1946TSN,1945,American Association,,P11699,Garver,,0,Toledo,,p
+1946TSN,1945,American Association,,B00760,Genovese,Frank,0,Louisville,,B154
+1946TSN,1945,American Association,,B03463,Genovese,,0,Louisville,,B154
+1946TSN,1945,American Association,,F20886,Genovese,,0,Louisville,,of154
+1946TSN,1945,American Association,,B00912,Geraghty,Benjamin,0,Indianapolis,,B117
+1946TSN,1945,American Association,,B03919,Geraghty,,0,Indianapolis,,B117
+1946TSN,1945,American Association,,F20240,Geraghty,,0,Indianapolis,,2b116
+1946TSN,1945,American Association,,B02665,Goedde,Sylvester,0,Toledo,,B7
+1946TSN,1945,American Association,,P10818,Goedde,Sylvester,0,Toledo,,P7p
+1946TSN,1945,American Association,,P12126,Goedde,,0,Toledo,,p
+1946TSN,1945,American Association,,B02767,Gonzales,Onisio,0,Minneapolis,,B3
+1946TSN,1945,American Association,,B03023,Gooding,Charles,0,Columbus,,B3
+1946TSN,1945,American Association,,P11177,Gooding,Charles,0,Columbus,,P3p
+1946TSN,1945,American Association,,B00553,Gracey,Richard,0,Columbus,,B73
+1946TSN,1945,American Association,,B03612,Gracey,,0,Columbus,,B73
+1946TSN,1945,American Association,,F20166,Gracey,,0,Columbus,,1b11
+1946TSN,1945,American Association,,F20222,Gracey,,0,Columbus,,2b23
+1946TSN,1945,American Association,,F22501,Gracey,,0,Columbus,,c25
+1946TSN,1945,American Association,,B03072,Haines,Alfred,0,Indianapolis,,B1
+1946TSN,1945,American Association,,P11316,Haines,Alfred,0,Indianapolis,,P1p
+1946TSN,1945,American Association,,B00059,Hart,William,0,St. Paul,,B38
+1946TSN,1945,American Association,,B03552,Hart,,0,St. Paul,,B38
+1946TSN,1945,American Association,,F20721,Hart,,0,St. Paul,,ss38
+1946TSN,1945,American Association,,B02982,Hazel,Albert,0,Indianapolis,,B1
+1946TSN,1945,American Association,,P11222,Hazel,Albert,0,Indianapolis,,P1p
+1946TSN,1945,American Association,,B00879,Hazen,Vaughn,0,Columbus,,B113
+1946TSN,1945,American Association,,B03700,Hazen,,0,Columbus,,B113
+1946TSN,1945,American Association,,F21293,Hazen,,0,Columbus,,of100
+1946TSN,1945,American Association,,B02215,Hearn,Richard,0,Minneapolis,,B21
+1946TSN,1945,American Association,,B05332,Hearn,,0,Minneapolis,,B21
+1946TSN,1945,American Association,,F21491,Hearn,,0,Minneapolis,,p21
+1946TSN,1945,American Association,,P10746,Hearn,,0,Minneapolis,,P21p
+1946TSN,1945,American Association,,P12105,Hearn,,0,Minneapolis,,p
+1946TSN,1945,American Association,,B02588,Heflin,Randolph,0,Louisville,,B9
+1946TSN,1945,American Association,,P10277,Heflin,,0,Louisville,,P8p
+1946TSN,1945,American Association,,P11832,Heflin,,0,Louisville,,p
+1946TSN,1945,American Association,,B02723,Held,Herschel,0,Louisville,,B5
+1946TSN,1945,American Association,,B01181,Heltzel,William,0,Indianapolis,,B142
+1946TSN,1945,American Association,,B03518,Heltzel,,0,Indianapolis,,B142
+1946TSN,1945,American Association,,F20759,Heltzel,,0,Indianapolis,,ss141
+1946TSN,1945,American Association,,B03080,Henderson,Irl,0,Kansas City,,B1
+1946TSN,1945,American Association,,P11298,Henderson,Irl,0,Kansas City,,P1p
+1946TSN,1945,American Association,,B01337,Hendrickson,Don,0,Milwaukee,,B18
+1946TSN,1945,American Association,,B04666,Hendrickson,,0,Milwaukee,,B18
+1946TSN,1945,American Association,,F21811,Hendrickson,,0,Milwaukee,,p18
+1946TSN,1945,American Association,,P10056,Hendrickson,,0,Milwaukee,,P18p
+1946TSN,1945,American Association,,P11539,Hendrickson,,0,Milwaukee,,p
+1946TSN,1945,American Association,,B03067,Hewette,Leroy,0,St. Paul,,B1
+1946TSN,1945,American Association,,P11303,Hewette,LeRoy,0,St. Paul,,P1p
+1946TSN,1945,American Association,,B00957,Howerton,William,0,Louisville,,B81
+1946TSN,1945,American Association,,B03745,Howerton,,0,Louisville,,B81
+1946TSN,1945,American Association,,F21343,Howerton,,0,Louisville,,of72
+1946TSN,1945,American Association,,B02795,Humphrey,Clyde,0,Toledo,,B4
+1946TSN,1945,American Association,,P10883,Humphrey,Clyde,0,Toledo,,P4p
+1946TSN,1945,American Association,,B01313,Huston,Warren,0,Columbus,,B84
+1946TSN,1945,American Association,,B03792,Huston,,0,Columbus,,B84
+1946TSN,1945,American Association,,F20190,Huston,,0,Columbus,,2b21
+1946TSN,1945,American Association,,F20518,Huston,,0,Columbus,,3b62
+1946TSN,1945,American Association,,B01918,Hutchinson,Ira,0,Indianapolis,,B11
+1946TSN,1945,American Association,,B05307,Hutchinson,,0,Indianapolis,,B11
+1946TSN,1945,American Association,,F22214,Hutchinson,,0,Indianapolis,,p11
+1946TSN,1945,American Association,,P10633,Hutchinson,,0,Indianapolis,,P11p
+1946TSN,1945,American Association,,P11943,Hutchinson,,0,Indianapolis,,p
+1946TSN,1945,American Association,,B00854,Ignasiak,Edwin,0,Toledo,,B147
+1946TSN,1945,American Association,,B03144,Ignasiak,,0,Toledo,,B147
+1946TSN,1945,American Association,,F20128,Ignasiak,,0,Toledo,,1b147
+1946TSN,1945,American Association,,B01885,Jackimchuk,Nick,0,Minneapolis,,B22
+1946TSN,1945,American Association,,B04941,Jackimchuk,,0,Minneapolis,,B22
+1946TSN,1945,American Association,,F20841,Jackimchuk,,0,Minneapolis,,ss22
+1946TSN,1945,American Association,,B02192,Jeffcoat,George,0,Indianapolis,,B29
+1946TSN,1945,American Association,,B04880,Jeffcoat,,0,Indianapolis,,B29
+1946TSN,1945,American Association,,F21936,Jeffcoat,,0,Indianapolis,,p29
+1946TSN,1945,American Association,,P10202,Jeffcoat,,0,Indianapolis,,P29p
+1946TSN,1945,American Association,,P11807,Jeffcoat,,0,Indianapolis,,p
+1946TSN,1945,American Association,,B02070,Jeric,Frank,0,Toledo,,B22
+1946TSN,1945,American Association,,B04716,Jeric,,0,Toledo,,B22
+1946TSN,1945,American Association,,B00278,Jiminez,Pedro,0,Indianapolis,,B47
+1946TSN,1945,American Association,,B04379,Jiminez,,0,Indianapolis,,B47
+1946TSN,1945,American Association,,F21672,Jiminez,,0,Indianapolis,,p39
+1946TSN,1945,American Association,,P10289,Jiminez,,0,Indianapolis,,P39p
+1946TSN,1945,American Association,,P11604,Jiminez,,0,Indianapolis,,p
+1946TSN,1945,American Association,,B02357,Kaiser,Albert,0,Toledo,,B9
+1946TSN,1945,American Association,,B01300,Kaney,Joseph,0,Louisville,,B17
+1946TSN,1945,American Association,,B04322,Kaney,,0,Louisville,,B17
+1946TSN,1945,American Association,,F20878,Kaney,,0,Louisville,,ss17
+1946TSN,1945,American Association,,B00973,Kash,Michael,0,Minneapolis,,B51
+1946TSN,1945,American Association,,B04545,Kash,,0,Minneapolis,,B51
+1946TSN,1945,American Association,,F22169,Kash,,0,Minneapolis,,p51
+1946TSN,1945,American Association,,P10665,Kash,,0,Minneapolis,,P51p
+1946TSN,1945,American Association,,P11458,Kash,,0,Minneapolis,,p
+1946TSN,1945,American Association,,B01275,Kaufman,George,0,Toledo,,B10
+1946TSN,1945,American Association,,B05422,Kaufman,,0,Toledo,,B10
+1946TSN,1945,American Association,,F21589,Kaufman,,0,Toledo,,p10
+1946TSN,1945,American Association,,P11014,Kaufman,George,0,Toledo,,P10p
+1946TSN,1945,American Association,,B01711,Kelly,Eugene,0,St. Paul,,B25
+1946TSN,1945,American Association,,B05238,Kelly,,0,St. Paul,,B25
+1946TSN,1945,American Association,,F22175,Kelly,,0,St. Paul,,p16
+1946TSN,1945,American Association,,P10081,Kelly,,0,St. Paul,,P16p
+1946TSN,1945,American Association,,B00335,Kimball,Leighton,0,St. Paul,,B148
+1946TSN,1945,American Association,,B03189,Kimball,,0,St. Paul,,B148
+1946TSN,1945,American Association,,F20547,Kimball,,0,St. Paul,,3b147
+1946TSN,1945,American Association,,B01663,Kimberlin,Harry,1,Toledo,,B22
+1946TSN,1945,American Association,,B01663,Kimberlin,Harry,2,Louisville,,B12
+1946TSN,1945,American Association,,B01663,Kimberlin,Harry,T,,,B34
+1946TSN,1945,American Association,,B04846,Kimberlin,,1,Toledo,,
+1946TSN,1945,American Association,,B04846,Kimberlin,,2,Louisville,,
+1946TSN,1945,American Association,,B04846,Kimberlin,,T,,,B34
+1946TSN,1945,American Association,,F22150,Kimberlin,,1,Toledo,,p
+1946TSN,1945,American Association,,F22150,Kimberlin,,2,Louisville,,p
+1946TSN,1945,American Association,,F22150,Kimberlin,,T,,,p34
+1946TSN,1945,American Association,,P10527,Kimberlin,,1,Toledo,,p
+1946TSN,1945,American Association,,P10527,Kimberlin,,2,Louisville,,p
+1946TSN,1945,American Association,,P10527,Kimberlin,,T,,,P34p
+1946TSN,1945,American Association,,P11841,Kimberlin,,1,Toledo,,p
+1946TSN,1945,American Association,,P11841,Kimberlin,,2,Louisville,,p
+1946TSN,1945,American Association,,P11841,Kimberlin,,T,,,p
+1946TSN,1945,American Association,,B00985,Kimble,Richard,0,Toledo,,B113
+1946TSN,1945,American Association,,B03449,Kimble,,0,Toledo,,B113
+1946TSN,1945,American Association,,F20745,Kimble,,0,Toledo,,ss107
+1946TSN,1945,American Association,,B01108,King,Lynn,0,Kansas City,,B135
+1946TSN,1945,American Association,,B03657,King,,0,Kansas City,,B135
+1946TSN,1945,American Association,,F21092,King,,0,Kansas City,,of132
+1946TSN,1945,American Association,,B01836,Knierim,Elwood,0,Toledo,,B40
+1946TSN,1945,American Association,,B05004,Knierim,,0,Toledo,,B40
+1946TSN,1945,American Association,,F22057,Knierim,,0,Toledo,,p37
+1946TSN,1945,American Association,,P10455,Knierim,,0,Toledo,,P37p
+1946TSN,1945,American Association,,P11673,Knierim,,0,Toledo,,p
+1946TSN,1945,American Association,,B02925,Knowles,Giles,0,Kansas City,,B4
+1946TSN,1945,American Association,,P11080,Knowles,Giles,0,Kansas City,,P4p
+1946TSN,1945,American Association,,B01820,Kobesky,Edward,0,Milwaukee,,B57
+1946TSN,1945,American Association,,B04105,Kobesky,,0,Milwaukee,,B57
+1946TSN,1945,American Association,,F21013,Kobesky,,0,Milwaukee,,of46
+1946TSN,1945,American Association,,B02818,Koch,Henry,0,Columbus,,B5
+1946TSN,1945,American Association,,P11046,Koch,Henry,0,Columbus,,P5p
+1946TSN,1945,American Association,,B00806,Koney,Charles,0,Louisville,,B139
+1946TSN,1945,American Association,,B03265,Koney,,0,Louisville,,B139
+1946TSN,1945,American Association,,F20350,Koney,,0,Louisville,,2b138
+1946TSN,1945,American Association,,B03115,Koraleski,Robert,0,Kansas City,,B1
+1946TSN,1945,American Association,,B00577,Kreevich,John,0,Kansas City,,B71
+1946TSN,1945,American Association,,B03784,Kreevich,,0,Kansas City,,B71
+1946TSN,1945,American Association,,F20970,Kreevich,,0,Kansas City,,of71
+1946TSN,1945,American Association,,B01490,Kresal,Elwood,0,Minneapolis,,B60
+1946TSN,1945,American Association,,B03768,Kresal,,0,Minneapolis,,B60
+1946TSN,1945,American Association,,F21381,Kresal,,0,Minneapolis,,of49
+1946TSN,1945,American Association,,B00101,LaForest,Byron,0,Louisville,,B91
+1946TSN,1945,American Association,,B03604,LaForest,,0,Louisville,,B91
+1946TSN,1945,American Association,,F20505,LaForest,,0,Louisville,,3b21
+1946TSN,1945,American Association,,F20807,LaForest,,0,Louisville,,ss14
+1946TSN,1945,American Association,,F21335,LaForest,,0,Louisville,,of42
+1946TSN,1945,American Association,,B01787,LaMacchia,Alfred,0,Toledo,,B24
+1946TSN,1945,American Association,,B04872,LaMacchia,,0,Toledo,,B24
+1946TSN,1945,American Association,,F22036,LaMacchia,,0,Toledo,,p18
+1946TSN,1945,American Association,,P10231,LaMacchia,,0,Toledo,,P18p
+1946TSN,1945,American Association,,P11594,LaMacchia,,0,Toledo,,p
+1946TSN,1945,American Association,,B00840,Lafata,Joseph,0,Minneapolis,,B146
+1946TSN,1945,American Association,,B03316,Lafata,,0,Minneapolis,,B146
+1946TSN,1945,American Association,,F20131,Lafata,,0,Minneapolis,,1b146
+1946TSN,1945,American Association,,B01939,Lanahan,Richard,0,St. Paul,,B37
+1946TSN,1945,American Association,,B04485,Lanahan,,0,St. Paul,,B37
+1946TSN,1945,American Association,,F21957,Lanahan,,0,St. Paul,,p37
+1946TSN,1945,American Association,,P10253,Lanahan,,0,St. Paul,,P37p
+1946TSN,1945,American Association,,P11737,Lanahan,,0,St. Paul,,p
+1946TSN,1945,American Association,,B00232,Lancellotti,Luco,0,Columbus,,B29
+1946TSN,1945,American Association,,B03970,Lancellotti,,0,Columbus,,B29
+1946TSN,1945,American Association,,F20594,Lancellotti,,0,Columbus,,3b28
+1946TSN,1945,American Association,,B01601,Lanfersieck,Edward,0,Toledo,,B40
+1946TSN,1945,American Association,,B04074,Lanfersieck,,0,Toledo,,B40
+1946TSN,1945,American Association,,F20636,Lanfersieck,,0,Toledo,,3b32
+1946TSN,1945,American Association,,B02847,Langworthy,Joseph,0,Louisville,,B1
+1946TSN,1945,American Association,,B01722,Lawson,Elwood,0,Louisville,,B33
+1946TSN,1945,American Association,,B04584,Lawson,,0,Louisville,,B33
+1946TSN,1945,American Association,,F22012,Lawson,,0,Louisville,,p33
+1946TSN,1945,American Association,,P10373,Lawson,,0,Louisville,,P33p
+1946TSN,1945,American Association,,P12017,Lawson,,0,Louisville,,p
+1946TSN,1945,American Association,,B01572,Lehrman,Arnold,0,Minneapolis,,B44
+1946TSN,1945,American Association,,B04219,Lehrman,,0,Minneapolis,,B44
+1946TSN,1945,American Association,,F20792,Lehrman,,0,Minneapolis,,ss43
+emilbb,1945,American Association,,M90039,Leibold,Nemo,,Louisville,,
+1946TSN,1945,American Association,,B01250,Leon,Isidoro,0,Minneapolis,,B19
+1946TSN,1945,American Association,,B04690,Leon,,0,Minneapolis,,B19
+1946TSN,1945,American Association,,F22191,Leon,,0,Minneapolis,,p16
+1946TSN,1945,American Association,,P10493,Leon,,0,Minneapolis,,P16p
+1946TSN,1945,American Association,,P11685,Leon,,0,Minneapolis,,p
+1946TSN,1945,American Association,,B00589,Lewis,William,0,St. Paul,,B90
+1946TSN,1945,American Association,,B03807,Lewis,,0,St. Paul,,B90
+1946TSN,1945,American Association,,F22406,Lewis,,0,St. Paul,,c74
+1946TSN,1945,American Association,,P10795,Lilienthal,Leonard,0,Minneapolis,,P4p
+1946TSN,1945,American Association,,B02373,Lillienthal,Leonard,0,Minneapolis,,B4
+1946TSN,1945,American Association,,B01733,Lindquist,Carl,0,Milwaukee,,B24
+1946TSN,1945,American Association,,B04311,Lindquist,,0,Milwaukee,,B24
+1946TSN,1945,American Association,,F21469,Lindquist,,0,Milwaukee,,p24
+1946TSN,1945,American Association,,P10698,Lindquist,,0,Milwaukee,,P24p
+1946TSN,1945,American Association,,P11496,Lindquist,,0,Milwaukee,,p
+1946TSN,1945,American Association,,B02113,Lippold,Gregory,0,Minneapolis,,B15
+1946TSN,1945,American Association,,B05364,Lippold,,0,Minneapolis,,B15
+1946TSN,1945,American Association,,F22004,Lippold,,0,Minneapolis,,p15
+1946TSN,1945,American Association,,P10772,Lippold,,0,Minneapolis,,P15p
+1946TSN,1945,American Association,,B01078,Lipscomb,Gerald,0,Louisville,,B40
+1946TSN,1945,American Association,,B04235,Lipscomb,,0,Louisville,,B40
+1946TSN,1945,American Association,,F20463,Lipscomb,,0,Louisville,,3b10
+1946TSN,1945,American Association,,B02516,Logan,Robert,0,Indianapolis,,B4
+1946TSN,1945,American Association,,P10860,Logan,Robert,0,Indianapolis,,P4p
+1946TSN,1945,American Association,,P12096,Logan,,0,Indianapolis,,p
+1946TSN,1945,American Association,,B01227,Lopatka,Arthur,0,Columbus,,B33
+1946TSN,1945,American Association,,B04354,Lopatka,,0,Columbus,,B33
+1946TSN,1945,American Association,,F22085,Lopatka,,0,Columbus,,p30
+1946TSN,1945,American Association,,P10640,Lopatka,,0,Columbus,,P30p
+1946TSN,1945,American Association,,P11518,Lopatka,,0,Columbus,,p
+1946TSN,1945,American Association,,B00174,Lowery,Milton,0,Columbus,,B18
+1946TSN,1945,American Association,,B04955,Lowery,,0,Columbus,,B18
+1946TSN,1945,American Association,,F21623,Lowery,,0,Columbus,,p13
+1946TSN,1945,American Association,,P10847,Lowery,Milton,0,Columbus,,P14p
+1946TSN,1945,American Association,,B01428,Lucier,Louis,0,Minneapolis,,B33
+1946TSN,1945,American Association,,B04602,Lucier,,0,Minneapolis,,B33
+1946TSN,1945,American Association,,F21442,Lucier,,0,Minneapolis,,p22
+1946TSN,1945,American Association,,P10687,Lucier,,0,Minneapolis,,P22p
+1946TSN,1945,American Association,,P11657,Lucier,,0,Minneapolis,,p
+1946TSN,1945,American Association,,B01010,Lund,Donald,0,St. Paul,,B72
+1946TSN,1945,American Association,,B02901,Lund,John,0,Louisville,,B4
+1946TSN,1945,American Association,,B03810,Lund,,0,St. Paul,,B72
+1946TSN,1945,American Association,,F21241,Lund,,0,St. Paul,,of70
+1946TSN,1945,American Association,,P11067,Lund,John,0,Louisville,,P4p
+1946TSN,1945,American Association,,B01119,Lyon,Russell,1,Indianapolis,,B25
+1946TSN,1945,American Association,,B01119,Lyon,Russell,2,Toledo,,B67
+1946TSN,1945,American Association,,B01119,Lyon,Russell,T,,,B92
+1946TSN,1945,American Association,,B03673,Lyon,,1,Indianapolis,,
+1946TSN,1945,American Association,,B03673,Lyon,,2,Toledo,,
+1946TSN,1945,American Association,,B03673,Lyon,,T,,,B92
+1946TSN,1945,American Association,,F22332,Lyon,,1,Indianapolis,,c
+1946TSN,1945,American Association,,F22332,Lyon,,2,Toledo,,c
+1946TSN,1945,American Association,,F22332,Lyon,,T,,,c73
+1946TSN,1945,American Association,,B00158,Mack,Joseph,0,Indianapolis,,B80
+1946TSN,1945,American Association,,B03560,Mack,,0,Indianapolis,,B80
+1946TSN,1945,American Association,,F20115,Mack,,0,Indianapolis,,1b80
+1946TSN,1945,American Association,,B02871,Mahnen,John,0,Kansas City,,B1
+1946TSN,1945,American Association,,P11211,Mahnen,John,0,Kansas City,,P1p
+1946TSN,1945,American Association,,B02081,Mains,James,0,Toledo,,B37
+1946TSN,1945,American Association,,B05272,Mains,,0,Toledo,,B37
+1946TSN,1945,American Association,,F22127,Mains,,0,Toledo,,p36
+1946TSN,1945,American Association,,P10113,Mains,,0,Toledo,,P36p
+1946TSN,1945,American Association,,P11981,Mains,,0,Toledo,,p
+1946TSN,1945,American Association,,B01509,Males,Victor,1,Louisville,,B11
+1946TSN,1945,American Association,,B01509,Males,Victor,2,Minneapolis,,B126
+1946TSN,1945,American Association,,B01509,Males,Victor,T,,,B137
+1946TSN,1945,American Association,,B03505,Males,,1,Louisville,,
+1946TSN,1945,American Association,,B03505,Males,,2,Minneapolis,,
+1946TSN,1945,American Association,,B03505,Males,,T,,,B137
+1946TSN,1945,American Association,,F20334,Males,,1,Louisville,,2b
+1946TSN,1945,American Association,,F20334,Males,,2,Minneapolis,,2b
+1946TSN,1945,American Association,,F20334,Males,,T,,,2b14
+1946TSN,1945,American Association,,F20482,Males,,1,Louisville,,3b
+1946TSN,1945,American Association,,F20482,Males,,2,Minneapolis,,3b
+1946TSN,1945,American Association,,F20482,Males,,T,,,3b18
+1946TSN,1945,American Association,,F20737,Males,,1,Louisville,,ss
+1946TSN,1945,American Association,,F20737,Males,,2,Minneapolis,,ss
+1946TSN,1945,American Association,,F20737,Males,,T,,,ss98
+1946TSN,1945,American Association,,F20935,Males,,1,Louisville,,of
+1946TSN,1945,American Association,,F20935,Males,,2,Minneapolis,,of
+1946TSN,1945,American Association,,F20935,Males,,T,,,of10
+1946TSN,1945,American Association,,B00771,Mallory,James,0,Columbus,,B16
+1946TSN,1945,American Association,,B05267,Mallory,,0,Columbus,,B16
+1946TSN,1945,American Association,,F20924,Mallory,,0,Columbus,,of16
+1946TSN,1945,American Association,,B01162,Marion,John,1,St. Paul,,B68
+1946TSN,1945,American Association,,B01162,Marion,John,2,Louisville,,B48
+1946TSN,1945,American Association,,B01162,Marion,John,T,,,B116
+1946TSN,1945,American Association,,B03583,Marion,,1,St. Paul,,
+1946TSN,1945,American Association,,B03583,Marion,,2,Louisville,,
+1946TSN,1945,American Association,,B03583,Marion,,T,,,B116
+1946TSN,1945,American Association,,F21319,Marion,,1,St. Paul,,of
+1946TSN,1945,American Association,,F21319,Marion,,2,Louisville,,of
+1946TSN,1945,American Association,,F21319,Marion,,T,,,of103
+1946TSN,1945,American Association,,B02304,Marleau,Edward,0,Kansas City,,B30
+1946TSN,1945,American Association,,B05406,Marleau,,0,Kansas City,,B30
+1946TSN,1945,American Association,,F21577,Marleau,,0,Kansas City,,p30
+1946TSN,1945,American Association,,P10192,Marleau,,0,Kansas City,,P30p
+emilbb,1945,American Association,,M90060,Marquardt,Ollie,,Toledo,,
+1946TSN,1945,American Association,,B01007,Marshall,Clarence,0,Kansas City,,B42
+1946TSN,1945,American Association,,B04775,Marshall,,0,Kansas City,,B42
+1946TSN,1945,American Association,,F22267,Marshall,,0,Kansas City,,p39
+1946TSN,1945,American Association,,P10478,Marshall,,0,Kansas City,,P39p
+1946TSN,1945,American Association,,P11342,Marshall,,0,Kansas City,,p
+1946TSN,1945,American Association,,B02687,Martignetti,Felix,0,Milwaukee,,B7
+1946TSN,1945,American Association,,B02441,Martin,Boris,0,Toledo,,B9
+1946TSN,1945,American Association,,B02527,Martin,Frank,1,Columbus,,B3
+1946TSN,1945,American Association,,B02527,Martin,Frank,2,Milwaukee,,B2
+1946TSN,1945,American Association,,B02527,Martin,Frank,T,,,B5
+1946TSN,1945,American Association,,B05175,Martin,A.,0,Kansas City,,B18
+1946TSN,1945,American Association,,P10336,Martin,,0,Kansas City,,P14p
+1946TSN,1945,American Association,,P11908,Martin,,0,Kansas City,,p
+1946TSN,1945,American Association,,B01706,Martin (Mustaikis),Alex,0,Kansas City,,B18
+1946TSN,1945,American Association,,F21961,Martin (Mustaikis),A.,0,Kansas City,,p14
+1946TSN,1945,American Association,,B02486,Massalsky,William,0,Toledo,,B4
+1946TSN,1945,American Association,,B02826,Matthews,Robert,0,Columbus,,B2
+1946TSN,1945,American Association,,P11131,Matthews,Robert,0,Columbus,,P4p
+1946TSN,1945,American Association,,B02184,Mauer,Kenneth,0,St. Paul,,B16
+1946TSN,1945,American Association,,B04823,Mauer,,0,St. Paul,,B16
+1946TSN,1945,American Association,,B01779,Maulini,Tomas,0,Minneapolis,,B24
+1946TSN,1945,American Association,,B04521,Maulini,,0,Minneapolis,,B24
+1946TSN,1945,American Association,,F21117,Maulini,,0,Minneapolis,,of22
+1946TSN,1945,American Association,,B00229,Mazar,Peter,0,Columbus,,B37
+1946TSN,1945,American Association,,B04628,Mazar,,0,Columbus,,B37
+1946TSN,1945,American Association,,F22188,Mazar,,0,Columbus,,p35
+1946TSN,1945,American Association,,P10304,Mazar,,0,Columbus,,P35p
+1946TSN,1945,American Association,,P11552,Mazar,,0,Columbus,,p
+1946TSN,1945,American Association,,B01143,Mazurek,Anthony,0,Milwaukee,,B12
+1946TSN,1945,American Association,,B05191,Mazurek,,0,Milwaukee,,B12
+1946TSN,1945,American Association,,B00013,McGillen,John,0,Milwaukee,,B13
+1946TSN,1945,American Association,,B05386,McGillen,,0,Milwaukee,,B13
+1946TSN,1945,American Association,,F21590,McGillen,,0,Milwaukee,,p12
+1946TSN,1945,American Association,,P10852,McGillen,John,0,Milwaukee,,P12p
+1946TSN,1945,American Association,,P12074,McGillen,,0,Milwaukee,,p
+1946TSN,1945,American Association,,B02361,McKenna,Christopher,0,Kansas City,,B4
+1946TSN,1945,American Association,,B00865,McLain,Jack,0,Columbus,,B137
+1946TSN,1945,American Association,,B03401,McLain,,0,Columbus,,B137
+1946TSN,1945,American Association,,F20023,McLain,,0,Columbus,,1b15
+1946TSN,1945,American Association,,F21196,McLain,,0,Columbus,,of122
+1946TSN,1945,American Association,,B00021,Meriwether,Conklyn,0,Columbus,,B15
+1946TSN,1945,American Association,,B04644,Meriwether,,0,Columbus,,B15
+1946TSN,1945,American Association,,P11023,Meriwether,Conklyn,0,Columbus,,P6p
+1946TSN,1945,American Association,,B00092,Meyers,Otto,0,Kansas City,,B19
+1946TSN,1945,American Association,,B04412,Meyers,,0,Kansas City,,B19
+1946TSN,1945,American Association,,F21286,Meyers,,0,Kansas City,,of14
+1946TSN,1945,American Association,,B00491,Miller,John,0,Toledo,,B25
+1946TSN,1945,American Association,,B02062,Miller,Jack,0,St. Paul,,B10
+1946TSN,1945,American Association,,B04139,Miller,John,0,Toledo,,B25
+1946TSN,1945,American Association,,B05411,Miller,Jack,0,St. Paul,,B10
+1946TSN,1945,American Association,,F21638,Miller,Jack,0,St. Paul,,p10
+1946TSN,1945,American Association,,F21898,Miller,John,0,Toledo,,p17
+1946TSN,1945,American Association,,P10361,Miller,John,0,Toledo,,P17p
+1946TSN,1945,American Association,,P10871,Miller,Jack,0,St. Paul,,P10p
+1946TSN,1945,American Association,,P11474,Miller,John,0,Toledo,,p
+1946TSN,1945,American Association,,B01595,Millies,Walter,0,Louisville,,B50
+1946TSN,1945,American Association,,B04208,Millies,,0,Louisville,,B50
+1946TSN,1945,American Association,,F22498,Millies,,0,Louisville,,c42
+1946TSN,1945,American Association,,B00904,Missler,Walter,0,Toledo,,B38
+1946TSN,1945,American Association,,B04387,Missler,,0,Toledo,,B38
+1946TSN,1945,American Association,,F22378,Missler,,0,Toledo,,c31
+1946TSN,1945,American Association,,B01674,Mistele,Robert,1,Milwaukee,,B7
+1946TSN,1945,American Association,,B01674,Mistele,Robert,2,Minneapolis,,B18
+1946TSN,1945,American Association,,B01674,Mistele,Robert,T,,,B25
+1946TSN,1945,American Association,,B04907,Mistele,,1,Milwaukee,,
+1946TSN,1945,American Association,,B04907,Mistele,,2,Minneapolis,,
+1946TSN,1945,American Association,,B04907,Mistele,,T,,,B25
+1946TSN,1945,American Association,,F22116,Mistele,,1,Milwaukee,,p
+1946TSN,1945,American Association,,F22116,Mistele,,2,Minneapolis,,p
+1946TSN,1945,American Association,,F22116,Mistele,,T,,,p25
+1946TSN,1945,American Association,,P10738,Mistele,,1,Milwaukee,,P7p
+1946TSN,1945,American Association,,P10738,Mistele,,2,Minneapolis,,P18p
+1946TSN,1945,American Association,,P10738,Mistele,,T,,,P25p
+1946TSN,1945,American Association,,P11886,Mistele,,1,Milwaukee,,p
+1946TSN,1945,American Association,,P11886,Mistele,,2,Minneapolis,,p
+1946TSN,1945,American Association,,P11886,Mistele,,T,,,p
+1946TSN,1945,American Association,,B02963,Molyneaux,William,0,Louisville,,B1
+1946TSN,1945,American Association,,B02145,Moore,John I.,0,Kansas City,,B28
+1946TSN,1945,American Association,,B05020,Moore,,0,Kansas City,,B28
+1946TSN,1945,American Association,,F21450,Moore,,0,Kansas City,,p27
+1946TSN,1945,American Association,,P10654,Moore,,0,Kansas City,,P27p
+1946TSN,1945,American Association,,P11810,Moore,,0,Kansas City,,p
+1946TSN,1945,American Association,,B02611,Morel,Bernard,0,Minneapolis,,B9
+1946TSN,1945,American Association,,P10826,Morel,Bernard,0,Minneapolis,,P9p
+1946TSN,1945,American Association,,B00999,Morgan,Edwin,1,Indianapolis,,B22
+1946TSN,1945,American Association,,B00999,Morgan,Edwin,2,Minneapolis,,B55
+1946TSN,1945,American Association,,B00999,Morgan,Edwin,T,,,B77
+1946TSN,1945,American Association,,B03908,Morgan,,1,Indianapolis,,
+1946TSN,1945,American Association,,B03908,Morgan,,2,Minneapolis,,
+1946TSN,1945,American Association,,B03908,Morgan,,T,,,B77
+1946TSN,1945,American Association,,F20177,Morgan,,1,Indianapolis,,1b
+1946TSN,1945,American Association,,F20177,Morgan,,2,Minneapolis,,1b
+1946TSN,1945,American Association,,F20177,Morgan,,T,,,1b10
+1946TSN,1945,American Association,,F21397,Morgan,,1,Indianapolis,,of
+1946TSN,1945,American Association,,F21397,Morgan,,2,Minneapolis,,of
+1946TSN,1945,American Association,,F21397,Morgan,,T,,,of57
+1946TSN,1945,American Association,,B01960,Musser,Roy,0,Kansas City,,B30
+1946TSN,1945,American Association,,B04398,Musser,,0,Kansas City,,B30
+1946TSN,1945,American Association,,F21163,Musser,,0,Kansas City,,of29
+1946TSN,1945,American Association,,B00308,Nance,Eugene,0,Milwaukee,,B152
+1946TSN,1945,American Association,,B03128,Nance,,0,Milwaukee,,B152
+1946TSN,1945,American Association,,F20496,Nance,,0,Milwaukee,,3b151
+1946TSN,1945,American Association,,B01170,Narron,Sam,0,St. Paul,,B90
+1946TSN,1945,American Association,,B03417,Narron,,0,St. Paul,,B90
+1946TSN,1945,American Association,,F22295,Narron,,0,St. Paul,,c78
+1946TSN,1945,American Association,,B01682,Nitcholas,Otho,0,St. Paul,,B23
+1946TSN,1945,American Association,,B04473,Nitcholas,,0,St. Paul,,B23
+1946TSN,1945,American Association,,F21920,Nitcholas,,0,St. Paul,,p22
+1946TSN,1945,American Association,,P10062,Nitcholas,,0,St. Paul,,P22p
+1946TSN,1945,American Association,,P11425,Nitcholas,,0,St. Paul,,p
+1946TSN,1945,American Association,,B01376,Norman,Willis,0,Milwaukee,,B53
+1946TSN,1945,American Association,,B04224,Norman,,0,Milwaukee,,B53
+1946TSN,1945,American Association,,F20981,Norman,,0,Milwaukee,,of49
+1946TSN,1945,American Association,,B00149,Nowak,Walter,0,Kansas City,,B116
+1946TSN,1945,American Association,,B00196,Nowak,Henry,0,Minneapolis,,B150
+1946TSN,1945,American Association,,B03233,Nowak,W.,0,Kansas City,,B116
+1946TSN,1945,American Association,,B03279,Nowak,H.,0,Minneapolis,,B150
+1946TSN,1945,American Association,,F20095,Nowak,W.,0,Kansas City,,1b98
+1946TSN,1945,American Association,,F21158,Nowak,H.,0,Minneapolis,,of148
+1946TSN,1945,American Association,,F21403,Nowak,W.,0,Kansas City,,of20
+1946TSN,1945,American Association,,B02917,Odom,David,0,Indianapolis,,B4
+1946TSN,1945,American Association,,P11153,Odom,David,0,Indianapolis,,P4p
+1946TSN,1945,American Association,,B00752,Okrie,Robert,0,Toledo,,B100
+1946TSN,1945,American Association,,B03893,Okrie,,0,Toledo,,B100
+1946TSN,1945,American Association,,F21362,Okrie,,0,Toledo,,of77
+1946TSN,1945,American Association,,B00084,Orphal,John,0,Kansas City,,B14
+1946TSN,1945,American Association,,B04677,Orphal,,0,Kansas City,,B14
+1946TSN,1945,American Association,,F21515,Orphal,,0,Kansas City,,p14
+1946TSN,1945,American Association,,P10432,Orphal,,0,Kansas City,,P14p
+1946TSN,1945,American Association,,P11612,Orphal,,0,Kansas City,,p
+1946TSN,1945,American Association,,B00531,Ostrowski,John,0,Kansas City,,B144
+1946TSN,1945,American Association,,B03153,Ostrowski,,0,Kansas City,,B144
+1946TSN,1945,American Association,,F20539,Ostrowski,,0,Kansas City,,3b134
+1946TSN,1945,American Association,,F20713,Ostrowski,,0,Kansas City,,ss14
+1946TSN,1945,American Association,,B02464,Pack,Frank,0,Toledo,,B3
+1946TSN,1945,American Association,,B00961,Padden,Thomas,0,Milwaukee,,B24
+1946TSN,1945,American Association,,B04436,Padden,,0,Milwaukee,,B24
+1946TSN,1945,American Association,,F22433,Padden,,0,Milwaukee,,c24
+1946TSN,1945,American Association,,B00416,Parks,Arthur,0,Indianapolis,,B138
+1946TSN,1945,American Association,,B03327,Parks,,0,Indianapolis,,B138
+1946TSN,1945,American Association,,F21149,Parks,,0,Indianapolis,,of133
+1946TSN,1945,American Association,,B02503,Partenheimer,Stanwood,0,Columbus,,B6
+1946TSN,1945,American Association,,P10917,Partenheimer,Stanwood,0,Columbus,,P6p
+1946TSN,1945,American Association,,P12118,Partenheimer,,0,Columbus,,p
+1946TSN,1945,American Association,,B00672,Passero,Joseph,0,Kansas City,,B49
+1946TSN,1945,American Association,,B03997,Passero,,0,Kansas City,,B49
+1946TSN,1945,American Association,,F21324,Passero,,0,Kansas City,,of42
+1946TSN,1945,American Association,,B02228,Patton,Ray,0,Louisville,,B15
+1946TSN,1945,American Association,,B05134,Patton,,0,Louisville,,B15
+1946TSN,1945,American Association,,F22272,Patton,,0,Louisville,,p14
+1946TSN,1945,American Association,,P10723,Patton,,0,Louisville,,P14p
+1946TSN,1945,American Association,,P12139,Patton,,0,Louisville,,p
+1946TSN,1945,American Association,,B01625,Pavlick,John,0,Toledo,,B12
+1946TSN,1945,American Association,,B04814,Pavlick,,0,Toledo,,B12
+1946TSN,1945,American Association,,F21553,Pavlick,,0,Toledo,,p10
+1946TSN,1945,American Association,,P10588,Pavlick,,0,Toledo,,P10p
+1946TSN,1945,American Association,,P11792,Pavlick,,0,Toledo,,p
+1946TSN,1945,American Association,,B02738,Peffer,Chauncey,0,Columbus,,B7
+1946TSN,1945,American Association,,P10958,Peffer,Chauncey,0,Columbus,,P7p
+1946TSN,1945,American Association,,B02202,Pepper,Fred,0,Kansas City,,B14
+1946TSN,1945,American Association,,B05188,Pepper,,0,Kansas City,,B14
+1946TSN,1945,American Association,,F21747,Pepper,,0,Kansas City,,p13
+1946TSN,1945,American Association,,P10429,Pepper,,0,Kansas City,,P13p
+1946TSN,1945,American Association,,P11864,Pepper,,0,Kansas City,,p
+1946TSN,1945,American Association,,B02289,Peterson,Sidney,0,Toledo,,B13
+1946TSN,1945,American Association,,B05099,Peterson,,0,Toledo,,B13
+1946TSN,1945,American Association,,F21614,Peterson,,0,Toledo,,p13
+1946TSN,1945,American Association,,P10901,Peterson,Sidney,0,Toledo,,P13p
+1946TSN,1945,American Association,,P11962,Peterson,,0,Toledo,,p
+1946TSN,1945,American Association,,B02780,Pfennig,Theodore,0,Kansas City,,B6
+1946TSN,1945,American Association,,P11038,Pfennig,Theodore,0,Kansas City,,P6p
+1946TSN,1945,American Association,,B01032,Picciuto,Nicholas,0,Minneapolis,,B99
+1946TSN,1945,American Association,,B03648,Picciuto,,0,Minneapolis,,B99
+1946TSN,1945,American Association,,F20604,Picciuto,,0,Minneapolis,,3b98
+1946TSN,1945,American Association,,B02633,Piet,Frank,0,Louisville,,B3
+1946TSN,1945,American Association,,B00163,Pike,Jess,0,Indianapolis,,B22
+1946TSN,1945,American Association,,B04118,Pike,,0,Indianapolis,,B22
+1946TSN,1945,American Association,,F21255,Pike,,0,Indianapolis,,of20
+1946TSN,1945,American Association,,B01345,Platek,Stanley,0,St. Paul,,B60
+1946TSN,1945,American Association,,B03956,Platek,,0,St. Paul,,B60
+1946TSN,1945,American Association,,F20893,Platek,,0,St. Paul,,of51
+1946TSN,1945,American Association,,B00370,Polly,Nick,1,Louisville,,B64
+1946TSN,1945,American Association,,B00370,Polly,Nick,2,Toledo,,B54
+1946TSN,1945,American Association,,B00370,Polly,Nick,T,,,B118
+1946TSN,1945,American Association,,B03350,Polly,,1,Louisville,,
+1946TSN,1945,American Association,,B03350,Polly,,2,Toledo,,
+1946TSN,1945,American Association,,B03350,Polly,,T,,,B118
+1946TSN,1945,American Association,,F20620,Polly,,1,Louisville,,3b
+1946TSN,1945,American Association,,F20620,Polly,,2,Toledo,,3b
+1946TSN,1945,American Association,,F20620,Polly,,T,,,3b79
+1946TSN,1945,American Association,,F21308,Polly,,1,Louisville,,of
+1946TSN,1945,American Association,,F21308,Polly,,2,Toledo,,of
+1946TSN,1945,American Association,,F21308,Polly,,T,,,of33
+1946TSN,1945,American Association,,B02097,Powaski,Frank,0,St. Paul,,B16
+1946TSN,1945,American Association,,B04867,Powaski,,0,St. Paul,,B16
+1946TSN,1945,American Association,,F20956,Powaski,,0,St. Paul,,of10
+1946TSN,1945,American Association,,B03051,Powell,Roger,0,Toledo,,B2
+1946TSN,1945,American Association,,P11287,Powell,Roger,0,Toledo,,P1p
+1946TSN,1945,American Association,,B01804,Pratt,George,0,Columbus,,B28
+1946TSN,1945,American Association,,B04256,Pratt,,0,Columbus,,B28
+1946TSN,1945,American Association,,F22479,Pratt,,0,Columbus,,c16
+1946TSN,1945,American Association,,B00566,Price,John,1,Columbus,,B29
+1946TSN,1945,American Association,,B00566,Price,John,2,Milwaukee,,B41
+1946TSN,1945,American Association,,B00566,Price,John,T,,,B70
+1946TSN,1945,American Association,,B04030,Price,,1,Columbus,,
+1946TSN,1945,American Association,,B04030,Price,,2,Milwaukee,,
+1946TSN,1945,American Association,,B04030,Price,,T,,,B70
+1946TSN,1945,American Association,,F20552,Price,,1,Columbus,,3b
+1946TSN,1945,American Association,,F20552,Price,,2,Milwaukee,,3b
+1946TSN,1945,American Association,,F20552,Price,,T,,,3b26
+1946TSN,1945,American Association,,F20673,Price,,1,Columbus,,ss
+1946TSN,1945,American Association,,F20673,Price,,2,Milwaukee,,ss
+1946TSN,1945,American Association,,F20673,Price,,T,,,ss40
+1946TSN,1945,American Association,,P11265,Price,John,0,Milwaukee,,P1p
+1946TSN,1945,American Association,,B01392,Pringle,Gale,0,Kansas City,,B39
+1946TSN,1945,American Association,,B04281,Pringle,,0,Kansas City,,B39
+1946TSN,1945,American Association,,F21865,Pringle,,0,Kansas City,,p38
+1946TSN,1945,American Association,,P10244,Pringle,,0,Kansas City,,P38p
+1946TSN,1945,American Association,,P11648,Pringle,,0,Kansas City,,p
+1946TSN,1945,American Association,,B00475,Prunczik,Peter,0,Columbus,,B10
+1946TSN,1945,American Association,,B04986,Prunczik,,0,Columbus,,B10
+1946TSN,1945,American Association,,B00718,Pyle,Ewald,0,Milwaukee,,B15
+1946TSN,1945,American Association,,B05246,Pyle,,0,Milwaukee,,B15
+1946TSN,1945,American Association,,F21475,Pyle,,0,Milwaukee,,p15
+1946TSN,1945,American Association,,P10516,Pyle,,0,Milwaukee,,P15p
+1946TSN,1945,American Association,,P11620,Pyle,,0,Milwaukee,,p
+1946TSN,1945,American Association,,B02852,Radmer,Martin,0,St. Paul,,B1
+1946TSN,1945,American Association,,B00241,Rebel,Arthur,0,Columbus,,B94
+1946TSN,1945,American Association,,B03287,Rebel,,0,Columbus,,B94
+1946TSN,1945,American Association,,F21076,Rebel,,0,Columbus,,of93
+1946TSN,1945,American Association,,B00319,Reinhart,Fred,0,Toledo,,B138
+1946TSN,1945,American Association,,B03425,Reinhart,,0,Toledo,,B138
+1946TSN,1945,American Association,,F21207,Reinhart,,0,Toledo,,of138
+1946TSN,1945,American Association,,B01359,Rhawn,Robert,0,Columbus,,B32
+1946TSN,1945,American Association,,B04194,Rhawn,,0,Columbus,,B32
+1946TSN,1945,American Association,,F20583,Rhawn,,0,Columbus,,3b19
+1946TSN,1945,American Association,,F20661,Rhawn,,0,Columbus,,ss11
+1946TSN,1945,American Association,,B01269,Rich,Woodrow,0,Indianapolis,,B18
+1946TSN,1945,American Association,,B05295,Rich,,0,Indianapolis,,B18
+1946TSN,1945,American Association,,F22048,Rich,,0,Indianapolis,,p18
+1946TSN,1945,American Association,,P10575,Rich,,0,Indianapolis,,P18p
+1946TSN,1945,American Association,,P11956,Rich,,0,Indianapolis,,p
+1946TSN,1945,American Association,,B01857,Rider,Vernon,0,Columbus,,B39
+1946TSN,1945,American Association,,B04448,Rider,,0,Columbus,,B39
+1946TSN,1945,American Association,,F21229,Rider,,0,Columbus,,of30
+1946TSN,1945,American Association,,B02534,Riley,Patrick,0,St. Paul,,B3
+1946TSN,1945,American Association,,B02698,Roberts,Charles,0,Louisville,,B5
+1946TSN,1945,American Association,,B02008,Root,Charles,0,Columbus,,B22
+1946TSN,1945,American Association,,B05223,Root,,0,Columbus,,B22
+1946TSN,1945,American Association,,F22103,Root,,0,Columbus,,p22
+1946TSN,1945,American Association,,P10043,Root,,0,Columbus,,P22p
+1946TSN,1945,American Association,,P11401,Root,,0,Columbus,,p
+emilbb,1945,American Association,,M90083,Root,Charley,,Columbus,,
+1946TSN,1945,American Association,,B02751,Roscoe,Michael,0,Indianapolis,,B5
+1946TSN,1945,American Association,,P10974,Roscoe,Michael,0,Indianapolis,,P5p
+1946TSN,1945,American Association,,P12063,Roscoe,,0,Indianapolis,,p
+1946TSN,1945,American Association,,B00488,Rosenthal,Lawrence J.,0,Milwaukee,,B74
+1946TSN,1945,American Association,,B03636,Rosenthal,,0,Milwaukee,,B74
+1946TSN,1945,American Association,,F21356,Rosenthal,,0,Milwaukee,,of74
+1946TSN,1945,American Association,,B03046,Roxbury,Joseph,0,Milwaukee,,B2
+1946TSN,1945,American Association,,P11279,Roxbury,Joseph,0,Milwaukee,,P2p
+1946TSN,1945,American Association,,B02121,Rudolph,Ernest,0,St. Paul,,B15
+1946TSN,1945,American Association,,B05310,Rudolph,,0,St. Paul,,B15
+1946TSN,1945,American Association,,F21544,Rudolph,,0,St. Paul,,p15
+1946TSN,1945,American Association,,P10569,Rudolph,,0,St. Paul,,P15p
+1946TSN,1945,American Association,,P11878,Rudolph,,0,St. Paul,,p
+1946TSN,1945,American Association,,B00609,Ruiz,Juan,0,Minneapolis,,B24
+1946TSN,1945,American Association,,B04788,Ruiz,,0,Minneapolis,,B24
+1946TSN,1945,American Association,,F20648,Ruiz,,0,Minneapolis,,3b18
+1946TSN,1945,American Association,,B00739,Rullo,Joseph,0,Milwaukee,,B123
+1946TSN,1945,American Association,,B03547,Rullo,,0,Milwaukee,,B123
+1946TSN,1945,American Association,,F20327,Rullo,,0,Milwaukee,,2b116
+emilbb,1945,American Association,,M90052,Ryan,"Wilfred ""Rosy""",,Minneapolis,,
+1946TSN,1945,American Association,,B00210,Sabol,Anthony,0,Kansas City,,B72
+1946TSN,1945,American Association,,B03620,Sabol,,0,Kansas City,,B72
+1946TSN,1945,American Association,,F20391,Sabol,,0,Kansas City,,2b35
+1946TSN,1945,American Association,,F21264,Sabol,,0,Kansas City,,of33
+1946TSN,1945,American Association,,B01135,Saltzgaver,Jack,0,Kansas City,,B11
+1946TSN,1945,American Association,,B04576,Saltzgaver,,0,Kansas City,,B11
+1946TSN,1945,American Association,,B00528,Savino,George,1,Louisville,,B23
+1946TSN,1945,American Association,,B00528,Savino,George,2,Minneapolis,,B83
+1946TSN,1945,American Association,,B00528,Savino,George,T,,,B106
+1946TSN,1945,American Association,,B03375,Savino,,1,Louisville,,
+1946TSN,1945,American Association,,B03375,Savino,,2,Minneapolis,,
+1946TSN,1945,American Association,,B03375,Savino,,T,,,B106
+1946TSN,1945,American Association,,F22393,Savino,,1,Louisville,,c
+1946TSN,1945,American Association,,F22393,Savino,,2,Minneapolis,,c
+1946TSN,1945,American Association,,F22393,Savino,,T,,,c91
+1946TSN,1945,American Association,,B02894,Schacker,Harold,0,Indianapolis,,B5
+1946TSN,1945,American Association,,P10982,Schacker,Harold,0,Indianapolis,,P5p
+1946TSN,1945,American Association,,B01402,Scheetz,Owen,0,Milwaukee,,B28
+1946TSN,1945,American Association,,B04058,Scheetz,,0,Milwaukee,,B28
+1946TSN,1945,American Association,,F21646,Scheetz,,0,Milwaukee,,p27
+1946TSN,1945,American Association,,P10024,Scheetz,,0,Milwaukee,,P27p
+1946TSN,1945,American Association,,P11327,Scheetz,,0,Milwaukee,,p
+1946TSN,1945,American Association,,B00381,Scheiwe,Edward,0,St. Paul,,B64
+1946TSN,1945,American Association,,B03886,Scheiwe,,0,St. Paul,,B64
+1946TSN,1945,American Association,,F20417,Scheiwe,,0,St. Paul,,2b15
+1946TSN,1945,American Association,,F21045,Scheiwe,,0,St. Paul,,of36
+1946TSN,1945,American Association,,B00343,Schoendienst,Paul,0,St. Paul,,B127
+1946TSN,1945,American Association,,B03496,Schoendienst,,0,St. Paul,,B127
+1946TSN,1945,American Association,,F20102,Schoendienst,,0,St. Paul,,1b114
+1946TSN,1945,American Association,,B00076,Schultz,Howard,0,St. Paul,,B19
+1946TSN,1945,American Association,,B04147,Schultz,,0,St. Paul,,B19
+1946TSN,1945,American Association,,F20051,Schultz,,0,St. Paul,,1b19
+1946TSN,1945,American Association,,B00130,Serafini,Melvin,0,Kansas City,,B95
+1946TSN,1945,American Association,,B03594,Serafini,,0,Kansas City,,B95
+1946TSN,1945,American Association,,F20254,Serafini,,0,Kansas City,,2b57
+1946TSN,1945,American Association,,F20612,Serafini,,0,Kansas City,,3b22
+1946TSN,1945,American Association,,P11240,Serafini,Melvin,0,Kansas City,,P1p
+1946TSN,1945,American Association,,B00544,Shemo,Stephen,0,Indianapolis,,B35
+1946TSN,1945,American Association,,B04262,Shemo,,0,Indianapolis,,B35
+1946TSN,1945,American Association,,F20388,Shemo,,0,Indianapolis,,2b23
+1946TSN,1945,American Association,,B00515,Shofner,Frank,0,Louisville,,B144
+1946TSN,1945,American Association,,B03334,Shofner,,0,Louisville,,B144
+1946TSN,1945,American Association,,F20560,Shofner,,0,Louisville,,3b17
+1946TSN,1945,American Association,,F20810,Shofner,,0,Louisville,,ss128
+1946TSN,1945,American Association,,B00356,Shupe,Vincent,0,Indianapolis,,B73
+1946TSN,1945,American Association,,B03526,Shupe,,0,Indianapolis,,B73
+1946TSN,1945,American Association,,F20067,Shupe,,0,Indianapolis,,1b73
+1946TSN,1945,American Association,,B01156,Simonds,Dwight,0,Louisville,,B45
+1946TSN,1945,American Association,,B04689,Simonds,,0,Louisville,,B45
+1946TSN,1945,American Association,,F21771,Simonds,,0,Louisville,,p39
+1946TSN,1945,American Association,,P10290,Simonds,,0,Louisville,,P39p
+1946TSN,1945,American Association,,P11768,Simonds,,0,Louisville,,p
+1946TSN,1945,American Association,,B01546,Singleton,Elmer,0,Kansas City,,B17
+1946TSN,1945,American Association,,B04703,Singleton,,0,Kansas City,,B17
+1946TSN,1945,American Association,,F21840,Singleton,,0,Kansas City,,p17
+1946TSN,1945,American Association,,P10035,Singleton,,0,Kansas City,,P17p
+1946TSN,1945,American Association,,P11636,Singleton,,0,Kansas City,,p
+1946TSN,1945,American Association,,B02958,Sisler,William,0,Minneapolis,,B2
+1946TSN,1945,American Association,,P11009,Sisler,William,0,Minneapolis,,P2p
+1946TSN,1945,American Association,,B01567,Sloan,Bruce,0,Minneapolis,,B17
+1946TSN,1945,American Association,,B04404,Sloan,,0,Minneapolis,,B17
+1946TSN,1945,American Association,,B02277,Smalling,Earl,0,Toledo,,B25
+1946TSN,1945,American Association,,B05150,Smalling,,0,Toledo,,B25
+1946TSN,1945,American Association,,F22142,Smalling,,0,Toledo,,p24
+1946TSN,1945,American Association,,P10542,Smalling,,0,Toledo,,P24p
+1946TSN,1945,American Association,,P11924,Smalling,,0,Toledo,,p
+1946TSN,1945,American Association,,B01384,Smith,Donald,0,Toledo,,B92
+1946TSN,1945,American Association,,B04017,Smith,,0,Toledo,,B92
+1946TSN,1945,American Association,,F21125,Smith,,0,Toledo,,of88
+1946TSN,1945,American Association,,B02336,Sosnouski,Joseph,0,Milwaukee,,B2
+1946TSN,1945,American Association,,B01861,Speer,Floyd,0,Milwaukee,,B33
+1946TSN,1945,American Association,,B04929,Speer,,0,Milwaukee,,B33
+1946TSN,1945,American Association,,F22061,Speer,,0,Milwaukee,,p33
+1946TSN,1945,American Association,,P10228,Speer,,0,Milwaukee,,P33p
+1946TSN,1945,American Association,,P11388,Speer,,0,Milwaukee,,p
+1946TSN,1945,American Association,,B02176,Staker,William,0,Toledo,,B12
+1946TSN,1945,American Association,,B05280,Staker,,0,Toledo,,B12
+1946TSN,1945,American Association,,B00705,Steinecke,William,0,Kansas City,,B60
+1946TSN,1945,American Association,,B03841,Steinecke,,0,Kansas City,,B60
+1946TSN,1945,American Association,,F22411,Steinecke,,0,Kansas City,,c53
+1946TSN,1945,American Association,,B01630,Steiner,Benjamin,0,Louisville,,B44
+1946TSN,1945,American Association,,B04096,Steiner,,0,Louisville,,B44
+1946TSN,1945,American Association,,F20430,Steiner,,0,Louisville,,3b42
+1946TSN,1945,American Association,,B02805,Stelmack,Raymond,0,Kansas City,,B2
+1946TSN,1945,American Association,,P11166,Stelmack,Raymond,0,Kansas City,,P1p
+emilbb,1945,American Association,,M90071,Stengel,Casey,,Kansas City,,
+1946TSN,1945,American Association,,B00822,Stephenson,Joseph,0,Milwaukee,,B123
+1946TSN,1945,American Association,,B03430,Stephenson,,0,Milwaukee,,B123
+1946TSN,1945,American Association,,F22440,Stephenson,,0,Milwaukee,,c120
+1946TSN,1945,American Association,,B01812,Storenski,Edward,0,Columbus,,B21
+1946TSN,1945,American Association,,B04420,Storenski,,0,Columbus,,B21
+1946TSN,1945,American Association,,F20657,Storenski,,0,Columbus,,ss10
+1946TSN,1945,American Association,,B02056,Strommen,Clarence,0,Columbus,,B22
+1946TSN,1945,American Association,,B04838,Strommen,,0,Columbus,,B22
+1946TSN,1945,American Association,,F21488,Strommen,,0,Columbus,,p22
+1946TSN,1945,American Association,,P10534,Strommen,,0,Columbus,,P22p
+1946TSN,1945,American Association,,P11855,Strommen,,0,Columbus,,p
+1946TSN,1945,American Association,,B02640,Stumpf,George,0,Columbus,,B2
+1946TSN,1945,American Association,,B00887,Sturdy,Maurice,0,Columbus,,B99
+1946TSN,1945,American Association,,B03685,Sturdy,,0,Columbus,,B99
+1946TSN,1945,American Association,,F20046,Sturdy,,0,Columbus,,1b93
+1946TSN,1945,American Association,,B02407,Sugrue,Joseph,0,Columbus,,B5
+1946TSN,1945,American Association,,B00920,Sumey,George,0,Columbus,,B41
+1946TSN,1945,American Association,,B04500,Sumey,,0,Columbus,,B41
+1946TSN,1945,American Association,,F21973,Sumey,,0,Columbus,,p41
+1946TSN,1945,American Association,,P10464,Sumey,,0,Columbus,,P41p
+1946TSN,1945,American Association,,P11583,Sumey,,0,Columbus,,p
+1946TSN,1945,American Association,,B01899,Sunkel,Thomas,0,St. Paul,,B29
+1946TSN,1945,American Association,,B04742,Sunkel,,0,St. Paul,,B29
+1946TSN,1945,American Association,,F21833,Sunkel,,0,St. Paul,,p28
+1946TSN,1945,American Association,,P10399,Sunkel,,0,St. Paul,,P28p
+1946TSN,1945,American Association,,P11661,Sunkel,,0,St. Paul,,p
+1946TSN,1945,American Association,,B01029,Suytar,Charles,0,Kansas City,,B39
+1946TSN,1945,American Association,,B04152,Suytar,,0,Kansas City,,B39
+1946TSN,1945,American Association,,F20153,Suytar,,0,Kansas City,,1b33
+1946TSN,1945,American Association,,B01848,Swanson,Harold,0,Minneapolis,,B32
+1946TSN,1945,American Association,,B04769,Swanson,,0,Minneapolis,,B32
+1946TSN,1945,American Association,,F21879,Swanson,,0,Minneapolis,,p29
+1946TSN,1945,American Association,,P10611,Swanson,,0,Minneapolis,,P29p
+1946TSN,1945,American Association,,P11430,Swanson,,0,Minneapolis,,p
+1946TSN,1945,American Association,,B02244,Tart,Robert,0,St. Paul,,B29
+1946TSN,1945,American Association,,B05169,Tart,,0,St. Paul,,B29
+1946TSN,1945,American Association,,F21887,Tart,,0,St. Paul,,p25
+1946TSN,1945,American Association,,P10550,Tart,,0,St. Paul,,P25p
+1946TSN,1945,American Association,,P12152,Tart,,0,St. Paul,,p
+1946TSN,1945,American Association,,B02266,Tauscher,Walter,0,St. Paul,,B61
+1946TSN,1945,American Association,,B05329,Tauscher,,0,St. Paul,,B61
+1946TSN,1945,American Association,,F21726,Tauscher,,0,St. Paul,,p61
+1946TSN,1945,American Association,,P10357,Tauscher,,0,St. Paul,,P61p
+1946TSN,1945,American Association,,B02622,Terry,Yank,0,Louisville,,B7
+1946TSN,1945,American Association,,P10805,Terry,Yank,0,Louisville,,P7p
+1946TSN,1945,American Association,,P11829,Terry,,0,Louisville,,p
+1946TSN,1945,American Association,,B01086,Thompson,Donald,0,Louisville,,B34
+1946TSN,1945,American Association,,B01477,Thompson,Blackstone,0,Toledo,,B105
+1946TSN,1945,American Association,,B03878,Thompson,B.,0,Toledo,,B105
+1946TSN,1945,American Association,,B04461,Thompson,D.,0,Louisville,,B34
+1946TSN,1945,American Association,,F20571,Thompson,B.,0,Toledo,,3b20
+1946TSN,1945,American Association,,F20864,Thompson,B.,0,Toledo,,ss52
+1946TSN,1945,American Association,,F20908,Thompson,B.,0,Toledo,,of23
+1946TSN,1945,American Association,,F22020,Thompson,,0,Louisville,,p22
+1946TSN,1945,American Association,,P10215,Thompson,,0,Louisville,,P22p
+1946TSN,1945,American Association,,P11713,Thompson,,0,Louisville,,p
+1946TSN,1945,American Association,,B00783,Towns,James,0,Columbus,,B62
+1946TSN,1945,American Association,,B04049,Towns,,0,Columbus,,B62
+1946TSN,1945,American Association,,F20832,Towns,,0,Columbus,,ss60
+1946TSN,1945,American Association,,B00811,Tucker,L. Wayne,0,Kansas City,,B64
+1946TSN,1945,American Association,,B01971,Tucker,Carl,0,St. Paul,,B24
+1946TSN,1945,American Association,,B03864,Tucker,W.,0,Kansas City,,B64
+1946TSN,1945,American Association,,B05214,Tucker,C.,0,St. Paul,,B24
+1946TSN,1945,American Association,,F20014,Tucker,W.,0,Kansas City,,1b16
+1946TSN,1945,American Association,,F20206,Tucker,W.,0,Kansas City,,2b14
+1946TSN,1945,American Association,,F20401,Tucker,,0,St. Paul,,2b10
+1946TSN,1945,American Association,,F20855,Tucker,W.,0,Kansas City,,ss31
+1946TSN,1945,American Association,,B01952,Ulisney,Michael,0,Milwaukee,,B21
+1946TSN,1945,American Association,,B04734,Ulisney,,0,Milwaukee,,B21
+1946TSN,1945,American Association,,F22525,Ulisney,,0,Milwaukee,,c13
+1946TSN,1945,American Association,,B02996,Uniak,Raymond,0,Kansas City,,B6
+1946TSN,1945,American Association,,P11095,Uniak,Raymond,0,Kansas City,,P6p
+1946TSN,1945,American Association,,B02709,Urso,Joseph,0,Columbus,,B4
+1946TSN,1945,American Association,,B02575,Valenzuela,Joseph,0,Kansas City,,B8
+1946TSN,1945,American Association,,P10145,Valenzuela,,0,Kansas City,,P7p
+1946TSN,1945,American Association,,P11776,Valenzuela,,0,Kansas City,,p
+1946TSN,1945,American Association,,B01203,Vitter,Joseph,0,St. Paul,,B127
+1946TSN,1945,American Association,,B03571,Vitter,,0,St. Paul,,B127
+1946TSN,1945,American Association,,F20303,Vitter,,0,St. Paul,,2b95
+1946TSN,1945,American Association,,F21416,Vitter,,0,St. Paul,,of31
+1946TSN,1945,American Association,,B02290,Vucovich,Nicholas,0,Columbus,,B13
+1946TSN,1945,American Association,,B05393,Vucovich,,0,Columbus,,B13
+1946TSN,1945,American Association,,F22251,Vucovich,,0,Columbus,,p13
+1946TSN,1945,American Association,,P10949,Vucovich,Nicholas,0,Columbus,,P13p
+1946TSN,1945,American Association,,B01905,Wallace,James,0,Indianapolis,,B30
+1946TSN,1945,American Association,,B05057,Wallace,,0,Indianapolis,,B30
+1946TSN,1945,American Association,,F22073,Wallace,,0,Indianapolis,,p25
+1946TSN,1945,American Association,,P10019,Wallace,,0,Indianapolis,,P25p
+1946TSN,1945,American Association,,P11350,Wallace,,0,Indianapolis,,p
+1946TSN,1945,American Association,,B01321,Wallen,Norman,0,Indianapolis,,B58
+1946TSN,1945,American Association,,B04082,Wallen,,0,Indianapolis,,B58
+1946TSN,1945,American Association,,F20449,Wallen,,0,Indianapolis,,3b51
+1946TSN,1945,American Association,,B00125,Walters,Fred,0,Louisville,,B31
+1946TSN,1945,American Association,,B04025,Walters,,0,Louisville,,B31
+1946TSN,1945,American Association,,F22364,Walters,,0,Louisville,,c29
+1946TSN,1945,American Association,,B02035,Weaver,Claude,0,St. Paul,,B45
+1946TSN,1945,American Association,,B05251,Weaver,,0,St. Paul,,B45
+1946TSN,1945,American Association,,F21718,Weaver,,0,St. Paul,,p45
+1946TSN,1945,American Association,,P10100,Weaver,,0,St. Paul,,P45p
+1946TSN,1945,American Association,,P11571,Weaver,,0,St. Paul,,p
+1946TSN,1945,American Association,,B01538,Webb,William,1,St. Paul,,B16
+1946TSN,1945,American Association,,B01538,Webb,William,2,Minneapolis,,B19
+1946TSN,1945,American Association,,B01538,Webb,William,T,,,B35
+1946TSN,1945,American Association,,B04750,Webb,,1,St. Paul,,
+1946TSN,1945,American Association,,B04750,Webb,,2,Minneapolis,,
+1946TSN,1945,American Association,,B04750,Webb,,T,,,B35
+1946TSN,1945,American Association,,F21651,Webb,,1,St. Paul,,p
+1946TSN,1945,American Association,,F21651,Webb,,2,Minneapolis,,p
+1946TSN,1945,American Association,,F21651,Webb,,T,,,p31
+1946TSN,1945,American Association,,P10714,Webb,,1,St. Paul,,P13p
+1946TSN,1945,American Association,,P10714,Webb,,2,Minneapolis,,P18p
+1946TSN,1945,American Association,,P10714,Webb,,T,,,P31p
+1946TSN,1945,American Association,,P11721,Webb,,1,St. Paul,,p
+1946TSN,1945,American Association,,P11721,Webb,,2,Minneapolis,,p
+1946TSN,1945,American Association,,P11721,Webb,,T,,,p
+1946TSN,1945,American Association,,B00623,Weingartner,Elmer,0,Milwaukee,,B28
+1946TSN,1945,American Association,,B04559,Weingartner,,0,Milwaukee,,B28
+1946TSN,1945,American Association,,F20829,Weingartner,,0,Milwaukee,,ss27
+1946TSN,1945,American Association,,B02569,Welch,Henry,0,St. Paul,,B6
+1946TSN,1945,American Association,,B00255,Wentzel,Stanley,0,Indianapolis,,B154
+1946TSN,1945,American Association,,B03131,Wentzel,,0,Indianapolis,,B154
+1946TSN,1945,American Association,,F21101,Wentzel,,0,Indianapolis,,of154
+1946TSN,1945,American Association,,B03014,Werth,Eugene,0,St. Paul,,B3
+1946TSN,1945,American Association,,P11190,Werth,Eugene,0,St. Paul,,P3p
+1946TSN,1945,American Association,,B01242,Whitehead,John,0,Toledo,,B28
+1946TSN,1945,American Association,,B04615,Whitehead,,0,Toledo,,B28
+1946TSN,1945,American Association,,F21667,Whitehead,,0,Toledo,,p23
+1946TSN,1945,American Association,,P10385,Whitehead,,0,Toledo,,P23p
+1946TSN,1945,American Association,,P11505,Whitehead,,0,Toledo,,p
+1946TSN,1945,American Association,,B02043,Widmar,Albert,0,Louisville,,B33
+1946TSN,1945,American Association,,B05036,Widmar,,0,Louisville,,B33
+1946TSN,1945,American Association,,F21752,Widmar,,0,Louisville,,p33
+1946TSN,1945,American Association,,P10622,Widmar,,0,Louisville,,P33p
+1946TSN,1945,American Association,,P12025,Widmar,,0,Louisville,,p
+1946TSN,1945,American Association,,B01658,Wilkie,Frank,0,Indianapolis,,B31
+1946TSN,1945,American Association,,B04499,Wilkie,,0,Indianapolis,,B31
+1946TSN,1945,American Association,,F20699,Wilkie,,0,Indianapolis,,ss14
+1946TSN,1945,American Association,,P11115,Wilkie,Frank,0,Indianapolis,,P3p
+1946TSN,1945,American Association,,B03009,Wonson,Harold,0,Minneapolis,,B3
+1946TSN,1945,American Association,,P11206,Wonson,Harold,0,Minneapolis,,P3p
+1946TSN,1945,American Association,,B00293,Wren,Robert,0,Toledo,,B128
+1946TSN,1945,American Association,,B03458,Wren,,0,Toledo,,B128
+1946TSN,1945,American Association,,F20279,Wren,,0,Toledo,,2b124
+1946TSN,1945,American Association,,B00469,Wright,Edward,0,Indianapolis,,B21
+1946TSN,1945,American Association,,B04340,Wright,,0,Indianapolis,,B21
+1946TSN,1945,American Association,,F21680,Wright,,0,Indianapolis,,p20
+1946TSN,1945,American Association,,P10097,Wright,,0,Indianapolis,,P20p
+1946TSN,1945,American Association,,P11417,Wright,,0,Indianapolis,,p
+1946TSN,1945,American Association,,B01444,Yaeger,Edward,0,St. Paul,,B93
+1946TSN,1945,American Association,,B03962,Yaeger,,0,St. Paul,,B93
+1946TSN,1945,American Association,,F21210,Yaeger,,0,St. Paul,,of91
+1946TSN,1945,American Association,,B01197,Young,Floyd,0,Columbus,,B88
+1946TSN,1945,American Association,,B03699,Young,,0,Columbus,,B88
+1946TSN,1945,American Association,,F20298,Young,,0,Columbus,,2b18
+1946TSN,1945,American Association,,F20700,Young,,0,Columbus,,ss65
+1946TSN,1945,American Association,,B03102,Yurchak,Andy,0,Kansas City,,B1
+1946TSN,1945,American Association,,B02542,Zaden,Louis,0,Columbus,,B3
+1946TSN,1945,American Association,,B00638,Zak,Frank,0,Kansas City,,B104
+1946TSN,1945,American Association,,B03829,Zak,,0,Kansas City,,B104
+1946TSN,1945,American Association,,F20685,Zak,,0,Kansas City,,ss104
+1946TSN,1945,American Association,,B02410,Zielinski,Florian,0,Milwaukee,,B2
+1946TSN,1945,American Association,,B02493,Zipay,Edward,0,Louisville,,B6

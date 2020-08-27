@@ -1,8 +1,8 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1947,Piedmont League,M91098,Fitzpatrick,John,,Newport News,,,
-emilbb,1947,Piedmont League,M91040,Hassett,Buddy,,Norfolk,,,
-emilbb,1947,Piedmont League,M91054,Hasson,Gene,,Portsmouth,,,
-emilbb,1947,Piedmont League,M91033,Higgins,Pinky,,Roanoke,,,
-emilbb,1947,Piedmont League,M91065,Lotshaw,Bob,,Richmond,,,
-emilbb,1947,Piedmont League,M91087,Mackie,Vernon,,Lynchburg,,,
-emilbb,1947,Piedmont League,M91079,McLain,Jack,,Lynchburg,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1947,Piedmont League,,M91098,Fitzpatrick,John,,Newport News,,
+emilbb,1947,Piedmont League,,M91040,Hassett,Buddy,,Norfolk,,
+emilbb,1947,Piedmont League,,M91054,Hasson,Gene,,Portsmouth,,
+emilbb,1947,Piedmont League,,M91033,Higgins,Pinky,,Roanoke,,
+emilbb,1947,Piedmont League,,M91065,Lotshaw,Bob,,Richmond,,
+emilbb,1947,Piedmont League,,M91087,Mackie,Vernon,,Lynchburg,,
+emilbb,1947,Piedmont League,,M91079,McLain,Jack,,Lynchburg,,

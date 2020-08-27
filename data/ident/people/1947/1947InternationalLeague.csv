@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1947,International League,M90107,Betzel,"Albert ""Bruno""",,Jersey City,,,
-emilbb,1947,International League,M90141,Durst,Cedric,,Rochester,,,
-emilbb,1947,International League,M90129,Ens,Jewel,,Syracuse,,,
-emilbb,1947,International League,M90110,Hopper,Clay,,Montreal,,,
-emilbb,1947,International League,M90132,Richards,Paul,,Buffalo,,,
-emilbb,1947,International League,M90155,Selkirk,George,,Newark,,,
-emilbb,1947,International League,M90164,Thomas,"Alphonse ""Tommy""",,Baltimore,,,
-emilbb,1947,International League,M90178,Yoter,Elmer,,Toronto,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1947,International League,,M90107,Betzel,"Albert ""Bruno""",,Jersey City,,
+emilbb,1947,International League,,M90141,Durst,Cedric,,Rochester,,
+emilbb,1947,International League,,M90129,Ens,Jewel,,Syracuse,,
+emilbb,1947,International League,,M90110,Hopper,Clay,,Montreal,,
+emilbb,1947,International League,,M90132,Richards,Paul,,Buffalo,,
+emilbb,1947,International League,,M90155,Selkirk,George,,Newark,,
+emilbb,1947,International League,,M90164,Thomas,"Alphonse ""Tommy""",,Baltimore,,
+emilbb,1947,International League,,M90178,Yoter,Elmer,,Toronto,,

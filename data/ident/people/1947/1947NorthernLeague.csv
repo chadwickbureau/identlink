@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1947,Northern League,M92427,Bancroft,Dave,,St. Cloud,,,
-emilbb,1947,Northern League,M92397,Bowa,Paul,,Duluth,,,
-emilbb,1947,Northern League,M92381,Haas,Bruno,,Fargo-Moorhead,,,
-emilbb,1947,Northern League,M92362,Heffner,Don,,Aberdeen,,,
-emilbb,1947,Northern League,M92434,Jonnard,Claude,,Grand Forks,,,
-emilbb,1947,Northern League,M92370,Ogelsby,Jim,,Sioux Falls,,,
-emilbb,1947,Northern League,M92416,Treadwell,"George ""Red""",,Superior,,,
-emilbb,1947,Northern League,M92403,Wise,Hugh,,Eau Claire,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1947,Northern League,,M92427,Bancroft,Dave,,St. Cloud,,
+emilbb,1947,Northern League,,M92397,Bowa,Paul,,Duluth,,
+emilbb,1947,Northern League,,M92381,Haas,Bruno,,Fargo-Moorhead,,
+emilbb,1947,Northern League,,M92362,Heffner,Don,,Aberdeen,,
+emilbb,1947,Northern League,,M92434,Jonnard,Claude,,Grand Forks,,
+emilbb,1947,Northern League,,M92370,Ogelsby,Jim,,Sioux Falls,,
+emilbb,1947,Northern League,,M92416,Treadwell,"George ""Red""",,Superior,,
+emilbb,1947,Northern League,,M92403,Wise,Hugh,,Eau Claire,,

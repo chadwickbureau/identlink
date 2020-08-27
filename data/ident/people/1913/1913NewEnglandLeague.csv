@@ -1,517 +1,517 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-1914Spalding,1913,New England League,B00577,Anderson,,0,Lawrence,,B26,anderson-law
-1914Spalding,1913,New England League,B00672,Anderson,,0,Brockton,,B33,anderson-bro
-1914Spalding,1913,New England League,B00973,Anderson,,1,Worcester,,,anderson-wor+low
-1914Spalding,1913,New England League,B00973,Anderson,,2,Lowell,,,anderson-wor+low
-1914Spalding,1913,New England League,B00973,Anderson,,T,,,B34,anderson-wor+low
-1914Spalding,1913,New England League,F20115,Anderson,,0,Lawrence,,1b26,anderson-law
-1914Spalding,1913,New England League,F20505,Anderson,,1,Worcester,,ss,anderson-wor+low
-1914Spalding,1913,New England League,F20505,Anderson,,2,Lowell,,ss,anderson-wor+low
-1914Spalding,1913,New England League,F20505,Anderson,,T,,,ss34,anderson-wor+low
-1914Spalding,1913,New England League,F21308,Anderson,,0,Brockton,,p26,anderson-bro
-1914Spalding,1913,New England League,P10062,Anderson,,0,Brockton,,,anderson-bro
-1914Spalding,1913,New England League,B01384,Arminger,,0,Portland,,B16,arminger
-1914Spalding,1913,New England League,F21335,Arminger,,0,Portland,,p16,arminger
-1914Spalding,1913,New England League,B00705,Aubrey,,1,Worcester,,,aubrey
-1914Spalding,1913,New England League,B00705,Aubrey,,2,Lowell,,,aubrey
-1914Spalding,1913,New England League,B00705,Aubrey,,T,,,B110,aubrey
-1914Spalding,1913,New England League,F20023,Aubrey,,0,Worcester,,1b28,aubrey
-1914Spalding,1913,New England League,F20474,Aubrey,,1,Lowell,,ss,aubrey
-1914Spalding,1913,New England League,F20474,Aubrey,,2,Worcester,,ss,aubrey
-1914Spalding,1913,New England League,F20474,Aubrey,,T,,,ss79,aubrey
-1914Spalding,1913,New England League,B01275,Barron,,1,Lowell,,,barron
-1914Spalding,1913,New England League,B01275,Barron,,2,Fall River,,,barron
-1914Spalding,1913,New England League,B01275,Barron,,T,,,B30,barron
-1914Spalding,1913,New England League,F21182,Barron,,1,Lowell,,p,barron
-1914Spalding,1913,New England League,F21182,Barron,,2,Fall River,,p,barron
-1914Spalding,1913,New England League,F21182,Barron,,T,,,p30,barron
-1914Spalding,1913,New England League,P10231,Barron,,1,Lowell,,,barron
-1914Spalding,1913,New England League,P10231,Barron,,2,Fall River,,,barron
-1914Spalding,1913,New England League,P10231,Barron,,T,,,,barron
-1914Spalding,1913,New England League,B01392,Bates,,0,Worcester,,B23,bates
-1914Spalding,1913,New England League,F21362,Bates,,0,Worcester,,p23,bates
-1914Spalding,1913,New England League,P10035,Bates,,0,Worcester,,,bates
-1914Spalding,1913,New England League,B00806,Boardman,,0,Lynn,,B56,boardman
-1914Spalding,1913,New England League,F20369,Boardman,,0,Lynn,,3b56,boardman
-1914Spalding,1913,New England League,B00084,Bowcock,,0,Portland,,B118,bowcock
-1914Spalding,1913,New England League,F20240,Bowcock,,0,Portland,,2b90,bowcock
-1914Spalding,1913,New England League,F20391,Bowcock,,0,Portland,,3b27,bowcock
-1914Spalding,1913,New England League,B01250,Breymaier,,0,Lawrence,,B71,breymaier
-1914Spalding,1913,New England League,F21397,Breymaier,,0,Lawrence,,c69,breymaier
-1914Spalding,1913,New England League,B00416,Briggs,,0,New Bedford,,B15,briggs
-1914Spalding,1913,New England League,B01010,Brignolia,,0,Brockton,,B75,brignolia
-1914Spalding,1913,New England League,F20700,Brignolia,,0,Brockton,,of50,brignolia
-1914Spalding,1913,New England League,F21117,Brignolia,,0,Brockton,,p21,brignolia
-1914Spalding,1913,New England League,P10289,Brignolia,,0,Brockton,,,brignolia
-1914Spalding,1913,New England League,B00343,Britton,,0,Lynn,,B42,britton
-1914Spalding,1913,New England League,F21101,Britton,,0,Lynn,,p32,britton
-1914Spalding,1913,New England League,P10113,Britton,,0,Lynn,,,britton
-1914Spalding,1913,New England League,B00278,Bruggy,,0,Lawrence,,B122,bruggy
-1914Spalding,1913,New England League,F20768,Bruggy,,0,Lawrence,,of98,bruggy
-1914Spalding,1913,New England League,B00840,Burkett,,0,Worcester,,B19,burkett
-emilbb,1913,New England League,M90744,Burkett,Jesse,,Worcester,,,
-1914Spalding,1913,New England League,B00293,Burns,,1,Lowell,,,burns
-1914Spalding,1913,New England League,B00293,Burns,,2,Portland,,,burns
-1914Spalding,1913,New England League,B00293,Burns,,T,,,B107,burns
-1914Spalding,1913,New England League,F20962,Burns,,0,Portland,,of103,burns
-1914Spalding,1913,New England League,B01415,Bushelman,,0,Worcester,,B42,bushelman
-1914Spalding,1913,New England League,F21232,Bushelman,,0,Worcester,,p42,bushelman
-1914Spalding,1913,New England League,P10056,Bushelman,,0,Worcester,,,bushelman
-1914Spalding,1913,New England League,B01078,Campbell,,0,Fall River,,B118,campbell
-1914Spalding,1913,New England League,F20222,Campbell,,0,Fall River,,2b82,campbell
-1914Spalding,1913,New England League,B00898,Cargo,,1,Lawrence,,,cargo
-1914Spalding,1913,New England League,B00898,Cargo,,2,New Bedford,,,cargo
-1914Spalding,1913,New England League,B00898,Cargo,,3,Fall River,,,cargo
-1914Spalding,1913,New England League,B00898,Cargo,,T,,,B103,cargo
-1914Spalding,1913,New England League,F20496,Cargo,,1,Lawrence,,ss,cargo
-1914Spalding,1913,New England League,F20496,Cargo,,2,New Bedford,,ss,cargo
-1914Spalding,1913,New England League,F20496,Cargo,,3,Fall River,,ss,cargo
-1914Spalding,1913,New England League,F20496,Cargo,,T,,,ss102,cargo
-1914Spalding,1913,New England League,B00356,Carlstrom,,0,Lawrence,,B121,carlstrom
-1914Spalding,1913,New England League,F20038,Carlstrom,,0,Lawrence,,1b87,carlstrom
-1914Spalding,1913,New England League,F20482,Carlstrom,,0,Lawrence,,ss34,carlstrom
-1914Spalding,1913,New England League,B00623,Carroll,,0,Worcester,,B110,carroll
-1914Spalding,1913,New England League,F21442,Carroll,,0,Worcester,,c95,carroll
-1914Spalding,1913,New England League,B01234,Cassavant,,1,Fall River,,,cassavant
-1914Spalding,1913,New England League,B01234,Cassavant,,2,Lynn,,,cassavant
-1914Spalding,1913,New England League,B01234,Cassavant,,T,,,B51,cassavant
-1914Spalding,1913,New England League,F20526,Cassavant,,1,Fall River,,ss,cassavant
-1914Spalding,1913,New England League,F20526,Cassavant,,2,Lynn,,ss,cassavant
-1914Spalding,1913,New England League,F20526,Cassavant,,T,,,ss51,cassavant
-1914Spalding,1913,New England League,B00125,Catterson,,0,Fall River,,B57,catterson
-1914Spalding,1913,New England League,F20935,Catterson,,0,Fall River,,of56,catterson
-1914Spalding,1913,New England League,B01135,Cawley,,1,Lawrence,,,cawley
-1914Spalding,1913,New England League,B01135,Cawley,,2,Lowell,,,cawley
-1914Spalding,1913,New England League,B01135,Cawley,,T,,,B18,cawley
-1914Spalding,1913,New England League,P10357,Chaney,,0,Brockton,,,chaney
-1914Spalding,1913,New England League,B00207,Clemens,,0,Lowell,,B127,clemens
-1914Spalding,1913,New England League,F21037,Clemens,,0,Lowell,,of127,clemens
-emilbb,1913,New England League,M90790,Clohecy,Dan,,Fall River,,,
-1914Spalding,1913,New England League,B01242,Collins,,0,New Bedford,,B19,collins
-1914Spalding,1913,New England League,F21084,Collins,,0,New Bedford,,p17,collins
-1914Spalding,1913,New England League,P10290,Collins,,0,New Bedford,,,collins
-1914Spalding,1913,New England League,B00434,Connaughton,,0,New Bedford,,B27,connaughton
-1914Spalding,1913,New England League,F20190,Connaughton,,0,New Bedford,,2b27,connaughton
-emilbb,1913,New England League,M90777,Connaughton,Frank,,New Bedford,,,
-1914Spalding,1913,New England League,B01119,Connolly,,1,New Bedford,,,connolly
-1914Spalding,1913,New England League,B01119,Connolly,,2,Fall River,,,connolly
-1914Spalding,1913,New England League,B01119,Connolly,,T,,,B40,connolly
-1914Spalding,1913,New England League,F21450,Connolly,,1,New Bedford,,c,connolly
-1914Spalding,1913,New England League,F21450,Connolly,,2,Fall River,,c,connolly
-1914Spalding,1913,New England League,F21450,Connolly,,T,,,c34,connolly
-1914Spalding,1913,New England League,B00149,Cooney,,0,Fall River,,B23,cooney-fr
-1914Spalding,1913,New England League,B00241,Cooney,,0,Worcester,,B73,cooney-wor
-1914Spalding,1913,New England League,F20518,Cooney,,0,Worcester,,ss61,cooney-wor
-1914Spalding,1913,New England League,B00308,Courtney,,1,Lawrence,,,courtney-law+low
-1914Spalding,1913,New England League,B00308,Courtney,,2,Lowell,,,courtney-law+low
-1914Spalding,1913,New England League,B00308,Courtney,,T,,,B58,courtney-law+low
-1914Spalding,1913,New England League,B00442,Courtney,,1,Fall River,,,courtney-fr+por
-1914Spalding,1913,New England League,B00442,Courtney,,2,Portland,,,courtney-fr+por
-1914Spalding,1913,New England League,B00442,Courtney,,T,,,B79,courtney-fr+por
-1914Spalding,1913,New England League,F20594,Courtney,,1,Lawrence,,ss,courtney-law+low
-1914Spalding,1913,New England League,F20594,Courtney,,2,Lowell,,ss,courtney-law+low
-1914Spalding,1913,New England League,F20594,Courtney,,T,,,ss58,courtney-law+low
-1914Spalding,1913,New England League,F20997,Courtney,,1,Fall River,,of,courtney-fr+por
-1914Spalding,1913,New England League,F20997,Courtney,,2,Portland,,of,courtney-fr+por
-1914Spalding,1913,New England League,F20997,Courtney,,T,,,of78,courtney-fr+por
-1914Spalding,1913,New England League,B00865,Crowley,,1,Worcester,,,crowley
-1914Spalding,1913,New England League,B00865,Crowley,,2,New Bedford,,,crowley
-1914Spalding,1913,New England League,B00865,Crowley,,T,,,B64,crowley
-1914Spalding,1913,New England League,F20287,Crowley,,0,New Bedford,,2b38,crowley
-1914Spalding,1913,New England League,F20648,Crowley,,1,Worcester,,ss,crowley
-1914Spalding,1913,New England League,F20648,Crowley,,2,New Bedford,,ss,crowley
-1914Spalding,1913,New England League,F20648,Crowley,,T,,,ss24,crowley
-1914Spalding,1913,New England League,B00904,Cunningham,,0,Lynn,,B38,cunningham
-1914Spalding,1913,New England League,F21229,Cunningham,,0,Lynn,,p37,cunningham
-1914Spalding,1913,New England League,P10145,Cunningham,,0,Lynn,,,cunningham
-1914Spalding,1913,New England League,B00163,Daly,,0,Lowell,,B95,daly
-1914Spalding,1913,New England League,F21488,Daly,,0,Lowell,,c85,daly
-1914Spalding,1913,New England League,B00553,Daum,,1,Lynn,,,daum
-1914Spalding,1913,New England League,B00553,Daum,,2,Brockton,,,daum
-1914Spalding,1913,New England League,B00553,Daum,,T,,,B68,daum
-1914Spalding,1913,New England League,F20067,Daum,,0,Brockton,,1b20,daum
-1914Spalding,1913,New England League,F21427,Daum,,1,Lynn,,c,daum
-1914Spalding,1913,New England League,F21427,Daum,,2,Brockton,,c,daum
-1914Spalding,1913,New England League,F21427,Daum,,T,,,c41,daum
-1914Spalding,1913,New England League,B00264,DeGroff,,0,Lowell,,B120,degroff
-1914Spalding,1913,New England League,F21013,DeGroff,,0,Lowell,,of119,degroff
-1914Spalding,1913,New England League,B01181,Dean,,0,New Bedford,,B41,dean
-1914Spalding,1913,New England League,F20211,Dean,,0,New Bedford,,2b19,dean
-1914Spalding,1913,New England League,B00739,Dee,,0,Lowell,,B128,dee
-1914Spalding,1913,New England League,F20388,Dee,,0,Lowell,,3b118,dee
-1914Spalding,1913,New England League,B00920,Delaney,,1,Fall River,,,delaney
-1914Spalding,1913,New England League,B00920,Delaney,,2,Worcester,,,delaney
-1914Spalding,1913,New England League,B00920,Delaney,,T,,,B37,delaney
-1914Spalding,1913,New England League,B00158,Devine,,0,Fall River,,B114,devine
-1914Spalding,1913,New England League,F20144,Devine,,0,Fall River,,1b19,devine
-1914Spalding,1913,New England League,F20334,Devine,,0,Fall River,,3b76,devine
-1914Spalding,1913,New England League,B00232,Dowd,,0,Brockton,,B119,dowd
-1914Spalding,1913,New England League,F20279,Dowd,,0,Brockton,,2b119,dowd
-emilbb,1913,New England League,M90731,Duffy,Hugh,,Portland,,,
-1914Spalding,1913,New England League,B00680,Ferrin,,1,Portland,,,ferrin
-1914Spalding,1913,New England League,B00680,Ferrin,,2,Lawrence,,,ferrin
-1914Spalding,1913,New England League,B00680,Ferrin,,3,Fall River,,,ferrin
-1914Spalding,1913,New England League,B00680,Ferrin,,4,Brockton,,,ferrin
-1914Spalding,1913,New England League,B00680,Ferrin,,T,,,B90,ferrin
-1914Spalding,1913,New England League,F20685,Ferrin,,1,Portland,,of,ferrin
-1914Spalding,1913,New England League,F20685,Ferrin,,2,Lawrence,,of,ferrin
-1914Spalding,1913,New England League,F20685,Ferrin,,3,Brockton,,of,ferrin
-1914Spalding,1913,New England League,F20685,Ferrin,,4,Fall River,,of,ferrin
-1914Spalding,1913,New England League,F20685,Ferrin,,T,,,of89,ferrin
-1914Spalding,1913,New England League,B01162,Finneran,,0,Lowell,,B20,finneran
-1914Spalding,1913,New England League,F21059,Finneran,,0,Lowell,,p20,finneran
-1914Spalding,1913,New England League,P10019,Finneran,,0,Lowell,,,finneran
-1914Spalding,1913,New England League,B00936,Fishburne,,0,Fall River,,B47,fishburne
-1914Spalding,1913,New England League,F20612,Fishburne,,0,Fall River,,ss36,fishburne
-1914Spalding,1913,New England League,B00912,Flaherty,,0,Lynn,,B55,flaherty-lyn
-1914Spalding,1913,New England League,B01064,Flaherty,,1,Brockton,,,flaherty-bro+law
-1914Spalding,1913,New England League,B01064,Flaherty,,2,Lawrence,,,flaherty-bro+law
-1914Spalding,1913,New England League,B01064,Flaherty,,T,,,B87,flaherty-bro+law
-1914Spalding,1913,New England League,F20401,Flaherty,,0,Brockton,,3b66,flaherty-bro+law
-1914Spalding,1913,New England League,F20661,Flaherty,,0,Lynn,,of31,flaherty-lyn
-1914Spalding,1913,New England League,F20829,Flaherty,,1,Brockton,,of,flaherty-bro+law
-1914Spalding,1913,New England League,F20829,Flaherty,,2,Lawrence,,of,flaherty-bro+law
-1914Spalding,1913,New England League,F20829,Flaherty,,T,,,of18,flaherty-bro+law
-emilbb,1913,New England League,M90766,Flaherty,Patsy,,Lynn,,,
-1914Spalding,1913,New England League,B00667,Fuller,,1,Lawrence,,,fuller
-1914Spalding,1913,New England League,B00667,Fuller,,2,New Bedford,,,fuller
-1914Spalding,1913,New England League,B00667,Fuller,,T,,,B36,fuller
-1914Spalding,1913,New England League,F21324,Fuller,,1,Lawrence,,p,fuller
-1914Spalding,1913,New England League,F21324,Fuller,,2,New Bedford,,p,fuller
-1914Spalding,1913,New England League,F21324,Fuller,,T,,,p33,fuller
-1914Spalding,1913,New England League,P10244,Fuller,,1,Lawrence,,,fuller
-1914Spalding,1913,New England League,P10244,Fuller,,2,New Bedford,,,fuller
-1914Spalding,1913,New England League,P10244,Fuller,,T,,,,fuller
-1914Spalding,1913,New England League,B01093,Galvin,,0,Lawrence,,B35,galvin
-1914Spalding,1913,New England League,F21381,Galvin,,0,Lawrence,,c34,galvin
-emilbb,1913,New England League,M90728,Gray,James,,Lowell,,,
-1914Spalding,1913,New England League,B00045,Griffith,,0,New Bedford,,B95,griffith
-1914Spalding,1913,New England League,F20745,Griffith,,0,New Bedford,,of87,griffith
-1914Spalding,1913,New England League,B00174,Halstein,,0,Lowell,,B125,halstein
-1914Spalding,1913,New England League,F20046,Halstein,,0,Lowell,,1b125,halstein
-1914Spalding,1913,New England League,B00544,Hambacher,,0,Worcester,,B24,hambacher
-1914Spalding,1913,New England League,F20878,Hambacher,,0,Worcester,,of24,hambacher
-1914Spalding,1913,New England League,B00695,Harrington,,0,Lynn,,B30,harrington
-1914Spalding,1913,New England League,F21130,Harrington,,0,Lynn,,p23,harrington
-1914Spalding,1913,New England League,P10277,Harrington,,0,Lynn,,,harrington
-1914Spalding,1913,New England League,B00566,Hayden,,0,Portland,,B94,hayden
-1914Spalding,1913,New England League,F21469,Hayden,,0,Portland,,c84,hayden
-1914Spalding,1913,New England League,B01203,Henderson,,0,Lowell,,B33,henderson
-1914Spalding,1913,New England League,F21278,Henderson,,0,Lowell,,p29,henderson
-1914Spalding,1913,New England League,P10024,Henderson,,0,Lowell,,,henderson
-1914Spalding,1913,New England League,B00092,Hickman,,0,Portland,,B120,hickman
-1914Spalding,1913,New England League,F20552,Hickman,,0,Portland,,ss112,hickman
-1914Spalding,1913,New England League,B00182,Howard,,0,Brockton,,B85,howard-bro
-1914Spalding,1913,New England League,B00589,Howard,,0,Fall River,,B58,howard-fr
-1914Spalding,1913,New England League,F20458,Howard,,0,Lynn,,3b20,howard-lyn
-1914Spalding,1913,New England League,F20855,Howard,,0,Fall River,,of37,howard-fr
-1914Spalding,1913,New England League,F20886,Howard,,0,Brockton,,of83,howard-bro
-1914Spalding,1913,New England League,B00609,Hoyt,,0,Brockton,,B33,hoyt
-1914Spalding,1913,New England League,F20102,Hoyt,,0,Brockton,,1b32,hoyt
-1914Spalding,1913,New England League,F20807,Jacobsen,,1,Portland,,of,jacobsen
-1914Spalding,1913,New England League,F20807,Jacobsen,,2,Lynn,,of,jacobsen
-1914Spalding,1913,New England League,F20807,Jacobsen,,T,,,of17,jacobsen
-1914Spalding,1913,New England League,B00961,Jacobson,,1,Portland,,,jacobsen
-1914Spalding,1913,New England League,B00961,Jacobson,,2,Lynn,,,jacobsen
-1914Spalding,1913,New England League,B00961,Jacobson,,T,,,B17,jacobsen
-1914Spalding,1913,New England League,B01197,Jewell,,1,Lawrence,,,jewell
-1914Spalding,1913,New England League,B01197,Jewell,,2,Portland,,,jewell
-1914Spalding,1913,New England League,B01197,Jewell,,T,,,B32,jewell
-1914Spalding,1913,New England League,F21293,Jewell,,1,Portland,,p,jewell
-1914Spalding,1913,New England League,F21293,Jewell,,2,Lawrence,,p,jewell
-1914Spalding,1913,New England League,F21293,Jewell,,T,,,p32,jewell
-1914Spalding,1913,New England League,P10202,Jewell,,1,Lawrence,,,jewell
-1914Spalding,1913,New England League,P10202,Jewell,,2,Portland,,,jewell
-1914Spalding,1913,New England League,P10202,Jewell,,T,,,,jewell
-1914Spalding,1913,New England League,B00502,Johnson,,0,Fall River,,B38,johnson
-1914Spalding,1913,New England League,F21286,Johnson,,0,Fall River,,p38,johnson
-1914Spalding,1913,New England League,P10253,Johnson,,0,Fall River,,,johnson
-1914Spalding,1913,New England League,B00319,Jones,,0,Fall River,,B15,jones
-1914Spalding,1913,New England League,F20776,Jones,,0,Fall River,,of15,jones
-1914Spalding,1913,New England League,B00794,Kane,,0,New Bedford,,B75,kane
-1914Spalding,1913,New England League,F20128,Kane,,0,New Bedford,,1b35,kane
-1914Spalding,1913,New England League,F20759,Kane,,0,New Bedford,,of22,kane
-1914Spalding,1913,New England League,B00726,Kennedy,,0,New Bedford,,B113,kennedy-nb
-1914Spalding,1913,New England League,B01086,Kennedy,,1,Worcester,,,kennedy-wor+bro
-1914Spalding,1913,New England League,B01086,Kennedy,,2,Brockton,,,kennedy-wor+bro
-1914Spalding,1913,New England League,B01086,Kennedy,,T,,,B85,kennedy-wor+bro
-1914Spalding,1913,New England League,F20131,Kennedy,,0,Brockton,,1b52,kennedy-wor+bro
-1914Spalding,1913,New England League,F20636,Kennedy,,1,Worcester,,ss,kennedy-wor+bro
-1914Spalding,1913,New England League,F20636,Kennedy,,2,Brockton,,ss,kennedy-wor+bro
-1914Spalding,1913,New England League,F20636,Kennedy,,T,,,ss27,kennedy-wor+bro
-1914Spalding,1913,New England League,F20981,Kennedy,,0,New Bedford,,of113,kennedy-nb
-1914Spalding,1913,New England League,B00747,Kilhullen,,0,New Bedford,,B104,kilhullen
-1914Spalding,1913,New England League,F21515,Kilhullen,,0,New Bedford,,c92,kilhullen
-1914Spalding,1913,New England League,B01055,King,,0,New Bedford,,B48,king-nb
-1914Spalding,1913,New England League,B01124,King,,0,Portland,,B16,king-por
-1914Spalding,1913,New England League,F20841,King,,0,Portland,,of16,king-por
-1914Spalding,1913,New England League,F21076,King,,0,New Bedford,,p41,king-nb
-1914Spalding,1913,New England League,P10215,King,,0,New Bedford,,,king-nb
-1914Spalding,1913,New England League,B01288,Knapp,,1,Fall River,,,knapp
-1914Spalding,1913,New England League,B01288,Knapp,,2,Lawrence,,,knapp
-1914Spalding,1913,New England League,B01288,Knapp,,T,,,B22,knapp
-1914Spalding,1913,New England League,F21264,Knapp,,1,Lawrence,,p,knapp
-1914Spalding,1913,New England League,F21264,Knapp,,2,Fall River,,p,knapp
-1914Spalding,1913,New England League,F21264,Knapp,,T,,,p22,knapp
-1914Spalding,1913,New England League,P10168,Knapp,,1,Fall River,,,knapp
-1914Spalding,1913,New England League,P10168,Knapp,,2,Lawrence,,,knapp
-1914Spalding,1913,New England League,P10168,Knapp,,T,,,,knapp
-1914Spalding,1913,New England League,B00531,Lavigne,,1,Lowell,,,lavigne
-1914Spalding,1913,New England League,B00531,Lavigne,,2,Lynn,,,lavigne
-1914Spalding,1913,New England League,B00531,Lavigne,,T,,,B101,lavigne
-1914Spalding,1913,New England League,F21475,Lavigne,,1,Lowell,,c,lavigne
-1914Spalding,1913,New England League,F21475,Lavigne,,2,Lynn,,c,lavigne
-1914Spalding,1913,New England League,F21475,Lavigne,,T,,,c101,lavigne
-1914Spalding,1913,New England League,B00037,Layster,,0,Lawrence,,B121,luyster
-1914Spalding,1913,New England League,B00879,Leonard,,1,Lynn,,,leonard
-1914Spalding,1913,New England League,B00879,Leonard,,2,New Bedford,,,leonard
-1914Spalding,1913,New England League,B00879,Leonard,,T,,,B40,leonard
-1914Spalding,1913,New England League,F20604,Leonard,,1,Lynn,,ss,leonard
-1914Spalding,1913,New England League,F20604,Leonard,,2,New Bedford,,ss,leonard
-1914Spalding,1913,New England League,F20604,Leonard,,T,,,ss26,leonard
-1914Spalding,1913,New England League,B00515,Logan,,1,Fall River,,,logan
-1914Spalding,1913,New England League,B00515,Logan,,2,New Bedford,,,logan
-1914Spalding,1913,New England League,B00515,Logan,,T,,,B87,logan
-1914Spalding,1913,New England League,F20014,Logan,,0,New Bedford,,1b47,logan
-1914Spalding,1913,New England League,F20265,Logan,,1,Fall River,,2b,logan
-1914Spalding,1913,New England League,F20265,Logan,,2,New Bedford,,2b,logan
-1914Spalding,1913,New England League,F20265,Logan,,T,,,2b40,logan
-1914Spalding,1913,New England League,F20924,Luyster,,0,Lawrence,,of108,luyster
-1914Spalding,1913,New England League,P10266,Luyster,,0,Lawrence,,,luyster
-1914Spalding,1913,New England League,B00021,Magee,,0,Lowell,,B125,magee
-1914Spalding,1913,New England League,F21000,Magee,,0,Lowell,,of125,magee
-1914Spalding,1913,New England League,B00450,Mahoney,,0,Lawrence,,B114,mahoney
-1914Spalding,1913,New England League,F20417,Mahoney,,0,Lawrence,,3b111,mahoney
-1914Spalding,1913,New England League,B00210,Maloney,,0,Brockton,,B119,maloney
-1914Spalding,1913,New England League,F20657,Maloney,,0,Brockton,,of119,maloney
-1914Spalding,1913,New England League,B00957,Martin,,0,Lawrence,,B41,martin
-1914Spalding,1913,New England League,F21255,Martin,,0,Lawrence,,p41,martin
-1914Spalding,1913,New England League,P10137,Martin,,0,Lawrence,,,martin
-1914Spalding,1913,New England League,B00614,Mayberry,,0,Portland,,B21,mayberry
-1914Spalding,1913,New England League,F21125,Mayberry,,0,Portland,,p20,mayberry
-1914Spalding,1913,New England League,P10043,Mayberry,,0,Portland,,,mayberry
-1914Spalding,1913,New England League,B01108,Maybohm,,0,Lowell,,B32,maybohm
-1914Spalding,1913,New England League,F21319,Maybohm,,0,Lowell,,p32,maybohm
-1914Spalding,1913,New England League,P10081,Maybohm,,0,Lowell,,,maybohm
-1914Spalding,1913,New England League,B00335,McCune,,0,Worcester,,B101,mccune
-1914Spalding,1913,New England League,F20051,McCune,,0,Worcester,,1b64,mccune
-1914Spalding,1913,New England League,F21370,McCune,,0,Worcester,,c27,mccune
-1914Spalding,1913,New England League,B01368,McGill,,0,Brockton,,B20,mcgill
-1914Spalding,1913,New England League,F20908,McGill,,0,Brockton,,of20,mcgill
-1914Spalding,1913,New England League,B00718,McGovern,,0,Fall River,,B99,mcgovern
-1914Spalding,1913,New England League,F20072,McGovern,,0,Fall River,,1b99,mcgovern
-1914Spalding,1913,New England League,B01170,McKeon,,1,Lowell,,,mckeon
-1914Spalding,1913,New England League,B01170,McKeon,,2,Fall River,,,mckeon
-1914Spalding,1913,New England League,B01170,McKeon,,3,New Bedford,,,mckeon
-1914Spalding,1913,New England League,B01170,McKeon,,4,Brockton,,,mckeon
-1914Spalding,1913,New England League,B01170,McKeon,,T,,,B27,mckeon
-1914Spalding,1913,New England League,F20792,McKeon,,1,Lowell,,of,mckeon
-1914Spalding,1913,New England League,F20792,McKeon,,2,Brockton,,of,mckeon
-1914Spalding,1913,New England League,F20792,McKeon,,3,Fall River,,of,mckeon
-1914Spalding,1913,New England League,F20792,McKeon,,4,New Bedford,,of,mckeon
-1914Spalding,1913,New England League,F20792,McKeon,,T,,,of23,mckeon
-1914Spalding,1913,New England League,B00229,McMahon,,1,Lynn,,,mcmahon
-1914Spalding,1913,New England League,B00229,McMahon,,2,Brockton,,,mcmahon
-1914Spalding,1913,New England League,B00229,McMahon,,T,,,B53,mcmahon
-1914Spalding,1913,New England League,F20375,McMahon,,1,Lynn,,3b,mcmahon
-1914Spalding,1913,New England League,F20375,McMahon,,2,Brockton,,3b,mcmahon
-1914Spalding,1913,New England League,F20375,McMahon,,T,,,3b28,mcmahon
-1914Spalding,1913,New England League,F20571,McMahon,,0,Brockton,,ss25,mcmahon
-1914Spalding,1913,New England League,B00752,Meehan,,0,Portland,,B59,meehan
-1914Spalding,1913,New England League,F21403,Meehan,,0,Portland,,c48,meehan
-1914Spalding,1913,New England League,B00488,Merrill,,0,Portland,,B120,merrill
-1914Spalding,1913,New England League,F20970,Merrill,,0,Portland,,of116,merrill
-1914Spalding,1913,New England League,B00117,Miller,,0,Lowell,,B124,miller-low
-1914Spalding,1913,New England League,B00999,Miller,,0,Worcester,,B18,miller-wor
-1914Spalding,1913,New England League,F20254,Miller,,0,Lowell,,2b124,miller-low
-1914Spalding,1913,New England League,B00771,Monahan,,0,Lowell,,B35,monahan
-1914Spalding,1913,New England League,F21528,Monahan,,0,Lowell,,c25,monahan
-1914Spalding,1913,New England League,B00638,Moulton,,0,Lynn,,B113,moulton
-1914Spalding,1913,New England League,F20189,Moulton,,0,Lynn,,2b113,moulton
-1914Spalding,1913,New England League,B00760,Mulvey,,1,New Bedford,,,mulvey
-1914Spalding,1913,New England League,B00760,Mulvey,,2,Fall River,,,mulvey
-1914Spalding,1913,New England League,B00760,Mulvey,,T,,,B35,mulvey
-1914Spalding,1913,New England League,F20342,Mulvey,,1,New Bedford,,3b,mulvey
-1914Spalding,1913,New England League,F20342,Mulvey,,2,Fall River,,3b,mulvey
-1914Spalding,1913,New England League,F20342,Mulvey,,T,,,3b34,mulvey
-1914Spalding,1913,New England League,B01029,Nelson,,0,Brockton,,B30,nelson
-1914Spalding,1913,New England League,F20449,Nelson,,0,Brockton,,3b28,nelson
-1914Spalding,1913,New England League,B01032,Neptune,,0,Lynn,,B72,neptune
-1914Spalding,1913,New England League,F20539,Neptune,,0,Lynn,,ss72,neptune
-1914Spalding,1913,New England League,B00286,Nye,,0,Worcester,,B127,nye
-1914Spalding,1913,New England League,F20233,Nye,,0,Worcester,,2b127,nye
-1914Spalding,1913,New England League,F20463,Nye,,0,Worcester,,ss127,nye
-1914Spalding,1913,New England League,B00068,O'Brien,,0,Fall River,,B16,obrien
-1914Spalding,1913,New England League,F20832,O'Brien,,0,Fall River,,of16,obrien
-emilbb,1913,New England League,M90789,O'Brien,John H.,,New Bedford,,,
-1914Spalding,1913,New England League,B00397,O'Connell,,0,Lawrence,,B123,oconnell
-1914Spalding,1913,New England League,F20943,O'Connell,,0,Lawrence,,of123,oconnell
-1914Spalding,1913,New England League,B00362,Orcutt,,0,Lynn,,B120,orcutt
-1914Spalding,1913,New England League,F20673,Orcutt,,0,Lynn,,of120,orcutt
-1914Spalding,1913,New England League,B00403,Pearson,,0,Lawrence,,B69,pearson
-1914Spalding,1913,New England League,F21045,Pearson,,0,Lawrence,,of15,pearson
-1914Spalding,1913,New England League,F21068,Pearson,,0,Lawrence,,p38,pearson
-1914Spalding,1913,New England League,P10121,Pearson,,0,Lawrence,,,pearson
-1914Spalding,1913,New England League,B01313,Perkins,,0,Fall River,,B28,perkins
-1914Spalding,1913,New England League,F21491,Perkins,,0,Fall River,,c28,perkins
-1914Spalding,1913,New England League,B00491,Pfeffer,,1,Lynn,,,pfeffer
-1914Spalding,1913,New England League,B00491,Pfeffer,,2,Worcester,,,pfeffer
-1914Spalding,1913,New England League,B00491,Pfeffer,,T,,,B51,pfeffer
-1914Spalding,1913,New England League,F20737,Pfeffer,,1,Lynn,,of,pfeffer
-1914Spalding,1913,New England League,F20737,Pfeffer,,2,Worcester,,of,pfeffer
-1914Spalding,1913,New England League,F20737,Pfeffer,,T,,,of28,pfeffer
-1914Spalding,1913,New England League,B00590,Phoenix,,0,Lawrence,,B122,phoenix
-1914Spalding,1913,New England League,F20206,Phoenix,,0,Lawrence,,2b120,phoenix
-emilbb,1913,New England League,M90753,Piper,Louis,,Lawrence,,,
-1914Spalding,1913,New England League,B00370,Porter,,0,Lynn,,B105,porter
-1914Spalding,1913,New England League,F20713,Porter,,0,Lynn,,of95,porter
-1914Spalding,1913,New England League,B00427,Pumphrey,,0,Portland,,B93,pumphrey
-1914Spalding,1913,New England League,F20080,Pumphrey,,0,Portland,,1b68,pumphrey
-1914Spalding,1913,New England League,F20298,Pumphrey,,0,Portland,,2b20,pumphrey
-1914Spalding,1913,New England League,B01345,Rieger,,1,Fall River,,,rieger
-1914Spalding,1913,New England League,B01345,Rieger,,2,Lowell,,,rieger
-1914Spalding,1913,New England League,B01345,Rieger,,T,,,B17,rieger
-1914Spalding,1913,New England League,F21343,Rieger,,1,Lowell,,p,rieger
-1914Spalding,1913,New England League,F21343,Rieger,,2,Fall River,,p,rieger
-1914Spalding,1913,New England League,F21343,Rieger,,T,,,p17,rieger
-1914Spalding,1913,New England League,P10348,Rieger,,1,Lowell,,,rieger
-1914Spalding,1913,New England League,P10348,Rieger,,2,Fall River,,,rieger
-1914Spalding,1913,New England League,P10348,Rieger,,T,,,,rieger
-1914Spalding,1913,New England League,B00783,Riley,,0,Portland,,B17,riley
-1914Spalding,1913,New England League,B00887,Robinson,,0,Fall River,,B90,robinson
-1914Spalding,1913,New England League,F20721,Robinson,,0,Fall River,,of90,robinson
-1914Spalding,1913,New England League,B00381,Roes,,1,Portland,,,roes
-1914Spalding,1913,New England League,B00381,Roes,,2,Worcester,,,roes
-1914Spalding,1913,New England League,B00381,Roes,,T,,,B118,roes
-1914Spalding,1913,New England League,F20350,Roes,,1,Portland,,3b,roes
-1914Spalding,1913,New England League,F20350,Roes,,2,Worcester,,3b,roes
-1914Spalding,1913,New England League,F20350,Roes,,T,,,3b95,roes
-1914Spalding,1913,New England League,F21434,Rufiange,,0,Brockton,,c76,rufiange
-emilbb,1913,New England League,M90808,Rufiange,Nick,,Brockton,,,
-1914Spalding,1913,New England League,B00646,Ruflange,,0,Brockton,,B99,rufiange
-1914Spalding,1913,New England League,B01359,Ryerson,,1,Fall River,,,ryerson
-1914Spalding,1913,New England League,B01359,Ryerson,,2,Worcester,,,ryerson
-1914Spalding,1913,New England League,B01359,Ryerson,,T,,,B18,ryerson
-1914Spalding,1913,New England League,B01321,Scanlon,,1,Lynn,,,scanlon
-1914Spalding,1913,New England League,B01321,Scanlon,,2,Lawrence,,,scanlon
-1914Spalding,1913,New England League,B01321,Scanlon,,3,Worcester,,,scanlon
-1914Spalding,1913,New England League,B01321,Scanlon,,4,Fall River,,,scanlon
-1914Spalding,1913,New England League,B01321,Scanlon,,T,,,B29,scanlon
-1914Spalding,1913,New England League,F21149,Scanlon,,1,Lynn,,p,scanlon
-1914Spalding,1913,New England League,F21149,Scanlon,,2,Worcester,,p,scanlon
-1914Spalding,1913,New England League,F21149,Scanlon,,3,Lawrence,,p,scanlon
-1914Spalding,1913,New England League,F21149,Scanlon,,4,Fall River,,p,scanlon
-1914Spalding,1913,New England League,F21149,Scanlon,,T,,,p29,scanlon
-1914Spalding,1913,New England League,P10320,Scanlon,,1,Lynn,,,scanlon
-1914Spalding,1913,New England League,P10320,Scanlon,,2,Worcester,,,scanlon
-1914Spalding,1913,New England League,P10320,Scanlon,,3,Fall River,,,scanlon
-1914Spalding,1913,New England League,P10320,Scanlon,,4,Lawrence,,,scanlon
-1914Spalding,1913,New England League,P10320,Scanlon,,T,,,,scanlon
-1914Spalding,1913,New England League,B00059,Shea,,1,Brockton,,,shea
-1914Spalding,1913,New England League,B00059,Shea,,2,New Bedford,,,shea
-1914Spalding,1913,New England League,B00059,Shea,,T,,,B17,shea
-1914Spalding,1913,New England League,F20810,Shea,,1,Brockton,,of,shea
-1914Spalding,1913,New England League,F20810,Shea,,2,New Bedford,,of,shea
-1914Spalding,1913,New England League,F20810,Shea,,T,,,of16,shea
-1914Spalding,1913,New England League,B01376,Shears,,0,Brockton,,B34,shears
-1914Spalding,1913,New England League,F21196,Shears,,0,Brockton,,p33,shears
-1914Spalding,1913,New England League,P10304,Shears,,0,Brockton,,,shears
-1914Spalding,1913,New England League,B00101,Shorten,,0,Worcester,,B127,shorten
-1914Spalding,1913,New England League,F20864,Shorten,,0,Worcester,,of127,shorten
-1914Spalding,1913,New England League,B00255,Slattery,,0,Portland,,B16,slattery
-1914Spalding,1913,New England League,F20166,Slattery,,0,Portland,,1b16,slattery
-1914Spalding,1913,New England League,B00948,Southern,,0,Fall River,,B36,southern
-1914Spalding,1913,New England League,P10228,Southern,,0,Fall River,,,southern
-1914Spalding,1913,New England League,B00528,Spires,,0,New Bedford,,B101,spires
-1914Spalding,1913,New England League,F20303,Spires,,0,New Bedford,,3b84,spires
-1914Spalding,1913,New England League,F20583,Spires,,0,New Bedford,,ss16,spires
-1914Spalding,1913,New England League,B00324,Stewart,,0,Worcester,,B107,stewart
-1914Spalding,1913,New England League,F20153,Stewart,,0,Worcester,,1b16,stewart
-1914Spalding,1913,New England League,F20699,Stewart,,0,Worcester,,of84,stewart
-1914Spalding,1913,New England League,B00651,Strands,,0,Lynn,,B122,strands
-1914Spalding,1913,New England League,F20316,Strands,,0,Lynn,,3b23,strands
-1914Spalding,1913,New England League,F21021,Strands,,0,Lynn,,of97,strands
-1914Spalding,1913,New England League,B00196,Sullivan,J. L.,0,Portland,,B70,sullivan.j-por
-1914Spalding,1913,New England League,B01041,Sullivan,,1,Brockton,,,sullivan-bro+por
-1914Spalding,1913,New England League,B01041,Sullivan,,2,Portland,,,sullivan-bro+por
-1914Spalding,1913,New England League,B01041,Sullivan,,T,,,B109,sullivan-bro+por
-1914Spalding,1913,New England League,F20327,Sullivan,,1,Brockton,,3b,sullivan-bro+por
-1914Spalding,1913,New England League,F20327,Sullivan,,2,Portland,,3b,sullivan-bro+por
-1914Spalding,1913,New England League,F20327,Sullivan,,T,,,3b61,sullivan-bro+por
-1914Spalding,1913,New England League,F20547,Sullivan,,1,Brockton,,ss,sullivan-bro+por
-1914Spalding,1913,New England League,F20547,Sullivan,,2,Portland,,ss,sullivan-bro+por
-1914Spalding,1913,New England League,F20547,Sullivan,,T,,,ss45,sullivan-bro+por
-1914Spalding,1913,New England League,F21207,Sullivan,,0,Portland,,p39,sullivan.j-por
-1914Spalding,1913,New England League,P10097,Sullivan,,0,Portland,,,sullivan.j-por
-1914Spalding,1913,New England League,B01402,Swap,,0,Brockton,,B21,swap
-1914Spalding,1913,New England League,F21356,Swap,,0,Brockton,,p21,swap
-1914Spalding,1913,New England League,P10336,Swap,,0,Brockton,,,swap
-1914Spalding,1913,New England League,B00469,Sweatt,,0,New Bedford,,B116,sweatt
-1914Spalding,1913,New England League,F20177,Sweatt,,0,New Bedford,,2b16,sweatt
-1914Spalding,1913,New England League,F20956,Sweatt,,0,New Bedford,,of89,sweatt
-1914Spalding,1913,New England League,B01300,Swetonick,,0,Lawrence,,B16,swetonick
-1914Spalding,1913,New England League,B01216,Tesch,,0,Brockton,,B30,tesch
-1914Spalding,1913,New England League,F20620,Tesch,,0,Brockton,,ss27,tesch
-1914Spalding,1913,New England League,B00076,Thomas,,0,Lowell,,B35,thomas-low
-1914Spalding,1913,New England League,B01337,Thomas,,0,Worcester,,B29,thomas-wor
-1914Spalding,1913,New England League,F21158,Thomas,,0,Worcester,,p29,thomas-wor
-1914Spalding,1913,New England League,F21416,Thomas,,0,Lowell,,c28,thomas-low
-1914Spalding,1913,New England League,P10070,Thomas,,0,Worcester,,,thomas-wor
-1914Spalding,1913,New England League,B00985,Torphey,,1,Worcester,,,torphey
-1914Spalding,1913,New England League,B00985,Torphey,,2,New Bedford,,,torphey
-1914Spalding,1913,New England League,B00985,Torphey,,T,,,B33,torphey
-1914Spalding,1913,New England League,F20560,Torphey,,0,New Bedford,,ss20,torphey
-1914Spalding,1913,New England League,B01227,Van Dyke,,0,Worcester,,B43,vandyke
-1914Spalding,1913,New England League,F21210,Van Dyke,,0,Worcester,,p39,vandyke
-1914Spalding,1913,New England League,P10192,Van Dyke,,0,Worcester,,,vandyke
-1914Spalding,1913,New England League,B00475,Walsh,,0,Worcester,,B88,walsh
-1914Spalding,1913,New England League,F20893,Walsh,,0,Worcester,,of88,walsh
-1914Spalding,1913,New England League,B00854,Weeden,,1,New Bedford,,,weeden
-1914Spalding,1913,New England League,B00854,Weeden,,2,Fall River,,,weeden
-1914Spalding,1913,New England League,B00854,Weeden,,T,,,B88,weeden
-1914Spalding,1913,New England League,F21502,Weeden,,1,New Bedford,,c,weeden
-1914Spalding,1913,New England League,F21502,Weeden,,2,Fall River,,c,weeden
-1914Spalding,1913,New England League,F21502,Weeden,,T,,,c66,weeden
-1914Spalding,1913,New England League,B00811,White,,0,Worcester,,B15,white-wor
-1914Spalding,1913,New England League,B01143,White,,1,New Bedford,,,white-5
-1914Spalding,1913,New England League,B01143,White,,2,Lawrence,,,white-5
-1914Spalding,1913,New England League,B01143,White,,3,Portland,,,white-5
-1914Spalding,1913,New England League,B01143,White,,4,Lynn,,,white-5
-1914Spalding,1913,New England League,B01143,White,,5,Fall River,,,white-5
-1914Spalding,1913,New England League,B01143,White,,T,,,B31,white-5
-1914Spalding,1913,New England League,F20425,White,,0,Worcester,,3b15,white-wor
-1914Spalding,1913,New England League,F21531,White,,1,New Bedford,,c,white-5
-1914Spalding,1913,New England League,F21531,White,,2,Lynn,,c,white-5
-1914Spalding,1913,New England League,F21531,White,,3,Portland,,c,white-5
-1914Spalding,1913,New England League,F21531,White,,4,Lawrence,,c,white-5
-1914Spalding,1913,New England League,F21531,White,,5,Fall River,,c,white-5
-1914Spalding,1913,New England League,F21531,White,,T,,,c24,white-5
-1914Spalding,1913,New England League,B00013,Wilson,,0,Lynn,,B122,wilson-lyn
-1914Spalding,1913,New England League,B01007,Wilson,,0,Worcester,,B24,wilson-wor
-1914Spalding,1913,New England League,F20095,Wilson,,0,Worcester,,1b122,wilson-lyn
-1914Spalding,1913,New England League,F20919,Wilson,,0,Worcester,,of18,wilson-wor
-1914Spalding,1913,New England League,B00130,Wood,,1,Brockton,,,wood
-1914Spalding,1913,New England League,B00130,Wood,,2,New Bedford,,,wood
-1914Spalding,1913,New England League,B00130,Wood,,3,Lowell,,,wood
-1914Spalding,1913,New England League,B00130,Wood,,T,,,B25,wood
-1914Spalding,1913,New England League,P10184,Wood,,1,Brockton,,,wood
-1914Spalding,1913,New England League,P10184,Wood,,2,New Bedford,,,wood
-1914Spalding,1913,New England League,P10184,Wood,,3,Lowell,,,wood
-1914Spalding,1913,New England League,P10184,Wood,,T,,,,wood
-1914Spalding,1913,New England League,B01156,Woodman,,0,Fall River,,B47,woodman
-1914Spalding,1913,New England League,F21163,Woodman,,0,Fall River,,p38,woodman
-1914Spalding,1913,New England League,P10312,Woodman,,0,Fall River,,,woodman
-1914Spalding,1913,New England League,B00822,Wormwood,,0,Portland,,B73,wormwood
-1914Spalding,1913,New England League,F20784,Wormwood,,0,Portland,,of20,wormwood
-1914Spalding,1913,New England League,F21241,Wormwood,,0,Portland,,p30,wormwood
-1914Spalding,1913,New England League,P10176,Wormwood,,0,Portland,,,wormwood
-1914Spalding,1913,New England League,B00833,Yelle,,1,Portland,,,yelle
-1914Spalding,1913,New England League,B00833,Yelle,,2,Lowell,,,yelle
-1914Spalding,1913,New England League,B00833,Yelle,,T,,,B25,yelle
-1914Spalding,1913,New England League,F20430,Yelle,,0,Portland,,3b24,yelle
-1914Spalding,1913,New England League,B01269,Yount,,0,New Bedford,,B36,yount
-1914Spalding,1913,New England League,F21092,Yount,,0,New Bedford,,p36,yount
-1914Spalding,1913,New England League,P10159,Yount,,0,New Bedford,,,yount
-1914Spalding,1913,New England League,B01291,Zieser,,0,Lowell,,B39,zieser
-1914Spalding,1913,New England League,F21174,Zieser,,0,Lowell,,p39,zieser
-1914Spalding,1913,New England League,P10100,Zieser,,0,Lowell,,,zieser
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+1914Spalding,1913,New England League,anderson-law,B00577,Anderson,,0,Lawrence,,B26
+1914Spalding,1913,New England League,anderson-bro,B00672,Anderson,,0,Brockton,,B33
+1914Spalding,1913,New England League,anderson-wor+low,B00973,Anderson,,1,Worcester,,
+1914Spalding,1913,New England League,anderson-wor+low,B00973,Anderson,,2,Lowell,,
+1914Spalding,1913,New England League,anderson-wor+low,B00973,Anderson,,T,,,B34
+1914Spalding,1913,New England League,anderson-law,F20115,Anderson,,0,Lawrence,,1b26
+1914Spalding,1913,New England League,anderson-wor+low,F20505,Anderson,,1,Worcester,,ss
+1914Spalding,1913,New England League,anderson-wor+low,F20505,Anderson,,2,Lowell,,ss
+1914Spalding,1913,New England League,anderson-wor+low,F20505,Anderson,,T,,,ss34
+1914Spalding,1913,New England League,anderson-bro,F21308,Anderson,,0,Brockton,,p26
+1914Spalding,1913,New England League,anderson-bro,P10062,Anderson,,0,Brockton,,
+1914Spalding,1913,New England League,arminger,B01384,Arminger,,0,Portland,,B16
+1914Spalding,1913,New England League,arminger,F21335,Arminger,,0,Portland,,p16
+1914Spalding,1913,New England League,aubrey,B00705,Aubrey,,1,Worcester,,
+1914Spalding,1913,New England League,aubrey,B00705,Aubrey,,2,Lowell,,
+1914Spalding,1913,New England League,aubrey,B00705,Aubrey,,T,,,B110
+1914Spalding,1913,New England League,aubrey,F20023,Aubrey,,0,Worcester,,1b28
+1914Spalding,1913,New England League,aubrey,F20474,Aubrey,,1,Lowell,,ss
+1914Spalding,1913,New England League,aubrey,F20474,Aubrey,,2,Worcester,,ss
+1914Spalding,1913,New England League,aubrey,F20474,Aubrey,,T,,,ss79
+1914Spalding,1913,New England League,barron,B01275,Barron,,1,Lowell,,
+1914Spalding,1913,New England League,barron,B01275,Barron,,2,Fall River,,
+1914Spalding,1913,New England League,barron,B01275,Barron,,T,,,B30
+1914Spalding,1913,New England League,barron,F21182,Barron,,1,Lowell,,p
+1914Spalding,1913,New England League,barron,F21182,Barron,,2,Fall River,,p
+1914Spalding,1913,New England League,barron,F21182,Barron,,T,,,p30
+1914Spalding,1913,New England League,barron,P10231,Barron,,1,Lowell,,
+1914Spalding,1913,New England League,barron,P10231,Barron,,2,Fall River,,
+1914Spalding,1913,New England League,barron,P10231,Barron,,T,,,
+1914Spalding,1913,New England League,bates,B01392,Bates,,0,Worcester,,B23
+1914Spalding,1913,New England League,bates,F21362,Bates,,0,Worcester,,p23
+1914Spalding,1913,New England League,bates,P10035,Bates,,0,Worcester,,
+1914Spalding,1913,New England League,boardman,B00806,Boardman,,0,Lynn,,B56
+1914Spalding,1913,New England League,boardman,F20369,Boardman,,0,Lynn,,3b56
+1914Spalding,1913,New England League,bowcock,B00084,Bowcock,,0,Portland,,B118
+1914Spalding,1913,New England League,bowcock,F20240,Bowcock,,0,Portland,,2b90
+1914Spalding,1913,New England League,bowcock,F20391,Bowcock,,0,Portland,,3b27
+1914Spalding,1913,New England League,breymaier,B01250,Breymaier,,0,Lawrence,,B71
+1914Spalding,1913,New England League,breymaier,F21397,Breymaier,,0,Lawrence,,c69
+1914Spalding,1913,New England League,briggs,B00416,Briggs,,0,New Bedford,,B15
+1914Spalding,1913,New England League,brignolia,B01010,Brignolia,,0,Brockton,,B75
+1914Spalding,1913,New England League,brignolia,F20700,Brignolia,,0,Brockton,,of50
+1914Spalding,1913,New England League,brignolia,F21117,Brignolia,,0,Brockton,,p21
+1914Spalding,1913,New England League,brignolia,P10289,Brignolia,,0,Brockton,,
+1914Spalding,1913,New England League,britton,B00343,Britton,,0,Lynn,,B42
+1914Spalding,1913,New England League,britton,F21101,Britton,,0,Lynn,,p32
+1914Spalding,1913,New England League,britton,P10113,Britton,,0,Lynn,,
+1914Spalding,1913,New England League,bruggy,B00278,Bruggy,,0,Lawrence,,B122
+1914Spalding,1913,New England League,bruggy,F20768,Bruggy,,0,Lawrence,,of98
+1914Spalding,1913,New England League,burkett,B00840,Burkett,,0,Worcester,,B19
+emilbb,1913,New England League,,M90744,Burkett,Jesse,,Worcester,,
+1914Spalding,1913,New England League,burns,B00293,Burns,,1,Lowell,,
+1914Spalding,1913,New England League,burns,B00293,Burns,,2,Portland,,
+1914Spalding,1913,New England League,burns,B00293,Burns,,T,,,B107
+1914Spalding,1913,New England League,burns,F20962,Burns,,0,Portland,,of103
+1914Spalding,1913,New England League,bushelman,B01415,Bushelman,,0,Worcester,,B42
+1914Spalding,1913,New England League,bushelman,F21232,Bushelman,,0,Worcester,,p42
+1914Spalding,1913,New England League,bushelman,P10056,Bushelman,,0,Worcester,,
+1914Spalding,1913,New England League,campbell,B01078,Campbell,,0,Fall River,,B118
+1914Spalding,1913,New England League,campbell,F20222,Campbell,,0,Fall River,,2b82
+1914Spalding,1913,New England League,cargo,B00898,Cargo,,1,Lawrence,,
+1914Spalding,1913,New England League,cargo,B00898,Cargo,,2,New Bedford,,
+1914Spalding,1913,New England League,cargo,B00898,Cargo,,3,Fall River,,
+1914Spalding,1913,New England League,cargo,B00898,Cargo,,T,,,B103
+1914Spalding,1913,New England League,cargo,F20496,Cargo,,1,Lawrence,,ss
+1914Spalding,1913,New England League,cargo,F20496,Cargo,,2,New Bedford,,ss
+1914Spalding,1913,New England League,cargo,F20496,Cargo,,3,Fall River,,ss
+1914Spalding,1913,New England League,cargo,F20496,Cargo,,T,,,ss102
+1914Spalding,1913,New England League,carlstrom,B00356,Carlstrom,,0,Lawrence,,B121
+1914Spalding,1913,New England League,carlstrom,F20038,Carlstrom,,0,Lawrence,,1b87
+1914Spalding,1913,New England League,carlstrom,F20482,Carlstrom,,0,Lawrence,,ss34
+1914Spalding,1913,New England League,carroll,B00623,Carroll,,0,Worcester,,B110
+1914Spalding,1913,New England League,carroll,F21442,Carroll,,0,Worcester,,c95
+1914Spalding,1913,New England League,cassavant,B01234,Cassavant,,1,Fall River,,
+1914Spalding,1913,New England League,cassavant,B01234,Cassavant,,2,Lynn,,
+1914Spalding,1913,New England League,cassavant,B01234,Cassavant,,T,,,B51
+1914Spalding,1913,New England League,cassavant,F20526,Cassavant,,1,Fall River,,ss
+1914Spalding,1913,New England League,cassavant,F20526,Cassavant,,2,Lynn,,ss
+1914Spalding,1913,New England League,cassavant,F20526,Cassavant,,T,,,ss51
+1914Spalding,1913,New England League,catterson,B00125,Catterson,,0,Fall River,,B57
+1914Spalding,1913,New England League,catterson,F20935,Catterson,,0,Fall River,,of56
+1914Spalding,1913,New England League,cawley,B01135,Cawley,,1,Lawrence,,
+1914Spalding,1913,New England League,cawley,B01135,Cawley,,2,Lowell,,
+1914Spalding,1913,New England League,cawley,B01135,Cawley,,T,,,B18
+1914Spalding,1913,New England League,chaney,P10357,Chaney,,0,Brockton,,
+1914Spalding,1913,New England League,clemens,B00207,Clemens,,0,Lowell,,B127
+1914Spalding,1913,New England League,clemens,F21037,Clemens,,0,Lowell,,of127
+emilbb,1913,New England League,,M90790,Clohecy,Dan,,Fall River,,
+1914Spalding,1913,New England League,collins,B01242,Collins,,0,New Bedford,,B19
+1914Spalding,1913,New England League,collins,F21084,Collins,,0,New Bedford,,p17
+1914Spalding,1913,New England League,collins,P10290,Collins,,0,New Bedford,,
+1914Spalding,1913,New England League,connaughton,B00434,Connaughton,,0,New Bedford,,B27
+1914Spalding,1913,New England League,connaughton,F20190,Connaughton,,0,New Bedford,,2b27
+emilbb,1913,New England League,,M90777,Connaughton,Frank,,New Bedford,,
+1914Spalding,1913,New England League,connolly,B01119,Connolly,,1,New Bedford,,
+1914Spalding,1913,New England League,connolly,B01119,Connolly,,2,Fall River,,
+1914Spalding,1913,New England League,connolly,B01119,Connolly,,T,,,B40
+1914Spalding,1913,New England League,connolly,F21450,Connolly,,1,New Bedford,,c
+1914Spalding,1913,New England League,connolly,F21450,Connolly,,2,Fall River,,c
+1914Spalding,1913,New England League,connolly,F21450,Connolly,,T,,,c34
+1914Spalding,1913,New England League,cooney-fr,B00149,Cooney,,0,Fall River,,B23
+1914Spalding,1913,New England League,cooney-wor,B00241,Cooney,,0,Worcester,,B73
+1914Spalding,1913,New England League,cooney-wor,F20518,Cooney,,0,Worcester,,ss61
+1914Spalding,1913,New England League,courtney-law+low,B00308,Courtney,,1,Lawrence,,
+1914Spalding,1913,New England League,courtney-law+low,B00308,Courtney,,2,Lowell,,
+1914Spalding,1913,New England League,courtney-law+low,B00308,Courtney,,T,,,B58
+1914Spalding,1913,New England League,courtney-fr+por,B00442,Courtney,,1,Fall River,,
+1914Spalding,1913,New England League,courtney-fr+por,B00442,Courtney,,2,Portland,,
+1914Spalding,1913,New England League,courtney-fr+por,B00442,Courtney,,T,,,B79
+1914Spalding,1913,New England League,courtney-law+low,F20594,Courtney,,1,Lawrence,,ss
+1914Spalding,1913,New England League,courtney-law+low,F20594,Courtney,,2,Lowell,,ss
+1914Spalding,1913,New England League,courtney-law+low,F20594,Courtney,,T,,,ss58
+1914Spalding,1913,New England League,courtney-fr+por,F20997,Courtney,,1,Fall River,,of
+1914Spalding,1913,New England League,courtney-fr+por,F20997,Courtney,,2,Portland,,of
+1914Spalding,1913,New England League,courtney-fr+por,F20997,Courtney,,T,,,of78
+1914Spalding,1913,New England League,crowley,B00865,Crowley,,1,Worcester,,
+1914Spalding,1913,New England League,crowley,B00865,Crowley,,2,New Bedford,,
+1914Spalding,1913,New England League,crowley,B00865,Crowley,,T,,,B64
+1914Spalding,1913,New England League,crowley,F20287,Crowley,,0,New Bedford,,2b38
+1914Spalding,1913,New England League,crowley,F20648,Crowley,,1,Worcester,,ss
+1914Spalding,1913,New England League,crowley,F20648,Crowley,,2,New Bedford,,ss
+1914Spalding,1913,New England League,crowley,F20648,Crowley,,T,,,ss24
+1914Spalding,1913,New England League,cunningham,B00904,Cunningham,,0,Lynn,,B38
+1914Spalding,1913,New England League,cunningham,F21229,Cunningham,,0,Lynn,,p37
+1914Spalding,1913,New England League,cunningham,P10145,Cunningham,,0,Lynn,,
+1914Spalding,1913,New England League,daly,B00163,Daly,,0,Lowell,,B95
+1914Spalding,1913,New England League,daly,F21488,Daly,,0,Lowell,,c85
+1914Spalding,1913,New England League,daum,B00553,Daum,,1,Lynn,,
+1914Spalding,1913,New England League,daum,B00553,Daum,,2,Brockton,,
+1914Spalding,1913,New England League,daum,B00553,Daum,,T,,,B68
+1914Spalding,1913,New England League,daum,F20067,Daum,,0,Brockton,,1b20
+1914Spalding,1913,New England League,daum,F21427,Daum,,1,Lynn,,c
+1914Spalding,1913,New England League,daum,F21427,Daum,,2,Brockton,,c
+1914Spalding,1913,New England League,daum,F21427,Daum,,T,,,c41
+1914Spalding,1913,New England League,degroff,B00264,DeGroff,,0,Lowell,,B120
+1914Spalding,1913,New England League,degroff,F21013,DeGroff,,0,Lowell,,of119
+1914Spalding,1913,New England League,dean,B01181,Dean,,0,New Bedford,,B41
+1914Spalding,1913,New England League,dean,F20211,Dean,,0,New Bedford,,2b19
+1914Spalding,1913,New England League,dee,B00739,Dee,,0,Lowell,,B128
+1914Spalding,1913,New England League,dee,F20388,Dee,,0,Lowell,,3b118
+1914Spalding,1913,New England League,delaney,B00920,Delaney,,1,Fall River,,
+1914Spalding,1913,New England League,delaney,B00920,Delaney,,2,Worcester,,
+1914Spalding,1913,New England League,delaney,B00920,Delaney,,T,,,B37
+1914Spalding,1913,New England League,devine,B00158,Devine,,0,Fall River,,B114
+1914Spalding,1913,New England League,devine,F20144,Devine,,0,Fall River,,1b19
+1914Spalding,1913,New England League,devine,F20334,Devine,,0,Fall River,,3b76
+1914Spalding,1913,New England League,dowd,B00232,Dowd,,0,Brockton,,B119
+1914Spalding,1913,New England League,dowd,F20279,Dowd,,0,Brockton,,2b119
+emilbb,1913,New England League,,M90731,Duffy,Hugh,,Portland,,
+1914Spalding,1913,New England League,ferrin,B00680,Ferrin,,1,Portland,,
+1914Spalding,1913,New England League,ferrin,B00680,Ferrin,,2,Lawrence,,
+1914Spalding,1913,New England League,ferrin,B00680,Ferrin,,3,Fall River,,
+1914Spalding,1913,New England League,ferrin,B00680,Ferrin,,4,Brockton,,
+1914Spalding,1913,New England League,ferrin,B00680,Ferrin,,T,,,B90
+1914Spalding,1913,New England League,ferrin,F20685,Ferrin,,1,Portland,,of
+1914Spalding,1913,New England League,ferrin,F20685,Ferrin,,2,Lawrence,,of
+1914Spalding,1913,New England League,ferrin,F20685,Ferrin,,3,Brockton,,of
+1914Spalding,1913,New England League,ferrin,F20685,Ferrin,,4,Fall River,,of
+1914Spalding,1913,New England League,ferrin,F20685,Ferrin,,T,,,of89
+1914Spalding,1913,New England League,finneran,B01162,Finneran,,0,Lowell,,B20
+1914Spalding,1913,New England League,finneran,F21059,Finneran,,0,Lowell,,p20
+1914Spalding,1913,New England League,finneran,P10019,Finneran,,0,Lowell,,
+1914Spalding,1913,New England League,fishburne,B00936,Fishburne,,0,Fall River,,B47
+1914Spalding,1913,New England League,fishburne,F20612,Fishburne,,0,Fall River,,ss36
+1914Spalding,1913,New England League,flaherty-lyn,B00912,Flaherty,,0,Lynn,,B55
+1914Spalding,1913,New England League,flaherty-bro+law,B01064,Flaherty,,1,Brockton,,
+1914Spalding,1913,New England League,flaherty-bro+law,B01064,Flaherty,,2,Lawrence,,
+1914Spalding,1913,New England League,flaherty-bro+law,B01064,Flaherty,,T,,,B87
+1914Spalding,1913,New England League,flaherty-bro+law,F20401,Flaherty,,0,Brockton,,3b66
+1914Spalding,1913,New England League,flaherty-lyn,F20661,Flaherty,,0,Lynn,,of31
+1914Spalding,1913,New England League,flaherty-bro+law,F20829,Flaherty,,1,Brockton,,of
+1914Spalding,1913,New England League,flaherty-bro+law,F20829,Flaherty,,2,Lawrence,,of
+1914Spalding,1913,New England League,flaherty-bro+law,F20829,Flaherty,,T,,,of18
+emilbb,1913,New England League,,M90766,Flaherty,Patsy,,Lynn,,
+1914Spalding,1913,New England League,fuller,B00667,Fuller,,1,Lawrence,,
+1914Spalding,1913,New England League,fuller,B00667,Fuller,,2,New Bedford,,
+1914Spalding,1913,New England League,fuller,B00667,Fuller,,T,,,B36
+1914Spalding,1913,New England League,fuller,F21324,Fuller,,1,Lawrence,,p
+1914Spalding,1913,New England League,fuller,F21324,Fuller,,2,New Bedford,,p
+1914Spalding,1913,New England League,fuller,F21324,Fuller,,T,,,p33
+1914Spalding,1913,New England League,fuller,P10244,Fuller,,1,Lawrence,,
+1914Spalding,1913,New England League,fuller,P10244,Fuller,,2,New Bedford,,
+1914Spalding,1913,New England League,fuller,P10244,Fuller,,T,,,
+1914Spalding,1913,New England League,galvin,B01093,Galvin,,0,Lawrence,,B35
+1914Spalding,1913,New England League,galvin,F21381,Galvin,,0,Lawrence,,c34
+emilbb,1913,New England League,,M90728,Gray,James,,Lowell,,
+1914Spalding,1913,New England League,griffith,B00045,Griffith,,0,New Bedford,,B95
+1914Spalding,1913,New England League,griffith,F20745,Griffith,,0,New Bedford,,of87
+1914Spalding,1913,New England League,halstein,B00174,Halstein,,0,Lowell,,B125
+1914Spalding,1913,New England League,halstein,F20046,Halstein,,0,Lowell,,1b125
+1914Spalding,1913,New England League,hambacher,B00544,Hambacher,,0,Worcester,,B24
+1914Spalding,1913,New England League,hambacher,F20878,Hambacher,,0,Worcester,,of24
+1914Spalding,1913,New England League,harrington,B00695,Harrington,,0,Lynn,,B30
+1914Spalding,1913,New England League,harrington,F21130,Harrington,,0,Lynn,,p23
+1914Spalding,1913,New England League,harrington,P10277,Harrington,,0,Lynn,,
+1914Spalding,1913,New England League,hayden,B00566,Hayden,,0,Portland,,B94
+1914Spalding,1913,New England League,hayden,F21469,Hayden,,0,Portland,,c84
+1914Spalding,1913,New England League,henderson,B01203,Henderson,,0,Lowell,,B33
+1914Spalding,1913,New England League,henderson,F21278,Henderson,,0,Lowell,,p29
+1914Spalding,1913,New England League,henderson,P10024,Henderson,,0,Lowell,,
+1914Spalding,1913,New England League,hickman,B00092,Hickman,,0,Portland,,B120
+1914Spalding,1913,New England League,hickman,F20552,Hickman,,0,Portland,,ss112
+1914Spalding,1913,New England League,howard-bro,B00182,Howard,,0,Brockton,,B85
+1914Spalding,1913,New England League,howard-fr,B00589,Howard,,0,Fall River,,B58
+1914Spalding,1913,New England League,howard-lyn,F20458,Howard,,0,Lynn,,3b20
+1914Spalding,1913,New England League,howard-fr,F20855,Howard,,0,Fall River,,of37
+1914Spalding,1913,New England League,howard-bro,F20886,Howard,,0,Brockton,,of83
+1914Spalding,1913,New England League,hoyt,B00609,Hoyt,,0,Brockton,,B33
+1914Spalding,1913,New England League,hoyt,F20102,Hoyt,,0,Brockton,,1b32
+1914Spalding,1913,New England League,jacobsen,F20807,Jacobsen,,1,Portland,,of
+1914Spalding,1913,New England League,jacobsen,F20807,Jacobsen,,2,Lynn,,of
+1914Spalding,1913,New England League,jacobsen,F20807,Jacobsen,,T,,,of17
+1914Spalding,1913,New England League,jacobsen,B00961,Jacobson,,1,Portland,,
+1914Spalding,1913,New England League,jacobsen,B00961,Jacobson,,2,Lynn,,
+1914Spalding,1913,New England League,jacobsen,B00961,Jacobson,,T,,,B17
+1914Spalding,1913,New England League,jewell,B01197,Jewell,,1,Lawrence,,
+1914Spalding,1913,New England League,jewell,B01197,Jewell,,2,Portland,,
+1914Spalding,1913,New England League,jewell,B01197,Jewell,,T,,,B32
+1914Spalding,1913,New England League,jewell,F21293,Jewell,,1,Portland,,p
+1914Spalding,1913,New England League,jewell,F21293,Jewell,,2,Lawrence,,p
+1914Spalding,1913,New England League,jewell,F21293,Jewell,,T,,,p32
+1914Spalding,1913,New England League,jewell,P10202,Jewell,,1,Lawrence,,
+1914Spalding,1913,New England League,jewell,P10202,Jewell,,2,Portland,,
+1914Spalding,1913,New England League,jewell,P10202,Jewell,,T,,,
+1914Spalding,1913,New England League,johnson,B00502,Johnson,,0,Fall River,,B38
+1914Spalding,1913,New England League,johnson,F21286,Johnson,,0,Fall River,,p38
+1914Spalding,1913,New England League,johnson,P10253,Johnson,,0,Fall River,,
+1914Spalding,1913,New England League,jones,B00319,Jones,,0,Fall River,,B15
+1914Spalding,1913,New England League,jones,F20776,Jones,,0,Fall River,,of15
+1914Spalding,1913,New England League,kane,B00794,Kane,,0,New Bedford,,B75
+1914Spalding,1913,New England League,kane,F20128,Kane,,0,New Bedford,,1b35
+1914Spalding,1913,New England League,kane,F20759,Kane,,0,New Bedford,,of22
+1914Spalding,1913,New England League,kennedy-nb,B00726,Kennedy,,0,New Bedford,,B113
+1914Spalding,1913,New England League,kennedy-wor+bro,B01086,Kennedy,,1,Worcester,,
+1914Spalding,1913,New England League,kennedy-wor+bro,B01086,Kennedy,,2,Brockton,,
+1914Spalding,1913,New England League,kennedy-wor+bro,B01086,Kennedy,,T,,,B85
+1914Spalding,1913,New England League,kennedy-wor+bro,F20131,Kennedy,,0,Brockton,,1b52
+1914Spalding,1913,New England League,kennedy-wor+bro,F20636,Kennedy,,1,Worcester,,ss
+1914Spalding,1913,New England League,kennedy-wor+bro,F20636,Kennedy,,2,Brockton,,ss
+1914Spalding,1913,New England League,kennedy-wor+bro,F20636,Kennedy,,T,,,ss27
+1914Spalding,1913,New England League,kennedy-nb,F20981,Kennedy,,0,New Bedford,,of113
+1914Spalding,1913,New England League,kilhullen,B00747,Kilhullen,,0,New Bedford,,B104
+1914Spalding,1913,New England League,kilhullen,F21515,Kilhullen,,0,New Bedford,,c92
+1914Spalding,1913,New England League,king-nb,B01055,King,,0,New Bedford,,B48
+1914Spalding,1913,New England League,king-por,B01124,King,,0,Portland,,B16
+1914Spalding,1913,New England League,king-por,F20841,King,,0,Portland,,of16
+1914Spalding,1913,New England League,king-nb,F21076,King,,0,New Bedford,,p41
+1914Spalding,1913,New England League,king-nb,P10215,King,,0,New Bedford,,
+1914Spalding,1913,New England League,knapp,B01288,Knapp,,1,Fall River,,
+1914Spalding,1913,New England League,knapp,B01288,Knapp,,2,Lawrence,,
+1914Spalding,1913,New England League,knapp,B01288,Knapp,,T,,,B22
+1914Spalding,1913,New England League,knapp,F21264,Knapp,,1,Lawrence,,p
+1914Spalding,1913,New England League,knapp,F21264,Knapp,,2,Fall River,,p
+1914Spalding,1913,New England League,knapp,F21264,Knapp,,T,,,p22
+1914Spalding,1913,New England League,knapp,P10168,Knapp,,1,Fall River,,
+1914Spalding,1913,New England League,knapp,P10168,Knapp,,2,Lawrence,,
+1914Spalding,1913,New England League,knapp,P10168,Knapp,,T,,,
+1914Spalding,1913,New England League,lavigne,B00531,Lavigne,,1,Lowell,,
+1914Spalding,1913,New England League,lavigne,B00531,Lavigne,,2,Lynn,,
+1914Spalding,1913,New England League,lavigne,B00531,Lavigne,,T,,,B101
+1914Spalding,1913,New England League,lavigne,F21475,Lavigne,,1,Lowell,,c
+1914Spalding,1913,New England League,lavigne,F21475,Lavigne,,2,Lynn,,c
+1914Spalding,1913,New England League,lavigne,F21475,Lavigne,,T,,,c101
+1914Spalding,1913,New England League,luyster,B00037,Layster,,0,Lawrence,,B121
+1914Spalding,1913,New England League,leonard,B00879,Leonard,,1,Lynn,,
+1914Spalding,1913,New England League,leonard,B00879,Leonard,,2,New Bedford,,
+1914Spalding,1913,New England League,leonard,B00879,Leonard,,T,,,B40
+1914Spalding,1913,New England League,leonard,F20604,Leonard,,1,Lynn,,ss
+1914Spalding,1913,New England League,leonard,F20604,Leonard,,2,New Bedford,,ss
+1914Spalding,1913,New England League,leonard,F20604,Leonard,,T,,,ss26
+1914Spalding,1913,New England League,logan,B00515,Logan,,1,Fall River,,
+1914Spalding,1913,New England League,logan,B00515,Logan,,2,New Bedford,,
+1914Spalding,1913,New England League,logan,B00515,Logan,,T,,,B87
+1914Spalding,1913,New England League,logan,F20014,Logan,,0,New Bedford,,1b47
+1914Spalding,1913,New England League,logan,F20265,Logan,,1,Fall River,,2b
+1914Spalding,1913,New England League,logan,F20265,Logan,,2,New Bedford,,2b
+1914Spalding,1913,New England League,logan,F20265,Logan,,T,,,2b40
+1914Spalding,1913,New England League,luyster,F20924,Luyster,,0,Lawrence,,of108
+1914Spalding,1913,New England League,luyster,P10266,Luyster,,0,Lawrence,,
+1914Spalding,1913,New England League,magee,B00021,Magee,,0,Lowell,,B125
+1914Spalding,1913,New England League,magee,F21000,Magee,,0,Lowell,,of125
+1914Spalding,1913,New England League,mahoney,B00450,Mahoney,,0,Lawrence,,B114
+1914Spalding,1913,New England League,mahoney,F20417,Mahoney,,0,Lawrence,,3b111
+1914Spalding,1913,New England League,maloney,B00210,Maloney,,0,Brockton,,B119
+1914Spalding,1913,New England League,maloney,F20657,Maloney,,0,Brockton,,of119
+1914Spalding,1913,New England League,martin,B00957,Martin,,0,Lawrence,,B41
+1914Spalding,1913,New England League,martin,F21255,Martin,,0,Lawrence,,p41
+1914Spalding,1913,New England League,martin,P10137,Martin,,0,Lawrence,,
+1914Spalding,1913,New England League,mayberry,B00614,Mayberry,,0,Portland,,B21
+1914Spalding,1913,New England League,mayberry,F21125,Mayberry,,0,Portland,,p20
+1914Spalding,1913,New England League,mayberry,P10043,Mayberry,,0,Portland,,
+1914Spalding,1913,New England League,maybohm,B01108,Maybohm,,0,Lowell,,B32
+1914Spalding,1913,New England League,maybohm,F21319,Maybohm,,0,Lowell,,p32
+1914Spalding,1913,New England League,maybohm,P10081,Maybohm,,0,Lowell,,
+1914Spalding,1913,New England League,mccune,B00335,McCune,,0,Worcester,,B101
+1914Spalding,1913,New England League,mccune,F20051,McCune,,0,Worcester,,1b64
+1914Spalding,1913,New England League,mccune,F21370,McCune,,0,Worcester,,c27
+1914Spalding,1913,New England League,mcgill,B01368,McGill,,0,Brockton,,B20
+1914Spalding,1913,New England League,mcgill,F20908,McGill,,0,Brockton,,of20
+1914Spalding,1913,New England League,mcgovern,B00718,McGovern,,0,Fall River,,B99
+1914Spalding,1913,New England League,mcgovern,F20072,McGovern,,0,Fall River,,1b99
+1914Spalding,1913,New England League,mckeon,B01170,McKeon,,1,Lowell,,
+1914Spalding,1913,New England League,mckeon,B01170,McKeon,,2,Fall River,,
+1914Spalding,1913,New England League,mckeon,B01170,McKeon,,3,New Bedford,,
+1914Spalding,1913,New England League,mckeon,B01170,McKeon,,4,Brockton,,
+1914Spalding,1913,New England League,mckeon,B01170,McKeon,,T,,,B27
+1914Spalding,1913,New England League,mckeon,F20792,McKeon,,1,Lowell,,of
+1914Spalding,1913,New England League,mckeon,F20792,McKeon,,2,Brockton,,of
+1914Spalding,1913,New England League,mckeon,F20792,McKeon,,3,Fall River,,of
+1914Spalding,1913,New England League,mckeon,F20792,McKeon,,4,New Bedford,,of
+1914Spalding,1913,New England League,mckeon,F20792,McKeon,,T,,,of23
+1914Spalding,1913,New England League,mcmahon,B00229,McMahon,,1,Lynn,,
+1914Spalding,1913,New England League,mcmahon,B00229,McMahon,,2,Brockton,,
+1914Spalding,1913,New England League,mcmahon,B00229,McMahon,,T,,,B53
+1914Spalding,1913,New England League,mcmahon,F20375,McMahon,,1,Lynn,,3b
+1914Spalding,1913,New England League,mcmahon,F20375,McMahon,,2,Brockton,,3b
+1914Spalding,1913,New England League,mcmahon,F20375,McMahon,,T,,,3b28
+1914Spalding,1913,New England League,mcmahon,F20571,McMahon,,0,Brockton,,ss25
+1914Spalding,1913,New England League,meehan,B00752,Meehan,,0,Portland,,B59
+1914Spalding,1913,New England League,meehan,F21403,Meehan,,0,Portland,,c48
+1914Spalding,1913,New England League,merrill,B00488,Merrill,,0,Portland,,B120
+1914Spalding,1913,New England League,merrill,F20970,Merrill,,0,Portland,,of116
+1914Spalding,1913,New England League,miller-low,B00117,Miller,,0,Lowell,,B124
+1914Spalding,1913,New England League,miller-wor,B00999,Miller,,0,Worcester,,B18
+1914Spalding,1913,New England League,miller-low,F20254,Miller,,0,Lowell,,2b124
+1914Spalding,1913,New England League,monahan,B00771,Monahan,,0,Lowell,,B35
+1914Spalding,1913,New England League,monahan,F21528,Monahan,,0,Lowell,,c25
+1914Spalding,1913,New England League,moulton,B00638,Moulton,,0,Lynn,,B113
+1914Spalding,1913,New England League,moulton,F20189,Moulton,,0,Lynn,,2b113
+1914Spalding,1913,New England League,mulvey,B00760,Mulvey,,1,New Bedford,,
+1914Spalding,1913,New England League,mulvey,B00760,Mulvey,,2,Fall River,,
+1914Spalding,1913,New England League,mulvey,B00760,Mulvey,,T,,,B35
+1914Spalding,1913,New England League,mulvey,F20342,Mulvey,,1,New Bedford,,3b
+1914Spalding,1913,New England League,mulvey,F20342,Mulvey,,2,Fall River,,3b
+1914Spalding,1913,New England League,mulvey,F20342,Mulvey,,T,,,3b34
+1914Spalding,1913,New England League,nelson,B01029,Nelson,,0,Brockton,,B30
+1914Spalding,1913,New England League,nelson,F20449,Nelson,,0,Brockton,,3b28
+1914Spalding,1913,New England League,neptune,B01032,Neptune,,0,Lynn,,B72
+1914Spalding,1913,New England League,neptune,F20539,Neptune,,0,Lynn,,ss72
+1914Spalding,1913,New England League,nye,B00286,Nye,,0,Worcester,,B127
+1914Spalding,1913,New England League,nye,F20233,Nye,,0,Worcester,,2b127
+1914Spalding,1913,New England League,nye,F20463,Nye,,0,Worcester,,ss127
+1914Spalding,1913,New England League,obrien,B00068,O'Brien,,0,Fall River,,B16
+1914Spalding,1913,New England League,obrien,F20832,O'Brien,,0,Fall River,,of16
+emilbb,1913,New England League,,M90789,O'Brien,John H.,,New Bedford,,
+1914Spalding,1913,New England League,oconnell,B00397,O'Connell,,0,Lawrence,,B123
+1914Spalding,1913,New England League,oconnell,F20943,O'Connell,,0,Lawrence,,of123
+1914Spalding,1913,New England League,orcutt,B00362,Orcutt,,0,Lynn,,B120
+1914Spalding,1913,New England League,orcutt,F20673,Orcutt,,0,Lynn,,of120
+1914Spalding,1913,New England League,pearson,B00403,Pearson,,0,Lawrence,,B69
+1914Spalding,1913,New England League,pearson,F21045,Pearson,,0,Lawrence,,of15
+1914Spalding,1913,New England League,pearson,F21068,Pearson,,0,Lawrence,,p38
+1914Spalding,1913,New England League,pearson,P10121,Pearson,,0,Lawrence,,
+1914Spalding,1913,New England League,perkins,B01313,Perkins,,0,Fall River,,B28
+1914Spalding,1913,New England League,perkins,F21491,Perkins,,0,Fall River,,c28
+1914Spalding,1913,New England League,pfeffer,B00491,Pfeffer,,1,Lynn,,
+1914Spalding,1913,New England League,pfeffer,B00491,Pfeffer,,2,Worcester,,
+1914Spalding,1913,New England League,pfeffer,B00491,Pfeffer,,T,,,B51
+1914Spalding,1913,New England League,pfeffer,F20737,Pfeffer,,1,Lynn,,of
+1914Spalding,1913,New England League,pfeffer,F20737,Pfeffer,,2,Worcester,,of
+1914Spalding,1913,New England League,pfeffer,F20737,Pfeffer,,T,,,of28
+1914Spalding,1913,New England League,phoenix,B00590,Phoenix,,0,Lawrence,,B122
+1914Spalding,1913,New England League,phoenix,F20206,Phoenix,,0,Lawrence,,2b120
+emilbb,1913,New England League,,M90753,Piper,Louis,,Lawrence,,
+1914Spalding,1913,New England League,porter,B00370,Porter,,0,Lynn,,B105
+1914Spalding,1913,New England League,porter,F20713,Porter,,0,Lynn,,of95
+1914Spalding,1913,New England League,pumphrey,B00427,Pumphrey,,0,Portland,,B93
+1914Spalding,1913,New England League,pumphrey,F20080,Pumphrey,,0,Portland,,1b68
+1914Spalding,1913,New England League,pumphrey,F20298,Pumphrey,,0,Portland,,2b20
+1914Spalding,1913,New England League,rieger,B01345,Rieger,,1,Fall River,,
+1914Spalding,1913,New England League,rieger,B01345,Rieger,,2,Lowell,,
+1914Spalding,1913,New England League,rieger,B01345,Rieger,,T,,,B17
+1914Spalding,1913,New England League,rieger,F21343,Rieger,,1,Lowell,,p
+1914Spalding,1913,New England League,rieger,F21343,Rieger,,2,Fall River,,p
+1914Spalding,1913,New England League,rieger,F21343,Rieger,,T,,,p17
+1914Spalding,1913,New England League,rieger,P10348,Rieger,,1,Lowell,,
+1914Spalding,1913,New England League,rieger,P10348,Rieger,,2,Fall River,,
+1914Spalding,1913,New England League,rieger,P10348,Rieger,,T,,,
+1914Spalding,1913,New England League,riley,B00783,Riley,,0,Portland,,B17
+1914Spalding,1913,New England League,robinson,B00887,Robinson,,0,Fall River,,B90
+1914Spalding,1913,New England League,robinson,F20721,Robinson,,0,Fall River,,of90
+1914Spalding,1913,New England League,roes,B00381,Roes,,1,Portland,,
+1914Spalding,1913,New England League,roes,B00381,Roes,,2,Worcester,,
+1914Spalding,1913,New England League,roes,B00381,Roes,,T,,,B118
+1914Spalding,1913,New England League,roes,F20350,Roes,,1,Portland,,3b
+1914Spalding,1913,New England League,roes,F20350,Roes,,2,Worcester,,3b
+1914Spalding,1913,New England League,roes,F20350,Roes,,T,,,3b95
+1914Spalding,1913,New England League,rufiange,F21434,Rufiange,,0,Brockton,,c76
+emilbb,1913,New England League,,M90808,Rufiange,Nick,,Brockton,,
+1914Spalding,1913,New England League,rufiange,B00646,Ruflange,,0,Brockton,,B99
+1914Spalding,1913,New England League,ryerson,B01359,Ryerson,,1,Fall River,,
+1914Spalding,1913,New England League,ryerson,B01359,Ryerson,,2,Worcester,,
+1914Spalding,1913,New England League,ryerson,B01359,Ryerson,,T,,,B18
+1914Spalding,1913,New England League,scanlon,B01321,Scanlon,,1,Lynn,,
+1914Spalding,1913,New England League,scanlon,B01321,Scanlon,,2,Lawrence,,
+1914Spalding,1913,New England League,scanlon,B01321,Scanlon,,3,Worcester,,
+1914Spalding,1913,New England League,scanlon,B01321,Scanlon,,4,Fall River,,
+1914Spalding,1913,New England League,scanlon,B01321,Scanlon,,T,,,B29
+1914Spalding,1913,New England League,scanlon,F21149,Scanlon,,1,Lynn,,p
+1914Spalding,1913,New England League,scanlon,F21149,Scanlon,,2,Worcester,,p
+1914Spalding,1913,New England League,scanlon,F21149,Scanlon,,3,Lawrence,,p
+1914Spalding,1913,New England League,scanlon,F21149,Scanlon,,4,Fall River,,p
+1914Spalding,1913,New England League,scanlon,F21149,Scanlon,,T,,,p29
+1914Spalding,1913,New England League,scanlon,P10320,Scanlon,,1,Lynn,,
+1914Spalding,1913,New England League,scanlon,P10320,Scanlon,,2,Worcester,,
+1914Spalding,1913,New England League,scanlon,P10320,Scanlon,,3,Fall River,,
+1914Spalding,1913,New England League,scanlon,P10320,Scanlon,,4,Lawrence,,
+1914Spalding,1913,New England League,scanlon,P10320,Scanlon,,T,,,
+1914Spalding,1913,New England League,shea,B00059,Shea,,1,Brockton,,
+1914Spalding,1913,New England League,shea,B00059,Shea,,2,New Bedford,,
+1914Spalding,1913,New England League,shea,B00059,Shea,,T,,,B17
+1914Spalding,1913,New England League,shea,F20810,Shea,,1,Brockton,,of
+1914Spalding,1913,New England League,shea,F20810,Shea,,2,New Bedford,,of
+1914Spalding,1913,New England League,shea,F20810,Shea,,T,,,of16
+1914Spalding,1913,New England League,shears,B01376,Shears,,0,Brockton,,B34
+1914Spalding,1913,New England League,shears,F21196,Shears,,0,Brockton,,p33
+1914Spalding,1913,New England League,shears,P10304,Shears,,0,Brockton,,
+1914Spalding,1913,New England League,shorten,B00101,Shorten,,0,Worcester,,B127
+1914Spalding,1913,New England League,shorten,F20864,Shorten,,0,Worcester,,of127
+1914Spalding,1913,New England League,slattery,B00255,Slattery,,0,Portland,,B16
+1914Spalding,1913,New England League,slattery,F20166,Slattery,,0,Portland,,1b16
+1914Spalding,1913,New England League,southern,B00948,Southern,,0,Fall River,,B36
+1914Spalding,1913,New England League,southern,P10228,Southern,,0,Fall River,,
+1914Spalding,1913,New England League,spires,B00528,Spires,,0,New Bedford,,B101
+1914Spalding,1913,New England League,spires,F20303,Spires,,0,New Bedford,,3b84
+1914Spalding,1913,New England League,spires,F20583,Spires,,0,New Bedford,,ss16
+1914Spalding,1913,New England League,stewart,B00324,Stewart,,0,Worcester,,B107
+1914Spalding,1913,New England League,stewart,F20153,Stewart,,0,Worcester,,1b16
+1914Spalding,1913,New England League,stewart,F20699,Stewart,,0,Worcester,,of84
+1914Spalding,1913,New England League,strands,B00651,Strands,,0,Lynn,,B122
+1914Spalding,1913,New England League,strands,F20316,Strands,,0,Lynn,,3b23
+1914Spalding,1913,New England League,strands,F21021,Strands,,0,Lynn,,of97
+1914Spalding,1913,New England League,sullivan.j-por,B00196,Sullivan,J. L.,0,Portland,,B70
+1914Spalding,1913,New England League,sullivan-bro+por,B01041,Sullivan,,1,Brockton,,
+1914Spalding,1913,New England League,sullivan-bro+por,B01041,Sullivan,,2,Portland,,
+1914Spalding,1913,New England League,sullivan-bro+por,B01041,Sullivan,,T,,,B109
+1914Spalding,1913,New England League,sullivan-bro+por,F20327,Sullivan,,1,Brockton,,3b
+1914Spalding,1913,New England League,sullivan-bro+por,F20327,Sullivan,,2,Portland,,3b
+1914Spalding,1913,New England League,sullivan-bro+por,F20327,Sullivan,,T,,,3b61
+1914Spalding,1913,New England League,sullivan-bro+por,F20547,Sullivan,,1,Brockton,,ss
+1914Spalding,1913,New England League,sullivan-bro+por,F20547,Sullivan,,2,Portland,,ss
+1914Spalding,1913,New England League,sullivan-bro+por,F20547,Sullivan,,T,,,ss45
+1914Spalding,1913,New England League,sullivan.j-por,F21207,Sullivan,,0,Portland,,p39
+1914Spalding,1913,New England League,sullivan.j-por,P10097,Sullivan,,0,Portland,,
+1914Spalding,1913,New England League,swap,B01402,Swap,,0,Brockton,,B21
+1914Spalding,1913,New England League,swap,F21356,Swap,,0,Brockton,,p21
+1914Spalding,1913,New England League,swap,P10336,Swap,,0,Brockton,,
+1914Spalding,1913,New England League,sweatt,B00469,Sweatt,,0,New Bedford,,B116
+1914Spalding,1913,New England League,sweatt,F20177,Sweatt,,0,New Bedford,,2b16
+1914Spalding,1913,New England League,sweatt,F20956,Sweatt,,0,New Bedford,,of89
+1914Spalding,1913,New England League,swetonick,B01300,Swetonick,,0,Lawrence,,B16
+1914Spalding,1913,New England League,tesch,B01216,Tesch,,0,Brockton,,B30
+1914Spalding,1913,New England League,tesch,F20620,Tesch,,0,Brockton,,ss27
+1914Spalding,1913,New England League,thomas-low,B00076,Thomas,,0,Lowell,,B35
+1914Spalding,1913,New England League,thomas-wor,B01337,Thomas,,0,Worcester,,B29
+1914Spalding,1913,New England League,thomas-wor,F21158,Thomas,,0,Worcester,,p29
+1914Spalding,1913,New England League,thomas-low,F21416,Thomas,,0,Lowell,,c28
+1914Spalding,1913,New England League,thomas-wor,P10070,Thomas,,0,Worcester,,
+1914Spalding,1913,New England League,torphey,B00985,Torphey,,1,Worcester,,
+1914Spalding,1913,New England League,torphey,B00985,Torphey,,2,New Bedford,,
+1914Spalding,1913,New England League,torphey,B00985,Torphey,,T,,,B33
+1914Spalding,1913,New England League,torphey,F20560,Torphey,,0,New Bedford,,ss20
+1914Spalding,1913,New England League,vandyke,B01227,Van Dyke,,0,Worcester,,B43
+1914Spalding,1913,New England League,vandyke,F21210,Van Dyke,,0,Worcester,,p39
+1914Spalding,1913,New England League,vandyke,P10192,Van Dyke,,0,Worcester,,
+1914Spalding,1913,New England League,walsh,B00475,Walsh,,0,Worcester,,B88
+1914Spalding,1913,New England League,walsh,F20893,Walsh,,0,Worcester,,of88
+1914Spalding,1913,New England League,weeden,B00854,Weeden,,1,New Bedford,,
+1914Spalding,1913,New England League,weeden,B00854,Weeden,,2,Fall River,,
+1914Spalding,1913,New England League,weeden,B00854,Weeden,,T,,,B88
+1914Spalding,1913,New England League,weeden,F21502,Weeden,,1,New Bedford,,c
+1914Spalding,1913,New England League,weeden,F21502,Weeden,,2,Fall River,,c
+1914Spalding,1913,New England League,weeden,F21502,Weeden,,T,,,c66
+1914Spalding,1913,New England League,white-wor,B00811,White,,0,Worcester,,B15
+1914Spalding,1913,New England League,white-5,B01143,White,,1,New Bedford,,
+1914Spalding,1913,New England League,white-5,B01143,White,,2,Lawrence,,
+1914Spalding,1913,New England League,white-5,B01143,White,,3,Portland,,
+1914Spalding,1913,New England League,white-5,B01143,White,,4,Lynn,,
+1914Spalding,1913,New England League,white-5,B01143,White,,5,Fall River,,
+1914Spalding,1913,New England League,white-5,B01143,White,,T,,,B31
+1914Spalding,1913,New England League,white-wor,F20425,White,,0,Worcester,,3b15
+1914Spalding,1913,New England League,white-5,F21531,White,,1,New Bedford,,c
+1914Spalding,1913,New England League,white-5,F21531,White,,2,Lynn,,c
+1914Spalding,1913,New England League,white-5,F21531,White,,3,Portland,,c
+1914Spalding,1913,New England League,white-5,F21531,White,,4,Lawrence,,c
+1914Spalding,1913,New England League,white-5,F21531,White,,5,Fall River,,c
+1914Spalding,1913,New England League,white-5,F21531,White,,T,,,c24
+1914Spalding,1913,New England League,wilson-lyn,B00013,Wilson,,0,Lynn,,B122
+1914Spalding,1913,New England League,wilson-wor,B01007,Wilson,,0,Worcester,,B24
+1914Spalding,1913,New England League,wilson-lyn,F20095,Wilson,,0,Worcester,,1b122
+1914Spalding,1913,New England League,wilson-wor,F20919,Wilson,,0,Worcester,,of18
+1914Spalding,1913,New England League,wood,B00130,Wood,,1,Brockton,,
+1914Spalding,1913,New England League,wood,B00130,Wood,,2,New Bedford,,
+1914Spalding,1913,New England League,wood,B00130,Wood,,3,Lowell,,
+1914Spalding,1913,New England League,wood,B00130,Wood,,T,,,B25
+1914Spalding,1913,New England League,wood,P10184,Wood,,1,Brockton,,
+1914Spalding,1913,New England League,wood,P10184,Wood,,2,New Bedford,,
+1914Spalding,1913,New England League,wood,P10184,Wood,,3,Lowell,,
+1914Spalding,1913,New England League,wood,P10184,Wood,,T,,,
+1914Spalding,1913,New England League,woodman,B01156,Woodman,,0,Fall River,,B47
+1914Spalding,1913,New England League,woodman,F21163,Woodman,,0,Fall River,,p38
+1914Spalding,1913,New England League,woodman,P10312,Woodman,,0,Fall River,,
+1914Spalding,1913,New England League,wormwood,B00822,Wormwood,,0,Portland,,B73
+1914Spalding,1913,New England League,wormwood,F20784,Wormwood,,0,Portland,,of20
+1914Spalding,1913,New England League,wormwood,F21241,Wormwood,,0,Portland,,p30
+1914Spalding,1913,New England League,wormwood,P10176,Wormwood,,0,Portland,,
+1914Spalding,1913,New England League,yelle,B00833,Yelle,,1,Portland,,
+1914Spalding,1913,New England League,yelle,B00833,Yelle,,2,Lowell,,
+1914Spalding,1913,New England League,yelle,B00833,Yelle,,T,,,B25
+1914Spalding,1913,New England League,yelle,F20430,Yelle,,0,Portland,,3b24
+1914Spalding,1913,New England League,yount,B01269,Yount,,0,New Bedford,,B36
+1914Spalding,1913,New England League,yount,F21092,Yount,,0,New Bedford,,p36
+1914Spalding,1913,New England League,yount,P10159,Yount,,0,New Bedford,,
+1914Spalding,1913,New England League,zieser,B01291,Zieser,,0,Lowell,,B39
+1914Spalding,1913,New England League,zieser,F21174,Zieser,,0,Lowell,,p39
+1914Spalding,1913,New England League,zieser,P10100,Zieser,,0,Lowell,,

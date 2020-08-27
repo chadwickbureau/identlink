@@ -1,582 +1,582 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-1913Reach,1912,American Association,B00680,Allen,,0,Minneapolis,,B31,allen
-1913Reach,1912,American Association,F21920,Allen,,0,Minneapolis,,c31,allen
-1913Reach,1912,American Association,B00229,Altizer,,0,Minneapolis,,B162,altizer
-1913Reach,1912,American Association,F20604,Altizer,,0,Minneapolis,,ss162,altizer
-1913Reach,1912,American Association,B00771,Altrock,,0,Kansas City,,B19,altrock
-1913Reach,1912,American Association,F21403,Altrock,,0,Kansas City,,p19,altrock
-1913Reach,1912,American Association,P10925,Altrock,,0,Kansas City,,P19p,altrock
-1913Reach,1912,American Association,B01300,Ashenfelder,,0,Indianapolis,,B16,ashenfelder
-1913Reach,1912,American Association,F21667,Ashenfelder,,0,Indianapolis,,p21,ashenfelder
-1913Reach,1912,American Association,P10266,Ashenfelder,,0,Indianapolis,,P21p,ashenfelder
-1913Reach,1912,American Association,P10767,Ashenfelder,,0,Indianapolis,,P21p,ashenfelder
-1913Reach,1912,American Association,B00450,Autrey,,0,St. Paul,,B157,autrey
-1913Reach,1912,American Association,F20067,Autrey,,0,St. Paul,,1b157,autrey
-1913Reach,1912,American Association,B00879,Barbeau,,0,Kansas City,,B137,barbeau
-1913Reach,1912,American Association,F20430,Barbeau,,0,Kansas City,,3b135,barbeau
-1913Reach,1912,American Association,B01108,Baxter,,0,Kansas City,,B35,baxter
-1913Reach,1912,American Association,F21149,Baxter,,0,Kansas City,,of35,baxter
-1913Reach,1912,American Association,B00718,Beaumiller,,0,Louisville,,B163,beaumiller
-1913Reach,1912,American Association,F20560,Beaumiller,,0,Louisville,,ss163,beaumiller
-1913Reach,1912,American Association,B01313,Bell,,0,Louisville,,B50,bell
-1913Reach,1912,American Association,F20254,Bell,,0,Louisville,,2b50,bell
-1913Reach,1912,American Association,B00293,Blackburn,,0,Milwaukee,,B31,blackburn
-1913Reach,1912,American Association,F20547,Blackburn,,0,Milwaukee,,ss19,blackburn
-1913Reach,1912,American Association,B00182,Block,,0,St. Paul,,B45,block-stp
-1913Reach,1912,American Association,B01143,Block,,0,Milwaukee,,B25,block-mil
-1913Reach,1912,American Association,F21904,Block,,0,St. Paul,,c45,block-stp
-1913Reach,1912,American Association,F21957,Block,,0,Milwaukee,,c25,block-mil
-1913Reach,1912,American Association,B01345,Brady,,0,Toledo,,B36,brady
-1913Reach,1912,American Association,F20327,Brady,,0,Toledo,,2b24,brady
-1913Reach,1912,American Association,B00961,Bransfield,,0,Louisville,,B47,bransfield
-1913Reach,1912,American Association,F20072,Bransfield,,0,Louisville,,1b47,bransfield
-1913Reach,1912,American Association,B01321,Breen,,0,Milwaukee,,B28,breen
-1913Reach,1912,American Association,F20342,Breen,,0,Milwaukee,,2b15,breen
-1913Reach,1912,American Association,B00488,Bronkie,,0,Toledo,,B135,bronkie
-1913Reach,1912,American Association,F20449,Bronkie,,0,Toledo,,3b135,bronkie
-1913Reach,1912,American Association,B01674,Bruck,,0,Columbus,,B25,bruck
-1913Reach,1912,American Association,F21255,Bruck,,0,Columbus,,p25,bruck
-1913Reach,1912,American Association,P10137,Bruck,,0,Columbus,,P25p,bruck
-1913Reach,1912,American Association,P10622,Bruck,,0,Columbus,,P25p,bruck
-1913Reach,1912,American Association,B00705,Burch,,0,Louisville,,B170,burch
-1913Reach,1912,American Association,F20832,Burch,,0,Louisville,,of170,burch
-1913Reach,1912,American Association,B00920,Burke,,0,Louisville,,B141,burke-lou
-1913Reach,1912,American Association,F20334,Burke,,0,Louisville,,2b35,burke-lou
-1913Reach,1912,American Association,F20474,Burke,,0,Louisville,,3b91,burke-lou
-emilbb,1912,American Association,M90107,Burke,James,,Indianapolis,,,burke-ind
-1913Reach,1912,American Association,B00672,Burns,,0,Toledo,,B165,burns-tol
-1913Reach,1912,American Association,B01514,Burns,,0,Indianapolis,,B15,burns-min
-1913Reach,1912,American Association,F20721,Burns,,0,Toledo,,of165,burns-tol
-1913Reach,1912,American Association,F21488,Burns,,0,Minneapolis,,p14,burns-min
-1913Reach,1912,American Association,P10516,Burns,,0,Minneapolis,,P14p,burns-min
-1913Reach,1912,American Association,B00037,Butler,,0,St. Paul,,B125,butler
-1913Reach,1912,American Association,F20636,Butler,,0,St. Paul,,ss84,butler
-1913Reach,1912,American Association,F20829,Butler,,0,St. Paul,,of33,butler
-1913Reach,1912,American Association,B01658,Cann,,1,Toledo,,,cann
-1913Reach,1912,American Association,B01658,Cann,,2,Kansas City,,,cann
-1913Reach,1912,American Association,B01658,Cann,,T,,,B17,cann
-1913Reach,1912,American Association,F21343,Cann,,1,Toledo,,p,cann
-1913Reach,1912,American Association,F21343,Cann,,2,Kansas City,,p,cann
-1913Reach,1912,American Association,F21343,Cann,,T,,,p18,cann
-1913Reach,1912,American Association,P10780,Cann,,1,Toledo,,p,cann
-1913Reach,1912,American Association,P10780,Cann,,2,Kansas City,,p,cann
-1913Reach,1912,American Association,P10780,Cann,,T,,,P18p,cann
-emilbb,1912,American Association,M90018,Cantillon,Joe,,Minneapolis,,,cantillon
-1913Reach,1912,American Association,B00416,Capron,,1,Milwaukee,,,capron
-1913Reach,1912,American Association,B00416,Capron,,2,St. Paul,,,capron
-1913Reach,1912,American Association,B00416,Capron,,T,,,B88,capron
-1913Reach,1912,American Association,F21084,Capron,,1,Milwaukee,,of,capron
-1913Reach,1912,American Association,F21084,Capron,,2,St. Paul,,of,capron
-1913Reach,1912,American Association,F21084,Capron,,T,,,of88,capron
-1913Reach,1912,American Association,B00794,Carisch,,0,Toledo,,B58,carisch
-1913Reach,1912,American Association,F21898,Carisch,,0,Toledo,,c58,carisch
-1913Reach,1912,American Association,B00059,Carr,,0,Kansas City,,B148,carr
-1913Reach,1912,American Association,F20095,Carr,,0,Kansas City,,1b148,carr
-emilbb,1912,American Association,M90047,Carr,Charles,,Kansas City,,,carr
-1913Reach,1912,American Association,B01181,Casey,,0,Indianapolis,,B66,casey
-1913Reach,1912,American Association,F21948,Casey,,1,Indianapolis,,c,casey
-1913Reach,1912,American Association,F21948,Casey,,2,St. Paul,,c,casey
-1913Reach,1912,American Association,F21948,Casey,,T,,,c66,casey
-1913Reach,1912,American Association,B00092,Chapman,,0,Toledo,,B140,chapman
-1913Reach,1912,American Association,F20620,Chapman,,0,Toledo,,ss140,chapman
-1913Reach,1912,American Association,B00442,Chappelle,,0,Milwaukee,,B131,chappelle
-1913Reach,1912,American Association,F21130,Chappelle,,0,Milwaukee,,of131,chappelle
-1913Reach,1912,American Association,B00985,Charles,,0,Milwaukee,,B134,charles
-1913Reach,1912,American Association,F20316,Charles,,0,Milwaukee,,2b104,charles
-1913Reach,1912,American Association,F20417,Charles,,0,Milwaukee,,3b25,charles
-1913Reach,1912,American Association,B00241,Clark,,0,Milwaukee,,B138,clark
-1913Reach,1912,American Association,F20425,Clark,,0,Milwaukee,,3b138,clark
-emilbb,1912,American Association,M90060,Clark,Harry,,Milwaukee,,,clark
-1913Reach,1912,American Association,B00531,Clarke,,0,Indianapolis,,B92,clarke-ind
-1913Reach,1912,American Association,B01291,Clarke,,0,Kansas City,,B25,clarke-kc
-1913Reach,1912,American Association,F20908,Clarke,,0,Kansas City,,of25,clarke-kc
-1913Reach,1912,American Association,F21854,Clarke,,0,Indianapolis,,c92,clarke-ind
-1913Reach,1912,American Association,F21695,Clemmons,,0,Louisville,,p12,clemmons
-1913Reach,1912,American Association,P10974,Clemmons,,0,Louisville,,P12p,clemmons
-1913Reach,1912,American Association,B00130,Clymer,,0,Minneapolis,,B157,clymer
-1913Reach,1912,American Association,F20810,Clymer,,0,Minneapolis,,of157,clymer
-1913Reach,1912,American Association,B01392,Collamore,,0,Toledo,,B34,collamore
-1913Reach,1912,American Association,F21638,Collamore,,0,Toledo,,p33,collamore
-1913Reach,1912,American Association,P10202,Collamore,,0,Toledo,,P33p,collamore
-1913Reach,1912,American Association,P10709,Collamore,,0,Toledo,,P33p,collamore
-1913Reach,1912,American Association,B01663,Comstock,,0,Minneapolis,,B37,comstock
-1913Reach,1912,American Association,F21528,Comstock,,0,Minneapolis,,p36,comstock
-1913Reach,1912,American Association,P10184,Comstock,,0,Minneapolis,,P36p,comstock
-1913Reach,1912,American Association,P10687,Comstock,,0,Minneapolis,,P36p,comstock
-1913Reach,1912,American Association,B00381,Congalton,,1,Columbus,,,congalton
-1913Reach,1912,American Association,B00381,Congalton,,2,Toledo,,,congalton
-1913Reach,1912,American Association,B00381,Congalton,,T,,,B143,congalton
-1913Reach,1912,American Association,F20981,Congalton,,1,Columbus,,of,congalton
-1913Reach,1912,American Association,F20981,Congalton,,2,Toledo,,of,congalton
-1913Reach,1912,American Association,F20981,Congalton,,T,,,of143,congalton
-1913Reach,1912,American Association,B01601,Cook,,0,Columbus,,B41,cook
-1913Reach,1912,American Association,F21515,Cook,,0,Columbus,,p41,cook
-1913Reach,1912,American Association,P10215,Cook,,0,Columbus,,P41p,cook
-1913Reach,1912,American Association,P10714,Cook,,0,Columbus,,P41p,cook
-1913Reach,1912,American Association,B01170,Cooper,,0,Columbus,,B31,cooper
-1913Reach,1912,American Association,F21442,Cooper,,0,Columbus,,p31,cooper
-1913Reach,1912,American Association,P10113,Cooper,,0,Columbus,,P31p,cooper
-1913Reach,1912,American Association,P10606,Cooper,,0,Columbus,,P31p,cooper
-1913Reach,1912,American Association,B00068,Corriden,,0,Kansas City,,B121,corriden
-1913Reach,1912,American Association,F20657,Corriden,,0,Kansas City,,ss119,corriden
-1913Reach,1912,American Association,B00904,Coulson,,0,Kansas City,,B133,coulson
-1913Reach,1912,American Association,F21037,Coulson,,0,Kansas City,,of133,coulson
-1913Reach,1912,American Association,B01156,Criss,,0,Louisville,,B25,criss
-1913Reach,1912,American Association,F21469,Criss,,0,Louisville,,p14,criss
-1913Reach,1912,American Association,P11051,Criss,,0,Louisville,,P14p,criss
-1913Reach,1912,American Association,B01722,Cutting,,0,Milwaukee,,B34,cutting
-1913Reach,1912,American Association,F21308,Cutting,,0,Milwaukee,,p34,cutting
-1913Reach,1912,American Association,P10231,Cutting,,0,Milwaukee,,P34p,cutting
-1913Reach,1912,American Association,P10738,Cutting,,0,Milwaukee,,P34p,cutting
-1913Reach,1912,American Association,B01359,Dauss,,0,St. Paul,,B48,dauss
-1913Reach,1912,American Association,F21609,Dauss,,0,St. Paul,,p51,dauss
-1913Reach,1912,American Association,P10385,Dauss,,0,St. Paul,,P51p,dauss
-1913Reach,1912,American Association,P10917,Dauss,,0,St. Paul,,P51p,dauss
-1913Reach,1912,American Association,B00356,Davis,,0,Louisville,,B23,davis
-1913Reach,1912,American Association,F20128,Davis,,0,Louisville,,1b23,davis
-1913Reach,1912,American Association,B01617,Decanniere,,0,St. Paul,,B26,decanniere
-1913Reach,1912,American Association,F21324,Decanniere,,0,St. Paul,,p38,decanniere
-1913Reach,1912,American Association,P10399,Decanniere,,0,St. Paul,,P38p,decanniere
-1913Reach,1912,American Association,P10930,Decanniere,,0,St. Paul,,P38p,decanniere
-1913Reach,1912,American Association,B00528,Delahanty,F.,0,Minneapolis,,B146,delahanty.f
-1913Reach,1912,American Association,F20014,Delahanty,J.,0,Minneapolis,,1b22,delahanty.j
-1913Reach,1912,American Association,F20776,Delahanty,F.,0,Minneapolis,,of146,delahanty.f
-1913Reach,1912,American Association,B00013,Delehanty,J.,0,Minneapolis,,B27,delahanty.j
-1913Reach,1912,American Association,B00948,Derrick,,0,Toledo,,B143,derrick
-1913Reach,1912,American Association,F20080,Derrick,,0,Toledo,,1b142,derrick
-1913Reach,1912,American Association,F21416,Dessau,,0,Kansas City,,p12,dessau
-1913Reach,1912,American Association,P10982,Dessau,,0,Kansas City,,P12p,dessau
-1913Reach,1912,American Association,B01630,Dougherty,,0,Milwaukee,,B31,dougherty
-1913Reach,1912,American Association,F21502,Dougherty,,0,Milwaukee,,p23,dougherty
-1913Reach,1912,American Association,P10432,Dougherty,,0,Milwaukee,,P23p,dougherty
-1913Reach,1912,American Association,P11014,Dougherty,,0,Milwaukee,,P23p,dougherty
-1913Reach,1912,American Association,B00397,Downey,,0,Kansas City,,B151,downey
-1913Reach,1912,American Association,F20303,Downey,,0,Kansas City,,2b134,downey
-1913Reach,1912,American Association,F20482,Downey,,0,Kansas City,,3b15,downey
-1913Reach,1912,American Association,B00021,Drake,,0,Kansas City,,B27,drake
-1913Reach,1912,American Association,F20759,Drake,,0,Kansas City,,of27,drake
-emilbb,1912,American Association,M90052,Duffy,Hugh,,Milwaukee,,,duffy
-1913Reach,1912,American Association,B01625,Falkenberg,,0,Toledo,,B37,falkenberg
-1913Reach,1912,American Association,P10024,Falkenberg,,0,Toledo,,P38p,falkenberg
-1913Reach,1912,American Association,P10493,Falkenberg,,0,Toledo,,P38p,falkenberg
-1913Reach,1912,American Association,F21614,Falkenburg,,0,Toledo,,p38,falkenberg
-1913Reach,1912,American Association,B01288,Farrell,,0,Columbus,,B20,farrell
-1913Reach,1912,American Association,F20792,Farrell,,0,Columbus,,of20,farrell
-1913Reach,1912,American Association,B00427,Ferris,,0,Minneapolis,,B91,ferris
-1913Reach,1912,American Association,F20279,Ferris,,0,Minneapolis,,2b27,ferris
-1913Reach,1912,American Association,F20518,Ferris,,0,Minneapolis,,3b16,ferris
-1913Reach,1912,American Association,F20962,Ferris,,0,Minneapolis,,of32,ferris
-1913Reach,1912,American Association,B00335,Fiene,,0,Kansas City,,B124,fiene
-1913Reach,1912,American Association,F20166,Fiene,,0,Kansas City,,1b25,fiene
-1913Reach,1912,American Association,F21117,Fiene,,0,Kansas City,,of72,fiene
-1913Reach,1912,American Association,F21553,Fiene,,0,Kansas City,,p12,fiene
-1913Reach,1912,American Association,P10996,Fiene,,0,Kansas City,,P12p,fiene
-1913Reach,1912,American Association,B00566,Fisher,,0,Louisville,,B107,fisher
-1913Reach,1912,American Association,F20153,Fisher,,0,Louisville,,1b107,fisher
-1913Reach,1912,American Association,B00589,Flick,,0,Toledo,,B115,flick
-1913Reach,1912,American Association,F21013,Flick,,0,Toledo,,of115,flick
-1913Reach,1912,American Association,B01010,Flynn,,0,St. Paul,,B117,flynn
-1913Reach,1912,American Association,F21059,Flynn,,0,St. Paul,,of111,flynn
-emilbb,1912,American Association,M90039,Friel,William,,Columbus,,,friel
-1913Reach,1912,American Association,B01124,Gagnier,,0,Indianapolis,,B92,gagnier
-1913Reach,1912,American Association,F20552,Gagnier,,0,Indianapolis,,ss70,gagnier
-1913Reach,1912,American Association,F20841,Gagnier,,0,Indianapolis,,of22,gagnier
-1913Reach,1912,American Association,B01711,Gallia,,0,Kansas City,,B23,gallia
-1913Reach,1912,American Association,P10361,Gallia,,0,Kansas City,,P23p,gallia
-1913Reach,1912,American Association,P10894,Gallia,,0,Kansas City,,P23p,gallia
-1913Reach,1912,American Association,B00651,Gardner,,0,Toledo,,B54,gardner-tol
-1913Reach,1912,American Association,B01368,Gardner,,0,St. Paul,,B25,gardner-stp
-1913Reach,1912,American Association,F20206,Gardner,,0,Toledo,,2b54,gardner-tol
-1913Reach,1912,American Association,F21544,Gardner,,0,St. Paul,,p31,gardner-stp
-1913Reach,1912,American Association,P10176,Gardner,H.,0,St. Paul,,P31p,gardner-stp
-1913Reach,1912,American Association,P10679,Gardner,H.,0,St. Paul,,P31p,gardner-stp
-1913Reach,1912,American Association,B01197,George,,0,Toledo,,B15,george
-1913Reach,1912,American Association,F21207,George,,0,Toledo,,p18,george
-1913Reach,1912,American Association,P10640,George,,0,Toledo,,P18p,george
-1913Reach,1912,American Association,B01055,Gerber,,0,Columbus,,B166,gerber
-1913Reach,1912,American Association,F20583,Gerber,,0,Columbus,,ss166,gerber
-1913Reach,1912,American Association,B00553,Gill,,0,Minneapolis,,B123,gill
-1913Reach,1912,American Association,F20115,Gill,,0,Minneapolis,,1b122,gill
-1913Reach,1912,American Association,B01250,Goodman,,0,St. Paul,,B72,goodman
-1913Reach,1912,American Association,F20458,Goodman,,0,St. Paul,,3b72,goodman
-1913Reach,1912,American Association,B01135,Hallman,,1,Indianapolis,,,hallman
-1913Reach,1912,American Association,B01135,Hallman,,2,Louisville,,,hallman
-1913Reach,1912,American Association,B01135,Hallman,,T,,,B48,hallman
-1913Reach,1912,American Association,F20737,Hallman,,1,Indianapolis,,of,hallman
-1913Reach,1912,American Association,F20737,Hallman,,2,Louisville,,of,hallman
-1913Reach,1912,American Association,F20737,Hallman,,T,,,of48,hallman
-emilbb,1912,American Association,M90026,Hartsel,Topsy,,Toledo,,,hartsel
-1913Reach,1912,American Association,B00840,Hayden,,0,Louisville,,B95,hayden
-1913Reach,1912,American Association,F20855,Hayden,,0,Louisville,,of95,hayden
-emilbb,1912,American Association,M90094,Hayden,John,,Louisville,,,hayden
-1913Reach,1912,American Association,B00117,Hinchman,,0,Columbus,,B161,hinchman-col
-1913Reach,1912,American Association,B00646,Hinchman,,1,Toledo,,,hinchman-tol+stp
-1913Reach,1912,American Association,B00646,Hinchman,,2,St. Paul,,,hinchman-tol+stp
-1913Reach,1912,American Association,B00646,Hinchman,,T,,,B164,hinchman-tol+stp
-1913Reach,1912,American Association,F20298,Hinchman,H.,1,Toledo,,2b,hinchman-tol+stp
-1913Reach,1912,American Association,F20298,Hinchman,H.,2,St. Paul,,2b,hinchman-tol+stp
-1913Reach,1912,American Association,F20298,Hinchman,H.,T,,,2b164,hinchman-tol+stp
-1913Reach,1912,American Association,F20935,Hinchman,W.,0,Columbus,,of161,hinchman-col
-1913Reach,1912,American Association,B00865,Hixon,,0,Indianapolis,,B58,hixon
-1913Reach,1912,American Association,F21531,Hixon,,0,Indianapolis,,p43,hixon
-1913Reach,1912,American Association,P10357,Hixon,,0,Indianapolis,,P43p,hixon
-1913Reach,1912,American Association,P10883,Hixon,,0,Indianapolis,,P43p,hixon
-1913Reach,1912,American Association,B00638,Hoffman,,0,St. Paul,,B129,hoffman
-1913Reach,1912,American Association,F20919,Hoffman,,0,St. Paul,,of129,hoffman
-1913Reach,1912,American Association,F20131,Hohnhurst,,1,Toledo,,1b,hornhurst
-1913Reach,1912,American Association,F20131,Hohnhurst,,2,Indianapolis,,1b,hornhurst
-1913Reach,1912,American Association,F20131,Hohnhurst,,T,,,1b20,hornhurst
-1913Reach,1912,American Association,B01234,Hornhorst,,1,Toledo,,,hornhurst
-1913Reach,1912,American Association,B01234,Hornhorst,,2,Indianapolis,,,hornhurst
-1913Reach,1912,American Association,B01234,Hornhorst,,T,,,B20,hornhurst
-1913Reach,1912,American Association,B01696,Hovilik,,0,Milwaukee,,B44,hovlik
-1913Reach,1912,American Association,F21491,Hovlik,,0,Milwaukee,,p44,hovlik
-1913Reach,1912,American Association,P10304,Hovlik,,0,Milwaukee,,P44p,hovlik
-1913Reach,1912,American Association,P10852,Hovlik,,0,Milwaukee,,P44p,hovlik
-1913Reach,1912,American Association,B00174,Howard,,0,St. Paul,,B55,howard
-1913Reach,1912,American Association,F20864,Howard,,0,St. Paul,,of55,howard
-1913Reach,1912,American Association,B00196,Hughes,,0,Milwaukee,,B82,hughes
-1913Reach,1912,American Association,F21806,Hughes,,0,Milwaukee,,c81,hughes
-1913Reach,1912,American Association,B00149,Hulswitt,,1,Columbus,,,hulswitt
-1913Reach,1912,American Association,B00149,Hulswitt,,2,Louisville,,,hulswitt
-1913Reach,1912,American Association,B00149,Hulswitt,,T,,,B117,hulswitt
-1913Reach,1912,American Association,F20222,Hulswitt,,1,Columbus,,2b,hulswitt
-1913Reach,1912,American Association,F20222,Hulswitt,,2,Louisville,,2b,hulswitt
-1913Reach,1912,American Association,F20222,Hulswitt,,T,,,2b104,hulswitt
-1913Reach,1912,American Association,B00491,Hunter,,0,Indianapolis,,B138,hunter
-1913Reach,1912,American Association,F20051,Hunter,,0,Indianapolis,,1b138,hunter
-1913Reach,1912,American Association,B00163,Ingerton,,0,Indianapolis,,B143,ingerton
-1913Reach,1912,American Association,F20463,Ingerton,,0,Indianapolis,,3b135,ingerton
-1913Reach,1912,American Association,B00308,James,,0,Kansas City,,B91,james-kc
-1913Reach,1912,American Association,B01444,James,W.,0,Toledo,,B27,james.w-tol
-1913Reach,1912,American Association,B01682,James,L.,0,Toledo,,B32,james.l-tol
-1913Reach,1912,American Association,F21427,James,L.,0,Toledo,,p33,james.l-tol
-1913Reach,1912,American Association,F21450,James,W.,0,Toledo,,p30,james.w-tol
-1913Reach,1912,American Association,F21783,James,,0,Kansas City,,c91,james-kc
-1913Reach,1912,American Association,P10168,James,L. S.,0,Toledo,,P33p,james.l-tol
-1913Reach,1912,American Association,P10253,James,W.,0,Toledo,,P30p,james.w-tol
-1913Reach,1912,American Association,P10665,James,L. J.,0,Toledo,,P33p,james.l-tol
-1913Reach,1912,American Association,P10751,James,W.,0,Toledo,,P30p,james.w-tol
-1913Reach,1912,American Association,B00726,Johns,,0,Columbus,,B55,johns
-1913Reach,1912,American Association,F20685,Johns,,0,Columbus,,of45,johns
-1913Reach,1912,American Association,B00434,Jones,,0,Milwaukee,,B150,jones
-1913Reach,1912,American Association,F20023,Jones,,0,Milwaukee,,1b150,jones
-1913Reach,1912,American Association,B00502,Kaiser,,0,Indianapolis,,B56,kaiser
-1913Reach,1912,American Association,F20970,Kaiser,,0,Indianapolis,,of56,kaiser
-1913Reach,1912,American Association,B00667,Karger,,0,St. Paul,,B57,karger
-1913Reach,1912,American Association,F21577,Karger,,0,St. Paul,,p46,karger
-1913Reach,1912,American Association,P10407,Karger,,0,St. Paul,,P46p,karger
-1913Reach,1912,American Association,P10949,Karger,,0,St. Paul,,P46p,karger
-1913Reach,1912,American Association,B01428,Keene,,0,Indianapolis,,B41,keene
-1913Reach,1912,American Association,F20144,Keene,,0,Indianapolis,,1b31,keene
-emilbb,1912,American Association,M90071,Kelley,Mike,,St. Paul,,,kelley
-1913Reach,1912,American Association,B00278,Killifer,,0,Minneapolis,,B161,killifer
-1913Reach,1912,American Association,F20505,Killifer,,0,Minneapolis,,3b149,killifer
-1913Reach,1912,American Association,B01567,Kimball,,0,Indianapolis,,B28,kimball
-1913Reach,1912,American Association,F21182,Kimball,,1,Indianapolis,,p,kimball
-1913Reach,1912,American Association,F21182,Kimball,,2,Columbus,,p,kimball
-1913Reach,1912,American Association,F21182,Kimball,,T,,,p27,kimball
-1913Reach,1912,American Association,P10429,Kimball,,1,Indianapolis,,p,kimball
-1913Reach,1912,American Association,P10429,Kimball,,2,Columbus,,p,kimball
-1913Reach,1912,American Association,P10429,Kimball,,T,,,P27p,kimball
-1913Reach,1912,American Association,P11009,Kimball,,1,Indianapolis,,p,kimball
-1913Reach,1912,American Association,P11009,Kimball,,2,Columbus,,p,kimball
-1913Reach,1912,American Association,P11009,Kimball,,T,,,P27p,kimball
-1913Reach,1912,American Association,B00370,Krause,,0,Toledo,,B23,krause
-1913Reach,1912,American Association,F21319,Krause,,0,Toledo,,p22,krause
-1913Reach,1912,American Association,P10019,Krause,,0,Toledo,,P22p,krause
-1913Reach,1912,American Association,P10486,Krause,,0,Toledo,,P22p,krause
-1913Reach,1912,American Association,F21163,Kroh,,0,Louisville,,p10,kroh
-1913Reach,1912,American Association,P11067,Kroh,,0,Louisville,,P10p,kroh
-1913Reach,1912,American Association,B01093,Land,,0,Toledo,,B110,land
-1913Reach,1912,American Association,F21822,Land,,0,Toledo,,c110,land
-1913Reach,1912,American Association,B01431,Laroy,,0,St. Paul,,B29,laroy
-1913Reach,1912,American Association,F21362,Laroy,,0,St. Paul,,p44,laroy
-1913Reach,1912,American Association,P10070,Laroy,,0,St. Paul,,P44p,laroy
-1913Reach,1912,American Association,P10569,Laroy,,0,St. Paul,,P44p,laroy
-1913Reach,1912,American Association,B01546,Laudermilk,G.,0,Louisville,,B32,laudermilk
-1913Reach,1912,American Association,B00319,Leibold,,0,Milwaukee,,B158,leibold
-1913Reach,1912,American Association,F20350,Leibold,,0,Milwaukee,,2b26,leibold
-1913Reach,1912,American Association,F21000,Leibold,,0,Milwaukee,,of128,leibold
-1913Reach,1912,American Association,F21475,Lelivelt,,0,Minneapolis,,p10,lelivelt
-1913Reach,1912,American Association,P10478,Lelivelt,,0,Minneapolis,,P10p,lelivelt
-1913Reach,1912,American Association,B00590,Lennox,,1,Louisville,,,lennox
-1913Reach,1912,American Association,B00590,Lennox,,2,Kansas City,,,lennox
-1913Reach,1912,American Association,B00590,Lennox,,T,,,B98,lennox
-1913Reach,1912,American Association,F20375,Lennox,,1,Louisville,,3b,lennox
-1913Reach,1912,American Association,F20375,Lennox,,2,Kansas City,,3b,lennox
-1913Reach,1912,American Association,F20375,Lennox,,T,,,3b86,lennox
-1913Reach,1912,American Association,B00739,Lewis,P.,0,Milwaukee,,B150,lewis.p
-1913Reach,1912,American Association,B01227,Lewis,J.,1,St. Paul,,,lewis.j
-1913Reach,1912,American Association,B01227,Lewis,J.,2,Milwaukee,,,lewis.j
-1913Reach,1912,American Association,B01227,Lewis,J.,T,,,B93,lewis.j
-1913Reach,1912,American Association,F20240,Lewis,J.,1,St. Paul,,2b,lewis.j
-1913Reach,1912,American Association,F20240,Lewis,J.,2,Milwaukee,,2b,lewis.j
-1913Reach,1912,American Association,F20240,Lewis,J.,T,,,2b72,lewis.j
-1913Reach,1912,American Association,F20287,Lewis,P.,0,Milwaukee,,2b18,lewis.p
-1913Reach,1912,American Association,F20594,Lewis,P.,0,Milwaukee,,ss132,lewis.p
-1913Reach,1912,American Association,F20673,Lewis,J.,1,St. Paul,,ss,lewis.j
-1913Reach,1912,American Association,F20673,Lewis,J.,2,Milwaukee,,ss,lewis.j
-1913Reach,1912,American Association,F20673,Lewis,J.,T,,,ss19,lewis.j
-1913Reach,1912,American Association,P10348,Liebh'dt,,1,Columbus,,p,leibhardt
-1913Reach,1912,American Association,P10348,Liebh'dt,,2,Minneapolis,,p,leibhardt
-1913Reach,1912,American Association,P10348,Liebh'dt,,T,,,P37p,leibhardt
-1913Reach,1912,American Association,B01203,Liebhardt,,1,Columbus,,,leibhardt
-1913Reach,1912,American Association,B01203,Liebhardt,,2,Minneapolis,,,leibhardt
-1913Reach,1912,American Association,B01203,Liebhardt,,T,,,B39,leibhardt
-1913Reach,1912,American Association,F21623,Liebhart,,1,Columbus,,p,leibhardt
-1913Reach,1912,American Association,F21623,Liebhart,,2,Minneapolis,,p,leibhardt
-1913Reach,1912,American Association,F21623,Liebhart,,T,,,p37,leibhardt
-1913Reach,1912,American Association,P10826,Liebhart,,1,Columbus,,p,leibhardt
-1913Reach,1912,American Association,P10826,Liebhart,,2,Minneapolis,,p,leibhardt
-1913Reach,1912,American Association,P10826,Liebhart,,T,,,P37p,leibhardt
-1913Reach,1912,American Association,B01509,Link,,0,Indianapolis,,B30,link
-1913Reach,1912,American Association,F21672,Link,,0,Indianapolis,,p34,link
-1913Reach,1912,American Association,P10373,Link,,0,Indianapolis,,P34p,link
-1913Reach,1912,American Association,P10901,Link,,0,Indianapolis,,P34p,link
-1913Reach,1912,American Association,F21590,Loudermilk,G.,0,Louisville,,p43,laudermilk
-1913Reach,1912,American Association,P10244,Loudermilk,,0,Louisville,,P43p,laudermilk
-1913Reach,1912,American Association,P10746,Loudermilk,G.,0,Louisville,,P43p,laudermilk
-1913Reach,1912,American Association,B00898,Love,,0,Kansas City,,B83,love
-1913Reach,1912,American Association,F20768,Love,,0,Kansas City,,of79,love
-1913Reach,1912,American Association,B01415,Ludwig,,0,Louisville,,B32,ludwig
-1913Reach,1912,American Association,F21794,Ludwig,,0,Louisville,,c32,ludwig
-1913Reach,1912,American Association,B00264,Madden,,0,Louisville,,B15,madden
-1913Reach,1912,American Association,F21973,Madden,,0,Louisville,,c15,madden
-1913Reach,1912,American Association,B00623,Maddox,,1,Kansas City,,,maddox
-1913Reach,1912,American Association,B00623,Maddox,,2,Louisville,,,maddox
-1913Reach,1912,American Association,B00623,Maddox,,T,,,B24,maddox
-1913Reach,1912,American Association,F21241,Maddox,,0,Kansas City,,p34,maddox
-1913Reach,1912,American Association,P10320,Maddox,,1,Kansas City,,p,maddox
-1913Reach,1912,American Association,P10320,Maddox,,2,Louisville,,p,maddox
-1913Reach,1912,American Association,P10320,Maddox,,T,,,P34p,maddox
-1913Reach,1912,American Association,P10871,Maddox,,1,Kansas City,,p,maddox
-1913Reach,1912,American Association,P10871,Maddox,,2,Louisville,,p,maddox
-1913Reach,1912,American Association,P10871,Maddox,,T,,,P34p,maddox
-1913Reach,1912,American Association,B00544,Marion,,0,Milwaukee,,B20,marion
-1913Reach,1912,American Association,F21566,Marion,,0,Milwaukee,,p36,marion
-1913Reach,1912,American Association,P10097,Marion,,0,Milwaukee,,P36p,marion
-1913Reach,1912,American Association,P10588,Marion,,0,Milwaukee,,P36p,marion
-1913Reach,1912,American Association,B01032,Marshall,,1,Milwaukee,,,marshall
-1913Reach,1912,American Association,B01032,Marshall,,2,St. Paul,,,marshall
-1913Reach,1912,American Association,B01032,Marshall,,T,,,B85,marshall
-1913Reach,1912,American Association,F21879,Marshall,,1,Milwaukee,,c,marshall
-1913Reach,1912,American Association,F21879,Marshall,,2,St. Paul,,c,marshall
-1913Reach,1912,American Association,F21879,Marshall,,T,,,c85,marshall
-1913Reach,1912,American Association,B00752,McCarty,,0,Indianapolis,,B113,mccarty
-1913Reach,1912,American Association,F20924,McCarty,,0,Indianapolis,,of90,mccarty
-1913Reach,1912,American Association,F21747,McCarty,,0,Indianapolis,,c19,mccarty
-1913Reach,1912,American Association,F21726,McConnaghey,,0,Columbus,,p12,mcconnaghey
-1913Reach,1912,American Association,P10534,McConnaghey,,0,Columbus,,P12p,mcconnaghey
-1913Reach,1912,American Association,B00833,McCormick,,1,St. Paul,,,mccormick
-1913Reach,1912,American Association,B00833,McCormick,,2,Toledo,,,mccormick
-1913Reach,1912,American Association,B00833,McCormick,,T,,,B107,mccormick
-1913Reach,1912,American Association,F20265,McCormick,,1,St. Paul,,2b,mccormick
-1913Reach,1912,American Association,F20265,McCormick,,2,Toledo,,2b,mccormick
-1913Reach,1912,American Association,F20265,McCormick,,T,,,2b19,mccormick
-1913Reach,1912,American Association,F20388,McCormick,,1,St. Paul,,3b,mccormick
-1913Reach,1912,American Association,F20388,McCormick,,2,Toledo,,3b,mccormick
-1913Reach,1912,American Association,F20388,McCormick,,T,,,3b28,mccormick
-1913Reach,1912,American Association,F20661,McCormick,,1,St. Paul,,ss,mccormick
-1913Reach,1912,American Association,F20661,McCormick,,2,Toledo,,ss,mccormick
-1913Reach,1912,American Association,F20661,McCormick,,T,,,ss60,mccormick
-1913Reach,1912,American Association,B01041,McKechnie,,0,St. Paul,,B41,mckechnie
-1913Reach,1912,American Association,F20539,McKechnie,,0,St. Paul,,ss41,mckechnie
-1913Reach,1912,American Association,B01078,McKee,,0,Indianapolis,,B27,mckee
-1913Reach,1912,American Association,F21760,McKee,,0,Indianapolis,,c27,mckee
-1913Reach,1912,American Association,F21589,McQuillan,,0,Columbus,,p49,mcquillan
-1913Reach,1912,American Association,P10277,McQuillan,,0,Columbus,,P49p,mcquillan
-1913Reach,1912,American Association,P10805,McQuillan,,0,Columbus,,P49p,mcquillan
-1913Reach,1912,American Association,B01538,McQuillen,,0,Columbus,,B42,mcquillan
-1913Reach,1912,American Association,B00609,Meloan,,1,Columbus,,,meloan
-1913Reach,1912,American Association,B00609,Meloan,,2,Louisville,,,meloan
-1913Reach,1912,American Association,B00609,Meloan,,T,,,B120,meloan
-1913Reach,1912,American Association,F21101,Meloan,,1,Toledo,,of,meloan
-1913Reach,1912,American Association,F21101,Meloan,,2,Louisville,,of,meloan
-1913Reach,1912,American Association,F21101,Meloan,,T,,,of120,meloan
-1913Reach,1912,American Association,B01649,Merz,,0,Indianapolis,,B38,merz
-1913Reach,1912,American Association,F21434,Merz,,0,Indianapolis,,p44,merz
-1913Reach,1912,American Association,P10441,Merz,,0,Indianapolis,,P44p,merz
-1913Reach,1912,American Association,P11023,Merz,,0,Indianapolis,,P44p,merz
-1913Reach,1912,American Association,B00210,Miller,,0,Columbus,,B168,miller
-1913Reach,1912,American Association,F20046,Miller,,0,Columbus,,1b168,miller
-1913Reach,1912,American Association,B00854,Moskiman,,0,Louisville,,B43,moskiman
-1913Reach,1912,American Association,F21264,Moskiman,,0,Louisville,,p24,moskiman
-1913Reach,1912,American Association,P10290,Moskiman,,0,Louisville,,P24p,moskiman
-1913Reach,1912,American Association,P10847,Moskiman,,0,Louisville,,P24p,moskiman
-1913Reach,1912,American Association,B01384,Murphy,,0,Columbus,,B27,murphy
-1913Reach,1912,American Association,F21961,Murphy,,0,Columbus,,c27,murphy
-1913Reach,1912,American Association,B01119,Murray,,0,St. Paul,,B49,murray
-1913Reach,1912,American Association,F21912,Murray,,0,St. Paul,,c49,murray
-1913Reach,1912,American Association,B01551,Nicholson,,0,Milwaukee,,B33,nicholson
-1913Reach,1912,American Association,F21651,Nicholson,,0,Milwaukee,,p42,nicholson
-1913Reach,1912,American Association,P10121,Nicholson,,0,Milwaukee,,P42p,nicholson
-1913Reach,1912,American Association,P10611,Nicholson,,0,Milwaukee,,P42p,nicholson
-1913Reach,1912,American Association,B00232,Niles,,0,Toledo,,B140,niles
-1913Reach,1912,American Association,F20401,Niles,,0,Toledo,,3b25,niles
-1913Reach,1912,American Association,F20745,Niles,,0,Toledo,,of113,niles
-1913Reach,1912,American Association,F21705,Noel,,0,Milwaukee,,p17,noel
-1913Reach,1912,American Association,P10963,Noel,,0,Milwaukee,,P17p,noel
-1913Reach,1912,American Association,B01523,Northrup,,0,Louisville,,B28,northrup
-1913Reach,1912,American Association,F21381,Northrup,,0,Louisville,,p36,northrup
-1913Reach,1912,American Association,P10312,Northrup,,0,Louisville,,P36p,northrup
-1913Reach,1912,American Association,P10860,Northrup,,0,Louisville,,P36p,northrup
-1913Reach,1912,American Association,B00999,O'Connor,,0,Kansas City,,B110,oconnor
-1913Reach,1912,American Association,F21811,O'Connor,,0,Kansas City,,c110,oconnor
-emilbb,1912,American Association,M90129,O'Day,Charles,,Indianapolis,,,oday
-1913Reach,1912,American Association,B01162,O'Leary,,0,Indianapolis,,B109,oleary
-1913Reach,1912,American Association,F20233,O'Leary,,0,Indianapolis,,2b16,oleary
-1913Reach,1912,American Association,F20612,O'Leary,,0,Indianapolis,,ss84,oleary
-emilbb,1912,American Association,M90110,O'Leary,Charlie,,Indianapolis,,,oleary
-1913Reach,1912,American Association,B00515,O'Rourke,,0,Columbus,,B136,orourke
-1913Reach,1912,American Association,F20211,O'Rourke,,0,Columbus,,2b136,orourke
-1913Reach,1912,American Association,B00811,Olmstead,,0,Minneapolis,,B51,olmstead
-1913Reach,1912,American Association,F21356,Olmstead,,0,Minneapolis,,p45,olmstead
-1913Reach,1912,American Association,P10043,Olmstead,,0,Minneapolis,,P45p,olmstead
-1913Reach,1912,American Association,P10527,Olmstead,,0,Minneapolis,,P45p,olmstead
-1913Reach,1912,American Association,B00957,Owens,,0,Minneapolis,,B136,owens
-1913Reach,1912,American Association,F21771,Owens,,0,Minneapolis,,c136,owens
-1913Reach,1912,American Association,B00760,Packard,,0,Columbus,,B45,packard
-1913Reach,1912,American Association,F21232,Packard,,0,Columbus,,p43,packard
-1913Reach,1912,American Association,P10035,Packard,,0,Columbus,,P43p,packard
-1913Reach,1912,American Association,P10503,Packard,,0,Columbus,,P43p,packard
-1913Reach,1912,American Association,B01453,Patterson,,0,Minneapolis,,B35,patterson
-1913Reach,1912,American Association,F21229,Patterson,,0,Minneapolis,,p35,patterson
-1913Reach,1912,American Association,P10056,Patterson,,0,Minneapolis,,P35p,patterson
-1913Reach,1912,American Association,P10542,Patterson,,0,Minneapolis,,P35p,patterson
-1913Reach,1912,American Association,B01064,Pearce,,1,Indianapolis,,,pearce
-1913Reach,1912,American Association,B01064,Pearce,,2,Louisville,,,pearce
-1913Reach,1912,American Association,B01064,Pearce,,T,,,B35,pearce
-1913Reach,1912,American Association,F21865,Pearce,,1,Indianapolis,,c,pearce
-1913Reach,1912,American Association,F21865,Pearce,,2,Louisville,,c,pearce
-1913Reach,1912,American Association,F21865,Pearce,,T,,,c35,pearce
-1913Reach,1912,American Association,B00084,Perring,,0,Columbus,,B164,perring
-1913Reach,1912,American Association,F20391,Perring,,0,Columbus,,3b157,perring
-1913Reach,1912,American Association,B00469,Powell,,0,Kansas City,,B47,powell
-1913Reach,1912,American Association,F21335,Powell,,0,Kansas City,,p45,powell
-1913Reach,1912,American Association,P10062,Powell,,0,Kansas City,,P45p,powell
-1913Reach,1912,American Association,P10550,Powell,,0,Kansas City,,P45p,powell
-1913Reach,1912,American Association,B00822,Ralston,,0,St. Paul,,B81,ralston
-1913Reach,1912,American Association,F20893,Ralston,,0,St. Paul,,of81,ralston
-1913Reach,1912,American Association,B00255,Randall,,0,Milwaukee,,B161,randall
-1913Reach,1912,American Association,F21125,Randall,,0,Milwaukee,,of160,randall
-1913Reach,1912,American Association,B00125,Rehg,,0,St. Paul,,B86,rehg
-1913Reach,1912,American Association,F20496,Rehg,,0,St. Paul,,3b79,rehg
-1913Reach,1912,American Association,B00343,Reilley,,0,Indianapolis,,B35,reilley
-1913Reach,1912,American Association,F20700,Reilley,,0,Indianapolis,,of35,reilley
-1913Reach,1912,American Association,B00695,Reilly,J.,0,Toledo,,B22,reilly
-1913Reach,1912,American Association,F21068,Reilly,J.,0,Toledo,,of22,reilly
-1913Reach,1912,American Association,B01337,Rhoades,,0,Kansas City,,B40,rhoades
-1913Reach,1912,American Association,F21210,Rhoades,,0,Kansas City,,p40,rhoades
-1913Reach,1912,American Association,P10159,Rhoades,,0,Kansas City,,P40p,rhoades
-1913Reach,1912,American Association,P10654,Rhoades,,0,Kansas City,,P40p,rhoades
-1913Reach,1912,American Association,B01489,Richter,,0,Louisville,,B28,richter
-1913Reach,1912,American Association,F21370,Richter,,0,Louisville,,p41,richter
-1913Reach,1912,American Association,P10455,Richter,,0,Louisville,,P41p,richter
-1913Reach,1912,American Association,P11038,Richter,,0,Louisville,,P41p,richter
-1913Reach,1912,American Association,B01376,Rieger,,0,St. Paul,,B22,rieger
-1913Reach,1912,American Association,F21158,Rieger,,0,St. Paul,,p25,rieger
-1913Reach,1912,American Association,P10100,Rieger,,0,St. Paul,,P25p,rieger
-1913Reach,1912,American Association,P10591,Rieger,,0,St. Paul,,P25p,rieger
-1913Reach,1912,American Association,B00973,Riggert,,0,St. Paul,,B80,riggert
-1913Reach,1912,American Association,F20878,Riggert,,0,St. Paul,,of80,riggert
-1913Reach,1912,American Association,B01466,Robertson,,0,Indianapolis,,B22,robertson
-1913Reach,1912,American Association,F21397,Robertson,,0,Indianapolis,,p22,robertson
-1913Reach,1912,American Association,P10228,Robertson,,0,Indianapolis,,P22p,robertson
-1913Reach,1912,American Association,P10723,Robertson,,0,Indianapolis,,P22p,robertson
-1913Reach,1912,American Association,B01269,Rockenfield,,0,Kansas City,,B29,rockenfield
-1913Reach,1912,American Association,F20177,Rockenfield,,0,Kansas City,,2b28,rockenfield
-1913Reach,1912,American Association,B00045,Rossman,,0,Minneapolis,,B166,rossman
-1913Reach,1912,American Association,F20956,Rossman,,0,Minneapolis,,of163,rossman
-1913Reach,1912,American Association,B00475,Schalk,,0,Milwaukee,,B80,schalk
-1913Reach,1912,American Association,F21752,Schalk,,0,Milwaukee,,c80,schalk
-1913Reach,1912,American Association,B00076,Schaller,,0,Kansas City,,B89,schaller
-1913Reach,1912,American Association,F21076,Schaller,,0,Kansas City,,of89,schaller
-1913Reach,1912,American Association,B01007,Schlei,,0,Louisville,,B83,schlei
-1913Reach,1912,American Association,F21840,Schlei,,0,Louisville,,c83,schlei
-1913Reach,1912,American Association,B01572,Schlitzer,,1,Indianapolis,,,schlitzer
-1913Reach,1912,American Association,B01572,Schlitzer,,2,Kansas City,,,schlitzer
-1913Reach,1912,American Association,B01572,Schlitzer,,T,,,B33,schlitzer
-1913Reach,1912,American Association,F21680,Schlitzer,,1,Indianapolis,,p,schlitzer
-1913Reach,1912,American Association,F21680,Schlitzer,,2,Kansas City,,p,schlitzer
-1913Reach,1912,American Association,F21680,Schlitzer,,T,,,p33,schlitzer
-1913Reach,1912,American Association,P10410,Schlitzer,,1,Indianapolis,,p,schlitzer
-1913Reach,1912,American Association,P10410,Schlitzer,,2,Kansas City,,p,schlitzer
-1913Reach,1912,American Association,P10410,Schlitzer,,T,,,P33p,schlitzer
-1913Reach,1912,American Association,P10958,Schlitzer,,1,Indianapolis,,p,schlitzer
-1913Reach,1912,American Association,P10958,Schlitzer,,2,Kansas City,,p,schlitzer
-1913Reach,1912,American Association,P10958,Schlitzer,,T,,,P33p,schlitzer
-1913Reach,1912,American Association,B00577,Shaw,,0,Kansas City,,B16,shaw
-1913Reach,1912,American Association,F20807,Shaw,,0,Kansas City,,of16,shaw
-1913Reach,1912,American Association,B00783,Shelton,,0,Columbus,,B167,shelton
-1913Reach,1912,American Association,F20886,Shelton,,0,Columbus,,of167,shelton
-1913Reach,1912,American Association,B01402,Slapnicka,,0,Milwaukee,,B40,slapnicka
-1913Reach,1912,American Association,F21286,Slapnicka,,0,Milwaukee,,p44,slapnicka
-1913Reach,1912,American Association,P10336,Slapnicka,,0,Milwaukee,,P44p,slapnicka
-1913Reach,1912,American Association,P10818,Slapnicka,,0,Milwaukee,,P44p,slapnicka
-1913Reach,1912,American Association,B00286,Smith,,0,Minneapolis,,B34,smith-min
-1913Reach,1912,American Association,B00362,Smith,,0,Columbus,,B155,smith-col
-1913Reach,1912,American Association,F21887,Smith,S.,0,Columbus,,c155,smith-col
-1913Reach,1912,American Association,F21936,Smith,W.,0,Minneapolis,,c34,smith-min
-1913Reach,1912,American Association,F21646,Snyder,,0,Louisville,,p11,snyder
-1913Reach,1912,American Association,P10772,Snyder,,0,Louisville,,P11p,snyder
-1913Reach,1912,American Association,B01275,Spencer,,0,Louisville,,B31,spencer
-1913Reach,1912,American Association,F21833,Spencer,,0,Louisville,,c31,spencer
-1913Reach,1912,American Association,B00614,Stanley,,0,Louisville,,B32,stanley
-1913Reach,1912,American Association,F20997,Stanley,,0,Louisville,,of32,stanley
-1913Reach,1912,American Association,B00158,Stansbury,,0,Louisville,,B142,stansbury
-1913Reach,1912,American Association,F20526,Stansbury,,0,Louisville,,3b16,stansbury
-1913Reach,1912,American Association,F20943,Stansbury,,0,Louisville,,of116,stansbury
-1913Reach,1912,American Association,B00806,Sullivan,,1,Kansas City,,,sullivan
-1913Reach,1912,American Association,B00806,Sullivan,,2,Indianapolis,,,sullivan
-1913Reach,1912,American Association,B00806,Sullivan,,T,,,B30,sullivan
-1913Reach,1912,American Association,F21021,Sullivan,,1,Kansas City,,of,sullivan
-1913Reach,1912,American Association,F21021,Sullivan,,2,Indianapolis,,of,sullivan
-1913Reach,1912,American Association,F21021,Sullivan,,T,,,of30,sullivan
-1913Reach,1912,American Association,B00887,Tannehill,,0,Kansas City,,B49,tannehill
-1913Reach,1912,American Association,F20571,Tannehill,,0,Kansas City,,ss44,tannehill
-1913Reach,1912,American Association,B00912,Thomas,R.,0,St. Paul,,B16,thomas.r
-1913Reach,1912,American Association,B01595,Thomas,F.,0,St. Paul,,B18,thomas.f
-1913Reach,1912,American Association,F20699,Thomas,R.,0,St. Paul,,of16,thomas.r
-1913Reach,1912,American Association,F21278,Thomas,,0,St. Paul,,p20,thomas.f
-1913Reach,1912,American Association,P10464,Thomas,F.,0,St. Paul,,P20p,thomas.f
-1913Reach,1912,American Association,P11046,Thomas,F.,0,St. Paul,,P20p,thomas.f
-emilbb,1912,American Association,M90083,Tighe,Jack,,Louisville,,,tighe
-1913Reach,1912,American Association,B01706,Toney,,0,Louisville,,B21,toney
-1913Reach,1912,American Association,F21174,Toney,,0,Louisville,,p29,toney
-1913Reach,1912,American Association,P10289,Toney,,0,Louisville,,P29p,toney
-1913Reach,1912,American Association,P10839,Toney,,0,Louisville,,P29p,toney
-1913Reach,1912,American Association,B01216,Unglaub,,0,Minneapolis,,B67,unglaub
-1913Reach,1912,American Association,F20102,Unglaub,,0,Minneapolis,,1b29,unglaub
-1913Reach,1912,American Association,F21293,Vallandingham,,0,Louisville,,p14,vallandingham
-1913Reach,1912,American Association,P10795,Vallandingham,,0,Louisville,,P14p,vallandingham
-1913Reach,1912,American Association,B00324,Veach,,0,Indianapolis,,B70,veach
-1913Reach,1912,American Association,F21045,Veach,,0,Indianapolis,,of70,veach
-1913Reach,1912,American Association,B00403,Waddell,,0,Minneapolis,,B33,waddell
-1913Reach,1912,American Association,F21739,Waddell,,0,Minneapolis,,p33,waddell
-1913Reach,1912,American Association,P10081,Waddell,,0,Minneapolis,,P33p,waddell
-1913Reach,1912,American Association,P10575,Waddell,,0,Minneapolis,,P33p,waddell
-1913Reach,1912,American Association,B00101,Walker,,0,Kansas City,,B27,walker
-1913Reach,1912,American Association,F21092,Walker,,0,Kansas City,,of27,walker
-1913Reach,1912,American Association,B01086,Walsh,,0,St. Paul,,B21,walsh
-1913Reach,1912,American Association,F20038,Walsh,,0,St. Paul,,1b20,walsh
-1913Reach,1912,American Association,B01477,Wentz,,0,Indianapolis,,B21,wentz
-1913Reach,1912,American Association,F20648,Wentz,,0,Indianapolis,,ss17,wentz
-1913Reach,1912,American Association,B01580,West,,0,Toledo,,B18,west
-1913Reach,1912,American Association,F21718,West,,0,Toledo,,p21,west
-1913Reach,1912,American Association,P10145,West,,0,Toledo,,P21p,west
-1913Reach,1912,American Association,P10633,West,,0,Toledo,,P21p,west
-1913Reach,1912,American Association,B01242,Westerzil,,0,Indianapolis,,B19,westerzil
-1913Reach,1912,American Association,F20369,Westerzil,,0,Indianapolis,,3b19,westerzil
-1913Reach,1912,American Association,B00207,Williams,,0,Minneapolis,,B139,williams-min
-1913Reach,1912,American Association,B00936,Williams,O.,0,Indianapolis,,B145,williams.o-ind
-1913Reach,1912,American Association,B01029,Williams,E.,0,Indianapolis,,B35,williams.e-ind
-1913Reach,1912,American Association,F20189,Williams,O.,0,Indianapolis,,2b145,williams.o-ind
-1913Reach,1912,American Association,F20190,Williams,J.,0,Minneapolis,,2b139,williams-min
-1913Reach,1912,American Association,F20713,Williams,E.,0,Indianapolis,,of35,williams.e-ind
-1913Reach,1912,American Association,B00747,Woodruff,,0,Indianapolis,,B150,woodruff
-1913Reach,1912,American Association,F20784,Woodruff,,0,Indianapolis,,of138,woodruff
-1913Reach,1912,American Association,B01490,Young,,0,Minneapolis,,B51,young
-1913Reach,1912,American Association,F21196,Young,,0,Minneapolis,,p51,young
-1913Reach,1912,American Association,P10192,Young,,0,Minneapolis,,P51p,young
-1913Reach,1912,American Association,P10698,Young,,0,Minneapolis,,P51p,young
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+1913Reach,1912,American Association,allen,B00680,Allen,,0,Minneapolis,,B31
+1913Reach,1912,American Association,allen,F21920,Allen,,0,Minneapolis,,c31
+1913Reach,1912,American Association,altizer,B00229,Altizer,,0,Minneapolis,,B162
+1913Reach,1912,American Association,altizer,F20604,Altizer,,0,Minneapolis,,ss162
+1913Reach,1912,American Association,altrock,B00771,Altrock,,0,Kansas City,,B19
+1913Reach,1912,American Association,altrock,F21403,Altrock,,0,Kansas City,,p19
+1913Reach,1912,American Association,altrock,P10925,Altrock,,0,Kansas City,,P19p
+1913Reach,1912,American Association,ashenfelder,B01300,Ashenfelder,,0,Indianapolis,,B16
+1913Reach,1912,American Association,ashenfelder,F21667,Ashenfelder,,0,Indianapolis,,p21
+1913Reach,1912,American Association,ashenfelder,P10266,Ashenfelder,,0,Indianapolis,,P21p
+1913Reach,1912,American Association,ashenfelder,P10767,Ashenfelder,,0,Indianapolis,,P21p
+1913Reach,1912,American Association,autrey,B00450,Autrey,,0,St. Paul,,B157
+1913Reach,1912,American Association,autrey,F20067,Autrey,,0,St. Paul,,1b157
+1913Reach,1912,American Association,barbeau,B00879,Barbeau,,0,Kansas City,,B137
+1913Reach,1912,American Association,barbeau,F20430,Barbeau,,0,Kansas City,,3b135
+1913Reach,1912,American Association,baxter,B01108,Baxter,,0,Kansas City,,B35
+1913Reach,1912,American Association,baxter,F21149,Baxter,,0,Kansas City,,of35
+1913Reach,1912,American Association,beaumiller,B00718,Beaumiller,,0,Louisville,,B163
+1913Reach,1912,American Association,beaumiller,F20560,Beaumiller,,0,Louisville,,ss163
+1913Reach,1912,American Association,bell,B01313,Bell,,0,Louisville,,B50
+1913Reach,1912,American Association,bell,F20254,Bell,,0,Louisville,,2b50
+1913Reach,1912,American Association,blackburn,B00293,Blackburn,,0,Milwaukee,,B31
+1913Reach,1912,American Association,blackburn,F20547,Blackburn,,0,Milwaukee,,ss19
+1913Reach,1912,American Association,block-stp,B00182,Block,,0,St. Paul,,B45
+1913Reach,1912,American Association,block-mil,B01143,Block,,0,Milwaukee,,B25
+1913Reach,1912,American Association,block-stp,F21904,Block,,0,St. Paul,,c45
+1913Reach,1912,American Association,block-mil,F21957,Block,,0,Milwaukee,,c25
+1913Reach,1912,American Association,brady,B01345,Brady,,0,Toledo,,B36
+1913Reach,1912,American Association,brady,F20327,Brady,,0,Toledo,,2b24
+1913Reach,1912,American Association,bransfield,B00961,Bransfield,,0,Louisville,,B47
+1913Reach,1912,American Association,bransfield,F20072,Bransfield,,0,Louisville,,1b47
+1913Reach,1912,American Association,breen,B01321,Breen,,0,Milwaukee,,B28
+1913Reach,1912,American Association,breen,F20342,Breen,,0,Milwaukee,,2b15
+1913Reach,1912,American Association,bronkie,B00488,Bronkie,,0,Toledo,,B135
+1913Reach,1912,American Association,bronkie,F20449,Bronkie,,0,Toledo,,3b135
+1913Reach,1912,American Association,bruck,B01674,Bruck,,0,Columbus,,B25
+1913Reach,1912,American Association,bruck,F21255,Bruck,,0,Columbus,,p25
+1913Reach,1912,American Association,bruck,P10137,Bruck,,0,Columbus,,P25p
+1913Reach,1912,American Association,bruck,P10622,Bruck,,0,Columbus,,P25p
+1913Reach,1912,American Association,burch,B00705,Burch,,0,Louisville,,B170
+1913Reach,1912,American Association,burch,F20832,Burch,,0,Louisville,,of170
+1913Reach,1912,American Association,burke-lou,B00920,Burke,,0,Louisville,,B141
+1913Reach,1912,American Association,burke-lou,F20334,Burke,,0,Louisville,,2b35
+1913Reach,1912,American Association,burke-lou,F20474,Burke,,0,Louisville,,3b91
+emilbb,1912,American Association,burke-ind,M90107,Burke,James,,Indianapolis,,
+1913Reach,1912,American Association,burns-tol,B00672,Burns,,0,Toledo,,B165
+1913Reach,1912,American Association,burns-min,B01514,Burns,,0,Indianapolis,,B15
+1913Reach,1912,American Association,burns-tol,F20721,Burns,,0,Toledo,,of165
+1913Reach,1912,American Association,burns-min,F21488,Burns,,0,Minneapolis,,p14
+1913Reach,1912,American Association,burns-min,P10516,Burns,,0,Minneapolis,,P14p
+1913Reach,1912,American Association,butler,B00037,Butler,,0,St. Paul,,B125
+1913Reach,1912,American Association,butler,F20636,Butler,,0,St. Paul,,ss84
+1913Reach,1912,American Association,butler,F20829,Butler,,0,St. Paul,,of33
+1913Reach,1912,American Association,cann,B01658,Cann,,1,Toledo,,
+1913Reach,1912,American Association,cann,B01658,Cann,,2,Kansas City,,
+1913Reach,1912,American Association,cann,B01658,Cann,,T,,,B17
+1913Reach,1912,American Association,cann,F21343,Cann,,1,Toledo,,p
+1913Reach,1912,American Association,cann,F21343,Cann,,2,Kansas City,,p
+1913Reach,1912,American Association,cann,F21343,Cann,,T,,,p18
+1913Reach,1912,American Association,cann,P10780,Cann,,1,Toledo,,p
+1913Reach,1912,American Association,cann,P10780,Cann,,2,Kansas City,,p
+1913Reach,1912,American Association,cann,P10780,Cann,,T,,,P18p
+emilbb,1912,American Association,cantillon,M90018,Cantillon,Joe,,Minneapolis,,
+1913Reach,1912,American Association,capron,B00416,Capron,,1,Milwaukee,,
+1913Reach,1912,American Association,capron,B00416,Capron,,2,St. Paul,,
+1913Reach,1912,American Association,capron,B00416,Capron,,T,,,B88
+1913Reach,1912,American Association,capron,F21084,Capron,,1,Milwaukee,,of
+1913Reach,1912,American Association,capron,F21084,Capron,,2,St. Paul,,of
+1913Reach,1912,American Association,capron,F21084,Capron,,T,,,of88
+1913Reach,1912,American Association,carisch,B00794,Carisch,,0,Toledo,,B58
+1913Reach,1912,American Association,carisch,F21898,Carisch,,0,Toledo,,c58
+1913Reach,1912,American Association,carr,B00059,Carr,,0,Kansas City,,B148
+1913Reach,1912,American Association,carr,F20095,Carr,,0,Kansas City,,1b148
+emilbb,1912,American Association,carr,M90047,Carr,Charles,,Kansas City,,
+1913Reach,1912,American Association,casey,B01181,Casey,,0,Indianapolis,,B66
+1913Reach,1912,American Association,casey,F21948,Casey,,1,Indianapolis,,c
+1913Reach,1912,American Association,casey,F21948,Casey,,2,St. Paul,,c
+1913Reach,1912,American Association,casey,F21948,Casey,,T,,,c66
+1913Reach,1912,American Association,chapman,B00092,Chapman,,0,Toledo,,B140
+1913Reach,1912,American Association,chapman,F20620,Chapman,,0,Toledo,,ss140
+1913Reach,1912,American Association,chappelle,B00442,Chappelle,,0,Milwaukee,,B131
+1913Reach,1912,American Association,chappelle,F21130,Chappelle,,0,Milwaukee,,of131
+1913Reach,1912,American Association,charles,B00985,Charles,,0,Milwaukee,,B134
+1913Reach,1912,American Association,charles,F20316,Charles,,0,Milwaukee,,2b104
+1913Reach,1912,American Association,charles,F20417,Charles,,0,Milwaukee,,3b25
+1913Reach,1912,American Association,clark,B00241,Clark,,0,Milwaukee,,B138
+1913Reach,1912,American Association,clark,F20425,Clark,,0,Milwaukee,,3b138
+emilbb,1912,American Association,clark,M90060,Clark,Harry,,Milwaukee,,
+1913Reach,1912,American Association,clarke-ind,B00531,Clarke,,0,Indianapolis,,B92
+1913Reach,1912,American Association,clarke-kc,B01291,Clarke,,0,Kansas City,,B25
+1913Reach,1912,American Association,clarke-kc,F20908,Clarke,,0,Kansas City,,of25
+1913Reach,1912,American Association,clarke-ind,F21854,Clarke,,0,Indianapolis,,c92
+1913Reach,1912,American Association,clemmons,F21695,Clemmons,,0,Louisville,,p12
+1913Reach,1912,American Association,clemmons,P10974,Clemmons,,0,Louisville,,P12p
+1913Reach,1912,American Association,clymer,B00130,Clymer,,0,Minneapolis,,B157
+1913Reach,1912,American Association,clymer,F20810,Clymer,,0,Minneapolis,,of157
+1913Reach,1912,American Association,collamore,B01392,Collamore,,0,Toledo,,B34
+1913Reach,1912,American Association,collamore,F21638,Collamore,,0,Toledo,,p33
+1913Reach,1912,American Association,collamore,P10202,Collamore,,0,Toledo,,P33p
+1913Reach,1912,American Association,collamore,P10709,Collamore,,0,Toledo,,P33p
+1913Reach,1912,American Association,comstock,B01663,Comstock,,0,Minneapolis,,B37
+1913Reach,1912,American Association,comstock,F21528,Comstock,,0,Minneapolis,,p36
+1913Reach,1912,American Association,comstock,P10184,Comstock,,0,Minneapolis,,P36p
+1913Reach,1912,American Association,comstock,P10687,Comstock,,0,Minneapolis,,P36p
+1913Reach,1912,American Association,congalton,B00381,Congalton,,1,Columbus,,
+1913Reach,1912,American Association,congalton,B00381,Congalton,,2,Toledo,,
+1913Reach,1912,American Association,congalton,B00381,Congalton,,T,,,B143
+1913Reach,1912,American Association,congalton,F20981,Congalton,,1,Columbus,,of
+1913Reach,1912,American Association,congalton,F20981,Congalton,,2,Toledo,,of
+1913Reach,1912,American Association,congalton,F20981,Congalton,,T,,,of143
+1913Reach,1912,American Association,cook,B01601,Cook,,0,Columbus,,B41
+1913Reach,1912,American Association,cook,F21515,Cook,,0,Columbus,,p41
+1913Reach,1912,American Association,cook,P10215,Cook,,0,Columbus,,P41p
+1913Reach,1912,American Association,cook,P10714,Cook,,0,Columbus,,P41p
+1913Reach,1912,American Association,cooper,B01170,Cooper,,0,Columbus,,B31
+1913Reach,1912,American Association,cooper,F21442,Cooper,,0,Columbus,,p31
+1913Reach,1912,American Association,cooper,P10113,Cooper,,0,Columbus,,P31p
+1913Reach,1912,American Association,cooper,P10606,Cooper,,0,Columbus,,P31p
+1913Reach,1912,American Association,corriden,B00068,Corriden,,0,Kansas City,,B121
+1913Reach,1912,American Association,corriden,F20657,Corriden,,0,Kansas City,,ss119
+1913Reach,1912,American Association,coulson,B00904,Coulson,,0,Kansas City,,B133
+1913Reach,1912,American Association,coulson,F21037,Coulson,,0,Kansas City,,of133
+1913Reach,1912,American Association,criss,B01156,Criss,,0,Louisville,,B25
+1913Reach,1912,American Association,criss,F21469,Criss,,0,Louisville,,p14
+1913Reach,1912,American Association,criss,P11051,Criss,,0,Louisville,,P14p
+1913Reach,1912,American Association,cutting,B01722,Cutting,,0,Milwaukee,,B34
+1913Reach,1912,American Association,cutting,F21308,Cutting,,0,Milwaukee,,p34
+1913Reach,1912,American Association,cutting,P10231,Cutting,,0,Milwaukee,,P34p
+1913Reach,1912,American Association,cutting,P10738,Cutting,,0,Milwaukee,,P34p
+1913Reach,1912,American Association,dauss,B01359,Dauss,,0,St. Paul,,B48
+1913Reach,1912,American Association,dauss,F21609,Dauss,,0,St. Paul,,p51
+1913Reach,1912,American Association,dauss,P10385,Dauss,,0,St. Paul,,P51p
+1913Reach,1912,American Association,dauss,P10917,Dauss,,0,St. Paul,,P51p
+1913Reach,1912,American Association,davis,B00356,Davis,,0,Louisville,,B23
+1913Reach,1912,American Association,davis,F20128,Davis,,0,Louisville,,1b23
+1913Reach,1912,American Association,decanniere,B01617,Decanniere,,0,St. Paul,,B26
+1913Reach,1912,American Association,decanniere,F21324,Decanniere,,0,St. Paul,,p38
+1913Reach,1912,American Association,decanniere,P10399,Decanniere,,0,St. Paul,,P38p
+1913Reach,1912,American Association,decanniere,P10930,Decanniere,,0,St. Paul,,P38p
+1913Reach,1912,American Association,delahanty.f,B00528,Delahanty,F.,0,Minneapolis,,B146
+1913Reach,1912,American Association,delahanty.j,F20014,Delahanty,J.,0,Minneapolis,,1b22
+1913Reach,1912,American Association,delahanty.f,F20776,Delahanty,F.,0,Minneapolis,,of146
+1913Reach,1912,American Association,delahanty.j,B00013,Delehanty,J.,0,Minneapolis,,B27
+1913Reach,1912,American Association,derrick,B00948,Derrick,,0,Toledo,,B143
+1913Reach,1912,American Association,derrick,F20080,Derrick,,0,Toledo,,1b142
+1913Reach,1912,American Association,dessau,F21416,Dessau,,0,Kansas City,,p12
+1913Reach,1912,American Association,dessau,P10982,Dessau,,0,Kansas City,,P12p
+1913Reach,1912,American Association,dougherty,B01630,Dougherty,,0,Milwaukee,,B31
+1913Reach,1912,American Association,dougherty,F21502,Dougherty,,0,Milwaukee,,p23
+1913Reach,1912,American Association,dougherty,P10432,Dougherty,,0,Milwaukee,,P23p
+1913Reach,1912,American Association,dougherty,P11014,Dougherty,,0,Milwaukee,,P23p
+1913Reach,1912,American Association,downey,B00397,Downey,,0,Kansas City,,B151
+1913Reach,1912,American Association,downey,F20303,Downey,,0,Kansas City,,2b134
+1913Reach,1912,American Association,downey,F20482,Downey,,0,Kansas City,,3b15
+1913Reach,1912,American Association,drake,B00021,Drake,,0,Kansas City,,B27
+1913Reach,1912,American Association,drake,F20759,Drake,,0,Kansas City,,of27
+emilbb,1912,American Association,duffy,M90052,Duffy,Hugh,,Milwaukee,,
+1913Reach,1912,American Association,falkenberg,B01625,Falkenberg,,0,Toledo,,B37
+1913Reach,1912,American Association,falkenberg,P10024,Falkenberg,,0,Toledo,,P38p
+1913Reach,1912,American Association,falkenberg,P10493,Falkenberg,,0,Toledo,,P38p
+1913Reach,1912,American Association,falkenberg,F21614,Falkenburg,,0,Toledo,,p38
+1913Reach,1912,American Association,farrell,B01288,Farrell,,0,Columbus,,B20
+1913Reach,1912,American Association,farrell,F20792,Farrell,,0,Columbus,,of20
+1913Reach,1912,American Association,ferris,B00427,Ferris,,0,Minneapolis,,B91
+1913Reach,1912,American Association,ferris,F20279,Ferris,,0,Minneapolis,,2b27
+1913Reach,1912,American Association,ferris,F20518,Ferris,,0,Minneapolis,,3b16
+1913Reach,1912,American Association,ferris,F20962,Ferris,,0,Minneapolis,,of32
+1913Reach,1912,American Association,fiene,B00335,Fiene,,0,Kansas City,,B124
+1913Reach,1912,American Association,fiene,F20166,Fiene,,0,Kansas City,,1b25
+1913Reach,1912,American Association,fiene,F21117,Fiene,,0,Kansas City,,of72
+1913Reach,1912,American Association,fiene,F21553,Fiene,,0,Kansas City,,p12
+1913Reach,1912,American Association,fiene,P10996,Fiene,,0,Kansas City,,P12p
+1913Reach,1912,American Association,fisher,B00566,Fisher,,0,Louisville,,B107
+1913Reach,1912,American Association,fisher,F20153,Fisher,,0,Louisville,,1b107
+1913Reach,1912,American Association,flick,B00589,Flick,,0,Toledo,,B115
+1913Reach,1912,American Association,flick,F21013,Flick,,0,Toledo,,of115
+1913Reach,1912,American Association,flynn,B01010,Flynn,,0,St. Paul,,B117
+1913Reach,1912,American Association,flynn,F21059,Flynn,,0,St. Paul,,of111
+emilbb,1912,American Association,friel,M90039,Friel,William,,Columbus,,
+1913Reach,1912,American Association,gagnier,B01124,Gagnier,,0,Indianapolis,,B92
+1913Reach,1912,American Association,gagnier,F20552,Gagnier,,0,Indianapolis,,ss70
+1913Reach,1912,American Association,gagnier,F20841,Gagnier,,0,Indianapolis,,of22
+1913Reach,1912,American Association,gallia,B01711,Gallia,,0,Kansas City,,B23
+1913Reach,1912,American Association,gallia,P10361,Gallia,,0,Kansas City,,P23p
+1913Reach,1912,American Association,gallia,P10894,Gallia,,0,Kansas City,,P23p
+1913Reach,1912,American Association,gardner-tol,B00651,Gardner,,0,Toledo,,B54
+1913Reach,1912,American Association,gardner-stp,B01368,Gardner,,0,St. Paul,,B25
+1913Reach,1912,American Association,gardner-tol,F20206,Gardner,,0,Toledo,,2b54
+1913Reach,1912,American Association,gardner-stp,F21544,Gardner,,0,St. Paul,,p31
+1913Reach,1912,American Association,gardner-stp,P10176,Gardner,H.,0,St. Paul,,P31p
+1913Reach,1912,American Association,gardner-stp,P10679,Gardner,H.,0,St. Paul,,P31p
+1913Reach,1912,American Association,george,B01197,George,,0,Toledo,,B15
+1913Reach,1912,American Association,george,F21207,George,,0,Toledo,,p18
+1913Reach,1912,American Association,george,P10640,George,,0,Toledo,,P18p
+1913Reach,1912,American Association,gerber,B01055,Gerber,,0,Columbus,,B166
+1913Reach,1912,American Association,gerber,F20583,Gerber,,0,Columbus,,ss166
+1913Reach,1912,American Association,gill,B00553,Gill,,0,Minneapolis,,B123
+1913Reach,1912,American Association,gill,F20115,Gill,,0,Minneapolis,,1b122
+1913Reach,1912,American Association,goodman,B01250,Goodman,,0,St. Paul,,B72
+1913Reach,1912,American Association,goodman,F20458,Goodman,,0,St. Paul,,3b72
+1913Reach,1912,American Association,hallman,B01135,Hallman,,1,Indianapolis,,
+1913Reach,1912,American Association,hallman,B01135,Hallman,,2,Louisville,,
+1913Reach,1912,American Association,hallman,B01135,Hallman,,T,,,B48
+1913Reach,1912,American Association,hallman,F20737,Hallman,,1,Indianapolis,,of
+1913Reach,1912,American Association,hallman,F20737,Hallman,,2,Louisville,,of
+1913Reach,1912,American Association,hallman,F20737,Hallman,,T,,,of48
+emilbb,1912,American Association,hartsel,M90026,Hartsel,Topsy,,Toledo,,
+1913Reach,1912,American Association,hayden,B00840,Hayden,,0,Louisville,,B95
+1913Reach,1912,American Association,hayden,F20855,Hayden,,0,Louisville,,of95
+emilbb,1912,American Association,hayden,M90094,Hayden,John,,Louisville,,
+1913Reach,1912,American Association,hinchman-col,B00117,Hinchman,,0,Columbus,,B161
+1913Reach,1912,American Association,hinchman-tol+stp,B00646,Hinchman,,1,Toledo,,
+1913Reach,1912,American Association,hinchman-tol+stp,B00646,Hinchman,,2,St. Paul,,
+1913Reach,1912,American Association,hinchman-tol+stp,B00646,Hinchman,,T,,,B164
+1913Reach,1912,American Association,hinchman-tol+stp,F20298,Hinchman,H.,1,Toledo,,2b
+1913Reach,1912,American Association,hinchman-tol+stp,F20298,Hinchman,H.,2,St. Paul,,2b
+1913Reach,1912,American Association,hinchman-tol+stp,F20298,Hinchman,H.,T,,,2b164
+1913Reach,1912,American Association,hinchman-col,F20935,Hinchman,W.,0,Columbus,,of161
+1913Reach,1912,American Association,hixon,B00865,Hixon,,0,Indianapolis,,B58
+1913Reach,1912,American Association,hixon,F21531,Hixon,,0,Indianapolis,,p43
+1913Reach,1912,American Association,hixon,P10357,Hixon,,0,Indianapolis,,P43p
+1913Reach,1912,American Association,hixon,P10883,Hixon,,0,Indianapolis,,P43p
+1913Reach,1912,American Association,hoffman,B00638,Hoffman,,0,St. Paul,,B129
+1913Reach,1912,American Association,hoffman,F20919,Hoffman,,0,St. Paul,,of129
+1913Reach,1912,American Association,hornhurst,F20131,Hohnhurst,,1,Toledo,,1b
+1913Reach,1912,American Association,hornhurst,F20131,Hohnhurst,,2,Indianapolis,,1b
+1913Reach,1912,American Association,hornhurst,F20131,Hohnhurst,,T,,,1b20
+1913Reach,1912,American Association,hornhurst,B01234,Hornhorst,,1,Toledo,,
+1913Reach,1912,American Association,hornhurst,B01234,Hornhorst,,2,Indianapolis,,
+1913Reach,1912,American Association,hornhurst,B01234,Hornhorst,,T,,,B20
+1913Reach,1912,American Association,hovlik,B01696,Hovilik,,0,Milwaukee,,B44
+1913Reach,1912,American Association,hovlik,F21491,Hovlik,,0,Milwaukee,,p44
+1913Reach,1912,American Association,hovlik,P10304,Hovlik,,0,Milwaukee,,P44p
+1913Reach,1912,American Association,hovlik,P10852,Hovlik,,0,Milwaukee,,P44p
+1913Reach,1912,American Association,howard,B00174,Howard,,0,St. Paul,,B55
+1913Reach,1912,American Association,howard,F20864,Howard,,0,St. Paul,,of55
+1913Reach,1912,American Association,hughes,B00196,Hughes,,0,Milwaukee,,B82
+1913Reach,1912,American Association,hughes,F21806,Hughes,,0,Milwaukee,,c81
+1913Reach,1912,American Association,hulswitt,B00149,Hulswitt,,1,Columbus,,
+1913Reach,1912,American Association,hulswitt,B00149,Hulswitt,,2,Louisville,,
+1913Reach,1912,American Association,hulswitt,B00149,Hulswitt,,T,,,B117
+1913Reach,1912,American Association,hulswitt,F20222,Hulswitt,,1,Columbus,,2b
+1913Reach,1912,American Association,hulswitt,F20222,Hulswitt,,2,Louisville,,2b
+1913Reach,1912,American Association,hulswitt,F20222,Hulswitt,,T,,,2b104
+1913Reach,1912,American Association,hunter,B00491,Hunter,,0,Indianapolis,,B138
+1913Reach,1912,American Association,hunter,F20051,Hunter,,0,Indianapolis,,1b138
+1913Reach,1912,American Association,ingerton,B00163,Ingerton,,0,Indianapolis,,B143
+1913Reach,1912,American Association,ingerton,F20463,Ingerton,,0,Indianapolis,,3b135
+1913Reach,1912,American Association,james-kc,B00308,James,,0,Kansas City,,B91
+1913Reach,1912,American Association,james.w-tol,B01444,James,W.,0,Toledo,,B27
+1913Reach,1912,American Association,james.l-tol,B01682,James,L.,0,Toledo,,B32
+1913Reach,1912,American Association,james.l-tol,F21427,James,L.,0,Toledo,,p33
+1913Reach,1912,American Association,james.w-tol,F21450,James,W.,0,Toledo,,p30
+1913Reach,1912,American Association,james-kc,F21783,James,,0,Kansas City,,c91
+1913Reach,1912,American Association,james.l-tol,P10168,James,L. S.,0,Toledo,,P33p
+1913Reach,1912,American Association,james.w-tol,P10253,James,W.,0,Toledo,,P30p
+1913Reach,1912,American Association,james.l-tol,P10665,James,L. J.,0,Toledo,,P33p
+1913Reach,1912,American Association,james.w-tol,P10751,James,W.,0,Toledo,,P30p
+1913Reach,1912,American Association,johns,B00726,Johns,,0,Columbus,,B55
+1913Reach,1912,American Association,johns,F20685,Johns,,0,Columbus,,of45
+1913Reach,1912,American Association,jones,B00434,Jones,,0,Milwaukee,,B150
+1913Reach,1912,American Association,jones,F20023,Jones,,0,Milwaukee,,1b150
+1913Reach,1912,American Association,kaiser,B00502,Kaiser,,0,Indianapolis,,B56
+1913Reach,1912,American Association,kaiser,F20970,Kaiser,,0,Indianapolis,,of56
+1913Reach,1912,American Association,karger,B00667,Karger,,0,St. Paul,,B57
+1913Reach,1912,American Association,karger,F21577,Karger,,0,St. Paul,,p46
+1913Reach,1912,American Association,karger,P10407,Karger,,0,St. Paul,,P46p
+1913Reach,1912,American Association,karger,P10949,Karger,,0,St. Paul,,P46p
+1913Reach,1912,American Association,keene,B01428,Keene,,0,Indianapolis,,B41
+1913Reach,1912,American Association,keene,F20144,Keene,,0,Indianapolis,,1b31
+emilbb,1912,American Association,kelley,M90071,Kelley,Mike,,St. Paul,,
+1913Reach,1912,American Association,killifer,B00278,Killifer,,0,Minneapolis,,B161
+1913Reach,1912,American Association,killifer,F20505,Killifer,,0,Minneapolis,,3b149
+1913Reach,1912,American Association,kimball,B01567,Kimball,,0,Indianapolis,,B28
+1913Reach,1912,American Association,kimball,F21182,Kimball,,1,Indianapolis,,p
+1913Reach,1912,American Association,kimball,F21182,Kimball,,2,Columbus,,p
+1913Reach,1912,American Association,kimball,F21182,Kimball,,T,,,p27
+1913Reach,1912,American Association,kimball,P10429,Kimball,,1,Indianapolis,,p
+1913Reach,1912,American Association,kimball,P10429,Kimball,,2,Columbus,,p
+1913Reach,1912,American Association,kimball,P10429,Kimball,,T,,,P27p
+1913Reach,1912,American Association,kimball,P11009,Kimball,,1,Indianapolis,,p
+1913Reach,1912,American Association,kimball,P11009,Kimball,,2,Columbus,,p
+1913Reach,1912,American Association,kimball,P11009,Kimball,,T,,,P27p
+1913Reach,1912,American Association,krause,B00370,Krause,,0,Toledo,,B23
+1913Reach,1912,American Association,krause,F21319,Krause,,0,Toledo,,p22
+1913Reach,1912,American Association,krause,P10019,Krause,,0,Toledo,,P22p
+1913Reach,1912,American Association,krause,P10486,Krause,,0,Toledo,,P22p
+1913Reach,1912,American Association,kroh,F21163,Kroh,,0,Louisville,,p10
+1913Reach,1912,American Association,kroh,P11067,Kroh,,0,Louisville,,P10p
+1913Reach,1912,American Association,land,B01093,Land,,0,Toledo,,B110
+1913Reach,1912,American Association,land,F21822,Land,,0,Toledo,,c110
+1913Reach,1912,American Association,laroy,B01431,Laroy,,0,St. Paul,,B29
+1913Reach,1912,American Association,laroy,F21362,Laroy,,0,St. Paul,,p44
+1913Reach,1912,American Association,laroy,P10070,Laroy,,0,St. Paul,,P44p
+1913Reach,1912,American Association,laroy,P10569,Laroy,,0,St. Paul,,P44p
+1913Reach,1912,American Association,laudermilk,B01546,Laudermilk,G.,0,Louisville,,B32
+1913Reach,1912,American Association,leibold,B00319,Leibold,,0,Milwaukee,,B158
+1913Reach,1912,American Association,leibold,F20350,Leibold,,0,Milwaukee,,2b26
+1913Reach,1912,American Association,leibold,F21000,Leibold,,0,Milwaukee,,of128
+1913Reach,1912,American Association,lelivelt,F21475,Lelivelt,,0,Minneapolis,,p10
+1913Reach,1912,American Association,lelivelt,P10478,Lelivelt,,0,Minneapolis,,P10p
+1913Reach,1912,American Association,lennox,B00590,Lennox,,1,Louisville,,
+1913Reach,1912,American Association,lennox,B00590,Lennox,,2,Kansas City,,
+1913Reach,1912,American Association,lennox,B00590,Lennox,,T,,,B98
+1913Reach,1912,American Association,lennox,F20375,Lennox,,1,Louisville,,3b
+1913Reach,1912,American Association,lennox,F20375,Lennox,,2,Kansas City,,3b
+1913Reach,1912,American Association,lennox,F20375,Lennox,,T,,,3b86
+1913Reach,1912,American Association,lewis.p,B00739,Lewis,P.,0,Milwaukee,,B150
+1913Reach,1912,American Association,lewis.j,B01227,Lewis,J.,1,St. Paul,,
+1913Reach,1912,American Association,lewis.j,B01227,Lewis,J.,2,Milwaukee,,
+1913Reach,1912,American Association,lewis.j,B01227,Lewis,J.,T,,,B93
+1913Reach,1912,American Association,lewis.j,F20240,Lewis,J.,1,St. Paul,,2b
+1913Reach,1912,American Association,lewis.j,F20240,Lewis,J.,2,Milwaukee,,2b
+1913Reach,1912,American Association,lewis.j,F20240,Lewis,J.,T,,,2b72
+1913Reach,1912,American Association,lewis.p,F20287,Lewis,P.,0,Milwaukee,,2b18
+1913Reach,1912,American Association,lewis.p,F20594,Lewis,P.,0,Milwaukee,,ss132
+1913Reach,1912,American Association,lewis.j,F20673,Lewis,J.,1,St. Paul,,ss
+1913Reach,1912,American Association,lewis.j,F20673,Lewis,J.,2,Milwaukee,,ss
+1913Reach,1912,American Association,lewis.j,F20673,Lewis,J.,T,,,ss19
+1913Reach,1912,American Association,leibhardt,P10348,Liebh'dt,,1,Columbus,,p
+1913Reach,1912,American Association,leibhardt,P10348,Liebh'dt,,2,Minneapolis,,p
+1913Reach,1912,American Association,leibhardt,P10348,Liebh'dt,,T,,,P37p
+1913Reach,1912,American Association,leibhardt,B01203,Liebhardt,,1,Columbus,,
+1913Reach,1912,American Association,leibhardt,B01203,Liebhardt,,2,Minneapolis,,
+1913Reach,1912,American Association,leibhardt,B01203,Liebhardt,,T,,,B39
+1913Reach,1912,American Association,leibhardt,F21623,Liebhart,,1,Columbus,,p
+1913Reach,1912,American Association,leibhardt,F21623,Liebhart,,2,Minneapolis,,p
+1913Reach,1912,American Association,leibhardt,F21623,Liebhart,,T,,,p37
+1913Reach,1912,American Association,leibhardt,P10826,Liebhart,,1,Columbus,,p
+1913Reach,1912,American Association,leibhardt,P10826,Liebhart,,2,Minneapolis,,p
+1913Reach,1912,American Association,leibhardt,P10826,Liebhart,,T,,,P37p
+1913Reach,1912,American Association,link,B01509,Link,,0,Indianapolis,,B30
+1913Reach,1912,American Association,link,F21672,Link,,0,Indianapolis,,p34
+1913Reach,1912,American Association,link,P10373,Link,,0,Indianapolis,,P34p
+1913Reach,1912,American Association,link,P10901,Link,,0,Indianapolis,,P34p
+1913Reach,1912,American Association,laudermilk,F21590,Loudermilk,G.,0,Louisville,,p43
+1913Reach,1912,American Association,laudermilk,P10244,Loudermilk,,0,Louisville,,P43p
+1913Reach,1912,American Association,laudermilk,P10746,Loudermilk,G.,0,Louisville,,P43p
+1913Reach,1912,American Association,love,B00898,Love,,0,Kansas City,,B83
+1913Reach,1912,American Association,love,F20768,Love,,0,Kansas City,,of79
+1913Reach,1912,American Association,ludwig,B01415,Ludwig,,0,Louisville,,B32
+1913Reach,1912,American Association,ludwig,F21794,Ludwig,,0,Louisville,,c32
+1913Reach,1912,American Association,madden,B00264,Madden,,0,Louisville,,B15
+1913Reach,1912,American Association,madden,F21973,Madden,,0,Louisville,,c15
+1913Reach,1912,American Association,maddox,B00623,Maddox,,1,Kansas City,,
+1913Reach,1912,American Association,maddox,B00623,Maddox,,2,Louisville,,
+1913Reach,1912,American Association,maddox,B00623,Maddox,,T,,,B24
+1913Reach,1912,American Association,maddox,F21241,Maddox,,0,Kansas City,,p34
+1913Reach,1912,American Association,maddox,P10320,Maddox,,1,Kansas City,,p
+1913Reach,1912,American Association,maddox,P10320,Maddox,,2,Louisville,,p
+1913Reach,1912,American Association,maddox,P10320,Maddox,,T,,,P34p
+1913Reach,1912,American Association,maddox,P10871,Maddox,,1,Kansas City,,p
+1913Reach,1912,American Association,maddox,P10871,Maddox,,2,Louisville,,p
+1913Reach,1912,American Association,maddox,P10871,Maddox,,T,,,P34p
+1913Reach,1912,American Association,marion,B00544,Marion,,0,Milwaukee,,B20
+1913Reach,1912,American Association,marion,F21566,Marion,,0,Milwaukee,,p36
+1913Reach,1912,American Association,marion,P10097,Marion,,0,Milwaukee,,P36p
+1913Reach,1912,American Association,marion,P10588,Marion,,0,Milwaukee,,P36p
+1913Reach,1912,American Association,marshall,B01032,Marshall,,1,Milwaukee,,
+1913Reach,1912,American Association,marshall,B01032,Marshall,,2,St. Paul,,
+1913Reach,1912,American Association,marshall,B01032,Marshall,,T,,,B85
+1913Reach,1912,American Association,marshall,F21879,Marshall,,1,Milwaukee,,c
+1913Reach,1912,American Association,marshall,F21879,Marshall,,2,St. Paul,,c
+1913Reach,1912,American Association,marshall,F21879,Marshall,,T,,,c85
+1913Reach,1912,American Association,mccarty,B00752,McCarty,,0,Indianapolis,,B113
+1913Reach,1912,American Association,mccarty,F20924,McCarty,,0,Indianapolis,,of90
+1913Reach,1912,American Association,mccarty,F21747,McCarty,,0,Indianapolis,,c19
+1913Reach,1912,American Association,mcconnaghey,F21726,McConnaghey,,0,Columbus,,p12
+1913Reach,1912,American Association,mcconnaghey,P10534,McConnaghey,,0,Columbus,,P12p
+1913Reach,1912,American Association,mccormick,B00833,McCormick,,1,St. Paul,,
+1913Reach,1912,American Association,mccormick,B00833,McCormick,,2,Toledo,,
+1913Reach,1912,American Association,mccormick,B00833,McCormick,,T,,,B107
+1913Reach,1912,American Association,mccormick,F20265,McCormick,,1,St. Paul,,2b
+1913Reach,1912,American Association,mccormick,F20265,McCormick,,2,Toledo,,2b
+1913Reach,1912,American Association,mccormick,F20265,McCormick,,T,,,2b19
+1913Reach,1912,American Association,mccormick,F20388,McCormick,,1,St. Paul,,3b
+1913Reach,1912,American Association,mccormick,F20388,McCormick,,2,Toledo,,3b
+1913Reach,1912,American Association,mccormick,F20388,McCormick,,T,,,3b28
+1913Reach,1912,American Association,mccormick,F20661,McCormick,,1,St. Paul,,ss
+1913Reach,1912,American Association,mccormick,F20661,McCormick,,2,Toledo,,ss
+1913Reach,1912,American Association,mccormick,F20661,McCormick,,T,,,ss60
+1913Reach,1912,American Association,mckechnie,B01041,McKechnie,,0,St. Paul,,B41
+1913Reach,1912,American Association,mckechnie,F20539,McKechnie,,0,St. Paul,,ss41
+1913Reach,1912,American Association,mckee,B01078,McKee,,0,Indianapolis,,B27
+1913Reach,1912,American Association,mckee,F21760,McKee,,0,Indianapolis,,c27
+1913Reach,1912,American Association,mcquillan,F21589,McQuillan,,0,Columbus,,p49
+1913Reach,1912,American Association,mcquillan,P10277,McQuillan,,0,Columbus,,P49p
+1913Reach,1912,American Association,mcquillan,P10805,McQuillan,,0,Columbus,,P49p
+1913Reach,1912,American Association,mcquillan,B01538,McQuillen,,0,Columbus,,B42
+1913Reach,1912,American Association,meloan,B00609,Meloan,,1,Columbus,,
+1913Reach,1912,American Association,meloan,B00609,Meloan,,2,Louisville,,
+1913Reach,1912,American Association,meloan,B00609,Meloan,,T,,,B120
+1913Reach,1912,American Association,meloan,F21101,Meloan,,1,Toledo,,of
+1913Reach,1912,American Association,meloan,F21101,Meloan,,2,Louisville,,of
+1913Reach,1912,American Association,meloan,F21101,Meloan,,T,,,of120
+1913Reach,1912,American Association,merz,B01649,Merz,,0,Indianapolis,,B38
+1913Reach,1912,American Association,merz,F21434,Merz,,0,Indianapolis,,p44
+1913Reach,1912,American Association,merz,P10441,Merz,,0,Indianapolis,,P44p
+1913Reach,1912,American Association,merz,P11023,Merz,,0,Indianapolis,,P44p
+1913Reach,1912,American Association,miller,B00210,Miller,,0,Columbus,,B168
+1913Reach,1912,American Association,miller,F20046,Miller,,0,Columbus,,1b168
+1913Reach,1912,American Association,moskiman,B00854,Moskiman,,0,Louisville,,B43
+1913Reach,1912,American Association,moskiman,F21264,Moskiman,,0,Louisville,,p24
+1913Reach,1912,American Association,moskiman,P10290,Moskiman,,0,Louisville,,P24p
+1913Reach,1912,American Association,moskiman,P10847,Moskiman,,0,Louisville,,P24p
+1913Reach,1912,American Association,murphy,B01384,Murphy,,0,Columbus,,B27
+1913Reach,1912,American Association,murphy,F21961,Murphy,,0,Columbus,,c27
+1913Reach,1912,American Association,murray,B01119,Murray,,0,St. Paul,,B49
+1913Reach,1912,American Association,murray,F21912,Murray,,0,St. Paul,,c49
+1913Reach,1912,American Association,nicholson,B01551,Nicholson,,0,Milwaukee,,B33
+1913Reach,1912,American Association,nicholson,F21651,Nicholson,,0,Milwaukee,,p42
+1913Reach,1912,American Association,nicholson,P10121,Nicholson,,0,Milwaukee,,P42p
+1913Reach,1912,American Association,nicholson,P10611,Nicholson,,0,Milwaukee,,P42p
+1913Reach,1912,American Association,niles,B00232,Niles,,0,Toledo,,B140
+1913Reach,1912,American Association,niles,F20401,Niles,,0,Toledo,,3b25
+1913Reach,1912,American Association,niles,F20745,Niles,,0,Toledo,,of113
+1913Reach,1912,American Association,noel,F21705,Noel,,0,Milwaukee,,p17
+1913Reach,1912,American Association,noel,P10963,Noel,,0,Milwaukee,,P17p
+1913Reach,1912,American Association,northrup,B01523,Northrup,,0,Louisville,,B28
+1913Reach,1912,American Association,northrup,F21381,Northrup,,0,Louisville,,p36
+1913Reach,1912,American Association,northrup,P10312,Northrup,,0,Louisville,,P36p
+1913Reach,1912,American Association,northrup,P10860,Northrup,,0,Louisville,,P36p
+1913Reach,1912,American Association,oconnor,B00999,O'Connor,,0,Kansas City,,B110
+1913Reach,1912,American Association,oconnor,F21811,O'Connor,,0,Kansas City,,c110
+emilbb,1912,American Association,oday,M90129,O'Day,Charles,,Indianapolis,,
+1913Reach,1912,American Association,oleary,B01162,O'Leary,,0,Indianapolis,,B109
+1913Reach,1912,American Association,oleary,F20233,O'Leary,,0,Indianapolis,,2b16
+1913Reach,1912,American Association,oleary,F20612,O'Leary,,0,Indianapolis,,ss84
+emilbb,1912,American Association,oleary,M90110,O'Leary,Charlie,,Indianapolis,,
+1913Reach,1912,American Association,orourke,B00515,O'Rourke,,0,Columbus,,B136
+1913Reach,1912,American Association,orourke,F20211,O'Rourke,,0,Columbus,,2b136
+1913Reach,1912,American Association,olmstead,B00811,Olmstead,,0,Minneapolis,,B51
+1913Reach,1912,American Association,olmstead,F21356,Olmstead,,0,Minneapolis,,p45
+1913Reach,1912,American Association,olmstead,P10043,Olmstead,,0,Minneapolis,,P45p
+1913Reach,1912,American Association,olmstead,P10527,Olmstead,,0,Minneapolis,,P45p
+1913Reach,1912,American Association,owens,B00957,Owens,,0,Minneapolis,,B136
+1913Reach,1912,American Association,owens,F21771,Owens,,0,Minneapolis,,c136
+1913Reach,1912,American Association,packard,B00760,Packard,,0,Columbus,,B45
+1913Reach,1912,American Association,packard,F21232,Packard,,0,Columbus,,p43
+1913Reach,1912,American Association,packard,P10035,Packard,,0,Columbus,,P43p
+1913Reach,1912,American Association,packard,P10503,Packard,,0,Columbus,,P43p
+1913Reach,1912,American Association,patterson,B01453,Patterson,,0,Minneapolis,,B35
+1913Reach,1912,American Association,patterson,F21229,Patterson,,0,Minneapolis,,p35
+1913Reach,1912,American Association,patterson,P10056,Patterson,,0,Minneapolis,,P35p
+1913Reach,1912,American Association,patterson,P10542,Patterson,,0,Minneapolis,,P35p
+1913Reach,1912,American Association,pearce,B01064,Pearce,,1,Indianapolis,,
+1913Reach,1912,American Association,pearce,B01064,Pearce,,2,Louisville,,
+1913Reach,1912,American Association,pearce,B01064,Pearce,,T,,,B35
+1913Reach,1912,American Association,pearce,F21865,Pearce,,1,Indianapolis,,c
+1913Reach,1912,American Association,pearce,F21865,Pearce,,2,Louisville,,c
+1913Reach,1912,American Association,pearce,F21865,Pearce,,T,,,c35
+1913Reach,1912,American Association,perring,B00084,Perring,,0,Columbus,,B164
+1913Reach,1912,American Association,perring,F20391,Perring,,0,Columbus,,3b157
+1913Reach,1912,American Association,powell,B00469,Powell,,0,Kansas City,,B47
+1913Reach,1912,American Association,powell,F21335,Powell,,0,Kansas City,,p45
+1913Reach,1912,American Association,powell,P10062,Powell,,0,Kansas City,,P45p
+1913Reach,1912,American Association,powell,P10550,Powell,,0,Kansas City,,P45p
+1913Reach,1912,American Association,ralston,B00822,Ralston,,0,St. Paul,,B81
+1913Reach,1912,American Association,ralston,F20893,Ralston,,0,St. Paul,,of81
+1913Reach,1912,American Association,randall,B00255,Randall,,0,Milwaukee,,B161
+1913Reach,1912,American Association,randall,F21125,Randall,,0,Milwaukee,,of160
+1913Reach,1912,American Association,rehg,B00125,Rehg,,0,St. Paul,,B86
+1913Reach,1912,American Association,rehg,F20496,Rehg,,0,St. Paul,,3b79
+1913Reach,1912,American Association,reilley,B00343,Reilley,,0,Indianapolis,,B35
+1913Reach,1912,American Association,reilley,F20700,Reilley,,0,Indianapolis,,of35
+1913Reach,1912,American Association,reilly,B00695,Reilly,J.,0,Toledo,,B22
+1913Reach,1912,American Association,reilly,F21068,Reilly,J.,0,Toledo,,of22
+1913Reach,1912,American Association,rhoades,B01337,Rhoades,,0,Kansas City,,B40
+1913Reach,1912,American Association,rhoades,F21210,Rhoades,,0,Kansas City,,p40
+1913Reach,1912,American Association,rhoades,P10159,Rhoades,,0,Kansas City,,P40p
+1913Reach,1912,American Association,rhoades,P10654,Rhoades,,0,Kansas City,,P40p
+1913Reach,1912,American Association,richter,B01489,Richter,,0,Louisville,,B28
+1913Reach,1912,American Association,richter,F21370,Richter,,0,Louisville,,p41
+1913Reach,1912,American Association,richter,P10455,Richter,,0,Louisville,,P41p
+1913Reach,1912,American Association,richter,P11038,Richter,,0,Louisville,,P41p
+1913Reach,1912,American Association,rieger,B01376,Rieger,,0,St. Paul,,B22
+1913Reach,1912,American Association,rieger,F21158,Rieger,,0,St. Paul,,p25
+1913Reach,1912,American Association,rieger,P10100,Rieger,,0,St. Paul,,P25p
+1913Reach,1912,American Association,rieger,P10591,Rieger,,0,St. Paul,,P25p
+1913Reach,1912,American Association,riggert,B00973,Riggert,,0,St. Paul,,B80
+1913Reach,1912,American Association,riggert,F20878,Riggert,,0,St. Paul,,of80
+1913Reach,1912,American Association,robertson,B01466,Robertson,,0,Indianapolis,,B22
+1913Reach,1912,American Association,robertson,F21397,Robertson,,0,Indianapolis,,p22
+1913Reach,1912,American Association,robertson,P10228,Robertson,,0,Indianapolis,,P22p
+1913Reach,1912,American Association,robertson,P10723,Robertson,,0,Indianapolis,,P22p
+1913Reach,1912,American Association,rockenfield,B01269,Rockenfield,,0,Kansas City,,B29
+1913Reach,1912,American Association,rockenfield,F20177,Rockenfield,,0,Kansas City,,2b28
+1913Reach,1912,American Association,rossman,B00045,Rossman,,0,Minneapolis,,B166
+1913Reach,1912,American Association,rossman,F20956,Rossman,,0,Minneapolis,,of163
+1913Reach,1912,American Association,schalk,B00475,Schalk,,0,Milwaukee,,B80
+1913Reach,1912,American Association,schalk,F21752,Schalk,,0,Milwaukee,,c80
+1913Reach,1912,American Association,schaller,B00076,Schaller,,0,Kansas City,,B89
+1913Reach,1912,American Association,schaller,F21076,Schaller,,0,Kansas City,,of89
+1913Reach,1912,American Association,schlei,B01007,Schlei,,0,Louisville,,B83
+1913Reach,1912,American Association,schlei,F21840,Schlei,,0,Louisville,,c83
+1913Reach,1912,American Association,schlitzer,B01572,Schlitzer,,1,Indianapolis,,
+1913Reach,1912,American Association,schlitzer,B01572,Schlitzer,,2,Kansas City,,
+1913Reach,1912,American Association,schlitzer,B01572,Schlitzer,,T,,,B33
+1913Reach,1912,American Association,schlitzer,F21680,Schlitzer,,1,Indianapolis,,p
+1913Reach,1912,American Association,schlitzer,F21680,Schlitzer,,2,Kansas City,,p
+1913Reach,1912,American Association,schlitzer,F21680,Schlitzer,,T,,,p33
+1913Reach,1912,American Association,schlitzer,P10410,Schlitzer,,1,Indianapolis,,p
+1913Reach,1912,American Association,schlitzer,P10410,Schlitzer,,2,Kansas City,,p
+1913Reach,1912,American Association,schlitzer,P10410,Schlitzer,,T,,,P33p
+1913Reach,1912,American Association,schlitzer,P10958,Schlitzer,,1,Indianapolis,,p
+1913Reach,1912,American Association,schlitzer,P10958,Schlitzer,,2,Kansas City,,p
+1913Reach,1912,American Association,schlitzer,P10958,Schlitzer,,T,,,P33p
+1913Reach,1912,American Association,shaw,B00577,Shaw,,0,Kansas City,,B16
+1913Reach,1912,American Association,shaw,F20807,Shaw,,0,Kansas City,,of16
+1913Reach,1912,American Association,shelton,B00783,Shelton,,0,Columbus,,B167
+1913Reach,1912,American Association,shelton,F20886,Shelton,,0,Columbus,,of167
+1913Reach,1912,American Association,slapnicka,B01402,Slapnicka,,0,Milwaukee,,B40
+1913Reach,1912,American Association,slapnicka,F21286,Slapnicka,,0,Milwaukee,,p44
+1913Reach,1912,American Association,slapnicka,P10336,Slapnicka,,0,Milwaukee,,P44p
+1913Reach,1912,American Association,slapnicka,P10818,Slapnicka,,0,Milwaukee,,P44p
+1913Reach,1912,American Association,smith-min,B00286,Smith,,0,Minneapolis,,B34
+1913Reach,1912,American Association,smith-col,B00362,Smith,,0,Columbus,,B155
+1913Reach,1912,American Association,smith-col,F21887,Smith,S.,0,Columbus,,c155
+1913Reach,1912,American Association,smith-min,F21936,Smith,W.,0,Minneapolis,,c34
+1913Reach,1912,American Association,snyder,F21646,Snyder,,0,Louisville,,p11
+1913Reach,1912,American Association,snyder,P10772,Snyder,,0,Louisville,,P11p
+1913Reach,1912,American Association,spencer,B01275,Spencer,,0,Louisville,,B31
+1913Reach,1912,American Association,spencer,F21833,Spencer,,0,Louisville,,c31
+1913Reach,1912,American Association,stanley,B00614,Stanley,,0,Louisville,,B32
+1913Reach,1912,American Association,stanley,F20997,Stanley,,0,Louisville,,of32
+1913Reach,1912,American Association,stansbury,B00158,Stansbury,,0,Louisville,,B142
+1913Reach,1912,American Association,stansbury,F20526,Stansbury,,0,Louisville,,3b16
+1913Reach,1912,American Association,stansbury,F20943,Stansbury,,0,Louisville,,of116
+1913Reach,1912,American Association,sullivan,B00806,Sullivan,,1,Kansas City,,
+1913Reach,1912,American Association,sullivan,B00806,Sullivan,,2,Indianapolis,,
+1913Reach,1912,American Association,sullivan,B00806,Sullivan,,T,,,B30
+1913Reach,1912,American Association,sullivan,F21021,Sullivan,,1,Kansas City,,of
+1913Reach,1912,American Association,sullivan,F21021,Sullivan,,2,Indianapolis,,of
+1913Reach,1912,American Association,sullivan,F21021,Sullivan,,T,,,of30
+1913Reach,1912,American Association,tannehill,B00887,Tannehill,,0,Kansas City,,B49
+1913Reach,1912,American Association,tannehill,F20571,Tannehill,,0,Kansas City,,ss44
+1913Reach,1912,American Association,thomas.r,B00912,Thomas,R.,0,St. Paul,,B16
+1913Reach,1912,American Association,thomas.f,B01595,Thomas,F.,0,St. Paul,,B18
+1913Reach,1912,American Association,thomas.r,F20699,Thomas,R.,0,St. Paul,,of16
+1913Reach,1912,American Association,thomas.f,F21278,Thomas,,0,St. Paul,,p20
+1913Reach,1912,American Association,thomas.f,P10464,Thomas,F.,0,St. Paul,,P20p
+1913Reach,1912,American Association,thomas.f,P11046,Thomas,F.,0,St. Paul,,P20p
+emilbb,1912,American Association,tighe,M90083,Tighe,Jack,,Louisville,,
+1913Reach,1912,American Association,toney,B01706,Toney,,0,Louisville,,B21
+1913Reach,1912,American Association,toney,F21174,Toney,,0,Louisville,,p29
+1913Reach,1912,American Association,toney,P10289,Toney,,0,Louisville,,P29p
+1913Reach,1912,American Association,toney,P10839,Toney,,0,Louisville,,P29p
+1913Reach,1912,American Association,unglaub,B01216,Unglaub,,0,Minneapolis,,B67
+1913Reach,1912,American Association,unglaub,F20102,Unglaub,,0,Minneapolis,,1b29
+1913Reach,1912,American Association,vallandingham,F21293,Vallandingham,,0,Louisville,,p14
+1913Reach,1912,American Association,vallandingham,P10795,Vallandingham,,0,Louisville,,P14p
+1913Reach,1912,American Association,veach,B00324,Veach,,0,Indianapolis,,B70
+1913Reach,1912,American Association,veach,F21045,Veach,,0,Indianapolis,,of70
+1913Reach,1912,American Association,waddell,B00403,Waddell,,0,Minneapolis,,B33
+1913Reach,1912,American Association,waddell,F21739,Waddell,,0,Minneapolis,,p33
+1913Reach,1912,American Association,waddell,P10081,Waddell,,0,Minneapolis,,P33p
+1913Reach,1912,American Association,waddell,P10575,Waddell,,0,Minneapolis,,P33p
+1913Reach,1912,American Association,walker,B00101,Walker,,0,Kansas City,,B27
+1913Reach,1912,American Association,walker,F21092,Walker,,0,Kansas City,,of27
+1913Reach,1912,American Association,walsh,B01086,Walsh,,0,St. Paul,,B21
+1913Reach,1912,American Association,walsh,F20038,Walsh,,0,St. Paul,,1b20
+1913Reach,1912,American Association,wentz,B01477,Wentz,,0,Indianapolis,,B21
+1913Reach,1912,American Association,wentz,F20648,Wentz,,0,Indianapolis,,ss17
+1913Reach,1912,American Association,west,B01580,West,,0,Toledo,,B18
+1913Reach,1912,American Association,west,F21718,West,,0,Toledo,,p21
+1913Reach,1912,American Association,west,P10145,West,,0,Toledo,,P21p
+1913Reach,1912,American Association,west,P10633,West,,0,Toledo,,P21p
+1913Reach,1912,American Association,westerzil,B01242,Westerzil,,0,Indianapolis,,B19
+1913Reach,1912,American Association,westerzil,F20369,Westerzil,,0,Indianapolis,,3b19
+1913Reach,1912,American Association,williams-min,B00207,Williams,,0,Minneapolis,,B139
+1913Reach,1912,American Association,williams.o-ind,B00936,Williams,O.,0,Indianapolis,,B145
+1913Reach,1912,American Association,williams.e-ind,B01029,Williams,E.,0,Indianapolis,,B35
+1913Reach,1912,American Association,williams.o-ind,F20189,Williams,O.,0,Indianapolis,,2b145
+1913Reach,1912,American Association,williams-min,F20190,Williams,J.,0,Minneapolis,,2b139
+1913Reach,1912,American Association,williams.e-ind,F20713,Williams,E.,0,Indianapolis,,of35
+1913Reach,1912,American Association,woodruff,B00747,Woodruff,,0,Indianapolis,,B150
+1913Reach,1912,American Association,woodruff,F20784,Woodruff,,0,Indianapolis,,of138
+1913Reach,1912,American Association,young,B01490,Young,,0,Minneapolis,,B51
+1913Reach,1912,American Association,young,F21196,Young,,0,Minneapolis,,p51
+1913Reach,1912,American Association,young,P10192,Young,,0,Minneapolis,,P51p
+1913Reach,1912,American Association,young,P10698,Young,,0,Minneapolis,,P51p

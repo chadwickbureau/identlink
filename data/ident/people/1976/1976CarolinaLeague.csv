@@ -1,5 +1,5 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1976,Carolina League,M90819,Aker,Jack,,Lynchburg,,,
-emilbb,1976,Carolina League,M90808,Demeter,Steve,,Salem,,,
-emilbb,1976,Carolina League,M90790,Emery,Cal,,Peninsula,,,
-emilbb,1976,Carolina League,M90789,Torchia,Tony,,Winston-Salem,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1976,Carolina League,,M90819,Aker,Jack,,Lynchburg,,
+emilbb,1976,Carolina League,,M90808,Demeter,Steve,,Salem,,
+emilbb,1976,Carolina League,,M90790,Emery,Cal,,Peninsula,,
+emilbb,1976,Carolina League,,M90789,Torchia,Tony,,Winston-Salem,,

@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1977,Gulf Coast League,M91629,Bellino,Roy,,Expos,,,
-emilbb,1977,Gulf Coast League,M91597,Gonzalez,Pedro,,Braves,,,
-emilbb,1977,Gulf Coast League,M91610,Huyke,Woody,,Pirates,,,
-emilbb,1977,Gulf Coast League,M91556,Jones,Joe,,White Sox,,,
-emilbb,1977,Gulf Coast League,M91581,Klein,Joe,,Rangers,,,
-emilbb,1977,Gulf Coast League,M91607,Linares,Julio,,Astros,,,
-emilbb,1977,Gulf Coast League,M91570,Matney,Ron,,Cubs,,,
-emilbb,1977,Gulf Coast League,M91562,Scripture,Billy,,Royals,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1977,Gulf Coast League,,M91629,Bellino,Roy,,Expos,,
+emilbb,1977,Gulf Coast League,,M91597,Gonzalez,Pedro,,Braves,,
+emilbb,1977,Gulf Coast League,,M91610,Huyke,Woody,,Pirates,,
+emilbb,1977,Gulf Coast League,,M91556,Jones,Joe,,White Sox,,
+emilbb,1977,Gulf Coast League,,M91581,Klein,Joe,,Rangers,,
+emilbb,1977,Gulf Coast League,,M91607,Linares,Julio,,Astros,,
+emilbb,1977,Gulf Coast League,,M91570,Matney,Ron,,Cubs,,
+emilbb,1977,Gulf Coast League,,M91562,Scripture,Billy,,Royals,,

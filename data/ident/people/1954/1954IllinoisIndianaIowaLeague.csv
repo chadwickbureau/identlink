@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1954,Illinois-Indiana-Iowa League,M91409,Coleman,Bob,,Evansville,,,
-emilbb,1954,Illinois-Indiana-Iowa League,M91472,Crandall,James,,Burlington,,,
-emilbb,1954,Illinois-Indiana-Iowa League,M91438,Hoscheit,Vern,,Quincy,,,
-emilbb,1954,Illinois-Indiana-Iowa League,M91467,Kittle,Hub,,Terre Haute,,,
-emilbb,1954,Illinois-Indiana-Iowa League,M91423,Kurowski,Whitey,,Peoria,,,
-emilbb,1954,Illinois-Indiana-Iowa League,M91446,Millies,Walter,,Waterloo,,,
-emilbb,1954,Illinois-Indiana-Iowa League,M91451,Prince,Wiliam,,Cedar Rapids,,,
-emilbb,1954,Illinois-Indiana-Iowa League,M91414,White,Jo Jo,,Keokuk,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1954,Illinois-Indiana-Iowa League,,M91409,Coleman,Bob,,Evansville,,
+emilbb,1954,Illinois-Indiana-Iowa League,,M91472,Crandall,James,,Burlington,,
+emilbb,1954,Illinois-Indiana-Iowa League,,M91438,Hoscheit,Vern,,Quincy,,
+emilbb,1954,Illinois-Indiana-Iowa League,,M91467,Kittle,Hub,,Terre Haute,,
+emilbb,1954,Illinois-Indiana-Iowa League,,M91423,Kurowski,Whitey,,Peoria,,
+emilbb,1954,Illinois-Indiana-Iowa League,,M91446,Millies,Walter,,Waterloo,,
+emilbb,1954,Illinois-Indiana-Iowa League,,M91451,Prince,Wiliam,,Cedar Rapids,,
+emilbb,1954,Illinois-Indiana-Iowa League,,M91414,White,Jo Jo,,Keokuk,,

@@ -1,8 +1,8 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1955,Georgia State League,M92638,Goodsoozian,Sam,,Hazlehurst-Baxley,,,
-emilbb,1955,Georgia State League,M92651,Kinnamon,George,,Dublin,,,
-emilbb,1955,Georgia State League,M92646,Levy,Ed,,Vidalia,,,
-emilbb,1955,Georgia State League,M92623,Pavlick,Pete,,Sandersville,,,
-emilbb,1955,Georgia State League,M92672,Peters,Gerald,,Statesboro,,,
-emilbb,1955,Georgia State League,M92667,Sosebee,James,,Statesboro,,,
-emilbb,1955,Georgia State League,M92614,Wellman,Bob,,Douglas,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1955,Georgia State League,,M92638,Goodsoozian,Sam,,Hazlehurst-Baxley,,
+emilbb,1955,Georgia State League,,M92651,Kinnamon,George,,Dublin,,
+emilbb,1955,Georgia State League,,M92646,Levy,Ed,,Vidalia,,
+emilbb,1955,Georgia State League,,M92623,Pavlick,Pete,,Sandersville,,
+emilbb,1955,Georgia State League,,M92672,Peters,Gerald,,Statesboro,,
+emilbb,1955,Georgia State League,,M92667,Sosebee,James,,Statesboro,,
+emilbb,1955,Georgia State League,,M92614,Wellman,Bob,,Douglas,,

@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1990,Pioneer League,M91953,Belmonte,Nick,,Salt Lake City,,,
-emilbb,1990,Pioneer League,M91928,Calhoun,Gary,,Helena,,,
-emilbb,1990,Pioneer League,M91989,Creech,Ed,,Gate City,,,
-emilbb,1990,Pioneer League,M91966,Curry,Steve,,Idaho Falls,,,
-emilbb,1990,Pioneer League,M91931,Groninger,Gary,,Billings,,,
-emilbb,1990,Pioneer League,M91944,Iorg,Garth,,Medicine Hat,,,
-emilbb,1990,Pioneer League,M91915,Vavra,Joe,,Great Falls,,,
-emilbb,1990,Pioneer League,M91977,Wills,Bump,,Butte,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1990,Pioneer League,,M91953,Belmonte,Nick,,Salt Lake City,,
+emilbb,1990,Pioneer League,,M91928,Calhoun,Gary,,Helena,,
+emilbb,1990,Pioneer League,,M91989,Creech,Ed,,Gate City,,
+emilbb,1990,Pioneer League,,M91966,Curry,Steve,,Idaho Falls,,
+emilbb,1990,Pioneer League,,M91931,Groninger,Gary,,Billings,,
+emilbb,1990,Pioneer League,,M91944,Iorg,Garth,,Medicine Hat,,
+emilbb,1990,Pioneer League,,M91915,Vavra,Joe,,Great Falls,,
+emilbb,1990,Pioneer League,,M91977,Wills,Bump,,Butte,,

@@ -1,5 +1,5 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1968,Appalachian League,M91472,Gearhart,Lloyd,,Marion,,,
-emilbb,1968,Appalachian League,M91495,Hassell,Gene,,Johnson City,,,
-emilbb,1968,Appalachian League,M91480,Pacheco,Tony,,Covington,,,
-emilbb,1968,Appalachian League,M91508,Rowe,Ken,,Bluefield,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1968,Appalachian League,,M91472,Gearhart,Lloyd,,Marion,,
+emilbb,1968,Appalachian League,,M91495,Hassell,Gene,,Johnson City,,
+emilbb,1968,Appalachian League,,M91480,Pacheco,Tony,,Covington,,
+emilbb,1968,Appalachian League,,M91508,Rowe,Ken,,Bluefield,,

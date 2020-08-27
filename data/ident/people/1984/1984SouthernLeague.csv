@@ -1,14 +1,14 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1984,Southern League,M90691,Bailey,Bob,,Columbus,,,bailey.b-cbs
-emilbb,1984,Southern League,M90634,Dews,Bobby,,Greenville,,,dews
-emilbb,1984,Southern League,M90688,Hart,John,,Charlotte,,,hart
-emilbb,1984,Southern League,M90702,Johnson,Jimmy,,Columbus,,,johnson-cbs
-emilbb,1984,Southern League,M90675,Little,Grady,,Charlotte,,,little
-emilbb,1984,Southern League,M90744,Majtyka,Roy,,Birmingham,,,majtyka
-emilbb,1984,Southern League,M90650,Manuel,Charlie,,Orlando,,,manuel
-emilbb,1984,Southern League,M90715,Marshall,Jim,,Nashville,,,marshall
-emilbb,1984,Southern League,M90728,Matthews,Rick,,Memphis,,,matthews
-emilbb,1984,Southern League,M90642,Mazzone,Leo,,Greenville,,,mazzone
-emilbb,1984,Southern League,M90731,McLaren,John,,Knoxville,,,mclaren
-emilbb,1984,Southern League,M90753,Plummer,Bill,,Chattanooga,,,plummer
-emilbb,1984,Southern League,M90669,Renick,Rick,,Jacksonville,,,renick
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1984,Southern League,bailey.b-cbs,M90691,Bailey,Bob,,Columbus,,
+emilbb,1984,Southern League,dews,M90634,Dews,Bobby,,Greenville,,
+emilbb,1984,Southern League,hart,M90688,Hart,John,,Charlotte,,
+emilbb,1984,Southern League,johnson-cbs,M90702,Johnson,Jimmy,,Columbus,,
+emilbb,1984,Southern League,little,M90675,Little,Grady,,Charlotte,,
+emilbb,1984,Southern League,majtyka,M90744,Majtyka,Roy,,Birmingham,,
+emilbb,1984,Southern League,manuel,M90650,Manuel,Charlie,,Orlando,,
+emilbb,1984,Southern League,marshall,M90715,Marshall,Jim,,Nashville,,
+emilbb,1984,Southern League,matthews,M90728,Matthews,Rick,,Memphis,,
+emilbb,1984,Southern League,mazzone,M90642,Mazzone,Leo,,Greenville,,
+emilbb,1984,Southern League,mclaren,M90731,McLaren,John,,Knoxville,,
+emilbb,1984,Southern League,plummer,M90753,Plummer,Bill,,Chattanooga,,
+emilbb,1984,Southern League,renick,M90669,Renick,Rick,,Jacksonville,,

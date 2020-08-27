@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1994,Frontier League,M92149,Albury,Wayne,,Kentucky,,,
-emilbb,1994,Frontier League,M92130,Cole,Ralph,,Portsmouth,,,
-emilbb,1994,Frontier League,M92084,Fichman,Mal,,Erie,,,
-emilbb,1994,Frontier League,M92101,Hannah,Mike,,Newark,,,
-emilbb,1994,Frontier League,M92117,Hanners,Rogers,,Chillicothe,,,
-emilbb,1994,Frontier League,M92076,LeMaster,Greg,,Ohio Valley,,,
-emilbb,1994,Frontier League,M92125,Spencer,George,,Lancaster,,,
-emilbb,1994,Frontier League,M92092,Vendetelli,Tom,,Zanesville,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1994,Frontier League,,M92149,Albury,Wayne,,Kentucky,,
+emilbb,1994,Frontier League,,M92130,Cole,Ralph,,Portsmouth,,
+emilbb,1994,Frontier League,,M92084,Fichman,Mal,,Erie,,
+emilbb,1994,Frontier League,,M92101,Hannah,Mike,,Newark,,
+emilbb,1994,Frontier League,,M92117,Hanners,Rogers,,Chillicothe,,
+emilbb,1994,Frontier League,,M92076,LeMaster,Greg,,Ohio Valley,,
+emilbb,1994,Frontier League,,M92125,Spencer,George,,Lancaster,,
+emilbb,1994,Frontier League,,M92092,Vendetelli,Tom,,Zanesville,,

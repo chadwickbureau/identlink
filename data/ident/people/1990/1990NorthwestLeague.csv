@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1990,Northwest League,M91480,Bubalo,Mike,,Bend,,,
-emilbb,1990,Northwest League,M91446,Carey,P. J.,,Bellingham,,,
-emilbb,1990,Northwest League,M91467,Fuson,Grady,,Southern Oregon,,,
-emilbb,1990,Northwest League,M91414,Glynn,Gene,,Spokane,,,
-emilbb,1990,Northwest League,M91472,Kirsch,Paul,,Eugene,,,
-emilbb,1990,Northwest League,M91451,Kotchman,Tom,,Boise,,,
-emilbb,1990,Northwest League,M91438,McCue,Deron,,Everett,,,
-emilbb,1990,Northwest League,M91423,Royster,Jerry,,Yakima,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1990,Northwest League,,M91480,Bubalo,Mike,,Bend,,
+emilbb,1990,Northwest League,,M91446,Carey,P. J.,,Bellingham,,
+emilbb,1990,Northwest League,,M91467,Fuson,Grady,,Southern Oregon,,
+emilbb,1990,Northwest League,,M91414,Glynn,Gene,,Spokane,,
+emilbb,1990,Northwest League,,M91472,Kirsch,Paul,,Eugene,,
+emilbb,1990,Northwest League,,M91451,Kotchman,Tom,,Boise,,
+emilbb,1990,Northwest League,,M91438,McCue,Deron,,Everett,,
+emilbb,1990,Northwest League,,M91423,Royster,Jerry,,Yakima,,

@@ -1,5 +1,5 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1912,Minnesota-Wisconsin League,M92760,Bailey,Russell,,Eau Claire,,,
-emilbb,1912,Minnesota-Wisconsin League,M92771,Bond,Carl,,La Crosse,,,
-emilbb,1912,Minnesota-Wisconsin League,M92752,Curtis,Fred,,Winona,,,
-emilbb,1912,Minnesota-Wisconsin League,M92783,Lizzett,Art,,Rochester,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1912,Minnesota-Wisconsin League,,M92760,Bailey,Russell,,Eau Claire,,
+emilbb,1912,Minnesota-Wisconsin League,,M92771,Bond,Carl,,La Crosse,,
+emilbb,1912,Minnesota-Wisconsin League,,M92752,Curtis,Fred,,Winona,,
+emilbb,1912,Minnesota-Wisconsin League,,M92783,Lizzett,Art,,Rochester,,

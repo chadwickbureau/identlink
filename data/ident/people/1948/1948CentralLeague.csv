@@ -1,8 +1,8 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1948,Central League,M90540,Beck,"Walter ""Boom-Boom""",,Fort Wayne,,,
-emilbb,1948,Central League,M90554,Finley,Robert,,Saginaw,,,
-emilbb,1948,Central League,M90565,Galatzer,Milton,,Grand Rapids,,,
-emilbb,1948,Central League,M90533,Huffman,Bennie,,Muskegon,,,
-emilbb,1948,Central League,M90579,Knight,Jack,,Grand Rapids,,,
-emilbb,1948,Central League,M90511,Tighe,Jack,,Flint,,,
-emilbb,1948,Central League,M90522,Vosmik,Joe,,Dayton,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1948,Central League,,M90540,Beck,"Walter ""Boom-Boom""",,Fort Wayne,,
+emilbb,1948,Central League,,M90554,Finley,Robert,,Saginaw,,
+emilbb,1948,Central League,,M90565,Galatzer,Milton,,Grand Rapids,,
+emilbb,1948,Central League,,M90533,Huffman,Bennie,,Muskegon,,
+emilbb,1948,Central League,,M90579,Knight,Jack,,Grand Rapids,,
+emilbb,1948,Central League,,M90511,Tighe,Jack,,Flint,,
+emilbb,1948,Central League,,M90522,Vosmik,Joe,,Dayton,,

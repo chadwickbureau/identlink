@@ -1,470 +1,470 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-1920Reach,1919,Michigan-Ontario League,B00149,Allen,,1,Flint,,,allen
-1920Reach,1919,Michigan-Ontario League,B00149,Allen,,2,Saginaw,,,allen
-1920Reach,1919,Michigan-Ontario League,B00149,Allen,,T,,,B101,allen
-1920Reach,1919,Michigan-Ontario League,F20458,Allen,,1,Flint,,3b,allen
-1920Reach,1919,Michigan-Ontario League,F20458,Allen,,2,Saginaw,,3b,allen
-1920Reach,1919,Michigan-Ontario League,F20458,Allen,,T,,,3b25,allen
-1920Reach,1919,Michigan-Ontario League,F20648,Allen,,1,Flint,,ss,allen
-1920Reach,1919,Michigan-Ontario League,F20648,Allen,,2,Saginaw,,ss,allen
-1920Reach,1919,Michigan-Ontario League,F20648,Allen,,T,,,ss77,allen
-1920Reach,1919,Michigan-Ontario League,B00948,Argus,,0,Kitchener,,B69,argus
-1920Reach,1919,Michigan-Ontario League,F21718,Argus,,0,Kitchener,,c69,argus
-1920Reach,1919,Michigan-Ontario League,B00623,Ballard,,0,Battle Creek,,B12,ballard
-1920Reach,1919,Michigan-Ontario League,B00695,Barand,,0,Bay City,,B22,barand
-1920Reach,1919,Michigan-Ontario League,F21264,Barand,,0,Bay City,,rf8,barand
-1920Reach,1919,Michigan-Ontario League,F21566,Barand,,0,Bay City,,p13,barand
-1920Reach,1919,Michigan-Ontario League,P10312,Barand,,0,Bay City,,P11,barand
-1920Reach,1919,Michigan-Ontario League,B00125,Beattie,,0,Kitchener,,B107,beattie
-1920Reach,1919,Michigan-Ontario League,F20046,Beattie,,0,Kitchener,,,beattie
-1920Reach,1919,Michigan-Ontario League,B00865,Behan,,0,Hamilton,,B99,behan
-1920Reach,1919,Michigan-Ontario League,F20342,Behan,,0,Hamilton,,3b5,behan
-1920Reach,1919,Michigan-Ontario League,F20547,Behan,,0,Hamilton,,ss70,behan
-1920Reach,1919,Michigan-Ontario League,F21370,Behan,,0,Hamilton,,p24,behan
-1920Reach,1919,Michigan-Ontario League,P10056,Behan,,0,Hamilton,,P27,behan
-1920Reach,1919,Michigan-Ontario League,B00912,Bills,,1,Brantford,,,bills
-1920Reach,1919,Michigan-Ontario League,B00912,Bills,,2,Flint,,,bills
-1920Reach,1919,Michigan-Ontario League,B00912,Bills,,T,,,B37,bills
-1920Reach,1919,Michigan-Ontario League,F21037,Bills,,1,Brantford,,rf,bills
-1920Reach,1919,Michigan-Ontario League,F21037,Bills,,2,Saginaw,,rf,bills
-1920Reach,1919,Michigan-Ontario League,F21037,Bills,,3,Flint,,rf,bills
-1920Reach,1919,Michigan-Ontario League,F21037,Bills,,T,,,rf9,bills
-1920Reach,1919,Michigan-Ontario League,F21362,Bills,,1,Brantford,,p,bills
-1920Reach,1919,Michigan-Ontario League,F21362,Bills,,2,Saginaw,,p,bills
-1920Reach,1919,Michigan-Ontario League,F21362,Bills,,3,Flint,,p,bills
-1920Reach,1919,Michigan-Ontario League,F21362,Bills,,T,,,p28,bills
-1920Reach,1919,Michigan-Ontario League,P10290,Bills,,1,Brantford,,,bills
-1920Reach,1919,Michigan-Ontario League,P10290,Bills,,2,Saginaw,,,bills
-1920Reach,1919,Michigan-Ontario League,P10290,Bills,,3,Flint,,,bills
-1920Reach,1919,Michigan-Ontario League,P10290,Bills,,T,,,P26,bills
-1920Reach,1919,Michigan-Ontario League,B00397,Bippes,,0,Flint,,B9,bippes
-1920Reach,1919,Michigan-Ontario League,F20604,Bippes,,0,Flint,,ss9,bippes
-1920Reach,1919,Michigan-Ontario League,B00232,Black,,0,Battle Creek,,B40,black
-1920Reach,1919,Michigan-Ontario League,F21324,Black,,0,Battle Creek,,p37,black
-1920Reach,1919,Michigan-Ontario League,P10137,Black,,0,Battle Creek,,P33,black
-1920Reach,1919,Michigan-Ontario League,B00356,Boyle,,0,Battle Creek,,B108,boyle
-1920Reach,1919,Michigan-Ontario League,F20095,Boyle,,0,Battle Creek,,,boyle
-1920Reach,1919,Michigan-Ontario League,B00308,Brady,,0,Brantford,,B105,brady
-1920Reach,1919,Michigan-Ontario League,F20560,Brady,,0,Brantford,,ss105,brady
-1920Reach,1919,Michigan-Ontario League,B00957,Breckenridge,,0,Hamilton,,B29,breckenridge
-1920Reach,1919,Michigan-Ontario League,F20699,Breckenridge,,0,Hamilton,,lf19,breckenridge
-1920Reach,1919,Michigan-Ontario League,F21013,Breckenridge,,0,Hamilton,,cf6,breckenridge
-1920Reach,1919,Michigan-Ontario League,B00343,Briger,,0,Bay City,,B69,briger
-1920Reach,1919,Michigan-Ontario League,F21760,Briger,,0,Bay City,,c69,briger
-1920Reach,1919,Michigan-Ontario League,B00416,Brown,,0,Flint,,B65,brown
-1920Reach,1919,Michigan-Ontario League,F20496,Brown,,0,Flint,,3b65,brown
-1920Reach,1919,Michigan-Ontario League,F21589,Bullard,,0,Battle Creek,,p18,ballard
-1920Reach,1919,Michigan-Ontario League,P10168,Bullard,,0,Battle Creek,,P18,ballard
-1920Reach,1919,Michigan-Ontario League,B00434,Byrne,,0,Bay City,,B106,byrne
-1920Reach,1919,Michigan-Ontario League,F20417,Byrne,,0,Bay City,,3b106,byrne
-1920Reach,1919,Michigan-Ontario League,B00491,Cameron,,1,Saginaw,,,cameron
-1920Reach,1919,Michigan-Ontario League,B00491,Cameron,,2,Brantford,,,cameron
-1920Reach,1919,Michigan-Ontario League,B00491,Cameron,,T,,,B64,cameron
-1920Reach,1919,Michigan-Ontario League,F20518,Cameron,,1,Saginaw,,3b,cameron
-1920Reach,1919,Michigan-Ontario League,F20518,Cameron,,2,Brantford,,3b,cameron
-1920Reach,1919,Michigan-Ontario League,F20518,Cameron,,T,,,3b6,cameron
-1920Reach,1919,Michigan-Ontario League,F20745,Cameron,,1,Saginaw,,lf,cameron
-1920Reach,1919,Michigan-Ontario League,F20745,Cameron,,2,Brantford,,lf,cameron
-1920Reach,1919,Michigan-Ontario League,F20745,Cameron,,T,,,lf13,cameron
-1920Reach,1919,Michigan-Ontario League,F20893,Cameron,,1,Saginaw,,cf,cameron
-1920Reach,1919,Michigan-Ontario League,F20893,Cameron,,2,Brantford,,cf,cameron
-1920Reach,1919,Michigan-Ontario League,F20893,Cameron,,T,,,cf5,cameron
-1920Reach,1919,Michigan-Ontario League,F21174,Cameron,,1,Saginaw,,rf,cameron
-1920Reach,1919,Michigan-Ontario League,F21174,Cameron,,2,Brantford,,rf,cameron
-1920Reach,1919,Michigan-Ontario League,F21174,Cameron,,T,,,rf37,cameron
-1920Reach,1919,Michigan-Ontario League,B00488,Carlin,,0,Hamilton,,B110,carlin
-1920Reach,1919,Michigan-Ontario League,F20316,Carlin,,0,Hamilton,,2b66,carlin
-1920Reach,1919,Michigan-Ontario League,F20463,Carlin,,0,Hamilton,,3b15,carlin
-1920Reach,1919,Michigan-Ontario League,F20636,Carlin,,0,Hamilton,,ss30,carlin
-1920Reach,1919,Michigan-Ontario League,P10407,Carlson,,0,Flint,,P7,carlson
-1920Reach,1919,Michigan-Ontario League,B00833,Carroll,,0,Brantford,,B65,carroll
-1920Reach,1919,Michigan-Ontario League,F21783,Carroll,,0,Brantford,,c65,carroll
-1920Reach,1919,Michigan-Ontario League,B01007,Chaput,,0,Kitchener,,B16,chaput
-1920Reach,1919,Michigan-Ontario League,F21434,Chaput,,0,Kitchener,,p16,chaput
-1920Reach,1919,Michigan-Ontario League,P10361,Chaput,,0,Kitchener,,P15,chaput
-1920Reach,1919,Michigan-Ontario League,F20713,Clark,,0,Brantford,,lf60,clarke
-1920Reach,1919,Michigan-Ontario League,B00068,Clarke,,0,Brantford,,B64,clarke
-1920Reach,1919,Michigan-Ontario League,B00117,Command,,1,Saginaw,,,command
-1920Reach,1919,Michigan-Ontario League,B00117,Command,,2,London,,,command
-1920Reach,1919,Michigan-Ontario League,B00117,Command,,T,,,B105,command
-1920Reach,1919,Michigan-Ontario League,F20807,Command,,0,London,,lf53,command
-1920Reach,1919,Michigan-Ontario League,F21125,Command,,1,Saginaw,,rf,command
-1920Reach,1919,Michigan-Ontario League,F21125,Command,,2,London,,rf,command
-1920Reach,1919,Michigan-Ontario League,F21125,Command,,T,,,rf51,command
-1920Reach,1919,Michigan-Ontario League,B00638,Comstock,,0,Bay City,,B61,comstock
-1920Reach,1919,Michigan-Ontario League,F20700,Comstock,,0,Bay City,,lf14,comstock
-1920Reach,1919,Michigan-Ontario League,F21000,Comstock,,0,Bay City,,cf16,comstock
-1920Reach,1919,Michigan-Ontario League,F21163,Comstock,,0,Bay City,,rf15,comstock
-1920Reach,1919,Michigan-Ontario League,F21822,Comstock,,0,Bay City,,c10,comstock
-1920Reach,1919,Michigan-Ontario League,B00999,Conley,,0,Hamilton,,B62,conley
-1920Reach,1919,Michigan-Ontario League,F20177,Conley,,0,Hamilton,,2b7,conley
-1920Reach,1919,Michigan-Ontario League,F20350,Conley,,0,Hamilton,,3b19,conley
-1920Reach,1919,Michigan-Ontario League,F20661,Conley,,0,Hamilton,,ss20,conley
-1920Reach,1919,Michigan-Ontario League,F21021,Conley,,0,Hamilton,,rf11,conley
-1920Reach,1919,Michigan-Ontario League,F21854,Conley,,0,Hamilton,,c5,conley
-1920Reach,1919,Michigan-Ontario League,B01029,Cook,,0,Bay City,,B28,cook
-1920Reach,1919,Michigan-Ontario League,F21076,Cook,,0,Bay City,,rf5,cook
-1920Reach,1919,Michigan-Ontario League,F21609,Cook,,0,Bay City,,p23,cook
-1920Reach,1919,Michigan-Ontario League,P10348,Cook,,0,Bay City,,P21,cook
-1920Reach,1919,Michigan-Ontario League,B00264,Cully,,0,Brantford,,B71,cully
-1920Reach,1919,Michigan-Ontario League,F20430,Cully,,0,Brantford,,3b70,cully
-1920Reach,1919,Michigan-Ontario League,B00531,Deufel,,0,Hamilton,,B10,deufel
-1920Reach,1919,Michigan-Ontario League,F21705,Deufel,,0,Hamilton,,c10,deufel
-1920Reach,1919,Michigan-Ontario League,B00718,Dodson,,1,Saginaw,,,dodson
-1920Reach,1919,Michigan-Ontario League,B00718,Dodson,,2,Bay City,,,dodson
-1920Reach,1919,Michigan-Ontario League,B00718,Dodson,,T,,,B99,dodson
-1920Reach,1919,Michigan-Ontario League,F20673,Dodson,,1,Saginaw,,ss,dodson
-1920Reach,1919,Michigan-Ontario League,F20673,Dodson,,2,Bay City,,ss,dodson
-1920Reach,1919,Michigan-Ontario League,F20673,Dodson,,T,,,ss43,dodson
-1920Reach,1919,Michigan-Ontario League,F20776,Dodson,,1,Saginaw,,lf,dodson
-1920Reach,1919,Michigan-Ontario League,F20776,Dodson,,2,Bay City,,lf,dodson
-1920Reach,1919,Michigan-Ontario League,F20776,Dodson,,T,,,lf8,dodson
-1920Reach,1919,Michigan-Ontario League,F20924,Dodson,,1,Saginaw,,cf,dodson
-1920Reach,1919,Michigan-Ontario League,F20924,Dodson,,2,Bay City,,cf,dodson
-1920Reach,1919,Michigan-Ontario League,F20924,Dodson,,T,,,cf21,dodson
-1920Reach,1919,Michigan-Ontario League,F21101,Dodson,,1,Saginaw,,rf,dodson
-1920Reach,1919,Michigan-Ontario League,F21101,Dodson,,2,Bay City,,rf,dodson
-1920Reach,1919,Michigan-Ontario League,F21101,Dodson,,T,,,rf24,dodson
-1920Reach,1919,Michigan-Ontario League,F21651,Dodson,,1,Saginaw,,p,dodson
-1920Reach,1919,Michigan-Ontario League,F21651,Dodson,,2,Bay City,,p,dodson
-1920Reach,1919,Michigan-Ontario League,F21651,Dodson,,T,,,p5,dodson
-1920Reach,1919,Michigan-Ontario League,P10385,Dodson,,1,Saginaw,,,dodson
-1920Reach,1919,Michigan-Ontario League,P10385,Dodson,,2,Bay City,,,dodson
-1920Reach,1919,Michigan-Ontario League,P10385,Dodson,,T,,,P5,dodson
-1920Reach,1919,Michigan-Ontario League,B00037,Donnelly,,0,Hamilton,,B101,donnelly
-1920Reach,1919,Michigan-Ontario League,F20102,Donnelly,,0,Hamilton,,,donnelly
-1920Reach,1919,Michigan-Ontario League,F21229,Donnelly,,0,Hamilton,,rf42,donnelly
-1920Reach,1919,Michigan-Ontario League,F21811,Donnelly,,0,Hamilton,,c15,donnelly
-1920Reach,1919,Michigan-Ontario League,B00021,Eckstein,,0,Kitchener,,B30,eckstein
-1920Reach,1919,Michigan-Ontario League,F20759,Eckstein,,0,Kitchener,,lf30,eckstein
-1920Reach,1919,Michigan-Ontario League,B00854,Eichler,,0,Flint,,B11,eichler
-1920Reach,1919,Michigan-Ontario League,F21623,Eichler,,0,Flint,,p11,eichler
-1920Reach,1919,Michigan-Ontario League,P10373,Eichler,,0,Flint,,P11,eichler
-1920Reach,1919,Michigan-Ontario League,B00278,Emery,,0,Saginaw,,B54,emery
-1920Reach,1919,Michigan-Ontario League,F20768,Emery,,1,Kitchener,,lf,emery
-1920Reach,1919,Michigan-Ontario League,F20768,Emery,,2,London,,lf,emery
-1920Reach,1919,Michigan-Ontario League,F20768,Emery,,T,,,lf54,emery
-1920Reach,1919,Michigan-Ontario League,B00158,Estelle,,0,Brantford,,B66,estelle
-1920Reach,1919,Michigan-Ontario League,F20829,Estelle,,0,Brantford,,lf5,estelle
-1920Reach,1919,Michigan-Ontario League,F21207,Estelle,,0,Brantford,,rf21,estelle
-1920Reach,1919,Michigan-Ontario League,F21427,Estelle,,0,Brantford,,p39,estelle
-1920Reach,1919,Michigan-Ontario League,P10192,Estelle,,0,Brantford,,P36,estelle
-1920Reach,1919,Michigan-Ontario League,B00887,Fearnley,,0,London,,B48,fearnley
-1920Reach,1919,Michigan-Ontario League,F20222,Fearnley,,0,Kitchener,,2b30,fearnley
-1920Reach,1919,Michigan-Ontario League,F20571,Fearnley,,0,London,,ss17,fearnley
-1920Reach,1919,Michigan-Ontario League,B01010,Fisher,,0,Flint,,B37,fisher
-1920Reach,1919,Michigan-Ontario League,F21403,Fisher,,0,Flint,,p32,fisher
-1920Reach,1919,Michigan-Ontario League,P10277,Fisher,,0,Flint,,P29,fisher
-1920Reach,1919,Michigan-Ontario League,B00879,Fletcher,,1,Saginaw,,,fletcher
-1920Reach,1919,Michigan-Ontario League,B00879,Fletcher,,2,Kitchener,,,fletcher
-1920Reach,1919,Michigan-Ontario League,B00879,Fletcher,,T,,,B65,fletcher
-1920Reach,1919,Michigan-Ontario League,F20425,Fletcher,,1,Battle Creek,,3b,fletcher
-1920Reach,1919,Michigan-Ontario League,F20425,Fletcher,,2,Saginaw,,3b,fletcher
-1920Reach,1919,Michigan-Ontario League,F20425,Fletcher,,3,Kitchener,,3b,fletcher
-1920Reach,1919,Michigan-Ontario League,F20425,Fletcher,,T,,,3b45,fletcher
-1920Reach,1919,Michigan-Ontario League,F20685,Fletcher,,1,Battle Creek,,ss,fletcher
-1920Reach,1919,Michigan-Ontario League,F20685,Fletcher,,2,Saginaw,,ss,fletcher
-1920Reach,1919,Michigan-Ontario League,F20685,Fletcher,,3,Kitchener,,ss,fletcher
-1920Reach,1919,Michigan-Ontario League,F20685,Fletcher,,T,,,ss20,fletcher
-1920Reach,1919,Michigan-Ontario League,B00442,Friedman,,0,Bay City,,B101,friedman
-1920Reach,1919,Michigan-Ontario League,F20067,Friedman,,0,Bay City,,,friedman
-1920Reach,1919,Michigan-Ontario League,B01119,Gallagher,,0,Brantford,,B8,gallagher
-1920Reach,1919,Michigan-Ontario League,F21469,Gallagher,,0,Brantford,,p15,gallagher
-1920Reach,1919,Michigan-Ontario League,P10145,Gallagher,,0,Brantford,,P5,gallagher
-1920Reach,1919,Michigan-Ontario League,B00806,Gero,,1,London,,,gero
-1920Reach,1919,Michigan-Ontario League,B00806,Gero,,2,Hamilton,,,gero
-1920Reach,1919,Michigan-Ontario League,B00806,Gero,,T,,,B24,gero
-1920Reach,1919,Michigan-Ontario League,F21416,Gero,,1,London,,p,gero
-1920Reach,1919,Michigan-Ontario League,F21416,Gero,,2,Hamilton,,p,gero
-1920Reach,1919,Michigan-Ontario League,F21416,Gero,,T,,,p24,gero
-1920Reach,1919,Michigan-Ontario League,P10228,Gero,,1,London,,,gero
-1920Reach,1919,Michigan-Ontario League,P10228,Gero,,2,Hamilton,,,gero
-1920Reach,1919,Michigan-Ontario League,P10228,Gero,,T,,,P23,gero
-1920Reach,1919,Michigan-Ontario League,B00515,Gilbert,,1,London,,,gilbert
-1920Reach,1919,Michigan-Ontario League,B00515,Gilbert,,2,Kitchener,,,gilbert
-1920Reach,1919,Michigan-Ontario League,B00515,Gilbert,,T,,,B36,gilbert
-1920Reach,1919,Michigan-Ontario League,F20128,Gilbert,,1,London,,,gilbert
-1920Reach,1919,Michigan-Ontario League,F20128,Gilbert,,2,Kitchener,,,gilbert
-1920Reach,1919,Michigan-Ontario League,F20128,Gilbert,,T,,,,gilbert
-1920Reach,1919,Michigan-Ontario League,F21442,Gilbert,,1,London,,p,gilbert
-1920Reach,1919,Michigan-Ontario League,F21442,Gilbert,,2,Kitchener,,p,gilbert
-1920Reach,1919,Michigan-Ontario League,F21442,Gilbert,,T,,,p26,gilbert
-1920Reach,1919,Michigan-Ontario League,P10304,Gilbert,,1,London,,,gilbert
-1920Reach,1919,Michigan-Ontario League,P10304,Gilbert,,2,Kitchener,,,gilbert
-1920Reach,1919,Michigan-Ontario League,P10304,Gilbert,,T,,,P26,gilbert
-1920Reach,1919,Michigan-Ontario League,B00794,Glasier,,0,Hamilton,,B49,glasier
-1920Reach,1919,Michigan-Ontario League,F21553,Glasier,,0,Hamilton,,p44,glasier
-1920Reach,1919,Michigan-Ontario League,P10070,Glasier,,0,Hamilton,,P40,glasier
-1920Reach,1919,Michigan-Ontario League,B00590,Gleich,,0,Saginaw,,B79,gleich
-1920Reach,1919,Michigan-Ontario League,F20810,Gleich,,0,Saginaw,,lf74,gleich
-1920Reach,1919,Michigan-Ontario League,F21059,Gleich,,0,Saginaw,,rf5,gleich
-1920Reach,1919,Michigan-Ontario League,B01156,Gokey,,0,Brantford,,B16,gokey
-1920Reach,1919,Michigan-Ontario League,F21450,Gokey,,0,Brantford,,p16,gokey
-1920Reach,1919,Michigan-Ontario League,P10215,Gokey,,0,Brantford,,P16,gokey
-1920Reach,1919,Michigan-Ontario League,B00667,Grodick,,1,London,,,grodick
-1920Reach,1919,Michigan-Ontario League,B00667,Grodick,,2,Bay City,,,grodick
-1920Reach,1919,Michigan-Ontario League,B00667,Grodick,,T,,,B96,grodick
-1920Reach,1919,Michigan-Ontario League,F20287,Grodick,,1,London,,2b,grodick
-1920Reach,1919,Michigan-Ontario League,F20287,Grodick,,2,Bay City,,2b,grodick
-1920Reach,1919,Michigan-Ontario League,F20287,Grodick,,T,,,2b34,grodick
-1920Reach,1919,Michigan-Ontario League,F21045,Grodick,,1,London,,rf,grodick
-1920Reach,1919,Michigan-Ontario League,F21045,Grodick,,2,Bay City,,rf,grodick
-1920Reach,1919,Michigan-Ontario League,F21045,Grodick,,T,,,rf5,grodick
-1920Reach,1919,Michigan-Ontario League,B00936,Hagel,,1,London,,,hagel
-1920Reach,1919,Michigan-Ontario League,B00936,Hagel,,2,Flint,,,hagel
-1920Reach,1919,Michigan-Ontario League,B00936,Hagel,,T,,,B64,hagel
-1920Reach,1919,Michigan-Ontario League,F20014,Hagel,,0,London,,,hagel
-1920Reach,1919,Michigan-Ontario League,F20327,Hagel,,1,London,,2b,hagel
-1920Reach,1919,Michigan-Ontario League,F20327,Hagel,,2,Flint,,2b,hagel
-1920Reach,1919,Michigan-Ontario League,F20327,Hagel,,T,,,2b15,hagel
-1920Reach,1919,Michigan-Ontario League,F20594,Hagel,,1,London,,ss,hagel
-1920Reach,1919,Michigan-Ontario League,F20594,Hagel,,2,Flint,,ss,hagel
-1920Reach,1919,Michigan-Ontario League,F20594,Hagel,,T,,,ss34,hagel
-1920Reach,1919,Michigan-Ontario League,F20886,Hagel,,1,London,,cf,hagel
-1920Reach,1919,Michigan-Ontario League,F20886,Hagel,,2,Flint,,cf,hagel
-1920Reach,1919,Michigan-Ontario League,F20886,Hagel,,T,,,cf6,hagel
-1920Reach,1919,Michigan-Ontario League,B00739,Harrison,,1,Kitchener,,,harrison
-1920Reach,1919,Michigan-Ontario League,B00739,Harrison,,2,Bay City,,,harrison
-1920Reach,1919,Michigan-Ontario League,B00739,Harrison,,T,,,B80,harrison
-1920Reach,1919,Michigan-Ontario League,F20841,Harrison,,1,Kitchener,,cf,harrison
-1920Reach,1919,Michigan-Ontario League,F20841,Harrison,,2,Flint,,cf,harrison
-1920Reach,1919,Michigan-Ontario League,F20841,Harrison,,3,Bay City,,cf,harrison
-1920Reach,1919,Michigan-Ontario League,F20841,Harrison,,T,,,cf12,harrison
-1920Reach,1919,Michigan-Ontario League,F21241,Harrison,,1,Kitchener,,rf,harrison
-1920Reach,1919,Michigan-Ontario League,F21241,Harrison,,2,Saginaw,,rf,harrison
-1920Reach,1919,Michigan-Ontario League,F21241,Harrison,,3,Bay City,,rf,harrison
-1920Reach,1919,Michigan-Ontario League,F21241,Harrison,,T,,,rf24,harrison
-1920Reach,1919,Michigan-Ontario League,F21771,Harrison,,1,Kitchener,,c,harrison
-1920Reach,1919,Michigan-Ontario League,F21771,Harrison,,2,Saginaw,,c,harrison
-1920Reach,1919,Michigan-Ontario League,F21771,Harrison,,3,Bay City,,c,harrison
-1920Reach,1919,Michigan-Ontario League,F21771,Harrison,,T,,,c44,harrison
-1920Reach,1919,Michigan-Ontario League,B01135,Hayden,,0,Kitchener,,B8,hayden
-1920Reach,1919,Michigan-Ontario League,F21840,Hayden,,0,Kitchener,,c7,hayden
-1920Reach,1919,Michigan-Ontario League,B01032,Hayes,,0,Flint,,B29,hayes
-1920Reach,1919,Michigan-Ontario League,F21614,Hayes,,0,Flint,,p26,hayes
-1920Reach,1919,Michigan-Ontario League,P10231,Hayes,,0,Flint,,P26,hayes
-1920Reach,1919,Michigan-Ontario League,B00771,Henrion,,0,London,,B23,henrion
-1920Reach,1919,Michigan-Ontario League,F21528,Henrion,,0,London,,p24,henrion
-1920Reach,1919,Michigan-Ontario League,P10184,Herrion,,0,London,,P21,henrion
-1920Reach,1919,Michigan-Ontario League,B00324,Heving,,0,Battle Creek,,B105,heving
-1920Reach,1919,Michigan-Ontario League,F21833,Heving,,0,Battle Creek,,c104,heving
-1920Reach,1919,Michigan-Ontario League,B00475,Horne,,0,Battle Creek,,B41,horne
-1920Reach,1919,Michigan-Ontario League,F21210,Horne,,0,Battle Creek,,rf6,horne
-1920Reach,1919,Michigan-Ontario League,F21356,Horne,,0,Battle Creek,,p35,horne
-1920Reach,1919,Michigan-Ontario League,P10121,Horne,,0,Battle Creek,,P34,horne
-1920Reach,1919,Michigan-Ontario League,B00319,Jenkins,,0,Battle Creek,,B96,jenkins
-1920Reach,1919,Michigan-Ontario League,F20919,Jenkins,,0,Battle Creek,,cf96,jenkins
-1920Reach,1919,Michigan-Ontario League,B00403,Jewell,,0,Battle Creek,,B86,jewell
-1920Reach,1919,Michigan-Ontario League,F20539,Jewell,,0,Battle Creek,,ss85,jewell
-1920Reach,1919,Michigan-Ontario League,B00747,Johnson,,0,Flint,,B38,johnson-fli
-1920Reach,1919,Michigan-Ontario League,B01086,Johnson,,0,Kitchener,,B5,johnson-kit
-1920Reach,1919,Michigan-Ontario League,F21680,Johnson,,0,Kitchener,,p5,johnson-kit
-1920Reach,1919,Michigan-Ontario League,F21865,Johnson,,0,Flint,,c38,johnson-fli
-1920Reach,1919,Michigan-Ontario League,P10035,Johnson,,0,Kitchener,,P5,johnson-kit
-1920Reach,1919,Michigan-Ontario League,B00013,Kaylor,,0,Battle Creek,,B104,kaylor
-1920Reach,1919,Michigan-Ontario League,F21158,Kaylor,,0,Battle Creek,,rf104,kaylor
-1920Reach,1919,Michigan-Ontario League,B00427,Kyle,,0,Kitchener,,B107,kyle
-1920Reach,1919,Michigan-Ontario League,F20721,Kyle,,0,Kitchener,,lf13,kyle
-1920Reach,1919,Michigan-Ontario League,F20908,Kyle,,0,Kitchener,,cf92,kyle
-1920Reach,1919,Michigan-Ontario League,B00544,Lamb,,0,Battle Creek,,B110,lamb
-1920Reach,1919,Michigan-Ontario League,F20449,Lamb,,0,Battle Creek,,3b110,lamb
-1920Reach,1919,Michigan-Ontario League,B00752,Lapp,,0,Hamilton,,B81,lapp
-1920Reach,1919,Michigan-Ontario League,F21747,Lapp,,0,Hamilton,,c78,lapp
-1920Reach,1919,Michigan-Ontario League,B00783,Laurent,,0,Bay City,,B20,laurent
-1920Reach,1919,Michigan-Ontario League,F21381,Laurent,,0,Bay City,,p17,laurent
-1920Reach,1919,Michigan-Ontario League,P10320,Laurent,,0,Bay City,,P17,laurent
-1920Reach,1919,Michigan-Ontario League,B00335,Lipps,,0,Saginaw,,B98,lipps
-1920Reach,1919,Michigan-Ontario League,F20981,Lipps,,0,Saginaw,,cf86,lipps
-1920Reach,1919,Michigan-Ontario League,F21149,Lipps,,0,Saginaw,,rf12,lipps
-1920Reach,1919,Michigan-Ontario League,B00528,Lotshaw,,1,Flint,,,lotshaw
-1920Reach,1919,Michigan-Ontario League,B00528,Lotshaw,,2,Brantford,,,lotshaw
-1920Reach,1919,Michigan-Ontario League,B00528,Lotshaw,,T,,,B84,lotshaw
-1920Reach,1919,Michigan-Ontario League,F20080,Lotshaw,,1,Flint,,,lotshaw
-1920Reach,1919,Michigan-Ontario League,F20080,Lotshaw,,2,Brantford,,,lotshaw
-1920Reach,1919,Michigan-Ontario League,F20080,Lotshaw,,T,,,,lotshaw
-1920Reach,1919,Michigan-Ontario League,F20855,Lotshaw,,1,Flint,,cf,lotshaw
-1920Reach,1919,Michigan-Ontario League,F20855,Lotshaw,,2,Brantford,,cf,lotshaw
-1920Reach,1919,Michigan-Ontario League,F20855,Lotshaw,,T,,,cf9,lotshaw
-1920Reach,1919,Michigan-Ontario League,B00174,Lowry,,0,Hamilton,,B103,lowry
-1920Reach,1919,Michigan-Ontario League,F20023,Lowry,,0,Hamilton,,,lowry
-1920Reach,1919,Michigan-Ontario League,F20737,Lowry,,0,Hamilton,,lf91,lowry
-1920Reach,1919,Michigan-Ontario League,B00566,Main,,0,Battle Creek,,B102,main
-1920Reach,1919,Michigan-Ontario League,F20792,Main,,0,Battle Creek,,lf83,main
-1920Reach,1919,Michigan-Ontario League,F20864,Main,,0,Battle Creek,,cf7,main
-1920Reach,1919,Michigan-Ontario League,F21695,Main,,0,Battle Creek,,c6,main
-1920Reach,1919,Michigan-Ontario League,B01093,Maloney,,0,Kitchener,,B14,maloney
-1920Reach,1919,Michigan-Ontario League,F21752,Maloney,,0,Kitchener,,c14,maloney
-1920Reach,1919,Michigan-Ontario League,F21531,Manry,,0,London,,p13,marry
-1920Reach,1919,Michigan-Ontario League,B01064,Marry,,0,London,,B13,marry
-1920Reach,1919,Michigan-Ontario League,P10244,Marry,,0,London,,P13,marry
-1920Reach,1919,Michigan-Ontario League,B00726,Matuzah,,0,Bay City,,B10,matuzah
-1920Reach,1919,Michigan-Ontario League,F21491,Matuzah,,0,Bay City,,p19,matuzah
-1920Reach,1919,Michigan-Ontario League,P10357,Matuzah,,0,Bay City,,P9,matuzah
-1920Reach,1919,Michigan-Ontario League,B00646,McDaniels,,0,Saginaw,,B94,mcdaniels
-1920Reach,1919,Michigan-Ontario League,F21739,McDaniels,,0,Saginaw,,c94,mcdaniels
-1920Reach,1919,Michigan-Ontario League,B00973,Milligan,,0,London,,B81,milligan
-1920Reach,1919,Michigan-Ontario League,F21806,Milligan,,0,London,,c91,milligan
-1920Reach,1919,Michigan-Ontario League,B00577,Mitchell,,0,London,,B79,mitchell
-1920Reach,1919,Michigan-Ontario League,F20997,Mitchell,,0,London,,cf79,mitchell
-1920Reach,1919,Michigan-Ontario League,B00362,Moorefield,,0,Brantford,,B23,moorefield
-1920Reach,1919,Michigan-Ontario League,F20072,Moorefield,,0,Brantford,,,moorefield
-1920Reach,1919,Michigan-Ontario League,F21726,Moorefield,,0,Brantford,,c18,moorefield
-1920Reach,1919,Michigan-Ontario League,B01108,Morrisette,,0,Hamilton,,B16,morrisette
-1920Reach,1919,Michigan-Ontario League,F21544,Morrisette,,0,Hamilton,,p16,morrisette
-1920Reach,1919,Michigan-Ontario League,P10062,Morrisette,,0,Hamilton,,P16,morrisette
-1920Reach,1919,Michigan-Ontario League,B00092,Morse,,0,Saginaw,,B44,morse
-1920Reach,1919,Michigan-Ontario League,F20303,Morse,,0,Saginaw,,2b32,morse
-1920Reach,1919,Michigan-Ontario League,F20474,Morse,,0,Saginaw,,3b12,morse
-1920Reach,1919,Michigan-Ontario League,B00059,Murphy,M.,0,Brantford,,B109,murphy.m
-1920Reach,1919,Michigan-Ontario League,B00589,Murphy,J.,0,Brantford,,B107,murphy.j
-1920Reach,1919,Michigan-Ontario League,F20206,Murphy,J.,0,Brantford,,2b102,murphy.j
-1920Reach,1919,Michigan-Ontario League,F20657,Murphy,J.,0,Brantford,,ss5,murphy.j
-1920Reach,1919,Michigan-Ontario League,F20962,Murphy,M.,0,Brantford,,cf109,murphy.m
-1920Reach,1919,Michigan-Ontario League,B00241,Newman,,0,London,,B74,newman
-1920Reach,1919,Michigan-Ontario League,F20144,Newman,,0,London,,,newman
-1920Reach,1919,Michigan-Ontario League,B00196,Newton,,0,Brantford,,B18,newton
-1920Reach,1919,Michigan-Ontario League,F21577,Newton,,0,Brantford,,p18,newton
-1920Reach,1919,Michigan-Ontario League,P10100,Newton,,0,Brantford,,P18,newton
-1920Reach,1919,Michigan-Ontario League,B00163,O'Rourke,,0,Hamilton,,B80,orourke
-1920Reach,1919,Michigan-Ontario League,F20298,O'Rourke,,0,Hamilton,,2b11,orourke
-1920Reach,1919,Michigan-Ontario League,F20375,O'Rourke,,0,Hamilton,,3b67,orourke
-1920Reach,1919,Michigan-Ontario League,B01124,Okrie,,0,London,,B22,okrie
-1920Reach,1919,Michigan-Ontario League,F21646,Okrie,,0,London,,p22,okrie
-1920Reach,1919,Michigan-Ontario League,P10097,Okrie,,0,London,,P19,okrie
-1920Reach,1919,Michigan-Ontario League,B00045,Orme,,1,Flint,,,orme
-1920Reach,1919,Michigan-Ontario League,B00045,Orme,,2,Saginaw,,,orme
-1920Reach,1919,Michigan-Ontario League,B00045,Orme,,T,,,B78,orme
-1920Reach,1919,Michigan-Ontario League,F20943,Orme,,1,Flint,,cf,orme
-1920Reach,1919,Michigan-Ontario League,F20943,Orme,,2,Saginaw,,cf,orme
-1920Reach,1919,Michigan-Ontario League,F20943,Orme,,T,,,cf78,orme
-1920Reach,1919,Michigan-Ontario League,B00672,Owens,,0,Bay City,,B100,owens
-1920Reach,1919,Michigan-Ontario League,F20279,Owens,,0,Bay City,,2b33,owens
-1920Reach,1919,Michigan-Ontario League,F20552,Owens,,0,Bay City,,ss66,owens
-1920Reach,1919,Michigan-Ontario League,B00961,Pieh,,1,Kitchener,,,pieh
-1920Reach,1919,Michigan-Ontario League,B00961,Pieh,,2,London,,,pieh
-1920Reach,1919,Michigan-Ontario League,B00961,Pieh,,T,,,B12,pieh
-1920Reach,1919,Michigan-Ontario League,F21672,Pieh,,1,Kitchener,,p,pieh
-1920Reach,1919,Michigan-Ontario League,F21672,Pieh,,2,London,,p,pieh
-1920Reach,1919,Michigan-Ontario League,F21672,Pieh,,T,,,p12,pieh
-1920Reach,1919,Michigan-Ontario League,P10410,Pieh,,1,Kitchener,,,pieh
-1920Reach,1919,Michigan-Ontario League,P10410,Pieh,,2,London,,,pieh
-1920Reach,1919,Michigan-Ontario League,P10410,Pieh,,T,,,P10,pieh
-1920Reach,1919,Michigan-Ontario League,B00811,Pierce,,0,Flint,,B25,pierce
-1920Reach,1919,Michigan-Ontario League,F20334,Pierce,,0,Flint,,2b11,pierce
-1920Reach,1919,Michigan-Ontario League,F20878,Pierce,,0,Flint,,cf7,pierce
-1920Reach,1919,Michigan-Ontario League,F21068,Pierce,,0,Flint,,rf5,pierce
-1920Reach,1919,Michigan-Ontario League,B00084,Pike,,0,Saginaw,,B102,pike
-1920Reach,1919,Michigan-Ontario League,F20189,Pike,,0,Saginaw,,2b71,pike
-1920Reach,1919,Michigan-Ontario League,F20482,Pike,,0,Saginaw,,3b31,pike
-1920Reach,1919,Michigan-Ontario League,B00255,Pittenger,,0,London,,B92,pittenger
-1920Reach,1919,Michigan-Ontario League,F20401,Pittinger,,0,London,,3b87,pittenger
-1920Reach,1919,Michigan-Ontario League,F20526,Pittinger,,0,London,,ss5,pittenger
-1920Reach,1919,Michigan-Ontario League,B01055,Powers,,0,Flint,,B9,powers
-1920Reach,1919,Michigan-Ontario League,F21590,Powers,,0,Flint,,p6,powers
-1920Reach,1919,Michigan-Ontario League,P10429,Powers,,0,Flint,,P6,powers
-1920Reach,1919,Michigan-Ontario League,B00898,Quinn,,0,Kitchener,,B10,quinn
-1920Reach,1919,Michigan-Ontario League,F21475,Quinn,,0,Kitchener,,p10,quinn
-1920Reach,1919,Michigan-Ontario League,P10253,Quinn,,0,Kitchener,,P10,quinn
-1920Reach,1919,Michigan-Ontario League,B01078,Reilly,,0,London,,B12,reilly
-1920Reach,1919,Michigan-Ontario League,F21293,Reilly,,0,London,,p12,reilly
-1920Reach,1919,Michigan-Ontario League,P10176,Reilly,,0,London,,P12,reilly
-1920Reach,1919,Michigan-Ontario League,B00553,Rose,,0,Kitchener,,B31,rose
-1920Reach,1919,Michigan-Ontario League,F21343,Rose,,0,Kitchener,,p28,rose
-1920Reach,1919,Michigan-Ontario League,P10289,Rose,,0,Kitchener,,P24,rose
-1920Reach,1919,Michigan-Ontario League,F21319,Schettler,,0,Hamilton,,p30,schettler
-1920Reach,1919,Michigan-Ontario League,B01143,Schmidt,,0,London,,B13,schmidt
-1920Reach,1919,Michigan-Ontario League,F21286,Schmidt,,0,London,,p13,schmidt
-1920Reach,1919,Michigan-Ontario League,P10399,Schmidt,,0,London,,P13,schmidt
-1920Reach,1919,Michigan-Ontario League,B00609,Schott,,0,Flint,,B46,schott
-1920Reach,1919,Michigan-Ontario League,F20131,Schott,,0,Flint,,,schott
-1920Reach,1919,Michigan-Ontario League,B00760,Schwartje,,0,Saginaw,,B30,schwartje
-1920Reach,1919,Michigan-Ontario League,F21488,Schwartje,,0,Saginaw,,p30,schwartje
-1920Reach,1919,Michigan-Ontario League,P10113,Schwartje,,0,Saginaw,,P29,schwartje
-1920Reach,1919,Michigan-Ontario League,B00182,Sharpe,,0,Kitchener,,B55,sharpe
-1920Reach,1919,Michigan-Ontario League,F21255,Sharpe,,0,Kitchener,,rf25,sharpe
-1920Reach,1919,Michigan-Ontario League,F21638,Sharpe,,0,Kitchener,,p32,sharpe
-1920Reach,1919,Michigan-Ontario League,P10336,Sharpe,,0,Kitchener,,P29,sharpe
-1920Reach,1919,Michigan-Ontario League,B00207,Shaughnessy,,0,Hamilton,,B109,shaughnessy
-1920Reach,1919,Michigan-Ontario League,F20166,Shaughnessy,,0,Hamilton,,,shaughnessy
-1920Reach,1919,Michigan-Ontario League,F21084,Shaughnessy,,0,Hamilton,,rf53,shaughnessy
-1920Reach,1919,Michigan-Ontario League,B00680,Shaw,,0,London,,B35,shaw
-1920Reach,1919,Michigan-Ontario League,F20583,Shay,,0,London,,ss35,shaw
-1920Reach,1919,Michigan-Ontario League,B00985,Shettler,,0,Hamilton,,B30,schettler
-1920Reach,1919,Michigan-Ontario League,P10202,Shettler,,0,Hamilton,,P26,schettler
-1920Reach,1919,Michigan-Ontario League,B00469,Shriver,,0,Saginaw,,B29,shriver
-1920Reach,1919,Michigan-Ontario League,F21515,Shriver,,0,Saginaw,,p29,shriver
-1920Reach,1919,Michigan-Ontario League,P10043,Shriver,,0,Saginaw,,P27,shriver
-1920Reach,1919,Michigan-Ontario League,B00370,Smith,,0,Brantford,,B70,smith
-1920Reach,1919,Michigan-Ontario League,F20038,Smith,,0,Brantford,,,smith
-1920Reach,1919,Michigan-Ontario League,F21117,Smith,,0,Brantford,,rf47,smith
-1920Reach,1919,Michigan-Ontario League,B00920,Stark,,0,Kitchener,,B51,stark
-1920Reach,1919,Michigan-Ontario League,F20240,Stark,,0,Kitchener,,2b51,stark
-1920Reach,1919,Michigan-Ontario League,B00293,Stewart,,0,London,,B45,stewart
-1920Reach,1919,Michigan-Ontario League,F21232,Stewart,,0,London,,rf45,stewart
-1920Reach,1919,Michigan-Ontario League,B00076,Stupp,,0,Battle Creek,,B57,stupp
-1920Reach,1919,Michigan-Ontario League,F20211,Stupp,,0,Battle Creek,,2b57,stupp
-1920Reach,1919,Michigan-Ontario League,B00229,Trefry,,0,Flint,,B98,trefry
-1920Reach,1919,Michigan-Ontario League,F20832,Trefry,,0,Flint,,lf83,trefry
-1920Reach,1919,Michigan-Ontario League,F20956,Trefry,,0,Flint,,cf13,trefry
-1920Reach,1919,Michigan-Ontario League,F20265,Wade,,0,Kitchener,,2b62,wade
-1920Reach,1919,Michigan-Ontario League,F20620,Wade,,0,Kitchener,,ss13,wade
-1920Reach,1919,Michigan-Ontario League,F21196,Wade,,0,Kitchener,,rf36,wade
-1920Reach,1919,Michigan-Ontario League,B00904,Walker,,0,Brantford,,B52,walker
-1920Reach,1919,Michigan-Ontario League,F21130,Walker,,0,Brantford,,rf22,walker
-1920Reach,1919,Michigan-Ontario League,F21335,Walker,,0,Brantford,,p30,walker
-1920Reach,1919,Michigan-Ontario League,P10159,Walker,,0,Brantford,,P30,walker
-1920Reach,1919,Michigan-Ontario League,F20254,Walsh,,0,Hamilton,,2b14,welsh
-1920Reach,1919,Michigan-Ontario League,F20505,Walsh,,0,Hamilton,,3b6,welsh
-1920Reach,1919,Michigan-Ontario League,B00840,Walters,,0,Kitchener,,B27,walters
-1920Reach,1919,Michigan-Ontario League,F20369,Walters,,0,Kitchener,,3b8,walters
-1920Reach,1919,Michigan-Ontario League,F20612,Walters,,0,Kitchener,,ss39,walters
-1920Reach,1919,Michigan-Ontario League,B00450,Warner,,1,Hamilton,,,warner
-1920Reach,1919,Michigan-Ontario League,B00450,Warner,,2,Flint,,,warner
-1920Reach,1919,Michigan-Ontario League,B00450,Warner,,T,,,B80,warner
-1920Reach,1919,Michigan-Ontario League,F20233,Warner,,1,Hamilton,,2b,warner
-1920Reach,1919,Michigan-Ontario League,F20233,Warner,,2,Bay City,,2b,warner
-1920Reach,1919,Michigan-Ontario League,F20233,Warner,,3,Flint,,2b,warner
-1920Reach,1919,Michigan-Ontario League,F20233,Warner,,T,,,2b65,warner
-1920Reach,1919,Michigan-Ontario League,F20391,Warner,,1,Hamilton,,3b,warner
-1920Reach,1919,Michigan-Ontario League,F20391,Warner,,2,Battle Creek,,3b,warner
-1920Reach,1919,Michigan-Ontario League,F20391,Warner,,3,Flint,,3b,warner
-1920Reach,1919,Michigan-Ontario League,F20391,Warner,,T,,,3b9,warner
-1920Reach,1919,Michigan-Ontario League,F20970,Wegner,,0,Bay City,,cf39,wenger
-1920Reach,1919,Michigan-Ontario League,B00130,Weinberg,,0,Saginaw,,B71,weinberg
-1920Reach,1919,Michigan-Ontario League,F20051,Weinberg,,0,Saginaw,,,weinberg
-1920Reach,1919,Michigan-Ontario League,B00651,Welsh,,0,Hamilton,,B19,welsh
-1920Reach,1919,Michigan-Ontario League,B00614,Wenger,,0,Bay City,,B42,wenger
-1920Reach,1919,Michigan-Ontario League,B00381,Wetzel,F.,0,Flint,,B70,wetzel-fli
-1920Reach,1919,Michigan-Ontario League,B00822,Wetzel,B.,0,Saginaw,,B34,wetzel-sag
-1920Reach,1919,Michigan-Ontario League,F20115,Wetzel,,0,Saginaw,,,wetzel-sag
-1920Reach,1919,Michigan-Ontario League,F20388,Wetzel,,0,Saginaw,,3b24,wetzel-sag
-1920Reach,1919,Michigan-Ontario League,F21182,Wetzel,,0,Flint,,rf70,wetzel-fli
-1920Reach,1919,Michigan-Ontario League,B00286,Whaley,,0,Bay City,,B96,whaley
-1920Reach,1919,Michigan-Ontario League,F20784,Whaley,,0,Bay City,,lf86,whaley
-1920Reach,1919,Michigan-Ontario League,F21502,Whaley,,0,Bay City,,p5,whaley
-1920Reach,1919,Michigan-Ontario League,P10024,Whaley,,0,Bay City,,P5,whaley
-1920Reach,1919,Michigan-Ontario League,B00705,Wisner,,0,Saginaw,,B36,wisner
-1920Reach,1919,Michigan-Ontario League,F21397,Wisner,,0,Saginaw,,p36,wisner
-1920Reach,1919,Michigan-Ontario League,P10081,Wisner,,0,Saginaw,,P36,wisner
-1920Reach,1919,Michigan-Ontario League,B00210,Witry,,1,Brantford,,,witry
-1920Reach,1919,Michigan-Ontario League,B00210,Witry,,2,London,,,witry
-1920Reach,1919,Michigan-Ontario League,B00210,Witry,,T,,,B78,witry
-1920Reach,1919,Michigan-Ontario League,F20190,Witry,,1,Brantford,,2b,witry
-1920Reach,1919,Michigan-Ontario League,F20190,Witry,,2,London,,2b,witry
-1920Reach,1919,Michigan-Ontario League,F20190,Witry,,T,,,2b8,witry
-1920Reach,1919,Michigan-Ontario League,F21278,Witry,,1,Brantford,,rf,witry
-1920Reach,1919,Michigan-Ontario League,F21278,Witry,,2,London,,rf,witry
-1920Reach,1919,Michigan-Ontario League,F21278,Witry,,T,,,rf7,witry
-1920Reach,1919,Michigan-Ontario League,F21794,Witry,,1,Brantford,,c,witry
-1920Reach,1919,Michigan-Ontario League,F21794,Witry,,2,London,,c,witry
-1920Reach,1919,Michigan-Ontario League,F21794,Witry,,T,,,c63,witry
-1920Reach,1919,Michigan-Ontario League,B00502,Wright,F.,0,Saginaw,,B64,wright-sag
-1920Reach,1919,Michigan-Ontario League,B01041,Wright,,0,Battle Creek,,B14,wright-bc
-1920Reach,1919,Michigan-Ontario League,F20153,Wright,,0,Saginaw,,,wright-sag
-1920Reach,1919,Michigan-Ontario League,F21092,Wright,,0,Saginaw,,rf40,wright-sag
-1920Reach,1919,Michigan-Ontario League,F21308,Wright,,0,Saginaw,,p18,wright-sag
-1920Reach,1919,Michigan-Ontario League,F21667,Wright,,0,Battle Creek,,p14,wright-bc
-1920Reach,1919,Michigan-Ontario League,P10019,Wright,,0,Saginaw,,P8,wright-sag
-1920Reach,1919,Michigan-Ontario League,P10266,Wright,,0,Battle Creek,,P14,wright-bc
-1920Reach,1919,Michigan-Ontario League,B00101,Zinn,,0,Hamilton,,B108,zinn
-1920Reach,1919,Michigan-Ontario League,F20935,Zinn,,0,Hamilton,,cf108,zinn
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+1920Reach,1919,Michigan-Ontario League,allen,B00149,Allen,,1,Flint,,
+1920Reach,1919,Michigan-Ontario League,allen,B00149,Allen,,2,Saginaw,,
+1920Reach,1919,Michigan-Ontario League,allen,B00149,Allen,,T,,,B101
+1920Reach,1919,Michigan-Ontario League,allen,F20458,Allen,,1,Flint,,3b
+1920Reach,1919,Michigan-Ontario League,allen,F20458,Allen,,2,Saginaw,,3b
+1920Reach,1919,Michigan-Ontario League,allen,F20458,Allen,,T,,,3b25
+1920Reach,1919,Michigan-Ontario League,allen,F20648,Allen,,1,Flint,,ss
+1920Reach,1919,Michigan-Ontario League,allen,F20648,Allen,,2,Saginaw,,ss
+1920Reach,1919,Michigan-Ontario League,allen,F20648,Allen,,T,,,ss77
+1920Reach,1919,Michigan-Ontario League,argus,B00948,Argus,,0,Kitchener,,B69
+1920Reach,1919,Michigan-Ontario League,argus,F21718,Argus,,0,Kitchener,,c69
+1920Reach,1919,Michigan-Ontario League,ballard,B00623,Ballard,,0,Battle Creek,,B12
+1920Reach,1919,Michigan-Ontario League,barand,B00695,Barand,,0,Bay City,,B22
+1920Reach,1919,Michigan-Ontario League,barand,F21264,Barand,,0,Bay City,,rf8
+1920Reach,1919,Michigan-Ontario League,barand,F21566,Barand,,0,Bay City,,p13
+1920Reach,1919,Michigan-Ontario League,barand,P10312,Barand,,0,Bay City,,P11
+1920Reach,1919,Michigan-Ontario League,beattie,B00125,Beattie,,0,Kitchener,,B107
+1920Reach,1919,Michigan-Ontario League,beattie,F20046,Beattie,,0,Kitchener,,
+1920Reach,1919,Michigan-Ontario League,behan,B00865,Behan,,0,Hamilton,,B99
+1920Reach,1919,Michigan-Ontario League,behan,F20342,Behan,,0,Hamilton,,3b5
+1920Reach,1919,Michigan-Ontario League,behan,F20547,Behan,,0,Hamilton,,ss70
+1920Reach,1919,Michigan-Ontario League,behan,F21370,Behan,,0,Hamilton,,p24
+1920Reach,1919,Michigan-Ontario League,behan,P10056,Behan,,0,Hamilton,,P27
+1920Reach,1919,Michigan-Ontario League,bills,B00912,Bills,,1,Brantford,,
+1920Reach,1919,Michigan-Ontario League,bills,B00912,Bills,,2,Flint,,
+1920Reach,1919,Michigan-Ontario League,bills,B00912,Bills,,T,,,B37
+1920Reach,1919,Michigan-Ontario League,bills,F21037,Bills,,1,Brantford,,rf
+1920Reach,1919,Michigan-Ontario League,bills,F21037,Bills,,2,Saginaw,,rf
+1920Reach,1919,Michigan-Ontario League,bills,F21037,Bills,,3,Flint,,rf
+1920Reach,1919,Michigan-Ontario League,bills,F21037,Bills,,T,,,rf9
+1920Reach,1919,Michigan-Ontario League,bills,F21362,Bills,,1,Brantford,,p
+1920Reach,1919,Michigan-Ontario League,bills,F21362,Bills,,2,Saginaw,,p
+1920Reach,1919,Michigan-Ontario League,bills,F21362,Bills,,3,Flint,,p
+1920Reach,1919,Michigan-Ontario League,bills,F21362,Bills,,T,,,p28
+1920Reach,1919,Michigan-Ontario League,bills,P10290,Bills,,1,Brantford,,
+1920Reach,1919,Michigan-Ontario League,bills,P10290,Bills,,2,Saginaw,,
+1920Reach,1919,Michigan-Ontario League,bills,P10290,Bills,,3,Flint,,
+1920Reach,1919,Michigan-Ontario League,bills,P10290,Bills,,T,,,P26
+1920Reach,1919,Michigan-Ontario League,bippes,B00397,Bippes,,0,Flint,,B9
+1920Reach,1919,Michigan-Ontario League,bippes,F20604,Bippes,,0,Flint,,ss9
+1920Reach,1919,Michigan-Ontario League,black,B00232,Black,,0,Battle Creek,,B40
+1920Reach,1919,Michigan-Ontario League,black,F21324,Black,,0,Battle Creek,,p37
+1920Reach,1919,Michigan-Ontario League,black,P10137,Black,,0,Battle Creek,,P33
+1920Reach,1919,Michigan-Ontario League,boyle,B00356,Boyle,,0,Battle Creek,,B108
+1920Reach,1919,Michigan-Ontario League,boyle,F20095,Boyle,,0,Battle Creek,,
+1920Reach,1919,Michigan-Ontario League,brady,B00308,Brady,,0,Brantford,,B105
+1920Reach,1919,Michigan-Ontario League,brady,F20560,Brady,,0,Brantford,,ss105
+1920Reach,1919,Michigan-Ontario League,breckenridge,B00957,Breckenridge,,0,Hamilton,,B29
+1920Reach,1919,Michigan-Ontario League,breckenridge,F20699,Breckenridge,,0,Hamilton,,lf19
+1920Reach,1919,Michigan-Ontario League,breckenridge,F21013,Breckenridge,,0,Hamilton,,cf6
+1920Reach,1919,Michigan-Ontario League,briger,B00343,Briger,,0,Bay City,,B69
+1920Reach,1919,Michigan-Ontario League,briger,F21760,Briger,,0,Bay City,,c69
+1920Reach,1919,Michigan-Ontario League,brown,B00416,Brown,,0,Flint,,B65
+1920Reach,1919,Michigan-Ontario League,brown,F20496,Brown,,0,Flint,,3b65
+1920Reach,1919,Michigan-Ontario League,ballard,F21589,Bullard,,0,Battle Creek,,p18
+1920Reach,1919,Michigan-Ontario League,ballard,P10168,Bullard,,0,Battle Creek,,P18
+1920Reach,1919,Michigan-Ontario League,byrne,B00434,Byrne,,0,Bay City,,B106
+1920Reach,1919,Michigan-Ontario League,byrne,F20417,Byrne,,0,Bay City,,3b106
+1920Reach,1919,Michigan-Ontario League,cameron,B00491,Cameron,,1,Saginaw,,
+1920Reach,1919,Michigan-Ontario League,cameron,B00491,Cameron,,2,Brantford,,
+1920Reach,1919,Michigan-Ontario League,cameron,B00491,Cameron,,T,,,B64
+1920Reach,1919,Michigan-Ontario League,cameron,F20518,Cameron,,1,Saginaw,,3b
+1920Reach,1919,Michigan-Ontario League,cameron,F20518,Cameron,,2,Brantford,,3b
+1920Reach,1919,Michigan-Ontario League,cameron,F20518,Cameron,,T,,,3b6
+1920Reach,1919,Michigan-Ontario League,cameron,F20745,Cameron,,1,Saginaw,,lf
+1920Reach,1919,Michigan-Ontario League,cameron,F20745,Cameron,,2,Brantford,,lf
+1920Reach,1919,Michigan-Ontario League,cameron,F20745,Cameron,,T,,,lf13
+1920Reach,1919,Michigan-Ontario League,cameron,F20893,Cameron,,1,Saginaw,,cf
+1920Reach,1919,Michigan-Ontario League,cameron,F20893,Cameron,,2,Brantford,,cf
+1920Reach,1919,Michigan-Ontario League,cameron,F20893,Cameron,,T,,,cf5
+1920Reach,1919,Michigan-Ontario League,cameron,F21174,Cameron,,1,Saginaw,,rf
+1920Reach,1919,Michigan-Ontario League,cameron,F21174,Cameron,,2,Brantford,,rf
+1920Reach,1919,Michigan-Ontario League,cameron,F21174,Cameron,,T,,,rf37
+1920Reach,1919,Michigan-Ontario League,carlin,B00488,Carlin,,0,Hamilton,,B110
+1920Reach,1919,Michigan-Ontario League,carlin,F20316,Carlin,,0,Hamilton,,2b66
+1920Reach,1919,Michigan-Ontario League,carlin,F20463,Carlin,,0,Hamilton,,3b15
+1920Reach,1919,Michigan-Ontario League,carlin,F20636,Carlin,,0,Hamilton,,ss30
+1920Reach,1919,Michigan-Ontario League,carlson,P10407,Carlson,,0,Flint,,P7
+1920Reach,1919,Michigan-Ontario League,carroll,B00833,Carroll,,0,Brantford,,B65
+1920Reach,1919,Michigan-Ontario League,carroll,F21783,Carroll,,0,Brantford,,c65
+1920Reach,1919,Michigan-Ontario League,chaput,B01007,Chaput,,0,Kitchener,,B16
+1920Reach,1919,Michigan-Ontario League,chaput,F21434,Chaput,,0,Kitchener,,p16
+1920Reach,1919,Michigan-Ontario League,chaput,P10361,Chaput,,0,Kitchener,,P15
+1920Reach,1919,Michigan-Ontario League,clarke,F20713,Clark,,0,Brantford,,lf60
+1920Reach,1919,Michigan-Ontario League,clarke,B00068,Clarke,,0,Brantford,,B64
+1920Reach,1919,Michigan-Ontario League,command,B00117,Command,,1,Saginaw,,
+1920Reach,1919,Michigan-Ontario League,command,B00117,Command,,2,London,,
+1920Reach,1919,Michigan-Ontario League,command,B00117,Command,,T,,,B105
+1920Reach,1919,Michigan-Ontario League,command,F20807,Command,,0,London,,lf53
+1920Reach,1919,Michigan-Ontario League,command,F21125,Command,,1,Saginaw,,rf
+1920Reach,1919,Michigan-Ontario League,command,F21125,Command,,2,London,,rf
+1920Reach,1919,Michigan-Ontario League,command,F21125,Command,,T,,,rf51
+1920Reach,1919,Michigan-Ontario League,comstock,B00638,Comstock,,0,Bay City,,B61
+1920Reach,1919,Michigan-Ontario League,comstock,F20700,Comstock,,0,Bay City,,lf14
+1920Reach,1919,Michigan-Ontario League,comstock,F21000,Comstock,,0,Bay City,,cf16
+1920Reach,1919,Michigan-Ontario League,comstock,F21163,Comstock,,0,Bay City,,rf15
+1920Reach,1919,Michigan-Ontario League,comstock,F21822,Comstock,,0,Bay City,,c10
+1920Reach,1919,Michigan-Ontario League,conley,B00999,Conley,,0,Hamilton,,B62
+1920Reach,1919,Michigan-Ontario League,conley,F20177,Conley,,0,Hamilton,,2b7
+1920Reach,1919,Michigan-Ontario League,conley,F20350,Conley,,0,Hamilton,,3b19
+1920Reach,1919,Michigan-Ontario League,conley,F20661,Conley,,0,Hamilton,,ss20
+1920Reach,1919,Michigan-Ontario League,conley,F21021,Conley,,0,Hamilton,,rf11
+1920Reach,1919,Michigan-Ontario League,conley,F21854,Conley,,0,Hamilton,,c5
+1920Reach,1919,Michigan-Ontario League,cook,B01029,Cook,,0,Bay City,,B28
+1920Reach,1919,Michigan-Ontario League,cook,F21076,Cook,,0,Bay City,,rf5
+1920Reach,1919,Michigan-Ontario League,cook,F21609,Cook,,0,Bay City,,p23
+1920Reach,1919,Michigan-Ontario League,cook,P10348,Cook,,0,Bay City,,P21
+1920Reach,1919,Michigan-Ontario League,cully,B00264,Cully,,0,Brantford,,B71
+1920Reach,1919,Michigan-Ontario League,cully,F20430,Cully,,0,Brantford,,3b70
+1920Reach,1919,Michigan-Ontario League,deufel,B00531,Deufel,,0,Hamilton,,B10
+1920Reach,1919,Michigan-Ontario League,deufel,F21705,Deufel,,0,Hamilton,,c10
+1920Reach,1919,Michigan-Ontario League,dodson,B00718,Dodson,,1,Saginaw,,
+1920Reach,1919,Michigan-Ontario League,dodson,B00718,Dodson,,2,Bay City,,
+1920Reach,1919,Michigan-Ontario League,dodson,B00718,Dodson,,T,,,B99
+1920Reach,1919,Michigan-Ontario League,dodson,F20673,Dodson,,1,Saginaw,,ss
+1920Reach,1919,Michigan-Ontario League,dodson,F20673,Dodson,,2,Bay City,,ss
+1920Reach,1919,Michigan-Ontario League,dodson,F20673,Dodson,,T,,,ss43
+1920Reach,1919,Michigan-Ontario League,dodson,F20776,Dodson,,1,Saginaw,,lf
+1920Reach,1919,Michigan-Ontario League,dodson,F20776,Dodson,,2,Bay City,,lf
+1920Reach,1919,Michigan-Ontario League,dodson,F20776,Dodson,,T,,,lf8
+1920Reach,1919,Michigan-Ontario League,dodson,F20924,Dodson,,1,Saginaw,,cf
+1920Reach,1919,Michigan-Ontario League,dodson,F20924,Dodson,,2,Bay City,,cf
+1920Reach,1919,Michigan-Ontario League,dodson,F20924,Dodson,,T,,,cf21
+1920Reach,1919,Michigan-Ontario League,dodson,F21101,Dodson,,1,Saginaw,,rf
+1920Reach,1919,Michigan-Ontario League,dodson,F21101,Dodson,,2,Bay City,,rf
+1920Reach,1919,Michigan-Ontario League,dodson,F21101,Dodson,,T,,,rf24
+1920Reach,1919,Michigan-Ontario League,dodson,F21651,Dodson,,1,Saginaw,,p
+1920Reach,1919,Michigan-Ontario League,dodson,F21651,Dodson,,2,Bay City,,p
+1920Reach,1919,Michigan-Ontario League,dodson,F21651,Dodson,,T,,,p5
+1920Reach,1919,Michigan-Ontario League,dodson,P10385,Dodson,,1,Saginaw,,
+1920Reach,1919,Michigan-Ontario League,dodson,P10385,Dodson,,2,Bay City,,
+1920Reach,1919,Michigan-Ontario League,dodson,P10385,Dodson,,T,,,P5
+1920Reach,1919,Michigan-Ontario League,donnelly,B00037,Donnelly,,0,Hamilton,,B101
+1920Reach,1919,Michigan-Ontario League,donnelly,F20102,Donnelly,,0,Hamilton,,
+1920Reach,1919,Michigan-Ontario League,donnelly,F21229,Donnelly,,0,Hamilton,,rf42
+1920Reach,1919,Michigan-Ontario League,donnelly,F21811,Donnelly,,0,Hamilton,,c15
+1920Reach,1919,Michigan-Ontario League,eckstein,B00021,Eckstein,,0,Kitchener,,B30
+1920Reach,1919,Michigan-Ontario League,eckstein,F20759,Eckstein,,0,Kitchener,,lf30
+1920Reach,1919,Michigan-Ontario League,eichler,B00854,Eichler,,0,Flint,,B11
+1920Reach,1919,Michigan-Ontario League,eichler,F21623,Eichler,,0,Flint,,p11
+1920Reach,1919,Michigan-Ontario League,eichler,P10373,Eichler,,0,Flint,,P11
+1920Reach,1919,Michigan-Ontario League,emery,B00278,Emery,,0,Saginaw,,B54
+1920Reach,1919,Michigan-Ontario League,emery,F20768,Emery,,1,Kitchener,,lf
+1920Reach,1919,Michigan-Ontario League,emery,F20768,Emery,,2,London,,lf
+1920Reach,1919,Michigan-Ontario League,emery,F20768,Emery,,T,,,lf54
+1920Reach,1919,Michigan-Ontario League,estelle,B00158,Estelle,,0,Brantford,,B66
+1920Reach,1919,Michigan-Ontario League,estelle,F20829,Estelle,,0,Brantford,,lf5
+1920Reach,1919,Michigan-Ontario League,estelle,F21207,Estelle,,0,Brantford,,rf21
+1920Reach,1919,Michigan-Ontario League,estelle,F21427,Estelle,,0,Brantford,,p39
+1920Reach,1919,Michigan-Ontario League,estelle,P10192,Estelle,,0,Brantford,,P36
+1920Reach,1919,Michigan-Ontario League,fearnley,B00887,Fearnley,,0,London,,B48
+1920Reach,1919,Michigan-Ontario League,fearnley,F20222,Fearnley,,0,Kitchener,,2b30
+1920Reach,1919,Michigan-Ontario League,fearnley,F20571,Fearnley,,0,London,,ss17
+1920Reach,1919,Michigan-Ontario League,fisher,B01010,Fisher,,0,Flint,,B37
+1920Reach,1919,Michigan-Ontario League,fisher,F21403,Fisher,,0,Flint,,p32
+1920Reach,1919,Michigan-Ontario League,fisher,P10277,Fisher,,0,Flint,,P29
+1920Reach,1919,Michigan-Ontario League,fletcher,B00879,Fletcher,,1,Saginaw,,
+1920Reach,1919,Michigan-Ontario League,fletcher,B00879,Fletcher,,2,Kitchener,,
+1920Reach,1919,Michigan-Ontario League,fletcher,B00879,Fletcher,,T,,,B65
+1920Reach,1919,Michigan-Ontario League,fletcher,F20425,Fletcher,,1,Battle Creek,,3b
+1920Reach,1919,Michigan-Ontario League,fletcher,F20425,Fletcher,,2,Saginaw,,3b
+1920Reach,1919,Michigan-Ontario League,fletcher,F20425,Fletcher,,3,Kitchener,,3b
+1920Reach,1919,Michigan-Ontario League,fletcher,F20425,Fletcher,,T,,,3b45
+1920Reach,1919,Michigan-Ontario League,fletcher,F20685,Fletcher,,1,Battle Creek,,ss
+1920Reach,1919,Michigan-Ontario League,fletcher,F20685,Fletcher,,2,Saginaw,,ss
+1920Reach,1919,Michigan-Ontario League,fletcher,F20685,Fletcher,,3,Kitchener,,ss
+1920Reach,1919,Michigan-Ontario League,fletcher,F20685,Fletcher,,T,,,ss20
+1920Reach,1919,Michigan-Ontario League,friedman,B00442,Friedman,,0,Bay City,,B101
+1920Reach,1919,Michigan-Ontario League,friedman,F20067,Friedman,,0,Bay City,,
+1920Reach,1919,Michigan-Ontario League,gallagher,B01119,Gallagher,,0,Brantford,,B8
+1920Reach,1919,Michigan-Ontario League,gallagher,F21469,Gallagher,,0,Brantford,,p15
+1920Reach,1919,Michigan-Ontario League,gallagher,P10145,Gallagher,,0,Brantford,,P5
+1920Reach,1919,Michigan-Ontario League,gero,B00806,Gero,,1,London,,
+1920Reach,1919,Michigan-Ontario League,gero,B00806,Gero,,2,Hamilton,,
+1920Reach,1919,Michigan-Ontario League,gero,B00806,Gero,,T,,,B24
+1920Reach,1919,Michigan-Ontario League,gero,F21416,Gero,,1,London,,p
+1920Reach,1919,Michigan-Ontario League,gero,F21416,Gero,,2,Hamilton,,p
+1920Reach,1919,Michigan-Ontario League,gero,F21416,Gero,,T,,,p24
+1920Reach,1919,Michigan-Ontario League,gero,P10228,Gero,,1,London,,
+1920Reach,1919,Michigan-Ontario League,gero,P10228,Gero,,2,Hamilton,,
+1920Reach,1919,Michigan-Ontario League,gero,P10228,Gero,,T,,,P23
+1920Reach,1919,Michigan-Ontario League,gilbert,B00515,Gilbert,,1,London,,
+1920Reach,1919,Michigan-Ontario League,gilbert,B00515,Gilbert,,2,Kitchener,,
+1920Reach,1919,Michigan-Ontario League,gilbert,B00515,Gilbert,,T,,,B36
+1920Reach,1919,Michigan-Ontario League,gilbert,F20128,Gilbert,,1,London,,
+1920Reach,1919,Michigan-Ontario League,gilbert,F20128,Gilbert,,2,Kitchener,,
+1920Reach,1919,Michigan-Ontario League,gilbert,F20128,Gilbert,,T,,,
+1920Reach,1919,Michigan-Ontario League,gilbert,F21442,Gilbert,,1,London,,p
+1920Reach,1919,Michigan-Ontario League,gilbert,F21442,Gilbert,,2,Kitchener,,p
+1920Reach,1919,Michigan-Ontario League,gilbert,F21442,Gilbert,,T,,,p26
+1920Reach,1919,Michigan-Ontario League,gilbert,P10304,Gilbert,,1,London,,
+1920Reach,1919,Michigan-Ontario League,gilbert,P10304,Gilbert,,2,Kitchener,,
+1920Reach,1919,Michigan-Ontario League,gilbert,P10304,Gilbert,,T,,,P26
+1920Reach,1919,Michigan-Ontario League,glasier,B00794,Glasier,,0,Hamilton,,B49
+1920Reach,1919,Michigan-Ontario League,glasier,F21553,Glasier,,0,Hamilton,,p44
+1920Reach,1919,Michigan-Ontario League,glasier,P10070,Glasier,,0,Hamilton,,P40
+1920Reach,1919,Michigan-Ontario League,gleich,B00590,Gleich,,0,Saginaw,,B79
+1920Reach,1919,Michigan-Ontario League,gleich,F20810,Gleich,,0,Saginaw,,lf74
+1920Reach,1919,Michigan-Ontario League,gleich,F21059,Gleich,,0,Saginaw,,rf5
+1920Reach,1919,Michigan-Ontario League,gokey,B01156,Gokey,,0,Brantford,,B16
+1920Reach,1919,Michigan-Ontario League,gokey,F21450,Gokey,,0,Brantford,,p16
+1920Reach,1919,Michigan-Ontario League,gokey,P10215,Gokey,,0,Brantford,,P16
+1920Reach,1919,Michigan-Ontario League,grodick,B00667,Grodick,,1,London,,
+1920Reach,1919,Michigan-Ontario League,grodick,B00667,Grodick,,2,Bay City,,
+1920Reach,1919,Michigan-Ontario League,grodick,B00667,Grodick,,T,,,B96
+1920Reach,1919,Michigan-Ontario League,grodick,F20287,Grodick,,1,London,,2b
+1920Reach,1919,Michigan-Ontario League,grodick,F20287,Grodick,,2,Bay City,,2b
+1920Reach,1919,Michigan-Ontario League,grodick,F20287,Grodick,,T,,,2b34
+1920Reach,1919,Michigan-Ontario League,grodick,F21045,Grodick,,1,London,,rf
+1920Reach,1919,Michigan-Ontario League,grodick,F21045,Grodick,,2,Bay City,,rf
+1920Reach,1919,Michigan-Ontario League,grodick,F21045,Grodick,,T,,,rf5
+1920Reach,1919,Michigan-Ontario League,hagel,B00936,Hagel,,1,London,,
+1920Reach,1919,Michigan-Ontario League,hagel,B00936,Hagel,,2,Flint,,
+1920Reach,1919,Michigan-Ontario League,hagel,B00936,Hagel,,T,,,B64
+1920Reach,1919,Michigan-Ontario League,hagel,F20014,Hagel,,0,London,,
+1920Reach,1919,Michigan-Ontario League,hagel,F20327,Hagel,,1,London,,2b
+1920Reach,1919,Michigan-Ontario League,hagel,F20327,Hagel,,2,Flint,,2b
+1920Reach,1919,Michigan-Ontario League,hagel,F20327,Hagel,,T,,,2b15
+1920Reach,1919,Michigan-Ontario League,hagel,F20594,Hagel,,1,London,,ss
+1920Reach,1919,Michigan-Ontario League,hagel,F20594,Hagel,,2,Flint,,ss
+1920Reach,1919,Michigan-Ontario League,hagel,F20594,Hagel,,T,,,ss34
+1920Reach,1919,Michigan-Ontario League,hagel,F20886,Hagel,,1,London,,cf
+1920Reach,1919,Michigan-Ontario League,hagel,F20886,Hagel,,2,Flint,,cf
+1920Reach,1919,Michigan-Ontario League,hagel,F20886,Hagel,,T,,,cf6
+1920Reach,1919,Michigan-Ontario League,harrison,B00739,Harrison,,1,Kitchener,,
+1920Reach,1919,Michigan-Ontario League,harrison,B00739,Harrison,,2,Bay City,,
+1920Reach,1919,Michigan-Ontario League,harrison,B00739,Harrison,,T,,,B80
+1920Reach,1919,Michigan-Ontario League,harrison,F20841,Harrison,,1,Kitchener,,cf
+1920Reach,1919,Michigan-Ontario League,harrison,F20841,Harrison,,2,Flint,,cf
+1920Reach,1919,Michigan-Ontario League,harrison,F20841,Harrison,,3,Bay City,,cf
+1920Reach,1919,Michigan-Ontario League,harrison,F20841,Harrison,,T,,,cf12
+1920Reach,1919,Michigan-Ontario League,harrison,F21241,Harrison,,1,Kitchener,,rf
+1920Reach,1919,Michigan-Ontario League,harrison,F21241,Harrison,,2,Saginaw,,rf
+1920Reach,1919,Michigan-Ontario League,harrison,F21241,Harrison,,3,Bay City,,rf
+1920Reach,1919,Michigan-Ontario League,harrison,F21241,Harrison,,T,,,rf24
+1920Reach,1919,Michigan-Ontario League,harrison,F21771,Harrison,,1,Kitchener,,c
+1920Reach,1919,Michigan-Ontario League,harrison,F21771,Harrison,,2,Saginaw,,c
+1920Reach,1919,Michigan-Ontario League,harrison,F21771,Harrison,,3,Bay City,,c
+1920Reach,1919,Michigan-Ontario League,harrison,F21771,Harrison,,T,,,c44
+1920Reach,1919,Michigan-Ontario League,hayden,B01135,Hayden,,0,Kitchener,,B8
+1920Reach,1919,Michigan-Ontario League,hayden,F21840,Hayden,,0,Kitchener,,c7
+1920Reach,1919,Michigan-Ontario League,hayes,B01032,Hayes,,0,Flint,,B29
+1920Reach,1919,Michigan-Ontario League,hayes,F21614,Hayes,,0,Flint,,p26
+1920Reach,1919,Michigan-Ontario League,hayes,P10231,Hayes,,0,Flint,,P26
+1920Reach,1919,Michigan-Ontario League,henrion,B00771,Henrion,,0,London,,B23
+1920Reach,1919,Michigan-Ontario League,henrion,F21528,Henrion,,0,London,,p24
+1920Reach,1919,Michigan-Ontario League,henrion,P10184,Herrion,,0,London,,P21
+1920Reach,1919,Michigan-Ontario League,heving,B00324,Heving,,0,Battle Creek,,B105
+1920Reach,1919,Michigan-Ontario League,heving,F21833,Heving,,0,Battle Creek,,c104
+1920Reach,1919,Michigan-Ontario League,horne,B00475,Horne,,0,Battle Creek,,B41
+1920Reach,1919,Michigan-Ontario League,horne,F21210,Horne,,0,Battle Creek,,rf6
+1920Reach,1919,Michigan-Ontario League,horne,F21356,Horne,,0,Battle Creek,,p35
+1920Reach,1919,Michigan-Ontario League,horne,P10121,Horne,,0,Battle Creek,,P34
+1920Reach,1919,Michigan-Ontario League,jenkins,B00319,Jenkins,,0,Battle Creek,,B96
+1920Reach,1919,Michigan-Ontario League,jenkins,F20919,Jenkins,,0,Battle Creek,,cf96
+1920Reach,1919,Michigan-Ontario League,jewell,B00403,Jewell,,0,Battle Creek,,B86
+1920Reach,1919,Michigan-Ontario League,jewell,F20539,Jewell,,0,Battle Creek,,ss85
+1920Reach,1919,Michigan-Ontario League,johnson-fli,B00747,Johnson,,0,Flint,,B38
+1920Reach,1919,Michigan-Ontario League,johnson-kit,B01086,Johnson,,0,Kitchener,,B5
+1920Reach,1919,Michigan-Ontario League,johnson-kit,F21680,Johnson,,0,Kitchener,,p5
+1920Reach,1919,Michigan-Ontario League,johnson-fli,F21865,Johnson,,0,Flint,,c38
+1920Reach,1919,Michigan-Ontario League,johnson-kit,P10035,Johnson,,0,Kitchener,,P5
+1920Reach,1919,Michigan-Ontario League,kaylor,B00013,Kaylor,,0,Battle Creek,,B104
+1920Reach,1919,Michigan-Ontario League,kaylor,F21158,Kaylor,,0,Battle Creek,,rf104
+1920Reach,1919,Michigan-Ontario League,kyle,B00427,Kyle,,0,Kitchener,,B107
+1920Reach,1919,Michigan-Ontario League,kyle,F20721,Kyle,,0,Kitchener,,lf13
+1920Reach,1919,Michigan-Ontario League,kyle,F20908,Kyle,,0,Kitchener,,cf92
+1920Reach,1919,Michigan-Ontario League,lamb,B00544,Lamb,,0,Battle Creek,,B110
+1920Reach,1919,Michigan-Ontario League,lamb,F20449,Lamb,,0,Battle Creek,,3b110
+1920Reach,1919,Michigan-Ontario League,lapp,B00752,Lapp,,0,Hamilton,,B81
+1920Reach,1919,Michigan-Ontario League,lapp,F21747,Lapp,,0,Hamilton,,c78
+1920Reach,1919,Michigan-Ontario League,laurent,B00783,Laurent,,0,Bay City,,B20
+1920Reach,1919,Michigan-Ontario League,laurent,F21381,Laurent,,0,Bay City,,p17
+1920Reach,1919,Michigan-Ontario League,laurent,P10320,Laurent,,0,Bay City,,P17
+1920Reach,1919,Michigan-Ontario League,lipps,B00335,Lipps,,0,Saginaw,,B98
+1920Reach,1919,Michigan-Ontario League,lipps,F20981,Lipps,,0,Saginaw,,cf86
+1920Reach,1919,Michigan-Ontario League,lipps,F21149,Lipps,,0,Saginaw,,rf12
+1920Reach,1919,Michigan-Ontario League,lotshaw,B00528,Lotshaw,,1,Flint,,
+1920Reach,1919,Michigan-Ontario League,lotshaw,B00528,Lotshaw,,2,Brantford,,
+1920Reach,1919,Michigan-Ontario League,lotshaw,B00528,Lotshaw,,T,,,B84
+1920Reach,1919,Michigan-Ontario League,lotshaw,F20080,Lotshaw,,1,Flint,,
+1920Reach,1919,Michigan-Ontario League,lotshaw,F20080,Lotshaw,,2,Brantford,,
+1920Reach,1919,Michigan-Ontario League,lotshaw,F20080,Lotshaw,,T,,,
+1920Reach,1919,Michigan-Ontario League,lotshaw,F20855,Lotshaw,,1,Flint,,cf
+1920Reach,1919,Michigan-Ontario League,lotshaw,F20855,Lotshaw,,2,Brantford,,cf
+1920Reach,1919,Michigan-Ontario League,lotshaw,F20855,Lotshaw,,T,,,cf9
+1920Reach,1919,Michigan-Ontario League,lowry,B00174,Lowry,,0,Hamilton,,B103
+1920Reach,1919,Michigan-Ontario League,lowry,F20023,Lowry,,0,Hamilton,,
+1920Reach,1919,Michigan-Ontario League,lowry,F20737,Lowry,,0,Hamilton,,lf91
+1920Reach,1919,Michigan-Ontario League,main,B00566,Main,,0,Battle Creek,,B102
+1920Reach,1919,Michigan-Ontario League,main,F20792,Main,,0,Battle Creek,,lf83
+1920Reach,1919,Michigan-Ontario League,main,F20864,Main,,0,Battle Creek,,cf7
+1920Reach,1919,Michigan-Ontario League,main,F21695,Main,,0,Battle Creek,,c6
+1920Reach,1919,Michigan-Ontario League,maloney,B01093,Maloney,,0,Kitchener,,B14
+1920Reach,1919,Michigan-Ontario League,maloney,F21752,Maloney,,0,Kitchener,,c14
+1920Reach,1919,Michigan-Ontario League,marry,F21531,Manry,,0,London,,p13
+1920Reach,1919,Michigan-Ontario League,marry,B01064,Marry,,0,London,,B13
+1920Reach,1919,Michigan-Ontario League,marry,P10244,Marry,,0,London,,P13
+1920Reach,1919,Michigan-Ontario League,matuzah,B00726,Matuzah,,0,Bay City,,B10
+1920Reach,1919,Michigan-Ontario League,matuzah,F21491,Matuzah,,0,Bay City,,p19
+1920Reach,1919,Michigan-Ontario League,matuzah,P10357,Matuzah,,0,Bay City,,P9
+1920Reach,1919,Michigan-Ontario League,mcdaniels,B00646,McDaniels,,0,Saginaw,,B94
+1920Reach,1919,Michigan-Ontario League,mcdaniels,F21739,McDaniels,,0,Saginaw,,c94
+1920Reach,1919,Michigan-Ontario League,milligan,B00973,Milligan,,0,London,,B81
+1920Reach,1919,Michigan-Ontario League,milligan,F21806,Milligan,,0,London,,c91
+1920Reach,1919,Michigan-Ontario League,mitchell,B00577,Mitchell,,0,London,,B79
+1920Reach,1919,Michigan-Ontario League,mitchell,F20997,Mitchell,,0,London,,cf79
+1920Reach,1919,Michigan-Ontario League,moorefield,B00362,Moorefield,,0,Brantford,,B23
+1920Reach,1919,Michigan-Ontario League,moorefield,F20072,Moorefield,,0,Brantford,,
+1920Reach,1919,Michigan-Ontario League,moorefield,F21726,Moorefield,,0,Brantford,,c18
+1920Reach,1919,Michigan-Ontario League,morrisette,B01108,Morrisette,,0,Hamilton,,B16
+1920Reach,1919,Michigan-Ontario League,morrisette,F21544,Morrisette,,0,Hamilton,,p16
+1920Reach,1919,Michigan-Ontario League,morrisette,P10062,Morrisette,,0,Hamilton,,P16
+1920Reach,1919,Michigan-Ontario League,morse,B00092,Morse,,0,Saginaw,,B44
+1920Reach,1919,Michigan-Ontario League,morse,F20303,Morse,,0,Saginaw,,2b32
+1920Reach,1919,Michigan-Ontario League,morse,F20474,Morse,,0,Saginaw,,3b12
+1920Reach,1919,Michigan-Ontario League,murphy.m,B00059,Murphy,M.,0,Brantford,,B109
+1920Reach,1919,Michigan-Ontario League,murphy.j,B00589,Murphy,J.,0,Brantford,,B107
+1920Reach,1919,Michigan-Ontario League,murphy.j,F20206,Murphy,J.,0,Brantford,,2b102
+1920Reach,1919,Michigan-Ontario League,murphy.j,F20657,Murphy,J.,0,Brantford,,ss5
+1920Reach,1919,Michigan-Ontario League,murphy.m,F20962,Murphy,M.,0,Brantford,,cf109
+1920Reach,1919,Michigan-Ontario League,newman,B00241,Newman,,0,London,,B74
+1920Reach,1919,Michigan-Ontario League,newman,F20144,Newman,,0,London,,
+1920Reach,1919,Michigan-Ontario League,newton,B00196,Newton,,0,Brantford,,B18
+1920Reach,1919,Michigan-Ontario League,newton,F21577,Newton,,0,Brantford,,p18
+1920Reach,1919,Michigan-Ontario League,newton,P10100,Newton,,0,Brantford,,P18
+1920Reach,1919,Michigan-Ontario League,orourke,B00163,O'Rourke,,0,Hamilton,,B80
+1920Reach,1919,Michigan-Ontario League,orourke,F20298,O'Rourke,,0,Hamilton,,2b11
+1920Reach,1919,Michigan-Ontario League,orourke,F20375,O'Rourke,,0,Hamilton,,3b67
+1920Reach,1919,Michigan-Ontario League,okrie,B01124,Okrie,,0,London,,B22
+1920Reach,1919,Michigan-Ontario League,okrie,F21646,Okrie,,0,London,,p22
+1920Reach,1919,Michigan-Ontario League,okrie,P10097,Okrie,,0,London,,P19
+1920Reach,1919,Michigan-Ontario League,orme,B00045,Orme,,1,Flint,,
+1920Reach,1919,Michigan-Ontario League,orme,B00045,Orme,,2,Saginaw,,
+1920Reach,1919,Michigan-Ontario League,orme,B00045,Orme,,T,,,B78
+1920Reach,1919,Michigan-Ontario League,orme,F20943,Orme,,1,Flint,,cf
+1920Reach,1919,Michigan-Ontario League,orme,F20943,Orme,,2,Saginaw,,cf
+1920Reach,1919,Michigan-Ontario League,orme,F20943,Orme,,T,,,cf78
+1920Reach,1919,Michigan-Ontario League,owens,B00672,Owens,,0,Bay City,,B100
+1920Reach,1919,Michigan-Ontario League,owens,F20279,Owens,,0,Bay City,,2b33
+1920Reach,1919,Michigan-Ontario League,owens,F20552,Owens,,0,Bay City,,ss66
+1920Reach,1919,Michigan-Ontario League,pieh,B00961,Pieh,,1,Kitchener,,
+1920Reach,1919,Michigan-Ontario League,pieh,B00961,Pieh,,2,London,,
+1920Reach,1919,Michigan-Ontario League,pieh,B00961,Pieh,,T,,,B12
+1920Reach,1919,Michigan-Ontario League,pieh,F21672,Pieh,,1,Kitchener,,p
+1920Reach,1919,Michigan-Ontario League,pieh,F21672,Pieh,,2,London,,p
+1920Reach,1919,Michigan-Ontario League,pieh,F21672,Pieh,,T,,,p12
+1920Reach,1919,Michigan-Ontario League,pieh,P10410,Pieh,,1,Kitchener,,
+1920Reach,1919,Michigan-Ontario League,pieh,P10410,Pieh,,2,London,,
+1920Reach,1919,Michigan-Ontario League,pieh,P10410,Pieh,,T,,,P10
+1920Reach,1919,Michigan-Ontario League,pierce,B00811,Pierce,,0,Flint,,B25
+1920Reach,1919,Michigan-Ontario League,pierce,F20334,Pierce,,0,Flint,,2b11
+1920Reach,1919,Michigan-Ontario League,pierce,F20878,Pierce,,0,Flint,,cf7
+1920Reach,1919,Michigan-Ontario League,pierce,F21068,Pierce,,0,Flint,,rf5
+1920Reach,1919,Michigan-Ontario League,pike,B00084,Pike,,0,Saginaw,,B102
+1920Reach,1919,Michigan-Ontario League,pike,F20189,Pike,,0,Saginaw,,2b71
+1920Reach,1919,Michigan-Ontario League,pike,F20482,Pike,,0,Saginaw,,3b31
+1920Reach,1919,Michigan-Ontario League,pittenger,B00255,Pittenger,,0,London,,B92
+1920Reach,1919,Michigan-Ontario League,pittenger,F20401,Pittinger,,0,London,,3b87
+1920Reach,1919,Michigan-Ontario League,pittenger,F20526,Pittinger,,0,London,,ss5
+1920Reach,1919,Michigan-Ontario League,powers,B01055,Powers,,0,Flint,,B9
+1920Reach,1919,Michigan-Ontario League,powers,F21590,Powers,,0,Flint,,p6
+1920Reach,1919,Michigan-Ontario League,powers,P10429,Powers,,0,Flint,,P6
+1920Reach,1919,Michigan-Ontario League,quinn,B00898,Quinn,,0,Kitchener,,B10
+1920Reach,1919,Michigan-Ontario League,quinn,F21475,Quinn,,0,Kitchener,,p10
+1920Reach,1919,Michigan-Ontario League,quinn,P10253,Quinn,,0,Kitchener,,P10
+1920Reach,1919,Michigan-Ontario League,reilly,B01078,Reilly,,0,London,,B12
+1920Reach,1919,Michigan-Ontario League,reilly,F21293,Reilly,,0,London,,p12
+1920Reach,1919,Michigan-Ontario League,reilly,P10176,Reilly,,0,London,,P12
+1920Reach,1919,Michigan-Ontario League,rose,B00553,Rose,,0,Kitchener,,B31
+1920Reach,1919,Michigan-Ontario League,rose,F21343,Rose,,0,Kitchener,,p28
+1920Reach,1919,Michigan-Ontario League,rose,P10289,Rose,,0,Kitchener,,P24
+1920Reach,1919,Michigan-Ontario League,schettler,F21319,Schettler,,0,Hamilton,,p30
+1920Reach,1919,Michigan-Ontario League,schmidt,B01143,Schmidt,,0,London,,B13
+1920Reach,1919,Michigan-Ontario League,schmidt,F21286,Schmidt,,0,London,,p13
+1920Reach,1919,Michigan-Ontario League,schmidt,P10399,Schmidt,,0,London,,P13
+1920Reach,1919,Michigan-Ontario League,schott,B00609,Schott,,0,Flint,,B46
+1920Reach,1919,Michigan-Ontario League,schott,F20131,Schott,,0,Flint,,
+1920Reach,1919,Michigan-Ontario League,schwartje,B00760,Schwartje,,0,Saginaw,,B30
+1920Reach,1919,Michigan-Ontario League,schwartje,F21488,Schwartje,,0,Saginaw,,p30
+1920Reach,1919,Michigan-Ontario League,schwartje,P10113,Schwartje,,0,Saginaw,,P29
+1920Reach,1919,Michigan-Ontario League,sharpe,B00182,Sharpe,,0,Kitchener,,B55
+1920Reach,1919,Michigan-Ontario League,sharpe,F21255,Sharpe,,0,Kitchener,,rf25
+1920Reach,1919,Michigan-Ontario League,sharpe,F21638,Sharpe,,0,Kitchener,,p32
+1920Reach,1919,Michigan-Ontario League,sharpe,P10336,Sharpe,,0,Kitchener,,P29
+1920Reach,1919,Michigan-Ontario League,shaughnessy,B00207,Shaughnessy,,0,Hamilton,,B109
+1920Reach,1919,Michigan-Ontario League,shaughnessy,F20166,Shaughnessy,,0,Hamilton,,
+1920Reach,1919,Michigan-Ontario League,shaughnessy,F21084,Shaughnessy,,0,Hamilton,,rf53
+1920Reach,1919,Michigan-Ontario League,shaw,B00680,Shaw,,0,London,,B35
+1920Reach,1919,Michigan-Ontario League,shaw,F20583,Shay,,0,London,,ss35
+1920Reach,1919,Michigan-Ontario League,schettler,B00985,Shettler,,0,Hamilton,,B30
+1920Reach,1919,Michigan-Ontario League,schettler,P10202,Shettler,,0,Hamilton,,P26
+1920Reach,1919,Michigan-Ontario League,shriver,B00469,Shriver,,0,Saginaw,,B29
+1920Reach,1919,Michigan-Ontario League,shriver,F21515,Shriver,,0,Saginaw,,p29
+1920Reach,1919,Michigan-Ontario League,shriver,P10043,Shriver,,0,Saginaw,,P27
+1920Reach,1919,Michigan-Ontario League,smith,B00370,Smith,,0,Brantford,,B70
+1920Reach,1919,Michigan-Ontario League,smith,F20038,Smith,,0,Brantford,,
+1920Reach,1919,Michigan-Ontario League,smith,F21117,Smith,,0,Brantford,,rf47
+1920Reach,1919,Michigan-Ontario League,stark,B00920,Stark,,0,Kitchener,,B51
+1920Reach,1919,Michigan-Ontario League,stark,F20240,Stark,,0,Kitchener,,2b51
+1920Reach,1919,Michigan-Ontario League,stewart,B00293,Stewart,,0,London,,B45
+1920Reach,1919,Michigan-Ontario League,stewart,F21232,Stewart,,0,London,,rf45
+1920Reach,1919,Michigan-Ontario League,stupp,B00076,Stupp,,0,Battle Creek,,B57
+1920Reach,1919,Michigan-Ontario League,stupp,F20211,Stupp,,0,Battle Creek,,2b57
+1920Reach,1919,Michigan-Ontario League,trefry,B00229,Trefry,,0,Flint,,B98
+1920Reach,1919,Michigan-Ontario League,trefry,F20832,Trefry,,0,Flint,,lf83
+1920Reach,1919,Michigan-Ontario League,trefry,F20956,Trefry,,0,Flint,,cf13
+1920Reach,1919,Michigan-Ontario League,wade,F20265,Wade,,0,Kitchener,,2b62
+1920Reach,1919,Michigan-Ontario League,wade,F20620,Wade,,0,Kitchener,,ss13
+1920Reach,1919,Michigan-Ontario League,wade,F21196,Wade,,0,Kitchener,,rf36
+1920Reach,1919,Michigan-Ontario League,walker,B00904,Walker,,0,Brantford,,B52
+1920Reach,1919,Michigan-Ontario League,walker,F21130,Walker,,0,Brantford,,rf22
+1920Reach,1919,Michigan-Ontario League,walker,F21335,Walker,,0,Brantford,,p30
+1920Reach,1919,Michigan-Ontario League,walker,P10159,Walker,,0,Brantford,,P30
+1920Reach,1919,Michigan-Ontario League,welsh,F20254,Walsh,,0,Hamilton,,2b14
+1920Reach,1919,Michigan-Ontario League,welsh,F20505,Walsh,,0,Hamilton,,3b6
+1920Reach,1919,Michigan-Ontario League,walters,B00840,Walters,,0,Kitchener,,B27
+1920Reach,1919,Michigan-Ontario League,walters,F20369,Walters,,0,Kitchener,,3b8
+1920Reach,1919,Michigan-Ontario League,walters,F20612,Walters,,0,Kitchener,,ss39
+1920Reach,1919,Michigan-Ontario League,warner,B00450,Warner,,1,Hamilton,,
+1920Reach,1919,Michigan-Ontario League,warner,B00450,Warner,,2,Flint,,
+1920Reach,1919,Michigan-Ontario League,warner,B00450,Warner,,T,,,B80
+1920Reach,1919,Michigan-Ontario League,warner,F20233,Warner,,1,Hamilton,,2b
+1920Reach,1919,Michigan-Ontario League,warner,F20233,Warner,,2,Bay City,,2b
+1920Reach,1919,Michigan-Ontario League,warner,F20233,Warner,,3,Flint,,2b
+1920Reach,1919,Michigan-Ontario League,warner,F20233,Warner,,T,,,2b65
+1920Reach,1919,Michigan-Ontario League,warner,F20391,Warner,,1,Hamilton,,3b
+1920Reach,1919,Michigan-Ontario League,warner,F20391,Warner,,2,Battle Creek,,3b
+1920Reach,1919,Michigan-Ontario League,warner,F20391,Warner,,3,Flint,,3b
+1920Reach,1919,Michigan-Ontario League,warner,F20391,Warner,,T,,,3b9
+1920Reach,1919,Michigan-Ontario League,wenger,F20970,Wegner,,0,Bay City,,cf39
+1920Reach,1919,Michigan-Ontario League,weinberg,B00130,Weinberg,,0,Saginaw,,B71
+1920Reach,1919,Michigan-Ontario League,weinberg,F20051,Weinberg,,0,Saginaw,,
+1920Reach,1919,Michigan-Ontario League,welsh,B00651,Welsh,,0,Hamilton,,B19
+1920Reach,1919,Michigan-Ontario League,wenger,B00614,Wenger,,0,Bay City,,B42
+1920Reach,1919,Michigan-Ontario League,wetzel-fli,B00381,Wetzel,F.,0,Flint,,B70
+1920Reach,1919,Michigan-Ontario League,wetzel-sag,B00822,Wetzel,B.,0,Saginaw,,B34
+1920Reach,1919,Michigan-Ontario League,wetzel-sag,F20115,Wetzel,,0,Saginaw,,
+1920Reach,1919,Michigan-Ontario League,wetzel-sag,F20388,Wetzel,,0,Saginaw,,3b24
+1920Reach,1919,Michigan-Ontario League,wetzel-fli,F21182,Wetzel,,0,Flint,,rf70
+1920Reach,1919,Michigan-Ontario League,whaley,B00286,Whaley,,0,Bay City,,B96
+1920Reach,1919,Michigan-Ontario League,whaley,F20784,Whaley,,0,Bay City,,lf86
+1920Reach,1919,Michigan-Ontario League,whaley,F21502,Whaley,,0,Bay City,,p5
+1920Reach,1919,Michigan-Ontario League,whaley,P10024,Whaley,,0,Bay City,,P5
+1920Reach,1919,Michigan-Ontario League,wisner,B00705,Wisner,,0,Saginaw,,B36
+1920Reach,1919,Michigan-Ontario League,wisner,F21397,Wisner,,0,Saginaw,,p36
+1920Reach,1919,Michigan-Ontario League,wisner,P10081,Wisner,,0,Saginaw,,P36
+1920Reach,1919,Michigan-Ontario League,witry,B00210,Witry,,1,Brantford,,
+1920Reach,1919,Michigan-Ontario League,witry,B00210,Witry,,2,London,,
+1920Reach,1919,Michigan-Ontario League,witry,B00210,Witry,,T,,,B78
+1920Reach,1919,Michigan-Ontario League,witry,F20190,Witry,,1,Brantford,,2b
+1920Reach,1919,Michigan-Ontario League,witry,F20190,Witry,,2,London,,2b
+1920Reach,1919,Michigan-Ontario League,witry,F20190,Witry,,T,,,2b8
+1920Reach,1919,Michigan-Ontario League,witry,F21278,Witry,,1,Brantford,,rf
+1920Reach,1919,Michigan-Ontario League,witry,F21278,Witry,,2,London,,rf
+1920Reach,1919,Michigan-Ontario League,witry,F21278,Witry,,T,,,rf7
+1920Reach,1919,Michigan-Ontario League,witry,F21794,Witry,,1,Brantford,,c
+1920Reach,1919,Michigan-Ontario League,witry,F21794,Witry,,2,London,,c
+1920Reach,1919,Michigan-Ontario League,witry,F21794,Witry,,T,,,c63
+1920Reach,1919,Michigan-Ontario League,wright-sag,B00502,Wright,F.,0,Saginaw,,B64
+1920Reach,1919,Michigan-Ontario League,wright-bc,B01041,Wright,,0,Battle Creek,,B14
+1920Reach,1919,Michigan-Ontario League,wright-sag,F20153,Wright,,0,Saginaw,,
+1920Reach,1919,Michigan-Ontario League,wright-sag,F21092,Wright,,0,Saginaw,,rf40
+1920Reach,1919,Michigan-Ontario League,wright-sag,F21308,Wright,,0,Saginaw,,p18
+1920Reach,1919,Michigan-Ontario League,wright-bc,F21667,Wright,,0,Battle Creek,,p14
+1920Reach,1919,Michigan-Ontario League,wright-sag,P10019,Wright,,0,Saginaw,,P8
+1920Reach,1919,Michigan-Ontario League,wright-bc,P10266,Wright,,0,Battle Creek,,P14
+1920Reach,1919,Michigan-Ontario League,zinn,B00101,Zinn,,0,Hamilton,,B108
+1920Reach,1919,Michigan-Ontario League,zinn,F20935,Zinn,,0,Hamilton,,cf108

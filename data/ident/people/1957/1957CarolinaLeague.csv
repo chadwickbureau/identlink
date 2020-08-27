@@ -1,8 +1,8 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1957,Carolina League,M90967,Garcia,Dave,,Danville,,,
-emilbb,1957,Carolina League,M90951,Kissell,George,,Winston-Salem,,,
-emilbb,1957,Carolina League,M90938,Lucchesi,Frank,,High Point-Thomasville,,,
-emilbb,1957,Carolina League,M90923,Mavis,Bob,,Durham,,,
-emilbb,1957,Carolina League,M90972,McCormick,Mike,,Danville,,,
-emilbb,1957,Carolina League,M90946,Okrie,Len,,Greensboro,,,
-emilbb,1957,Carolina League,M90980,Suder,Pete,,Kinston/Wilson,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1957,Carolina League,,M90967,Garcia,Dave,,Danville,,
+emilbb,1957,Carolina League,,M90951,Kissell,George,,Winston-Salem,,
+emilbb,1957,Carolina League,,M90938,Lucchesi,Frank,,High Point-Thomasville,,
+emilbb,1957,Carolina League,,M90923,Mavis,Bob,,Durham,,
+emilbb,1957,Carolina League,,M90972,McCormick,Mike,,Danville,,
+emilbb,1957,Carolina League,,M90946,Okrie,Len,,Greensboro,,
+emilbb,1957,Carolina League,,M90980,Suder,Pete,,Kinston/Wilson,,

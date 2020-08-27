@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1979,International League,M90248,Beauchamp,Jim,,Charleston,,,
-emilbb,1979,International League,M90204,Benson,Vern,,Syracuse,,,
-emilbb,1979,International League,M90212,Burgess,Tom,,Richmond,,,
-emilbb,1979,International League,M90261,Edwards,Doc,,Rochester,,,
-emilbb,1979,International League,M90257,Ermer,Cal,,Toledo,,,
-emilbb,1979,International League,M90193,Michael,Gene,,Columbus,,,
-emilbb,1979,International League,M90236,Morgan,Joe M.,,Pawtucket,,,
-emilbb,1979,International League,M90220,Verdi,Frank,,Tidewater,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1979,International League,,M90248,Beauchamp,Jim,,Charleston,,
+emilbb,1979,International League,,M90204,Benson,Vern,,Syracuse,,
+emilbb,1979,International League,,M90212,Burgess,Tom,,Richmond,,
+emilbb,1979,International League,,M90261,Edwards,Doc,,Rochester,,
+emilbb,1979,International League,,M90257,Ermer,Cal,,Toledo,,
+emilbb,1979,International League,,M90193,Michael,Gene,,Columbus,,
+emilbb,1979,International League,,M90236,Morgan,Joe M.,,Pawtucket,,
+emilbb,1979,International League,,M90220,Verdi,Frank,,Tidewater,,

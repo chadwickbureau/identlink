@@ -1,517 +1,517 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-1911Spalding,1910,American Association,B00840,Abbott,,0,Toledo,,B90,abbott
-1911Spalding,1910,American Association,F21638,Abbott,,0,Toledo,,c71,abbott
-1911Spalding,1910,American Association,B00920,Allen,,0,Louisville,,B30,allen
-1911Spalding,1910,American Association,F21854,Allen,,0,Louisville,,c28,allen
-1911Spalding,1910,American Association,B00117,Altizer,,0,Minneapolis,,B163,altizer
-1911Spalding,1910,American Association,F20474,Altizer,,0,Minneapolis,,ss56,altizer
-1911Spalding,1910,American Association,B01203,Altrock,,0,Minneapolis,,B52,altrock
-1911Spalding,1910,American Association,F21319,Altrock,,0,Minneapolis,,p51,altrock
-1911Spalding,1910,American Association,P10081,Altrock,,0,Minneapolis,,,altrock
-1911Spalding,1910,American Association,P10751,Altrock,,0,Minneapolis,,,altrock
-1911Spalding,1910,American Association,B01288,Arbogast,,0,Columbus,,B89,arbogast
-1911Spalding,1910,American Association,F21726,Arbogast,,0,Columbus,,c82,arbogast
-1911Spalding,1910,American Association,B00488,Autry,,0,St. Paul,,B164,autry
-1911Spalding,1910,American Association,F20014,Autry,,0,St. Paul,,1b164,autry
-1911Spalding,1910,American Association,B01345,Bailey,R.,0,Milwaukee,,B31,bailey-mil
-1911Spalding,1910,American Association,B01415,Bailey,J.,0,Toledo,,B24,bailey-tol
-1911Spalding,1910,American Association,F20893,Bailey,R.,0,Milwaukee,,of28,bailey-mil
-1911Spalding,1910,American Association,F20943,Bailey,H.,0,Toledo,,of21,bailey-tol
-1911Spalding,1910,American Association,B01275,Baker,,0,St. Paul,,B30,baker
-1911Spalding,1910,American Association,F20144,Baker,,0,St. Paul,,2b30,baker
-1911Spalding,1910,American Association,B00491,Barbeau,,0,Kansas City,,B124,barbeau
-1911Spalding,1910,American Association,F20375,Barbeau,,0,Kansas City,,3b64,barbeau
-1911Spalding,1910,American Association,F20547,Barbeau,,0,Kansas City,,ss60,barbeau
-1911Spalding,1910,American Association,B00013,Barrett,,0,Milwaukee,,B51,barrett
-1911Spalding,1910,American Association,F20878,Barrett,,0,Milwaukee,,of51,barrett
-1911Spalding,1910,American Association,B00638,Barry,,0,Milwaukee,,B130,barry
-1911Spalding,1910,American Association,F20128,Barry,,0,Milwaukee,,1b23,barry
-1911Spalding,1910,American Association,F20829,Barry,,0,Milwaukee,,of92,barry
-1911Spalding,1910,American Association,B01595,Bartliff,,0,Milwaukee,,B20,bartliff
-1911Spalding,1910,American Association,B01551,Baskette,,0,Toledo,,B32,baskette
-1911Spalding,1910,American Association,F21590,Baskette,,0,Toledo,,p32,baskette
-1911Spalding,1910,American Association,P10348,Baskette,,0,Toledo,,,baskette
-1911Spalding,1910,American Association,P10852,Baskette,,0,Toledo,,,baskette
-1911Spalding,1910,American Association,B00125,Bohannon,,0,Louisville,,B20,bohannon
-1911Spalding,1910,American Association,B00427,Boice,,0,Toledo,,B19,boice
-1911Spalding,1910,American Association,F21589,Boice,,0,Toledo,,p19,boice
-1911Spalding,1910,American Association,B01064,Boucher,,0,St. Paul,,B156,boucher
-1911Spalding,1910,American Association,F20425,Boucher,,0,St. Paul,,3b151,boucher
-1911Spalding,1910,American Association,B00241,Bowerman,,0,Indianapolis,,B91,bowerman
-1911Spalding,1910,American Association,F21752,Bowerman,,0,Indianapolis,,c79,bowerman
-1911Spalding,1910,American Association,B01170,Brain,,0,St. Paul,,B39,brain
-1911Spalding,1910,American Association,F20279,Brain,,0,St. Paul,,2b26,brain
-1911Spalding,1910,American Association,B01630,Brandom,,0,Kansas City,,B54,brandom
-1911Spalding,1910,American Association,P10588,Brandom,,0,Kansas City,,,brandom
-1911Spalding,1910,American Association,F21324,Brandon,,0,Kansas City,,p54,brandom
-1911Spalding,1910,American Association,P10137,Brandon,,0,Kansas City,,,brandom
-1911Spalding,1910,American Association,B01300,Breen,,0,Milwaukee,,B106,breen
-1911Spalding,1910,American Association,F20604,Breen,,0,Milwaukee,,ss42,breen
-1911Spalding,1910,American Association,F20935,Breen,,0,Milwaukee,,of21,breen
-1911Spalding,1910,American Association,F21840,Breen,,0,Milwaukee,,c18,breen
-1911Spalding,1910,American Association,B01538,Burke,,0,Louisville,,B16,burke
-1911Spalding,1910,American Association,F20792,Burke,,0,Louisville,,of16,burke
-1911Spalding,1910,American Association,B00255,Burns,,0,Toledo,,B18,burns
-1911Spalding,1910,American Association,F20685,Burns,,0,Toledo,,of18,burns
-1911Spalding,1910,American Association,B00794,Butler,,0,Toledo,,B152,butler
-1911Spalding,1910,American Association,F20482,Butler,,0,Toledo,,ss151,butler
-1911Spalding,1910,American Association,B01392,Callahan,D.,0,Toledo,,B15,callahan
-1911Spalding,1910,American Association,F21076,Callahan,,0,Toledo,,of14,callahan
-1911Spalding,1910,American Association,B01197,Campbell,,0,Kansas City,,B47,campbell
-1911Spalding,1910,American Association,F21531,Campbell,,0,Kansas City,,p37,campbell
-1911Spalding,1910,American Association,P10290,Campbell,,0,Kansas City,,,campbell
-1911Spalding,1910,American Association,P10575,Campbell,,0,Kansas City,,,campbell
-1911Spalding,1910,American Association,B00726,Cantwell,,0,Milwaukee,,B24,cantwell
-1911Spalding,1910,American Association,F21286,Cantwell,,0,Milwaukee,,p20,cantwell
-1911Spalding,1910,American Association,P10441,Cantwell,,0,Milwaukee,,,cantwell
-1911Spalding,1910,American Association,P10687,Cantwell,,0,Milwaukee,,,cantwell
-1911Spalding,1910,American Association,B01135,Carisch,,0,Columbus,,B90,carisch
-1911Spalding,1910,American Association,F21811,Carisch,,0,Columbus,,c86,carisch
-1911Spalding,1910,American Association,B00381,Carr,,0,Indianapolis,,B157,carr
-1911Spalding,1910,American Association,F20046,Carr,,0,Indianapolis,,1b154,carr
-1911Spalding,1910,American Association,B01444,Carter,,0,Kansas City,,B16,carter
-1911Spalding,1910,American Association,F21609,Carter,,0,Kansas City,,p16,carter
-1911Spalding,1910,American Association,B00614,Chadbourne,,0,Indianapolis,,B110,chadbourne
-1911Spalding,1910,American Association,F20864,Chadbourne,,0,Indianapolis,,of106,chadbourne
-1911Spalding,1910,American Association,B00783,Charles,,0,Milwaukee,,B124,charles
-1911Spalding,1910,American Association,F20222,Charles,,0,Milwaukee,,2b124,charles
-1911Spalding,1910,American Association,B01601,Chech,,0,St. Paul,,B60,chech
-1911Spalding,1910,American Association,F21174,Chech,,0,St. Paul,,p49,chech
-1911Spalding,1910,American Association,P10176,Chech,,0,St. Paul,,,chech
-1911Spalding,1910,American Association,P10780,Chech,,0,St. Paul,,,chech
-1911Spalding,1910,American Association,B01337,Cheney,,0,Indianapolis,,B34,cheney
-1911Spalding,1910,American Association,F21101,Cheney,,0,Indianapolis,,p34,cheney
-1911Spalding,1910,American Association,P10312,Cheney,,0,Indianapolis,,,cheney
-1911Spalding,1910,American Association,P10542,Cheney,,0,Indianapolis,,,cheney
-1911Spalding,1910,American Association,B00646,Clark,,0,Milwaukee,,B164,clark-mil
-1911Spalding,1910,American Association,F20334,Clark,H.,0,Milwaukee,,3b164,clark-mil
-1911Spalding,1910,American Association,B00149,Clarke,,0,St. Paul,,B131,clarke-stp
-1911Spalding,1910,American Association,F20737,Clarke,,0,St. Paul,,of128,clarke-stp
-1911Spalding,1910,American Association,B00092,Clymer,,0,Minneapolis,,B139,clymer
-1911Spalding,1910,American Association,F20886,Clymer,,0,Minneapolis,,of139,clymer
-1911Spalding,1910,American Association,B00879,Cocash,,0,Kansas City,,B88,cocash
-1911Spalding,1910,American Association,F20970,Cocash,,0,Kansas City,,of59,cocash
-1911Spalding,1910,American Association,B00999,Coffey,,0,Indianapolis,,B93,coffey
-1911Spalding,1910,American Association,F20526,Coffey,,0,Indianapolis,,ss90,coffey
-1911Spalding,1910,American Association,B00158,Congalton,,0,Columbus,,B144,congalton
-1911Spalding,1910,American Association,F20759,Congalton,,0,Columbus,,of137,congalton
-1911Spalding,1910,American Association,B01216,Cranston,,0,Kansas City,,B18,cranston
-1911Spalding,1910,American Association,F20287,Cranston,,0,Kansas City,,2b17,cranston
-1911Spalding,1910,American Association,B00037,Cravath,,0,Minneapolis,,B164,cravath
-1911Spalding,1910,American Association,F21000,Cravath,,0,Minneapolis,,of164,cravath
-1911Spalding,1910,American Association,B01706,Cutting,,0,Milwaukee,,B44,cutting
-1911Spalding,1910,American Association,F21370,Cutting,,0,Milwaukee,,p44,cutting
-1911Spalding,1910,American Association,P10399,Cutting,,0,Milwaukee,,,cutting
-1911Spalding,1910,American Association,P10665,Cutting,,0,Milwaukee,,,cutting
-1911Spalding,1910,American Association,B00084,Dawson,,0,Minneapolis,,B24,dawson
-1911Spalding,1910,American Association,B00174,DeGroff,,0,Milwaukee,,B54,degroff
-1911Spalding,1910,American Association,F20784,DeGroff,,0,Milwaukee,,of54,degroff
-1911Spalding,1910,American Association,B01453,Decanniere,,0,Louisville,,B21,decanniere
-1911Spalding,1910,American Association,F21553,Decanniere,,0,Louisville,,p21,decanniere
-1911Spalding,1910,American Association,P10455,Decanniere,,0,Louisville,,,decanniere
-1911Spalding,1910,American Association,P10633,Decanniere,,0,Louisville,,,decanniere
-1911Spalding,1910,American Association,B00887,Delahanty,,0,Indianapolis,,B100,delahanty
-1911Spalding,1910,American Association,F20924,Delahanty,,0,Indianapolis,,of100,delahanty
-1911Spalding,1910,American Association,B01078,Dougherty,,0,Milwaukee,,B53,dougherty
-1911Spalding,1910,American Association,F21196,Dougherty,,0,Milwaukee,,p33,dougherty
-1911Spalding,1910,American Association,P10192,Dougherty,,0,Milwaukee,,,dougherty
-1911Spalding,1910,American Association,P10698,Dougherty,,0,Milwaukee,,,dougherty
-1911Spalding,1910,American Association,B00936,Downie,,0,Kansas City,,B164,downie
-1911Spalding,1910,American Association,F20316,Downie,,0,Kansas City,,3b75,downie
-1911Spalding,1910,American Association,F20505,Downie,,0,Kansas City,,ss78,downie
-1911Spalding,1910,American Association,B00101,Downs,,0,Columbus,,B159,downs
-1911Spalding,1910,American Association,F20240,Downs,,0,Columbus,,2b159,downs
-1911Spalding,1910,American Association,B00544,Doyle,James,0,Louisville,,B92,doyle
-1911Spalding,1910,American Association,F20391,Doyle,,0,Louisville,,3b76,doyle
-1911Spalding,1910,American Association,F21059,Doyle,,0,Louisville,,of15,doyle
-1911Spalding,1910,American Association,B01108,Dunleavy,,0,Louisville,,B53,dunleavy
-1911Spalding,1910,American Association,F20673,Dunleavy,,0,Louisville,,of51,dunleavy
-1911Spalding,1910,American Association,F20594,Ellam,,0,Kansas City,,ss13,ellam
-1911Spalding,1910,American Association,B00948,Elwert,,0,Toledo,,B131,elwert
-1911Spalding,1910,American Association,F20327,Elwert,,0,Toledo,,3b130,elwert
-1911Spalding,1910,American Association,B01658,Essick,,1,Kansas City,,,essick
-1911Spalding,1910,American Association,B01658,Essick,,2,Toledo,,,essick
-1911Spalding,1910,American Association,B01658,Essick,,T,,,B24,essick
-1911Spalding,1910,American Association,F21544,Essick,,1,Kansas City,,p,essick
-1911Spalding,1910,American Association,F21544,Essick,,2,Toledo,,p,essick
-1911Spalding,1910,American Association,F21544,Essick,,T,,,p23,essick
-1911Spalding,1910,American Association,P10100,Essick,,1,Kansas City,,,essick
-1911Spalding,1910,American Association,P10100,Essick,,2,Toledo,,,essick
-1911Spalding,1910,American Association,P10100,Essick,,T,,,,essick
-1911Spalding,1910,American Association,P10883,Essick,,1,Kansas City,,,essick
-1911Spalding,1910,American Association,P10883,Essick,,2,Toledo,,,essick
-1911Spalding,1910,American Association,P10883,Essick,,T,,,,essick
-1911Spalding,1910,American Association,B00293,Ferris,,0,Minneapolis,,B129,ferris
-1911Spalding,1910,American Association,B01162,Fiene,,0,Minneapolis,,B30,fiene
-1911Spalding,1910,American Association,F21130,Fiene,,0,Minneapolis,,p26,fiene
-1911Spalding,1910,American Association,P10024,Fiene,,0,Minneapolis,,,fiene
-1911Spalding,1910,American Association,P10746,Fiene,,0,Minneapolis,,,fiene
-1911Spalding,1910,American Association,B01242,Fisher,,0,Louisville,,B26,fisher
-1911Spalding,1910,American Association,F21013,Fisher,,0,Louisville,,of25,fisher
-1911Spalding,1910,American Association,B00739,Flournoy,,0,Louisville,,B53,flournoy
-1911Spalding,1910,American Association,F21068,Flournoy,,0,Louisville,,of49,flournoy
-1911Spalding,1910,American Association,B00416,Freeman,,0,Toledo,,B169,freeman
-1911Spalding,1910,American Association,F20095,Freeman,,0,Toledo,,1b169,freeman
-1911Spalding,1910,American Association,B01428,Friel,,0,Columbus,,B23,friel
-1911Spalding,1910,American Association,B01143,Gehring,,0,St. Paul,,B60,gehring
-1911Spalding,1910,American Association,F21362,Gehring,,0,St. Paul,,p54,gehring
-1911Spalding,1910,American Association,P10266,Gehring,,0,St. Paul,,,gehring
-1911Spalding,1910,American Association,P10818,Gehring,,0,St. Paul,,,gehring
-1911Spalding,1910,American Association,F21434,George,,0,Indianapolis,,p10,george
-1911Spalding,1910,American Association,B00623,Gill,,0,Minneapolis,,B162,gill
-1911Spalding,1910,American Association,F20072,Gill,,0,Minneapolis,,1b161,gill
-1911Spalding,1910,American Association,B01156,Gilligan,,0,Milwaukee,,B22,gilligan
-1911Spalding,1910,American Association,F21241,Gilligan,,0,Milwaukee,,p22,gilligan
-1911Spalding,1910,American Association,P10277,Gilligan,,0,Milwaukee,,,gilligan
-1911Spalding,1910,American Association,P10714,Gilligan,,0,Milwaukee,,,gilligan
-1911Spalding,1910,American Association,B01696,Glaze,,0,Indianapolis,,B30,glaze
-1911Spalding,1910,American Association,F21117,Glaze,,0,Indianapolis,,p29,glaze
-1911Spalding,1910,American Association,P10357,Glaze,,0,Indianapolis,,,glaze
-1911Spalding,1910,American Association,P10527,Glaze,,0,Indianapolis,,,glaze
-1911Spalding,1910,American Association,B00515,Graham,,1,Indianapolis,,,graham
-1911Spalding,1910,American Association,B00515,Graham,,2,Milwaukee,,,graham
-1911Spalding,1910,American Association,B00515,Graham,,T,,,B27,graham
-1911Spalding,1910,American Association,F21125,Graham,,1,Indianapolis,,p,graham
-1911Spalding,1910,American Association,F21125,Graham,,2,Milwaukee,,p,graham
-1911Spalding,1910,American Association,F21125,Graham,,T,,,p27,graham
-1911Spalding,1910,American Association,P10320,Graham,,1,Indianapolis,,,graham
-1911Spalding,1910,American Association,P10320,Graham,,2,Milwaukee,,,graham
-1911Spalding,1910,American Association,P10320,Graham,,T,,,,graham
-1911Spalding,1910,American Association,P10709,Graham,,1,Indianapolis,,,graham
-1911Spalding,1910,American Association,P10709,Graham,,2,Milwaukee,,,graham
-1911Spalding,1910,American Association,P10709,Graham,,T,,,,graham
-1911Spalding,1910,American Association,B01119,Halla,,0,Louisville,,B74,halla
-1911Spalding,1910,American Association,F21335,Halla,,0,Louisville,,p41,halla
-1911Spalding,1910,American Association,P10429,Halla,,0,Louisville,,,halla
-1911Spalding,1910,American Association,P10606,Halla,,0,Louisville,,,halla
-1911Spalding,1910,American Association,B00210,Hallman,,1,Kansas City,,,hallman
-1911Spalding,1910,American Association,B00210,Hallman,,2,Toledo,,,hallman
-1911Spalding,1910,American Association,B00210,Hallman,,T,,,B148,hallman
-1911Spalding,1910,American Association,F20699,Hallman,,0,Toledo,,of146,hallman
-1911Spalding,1910,American Association,B01514,Hardgrove,,0,Indianapolis,,B39,hardgrove
-1911Spalding,1910,American Association,F21182,Hardgrove,,0,Indianapolis,,p39,hardgrove
-1911Spalding,1910,American Association,P10228,Hardgrove,,0,Indianapolis,,,hardgrove
-1911Spalding,1910,American Association,P10534,Hardgrove,,0,Indianapolis,,,hardgrove
-1911Spalding,1910,American Association,B00434,Hartley,,0,Toledo,,B19,hartley
-1911Spalding,1910,American Association,F21794,Hartley,,0,Toledo,,c19,hartley
-1911Spalding,1910,American Association,B00229,Hayden,,0,Indianapolis,,B143,hayden
-1911Spalding,1910,American Association,F20661,Hayden,,0,Indianapolis,,of143,hayden
-1911Spalding,1910,American Association,B00059,Hickman,,0,Toledo,,B167,hickman
-1911Spalding,1910,American Association,F20908,Hickman,,0,Toledo,,of162,hickman
-1911Spalding,1910,American Association,B00397,Higginbotham,,0,Louisville,,B21,higginbotham
-1911Spalding,1910,American Association,F21427,Higginbotham,,0,Louisville,,p18,higginbotham
-1911Spalding,1910,American Association,P10253,Higginbotham,,0,Louisville,,,higginbotham
-1911Spalding,1910,American Association,B01376,Higgins,,0,Indianapolis,,B21,higgins
-1911Spalding,1910,American Association,F21577,Higgins,,0,Indianapolis,,p20,higgins
-1911Spalding,1910,American Association,B00324,Hinchman,H.,0,Toledo,,B171,hinchman.h-tol
-1911Spalding,1910,American Association,B00442,Hinchman,W.,0,Columbus,,B167,hinchman.w-col
-1911Spalding,1910,American Association,F20131,Hinchman,W.,0,Columbus,,1b14,hinchman.w-col
-1911Spalding,1910,American Association,F20190,Hinchman,H.,0,Toledo,,2b170,hinchman.h-tol
-1911Spalding,1910,American Association,F20745,Hinchman,W.,0,Columbus,,of150,hinchman.w-col
-1911Spalding,1910,American Association,B00771,Howard,,0,Louisville,,B104,howard
-1911Spalding,1910,American Association,F20067,Howard,,0,Louisville,,1b98,howard
-1911Spalding,1910,American Association,B01359,Howley,,0,Indianapolis,,B57,howley
-1911Spalding,1910,American Association,F21623,Howley,,0,Indianapolis,,c54,howley
-1911Spalding,1910,American Association,B00182,Hughes,J.,0,Louisville,,B108,hughes-lou
-1911Spalding,1910,American Association,B00957,Hughes,T.,0,Minneapolis,,B45,hughes-min
-1911Spalding,1910,American Association,F21488,Hughes,,0,Minneapolis,,p43,hughes-min
-1911Spalding,1910,American Association,F21760,Hughes,,0,Louisville,,c76,hughes-lou
-1911Spalding,1910,American Association,P10019,Hughes,,0,Minneapolis,,,hughes-min
-1911Spalding,1910,American Association,P10723,Hughes,,0,Minneapolis,,,hughes-min
-1911Spalding,1910,American Association,B00130,Hunter,,0,Kansas City,,B162,hunter
-1911Spalding,1910,American Association,F20102,Hunter,,0,Kansas City,,1b162,hunter
-1911Spalding,1910,American Association,B00667,James,,1,Columbus,,,james
-1911Spalding,1910,American Association,B00667,James,,2,Kansas City,,,james
-1911Spalding,1910,American Association,B00667,James,,T,,,B108,james
-1911Spalding,1910,American Association,F21646,James,,1,Columbus,,c,james
-1911Spalding,1910,American Association,F21646,James,,2,Kansas City,,c,james
-1911Spalding,1910,American Association,F21646,James,,T,,,c101,james
-1911Spalding,1910,American Association,B00680,Jones,,0,St. Paul,,B168,jones
-1911Spalding,1910,American Association,F20620,Jones,,0,St. Paul,,of165,jones
-1911Spalding,1910,American Association,B01313,Kaler,,0,Columbus,,B23,kaler
-1911Spalding,1910,American Association,F21207,Kaler,,0,Columbus,,p23,kaler
-1911Spalding,1910,American Association,P10121,Kaler,,0,Columbus,,,kaler
-1911Spalding,1910,American Association,P10493,Kaler,,0,Columbus,,,kaler
-1911Spalding,1910,American Association,B01580,Keene,,0,Indianapolis,,B28,keene
-1911Spalding,1910,American Association,F20449,Keene,,0,Indianapolis,,3b17,keene
-1911Spalding,1910,American Association,B00335,Kelly,W.,0,St. Paul,,B63,kelly
-1911Spalding,1910,American Association,F21739,Kelly,,0,St. Paul,,c61,kelly
-1911Spalding,1910,American Association,B00475,Kendall,,0,Indianapolis,,B25,kendall
-1911Spalding,1910,American Association,F20981,Kendall,,0,Indianapolis,,of25,kendall
-1911Spalding,1910,American Association,B01055,Kerns,,0,Indianapolis,,B28,kerns
-1911Spalding,1910,American Association,F21822,Kerns,,0,Indianapolis,,c21,kerns
-1911Spalding,1910,American Association,B01477,Kilroy,,0,St. Paul,,B24,kilroy
-1911Spalding,1910,American Association,F21232,Kilroy,,0,St. Paul,,p22,kilroy
-1911Spalding,1910,American Association,P10385,Kilroy,,0,St. Paul,,,kilroy
-1911Spalding,1910,American Association,P10839,Kilroy,,0,St. Paul,,,kilroy
-1911Spalding,1910,American Association,B00045,Konnick,,0,Louisville,,B20,konnick
-1911Spalding,1910,American Association,B01523,LaRoy,,0,St. Paul,,B46,laroy
-1911Spalding,1910,American Association,F21475,LaRoy,,0,St. Paul,,p46,laroy
-1911Spalding,1910,American Association,P10289,LaRoy,,0,St. Paul,,,laroy
-1911Spalding,1910,American Association,P10795,LaRoy,,0,St. Paul,,,laroy
-1911Spalding,1910,American Association,B01086,Land,,0,Toledo,,B88,land
-1911Spalding,1910,American Association,F21680,Land,,0,Toledo,,c83,land
-1911Spalding,1910,American Association,B01384,Lemon,,0,Indianapolis,,B17,lemon
-1911Spalding,1910,American Association,B00577,Lewis,,1,Indianapolis,,,lewis
-1911Spalding,1910,American Association,B00577,Lewis,,2,Milwaukee,,,lewis
-1911Spalding,1910,American Association,B00577,Lewis,,T,,,B155,lewis
-1911Spalding,1910,American Association,F20552,Lewis,,1,Indianapolis,,ss,lewis
-1911Spalding,1910,American Association,F20552,Lewis,,2,Milwaukee,,ss,lewis
-1911Spalding,1910,American Association,F20552,Lewis,,T,,,ss155,lewis
-1911Spalding,1910,American Association,B01466,Liebhardt,,0,Columbus,,B45,liebhardt
-1911Spalding,1910,American Association,F21149,Liebhardt,,0,Columbus,,p45,liebhardt
-1911Spalding,1910,American Association,P10097,Liebhardt,,0,Columbus,,,liebhardt
-1911Spalding,1910,American Association,P10478,Liebhardt,,0,Columbus,,,liebhardt
-1911Spalding,1910,American Association,B00163,Liese,,0,St. Paul,,B80,liese
-1911Spalding,1910,American Association,F21021,Liese,,0,St. Paul,,of46,liese
-1911Spalding,1910,American Association,F21158,Liese,,0,St. Paul,,p15,liese
-1911Spalding,1910,American Association,B00528,Lilivelt,,0,Minneapolis,,B24,lilivelt
-1911Spalding,1910,American Association,F21515,Lilivelt,,0,Minneapolis,,p24,lilivelt
-1911Spalding,1910,American Association,P10202,Lilivelt,,0,Minneapolis,,,lilivelt
-1911Spalding,1910,American Association,P10767,Lilivelt,,0,Minneapolis,,,lilivelt
-1911Spalding,1910,American Association,B01567,Lindaman,,0,Indianapolis,,B21,lindaman
-1911Spalding,1910,American Association,F21416,Lindaman,,0,Indianapolis,,p21,lindaman
-1911Spalding,1910,American Association,P10464,Lindaman,,0,Indianapolis,,,lindaman
-1911Spalding,1910,American Association,P10516,Lindaman,,0,Indianapolis,,,lindaman
-1911Spalding,1910,American Association,B00343,Love,,0,Kansas City,,B157,love
-1911Spalding,1910,American Association,F20254,Love,,0,Kansas City,,2b128,love
-1911Spalding,1910,American Association,B01250,Ludwig,,0,Milwaukee,,B85,ludwig
-1911Spalding,1910,American Association,F21783,Ludwig,,0,Milwaukee,,c79,ludwig
-1911Spalding,1910,American Association,B01124,Magee,,0,Louisville,,B132,magee
-1911Spalding,1910,American Association,F20206,Magee,,0,Louisville,,2b115,magee
-1911Spalding,1910,American Association,F20571,Magee,,0,Louisville,,ss17,magee
-1911Spalding,1910,American Association,B01007,Mahling,,0,Columbus,,B60,mahling
-1911Spalding,1910,American Association,F20518,Mahling,,0,Columbus,,ss57,mahling
-1911Spalding,1910,American Association,B01041,Marshall,,0,Milwaukee,,B89,marshall
-1911Spalding,1910,American Association,F21718,Marshall,,0,Milwaukee,,c87,marshall
-1911Spalding,1910,American Association,B01010,McCarthy,J.,0,Toledo,,B92,mccarthy
-1911Spalding,1910,American Association,F20369,McCarthy,,0,Toledo,,3b38,mccarthy
-1911Spalding,1910,American Association,F20997,McCarthy,,0,Toledo,,of36,mccarthy
-1911Spalding,1910,American Association,F21308,McCarthy,,0,Indianapolis,,p14,mccarthy
-1911Spalding,1910,American Association,B00403,McCormick,M.,0,St. Paul,,B160,mccormick-stp
-1911Spalding,1910,American Association,B01029,McCormick,B.,1,Milwaukee,,,mccormick-mil+min
-1911Spalding,1910,American Association,B01029,McCormick,B.,2,Minneapolis,,,mccormick-mil+min
-1911Spalding,1910,American Association,B01029,McCormick,B.,T,,,B105,mccormick-mil+min
-1911Spalding,1910,American Association,F20153,McCormick,B.,1,Milwaukee,,2b,mccormick-mil+min
-1911Spalding,1910,American Association,F20153,McCormick,B.,2,Minneapolis,,2b,mccormick-mil+min
-1911Spalding,1910,American Association,F20153,McCormick,B.,T,,,2b60,mccormick-mil+min
-1911Spalding,1910,American Association,F20303,McCormick,B.,1,Milwaukee,,3b,mccormick-mil+min
-1911Spalding,1910,American Association,F20303,McCormick,B.,2,Minneapolis,,3b,mccormick-mil+min
-1911Spalding,1910,American Association,F20303,McCormick,B.,T,,,3b37,mccormick-mil+min
-1911Spalding,1910,American Association,F20458,McCormick,M.,0,St. Paul,,ss160,mccormick-stp
-1911Spalding,1910,American Association,B01032,McGann,D.,0,Milwaukee,,B151,mcgann
-1911Spalding,1910,American Association,F20051,McGann,D.,0,Milwaukee,,1b150,mcgann
-1911Spalding,1910,American Association,B01649,McGlynn,,0,Milwaukee,,B63,mcglynn
-1911Spalding,1910,American Association,F21356,McGlynn,,0,Milwaukee,,p63,mcglynn
-1911Spalding,1910,American Association,P10361,McGlynn,,0,Milwaukee,,,mcglynn
-1911Spalding,1910,American Association,P10654,McGlynn,,0,Milwaukee,,,mcglynn
-1911Spalding,1910,American Association,B00589,Milligan,,0,Indianapolis,,B94,milligan
-1911Spalding,1910,American Association,F20211,Milligan,,0,Indianapolis,,2b37,milligan
-1911Spalding,1910,American Association,F20919,Milligan,,0,Indianapolis,,of40,milligan
-1911Spalding,1910,American Association,B00590,Moran,,0,Kansas City,,B24,moran
-1911Spalding,1910,American Association,F20962,Moran,,0,Kansas City,,of24,moran
-1911Spalding,1910,American Association,B01093,Moriarty,,0,Louisville,,B35,moriarty
-1911Spalding,1910,American Association,F20612,Moriarty,,0,Louisville,,ss24,moriarty
-1911Spalding,1910,American Association,B00898,Murch,,0,Indianapolis,,B143,murch
-1911Spalding,1910,American Association,F20342,Murch,,0,Indianapolis,,3b143,murch
-1911Spalding,1910,American Association,B00450,Murray,,0,St. Paul,,B140,murray
-1911Spalding,1910,American Association,F20768,Murray,,0,St. Paul,,of139,murray
-1911Spalding,1910,American Association,B00752,Myers,R.,0,Louisville,,B54,myers
-1911Spalding,1910,American Association,F20023,Myers,,0,Louisville,,1b54,myers
-1911Spalding,1910,American Association,B01711,Nelson,,0,Columbus,,B15,nelson
-1911Spalding,1910,American Association,F21491,Nelson,,0,Columbus,,p15,nelson
-1911Spalding,1910,American Association,P10244,Nelson,,0,Columbus,,,nelson
-1911Spalding,1910,American Association,B00264,O'Day,,0,Indianapolis,,B41,oday
-1911Spalding,1910,American Association,F20807,O'Day,,0,Indianapolis,,of41,oday
-1911Spalding,1910,American Association,B00854,O'Neill,,1,Louisville,,,oneill
-1911Spalding,1910,American Association,B00854,O'Neill,,2,Minneapolis,,,oneill
-1911Spalding,1910,American Association,B00854,O'Neill,,T,,,B63,oneill
-1911Spalding,1910,American Association,F21045,O'Neill,,1,Louisville,,of,oneill
-1911Spalding,1910,American Association,F21045,O'Neill,,2,Minneapolis,,of,oneill
-1911Spalding,1910,American Association,F21045,O'Neill,,T,,,of54,oneill
-1911Spalding,1910,American Association,B00502,O'Rourke,,0,Columbus,,B87,orourke
-1911Spalding,1910,American Association,F20401,O'Rourke,,0,Columbus,,3b79,orourke
-1911Spalding,1910,American Association,B00961,Odwell,,0,Columbus,,B162,odwell
-1911Spalding,1910,American Association,F20115,Odwell,,0,Columbus,,1b100,odwell
-1911Spalding,1910,American Association,F20636,Odwell,,0,Columbus,,of62,odwell
-1911Spalding,1910,American Association,B00308,Orth,,0,Indianapolis,,B35,orth
-1911Spalding,1910,American Association,F21084,Orth,,0,Indianapolis,,p22,orth
-1911Spalding,1910,American Association,P10407,Orth,,0,Indianapolis,,,orth
-1911Spalding,1910,American Association,F21403,Osborne,,0,Columbus,,p11,osborne
-1911Spalding,1910,American Association,B01321,Owen,F.,0,Minneapolis,,B100,owen-min
-1911Spalding,1910,American Association,B01489,Owen,F. M.,0,Kansas City,,B31,owen-tol+kc
-1911Spalding,1910,American Association,F21264,Owen,F.,0,Kansas City,,p31,owen-tol+kc
-1911Spalding,1910,American Association,F21667,Owen,F.,0,Minneapolis,,c99,owen-min
-1911Spalding,1910,American Association,P10336,Owen,F.,0,Kansas City,,,owen-tol+kc
-1911Spalding,1910,American Association,P10591,Owen,F.,1,Toledo,,,owen-tol+kc
-1911Spalding,1910,American Association,P10591,Owen,F.,2,Kansas City,,,owen-tol+kc
-1911Spalding,1910,American Association,P10591,Owen,F.,T,,,,owen-tol+kc
-1911Spalding,1910,American Association,B00904,Packard,,0,Columbus,,B48,packard
-1911Spalding,1910,American Association,F21210,Packard,,0,Columbus,,p42,packard
-1911Spalding,1910,American Association,P10486,Packard,,0,Columbus,,,packard
-1911Spalding,1910,American Association,B01227,Patterson,,0,Minneapolis,,B45,patterson
-1911Spalding,1910,American Association,F21469,Patterson,,0,Minneapolis,,p45,patterson
-1911Spalding,1910,American Association,P10062,Patterson,,0,Minneapolis,,,patterson
-1911Spalding,1910,American Association,P10738,Patterson,,0,Minneapolis,,,patterson
-1911Spalding,1910,American Association,B01402,Peirce,,0,St. Paul,,B40,pierce
-1911Spalding,1910,American Association,B00076,Peitz,,0,Louisville,,B23,peitz
-1911Spalding,1910,American Association,F21747,Peitz,,0,Louisville,,c15,peitz
-1911Spalding,1910,American Association,B00278,Perring,,0,Columbus,,B74,perring
-1911Spalding,1910,American Association,F20080,Perring,,0,Columbus,,1b22,perring
-1911Spalding,1910,American Association,F20350,Perring,,0,Columbus,,3b30,perring
-1911Spalding,1910,American Association,F20463,Perring,,0,Columbus,,ss20,perring
-1911Spalding,1910,American Association,B00747,Pickering,,1,Minneapolis,,,pickering
-1911Spalding,1910,American Association,B00747,Pickering,,2,Louisville,,,pickering
-1911Spalding,1910,American Association,B00747,Pickering,,T,,,B160,pickering
-1911Spalding,1910,American Association,F20956,Pickering,,1,Minneapolis,,of,pickering
-1911Spalding,1910,American Association,F20956,Pickering,,2,Louisville,,of,pickering
-1911Spalding,1910,American Association,F20956,Pickering,,T,,,of160,pickering
-1911Spalding,1910,American Association,F21806,Pierce,,0,St. Paul,,c40,pierce
-1911Spalding,1910,American Association,B00356,Powell,,0,Kansas City,,B22,powell
-1911Spalding,1910,American Association,F21566,Powell,,0,Kansas City,,p20,powell
-1911Spalding,1910,American Association,P10168,Powell,,0,Kansas City,,,powell
-1911Spalding,1910,American Association,B01291,Quinlan,,0,Columbus,,B77,quinlan
-1911Spalding,1910,American Association,F20496,Quinlan,,0,Columbus,,ss77,quinlan
-1911Spalding,1910,American Association,B00553,Raftery,,0,Kansas City,,B151,raftery
-1911Spalding,1910,American Association,F20713,Raftery,,0,Kansas City,,of147,raftery
-1911Spalding,1910,American Association,B00286,Randall,,0,Milwaukee,,B146,randall
-1911Spalding,1910,American Association,F20855,Randall,,0,Milwaukee,,of146,randall
-1911Spalding,1910,American Association,B01663,Reiger,,0,St. Paul,,B22,reiger
-1911Spalding,1910,American Association,F21397,Reiger,,0,St. Paul,,p22,reiger
-1911Spalding,1910,American Association,P10056,Reiger,,0,St. Paul,,,reiger
-1911Spalding,1910,American Association,P10826,Reiger,,0,St. Paul,,,reiger
-1911Spalding,1910,American Association,B00912,Reilley,,0,Columbus,,B124,reilley-col
-1911Spalding,1910,American Association,F20841,Reilley,,0,Columbus,,of121,reilley-col
-1911Spalding,1910,American Association,B00196,Reilly,,0,Louisville,,B18,reilly-lou
-1911Spalding,1910,American Association,F21833,Reilly,,0,Louisville,,c15,reilly-lou
-1911Spalding,1910,American Association,B01490,Rhoades,,0,Kansas City,,B47,rhoades
-1911Spalding,1910,American Association,F21293,Rhoades,,0,Kansas City,,p45,rhoades
-1911Spalding,1910,American Association,P10113,Rhoades,,0,Kansas City,,,rhoades
-1911Spalding,1910,American Association,P10569,Rhoades,,0,Kansas City,,,rhoades
-1911Spalding,1910,American Association,B01674,Richter,,0,Louisville,,B49,richter
-1911Spalding,1910,American Association,F21614,Richter,,0,Louisville,,p49,richter
-1911Spalding,1910,American Association,P10410,Richter,,0,Louisville,,,richter
-1911Spalding,1910,American Association,P10611,Richter,,0,Louisville,,,richter
-1911Spalding,1910,American Association,B00362,Ritter,,0,Kansas City,,B67,ritter
-1911Spalding,1910,American Association,F21651,Ritter,,0,Kansas City,,c66,ritter
-1911Spalding,1910,American Association,B00695,Robinson,C.,1,Milwaukee,,,robinson-mil+lou
-1911Spalding,1910,American Association,B00695,Robinson,C.,2,Louisville,,,robinson-mil+lou
-1911Spalding,1910,American Association,B00695,Robinson,C.,T,,,B147,robinson-mil+lou
-1911Spalding,1910,American Association,B01617,Robinson,K.,0,Toledo,,B39,robinson-tol
-1911Spalding,1910,American Association,F20560,Robinson,,1,Milwaukee,,ss,robinson-mil+lou
-1911Spalding,1910,American Association,F20560,Robinson,,2,Louisville,,ss,robinson-mil+lou
-1911Spalding,1910,American Association,F20560,Robinson,,T,,,ss144,robinson-mil+lou
-1911Spalding,1910,American Association,F21381,Robinson,,0,Toledo,,p39,robinson-tol
-1911Spalding,1910,American Association,P10145,Robinson,,0,Toledo,,,robinson-tol
-1911Spalding,1910,American Association,P10860,Robinson,,0,Toledo,,,robinson-tol
-1911Spalding,1910,American Association,B00232,Rossman,,1,Columbus,,,rossman
-1911Spalding,1910,American Association,B00232,Rossman,,2,Minneapolis,,,rossman
-1911Spalding,1910,American Association,B00232,Rossman,,T,,,B155,rossman
-1911Spalding,1910,American Association,F20038,Rossman,,1,Columbus,,1b,rossman
-1911Spalding,1910,American Association,F20038,Rossman,,2,Minneapolis,,1b,rossman
-1911Spalding,1910,American Association,F20038,Rossman,,T,,,1b32,rossman
-1911Spalding,1910,American Association,F20832,Rossman,,1,Columbus,,of,rossman
-1911Spalding,1910,American Association,F20832,Rossman,,2,Minneapolis,,of,rossman
-1911Spalding,1910,American Association,F20832,Rossman,,T,,,of118,rossman
-1911Spalding,1910,American Association,B00319,Ryan,,0,St. Paul,,B42,ryan
-1911Spalding,1910,American Association,F21502,Ryan,,0,St. Paul,,p31,ryan
-1911Spalding,1910,American Association,P10043,Ryan,,0,St. Paul,,,ryan
-1911Spalding,1910,American Association,P10805,Ryan,,0,St. Paul,,,ryan
-1911Spalding,1910,American Association,B00207,Sage,,0,Minneapolis,,B22,sage
-1911Spalding,1910,American Association,F21528,Sage,,0,Minneapolis,,p21,sage
-1911Spalding,1910,American Association,P10231,Sage,,0,Minneapolis,,,sage
-1911Spalding,1910,American Association,P10772,Sage,,0,Minneapolis,,,sage
-1911Spalding,1910,American Association,B01509,Schardt,,0,Milwaukee,,B43,schardt
-1911Spalding,1910,American Association,F21255,Schardt,,0,Milwaukee,,p43,schardt
-1911Spalding,1910,American Association,P10159,Schardt,,0,Milwaukee,,,schardt
-1911Spalding,1910,American Association,P10679,Schardt,,0,Milwaukee,,,schardt
-1911Spalding,1910,American Association,B01181,Schreck,,0,Louisville,,B71,schreck
-1911Spalding,1910,American Association,F21695,Schreck,,0,Louisville,,c54,schreck
-1911Spalding,1910,American Association,B00021,Schwenck,,0,Louisville,,B14,schwenck
-1911Spalding,1910,American Association,B00705,Shannon,,0,Kansas City,,B169,shannon
-1911Spalding,1910,American Association,F20648,Shannon,,0,Kansas City,,of169,shannon
-1911Spalding,1910,American Association,B00651,Shay,,0,Kansas City,,B45,shay
-1911Spalding,1910,American Association,F20177,Shay,,0,Kansas City,,2b24,shay
-1911Spalding,1910,American Association,F20539,Shay,,0,Kansas City,,ss15,shay
-1911Spalding,1910,American Association,B01546,Sitton,,0,Columbus,,B39,sitton
-1911Spalding,1910,American Association,F21163,Sitton,,0,Columbus,,p39,sitton
-1911Spalding,1910,American Association,P10070,Sitton,,0,Columbus,,,sitton
-1911Spalding,1910,American Association,P10503,Sitton,,0,Columbus,,,sitton
-1911Spalding,1910,American Association,B00973,Slagle,,1,Indianapolis,,,slagle
-1911Spalding,1910,American Association,B00973,Slagle,,2,Louisville,,,slagle
-1911Spalding,1910,American Association,B00973,Slagle,,T,,,B31,slagle
-1911Spalding,1910,American Association,F21278,Slagle,,1,Indianapolis,,p,slagle
-1911Spalding,1910,American Association,F21278,Slagle,,2,Louisville,,p,slagle
-1911Spalding,1910,American Association,F21278,Slagle,,T,,,p29,slagle
-1911Spalding,1910,American Association,P10184,Slagle,,0,Louisville,,,slagle
-1911Spalding,1910,American Association,P10622,Slagle,,0,Louisville,,,slagle
-1911Spalding,1910,American Association,B00865,Smith,,0,Minneapolis,,B79,smith
-1911Spalding,1910,American Association,F21672,Smith,,0,Minneapolis,,c73,smith
-1911Spalding,1910,American Association,B00811,Smoot,,1,Louisville,,,smoot
-1911Spalding,1910,American Association,B00811,Smoot,,2,Kansas City,,,smoot
-1911Spalding,1910,American Association,B00811,Smoot,,T,,,B130,smoot
-1911Spalding,1910,American Association,F20810,Smoot,,1,Louisville,,of,smoot
-1911Spalding,1910,American Association,F20810,Smoot,,2,Kansas City,,of,smoot
-1911Spalding,1910,American Association,F20810,Smoot,,T,,,of125,smoot
-1911Spalding,1910,American Association,B00672,Spencer,E.,0,St. Paul,,B81,spencer-stp
-1911Spalding,1910,American Association,B00806,Spencer,A.,1,Indianapolis,,,spencer-ind+mil
-1911Spalding,1910,American Association,B00806,Spencer,A.,2,Milwaukee,,,spencer-ind+mil
-1911Spalding,1910,American Association,B00806,Spencer,A.,T,,,B144,spencer-ind+mil
-1911Spalding,1910,American Association,F20776,Spencer,A.,1,Indianapolis,,of,spencer-ind+mil
-1911Spalding,1910,American Association,F20776,Spencer,A.,2,Milwaukee,,of,spencer-ind+mil
-1911Spalding,1910,American Association,F20776,Spencer,A.,T,,,of143,spencer-ind+mil
-1911Spalding,1910,American Association,F21705,Spencer,E.,0,St. Paul,,c78,spencer-stp
-1911Spalding,1910,American Association,B00609,Stanley,,0,Louisville,,B162,stanley
-1911Spalding,1910,American Association,F20721,Stanley,,0,Louisville,,of156,stanley
-1911Spalding,1910,American Association,B00822,Steiger,,0,St. Paul,,B25,steiger
-1911Spalding,1910,American Association,B01431,Stremmel,,0,Columbus,,B20,stremmel
-1911Spalding,1910,American Association,F21343,Stremmel,,0,Columbus,,p20,stremmel
-1911Spalding,1910,American Association,P10432,Stremmel,,0,Columbus,,,stremmel
-1911Spalding,1910,American Association,B00469,Sullivan,D.,0,Toledo,,B137,sullivan-tol
-1911Spalding,1910,American Association,B00531,Sullivan,S.,0,Louisville,,B50,sullivan-lou
-1911Spalding,1910,American Association,B01682,Sullivan,J.,0,Kansas City,,B28,sullivan-kc
-1911Spalding,1910,American Association,F20388,Sullivan,S.,0,Louisville,,3b25,sullivan-lou
-1911Spalding,1910,American Association,F20657,Sullivan,D.,0,Toledo,,of137,sullivan-tol
-1911Spalding,1910,American Association,F21771,Sullivan,,0,Kansas City,,c26,sullivan-kc
-1911Spalding,1910,American Association,B01572,Swan,,0,Kansas City,,B36,swann
-1911Spalding,1910,American Association,F21092,Swann,,0,Kansas City,,p36,swann
-1911Spalding,1910,American Association,P10304,Swann,,0,Kansas City,,,swann
-1911Spalding,1910,American Association,P10550,Swann,,0,Kansas City,,,swann
-1911Spalding,1910,American Association,B01368,Tannehill,,0,Minneapolis,,B22,tannehill
-1911Spalding,1910,American Association,B01625,Weaver,,0,Louisville,,B30,weaver
-1911Spalding,1910,American Association,F21229,Weaver,,0,Louisville,,p30,weaver
-1911Spalding,1910,American Association,P10373,Weaver,,0,Louisville,,,weaver
-1911Spalding,1910,American Association,P10640,Weaver,,0,Louisville,,,weaver
-1911Spalding,1910,American Association,B00566,West,,0,Toledo,,B47,west
-1911Spalding,1910,American Association,F21450,West,,0,Toledo,,p46,west
-1911Spalding,1910,American Association,P10215,West,,0,Toledo,,,west
-1911Spalding,1910,American Association,P10871,West,,0,Toledo,,,west
-1911Spalding,1910,American Association,B00068,Williams,J.,0,Minneapolis,,B149,williams-min
-1911Spalding,1910,American Association,B00760,Williams,O.,0,Indianapolis,,B133,williams-ind
-1911Spalding,1910,American Association,F20166,Williams,,0,Minneapolis,,2b148,williams-min
-1911Spalding,1910,American Association,F20189,Williams,,0,Indianapolis,,2b130,williams-ind
-1911Spalding,1910,American Association,B00833,Woodruff,,1,Louisville,,,woodruff
-1911Spalding,1910,American Association,B00833,Woodruff,,2,St. Paul,,,woodruff
-1911Spalding,1910,American Association,B00833,Woodruff,,T,,,B115,woodruff
-1911Spalding,1910,American Association,F20265,Woodruff,,1,Louisville,,2b,woodruff
-1911Spalding,1910,American Association,F20265,Woodruff,,2,St. Paul,,2b,woodruff
-1911Spalding,1910,American Association,F20265,Woodruff,,T,,,2b56,woodruff
-1911Spalding,1910,American Association,F20417,Woodruff,,1,Louisville,,3b,woodruff
-1911Spalding,1910,American Association,F20417,Woodruff,,2,St. Paul,,3b,woodruff
-1911Spalding,1910,American Association,F20417,Woodruff,,T,,,3b23,woodruff
-1911Spalding,1910,American Association,F20700,Woodruff,,1,Louisville,,of,woodruff
-1911Spalding,1910,American Association,F20700,Woodruff,,2,St. Paul,,of,woodruff
-1911Spalding,1910,American Association,F20700,Woodruff,,T,,,of35,woodruff
-1911Spalding,1910,American Association,B01234,Wrattan,,0,Columbus,,B71,wrattan
-1911Spalding,1910,American Association,F20298,Wrattan,,0,Columbus,,3b54,wrattan
-1911Spalding,1910,American Association,F20583,Wrattan,,0,Columbus,,ss17,wrattan
-1911Spalding,1910,American Association,B00985,Wrigley,,0,St. Paul,,B101,wrigley
-1911Spalding,1910,American Association,F20233,Wrigley,,0,St. Paul,,2b101,wrigley
-1911Spalding,1910,American Association,B01269,Yingling,,0,Toledo,,B53,yingling
-1911Spalding,1910,American Association,F21442,Yingling,,0,Toledo,,p40,yingling
-1911Spalding,1910,American Association,P10035,Yingling,,0,Toledo,,,yingling
-1911Spalding,1910,American Association,P10847,Yingling,,0,Toledo,,,yingling
-1911Spalding,1910,American Association,B00370,Yohe,,0,Kansas City,,B23,yohe
-1911Spalding,1910,American Association,F20430,Yohe,,0,Kansas City,,3b21,yohe
-1911Spalding,1910,American Association,B00718,Zinn,,0,Toledo,,B19,zinn
-1911Spalding,1910,American Association,F21037,Zinn,,0,Toledo,,of16,zinn
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+1911Spalding,1910,American Association,abbott,B00840,Abbott,,0,Toledo,,B90
+1911Spalding,1910,American Association,abbott,F21638,Abbott,,0,Toledo,,c71
+1911Spalding,1910,American Association,allen,B00920,Allen,,0,Louisville,,B30
+1911Spalding,1910,American Association,allen,F21854,Allen,,0,Louisville,,c28
+1911Spalding,1910,American Association,altizer,B00117,Altizer,,0,Minneapolis,,B163
+1911Spalding,1910,American Association,altizer,F20474,Altizer,,0,Minneapolis,,ss56
+1911Spalding,1910,American Association,altrock,B01203,Altrock,,0,Minneapolis,,B52
+1911Spalding,1910,American Association,altrock,F21319,Altrock,,0,Minneapolis,,p51
+1911Spalding,1910,American Association,altrock,P10081,Altrock,,0,Minneapolis,,
+1911Spalding,1910,American Association,altrock,P10751,Altrock,,0,Minneapolis,,
+1911Spalding,1910,American Association,arbogast,B01288,Arbogast,,0,Columbus,,B89
+1911Spalding,1910,American Association,arbogast,F21726,Arbogast,,0,Columbus,,c82
+1911Spalding,1910,American Association,autry,B00488,Autry,,0,St. Paul,,B164
+1911Spalding,1910,American Association,autry,F20014,Autry,,0,St. Paul,,1b164
+1911Spalding,1910,American Association,bailey-mil,B01345,Bailey,R.,0,Milwaukee,,B31
+1911Spalding,1910,American Association,bailey-tol,B01415,Bailey,J.,0,Toledo,,B24
+1911Spalding,1910,American Association,bailey-mil,F20893,Bailey,R.,0,Milwaukee,,of28
+1911Spalding,1910,American Association,bailey-tol,F20943,Bailey,H.,0,Toledo,,of21
+1911Spalding,1910,American Association,baker,B01275,Baker,,0,St. Paul,,B30
+1911Spalding,1910,American Association,baker,F20144,Baker,,0,St. Paul,,2b30
+1911Spalding,1910,American Association,barbeau,B00491,Barbeau,,0,Kansas City,,B124
+1911Spalding,1910,American Association,barbeau,F20375,Barbeau,,0,Kansas City,,3b64
+1911Spalding,1910,American Association,barbeau,F20547,Barbeau,,0,Kansas City,,ss60
+1911Spalding,1910,American Association,barrett,B00013,Barrett,,0,Milwaukee,,B51
+1911Spalding,1910,American Association,barrett,F20878,Barrett,,0,Milwaukee,,of51
+1911Spalding,1910,American Association,barry,B00638,Barry,,0,Milwaukee,,B130
+1911Spalding,1910,American Association,barry,F20128,Barry,,0,Milwaukee,,1b23
+1911Spalding,1910,American Association,barry,F20829,Barry,,0,Milwaukee,,of92
+1911Spalding,1910,American Association,bartliff,B01595,Bartliff,,0,Milwaukee,,B20
+1911Spalding,1910,American Association,baskette,B01551,Baskette,,0,Toledo,,B32
+1911Spalding,1910,American Association,baskette,F21590,Baskette,,0,Toledo,,p32
+1911Spalding,1910,American Association,baskette,P10348,Baskette,,0,Toledo,,
+1911Spalding,1910,American Association,baskette,P10852,Baskette,,0,Toledo,,
+1911Spalding,1910,American Association,bohannon,B00125,Bohannon,,0,Louisville,,B20
+1911Spalding,1910,American Association,boice,B00427,Boice,,0,Toledo,,B19
+1911Spalding,1910,American Association,boice,F21589,Boice,,0,Toledo,,p19
+1911Spalding,1910,American Association,boucher,B01064,Boucher,,0,St. Paul,,B156
+1911Spalding,1910,American Association,boucher,F20425,Boucher,,0,St. Paul,,3b151
+1911Spalding,1910,American Association,bowerman,B00241,Bowerman,,0,Indianapolis,,B91
+1911Spalding,1910,American Association,bowerman,F21752,Bowerman,,0,Indianapolis,,c79
+1911Spalding,1910,American Association,brain,B01170,Brain,,0,St. Paul,,B39
+1911Spalding,1910,American Association,brain,F20279,Brain,,0,St. Paul,,2b26
+1911Spalding,1910,American Association,brandom,B01630,Brandom,,0,Kansas City,,B54
+1911Spalding,1910,American Association,brandom,P10588,Brandom,,0,Kansas City,,
+1911Spalding,1910,American Association,brandom,F21324,Brandon,,0,Kansas City,,p54
+1911Spalding,1910,American Association,brandom,P10137,Brandon,,0,Kansas City,,
+1911Spalding,1910,American Association,breen,B01300,Breen,,0,Milwaukee,,B106
+1911Spalding,1910,American Association,breen,F20604,Breen,,0,Milwaukee,,ss42
+1911Spalding,1910,American Association,breen,F20935,Breen,,0,Milwaukee,,of21
+1911Spalding,1910,American Association,breen,F21840,Breen,,0,Milwaukee,,c18
+1911Spalding,1910,American Association,burke,B01538,Burke,,0,Louisville,,B16
+1911Spalding,1910,American Association,burke,F20792,Burke,,0,Louisville,,of16
+1911Spalding,1910,American Association,burns,B00255,Burns,,0,Toledo,,B18
+1911Spalding,1910,American Association,burns,F20685,Burns,,0,Toledo,,of18
+1911Spalding,1910,American Association,butler,B00794,Butler,,0,Toledo,,B152
+1911Spalding,1910,American Association,butler,F20482,Butler,,0,Toledo,,ss151
+1911Spalding,1910,American Association,callahan,B01392,Callahan,D.,0,Toledo,,B15
+1911Spalding,1910,American Association,callahan,F21076,Callahan,,0,Toledo,,of14
+1911Spalding,1910,American Association,campbell,B01197,Campbell,,0,Kansas City,,B47
+1911Spalding,1910,American Association,campbell,F21531,Campbell,,0,Kansas City,,p37
+1911Spalding,1910,American Association,campbell,P10290,Campbell,,0,Kansas City,,
+1911Spalding,1910,American Association,campbell,P10575,Campbell,,0,Kansas City,,
+1911Spalding,1910,American Association,cantwell,B00726,Cantwell,,0,Milwaukee,,B24
+1911Spalding,1910,American Association,cantwell,F21286,Cantwell,,0,Milwaukee,,p20
+1911Spalding,1910,American Association,cantwell,P10441,Cantwell,,0,Milwaukee,,
+1911Spalding,1910,American Association,cantwell,P10687,Cantwell,,0,Milwaukee,,
+1911Spalding,1910,American Association,carisch,B01135,Carisch,,0,Columbus,,B90
+1911Spalding,1910,American Association,carisch,F21811,Carisch,,0,Columbus,,c86
+1911Spalding,1910,American Association,carr,B00381,Carr,,0,Indianapolis,,B157
+1911Spalding,1910,American Association,carr,F20046,Carr,,0,Indianapolis,,1b154
+1911Spalding,1910,American Association,carter,B01444,Carter,,0,Kansas City,,B16
+1911Spalding,1910,American Association,carter,F21609,Carter,,0,Kansas City,,p16
+1911Spalding,1910,American Association,chadbourne,B00614,Chadbourne,,0,Indianapolis,,B110
+1911Spalding,1910,American Association,chadbourne,F20864,Chadbourne,,0,Indianapolis,,of106
+1911Spalding,1910,American Association,charles,B00783,Charles,,0,Milwaukee,,B124
+1911Spalding,1910,American Association,charles,F20222,Charles,,0,Milwaukee,,2b124
+1911Spalding,1910,American Association,chech,B01601,Chech,,0,St. Paul,,B60
+1911Spalding,1910,American Association,chech,F21174,Chech,,0,St. Paul,,p49
+1911Spalding,1910,American Association,chech,P10176,Chech,,0,St. Paul,,
+1911Spalding,1910,American Association,chech,P10780,Chech,,0,St. Paul,,
+1911Spalding,1910,American Association,cheney,B01337,Cheney,,0,Indianapolis,,B34
+1911Spalding,1910,American Association,cheney,F21101,Cheney,,0,Indianapolis,,p34
+1911Spalding,1910,American Association,cheney,P10312,Cheney,,0,Indianapolis,,
+1911Spalding,1910,American Association,cheney,P10542,Cheney,,0,Indianapolis,,
+1911Spalding,1910,American Association,clark-mil,B00646,Clark,,0,Milwaukee,,B164
+1911Spalding,1910,American Association,clark-mil,F20334,Clark,H.,0,Milwaukee,,3b164
+1911Spalding,1910,American Association,clarke-stp,B00149,Clarke,,0,St. Paul,,B131
+1911Spalding,1910,American Association,clarke-stp,F20737,Clarke,,0,St. Paul,,of128
+1911Spalding,1910,American Association,clymer,B00092,Clymer,,0,Minneapolis,,B139
+1911Spalding,1910,American Association,clymer,F20886,Clymer,,0,Minneapolis,,of139
+1911Spalding,1910,American Association,cocash,B00879,Cocash,,0,Kansas City,,B88
+1911Spalding,1910,American Association,cocash,F20970,Cocash,,0,Kansas City,,of59
+1911Spalding,1910,American Association,coffey,B00999,Coffey,,0,Indianapolis,,B93
+1911Spalding,1910,American Association,coffey,F20526,Coffey,,0,Indianapolis,,ss90
+1911Spalding,1910,American Association,congalton,B00158,Congalton,,0,Columbus,,B144
+1911Spalding,1910,American Association,congalton,F20759,Congalton,,0,Columbus,,of137
+1911Spalding,1910,American Association,cranston,B01216,Cranston,,0,Kansas City,,B18
+1911Spalding,1910,American Association,cranston,F20287,Cranston,,0,Kansas City,,2b17
+1911Spalding,1910,American Association,cravath,B00037,Cravath,,0,Minneapolis,,B164
+1911Spalding,1910,American Association,cravath,F21000,Cravath,,0,Minneapolis,,of164
+1911Spalding,1910,American Association,cutting,B01706,Cutting,,0,Milwaukee,,B44
+1911Spalding,1910,American Association,cutting,F21370,Cutting,,0,Milwaukee,,p44
+1911Spalding,1910,American Association,cutting,P10399,Cutting,,0,Milwaukee,,
+1911Spalding,1910,American Association,cutting,P10665,Cutting,,0,Milwaukee,,
+1911Spalding,1910,American Association,dawson,B00084,Dawson,,0,Minneapolis,,B24
+1911Spalding,1910,American Association,degroff,B00174,DeGroff,,0,Milwaukee,,B54
+1911Spalding,1910,American Association,degroff,F20784,DeGroff,,0,Milwaukee,,of54
+1911Spalding,1910,American Association,decanniere,B01453,Decanniere,,0,Louisville,,B21
+1911Spalding,1910,American Association,decanniere,F21553,Decanniere,,0,Louisville,,p21
+1911Spalding,1910,American Association,decanniere,P10455,Decanniere,,0,Louisville,,
+1911Spalding,1910,American Association,decanniere,P10633,Decanniere,,0,Louisville,,
+1911Spalding,1910,American Association,delahanty,B00887,Delahanty,,0,Indianapolis,,B100
+1911Spalding,1910,American Association,delahanty,F20924,Delahanty,,0,Indianapolis,,of100
+1911Spalding,1910,American Association,dougherty,B01078,Dougherty,,0,Milwaukee,,B53
+1911Spalding,1910,American Association,dougherty,F21196,Dougherty,,0,Milwaukee,,p33
+1911Spalding,1910,American Association,dougherty,P10192,Dougherty,,0,Milwaukee,,
+1911Spalding,1910,American Association,dougherty,P10698,Dougherty,,0,Milwaukee,,
+1911Spalding,1910,American Association,downie,B00936,Downie,,0,Kansas City,,B164
+1911Spalding,1910,American Association,downie,F20316,Downie,,0,Kansas City,,3b75
+1911Spalding,1910,American Association,downie,F20505,Downie,,0,Kansas City,,ss78
+1911Spalding,1910,American Association,downs,B00101,Downs,,0,Columbus,,B159
+1911Spalding,1910,American Association,downs,F20240,Downs,,0,Columbus,,2b159
+1911Spalding,1910,American Association,doyle,B00544,Doyle,James,0,Louisville,,B92
+1911Spalding,1910,American Association,doyle,F20391,Doyle,,0,Louisville,,3b76
+1911Spalding,1910,American Association,doyle,F21059,Doyle,,0,Louisville,,of15
+1911Spalding,1910,American Association,dunleavy,B01108,Dunleavy,,0,Louisville,,B53
+1911Spalding,1910,American Association,dunleavy,F20673,Dunleavy,,0,Louisville,,of51
+1911Spalding,1910,American Association,ellam,F20594,Ellam,,0,Kansas City,,ss13
+1911Spalding,1910,American Association,elwert,B00948,Elwert,,0,Toledo,,B131
+1911Spalding,1910,American Association,elwert,F20327,Elwert,,0,Toledo,,3b130
+1911Spalding,1910,American Association,essick,B01658,Essick,,1,Kansas City,,
+1911Spalding,1910,American Association,essick,B01658,Essick,,2,Toledo,,
+1911Spalding,1910,American Association,essick,B01658,Essick,,T,,,B24
+1911Spalding,1910,American Association,essick,F21544,Essick,,1,Kansas City,,p
+1911Spalding,1910,American Association,essick,F21544,Essick,,2,Toledo,,p
+1911Spalding,1910,American Association,essick,F21544,Essick,,T,,,p23
+1911Spalding,1910,American Association,essick,P10100,Essick,,1,Kansas City,,
+1911Spalding,1910,American Association,essick,P10100,Essick,,2,Toledo,,
+1911Spalding,1910,American Association,essick,P10100,Essick,,T,,,
+1911Spalding,1910,American Association,essick,P10883,Essick,,1,Kansas City,,
+1911Spalding,1910,American Association,essick,P10883,Essick,,2,Toledo,,
+1911Spalding,1910,American Association,essick,P10883,Essick,,T,,,
+1911Spalding,1910,American Association,ferris,B00293,Ferris,,0,Minneapolis,,B129
+1911Spalding,1910,American Association,fiene,B01162,Fiene,,0,Minneapolis,,B30
+1911Spalding,1910,American Association,fiene,F21130,Fiene,,0,Minneapolis,,p26
+1911Spalding,1910,American Association,fiene,P10024,Fiene,,0,Minneapolis,,
+1911Spalding,1910,American Association,fiene,P10746,Fiene,,0,Minneapolis,,
+1911Spalding,1910,American Association,fisher,B01242,Fisher,,0,Louisville,,B26
+1911Spalding,1910,American Association,fisher,F21013,Fisher,,0,Louisville,,of25
+1911Spalding,1910,American Association,flournoy,B00739,Flournoy,,0,Louisville,,B53
+1911Spalding,1910,American Association,flournoy,F21068,Flournoy,,0,Louisville,,of49
+1911Spalding,1910,American Association,freeman,B00416,Freeman,,0,Toledo,,B169
+1911Spalding,1910,American Association,freeman,F20095,Freeman,,0,Toledo,,1b169
+1911Spalding,1910,American Association,friel,B01428,Friel,,0,Columbus,,B23
+1911Spalding,1910,American Association,gehring,B01143,Gehring,,0,St. Paul,,B60
+1911Spalding,1910,American Association,gehring,F21362,Gehring,,0,St. Paul,,p54
+1911Spalding,1910,American Association,gehring,P10266,Gehring,,0,St. Paul,,
+1911Spalding,1910,American Association,gehring,P10818,Gehring,,0,St. Paul,,
+1911Spalding,1910,American Association,george,F21434,George,,0,Indianapolis,,p10
+1911Spalding,1910,American Association,gill,B00623,Gill,,0,Minneapolis,,B162
+1911Spalding,1910,American Association,gill,F20072,Gill,,0,Minneapolis,,1b161
+1911Spalding,1910,American Association,gilligan,B01156,Gilligan,,0,Milwaukee,,B22
+1911Spalding,1910,American Association,gilligan,F21241,Gilligan,,0,Milwaukee,,p22
+1911Spalding,1910,American Association,gilligan,P10277,Gilligan,,0,Milwaukee,,
+1911Spalding,1910,American Association,gilligan,P10714,Gilligan,,0,Milwaukee,,
+1911Spalding,1910,American Association,glaze,B01696,Glaze,,0,Indianapolis,,B30
+1911Spalding,1910,American Association,glaze,F21117,Glaze,,0,Indianapolis,,p29
+1911Spalding,1910,American Association,glaze,P10357,Glaze,,0,Indianapolis,,
+1911Spalding,1910,American Association,glaze,P10527,Glaze,,0,Indianapolis,,
+1911Spalding,1910,American Association,graham,B00515,Graham,,1,Indianapolis,,
+1911Spalding,1910,American Association,graham,B00515,Graham,,2,Milwaukee,,
+1911Spalding,1910,American Association,graham,B00515,Graham,,T,,,B27
+1911Spalding,1910,American Association,graham,F21125,Graham,,1,Indianapolis,,p
+1911Spalding,1910,American Association,graham,F21125,Graham,,2,Milwaukee,,p
+1911Spalding,1910,American Association,graham,F21125,Graham,,T,,,p27
+1911Spalding,1910,American Association,graham,P10320,Graham,,1,Indianapolis,,
+1911Spalding,1910,American Association,graham,P10320,Graham,,2,Milwaukee,,
+1911Spalding,1910,American Association,graham,P10320,Graham,,T,,,
+1911Spalding,1910,American Association,graham,P10709,Graham,,1,Indianapolis,,
+1911Spalding,1910,American Association,graham,P10709,Graham,,2,Milwaukee,,
+1911Spalding,1910,American Association,graham,P10709,Graham,,T,,,
+1911Spalding,1910,American Association,halla,B01119,Halla,,0,Louisville,,B74
+1911Spalding,1910,American Association,halla,F21335,Halla,,0,Louisville,,p41
+1911Spalding,1910,American Association,halla,P10429,Halla,,0,Louisville,,
+1911Spalding,1910,American Association,halla,P10606,Halla,,0,Louisville,,
+1911Spalding,1910,American Association,hallman,B00210,Hallman,,1,Kansas City,,
+1911Spalding,1910,American Association,hallman,B00210,Hallman,,2,Toledo,,
+1911Spalding,1910,American Association,hallman,B00210,Hallman,,T,,,B148
+1911Spalding,1910,American Association,hallman,F20699,Hallman,,0,Toledo,,of146
+1911Spalding,1910,American Association,hardgrove,B01514,Hardgrove,,0,Indianapolis,,B39
+1911Spalding,1910,American Association,hardgrove,F21182,Hardgrove,,0,Indianapolis,,p39
+1911Spalding,1910,American Association,hardgrove,P10228,Hardgrove,,0,Indianapolis,,
+1911Spalding,1910,American Association,hardgrove,P10534,Hardgrove,,0,Indianapolis,,
+1911Spalding,1910,American Association,hartley,B00434,Hartley,,0,Toledo,,B19
+1911Spalding,1910,American Association,hartley,F21794,Hartley,,0,Toledo,,c19
+1911Spalding,1910,American Association,hayden,B00229,Hayden,,0,Indianapolis,,B143
+1911Spalding,1910,American Association,hayden,F20661,Hayden,,0,Indianapolis,,of143
+1911Spalding,1910,American Association,hickman,B00059,Hickman,,0,Toledo,,B167
+1911Spalding,1910,American Association,hickman,F20908,Hickman,,0,Toledo,,of162
+1911Spalding,1910,American Association,higginbotham,B00397,Higginbotham,,0,Louisville,,B21
+1911Spalding,1910,American Association,higginbotham,F21427,Higginbotham,,0,Louisville,,p18
+1911Spalding,1910,American Association,higginbotham,P10253,Higginbotham,,0,Louisville,,
+1911Spalding,1910,American Association,higgins,B01376,Higgins,,0,Indianapolis,,B21
+1911Spalding,1910,American Association,higgins,F21577,Higgins,,0,Indianapolis,,p20
+1911Spalding,1910,American Association,hinchman.h-tol,B00324,Hinchman,H.,0,Toledo,,B171
+1911Spalding,1910,American Association,hinchman.w-col,B00442,Hinchman,W.,0,Columbus,,B167
+1911Spalding,1910,American Association,hinchman.w-col,F20131,Hinchman,W.,0,Columbus,,1b14
+1911Spalding,1910,American Association,hinchman.h-tol,F20190,Hinchman,H.,0,Toledo,,2b170
+1911Spalding,1910,American Association,hinchman.w-col,F20745,Hinchman,W.,0,Columbus,,of150
+1911Spalding,1910,American Association,howard,B00771,Howard,,0,Louisville,,B104
+1911Spalding,1910,American Association,howard,F20067,Howard,,0,Louisville,,1b98
+1911Spalding,1910,American Association,howley,B01359,Howley,,0,Indianapolis,,B57
+1911Spalding,1910,American Association,howley,F21623,Howley,,0,Indianapolis,,c54
+1911Spalding,1910,American Association,hughes-lou,B00182,Hughes,J.,0,Louisville,,B108
+1911Spalding,1910,American Association,hughes-min,B00957,Hughes,T.,0,Minneapolis,,B45
+1911Spalding,1910,American Association,hughes-min,F21488,Hughes,,0,Minneapolis,,p43
+1911Spalding,1910,American Association,hughes-lou,F21760,Hughes,,0,Louisville,,c76
+1911Spalding,1910,American Association,hughes-min,P10019,Hughes,,0,Minneapolis,,
+1911Spalding,1910,American Association,hughes-min,P10723,Hughes,,0,Minneapolis,,
+1911Spalding,1910,American Association,hunter,B00130,Hunter,,0,Kansas City,,B162
+1911Spalding,1910,American Association,hunter,F20102,Hunter,,0,Kansas City,,1b162
+1911Spalding,1910,American Association,james,B00667,James,,1,Columbus,,
+1911Spalding,1910,American Association,james,B00667,James,,2,Kansas City,,
+1911Spalding,1910,American Association,james,B00667,James,,T,,,B108
+1911Spalding,1910,American Association,james,F21646,James,,1,Columbus,,c
+1911Spalding,1910,American Association,james,F21646,James,,2,Kansas City,,c
+1911Spalding,1910,American Association,james,F21646,James,,T,,,c101
+1911Spalding,1910,American Association,jones,B00680,Jones,,0,St. Paul,,B168
+1911Spalding,1910,American Association,jones,F20620,Jones,,0,St. Paul,,of165
+1911Spalding,1910,American Association,kaler,B01313,Kaler,,0,Columbus,,B23
+1911Spalding,1910,American Association,kaler,F21207,Kaler,,0,Columbus,,p23
+1911Spalding,1910,American Association,kaler,P10121,Kaler,,0,Columbus,,
+1911Spalding,1910,American Association,kaler,P10493,Kaler,,0,Columbus,,
+1911Spalding,1910,American Association,keene,B01580,Keene,,0,Indianapolis,,B28
+1911Spalding,1910,American Association,keene,F20449,Keene,,0,Indianapolis,,3b17
+1911Spalding,1910,American Association,kelly,B00335,Kelly,W.,0,St. Paul,,B63
+1911Spalding,1910,American Association,kelly,F21739,Kelly,,0,St. Paul,,c61
+1911Spalding,1910,American Association,kendall,B00475,Kendall,,0,Indianapolis,,B25
+1911Spalding,1910,American Association,kendall,F20981,Kendall,,0,Indianapolis,,of25
+1911Spalding,1910,American Association,kerns,B01055,Kerns,,0,Indianapolis,,B28
+1911Spalding,1910,American Association,kerns,F21822,Kerns,,0,Indianapolis,,c21
+1911Spalding,1910,American Association,kilroy,B01477,Kilroy,,0,St. Paul,,B24
+1911Spalding,1910,American Association,kilroy,F21232,Kilroy,,0,St. Paul,,p22
+1911Spalding,1910,American Association,kilroy,P10385,Kilroy,,0,St. Paul,,
+1911Spalding,1910,American Association,kilroy,P10839,Kilroy,,0,St. Paul,,
+1911Spalding,1910,American Association,konnick,B00045,Konnick,,0,Louisville,,B20
+1911Spalding,1910,American Association,laroy,B01523,LaRoy,,0,St. Paul,,B46
+1911Spalding,1910,American Association,laroy,F21475,LaRoy,,0,St. Paul,,p46
+1911Spalding,1910,American Association,laroy,P10289,LaRoy,,0,St. Paul,,
+1911Spalding,1910,American Association,laroy,P10795,LaRoy,,0,St. Paul,,
+1911Spalding,1910,American Association,land,B01086,Land,,0,Toledo,,B88
+1911Spalding,1910,American Association,land,F21680,Land,,0,Toledo,,c83
+1911Spalding,1910,American Association,lemon,B01384,Lemon,,0,Indianapolis,,B17
+1911Spalding,1910,American Association,lewis,B00577,Lewis,,1,Indianapolis,,
+1911Spalding,1910,American Association,lewis,B00577,Lewis,,2,Milwaukee,,
+1911Spalding,1910,American Association,lewis,B00577,Lewis,,T,,,B155
+1911Spalding,1910,American Association,lewis,F20552,Lewis,,1,Indianapolis,,ss
+1911Spalding,1910,American Association,lewis,F20552,Lewis,,2,Milwaukee,,ss
+1911Spalding,1910,American Association,lewis,F20552,Lewis,,T,,,ss155
+1911Spalding,1910,American Association,liebhardt,B01466,Liebhardt,,0,Columbus,,B45
+1911Spalding,1910,American Association,liebhardt,F21149,Liebhardt,,0,Columbus,,p45
+1911Spalding,1910,American Association,liebhardt,P10097,Liebhardt,,0,Columbus,,
+1911Spalding,1910,American Association,liebhardt,P10478,Liebhardt,,0,Columbus,,
+1911Spalding,1910,American Association,liese,B00163,Liese,,0,St. Paul,,B80
+1911Spalding,1910,American Association,liese,F21021,Liese,,0,St. Paul,,of46
+1911Spalding,1910,American Association,liese,F21158,Liese,,0,St. Paul,,p15
+1911Spalding,1910,American Association,lilivelt,B00528,Lilivelt,,0,Minneapolis,,B24
+1911Spalding,1910,American Association,lilivelt,F21515,Lilivelt,,0,Minneapolis,,p24
+1911Spalding,1910,American Association,lilivelt,P10202,Lilivelt,,0,Minneapolis,,
+1911Spalding,1910,American Association,lilivelt,P10767,Lilivelt,,0,Minneapolis,,
+1911Spalding,1910,American Association,lindaman,B01567,Lindaman,,0,Indianapolis,,B21
+1911Spalding,1910,American Association,lindaman,F21416,Lindaman,,0,Indianapolis,,p21
+1911Spalding,1910,American Association,lindaman,P10464,Lindaman,,0,Indianapolis,,
+1911Spalding,1910,American Association,lindaman,P10516,Lindaman,,0,Indianapolis,,
+1911Spalding,1910,American Association,love,B00343,Love,,0,Kansas City,,B157
+1911Spalding,1910,American Association,love,F20254,Love,,0,Kansas City,,2b128
+1911Spalding,1910,American Association,ludwig,B01250,Ludwig,,0,Milwaukee,,B85
+1911Spalding,1910,American Association,ludwig,F21783,Ludwig,,0,Milwaukee,,c79
+1911Spalding,1910,American Association,magee,B01124,Magee,,0,Louisville,,B132
+1911Spalding,1910,American Association,magee,F20206,Magee,,0,Louisville,,2b115
+1911Spalding,1910,American Association,magee,F20571,Magee,,0,Louisville,,ss17
+1911Spalding,1910,American Association,mahling,B01007,Mahling,,0,Columbus,,B60
+1911Spalding,1910,American Association,mahling,F20518,Mahling,,0,Columbus,,ss57
+1911Spalding,1910,American Association,marshall,B01041,Marshall,,0,Milwaukee,,B89
+1911Spalding,1910,American Association,marshall,F21718,Marshall,,0,Milwaukee,,c87
+1911Spalding,1910,American Association,mccarthy,B01010,McCarthy,J.,0,Toledo,,B92
+1911Spalding,1910,American Association,mccarthy,F20369,McCarthy,,0,Toledo,,3b38
+1911Spalding,1910,American Association,mccarthy,F20997,McCarthy,,0,Toledo,,of36
+1911Spalding,1910,American Association,mccarthy,F21308,McCarthy,,0,Indianapolis,,p14
+1911Spalding,1910,American Association,mccormick-stp,B00403,McCormick,M.,0,St. Paul,,B160
+1911Spalding,1910,American Association,mccormick-mil+min,B01029,McCormick,B.,1,Milwaukee,,
+1911Spalding,1910,American Association,mccormick-mil+min,B01029,McCormick,B.,2,Minneapolis,,
+1911Spalding,1910,American Association,mccormick-mil+min,B01029,McCormick,B.,T,,,B105
+1911Spalding,1910,American Association,mccormick-mil+min,F20153,McCormick,B.,1,Milwaukee,,2b
+1911Spalding,1910,American Association,mccormick-mil+min,F20153,McCormick,B.,2,Minneapolis,,2b
+1911Spalding,1910,American Association,mccormick-mil+min,F20153,McCormick,B.,T,,,2b60
+1911Spalding,1910,American Association,mccormick-mil+min,F20303,McCormick,B.,1,Milwaukee,,3b
+1911Spalding,1910,American Association,mccormick-mil+min,F20303,McCormick,B.,2,Minneapolis,,3b
+1911Spalding,1910,American Association,mccormick-mil+min,F20303,McCormick,B.,T,,,3b37
+1911Spalding,1910,American Association,mccormick-stp,F20458,McCormick,M.,0,St. Paul,,ss160
+1911Spalding,1910,American Association,mcgann,B01032,McGann,D.,0,Milwaukee,,B151
+1911Spalding,1910,American Association,mcgann,F20051,McGann,D.,0,Milwaukee,,1b150
+1911Spalding,1910,American Association,mcglynn,B01649,McGlynn,,0,Milwaukee,,B63
+1911Spalding,1910,American Association,mcglynn,F21356,McGlynn,,0,Milwaukee,,p63
+1911Spalding,1910,American Association,mcglynn,P10361,McGlynn,,0,Milwaukee,,
+1911Spalding,1910,American Association,mcglynn,P10654,McGlynn,,0,Milwaukee,,
+1911Spalding,1910,American Association,milligan,B00589,Milligan,,0,Indianapolis,,B94
+1911Spalding,1910,American Association,milligan,F20211,Milligan,,0,Indianapolis,,2b37
+1911Spalding,1910,American Association,milligan,F20919,Milligan,,0,Indianapolis,,of40
+1911Spalding,1910,American Association,moran,B00590,Moran,,0,Kansas City,,B24
+1911Spalding,1910,American Association,moran,F20962,Moran,,0,Kansas City,,of24
+1911Spalding,1910,American Association,moriarty,B01093,Moriarty,,0,Louisville,,B35
+1911Spalding,1910,American Association,moriarty,F20612,Moriarty,,0,Louisville,,ss24
+1911Spalding,1910,American Association,murch,B00898,Murch,,0,Indianapolis,,B143
+1911Spalding,1910,American Association,murch,F20342,Murch,,0,Indianapolis,,3b143
+1911Spalding,1910,American Association,murray,B00450,Murray,,0,St. Paul,,B140
+1911Spalding,1910,American Association,murray,F20768,Murray,,0,St. Paul,,of139
+1911Spalding,1910,American Association,myers,B00752,Myers,R.,0,Louisville,,B54
+1911Spalding,1910,American Association,myers,F20023,Myers,,0,Louisville,,1b54
+1911Spalding,1910,American Association,nelson,B01711,Nelson,,0,Columbus,,B15
+1911Spalding,1910,American Association,nelson,F21491,Nelson,,0,Columbus,,p15
+1911Spalding,1910,American Association,nelson,P10244,Nelson,,0,Columbus,,
+1911Spalding,1910,American Association,oday,B00264,O'Day,,0,Indianapolis,,B41
+1911Spalding,1910,American Association,oday,F20807,O'Day,,0,Indianapolis,,of41
+1911Spalding,1910,American Association,oneill,B00854,O'Neill,,1,Louisville,,
+1911Spalding,1910,American Association,oneill,B00854,O'Neill,,2,Minneapolis,,
+1911Spalding,1910,American Association,oneill,B00854,O'Neill,,T,,,B63
+1911Spalding,1910,American Association,oneill,F21045,O'Neill,,1,Louisville,,of
+1911Spalding,1910,American Association,oneill,F21045,O'Neill,,2,Minneapolis,,of
+1911Spalding,1910,American Association,oneill,F21045,O'Neill,,T,,,of54
+1911Spalding,1910,American Association,orourke,B00502,O'Rourke,,0,Columbus,,B87
+1911Spalding,1910,American Association,orourke,F20401,O'Rourke,,0,Columbus,,3b79
+1911Spalding,1910,American Association,odwell,B00961,Odwell,,0,Columbus,,B162
+1911Spalding,1910,American Association,odwell,F20115,Odwell,,0,Columbus,,1b100
+1911Spalding,1910,American Association,odwell,F20636,Odwell,,0,Columbus,,of62
+1911Spalding,1910,American Association,orth,B00308,Orth,,0,Indianapolis,,B35
+1911Spalding,1910,American Association,orth,F21084,Orth,,0,Indianapolis,,p22
+1911Spalding,1910,American Association,orth,P10407,Orth,,0,Indianapolis,,
+1911Spalding,1910,American Association,osborne,F21403,Osborne,,0,Columbus,,p11
+1911Spalding,1910,American Association,owen-min,B01321,Owen,F.,0,Minneapolis,,B100
+1911Spalding,1910,American Association,owen-tol+kc,B01489,Owen,F. M.,0,Kansas City,,B31
+1911Spalding,1910,American Association,owen-tol+kc,F21264,Owen,F.,0,Kansas City,,p31
+1911Spalding,1910,American Association,owen-min,F21667,Owen,F.,0,Minneapolis,,c99
+1911Spalding,1910,American Association,owen-tol+kc,P10336,Owen,F.,0,Kansas City,,
+1911Spalding,1910,American Association,owen-tol+kc,P10591,Owen,F.,1,Toledo,,
+1911Spalding,1910,American Association,owen-tol+kc,P10591,Owen,F.,2,Kansas City,,
+1911Spalding,1910,American Association,owen-tol+kc,P10591,Owen,F.,T,,,
+1911Spalding,1910,American Association,packard,B00904,Packard,,0,Columbus,,B48
+1911Spalding,1910,American Association,packard,F21210,Packard,,0,Columbus,,p42
+1911Spalding,1910,American Association,packard,P10486,Packard,,0,Columbus,,
+1911Spalding,1910,American Association,patterson,B01227,Patterson,,0,Minneapolis,,B45
+1911Spalding,1910,American Association,patterson,F21469,Patterson,,0,Minneapolis,,p45
+1911Spalding,1910,American Association,patterson,P10062,Patterson,,0,Minneapolis,,
+1911Spalding,1910,American Association,patterson,P10738,Patterson,,0,Minneapolis,,
+1911Spalding,1910,American Association,pierce,B01402,Peirce,,0,St. Paul,,B40
+1911Spalding,1910,American Association,peitz,B00076,Peitz,,0,Louisville,,B23
+1911Spalding,1910,American Association,peitz,F21747,Peitz,,0,Louisville,,c15
+1911Spalding,1910,American Association,perring,B00278,Perring,,0,Columbus,,B74
+1911Spalding,1910,American Association,perring,F20080,Perring,,0,Columbus,,1b22
+1911Spalding,1910,American Association,perring,F20350,Perring,,0,Columbus,,3b30
+1911Spalding,1910,American Association,perring,F20463,Perring,,0,Columbus,,ss20
+1911Spalding,1910,American Association,pickering,B00747,Pickering,,1,Minneapolis,,
+1911Spalding,1910,American Association,pickering,B00747,Pickering,,2,Louisville,,
+1911Spalding,1910,American Association,pickering,B00747,Pickering,,T,,,B160
+1911Spalding,1910,American Association,pickering,F20956,Pickering,,1,Minneapolis,,of
+1911Spalding,1910,American Association,pickering,F20956,Pickering,,2,Louisville,,of
+1911Spalding,1910,American Association,pickering,F20956,Pickering,,T,,,of160
+1911Spalding,1910,American Association,pierce,F21806,Pierce,,0,St. Paul,,c40
+1911Spalding,1910,American Association,powell,B00356,Powell,,0,Kansas City,,B22
+1911Spalding,1910,American Association,powell,F21566,Powell,,0,Kansas City,,p20
+1911Spalding,1910,American Association,powell,P10168,Powell,,0,Kansas City,,
+1911Spalding,1910,American Association,quinlan,B01291,Quinlan,,0,Columbus,,B77
+1911Spalding,1910,American Association,quinlan,F20496,Quinlan,,0,Columbus,,ss77
+1911Spalding,1910,American Association,raftery,B00553,Raftery,,0,Kansas City,,B151
+1911Spalding,1910,American Association,raftery,F20713,Raftery,,0,Kansas City,,of147
+1911Spalding,1910,American Association,randall,B00286,Randall,,0,Milwaukee,,B146
+1911Spalding,1910,American Association,randall,F20855,Randall,,0,Milwaukee,,of146
+1911Spalding,1910,American Association,reiger,B01663,Reiger,,0,St. Paul,,B22
+1911Spalding,1910,American Association,reiger,F21397,Reiger,,0,St. Paul,,p22
+1911Spalding,1910,American Association,reiger,P10056,Reiger,,0,St. Paul,,
+1911Spalding,1910,American Association,reiger,P10826,Reiger,,0,St. Paul,,
+1911Spalding,1910,American Association,reilley-col,B00912,Reilley,,0,Columbus,,B124
+1911Spalding,1910,American Association,reilley-col,F20841,Reilley,,0,Columbus,,of121
+1911Spalding,1910,American Association,reilly-lou,B00196,Reilly,,0,Louisville,,B18
+1911Spalding,1910,American Association,reilly-lou,F21833,Reilly,,0,Louisville,,c15
+1911Spalding,1910,American Association,rhoades,B01490,Rhoades,,0,Kansas City,,B47
+1911Spalding,1910,American Association,rhoades,F21293,Rhoades,,0,Kansas City,,p45
+1911Spalding,1910,American Association,rhoades,P10113,Rhoades,,0,Kansas City,,
+1911Spalding,1910,American Association,rhoades,P10569,Rhoades,,0,Kansas City,,
+1911Spalding,1910,American Association,richter,B01674,Richter,,0,Louisville,,B49
+1911Spalding,1910,American Association,richter,F21614,Richter,,0,Louisville,,p49
+1911Spalding,1910,American Association,richter,P10410,Richter,,0,Louisville,,
+1911Spalding,1910,American Association,richter,P10611,Richter,,0,Louisville,,
+1911Spalding,1910,American Association,ritter,B00362,Ritter,,0,Kansas City,,B67
+1911Spalding,1910,American Association,ritter,F21651,Ritter,,0,Kansas City,,c66
+1911Spalding,1910,American Association,robinson-mil+lou,B00695,Robinson,C.,1,Milwaukee,,
+1911Spalding,1910,American Association,robinson-mil+lou,B00695,Robinson,C.,2,Louisville,,
+1911Spalding,1910,American Association,robinson-mil+lou,B00695,Robinson,C.,T,,,B147
+1911Spalding,1910,American Association,robinson-tol,B01617,Robinson,K.,0,Toledo,,B39
+1911Spalding,1910,American Association,robinson-mil+lou,F20560,Robinson,,1,Milwaukee,,ss
+1911Spalding,1910,American Association,robinson-mil+lou,F20560,Robinson,,2,Louisville,,ss
+1911Spalding,1910,American Association,robinson-mil+lou,F20560,Robinson,,T,,,ss144
+1911Spalding,1910,American Association,robinson-tol,F21381,Robinson,,0,Toledo,,p39
+1911Spalding,1910,American Association,robinson-tol,P10145,Robinson,,0,Toledo,,
+1911Spalding,1910,American Association,robinson-tol,P10860,Robinson,,0,Toledo,,
+1911Spalding,1910,American Association,rossman,B00232,Rossman,,1,Columbus,,
+1911Spalding,1910,American Association,rossman,B00232,Rossman,,2,Minneapolis,,
+1911Spalding,1910,American Association,rossman,B00232,Rossman,,T,,,B155
+1911Spalding,1910,American Association,rossman,F20038,Rossman,,1,Columbus,,1b
+1911Spalding,1910,American Association,rossman,F20038,Rossman,,2,Minneapolis,,1b
+1911Spalding,1910,American Association,rossman,F20038,Rossman,,T,,,1b32
+1911Spalding,1910,American Association,rossman,F20832,Rossman,,1,Columbus,,of
+1911Spalding,1910,American Association,rossman,F20832,Rossman,,2,Minneapolis,,of
+1911Spalding,1910,American Association,rossman,F20832,Rossman,,T,,,of118
+1911Spalding,1910,American Association,ryan,B00319,Ryan,,0,St. Paul,,B42
+1911Spalding,1910,American Association,ryan,F21502,Ryan,,0,St. Paul,,p31
+1911Spalding,1910,American Association,ryan,P10043,Ryan,,0,St. Paul,,
+1911Spalding,1910,American Association,ryan,P10805,Ryan,,0,St. Paul,,
+1911Spalding,1910,American Association,sage,B00207,Sage,,0,Minneapolis,,B22
+1911Spalding,1910,American Association,sage,F21528,Sage,,0,Minneapolis,,p21
+1911Spalding,1910,American Association,sage,P10231,Sage,,0,Minneapolis,,
+1911Spalding,1910,American Association,sage,P10772,Sage,,0,Minneapolis,,
+1911Spalding,1910,American Association,schardt,B01509,Schardt,,0,Milwaukee,,B43
+1911Spalding,1910,American Association,schardt,F21255,Schardt,,0,Milwaukee,,p43
+1911Spalding,1910,American Association,schardt,P10159,Schardt,,0,Milwaukee,,
+1911Spalding,1910,American Association,schardt,P10679,Schardt,,0,Milwaukee,,
+1911Spalding,1910,American Association,schreck,B01181,Schreck,,0,Louisville,,B71
+1911Spalding,1910,American Association,schreck,F21695,Schreck,,0,Louisville,,c54
+1911Spalding,1910,American Association,schwenck,B00021,Schwenck,,0,Louisville,,B14
+1911Spalding,1910,American Association,shannon,B00705,Shannon,,0,Kansas City,,B169
+1911Spalding,1910,American Association,shannon,F20648,Shannon,,0,Kansas City,,of169
+1911Spalding,1910,American Association,shay,B00651,Shay,,0,Kansas City,,B45
+1911Spalding,1910,American Association,shay,F20177,Shay,,0,Kansas City,,2b24
+1911Spalding,1910,American Association,shay,F20539,Shay,,0,Kansas City,,ss15
+1911Spalding,1910,American Association,sitton,B01546,Sitton,,0,Columbus,,B39
+1911Spalding,1910,American Association,sitton,F21163,Sitton,,0,Columbus,,p39
+1911Spalding,1910,American Association,sitton,P10070,Sitton,,0,Columbus,,
+1911Spalding,1910,American Association,sitton,P10503,Sitton,,0,Columbus,,
+1911Spalding,1910,American Association,slagle,B00973,Slagle,,1,Indianapolis,,
+1911Spalding,1910,American Association,slagle,B00973,Slagle,,2,Louisville,,
+1911Spalding,1910,American Association,slagle,B00973,Slagle,,T,,,B31
+1911Spalding,1910,American Association,slagle,F21278,Slagle,,1,Indianapolis,,p
+1911Spalding,1910,American Association,slagle,F21278,Slagle,,2,Louisville,,p
+1911Spalding,1910,American Association,slagle,F21278,Slagle,,T,,,p29
+1911Spalding,1910,American Association,slagle,P10184,Slagle,,0,Louisville,,
+1911Spalding,1910,American Association,slagle,P10622,Slagle,,0,Louisville,,
+1911Spalding,1910,American Association,smith,B00865,Smith,,0,Minneapolis,,B79
+1911Spalding,1910,American Association,smith,F21672,Smith,,0,Minneapolis,,c73
+1911Spalding,1910,American Association,smoot,B00811,Smoot,,1,Louisville,,
+1911Spalding,1910,American Association,smoot,B00811,Smoot,,2,Kansas City,,
+1911Spalding,1910,American Association,smoot,B00811,Smoot,,T,,,B130
+1911Spalding,1910,American Association,smoot,F20810,Smoot,,1,Louisville,,of
+1911Spalding,1910,American Association,smoot,F20810,Smoot,,2,Kansas City,,of
+1911Spalding,1910,American Association,smoot,F20810,Smoot,,T,,,of125
+1911Spalding,1910,American Association,spencer-stp,B00672,Spencer,E.,0,St. Paul,,B81
+1911Spalding,1910,American Association,spencer-ind+mil,B00806,Spencer,A.,1,Indianapolis,,
+1911Spalding,1910,American Association,spencer-ind+mil,B00806,Spencer,A.,2,Milwaukee,,
+1911Spalding,1910,American Association,spencer-ind+mil,B00806,Spencer,A.,T,,,B144
+1911Spalding,1910,American Association,spencer-ind+mil,F20776,Spencer,A.,1,Indianapolis,,of
+1911Spalding,1910,American Association,spencer-ind+mil,F20776,Spencer,A.,2,Milwaukee,,of
+1911Spalding,1910,American Association,spencer-ind+mil,F20776,Spencer,A.,T,,,of143
+1911Spalding,1910,American Association,spencer-stp,F21705,Spencer,E.,0,St. Paul,,c78
+1911Spalding,1910,American Association,stanley,B00609,Stanley,,0,Louisville,,B162
+1911Spalding,1910,American Association,stanley,F20721,Stanley,,0,Louisville,,of156
+1911Spalding,1910,American Association,steiger,B00822,Steiger,,0,St. Paul,,B25
+1911Spalding,1910,American Association,stremmel,B01431,Stremmel,,0,Columbus,,B20
+1911Spalding,1910,American Association,stremmel,F21343,Stremmel,,0,Columbus,,p20
+1911Spalding,1910,American Association,stremmel,P10432,Stremmel,,0,Columbus,,
+1911Spalding,1910,American Association,sullivan-tol,B00469,Sullivan,D.,0,Toledo,,B137
+1911Spalding,1910,American Association,sullivan-lou,B00531,Sullivan,S.,0,Louisville,,B50
+1911Spalding,1910,American Association,sullivan-kc,B01682,Sullivan,J.,0,Kansas City,,B28
+1911Spalding,1910,American Association,sullivan-lou,F20388,Sullivan,S.,0,Louisville,,3b25
+1911Spalding,1910,American Association,sullivan-tol,F20657,Sullivan,D.,0,Toledo,,of137
+1911Spalding,1910,American Association,sullivan-kc,F21771,Sullivan,,0,Kansas City,,c26
+1911Spalding,1910,American Association,swann,B01572,Swan,,0,Kansas City,,B36
+1911Spalding,1910,American Association,swann,F21092,Swann,,0,Kansas City,,p36
+1911Spalding,1910,American Association,swann,P10304,Swann,,0,Kansas City,,
+1911Spalding,1910,American Association,swann,P10550,Swann,,0,Kansas City,,
+1911Spalding,1910,American Association,tannehill,B01368,Tannehill,,0,Minneapolis,,B22
+1911Spalding,1910,American Association,weaver,B01625,Weaver,,0,Louisville,,B30
+1911Spalding,1910,American Association,weaver,F21229,Weaver,,0,Louisville,,p30
+1911Spalding,1910,American Association,weaver,P10373,Weaver,,0,Louisville,,
+1911Spalding,1910,American Association,weaver,P10640,Weaver,,0,Louisville,,
+1911Spalding,1910,American Association,west,B00566,West,,0,Toledo,,B47
+1911Spalding,1910,American Association,west,F21450,West,,0,Toledo,,p46
+1911Spalding,1910,American Association,west,P10215,West,,0,Toledo,,
+1911Spalding,1910,American Association,west,P10871,West,,0,Toledo,,
+1911Spalding,1910,American Association,williams-min,B00068,Williams,J.,0,Minneapolis,,B149
+1911Spalding,1910,American Association,williams-ind,B00760,Williams,O.,0,Indianapolis,,B133
+1911Spalding,1910,American Association,williams-min,F20166,Williams,,0,Minneapolis,,2b148
+1911Spalding,1910,American Association,williams-ind,F20189,Williams,,0,Indianapolis,,2b130
+1911Spalding,1910,American Association,woodruff,B00833,Woodruff,,1,Louisville,,
+1911Spalding,1910,American Association,woodruff,B00833,Woodruff,,2,St. Paul,,
+1911Spalding,1910,American Association,woodruff,B00833,Woodruff,,T,,,B115
+1911Spalding,1910,American Association,woodruff,F20265,Woodruff,,1,Louisville,,2b
+1911Spalding,1910,American Association,woodruff,F20265,Woodruff,,2,St. Paul,,2b
+1911Spalding,1910,American Association,woodruff,F20265,Woodruff,,T,,,2b56
+1911Spalding,1910,American Association,woodruff,F20417,Woodruff,,1,Louisville,,3b
+1911Spalding,1910,American Association,woodruff,F20417,Woodruff,,2,St. Paul,,3b
+1911Spalding,1910,American Association,woodruff,F20417,Woodruff,,T,,,3b23
+1911Spalding,1910,American Association,woodruff,F20700,Woodruff,,1,Louisville,,of
+1911Spalding,1910,American Association,woodruff,F20700,Woodruff,,2,St. Paul,,of
+1911Spalding,1910,American Association,woodruff,F20700,Woodruff,,T,,,of35
+1911Spalding,1910,American Association,wrattan,B01234,Wrattan,,0,Columbus,,B71
+1911Spalding,1910,American Association,wrattan,F20298,Wrattan,,0,Columbus,,3b54
+1911Spalding,1910,American Association,wrattan,F20583,Wrattan,,0,Columbus,,ss17
+1911Spalding,1910,American Association,wrigley,B00985,Wrigley,,0,St. Paul,,B101
+1911Spalding,1910,American Association,wrigley,F20233,Wrigley,,0,St. Paul,,2b101
+1911Spalding,1910,American Association,yingling,B01269,Yingling,,0,Toledo,,B53
+1911Spalding,1910,American Association,yingling,F21442,Yingling,,0,Toledo,,p40
+1911Spalding,1910,American Association,yingling,P10035,Yingling,,0,Toledo,,
+1911Spalding,1910,American Association,yingling,P10847,Yingling,,0,Toledo,,
+1911Spalding,1910,American Association,yohe,B00370,Yohe,,0,Kansas City,,B23
+1911Spalding,1910,American Association,yohe,F20430,Yohe,,0,Kansas City,,3b21
+1911Spalding,1910,American Association,zinn,B00718,Zinn,,0,Toledo,,B19
+1911Spalding,1910,American Association,zinn,F21037,Zinn,,0,Toledo,,of16

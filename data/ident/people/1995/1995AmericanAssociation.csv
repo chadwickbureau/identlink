@@ -1,9 +1,9 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1995,American Association,M90071,Bando,Chris,,New Orleans,,,
-emilbb,1995,American Association,M90083,Biagini,Greg,,Oklahoma City,,,
-emilbb,1995,American Association,M90018,Bombard,Marc,,Indianapolis,,,
-emilbb,1995,American Association,M90052,Clark,Ron,,Iowa,,,
-emilbb,1995,American Association,M90026,Graham,Brian,,Buffalo,,,
-emilbb,1995,American Association,M90039,Jerschele,Mike,,Omaha,,,
-emilbb,1995,American Association,M90047,Pettini,Joe,,Louisville,,,
-emilbb,1995,American Association,M90060,Renick,Rick,,Nashville,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1995,American Association,,M90071,Bando,Chris,,New Orleans,,
+emilbb,1995,American Association,,M90083,Biagini,Greg,,Oklahoma City,,
+emilbb,1995,American Association,,M90018,Bombard,Marc,,Indianapolis,,
+emilbb,1995,American Association,,M90052,Clark,Ron,,Iowa,,
+emilbb,1995,American Association,,M90026,Graham,Brian,,Buffalo,,
+emilbb,1995,American Association,,M90039,Jerschele,Mike,,Omaha,,
+emilbb,1995,American Association,,M90047,Pettini,Joe,,Louisville,,
+emilbb,1995,American Association,,M90060,Renick,Rick,,Nashville,,

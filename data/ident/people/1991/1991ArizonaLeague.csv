@@ -1,8 +1,8 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1991,Arizona League,M91763,Berry,Ken,,Padres,,,
-emilbb,1991,Arizona League,M91774,Champion,Keith,,Cardinals,,,
-emilbb,1991,Arizona League,M91749,Krenchicki,Wayne,,Brewers,,,
-emilbb,1991,Arizona League,M91782,Lachemann,Bill,,Angels,,,
-emilbb,1991,Arizona League,M91758,Pines,Myron,,Mariners,,,
-emilbb,1991,Arizona League,M91796,Rood,Nelson,,Giants,,,
-emilbb,1991,Arizona League,M91730,Scott,Dickie,,Athletics,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1991,Arizona League,,M91763,Berry,Ken,,Padres,,
+emilbb,1991,Arizona League,,M91774,Champion,Keith,,Cardinals,,
+emilbb,1991,Arizona League,,M91749,Krenchicki,Wayne,,Brewers,,
+emilbb,1991,Arizona League,,M91782,Lachemann,Bill,,Angels,,
+emilbb,1991,Arizona League,,M91758,Pines,Myron,,Mariners,,
+emilbb,1991,Arizona League,,M91796,Rood,Nelson,,Giants,,
+emilbb,1991,Arizona League,,M91730,Scott,Dickie,,Athletics,,

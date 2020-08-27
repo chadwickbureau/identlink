@@ -1,7 +1,7 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1977,Western Carolinas League,M91467,Compton,Mike,,Spartanburg,,,
-emilbb,1977,Western Carolinas League,M91451,Dews,Bobby,,Greenwood,,,
-emilbb,1977,Western Carolinas League,M91438,Lanier,Hal,,Gastonia,,,
-emilbb,1977,Western Carolinas League,M91472,Lett,Jim,,Shelby,,,
-emilbb,1977,Western Carolinas League,M91480,Mahoney,Jim,,Charleston,,,
-emilbb,1977,Western Carolinas League,M91446,Terwilliger,Wayne,,Asheville,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1977,Western Carolinas League,,M91467,Compton,Mike,,Spartanburg,,
+emilbb,1977,Western Carolinas League,,M91451,Dews,Bobby,,Greenwood,,
+emilbb,1977,Western Carolinas League,,M91438,Lanier,Hal,,Gastonia,,
+emilbb,1977,Western Carolinas League,,M91472,Lett,Jim,,Shelby,,
+emilbb,1977,Western Carolinas League,,M91480,Mahoney,Jim,,Charleston,,
+emilbb,1977,Western Carolinas League,,M91446,Terwilliger,Wayne,,Asheville,,

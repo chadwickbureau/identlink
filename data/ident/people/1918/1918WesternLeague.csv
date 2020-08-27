@@ -1,372 +1,372 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-1919Reach,1918,Western League,B00614,Agnew,,0,Joplin,,B17,
-1919Reach,1918,Western League,F20496,Agnew,,0,Joplin,,of10,
-1919Reach,1918,Western League,B00904,Allison,,0,Sioux City,,B20,
-1919Reach,1918,Western League,F20981,Allison,,0,Sioux City,,p17,
-1919Reach,1918,Western League,P10159,Allison,,0,Sioux City,,p,
-1919Reach,1918,Western League,B00646,Bachant,,0,St. Joseph,,B50,
-1919Reach,1918,Western League,F20841,Bachant,,0,St. Joseph,,c49,
-1919Reach,1918,Western League,B00695,Banner,,1,Hutchinson,,,
-1919Reach,1918,Western League,B00695,Banner,,2,Oklahoma City,,,
-1919Reach,1918,Western League,B00695,Banner,,T,,,B45,
-1919Reach,1918,Western League,F20886,Banner,,1,Hutchinson,,c,
-1919Reach,1918,Western League,F20886,Banner,,2,Oklahoma City,,c,
-1919Reach,1918,Western League,F20886,Banner,,T,,,c42,
-1919Reach,1918,Western League,B00589,Bashang,,0,Omaha,,B55,
-1919Reach,1918,Western League,B00515,Benson,,0,Oklahoma City,,B60,
-1919Reach,1918,Western League,F20115,Benson,,0,Oklahoma City,,2b60,
-1919Reach,1918,Western League,F21158,Bentley,P.,1,Hutchinson,,p,
-1919Reach,1918,Western League,F21158,Bentley,P.,2,Oklahoma City,,p,
-1919Reach,1918,Western League,F21158,Bentley,P.,T,,,p11,
-1919Reach,1918,Western League,P10215,Bentley,R.,1,Hutchinson,,p,
-1919Reach,1918,Western League,P10215,Bentley,R.,2,Oklahoma City,,p,
-1919Reach,1918,Western League,P10215,Bentley,R.,T,,,p,
-1919Reach,1918,Western League,B00174,Berger,,0,Wichita,,B61,
-1919Reach,1918,Western League,F20369,Berger,,0,Wichita,,ss56,
-1919Reach,1918,Western League,P10348,Black,,1,Wichita,,p,
-1919Reach,1918,Western League,P10348,Black,,2,Hutchinson,,p,
-1919Reach,1918,Western League,P10348,Black,,T,,,p,
-1919Reach,1918,Western League,B00076,Block,,0,Hutchinson,,B38,
-1919Reach,1918,Western League,F20776,Block,,0,Hutchinson,,of22,
-1919Reach,1918,Western League,F20810,Block,,0,Hutchinson,,c10,
-1919Reach,1918,Western League,F21037,Bluejacket,,0,St. Joseph,,p12,
-1919Reach,1918,Western League,P10043,Bluejacket,,0,St. Joseph,,p,
-1919Reach,1918,Western League,B00475,Boehler,,0,Joplin,,B26,
-1919Reach,1918,Western League,F20699,Boehler,,0,Joplin,,of18,
-1919Reach,1918,Western League,P10464,Boehler,,0,Joplin,,p,
-1919Reach,1918,Western League,B00854,Bonovitz,,0,St. Joseph,,B27,
-1919Reach,1918,Western League,F20792,Bonovitz,,0,St. Joseph,,of11,
-1919Reach,1918,Western League,B00403,Bradley,,0,Hutchinson,,B59,
-1919Reach,1918,Western League,F20014,Bradley,,0,Hutchinson,,1b59,
-1919Reach,1918,Western League,B00130,Brandt,,0,Joplin,,B21,
-1919Reach,1918,Western League,F20463,Brandt,,0,Joplin,,ss21,
-1919Reach,1918,Western League,B00469,Breem,,0,Des Moines,,B51,
-1919Reach,1918,Western League,F20102,Breen,,0,Des Moines,,1b17,
-1919Reach,1918,Western League,F20962,Breen,,0,Des Moines,,c27,
-1919Reach,1918,Western League,B00319,Briebeck,,1,Hutchinson,,,
-1919Reach,1918,Western League,B00319,Briebeck,,2,Oklahoma City,,,
-1919Reach,1918,Western League,B00319,Briebeck,,T,,,B39,
-1919Reach,1918,Western League,F20095,Briebeck,,1,Hutchinson,,1b,
-1919Reach,1918,Western League,F20095,Briebeck,,2,Omaha,,1b,
-1919Reach,1918,Western League,F20095,Briebeck,,T,,,1b39,
-1919Reach,1918,Western League,B00961,Brokaw,,0,Joplin,,B18,
-1919Reach,1918,Western League,F20583,Brokaw,,0,Joplin,,of18,
-1919Reach,1918,Western League,B00502,Brubaker,,0,St. Joseph,,B48,
-1919Reach,1918,Western League,F20425,Brubaker,,0,St. Joseph,,ss46,
-1919Reach,1918,Western League,B00434,Callahan,,0,Omaha,,B46,
-1919Reach,1918,Western League,F20211,Callahan,,0,Omaha,,2b24,
-1919Reach,1918,Western League,F20391,Callahan,,0,Omaha,,ss19,
-1919Reach,1918,Western League,B00806,Caporal,,0,Joplin,,B15,
-1919Reach,1918,Western League,P10336,Caporal,,0,Joplin,,p,
-1919Reach,1918,Western League,B00335,Carey,,0,Wichita,,B48,
-1919Reach,1918,Western League,F20177,Carey,,0,Wichita,,2b47,
-1919Reach,1918,Western League,B00739,Carlisle,,0,Joplin,,B53,
-1919Reach,1918,Western League,F20571,Carlisle,,0,Joplin,,of53,
-1919Reach,1918,Western League,B00092,Cass,,0,Des Moines,,B24,
-1919Reach,1918,Western League,F20685,Cass,,0,Des Moines,,of24,
-1919Reach,1918,Western League,B00450,Cleveland,,0,Hutchinson,,B59,
-1919Reach,1918,Western League,F20254,Cleveland,,0,Hutchinson,,3b23,
-1919Reach,1918,Western League,F20430,Cleveland,,0,Hutchinson,,ss36,
-1919Reach,1918,Western League,B00149,Coffey,,0,Des Moines,,B57,
-1919Reach,1918,Western League,F20166,Coffey,,0,Des Moines,,2b57,
-1919Reach,1918,Western League,B00442,Collins,,0,Joplin,,B51,
-1919Reach,1918,Western League,F20864,Collins,,0,Joplin,,c51,
-1919Reach,1918,Western League,F20265,Conroy,,0,Oklahoma City,,3b58,
-1919Reach,1918,Western League,B00822,Cooney,,0,St. Joseph,,B49,
-1919Reach,1918,Western League,F20144,Cooney,,0,St. Joseph,,2b41,
-1919Reach,1918,Western League,P10441,Corey,,1,Omaha,,p,
-1919Reach,1918,Western League,P10441,Corey,,2,Des Moines,,p,
-1919Reach,1918,Western League,P10441,Corey,,T,,,p,
-1919Reach,1918,Western League,B00528,Corrie,,1,Omaha,,,
-1919Reach,1918,Western League,B00528,Corrie,,2,Des Moines,,,
-1919Reach,1918,Western League,B00528,Corrie,,T,,,B15,
-1919Reach,1918,Western League,F20560,Coy,,0,Wichita,,of59,
-1919Reach,1918,Western League,F20657,Craig,,0,Sioux City,,of11,
-1919Reach,1918,Western League,P10137,Crutcher,,0,Joplin,,p,
-1919Reach,1918,Western League,F21210,Currie,,1,Omaha,,p,
-1919Reach,1918,Western League,F21210,Currie,,2,Des Moines,,p,
-1919Reach,1918,Western League,F21210,Currie,,T,,,p14,
-1919Reach,1918,Western League,F21125,Curtis,,0,St. Joseph,,p12,
-1919Reach,1918,Western League,P10357,Curtis,,0,St. Joseph,,p,
-1919Reach,1918,Western League,B00210,Daniels,,0,St. Joseph,,B54,
-1919Reach,1918,Western League,F20745,Daniels,,0,St. Joseph,,of52,
-1919Reach,1918,Western League,P10493,Davis,,1,Hutchinson,,p,
-1919Reach,1918,Western League,P10493,Davis,,2,Oklahoma City,,p,
-1919Reach,1918,Western League,P10493,Davis,,T,,,p,
-1919Reach,1918,Western League,B00623,Decker,,0,Joplin,,B17,
-1919Reach,1918,Western League,F20482,Decker,,0,Joplin,,of20,
-1919Reach,1918,Western League,B00397,Defate,,0,Omaha,,B55,
-1919Reach,1918,Western League,F20189,Defate,,0,Omaha,,2b21,
-1919Reach,1918,Western League,F20449,Defate,,0,Omaha,,ss34,
-1919Reach,1918,Western League,B00985,Delburn,,0,Des Moines,,B22,
-1919Reach,1918,Western League,P10081,Delburn,,0,Des Moines,,p,
-1919Reach,1918,Western League,F21149,Dellwin,,0,Des Moines,,p22,
-1919Reach,1918,Western League,F20612,Diltz,,0,Oklahoma City,,of55,
-1919Reach,1918,Western League,B00241,Donica,,0,Omaha,,B55,
-1919Reach,1918,Western League,F20287,Donica,,0,Omaha,,3b51,
-1919Reach,1918,Western League,B01007,Dressen,,0,Des Moines,,B24,
-1919Reach,1918,Western League,F21207,Dressen,,0,Des Moines,,p18,
-1919Reach,1918,Western League,P10231,Dressen,,0,Des Moines,,p,
-1919Reach,1918,Western League,B00912,Dye,,0,Sioux City,,B16,
-1919Reach,1918,Western League,B00278,Falk,,0,Oklahoma City,,B56,
-1919Reach,1918,Western League,F20474,Falk,,0,Oklahoma City,,ss16,
-1919Reach,1918,Western League,F20807,Falk,,0,Oklahoma City,,of32,
-1919Reach,1918,Western League,B00068,Farrell,,0,Sioux City,,B28,
-1919Reach,1918,Western League,F20604,Farrell,,0,Sioux City,,of21,
-1919Reach,1918,Western League,B00920,Fletcher,,0,Sioux City,,B16,
-1919Reach,1918,Western League,F21084,Fletcher,,0,Sioux City,,p16,
-1919Reach,1918,Western League,P10455,Fletcher,,0,Sioux City,,p,
-1919Reach,1918,Western League,P10361,Fuhr,,0,Omaha,,p,
-1919Reach,1918,Western League,P10385,Gaspar,,0,St. Joseph,,p,
-1919Reach,1918,Western League,P10569,Glahn,,1,Topeka,,p,
-1919Reach,1918,Western League,P10569,Glahn,,2,Hutchinson,,p,
-1919Reach,1918,Western League,P10569,Glahn,,T,,,p,
-1919Reach,1918,Western League,B00667,Graham,,1,Hutchinson,,,
-1919Reach,1918,Western League,B00667,Graham,,2,Oklahoma City,,,
-1919Reach,1918,Western League,B00667,Graham,,T,,,B25,
-1919Reach,1918,Western League,F21117,Graham,,1,Hutchinson,,p,
-1919Reach,1918,Western League,F21117,Graham,,2,Oklahoma City,,p,
-1919Reach,1918,Western League,F21117,Graham,,T,,,p25,
-1919Reach,1918,Western League,P10290,Graham,,1,Hutchinson,,p,
-1919Reach,1918,Western League,P10290,Graham,,2,Oklahoma City,,p,
-1919Reach,1918,Western League,P10290,Graham,,T,,,p,
-1919Reach,1918,Western League,B00158,Haines,,1,Topeka,,,
-1919Reach,1918,Western League,B00158,Haines,,2,Hutchinson,,,
-1919Reach,1918,Western League,B00158,Haines,,T,,,B22,
-1919Reach,1918,Western League,P10070,Haines,,1,Topeka,,p,
-1919Reach,1918,Western League,P10070,Haines,,2,Hutchinson,,p,
-1919Reach,1918,Western League,P10070,Haines,,T,,,p,
-1919Reach,1918,Western League,P10253,Hale,,0,Omaha,,p,
-1919Reach,1918,Western League,P10266,Hall,,0,Joplin,,p,
-1919Reach,1918,Western League,B00488,Hanford,,0,Omaha,,B51,
-1919Reach,1918,Western League,F20648,Hanford,,0,Omaha,,of51,
-1919Reach,1918,Western League,F21076,Harris,,0,Wichita,,p12,
-1919Reach,1918,Western League,P10320,Harris,,0,Wichita,,p,
-1919Reach,1918,Western League,B00680,Hartford,,0,Des Moines,,B38,
-1919Reach,1918,Western League,F20458,Hartford,,0,Des Moines,,ss38,
-1919Reach,1918,Western League,F20547,Hauger,,1,Topeka,,of,
-1919Reach,1918,Western League,F20547,Hauger,,2,Hutchinson,,of,
-1919Reach,1918,Western League,F20547,Hauger,,T,,,of14,
-1919Reach,1918,Western League,P10062,Hewitt,,0,Oklahoma City,,p,
-1919Reach,1918,Western League,B00760,Holderman,,0,Omaha,,B52,
-1919Reach,1918,Western League,F20620,Holderman,,0,Omaha,,of52,
-1919Reach,1918,Western League,B00566,Hovlik,,0,Wichita,,B22,
-1919Reach,1918,Western League,F21000,Hovlik,,0,Wichita,,p21,
-1919Reach,1918,Western League,P10113,Hovlik,,0,Wichita,,p,
-1919Reach,1918,Western League,F21059,Hubbel,,0,Joplin,,p20,
-1919Reach,1918,Western League,B00590,Hubbell,,0,Joplin,,B22,
-1919Reach,1918,Western League,P10289,Hubbell,,0,Joplin,,p,
-1919Reach,1918,Western League,B00084,Hulswitt,,0,Joplin,,B27,
-1919Reach,1918,Western League,F20153,Hulswitt,,0,Joplin,,2b21,
-1919Reach,1918,Western League,B00531,Hunter,F.,0,Sioux City,,B51,
-1919Reach,1918,Western League,B00811,Hunter,,0,Des Moines,,B57,
-1919Reach,1918,Western League,F20023,Hunter,F.,0,Sioux City,,1b51,
-1919Reach,1918,Western League,F20594,Hunter,,0,Des Moines,,of57,
-1919Reach,1918,Western League,B00343,Jackson,,0,Omaha,,B55,
-1919Reach,1918,Western League,F20080,Jackson,,0,Omaha,,1b55,
-1919Reach,1918,Western League,P10575,Javaux,,0,Hutchinson,,p,
-1919Reach,1918,Western League,B00898,Jaynes,,1,Topeka,,,
-1919Reach,1918,Western League,B00898,Jaynes,,2,Hutchinson,,,
-1919Reach,1918,Western League,B00898,Jaynes,,T,,,B21,
-1919Reach,1918,Western League,F20997,Jaynes,,1,Topeka,,p,
-1919Reach,1918,Western League,F20997,Jaynes,,2,Hutchinson,,p,
-1919Reach,1918,Western League,F20997,Jaynes,,T,,,p12,
-1919Reach,1918,Western League,P10312,Jaynes,,1,Topeka,,p,
-1919Reach,1918,Western League,P10312,Jaynes,,2,Hutchinson,,p,
-1919Reach,1918,Western League,P10312,Jaynes,,T,,,p,
-1919Reach,1918,Western League,B00013,Jones,,0,Wichita,,B17,
-1919Reach,1918,Western League,B00783,Jones,,0,Sioux City,,B51,
-1919Reach,1918,Western League,F20038,Jones,,0,Wichita,,1b17,
-1919Reach,1918,Western League,F20401,Jones,,0,Sioux City,,ss43,
-1919Reach,1918,Western League,B00936,Kelly,,0,Omaha,,B20,
-1919Reach,1918,Western League,F20878,Kelly,,0,Omaha,,c20,
-1919Reach,1918,Western League,B00229,Kiltz,,0,Oklahoma City,,B45,
-1919Reach,1918,Western League,B00182,Kirkham,,0,St. Joseph,,B45,
-1919Reach,1918,Western League,F20759,Kirkham,,0,St. Joseph,,of45,
-1919Reach,1918,Western League,B00125,Koestner,,0,Wichita,,B26,
-1919Reach,1918,Western League,F21013,Koestner,,0,Wichita,,p14,
-1919Reach,1918,Western League,P10056,Koestner,,0,Wichita,,p,
-1919Reach,1918,Western League,P10550,Kolls,,0,Wichita,,p,
-1919Reach,1918,Western League,B00705,Kopp,,0,Omaha,,B20,
-1919Reach,1918,Western League,F21092,Kopp,,0,Omaha,,p20,
-1919Reach,1918,Western League,P10244,Kopp,,0,Omaha,,p,
-1919Reach,1918,Western League,B00577,Kotzelnick,,1,Topeka,,,
-1919Reach,1918,Western League,B00577,Kotzelnick,,2,Hutchinson,,,
-1919Reach,1918,Western League,B00577,Kotzelnick,,T,,,B17,
-1919Reach,1918,Western League,F21021,Kotzelnick,,1,Topeka,,p,
-1919Reach,1918,Western League,F21021,Kotzelnick,,2,Hutchinson,,p,
-1919Reach,1918,Western League,F21021,Kotzelnick,,T,,,p15,
-1919Reach,1918,Western League,P10121,Kotzelnick,,1,Topeka,,p,
-1919Reach,1918,Western League,P10121,Kotzelnick,,2,Hutchinson,,p,
-1919Reach,1918,Western League,P10121,Kotzelnick,,T,,,p,
-1919Reach,1918,Western League,B00544,Lamb,,0,Joplin,,B53,
-1919Reach,1918,Western League,F20388,Lamb,,0,Joplin,,ss31,
-1919Reach,1918,Western League,B00752,Lewellyn,,0,Des Moines,,B38,
-1919Reach,1918,Western League,F20893,Lingle,,0,Omaha,,c12,
-1919Reach,1918,Western League,F20943,Llewellyn,,0,Des Moines,,c34,
-1919Reach,1918,Western League,P10486,Long,,1,Sioux City,,p,
-1919Reach,1918,Western League,P10486,Long,,2,Topeka,,p,
-1919Reach,1918,Western League,P10486,Long,,3,Hutchinson,,p,
-1919Reach,1918,Western League,P10486,Long,,4,Des Moines,,p,
-1919Reach,1918,Western League,P10486,Long,,T,,,p,
-1919Reach,1918,Western League,F21229,Luschen,,0,St. Joseph,,p14,
-1919Reach,1918,Western League,P10202,Luschen,,0,St. Joseph,,p,
-1919Reach,1918,Western League,B00887,Lyck,,0,Sioux City,,B40,
-1919Reach,1918,Western League,F20956,Lyck,,0,Sioux City,,c33,
-1919Reach,1918,Western League,P10429,Lynch,,0,Des Moines,,p,
-1919Reach,1918,Western League,P10373,Lyons,,0,Wichita,,p,
-1919Reach,1918,Western League,B00948,Manion,,0,Hutchinson,,B52,
-1919Reach,1918,Western League,F20832,Manion,,0,Hutchinson,,c50,
-1919Reach,1918,Western League,P10410,Manske,,0,Omaha,,p,
-1919Reach,1918,Western League,P10100,Mapel,,0,Joplin,,p,
-1919Reach,1918,Western League,B00356,Marr,,0,Wichita,,B59,
-1919Reach,1918,Western League,F20316,Marr,,0,Wichita,,3b45,
-1919Reach,1918,Western League,B00255,McBride,,0,Wichita,,B57,
-1919Reach,1918,Western League,B00037,McClelland,,0,Oklahoma City,,B52,
-1919Reach,1918,Western League,F20417,McClelland,,0,Oklahoma City,,ss43,
-1919Reach,1918,Western League,B00840,McGrainor,,0,Sioux City,,B17,
-1919Reach,1918,Western League,F21232,McGrainor,,0,Sioux City,,p10,
-1919Reach,1918,Western League,P10432,McGranor,,0,Sioux City,,p,
-1919Reach,1918,Western League,B00999,McLaughlin,,0,St. Joseph,,B15,
-1919Reach,1918,Western League,F21045,McLaughlin,,0,St. Joseph,,p15,
-1919Reach,1918,Western League,P10478,McLaughlin,,0,St. Joseph,,p,
-1919Reach,1918,Western League,B00264,McMenemy,,0,Omaha,,B17,
-1919Reach,1918,Western League,F20919,McMenemy,,0,Omaha,,c15,
-1919Reach,1918,Western League,P10407,Meadows,,0,Oklahoma City,,p,
-1919Reach,1918,Western League,F21196,Merz,,0,Omaha,,p12,
-1919Reach,1918,Western League,P10228,Merz,,0,Omaha,,p,
-1919Reach,1918,Western League,B00553,Metz,,0,Joplin,,B54,
-1919Reach,1918,Western League,F20072,Metz,,0,Joplin,,1b54,
-1919Reach,1918,Western League,B00232,Meyers,,1,Topeka,,,
-1919Reach,1918,Western League,B00232,Meyers,,2,Hutchinson,,,
-1919Reach,1918,Western League,B00232,Meyers,,T,,,B22,
-1919Reach,1918,Western League,F20700,Meyers,,1,Topeka,,of,
-1919Reach,1918,Western League,F20700,Meyers,,2,Hutchinson,,of,
-1919Reach,1918,Western League,F20700,Meyers,,T,,,of22,
-1919Reach,1918,Western League,F21163,Meyers,,0,Sioux City,,p12,
-1919Reach,1918,Western League,P10503,Meyers,,0,Sioux City,,p,
-1919Reach,1918,Western League,B00293,Miller,,0,Joplin,,B39,
-1919Reach,1918,Western League,F20552,Miller,,0,Joplin,,of39,
-1919Reach,1918,Western League,B00491,Mueller,,0,St. Joseph,,B54,
-1919Reach,1918,Western League,F20067,Mueller,,0,St. Joseph,,1b52,
-1919Reach,1918,Western League,B00427,Murphy,,0,Des Moines,,B57,
-1919Reach,1918,Western League,F20233,Murphy,,0,St. Joseph,,3b10,
-1919Reach,1918,Western League,F20661,Murphy,,0,Des Moines,,of47,
-1919Reach,1918,Western League,B00973,Musser,,0,Des Moines,,B15,
-1919Reach,1918,Western League,F21101,Musser,,0,Des Moines,,p15,
-1919Reach,1918,Western League,P10304,Musser,,0,Des Moines,,p,
-1919Reach,1918,Western League,P10588,Nabors,,0,Sioux City,,p,
-1919Reach,1918,Western League,B00416,Nee,,0,Hutchinson,,B59,
-1919Reach,1918,Western League,F20190,Nee,,0,Hutchinson,,2b59,
-1919Reach,1918,Western League,B00324,Nolte,,0,Hutchinson,,B49,
-1919Reach,1918,Western League,F20539,Nolte,,0,Hutchinson,,of48,
-1919Reach,1918,Western League,B00879,Nye,,0,Omaha,,B19,
-1919Reach,1918,Western League,F20206,Nye,,0,Omaha,,2b10,
-1919Reach,1918,Western League,B00059,O'Connor,,0,Oklahoma City,,B15,
-1919Reach,1918,Western League,F20855,O'Connor,,0,Oklahoma City,,c20,
-1919Reach,1918,Western League,P10097,O'Toole,,0,Omaha,,p,
-1919Reach,1918,Western League,B00794,Pettigrew,,0,Hutchinson,,B19,
-1919Reach,1918,Western League,F20737,Pettigrew,,0,Hutchinson,,of19,
-1919Reach,1918,Western League,B00833,Phillips,,0,Des Moines,,B39,
-1919Reach,1918,Western League,F20375,Phillips,,0,Des Moines,,ss18,
-1919Reach,1918,Western League,F21130,Phillips,,0,Des Moines,,p14,
-1919Reach,1918,Western League,P10192,Phillips,,0,Des Moines,,p,
-1919Reach,1918,Western League,B00021,Pitts,,1,Hutchinson,,,
-1919Reach,1918,Western League,B00021,Pitts,,2,Oklahoma City,,,
-1919Reach,1918,Western League,B00021,Pitts,,T,,,B45,
-1919Reach,1918,Western League,F20721,Pitts,,1,Hutchinson,,of,
-1919Reach,1918,Western League,F20721,Pitts,,2,Oklahoma City,,of,
-1919Reach,1918,Western League,F20721,Pitts,,T,,,of44,
-1919Reach,1918,Western League,F20935,Pratt,,0,Omaha,,c10,
-1919Reach,1918,Western League,P10019,Reeb,,0,Oklahoma City,,p,
-1919Reach,1918,Western League,B00163,Reichle,,0,Sioux City,,B50,
-1919Reach,1918,Western League,F20636,Reichle,,0,Sioux City,,of50,
-1919Reach,1918,Western League,B00045,Roche,,1,Topeka,,,
-1919Reach,1918,Western League,B00045,Roche,,2,Hutchinson,,,
-1919Reach,1918,Western League,B00045,Roche,,T,,,B17,
-1919Reach,1918,Western League,B00747,Rohrer,,0,Sioux City,,B19,
-1919Reach,1918,Western League,F20924,Rohrer,,0,Sioux City,,c18,
-1919Reach,1918,Western League,B00638,Salisbury,,1,Topeka,,,
-1919Reach,1918,Western League,B00638,Salisbury,,2,Hutchinson,,,
-1919Reach,1918,Western League,B00638,Salisbury,,T,,,B20,
-1919Reach,1918,Western League,F21068,Salisbury,,1,Topeka,,p,
-1919Reach,1918,Western League,F21068,Salisbury,,2,Hutchinson,,p,
-1919Reach,1918,Western League,F21068,Salisbury,,T,,,p19,
-1919Reach,1918,Western League,P10184,Salisbury,,1,Topeka,,p,
-1919Reach,1918,Western League,P10184,Salisbury,,2,Hutchinson,,p,
-1919Reach,1918,Western League,P10184,Salisbury,,T,,,p,
-1919Reach,1918,Western League,P10277,Sanders,,0,Joplin,,p,
-1919Reach,1918,Western League,B00207,Shanley,,0,Des Moines,,B23,
-1919Reach,1918,Western League,F20046,Shanley,,0,Des Moines,,1b23,
-1919Reach,1918,Western League,B00362,Smith,,0,Sioux City,,B51,
-1919Reach,1918,Western League,F20131,Smith,,0,Sioux City,,2b46,
-1919Reach,1918,Western League,B00771,Snead,,0,St.  Joseph,,B45,
-1919Reach,1918,Western League,F20128,Snead,,0,St. Joseph,,2b13,
-1919Reach,1918,Western League,F20279,Snead,,0,St. Joseph,,3b29,
-1919Reach,1918,Western League,B01010,Sparks,,1,Hutchinson,,,
-1919Reach,1918,Western League,B01010,Sparks,,2,Oklahoma City,,,
-1919Reach,1918,Western League,B01010,Sparks,,T,,,B15,
-1919Reach,1918,Western League,F21182,Sparks,,1,Hutchinson,,p,
-1919Reach,1918,Western League,F21182,Sparks,,2,Oklahoma City,,p,
-1919Reach,1918,Western League,F21182,Sparks,,T,,,p13,
-1919Reach,1918,Western League,P10399,Sparks,,1,Wichita,,p,
-1919Reach,1918,Western League,P10399,Sparks,,2,Oklahoma City,,p,
-1919Reach,1918,Western League,P10399,Sparks,,T,,,p,
-1919Reach,1918,Western League,B00672,St. John,,1,Joplin,,,
-1919Reach,1918,Western League,B00672,St. John,,2,Des Moines,,,
-1919Reach,1918,Western League,B00672,St. John,,T,,,B26,
-1919Reach,1918,Western League,F20784,St. John,,1,Joplin,,of,
-1919Reach,1918,Western League,F20784,St. John,,2,Des Moines,,of,
-1919Reach,1918,Western League,F20784,St. John,,T,,,of23,
-1919Reach,1918,Western League,P10534,Steward,,0,Joplin,,p,
-1919Reach,1918,Western League,B00308,Stewart,,0,Des Moines,,B29,
-1919Reach,1918,Western League,F20342,Stewart,,0,Des Moines,,3b29,
-1919Reach,1918,Western League,B00865,Striegel,,0,Sioux City,,B30,
-1919Reach,1918,Western League,F20303,Striegel,,0,Sioux City,,3b28,
-1919Reach,1918,Western League,B00957,Tedeschi,,1,Hutchinson,,,
-1919Reach,1918,Western League,B00957,Tedeschi,,2,Oklahoma City,,,
-1919Reach,1918,Western League,B00957,Tedeschi,,T,,,B21,
-1919Reach,1918,Western League,F21174,Tedeschi,,1,Hutchinson,,p,
-1919Reach,1918,Western League,F21174,Tedeschi,,2,Oklahoma City,,p,
-1919Reach,1918,Western League,F21174,Tedeschi,,T,,,p21,
-1919Reach,1918,Western League,P10176,Tedeschi,,1,Hutchinson,,p,
-1919Reach,1918,Western League,P10176,Tedeschi,,2,Oklahoma City,,p,
-1919Reach,1918,Western League,P10176,Tedeschi,,T,,,p,
-1919Reach,1918,Western League,P10516,Thieman,,0,St. Joseph,,p,
-1919Reach,1918,Western League,B00196,Thomason,,0,Sioux City,,B48,
-1919Reach,1918,Western League,F20713,Thomason,,0,Sioux City,,of48,
-1919Reach,1918,Western League,B00726,Thompson,F.,0,Joplin,,B52,
-1919Reach,1918,Western League,F20327,Thompson,F.,0,Joplin,,3b52,
-1919Reach,1918,Western League,P10024,Thompson,,0,Omaha,,p,
-1919Reach,1918,Western League,P10527,Thompson,H.,0,Joplin,,p,
-1919Reach,1918,Western League,B00370,Trainer,,1,Topeka,,,
-1919Reach,1918,Western League,B00370,Trainer,,2,Hutchinson,,,
-1919Reach,1918,Western League,B00370,Trainer,,T,,,B49,
-1919Reach,1918,Western League,F20673,Trainer,,1,Topeka,,of,
-1919Reach,1918,Western League,F20673,Trainer,,2,Hutchinson,,of,
-1919Reach,1918,Western League,F20673,Trainer,,T,,,of49,
-1919Reach,1918,Western League,P10145,Vangilder,,0,Omaha,,p,
-1919Reach,1918,Western League,P10035,Voorhees,,0,Joplin,,p,
-1919Reach,1918,Western League,F20970,Waldbauer,,0,Wichita,,p10,
-1919Reach,1918,Western League,P10168,Waldbauer,,0,Wichita,,p,
-1919Reach,1918,Western League,F20908,Wallen,,0,Wichita,,c32,
-1919Reach,1918,Western League,B00718,Wallin,,0,Wichita,,B35,
-1919Reach,1918,Western League,B00101,Washburn,,0,Wichita,,B53,
-1919Reach,1918,Western League,F20051,Washburn,,0,Wichita,,1b24,
-1919Reach,1918,Western League,F20222,Washburn,,0,Wichita,,2b12,
-1919Reach,1918,Western League,F20334,Washburn,,0,Wichita,,3b16,
-1919Reach,1918,Western League,P10542,Waswo,,0,St. Joseph,,p,
-1919Reach,1918,Western League,B00381,Watson,,0,St. Joseph,,B55,
-1919Reach,1918,Western League,F20768,Watson,,0,St. Joseph,,of54,
-1919Reach,1918,Western League,F20526,Williams,,0,Omaha,,of55,
-1919Reach,1918,Western League,B00286,Wolfe,,0,Wichita,,B47,
-1919Reach,1918,Western League,F20518,Wolfe,,0,Wichita,,of47,
-1919Reach,1918,Western League,B00651,Wright,,0,Des Moines,,B19,
-1919Reach,1918,Western League,F20298,Wright,,0,Des Moines,,3b18,
-1919Reach,1918,Western League,B00117,Wuffli,,0,Hutchinson,,B42,
-1919Reach,1918,Western League,F20240,Wuffli,,0,Hutchinson,,3b25,
-1919Reach,1918,Western League,F20350,Wuffli,,0,Hutchinson,,ss14,
-1919Reach,1918,Western League,B00609,Yaryan,,0,Wichita,,B51,
-1919Reach,1918,Western League,F20505,Yaryan,,0,Wichita,,of10,
-1919Reach,1918,Western League,F20829,Yaryan,,0,Wichita,,c30,
-1919Reach,1918,Western League,P10591,Yellowhorse,,0,Des Moines,,p,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+1919Reach,1918,Western League,,B00614,Agnew,,0,Joplin,,B17
+1919Reach,1918,Western League,,F20496,Agnew,,0,Joplin,,of10
+1919Reach,1918,Western League,,B00904,Allison,,0,Sioux City,,B20
+1919Reach,1918,Western League,,F20981,Allison,,0,Sioux City,,p17
+1919Reach,1918,Western League,,P10159,Allison,,0,Sioux City,,p
+1919Reach,1918,Western League,,B00646,Bachant,,0,St. Joseph,,B50
+1919Reach,1918,Western League,,F20841,Bachant,,0,St. Joseph,,c49
+1919Reach,1918,Western League,,B00695,Banner,,1,Hutchinson,,
+1919Reach,1918,Western League,,B00695,Banner,,2,Oklahoma City,,
+1919Reach,1918,Western League,,B00695,Banner,,T,,,B45
+1919Reach,1918,Western League,,F20886,Banner,,1,Hutchinson,,c
+1919Reach,1918,Western League,,F20886,Banner,,2,Oklahoma City,,c
+1919Reach,1918,Western League,,F20886,Banner,,T,,,c42
+1919Reach,1918,Western League,,B00589,Bashang,,0,Omaha,,B55
+1919Reach,1918,Western League,,B00515,Benson,,0,Oklahoma City,,B60
+1919Reach,1918,Western League,,F20115,Benson,,0,Oklahoma City,,2b60
+1919Reach,1918,Western League,,F21158,Bentley,P.,1,Hutchinson,,p
+1919Reach,1918,Western League,,F21158,Bentley,P.,2,Oklahoma City,,p
+1919Reach,1918,Western League,,F21158,Bentley,P.,T,,,p11
+1919Reach,1918,Western League,,P10215,Bentley,R.,1,Hutchinson,,p
+1919Reach,1918,Western League,,P10215,Bentley,R.,2,Oklahoma City,,p
+1919Reach,1918,Western League,,P10215,Bentley,R.,T,,,p
+1919Reach,1918,Western League,,B00174,Berger,,0,Wichita,,B61
+1919Reach,1918,Western League,,F20369,Berger,,0,Wichita,,ss56
+1919Reach,1918,Western League,,P10348,Black,,1,Wichita,,p
+1919Reach,1918,Western League,,P10348,Black,,2,Hutchinson,,p
+1919Reach,1918,Western League,,P10348,Black,,T,,,p
+1919Reach,1918,Western League,,B00076,Block,,0,Hutchinson,,B38
+1919Reach,1918,Western League,,F20776,Block,,0,Hutchinson,,of22
+1919Reach,1918,Western League,,F20810,Block,,0,Hutchinson,,c10
+1919Reach,1918,Western League,,F21037,Bluejacket,,0,St. Joseph,,p12
+1919Reach,1918,Western League,,P10043,Bluejacket,,0,St. Joseph,,p
+1919Reach,1918,Western League,,B00475,Boehler,,0,Joplin,,B26
+1919Reach,1918,Western League,,F20699,Boehler,,0,Joplin,,of18
+1919Reach,1918,Western League,,P10464,Boehler,,0,Joplin,,p
+1919Reach,1918,Western League,,B00854,Bonovitz,,0,St. Joseph,,B27
+1919Reach,1918,Western League,,F20792,Bonovitz,,0,St. Joseph,,of11
+1919Reach,1918,Western League,,B00403,Bradley,,0,Hutchinson,,B59
+1919Reach,1918,Western League,,F20014,Bradley,,0,Hutchinson,,1b59
+1919Reach,1918,Western League,,B00130,Brandt,,0,Joplin,,B21
+1919Reach,1918,Western League,,F20463,Brandt,,0,Joplin,,ss21
+1919Reach,1918,Western League,,B00469,Breem,,0,Des Moines,,B51
+1919Reach,1918,Western League,,F20102,Breen,,0,Des Moines,,1b17
+1919Reach,1918,Western League,,F20962,Breen,,0,Des Moines,,c27
+1919Reach,1918,Western League,,B00319,Briebeck,,1,Hutchinson,,
+1919Reach,1918,Western League,,B00319,Briebeck,,2,Oklahoma City,,
+1919Reach,1918,Western League,,B00319,Briebeck,,T,,,B39
+1919Reach,1918,Western League,,F20095,Briebeck,,1,Hutchinson,,1b
+1919Reach,1918,Western League,,F20095,Briebeck,,2,Omaha,,1b
+1919Reach,1918,Western League,,F20095,Briebeck,,T,,,1b39
+1919Reach,1918,Western League,,B00961,Brokaw,,0,Joplin,,B18
+1919Reach,1918,Western League,,F20583,Brokaw,,0,Joplin,,of18
+1919Reach,1918,Western League,,B00502,Brubaker,,0,St. Joseph,,B48
+1919Reach,1918,Western League,,F20425,Brubaker,,0,St. Joseph,,ss46
+1919Reach,1918,Western League,,B00434,Callahan,,0,Omaha,,B46
+1919Reach,1918,Western League,,F20211,Callahan,,0,Omaha,,2b24
+1919Reach,1918,Western League,,F20391,Callahan,,0,Omaha,,ss19
+1919Reach,1918,Western League,,B00806,Caporal,,0,Joplin,,B15
+1919Reach,1918,Western League,,P10336,Caporal,,0,Joplin,,p
+1919Reach,1918,Western League,,B00335,Carey,,0,Wichita,,B48
+1919Reach,1918,Western League,,F20177,Carey,,0,Wichita,,2b47
+1919Reach,1918,Western League,,B00739,Carlisle,,0,Joplin,,B53
+1919Reach,1918,Western League,,F20571,Carlisle,,0,Joplin,,of53
+1919Reach,1918,Western League,,B00092,Cass,,0,Des Moines,,B24
+1919Reach,1918,Western League,,F20685,Cass,,0,Des Moines,,of24
+1919Reach,1918,Western League,,B00450,Cleveland,,0,Hutchinson,,B59
+1919Reach,1918,Western League,,F20254,Cleveland,,0,Hutchinson,,3b23
+1919Reach,1918,Western League,,F20430,Cleveland,,0,Hutchinson,,ss36
+1919Reach,1918,Western League,,B00149,Coffey,,0,Des Moines,,B57
+1919Reach,1918,Western League,,F20166,Coffey,,0,Des Moines,,2b57
+1919Reach,1918,Western League,,B00442,Collins,,0,Joplin,,B51
+1919Reach,1918,Western League,,F20864,Collins,,0,Joplin,,c51
+1919Reach,1918,Western League,,F20265,Conroy,,0,Oklahoma City,,3b58
+1919Reach,1918,Western League,,B00822,Cooney,,0,St. Joseph,,B49
+1919Reach,1918,Western League,,F20144,Cooney,,0,St. Joseph,,2b41
+1919Reach,1918,Western League,,P10441,Corey,,1,Omaha,,p
+1919Reach,1918,Western League,,P10441,Corey,,2,Des Moines,,p
+1919Reach,1918,Western League,,P10441,Corey,,T,,,p
+1919Reach,1918,Western League,,B00528,Corrie,,1,Omaha,,
+1919Reach,1918,Western League,,B00528,Corrie,,2,Des Moines,,
+1919Reach,1918,Western League,,B00528,Corrie,,T,,,B15
+1919Reach,1918,Western League,,F20560,Coy,,0,Wichita,,of59
+1919Reach,1918,Western League,,F20657,Craig,,0,Sioux City,,of11
+1919Reach,1918,Western League,,P10137,Crutcher,,0,Joplin,,p
+1919Reach,1918,Western League,,F21210,Currie,,1,Omaha,,p
+1919Reach,1918,Western League,,F21210,Currie,,2,Des Moines,,p
+1919Reach,1918,Western League,,F21210,Currie,,T,,,p14
+1919Reach,1918,Western League,,F21125,Curtis,,0,St. Joseph,,p12
+1919Reach,1918,Western League,,P10357,Curtis,,0,St. Joseph,,p
+1919Reach,1918,Western League,,B00210,Daniels,,0,St. Joseph,,B54
+1919Reach,1918,Western League,,F20745,Daniels,,0,St. Joseph,,of52
+1919Reach,1918,Western League,,P10493,Davis,,1,Hutchinson,,p
+1919Reach,1918,Western League,,P10493,Davis,,2,Oklahoma City,,p
+1919Reach,1918,Western League,,P10493,Davis,,T,,,p
+1919Reach,1918,Western League,,B00623,Decker,,0,Joplin,,B17
+1919Reach,1918,Western League,,F20482,Decker,,0,Joplin,,of20
+1919Reach,1918,Western League,,B00397,Defate,,0,Omaha,,B55
+1919Reach,1918,Western League,,F20189,Defate,,0,Omaha,,2b21
+1919Reach,1918,Western League,,F20449,Defate,,0,Omaha,,ss34
+1919Reach,1918,Western League,,B00985,Delburn,,0,Des Moines,,B22
+1919Reach,1918,Western League,,P10081,Delburn,,0,Des Moines,,p
+1919Reach,1918,Western League,,F21149,Dellwin,,0,Des Moines,,p22
+1919Reach,1918,Western League,,F20612,Diltz,,0,Oklahoma City,,of55
+1919Reach,1918,Western League,,B00241,Donica,,0,Omaha,,B55
+1919Reach,1918,Western League,,F20287,Donica,,0,Omaha,,3b51
+1919Reach,1918,Western League,,B01007,Dressen,,0,Des Moines,,B24
+1919Reach,1918,Western League,,F21207,Dressen,,0,Des Moines,,p18
+1919Reach,1918,Western League,,P10231,Dressen,,0,Des Moines,,p
+1919Reach,1918,Western League,,B00912,Dye,,0,Sioux City,,B16
+1919Reach,1918,Western League,,B00278,Falk,,0,Oklahoma City,,B56
+1919Reach,1918,Western League,,F20474,Falk,,0,Oklahoma City,,ss16
+1919Reach,1918,Western League,,F20807,Falk,,0,Oklahoma City,,of32
+1919Reach,1918,Western League,,B00068,Farrell,,0,Sioux City,,B28
+1919Reach,1918,Western League,,F20604,Farrell,,0,Sioux City,,of21
+1919Reach,1918,Western League,,B00920,Fletcher,,0,Sioux City,,B16
+1919Reach,1918,Western League,,F21084,Fletcher,,0,Sioux City,,p16
+1919Reach,1918,Western League,,P10455,Fletcher,,0,Sioux City,,p
+1919Reach,1918,Western League,,P10361,Fuhr,,0,Omaha,,p
+1919Reach,1918,Western League,,P10385,Gaspar,,0,St. Joseph,,p
+1919Reach,1918,Western League,,P10569,Glahn,,1,Topeka,,p
+1919Reach,1918,Western League,,P10569,Glahn,,2,Hutchinson,,p
+1919Reach,1918,Western League,,P10569,Glahn,,T,,,p
+1919Reach,1918,Western League,,B00667,Graham,,1,Hutchinson,,
+1919Reach,1918,Western League,,B00667,Graham,,2,Oklahoma City,,
+1919Reach,1918,Western League,,B00667,Graham,,T,,,B25
+1919Reach,1918,Western League,,F21117,Graham,,1,Hutchinson,,p
+1919Reach,1918,Western League,,F21117,Graham,,2,Oklahoma City,,p
+1919Reach,1918,Western League,,F21117,Graham,,T,,,p25
+1919Reach,1918,Western League,,P10290,Graham,,1,Hutchinson,,p
+1919Reach,1918,Western League,,P10290,Graham,,2,Oklahoma City,,p
+1919Reach,1918,Western League,,P10290,Graham,,T,,,p
+1919Reach,1918,Western League,,B00158,Haines,,1,Topeka,,
+1919Reach,1918,Western League,,B00158,Haines,,2,Hutchinson,,
+1919Reach,1918,Western League,,B00158,Haines,,T,,,B22
+1919Reach,1918,Western League,,P10070,Haines,,1,Topeka,,p
+1919Reach,1918,Western League,,P10070,Haines,,2,Hutchinson,,p
+1919Reach,1918,Western League,,P10070,Haines,,T,,,p
+1919Reach,1918,Western League,,P10253,Hale,,0,Omaha,,p
+1919Reach,1918,Western League,,P10266,Hall,,0,Joplin,,p
+1919Reach,1918,Western League,,B00488,Hanford,,0,Omaha,,B51
+1919Reach,1918,Western League,,F20648,Hanford,,0,Omaha,,of51
+1919Reach,1918,Western League,,F21076,Harris,,0,Wichita,,p12
+1919Reach,1918,Western League,,P10320,Harris,,0,Wichita,,p
+1919Reach,1918,Western League,,B00680,Hartford,,0,Des Moines,,B38
+1919Reach,1918,Western League,,F20458,Hartford,,0,Des Moines,,ss38
+1919Reach,1918,Western League,,F20547,Hauger,,1,Topeka,,of
+1919Reach,1918,Western League,,F20547,Hauger,,2,Hutchinson,,of
+1919Reach,1918,Western League,,F20547,Hauger,,T,,,of14
+1919Reach,1918,Western League,,P10062,Hewitt,,0,Oklahoma City,,p
+1919Reach,1918,Western League,,B00760,Holderman,,0,Omaha,,B52
+1919Reach,1918,Western League,,F20620,Holderman,,0,Omaha,,of52
+1919Reach,1918,Western League,,B00566,Hovlik,,0,Wichita,,B22
+1919Reach,1918,Western League,,F21000,Hovlik,,0,Wichita,,p21
+1919Reach,1918,Western League,,P10113,Hovlik,,0,Wichita,,p
+1919Reach,1918,Western League,,F21059,Hubbel,,0,Joplin,,p20
+1919Reach,1918,Western League,,B00590,Hubbell,,0,Joplin,,B22
+1919Reach,1918,Western League,,P10289,Hubbell,,0,Joplin,,p
+1919Reach,1918,Western League,,B00084,Hulswitt,,0,Joplin,,B27
+1919Reach,1918,Western League,,F20153,Hulswitt,,0,Joplin,,2b21
+1919Reach,1918,Western League,,B00531,Hunter,F.,0,Sioux City,,B51
+1919Reach,1918,Western League,,B00811,Hunter,,0,Des Moines,,B57
+1919Reach,1918,Western League,,F20023,Hunter,F.,0,Sioux City,,1b51
+1919Reach,1918,Western League,,F20594,Hunter,,0,Des Moines,,of57
+1919Reach,1918,Western League,,B00343,Jackson,,0,Omaha,,B55
+1919Reach,1918,Western League,,F20080,Jackson,,0,Omaha,,1b55
+1919Reach,1918,Western League,,P10575,Javaux,,0,Hutchinson,,p
+1919Reach,1918,Western League,,B00898,Jaynes,,1,Topeka,,
+1919Reach,1918,Western League,,B00898,Jaynes,,2,Hutchinson,,
+1919Reach,1918,Western League,,B00898,Jaynes,,T,,,B21
+1919Reach,1918,Western League,,F20997,Jaynes,,1,Topeka,,p
+1919Reach,1918,Western League,,F20997,Jaynes,,2,Hutchinson,,p
+1919Reach,1918,Western League,,F20997,Jaynes,,T,,,p12
+1919Reach,1918,Western League,,P10312,Jaynes,,1,Topeka,,p
+1919Reach,1918,Western League,,P10312,Jaynes,,2,Hutchinson,,p
+1919Reach,1918,Western League,,P10312,Jaynes,,T,,,p
+1919Reach,1918,Western League,,B00013,Jones,,0,Wichita,,B17
+1919Reach,1918,Western League,,B00783,Jones,,0,Sioux City,,B51
+1919Reach,1918,Western League,,F20038,Jones,,0,Wichita,,1b17
+1919Reach,1918,Western League,,F20401,Jones,,0,Sioux City,,ss43
+1919Reach,1918,Western League,,B00936,Kelly,,0,Omaha,,B20
+1919Reach,1918,Western League,,F20878,Kelly,,0,Omaha,,c20
+1919Reach,1918,Western League,,B00229,Kiltz,,0,Oklahoma City,,B45
+1919Reach,1918,Western League,,B00182,Kirkham,,0,St. Joseph,,B45
+1919Reach,1918,Western League,,F20759,Kirkham,,0,St. Joseph,,of45
+1919Reach,1918,Western League,,B00125,Koestner,,0,Wichita,,B26
+1919Reach,1918,Western League,,F21013,Koestner,,0,Wichita,,p14
+1919Reach,1918,Western League,,P10056,Koestner,,0,Wichita,,p
+1919Reach,1918,Western League,,P10550,Kolls,,0,Wichita,,p
+1919Reach,1918,Western League,,B00705,Kopp,,0,Omaha,,B20
+1919Reach,1918,Western League,,F21092,Kopp,,0,Omaha,,p20
+1919Reach,1918,Western League,,P10244,Kopp,,0,Omaha,,p
+1919Reach,1918,Western League,,B00577,Kotzelnick,,1,Topeka,,
+1919Reach,1918,Western League,,B00577,Kotzelnick,,2,Hutchinson,,
+1919Reach,1918,Western League,,B00577,Kotzelnick,,T,,,B17
+1919Reach,1918,Western League,,F21021,Kotzelnick,,1,Topeka,,p
+1919Reach,1918,Western League,,F21021,Kotzelnick,,2,Hutchinson,,p
+1919Reach,1918,Western League,,F21021,Kotzelnick,,T,,,p15
+1919Reach,1918,Western League,,P10121,Kotzelnick,,1,Topeka,,p
+1919Reach,1918,Western League,,P10121,Kotzelnick,,2,Hutchinson,,p
+1919Reach,1918,Western League,,P10121,Kotzelnick,,T,,,p
+1919Reach,1918,Western League,,B00544,Lamb,,0,Joplin,,B53
+1919Reach,1918,Western League,,F20388,Lamb,,0,Joplin,,ss31
+1919Reach,1918,Western League,,B00752,Lewellyn,,0,Des Moines,,B38
+1919Reach,1918,Western League,,F20893,Lingle,,0,Omaha,,c12
+1919Reach,1918,Western League,,F20943,Llewellyn,,0,Des Moines,,c34
+1919Reach,1918,Western League,,P10486,Long,,1,Sioux City,,p
+1919Reach,1918,Western League,,P10486,Long,,2,Topeka,,p
+1919Reach,1918,Western League,,P10486,Long,,3,Hutchinson,,p
+1919Reach,1918,Western League,,P10486,Long,,4,Des Moines,,p
+1919Reach,1918,Western League,,P10486,Long,,T,,,p
+1919Reach,1918,Western League,,F21229,Luschen,,0,St. Joseph,,p14
+1919Reach,1918,Western League,,P10202,Luschen,,0,St. Joseph,,p
+1919Reach,1918,Western League,,B00887,Lyck,,0,Sioux City,,B40
+1919Reach,1918,Western League,,F20956,Lyck,,0,Sioux City,,c33
+1919Reach,1918,Western League,,P10429,Lynch,,0,Des Moines,,p
+1919Reach,1918,Western League,,P10373,Lyons,,0,Wichita,,p
+1919Reach,1918,Western League,,B00948,Manion,,0,Hutchinson,,B52
+1919Reach,1918,Western League,,F20832,Manion,,0,Hutchinson,,c50
+1919Reach,1918,Western League,,P10410,Manske,,0,Omaha,,p
+1919Reach,1918,Western League,,P10100,Mapel,,0,Joplin,,p
+1919Reach,1918,Western League,,B00356,Marr,,0,Wichita,,B59
+1919Reach,1918,Western League,,F20316,Marr,,0,Wichita,,3b45
+1919Reach,1918,Western League,,B00255,McBride,,0,Wichita,,B57
+1919Reach,1918,Western League,,B00037,McClelland,,0,Oklahoma City,,B52
+1919Reach,1918,Western League,,F20417,McClelland,,0,Oklahoma City,,ss43
+1919Reach,1918,Western League,,B00840,McGrainor,,0,Sioux City,,B17
+1919Reach,1918,Western League,,F21232,McGrainor,,0,Sioux City,,p10
+1919Reach,1918,Western League,,P10432,McGranor,,0,Sioux City,,p
+1919Reach,1918,Western League,,B00999,McLaughlin,,0,St. Joseph,,B15
+1919Reach,1918,Western League,,F21045,McLaughlin,,0,St. Joseph,,p15
+1919Reach,1918,Western League,,P10478,McLaughlin,,0,St. Joseph,,p
+1919Reach,1918,Western League,,B00264,McMenemy,,0,Omaha,,B17
+1919Reach,1918,Western League,,F20919,McMenemy,,0,Omaha,,c15
+1919Reach,1918,Western League,,P10407,Meadows,,0,Oklahoma City,,p
+1919Reach,1918,Western League,,F21196,Merz,,0,Omaha,,p12
+1919Reach,1918,Western League,,P10228,Merz,,0,Omaha,,p
+1919Reach,1918,Western League,,B00553,Metz,,0,Joplin,,B54
+1919Reach,1918,Western League,,F20072,Metz,,0,Joplin,,1b54
+1919Reach,1918,Western League,,B00232,Meyers,,1,Topeka,,
+1919Reach,1918,Western League,,B00232,Meyers,,2,Hutchinson,,
+1919Reach,1918,Western League,,B00232,Meyers,,T,,,B22
+1919Reach,1918,Western League,,F20700,Meyers,,1,Topeka,,of
+1919Reach,1918,Western League,,F20700,Meyers,,2,Hutchinson,,of
+1919Reach,1918,Western League,,F20700,Meyers,,T,,,of22
+1919Reach,1918,Western League,,F21163,Meyers,,0,Sioux City,,p12
+1919Reach,1918,Western League,,P10503,Meyers,,0,Sioux City,,p
+1919Reach,1918,Western League,,B00293,Miller,,0,Joplin,,B39
+1919Reach,1918,Western League,,F20552,Miller,,0,Joplin,,of39
+1919Reach,1918,Western League,,B00491,Mueller,,0,St. Joseph,,B54
+1919Reach,1918,Western League,,F20067,Mueller,,0,St. Joseph,,1b52
+1919Reach,1918,Western League,,B00427,Murphy,,0,Des Moines,,B57
+1919Reach,1918,Western League,,F20233,Murphy,,0,St. Joseph,,3b10
+1919Reach,1918,Western League,,F20661,Murphy,,0,Des Moines,,of47
+1919Reach,1918,Western League,,B00973,Musser,,0,Des Moines,,B15
+1919Reach,1918,Western League,,F21101,Musser,,0,Des Moines,,p15
+1919Reach,1918,Western League,,P10304,Musser,,0,Des Moines,,p
+1919Reach,1918,Western League,,P10588,Nabors,,0,Sioux City,,p
+1919Reach,1918,Western League,,B00416,Nee,,0,Hutchinson,,B59
+1919Reach,1918,Western League,,F20190,Nee,,0,Hutchinson,,2b59
+1919Reach,1918,Western League,,B00324,Nolte,,0,Hutchinson,,B49
+1919Reach,1918,Western League,,F20539,Nolte,,0,Hutchinson,,of48
+1919Reach,1918,Western League,,B00879,Nye,,0,Omaha,,B19
+1919Reach,1918,Western League,,F20206,Nye,,0,Omaha,,2b10
+1919Reach,1918,Western League,,B00059,O'Connor,,0,Oklahoma City,,B15
+1919Reach,1918,Western League,,F20855,O'Connor,,0,Oklahoma City,,c20
+1919Reach,1918,Western League,,P10097,O'Toole,,0,Omaha,,p
+1919Reach,1918,Western League,,B00794,Pettigrew,,0,Hutchinson,,B19
+1919Reach,1918,Western League,,F20737,Pettigrew,,0,Hutchinson,,of19
+1919Reach,1918,Western League,,B00833,Phillips,,0,Des Moines,,B39
+1919Reach,1918,Western League,,F20375,Phillips,,0,Des Moines,,ss18
+1919Reach,1918,Western League,,F21130,Phillips,,0,Des Moines,,p14
+1919Reach,1918,Western League,,P10192,Phillips,,0,Des Moines,,p
+1919Reach,1918,Western League,,B00021,Pitts,,1,Hutchinson,,
+1919Reach,1918,Western League,,B00021,Pitts,,2,Oklahoma City,,
+1919Reach,1918,Western League,,B00021,Pitts,,T,,,B45
+1919Reach,1918,Western League,,F20721,Pitts,,1,Hutchinson,,of
+1919Reach,1918,Western League,,F20721,Pitts,,2,Oklahoma City,,of
+1919Reach,1918,Western League,,F20721,Pitts,,T,,,of44
+1919Reach,1918,Western League,,F20935,Pratt,,0,Omaha,,c10
+1919Reach,1918,Western League,,P10019,Reeb,,0,Oklahoma City,,p
+1919Reach,1918,Western League,,B00163,Reichle,,0,Sioux City,,B50
+1919Reach,1918,Western League,,F20636,Reichle,,0,Sioux City,,of50
+1919Reach,1918,Western League,,B00045,Roche,,1,Topeka,,
+1919Reach,1918,Western League,,B00045,Roche,,2,Hutchinson,,
+1919Reach,1918,Western League,,B00045,Roche,,T,,,B17
+1919Reach,1918,Western League,,B00747,Rohrer,,0,Sioux City,,B19
+1919Reach,1918,Western League,,F20924,Rohrer,,0,Sioux City,,c18
+1919Reach,1918,Western League,,B00638,Salisbury,,1,Topeka,,
+1919Reach,1918,Western League,,B00638,Salisbury,,2,Hutchinson,,
+1919Reach,1918,Western League,,B00638,Salisbury,,T,,,B20
+1919Reach,1918,Western League,,F21068,Salisbury,,1,Topeka,,p
+1919Reach,1918,Western League,,F21068,Salisbury,,2,Hutchinson,,p
+1919Reach,1918,Western League,,F21068,Salisbury,,T,,,p19
+1919Reach,1918,Western League,,P10184,Salisbury,,1,Topeka,,p
+1919Reach,1918,Western League,,P10184,Salisbury,,2,Hutchinson,,p
+1919Reach,1918,Western League,,P10184,Salisbury,,T,,,p
+1919Reach,1918,Western League,,P10277,Sanders,,0,Joplin,,p
+1919Reach,1918,Western League,,B00207,Shanley,,0,Des Moines,,B23
+1919Reach,1918,Western League,,F20046,Shanley,,0,Des Moines,,1b23
+1919Reach,1918,Western League,,B00362,Smith,,0,Sioux City,,B51
+1919Reach,1918,Western League,,F20131,Smith,,0,Sioux City,,2b46
+1919Reach,1918,Western League,,B00771,Snead,,0,St.  Joseph,,B45
+1919Reach,1918,Western League,,F20128,Snead,,0,St. Joseph,,2b13
+1919Reach,1918,Western League,,F20279,Snead,,0,St. Joseph,,3b29
+1919Reach,1918,Western League,,B01010,Sparks,,1,Hutchinson,,
+1919Reach,1918,Western League,,B01010,Sparks,,2,Oklahoma City,,
+1919Reach,1918,Western League,,B01010,Sparks,,T,,,B15
+1919Reach,1918,Western League,,F21182,Sparks,,1,Hutchinson,,p
+1919Reach,1918,Western League,,F21182,Sparks,,2,Oklahoma City,,p
+1919Reach,1918,Western League,,F21182,Sparks,,T,,,p13
+1919Reach,1918,Western League,,P10399,Sparks,,1,Wichita,,p
+1919Reach,1918,Western League,,P10399,Sparks,,2,Oklahoma City,,p
+1919Reach,1918,Western League,,P10399,Sparks,,T,,,p
+1919Reach,1918,Western League,,B00672,St. John,,1,Joplin,,
+1919Reach,1918,Western League,,B00672,St. John,,2,Des Moines,,
+1919Reach,1918,Western League,,B00672,St. John,,T,,,B26
+1919Reach,1918,Western League,,F20784,St. John,,1,Joplin,,of
+1919Reach,1918,Western League,,F20784,St. John,,2,Des Moines,,of
+1919Reach,1918,Western League,,F20784,St. John,,T,,,of23
+1919Reach,1918,Western League,,P10534,Steward,,0,Joplin,,p
+1919Reach,1918,Western League,,B00308,Stewart,,0,Des Moines,,B29
+1919Reach,1918,Western League,,F20342,Stewart,,0,Des Moines,,3b29
+1919Reach,1918,Western League,,B00865,Striegel,,0,Sioux City,,B30
+1919Reach,1918,Western League,,F20303,Striegel,,0,Sioux City,,3b28
+1919Reach,1918,Western League,,B00957,Tedeschi,,1,Hutchinson,,
+1919Reach,1918,Western League,,B00957,Tedeschi,,2,Oklahoma City,,
+1919Reach,1918,Western League,,B00957,Tedeschi,,T,,,B21
+1919Reach,1918,Western League,,F21174,Tedeschi,,1,Hutchinson,,p
+1919Reach,1918,Western League,,F21174,Tedeschi,,2,Oklahoma City,,p
+1919Reach,1918,Western League,,F21174,Tedeschi,,T,,,p21
+1919Reach,1918,Western League,,P10176,Tedeschi,,1,Hutchinson,,p
+1919Reach,1918,Western League,,P10176,Tedeschi,,2,Oklahoma City,,p
+1919Reach,1918,Western League,,P10176,Tedeschi,,T,,,p
+1919Reach,1918,Western League,,P10516,Thieman,,0,St. Joseph,,p
+1919Reach,1918,Western League,,B00196,Thomason,,0,Sioux City,,B48
+1919Reach,1918,Western League,,F20713,Thomason,,0,Sioux City,,of48
+1919Reach,1918,Western League,,B00726,Thompson,F.,0,Joplin,,B52
+1919Reach,1918,Western League,,F20327,Thompson,F.,0,Joplin,,3b52
+1919Reach,1918,Western League,,P10024,Thompson,,0,Omaha,,p
+1919Reach,1918,Western League,,P10527,Thompson,H.,0,Joplin,,p
+1919Reach,1918,Western League,,B00370,Trainer,,1,Topeka,,
+1919Reach,1918,Western League,,B00370,Trainer,,2,Hutchinson,,
+1919Reach,1918,Western League,,B00370,Trainer,,T,,,B49
+1919Reach,1918,Western League,,F20673,Trainer,,1,Topeka,,of
+1919Reach,1918,Western League,,F20673,Trainer,,2,Hutchinson,,of
+1919Reach,1918,Western League,,F20673,Trainer,,T,,,of49
+1919Reach,1918,Western League,,P10145,Vangilder,,0,Omaha,,p
+1919Reach,1918,Western League,,P10035,Voorhees,,0,Joplin,,p
+1919Reach,1918,Western League,,F20970,Waldbauer,,0,Wichita,,p10
+1919Reach,1918,Western League,,P10168,Waldbauer,,0,Wichita,,p
+1919Reach,1918,Western League,,F20908,Wallen,,0,Wichita,,c32
+1919Reach,1918,Western League,,B00718,Wallin,,0,Wichita,,B35
+1919Reach,1918,Western League,,B00101,Washburn,,0,Wichita,,B53
+1919Reach,1918,Western League,,F20051,Washburn,,0,Wichita,,1b24
+1919Reach,1918,Western League,,F20222,Washburn,,0,Wichita,,2b12
+1919Reach,1918,Western League,,F20334,Washburn,,0,Wichita,,3b16
+1919Reach,1918,Western League,,P10542,Waswo,,0,St. Joseph,,p
+1919Reach,1918,Western League,,B00381,Watson,,0,St. Joseph,,B55
+1919Reach,1918,Western League,,F20768,Watson,,0,St. Joseph,,of54
+1919Reach,1918,Western League,,F20526,Williams,,0,Omaha,,of55
+1919Reach,1918,Western League,,B00286,Wolfe,,0,Wichita,,B47
+1919Reach,1918,Western League,,F20518,Wolfe,,0,Wichita,,of47
+1919Reach,1918,Western League,,B00651,Wright,,0,Des Moines,,B19
+1919Reach,1918,Western League,,F20298,Wright,,0,Des Moines,,3b18
+1919Reach,1918,Western League,,B00117,Wuffli,,0,Hutchinson,,B42
+1919Reach,1918,Western League,,F20240,Wuffli,,0,Hutchinson,,3b25
+1919Reach,1918,Western League,,F20350,Wuffli,,0,Hutchinson,,ss14
+1919Reach,1918,Western League,,B00609,Yaryan,,0,Wichita,,B51
+1919Reach,1918,Western League,,F20505,Yaryan,,0,Wichita,,of10
+1919Reach,1918,Western League,,F20829,Yaryan,,0,Wichita,,c30
+1919Reach,1918,Western League,,P10591,Yellowhorse,,0,Des Moines,,p

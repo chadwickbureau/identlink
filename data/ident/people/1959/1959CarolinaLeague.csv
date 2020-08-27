@@ -1,8 +1,8 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1959,Carolina League,M90777,Deal,Ken,,Raleigh,,,
-emilbb,1959,Carolina League,M90824,Hoscheit,Vern,,Greensboro,,,
-emilbb,1959,Carolina League,M90835,May,Pinky,,Burlington,,,
-emilbb,1959,Carolina League,M90790,Osborn,Don,,Wilson,,,
-emilbb,1959,Carolina League,M90789,Peterson,"Harding ""Pete""",,Wilson,,,
-emilbb,1959,Carolina League,M90808,Skaff,Frank,,Durham,,,
-emilbb,1959,Carolina League,M90819,Unser,Al,,Winston-Salem,,,
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1959,Carolina League,,M90777,Deal,Ken,,Raleigh,,
+emilbb,1959,Carolina League,,M90824,Hoscheit,Vern,,Greensboro,,
+emilbb,1959,Carolina League,,M90835,May,Pinky,,Burlington,,
+emilbb,1959,Carolina League,,M90790,Osborn,Don,,Wilson,,
+emilbb,1959,Carolina League,,M90789,Peterson,"Harding ""Pete""",,Wilson,,
+emilbb,1959,Carolina League,,M90808,Skaff,Frank,,Durham,,
+emilbb,1959,Carolina League,,M90819,Unser,Al,,Winston-Salem,,

@@ -1,11 +1,11 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1987,Pacific Coast League,M90511,Bailey,Bob,,Hawaii,,,
-emilbb,1987,Pacific Coast League,M90445,Bridges,Rocky,,Vancouver,,,bridges
-emilbb,1987,Pacific Coast League,M90476,Collins,Terry,,Albuquerque,,,collins
-emilbb,1987,Pacific Coast League,M90492,Didier,Bob,,Tucson,,,didier
-emilbb,1987,Pacific Coast League,M90484,Kim,Wendell,,Phoenix,,,kim
-emilbb,1987,Pacific Coast League,M90459,Kotchman,Tom,,Edmonton,,,kotchman
-emilbb,1987,Pacific Coast League,M90506,Krol,Jack,,Las Vegas,,,krol
-emilbb,1987,Pacific Coast League,M90437,Lieppman,Keith,,Tacoma,,,lieppman
-emilbb,1987,Pacific Coast League,M90468,Manuel,Charlie,,Portland,,,manuel
-emilbb,1987,Pacific Coast League,M90421,Plummer,Bill,,Calgary,,,plummer
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1987,Pacific Coast League,,M90511,Bailey,Bob,,Hawaii,,
+emilbb,1987,Pacific Coast League,bridges,M90445,Bridges,Rocky,,Vancouver,,
+emilbb,1987,Pacific Coast League,collins,M90476,Collins,Terry,,Albuquerque,,
+emilbb,1987,Pacific Coast League,didier,M90492,Didier,Bob,,Tucson,,
+emilbb,1987,Pacific Coast League,kim,M90484,Kim,Wendell,,Phoenix,,
+emilbb,1987,Pacific Coast League,kotchman,M90459,Kotchman,Tom,,Edmonton,,
+emilbb,1987,Pacific Coast League,krol,M90506,Krol,Jack,,Las Vegas,,
+emilbb,1987,Pacific Coast League,lieppman,M90437,Lieppman,Keith,,Tacoma,,
+emilbb,1987,Pacific Coast League,manuel,M90468,Manuel,Charlie,,Portland,,
+emilbb,1987,Pacific Coast League,plummer,M90421,Plummer,Bill,,Calgary,,

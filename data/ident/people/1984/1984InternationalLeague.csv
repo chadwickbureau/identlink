@@ -1,10 +1,10 @@
-source,league.year,league.name,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos,ident
-emilbb,1984,International League,M90186,Beauchamp,Jim,,Syracuse,,,beauchamp
-emilbb,1984,International League,M90178,Dews,Bobby,,Richmond,,,dews
-emilbb,1984,International League,M90129,Edwards,Doc,,Maine,,,edwards
-emilbb,1984,International League,M90132,Ermer,Cal,,Toledo,,,ermer
-emilbb,1984,International League,M90164,Haas,Eddie,,Richmond,,,haas
-emilbb,1984,International League,M90110,Merrill,Stump,,Columbus,,,merrill
-emilbb,1984,International League,M90155,Schaefer,Bob,,Tidewater,,,schaefer-tid
-emilbb,1984,International League,M90141,Torchia,Tony,,Pawtucket,,,torchia
-emilbb,1984,International League,M90193,Verdi,Frank,,Rochester,,,verdi
+source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+emilbb,1984,International League,beauchamp,M90186,Beauchamp,Jim,,Syracuse,,
+emilbb,1984,International League,dews,M90178,Dews,Bobby,,Richmond,,
+emilbb,1984,International League,edwards,M90129,Edwards,Doc,,Maine,,
+emilbb,1984,International League,ermer,M90132,Ermer,Cal,,Toledo,,
+emilbb,1984,International League,haas,M90164,Haas,Eddie,,Richmond,,
+emilbb,1984,International League,merrill,M90110,Merrill,Stump,,Columbus,,
+emilbb,1984,International League,schaefer-tid,M90155,Schaefer,Bob,,Tidewater,,
+emilbb,1984,International League,torchia,M90141,Torchia,Tony,,Pawtucket,,
+emilbb,1984,International League,verdi,M90193,Verdi,Frank,,Rochester,,
