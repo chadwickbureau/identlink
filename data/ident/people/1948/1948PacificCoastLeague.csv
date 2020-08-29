@@ -1,13 +1,664 @@
 source,league.year,league.name,ident,person.ref,person.name.last,person.name.given,S_STINT,entry.name,span,pos
+1949TSN,1948,Pacific Coast League,,B00174,Aberson,Clifford A.,0,Los Angeles,,B116
+1949TSN,1948,Pacific Coast League,,F21278,Aberson,,0,Los Angeles,,of113
+1949TSN,1948,Pacific Coast League,,B00920,Adams,Richard L.,0,Hollywood,,B14
+1949TSN,1948,Pacific Coast League,,B01181,Adams,Elvin C.,0,San Diego,,B102
+1949TSN,1948,Pacific Coast League,,B01337,Adams,Chas. Dwight,0,Los Angeles,,B33
+1949TSN,1948,Pacific Coast League,,F20102,Adams,,0,Hollywood,,1b14
+1949TSN,1948,Pacific Coast League,,F20997,Adams,,0,San Diego,,of71
+1949TSN,1948,Pacific Coast League,,F22307,Adams,,0,Los Angeles,,p32
+1949TSN,1948,Pacific Coast League,,P10168,Adams,,0,Los Angeles,,P32p
+1949TSN,1948,Pacific Coast League,,B02159,Adkins,Dewey,0,Los Angeles,,B33
+1949TSN,1948,Pacific Coast League,,F22116,Adkins,,0,Los Angeles,,p34
+1949TSN,1948,Pacific Coast League,,P10035,Adkins,,0,Los Angeles,,P34p
+1949TSN,1948,Pacific Coast League,,B01706,Albosta,Edward,0,Hollywood,,B34
+1949TSN,1948,Pacific Coast League,,F22406,Albosta,,0,Hollywood,,p34
+1949TSN,1948,Pacific Coast League,,P10738,Albosta,,0,Hollywood,,P34p
+1949TSN,1948,Pacific Coast League,,B01899,Anthony,Lee,0,Los Angeles,,B38
+1949TSN,1948,Pacific Coast League,,F22175,Anthony,,0,Los Angeles,,p38
+1949TSN,1948,Pacific Coast League,,P10253,Anthony,,0,Los Angeles,,P38p
+1949TSN,1948,Pacific Coast League,,B01696,Ardizola,Rinaldo J.,0,Hollywood,,B35
+1949TSN,1948,Pacific Coast League,,F22341,Ardizola,,0,Hollywood,,p35
+1949TSN,1948,Pacific Coast League,,P10336,Ardizola,,0,Hollywood,,P35p
+1949TSN,1948,Pacific Coast League,,B02373,Baker,Oren,0,Los Angeles,,B10
+1949TSN,1948,Pacific Coast League,,F22498,Baker,,0,Los Angeles,,p10
+1949TSN,1948,Pacific Coast League,,B00739,Ballinger,H. Delmont,0,Portland,,B48
+1949TSN,1948,Pacific Coast League,,F21609,Ballinger,,0,Portland,,c36
+1949TSN,1948,Pacific Coast League,,B00092,Barrett,John J.,0,San Diego,,B154
+1949TSN,1948,Pacific Coast League,,B01617,Barrett,Richard,0,Seattle,,B38
+1949TSN,1948,Pacific Coast League,,F21324,Barrett,J.,0,San Diego,,of147
+1949TSN,1948,Pacific Coast League,,F21999,Barrett,,0,Seattle,,p38
+1949TSN,1948,Pacific Coast League,,P10137,Barrett,,0,Seattle,,P38p
+1949TSN,1948,Pacific Coast League,,B02097,Barton,Lawrence,0,Los Angeles,,B17
+1949TSN,1948,Pacific Coast League,,F20095,Barton,,0,Los Angeles,,1b17
+1949TSN,1948,Pacific Coast League,,B00794,Basinski,Edwin,0,Portland,,B175
+1949TSN,1948,Pacific Coast League,,F20417,Basinski,,0,Portland,,2b165
+1949TSN,1948,Pacific Coast League,,F20841,Basinski,,0,Portland,,ss28
+1949TSN,1948,Pacific Coast League,,B01765,Bauers,Russell E.,0,Los Angeles,,B32
+1949TSN,1948,Pacific Coast League,,F21651,Bauers,,0,Los Angeles,,p32
+1949TSN,1948,Pacific Coast League,,P10606,Bauers,,0,Los Angeles,,P32p
+1949TSN,1948,Pacific Coast League,,B01595,Beard,William E.,0,Portland,,B51
+1949TSN,1948,Pacific Coast League,,F21416,Beard,,0,Portland,,c27
+1949TSN,1948,Pacific Coast League,,B00149,Beasley,Bud L.,0,Seattle,,B21
+1949TSN,1948,Pacific Coast League,,F21718,Beasley,,0,Seattle,,p21
+1949TSN,1948,Pacific Coast League,,B01321,Besse,Herman,0,Seattle,,B37
+1949TSN,1948,Pacific Coast League,,F22134,Besse,,0,Seattle,,p36
+1949TSN,1948,Pacific Coast League,,P10432,Besse,,0,Seattle,,P36p
+1949TSN,1948,Pacific Coast League,,B02312,Bishop,Richard,0,Hollywood,,B15
+1949TSN,1948,Pacific Coast League,,F21747,Bishop,,0,Hollywood,,p15
+1949TSN,1948,Pacific Coast League,,B01216,Boone,Ray,0,Hollywood,,B23
+1949TSN,1948,Pacific Coast League,,F20886,Boone,,0,Hollywood,,ss23
+1949TSN,1948,Pacific Coast League,,B01926,Brewer,Jack H.,0,San Francisco,,B37
+1949TSN,1948,Pacific Coast League,,F22099,Brewer,,0,San Francisco,,p37
+1949TSN,1948,Pacific Coast League,,P10399,Brewer,,0,San Francisco,,P37p
+1949TSN,1948,Pacific Coast League,,B01820,Bridges,Thomas D.,0,Portland,,B29
+1949TSN,1948,Pacific Coast League,,F22127,Bridges,,0,Portland,,p29
+1949TSN,1948,Pacific Coast League,,P10062,Bridges,,0,Portland,,P29p
+1949TSN,1948,Pacific Coast League,,M90107,Brillheart,Jim,,San Diego,19480806/,
 emilbb,1948,Pacific Coast League,,M90301,Brillheart,Jack,,San Diego,,
+1949TSN,1948,Pacific Coast League,,B00229,Brovia,Joseph J.,0,San Francisco,,B127
+1949TSN,1948,Pacific Coast League,,F21117,Brovia,,0,San Francisco,,of119
+1949TSN,1948,Pacific Coast League,,B02357,Buccola,Victor,0,Oakland,,B11
+1949TSN,1948,Pacific Coast League,,B00059,Budnick,Michael J.,0,San Diego,,B28
+1949TSN,1948,Pacific Coast League,,F22272,Budnick,,0,San Diego,,p28
+1949TSN,1948,Pacific Coast League,,P10527,Budnick,,0,San Diego,,P28p
+1949TSN,1948,Pacific Coast League,,B01345,Burgher,Joseph,0,Portland,,B16
+1949TSN,1948,Pacific Coast League,,F21397,Burgher,,0,Portland,,c11
+1949TSN,1948,Pacific Coast League,,B00879,Burnett,Ora E.,0,Los Angeles,,B92
+1949TSN,1948,Pacific Coast League,,F20369,Burnett,,0,Los Angeles,,2b77
+1949TSN,1948,Pacific Coast League,,B00948,Butland,Wilburn R.,0,Hollywood,,B44
+1949TSN,1948,Pacific Coast League,,F22251,Butland,,0,Hollywood,,p44
+1949TSN,1948,Pacific Coast League,,P10698,Butland,,0,Hollywood,,P44p
+1949TSN,1948,Pacific Coast League,,B01601,Buxton,Ralph S.,0,Oakland,,B34
+1949TSN,1948,Pacific Coast League,,F22012,Buxton,,0,Oakland,,p34
+1949TSN,1948,Pacific Coast League,,P10121,Buxton,,0,Oakland,,P34p
+1949TSN,1948,Pacific Coast League,,B00985,Camelli,Henry R.,0,San Diego,,B79
+1949TSN,1948,Pacific Coast League,,F21450,Camelli,,0,San Diego,,c70
+1949TSN,1948,Pacific Coast League,,B01119,Cameron,Clinton J.,0,Hollywood,,B28
+1949TSN,1948,Pacific Coast League,,B01779,Capps,William T.,0,Portland,,B18
+1949TSN,1948,Pacific Coast League,,B01939,Carlsen,Donald H.,0,Los Angeles,,B25
+1949TSN,1948,Pacific Coast League,,F22048,Carlsen,,0,Los Angeles,,p25
+1949TSN,1948,Pacific Coast League,,P10654,Carlsen,,0,Los Angeles,,P25p
+1949TSN,1948,Pacific Coast League,,B01453,Castino,Vincent C.,0,Sacramento,,B85
+1949TSN,1948,Pacific Coast League,,F21577,Castino,,0,Sacramento,,c81
+1949TSN,1948,Pacific Coast League,,B00335,Caulfield,John J.,0,San Diego,,B10
+1949TSN,1948,Pacific Coast League,,B01947,Cecil,Rex R.,0,Sacramento,,B41
+1949TSN,1948,Pacific Coast League,,F21623,Cecil,,0,Sacramento,,p41
+1949TSN,1948,Pacific Coast League,,P10591,Cecil,,0,Sacramento,,P41p
+1949TSN,1948,Pacific Coast League,,B00264,Christopher,Loyd,0,Oakland,,B124
+1949TSN,1948,Pacific Coast League,,F20970,Christopher,,0,Oakland,,of120
+1949TSN,1948,Pacific Coast League,,B00609,Clay,Dain E.,0,San Diego,,B186
+1949TSN,1948,Pacific Coast League,,F20956,Clay,,0,San Diego,,of185
+1949TSN,1948,Pacific Coast League,,M90094,Collins,James (Rip),,San Diego,,
 emilbb,1948,Pacific Coast League,,M90285,Collins,"James ""Ripper""",,San Diego,,
+1949TSN,1948,Pacific Coast League,,B00822,Combs,Merrill,0,Oakland,,B175
+1949TSN,1948,Pacific Coast League,,F20648,Combs,,0,Oakland,,3b40
+1949TSN,1948,Pacific Coast League,,F20745,Combs,,0,Oakland,,ss133
+1949TSN,1948,Pacific Coast League,,B01143,Cookson,James H.,0,Sacramento,,B97
+1949TSN,1948,Pacific Coast League,,F21149,Cookson,,0,Sacramento,,of68
+1949TSN,1948,Pacific Coast League,,B01630,Coscarart,Peter J.,0,San Diego,,B114
+1949TSN,1948,Pacific Coast League,,F20474,Coscarart,,0,San Diego,,2b74
+1949TSN,1948,Pacific Coast League,,F20700,Coscarart,,0,San Diego,,ss34
+1949TSN,1948,Pacific Coast League,,B01509,Cox,Carl,0,Hollywood,,B54
+1949TSN,1948,Pacific Coast League,,F20878,Cox,,0,Hollywood,,ss41
+1949TSN,1948,Pacific Coast League,,B00528,Dahlgren,Ellsworth,0,Sacramento,,B115
+1949TSN,1948,Pacific Coast League,,F20115,Dahlgren,,0,Sacramento,,1b114
+1949TSN,1948,Pacific Coast League,,B00343,Dallessandro,Dominic,0,Los Angeles,,B159
+1949TSN,1948,Pacific Coast League,,F21163,Dallessandro,,0,Los Angeles,,of140
+1949TSN,1948,Pacific Coast League,,B01197,Davis,Thomas,0,Hollywood,,B122
+1949TSN,1948,Pacific Coast League,,F20832,Davis,,0,Hollywood,,ss84
+1949TSN,1948,Pacific Coast League,,P10361,De Biasi,,0,Portland,,P39p
+1949TSN,1948,Pacific Coast League,,F22454,De Rose,,0,Portland,,p21
+1949TSN,1948,Pacific Coast League,,P10751,De Rose,,0,Portland,,P21p
+1949TSN,1948,Pacific Coast League,,B01538,De Vito,Vito J.,0,San Diego,,B36
+1949TSN,1948,Pacific Coast League,,B01658,DeBiasi,Vincent,0,Portland,,B39
+1949TSN,1948,Pacific Coast League,,B01905,DeRose,Cark,0,Portland,,B21
+1949TSN,1948,Pacific Coast League,,F20375,DeVito,,0,San Diego,,2b18
+1949TSN,1948,Pacific Coast League,,F22188,Debiasi,,0,Portland,,p39
+1949TSN,1948,Pacific Coast League,,B00125,Delsing,James,0,Hollywood,,B122
+1949TSN,1948,Pacific Coast League,,F20935,Delsing,,0,Hollywood,,of121
+1949TSN,1948,Pacific Coast League,,B02145,Dempsey,Cornelius F.,0,San Francisco,,B37
+1949TSN,1948,Pacific Coast League,,F21936,Dempsey,,0,San Francisco,,p37
+1949TSN,1948,Pacific Coast League,,P10024,Dempsey,,0,San Francisco,,P37p
+1949TSN,1948,Pacific Coast League,,B00403,Duezabou,Melvin J.,0,Oakland,,B132
+1949TSN,1948,Pacific Coast League,,F21255,Duezabou,,0,Oakland,,of114
+1949TSN,1948,Pacific Coast League,,M90060,Dykes,Jimmie,,Hollywood,,
 emilbb,1948,Pacific Coast League,,M90257,Dykes,Jimmy,,Hollywood,,
+1949TSN,1948,Pacific Coast League,,B00278,Etten,Nicholas R.,0,Oakland,,B164
+1949TSN,1948,Pacific Coast League,,F20067,Etten,,0,Oakland,,1b162
+1949TSN,1948,Pacific Coast League,,B00544,Fernandes,Edward,0,Oakland,,B62
+1949TSN,1948,Pacific Coast League,,F21475,Fernandes,,0,Oakland,,c47
+1949TSN,1948,Pacific Coast League,,B02019,Fine,Thomas M.,0,San Francisco,,B39
+1949TSN,1948,Pacific Coast League,,F22332,Fine,,0,San Francisco,,p35
+1949TSN,1948,Pacific Coast League,,P10709,Fine,,0,San Francisco,,P35p
+1949TSN,1948,Pacific Coast League,,B02043,Fleming,Leslie F.,1,Los Angeles,,
+1949TSN,1948,Pacific Coast League,,B02043,Fleming,Leslie F.,2,Portland,,
+1949TSN,1948,Pacific Coast League,,B02043,Fleming,Leslie F.,T,,,B52
+1949TSN,1948,Pacific Coast League,,F21973,Fleming,,1,Los Angeles,,p
+1949TSN,1948,Pacific Coast League,,F21973,Fleming,,2,Portland,,p
+1949TSN,1948,Pacific Coast League,,F21973,Fleming,,T,,,p52
+1949TSN,1948,Pacific Coast League,,P10486,Fleming,,1,Los Angeles,,p
+1949TSN,1948,Pacific Coast League,,P10486,Fleming,,2,Portland,,p
+1949TSN,1948,Pacific Coast League,,P10486,Fleming,,T,,,P52p
+1949TSN,1948,Pacific Coast League,,B01918,Fletcher,Guy M.,0,Seattle,,B37
+1949TSN,1948,Pacific Coast League,,F22004,Fletcher,,0,Seattle,,p37
+1949TSN,1948,Pacific Coast League,,P10192,Fletcher,,0,Seattle,,P37p
+1949TSN,1948,Pacific Coast League,,B02056,Flores,Jesse S.,0,San Diego,,B41
+1949TSN,1948,Pacific Coast League,,F21833,Flores,,0,San Diego,,p41
+1949TSN,1948,Pacific Coast League,,P10410,Flores,,0,San Diego,,P41p
+1949TSN,1948,Pacific Coast League,,B02231,Freitas,Antonio,0,Sacramento,,B31
+1949TSN,1948,Pacific Coast League,,F21840,Freitas,,0,Sacramento,,p31
+1949TSN,1948,Pacific Coast League,,P10100,Freitas,,0,Sacramento,,P31p
+1949TSN,1948,Pacific Coast League,,B02290,Gables,Kenneth H.,0,San Francisco,,B35
+1949TSN,1948,Pacific Coast League,,F21646,Gables,,0,San Francisco,,p34
+1949TSN,1948,Pacific Coast League,,P10622,Gables,,0,San Francisco,,P34p
+1949TSN,1948,Pacific Coast League,,B01428,Garriott,V. Cecil,0,Los Angeles,,B164
+1949TSN,1948,Pacific Coast League,,F21000,Garriott,,0,Los Angeles,,of157
+1949TSN,1948,Pacific Coast League,,B01952,Gassaway,Chas. C.,0,Oakland,,B43
+1949TSN,1948,Pacific Coast League,,F22433,Gassaway,,0,Oakland,,p43
+1949TSN,1948,Pacific Coast League,,P10097,Gassaway,,0,Oakland,,P43p
+1949TSN,1948,Pacific Coast League,,B02070,Gebrian,Peter,0,Hollywood,,B39
+1949TSN,1948,Pacific Coast League,,F21904,Gebrian,,0,Hollywood,,p32
+1949TSN,1948,Pacific Coast League,,P10231,Gebrian,,0,Hollywood,,P32p
+1949TSN,1948,Pacific Coast League,,B01733,Genovese,George,0,Hollywood,,B11
+1949TSN,1948,Pacific Coast League,,F20673,Genovese,,0,Hollywood,,ss11
+1949TSN,1948,Pacific Coast League,,B02184,Gillespie,Paul A.,0,Los Angeles,,B21
+1949TSN,1948,Pacific Coast League,,B01275,Gladd,James,0,Hollywood,,B114
+1949TSN,1948,Pacific Coast League,,F21553,Gladd,,0,Hollywood,,c111
+1949TSN,1948,Pacific Coast League,,F20388,Glossop,,0,Los Angeles,,2b44
+1949TSN,1948,Pacific Coast League,,F20636,Glossop,,0,Los Angeles,,3b78
+1949TSN,1948,Pacific Coast League,,B00705,Glossup,Alban,0,Los Angeles,,B150
+1949TSN,1948,Pacific Coast League,,B01546,Goldsberry,Gordon,0,Hollywood,,B11
+1949TSN,1948,Pacific Coast League,,F20046,Goldsberry,,0,Hollywood,,1b10
+1949TSN,1948,Pacific Coast League,,B01402,Gorsica,John J.,0,Seattle,,B41
+1949TSN,1948,Pacific Coast League,,F21898,Gorsica,,0,Seattle,,p34
+1949TSN,1948,Pacific Coast League,,P10176,Gorsica,,0,Seattle,,P34p
+1949TSN,1948,Pacific Coast League,,B00434,Grace,Joseph,0,Sacramento,,B152
+1949TSN,1948,Pacific Coast League,,F20072,Grace,,0,Sacramento,,1b62
+1949TSN,1948,Pacific Coast League,,F21021,Grace,,0,Sacramento,,of95
+1949TSN,1948,Pacific Coast League,,B00515,Graham,Jack,0,San Diego,,B138
+1949TSN,1948,Pacific Coast League,,F20190,Graham,,0,San Diego,,1b53
+1949TSN,1948,Pacific Coast League,,F21264,Graham,,0,San Diego,,of85
+1949TSN,1948,Pacific Coast League,,B01078,Grasso,Newton M.,0,Seattle,,B140
+1949TSN,1948,Pacific Coast League,,F21614,Grasso,,0,Seattle,,c137
+1949TSN,1948,Pacific Coast League,,B01300,Greco,Richard,0,San Diego,,B26
+1949TSN,1948,Pacific Coast League,,F21229,Greco,,0,San Diego,,of20
+1949TSN,1948,Pacific Coast League,,B00887,Grissom,Marvin E.,0,Sacramento,,B38
+1949TSN,1948,Pacific Coast League,,F21879,Grissom,,0,Sacramento,,p38
+1949TSN,1948,Pacific Coast League,,P10320,Grissom,,0,Sacramento,,P38p
+1949TSN,1948,Pacific Coast League,,B01551,Guintini,Benjamin,0,San Francisco,,B78
+1949TSN,1948,Pacific Coast League,,F21286,Guintini,,0,San Francisco,,of72
+1949TSN,1948,Pacific Coast League,,M90083,Haas,George (Mule),,Hollywood,19480920/,
 emilbb,1948,Pacific Coast League,,M90273,Haas,"George ""Mule""",,Hollywood,,
+1949TSN,1948,Pacific Coast League,,B00614,Hafey,Thomas F.,1,Oakland,,
+1949TSN,1948,Pacific Coast League,,B00614,Hafey,Thomas F.,2,Los Angeles,,
+1949TSN,1948,Pacific Coast League,,B00614,Hafey,Thomas F.,T,,,B46
+1949TSN,1948,Pacific Coast League,,B00747,Hafey,Wilbert J.,0,Oakland,,B75
+1949TSN,1948,Pacific Coast League,,F21811,Hafey,W.,0,Oakland,,p30
+1949TSN,1948,Pacific Coast League,,F22329,Hafey,T.,1,Oakland,,p
+1949TSN,1948,Pacific Coast League,,F22329,Hafey,T.,2,Los Angeles,,p
+1949TSN,1948,Pacific Coast League,,F22329,Hafey,T.,T,,,p37
+1949TSN,1948,Pacific Coast League,,P10464,Hafey,W.,0,Oakland,,P30p
+1949TSN,1948,Pacific Coast League,,P10493,Hafey,T.,1,Oakland,,p
+1949TSN,1948,Pacific Coast League,,P10493,Hafey,T.,2,Los Angeles,,p
+1949TSN,1948,Pacific Coast League,,P10493,Hafey,T.,T,,,P37p
+1949TSN,1948,Pacific Coast League,,B01971,Hall,Robert L.,0,Seattle,,B36
+1949TSN,1948,Pacific Coast League,,F22246,Hall,,0,Seattle,,p36
+1949TSN,1948,Pacific Coast League,,P10277,Hall,,0,Seattle,,P36p
+1949TSN,1948,Pacific Coast League,,B01108,Hamrick,Raymond B.,0,Oakland,,B101
+1949TSN,1948,Pacific Coast League,,F20287,Hamrick,,0,Oakland,,2b23
+1949TSN,1948,Pacific Coast League,,F20768,Hamrick,,0,Oakland,,ss71
+1949TSN,1948,Pacific Coast League,,B00232,Handley,Eugene L.,0,Hollywood,,B127
+1949TSN,1948,Pacific Coast League,,B00450,Handley,Lee,0,San Diego,,B181
+1949TSN,1948,Pacific Coast League,,F20316,Handley,E.,0,Hollywood,,2b10
+1949TSN,1948,Pacific Coast League,,F20526,Handley,L.,0,San Diego,,3b178
+1949TSN,1948,Pacific Coast League,,F20560,Handley,E.,0,Hollywood,,3b73
+1949TSN,1948,Pacific Coast League,,F20784,Handley,E.,0,Hollywood,,ss37
+1949TSN,1948,Pacific Coast League,,B00638,Hawkins,Frank,0,Sacramento,,B80
+1949TSN,1948,Pacific Coast League,,F21182,Hawkins,,0,Sacramento,,of60
+1949TSN,1948,Pacific Coast League,,B01523,Hayes,Damon,1,Oakland,,
+1949TSN,1948,Pacific Coast League,,B01523,Hayes,Damon,2,Sacramento,,
+1949TSN,1948,Pacific Coast League,,B01523,Hayes,Damon,T,,,B42
+1949TSN,1948,Pacific Coast League,,F22386,Hayes,,1,Oakland,,p
+1949TSN,1948,Pacific Coast League,,F22386,Hayes,,2,Sacramento,,p
+1949TSN,1948,Pacific Coast League,,F22386,Hayes,,T,,,p42
+1949TSN,1948,Pacific Coast League,,P10407,Hayes,,1,Oakland,,p
+1949TSN,1948,Pacific Coast League,,P10407,Hayes,,2,Sacramento,,p
+1949TSN,1948,Pacific Coast League,,P10407,Hayes,,T,,,P42p
+1949TSN,1948,Pacific Coast League,,B00752,Helser,Roy M.,0,Portland,,B42
+1949TSN,1948,Pacific Coast League,,F22411,Helser,,0,Portland,,p29
+1949TSN,1948,Pacific Coast League,,P10575,Helser,,0,Portland,,P29p
+1949TSN,1948,Pacific Coast League,,B00961,Hemsley,Ralston B.,0,Seattle,,B82
+1949TSN,1948,Pacific Coast League,,F21502,Hemsley,,0,Seattle,,c79
+1949TSN,1948,Pacific Coast League,,B02024,Holcombe,Kenneth,0,Sacramento,,B27
+1949TSN,1948,Pacific Coast League,,F21672,Holcombe,,0,Sacramento,,p27
+1949TSN,1948,Pacific Coast League,,P10633,Holcombe,,0,Sacramento,,P27p
+1949TSN,1948,Pacific Coast League,,B00531,Holder,Brooks,0,Oakland,,B148
+1949TSN,1948,Pacific Coast League,,F21130,Holder,,0,Oakland,,of138
+1949TSN,1948,Pacific Coast League,,B00590,Howell,Homer E.,0,San Francisco,,B119
+1949TSN,1948,Pacific Coast League,,F21531,Howell,,0,San Francisco,,c112
+1949TSN,1948,Pacific Coast League,,B00488,Iott,Clarence,0,Hollywood,,B16
+1949TSN,1948,Pacific Coast League,,F21726,Iott,,0,Hollywood,,p17
+1949TSN,1948,Pacific Coast League,,B00667,Jennings,Theodore,0,Sacramento,,B126
+1949TSN,1948,Pacific Coast League,,F20391,Jennings,,0,Sacramento,,2b29
+1949TSN,1948,Pacific Coast League,,F20594,Jennings,,0,Sacramento,,3b50
+1949TSN,1948,Pacific Coast League,,B00783,Jensen,John H.,0,San Diego,,B97
+1949TSN,1948,Pacific Coast League,,F21037,Jensen,,0,San Diego,,of71
+1949TSN,1948,Pacific Coast League,,B00646,Johnson,Donald S.,0,Los Angeles,,B70
+1949TSN,1948,Pacific Coast League,,B00726,Johnson,Robert,0,Seattle,,B9
+1949TSN,1948,Pacific Coast League,,B02277,Johnson,Donald R.,0,Portland,,B12
+1949TSN,1948,Pacific Coast League,,F20240,Johnson,,0,Seattle,,1b32
+1949TSN,1948,Pacific Coast League,,F20449,Johnson,D.,0,Los Angeles,,2b69
+1949TSN,1948,Pacific Coast League,,F21783,Johnson,D.,0,Portland,,p11
+1949TSN,1948,Pacific Coast League,,P10429,Johnson,,0,Portland,,P11p
+1949TSN,1948,Pacific Coast League,,B01269,Jones,Earl,0,Oakland,,B39
+1949TSN,1948,Pacific Coast League,,F22440,Jones,,0,Oakland,,p39
+1949TSN,1948,Pacific Coast League,,P10070,Jones,,0,Oakland,,P39p
+1949TSN,1948,Pacific Coast League,,B01857,Joyce,Robert E.,0,San Francisco,,B18
+1949TSN,1948,Pacific Coast League,,F22169,Joyce,,0,San Francisco,,p18
+1949TSN,1948,Pacific Coast League,,P10679,Joyce,,0,San Francisco,,P18p
+1949TSN,1948,Pacific Coast League,,B02192,Jurisich,Albert,0,San Diego,,B38
+1949TSN,1948,Pacific Coast League,,F22479,Jurisich,,0,San Diego,,p38
+1949TSN,1948,Pacific Coast League,,P10714,Jurisich,,0,San Diego,,P38p
+1949TSN,1948,Pacific Coast League,,B00566,Kahn,Louis,0,Hollywood,,B90
+1949TSN,1948,Pacific Coast League,,F21491,Kahn,,0,Hollywood,,c86
+1949TSN,1948,Pacific Coast League,,B00840,Kampouris,Alexis,0,Sacramento,,B109
+1949TSN,1948,Pacific Coast League,,F20430,Kampouris,,0,Sacramento,,2b94
+1949TSN,1948,Pacific Coast League,,B01359,Karpel,Herbert,0,Seattle,,B36
+1949TSN,1948,Pacific Coast League,,F21948,Karpel,,0,Seattle,,p36
+1949TSN,1948,Pacific Coast League,,P10312,Karpel,,0,Seattle,,P36p
+1949TSN,1948,Pacific Coast League,,B00158,Kelleher,Francis E.,0,Hollywood,,B121
+1949TSN,1948,Pacific Coast League,,F20962,Kelleher,,0,Hollywood,,of120
+1949TSN,1948,Pacific Coast League,,M90039,Kelly,Bill,,Los Angeles,,
 emilbb,1948,Pacific Coast League,,M90220,Kelly,Bill,,Los Angeles,,
+1949TSN,1948,Pacific Coast League,,B01368,Kennedy,Vernon,0,Hollywood,,B40
+1949TSN,1948,Pacific Coast League,,F22036,Kennedy,,0,Hollywood,,p38
+1949TSN,1948,Pacific Coast League,,P10266,Kennedy,,0,Hollywood,,P38p
+1949TSN,1948,Pacific Coast League,,B02266,Kerrigan,Robert F.,0,San Diego,,B44
+1949TSN,1948,Pacific Coast League,,F21912,Kerrigan,,0,San Diego,,p46
+1949TSN,1948,Pacific Coast League,,P10542,Kerrigan,,0,San Diego,,P46p
+1949TSN,1948,Pacific Coast League,,B00021,Kleine,Harold,0,Los Angeles,,B35
+1949TSN,1948,Pacific Coast League,,F22214,Kleine,,0,Los Angeles,,p34
+1949TSN,1948,Pacific Coast League,,P10304,Kleine,,0,Los Angeles,,P34p
+1949TSN,1948,Pacific Coast League,,B02304,Klinger,Robert,0,Oakland,,B16
+1949TSN,1948,Pacific Coast League,,F21739,Klinger,,0,Oakland,,p16
+1949TSN,1948,Pacific Coast League,,B00491,Kowalski,Edwin C.,0,Portland,,B10
+1949TSN,1948,Pacific Coast League,,F21806,Kowalski,,0,Portland,,p10
+1949TSN,1948,Pacific Coast League,,B02228,Krakauskas,Joseph V.,0,Hollywood,,B40
+1949TSN,1948,Pacific Coast League,,F21985,Krakauskas,,0,Hollywood,,p40
+1949TSN,1948,Pacific Coast League,,P10373,Krakauskas,,0,Hollywood,,P40p
+1949TSN,1948,Pacific Coast League,,B00904,Kuper,Earl L.,0,San Diego,,B36
+1949TSN,1948,Pacific Coast League,,B00912,Lajeskie,Richard,0,San Francisco,,B31
+1949TSN,1948,Pacific Coast League,,F20425,Lajeskie,,0,San Francisco,,2b28
+1949TSN,1948,Pacific Coast League,,B01873,Lanfranconi,Walter,0,Los Angeles,,B33
+1949TSN,1948,Pacific Coast League,,F21667,Lanfranconi,,0,Los Angeles,,p29
+1949TSN,1948,Pacific Coast League,,P10746,Lanfranconi,,0,Los Angeles,,P29p
+1949TSN,1948,Pacific Coast League,,B00397,Lavagetto,Harry,0,Oakland,,B86
+1949TSN,1948,Pacific Coast League,,F20604,Lavagetto,,0,Oakland,,3b73
+1949TSN,1948,Pacific Coast League,,B00084,Layne,I. Hillis,0,Seattle,,B174
+1949TSN,1948,Pacific Coast League,,F20583,Layne,,0,Seattle,,3b172
+1949TSN,1948,Pacific Coast League,,B00999,Lazor,John P.,0,Portland,,B115
+1949TSN,1948,Pacific Coast League,,F20943,Lazor,,0,Portland,,of92
+1949TSN,1948,Pacific Coast League,,B01384,Lee,Larry D.,0,San Diego,,B22
+1949TSN,1948,Pacific Coast League,,F20023,Lee,,0,San Diego,,1b18
+1949TSN,1948,Pacific Coast League,,B01162,Leonard,Wilfred A.,0,San Francisco,,B93
+1949TSN,1948,Pacific Coast League,,F21427,Leonard,,0,San Francisco,,c88
+1949TSN,1948,Pacific Coast League,,B01444,Libke,Albert W.,0,Hollywood,,B90
+1949TSN,1948,Pacific Coast League,,F20222,Libke,,0,Hollywood,,1b29
+1949TSN,1948,Pacific Coast League,,F21174,Libke,,0,Hollywood,,of32
+1949TSN,1948,Pacific Coast League,,B02035,Lien,Alfred W.,0,San Francisco,,B34
+1949TSN,1948,Pacific Coast League,,F22085,Lien,,0,San Francisco,,p34
+1949TSN,1948,Pacific Coast League,,P10145,Lien,,0,San Francisco,,P34p
+1949TSN,1948,Pacific Coast League,,B01682,Lillard,Eugene,0,Oakland,,B23
+1949TSN,1948,Pacific Coast League,,B01798,Lillard,William B.,0,San Diego,,B31
+1949TSN,1948,Pacific Coast League,,F20685,Lillard,W.,0,San Diego,,ss29
+1949TSN,1948,Pacific Coast League,,F21590,Lillard,E.,0,Oakland,,c20
+1949TSN,1948,Pacific Coast League,,B00068,Liska,Adolph J.,0,Portland,,B22
+1949TSN,1948,Pacific Coast League,,F21695,Liska,,0,Portland,,p22
+1949TSN,1948,Pacific Coast League,,P10665,Liska,,0,Portland,,P22p
+1949TSN,1948,Pacific Coast League,,B00416,Lodigiani,Dario,0,Oakland,,B162
+1949TSN,1948,Pacific Coast League,,F20298,Lodigiani,,0,Oakland,,2b78
+1949TSN,1948,Pacific Coast League,,F20552,Lodigiani,,0,Oakland,,3b91
+1949TSN,1948,Pacific Coast League,,B01032,Lombardi,Ernest N.,1,Sacramento,,
+1949TSN,1948,Pacific Coast League,,B01032,Lombardi,Ernest N.,2,Oakland,,
+1949TSN,1948,Pacific Coast League,,B01032,Lombardi,Ernest N.,T,,,B102
+1949TSN,1948,Pacific Coast League,,F21566,Lombardi,,1,Sacramento,,c
+1949TSN,1948,Pacific Coast League,,F21566,Lombardi,,2,Oakland,,c
+1949TSN,1948,Pacific Coast League,,F21566,Lombardi,,T,,,c80
+1949TSN,1948,Pacific Coast League,,B00651,Luby,Hugh M.,0,San Francisco,,B175
+1949TSN,1948,Pacific Coast League,,F20327,Luby,,0,San Francisco,,2b171
+1949TSN,1948,Pacific Coast League,,B01135,Lukon,Edward P.,0,Los Angeles,,B110
+1949TSN,1948,Pacific Coast League,,F20233,Lukon,,0,Los Angeles,,1b73
+1949TSN,1948,Pacific Coast League,,B01960,Lynn,Japhet M.,0,Los Angeles,,B47
+1949TSN,1948,Pacific Coast League,,F21822,Lynn,,0,Los Angeles,,p42
+1949TSN,1948,Pacific Coast League,,P10215,Lynn,,0,Los Angeles,,P42p
+1949TSN,1948,Pacific Coast League,,B01041,Mackiewicz,Felix,0,San Francisco,,B63
+1949TSN,1948,Pacific Coast League,,F21092,Mackiewicz,,0,San Francisco,,of38
+1949TSN,1948,Pacific Coast League,,B01836,Mallory,Elmer E.,0,Los Angeles,,B14
+1949TSN,1948,Pacific Coast League,,B00957,Malone,Edward R.,0,Los Angeles,,B122
+1949TSN,1948,Pacific Coast League,,F21488,Malone,,0,Los Angeles,,c118
+1949TSN,1948,Pacific Coast League,,B02121,Maltzberger,Gordon R,0,Hollywood,,B27
+1949TSN,1948,Pacific Coast League,,F21961,Maltzberger,,0,Hollywood,,p27
+1949TSN,1948,Pacific Coast League,,P10081,Maltzberger,,0,Hollywood,,P27p
+1949TSN,1948,Pacific Coast League,,B00806,Martin,Alfred M. (Billy),0,Oakland,,B132
+1949TSN,1948,Pacific Coast League,,F20458,Martin,,0,Oakland,,2b124
+1949TSN,1948,Pacific Coast League,,B00255,Marty,Joseph A.,0,Sacramento,,B158
+1949TSN,1948,Pacific Coast League,,F21045,Marty,,0,Sacramento,,of153
+1949TSN,1948,Pacific Coast League,,B01431,McDonald,George T.,0,Seattle,,B31
+1949TSN,1948,Pacific Coast League,,F20051,McDonald,,0,Seattle,,1b30
+1949TSN,1948,Pacific Coast League,,B01885,Melton,Clifford G.,0,San Francisco,,B31
+1949TSN,1948,Pacific Coast League,,F21854,Melton,,0,San Francisco,,p31
+1949TSN,1948,Pacific Coast League,,P10113,Melton,,0,San Francisco,,P31p
+1949TSN,1948,Pacific Coast League,,B01477,Merullo,Leonard R.,0,Los Angeles,,B48
+1949TSN,1948,Pacific Coast League,,F20792,Merullo,,0,Los Angeles,,ss43
+1949TSN,1948,Pacific Coast League,,B00553,Mesner,Stephan,1,Sacramento,,
+1949TSN,1948,Pacific Coast League,,B00553,Mesner,Stephan,2,San Diego,,
+1949TSN,1948,Pacific Coast League,,B00553,Mesner,Stephan,T,,,B172
+1949TSN,1948,Pacific Coast League,,F20401,Mesner,,1,Sacramento,,2b
+1949TSN,1948,Pacific Coast League,,F20401,Mesner,,2,San Diego,,2b
+1949TSN,1948,Pacific Coast League,,F20401,Mesner,,T,,,2b114
+1949TSN,1948,Pacific Coast League,,F20612,Mesner,,1,Sacramento,,3b
+1949TSN,1948,Pacific Coast League,,F20612,Mesner,,2,San Diego,,3b
+1949TSN,1948,Pacific Coast League,,F20612,Mesner,,T,,,3b44
+1949TSN,1948,Pacific Coast League,,F20776,Mesner,,1,Sacramento,,ss
+1949TSN,1948,Pacific Coast League,,F20776,Mesner,,2,San Diego,,ss
+1949TSN,1948,Pacific Coast League,,F20776,Mesner,,T,,,ss13
+1949TSN,1948,Pacific Coast League,,B00101,Metkovich,George,0,Oakland,,B134
+1949TSN,1948,Pacific Coast League,,F21308,Metkovich,,0,Oakland,,of132
+1949TSN,1948,Pacific Coast League,,B01567,Mierkowicz,Edward,0,Seattle,,B40
+1949TSN,1948,Pacific Coast League,,F20144,Mierkowicz,,0,Seattle,,1b39
+1949TSN,1948,Pacific Coast League,,B00760,Mohr,Leon L.,0,Seattle,,B109
+1949TSN,1948,Pacific Coast League,,F20279,Mohr,,0,Seattle,,1b19
+1949TSN,1948,Pacific Coast League,,F20482,Mohr,,0,Seattle,,2b14
+1949TSN,1948,Pacific Coast League,,F21059,Mohr,,0,Seattle,,of30
+1949TSN,1948,Pacific Coast League,,B00718,Mole,Fenton L.,0,Portland,,B181
+1949TSN,1948,Pacific Coast League,,F20128,Mole,,0,Portland,,1b181
+1949TSN,1948,Pacific Coast League,,B00324,Moore,Dee C.,0,Sacramento,,B106
+1949TSN,1948,Pacific Coast League,,F21469,Moore,,0,Sacramento,,c91
+1949TSN,1948,Pacific Coast League,,B01007,Mooty,Jacob L.,0,Portland,,B38
+1949TSN,1948,Pacific Coast League,,F21920,Mooty,,0,Portland,,p38
+1949TSN,1948,Pacific Coast League,,P10441,Mooty,,0,Portland,,P38p
+1949TSN,1948,Pacific Coast League,,B00381,Moran,Cyril,0,Seattle,,B59
+1949TSN,1948,Pacific Coast League,,F20211,Moran,,0,Seattle,,1b57
+1949TSN,1948,Pacific Coast League,,B01722,Moyer,Robert R.,0,Seattle,,B12
+1949TSN,1948,Pacific Coast League,,F20463,Mullen,,0,Portland,,2b65
+1949TSN,1948,Pacific Coast League,,F20661,Mullen,,0,Portland,,3b20
+1949TSN,1948,Pacific Coast League,,B00475,Mullin,Fred P.,0,Portland,,B102
+1949TSN,1948,Pacific Coast League,,B02137,Mullins,Frank,0,Seattle,,B12
+1949TSN,1948,Pacific Coast League,,B02289,Myers,Richard,0,Sacramento,,B17
+1949TSN,1948,Pacific Coast League,,B01170,Nagy,Stephen,0,Sacramento,,B38
+1949TSN,1948,Pacific Coast League,,F22238,Nagy,,0,Sacramento,,p30
+1949TSN,1948,Pacific Coast League,,P10184,Nagy,,0,Sacramento,,P30p
+1949TSN,1948,Pacific Coast League,,B01234,Newsome,Lamar,0,Seattle,,B130
+1949TSN,1948,Pacific Coast League,,F20342,Newsome,,0,Seattle,,2b48
+1949TSN,1948,Pacific Coast League,,F20737,Newsome,,0,Seattle,,ss81
+1949TSN,1948,Pacific Coast League,,B01376,Nicely,Roy M.,0,San Francisco,,B157
+1949TSN,1948,Pacific Coast League,,F20810,Nicely,,0,San Francisco,,ss157
+1949TSN,1948,Pacific Coast League,,B00045,Nicholas,George,0,San Diego,,B13
+1949TSN,1948,Pacific Coast League,,F21760,Nicholas,,0,San Diego,,p13
+1949TSN,1948,Pacific Coast League,,P10767,Nicholas,,0,San Diego,,P13p
+1949TSN,1948,Pacific Coast League,,B00182,Novikoff,Louis,0,Seattle,,B64
+1949TSN,1948,Pacific Coast League,,F21335,Novikoff,,0,Seattle,,of40
+1949TSN,1948,Pacific Coast League,,B00898,Novotney,Ralph J.,0,Los Angeles,,B84
+1949TSN,1948,Pacific Coast League,,F21589,Novotney,,0,Los Angeles,,c84
+1949TSN,1948,Pacific Coast League,,M90026,O'Doul,Frank (Lefty),,San Francisco,,
 emilbb,1948,Pacific Coast League,,M90212,O'Doul,Lefty,,San Francisco,,
+1949TSN,1948,Pacific Coast League,,B01313,O'Neill,John,0,Seattle,,B131
+1949TSN,1948,Pacific Coast League,,B01848,O'Neill,R. Emmet,0,Sacramento,,B52
+1949TSN,1948,Pacific Coast League,,F20807,O'Neill,,0,Seattle,,ss131
+1949TSN,1948,Pacific Coast League,,F22103,O'Neill,,0,Sacramento,,p28
+1949TSN,1948,Pacific Coast League,,P10534,O'Neill,,0,Sacramento,,P28p
+1949TSN,1948,Pacific Coast League,,B01572,Oliver,Edward P.,0,Hollywood,,B26
+1949TSN,1948,Pacific Coast League,,F22378,Oliver,,0,Hollywood,,p26
+1949TSN,1948,Pacific Coast League,,P10569,Oliver,,0,Hollywood,,P26p
+1949TSN,1948,Pacific Coast League,,B01740,Olsen,Albert W.,0,San Diego,,B35
+1949TSN,1948,Pacific Coast League,,F21638,Olsen,,0,San Diego,,p34
+1949TSN,1948,Pacific Coast League,,P10588,Olsen,,0,San Diego,,P34p
+1949TSN,1948,Pacific Coast League,,M90110,Orengo,Joe,,Sacramento,,
 emilbb,1948,Pacific Coast League,,M90317,Orengo,Joe,,Sacramento,,
+1949TSN,1948,Pacific Coast League,,B02348,Orrell,Forrest,0,Hollywood,,B13
+1949TSN,1948,Pacific Coast League,,F21771,Orrell,,0,Hollywood,,p13
+1949TSN,1948,Pacific Coast League,,B00865,Orteig,Raymond J.,0,San Francisco,,B102
+1949TSN,1948,Pacific Coast League,,F20571,Orteig,,0,San Francisco,,3b73
+1949TSN,1948,Pacific Coast League,,B00577,Ostrowski,John T.,0,Los Angeles,,B109
+1949TSN,1948,Pacific Coast League,,F20620,Ostrowski,,0,Los Angeles,,3b98
+1949TSN,1948,Pacific Coast League,,B01711,Peek,Stephen,0,Seattle,,B32
+1949TSN,1948,Pacific Coast League,,F22487,Peek,,0,Seattle,,p32
+1949TSN,1948,Pacific Coast League,,P10516,Peek,,0,Seattle,,P32p
+1949TSN,1948,Pacific Coast League,,B02008,Perez,Manuel R. Jr,0,San Francisco,,B29
+1949TSN,1948,Pacific Coast League,,F21957,Perez,,0,San Francisco,,p29
+1949TSN,1948,Pacific Coast League,,P10159,Perez,,0,San Francisco,,P29p
+1949TSN,1948,Pacific Coast League,,B00013,Perlmutter,Daniel J.,0,San Diego,,B12
+1949TSN,1948,Pacific Coast League,,B01861,Pesut,Nicholas J.,0,Sacramento,,B61
+1949TSN,1948,Pacific Coast League,,F21528,Pesut,,0,Sacramento,,c45
+1949TSN,1948,Pacific Coast League,,F20893,Petersen,,0,Portland,,ss10
+1949TSN,1948,Pacific Coast League,,B00076,Peterson,Earl F.,0,Portland,,B12
+1949TSN,1948,Pacific Coast League,,B01983,Pillette,Duane,0,Portland,,B39
+1949TSN,1948,Pacific Coast League,,F22223,Pillette,,0,Portland,,p38
+1949TSN,1948,Pacific Coast League,,P10290,Pillette,,0,Portland,,P38p
+1949TSN,1948,Pacific Coast League,,B02202,Pocekay,Walter J.,0,Oakland,,B16
+1949TSN,1948,Pacific Coast League,,F20919,Pocekay,,0,Oakland,,of15
+1949TSN,1948,Pacific Coast League,,B00695,Raimondi,William L.,0,Oakland,,B126
+1949TSN,1948,Pacific Coast League,,F21515,Raimondi,,0,Oakland,,c120
+1949TSN,1948,Pacific Coast League,,B00680,Ramsey,William T.,0,Seattle,,B170
+1949TSN,1948,Pacific Coast League,,F21013,Ramsey,,0,Seattle,,of160
+1949TSN,1948,Pacific Coast League,,B00502,Rapp,Earl W.,0,Seattle,,B168
+1949TSN,1948,Pacific Coast League,,F21207,Rapp,,0,Seattle,,of161
+1949TSN,1948,Pacific Coast League,,B01466,Ratto,Leonard O.,1,Portland,,
+1949TSN,1948,Pacific Coast League,,B01466,Ratto,Leonard O.,2,Sacramento,,
+1949TSN,1948,Pacific Coast League,,B01466,Ratto,Leonard O.,T,,,B155
+1949TSN,1948,Pacific Coast League,,F20829,Ratto,,1,Portland,,ss
+1949TSN,1948,Pacific Coast League,,F20829,Ratto,,2,Sacramento,,ss
+1949TSN,1948,Pacific Coast League,,F20829,Ratto,,T,,,ss153
 emilbb,1948,Pacific Coast League,,M90299,Reese,Jimmie,,San Diego,,
+1949TSN,1948,Pacific Coast League,,B00196,Reich,Herman,0,Portland,,B187
+1949TSN,1948,Pacific Coast League,,F20038,Reich,,0,Portland,,1b14
+1949TSN,1948,Pacific Coast League,,F21101,Reich,,0,Portland,,of179
+1949TSN,1948,Pacific Coast League,,B02361,Reis,Thomas E.,0,Seattle,,B10
+1949TSN,1948,Pacific Coast League,,F21794,Reis,,0,Seattle,,p10
+1949TSN,1948,Pacific Coast League,,B01489,Rescigno,Xavier,0,San Diego,,B41
+1949TSN,1948,Pacific Coast League,,F22061,Rescigno,,0,San Diego,,p38
+1949TSN,1948,Pacific Coast League,,P10503,Rescigno,,0,San Diego,,P38p
+1949TSN,1948,Pacific Coast League,,B00623,Restelli,Dino,0,San Francisco,,B145
+1949TSN,1948,Pacific Coast League,,F21381,Restelli,,0,San Francisco,,of143
+1949TSN,1948,Pacific Coast League,,B00771,Rice,Leonard O.,0,San Diego,,B108
+1949TSN,1948,Pacific Coast League,,F21442,Rice,,0,San Diego,,c93
+1949TSN,1948,Pacific Coast League,,B01514,Richardson,Kenneth F.,0,Seattle,,B65
+1949TSN,1948,Pacific Coast League,,F20014,Richardson,,0,Seattle,,1b27
+1949TSN,1948,Pacific Coast League,,B02336,Ripple,Charles D.,0,Sacramento,,B14
+1949TSN,1948,Pacific Coast League,,F21752,Ripple,,0,Sacramento,,p14
+1949TSN,1948,Pacific Coast League,,B00207,Ritchey,John F.,0,San Diego,,B103
+1949TSN,1948,Pacific Coast League,,F21544,Ritchey,,0,San Diego,,c55
+1949TSN,1948,Pacific Coast League,,B01086,Rizzo,John C.,0,Sacramento,,B11
+1949TSN,1948,Pacific Coast League,,B00469,Rocco,Michael,0,San Francisco,,B178
+1949TSN,1948,Pacific Coast League,,F20080,Rocco,,0,San Francisco,,1b177
+1949TSN,1948,Pacific Coast League,,B00286,Ross,Donald R.,0,Hollywood,,B128
+1949TSN,1948,Pacific Coast League,,F20657,Ross,,0,Hollywood,,3b118
+1949TSN,1948,Pacific Coast League,,B00319,Rucker,John J.,0,Portland,,B151
+1949TSN,1948,Pacific Coast League,,F21076,Rucker,,0,Portland,,of148
+1949TSN,1948,Pacific Coast League,,B00589,Russell,Glenn D.,1,Sacramento,,
+1949TSN,1948,Pacific Coast League,,B00589,Russell,Glenn D.,2,San Diego,,
+1949TSN,1948,Pacific Coast League,,B00589,Russell,Glenn D.,T,,,B144
+1949TSN,1948,Pacific Coast League,,F20189,Russell,,1,Sacramento,,1b
+1949TSN,1948,Pacific Coast League,,F20189,Russell,,2,Hollywood,,1b
+1949TSN,1948,Pacific Coast League,,F20189,Russell,,T,,,1b102
+1949TSN,1948,Pacific Coast League,,F21125,Russell,,1,Sacramento,,of
+1949TSN,1948,Pacific Coast League,,F21125,Russell,,2,Hollywood,,of
+1949TSN,1948,Pacific Coast League,,F21125,Russell,,T,,,of24
+1949TSN,1948,Pacific Coast League,,B00130,Russo,Marius U.,0,Seattle,,B26
+1949TSN,1948,Pacific Coast League,,F21680,Russo,,0,Seattle,,p26
+1949TSN,1948,Pacific Coast League,,P10611,Russo,,0,Seattle,,P26p
+1949TSN,1948,Pacific Coast League,,B01093,Salveson,John T.,1,Sacramento,,
+1949TSN,1948,Pacific Coast League,,B01093,Salveson,John T.,2,Oakland,,
+1949TSN,1948,Pacific Coast League,,B01093,Salveson,John T.,T,,,B42
+1949TSN,1948,Pacific Coast League,,F21865,Salveson,,1,Sacramento,,p
+1949TSN,1948,Pacific Coast League,,F21865,Salveson,,2,Oakland,,p
+1949TSN,1948,Pacific Coast League,,F21865,Salveson,,T,,,p41
+1949TSN,1948,Pacific Coast League,,P10550,Salveson,,1,Sacramento,,p
+1949TSN,1948,Pacific Coast League,,P10550,Salveson,,2,Oakland,,p
+1949TSN,1948,Pacific Coast League,,P10550,Salveson,,T,,,P41p
+1949TSN,1948,Pacific Coast League,,B02113,Salvo,Manuel S.,1,San Diego,,
+1949TSN,1948,Pacific Coast League,,B02113,Salvo,Manuel S.,2,Sacramento,,
+1949TSN,1948,Pacific Coast League,,B02113,Salvo,Manuel S.,T,,,B36
+1949TSN,1948,Pacific Coast League,,F22142,Salvo,,1,San Diego,,p
+1949TSN,1948,Pacific Coast League,,F22142,Salvo,,2,Sacramento,,p
+1949TSN,1948,Pacific Coast League,,F22142,Salvo,,T,,,p36
+1949TSN,1948,Pacific Coast League,,P10455,Salvo,,1,San Diego,,p
+1949TSN,1948,Pacific Coast League,,P10455,Salvo,,2,Sacramento,,p
+1949TSN,1948,Pacific Coast League,,P10455,Salvo,,T,,,P36p
+1949TSN,1948,Pacific Coast League,,B01754,Samcoff,Edward W.,0,Oakland,,B13
+1949TSN,1948,Pacific Coast League,,B01250,Sanford,John D.,0,Los Angeles,,B105
+1949TSN,1948,Pacific Coast League,,F20177,Sanford,,0,Los Angeles,,1b105
+1949TSN,1948,Pacific Coast League,,B00370,Sauer,Edward,0,Los Angeles,,B150
+1949TSN,1948,Pacific Coast League,,F21232,Sauer,,0,Los Angeles,,of150
+1949TSN,1948,Pacific Coast League,,B00833,Scarsella,Leslie G.,0,Oakland,,B111
+1949TSN,1948,Pacific Coast League,,F20166,Scarsella,,0,Oakland,,1b17
+1949TSN,1948,Pacific Coast League,,F21084,Scarsella,,0,Oakland,,of75
+1949TSN,1948,Pacific Coast League,,B02062,Schanz,Charles M.,0,Seattle,,B15
+1949TSN,1948,Pacific Coast League,,F22020,Schanz,,0,Seattle,,p15
+1949TSN,1948,Pacific Coast League,,P10043,Schanz,,0,Seattle,,P15p
+1949TSN,1948,Pacific Coast League,,B02168,Schmidt,Frederick A.,0,Los Angeles,,B15
+1949TSN,1948,Pacific Coast League,,F22073,Schmidt,,0,Los Angeles,,p15
+1949TSN,1948,Pacific Coast League,,P10348,Schmidt,,0,Los Angeles,,P15p
+1949TSN,1948,Pacific Coast League,,B01010,Schuster,William C.,0,Los Angeles,,B151
+1949TSN,1948,Pacific Coast League,,F20713,Schuster,,0,Los Angeles,,ss147
+1949TSN,1948,Pacific Coast League,,B01055,Seats,Thomas E.,0,San Diego,,B43
+1949TSN,1948,Pacific Coast League,,F22280,Seats,,0,San Diego,,p43
+1949TSN,1948,Pacific Coast League,,P10357,Seats,,0,San Diego,,P43p
+1949TSN,1948,Pacific Coast League,,B00308,Sheridan,Neill,0,Seattle,,B140
+1949TSN,1948,Pacific Coast League,,F21370,Sheridan,,0,Seattle,,of141
+1949TSN,1948,Pacific Coast League,,B01029,Shofner,Frank S.,0,San Francisco,,B106
+1949TSN,1948,Pacific Coast League,,F20518,Shofner,,0,San Francisco,,3b92
+1949TSN,1948,Pacific Coast League,,B01288,Shupe,Vincent W.,0,San Diego,,B135
+1949TSN,1948,Pacific Coast League,,F20131,Shupe,,0,San Diego,,1b127
+1949TSN,1948,Pacific Coast League,,B00442,Silvera,Charles,0,Portland,,B144
+1949TSN,1948,Pacific Coast League,,F21434,Silvera,,0,Portland,,c141
+1949TSN,1948,Pacific Coast League,,B01625,Sinovic,Richard,0,Portland,,B10
+1949TSN,1948,Pacific Coast League,,F20924,Sinovic,,0,Portland,,of10
+1949TSN,1948,Pacific Coast League,,B01124,Skurski,Andrew A.,0,Hollywood,,B120
+1949TSN,1948,Pacific Coast League,,F21210,Skurski,,0,Hollywood,,of99
+1949TSN,1948,Pacific Coast League,,B00672,Smith,Mayo,0,Portland,,B112
+1949TSN,1948,Pacific Coast League,,B01649,Smith,Edgar,1,Hollywood,,
+1949TSN,1948,Pacific Coast League,,B01649,Smith,Edgar,2,Sacramento,,
+1949TSN,1948,Pacific Coast League,,B01649,Smith,Edgar,T,,,B42
+1949TSN,1948,Pacific Coast League,,F21319,Smith,M.,0,Portland,,of86
+1949TSN,1948,Pacific Coast League,,F22267,Smith,E.,1,Hollywood,,p
+1949TSN,1948,Pacific Coast League,,F22267,Smith,E.,2,Sacramento,,p
+1949TSN,1948,Pacific Coast League,,F22267,Smith,E.,T,,,p35
+1949TSN,1948,Pacific Coast League,,P10244,Smith,,1,Hollywood,,p
+1949TSN,1948,Pacific Coast League,,P10244,Smith,,2,Sacramento,,p
+1949TSN,1948,Pacific Coast League,,P10244,Smith,,T,,,P35p
+1949TSN,1948,Pacific Coast League,,B01994,Soriano,Dewey,0,San Francisco,,B36
+1949TSN,1948,Pacific Coast League,,F22422,Soriano,,0,San Francisco,,p36
+1949TSN,1948,Pacific Coast League,,P10289,Soriano,,0,San Francisco,,P36p
+1949TSN,1948,Pacific Coast League,,B02215,Speer,Floyd V.,0,Oakland,,B48
+1949TSN,1948,Pacific Coast League,,F22355,Speer,,0,Oakland,,p49
+1949TSN,1948,Pacific Coast League,,P10640,Speer,,0,Oakland,,P49p
+1949TSN,1948,Pacific Coast League,,M90018,Stengel,Charles (Casey),,Oakland,,
 emilbb,1948,Pacific Coast League,,M90204,Stengel,Casey,,Oakland,,
+1949TSN,1948,Pacific Coast League,,B00241,Stevens,Charles,0,Hollywood,,B38
+1949TSN,1948,Pacific Coast League,,F20153,Stevens,,0,Hollywood,,1b38
+1949TSN,1948,Pacific Coast League,,B00362,Storey,Harvey A.,0,Portland,,B181
+1949TSN,1948,Pacific Coast League,,F20547,Storey,,0,Portland,,3b177
+1949TSN,1948,Pacific Coast League,,B00117,Stringer,Louis,0,Hollywood,,B175
+1949TSN,1948,Pacific Coast League,,F20350,Stringer,,0,Hollywood,,2b173
+1949TSN,1948,Pacific Coast League,,M90071,Stringer,Lou,,Hollywood,19480828/,
 emilbb,1948,Pacific Coast League,,M90261,Stringer,Lou,,Hollywood,,
+1949TSN,1948,Pacific Coast League,,B00811,Tabor,James,1,Los Angeles,,
+1949TSN,1948,Pacific Coast League,,B00811,Tabor,James,2,Sacramento,,
+1949TSN,1948,Pacific Coast League,,B00811,Tabor,James,T,,,B143
+1949TSN,1948,Pacific Coast League,,F20539,Tabor,,1,Los Angeles,,3b
+1949TSN,1948,Pacific Coast League,,F20539,Tabor,,2,Sacramento,,3b
+1949TSN,1948,Pacific Coast League,,F20539,Tabor,,T,,,3b137
+1949TSN,1948,Pacific Coast League,,B02253,Thompson,Gene,0,San Diego,,B32
+1949TSN,1948,Pacific Coast League,,F22150,Thompson,,0,San Diego,,p32
+1949TSN,1948,Pacific Coast League,,P10019,Thompson,,0,San Diego,,P32p
+1949TSN,1948,Pacific Coast League,,B00427,Tobin,Jack P.,0,San Francisco,,B156
+1949TSN,1948,Pacific Coast League,,B02081,Tobin,James,0,Oakland,,B10
+1949TSN,1948,Pacific Coast League,,F20254,Tobin,,0,San Francisco,,1b14
+1949TSN,1948,Pacific Coast League,,F20505,Tobin,,0,San Francisco,,3b43
+1949TSN,1948,Pacific Coast League,,F21356,Tobin,,0,San Francisco,,of88
+1949TSN,1948,Pacific Coast League,,F22465,Tobin,,0,Oakland,,p10
+1949TSN,1948,Pacific Coast League,,B01804,Tost,Louis,1,Sacramento,,
+1949TSN,1948,Pacific Coast League,,B01804,Tost,Louis,2,Oakland,,
+1949TSN,1948,Pacific Coast League,,B01804,Tost,Louis,T,,,B42
+1949TSN,1948,Pacific Coast League,,F22209,Tost,,1,Sacramento,,p
+1949TSN,1948,Pacific Coast League,,F22209,Tost,,2,Oakland,,p
+1949TSN,1948,Pacific Coast League,,F22209,Tost,,T,,,p42
+1949TSN,1948,Pacific Coast League,,P10202,Tost,,1,Sacramento,,p
+1949TSN,1948,Pacific Coast League,,P10202,Tost,,2,Oakland,,p
+1949TSN,1948,Pacific Coast League,,P10202,Tost,,T,,,P42p
+1949TSN,1948,Pacific Coast League,,B02100,Tote,James,0,Portland,,B25
+1949TSN,1948,Pacific Coast League,,F21705,Tote,,0,Portland,,p21
+1949TSN,1948,Pacific Coast League,,P10385,Tote,,0,Portland,,P21p
+1949TSN,1948,Pacific Coast League,,B01203,Tran,Ray,0,San Diego,,B25
+1949TSN,1948,Pacific Coast League,,F20759,Tran,,0,San Diego,,ss24
+1949TSN,1948,Pacific Coast League,,B01787,Trower,Donald,0,San Francisco,,B53
+1949TSN,1948,Pacific Coast League,,F20864,Trower,,0,San Francisco,,ss34
+1949TSN,1948,Pacific Coast League,,M90052,Turner,Jim,,Portland,,
 emilbb,1948,Pacific Coast League,,M90248,Turner,Jim,,Portland,,
+1949TSN,1948,Pacific Coast League,,B01663,Uhalt,Bernard B.,0,Oakland,,B25
+1949TSN,1948,Pacific Coast League,,F21343,Uhalt,,0,Oakland,,of17
+1949TSN,1948,Pacific Coast League,,B00293,Van Robays,Maurice,0,Oakland,,B87
+1949TSN,1948,Pacific Coast League,,F20206,Van Robays,,0,Oakland,,1b35
+1949TSN,1948,Pacific Coast League,,F21362,Van Robays,,0,Oakland,,of13
+1949TSN,1948,Pacific Coast League,,B01227,Venturelli,Angelo,0,San Diego,,B10
+1949TSN,1948,Pacific Coast League,,F22501,Venturelli,,0,San Diego,,p10
+1949TSN,1948,Pacific Coast League,,B02244,Wade,Jacob F.,0,San Diego,,B13
+1949TSN,1948,Pacific Coast League,,F22295,Wade,,0,San Diego,,p12
+1949TSN,1948,Pacific Coast League,,P10772,Wade,,0,San Diego,,P12p
+1949TSN,1948,Pacific Coast League,,B02176,Walden,Philip G.,0,San Diego,,B52
+1949TSN,1948,Pacific Coast League,,F22364,Walden,,0,San Diego,,p52
+1949TSN,1948,Pacific Coast League,,P10723,Walden,,0,San Diego,,P52p
+1949TSN,1948,Pacific Coast League,,B01674,Warner,James A.,0,Sacramento,,B51
+1949TSN,1948,Pacific Coast League,,F21158,Warner,,0,Sacramento,,of51
+1949TSN,1948,Pacific Coast League,,B00163,Warren,Jack C.,0,Seattle,,B14
+1949TSN,1948,Pacific Coast League,,F21403,Warren,,0,Seattle,,c10
+1949TSN,1948,Pacific Coast League,,B01490,Webber,Lester,0,Oakland,,B32
+1949TSN,1948,Pacific Coast League,,F22057,Webber,,0,Oakland,,p32
+1949TSN,1948,Pacific Coast League,,P10687,Webber,,0,Oakland,,P32p
+1949TSN,1948,Pacific Coast League,,B00973,Wells,Leo D.,1,Sacramento,,
+1949TSN,1948,Pacific Coast League,,B00973,Wells,Leo D.,2,San Diego,,
+1949TSN,1948,Pacific Coast League,,B00973,Wells,Leo D.,T,,,B151
+1949TSN,1948,Pacific Coast League,,F20721,Wells,,1,Sacramento,,ss
+1949TSN,1948,Pacific Coast League,,F20721,Wells,,2,San Diego,,ss
+1949TSN,1948,Pacific Coast League,,F20721,Wells,,T,,,ss145
+1949TSN,1948,Pacific Coast League,,B00854,Wenner,Richard P.,0,Portland,,B103
+1949TSN,1948,Pacific Coast League,,F21241,Wenner,,0,Portland,,of95
+1949TSN,1948,Pacific Coast League,,B01415,Werle,William,0,San Francisco,,B34
+1949TSN,1948,Pacific Coast League,,F22310,Werle,,0,San Francisco,,p34
+1949TSN,1948,Pacific Coast League,,P10056,Werle,,0,San Francisco,,P34p
+1949TSN,1948,Pacific Coast League,,B00356,White,Albert,1,Hollywood,,
+1949TSN,1948,Pacific Coast League,,B00356,White,Albert,2,Sacramento,,
+1949TSN,1948,Pacific Coast League,,B00356,White,Albert,T,,,B182
+1949TSN,1948,Pacific Coast League,,B00936,White,Joyner,0,Seattle,,B96
+1949TSN,1948,Pacific Coast League,,F21068,White,A.,1,Hollywood,,of
+1949TSN,1948,Pacific Coast League,,F21068,White,A.,2,Sacramento,,of
+1949TSN,1948,Pacific Coast League,,F21068,White,A.,T,,,of172
+1949TSN,1948,Pacific Coast League,,F21293,White,J.,0,Seattle,,of44
+1949TSN,1948,Pacific Coast League,,M90047,White,Joyner (JoJo),,Seattle,,
 emilbb,1948,Pacific Coast League,,M90236,White,Jo Jo,,Seattle,,
+1949TSN,1948,Pacific Coast League,,B01392,Wietelmann,Wm. F.,0,Sacramento,,B143
+1949TSN,1948,Pacific Coast League,,F20265,Wietelmann,,0,Sacramento,,1b10
+1949TSN,1948,Pacific Coast League,,F20334,Wietelmann,,0,Sacramento,,2b84
+1949TSN,1948,Pacific Coast League,,F20855,Wietelmann,,0,Sacramento,,ss50
+1949TSN,1948,Pacific Coast League,,B01064,Wilkie,Aldon,0,Oakland,,B42
+1949TSN,1948,Pacific Coast League,,F21887,Wilkie,,0,Oakland,,p41
+1949TSN,1948,Pacific Coast League,,P10228,Wilkie,,0,Oakland,,P41p
+1949TSN,1948,Pacific Coast League,,B01580,Williams,Robert H.,0,Sacramento,,B18
+1949TSN,1948,Pacific Coast League,,B01291,Wilson,William D.,0,Sacramento,,B16
+1949TSN,1948,Pacific Coast League,,F20908,Wilson,,0,Sacramento,,of15
+1949TSN,1948,Pacific Coast League,,B00037,Woodling,Eugene R.,0,San Francisco,,B146
+1949TSN,1948,Pacific Coast League,,F20981,Woodling,,0,San Francisco,,of143
+1949TSN,1948,Pacific Coast League,,B01812,Woods,George R.,0,Hollywood,,B45
+1949TSN,1948,Pacific Coast League,,F22191,Woods,,0,Hollywood,,p44
+1949TSN,1948,Pacific Coast League,,P10478,Woods,,0,Hollywood,,P44p
+1949TSN,1948,Pacific Coast League,,B02320,Wyatt,Kenneth,0,Portland,,B15
+1949TSN,1948,Pacific Coast League,,F22393,Wyatt,,0,Portland,,p16
+1949TSN,1948,Pacific Coast League,,B01156,York,Anthony B.,0,Seattle,,B166
+1949TSN,1948,Pacific Coast League,,F20303,York,,0,Seattle,,2b144
+1949TSN,1948,Pacific Coast League,,F20496,York,,0,Seattle,,3b16
+1949TSN,1948,Pacific Coast League,,B01242,Zak,Frank T.,0,Portland,,B152
+1949TSN,1948,Pacific Coast League,,F20699,Zak,,0,Portland,,ss149
+1949TSN,1948,Pacific Coast League,,B00210,Zernial,Gus E.,0,Hollywood,,B186
+1949TSN,1948,Pacific Coast League,,F21196,Zernial,,0,Hollywood,,of184
